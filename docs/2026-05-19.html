@@ -56,10 +56,10 @@
     font-family: 'Playfair Display', serif;
     font-weight: 900;
     font-size: 190px;
-    line-height: 0.85;
+    line-height: 0.78;
     color: #111;
     text-shadow: 3px 3px 0px rgba(0,0,0,0.08);
-    margin: 10px 0 6px;
+    margin: -36px 0 36px;
   }
 
   .weekday {
@@ -127,6 +127,16 @@
     font-style: italic;
   }
 
+  .astro-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 40px;
+  }
+
+  .astro-col .section-label {
+    margin-bottom: 6px;
+  }
+
   .year-progress {
     padding: 12px 24px;
     border-bottom: 1px solid #c9a227;
@@ -187,7 +197,7 @@
 
   .quote-text {
     font-family: 'Cormorant Garamond', serif;
-    font-size: 15px;
+    font-size: 18px;
     font-style: italic;
     color: #333;
     line-height: 1.6;
@@ -219,7 +229,7 @@
 
   .international-days {
     font-family: 'Cormorant Garamond', serif;
-    font-size: 13px;
+    font-size: 16px;
     color: #888;
     line-height: 1.7;
     font-style: italic;
@@ -275,37 +285,40 @@
   </div>
 
   <div class="section">
-    <div class="section-label">☀️ Sol · Barcelona</div>
-    <div class="data-row">
-      <span>Amanecer</span>
-      06:24
-    </div>
-    <div class="data-row">
-      <span>Atardecer</span>
-      21:11
-    </div>
-    <div class="data-row">
-      <span>⏱ Duración</span>
-      14h 47m 40s
-    </div>
-  </div>
-
-  <div class="section">
-    <div class="section-label">🌒 Luna · Fase creciente (7%)</div>
-    <div class="data-row">
-      <span>Salida</span>
-      08:21
-    </div>
-    <div class="data-row">
-      <span>Puesta</span>
-      00:48
+    <div class="astro-grid">
+      <div class="astro-col">
+        <div class="section-label">☀️ Sol · Barcelona</div>
+        <div class="data-row">
+          <span>Amanecer</span>
+          06:24
+        </div>
+        <div class="data-row">
+          <span>Atardecer</span>
+          21:11
+        </div>
+        <div class="data-row">
+          <span>⏱ Duración</span>
+          14h 47m 40s
+        </div>
+      </div>
+      <div class="astro-col">
+        <div class="section-label">🌒 Luna · Fase creciente (7%)</div>
+        <div class="data-row">
+          <span>Salida</span>
+          08:21
+        </div>
+        <div class="data-row">
+          <span>Puesta</span>
+          00:48
+        </div>
+      </div>
     </div>
   </div>
 
   <div class="saints">
     <div class="saints-header">✝ Santos de hoy ✝</div>
     <div class="saints-names">
-      San Celestino V · San Ivo de Bretaña<br>Santa Pudenciana
+      San Celestino V<br>San Ivo de Bretaña<br>Santa Pudenciana
     </div>
   </div>
 
@@ -315,7 +328,7 @@
   </div>
 
   <div class="footer">
-    <div class="buenos-dias">¡Buenos Días! 🌅</div>
+    <div class="buenos-dias">¡Buenos Días, Guapa! 🌅</div>
     <div class="international-days">
       Día Mundial de la Enfermedad Inflamatoria Intestinal<br>
       Día Mundial de la Hepatitis Autoinmune<br>
