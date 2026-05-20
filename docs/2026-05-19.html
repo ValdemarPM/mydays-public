@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>19 de Mayo · Martes</title>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Oswald:wght@400;600&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Oswald:wght@400;600&family=Crimson+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
 
@@ -15,7 +15,7 @@
     justify-content: center;
     align-items: flex-start;
     padding: 40px 20px;
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Crimson Pro', serif;
   }
 
   .card {
@@ -38,9 +38,34 @@
   }
 
   .header {
-    padding: 18px 24px 10px;
+    padding: 18px 18px 10px;
     text-align: center;
     border-bottom: 1px solid #c9a227;
+  }
+
+  .header-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 4px;
+  }
+
+  .nav-arrow {
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    color: #c9a227;
+    text-decoration: none;
+    padding: 0 4px;
+    line-height: 1;
+  }
+
+  .nav-arrow:hover {
+    color: #111;
+  }
+
+  .nav-arrow.hidden {
+    visibility: hidden;
+    pointer-events: none;
   }
 
   .month {
@@ -75,11 +100,11 @@
   .divider {
     height: 1px;
     background: #c9a227;
-    margin: 0 24px;
+    margin: 0 18px;
   }
 
   .section {
-    padding: 12px 24px;
+    padding: 12px 18px;
     border-bottom: 1px solid #c9a227;
   }
 
@@ -88,7 +113,7 @@
     font-size: 10px;
     letter-spacing: 3px;
     text-transform: uppercase;
-    color: #888;
+    color: #707070;
     margin-bottom: 8px;
   }
 
@@ -99,14 +124,14 @@
   }
 
   .data-item {
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 14px;
+    font-family: 'Crimson Pro', serif;
+    font-size: 15px;
     color: #111;
   }
 
   .data-item span {
-    color: #888;
-    font-size: 12px;
+    color: #707070;
+    font-size: 13px;
     display: block;
     font-style: italic;
   }
@@ -115,22 +140,22 @@
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 14px;
+    font-family: 'Crimson Pro', serif;
+    font-size: 15px;
     color: #111;
     margin-bottom: 4px;
   }
 
   .data-row span {
-    color: #888;
-    font-size: 12px;
+    color: #707070;
+    font-size: 13px;
     font-style: italic;
   }
 
   .astro-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 0 40px;
+    gap: 0 24px;
   }
 
   .astro-col .section-label {
@@ -138,7 +163,7 @@
   }
 
   .year-progress {
-    padding: 12px 24px;
+    padding: 12px 18px;
     border-bottom: 1px solid #c9a227;
   }
 
@@ -146,10 +171,10 @@
     display: flex;
     justify-content: space-between;
     font-family: 'Oswald', sans-serif;
-    font-size: 10px;
+    font-size: 12px;
     letter-spacing: 2px;
     text-transform: uppercase;
-    color: #888;
+    color: #707070;
     margin-bottom: 6px;
   }
 
@@ -168,35 +193,35 @@
   }
 
   .saints {
-    padding: 12px 24px;
+    padding: 12px 18px;
     border-bottom: 1px solid #c9a227;
     text-align: center;
   }
 
   .saints-header {
     font-family: 'Oswald', sans-serif;
-    font-size: 11px;
+    font-size: 12px;
     letter-spacing: 3px;
-    color: #888;
+    color: #707070;
     margin-bottom: 8px;
   }
 
   .saints-names {
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 15px;
+    font-family: 'Crimson Pro', serif;
+    font-size: 17px;
     font-weight: 600;
     color: #111;
-    line-height: 1.5;
+    line-height: 1.6;
   }
 
   .quote {
-    padding: 14px 24px;
+    padding: 14px 18px;
     border-bottom: 1px solid #c9a227;
     text-align: center;
   }
 
   .quote-text {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Crimson Pro', serif;
     font-size: 18px;
     font-style: italic;
     color: #333;
@@ -208,13 +233,13 @@
     font-family: 'Oswald', sans-serif;
     font-size: 10px;
     letter-spacing: 2px;
-    color: #888;
+    color: #707070;
     text-transform: uppercase;
   }
 
   .footer {
     background: #111;
-    padding: 20px 24px;
+    padding: 20px 2px;
     text-align: center;
   }
 
@@ -228,9 +253,9 @@
   }
 
   .international-days {
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 16px;
-    color: #888;
+    font-family: 'Crimson Pro', serif;
+    font-size: 17px;
+    color: #e9c67b;
     line-height: 1.7;
     font-style: italic;
   }
@@ -255,13 +280,17 @@
   <div class="border-top"></div>
 
   <div class="header">
-    <div class="month">Mayo · 2026</div>
+    <div class="header-nav">
+      <a class="nav-arrow hidden" aria-hidden="true">←</a>
+      <div class="month">Mayo · 2026</div>
+      <a href="2026-05-20.html" class="nav-arrow" title="Día siguiente">→</a>
+    </div>
     <div class="day-number">19</div>
     <div class="weekday">Martes</div>
   </div>
 
   <div class="section">
-    <div class="section-label">📅 Semana 21 del año</div>
+    <div class="section-label">📅 Semana <b>21</b> del año</div>
     <div class="data-grid">
       <div class="data-item">
         <span>Día del año</span>
@@ -297,7 +326,7 @@
           21:11
         </div>
         <div class="data-row">
-          <span>⏱ Duración</span>
+          <span>Duración</span>
           14h 47m 40s
         </div>
       </div>
@@ -328,7 +357,7 @@
   </div>
 
   <div class="footer">
-    <div class="buenos-dias">¡Buenos Días, Guapa! 🌅</div>
+    <div class="buenos-dias">¡Buenas Tardes, Guapa!<br>🌅</div>
     <div class="international-days">
       Día Mundial de la Enfermedad Inflamatoria Intestinal<br>
       Día Mundial de la Hepatitis Autoinmune<br>
