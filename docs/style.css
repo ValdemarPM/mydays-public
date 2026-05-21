@@ -1,4 +1,8 @@
-* { margin: 0; padding: 0; box-sizing: border-box; }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
 body {
   background: #0d0d0d;
@@ -21,6 +25,7 @@ body {
   background: #111;
   position: relative;
 }
+
 .border-top::after {
   content: '';
   display: block;
@@ -75,7 +80,7 @@ body {
   font-size: 190px;
   line-height: 0.78;
   color: #402400;
-  text-shadow: 3px 3px 0px rgba(0,0,0,0.08);
+  text-shadow: 3px 3px 0px rgba(0, 0, 0, 0.08);
   margin: -36px 0 36px;
 }
 
@@ -213,7 +218,7 @@ body {
 
 .quote-text {
   font-family: 'Crimson Pro', serif;
-  font-size: 18px;
+  font-size: 22px;
   font-style: italic;
   color: #333;
   line-height: 1.6;
@@ -256,6 +261,7 @@ body {
   background: #111;
   position: relative;
 }
+
 .border-bottom-deco::before {
   content: '';
   display: block;
