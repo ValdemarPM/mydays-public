@@ -236,7 +236,78 @@ handle data collection, publishing, and Telegram notification.
                                                         > > > > > > > >
                                                         > > > > > > > > ---
                                                         > > > > > > > >
-                                                        > > > > > > > > ## Troubleshooting
+                                                        > > > > > > > > 
+---
+
+## ⚠️ GitHub Web Editor — HTML Artifact Fix (Required)
+
+### The problem
+
+When Claude Chrome types or pastes indented HTML into the GitHub web editor, the
+CodeMirror 6 editor incorrectly appends the tag name as plain text after every closing
+tag. For example, `</div>` becomes `</div>div>`, and `</a>` becomes `</a>a>`.
+This affects **every HTML file created or edited** via the GitHub web editor and causes
+visible `div>` text to appear on the published page.
+
+This must be fixed on **both files** after every creation:
+- `docs/YYYY-MM-DD.html` — today's full card
+- `docs/YYYY-MM-DD+1.html` — tomorrow's stub
+
+### The fix — CodeMirror 6 API
+
+After committing each file, open it for editing and run this in the browser console
+(or via Claude Chrome's JavaScript tool):
+
+```javascript
+// Step 1: Get the CodeMirror 6 editor view
+const cmContent = document.querySelector('.cm-content');
+const tile = cmContent ? cmContent.cmTile : null;
+
+if (tile && tile.view) {
+  const view = tile.view;
+  const doc = view.state.doc.toString();
+
+  // Step 2: Remove all stray tag artifacts
+  const fixed = doc
+    .replace(/<\/div>div>/g, '</div>')
+    .replace(/<\/a>a>/g, '</a>')
+    .replace(/<\/html>html>/g, '</html>')
+    .replace(/<\/body><\/title>/g, '')
+    .trimEnd();
+
+  // Step 3: Truncate at </html> to remove any trailing junk
+  const htmlEnd = fixed.lastIndexOf('</html>');
+  const clean = htmlEnd !== -1 ? fixed.substring(0, htmlEnd + 7) : fixed;
+
+  // Step 4: Apply the fix
+  view.dispatch({
+    changes: { from: 0, to: view.state.doc.length, insert: clean }
+  });
+
+  console.log('Fixed. Removed ' + (doc.length - clean.length) + ' chars.');
+} else {
+  console.error('CodeMirror 6 view not found.');
+}
+```
+
+### When to run it
+
+Apply this fix **after committing each of the two HTML files**:
+
+1. Create `docs/YYYY-MM-DD.html` → commit → open for edit → run fix → commit again
+2. Create `docs/YYYY-MM-DD+1.html` → commit → open for edit → run fix → commit again
+
+Or more efficiently: after both files are committed, open each one for editing,
+run the script, and commit both fixes together.
+
+### Why not write locally?
+
+The artifact only occurs when using the **GitHub web editor**. If Claude Chrome can
+write files directly to disk (e.g. via a terminal or local file system access), the
+files will be clean and this fix is not needed. The local script approach in
+`scripts/generate_local.py` (see SETUP.md) is completely artifact-free.
+
+## Troubleshooting
                                                         > > > > > > > >
                                                         > > > > > > > > | Problem | Solution |
                                                         > > > > > > > > |---------|----------|
