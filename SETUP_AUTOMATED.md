@@ -117,7 +117,61 @@ handle data collection, publishing, and Telegram notification.
                                                      
                                                       - ---
 
-                                                      ## One-time local setup
+                                                      
+---
+
+## 🔒 Storing Credentials Privately (Telegram Bot Token & Chat ID)
+
+The `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID` must **never** be committed to the
+public repository. They are stored in a local `.env` file on your Mac that is
+gitignored and never pushed to GitHub.
+
+### One-time setup
+
+Create this file locally (never commit it):
+
+```
+/Users/valdemarpereiradematos/WorkProjects/Dev/calendar-days-template/.env
+```
+
+Contents:
+
+```bash
+TELEGRAM_BOT_TOKEN=your_bot_token_here
+TELEGRAM_CHAT_ID=1574220861
+```
+
+The `.gitignore` already includes `.env`, so it will never be accidentally pushed.
+
+### How Claude Chrome reads it
+
+The daily task prompt tells Claude Chrome to load the `.env` file before running the
+scripts. Claude Chrome reads the file from your local filesystem, exports the variables
+into the shell environment, and the `notify_telegram.py` script picks them up via
+`os.environ`.
+
+In the task prompt, this step looks like:
+
+```bash
+cd /Users/valdemarpereiradematos/WorkProjects/Dev/calendar-days-template
+source .venv/bin/activate
+export $(grep -v '^#' .env | xargs)   # load .env into environment
+python3 scripts/notify_telegram.py
+```
+
+### Why not GitHub Secrets?
+
+GitHub Secrets are only available inside GitHub Actions runners — they cannot be read
+by a local script or by Claude Chrome running on your Mac. The `.env` file approach
+keeps everything local and offline.
+
+### Security reminder
+
+- Never paste `TELEGRAM_BOT_TOKEN` into any public file, chat, or commit message
+- If the token is ever compromised, revoke it immediately via `@BotFather → /revoke`
+- The `.env` file should only exist on your trusted local machine
+
+## One-time local setup
 
                                                       ```bash
                                                       cd /Users/valdemarpereiradematos/WorkProjects/Dev/calendar-days-template
