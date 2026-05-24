@@ -25,12 +25,12 @@ handle data collection, publishing, and Telegram notification.
               ↓
          Commits & pushes to GitHub → GitHub Pages deploys automatically
 
-[Step 5] python3 scripts/notify_telegram.py YYYY-MM-DD
+[Step 5] GitHub Pages deployment completes
               ↓
-         Sends share link to Telegram via Bot API
+         Email sent automatically to valdemar.matos@gmail.com
 ```
 
-**Your daily routine: ask Claude Chrome "generate today's card" — it handles everything.**
+**Your daily routine: ask Claude Chrome "generate today's card" — you receive an email when the page is live.**
 
 ---
 
@@ -281,7 +281,7 @@ keeps everything local and offline.
                                                         > > > > > > > > ├── scripts/
                                                         > > > > > > > > │   ├── day_data.py                    ← Step 1: calculates today's data
                                                         > > > > > > > > │   ├── publish.py                     ← Step 4: commits & pushes to GitHub
-                                                        > > > > > > > > │   └── notify_telegram.py             ← Step 5: sends Telegram message
+                                                        > > > > > > > > │   └── publish.py already handles git push; email arrives via GitHub
                                                         > > > > > > > > ├── requirements.txt
                                                         > > > > > > > > ├── SETUP.md                           ← original GitHub Actions + Telegram workflow
                                                         > > > > > > > > ├── SETUP_LOCAL.md                     ← manual Claude Code workflow
@@ -379,7 +379,7 @@ files will be clean and this fix is not needed. The local script approach in
                                                         > > > > > > > > | Service | Cost |
                                                         > > > > > > > > |---------|------|
                                                         > > > > > > > > | Claude Chrome | Included in your Claude plan |
-                                                        > > > > > > > > | Telegram Bot API | Free |
+                                                        > > > > > > > > | GitHub deployment email | Free |
                                                         > > > > > > > > | GitHub Pages | Free |
                                                         > > > > > > > > | Anthropic API | **Not required** |
                                                         > > > > > > > >
