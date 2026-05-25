@@ -1,319 +1,159 @@
 # 📅 Calendar Days — Claude Chrome Automated Workflow
 
-A fully automated daily workflow powered by **Claude Chrome** — no Anthropic API key required locally.
-Claude Chrome acts as the intelligence that generates the HTML card, while lightweight Python scripts
-handle data collection, publishing, and Telegram notification.
+A fully automated daily workflow powered by Claude Chrome — no Anthropic API key required, no terminal, no local Python scripts. Claude Chrome acts as the intelligence that calculates the day data, generates the HTML card, and publishes it to GitHub Pages entirely through the browser.
 
 ---
 
 ## How it works
 
 ```
-[Step 1] python3 scripts/day_data.py
-              ↓
-         Astronomical & calendar data printed to terminal
+[Step 1] Claude Chrome calculates today's data
+         ↓
+         Day name, week, sunrise/sunset, moon phase, saints, quote, international days
 
-[Step 2] Claude Chrome reads the output
-              ↓
-         Formats data into the full HTML card design prompt
+[Step 2] Claude Chrome generates the HTML card
+         ↓
+         Full card for today + header-only stub for tomorrow
 
-[Step 3] Claude Chrome generates & saves:
-         docs/YYYY-MM-DD.html        ← today's full card
-         docs/YYYY-MM-DD+1.html      ← tomorrow's header-only stub
+[Step 3] Claude Chrome saves both files via the GitHub web editor
+         docs/YYYY-MM-DD.html     ← today's full card
+         docs/YYYY-MM-DD+1.html   ← tomorrow's header-only stub
 
-[Step 4] python3 scripts/publish.py docs/YYYY-MM-DD.html docs/YYYY-MM-DD+1.html
-              ↓
-         Commits & pushes to GitHub → GitHub Pages deploys automatically
-
-[Step 5] GitHub Pages deployment completes
-              ↓
-         Email sent automatically to valdemar.matos@gmail.com
+[Step 4] GitHub Pages deploys automatically (~1–2 min after push)
+         ↓
+         Deployment email sent automatically to valdemar.matos@gmail.com
 ```
 
-**Your daily routine: ask Claude Chrome "generate today's card" — you receive an email when the page is live.**
+**Your daily routine:** run the task (or ask Claude Chrome "make automated today") — you receive a GitHub deployment email when the page is live.
 
 ---
 
-## The 5 steps explained
+## The steps explained
 
-### Step 1 — Gather day data
-`scripts/day_data.py` calculates all the information needed for the card:
+### Step 1 — Calculate day data
+
+Claude Chrome calculates all the information needed for the card directly, without running any Python script:
+
 - Day name, month, week number, day of year, days remaining
-- - Sunrise, sunset, day duration (Barcelona, astronomical precision via `ephem`)
-  - - Moonrise, moonset, lunar phase percentage
-    - - Ordinal day name in Spanish
-     
-      - Claude Chrome runs this script and captures its output.
-     
-      - ### Step 2 — Prepare the HTML prompt
-      - Claude Chrome takes the data output and formats it into the full card design prompt:
-      - - Pergamino palette: background `#faf6ed`, black `#111`, gold `#c9a227`
-        - - Google Fonts: Playfair Display 900 (day number ~190px), Oswald (month/weekday), Cormorant Garamond (body)
-          - - Navigation arrows `←` / `→` flanking the month/year in the header
-            - - Real saints of the day, a verified historical quote, real international days
-              - - Black footer strip with "¡Buenos Días! 🌅" in gold
-                - - 420px card centered on `#0d0d0d` background
-                 
-                  - ### Step 3 — Generate & save the HTML
-                  - Claude Chrome generates two files:
-                 
-                  - **Today's full card** (`docs/YYYY-MM-DD.html`):
-                  - - Complete card with all sections
-                    - - `←` arrow linking to yesterday's card
-                      - - `→` arrow linking to tomorrow's stub
-                       
-                        - **Tomorrow's header-only stub** (`docs/YYYY-MM-DD+1.html`):
-                        - - Only the card header: month, day number, weekday
-                          - - `←` arrow linking back to today
-                            - - No `→` arrow (the day after tomorrow hasn't been created yet)
-                              - - Footer message: "— Tarjeta completa disponible mañana —"
-                               
-                                - Claude Chrome saves both files directly to the `docs/` directory.
-                               
-                                - ### Step 4 — Publish to GitHub Pages
-                                - ```bash
-                                  python3 scripts/publish.py docs/YYYY-MM-DD.html docs/YYYY-MM-DD+1.html
-                                  ```
-                                  This script:
-                                  - `git add` both files
-                                  - - `git commit -m "📅 Card YYYY-MM-DD"`
-                                    - - `git push` to main
-                                      - - GitHub Pages automatically deploys within ~1-2 minutes
-                                       
-                                        - The cards are then live at:
-                                        - ```
-                                          https://valdemarpm.github.io/calendar-days-template/YYYY-MM-DD.html
-                                          ```
+- Year progress percentage
+- Sunrise, sunset, day duration (Barcelona, ~41.38°N 2.17°E, estimated from seasonal progression)
+- Moonrise, moonset, lunar phase percentage
+- Real saints of the day (verified)
+- A verified historical quote
+- Real international observances for the date
 
-                                          ### Step 5 — Send Telegram notification
-                                          ```bash
-                                          python3 scripts/notify_telegram.py YYYY-MM-DD
-                                          ```
-                                          This script sends a message to your Telegram via the Bot API:
-                                          ```
-                                          📅 Buenos días
+### Step 2 — Generate the HTML card
 
-                                          Tu tarjeta del Sábado 23 de mayo está lista:
+Claude Chrome formats the data into two HTML files following the established design:
 
-                                          🔗 https://valdemarpm.github.io/calendar-days-template/2026-05-23.html
+- **Pergamino palette:** background `#faf6ed`, black `#111`, gold `#c9a227`
+- **Google Fonts:** Playfair Display 900 (day number), Oswald (month/weekday), Crimson Pro (body)
+- **Navigation arrows** ← / → flanking the month·year in the header
+- **Sections:** week/day-of-year, year progress bar, solar data, lunar data, saints, quote, footer
+- **Footer:** black strip with "¡Buenos Días, Guapa! 🌅" + international days
+- 420px card centred on `#0d0d0d` background
+- External stylesheet: `style.css` (shared, already in `docs/`)
 
-                                          Ábrela en el navegador y compártela desde ahí.
-                                          ```
+### Step 3 — Save files via GitHub web editor
 
-                                          Requires `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID` in your environment
-                                          (already added to GitHub → Settings → Secrets and variables → Actions).
+Claude Chrome uses the GitHub web editor to create or update the files:
 
-                                          ---
+**Today's full card** (`docs/YYYY-MM-DD.html`):
+- Complete card with all sections
+- `←` arrow linking to yesterday's card
+- `→` arrow linking to tomorrow's stub
 
-                                          ## Prerequisites
+**Tomorrow's header-only stub** (`docs/YYYY-MM-DD+1.html`):
+- Only the card header: month·year, day number, weekday
+- `←` arrow linking back to today
+- No `→` arrow (the day after tomorrow hasn't been created yet)
+- Footer message: `— Tarjeta completa disponible mañana —`
 
-                                          - Python 3.11+
-                                          - - `ephem` and `requests` installed in `.venv`
-                                            - - `TELEGRAM_BOT_TOKEN` set in environment or GitHub secrets
-                                              - - `TELEGRAM_CHAT_ID` set in environment or GitHub secrets
-                                                - - Git configured on main branch
-                                                  - - GitHub Pages enabled (Settings → Pages → main / /docs)
-                                                    - - Claude Chrome extension active
-                                                     
-                                                      - ---
+> ⚠️ **CodeMirror artifact fix required** — see section below.
 
-                                                      
+### Step 4 — GitHub Pages deploys automatically
+
+After each push to `main`, GitHub Pages rebuilds within ~1–2 minutes.  
+A deployment notification email is sent automatically to **valdemar.matos@gmail.com**.
+
+The cards are live at:
+```
+https://valdemarpm.github.io/calendar-days-template/YYYY-MM-DD.html
+```
+
 ---
 
-## 🔒 Storing Credentials Privately (Telegram Bot Token & Chat ID)
+## Daily Claude Chrome task prompt
 
-The `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID` must **never** be committed to the
-public repository. They are stored in a local `.env` file on your Mac that is
-gitignored and never pushed to GitHub.
+Use this prompt verbatim when setting up the recurring task, or when asking Claude Chrome to run the workflow manually:
 
-### One-time setup
+---
 
-Create this file locally (never commit it):
+> Today is a new day. Do the following steps **entirely through the GitHub web editor** at `github.com/ValdemarPM/calendar-days-template` — no terminal, no Python scripts.
+>
+> **Step 1 — Calculate today's data** (Barcelona timezone):
+> - Day name in Spanish, day number, month name
+> - ISO week number, day of year (1–365), days remaining, year progress %
+> - Sunrise & sunset for Barcelona (41.38°N, 2.17°E) — estimate from seasonal progression (~1 min/day change vs the previous card)
+> - Moon phase % and moonrise/moonset times
+> - Real saints of the day, a verified historical quote, real international observances for today's date
+>
+> **Step 2 — Replace today's stub with the full card**
+> Navigate to: `https://github.com/ValdemarPM/calendar-days-template/edit/main/docs/YYYY-MM-DD.html`
+> (today's date — this file already exists as a stub created yesterday)
+> Use the `javascript_tool` to replace the entire CodeMirror editor content with the full HTML card, matching the structure of the most recent full card in `docs/` exactly (same CSS classes, same sections). Navigation: `←` links to yesterday's card, `→` links to tomorrow's stub.
+> Commit with message: `📅 Card YYYY-MM-DD`
+>
+> **Step 3 — Apply the CodeMirror artifact fix to today's card**
+> Open the committed file again for editing and run this via `javascript_tool`:
+> ```js
+> const cmContent = document.querySelector('.cm-content');
+> const tile = cmContent?.cmTile;
+> if (tile?.view) {
+>   const view = tile.view;
+>   const doc = view.state.doc.toString();
+>   const fixed = doc
+>     .replace(/<\/div>div>/g, '<\/div>')
+>     .replace(/<\/a>a>/g, '<\/a>')
+>     .replace(/<\/html>html>/g, '<\/html>')
+>     .trimEnd();
+>   const end = fixed.lastIndexOf('<\/html>');
+>   view.dispatch({ changes: { from: 0, to: view.state.doc.length,
+>     insert: end !== -1 ? fixed.slice(0, end + 7) : fixed } });
+> }
+> ```
+> Commit with message: `📅 Fix YYYY-MM-DD.html — clean trailing artifact`
+>
+> **Step 4 — Create tomorrow's stub**
+> Navigate to: `https://github.com/ValdemarPM/calendar-days-template/new/main/docs`
+> Filename: `YYYY-MM-DD+1.html` (tomorrow's date)
+> Content: header-only stub — same structure as today's original stub. `←` links back to today, no `→` arrow, footer: `— Tarjeta completa disponible mañana —`.
+> Set content via `javascript_tool` (same `cmTile.view` approach).
+> Commit with message: `📅 Card YYYY-MM-DD+1 stub`
+>
+> **Step 5 — Apply the artifact fix to the stub**
+> Same fix as Step 3, applied to the stub file.
+> Commit with message: `📅 Fix YYYY-MM-DD+1.html stub — clean trailing artifact`
+>
+> **Step 6 — Confirm deployment**
+> Visit `https://github.com/ValdemarPM/calendar-days-template/deployments` and verify the latest deployment is Active.
+> Confirm the live URL: `https://valdemarpm.github.io/calendar-days-template/YYYY-MM-DD.html`
 
-```
-/Users/valdemarpereiradematos/WorkProjects/Dev/calendar-days-template/.env
-```
-
-Contents:
-
-```bash
-TELEGRAM_BOT_TOKEN=your_bot_token_here
-TELEGRAM_CHAT_ID=1574220861
-```
-
-The `.gitignore` already includes `.env`, so it will never be accidentally pushed.
-
-### How Claude Chrome reads it
-
-The daily task prompt tells Claude Chrome to load the `.env` file before running the
-scripts. Claude Chrome reads the file from your local filesystem, exports the variables
-into the shell environment, and the `notify_telegram.py` script picks them up via
-`os.environ`.
-
-In the task prompt, this step looks like:
-
-```bash
-cd /Users/valdemarpereiradematos/WorkProjects/Dev/calendar-days-template
-source .venv/bin/activate
-export $(grep -v '^#' .env | xargs)   # load .env into environment
-python3 scripts/notify_telegram.py
-```
-
-### Why not GitHub Secrets?
-
-GitHub Secrets are only available inside GitHub Actions runners — they cannot be read
-by a local script or by Claude Chrome running on your Mac. The `.env` file approach
-keeps everything local and offline.
-
-### Security reminder
-
-- Never paste `TELEGRAM_BOT_TOKEN` into any public file, chat, or commit message
-- If the token is ever compromised, revoke it immediately via `@BotFather → /revoke`
-- The `.env` file should only exist on your trusted local machine
-
-## One-time local setup
-
-                                                      ```bash
-                                                      cd /Users/valdemarpereiradematos/WorkProjects/Dev/calendar-days-template
-
-                                                      python3 -m venv .venv
-                                                      source .venv/bin/activate
-                                                      pip install ephem requests
-
-                                                      # Add to ~/.zshrc for persistence
-                                                      export TELEGRAM_BOT_TOKEN="your_bot_token_here"
-                                                      export TELEGRAM_CHAT_ID="1574220861"
-                                                      ```
-
-                                                      ---
-
-                                                      ## scripts/notify_telegram.py
-
-                                                      Create this file in your `scripts/` folder:
-
-                                                      ```python
-                                                      #!/usr/bin/env python3
-                                                      """
-                                                      notify_telegram.py — Send the daily card link to Telegram.
-                                                      Usage: python3 scripts/notify_telegram.py YYYY-MM-DD
-                                                      """
-
-                                                      import os
-                                                      import sys
-                                                      import requests
-                                                      from datetime import date
-
-                                                      TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
-                                                      TELEGRAM_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
-                                                      GITHUB_USER = "ValdemarPM"
-                                                      REPO_NAME = "calendar-days-template"
-
-                                                      def send(target_date: date):
-                                                          dias = ["Lunes","Martes","Miércoles","Jueves","Viernes","Sábado","Domingo"]
-                                                          meses = ["enero","febrero","marzo","abril","mayo","junio",
-                                                                   "julio","agosto","septiembre","octubre","noviembre","diciembre"]
-
-                                                          day_name = dias[target_date.weekday()]
-                                                          url_page = f"https://{GITHUB_USER}.github.io/{REPO_NAME}/{target_date.isoformat()}.html"
-
-                                                          text = (
-                                                              f"📅 *Buenos días*\n\n"
-                                                              f"Tu tarjeta del *{day_name} {target_date.day} de "
-                                                              f"{meses[target_date.month - 1]}* está lista:\n\n"
-                                                              f"🔗 {url_page}\n\n"
-                                                              f"_Ábrela en el navegador y compártela desde ahí._"
-                                                          )
-
-                                                          resp = requests.post(
-                                                              f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage",
-                                                              json={"chat_id": TELEGRAM_CHAT_ID, "text": text, "parse_mode": "Markdown"},
-                                                              timeout=10,
-                                                          )
-                                                          if resp.ok:
-                                                              print(f"✅ Telegram notificado: {url_page}")
-                                                          else:
-                                                              print(f"❌ Error Telegram: {resp.text}")
-
-                                                      if __name__ == "__main__":
-                                                          if len(sys.argv) > 1:
-                                                              from datetime import datetime
-                                                              d = datetime.strptime(sys.argv[1], "%Y-%m-%d").date()
-                                                          else:
-                                                              d = date.today()
-                                                          send(d)
-                                                      ```
-
-                                                      ---
-
-                                                      ## Navigation arrows — same rules as SETUP_LOCAL.md
-
-                                                      - `←` links to yesterday's full card
-                                                      - - `→` links to tomorrow's stub (created in the same run)
-                                                       
-                                                        - When you generate tomorrow's full card the next day, the stub is replaced with the
-                                                        - complete card and gains its own `→` arrow. The navigation chain stays intact automatically.
-                                                       
-                                                        - ---
-
-                                                        ## Daily Claude Chrome task prompt
-
-                                                        When converting this to a recurring Claude Chrome task, use this prompt:
-
-                                                        > Activate the virtual environment at `/Users/valdemarpereiradematos/WorkProjects/Dev/calendar-days-template/.venv`,
-                                                        > > then run `python3 scripts/day_data.py` to get today's astronomical data.
-                                                        > > > Use that data to generate today's full HTML calendar card and tomorrow's header-only stub,
-                                                        > > > > following the design in SETUP_AUTOMATED.md Step 2.
-                                                        > > > > > Save today's card as `docs/YYYY-MM-DD.html` and tomorrow's stub as `docs/YYYY-MM-DD+1.html`.
-                                                        > > > > > > Then run `python3 scripts/publish.py` with both files to push to GitHub Pages.
-                                                        > > > > > > > Finally run `python3 scripts/notify_telegram.py` to send the Telegram notification.
-                                                        > > > > > > > > Confirm the share link when done.
-                                                        > > > > > > > >
-                                                        > > > > > > > > ---
-                                                        > > > > > > > >
-                                                        > > > > > > > > ## Project structure
-                                                        > > > > > > > >
-                                                        > > > > > > > > ```
-                                                        > > > > > > > > calendar-days-template/
-                                                        > > > > > > > > ├── .github/workflows/daily-card.yml   ← not used in this workflow
-                                                        > > > > > > > > ├── docs/
-                                                        > > > > > > > > │   ├── index.html                     ← redirects to today's card
-                                                        > > > > > > > > │   └── YYYY-MM-DD.html               ← generated daily cards
-                                                        > > > > > > > > ├── scripts/
-                                                        > > > > > > > > │   ├── day_data.py                    ← Step 1: calculates today's data
-                                                        > > > > > > > > │   ├── publish.py                     ← Step 4: commits & pushes to GitHub
-                                                        > > > > > > > > │   └── publish.py already handles git push; email arrives via GitHub
-                                                        > > > > > > > > ├── requirements.txt
-                                                        > > > > > > > > ├── SETUP.md                           ← original GitHub Actions + Telegram workflow
-                                                        > > > > > > > > ├── SETUP_LOCAL.md                     ← manual Claude Code workflow
-                                                        > > > > > > > > └── SETUP_AUTOMATED.md                 ← this file: Claude Chrome workflow
-                                                        > > > > > > > > ```
-                                                        > > > > > > > >
-                                                        > > > > > > > > ---
-                                                        > > > > > > > >
-                                                        > > > > > > > > 
 ---
 
 ## ⚠️ GitHub Web Editor — HTML Artifact Fix (Required)
 
 ### The problem
 
-When Claude Chrome types or pastes indented HTML into the GitHub web editor, the
-CodeMirror 6 editor incorrectly appends the tag name as plain text after every closing
-tag. For example, `</div>` becomes `</div>div>`, and `</a>` becomes `</a>a>`.
-This affects **every HTML file created or edited** via the GitHub web editor and causes
-visible `div>` text to appear on the published page.
+When Claude Chrome sets indented HTML into the GitHub web editor via the `javascript_tool`, the CodeMirror 6 editor sometimes appends the tag name as plain text after every closing tag. For example, `</div>` becomes `</div>div>`, and `</a>` becomes `</a>a>`. This causes visible `div>` text to appear on the published page.
 
-This must be fixed on **both files** after every creation:
-- `docs/YYYY-MM-DD.html` — today's full card
-- `docs/YYYY-MM-DD+1.html` — tomorrow's stub
+This must be fixed on **both files** after every creation.
 
 ### The fix — CodeMirror 6 API
 
-After committing each file, open it for editing and run this in the browser console
-(or via Claude Chrome's JavaScript tool):
+After committing each file, open it for editing and run this via `javascript_tool`:
 
-```javascript
-// Step 1: Get the CodeMirror 6 editor view
+```js
 const cmContent = document.querySelector('.cm-content');
 const tile = cmContent ? cmContent.cmTile : null;
 
@@ -321,19 +161,16 @@ if (tile && tile.view) {
   const view = tile.view;
   const doc = view.state.doc.toString();
 
-  // Step 2: Remove all stray tag artifacts
   const fixed = doc
-    .replace(/<\/div>div>/g, '</div>')
-    .replace(/<\/a>a>/g, '</a>')
-    .replace(/<\/html>html>/g, '</html>')
+    .replace(/<\/div>div>/g, '<\/div>')
+    .replace(/<\/a>a>/g, '<\/a>')
+    .replace(/<\/html>html>/g, '<\/html>')
     .replace(/<\/body><\/title>/g, '')
     .trimEnd();
 
-  // Step 3: Truncate at </html> to remove any trailing junk
-  const htmlEnd = fixed.lastIndexOf('</html>');
+  const htmlEnd = fixed.lastIndexOf('<\/html>');
   const clean = htmlEnd !== -1 ? fixed.substring(0, htmlEnd + 7) : fixed;
 
-  // Step 4: Apply the fix
   view.dispatch({
     changes: { from: 0, to: view.state.doc.length, insert: clean }
   });
@@ -346,43 +183,67 @@ if (tile && tile.view) {
 
 ### When to run it
 
-Apply this fix **after committing each of the two HTML files**:
-
 1. Create `docs/YYYY-MM-DD.html` → commit → open for edit → run fix → commit again
 2. Create `docs/YYYY-MM-DD+1.html` → commit → open for edit → run fix → commit again
 
-Or more efficiently: after both files are committed, open each one for editing,
-run the script, and commit both fixes together.
+---
 
-### Why not write locally?
+## Navigation arrow rules
 
-The artifact only occurs when using the **GitHub web editor**. If Claude Chrome can
-write files directly to disk (e.g. via a terminal or local file system access), the
-files will be clean and this fix is not needed. The local script approach in
-`scripts/generate_local.py` (see SETUP.md) is completely artifact-free.
+- `←` always links to yesterday's full card
+- `→` always links to tomorrow's stub (created in the same run)
+- When tomorrow's full card is generated the next day, the stub is replaced and gains its own `→` arrow — the navigation chain stays intact automatically
+
+---
+
+## Project structure
+
+```
+calendar-days-template/
+├── .github/workflows/daily-card.yml  ← not used in this workflow
+├── docs/
+│   ├── index.html                    ← redirects to today's card
+│   ├── style.css                     ← shared stylesheet (do not modify daily)
+│   └── YYYY-MM-DD.html               ← generated daily cards
+├── scripts/
+│   ├── day_data.py                   ← reference only (not run by Claude Chrome)
+│   ├── generate.py                   ← reference only (not run by Claude Chrome)
+│   └── publish.py                    ← reference only (not run by Claude Chrome)
+├── requirements.txt
+├── SETUP.md                          ← original GitHub Actions + API workflow
+├── SETUP_LOCAL.md                    ← manual Claude Code workflow
+└── SETUP_AUTOMATED.md                ← this file: Claude Chrome browser workflow
+```
+
+---
+
+## Notifications
+
+GitHub Pages sends a deployment email automatically to **valdemar.matos@gmail.com** every time a push to `main` triggers a new deployment. No additional configuration needed — this is the signal that the card is live.
+
+---
 
 ## Troubleshooting
-                                                        > > > > > > > >
-                                                        > > > > > > > > | Problem | Solution |
-                                                        > > > > > > > > |---------|----------|
-                                                        > > > > > > > > | `ephem` not found | `pip install ephem` inside `.venv` |
-                                                        > > > > > > > > | `requests` not found | `pip install requests` inside `.venv` |
-                                                        > > > > > > > > | `TELEGRAM_BOT_TOKEN` not set | Add to `~/.zshrc` and run `source ~/.zshrc` |
-                                                        > > > > > > > > | Telegram message not received | Verify bot is started — send `/start` to `@calendar_days_valdemar_bot` |
-                                                        > > > > > > > > | Git push fails | Check you are on `main` branch and have internet access |
-                                                        > > > > > > > > | Page not updating | Wait ~1-2 min after push for GitHub Pages to redeploy |
-                                                        > > > > > > > >
-                                                        > > > > > > > > ---
-                                                        > > > > > > > >
-                                                        > > > > > > > > ## Cost
-                                                        > > > > > > > >
-                                                        > > > > > > > > | Service | Cost |
-                                                        > > > > > > > > |---------|------|
-                                                        > > > > > > > > | Claude Chrome | Included in your Claude plan |
-                                                        > > > > > > > > | GitHub deployment email | Free |
-                                                        > > > > > > > > | GitHub Pages | Free |
-                                                        > > > > > > > > | Anthropic API | **Not required** |
-                                                        > > > > > > > >
-                                                        > > > > > > > > ---
-                                                        > > > > > > > >
-                                                        > > > > > > > > *Document updated for the `calendar-days-template` project · May 2026*
+
+| Problem | Solution |
+|---------|----------|
+| Stub file doesn't exist yet | Create it manually via `https://github.com/ValdemarPM/calendar-days-template/new/main/docs` |
+| `cmTile.view` not found | Wait for the editor to fully load before running the JS fix |
+| Page not updating | Wait ~1–2 min after push for GitHub Pages to redeploy |
+| Artifact text visible on page | Run the CodeMirror fix and recommit |
+| Deployment email not received | Check GitHub Settings → Notifications → Email |
+
+---
+
+## Cost
+
+| Service | Cost |
+|---------|------|
+| Claude Chrome | Included in your Claude plan |
+| GitHub deployment email | Free |
+| GitHub Pages | Free |
+| Anthropic API | **Not required** |
+
+---
+
+*Document updated for the `calendar-days-template` project · May 2026*
