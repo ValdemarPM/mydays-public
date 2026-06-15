@@ -5,66 +5,56 @@
       {
         "name": "San Vito",
         "type": "Mártir",
-        "description": "Joven mártir cristiano de la época romana, venerado como uno de los catorce Santos Auxiliadores. Es invocado contra la epilepsia, la corea de Sydenham y las mordeduras de animales rabiosos."
+        "description": "Fue un niño mártir siciliano, venerado como patrón de bailarines, actores y epilépticos, y forma parte de los Catorce Santos Auxiliares."
       },
       {
-        "name": "Santa Germana Cousin",
-        "type": "Virgen",
-        "description": "Una joven pastora francesa del siglo XVI, conocida por su profunda fe y caridad a pesar de una infancia de sufrimiento y maltrato. Es patrona de las víctimas de abuso y de las personas olvidadas."
-      },
-      {
-        "name": "San Modesto y Santa Crescencia",
-        "type": "Mártires",
-        "description": "A menudo venerados junto a San Vito, se les considera sus tutores que también sufrieron martirio por su fe cristiana durante las persecuciones romanas."
+        "name": "San Benito de Aniane",
+        "type": "Abad",
+        "description": "Un reformador monástico influyente durante el reinado de Carlomagno, conocido por promover la Regla de San Benito y unificar la vida monástica en el Imperio Carolingio."
       }
     ],
     "observances": [
       {
         "name": "Día Mundial de Toma de Conciencia del Abuso y Maltrato en la Vejez",
-        "description": "Una jornada internacional promovida por las Naciones Unidas para sensibilizar sobre el abuso y el abandono de las personas mayores, buscando su respeto y bienestar."
+        "description": "Establecido por la ONU, busca generar conciencia sobre las diversas formas de abuso y maltrato que sufren las personas mayores, promoviendo su dignidad y derechos."
       },
       {
-        "name": "Día Global del Viento",
-        "description": "Una celebración mundial dedicada a descubrir el poder del viento y sus posibilidades para remodelar nuestros sistemas energéticos, promoviendo la energía eólica como fuente limpia y sostenible."
+        "name": "Día Mundial del Viento",
+        "description": "Una iniciativa para promover la energía eólica como fuente de energía limpia y renovable, educando sobre su potencial y beneficios para un futuro sostenible."
       }
     ],
     "historicalQuote": {
-      "text": "No es la realidad, sino la imagen de la realidad, lo que nos conmueve.",
-      "author": "M.C. Escher",
-      "context": "M.C. Escher, el renombrado artista gráfico neerlandés conocido por sus grabados que desafían la perspectiva y la lógica con sus mundos imposibles, nació en esta fecha en 1898. Su obra invita a reflexionar sobre la percepción y la naturaleza de la realidad."
+      "text": "Ningún hombre libre será arrestado o encarcelado o privado de sus derechos o de sus bienes, ni declarado fuera de la ley ni exiliado ni molestado de ninguna forma, salvo por el juicio legal de sus iguales o por la ley del país.",
+      "author": "Carta Magna",
+      "context": "Este texto fundamental de la libertad es una de las cláusulas más célebres de la Carta Magna, un documento que el Rey Juan de Inglaterra selló el 15 de junio de 1215. Estableció principios del debido proceso y limitó el poder monárquico, sentando las bases de la democracia constitucional y el estado de derecho."
     },
     "births": [
       {
-        "name": "Edvard Grieg",
-        "description": "Compositor y pianista noruego, una figura destacada de la música romántica. Es célebre por su música con inspiración en el folclore noruego, incluyendo la suite 'Peer Gynt' y el Concierto para piano en la menor.",
-        "year": "1843"
+        "name": "Erik Erikson",
+        "description": "Psicoanalista germano-estadounidense, conocido por su influyente teoría del desarrollo psicosocial y el concepto de la 'crisis de identidad', que ha enriquecido profundamente la psicología del desarrollo.",
+        "year": "1902"
       },
       {
-        "name": "M.C. Escher",
-        "description": "Artista gráfico neerlandés, famoso por sus xilografías, litografías y mezzotintas que presentan construcciones imposibles, exploración del infinito y arquitecturas paradójicas, cautivando al público con su ingenio visual.",
-        "year": "1898"
-      },
-      {
-        "name": "Helen Hunt",
-        "description": "Actriz, directora y guionista estadounidense, ganadora de un Premio Óscar, cuatro Premios Emmy y cuatro Globos de Oro. Reconocida por sus papeles en películas como 'Mejor Imposible' y la serie 'Mad About You'.",
-        "year": "1963"
+        "name": "Mario Cuomo",
+        "description": "Político estadounidense y exgobernador de Nueva York, reconocido por su elocuencia, sus políticas progresistas y su destacada carrera pública que marcó una era en la política de su estado.",
+        "year": "1932"
       }
     ],
     "events": [
       {
-        "title": "Firma de la Carta Magna en Inglaterra",
-        "description": "El rey Juan de Inglaterra se vio obligado a firmar la Carta Magna, un documento histórico que limitó el poder del monarca y sentó las bases del derecho constitucional moderno y la protección de los derechos individuales.",
+        "title": "Se sella la Carta Magna",
+        "description": "El Rey Juan de Inglaterra sella la Carta Magna en Runnymede, un documento histórico que estableció límites al poder real y garantizó derechos fundamentales, convirtiéndose en un pilar de las libertades constitucionales.",
         "year": "1215"
       },
       {
         "title": "Primer vuelo transatlántico sin escalas",
-        "description": "Los aviadores británicos John Alcock y Arthur Whitten Brown completaron con éxito el primer vuelo transatlántico sin escalas, partiendo de Terranova y aterrizando en Irlanda, un hito pionero en la historia de la aviación.",
+        "description": "Los aviadores británicos John Alcock y Arthur Brown completan con éxito el primer vuelo transatlántico sin escalas a bordo de un Vickers Vimy, marcando un hito extraordinario en la historia de la aviación.",
         "year": "1919"
       },
       {
-        "title": "Firma del Tratado de Oregón",
-        "description": "Estados Unidos y Gran Bretaña firmaron el Tratado de Oregón, estableciendo pacíficamente la frontera entre el territorio de Oregón y la América del Norte británica (Canadá actual) a lo largo del paralelo 49.",
-        "year": "1846"
+        "title": "Charles Goodyear patenta el caucho vulcanizado",
+        "description": "El inventor estadounidense Charles Goodyear recibe una patente por su revolucionario proceso de vulcanización del caucho, una innovación que transformó la industria y la fabricación de innumerables productos.",
+        "year": "1843"
       }
     ]
   },
@@ -73,56 +63,61 @@
       {
         "name": "St. Vitus",
         "type": "Martyr",
-        "description": "A young Roman Christian martyred during the Diocletianic Persecution around 303 AD. He is venerated as one of the Fourteen Holy Helpers and is the patron saint of actors, dancers, and epileptics."
+        "description": "An early Christian martyr, often invoked as one of the Fourteen Holy Helpers, St. Vitus is traditionally associated with healing and is the patron saint of dancers and those suffering from epilepsy."
       },
       {
-        "name": "St. Benedict the Moor",
-        "type": "Confessor/Friar",
-        "description": "An African-Sicilian Franciscan friar known for his profound humility, unwavering charity, and miraculous cures. Despite his illiteracy, he served as a cook and later superior in his friary in Palermo before his death in 1589."
+        "name": "St. Germaine Cousin",
+        "type": "Virgin",
+        "description": "A French peasant girl (1579-1601) who, despite being born with deformities and suffering neglect and abuse, lived a life of deep faith and charity, becoming a patroness of abandoned people and the disabled."
       }
     ],
     "observances": [
       {
         "name": "World Elder Abuse Awareness Day",
-        "description": "This day is dedicated to raising global awareness of elder abuse and promoting a better understanding of the cultural, social, economic, and demographic processes affecting elder abuse and neglect."
+        "description": "Recognized by the United Nations, this day aims to raise global awareness of the cultural, social, economic, and demographic processes affecting elder abuse and neglect."
       },
       {
         "name": "Global Wind Day",
-        "description": "An international day to discover wind energy, its power, and the possibilities it offers to reshape energy systems and address climate change."
+        "description": "An international day for discovering wind energy, promoting its power and the ways it can reshape energy systems, celebrated through events worldwide."
       }
     ],
     "historicalQuote": {
-      "text": "No free man shall be seized or imprisoned, or stripped of his rights or possessions, or outlawed or exiled, or deprived of his standing in any other way, nor will we proceed with force against him, or send others to do so, except by the lawful judgement of his equals or by the law of the land.",
-      "author": "Magna Carta",
-      "context": "King John of England affixed his seal to the Magna Carta at Runnymede on June 15, 1215. This seminal document established fundamental rights and limited monarchical power, laying the groundwork for constitutional law and individual liberties worldwide."
+      "text": "No free man shall be seized or imprisoned, or stripped of his rights or possessions, or outlawed or exiled, or deprived of his standing in any other way, nor will we proceed with force against him, or send others to do so, except by the lawful judgment of his equals or by the law of the land.",
+      "author": "The Magna Carta (King John I)",
+      "context": "This powerful statement is a clause from the Magna Carta, a historic document sealed by King John I of England on June 15, 1215. It established fundamental principles of individual rights and limited monarchical power, serving as a cornerstone for constitutional law worldwide."
     },
     "births": [
       {
         "name": "Edvard Grieg",
-        "description": "A renowned Norwegian composer and pianist, known for his Piano Concerto in A minor and the incidental music for Ibsen's play 'Peer Gynt,' which includes the famous 'Morning Mood' and 'In the Hall of the Mountain King'.",
+        "description": "A celebrated Norwegian composer and pianist, Grieg (1843-1907) is best known for his Piano Concerto in A minor, the Peer Gynt incidental music, and his lyrical piano pieces that embody Norwegian folk traditions.",
         "year": "1843"
       },
       {
-        "name": "Neil Patrick Harris",
-        "description": "An acclaimed American actor, singer, and comedian, widely recognized for his roles as Barney Stinson in the sitcom 'How I Met Your Mother' and as the titular character in 'Doogie Howser, M.D.', as well as his successful career on Broadway.",
-        "year": "1973"
+        "name": "Helen Hunt",
+        "description": "An acclaimed American actress, director, and screenwriter, Hunt (born 1963) has won multiple awards, including an Academy Award for Best Actress for 'As Good as It Gets' and four Emmy Awards for her role in 'Mad About You'.",
+        "year": "1963"
+      },
+      {
+        "name": "Ice Cube",
+        "description": "An influential American rapper, actor, and filmmaker, Ice Cube (born O'Shea Jackson Sr., 1969) rose to fame as a member of N.W.A, pioneered gangsta rap, and has built a successful career in film, starring in and producing numerous hit movies.",
+        "year": "1969"
       }
     ],
     "events": [
       {
-        "title": "Magna Carta Signed",
-        "description": "King John of England signed the Magna Carta at Runnymede, a pivotal moment in history that established fundamental principles of justice, individual rights, and the rule of law, profoundly influencing future legal systems globally.",
+        "title": "Magna Carta Sealed",
+        "description": "On June 15, 1215, King John of England sealed the Magna Carta, a foundational document that asserted legal rights and limited the power of the monarch, inspiring constitutional law and human rights movements globally.",
         "year": "1215"
       },
       {
-        "title": "First Non-Stop Transatlantic Flight Completed",
-        "description": "British aviators John Alcock and Arthur Whitten Brown successfully completed the first non-stop transatlantic flight, flying a Vickers Vimy bomber from St. John's, Newfoundland, to Clifden, Ireland, in just over 16 hours.",
+        "title": "First Non-stop Transatlantic Flight Completed",
+        "description": "In a remarkable feat of aviation, John Alcock and Arthur Brown completed the first non-stop transatlantic flight on June 15, 1919, flying from Newfoundland to Ireland and demonstrating the boundless potential of air travel.",
         "year": "1919"
       },
       {
-        "title": "Introduction of the LP Record",
-        "description": "Columbia Records publicly introduced the first commercially successful long-playing (LP) microgroove record in New York City, revolutionizing the music industry by allowing longer recordings on a single disc and enhancing audio fidelity.",
-        "year": "1948"
+        "title": "Space Shuttle Endeavour's Maiden Voyage",
+        "description": "The Space Shuttle Endeavour successfully completed its maiden flight, STS-49, on June 15, 1992, marking a significant milestone in space exploration and demonstrating advanced capabilities for repairing satellites in orbit.",
+        "year": "1992"
       }
     ]
   }
