@@ -1,5 +1,129 @@
 {
-  "date": "placeholder",
-  "es": {},
-  "en": {}
+  "date": "2026-06-15",
+  "es": {
+    "saints": [
+      {
+        "name": "San Vito",
+        "type": "Mártir",
+        "description": "Joven mártir cristiano de la época romana, venerado como uno de los catorce Santos Auxiliadores. Es invocado contra la epilepsia, la corea de Sydenham y las mordeduras de animales rabiosos."
+      },
+      {
+        "name": "Santa Germana Cousin",
+        "type": "Virgen",
+        "description": "Una joven pastora francesa del siglo XVI, conocida por su profunda fe y caridad a pesar de una infancia de sufrimiento y maltrato. Es patrona de las víctimas de abuso y de las personas olvidadas."
+      },
+      {
+        "name": "San Modesto y Santa Crescencia",
+        "type": "Mártires",
+        "description": "A menudo venerados junto a San Vito, se les considera sus tutores que también sufrieron martirio por su fe cristiana durante las persecuciones romanas."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de Toma de Conciencia del Abuso y Maltrato en la Vejez",
+        "description": "Una jornada internacional promovida por las Naciones Unidas para sensibilizar sobre el abuso y el abandono de las personas mayores, buscando su respeto y bienestar."
+      },
+      {
+        "name": "Día Global del Viento",
+        "description": "Una celebración mundial dedicada a descubrir el poder del viento y sus posibilidades para remodelar nuestros sistemas energéticos, promoviendo la energía eólica como fuente limpia y sostenible."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No es la realidad, sino la imagen de la realidad, lo que nos conmueve.",
+      "author": "M.C. Escher",
+      "context": "M.C. Escher, el renombrado artista gráfico neerlandés conocido por sus grabados que desafían la perspectiva y la lógica con sus mundos imposibles, nació en esta fecha en 1898. Su obra invita a reflexionar sobre la percepción y la naturaleza de la realidad."
+    },
+    "births": [
+      {
+        "name": "Edvard Grieg",
+        "description": "Compositor y pianista noruego, una figura destacada de la música romántica. Es célebre por su música con inspiración en el folclore noruego, incluyendo la suite 'Peer Gynt' y el Concierto para piano en la menor.",
+        "year": "1843"
+      },
+      {
+        "name": "M.C. Escher",
+        "description": "Artista gráfico neerlandés, famoso por sus xilografías, litografías y mezzotintas que presentan construcciones imposibles, exploración del infinito y arquitecturas paradójicas, cautivando al público con su ingenio visual.",
+        "year": "1898"
+      },
+      {
+        "name": "Helen Hunt",
+        "description": "Actriz, directora y guionista estadounidense, ganadora de un Premio Óscar, cuatro Premios Emmy y cuatro Globos de Oro. Reconocida por sus papeles en películas como 'Mejor Imposible' y la serie 'Mad About You'.",
+        "year": "1963"
+      }
+    ],
+    "events": [
+      {
+        "title": "Firma de la Carta Magna en Inglaterra",
+        "description": "El rey Juan de Inglaterra se vio obligado a firmar la Carta Magna, un documento histórico que limitó el poder del monarca y sentó las bases del derecho constitucional moderno y la protección de los derechos individuales.",
+        "year": "1215"
+      },
+      {
+        "title": "Primer vuelo transatlántico sin escalas",
+        "description": "Los aviadores británicos John Alcock y Arthur Whitten Brown completaron con éxito el primer vuelo transatlántico sin escalas, partiendo de Terranova y aterrizando en Irlanda, un hito pionero en la historia de la aviación.",
+        "year": "1919"
+      },
+      {
+        "title": "Firma del Tratado de Oregón",
+        "description": "Estados Unidos y Gran Bretaña firmaron el Tratado de Oregón, estableciendo pacíficamente la frontera entre el territorio de Oregón y la América del Norte británica (Canadá actual) a lo largo del paralelo 49.",
+        "year": "1846"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Vitus",
+        "type": "Martyr",
+        "description": "A young Roman Christian martyred during the Diocletianic Persecution around 303 AD. He is venerated as one of the Fourteen Holy Helpers and is the patron saint of actors, dancers, and epileptics."
+      },
+      {
+        "name": "St. Benedict the Moor",
+        "type": "Confessor/Friar",
+        "description": "An African-Sicilian Franciscan friar known for his profound humility, unwavering charity, and miraculous cures. Despite his illiteracy, he served as a cook and later superior in his friary in Palermo before his death in 1589."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Elder Abuse Awareness Day",
+        "description": "This day is dedicated to raising global awareness of elder abuse and promoting a better understanding of the cultural, social, economic, and demographic processes affecting elder abuse and neglect."
+      },
+      {
+        "name": "Global Wind Day",
+        "description": "An international day to discover wind energy, its power, and the possibilities it offers to reshape energy systems and address climate change."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No free man shall be seized or imprisoned, or stripped of his rights or possessions, or outlawed or exiled, or deprived of his standing in any other way, nor will we proceed with force against him, or send others to do so, except by the lawful judgement of his equals or by the law of the land.",
+      "author": "Magna Carta",
+      "context": "King John of England affixed his seal to the Magna Carta at Runnymede on June 15, 1215. This seminal document established fundamental rights and limited monarchical power, laying the groundwork for constitutional law and individual liberties worldwide."
+    },
+    "births": [
+      {
+        "name": "Edvard Grieg",
+        "description": "A renowned Norwegian composer and pianist, known for his Piano Concerto in A minor and the incidental music for Ibsen's play 'Peer Gynt,' which includes the famous 'Morning Mood' and 'In the Hall of the Mountain King'.",
+        "year": "1843"
+      },
+      {
+        "name": "Neil Patrick Harris",
+        "description": "An acclaimed American actor, singer, and comedian, widely recognized for his roles as Barney Stinson in the sitcom 'How I Met Your Mother' and as the titular character in 'Doogie Howser, M.D.', as well as his successful career on Broadway.",
+        "year": "1973"
+      }
+    ],
+    "events": [
+      {
+        "title": "Magna Carta Signed",
+        "description": "King John of England signed the Magna Carta at Runnymede, a pivotal moment in history that established fundamental principles of justice, individual rights, and the rule of law, profoundly influencing future legal systems globally.",
+        "year": "1215"
+      },
+      {
+        "title": "First Non-Stop Transatlantic Flight Completed",
+        "description": "British aviators John Alcock and Arthur Whitten Brown successfully completed the first non-stop transatlantic flight, flying a Vickers Vimy bomber from St. John's, Newfoundland, to Clifden, Ireland, in just over 16 hours.",
+        "year": "1919"
+      },
+      {
+        "title": "Introduction of the LP Record",
+        "description": "Columbia Records publicly introduced the first commercially successful long-playing (LP) microgroove record in New York City, revolutionizing the music industry by allowing longer recordings on a single disc and enhancing audio fidelity.",
+        "year": "1948"
+      }
+    ]
+  }
 }
