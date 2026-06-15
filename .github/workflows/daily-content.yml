@@ -1,0 +1,34 @@
+name: Generate daily content
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # Runs every day at 06:00 UTC
+  workflow_dispatch:        # Allows manual trigger for testing
+
+permissions:
+  contents: write           # Required to commit and push daily.json
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate content for ES and EN
+        run: node scripts/generate-content.js
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Commit and push if content changed
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add content/daily.json
+          git diff --staged --quiet && echo "No changes to commit" || (git commit -m "chore: daily content update $(date -u +%Y-%m-%d)" && git push)
