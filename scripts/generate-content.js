@@ -61,7 +61,8 @@ async function callGemini(dateString, language) {
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
       contents: [{ parts: [{ text: buildPrompt(dateString, language) }] }],
-      tools: [{ google_search_retrieval: {} }],
+      tools: [{ google_search: {} }],
+      generationConfig: { maxOutputTokens: 8192 },
     }),
   });
 
@@ -71,14 +72,22 @@ async function callGemini(dateString, language) {
   }
 
   const data = await response.json();
-  const text = data?.candidates?.[0]?.content?.parts?.[0]?.text;
+  const parts = data?.candidates?.[0]?.content?.parts ?? [];
+  const text = parts.filter(p => p.text).map(p => p.text).join('');
 
   if (!text) {
     throw new Error(`Unexpected Gemini response structure for language "${language}": ${JSON.stringify(data)}`);
   }
 
-  const cleaned = text.trim().replace(/^```(?:json)?\n?/, '').replace(/\n?```$/, '');
-  return JSON.parse(cleaned);
+  // Strip markdown fences; fall back to extracting the first {...} block
+  const fenceStripped = text.trim().replace(/^```(?:json)?\n?/, '').replace(/\n?```$/, '');
+  const jsonMatch = fenceStripped.match(/\{[\s\S]*\}/);
+  const cleaned = jsonMatch ? jsonMatch[0] : fenceStripped;
+  try {
+    return JSON.parse(cleaned);
+  } catch (parseErr) {
+    throw new Error(`JSON parse failed for language "${language}": ${parseErr.message}\nRaw text (first 500): ${text.slice(0, 500)}`);
+  }
 }
 
 async function main() {
