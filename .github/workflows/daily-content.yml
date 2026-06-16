@@ -2,7 +2,7 @@ name: Generate daily content
 
 on:
   schedule:
-    - cron: '0 6 * * *'   # Runs every day at 06:00 UTC
+    - cron: '0 10 * * *'  # Runs every day at 10:00 UTC = 00:00 UTC+14 (first timezone on Earth)
   workflow_dispatch:        # Allows manual trigger for testing
 
 permissions:
