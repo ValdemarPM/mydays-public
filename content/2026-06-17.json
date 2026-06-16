@@ -3,127 +3,127 @@
   "es": {
     "saints": [
       {
+        "name": "San Gregorio Barbarigo",
+        "type": "Cardenal y Obispo",
+        "description": "Fue un cardenal y obispo italiano del siglo XVII, conocido por sus profundas reformas pastorales en la diócesis de Padua, su compromiso con la educación y su promoción de la vida religiosa."
+      },
+      {
         "name": "San Alberto Chmielowski",
-        "type": "Fraile y Artista",
-        "description": "Nacido Adam Chmielowski, fue un fraile franciscano polaco y un destacado pintor que abandonó su carrera artística para dedicarse por completo a servir a los más pobres y necesitados, fundando las congregaciones de los Hermanos y Hermanas de la Tercera Orden de San Francisco Siervos de los Pobres."
+        "type": "Religioso y Fundador",
+        "description": "Un destacado pintor polaco que abandonó su prometedora carrera artística para dedicar su vida al servicio de los más pobres y marginados, fundando la Congregación de los Hermanos Albertinos."
       },
       {
         "name": "San Raniero de Pisa",
-        "type": "Ermitaño y Patrón",
-        "description": "Conocido como San Raniero Scacceri, fue un ermitaño del siglo XII venerado como el santo patrón de la ciudad de Pisa. Se dedicó a una vida de penitencia y caridad después de una juventud de frivolidades, inspirando a muchos con su ejemplo de conversión."
-      },
-      {
-        "name": "San Antidio de Besançon",
-        "type": "Obispo y Mártir",
-        "description": "Fue obispo de Besançon en el siglo V y es venerado como mártir. Sufrió persecución y fue decapitado durante las invasiones bárbaras, defendiendo la fe cristiana y su rebaño."
+        "type": "Ermitaño",
+        "description": "Patrón de Pisa, fue un mercader italiano del siglo XII que, tras una profunda conversión, renunció a sus bienes para vivir una vida de pobreza y penitencia como ermitaño y peregrino."
       }
     ],
     "observances": [
       {
         "name": "Día Mundial de Lucha contra la Desertificación y la Sequía",
-        "description": "Establecido por las Naciones Unidas, este día se observa anualmente para concienciar sobre la presencia de la desertificación y la sequía, destacando métodos para prevenir y recuperarse de la escasez de agua y la degradación del suelo."
+        "description": "Este día internacional, establecido por las Naciones Unidas, busca concienciar sobre la importancia de prevenir la desertificación y mitigar los efectos de la sequía para un futuro sostenible."
       }
     ],
     "historicalQuote": {
-      "text": "La música es incapaz, por su propia naturaleza, de expresar algo, sea un sentimiento, una actitud, un estado psicológico, un fenómeno de la naturaleza, etc. La expresión nunca ha sido una propiedad inmanente de la música, y esa no es la razón de su existencia.",
+      "text": "La música es incapaz de expresar absolutamente nada por sí misma.",
       "author": "Igor Stravinsky",
-      "context": "Esta célebre frase sobre la autonomía y la naturaleza inexpresiva de la música fue pronunciada por el influyente compositor ruso Igor Stravinsky, quien nació el 17 de junio de 1882. Su enfoque revolucionario marcó una nueva era en la música clásica del siglo XX."
+      "context": "Igor Stravinsky, uno de los compositores más influyentes del siglo XX, nació el 17 de junio de 1882. Esta cita refleja su visión de la música como una forma de arte autónoma, que no necesita un significado extramusical para justificar su existencia, un principio clave en su estética neoclásica."
     },
     "births": [
       {
         "name": "Igor Stravinsky",
-        "description": "Compositor ruso-americano considerado una de las figuras más importantes e influyentes de la música del siglo XX. Sus obras, como 'La consagración de la primavera', revolucionaron el ballet y la música orquestal.",
+        "description": "Compositor ruso-estadounidense considerado una de las figuras más importantes de la música del siglo XX, conocido por su innovación rítmica y armónica en obras como 'La consagración de la primavera'.",
         "year": "1882"
       },
       {
-        "name": "Barry Manilow",
-        "description": "Cantautor, arreglista y productor estadounidense, conocido por una serie de éxitos populares en las décadas de 1970 y 1980, incluyendo 'Mandy' y 'Copacabana', y por sus espectáculos en vivo de gran éxito.",
-        "year": "1943"
+        "name": "M. C. Escher",
+        "description": "Artista gráfico holandés famoso por sus litografías, grabados y mezzotintas que exploran la perspectiva, la ilusión óptica y las transformaciones geométricas, creando mundos visuales únicos e imposibles.",
+        "year": "1898"
       },
       {
         "name": "Venus Williams",
-        "description": "Tenista profesional estadounidense, una de las atletas más dominantes en la historia del tenis femenino. Ha ganado siete títulos individuales de Grand Slam y varias medallas de oro olímpicas, inspirando a generaciones con su talento y longevidad.",
+        "description": "Leyenda del tenis estadounidense, múltiple campeona de Grand Slam y medallista olímpica, reconocida por su poderosa presencia en la cancha y su impacto en el deporte.",
         "year": "1980"
       }
     ],
     "events": [
       {
-        "title": "El Tercer Estado se declara Asamblea Nacional en Francia",
-        "description": "En un momento crucial previo a la Revolución Francesa, los representantes del Tercer Estado se reunieron y se proclamaron Asamblea Nacional, asumiendo la soberanía y marcando el inicio de un cambio radical en la gobernanza y la sociedad francesa.",
+        "title": "El Tercer Estado se declara Asamblea Nacional",
+        "description": "En un acto histórico que marcó el inicio de la Revolución Francesa, los representantes del Tercer Estado en Francia se declararon como la Asamblea Nacional, asumiendo la autoridad legislativa del país.",
         "year": "1789"
       },
       {
         "title": "La Estatua de la Libertad llega a Nueva York",
-        "description": "Un símbolo universal de libertad y democracia, la Estatua de la Libertad, un regalo de Francia a los Estados Unidos, llegó desmantelada al puerto de Nueva York, donde sería ensamblada para inspirar a millones de inmigrantes y visitantes.",
+        "description": "El icónico monumento 'La Libertad iluminando el Mundo', un regalo del pueblo de Francia a los Estados Unidos, llegó al puerto de Nueva York, convirtiéndose en un símbolo universal de libertad y democracia.",
         "year": "1885"
       },
       {
-        "title": "Sudáfrica deroga el Acta de Registro de Población del Apartheid",
-        "description": "En un paso fundamental hacia el fin del apartheid, el parlamento sudafricano derogó el Acta de Registro de Población, eliminando la base legal de la segregación racial y marcando un avance significativo hacia la igualdad y la reconciliación en la nación.",
-        "year": "1991"
+        "title": "La Corte Suprema de EE. UU. prohíbe la oración obligatoria en escuelas públicas",
+        "description": "En un fallo histórico, la Corte Suprema de Estados Unidos declaró inconstitucionales las leyes estatales que exigían la lectura de la Biblia y la recitación del Padrenuestro en las escuelas públicas, reafirmando la separación entre iglesia y estado.",
+        "year": "1963"
       }
     ]
   },
   "en": {
     "saints": [
       {
-        "name": "St. Botolph of Thorney",
-        "type": "Abbot",
-        "description": "An English Benedictine abbot who founded the monastery of Icanhoe (believed to be Boston, Lincolnshire) and is known for his work in spreading monasticism in England."
+        "name": "St. Albert Chmielowski",
+        "type": "Religious Brother / Priest",
+        "description": "Born Adam Chmielowski, he was a Polish nobleman, painter, and veteran of the January Uprising. He founded the Congregation of the Brothers and Sisters of the Third Order of St. Francis, Servants of the Poor (Albertine Brothers and Sisters) to care for the homeless and destitute."
       },
       {
-        "name": "St. Antidius of Besançon",
-        "type": "Bishop, Martyr",
-        "description": "A 5th-century bishop of Besançon, France, who was martyred by the Vandals during their invasion, becoming a venerated saint in the region."
+        "name": "St. Botolph",
+        "type": "Abbot",
+        "description": "A 7th-century English abbot who founded the monastery of Iken in Suffolk, England. He is venerated as one of the most important early English saints, known for his monastic piety and work."
       }
     ],
     "observances": [
       {
         "name": "World Day to Combat Desertification and Drought",
-        "description": "An international observance by the United Nations to raise awareness about desertification, land degradation, and drought, and to highlight solutions for sustainable land management."
+        "description": "An international observance designated by the United Nations to raise awareness of the presence of desertification and drought, highlighting methods of preventing desertification and recovering from drought."
       },
       {
         "name": "Icelandic National Day",
-        "description": "Commemorates the founding of the Republic of Iceland on this day in 1944 and is also the birthday of Jón Sigurðsson, a leader of Iceland's independence movement."
+        "description": "Commemorates the foundation of the Republic of Iceland on this day in 1944 and also the birthday of Jón Sigurðsson, a key figure in the Icelandic independence movement."
       }
     ],
     "historicalQuote": {
-      "text": "A good composer does not imitate; he invents.",
+      "text": "My freedom will be so much the greater and more meaningful the more narrowly I limit my field of action and the more I surround myself with obstacles.",
       "author": "Igor Stravinsky",
-      "context": "Igor Stravinsky, the influential Russian composer, was born on June 17, 1882. This quote reflects his innovative spirit and significant contributions to 20th-century music, where he continuously pushed boundaries and redefined musical forms."
+      "context": "Igor Stravinsky, the influential Russian-born composer, was born on June 17, 1882. This quote reflects his artistic philosophy, where self-imposed limitations and challenges are seen as catalysts for greater creative freedom and innovation."
     },
     "births": [
       {
         "name": "Igor Stravinsky",
-        "description": "A pivotal Russian composer whose work, including 'The Rite of Spring,' revolutionized 20th-century music with its innovative rhythms and harmonies, leaving a lasting impact on classical and modern genres.",
+        "description": "A highly influential Russian-born composer, pianist, and conductor who revolutionized 20th-century music with his innovative rhythms and harmonies in works like 'The Rite of Spring' and 'The Firebird'.",
         "year": "1882"
       },
       {
-        "name": "M. C. Escher",
-        "description": "A Dutch graphic artist renowned for his mesmerizing woodcuts, lithographs, and mezzotints that feature impossible constructions, explorations of infinity, and tessellations, challenging perceptions of reality.",
+        "name": "M.C. Escher",
+        "description": "A Dutch graphic artist known for his woodcuts, lithographs, and mezzotints that feature impossible constructions, explorations of infinity, architecture, and tessellations.",
         "year": "1898"
       },
       {
-        "name": "Venus Williams",
-        "description": "An American professional tennis player, a multiple Grand Slam champion and former world No. 1, known for her powerful serve and pioneering role in advocating for equal prize money in women's sports.",
-        "year": "1980"
+        "name": "Jón Sigurðsson",
+        "description": "An Icelandic statesman who was a leading figure in the 19th-century Icelandic independence movement, widely regarded as the national hero of Iceland. His birthday is celebrated as Iceland's National Day.",
+        "year": "1811"
       }
     ],
     "events": [
       {
-        "title": "The Statue of Liberty Arrives in New York Harbor",
-        "description": "In 1885, the unassembled Statue of Liberty arrived in New York Harbor aboard the French frigate Isère, symbolizing enduring friendship and the ideals of liberty between France and the United States.",
+        "title": "Statue of Liberty Arrives in New York Harbor",
+        "description": "The disassembled Statue of Liberty, a gift of friendship from the people of France to the United States, arrived in New York Harbor, marking a significant moment in its journey to becoming an iconic symbol of freedom and democracy.",
         "year": "1885"
       },
       {
-        "title": "First Air-Conditioned Building Commissioned",
-        "description": "In 1902, the New York Stock Exchange commissioned the world's first air-conditioning system, designed by Willis Carrier, marking a major milestone in human comfort and industrial climate control.",
-        "year": "1902"
+        "title": "Iceland Becomes a Republic",
+        "description": "On the birthday of its national hero Jón Sigurðsson, Iceland officially declared full independence from Danish rule, establishing itself as a sovereign republic and solidifying its national identity.",
+        "year": "1944"
       },
       {
-        "title": "U.S. Supreme Court Rules Against Mandatory School Prayer",
-        "description": "In 1963, the U.S. Supreme Court ruled in *Abington School District v. Schempp* that mandatory Bible reading and the recitation of the Lord's Prayer in public schools were unconstitutional, reinforcing the separation of church and state.",
-        "year": "1963"
+        "title": "South Africa Abolishes Key Apartheid Law",
+        "description": "The South African Parliament abolished the Population Registration Act, a cornerstone of apartheid that classified people by race. This pivotal move dismantled the legal framework of racial segregation and oppression, paving the way for a democratic society.",
+        "year": "1991"
       }
     ]
   }
