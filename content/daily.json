@@ -1,123 +1,124 @@
 {
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "es": {
     "saints": [
       {
-        "name": "San Vito",
-        "type": "Mártir",
-        "description": "Fue un niño mártir siciliano, venerado como patrón de bailarines, actores y epilépticos, y forma parte de los Catorce Santos Auxiliares."
+        "name": "San Juan Francisco Regis",
+        "type": "Sacerdote Jesuita y Misionero",
+        "description": "Sacerdote jesuita francés del siglo XVII, conocido por su incansable labor misionera y caritativa entre los pobres y desfavorecidos de las zonas rurales de Francia. Fue un predicador elocuente y un confesor dedicado."
       },
       {
-        "name": "San Benito de Aniane",
-        "type": "Abad",
-        "description": "Un reformador monástico influyente durante el reinado de Carlomagno, conocido por promover la Regla de San Benito y unificar la vida monástica en el Imperio Carolingio."
+        "name": "Santa Lutgarda",
+        "type": "Monja Cisterciense y Mística",
+        "description": "Monja cisterciense belga del siglo XIII, famosa por sus visiones místicas, estigmas y por su profunda devoción a la Eucaristía y al Sagrado Corazón de Jesús. Es considerada una de las grandes místicas de su tiempo."
       }
     ],
     "observances": [
       {
-        "name": "Día Mundial de Toma de Conciencia del Abuso y Maltrato en la Vejez",
-        "description": "Establecido por la ONU, busca generar conciencia sobre las diversas formas de abuso y maltrato que sufren las personas mayores, promoviendo su dignidad y derechos."
-      },
-      {
-        "name": "Día Mundial del Viento",
-        "description": "Una iniciativa para promover la energía eólica como fuente de energía limpia y renovable, educando sobre su potencial y beneficios para un futuro sostenible."
+        "name": "Día Internacional del Niño Africano",
+        "description": "Este día conmemora la masacre de Soweto de 1976 en Sudáfrica y busca concienciar sobre la necesidad de mejorar la educación y los derechos de los niños en África."
       }
     ],
     "historicalQuote": {
-      "text": "Ningún hombre libre será arrestado o encarcelado o privado de sus derechos o de sus bienes, ni declarado fuera de la ley ni exiliado ni molestado de ninguna forma, salvo por el juicio legal de sus iguales o por la ley del país.",
-      "author": "Carta Magna",
-      "context": "Este texto fundamental de la libertad es una de las cláusulas más célebres de la Carta Magna, un documento que el Rey Juan de Inglaterra selló el 15 de junio de 1215. Estableció principios del debido proceso y limitó el poder monárquico, sentando las bases de la democracia constitucional y el estado de derecho."
+      "text": "Un hombre de genio no comete errores. Sus errores son voluntarios y son los portales del descubrimiento.",
+      "author": "James Joyce",
+      "context": "James Joyce, el renombrado novelista irlandés, es celebrado cada 16 de junio en el 'Bloomsday', fecha en la que transcurre su obra maestra 'Ulises'. Esta cita refleja la profunda visión y el genio literario que caracterizan su impacto en la literatura moderna."
     },
     "births": [
       {
-        "name": "Erik Erikson",
-        "description": "Psicoanalista germano-estadounidense, conocido por su influyente teoría del desarrollo psicosocial y el concepto de la 'crisis de identidad', que ha enriquecido profundamente la psicología del desarrollo.",
-        "year": "1902"
+        "name": "Stan Laurel",
+        "description": "Actor cómico, escritor y director inglés, mundialmente famoso por ser la mitad del dúo cómico Laurel y Hardy (El Gordo y el Flaco). Su humor y actuaciones han entretenido a generaciones.",
+        "year": "1890"
       },
       {
-        "name": "Mario Cuomo",
-        "description": "Político estadounidense y exgobernador de Nueva York, reconocido por su elocuencia, sus políticas progresistas y su destacada carrera pública que marcó una era en la política de su estado.",
-        "year": "1932"
+        "name": "Tupac Shakur",
+        "description": "Influyente rapero y actor estadounidense, considerado uno de los artistas más importantes de la historia del hip-hop. Su música abordó temas sociales, raciales y de violencia.",
+        "year": "1971"
+      },
+      {
+        "name": "Gerry Adams",
+        "description": "Político irlandés, exlíder del Sinn Féin, figura clave en el proceso de paz de Irlanda del Norte. Fue una voz prominente en la política norirlandesa durante décadas.",
+        "year": "1948"
       }
     ],
     "events": [
       {
-        "title": "Se sella la Carta Magna",
-        "description": "El Rey Juan de Inglaterra sella la Carta Magna en Runnymede, un documento histórico que estableció límites al poder real y garantizó derechos fundamentales, convirtiéndose en un pilar de las libertades constitucionales.",
-        "year": "1215"
+        "title": "Se incorpora Ford Motor Company",
+        "description": "Henry Ford fundó la Ford Motor Company, que revolucionaría la industria automotriz con la producción en masa y el modelo T, haciendo los automóviles accesibles a las masas y transformando el transporte mundial.",
+        "year": "1903"
       },
       {
-        "title": "Primer vuelo transatlántico sin escalas",
-        "description": "Los aviadores británicos John Alcock y Arthur Brown completan con éxito el primer vuelo transatlántico sin escalas a bordo de un Vickers Vimy, marcando un hito extraordinario en la historia de la aviación.",
-        "year": "1919"
+        "title": "Valentina Tereshkova, la primera mujer en el espacio",
+        "description": "La cosmonauta soviética Valentina Tereshkova se convirtió en la primera mujer en viajar al espacio a bordo de la Vostok 6, un hito monumental para la exploración espacial y la igualdad de género.",
+        "year": "1963"
       },
       {
-        "title": "Charles Goodyear patenta el caucho vulcanizado",
-        "description": "El inventor estadounidense Charles Goodyear recibe una patente por su revolucionario proceso de vulcanización del caucho, una innovación que transformó la industria y la fabricación de innumerables productos.",
-        "year": "1843"
+        "title": "Apertura de la primera montaña rusa moderna en EE. UU.",
+        "description": "La 'Gravity Switchback Railway' abrió en Coney Island, Nueva York, marcando el inicio de la era moderna de las montañas rusas y transformando la industria del entretenimiento y el ocio.",
+        "year": "1884"
       }
     ]
   },
   "en": {
     "saints": [
       {
-        "name": "St. Vitus",
-        "type": "Martyr",
-        "description": "An early Christian martyr, often invoked as one of the Fourteen Holy Helpers, St. Vitus is traditionally associated with healing and is the patron saint of dancers and those suffering from epilepsy."
+        "name": "St. John Francis Regis",
+        "type": "Priest",
+        "description": "A French Jesuit priest, known for his compassionate missionary work among the poor and marginalized populations in rural France during the 17th century, particularly in the regions of Vivarais and Velay."
       },
       {
-        "name": "St. Germaine Cousin",
-        "type": "Virgin",
-        "description": "A French peasant girl (1579-1601) who, despite being born with deformities and suffering neglect and abuse, lived a life of deep faith and charity, becoming a patroness of abandoned people and the disabled."
+        "name": "St. Lutgardis",
+        "type": "Cistercian Nun",
+        "description": "A Flemish Cistercian mystic who lived in the 12th and 13th centuries, renowned for her profound visions, ecstasies, and deep devotion to the Sacred Heart of Jesus."
       }
     ],
     "observances": [
       {
-        "name": "World Elder Abuse Awareness Day",
-        "description": "Recognized by the United Nations, this day aims to raise global awareness of the cultural, social, economic, and demographic processes affecting elder abuse and neglect."
+        "name": "Bloomsday",
+        "description": "An annual celebration in Dublin and worldwide that commemorates June 16, 1904, the day depicted in James Joyce's monumental novel 'Ulysses', following the wanderings of Leopold Bloom."
       },
       {
-        "name": "Global Wind Day",
-        "description": "An international day for discovering wind energy, promoting its power and the ways it can reshape energy systems, celebrated through events worldwide."
+        "name": "Day of the African Child",
+        "description": "Observed internationally to commemorate the children who participated in the Soweto Uprising in South Africa in 1976 and to raise awareness about the ongoing challenges facing children across Africa."
       }
     ],
     "historicalQuote": {
-      "text": "No free man shall be seized or imprisoned, or stripped of his rights or possessions, or outlawed or exiled, or deprived of his standing in any other way, nor will we proceed with force against him, or send others to do so, except by the lawful judgment of his equals or by the law of the land.",
-      "author": "The Magna Carta (King John I)",
-      "context": "This powerful statement is a clause from the Magna Carta, a historic document sealed by King John I of England on June 15, 1215. It established fundamental principles of individual rights and limited monarchical power, serving as a cornerstone for constitutional law worldwide."
+      "text": "I've put in so many enigmas and puzzles that it will keep the professors busy for centuries arguing over what I meant, and that's the only way of insuring one's immortality.",
+      "author": "James Joyce",
+      "context": "James Joyce, the celebrated Irish novelist, is inextricably linked to June 16 through his masterpiece 'Ulysses,' which meticulously chronicles the events of a single day, June 16, 1904, in Dublin. While he wasn't born or died on this date, 'Bloomsday' is celebrated worldwide on June 16 in homage to his work, making this quote, reflective of his literary ambition and the enduring complexity of his novel, particularly relevant."
     },
     "births": [
       {
-        "name": "Edvard Grieg",
-        "description": "A celebrated Norwegian composer and pianist, Grieg (1843-1907) is best known for his Piano Concerto in A minor, the Peer Gynt incidental music, and his lyrical piano pieces that embody Norwegian folk traditions.",
-        "year": "1843"
+        "name": "Adam Smith",
+        "description": "A Scottish economist and philosopher, widely regarded as the 'Father of Modern Economics' for his seminal work 'The Wealth of Nations,' which laid the foundations of classical free-market economic theory and the concept of the 'invisible hand'.",
+        "year": "1723"
       },
       {
-        "name": "Helen Hunt",
-        "description": "An acclaimed American actress, director, and screenwriter, Hunt (born 1963) has won multiple awards, including an Academy Award for Best Actress for 'As Good as It Gets' and four Emmy Awards for her role in 'Mad About You'.",
-        "year": "1963"
+        "name": "Stan Laurel",
+        "description": "An English comedian, writer, and film director, best known as one half of the iconic comedy duo Laurel and Hardy, whose timeless slapstick routines continue to entertain audiences worldwide.",
+        "year": "1890"
       },
       {
-        "name": "Ice Cube",
-        "description": "An influential American rapper, actor, and filmmaker, Ice Cube (born O'Shea Jackson Sr., 1969) rose to fame as a member of N.W.A, pioneered gangsta rap, and has built a successful career in film, starring in and producing numerous hit movies.",
-        "year": "1969"
+        "name": "Tupac Shakur",
+        "description": "An influential American rapper and actor, widely considered one of the most significant and best-selling music artists of all time, known for his poetic lyrics and profound impact on hip-hop culture.",
+        "year": "1971"
       }
     ],
     "events": [
       {
-        "title": "Magna Carta Sealed",
-        "description": "On June 15, 1215, King John of England sealed the Magna Carta, a foundational document that asserted legal rights and limited the power of the monarch, inspiring constitutional law and human rights movements globally.",
-        "year": "1215"
+        "title": "Valentina Tereshkova Becomes First Woman in Space",
+        "description": "Soviet cosmonaut Valentina Tereshkova made history by becoming the first woman to travel into space aboard Vostok 6, completing 48 orbits of Earth and spending almost three days in space, inspiring generations globally.",
+        "year": "1963"
       },
       {
-        "title": "First Non-stop Transatlantic Flight Completed",
-        "description": "In a remarkable feat of aviation, John Alcock and Arthur Brown completed the first non-stop transatlantic flight on June 15, 1919, flying from Newfoundland to Ireland and demonstrating the boundless potential of air travel.",
-        "year": "1919"
+        "title": "Ford Motor Company Incorporated",
+        "description": "Henry Ford officially incorporated the Ford Motor Company, an event that would revolutionize the automotive industry with the introduction of the assembly line and accessible automobiles, fundamentally changing transportation and manufacturing.",
+        "year": "1903"
       },
       {
-        "title": "Space Shuttle Endeavour's Maiden Voyage",
-        "description": "The Space Shuttle Endeavour successfully completed its maiden flight, STS-49, on June 15, 1992, marking a significant milestone in space exploration and demonstrating advanced capabilities for repairing satellites in orbit.",
-        "year": "1992"
+        "title": "IBM Founded",
+        "description": "The Computing-Tabulating-Recording Company (CTR), the precursor to International Business Machines (IBM), was founded, laying the groundwork for one of the world's most enduring and influential technology companies that shaped the modern computing era.",
+        "year": "1911"
       }
     ]
   }
