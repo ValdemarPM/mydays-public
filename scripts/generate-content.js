@@ -1,4 +1,5 @@
-// Runs in GitHub Actions. Calls Gemini twice (ES + EN) and writes content/daily.json.
+// Runs in GitHub Actions. Calls Gemini twice (ES + EN) and writes content/YYYY-MM-DD.json
+// for tomorrow's date, so content is ready before the day starts.
 // Requires: GEMINI_API_KEY environment variable.
 
 const fs = require('fs');
@@ -80,13 +81,15 @@ async function callGemini(dateString, language) {
 }
 
 async function main() {
-  const today = new Date();
+  const tomorrow = new Date();
+  tomorrow.setUTCDate(tomorrow.getUTCDate() + 1);
+
   const monthNames = [
     'January', 'February', 'March', 'April', 'May', 'June',
     'July', 'August', 'September', 'October', 'November', 'December',
   ];
-  const dateString = `${monthNames[today.getUTCMonth()]} ${today.getUTCDate()}`;
-  const isoDate = today.toISOString().split('T')[0];
+  const dateString = `${monthNames[tomorrow.getUTCMonth()]} ${tomorrow.getUTCDate()}`;
+  const isoDate = tomorrow.toISOString().split('T')[0];
 
   console.log(`Generating content for ${dateString} (${isoDate}) in ES and EN...`);
 
@@ -97,11 +100,11 @@ async function main() {
 
   const output = { date: isoDate, es, en };
 
-  const outputPath = path.join(__dirname, '..', 'content', 'daily.json');
+  const outputPath = path.join(__dirname, '..', 'content', `${isoDate}.json`);
   fs.mkdirSync(path.dirname(outputPath), { recursive: true });
   fs.writeFileSync(outputPath, JSON.stringify(output, null, 2), 'utf-8');
 
-  console.log(`Successfully wrote content/daily.json for ${isoDate}`);
+  console.log(`Successfully wrote content/${isoDate}.json`);
   console.log(`ES saints count: ${es.saints?.length ?? 0}`);
   console.log(`EN saints count: ${en.saints?.length ?? 0}`);
 }
