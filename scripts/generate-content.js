@@ -61,6 +61,7 @@ async function callGemini(dateString, language) {
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
       contents: [{ parts: [{ text: buildPrompt(dateString, language) }] }],
+      tools: [{ google_search_retrieval: {} }],
     }),
   });
 
