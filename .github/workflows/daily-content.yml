@@ -3,7 +3,12 @@ name: Generate daily content
 on:
   schedule:
     - cron: '0 10 * * *'  # Runs every day at 10:00 UTC = 00:00 UTC+14 (first timezone on Earth)
-  workflow_dispatch:        # Allows manual trigger for testing
+  workflow_dispatch:
+    inputs:
+      target_date:
+        description: 'Date to generate (YYYY-MM-DD). Leave empty to generate tomorrow.'
+        required: false
+        default: ''
 
 permissions:
   contents: write           # Required to commit and push daily.json
@@ -25,6 +30,7 @@ jobs:
         run: node scripts/generate-content.js
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TARGET_DATE: ${{ github.event.inputs.target_date }}
 
       - name: Commit and push if content changed
         run: |

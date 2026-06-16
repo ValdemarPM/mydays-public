@@ -81,15 +81,22 @@ async function callGemini(dateString, language) {
 }
 
 async function main() {
-  const tomorrow = new Date();
-  tomorrow.setUTCDate(tomorrow.getUTCDate() + 1);
+  // TARGET_DATE (YYYY-MM-DD) overrides the default tomorrow — use for backfilling specific dates
+  let target;
+  if (process.env.TARGET_DATE) {
+    target = new Date(`${process.env.TARGET_DATE}T00:00:00Z`);
+  } else {
+    target = new Date();
+    target.setUTCDate(target.getUTCDate() + 1);
+  }
 
   const monthNames = [
     'January', 'February', 'March', 'April', 'May', 'June',
     'July', 'August', 'September', 'October', 'November', 'December',
   ];
-  const dateString = `${monthNames[tomorrow.getUTCMonth()]} ${tomorrow.getUTCDate()}`;
-  const isoDate = tomorrow.toISOString().split('T')[0];
+  const dateString = `${monthNames[target.getUTCMonth()]} ${target.getUTCDate()}`;
+  const isoDate = target.toISOString().split('T')[0];
+
 
   console.log(`Generating content for ${dateString} (${isoDate}) in ES and EN...`);
 
