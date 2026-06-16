@@ -3,136 +3,127 @@
   "es": {
     "saints": [
       {
-        "name": "San Raniero de Pisa",
-        "type": "Ermitaño",
-        "description": "Ermitaño italiano del siglo XII, conocido por su vida de penitencia y sus milagros, se le considera el santo patrón de Pisa."
-      },
-      {
-        "name": "San Herveo",
-        "type": "Monje y Ermitaño",
-        "description": "Monje y ermitaño ciego del siglo VI de Bretaña, venerado por su piedad, su habilidad para curar enfermedades y por sus cánticos celestiales."
-      },
-      {
         "name": "San Alberto Chmielowski",
-        "type": "Religioso y Fundador",
-        "description": "Religioso polaco del siglo XIX, conocido como el Hermano Alberto, dedicó su vida a los más pobres y fundó las Congregaciones de los Hermanos y las Hermanas Albertinas."
+        "type": "Fraile y Artista",
+        "description": "Nacido Adam Chmielowski, fue un fraile franciscano polaco y un destacado pintor que abandonó su carrera artística para dedicarse por completo a servir a los más pobres y necesitados, fundando las congregaciones de los Hermanos y Hermanas de la Tercera Orden de San Francisco Siervos de los Pobres."
+      },
+      {
+        "name": "San Raniero de Pisa",
+        "type": "Ermitaño y Patrón",
+        "description": "Conocido como San Raniero Scacceri, fue un ermitaño del siglo XII venerado como el santo patrón de la ciudad de Pisa. Se dedicó a una vida de penitencia y caridad después de una juventud de frivolidades, inspirando a muchos con su ejemplo de conversión."
+      },
+      {
+        "name": "San Antidio de Besançon",
+        "type": "Obispo y Mártir",
+        "description": "Fue obispo de Besançon en el siglo V y es venerado como mártir. Sufrió persecución y fue decapitado durante las invasiones bárbaras, defendiendo la fe cristiana y su rebaño."
       }
     ],
     "observances": [
       {
         "name": "Día Mundial de Lucha contra la Desertificación y la Sequía",
-        "description": "Observancia de las Naciones Unidas que busca concienciar sobre la importancia de prevenir la desertificación y la degradación de la tierra, así como mitigar los efectos de la sequía."
-      },
-      {
-        "name": "Día Nacional de Islandia",
-        "description": "Celebra la fundación de la República de Islandia en 1944 y el natalicio de Jón Sigurðsson, figura clave en la lucha por la independencia y la soberanía del país."
+        "description": "Establecido por las Naciones Unidas, este día se observa anualmente para concienciar sobre la presencia de la desertificación y la sequía, destacando métodos para prevenir y recuperarse de la escasez de agua y la degradación del suelo."
       }
     ],
     "historicalQuote": {
-      "text": "Nunca renuncies a la libertad, aunque tengas que renunciar a la vida.",
-      "author": "Jón Sigurðsson",
-      "context": "Jón Sigurðsson, líder del movimiento de independencia islandés y figura central en la formación de la República de Islandia, nació este día en 1811. Su natalicio se celebra como el Día Nacional de Islandia, conmemorando su legado de lucha por la autodeterminación."
+      "text": "La música es incapaz, por su propia naturaleza, de expresar algo, sea un sentimiento, una actitud, un estado psicológico, un fenómeno de la naturaleza, etc. La expresión nunca ha sido una propiedad inmanente de la música, y esa no es la razón de su existencia.",
+      "author": "Igor Stravinsky",
+      "context": "Esta célebre frase sobre la autonomía y la naturaleza inexpresiva de la música fue pronunciada por el influyente compositor ruso Igor Stravinsky, quien nació el 17 de junio de 1882. Su enfoque revolucionario marcó una nueva era en la música clásica del siglo XX."
     },
     "births": [
       {
-        "name": "Jón Sigurðsson",
-        "description": "Político y erudito islandés, líder del movimiento de independencia de Islandia, cuyo natalicio se celebra como el Día Nacional del país en reconocimiento a su legado y contribuciones.",
-        "year": "1811"
-      },
-      {
         "name": "Igor Stravinsky",
-        "description": "Compositor ruso de gran influencia en el siglo XX, conocido por sus innovadoras obras como 'La consagración de la primavera' que revolucionaron la música clásica y el ballet.",
+        "description": "Compositor ruso-americano considerado una de las figuras más importantes e influyentes de la música del siglo XX. Sus obras, como 'La consagración de la primavera', revolucionaron el ballet y la música orquestal.",
         "year": "1882"
       },
       {
-        "name": "M. C. Escher",
-        "description": "Artista gráfico holandés famoso por sus grabados en madera, litografías y mezzotintas que exploran la simetría, la perspectiva, el infinito y arquitecturas imposibles, desafiando la percepción visual.",
-        "year": "1898"
+        "name": "Barry Manilow",
+        "description": "Cantautor, arreglista y productor estadounidense, conocido por una serie de éxitos populares en las décadas de 1970 y 1980, incluyendo 'Mandy' y 'Copacabana', y por sus espectáculos en vivo de gran éxito.",
+        "year": "1943"
+      },
+      {
+        "name": "Venus Williams",
+        "description": "Tenista profesional estadounidense, una de las atletas más dominantes en la historia del tenis femenino. Ha ganado siete títulos individuales de Grand Slam y varias medallas de oro olímpicas, inspirando a generaciones con su talento y longevidad.",
+        "year": "1980"
       }
     ],
     "events": [
       {
-        "title": "Llegada de la Estatua de la Libertad a Nueva York",
-        "description": "En 1885, la colosal estatua de 'La Libertad Iluminando el Mundo', regalo de Francia a Estados Unidos, llegó al puerto de Nueva York, convirtiéndose en un faro de esperanza y un símbolo universal de libertad y democracia.",
-        "year": "1885"
-      },
-      {
-        "title": "Juramento del Juego de Pelota en Francia",
-        "description": "En 1789, durante los albores de la Revolución Francesa, los miembros del Tercer Estado juraron no separarse hasta establecer una constitución, marcando un momento decisivo en la afirmación de la soberanía popular y el inicio de profundos cambios políticos.",
+        "title": "El Tercer Estado se declara Asamblea Nacional en Francia",
+        "description": "En un momento crucial previo a la Revolución Francesa, los representantes del Tercer Estado se reunieron y se proclamaron Asamblea Nacional, asumiendo la soberanía y marcando el inicio de un cambio radical en la gobernanza y la sociedad francesa.",
         "year": "1789"
       },
       {
-        "title": "Proclamación de la República de Islandia",
-        "description": "En 1944, Islandia declaró formalmente su independencia de Dinamarca y se estableció como una república, completando un largo proceso de autodeterminación nacional y consolidando su plena soberanía en la escena mundial.",
-        "year": "1944"
+        "title": "La Estatua de la Libertad llega a Nueva York",
+        "description": "Un símbolo universal de libertad y democracia, la Estatua de la Libertad, un regalo de Francia a los Estados Unidos, llegó desmantelada al puerto de Nueva York, donde sería ensamblada para inspirar a millones de inmigrantes y visitantes.",
+        "year": "1885"
+      },
+      {
+        "title": "Sudáfrica deroga el Acta de Registro de Población del Apartheid",
+        "description": "En un paso fundamental hacia el fin del apartheid, el parlamento sudafricano derogó el Acta de Registro de Población, eliminando la base legal de la segregación racial y marcando un avance significativo hacia la igualdad y la reconciliación en la nación.",
+        "year": "1991"
       }
     ]
   },
   "en": {
     "saints": [
       {
-        "name": "St. Botolph",
+        "name": "St. Botolph of Thorney",
         "type": "Abbot",
-        "description": "An English Benedictine abbot and founder of Iken Abbey, St. Botolph is revered for his role in spreading monasticism and agricultural development in England during the 7th century."
+        "description": "An English Benedictine abbot who founded the monastery of Icanhoe (believed to be Boston, Lincolnshire) and is known for his work in spreading monasticism in England."
       },
       {
-        "name": "St. Rainerius of Pisa",
-        "type": "Hermit",
-        "description": "Also known as Raniero Scacceri, he was a 12th-century Italian hermit and mystic who dedicated his life to poverty, prayer, and penance after a youth spent in worldly pursuits. He is the patron saint of Pisa."
-      },
-      {
-        "name": "St. Teresa of Portugal",
-        "type": "Queen and Cistercian Nun",
-        "description": "A 12th-century Queen consort of León, St. Teresa later became a Cistercian nun. She was known for her piety, charity, and for founding several monasteries."
+        "name": "St. Antidius of Besançon",
+        "type": "Bishop, Martyr",
+        "description": "A 5th-century bishop of Besançon, France, who was martyred by the Vandals during their invasion, becoming a venerated saint in the region."
       }
     ],
     "observances": [
       {
         "name": "World Day to Combat Desertification and Drought",
-        "description": "This United Nations observance raises awareness about the presence of desertification and drought, highlighting methods of preventing desertification and recovering from drought."
+        "description": "An international observance by the United Nations to raise awareness about desertification, land degradation, and drought, and to highlight solutions for sustainable land management."
       },
       {
         "name": "Icelandic National Day",
-        "description": "Commemorates the foundation of the Republic of Iceland in 1944 and the birthday of Jón Sigurðsson, a key figure in the Icelandic independence movement."
+        "description": "Commemorates the founding of the Republic of Iceland on this day in 1944 and is also the birthday of Jón Sigurðsson, a leader of Iceland's independence movement."
       }
     ],
     "historicalQuote": {
-      "text": "The more constraints one imposes, the more one frees oneself of the chains that shackle the spirit.",
+      "text": "A good composer does not imitate; he invents.",
       "author": "Igor Stravinsky",
-      "context": "Igor Stravinsky, a renowned Russian composer known for his revolutionary musical works, was born on this day in 1882. This quote reflects his philosophical approach to composition, suggesting that creative freedom is often found within self-imposed limits and structured discipline."
+      "context": "Igor Stravinsky, the influential Russian composer, was born on June 17, 1882. This quote reflects his innovative spirit and significant contributions to 20th-century music, where he continuously pushed boundaries and redefined musical forms."
     },
     "births": [
       {
         "name": "Igor Stravinsky",
-        "description": "A Russian-born French and American composer, conductor, and pianist, Stravinsky is widely considered one of the most important and influential composers of the 20th century.",
+        "description": "A pivotal Russian composer whose work, including 'The Rite of Spring,' revolutionized 20th-century music with its innovative rhythms and harmonies, leaving a lasting impact on classical and modern genres.",
         "year": "1882"
       },
       {
         "name": "M. C. Escher",
-        "description": "A Dutch graphic artist who made woodcuts, lithographs, and mezzotints featuring impossible constructions, explorations of infinity, architecture, and tessellations.",
+        "description": "A Dutch graphic artist renowned for his mesmerizing woodcuts, lithographs, and mezzotints that feature impossible constructions, explorations of infinity, and tessellations, challenging perceptions of reality.",
         "year": "1898"
       },
       {
         "name": "Venus Williams",
-        "description": "An American professional tennis player, former world No. 1 in singles and doubles, and a multiple Grand Slam champion known for her powerful serve and groundbreaking career.",
+        "description": "An American professional tennis player, a multiple Grand Slam champion and former world No. 1, known for her powerful serve and pioneering role in advocating for equal prize money in women's sports.",
         "year": "1980"
       }
     ],
     "events": [
       {
-        "title": "Statue of Liberty Arrives in New York Harbor",
-        "description": "The disassembled Statue of Liberty, a gift of friendship from the people of France to the United States, arrived in New York Harbor aboard the French frigate Isère, symbolizing liberty and democracy.",
+        "title": "The Statue of Liberty Arrives in New York Harbor",
+        "description": "In 1885, the unassembled Statue of Liberty arrived in New York Harbor aboard the French frigate Isère, symbolizing enduring friendship and the ideals of liberty between France and the United States.",
         "year": "1885"
       },
       {
-        "title": "Iceland Becomes a Republic",
-        "description": "Iceland formally declared full independence from Denmark and established itself as a parliamentary republic, marking a significant milestone in its national sovereignty and self-determination.",
-        "year": "1944"
+        "title": "First Air-Conditioned Building Commissioned",
+        "description": "In 1902, the New York Stock Exchange commissioned the world's first air-conditioning system, designed by Willis Carrier, marking a major milestone in human comfort and industrial climate control.",
+        "year": "1902"
       },
       {
-        "title": "First Successful Heart-Lung Transplant in Europe",
-        "description": "The first successful heart-lung transplant in Europe was performed at Harefield Hospital, UK, by Professor Magdi Yacoub, representing a major advancement in medical science and organ transplantation.",
-        "year": "1987"
+        "title": "U.S. Supreme Court Rules Against Mandatory School Prayer",
+        "description": "In 1963, the U.S. Supreme Court ruled in *Abington School District v. Schempp* that mandatory Bible reading and the recitation of the Lord's Prayer in public schools were unconstitutional, reinforcing the separation of church and state.",
+        "year": "1963"
       }
     ]
   }
