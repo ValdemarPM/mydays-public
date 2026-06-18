@@ -1,0 +1,123 @@
+{
+  "date": "2026-06-19",
+  "es": {
+    "saints": [
+      {
+        "name": "San Romualdo",
+        "type": "Abad",
+        "description": "Nacido alrededor del año 950 en Rávena, Italia, San Romualdo fue un monje que, tras una juventud mundana y un evento trágico familiar, abrazó una vida de estricta penitencia y soledad, fundando la Orden de los Camaldulenses. Fue un reformador monástico que promovió la oración y la vida eremítica."
+      },
+      {
+        "name": "San Gervasio y San Protasio",
+        "type": "Mártires",
+        "description": "Estos hermanos gemelos de Milán, Italia, fueron mártires de la cristiandad. Aunque los detalles exactos de sus vidas se han perdido en el tiempo, se cree que padecieron persecución en los siglos III o IV. Sus reliquias fueron descubiertas providencialmente por San Ambrosio alrededor del año 386."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Emancipación (Juneteenth)",
+        "description": "Se conmemora el 19 de junio de 1865, cuando el General de División Gordon Granger llegó a Galveston, Texas, y anunció la libertad de los afroamericanos esclavizados, marcando el fin efectivo de la esclavitud en los estados confederados de EE. UU. Se convirtió en un feriado federal en 2021."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El corazón tiene razones que la razón desconoce.",
+      "author": "Blaise Pascal",
+      "context": "Blaise Pascal, un influyente matemático, físico, filósofo y teólogo francés, nació el 19 de junio de 1623. Esta famosa cita, que destaca la importancia de la fe y la intuición frente a la lógica pura, proviene de su obra póstuma 'Pensamientos' (Pensées), donde explora la condición humana y la apologética cristiana."
+    },
+    "births": [
+      {
+        "name": "Blaise Pascal",
+        "description": "Matemático, físico, filósofo y teólogo francés. Sus contribuciones incluyen el desarrollo de la calculadora mecánica, la teoría de la probabilidad, y avances en la hidrodinámica e hidrostática.",
+        "year": "1623"
+      },
+      {
+        "name": "José Gervasio Artigas",
+        "description": "Político, militar y estadista rioplatense, considerado el héroe nacional de Uruguay y 'Protector de los Pueblos Libres', por su liderazgo en la Revolución Oriental y su defensa del federalismo.",
+        "year": "1764"
+      },
+      {
+        "name": "Zoe Saldaña",
+        "description": "Actriz estadounidense de renombre internacional, conocida por sus papeles protagónicos en importantes franquicias cinematográficas como Avatar, Guardianes de la Galaxia y Star Trek.",
+        "year": "1978"
+      }
+    ],
+    "events": [
+      {
+        "title": "La Emancipación de los esclavos en Texas (Juneteenth)",
+        "description": "El 19 de junio de 1865, el General de División Gordon Granger llegó a Galveston, Texas, con tropas de la Unión para anunciar la Proclamación de Emancipación, liberando a los últimos afroamericanos esclavizados en los estados confederados, un hito crucial en la lucha por la libertad.",
+        "year": "1865"
+      },
+      {
+        "title": "Juneteenth declarado feriado federal en EE. UU.",
+        "description": "En 2021, el presidente de EE. UU. Joe Biden firmó la legislación que estableció el 19 de junio como feriado federal, elevando el Juneteenth a la categoría de Día de la Independencia Nacional, reconociendo oficialmente su importancia histórica y cultural.",
+        "year": "2021"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Juliana Falconieri",
+        "type": "Virgin, Foundress",
+        "description": "Born into a noble Florentine family, Saint Juliana was profoundly influenced by her uncle, Saint Alexis Falconieri. She dedicated her life to God, rejected marriage, and established the Servite Third Order of Servants of Mary, known for her deep reverence for the Eucharist."
+      },
+      {
+        "name": "Saints Gervasius and Protasius",
+        "type": "Martyrs",
+        "description": "These twin brothers are considered among the earliest martyrs of Milan, believed to have suffered during the 2nd century. Their relics were discovered by Saint Ambrose in 386, who was reportedly guided by a vision."
+      },
+      {
+        "name": "Holy Apostle Jude Thaddaeus",
+        "type": "Apostle",
+        "description": "One of the Twelve Apostles of Jesus, Saint Jude Thaddaeus is traditionally considered the patron saint of lost causes and desperate situations. He is often depicted holding an image of Jesus, known as the Image of Edessa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Juneteenth",
+        "description": "This federal holiday in the United States commemorates June 19, 1865, when Union soldiers arrived in Galveston, Texas, to announce the emancipation of enslaved people, over two years after the Emancipation Proclamation."
+      },
+      {
+        "name": "International Day for the Elimination of Sexual Violence in Conflict",
+        "description": "Globally observed, this day raises awareness about the systematic use of sexual violence as a tactic of war and advocates for its elimination."
+      },
+      {
+        "name": "World Sickle Cell Day",
+        "description": "An international awareness day dedicated to increasing public knowledge and understanding of sickle cell disease, a genetic blood disorder."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The heart has its reasons which reason knows not.",
+      "author": "Blaise Pascal",
+      "context": "Blaise Pascal, the renowned French mathematician, physicist, inventor, writer, and Catholic theologian, was born on June 19, 1623. This quote reflects his philosophical insights into the nature of faith and human understanding."
+    },
+    "births": [
+      {
+        "name": "Lou Gehrig",
+        "description": "An iconic American baseball first baseman, Lou Gehrig played his entire career for the New York Yankees and was known as 'The Iron Horse' for his durability, setting a record for consecutive games played."
+      },
+      {
+        "name": "Blaise Pascal",
+        "description": "A brilliant French mathematician, physicist, inventor, writer, and Catholic theologian, Pascal made significant contributions to probability theory, hydrodynamics, and philosophy."
+      },
+      {
+        "name": "Aung San Suu Kyi",
+        "description": "A Burmese politician, diplomat, author, and a Nobel Peace Prize laureate, she served as State Counsellor of Myanmar and played a pivotal role in the country's transition towards democracy."
+      }
+    ],
+    "events": [
+      {
+        "title": "U.S. Congress Prohibits Slavery in Territories",
+        "description": "In a significant legislative step during the Civil War, the U.S. Congress passed a law prohibiting slavery in all current and future federal territories, thereby nullifying the Dred Scott Decision."
+      },
+      {
+        "title": "Juneteenth Marks Freedom for Enslaved Texans",
+        "description": "Union troops arrived in Galveston, Texas, announcing the end of the Civil War and the freedom of over 250,000 enslaved people, an event now celebrated as Juneteenth, signifying a profound step towards nationwide emancipation."
+      },
+      {
+        "title": "Civil Rights Act of 1964 Approved by Senate",
+        "description": "After an 83-day filibuster, the U.S. Senate approved the landmark Civil Rights Act of 1964, outlawing discrimination based on race, color, religion, sex, or national origin, and paving the way for greater equality."
+      }
+    ]
+  }
+}
