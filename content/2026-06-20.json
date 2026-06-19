@@ -1,0 +1,134 @@
+{
+  "date": "2026-06-20",
+  "es": {
+    "saints": [
+      {
+        "name": "San Silverio",
+        "type": "Papa y Mártir",
+        "description": "Fue elegido Papa en el año 536. Se mantuvo fiel a la fe católica y rechazó las herejías, lo que le costó el exilio y el martirio en la isla de Palmaria en el año 537."
+      },
+      {
+        "name": "Beato Tomás Whitbread y compañeros",
+        "type": "Presbíteros Mártires",
+        "description": "Fueron sacerdotes jesuitas que sufrieron el martirio en Londres en el siglo XVII, acusados falsamente de conspirar contra el rey Carlos II."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de los Refugiados",
+        "description": "Esta jornada, establecida por la Asamblea General de las Naciones Unidas en el año 2000 y celebrada anualmente desde 2001, conmemora la fuerza y el coraje de millones de personas que han sido forzadas a huir de sus hogares debido a conflictos o persecuciones."
+      },
+      {
+        "name": "Yellow Day",
+        "description": "Conocido como el 'Día más feliz del año', se asocia a factores como las temperaturas agradables y la mayor cantidad de horas de luz."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Ni la agricultura ni el comercio serían casi en ningún caso suficientes a establecer la felicidad de un pueblo si no entrase a su socorro la oficiosa industria.",
+      "author": "Manuel Belgrano",
+      "context": "Manuel Belgrano, prócer argentino, militar y economista, falleció el 20 de junio de 1820. Esta cita refleja su visión avanzada sobre el desarrollo económico y la importancia de la industria para la prosperidad de una nación."
+    },
+    "births": [
+      {
+        "name": "Nicole Kidman",
+        "description": "Actriz y productora australiana-americana, reconocida por su versatilidad y sus interpretaciones en cine y televisión, ganadora de un Premio de la Academia.",
+        "year": "1967"
+      },
+      {
+        "name": "John Goodman",
+        "description": "Actor estadounidense aclamado por sus papeles en cine y televisión, conocido por su presencia imponente y su talento cómico y dramático.",
+        "year": "1952"
+      },
+      {
+        "name": "Brian Wilson",
+        "description": "Músico, cantante, compositor y productor estadounidense, cofundador y principal compositor de la influyente banda The Beach Boys, una de las figuras más innovadoras en la historia de la música pop.",
+        "year": "1942"
+      }
+    ],
+    "events": [
+      {
+        "title": "Coronación de la Reina Victoria I",
+        "description": "En 1837, Alejandrina Victoria fue coronada Reina del Reino Unido de Gran Bretaña e Irlanda, dando inicio a la influyente Era Victoriana, un periodo de grandes cambios sociales y tecnológicos.",
+        "year": "1837"
+      },
+      {
+        "title": "Primer partido de fútbol en Argentina",
+        "description": "En 1867, se disputó el primer partido oficial de fútbol en Buenos Aires, Argentina, marcando el inicio de la pasión por este deporte en el país sudamericano.",
+        "year": "1867"
+      },
+      {
+        "title": "Inauguración del Monumento a la Bandera en Argentina",
+        "description": "En 1957, se inauguró en Rosario, Argentina, el imponente Monumento Histórico Nacional a la Bandera, en conmemoración a la creación de la bandera nacional por Manuel Belgrano.",
+        "year": "1957"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Adalbert of Magdeburg",
+        "type": "Bishop, Missionary",
+        "description": "A Benedictine monk, Saint Adalbert was the first Archbishop of Magdeburg in the 10th century and was known for his missionary efforts among the Slavs and his support of education."
+      },
+      {
+        "name": "Saint Methodius of Olympus",
+        "type": "Hieromartyr, Bishop",
+        "description": "Bishop of Patara in Lycia, Hieromartyr Methodius was known for his genuine monastic humility and his staunch defense of Orthodox Christianity against heresies in the early 4th century."
+      },
+      {
+        "name": "Saint Goban",
+        "type": "Monk, Hermit, Martyr",
+        "description": "An Irish-born Benedictine monk and disciple of Saint Fursey, Saint Goban lived as a hermit in France and was martyred by non-Christian raiders around 670 AD."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Refugee Day",
+        "description": "Established by the United Nations, this international day honors refugees around the globe, celebrating their strength and courage in the face of forced displacement."
+      },
+      {
+        "name": "International Surfing Day",
+        "description": "Observed on the third Saturday of June, this day celebrates surf culture and ocean conservation efforts."
+      }
+    ],
+    "historicalQuote": {
+      "text": "If there's not love present, it's much, much harder to function. When there's love present, it's easier to deal with life. When people hear music that is spiritual it gets through. Music that is Godlike and loving gets through. I don't have any power in this world, but I have spiritual power. I think God gave me my music and my talent. I'm trying to get across a feeling of spirituality; I think I have a spiritual influence on people. Spirituality amounts to love with me.",
+      "author": "Brian Wilson",
+      "context": "Brian Wilson, the legendary American musician, singer, and songwriter, co-founder of The Beach Boys, was born on June 20, 1942. His profound connection between music and spirituality is reflected in his insightful quotes about love and the power of spiritual music."
+    },
+    "births": [
+      {
+        "name": "Brian Wilson",
+        "description": "An iconic American musician, singer, songwriter, and record producer, Brian Wilson co-founded The Beach Boys, creating some of the most influential pop music of the 20th century.",
+        "year": "1942"
+      },
+      {
+        "name": "Nicole Kidman",
+        "description": "An acclaimed Australian-American actress and film producer, Nicole Kidman is celebrated for her versatile performances across a wide range of genres, earning numerous awards for her work.",
+        "year": "1967"
+      },
+      {
+        "name": "Lionel Richie",
+        "description": "A globally recognized American singer, songwriter, musician, and record producer, Lionel Richie rose to fame with The Commodores and achieved immense success as a solo artist with his soulful ballads.",
+        "year": "1949"
+      }
+    ],
+    "events": [
+      {
+        "title": "The Great Seal of the United States is Adopted",
+        "description": "The United States Congress officially adopted the Great Seal, featuring the bald eagle as the national emblem, symbolizing the nation's sovereignty and aspirations.",
+        "year": "1782"
+      },
+      {
+        "title": "World's First Commercial Telephone Service Installed",
+        "description": "Alexander Graham Bell inaugurated the world's first commercial telephone service in Hamilton, Ontario, Canada, marking a pivotal moment in global communication.",
+        "year": "1877"
+      },
+      {
+        "title": "The 'Red Telephone' Hotline is Established",
+        "description": "Following lessons learned from the Cuban Missile Crisis, a direct hotline, famously known as the 'Red Telephone,' was established between the White House and the Kremlin to facilitate urgent communication between the superpowers.",
+        "year": "1963"
+      }
+    ]
+  }
+}
