@@ -5,69 +5,69 @@
       {
         "name": "San Romualdo",
         "type": "Abad",
-        "description": "Nacido en la Italia del siglo X, San Romualdo fue un monje benedictino que fundó la orden camaldulense, abogando por una vida monástica más estricta y austera, centrada en la oración y la soledad."
+        "description": "Nacido en Italia, San Romualdo fue un reformador monástico que fundó la orden camaldulense, conocida por su austera vida eremítica y su énfasis en el silencio y la oración."
       },
       {
         "name": "Santa Juliana Falconieri",
-        "type": "Monja",
-        "description": "Noble de Florencia del siglo XIII, Santa Juliana Falconieri dedicó su vida a Dios, fundó la Tercera Orden Servita de los Siervos de María y tuvo una profunda devoción a la Eucaristía."
+        "type": "Virgen",
+        "description": "Noble florentina, Santa Juliana Falconieri dedicó su vida a Dios, estableciendo la Tercera Orden Servita de Siervas de María, centrada en el cuidado de los marginados."
       },
       {
-        "name": "Santos Gervasio y Protasio",
-        "type": "Mártires",
-        "description": "Estos hermanos gemelos son venerados como primeros mártires cristianos, probablemente del siglo II, y son considerados los primeros mártires de Milán, con sus reliquias descubiertas por San Ambrosio."
+        "name": "San Judas Tadeo",
+        "type": "Apóstol",
+        "description": "Uno de los doce apóstoles de Jesús, tradicionalmente se cree que Judas Tadeo predicó el Evangelio en Mesopotamia y fue martirizado."
       }
     ],
     "observances": [
       {
-        "name": "Día Nacional de la Independencia del Juneteenth",
-        "description": "Un día festivo federal en los Estados Unidos, el Juneteenth conmemora el 19 de junio de 1865, cuando los soldados de la Unión llegaron a Galveston, Texas, anunciando la emancipación de todas las personas esclavizadas, más de dos años después de la Proclamación de Emancipación."
+        "name": "Juneteenth",
+        "description": "Un día festivo federal en los Estados Unidos que conmemora el 19 de junio de 1865, cuando los soldados de la Unión llegaron a Galveston, Texas, anunciando la emancipación de todas las personas esclavizadas en el estado."
       },
       {
         "name": "Día Internacional para la Eliminación de la Violencia Sexual en los Conflictos",
-        "description": "Establecido por la ONU, este día busca concienciar sobre la violencia sexual como táctica de guerra y honra a las víctimas y supervivientes en todo el mundo."
+        "description": "Una observancia de las Naciones Unidas que busca concienciar sobre la violencia sexual como táctica de guerra y pide su eliminación en todo el mundo."
       },
       {
-        "name": "Día Mundial del Paseo Tranquilo",
-        "description": "Este día anima a las personas a ir más despacio, apreciar su entorno y disfrutar de un paseo tranquilo, contrarrestando el ritmo acelerado de la vida moderna."
+        "name": "Día Mundial de la Anemia Falciforme",
+        "description": "Un día internacional de concienciación designado por las Naciones Unidas para aumentar el conocimiento público sobre la enfermedad de células falciformes y su profundo impacto."
       }
     ],
     "historicalQuote": {
-      "text": "Todas las desgracias de los hombres provienen de no saber quedarse quietos en una habitación.",
+      "text": "Todas las desgracias de los hombres provienen de no poder sentarse tranquilos en una habitación solos.",
       "author": "Blaise Pascal",
-      "context": "Blaise Pascal, el influyente matemático, físico y filósofo francés, nació el 19 de junio de 1623."
+      "context": "Blaise Pascal, el influyente matemático, físico y filósofo francés, nació el 19 de junio de 1623. Esta cita refleja sus profundas reflexiones filosóficas sobre la condición humana."
     },
     "births": [
       {
-        "name": "Jacobo VI y I",
-        "description": "Nacido el 19 de junio de 1566, fue Rey de Escocia como Jacobo VI y Rey de Inglaterra e Irlanda como Jacobo I, uniendo las coronas de Escocia e Inglaterra.",
-        "year": "1566"
-      },
-      {
         "name": "Blaise Pascal",
-        "description": "Matemático, físico, inventor, escritor y teólogo católico francés, Pascal nació el 19 de junio de 1623 y realizó importantes contribuciones a la teoría de la probabilidad y la mecánica de fluidos.",
+        "description": "Un reconocido matemático, físico y filósofo francés cuya obra influyó significativamente en las matemáticas, las ciencias naturales y el pensamiento religioso.",
         "year": "1623"
       },
       {
         "name": "Lou Gehrig",
-        "description": "Primera base profesional de béisbol estadounidense para los New York Yankees, Lou Gehrig, nacido el 19 de junio de 1903, fue conocido como 'El Caballo de Hierro' y es celebrado por su destreza al batear y su durabilidad.",
+        "description": "Una leyenda del béisbol estadounidense de los New York Yankees, conocido como 'El Caballo de Hierro' por su excepcional bateo y su racha récord de 2.130 partidos consecutivos jugados.",
         "year": "1903"
+      },
+      {
+        "name": "Salman Rushdie",
+        "description": "Un novelista británico-estadounidense nacido en la India, célebre por su distintivo realismo mágico y obras que a menudo exploran temas de migración, identidad y el choque de culturas.",
+        "year": "1947"
       }
     ],
     "events": [
       {
-        "title": "El Congreso de EE. UU. Prohíbe la Esclavitud en los Territorios",
-        "description": "El 19 de junio de 1862, el Congreso de EE. UU. aprobó una ley que prohibía la esclavitud en todos los territorios existentes y futuros de los Estados Unidos, anulando la decisión de Dred Scott y marcando un paso significativo hacia la abolición a nivel nacional.",
+        "title": "Emancipación de las personas esclavizadas en Texas (Juneteenth)",
+        "description": "El 19 de junio de 1865, las tropas de la Unión llegaron a Galveston, Texas, anunciando formalmente el fin de la esclavitud en el estado, dos años y medio después de la Proclamación de Emancipación.",
+        "year": "1865"
+      },
+      {
+        "title": "El Congreso de EE. UU. prohíbe la esclavitud en los territorios federales",
+        "description": "En 1862, el Congreso de EE. UU. aprobó una legislación que prohibía la esclavitud en todos los territorios federales, un paso legislativo significativo hacia la abolición a nivel nacional.",
         "year": "1862"
       },
       {
-        "title": "Kuwait Declara su Independencia",
-        "description": "Kuwait logró la independencia total del Reino Unido el 19 de junio de 1961, poniendo fin a un estatus de protectorado que había estado vigente desde 1899.",
-        "year": "1961"
-      },
-      {
-        "title": "La Ley de Derechos Civiles de 1964 es Aprobada por el Senado",
-        "description": "Después de un filibusterismo de 83 días, el Senado de EE. UU. aprobó el 19 de junio la histórica Ley de Derechos Civiles de 1964, un logro legislativo fundamental que prohibió la discriminación por motivos de raza, color, religión, sexo u origen nacional.",
+        "title": "El Senado de EE. UU. aprueba la Ley de Derechos Civiles de 1964",
+        "description": "Tras un filibusterismo de 83 días, el Senado de EE. UU. aprobó la histórica Ley de Derechos Civiles, que ilegaliza la discriminación por motivos de raza, color, religión, sexo u origen nacional.",
         "year": "1964"
       }
     ]
@@ -77,69 +77,69 @@
       {
         "name": "Saint Romuald",
         "type": "Abbot",
-        "description": "Born in 10th-century Italy, Saint Romuald was a Benedictine monk who founded the Camaldolese order, advocating for a stricter, more austere monastic life centered on prayer and solitude."
+        "description": "Born in Italy, Saint Romuald was a monastic reformer who founded the Camaldolese order, known for its austere hermitic life and emphasis on silence and prayer."
       },
       {
         "name": "Saint Juliana Falconieri",
-        "type": "Nun",
-        "description": "A noblewoman from Florence in the 13th century, Saint Juliana Falconieri dedicated her life to God, founded the Servite Third Order of Servants of Mary, and had a profound devotion to the Eucharist."
+        "type": "Virgin",
+        "description": "A Florentine noblewoman, Saint Juliana Falconieri dedicated her life to God, establishing the Servite Third Order of Servants of Mary, focused on caring for the marginalized."
       },
       {
-        "name": "Saints Gervase and Protase",
-        "type": "Martyrs",
-        "description": "These twin brothers are venerated as early Christian martyrs, likely of the 2nd century, and are considered the first martyrs of Milan, with their relics discovered by Saint Ambrose."
+        "name": "Holy Apostle Jude Thaddeus",
+        "type": "Apostle",
+        "description": "One of the twelve apostles of Jesus, Jude Thaddeus is traditionally believed to have preached the Gospel in Mesopotamia and was martyred."
       }
     ],
     "observances": [
       {
-        "name": "Juneteenth National Independence Day",
-        "description": "A federal holiday in the United States, Juneteenth commemorates June 19, 1865, when Union soldiers arrived in Galveston, Texas, announcing the emancipation of all enslaved people, more than two years after the Emancipation Proclamation."
+        "name": "Juneteenth",
+        "description": "A federal holiday in the United States commemorating June 19, 1865, when Union soldiers arrived in Galveston, Texas, announcing the emancipation of all enslaved people in the state."
       },
       {
         "name": "International Day for the Elimination of Sexual Violence in Conflict",
-        "description": "Established by the UN, this day raises awareness about sexual violence as a tactic of war and honors victims and survivors worldwide."
+        "description": "A United Nations observance raising awareness of sexual violence as a tactic of war and calling for its elimination worldwide."
       },
       {
-        "name": "World Sauntering Day",
-        "description": "This day encourages people to slow down, appreciate their surroundings, and enjoy a leisurely walk, countering the fast pace of modern life."
+        "name": "World Sickle Cell Day",
+        "description": "An international awareness day designated by the United Nations to raise public knowledge about sickle cell disease and its profound impact."
       }
     ],
     "historicalQuote": {
       "text": "All men's miseries derive from not being able to sit in a quiet room alone.",
       "author": "Blaise Pascal",
-      "context": "Blaise Pascal, the influential French mathematician, physicist, and philosopher, was born on June 19, 1623."
+      "context": "Blaise Pascal, the influential French mathematician, physicist, and philosopher, was born on June 19, 1623. This quote reflects his philosophical insights into the human condition."
     },
     "births": [
       {
-        "name": "James VI and I",
-        "description": "Born on June 19, 1566, he was King of Scotland as James VI and King of England and Ireland as James I, uniting the crowns of Scotland and England.",
-        "year": "1566"
-      },
-      {
         "name": "Blaise Pascal",
-        "description": "A French mathematician, physicist, inventor, writer, and Catholic theologian, Pascal was born on June 19, 1623, and made significant contributions to probability theory and fluid mechanics.",
+        "description": "A renowned French mathematician, physicist, and philosopher whose work significantly influenced mathematics, natural sciences, and religious thought.",
         "year": "1623"
       },
       {
         "name": "Lou Gehrig",
-        "description": "An American professional baseball first baseman for the New York Yankees, Lou Gehrig, born on June 19, 1903, was known as 'The Iron Horse' and is celebrated for his hitting prowess and durability.",
+        "description": "An American baseball legend for the New York Yankees, known as 'The Iron Horse' for his exceptional hitting and record-setting streak of 2,130 consecutive games played.",
         "year": "1903"
+      },
+      {
+        "name": "Salman Rushdie",
+        "description": "An Indian-born British-American novelist celebrated for his distinctive magical realism and works that often explore themes of migration, identity, and the clash of cultures.",
+        "year": "1947"
       }
     ],
     "events": [
       {
-        "title": "U.S. Congress Prohibits Slavery in Territories",
-        "description": "On June 19, 1862, the U.S. Congress passed an act that prohibited slavery in all existing and future United States territories, nullifying the Dred Scott decision and marking a significant step towards nationwide abolition.",
+        "title": "Emancipation of enslaved people in Texas (Juneteenth)",
+        "description": "On June 19, 1865, Union troops arrived in Galveston, Texas, formally announcing the end of slavery in the state, two and a half years after the Emancipation Proclamation.",
+        "year": "1865"
+      },
+      {
+        "title": "U.S. Congress prohibits slavery in federal territories",
+        "description": "In 1862, the U.S. Congress passed legislation prohibiting slavery in all federal territories, a significant legislative step toward nationwide abolition.",
         "year": "1862"
       },
       {
-        "title": "Kuwait Declares Independence",
-        "description": "Kuwait achieved full independence from the United Kingdom on June 19, 1961, ending a protectorate status that had been in place since 1899.",
-        "year": "1961"
-      },
-      {
-        "title": "Civil Rights Act of 1964 Approved by Senate",
-        "description": "After an 83-day filibuster, the U.S. Senate approved the landmark Civil Rights Act of 1964 on June 19, a pivotal legislative achievement that outlawed discrimination based on race, color, religion, sex, or national origin.",
+        "title": "U.S. Senate passes the Civil Rights Act of 1964",
+        "description": "After an 83-day filibuster, the U.S. Senate approved the landmark Civil Rights Act, outlawing discrimination based on race, color, religion, sex, or national origin.",
         "year": "1964"
       }
     ]
@@ -149,69 +149,69 @@
       {
         "name": "São Romualdo",
         "type": "Abade",
-        "description": "Nascido na Itália do século X, São Romualdo foi um monge beneditino que fundou a ordem camaldulense, defendendo uma vida monástica mais rigorosa e austera, centrada na oração e na solidão."
+        "description": "Nascido na Itália, São Romualdo foi um reformador monástico que fundou a ordem camaldulense, conhecida por sua austera vida eremítica e ênfase no silêncio e na oração."
       },
       {
         "name": "Santa Juliana Falconieri",
-        "type": "Freira",
-        "description": "Nobres de Florença do século XIII, Santa Juliana Falconieri dedicou sua vida a Deus, fundou a Terceira Ordem Servita dos Servos de Maria e teve uma profunda devoção à Eucaristia."
+        "type": "Virgem",
+        "description": "Uma nobre florentina, Santa Juliana Falconieri dedicou sua vida a Deus, estabelecendo a Terceira Ordem Servita das Servas de Maria, focada no cuidado dos marginalizados."
       },
       {
-        "name": "Santos Gervásio e Protásio",
-        "type": "Mártires",
-        "description": "Estes irmãos gêmeos são venerados como primeiros mártires cristãos, provavelmente do século II, e são considerados os primeiros mártires de Milão, com suas relíquias descobertas por Santo Ambrósio."
+        "name": "São Judas Tadeu",
+        "type": "Apóstolo",
+        "description": "Um dos doze apóstolos de Jesus, Judas Tadeu é tradicionalmente acreditado ter pregado o Evangelho na Mesopotâmia e ter sido martirizado."
       }
     ],
     "observances": [
       {
-        "name": "Dia Nacional da Independência do Juneteenth",
-        "description": "Um feriado federal nos Estados Unidos, o Juneteenth comemora 19 de junho de 1865, quando soldados da União chegaram a Galveston, Texas, anunciando a emancipação de todas as pessoas escravizadas, mais de dois anos após a Proclamação de Emancipação."
+        "name": "Juneteenth",
+        "description": "Um feriado federal nos Estados Unidos que comemora o 19 de junho de 1865, quando soldados da União chegaram a Galveston, Texas, anunciando a emancipação de todas as pessoas escravizadas no estado."
       },
       {
         "name": "Dia Internacional para a Eliminação da Violência Sexual em Conflitos",
-        "description": "Estabelecido pela ONU, este dia visa aumentar a conscientização sobre a violência sexual como tática de guerra e homenageia vítimas e sobreviventes em todo o mundo."
+        "description": "Uma observância das Nações Unidas que visa aumentar a conscientização sobre a violência sexual como tática de guerra e pede sua eliminação em todo o mundo."
       },
       {
-        "name": "Dia Mundial do Passeio Lento",
-        "description": "Este dia incentiva as pessoas a desacelerar, apreciar o ambiente ao redor e desfrutar de uma caminhada tranquila, contrariando o ritmo acelerado da vida moderna."
+        "name": "Dia Mundial da Doença Falciforme",
+        "description": "Um dia internacional de conscientização designado pelas Nações Unidas para aumentar o conhecimento público sobre a doença falciforme e seu profundo impacto."
       }
     ],
     "historicalQuote": {
-      "text": "Todas as desgraças dos homens provêm de não saberem ficar quietos no seu quarto.",
+      "text": "Todas as misérias dos homens derivam de não serem capazes de sentar-se sozinhos em um quarto silencioso.",
       "author": "Blaise Pascal",
-      "context": "Blaise Pascal, o influente matemático, físico e filósofo francês, nasceu em 19 de junho de 1623."
+      "context": "Blaise Pascal, o influente matemático, físico e filósofo francês, nasceu em 19 de junho de 1623. Esta citação reflete suas percepções filosóficas sobre a condição humana."
     },
     "births": [
       {
-        "name": "Jaime VI e I",
-        "description": "Nascido em 19 de junho de 1566, foi Rei da Escócia como Jaime VI e Rei da Inglaterra e Irlanda como Jaime I, unindo as coroas da Escócia e da Inglaterra.",
-        "year": "1566"
-      },
-      {
         "name": "Blaise Pascal",
-        "description": "Matemático, físico, inventor, escritor e teólogo católico francês, Pascal nasceu em 19 de junho de 1623 e fez contribuições significativas para a teoria da probabilidade e a mecânica dos fluidos.",
+        "description": "Um renomado matemático, físico e filósofo francês cuja obra influenciou significativamente a matemática, as ciências naturais e o pensamento religioso.",
         "year": "1623"
       },
       {
         "name": "Lou Gehrig",
-        "description": "Primeira base profissional de beisebol americano para os New York Yankees, Lou Gehrig, nascido em 19 de junho de 1903, era conhecido como 'O Cavalo de Ferro' e é celebrado por sua proeza de rebatida e durabilidade.",
+        "description": "Uma lenda do beisebol americano dos New York Yankees, conhecido como 'O Cavalo de Ferro' por sua excepcional rebatida e sua sequência recorde de 2.130 jogos consecutivos.",
         "year": "1903"
+      },
+      {
+        "name": "Salman Rushdie",
+        "description": "Um romancista britânico-americano nascido na Índia, celebrado por seu realismo mágico distinto e obras que frequentemente exploram temas de migração, identidade e o choque de culturas.",
+        "year": "1947"
       }
     ],
     "events": [
       {
-        "title": "Congresso dos EUA Proíbe a Escravidão em Territórios",
-        "description": "Em 19 de junho de 1862, o Congresso dos EUA aprovou uma lei que proibia a escravidão em todos os territórios existentes e futuros dos Estados Unidos, anulando a decisão Dred Scott e marcando um passo significativo em direção à abolição em todo o país.",
+        "title": "Emancipação de pessoas escravizadas no Texas (Juneteenth)",
+        "description": "Em 19 de junho de 1865, tropas da União chegaram a Galveston, Texas, anunciando formalmente o fim da escravidão no estado, dois anos e meio após a Proclamação de Emancipação.",
+        "year": "1865"
+      },
+      {
+        "title": "Congresso dos EUA proíbe a escravidão em territórios federais",
+        "description": "Em 1862, o Congresso dos EUA aprovou legislação proibindo a escravidão em todos os territórios federais, um passo legislativo significativo em direção à abolição em todo o país.",
         "year": "1862"
       },
       {
-        "title": "Kuwait Declara Independência",
-        "description": "O Kuwait alcançou a independência total do Reino Unido em 19 de junho de 1961, encerrando um status de protetorado que estava em vigor desde 1899.",
-        "year": "1961"
-      },
-      {
-        "title": "Lei dos Direitos Civis de 1964 Aprovada pelo Senado",
-        "description": "Após um filibuster de 83 dias, o Senado dos EUA aprovou a histórica Lei dos Direitos Civis de 1964 em 19 de junho, uma conquista legislativa crucial que proibiu a discriminação com base em raça, cor, religião, sexo ou origem nacional.",
+        "title": "Senado dos EUA aprova a Lei dos Direitos Civis de 1964",
+        "description": "Após uma obstrução de 83 dias, o Senado dos EUA aprovou a histórica Lei dos Direitos Civis, que ilegaliza a discriminação com base em raça, cor, religião, sexo ou origem nacional.",
         "year": "1964"
       }
     ]
@@ -221,69 +221,69 @@
       {
         "name": "Sant Romuald",
         "type": "Abat",
-        "description": "Nascut a la Itàlia del segle X, sant Romuald va ser un monjo benedictí que va fundar l'orde camaldulenc, defensant una vida monàstica més estricta i austera, centrada en la pregària i la solitud."
+        "description": "Nascut a Itàlia, sant Romuald va ser un reformador monàstic que va fundar l'orde camaldulès, conegut per la seva austera vida eremítica i l'èmfasi en el silenci i l'oració."
       },
       {
         "name": "Santa Juliana Falconieri",
-        "type": "Monja",
-        "description": "Una noble de Florència del segle XIII, santa Juliana Falconieri va dedicar la seva vida a Déu, va fundar la Tercera Orde dels Servents de Maria i va tenir una profunda devoció a l'Eucaristia."
+        "type": "Verge",
+        "description": "Nobledona florentina, santa Juliana Falconieri va dedicar la seva vida a Déu, fundant la Tercera Orde Servita dels Servents de Maria, centrada en la cura dels marginats."
       },
       {
-        "name": "Sants Gervasi i Protasi",
-        "type": "Màrtirs",
-        "description": "Aquests germans bessons són venerats com a màrtirs cristians primitius, probablement del segle II, i són considerats els primers màrtirs de Milà, amb les seves relíquies descobertes per sant Ambròs."
+        "name": "Sant Judes Tadeu",
+        "type": "Apòstol",
+        "description": "Un dels dotze apòstols de Jesús, es creu tradicionalment que Judes Tadeu va predicar l'Evangeli a Mesopotàmia i va ser martiritzat."
       }
     ],
     "observances": [
       {
-        "name": "Dia Nacional de la Independència de Juneteenth",
-        "description": "Una festa federal als Estats Units, el Juneteenth commemora el 19 de juny de 1865, quan els soldats de la Unió van arribar a Galveston, Texas, anunciant l'emancipació de totes les persones esclavitzades, més de dos anys després de la Proclamació d'Emancipació."
+        "name": "Juneteenth",
+        "description": "Un dia festiu federal als Estats Units que commemora el 19 de juny de 1865, quan els soldats de la Unió van arribar a Galveston, Texas, anunciant l'emancipació de totes les persones esclavitzades a l'estat."
       },
       {
         "name": "Dia Internacional per a l'Eliminació de la Violència Sexual en els Conflictes",
-        "description": "Establert per l'ONU, aquest dia sensibilitza sobre la violència sexual com a tàctica de guerra i honora les víctimes i supervivents d'arreu del món."
+        "description": "Una commemoració de les Nacions Unides que consciencia sobre la violència sexual com a tàctica de guerra i demana la seva eliminació a tot el món."
       },
       {
-        "name": "Dia Mundial del Passeig Tranquil",
-        "description": "Aquest dia anima la gent a anar més a poc a poc, apreciar el seu entorn i gaudir d'un passeig tranquil, contrarestant el ritme accelerat de la vida moderna."
+        "name": "Dia Mundial de la Drepanocitosi",
+        "description": "Un dia internacional de conscienciació designat per les Nacions Unides per augmentar el coneixement públic sobre la malaltia de cèl·lules falciformes i el seu profund impacte."
       }
     ],
     "historicalQuote": {
-      "text": "Totes les misèries dels homes deriven de no poder estar asseguts sols en una habitació tranquil·la.",
+      "text": "Totes les misèries dels homes provenen de no poder seure sols en una habitació tranquil·la.",
       "author": "Blaise Pascal",
-      "context": "Blaise Pascal, l'influent matemàtic, físic i filòsof francès, va néixer el 19 de juny de 1623."
+      "context": "Blaise Pascal, l'influent matemàtic, físic i filòsof francès, va néixer el 19 de juny de 1623. Aquesta cita reflecteix les seves reflexions filosòfiques sobre la condició humana."
     },
     "births": [
       {
-        "name": "Jaume VI i I",
-        "description": "Nascut el 19 de juny de 1566, va ser rei d'Escòcia com a Jaume VI i rei d'Anglaterra i Irlanda com a Jaume I, unint les corones d'Escòcia i Anglaterra.",
-        "year": "1566"
-      },
-      {
         "name": "Blaise Pascal",
-        "description": "Matemàtic, físic, inventor, escriptor i teòleg catòlic francès, Pascal va néixer el 19 de juny de 1623 i va fer contribucions significatives a la teoria de la probabilitat i la mecànica de fluids.",
+        "description": "Un reconegut matemàtic, físic i filòsof francès, la seva obra va influir significativament en les matemàtiques, les ciències naturals i el pensament religiós.",
         "year": "1623"
       },
       {
         "name": "Lou Gehrig",
-        "description": "Jugador professional de beisbol nord-americà, primera base dels New York Yankees, Lou Gehrig, nascut el 19 de juny de 1903, era conegut com 'El Cavall de Ferro' i és celebrat per la seva destresa en el bat i la seva durabilitat.",
+        "description": "Una llegenda del beisbol americà dels New York Yankees, conegut com 'El Cavall de Ferro' per la seva excepcional capacitat de batre i la seva ratxa rècord de 2.130 partits consecutius.",
         "year": "1903"
+      },
+      {
+        "name": "Salman Rushdie",
+        "description": "Un novel·lista britànic-americà nascut a l'Índia, celebrat pel seu distintiu realisme màgic i obres que sovint exploren temes de migració, identitat i el xoc de cultures.",
+        "year": "1947"
       }
     ],
     "events": [
       {
-        "title": "El Congrés dels EUA Prohibeix l'Esclavitud als Territoris",
-        "description": "El 19 de juny de 1862, el Congrés dels EUA va aprovar una llei que prohibia l'esclavitud a tots els territoris existents i futurs dels Estats Units, anul·lant la decisió Dred Scott i marcant un pas significatiu cap a l'abolició a tot el país.",
+        "title": "Emancipació de les persones esclavitzades a Texas (Juneteenth)",
+        "description": "El 19 de juny de 1865, les tropes de la Unió van arribar a Galveston, Texas, anunciant formalment la fi de l'esclavitud a l'estat, dos anys i mig després de la Proclamació d'Emancipació.",
+        "year": "1865"
+      },
+      {
+        "title": "El Congrés dels EUA prohibeix l'esclavitud als territoris federals",
+        "description": "El 1862, el Congrés dels EUA va aprovar una legislació que prohibia l'esclavitud a tots els territoris federals, un pas legislatiu significatiu cap a l'abolició a nivell nacional.",
         "year": "1862"
       },
       {
-        "title": "Kuwait Declara la Independència",
-        "description": "Kuwait va aconseguir la plena independència del Regne Unit el 19 de juny de 1961, posant fi a un estatus de protectorat que havia estat vigent des de 1899.",
-        "year": "1961"
-      },
-      {
-        "title": "La Llei de Drets Civils de 1964 és Aprovada pel Senat",
-        "description": "Després d'un filibuster de 83 dies, el Senat dels EUA va aprovar la històrica Llei de Drets Civils de 1964 el 19 de juny, un assoliment legislatiu fonamental que va il·legalitzar la discriminació per raça, color, religió, sexe o origen nacional.",
+        "title": "El Senat dels EUA aprova la Llei de Drets Civils de 1964",
+        "description": "Després d'un filibuster de 83 dies, el Senat dels EUA va aprovar la històrica Llei de Drets Civils, que prohibia la discriminació per raça, color, religió, sexe o origen nacional.",
         "year": "1964"
       }
     ]
