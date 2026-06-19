@@ -1,0 +1,291 @@
+{
+  "date": "2026-06-14",
+  "es": {
+    "saints": [
+      {
+        "name": "San Eliseo",
+        "type": "Profeta",
+        "description": "Gran profeta del Antiguo Testamento y sucesor de Elías, recordado por sus numerosos milagros: purificó las aguas de Jericó, multiplicó el aceite de una viuda, resucitó al hijo de la sunamita y curó a Naamán, jefe militar sirio afectado por lepra."
+      },
+      {
+        "name": "San Metodio de Constantinopla",
+        "type": "Obispo y Confesor",
+        "description": "Patriarca de Constantinopla en el siglo IX, defensor firme del culto a las imágenes sagradas durante la controversia iconoclasta. Sufrió prisión y destierro por su fidelidad doctrinal."
+      },
+      {
+        "name": "San Anastasio, San Félix y Santa Digna",
+        "type": "Mártires",
+        "description": "Mártires cordobeses del siglo IX que testimoniaron su fe cristiana durante la persecución en la España musulmana y fueron ejecutados por negarse a apostatar."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Bandera (Argentina)",
+        "description": "Argentina conmemora el aniversario de la muerte (1820) del general Manuel Belgrano, creador de la bandera argentina. Es un día de homenaje nacional al símbolo patrio y a quien lo diseñó."
+      },
+      {
+        "name": "Día Mundial del Donante de Sangre",
+        "description": "Proclamado por la OMS, este día sensibiliza sobre la necesidad de donaciones de sangre seguras y voluntarias, y agradece a los millones de donantes que salvan vidas cada año."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Hasta la victoria siempre.",
+      "author": "Ernesto 'Che' Guevara",
+      "context": "Ernesto Guevara de la Serna, nacido el 14 de junio de 1928 en Rosario, Argentina, fue médico, guerrillero y símbolo de la revolución latinoamericana del siglo XX. Participó junto a Fidel Castro en la Revolución Cubana y se convirtió en icono global de la lucha contra la injusticia social."
+    },
+    "motivationalQuote": {
+      "text": "El secreto del éxito es comenzar.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Ernesto 'Che' Guevara",
+        "description": "Médico y revolucionario argentino, figura clave de la Revolución Cubana y símbolo universal de la lucha social. Su imagen, captada por Alberto Korda en 1960, es la fotografía más reproducida de la historia.",
+        "year": "1928"
+      },
+      {
+        "name": "Steffi Graf",
+        "description": "Tenista alemana, considerada una de las mejores de todos los tiempos. Única tenista en lograr el 'Golden Slam' (los cuatro Grand Slams y el oro olímpico en el mismo año, 1988).",
+        "year": "1969"
+      },
+      {
+        "name": "Manuel Vázquez Montalbán",
+        "description": "Escritor y periodista español, creador del detective Pepe Carvalho. Premio Nacional de Literatura y referente de la novela negra española del siglo XX.",
+        "year": "1939"
+      }
+    ],
+    "events": [
+      {
+        "title": "Entrada de las tropas alemanas en París",
+        "description": "Durante la Segunda Guerra Mundial, el ejército alemán ocupó París sin resistencia. La Ciudad de la Luz quedó bajo el control nazi durante cuatro años, hasta su liberación en agosto de 1944.",
+        "year": "1940"
+      },
+      {
+        "title": "Rendición argentina en las Malvinas",
+        "description": "Tras 74 días de guerra, el gobernador militar argentino Mario Benjamín Menéndez firmó la rendición ante las fuerzas británicas, poniendo fin al conflicto bélico de las Islas Malvinas en el que murieron 649 soldados argentinos y 255 británicos.",
+        "year": "1982"
+      },
+      {
+        "title": "Primer ataque con bombas V-1 sobre Londres",
+        "description": "Alemania lanzó su primer ataque masivo con las denominadas 'bombas volantes' V-1 contra la ciudad de Londres, inaugurando una nueva y devastadora forma de guerra aérea terrorista contra la población civil.",
+        "year": "1944"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Elisha",
+        "type": "Prophet",
+        "description": "Great prophet of the Old Testament and successor of Elijah, remembered for his numerous miracles: purifying the waters of Jericho, multiplying a widow's oil, raising the Shunammite's son, and curing Naaman, a Syrian military commander afflicted with leprosy."
+      },
+      {
+        "name": "Saint Methodius of Constantinople",
+        "type": "Bishop and Confessor",
+        "description": "Patriarch of Constantinople in the 9th century, a firm defender of the veneration of sacred images during the iconoclast controversy. He suffered imprisonment and exile for his doctrinal fidelity."
+      },
+      {
+        "name": "Saints Anastasius, Felix, and Digna",
+        "type": "Martyrs",
+        "description": "Cordoban martyrs of the 9th century who bore witness to their Christian faith during the persecution in Muslim Spain and were executed for refusing to apostatize."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Flag Day (Argentina)",
+        "description": "Argentina commemorates the anniversary of the death (1820) of General Manuel Belgrano, creator of the Argentine flag. It is a national day of tribute to the national symbol and to the man who designed it."
+      },
+      {
+        "name": "World Blood Donor Day",
+        "description": "Proclaimed by the WHO, this day raises awareness of the need for safe, voluntary blood donations and gives thanks to the millions of donors who save lives every year."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Until victory always.",
+      "author": "Ernesto 'Che' Guevara",
+      "context": "Ernesto Guevara de la Serna, born June 14, 1928 in Rosario, Argentina, was a physician, guerrilla fighter, and symbol of Latin American revolution in the 20th century. He fought alongside Fidel Castro in the Cuban Revolution and became a global icon of the struggle against social injustice."
+    },
+    "motivationalQuote": {
+      "text": "The secret of getting ahead is getting started.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Ernesto 'Che' Guevara",
+        "description": "Argentine physician and revolutionary, key figure of the Cuban Revolution and universal symbol of social struggle. His image, captured by Alberto Korda in 1960, is the most reproduced photograph in history.",
+        "year": "1928"
+      },
+      {
+        "name": "Steffi Graf",
+        "description": "German tennis player considered one of the greatest of all time. The only tennis player to achieve the 'Golden Slam' (all four Grand Slams and Olympic gold in the same year, 1988).",
+        "year": "1969"
+      },
+      {
+        "name": "Manuel Vázquez Montalbán",
+        "description": "Spanish writer and journalist, creator of detective Pepe Carvalho. National Literature Prize winner and a leading figure in Spanish crime fiction of the 20th century.",
+        "year": "1939"
+      }
+    ],
+    "events": [
+      {
+        "title": "German troops enter Paris",
+        "description": "During World War II, the German army occupied Paris without resistance. The City of Light remained under Nazi control for four years, until its liberation in August 1944.",
+        "year": "1940"
+      },
+      {
+        "title": "Argentine surrender in the Falklands",
+        "description": "After 74 days of war, Argentine military governor Mario Benjamín Menéndez signed the surrender to British forces, ending the Falklands War in which 649 Argentine and 255 British soldiers died.",
+        "year": "1982"
+      },
+      {
+        "title": "First V-1 flying bomb attack on London",
+        "description": "Germany launched its first mass attack with V-1 flying bombs on London, inaugurating a new and devastating form of aerial terrorist warfare against the civilian population.",
+        "year": "1944"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Eliseu",
+        "type": "Profeta",
+        "description": "Grande profeta do Antigo Testamento e sucessor de Elias, lembrado por seus numerosos milagres: purificou as águas de Jericó, multiplicou o azeite de uma viúva, ressuscitou o filho da sunamita e curou Naamã, comandante militar sírio acometido de lepra."
+      },
+      {
+        "name": "São Metódio de Constantinopla",
+        "type": "Bispo e Confessor",
+        "description": "Patriarca de Constantinopla no século IX, firme defensor do culto às imagens sagradas durante a controvérsia iconoclasta. Sofreu prisão e exílio por sua fidelidade doutrinária."
+      },
+      {
+        "name": "Santos Anastácio, Félix e Digna",
+        "type": "Mártires",
+        "description": "Mártires cordobeses do século IX que testemunharam a fé cristã durante a perseguição na Espanha muçulmana e foram executados por se recusarem a apostatar."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Bandeira (Argentina)",
+        "description": "A Argentina comemora o aniversário da morte (1820) do general Manuel Belgrano, criador da bandeira argentina. É um dia de homenagem nacional ao símbolo pátrio e a quem o criou."
+      },
+      {
+        "name": "Dia Mundial do Doador de Sangue",
+        "description": "Proclamado pela OMS, este dia conscientiza sobre a necessidade de doações de sangue seguras e voluntárias, e agradece aos milhões de doadores que salvam vidas a cada ano."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Até a vitória sempre.",
+      "author": "Ernesto 'Che' Guevara",
+      "context": "Ernesto Guevara de la Serna, nascido em 14 de junho de 1928 em Rosário, Argentina, foi médico, guerrilheiro e símbolo da revolução latino-americana do século XX. Lutou ao lado de Fidel Castro na Revolução Cubana e tornou-se ícone global da luta contra a injustiça social."
+    },
+    "motivationalQuote": {
+      "text": "O segredo de progredir é começar.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Ernesto 'Che' Guevara",
+        "description": "Médico e revolucionário argentino, figura-chave da Revolução Cubana e símbolo universal da luta social. Sua imagem, capturada por Alberto Korda em 1960, é a fotografia mais reproduzida da história.",
+        "year": "1928"
+      },
+      {
+        "name": "Steffi Graf",
+        "description": "Tenista alemã, considerada uma das maiores de todos os tempos. Única tenista a conquistar o 'Golden Slam' (os quatro Grand Slams e o ouro olímpico no mesmo ano, 1988).",
+        "year": "1969"
+      },
+      {
+        "name": "Manuel Vázquez Montalbán",
+        "description": "Escritor e jornalista espanhol, criador do detetive Pepe Carvalho. Vencedor do Prêmio Nacional de Literatura e referência da ficção policial espanhola do século XX.",
+        "year": "1939"
+      }
+    ],
+    "events": [
+      {
+        "title": "Tropas alemãs entram em Paris",
+        "description": "Durante a Segunda Guerra Mundial, o exército alemão ocupou Paris sem resistência. A Cidade Luz ficou sob controle nazista por quatro anos, até sua libertação em agosto de 1944.",
+        "year": "1940"
+      },
+      {
+        "title": "Rendição argentina nas Malvinas",
+        "description": "Após 74 dias de guerra, o governador militar argentino Mario Benjamín Menéndez assinou a rendição diante das forças britânicas, encerrando a Guerra das Malvinas, na qual morreram 649 soldados argentinos e 255 britânicos.",
+        "year": "1982"
+      },
+      {
+        "title": "Primeiro ataque com bombas V-1 sobre Londres",
+        "description": "A Alemanha lançou seu primeiro ataque em massa com as 'bombas voadoras' V-1 contra Londres, inaugurando uma nova e devastadora forma de guerra aérea terrorista contra a população civil.",
+        "year": "1944"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Eliseu",
+        "type": "Profeta",
+        "description": "Gran profeta de l'Antic Testament i successor d'Elies, recordat pels seus nombrosos miracles: va purificar les aigües de Jericó, va multiplicar l'oli d'una vídua, va ressuscitar el fill de la sunamita i va curar Naamà, cap militar sirià afectat per la lepra."
+      },
+      {
+        "name": "Sant Metodi de Constantinoble",
+        "type": "Bisbe i Confessor",
+        "description": "Patriarca de Constantinoble al segle IX, defensor ferm del culte a les imatges sagrades durant la controvèrsia iconoclasta. Va patir presó i exili per la seva fidelitat doctrinal."
+      },
+      {
+        "name": "Sants Anastasi, Fèlix i Digna",
+        "type": "Màrtirs",
+        "description": "Màrtirs cordovesos del segle IX que van testimoniar la seva fe cristiana durant la persecució a l'Espanya musulmana i van ser executats per negar-se a apostatar."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Bandera (Argentina)",
+        "description": "L'Argentina commemora l'aniversari de la mort (1820) del general Manuel Belgrano, creador de la bandera argentina. És un dia d'homenatge nacional al símbol pàtria i a qui el va dissenyar."
+      },
+      {
+        "name": "Dia Mundial del Donant de Sang",
+        "description": "Proclamat per l'OMS, aquest dia sensibilitza sobre la necessitat de donacions de sang segures i voluntàries, i agraeix als milions de donants que salven vides cada any."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Fins a la victòria sempre.",
+      "author": "Ernesto 'Che' Guevara",
+      "context": "Ernesto Guevara de la Serna, nascut el 14 de juny de 1928 a Rosario, Argentina, va ser metge, guerriller i símbol de la revolució llatinoamericana del segle XX. Va lluitar al costat de Fidel Castro a la Revolució Cubana i es va convertir en icona global de la lluita contra la injustícia social."
+    },
+    "motivationalQuote": {
+      "text": "El secret de progressar és posar-s'hi.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Ernesto 'Che' Guevara",
+        "description": "Metge i revolucionari argentí, figura clau de la Revolució Cubana i símbol universal de la lluita social. La seva imatge, captada per Alberto Korda el 1960, és la fotografia més reproduïda de la història.",
+        "year": "1928"
+      },
+      {
+        "name": "Steffi Graf",
+        "description": "Tennista alemanya, considerada una de les millors de tots els temps. Única tennista a aconseguir el 'Golden Slam' (els quatre Grand Slams i l'or olímpic en el mateix any, 1988).",
+        "year": "1969"
+      },
+      {
+        "name": "Manuel Vázquez Montalbán",
+        "description": "Escriptor i periodista espanyol, creador del detectiu Pepe Carvalho. Premi Nacional de Literatura i referent de la novel·la negra espanyola del segle XX.",
+        "year": "1939"
+      }
+    ],
+    "events": [
+      {
+        "title": "Les tropes alemanyes entren a París",
+        "description": "Durant la Segona Guerra Mundial, l'exèrcit alemany va ocupar París sense resistència. La Ciutat de la Llum va quedar sota el control nazi durant quatre anys, fins a la seva alliberació l'agost de 1944.",
+        "year": "1940"
+      },
+      {
+        "title": "Capitulació argentina a les Malvines",
+        "description": "Després de 74 dies de guerra, el governador militar argentí Mario Benjamín Menéndez va signar la rendició davant les forces britàniques, posant fi a la Guerra de les Malvines, en la qual van morir 649 soldats argentins i 255 britànics.",
+        "year": "1982"
+      },
+      {
+        "title": "Primer atac amb bombes V-1 sobre Londres",
+        "description": "Alemanya va llançar el seu primer atac massiu amb les 'bombes volants' V-1 contra Londres, inaugurant una nova i devastadora forma de guerra aèria terrorista contra la població civil.",
+        "year": "1944"
+      }
+    ]
+  }
+}

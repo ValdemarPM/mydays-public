@@ -1,0 +1,267 @@
+{
+  "date": "2026-05-30",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Juana de Arco",
+        "type": "Virgen y Mártir",
+        "description": "Heroína nacional de Francia y santa de la Iglesia Católica. Campesina de Lorena que, guiada por voces celestiales, lideró al ejército francés a decisivas victorias durante la Guerra de los Cien Años, logrando la coronación de Carlos VII en Reims (1429). Capturada por los borgoñones, fue vendida a los ingleses y quemada viva en Ruán el 30 de mayo de 1431. Canonizada en 1920."
+      },
+      {
+        "name": "San Fernando III de Castilla",
+        "type": "Rey",
+        "description": "Rey de Castilla y León del siglo XIII, conocido como el Santo. Reconquistó Córdoba (1236), Murcia (1243) y Sevilla (1248), transformando el mapa de la Península Ibérica. Fundó la Universidad de Salamanca y es patrono de los ingenieros, los magistrados y la ciudad de Sevilla. Canonizado en 1671."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la ELA (Esclerosis Lateral Amiotrófica)",
+        "description": "Conmemorado el 21 de junio en algunos países y en torno al 30 de mayo en otros, este día busca visibilizar la ELA (también conocida como enfermedad de Lou Gehrig o de Stephen Hawking), una enfermedad neurodegenerativa progresiva que destruye las neuronas motoras."
+      },
+      {
+        "name": "Día de Juana de Arco (Francia)",
+        "description": "Francia celebra cada segundo domingo de mayo la fiesta nacional de Juana de Arco, símbolo del patriotismo y la resistencia franceses. El 30 de mayo, fecha de su martirio en 1431, es recordado como uno de los momentos más trágicos de la historia francesa."
+      }
+    ],
+    "historicalQuote": {
+      "text": "En nombre de Dios, los soldados combatirán y Dios dará la victoria.",
+      "author": "Juana de Arco"
+    },
+    "motivationalQuote": {
+      "text": "El coraje es la primera de las virtudes humanas porque hace posibles todas las demás.",
+      "author": "Aristóteles"
+    },
+    "births": [
+      {
+        "name": "Peter Carl Fabergé",
+        "description": "Joyero y orfebre ruso de origen francés, creador de los célebres huevos de Pascua Fabergé, encargados por los zares Alejandro III y Nicolás II para la familia imperial rusa. Sus piezas son hoy algunas de las joyas más valiosas y cotizadas del mundo.",
+        "year": "1846"
+      },
+      {
+        "name": "Mel Blanc",
+        "description": "Actor de doblaje americano, conocido como el 'Hombre de las Mil Voces'. Prestó su voz a personajes icónicos de Looney Tunes como Bugs Bunny, Pato Lucas, el Pájaro Loco, Tweety y Silvestre, durante más de 60 años.",
+        "year": "1908"
+      },
+      {
+        "name": "Cee Lo Green",
+        "description": "Cantante, compositor y productor americano, conocido por su voz potente y singular y por canciones como Forget You (2010). También es conocido por su trabajo en el grupo Goodie Mob y como jurado en el programa The Voice (EE. UU.).",
+        "year": "1974"
+      }
+    ],
+    "events": [
+      {
+        "title": "Martirio de Juana de Arco",
+        "description": "Juana de Arco fue quemada viva en la Plaza del Mercado Viejo de Ruán (Normandía, Francia) a los 19 años de edad, acusada de herejía y brujería por un tribunal eclesiástico controlado por los ingleses. Fue rehabilitada póstumamente en 1456.",
+        "year": "1431"
+      },
+      {
+        "title": "Inauguración del Indianapolis 500",
+        "description": "Se celebró por primera vez el Indianapolis 500, la carrera de coches más famosa del mundo, en el Indianapolis Motor Speedway. El ganador de la primera edición fue Ray Harroun, con una velocidad media de 120 km/h.",
+        "year": "1911"
+      },
+      {
+        "title": "Tragedia del Heysel",
+        "description": "En el estadio Heysel de Bruselas, antes de la final de la Copa de Europa entre Juventus y Liverpool, una avalancha de aficionados causó la muerte de 39 personas, en su mayoría italianos. Fue el peor desastre en la historia del fútbol europeo.",
+        "year": "1985"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Joan of Arc",
+        "type": "Virgin and Martyr",
+        "description": "National heroine of France and saint of the Catholic Church. A peasant girl from Lorraine who, guided by heavenly voices, led the French army to decisive victories during the Hundred Years' War, securing the coronation of Charles VII at Reims (1429). Captured by the Burgundians and sold to the English, she was burned at the stake in Rouen on 30 May 1431. Canonised in 1920."
+      },
+      {
+        "name": "Saint Ferdinand III of Castile",
+        "type": "King",
+        "description": "13th-century King of Castile and León, known as the Saint. He reconquered Córdoba (1236), Murcia (1243), and Seville (1248), transforming the map of the Iberian Peninsula. He founded the University of Salamanca and is the patron of engineers, magistrates, and the city of Seville. Canonised in 1671."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International ALS Day (Amyotrophic Lateral Sclerosis)",
+        "description": "Commemorated on 21 June in some countries and around 30 May in others, this day seeks to raise awareness of ALS (also known as Lou Gehrig's disease or Stephen Hawking's disease), a progressive neurodegenerative disease that destroys motor neurones."
+      },
+      {
+        "name": "Joan of Arc Day (France)",
+        "description": "France celebrates on the second Sunday of May the national feast of Joan of Arc, symbol of French patriotism and resistance. 30 May, the date of her martyrdom in 1431, is remembered as one of the most tragic moments in French history."
+      }
+    ],
+    "historicalQuote": {
+      "text": "In God's name, the soldiers will fight and God will give the victory.",
+      "author": "Joan of Arc"
+    },
+    "motivationalQuote": {
+      "text": "Courage is the first of human virtues because it makes all others possible.",
+      "author": "Aristotle"
+    },
+    "births": [
+      {
+        "name": "Peter Carl Fabergé",
+        "description": "Russian jeweller and goldsmith of French origin, creator of the famous Fabergé Easter eggs, commissioned by Tsars Alexander III and Nicholas II for the Russian imperial family. His pieces are today some of the most valuable and sought-after jewels in the world.",
+        "year": "1846"
+      },
+      {
+        "name": "Mel Blanc",
+        "description": "American voice actor, known as the 'Man of a Thousand Voices'. He voiced iconic Looney Tunes characters such as Bugs Bunny, Daffy Duck, Woody Woodpecker, Tweety, and Sylvester, for more than 60 years.",
+        "year": "1908"
+      },
+      {
+        "name": "Cee Lo Green",
+        "description": "American singer, songwriter, and producer, known for his powerful and distinctive voice and for songs such as Forget You (2010). He is also known for his work with the group Goodie Mob and as a judge on The Voice (USA).",
+        "year": "1974"
+      }
+    ],
+    "events": [
+      {
+        "title": "Martyrdom of Joan of Arc",
+        "description": "Joan of Arc was burned alive in the Old Market Square of Rouen (Normandy, France) at the age of 19, accused of heresy and witchcraft by an ecclesiastical tribunal controlled by the English. She was posthumously rehabilitated in 1456.",
+        "year": "1431"
+      },
+      {
+        "title": "Inaugural Indianapolis 500",
+        "description": "The Indianapolis 500, the world's most famous car race, was held for the first time at the Indianapolis Motor Speedway. The winner of the first edition was Ray Harroun, with an average speed of 120 km/h.",
+        "year": "1911"
+      },
+      {
+        "title": "Heysel Stadium Disaster",
+        "description": "At the Heysel Stadium in Brussels, before the European Cup Final between Juventus and Liverpool, a crowd crush caused the deaths of 39 people, mostly Italians. It was the worst disaster in European football history.",
+        "year": "1985"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Joana d'Arc",
+        "type": "Virgem e Mártir",
+        "description": "Heroína nacional de França e santa da Igreja Católica. Uma camponesa da Lorena que, guiada por vozes celestiais, liderou o exército francês a decisivas vitórias durante a Guerra dos Cem Anos, conseguindo a coroação de Carlos VII em Reims (1429). Capturada pelos borgonheses e vendida aos ingleses, foi queimada viva em Ruão a 30 de maio de 1431. Canonizada em 1920."
+      },
+      {
+        "name": "São Fernando III de Castela",
+        "type": "Rei",
+        "description": "Rei de Castela e Leão do século XIII, conhecido como o Santo. Reconquistou Córdoba (1236), Múrcia (1243) e Sevilha (1248), transformando o mapa da Península Ibérica. Fundou a Universidade de Salamanca e é patrono dos engenheiros, magistrados e da cidade de Sevilha. Canonizado em 1671."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da ELA (Esclerose Lateral Amiotrófica)",
+        "description": "Comemorado a 21 de junho nalguns países e em torno de 30 de maio noutros, este dia procura dar visibilidade à ELA (também conhecida como doença de Lou Gehrig ou de Stephen Hawking), uma doença neurodegenerativa progressiva que destrói os neurónios motores."
+      },
+      {
+        "name": "Dia de Joana d'Arc (França)",
+        "description": "França celebra no segundo domingo de maio a festa nacional de Joana d'Arc, símbolo do patriotismo e da resistência franceses. O 30 de maio, data do seu martírio em 1431, é lembrado como um dos momentos mais trágicos da história francesa."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Em nome de Deus, os soldados combaterão e Deus dará a vitória.",
+      "author": "Joana d'Arc"
+    },
+    "motivationalQuote": {
+      "text": "A coragem é a primeira das virtudes humanas porque torna possíveis todas as outras.",
+      "author": "Aristóteles"
+    },
+    "births": [
+      {
+        "name": "Peter Carl Fabergé",
+        "description": "Joalheiro e ourives russo de origem francesa, criador dos célebres ovos de Páscoa Fabergé, encomendados pelos czares Alexandre III e Nicolau II para a família imperial russa. As suas peças são hoje algumas das joias mais valiosas e cobiçadas do mundo.",
+        "year": "1846"
+      },
+      {
+        "name": "Mel Blanc",
+        "description": "Ator de dobragem americano, conhecido como o 'Homem das Mil Vozes'. Emprestou a sua voz a personagens icónicas dos Looney Tunes como Bugs Bunny, Pato Daffy, Pica-Pau, Tweety e Frajola, durante mais de 60 anos.",
+        "year": "1908"
+      },
+      {
+        "name": "Cee Lo Green",
+        "description": "Cantor, compositor e produtor americano, conhecido pela sua voz poderosa e singular e por canções como Forget You (2010). Também é conhecido pelo seu trabalho no grupo Goodie Mob e como jurado no programa The Voice (EUA).",
+        "year": "1974"
+      }
+    ],
+    "events": [
+      {
+        "title": "Martírio de Joana d'Arc",
+        "description": "Joana d'Arc foi queimada viva na Praça do Velho Mercado de Ruão (Normandia, França) aos 19 anos de idade, acusada de heresia e bruxaria por um tribunal eclesiástico controlado pelos ingleses. Foi reabilitada postumamente em 1456.",
+        "year": "1431"
+      },
+      {
+        "title": "Inaugural das 500 Milhas de Indianápolis",
+        "description": "Realizou-se pela primeira vez as 500 Milhas de Indianápolis, a corrida de automóveis mais famosa do mundo, no Indianapolis Motor Speedway. O vencedor da primeira edição foi Ray Harroun, com uma velocidade média de 120 km/h.",
+        "year": "1911"
+      },
+      {
+        "title": "Tragédia do Heysel",
+        "description": "No estádio Heysel de Bruxelas, antes da final da Taça dos Campeões entre a Juventus e o Liverpool, uma avalanche de adeptos causou a morte de 39 pessoas, na sua maioria italianas. Foi o pior desastre na história do futebol europeu.",
+        "year": "1985"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Joana d'Arc",
+        "type": "Verge i Màrtir",
+        "description": "Heroïna nacional de França i santa de l'Església Catòlica. Una camperola de la Lorena que, guiada per veus celestials, va liderar l'exèrcit francès a decisives victòries durant la Guerra dels Cent Anys, aconseguint la coronació de Carles VII a Reims (1429). Capturada pels borgonyons i venuda als anglesos, va ser cremada viva a Ruán el 30 de maig de 1431. Canonitzada el 1920."
+      },
+      {
+        "name": "Sant Ferran III de Castella",
+        "type": "Rei",
+        "description": "Rei de Castella i Lleó del segle XIII, conegut com el Sant. Va reconquerir Còrdova (1236), Múrcia (1243) i Sevilla (1248), transformant el mapa de la Península Ibèrica. Va fundar la Universitat de Salamanca i és patró dels enginyers, els magistrats i la ciutat de Sevilla. Canonitzat el 1671."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de l'ELA (Esclerosi Lateral Amiotròfica)",
+        "description": "Commemorat el 21 de juny en alguns països i al voltant del 30 de maig en d'altres, aquest dia vol donar visibilitat a l'ELA (també coneguda com a malaltia de Lou Gehrig o de Stephen Hawking), una malaltia neurodegenerativa progressiva que destrueix les neurones motores."
+      },
+      {
+        "name": "Dia de Joana d'Arc (França)",
+        "description": "França celebra el segon diumenge de maig la festa nacional de Joana d'Arc, símbol del patriotisme i la resistència francesos. El 30 de maig, data del seu martiri el 1431, és recordat com un dels moments més tràgics de la història francesa."
+      }
+    ],
+    "historicalQuote": {
+      "text": "En nom de Déu, els soldats combatran i Déu donarà la victòria.",
+      "author": "Joana d'Arc"
+    },
+    "motivationalQuote": {
+      "text": "El coratge és la primera de les virtuts humanes perquè fa possibles totes les altres.",
+      "author": "Aristòtil"
+    },
+    "births": [
+      {
+        "name": "Peter Carl Fabergé",
+        "description": "Joier i orfebre rus d'origen francès, creador dels cèlebres ous de Pasqua Fabergé, encarregats pels tsars Alexandre III i Nicolau II per a la família imperial russa. Les seves peces són avui algunes de les joies més valuoses i cotitzades del món.",
+        "year": "1846"
+      },
+      {
+        "name": "Mel Blanc",
+        "description": "Actor de doblatge americà, conegut com l''Home de les Mil Veus'. Va prestar la seva veu a personatges icònics dels Looney Tunes com Bugs Bunny, l'Ànnec Daffy, el Picot, Titi i Silvestre, durant més de 60 anys.",
+        "year": "1908"
+      },
+      {
+        "name": "Cee Lo Green",
+        "description": "Cantant, compositor i productor americà, conegut per la seva veu potent i singular i per cançons com Forget You (2010). També és conegut pel seu treball amb el grup Goodie Mob i com a jurat al programa The Voice (EUA).",
+        "year": "1974"
+      }
+    ],
+    "events": [
+      {
+        "title": "Martiri de Joana d'Arc",
+        "description": "Joana d'Arc va ser cremada viva a la Plaça del Mercat Vell de Ruán (Normandia, França) als 19 anys, acusada d'heretgia i bruixeria per un tribunal eclesiàstic controlat pels anglesos. Va ser rehabilitada pòstumament el 1456.",
+        "year": "1431"
+      },
+      {
+        "title": "Inauguració de les 500 Milles d'Indianapolis",
+        "description": "Es va celebrar per primera vegada les 500 Milles d'Indianapolis, la cursa d'automòbils més famosa del món, a l'Indianapolis Motor Speedway. El guanyador de la primera edició va ser Ray Harroun, amb una velocitat mitjana de 120 km/h.",
+        "year": "1911"
+      },
+      {
+        "title": "Tragèdia del Heysel",
+        "description": "A l'estadi Heysel de Brussel·les, abans de la final de la Copa d'Europa entre la Juventus i el Liverpool, una allau d'aficionats va causar la mort de 39 persones, la majoria italianes. Va ser el pitjor desastre en la història del futbol europeu.",
+        "year": "1985"
+      }
+    ]
+  }
+}

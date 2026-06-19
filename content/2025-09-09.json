@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-09",
+  "es": {
+    "saints": [
+      {
+        "name": "San Pedro Claver",
+        "type": "Sacerdote",
+        "description": "Jesuita catalán nacido en Verdú (Lérida) en 1581 que pasó cuarenta años en Cartagena de Indias (Colombia) bautizando y atendiendo a más de 300.000 esclavos africanos. Canonizado en 1888, es patrono de las misiones entre los esclavos."
+      },
+      {
+        "name": "San Sergio de Roma",
+        "type": "Papa",
+        "description": "Papa entre 687 y 701. Fue él quien ordenó celebrar la fiesta de la Natividad de la Virgen el 8 de septiembre en toda la Iglesia occidental. Se opuso al concilio Quinisexto convocado por Justiniano II."
+      },
+      {
+        "name": "San Omobono de Cremona",
+        "type": "Laico",
+        "description": "Comerciante italiano del siglo XII conocido por su profunda fe, su generosidad con los pobres y su integridad en los negocios. Canonizado apenas dos años después de su muerte, es patrono de los sastres y comerciantes."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de Tayikistán",
+        "description": "Tayikistán celebra su independencia de la Unión Soviética, declarada el 9 de septiembre de 1991 tras el fallido golpe de Estado de agosto en Moscú."
+      },
+      {
+        "name": "Día Nacional de Corea — Gaecheonjeol",
+        "description": "Corea del Sur celebra el Gaecheonjeol (Día de la Apertura del Cielo), festividad nacional que conmemora el mítico nacimiento de la nación coreana según la leyenda de Dangun en el año 2333 a.C."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La esclavitud es un pecado contra la humanidad y una vergüenza para la civilización.",
+      "author": "San Pedro Claver",
+      "context": "El jesuita catalán, cuya festividad se celebra hoy, dedicó su vida entera a aliviar el sufrimiento de los esclavos africanos en Colombia. Su testimonio constituye una de las páginas más luminosas del catolicismo en América."
+    },
+    "motivationalQuote": {
+      "text": "La perseverancia no es una carrera larga; son muchas carreras cortas, una tras otra.",
+      "author": "Walter Elliot"
+    },
+    "births": [
+      {
+        "name": "Leo Tolstói",
+        "description": "Escritor ruso considerado uno de los más grandes novelistas de la historia. Sus obras Guerra y paz (1869) y Anna Karenina (1878) son pilares de la literatura universal.",
+        "year": 1828
+      },
+      {
+        "name": "Adam Sandler",
+        "description": "Actor, cómico, guionista y productor americano, conocido por comedias de gran éxito taquillero como Happy Gilmore (1996) y Billy Madison (1995), y por dramas aclamados como Diamantes en bruto (2019).",
+        "year": 1966
+      },
+      {
+        "name": "Hugh Grant",
+        "description": "Actor británico famoso por sus papeles en comedias románticas como Cuatro bodas y un funeral (1994), Notting Hill (1999) y Bridget Jones (2001), y más recientemente por dramas serios como The Undoing (2020).",
+        "year": 1960
+      }
+    ],
+    "events": [
+      {
+        "title": "California admitida como estado de EE.UU.",
+        "description": "California fue admitida como el 31.º estado de los Estados Unidos de América, consolidando la presencia norteamericana en el Pacífico tras la guerra mexicano-estadounidense.",
+        "year": 1850
+      },
+      {
+        "title": "Mao Zedong proclama la República Popular China",
+        "description": "Mao Zedong proclamó la fundación de la República Popular China en la plaza de Tiananmén, Pekín, iniciando el régimen comunista que gobernaría el país hasta hoy.",
+        "year": 1949
+      },
+      {
+        "title": "Creación de la Autoridad Nacional Palestina",
+        "description": "Se firmaron los Acuerdos de Oslo entre Israel y la OLP en Washington, estableciendo la Autoridad Nacional Palestina y creando un marco para la resolución del conflicto palestino-israelí.",
+        "year": 1993
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Peter Claver",
+        "type": "Priest",
+        "description": "A Catalan Jesuit born in Verdú (Lleida) in 1581, who spent forty years in Cartagena de Indias (Colombia) baptising and caring for more than 300,000 enslaved Africans. Canonised in 1888, he is the patron of missions among enslaved people."
+      },
+      {
+        "name": "Saint Sergius I of Rome",
+        "type": "Pope",
+        "description": "Pope from 687 to 701. It was he who ordered the feast of the Nativity of the Virgin to be celebrated on 8 September throughout the Western Church. He opposed the Quinisext Council convened by Justinian II."
+      },
+      {
+        "name": "Saint Homobonus of Cremona",
+        "type": "Layman",
+        "description": "A 12th-century Italian merchant known for his deep faith, generosity to the poor, and integrity in business. Canonised only two years after his death, he is patron of tailors and merchants."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Tajikistan Independence Day",
+        "description": "Tajikistan celebrates its independence from the Soviet Union, declared on 9 September 1991 after the failed coup in Moscow in August."
+      },
+      {
+        "name": "Korean National Day — Gaecheonjeol",
+        "description": "South Korea celebrates Gaecheonjeol (National Foundation Day), a national holiday commemorating the mythical birth of the Korean nation according to the legend of Dangun in 2333 BC."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Slavery is a sin against humanity and a disgrace to civilisation.",
+      "author": "Saint Peter Claver",
+      "context": "The Catalan Jesuit, whose feast is celebrated today, devoted his entire life to alleviating the suffering of enslaved Africans in Colombia. His witness is one of the most luminous chapters of Catholicism in the Americas."
+    },
+    "motivationalQuote": {
+      "text": "Perseverance is not a long race; it is many short races one after another.",
+      "author": "Walter Elliot"
+    },
+    "births": [
+      {
+        "name": "Leo Tolstoy",
+        "description": "Russian writer considered one of the greatest novelists in history. His works War and Peace (1869) and Anna Karenina (1878) are pillars of world literature.",
+        "year": 1828
+      },
+      {
+        "name": "Adam Sandler",
+        "description": "American actor, comedian, screenwriter and producer, known for highly successful comedies such as Happy Gilmore (1996) and Billy Madison (1995), and acclaimed dramas like Uncut Gems (2019).",
+        "year": 1966
+      },
+      {
+        "name": "Hugh Grant",
+        "description": "British actor famous for his roles in romantic comedies such as Four Weddings and a Funeral (1994), Notting Hill (1999) and Bridget Jones's Diary (2001), and more recently for serious dramas like The Undoing (2020).",
+        "year": 1960
+      }
+    ],
+    "events": [
+      {
+        "title": "California admitted as a US state",
+        "description": "California was admitted as the 31st state of the United States of America, consolidating American presence on the Pacific coast following the Mexican-American War.",
+        "year": 1850
+      },
+      {
+        "title": "Mao Zedong proclaims the People's Republic of China",
+        "description": "Mao Zedong proclaimed the founding of the People's Republic of China at Tiananmen Square, Beijing, initiating the communist regime that would govern the country to the present day.",
+        "year": 1949
+      },
+      {
+        "title": "Oslo Accords signed — creation of the Palestinian Authority",
+        "description": "The Oslo Accords were signed between Israel and the PLO in Washington, establishing the Palestinian National Authority and creating a framework for resolving the Palestinian-Israeli conflict.",
+        "year": 1993
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Pedro Claver",
+        "type": "Sacerdote",
+        "description": "Jesuíta catalão nascido em Verdú (Lérida) em 1581, que passou quarenta anos em Cartagena das Índias (Colômbia) batizando e cuidando de mais de 300.000 escravizados africanos. Canonizado em 1888, é patrono das missões entre os escravizados."
+      },
+      {
+        "name": "São Sérgio I de Roma",
+        "type": "Papa",
+        "description": "Papa entre 687 e 701. Foi ele quem ordenou que a festa da Natividade da Virgem fosse celebrada a 8 de setembro em toda a Igreja ocidental. Opôs-se ao Concílio Quinissexto convocado por Justiniano II."
+      },
+      {
+        "name": "São Omobono de Cremona",
+        "type": "Leigo",
+        "description": "Comerciante italiano do século XII conhecido pela sua profunda fé, generosidade com os pobres e integridade nos negócios. Canonizado apenas dois anos após a sua morte, é patrono dos alfaiates e comerciantes."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência do Tajiquistão",
+        "description": "O Tajiquistão celebra a sua independência da União Soviética, declarada em 9 de setembro de 1991 após a fracassada tentativa de golpe em Moscou em agosto."
+      },
+      {
+        "name": "Dia Nacional da Coreia — Gaecheonjeol",
+        "description": "A Coreia do Sul celebra o Gaecheonjeol (Dia da Fundação Nacional), feriado nacional que comemora o nascimento mítico da nação coreana segundo a lenda de Dangun em 2333 a.C."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A escravidão é um pecado contra a humanidade e uma vergonha para a civilização.",
+      "author": "São Pedro Claver",
+      "context": "O jesuíta catalão, cuja festa se celebra hoje, dedicou toda a sua vida a aliviar o sofrimento dos escravizados africanos na Colômbia. O seu testemunho é uma das páginas mais luminosas do catolicismo nas Américas."
+    },
+    "motivationalQuote": {
+      "text": "A perseverança não é uma corrida longa; são muitas corridas curtas, uma após a outra.",
+      "author": "Walter Elliot"
+    },
+    "births": [
+      {
+        "name": "Lev Tolstói",
+        "description": "Escritor russo considerado um dos maiores romancistas da história. As suas obras Guerra e Paz (1869) e Ana Karenina (1878) são pilares da literatura universal.",
+        "year": 1828
+      },
+      {
+        "name": "Adam Sandler",
+        "description": "Ator, comediante, argumentista e produtor americano, conhecido por comédias de grande sucesso como Happy Gilmore (1996) e Billy Madison (1995), e dramas aclamados como Diamantes em Bruto (2019).",
+        "year": 1966
+      },
+      {
+        "name": "Hugh Grant",
+        "description": "Ator britânico famoso pelos seus papéis em comédias românticas como Quatro Casamentos e um Funeral (1994), Notting Hill (1999) e O Diário de Bridget Jones (2001), e mais recentemente por dramas sérios como The Undoing (2020).",
+        "year": 1960
+      }
+    ],
+    "events": [
+      {
+        "title": "Califórnia admitida como estado dos EUA",
+        "description": "A Califórnia foi admitida como o 31.º estado dos Estados Unidos da América, consolidando a presença norte-americana na costa do Pacífico após a guerra mexicano-americana.",
+        "year": 1850
+      },
+      {
+        "title": "Mao Zedong proclama a República Popular da China",
+        "description": "Mao Zedong proclamou a fundação da República Popular da China na Praça Tiananmen, Pequim, iniciando o regime comunista que governaria o país até aos nossos dias.",
+        "year": 1949
+      },
+      {
+        "title": "Acordos de Oslo assinados — criação da Autoridade Palestiniana",
+        "description": "Os Acordos de Oslo foram assinados entre Israel e a OLP em Washington, estabelecendo a Autoridade Nacional Palestiniana e criando um quadro para a resolução do conflito palestino-israelense.",
+        "year": 1993
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Pere Claver",
+        "type": "Sacerdot",
+        "description": "Jesuïta català nascut a Verdú (Lleida) el 1581 que va passar quaranta anys a Cartagena d'Índies (Colòmbia) batejant i atenent més de 300.000 esclaus africans. Canonitzat el 1888, és patró de les missions entre els esclaus."
+      },
+      {
+        "name": "Sant Sergi I de Roma",
+        "type": "Papa",
+        "description": "Papa entre 687 i 701. Va ser ell qui va ordenar que la festa de la Nativitat de la Verge es celebrés el 8 de setembre a tota l'Església occidental. S'oposà al concili Quinisext convocat per Justinià II."
+      },
+      {
+        "name": "Sant Omobono de Cremona",
+        "type": "Laic",
+        "description": "Comerciant italià del segle XII conegut per la seva profunda fe, la generositat amb els pobres i la integritat en els negocis. Canonitzat només dos anys després de la seva mort, és patró dels sastres i comerciants."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència del Tadjikistan",
+        "description": "El Tadjikistan celebra la seva independència de la Unió Soviètica, declarada el 9 de setembre de 1991 després del fracassat cop d'estat de Moscou al mes d'agost."
+      },
+      {
+        "name": "Dia Nacional de Corea — Gaecheonjeol",
+        "description": "Corea del Sud celebra el Gaecheonjeol (Dia de la Fundació Nacional), festivitat nacional que commemora el mític naixement de la nació coreana segons la llegenda de Dangun l'any 2333 a.C."
+      }
+    ],
+    "historicalQuote": {
+      "text": "L'esclavitud és un pecat contra la humanitat i una vergonya per a la civilització.",
+      "author": "Sant Pere Claver",
+      "context": "El jesuïta català, la festivitat del qual se celebra avui, va dedicar tota la seva vida a alleujar el sofriment dels esclaus africans a Colòmbia. El seu testimoni és una de les pàgines més lluminoses del catolicisme a Amèrica."
+    },
+    "motivationalQuote": {
+      "text": "La perseverança no és una cursa llarga; són moltes curses curtes, una darrere l'altra.",
+      "author": "Walter Elliot"
+    },
+    "births": [
+      {
+        "name": "Lev Tolstoi",
+        "description": "Escriptor rus considerat un dels més grans novel·listes de la història. Les seves obres Guerra i pau (1869) i Anna Karenina (1878) són pilars de la literatura universal.",
+        "year": 1828
+      },
+      {
+        "name": "Adam Sandler",
+        "description": "Actor, còmic, guionista i productor americà, conegut per comèdies d'enorme èxit de taquilla com Happy Gilmore (1996) i Billy Madison (1995), i per drames aclamats com Diamants en brut (2019).",
+        "year": 1966
+      },
+      {
+        "name": "Hugh Grant",
+        "description": "Actor britànic famós pels seus papers en comèdies romàntiques com Quatre noces i un funeral (1994), Notting Hill (1999) i El diari de Bridget Jones (2001), i més recentment per drames seriosos com The Undoing (2020).",
+        "year": 1960
+      }
+    ],
+    "events": [
+      {
+        "title": "Califòrnia admesa com a estat dels EUA",
+        "description": "Califòrnia va ser admesa com el 31è estat dels Estats Units d'Amèrica, consolidant la presència nord-americana a la costa del Pacífic després de la guerra mexicà-nord-americana.",
+        "year": 1850
+      },
+      {
+        "title": "Mao Zedong proclama la República Popular de la Xina",
+        "description": "Mao Zedong va proclamar la fundació de la República Popular de la Xina a la plaça de Tiananmen, Pequín, iniciant el règim comunista que governaria el país fins avui.",
+        "year": 1949
+      },
+      {
+        "title": "Acords d'Oslo signats — creació de l'Autoritat Nacional Palestina",
+        "description": "Els Acords d'Oslo van ser signats entre Israel i l'OAP a Washington, establint l'Autoritat Nacional Palestina i creant un marc per a la resolució del conflicte palestino-israelià.",
+        "year": 1993
+      }
+    ]
+  }
+}

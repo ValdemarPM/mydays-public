@@ -1,0 +1,119 @@
+{
+  "date": "2026-02-15",
+  "es": {
+    "saints": [
+      { "name": "San Faustino", "type": "Mártir", "description": "Mártir del siglo II junto a su hermano Jovita, en Brescia (Italia); venerado como patrón de la ciudad." },
+      { "name": "Santa Georgina", "type": "Virgen", "description": "Mártir gala del siglo IV que, según la tradición, afrontó su ejecución con serenidad y fortaleza de espíritu." }
+    ],
+    "observances": [
+      { "name": "Día Internacional del Niño con Cáncer", "description": "Jornada promovida por la Childhood Cancer International (CCI) para concienciar sobre el cáncer infantil y apoyar a familias afectadas." },
+      { "name": "Día de los Precios Uniformes del Libro en España", "description": "En España, la ley de precio fijo del libro protege la diversidad editorial garantizando que todos los libreros vendan al mismo precio." }
+    ],
+    "historicalQuote": {
+      "text": "La esperanza es poder ver que hay luz a pesar de toda la oscuridad.",
+      "author": "Desmond Tutu",
+      "context": "Tutu (1931-2021), arzobispo y activista sudafricano, recibió el Nobel de la Paz en 1984. Su mensaje de esperanza durante el apartheid sigue siendo universal."
+    },
+    "motivationalQuote": {
+      "text": "No importa cuán lento vayas, siempre y cuando no te detengas.",
+      "author": "Confucio"
+    },
+    "births": [
+      { "name": "Galileo Galilei (celebración alternativa)", "description": "Algunos calendarios fijan el bautismo de Galileo el 15 de febrero de 1564 en Pisa; su legado científico transformó nuestra comprensión del universo." , "year": 1564 },
+      { "name": "Susan B. Anthony", "description": "Activista estadounidense por el sufragio femenino, cofundadora de la National Woman Suffrage Association y símbolo de la lucha por la igualdad.", "year": 1820 },
+      { "name": "Chris Farley", "description": "Actor y comediante estadounidense, figura de Saturday Night Live en los años 90, conocido por sus papeles en Tommy Boy y Black Sheep.", "year": 1964 }
+    ],
+    "events": [
+      { "title": "Explosión del USS Maine en La Habana", "description": "El acorazado estadounidense USS Maine explota en el puerto de La Habana, causando 266 muertos. El suceso impulsó a EE. UU. a declararle la guerra a España.", "year": 1898 },
+      { "title": "Singapur cae ante Japón", "description": "Las fuerzas japonesas toman Singapur, que el general Percival entrega con 80.000 soldados británicos, en la mayor capitulación de la historia militar británica.", "year": 1942 },
+      { "title": "Primera reunión de la Corte Suprema de EE. UU.", "description": "La Corte Suprema de los Estados Unidos celebra su primera sesión en la ciudad de Nueva York, iniciando su labor como máximo tribunal del país.", "year": 1790 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Faustinus", "type": "Martyr", "description": "2nd-century martyr alongside his brother Jovita, in Brescia (Italy); venerated as patron of the city." },
+      { "name": "Saint Georgina", "type": "Virgin", "description": "4th-century Gallic martyr who, according to tradition, faced her execution with serenity and strength of spirit." }
+    ],
+    "observances": [
+      { "name": "International Childhood Cancer Day", "description": "A day promoted by Childhood Cancer International (CCI) to raise awareness of childhood cancer and support affected families." },
+      { "name": "Fixed Book Price Day (Spain)", "description": "In Spain, the fixed book price law protects editorial diversity by ensuring all booksellers sell at the same price." }
+    ],
+    "historicalQuote": {
+      "text": "Hope is being able to see that there is light despite all of the darkness.",
+      "author": "Desmond Tutu",
+      "context": "Tutu (1931–2021), South African archbishop and activist, received the Nobel Peace Prize in 1984. His message of hope during apartheid remains universal."
+    },
+    "motivationalQuote": {
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius"
+    },
+    "births": [
+      { "name": "Susan B. Anthony", "description": "American women's suffrage activist, co-founder of the National Woman Suffrage Association and symbol of the fight for equality.", "year": 1820 },
+      { "name": "Chris Farley", "description": "American actor and comedian, a Saturday Night Live fixture in the 1990s, known for his roles in Tommy Boy and Black Sheep.", "year": 1964 },
+      { "name": "Jaime Pressly", "description": "American actress and model, known for her role as Joy Turner in the sitcom My Name is Earl.", "year": 1977 }
+    ],
+    "events": [
+      { "title": "USS Maine explodes in Havana", "description": "The American battleship USS Maine explodes in Havana harbour, killing 266 men. The event pushed the US towards declaring war on Spain.", "year": 1898 },
+      { "title": "Singapore falls to Japan", "description": "Japanese forces take Singapore, which General Percival surrenders with 80,000 British soldiers — the largest capitulation in British military history.", "year": 1942 },
+      { "title": "First session of the US Supreme Court", "description": "The Supreme Court of the United States holds its first session in New York City, beginning its work as the country's highest court.", "year": 1790 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Faustino", "type": "Mártir", "description": "Mártir do século II juntamente com seu irmão Jovita, em Brescia (Itália); venerado como padroeiro da cidade." },
+      { "name": "Santa Georgina", "type": "Virgem", "description": "Mártir gaulesa do século IV que, segundo a tradição, enfrentou a execução com serenidade e força de espírito." }
+    ],
+    "observances": [
+      { "name": "Dia Internacional do Câncer Infantil", "description": "Jornada promovida pela Childhood Cancer International (CCI) para conscientizar sobre o câncer infantil e apoiar as famílias afetadas." },
+      { "name": "Dia do Preço Fixo do Livro (Espanha)", "description": "Na Espanha, a lei do preço fixo do livro protege a diversidade editorial, garantindo que todos os livreiros vendam pelo mesmo preço." }
+    ],
+    "historicalQuote": {
+      "text": "A esperança é conseguir ver que há luz apesar de toda a escuridão.",
+      "author": "Desmond Tutu",
+      "context": "Tutu (1931-2021), arcebispo e ativista sul-africano, recebeu o Nobel da Paz em 1984. Sua mensagem de esperança durante o apartheid continua sendo universal."
+    },
+    "motivationalQuote": {
+      "text": "Não importa o quão devagar você vá, desde que não pare.",
+      "author": "Confúcio"
+    },
+    "births": [
+      { "name": "Susan B. Anthony", "description": "Ativista americana pelo sufrágio feminino, cofundadora da National Woman Suffrage Association e símbolo da luta pela igualdade.", "year": 1820 },
+      { "name": "Chris Farley", "description": "Ator e comediante americano, figura do Saturday Night Live nos anos 90, conhecido por seus papéis em Tommy Boy e Black Sheep.", "year": 1964 },
+      { "name": "Jaime Pressly", "description": "Atriz e modelo americana, conhecida pelo papel de Joy Turner na sitcom My Name is Earl.", "year": 1977 }
+    ],
+    "events": [
+      { "title": "Explosão do USS Maine em Havana", "description": "O couraçado americano USS Maine explode no porto de Havana, causando 266 mortes. O episódio impulsionou os EUA a declarar guerra à Espanha.", "year": 1898 },
+      { "title": "Cingapura cai para o Japão", "description": "As forças japonesas tomam Cingapura, que o general Percival entrega com 80.000 soldados britânicos — a maior capitulação da história militar britânica.", "year": 1942 },
+      { "title": "Primeira sessão do Supremo Tribunal dos EUA", "description": "A Suprema Corte dos Estados Unidos realiza sua primeira sessão na cidade de Nova York, iniciando seus trabalhos como o mais alto tribunal do país.", "year": 1790 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Faustí", "type": "Màrtir", "description": "Màrtir del segle II juntament amb el seu germà Jovita, a Brescia (Itàlia); venerat com a patró de la ciutat." },
+      { "name": "Santa Georgina", "type": "Verge", "description": "Màrtir gal·la del segle IV que, segons la tradició, va afrontar la seva execució amb serenitat i fortalesa d'esperit." }
+    ],
+    "observances": [
+      { "name": "Dia Internacional del Càncer Infantil", "description": "Jornada promoguda per Childhood Cancer International (CCI) per conscienciar sobre el càncer infantil i donar suport a les famílies afectades." },
+      { "name": "Dia del Preu Fix del Llibre (Espanya)", "description": "A Espanya, la llei del preu fix del llibre protegeix la diversitat editorial garantint que tots els llibreters venguin al mateix preu." }
+    ],
+    "historicalQuote": {
+      "text": "L'esperança és poder veure que hi ha llum malgrat tota la foscor.",
+      "author": "Desmond Tutu",
+      "context": "Tutu (1931-2021), arquebisbe i activista sud-africà, va rebre el Nobel de la Pau el 1984. El seu missatge d'esperança durant l'apartheid continua sent universal."
+    },
+    "motivationalQuote": {
+      "text": "No importa com de a poc vagis, sempre que no t'aturis.",
+      "author": "Confuci"
+    },
+    "births": [
+      { "name": "Susan B. Anthony", "description": "Activista nord-americana pel sufragi femení, cofundadora de la National Woman Suffrage Association i símbol de la lluita per la igualtat.", "year": 1820 },
+      { "name": "Chris Farley", "description": "Actor i comediant americà, figura del Saturday Night Live als anys 90, conegut pels seus papers a Tommy Boy i Black Sheep.", "year": 1964 },
+      { "name": "Jaime Pressly", "description": "Actriu i model nord-americana, coneguda pel paper de Joy Turner a la sitcom My Name is Earl.", "year": 1977 }
+    ],
+    "events": [
+      { "title": "Explosió del USS Maine a l'Havana", "description": "El cuirassat americà USS Maine explota al port de l'Havana, causant 266 morts. El succés va impulsar els EUA a declarar la guerra a Espanya.", "year": 1898 },
+      { "title": "Singapur cau davant el Japó", "description": "Les forces japoneses prenen Singapur, que el general Percival lliura amb 80.000 soldats britànics — la major capitulació de la història militar britànica.", "year": 1942 },
+      { "title": "Primera sessió del Tribunal Suprem dels EUA", "description": "El Tribunal Suprem dels Estats Units celebra la seva primera sessió a Nova York, iniciant la seva tasca com a màxim tribunal del país.", "year": 1790 }
+    ]
+  }
+}

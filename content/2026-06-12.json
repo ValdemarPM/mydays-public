@@ -1,0 +1,291 @@
+{
+  "date": "2026-06-12",
+  "es": {
+    "saints": [
+      {
+        "name": "San Juan de Sahagún",
+        "type": "Presbítero",
+        "description": "Nacido en Sahagún (León) hacia 1430, desarrolló su ministerio en Salamanca, donde trabajó incansablemente para reconciliar familias enfrentadas y poner fin a conflictos entre facciones rivales. Agustino de profunda espiritualidad, fue canonizado en 1690 y es patrono de Salamanca."
+      },
+      {
+        "name": "San Onofre",
+        "type": "Eremita",
+        "description": "Anacoreta egipcio de los siglos IV-V, uno de los más célebres ermitaños del desierto. Abandonó la vida monástica comunitaria para retirarse en absoluta soledad durante décadas, consagrado íntegramente a la oración y la penitencia."
+      },
+      {
+        "name": "Beato Antonio Bajewski",
+        "type": "Mártir",
+        "description": "Sacerdote polaco que murió durante la persecución nazi en la Segunda Guerra Mundial. Representa a los miles de religiosos que dieron la vida por su fe durante el nazismo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial contra el Trabajo Infantil",
+        "description": "Establecido por la OIT en 2002, este día denuncia que más de 160 millones de niños en el mundo se ven obligados a trabajar, privados del derecho a la educación, la infancia y el futuro. El objetivo es la erradicación total del trabajo infantil."
+      },
+      {
+        "name": "Día de la Independencia (Filipinas)",
+        "description": "Filipinas celebra la proclamación de independencia del 12 de junio de 1898, cuando Emilio Aguinaldo declaró la soberanía del país frente al dominio español, siendo la primera república asiática."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A pesar de todo, creo que la gente es buena en el fondo.",
+      "author": "Ana Frank",
+      "context": "Annelies Marie Frank nació el 12 de junio de 1929 en Fráncfort. El día de su decimotercer cumpleaños recibió el diario que la haría inmortal. Escondida con su familia durante la ocupación nazi de Países Bajos, su testimonio se convirtió en uno de los documentos más leídos del siglo XX y en símbolo universal de la resistencia al odio."
+    },
+    "motivationalQuote": {
+      "text": "Empieza donde estás. Usa lo que tienes. Haz lo que puedas.",
+      "author": "Arthur Ashe"
+    },
+    "births": [
+      {
+        "name": "Ana Frank",
+        "description": "Joven judía alemana cuyo diario, escrito durante la ocupación nazi de los Países Bajos, se convirtió en uno de los testimonios más leídos del Holocausto y en símbolo universal de la resistencia y la esperanza.",
+        "year": "1929"
+      },
+      {
+        "name": "Djokovic, Novak",
+        "description": "Tenista serbio, uno de los más grandes de todos los tiempos. Múltiple campeón de Grand Slam y número uno del mundo durante un récord de semanas, considerado por muchos el mejor tenista de la historia.",
+        "year": "1987"
+      },
+      {
+        "name": "George H. W. Bush",
+        "description": "Político estadounidense, 41.º presidente de los Estados Unidos (1989-1993). Presidió el fin de la Guerra Fría, la reunificación alemana y la primera Guerra del Golfo.",
+        "year": "1924"
+      }
+    ],
+    "events": [
+      {
+        "title": "Declaración de Independencia de Filipinas",
+        "description": "Emilio Aguinaldo proclamó la independencia de Filipinas del dominio español en Kawit, Cavite, izando la bandera filipina y convirtiéndose en el primer presidente de la primera república de Asia.",
+        "year": "1898"
+      },
+      {
+        "title": "Ana Frank recibe su diario",
+        "description": "En su decimotercer cumpleaños, Ana Frank recibió como regalo el cuaderno a cuadros rojo y blanco que utilizaría como diario durante su escondite en Ámsterdam. Ese mismo día comenzó a escribir sus primeras páginas.",
+        "year": "1942"
+      },
+      {
+        "title": "Mandela libre: discurso histórico en Johannesburgo",
+        "description": "Tras 27 años en prisión, Nelson Mandela pronunció su primer discurso público en Johannesburgo ante una multitud histórica, marcando el inicio del fin del apartheid en Sudáfrica.",
+        "year": "1990"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint John of Sahagún",
+        "type": "Priest",
+        "description": "Born in Sahagún (León) around 1430, he carried out his ministry in Salamanca, where he worked tirelessly to reconcile feuding families and end conflicts between rival factions. An Augustinian friar of deep spirituality, he was canonized in 1690 and is the patron saint of Salamanca."
+      },
+      {
+        "name": "Saint Onuphrius",
+        "type": "Hermit",
+        "description": "Egyptian anchorite of the 4th-5th centuries, one of the most celebrated hermits of the desert. He left communal monastic life to withdraw into complete solitude for decades, entirely devoted to prayer and penance."
+      },
+      {
+        "name": "Blessed Antoni Bajewski",
+        "type": "Martyr",
+        "description": "Polish priest who died during the Nazi persecution in World War II. He represents the thousands of religious who gave their lives for their faith under Nazism."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Day Against Child Labour",
+        "description": "Established by the ILO in 2002, this day denounces that over 160 million children worldwide are forced to work, deprived of the right to education, childhood, and a future. The goal is the total eradication of child labour."
+      },
+      {
+        "name": "Independence Day (Philippines)",
+        "description": "The Philippines celebrates the proclamation of independence on June 12, 1898, when Emilio Aguinaldo declared the country's sovereignty from Spanish rule, making it the first republic in Asia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Despite everything, I believe that people are really good at heart.",
+      "author": "Anne Frank",
+      "context": "Annelies Marie Frank was born on June 12, 1929 in Frankfurt. On her thirteenth birthday she received the diary that would make her immortal. Hidden with her family during the Nazi occupation of the Netherlands, her testimony became one of the most widely read documents of the 20th century and a universal symbol of resistance to hatred."
+    },
+    "motivationalQuote": {
+      "text": "Start where you are. Use what you have. Do what you can.",
+      "author": "Arthur Ashe"
+    },
+    "births": [
+      {
+        "name": "Anne Frank",
+        "description": "Young German-Jewish girl whose diary, written during the Nazi occupation of the Netherlands, became one of the most widely read testimonies of the Holocaust and a universal symbol of resistance and hope.",
+        "year": "1929"
+      },
+      {
+        "name": "Novak Djokovic",
+        "description": "Serbian tennis player, one of the greatest of all time. Multiple Grand Slam champion and world No. 1 for a record number of weeks, considered by many to be the best tennis player in history.",
+        "year": "1987"
+      },
+      {
+        "name": "George H. W. Bush",
+        "description": "American politician and 41st President of the United States (1989-1993). He presided over the end of the Cold War, German reunification, and the first Gulf War.",
+        "year": "1924"
+      }
+    ],
+    "events": [
+      {
+        "title": "Philippine Declaration of Independence",
+        "description": "Emilio Aguinaldo proclaimed Philippine independence from Spanish rule in Kawit, Cavite, raising the Philippine flag and becoming the first president of Asia's first republic.",
+        "year": "1898"
+      },
+      {
+        "title": "Anne Frank receives her diary",
+        "description": "On her thirteenth birthday, Anne Frank received as a gift the red-and-white checked notebook she would use as a diary during her hiding in Amsterdam. That very day she began to write her first entries.",
+        "year": "1942"
+      },
+      {
+        "title": "Mandela free: historic speech in Johannesburg",
+        "description": "After 27 years in prison, Nelson Mandela gave his first public speech in Johannesburg before a historic crowd, marking the beginning of the end of apartheid in South Africa.",
+        "year": "1990"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São João de Sahagún",
+        "type": "Presbítero",
+        "description": "Nascido em Sahagún (Leão) por volta de 1430, desenvolveu seu ministério em Salamanca, onde trabalhou incansavelmente para reconciliar famílias em conflito e pôr fim às disputas entre facções rivais. Agostiniano de profunda espiritualidade, foi canonizado em 1690 e é patrono de Salamanca."
+      },
+      {
+        "name": "São Onofre",
+        "type": "Eremita",
+        "description": "Anacoreta egípcio dos séculos IV-V, um dos mais célebres ermitões do deserto. Abandonou a vida monástica comunitária para se retirar em absoluta solidão durante décadas, consagrado inteiramente à oração e à penitência."
+      },
+      {
+        "name": "Beato Antônio Bajewski",
+        "type": "Mártir",
+        "description": "Sacerdote polonês que morreu durante a perseguição nazista na Segunda Guerra Mundial. Representa os milhares de religiosos que deram a vida pela sua fé sob o nazismo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial contra o Trabalho Infantil",
+        "description": "Estabelecido pela OIT em 2002, este dia denuncia que mais de 160 milhões de crianças no mundo são forçadas a trabalhar, privadas do direito à educação, à infância e ao futuro. O objetivo é a erradicação total do trabalho infantil."
+      },
+      {
+        "name": "Dia da Independência (Filipinas)",
+        "description": "As Filipinas celebram a proclamação de independência de 12 de junho de 1898, quando Emilio Aguinaldo declarou a soberania do país frente ao domínio espanhol, tornando-se a primeira república asiática."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Apesar de tudo, acredito que as pessoas são boas no fundo.",
+      "author": "Ana Frank",
+      "context": "Annelies Marie Frank nasceu em 12 de junho de 1929 em Frankfurt. No dia do seu décimo terceiro aniversário, recebeu o diário que a tornaria imortal. Escondida com sua família durante a ocupação nazista dos Países Baixos, seu testemunho se tornou um dos documentos mais lidos do século XX e um símbolo universal da resistência ao ódio."
+    },
+    "motivationalQuote": {
+      "text": "Comece onde você está. Use o que você tem. Faça o que você pode.",
+      "author": "Arthur Ashe"
+    },
+    "births": [
+      {
+        "name": "Ana Frank",
+        "description": "Jovem judia alemã cujo diário, escrito durante a ocupação nazista dos Países Baixos, tornou-se um dos testemunhos mais lidos do Holocausto e um símbolo universal de resistência e esperança.",
+        "year": "1929"
+      },
+      {
+        "name": "Novak Djokovic",
+        "description": "Tenista sérvio, um dos maiores de todos os tempos. Múltiplo campeão de Grand Slam e número um do mundo por um número recorde de semanas, considerado por muitos o melhor tenista da história.",
+        "year": "1987"
+      },
+      {
+        "name": "George H. W. Bush",
+        "description": "Político americano e 41.º presidente dos Estados Unidos (1989-1993). Presidiu o fim da Guerra Fria, a reunificação alemã e a primeira Guerra do Golfo.",
+        "year": "1924"
+      }
+    ],
+    "events": [
+      {
+        "title": "Declaração de Independência das Filipinas",
+        "description": "Emilio Aguinaldo proclamou a independência das Filipinas do domínio espanhol em Kawit, Cavite, hasteando a bandeira filipina e tornando-se o primeiro presidente da primeira república da Ásia.",
+        "year": "1898"
+      },
+      {
+        "title": "Ana Frank recebe seu diário",
+        "description": "No seu décimo terceiro aniversário, Ana Frank recebeu de presente o caderno xadrez vermelho e branco que usaria como diário durante seu esconderijo em Amsterdã. Nesse mesmo dia começou a escrever suas primeiras páginas.",
+        "year": "1942"
+      },
+      {
+        "title": "Mandela livre: discurso histórico em Joanesburgo",
+        "description": "Após 27 anos na prisão, Nelson Mandela proferiu seu primeiro discurso público em Joanesburgo diante de uma multidão histórica, marcando o início do fim do apartheid na África do Sul.",
+        "year": "1990"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Joan de Sahagún",
+        "type": "Prevere",
+        "description": "Nascut a Sahagún (Lleó) cap al 1430, va desenvolupar el seu ministeri a Salamanca, on va treballar incansablement per reconciliar famílies enfrontades i posar fi als conflictes entre faccions rivals. Agustí de profunda espiritualitat, va ser canonitzat el 1690 i és patró de Salamanca."
+      },
+      {
+        "name": "Sant Onofre",
+        "type": "Eremita",
+        "description": "Anacoreta egipci dels segles IV-V, un dels ermitans del desert més cèlebres. Va abandonar la vida monàstica comunitària per retirar-se en absoluta soledat durant dècades, consagrat íntegrament a la pregària i la penitència."
+      },
+      {
+        "name": "Beat Antoni Bajewski",
+        "type": "Màrtir",
+        "description": "Sacerdot polonès que va morir durant la persecució nazi a la Segona Guerra Mundial. Representa els milers de religiosos que van donar la vida per la seva fe durant el nazisme."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial contra el Treball Infantil",
+        "description": "Establert per l'OIT el 2002, aquest dia denuncia que més de 160 milions de nens al món es veuen obligats a treballar, privats del dret a l'educació, la infància i el futur. L'objectiu és l'eradicació total del treball infantil."
+      },
+      {
+        "name": "Dia de la Independència (Filipines)",
+        "description": "Les Filipines celebren la proclamació d'independència del 12 de juny de 1898, quan Emilio Aguinaldo va declarar la sobirania del país davant el domini espanyol, convertint-se en la primera república asiàtica."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Malgrat tot, crec que la gent és bona en el fons.",
+      "author": "Anna Frank",
+      "context": "Annelies Marie Frank va néixer el 12 de juny de 1929 a Frankfurt. El dia del seu tretzè aniversari va rebre el diari que la faria immortal. Amagada amb la seva família durant l'ocupació nazi dels Països Baixos, el seu testimoni es va convertir en un dels documents més llegits del segle XX i en símbol universal de la resistència a l'odi."
+    },
+    "motivationalQuote": {
+      "text": "Comença on ets. Usa el que tens. Fes el que pots.",
+      "author": "Arthur Ashe"
+    },
+    "births": [
+      {
+        "name": "Anna Frank",
+        "description": "Jove jueva alemanya el diari de la qual, escrit durant l'ocupació nazi dels Països Baixos, es va convertir en un dels testimonis més llegits de l'Holocaust i en símbol universal de la resistència i l'esperança.",
+        "year": "1929"
+      },
+      {
+        "name": "Novak Djokovic",
+        "description": "Tennista serbi, un dels més grans de tots els temps. Múltiple campió de Grand Slam i número u del món durant un nombre rècord de setmanes, considerat per molts el millor tennista de la història.",
+        "year": "1987"
+      },
+      {
+        "name": "George H. W. Bush",
+        "description": "Polític nord-americà i 41è president dels Estats Units (1989-1993). Va presidir el final de la Guerra Freda, la reunificació alemanya i la primera Guerra del Golf.",
+        "year": "1924"
+      }
+    ],
+    "events": [
+      {
+        "title": "Declaració d'Independència de les Filipines",
+        "description": "Emilio Aguinaldo va proclamar la independència de les Filipines del domini espanyol a Kawit, Cavite, hissant la bandera filipina i convertint-se en el primer president de la primera república d'Àsia.",
+        "year": "1898"
+      },
+      {
+        "title": "Anna Frank rep el seu diari",
+        "description": "En el seu tretzè aniversari, Anna Frank va rebre com a regal el quadern a quadres vermell i blanc que usaria com a diari durant el seu amagatall a Amsterdam. Aquell mateix dia va començar a escriure les primeres pàgines.",
+        "year": "1942"
+      },
+      {
+        "title": "Mandela lliure: discurs històric a Johannesburg",
+        "description": "Després de 27 anys a la presó, Nelson Mandela va pronunciar el seu primer discurs públic a Johannesburg davant una multitud històrica, marcant l'inici del final de l'apartheid a Sud-àfrica.",
+        "year": "1990"
+      }
+    ]
+  }
+}

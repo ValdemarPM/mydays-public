@@ -1,0 +1,291 @@
+{
+  "date": "2026-04-21",
+  "es": {
+    "saints": [
+      {
+        "name": "San Anselmo de Canterbury",
+        "type": "Obispo y Doctor de la Iglesia",
+        "description": "Teólogo y filósofo medieval italiano del siglo XI-XII, arzobispo de Canterbury. Considerado el padre de la Escolástica, formuló el famoso 'argumento ontológico' para demostrar la existencia de Dios. Defendió la libertad de la Iglesia frente al poder real y fue desterrado dos veces por los reyes ingleses. Canonizado en 1494."
+      },
+      {
+        "name": "San Conrado de Parzham",
+        "type": "Lego franciscano",
+        "description": "Hermano lego capuchino bávaro del siglo XIX, portero del santuario de Altötting durante 41 años. Era conocido por su paciencia, humildad y caridad hacia los peregrinos y los pobres. Fue canonizado por Pío XI en 1934 y es patrono de los porteros y los hermanos legos."
+      },
+      {
+        "name": "Santa Serapia",
+        "type": "Virgen y Mártir",
+        "description": "Mártir romana del siglo II, esclava procedente de Antioquía que fue vendida a la noble cristiana Sabina. Convertida su señora al cristianismo, fueron arrestadas durante la persecución de Adriano. Serapia fue ejecutada primero, y Sabina fue santificada junto a ella."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de Tiradentes (Brasil)",
+        "description": "Feriado nacional en Brasil que conmemora la muerte de Joaquim José da Silva Xavier, conocido como 'Tiradentes', el 21 de abril de 1792. Líder de la 'Inconfidência Mineira', el primer movimiento independentista de Brasil, fue ejecutado por las autoridades coloniales portuguesas. Es héroe nacional y mártir de la independencia."
+      },
+      {
+        "name": "Aniversario de la Fundación de Roma",
+        "description": "El 21 de abril se celebra el 'Natale di Roma', aniversario de la fundación legendaria de Roma por Rómulo en el año 753 a.C. según la tradición romana. La ciudad celebra este día con actos históricos en el Capitolio y los Foros Imperiales."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La fe busca, la inteligencia encuentra.",
+      "author": "San Anselmo de Canterbury",
+      "context": "San Anselmo, cuya festividad se celebra hoy, sintetizó en su método teológico la relación entre fe y razón con el principio 'fides quaerens intellectum' (la fe que busca la comprensión). Fue el primer gran pensador escolástico del Occidente medieval."
+    },
+    "motivationalQuote": {
+      "text": "La felicidad no es algo ya hecho. Proviene de tus propias acciones.",
+      "author": "Dalai Lama"
+    },
+    "births": [
+      {
+        "name": "Elizabeth II",
+        "description": "Reina del Reino Unido e Irlanda del Norte y Jefa de la Commonwealth desde 1952 hasta su muerte en septiembre de 2022, convirtiéndose en la monarca con más tiempo en el trono de la historia del Reino Unido. Durante su reinado presenció la descolonización, la guerra fría, el Brexit y 15 primeros ministros diferentes.",
+        "year": "1926"
+      },
+      {
+        "name": "Charlotte Brontë",
+        "description": "Novelista inglesa del siglo XIX, autora de 'Jane Eyre' (1847), una de las novelas más influyentes de la literatura inglesa. Junto a sus hermanas Emily (autora de 'Cumbres borrascosas') y Anne, formó una de las tríadas literarias más célebres de la historia. Publicó originalmente bajo el seudónimo Currer Bell.",
+        "year": "1816"
+      },
+      {
+        "name": "Elton John",
+        "description": "Músico, cantante y compositor británico, uno de los artistas más exitosos de todos los tiempos con más de 300 millones de álbumes vendidos. Sus canciones 'Rocket Man', 'Your Song', 'Crocodile Rock' y 'Candle in the Wind' son himnos de la música pop. Fue nombrado Sir por la reina Isabel II en 1998.",
+        "year": "1947"
+      }
+    ],
+    "events": [
+      {
+        "title": "Ejecución de Tiradentes en Brasil",
+        "description": "Joaquim José da Silva Xavier, 'Tiradentes', fue ahorcado y descuartizado en Río de Janeiro por las autoridades coloniales portuguesas por liderar la 'Inconfidência Mineira', el primer movimiento independentista de Brasil. Su cabeza fue expuesta en Ouro Preto como advertencia.",
+        "year": "1792"
+      },
+      {
+        "title": "Nacimiento de Roma",
+        "description": "Según la tradición romana, Rómulo fundó la ciudad de Roma el 21 de abril del año 753 a.C., trazando un surco sagrado con un arado sobre el Palatino para delimitar el 'pomerium' (límite sagrado de la ciudad). La fecha fue calculada por el astrólogo Marco Terencio Varrón en el siglo I a.C.",
+        "year": "753 a.C."
+      },
+      {
+        "title": "Caída de la Dictadura Griega",
+        "description": "Un golpe de estado militar conocido como 'la junta de los coroneles' tomó el poder en Grecia, instaurando una dictadura que duraría hasta 1974. El régimen abolió la Constitución, disolvió los partidos políticos y persiguió a la oposición.",
+        "year": "1967"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Anselm of Canterbury",
+        "type": "Bishop and Doctor of the Church",
+        "description": "An 11th–12th century Italian medieval theologian and philosopher, Archbishop of Canterbury. Considered the father of Scholasticism, he formulated the famous 'ontological argument' for the existence of God. He defended the freedom of the Church against royal power and was exiled twice by English kings. Canonised in 1494."
+      },
+      {
+        "name": "Saint Conrad of Parzham",
+        "type": "Franciscan lay brother",
+        "description": "A 19th-century Bavarian Capuchin lay brother, porter of the Altötting shrine for 41 years. He was known for his patience, humility, and charity towards pilgrims and the poor. He was canonised by Pius XI in 1934 and is the patron saint of porters and lay brothers."
+      },
+      {
+        "name": "Saint Serapia",
+        "type": "Virgin and Martyr",
+        "description": "A 2nd-century Roman martyr, a slave from Antioch who was sold to the Christian noblewoman Sabina. After converting her mistress to Christianity, they were both arrested during the Hadrianic persecution. Serapia was executed first, and Sabina was sanctified alongside her."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Tiradentes Day (Brazil)",
+        "description": "A national holiday in Brazil commemorating the death of Joaquim José da Silva Xavier, known as 'Tiradentes', on 21 April 1792. Leader of the 'Inconfidência Mineira', Brazil's first independence movement, he was executed by the Portuguese colonial authorities. He is a national hero and martyr of independence."
+      },
+      {
+        "name": "Anniversary of the Founding of Rome",
+        "description": "On 21 April, the 'Natale di Roma' (Birthday of Rome) is celebrated, marking the legendary founding of Rome by Romulus in 753 BC according to Roman tradition. The city marks this day with historical events at the Capitoline Hill and the Imperial Fora."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Faith seeks, understanding finds.",
+      "author": "Saint Anselm of Canterbury",
+      "context": "Saint Anselm, whose feast is celebrated today, synthesised the relationship between faith and reason in his theological method with the principle 'fides quaerens intellectum' (faith seeking understanding). He was the first great Scholastic thinker of the medieval West."
+    },
+    "motivationalQuote": {
+      "text": "Happiness is not something ready-made. It comes from your own actions.",
+      "author": "Dalai Lama"
+    },
+    "births": [
+      {
+        "name": "Queen Elizabeth II",
+        "description": "Queen of the United Kingdom and Northern Ireland and Head of the Commonwealth from 1952 until her death in September 2022, becoming the longest-reigning monarch in British history. During her reign she witnessed decolonisation, the Cold War, Brexit, and 15 different Prime Ministers.",
+        "year": "1926"
+      },
+      {
+        "name": "Charlotte Brontë",
+        "description": "19th-century English novelist, author of 'Jane Eyre' (1847), one of the most influential novels in English literature. Together with her sisters Emily (author of 'Wuthering Heights') and Anne, she formed one of the most celebrated literary trios in history. She originally published under the pseudonym Currer Bell.",
+        "year": "1816"
+      },
+      {
+        "name": "Elton John",
+        "description": "British musician, singer, and songwriter, one of the most successful artists of all time with over 300 million albums sold. His songs 'Rocket Man', 'Your Song', 'Crocodile Rock', and 'Candle in the Wind' are anthems of pop music. He was knighted Sir by Queen Elizabeth II in 1998.",
+        "year": "1947"
+      }
+    ],
+    "events": [
+      {
+        "title": "Execution of Tiradentes in Brazil",
+        "description": "Joaquim José da Silva Xavier, 'Tiradentes', was hanged and quartered in Rio de Janeiro by the Portuguese colonial authorities for leading the 'Inconfidência Mineira', Brazil's first independence movement. His head was displayed in Ouro Preto as a warning.",
+        "year": "1792"
+      },
+      {
+        "title": "Birth of Rome",
+        "description": "According to Roman tradition, Romulus founded the city of Rome on 21 April 753 BC, tracing a sacred furrow with a plough on the Palatine Hill to demarcate the 'pomerium' (the sacred boundary of the city). The date was calculated by the astrologer Marcus Terentius Varro in the 1st century BC.",
+        "year": "753 BC"
+      },
+      {
+        "title": "The Greek Military Junta Seizes Power",
+        "description": "A military coup known as 'the Colonels' junta' took power in Greece, establishing a dictatorship that would last until 1974. The regime abolished the Constitution, dissolved political parties, and persecuted the opposition.",
+        "year": "1967"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Anselmo de Cantuária",
+        "type": "Bispo e Doutor da Igreja",
+        "description": "Teólogo e filósofo medieval italiano dos séculos XI-XII, arcebispo de Cantuária. Considerado o pai da Escolástica, formulou o famoso 'argumento ontológico' para demonstrar a existência de Deus. Defendeu a liberdade da Igreja face ao poder real e foi exilado duas vezes pelos reis ingleses. Canonizado em 1494."
+      },
+      {
+        "name": "São Conrado de Parzham",
+        "type": "Irmão leigo franciscano",
+        "description": "Irmão leigo capuchinho bávaro do século XIX, porteiro do santuário de Altötting durante 41 anos. Era conhecido pela sua paciência, humildade e caridade para com os peregrinos e os pobres. Foi canonizado por Pio XI em 1934 e é patrono dos porteiros e dos irmãos leigos."
+      },
+      {
+        "name": "Santa Serapia",
+        "type": "Virgem e Mártir",
+        "description": "Mártir romana do século II, escrava procedente de Antioquia que foi vendida à nobre cristã Sabina. Após converter a sua senhora ao cristianismo, foram presas durante a perseguição de Adriano. Serapia foi executada primeiro, e Sabina foi santificada ao seu lado."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Tiradentes (Brasil)",
+        "description": "Feriado nacional no Brasil que comemora a morte de Joaquim José da Silva Xavier, conhecido como 'Tiradentes', em 21 de abril de 1792. Líder da 'Inconfidência Mineira', o primeiro movimento independentista do Brasil, foi executado pelas autoridades coloniais portuguesas. É herói nacional e mártir da independência."
+      },
+      {
+        "name": "Aniversário da Fundação de Roma",
+        "description": "Em 21 de abril celebra-se o 'Natale di Roma', aniversário da fundação lendária de Roma por Rômulo no ano 753 a.C. segundo a tradição romana. A cidade celebra este dia com atos históricos no Capitólio e nos Fóruns Imperiais."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A fé busca, a inteligência encontra.",
+      "author": "Santo Anselmo de Cantuária",
+      "context": "Santo Anselmo, cuja festividade se celebra hoje, sintetizou a relação entre fé e razão no seu método teológico com o princípio 'fides quaerens intellectum' (a fé que busca a compreensão). Foi o primeiro grande pensador escolástico do Ocidente medieval."
+    },
+    "motivationalQuote": {
+      "text": "A felicidade não é algo já feito. Provém das suas próprias ações.",
+      "author": "Dalai Lama"
+    },
+    "births": [
+      {
+        "name": "Rainha Isabel II",
+        "description": "Rainha do Reino Unido e da Irlanda do Norte e Chefe da Commonwealth de 1952 até à sua morte em setembro de 2022, tornando-se a monarca com mais tempo no trono da história do Reino Unido. Durante o seu reinado assistiu à descolonização, à guerra fria, ao Brexit e a 15 primeiros-ministros diferentes.",
+        "year": "1926"
+      },
+      {
+        "name": "Charlotte Brontë",
+        "description": "Romancista inglesa do século XIX, autora de 'Jane Eyre' (1847), uma das obras mais influentes da literatura inglesa. Juntamente com as suas irmãs Emily (autora de 'O Monte dos Vendavais') e Anne, formou uma das tríadas literárias mais célebres da história. Publicou originalmente sob o pseudónimo Currer Bell.",
+        "year": "1816"
+      },
+      {
+        "name": "Elton John",
+        "description": "Músico, cantor e compositor britânico, um dos artistas mais bem-sucedidos de todos os tempos com mais de 300 milhões de álbuns vendidos. As suas canções 'Rocket Man', 'Your Song', 'Crocodile Rock' e 'Candle in the Wind' são hinos da música pop. Foi nomeado Sir pela rainha Isabel II em 1998.",
+        "year": "1947"
+      }
+    ],
+    "events": [
+      {
+        "title": "Execução de Tiradentes no Brasil",
+        "description": "Joaquim José da Silva Xavier, 'Tiradentes', foi enforcado e esquartejado no Rio de Janeiro pelas autoridades coloniais portuguesas por liderar a 'Inconfidência Mineira', o primeiro movimento independentista do Brasil. A sua cabeça foi exposta em Ouro Preto como aviso.",
+        "year": "1792"
+      },
+      {
+        "title": "Nascimento de Roma",
+        "description": "Segundo a tradição romana, Rômulo fundou a cidade de Roma em 21 de abril de 753 a.C., traçando um sulco sagrado com um arado no Palatino para delimitar o 'pomerium' (limite sagrado da cidade). A data foi calculada pelo astrólogo Marco Terêncio Varrão no século I a.C.",
+        "year": "753 a.C."
+      },
+      {
+        "title": "A Junta Militar Grega toma o poder",
+        "description": "Um golpe de estado militar conhecido como 'a junta dos coronéis' tomou o poder na Grécia, instaurando uma ditadura que duraria até 1974. O regime aboliu a Constituição, dissolveu os partidos políticos e perseguiu a oposição.",
+        "year": "1967"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Anselm de Canterbury",
+        "type": "Bisbe i Doctor de l'Església",
+        "description": "Teòleg i filòsof medieval italià dels segles XI-XII, arquebisbe de Canterbury. Considerat el pare de l'Escolàstica, va formular el famós 'argument ontològic' per demostrar l'existència de Déu. Va defensar la llibertat de l'Església davant el poder reial i va ser desterrat dues vegades pels reis anglesos. Canonitzat el 1494."
+      },
+      {
+        "name": "Sant Conrat de Parzham",
+        "type": "Germà laic franciscà",
+        "description": "Germà laic caputxí bavarès del segle XIX, porter del santuari d'Altötting durant 41 anys. Era conegut per la seva paciència, humilitat i caritat envers els pelegrins i els pobres. Va ser canonitzat per Pius XI el 1934 i és patró dels porters i els germans laics."
+      },
+      {
+        "name": "Santa Serapia",
+        "type": "Verge i Màrtir",
+        "description": "Màrtir romana del segle II, esclava procedent d'Antioquia que va ser venuda a la noble cristiana Sabina. Després de convertir la seva senyora al cristianisme, van ser arrestades durant la persecució d'Adrià. Serapia va ser executada primer, i Sabina va ser santificada al seu costat."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Tiradentes (Brasil)",
+        "description": "Festa nacional al Brasil que commemora la mort de Joaquim José da Silva Xavier, conegut com a 'Tiradentes', el 21 d'abril de 1792. Líder de la 'Inconfidência Mineira', el primer moviment independentista del Brasil, va ser executat per les autoritats colonials portugueses. És heroi nacional i màrtir de la independència."
+      },
+      {
+        "name": "Aniversari de la Fundació de Roma",
+        "description": "El 21 d'abril es celebra el 'Natale di Roma', aniversari de la fundació llegendària de Roma per Ròmul l'any 753 a.C. segons la tradició romana. La ciutat celebra aquest dia amb actes històrics al Capitoli i als Fòrums Imperials."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La fe cerca, la intel·ligència troba.",
+      "author": "Sant Anselm de Canterbury",
+      "context": "Sant Anselm, la festivitat del qual se celebra avui, va sintetitzar la relació entre fe i raó en el seu mètode teològic amb el principi 'fides quaerens intellectum' (la fe que cerca la comprensió). Va ser el primer gran pensador escolàstic de l'Occident medieval."
+    },
+    "motivationalQuote": {
+      "text": "La felicitat no és quelcom ja fet. Prové de les teves pròpies accions.",
+      "author": "Dalai Lama"
+    },
+    "births": [
+      {
+        "name": "Reina Elisabet II",
+        "description": "Reina del Regne Unit i d'Irlanda del Nord i Cap de la Commonwealth des del 1952 fins a la seva mort el setembre de 2022, convertint-se en la monarca amb més temps al tron de la història del Regne Unit. Durant el seu regnat va assistir a la descolonització, la guerra freda, el Brexit i 15 primers ministres diferents.",
+        "year": "1926"
+      },
+      {
+        "name": "Charlotte Brontë",
+        "description": "Novel·lista anglesa del segle XIX, autora de 'Jane Eyre' (1847), una de les novel·les més influents de la literatura anglesa. Juntament amb les seves germanes Emily (autora de 'Cims borrascosos') i Anne, va formar una de les tríades literàries més cèlebres de la història. Va publicar originalment sota el pseudònim Currer Bell.",
+        "year": "1816"
+      },
+      {
+        "name": "Elton John",
+        "description": "Músic, cantant i compositor britànic, un dels artistes més exitosos de tots els temps amb més de 300 milions d'àlbums venuts. Les seves cançons 'Rocket Man', 'Your Song', 'Crocodile Rock' i 'Candle in the Wind' són himnes de la música pop. Va ser nomenat Sir per la reina Elisabet II el 1998.",
+        "year": "1947"
+      }
+    ],
+    "events": [
+      {
+        "title": "Execució de Tiradentes al Brasil",
+        "description": "Joaquim José da Silva Xavier, 'Tiradentes', va ser penjat i esquarterat a Rio de Janeiro per les autoritats colonials portugueses per liderar la 'Inconfidência Mineira', el primer moviment independentista del Brasil. El seu cap va ser exposat a Ouro Preto com a advertiment.",
+        "year": "1792"
+      },
+      {
+        "title": "Naixement de Roma",
+        "description": "Segons la tradició romana, Ròmul va fundar la ciutat de Roma el 21 d'abril de 753 a.C., traçant un solc sagrat amb una arada al Palatí per delimitar el 'pomerium' (límit sagrat de la ciutat). La data va ser calculada per l'astròleg Marc Terenci Varró al segle I a.C.",
+        "year": "753 a.C."
+      },
+      {
+        "title": "La Junta Militar Grega pren el poder",
+        "description": "Un cop d'estat militar conegut com 'la junta dels coronels' va prendre el poder a Grècia, instaurant una dictadura que duraria fins al 1974. El règim va abolir la Constitució, va dissoldre els partits polítics i va perseguir l'oposició.",
+        "year": "1967"
+      }
+    ]
+  }
+}

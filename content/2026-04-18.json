@@ -1,0 +1,291 @@
+{
+  "date": "2026-04-18",
+  "es": {
+    "saints": [
+      {
+        "name": "San Perfecto de Córdoba",
+        "type": "Mártir",
+        "description": "Sacerdote cristiano cordobés del siglo IX, el primero de los Mártires de Córdoba reconocidos por la Iglesia. Fue ejecutado el 18 de abril de 850 durante el emirato de Mohammed I por haber respondido a una pregunta de unos musulmanes criticando al profeta Mahoma. Su martirio desencadenó el movimiento voluntario de mártires de Córdoba."
+      },
+      {
+        "name": "San Apolonio el Apólogo",
+        "type": "Mártir",
+        "description": "Senador romano del siglo II, martirizado durante el reinado de Cómodo. Es famoso porque antes de su ejecución pronunció ante el Senado una defensa razonada del cristianismo —la 'Apología'— que es uno de los primeros textos en que un cristiano defiende su fe ante el poder romano con argumentos filosóficos."
+      },
+      {
+        "name": "Santa Galdino de Milán",
+        "type": "Obispo",
+        "description": "Cardenal y arzobispo de Milán del siglo XII, colaborador cercano del papa Alejandro III. Se distinguió por su acción pastoral durante el Gran Cisma que dividió a la Iglesia entre Alejandro III y el antipapa Víctor IV. Murió repentinamente mientras pronunciaba un sermón."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de los Monumentos y Sitios (Día del Patrimonio)",
+        "description": "Proclamado por el ICOMOS en 1982 y adoptado por la UNESCO, este día busca concienciar sobre la diversidad del patrimonio cultural mundial y la necesidad de su conservación para las generaciones futuras."
+      },
+      {
+        "name": "Día del Ciudadano (Zimbabwe)",
+        "description": "Zimbabwe celebra este día con actos cívicos de concienciación sobre los derechos y deberes de la ciudadanía, en el marco de los esfuerzos por fortalecer la cultura democrática y la participación civil."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El genio es un uno por ciento de inspiración y un noventa y nueve por ciento de transpiración.",
+      "author": "Thomas Alva Edison",
+      "context": "Edison, nacido el 11 de febrero de 1847, es uno de los inventores más prolíficos de la historia, con más de 1.000 patentes en su nombre. Esta cita, una de las más famosas de la historia, refleja su filosofía del trabajo metódico y tenaz."
+    },
+    "motivationalQuote": {
+      "text": "Lo que se hace con amor está bien hecho.",
+      "author": "Vincent van Gogh"
+    },
+    "births": [
+      {
+        "name": "Leopold Stokowski",
+        "description": "Director de orquesta británico-estadounidense de origen polaco, uno de los más famosos del siglo XX. Director de la Orquesta de Filadelfia durante 26 años, impulsó el sonido sinfónico moderno y fue el director que aparece en la película 'Fantasía' (1940) de Walt Disney, acercando la música clásica al gran público.",
+        "year": "1882"
+      },
+      {
+        "name": "Hayley Mills",
+        "description": "Actriz inglesa, hija del actor John Mills. Se hizo famosa en la década de 1960 con películas de Disney como 'The Parent Trap' (1961) y 'Pollyanna' (1960), por la que ganó un Óscar honorífico como actriz infantil. Es una de las grandes estrellas del cine juvenil del siglo XX.",
+        "year": "1946"
+      },
+      {
+        "name": "James Woods",
+        "description": "Actor estadounidense, conocido por sus intensas interpretaciones en películas como 'Salvador' (1986), 'Casino' (1995) y 'Contacto' (1997). Ha recibido dos nominaciones al Óscar como Actor Principal y es reconocido por su capacidad para encarnar personajes complejos y moralmente ambiguos.",
+        "year": "1947"
+      }
+    ],
+    "events": [
+      {
+        "title": "Gran Terremoto de San Francisco",
+        "description": "Un terremoto de magnitud 7,9 sacudió San Francisco (California) a las 5:12 de la mañana, causando la muerte de más de 3.000 personas y destruyendo el 80% de la ciudad. Los incendios posteriores al seísmo fueron tan devastadores como el propio terremoto. Es uno de los peores desastres naturales de la historia de EE.UU.",
+        "year": "1906"
+      },
+      {
+        "title": "Albert Einstein publica la Teoría de la Relatividad Especial",
+        "description": "La revista Annalen der Physik publicó el artículo 'Sobre la electrodinámica de los cuerpos en movimiento', en el que Albert Einstein formulaba la Teoría de la Relatividad Especial, que revolucionó la física moderna con los conceptos de espacio-tiempo y la ecuación E=mc².",
+        "year": "1905"
+      },
+      {
+        "title": "Independencia de Zimbabwe",
+        "description": "Zimbabwe proclamó su independencia del Reino Unido, convirtiéndose en un estado soberano. Robert Mugabe se convirtió en el primer primer ministro de la nueva nación, antigua colonia británica conocida como Rodesia del Sur. Las décadas siguientes estuvieron marcadas por la esperanza inicial y posteriormente por la crisis económica y política.",
+        "year": "1980"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Perfectus of Córdoba",
+        "type": "Martyr",
+        "description": "A 9th-century Christian priest from Córdoba, the first of the Martyrs of Córdoba recognised by the Church. He was executed on 18 April 850 during the emirate of Mohammed I for having responded to a question from some Muslims by criticising the prophet Muhammad. His martyrdom sparked the voluntary martyr movement of Córdoba."
+      },
+      {
+        "name": "Saint Apollonius the Apologist",
+        "type": "Martyr",
+        "description": "A 2nd-century Roman senator, martyred during the reign of Commodus. He is famous for having delivered a reasoned defence of Christianity — the 'Apologia' — before the Senate prior to his execution, one of the first texts in which a Christian defends his faith before Roman power with philosophical arguments."
+      },
+      {
+        "name": "Saint Galdinus of Milan",
+        "type": "Bishop",
+        "description": "A 12th-century cardinal and Archbishop of Milan, a close collaborator of Pope Alexander III. He was distinguished by his pastoral action during the Great Schism that divided the Church between Alexander III and the antipope Victor IV. He died suddenly while delivering a sermon."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day for Monuments and Sites (Heritage Day)",
+        "description": "Proclaimed by ICOMOS in 1982 and adopted by UNESCO, this day aims to raise awareness of the diversity of world cultural heritage and the need for its conservation for future generations."
+      },
+      {
+        "name": "Citizen's Day (Zimbabwe)",
+        "description": "Zimbabwe marks this day with civic events raising awareness of the rights and duties of citizenship, as part of efforts to strengthen democratic culture and civic participation."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Genius is one per cent inspiration and ninety-nine per cent perspiration.",
+      "author": "Thomas Alva Edison",
+      "context": "Edison, born on 11 February 1847, is one of the most prolific inventors in history, with more than 1,000 patents to his name. This quote, one of the most famous in history, reflects his philosophy of methodical, tenacious work."
+    },
+    "motivationalQuote": {
+      "text": "What is done in love is done well.",
+      "author": "Vincent van Gogh"
+    },
+    "births": [
+      {
+        "name": "Leopold Stokowski",
+        "description": "British-American conductor of Polish origin, one of the most famous of the 20th century. Director of the Philadelphia Orchestra for 26 years, he drove the modern symphonic sound and was the conductor who appeared in Walt Disney's 'Fantasia' (1940), bringing classical music to the general public.",
+        "year": "1882"
+      },
+      {
+        "name": "Hayley Mills",
+        "description": "English actress and daughter of actor John Mills. She became famous in the 1960s with Disney films such as 'The Parent Trap' (1961) and 'Pollyanna' (1960), for which she received an honorary Academy Award as a child actress. She is one of the great stars of 20th-century youth cinema.",
+        "year": "1946"
+      },
+      {
+        "name": "James Woods",
+        "description": "American actor, known for his intense performances in films such as 'Salvador' (1986), 'Casino' (1995), and 'Contact' (1997). He has received two Academy Award nominations for Best Actor and is recognised for his ability to embody complex, morally ambiguous characters.",
+        "year": "1947"
+      }
+    ],
+    "events": [
+      {
+        "title": "Great San Francisco Earthquake",
+        "description": "A magnitude 7.9 earthquake struck San Francisco (California) at 5:12 in the morning, killing more than 3,000 people and destroying 80% of the city. The fires that followed the tremor were as devastating as the earthquake itself. It is one of the worst natural disasters in US history.",
+        "year": "1906"
+      },
+      {
+        "title": "Albert Einstein Publishes the Special Theory of Relativity",
+        "description": "The journal Annalen der Physik published the article 'On the Electrodynamics of Moving Bodies', in which Albert Einstein formulated the Special Theory of Relativity, revolutionising modern physics with the concepts of space-time and the equation E=mc².",
+        "year": "1905"
+      },
+      {
+        "title": "Independence of Zimbabwe",
+        "description": "Zimbabwe proclaimed its independence from the United Kingdom, becoming a sovereign state. Robert Mugabe became the first Prime Minister of the new nation, the former British colony known as Southern Rhodesia. The following decades were marked by initial hope and subsequently by economic and political crisis.",
+        "year": "1980"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Perfeito de Córdoba",
+        "type": "Mártir",
+        "description": "Sacerdote cristão cordobês do século IX, o primeiro dos Mártires de Córdoba reconhecidos pela Igreja. Foi executado em 18 de abril de 850 durante o emirado de Mohammed I por ter respondido a uma pergunta de alguns muçulmanos criticando o profeta Maomé. O seu martírio desencadeou o movimento voluntário de mártires de Córdoba."
+      },
+      {
+        "name": "São Apolônio o Apologista",
+        "type": "Mártir",
+        "description": "Senador romano do século II, martirizado durante o reinado de Cômodo. É famoso por ter pronunciado perante o Senado uma defesa fundamentada do cristianismo — a 'Apologia' — antes da sua execução, um dos primeiros textos em que um cristão defende a sua fé perante o poder romano com argumentos filosóficos."
+      },
+      {
+        "name": "São Galdino de Milão",
+        "type": "Bispo",
+        "description": "Cardeal e arcebispo de Milão do século XII, colaborador próximo do papa Alexandre III. Distinguiu-se pela sua ação pastoral durante o Grande Cisma que dividiu a Igreja entre Alexandre III e o antipapa Vítor IV. Morreu subitamente enquanto pronunciava um sermão."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional dos Monumentos e Sítios (Dia do Património)",
+        "description": "Proclamado pelo ICOMOS em 1982 e adotado pela UNESCO, este dia busca consciencializar sobre a diversidade do património cultural mundial e a necessidade da sua conservação para as gerações futuras."
+      },
+      {
+        "name": "Dia do Cidadão (Zimbabwe)",
+        "description": "O Zimbabwe celebra este dia com atos cívicos de consciencialização sobre os direitos e deveres da cidadania, no âmbito dos esforços para fortalecer a cultura democrática e a participação civil."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O génio é um por cento de inspiração e noventa e nove por cento de transpiração.",
+      "author": "Thomas Alva Edison",
+      "context": "Edison, nascido em 11 de fevereiro de 1847, é um dos inventores mais prolíficos da história, com mais de 1.000 patentes em seu nome. Esta citação, uma das mais famosas da história, reflete a sua filosofia do trabalho metódico e tenaz."
+    },
+    "motivationalQuote": {
+      "text": "O que se faz com amor está bem feito.",
+      "author": "Vincent van Gogh"
+    },
+    "births": [
+      {
+        "name": "Leopold Stokowski",
+        "description": "Maestro britânico-americano de origem polaca, um dos mais famosos do século XX. Diretor da Orquestra de Filadélfia durante 26 anos, impulsionou o som sinfónico moderno e foi o maestro que aparece no filme 'Fantasia' (1940) de Walt Disney, aproximando a música clássica do grande público.",
+        "year": "1882"
+      },
+      {
+        "name": "Hayley Mills",
+        "description": "Atriz inglesa, filha do ator John Mills. Ficou famosa nos anos 60 com filmes da Disney como 'As Trapalhadas das Gémeas' (1961) e 'Pollyanna' (1960), pelo qual recebeu um Oscar honorário como atriz infantil. É uma das grandes estrelas do cinema juvenil do século XX.",
+        "year": "1946"
+      },
+      {
+        "name": "James Woods",
+        "description": "Ator americano, conhecido pelas suas intensas interpretações em filmes como 'Salvador' (1986), 'Casino' (1995) e 'Contacto' (1997). Recebeu duas nomeações ao Oscar de Melhor Ator e é reconhecido pela sua capacidade de encarnar personagens complexos e moralmente ambíguos.",
+        "year": "1947"
+      }
+    ],
+    "events": [
+      {
+        "title": "Grande Terramoto de São Francisco",
+        "description": "Um terramoto de magnitude 7,9 sacudiu São Francisco (Califórnia) às 5h12 da manhã, causando a morte de mais de 3.000 pessoas e destruindo 80% da cidade. Os incêndios posteriores ao sismo foram tão devastadores quanto o próprio terramoto. É um dos piores desastres naturais da história dos EUA.",
+        "year": "1906"
+      },
+      {
+        "title": "Albert Einstein publica a Teoria da Relatividade Especial",
+        "description": "A revista Annalen der Physik publicou o artigo 'Sobre a electrodinâmica dos corpos em movimento', em que Albert Einstein formulava a Teoria da Relatividade Especial, revolucionando a física moderna com os conceitos de espaço-tempo e a equação E=mc².",
+        "year": "1905"
+      },
+      {
+        "title": "Independência do Zimbabwe",
+        "description": "O Zimbabwe proclamou a sua independência do Reino Unido, tornando-se um estado soberano. Robert Mugabe tornou-se o primeiro primeiro-ministro da nova nação, antiga colónia britânica conhecida como Rodésia do Sul. As décadas seguintes foram marcadas pela esperança inicial e posteriormente pela crise económica e política.",
+        "year": "1980"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Perfecte de Còrdova",
+        "type": "Màrtir",
+        "description": "Sacerdot cristià cordovès del segle IX, el primer dels Màrtirs de Còrdova reconeguts per l'Església. Va ser executat el 18 d'abril de 850 durant l'emirat de Mohammed I per haver respost a una pregunta d'uns musulmans criticant el profeta Mahoma. El seu martiri va desencadenar el moviment voluntari de màrtirs de Còrdova."
+      },
+      {
+        "name": "Sant Apol·loni l'Apologista",
+        "type": "Màrtir",
+        "description": "Senador romà del segle II, martiritzat durant el regnat de Còmmode. És famós perquè, abans de la seva execució, va pronunciar davant el Senat una defensa raonada del cristianisme —l'«Apologia»— que és un dels primers textos en què un cristià defensa la seva fe davant el poder romà amb arguments filosòfics."
+      },
+      {
+        "name": "Sant Galdí de Milà",
+        "type": "Bisbe",
+        "description": "Cardenal i arquebisbe de Milà del segle XII, col·laborador proper del papa Alexandre III. Es va distingir per la seva acció pastoral durant el Gran Cisma que va dividir l'Església entre Alexandre III i l'antipapa Víctor IV. Va morir sobtadament mentre pronunciava un sermó."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional dels Monuments i Llocs (Dia del Patrimoni)",
+        "description": "Proclamat per l'ICOMOS el 1982 i adoptat per la UNESCO, aquest dia busca conscienciar sobre la diversitat del patrimoni cultural mundial i la necessitat de la seva conservació per a les generacions futures."
+      },
+      {
+        "name": "Dia del Ciutadà (Zimbabwe)",
+        "description": "Zimbabwe celebra aquest dia amb actes cívics de conscienciació sobre els drets i deures de la ciutadania, en el marc dels esforços per enfortir la cultura democràtica i la participació civil."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El geni és un u per cent d'inspiració i un noranta-nou per cent de transpiració.",
+      "author": "Thomas Alva Edison",
+      "context": "Edison, nascut l'11 de febrer de 1847, és un dels inventors més prolífics de la història, amb més de 1.000 patents al seu nom. Aquesta cita, una de les més famoses de la història, reflecteix la seva filosofia del treball metòdic i tenaç."
+    },
+    "motivationalQuote": {
+      "text": "Allò que es fa amb amor, és ben fet.",
+      "author": "Vincent van Gogh"
+    },
+    "births": [
+      {
+        "name": "Leopold Stokowski",
+        "description": "Director d'orquestra britànic-americà d'origen polonès, un dels més famosos del segle XX. Director de l'Orquestra de Filadèlfia durant 26 anys, va impulsar el so simfònic modern i va ser el director que apareix a la pel·lícula 'Fantasia' (1940) de Walt Disney, apropant la música clàssica al gran públic.",
+        "year": "1882"
+      },
+      {
+        "name": "Hayley Mills",
+        "description": "Actriu anglesa, filla de l'actor John Mills. Es va fer famosa als anys 60 amb pel·lícules de Disney com 'Les enredos de Hayley' (1961) i 'Pollyanna' (1960), per la qual va rebre un Oscar honorari com a actriu infantil. És una de les grans estrelles del cinema juvenil del segle XX.",
+        "year": "1946"
+      },
+      {
+        "name": "James Woods",
+        "description": "Actor americà, conegut per les seves intenses interpretacions en pel·lícules com 'Salvador' (1986), 'Casino' (1995) i 'Contact' (1997). Ha rebut dues nominacions a l'Oscar com a Millor Actor i és reconegut per la seva capacitat per encarnar personatges complexos i moralment ambigus.",
+        "year": "1947"
+      }
+    ],
+    "events": [
+      {
+        "title": "Gran Terratrèmol de San Francisco",
+        "description": "Un terratrèmol de magnitud 7,9 va sacsejar San Francisco (Califòrnia) a les 5:12 del matí, causant la mort de més de 3.000 persones i destruint el 80% de la ciutat. Els incendis posteriors al sisme van ser tan devastadors com el propi terratrèmol. És un dels pitjors desastres naturals de la història dels EUA.",
+        "year": "1906"
+      },
+      {
+        "title": "Albert Einstein publica la Teoria de la Relativitat Especial",
+        "description": "La revista Annalen der Physik va publicar l'article 'Sobre l'electrodinàmica dels cossos en moviment', en el qual Albert Einstein formulava la Teoria de la Relativitat Especial, que va revolucionar la física moderna amb els conceptes d'espai-temps i l'equació E=mc².",
+        "year": "1905"
+      },
+      {
+        "title": "Independència de Zimbabwe",
+        "description": "Zimbabwe va proclamar la seva independència del Regne Unit, convertint-se en un estat sobirà. Robert Mugabe es va convertir en el primer primer ministre de la nova nació, antiga colònia britànica coneguda com a Rhodèsia del Sud. Les dècades següents van estar marcades per l'esperança inicial i posteriorment per la crisi econòmica i política.",
+        "year": "1980"
+      }
+    ]
+  }
+}

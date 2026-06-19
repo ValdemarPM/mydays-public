@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-15",
+  "es": {
+    "saints": [
+      {
+        "name": "Nuestra Señora de los Dolores",
+        "type": "Memoria obligatoria",
+        "description": "Festividad que recuerda los siete dolores de la Virgen María: la profecía de Simeón, la huida a Egipto, la pérdida del Niño Jesús en el templo, el encuentro con Jesús en la Vía Dolorosa, la crucifixión, la bajada de la Cruz y el entierro de Cristo."
+      },
+      {
+        "name": "San Nicomedes de Roma",
+        "type": "Mártir",
+        "description": "Sacerdote romano martirizado por negarse a sacrificar a los dioses paganos, cuya tumba estuvo en la Vía Nomamentana. Su culto es muy antiguo en Roma."
+      },
+      {
+        "name": "San Porfirio el Mimo",
+        "type": "Mártir",
+        "description": "Actor y mimo romano del siglo IV que, mientras actuaba en una parodia del bautismo cristiano, se convirtió repentinamente al cristianismo y fue ejecutado en el acto por orden de Juliano el Apóstata."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de Centroamérica",
+        "description": "Guatemala, El Salvador, Honduras, Nicaragua y Costa Rica celebran su independencia del Imperio español, proclamada el 15 de septiembre de 1821 en Ciudad de Guatemala. Panamá celebra la suya el 3 de noviembre."
+      },
+      {
+        "name": "Día Internacional de la Democracia",
+        "description": "Proclamado por la Asamblea General de la ONU en 2007, celebrado el 15 de septiembre para promover y defender los principios democráticos a escala mundial, con especial atención a los derechos humanos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La libertad no es la ausencia de obligaciones; es la capacidad de elegir.",
+      "author": "Paulo Coelho",
+      "context": "El escritor brasileño, nacido el 24 de agosto de 1947, reflexionó en numerosas obras como El Alquimista (1988) sobre el concepto de libertad personal, la elección y el destino."
+    },
+    "motivationalQuote": {
+      "text": "La única forma de hacer un gran trabajo es amar lo que haces.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Agatha Christie",
+        "description": "Escritora británica, la novelista de misterio más vendida de todos los tiempos con más de 2.000 millones de libros vendidos. Creadora de los icónicos personajes Hércules Poirot y Miss Marple.",
+        "year": 1890
+      },
+      {
+        "name": "Marco Polo",
+        "description": "Explorador y mercader veneciano del siglo XIII cuyo viaje a China y el Extremo Oriente (1271–1295) y su libro El Millón abrieron los ojos de Europa hacia las civilizaciones asiáticas.",
+        "year": 1254
+      },
+      {
+        "name": "Tommy Lee Jones",
+        "description": "Actor americano ganador del Oscar como actor secundario por El Fugitivo (1993), conocido también por la saga Men in Black y No es país para viejos (2007).",
+        "year": 1946
+      }
+    ],
+    "events": [
+      {
+        "title": "Independencia de los países centroamericanos",
+        "description": "Guatemala, El Salvador, Honduras, Nicaragua y Costa Rica proclamaron su independencia del Imperio español en un acta firmada en Ciudad de Guatemala, iniciando la era de las repúblicas centroamericanas.",
+        "year": 1821
+      },
+      {
+        "title": "Se funda la Bolsa de Londres",
+        "description": "La London Stock Exchange (Bolsa de Londres) fue fundada formalmente, convirtiéndose en uno de los mercados financieros más importantes del mundo y pilar del capitalismo moderno.",
+        "year": 1773
+      },
+      {
+        "title": "Inauguración del Túnel de la Mancha",
+        "description": "El Eurotúnel (Túnel de la Mancha) fue inaugurado oficialmente por la reina Isabel II de Gran Bretaña y el presidente francés François Mitterrand, uniendo físicamente el Reino Unido con el continente europeo.",
+        "year": 1994
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Our Lady of Sorrows",
+        "type": "Obligatory Memorial",
+        "description": "Feast recalling the seven sorrows of the Virgin Mary: Simeon's prophecy, the flight into Egypt, the losing of the Child Jesus in the Temple, meeting Jesus on the Via Dolorosa, the Crucifixion, the descent from the Cross, and the burial of Christ."
+      },
+      {
+        "name": "Saint Nicomedes of Rome",
+        "type": "Martyr",
+        "description": "A Roman priest martyred for refusing to sacrifice to pagan gods, whose tomb was on the Via Nomentana. His cult is very ancient in Rome."
+      },
+      {
+        "name": "Saint Porphyrius the Mime",
+        "type": "Martyr",
+        "description": "A 4th-century Roman actor and mime who, while performing a parody of Christian baptism, suddenly converted to Christianity and was immediately executed by order of Julian the Apostate."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Central American Independence Day",
+        "description": "Guatemala, El Salvador, Honduras, Nicaragua, and Costa Rica celebrate their independence from the Spanish Empire, proclaimed on 15 September 1821 in Guatemala City. Panama celebrates its own on 3 November."
+      },
+      {
+        "name": "International Day of Democracy",
+        "description": "Proclaimed by the UN General Assembly in 2007, celebrated on 15 September to promote and defend democratic principles worldwide, with special attention to human rights."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Freedom is not the absence of obligations; it is the ability to choose.",
+      "author": "Paulo Coelho",
+      "context": "The Brazilian writer, born on 24 August 1947, reflected in numerous works such as The Alchemist (1988) on the concept of personal freedom, choice, and destiny."
+    },
+    "motivationalQuote": {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Agatha Christie",
+        "description": "British writer, the best-selling mystery novelist of all time with over 2 billion books sold. Creator of the iconic characters Hercule Poirot and Miss Marple.",
+        "year": 1890
+      },
+      {
+        "name": "Marco Polo",
+        "description": "13th-century Venetian explorer and merchant whose journey to China and the Far East (1271–1295) and his book The Travels opened Europe's eyes to Asian civilisations.",
+        "year": 1254
+      },
+      {
+        "name": "Tommy Lee Jones",
+        "description": "American actor and Academy Award winner for Best Supporting Actor for The Fugitive (1993), also known for the Men in Black franchise and No Country for Old Men (2007).",
+        "year": 1946
+      }
+    ],
+    "events": [
+      {
+        "title": "Independence of the Central American countries",
+        "description": "Guatemala, El Salvador, Honduras, Nicaragua, and Costa Rica proclaimed their independence from the Spanish Empire in an act signed in Guatemala City, beginning the era of Central American republics.",
+        "year": 1821
+      },
+      {
+        "title": "London Stock Exchange founded",
+        "description": "The London Stock Exchange was formally founded, becoming one of the world's most important financial markets and a pillar of modern capitalism.",
+        "year": 1773
+      },
+      {
+        "title": "Channel Tunnel inaugurated",
+        "description": "The Channel Tunnel (Eurotunnel) was officially inaugurated by Queen Elizabeth II of Great Britain and French President François Mitterrand, physically connecting the United Kingdom with the European continent.",
+        "year": 1994
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Nossa Senhora das Dores",
+        "type": "Memória Obrigatória",
+        "description": "Festa que recorda as sete dores da Virgem Maria: a profecia de Simeão, a fuga para o Egito, a perda do Menino Jesus no templo, o encontro com Jesus na Via Dolorosa, a crucificação, a descida da Cruz e o sepultamento de Cristo."
+      },
+      {
+        "name": "São Nicomedes de Roma",
+        "type": "Mártir",
+        "description": "Sacerdote romano martirizado por se recusar a sacrificar aos deuses pagãos, cujo túmulo ficava na Via Nomentana. O seu culto é muito antigo em Roma."
+      },
+      {
+        "name": "São Porfírio o Mímico",
+        "type": "Mártir",
+        "description": "Ator e mímico romano do século IV que, enquanto interpretava uma paródia do batismo cristão, se converteu repentinamente ao cristianismo e foi imediatamente executado por ordem de Juliano o Apóstata."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência da América Central",
+        "description": "Guatemala, El Salvador, Honduras, Nicarágua e Costa Rica celebram a sua independência do Império espanhol, proclamada em 15 de setembro de 1821 na Cidade da Guatemala. O Panamá celebra a sua a 3 de novembro."
+      },
+      {
+        "name": "Dia Internacional da Democracia",
+        "description": "Proclamado pela Assembleia Geral da ONU em 2007, celebrado a 15 de setembro para promover e defender os princípios democráticos em todo o mundo, com especial atenção aos direitos humanos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A liberdade não é a ausência de obrigações; é a capacidade de escolher.",
+      "author": "Paulo Coelho",
+      "context": "O escritor brasileiro, nascido a 24 de agosto de 1947, refletiu em numerosas obras como O Alquimista (1988) sobre o conceito de liberdade pessoal, a escolha e o destino."
+    },
+    "motivationalQuote": {
+      "text": "A única forma de fazer um grande trabalho é amar o que fazes.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Agatha Christie",
+        "description": "Escritora britânica, a romancista de mistério mais vendida de todos os tempos com mais de 2.000 milhões de livros vendidos. Criadora dos icônicos personagens Hércule Poirot e Miss Marple.",
+        "year": 1890
+      },
+      {
+        "name": "Marco Polo",
+        "description": "Explorador e mercador veneziano do século XIII cuja viagem à China e ao Extremo Oriente (1271–1295) e o seu livro O Milione abriram os olhos da Europa para as civilizações asiáticas.",
+        "year": 1254
+      },
+      {
+        "name": "Tommy Lee Jones",
+        "description": "Ator americano vencedor do Oscar de Melhor Ator Secundário por O Fugitivo (1993), também conhecido pela saga Men in Black e Onde os Fracos Não Têm Vez (2007).",
+        "year": 1946
+      }
+    ],
+    "events": [
+      {
+        "title": "Independência dos países centro-americanos",
+        "description": "Guatemala, El Salvador, Honduras, Nicarágua e Costa Rica proclamaram a sua independência do Império espanhol num ato assinado na Cidade da Guatemala, iniciando a era das repúblicas centro-americanas.",
+        "year": 1821
+      },
+      {
+        "title": "Fundação da Bolsa de Londres",
+        "description": "A Bolsa de Valores de Londres foi fundada formalmente, tornando-se um dos mercados financeiros mais importantes do mundo e pilar do capitalismo moderno.",
+        "year": 1773
+      },
+      {
+        "title": "Inauguração do Túnel da Mancha",
+        "description": "O Eurotúnel (Túnel da Mancha) foi inaugurado oficialmente pela rainha Isabel II da Grã-Bretanha e pelo presidente francês François Mitterrand, ligando fisicamente o Reino Unido ao continente europeu.",
+        "year": 1994
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Mare de Déu dels Dolors",
+        "type": "Memòria Obligatòria",
+        "description": "Festivitat que recorda els set dolors de la Verge Maria: la profecia de Simeó, la fugida a Egipte, la pèrdua del Nen Jesús al temple, la trobada amb Jesús a la Via Dolorosa, la crucifixió, la baixada de la Creu i l'enterrament de Crist."
+      },
+      {
+        "name": "Sant Nicomed de Roma",
+        "type": "Màrtir",
+        "description": "Sacerdot romà martiritzat per negar-se a sacrificar als déus pagans, la tomba del qual estava a la Via Nomentana. El seu culte és molt antic a Roma."
+      },
+      {
+        "name": "Sant Porfiri el Mime",
+        "type": "Màrtir",
+        "description": "Actor i mime romà del segle IV que, mentre interpretava una paròdia del baptisme cristià, es va convertir sobtadament al cristianisme i va ser executat en el mateix acte per ordre de Julià l'Apòstata."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència de Centreamèrica",
+        "description": "Guatemala, El Salvador, Hondures, Nicaragua i Costa Rica celebren la seva independència de l'Imperi espanyol, proclamada el 15 de setembre de 1821 a la Ciutat de Guatemala. Panamà celebra la seva el 3 de novembre."
+      },
+      {
+        "name": "Dia Internacional de la Democràcia",
+        "description": "Proclamat per l'Assemblea General de l'ONU el 2007, celebrat el 15 de setembre per promoure i defensar els principis democràtics a escala mundial, amb especial atenció als drets humans."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La llibertat no és l'absència d'obligacions; és la capacitat d'escollir.",
+      "author": "Paulo Coelho",
+      "context": "L'escriptor brasiler, nascut el 24 d'agost de 1947, va reflexionar en nombroses obres com L'Alquimista (1988) sobre el concepte de llibertat personal, l'elecció i el destí."
+    },
+    "motivationalQuote": {
+      "text": "L'única manera de fer una gran feina és estimar el que fas.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Agatha Christie",
+        "description": "Escriptora britànica, la novel·lista de misteri més venuda de tots els temps amb més de 2.000 milions de llibres venuts. Creadora dels icònics personatges Hèrcules Poirot i la senyoreta Marple.",
+        "year": 1890
+      },
+      {
+        "name": "Marco Polo",
+        "description": "Explorador i mercader venecià del segle XIII el viatge del qual a la Xina i l'Extrem Orient (1271–1295) i el seu llibre El Milió van obrir els ulls d'Europa cap a les civilitzacions asiàtiques.",
+        "year": 1254
+      },
+      {
+        "name": "Tommy Lee Jones",
+        "description": "Actor americà guanyador de l'Oscar al millor actor secundari per El Fugitiu (1993), també conegut per la saga Men in Black i No és país per a vells (2007).",
+        "year": 1946
+      }
+    ],
+    "events": [
+      {
+        "title": "Independència dels països centreamericans",
+        "description": "Guatemala, El Salvador, Hondures, Nicaragua i Costa Rica van proclamar la seva independència de l'Imperi espanyol en un acte signat a la Ciutat de Guatemala, iniciant l'era de les repúbliques centreamericanes.",
+        "year": 1821
+      },
+      {
+        "title": "Fundació de la Borsa de Londres",
+        "description": "La Borsa de Valors de Londres va ser fundada formalment, convertint-se en un dels mercats financers més importants del món i pilar del capitalisme modern.",
+        "year": 1773
+      },
+      {
+        "title": "Inauguració del Túnel de la Mànega",
+        "description": "El Eurotúnel (Túnel de la Mànega) va ser inaugurat oficialment per la reina Isabel II de Gran Bretanya i el president francès François Mitterrand, connectant físicament el Regne Unit amb el continent europeu.",
+        "year": 1994
+      }
+    ]
+  }
+}

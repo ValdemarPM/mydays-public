@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-19",
+  "es": {
+    "saints": [
+      {
+        "name": "San Celestino V",
+        "type": "Papa",
+        "description": "Pietro Angelerio, monje benedictino y ermitaño italiano del siglo XIII, fundador de la orden de los Celestinos. Elegido papa a los 85 años, renunció al papado tras solo cinco meses (1294), siendo el primer papa en abdicar voluntariamente en la historia de la Iglesia. Fue canonizado en 1313. Dante lo menciona en su Divina Comedia."
+      },
+      {
+        "name": "San Dunstan",
+        "type": "Arzobispo",
+        "description": "Arzobispo de Canterbury del siglo X, reformador de la Iglesia en Inglaterra y consejero de varios reyes anglosajones. Fue monje, artesano y músico. Bajo su impulso se restauró la vida monástica en Inglaterra y se crearon importantes instituciones educativas."
+      },
+      {
+        "name": "San Ivo de Chartres",
+        "type": "Obispo",
+        "description": "Obispo de Chartres (Francia) del siglo XI, uno de los canonistas más importantes de la Edad Media. Sus colecciones de derecho canónico prepararon el camino para el Decreto de Graciano y la sistematización del derecho eclesiástico medieval."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Conmemoración de Atatürk, la Juventud y el Deporte",
+        "description": "Fiesta nacional turca que celebra el inicio del movimiento de independencia liderado por Mustafa Kemal Atatürk el 19 de mayo de 1919, cuando desembarcó en Samsun para iniciar la Guerra de Independencia turca."
+      },
+      {
+        "name": "Día Mundial de la Enfermedad Inflamatoria Intestinal",
+        "description": "Celebrado para concienciar sobre la enfermedad de Crohn y la colitis ulcerosa, enfermedades crónicas que afectan el sistema digestivo de millones de personas en todo el mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La paz en el país, paz en el mundo.",
+      "author": "Mustafa Kemal Atatürk"
+    },
+    "motivationalQuote": {
+      "text": "La juventud es un don de la naturaleza; la madurez es una obra de arte.",
+      "author": "Stanislaw Lec"
+    },
+    "births": [
+      {
+        "name": "Ho Chi Minh",
+        "description": "Político y revolucionario vietnamita, fundador del movimiento independentista Viet Minh y primer presidente de Vietnam del Norte (1945–1969). Lideró la lucha por la independencia de Vietnam frente a Francia y EE. UU., convirtiéndose en símbolo del anticolonialismo asiático.",
+        "year": "1890"
+      },
+      {
+        "name": "Malcolm X",
+        "description": "Activista afroamericano por los derechos civiles, ministro de la Nación del Islam y figura destacada del movimiento Black Power. Su mensaje de autodeterminación y dignidad racial fue tan influyente como polémico. Fue asesinado en 1965. Su autobiografía es un clásico del siglo XX.",
+        "year": "1925"
+      },
+      {
+        "name": "Grace Jones",
+        "description": "Cantante, modelo y actriz jamaicana-americana, icono de la música disco y new wave de los años 80. Conocida por su imagen andrógina y su personalidad extravagante, fue una figura vanguardista de la cultura pop.",
+        "year": "1948"
+      }
+    ],
+    "events": [
+      {
+        "title": "Inicio de la Guerra de Independencia Turca",
+        "description": "Mustafa Kemal Atatürk desembarcó en Samsun (Turquía), iniciando el movimiento de resistencia contra la ocupación aliada y el sultanato otomano. Este evento marcó el comienzo de la guerra que llevaría a la fundación de la República Turca.",
+        "year": "1919"
+      },
+      {
+        "title": "Anne Boleyn ejecutada",
+        "description": "Ana Bolena, segunda esposa del rey Enrique VIII de Inglaterra y madre de la futura reina Isabel I, fue decapitada en la Torre de Londres acusada de adulterio, traición e incesto. Su ejecución fue un episodio clave en la Reforma inglesa.",
+        "year": "1536"
+      },
+      {
+        "title": "Primer vuelo comercial de Concorde",
+        "description": "El avión supersónico Concorde realizó su primer vuelo comercial regular entre Londres y Bahrein y entre París y Río de Janeiro, inaugurando la era de la aviación comercial supersónica que alcanzaba el doble de la velocidad del sonido.",
+        "year": "1976"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Celestine V",
+        "type": "Pope",
+        "description": "Pietro Angelerio, 13th-century Italian Benedictine monk and hermit, founder of the Celestine order. Elected pope at the age of 85, he resigned the papacy after just five months (1294), becoming the first pope to abdicate voluntarily in Church history. He was canonised in 1313. Dante mentions him in his Divine Comedy."
+      },
+      {
+        "name": "Saint Dunstan",
+        "type": "Archbishop",
+        "description": "10th-century Archbishop of Canterbury, reformer of the Church in England, and adviser to several Anglo-Saxon kings. He was a monk, craftsman, and musician. Under his leadership, monastic life was restored in England and important educational institutions were created."
+      },
+      {
+        "name": "Saint Ivo of Chartres",
+        "type": "Bishop",
+        "description": "11th-century Bishop of Chartres (France), one of the most important canonists of the Middle Ages. His collections of canon law paved the way for Gratian's Decretum and the systematisation of medieval ecclesiastical law."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Commemoration of Atatürk, Youth, and Sports Day",
+        "description": "Turkish national holiday celebrating the start of the independence movement led by Mustafa Kemal Atatürk on 19 May 1919, when he landed at Samsun to begin the Turkish War of Independence."
+      },
+      {
+        "name": "World Inflammatory Bowel Disease Day",
+        "description": "Celebrated to raise awareness about Crohn's disease and ulcerative colitis, chronic diseases that affect the digestive systems of millions of people worldwide."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Peace at home, peace in the world.",
+      "author": "Mustafa Kemal Atatürk"
+    },
+    "motivationalQuote": {
+      "text": "Youth is a gift of nature; maturity is a work of art.",
+      "author": "Stanislaw Lec"
+    },
+    "births": [
+      {
+        "name": "Ho Chi Minh",
+        "description": "Vietnamese politician and revolutionary, founder of the Viet Minh independence movement and first President of North Vietnam (1945–1969). He led the struggle for Vietnamese independence from France and the USA, becoming a symbol of Asian anti-colonialism.",
+        "year": "1890"
+      },
+      {
+        "name": "Malcolm X",
+        "description": "African-American civil rights activist, minister of the Nation of Islam, and prominent figure of the Black Power movement. His message of self-determination and racial dignity was as influential as it was controversial. He was assassinated in 1965. His autobiography is a classic of the 20th century.",
+        "year": "1925"
+      },
+      {
+        "name": "Grace Jones",
+        "description": "Jamaican-American singer, model, and actress, icon of 1980s disco and new wave music. Known for her androgynous image and extravagant personality, she was a vanguard figure of pop culture.",
+        "year": "1948"
+      }
+    ],
+    "events": [
+      {
+        "title": "Start of the Turkish War of Independence",
+        "description": "Mustafa Kemal Atatürk landed at Samsun (Turkey), launching the resistance movement against Allied occupation and the Ottoman Sultanate. This event marked the beginning of the war that would lead to the founding of the Turkish Republic.",
+        "year": "1919"
+      },
+      {
+        "title": "Anne Boleyn Executed",
+        "description": "Anne Boleyn, second wife of King Henry VIII of England and mother of the future Queen Elizabeth I, was beheaded at the Tower of London on charges of adultery, treason, and incest. Her execution was a key episode in the English Reformation.",
+        "year": "1536"
+      },
+      {
+        "title": "First Commercial Concorde Flight",
+        "description": "The supersonic Concorde aircraft made its first regular commercial flight, between London and Bahrain and between Paris and Rio de Janeiro, launching the era of commercial supersonic aviation that reached twice the speed of sound.",
+        "year": "1976"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Celestino V",
+        "type": "Papa",
+        "description": "Pietro Angelerio, monge beneditino e eremita italiano do século XIII, fundador da ordem dos Celestinos. Eleito papa aos 85 anos, renunciou ao papado após apenas cinco meses (1294), sendo o primeiro papa a abdicar voluntariamente na história da Igreja. Foi canonizado em 1313. Dante o menciona em sua Divina Comédia."
+      },
+      {
+        "name": "São Dunstano",
+        "type": "Arcebispo",
+        "description": "Arcebispo de Cantuária do século X, reformador da Igreja na Inglaterra e conselheiro de vários reis anglo-saxões. Foi monge, artesão e músico. Sob seu impulso, a vida monástica foi restaurada na Inglaterra e foram criadas importantes instituições educativas."
+      },
+      {
+        "name": "São Ivo de Chartres",
+        "type": "Bispo",
+        "description": "Bispo de Chartres (França) do século XI, um dos canonistas mais importantes da Idade Média. Suas coleções de direito canônico prepararam o caminho para o Decreto de Graciano e a sistematização do direito eclesiástico medieval."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Comemoração de Atatürk, da Juventude e dos Esportes",
+        "description": "Feriado nacional turco que celebra o início do movimento de independência liderado por Mustafa Kemal Atatürk em 19 de maio de 1919, quando desembarcou em Samsun para iniciar a Guerra de Independência turca."
+      },
+      {
+        "name": "Dia Mundial da Doença Inflamatória Intestinal",
+        "description": "Celebrado para conscientizar sobre a doença de Crohn e a colite ulcerosa, doenças crônicas que afetam o sistema digestivo de milhões de pessoas em todo o mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Paz em casa, paz no mundo.",
+      "author": "Mustafa Kemal Atatürk"
+    },
+    "motivationalQuote": {
+      "text": "A juventude é um dom da natureza; a maturidade é uma obra de arte.",
+      "author": "Stanislaw Lec"
+    },
+    "births": [
+      {
+        "name": "Ho Chi Minh",
+        "description": "Político e revolucionário vietnamita, fundador do movimento independentista Viet Minh e primeiro presidente do Vietnã do Norte (1945–1969). Liderou a luta pela independência do Vietnã frente à França e aos EUA, tornando-se símbolo do anticolonialismo asiático.",
+        "year": "1890"
+      },
+      {
+        "name": "Malcolm X",
+        "description": "Ativista afro-americano pelos direitos civis, ministro da Nação do Islã e figura de destaque do movimento Black Power. Sua mensagem de autodeterminação e dignidade racial foi tão influente quanto polêmica. Foi assassinado em 1965. Sua autobiografia é um clássico do século XX.",
+        "year": "1925"
+      },
+      {
+        "name": "Grace Jones",
+        "description": "Cantora, modelo e atriz jamaicana-americana, ícone da música disco e new wave dos anos 80. Conhecida por sua imagem andrógina e personalidade extravagante, foi uma figura de vanguarda da cultura pop.",
+        "year": "1948"
+      }
+    ],
+    "events": [
+      {
+        "title": "Início da Guerra de Independência Turca",
+        "description": "Mustafa Kemal Atatürk desembarcou em Samsun (Turquia), iniciando o movimento de resistência contra a ocupação aliada e o sultanato otomano. Este evento marcou o início da guerra que levaria à fundação da República Turca.",
+        "year": "1919"
+      },
+      {
+        "title": "Ana Bolena executada",
+        "description": "Ana Bolena, segunda esposa do rei Henrique VIII da Inglaterra e mãe da futura rainha Isabel I, foi decapitada na Torre de Londres sob acusação de adultério, traição e incesto. Sua execução foi um episódio-chave da Reforma inglesa.",
+        "year": "1536"
+      },
+      {
+        "title": "Primeiro voo comercial do Concorde",
+        "description": "O avião supersônico Concorde realizou seu primeiro voo comercial regular, entre Londres e Bahrein e entre Paris e Rio de Janeiro, inaugurando a era da aviação comercial supersônica que atingia o dobro da velocidade do som.",
+        "year": "1976"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Celestí V",
+        "type": "Papa",
+        "description": "Pietro Angelerio, monjo benedictí i ermità italià del segle XIII, fundador de l'orde dels Celestins. Elegit papa als 85 anys, va renunciar al papat després de tan sols cinc mesos (1294), sent el primer papa a abdicar voluntàriament en la història de l'Església. Va ser canonitzat el 1313. Dante el menciona a la seva Divina Comèdia."
+      },
+      {
+        "name": "Sant Dunstan",
+        "type": "Arquebisbe",
+        "description": "Arquebisbe de Canterbury del segle X, reformador de l'Església a Anglaterra i conseller de diversos reis anglosaxons. Va ser monjo, artesà i músic. Sota el seu impuls es va restaurar la vida monàstica a Anglaterra i es van crear importants institucions educatives."
+      },
+      {
+        "name": "Sant Iu de Chartres",
+        "type": "Bisbe",
+        "description": "Bisbe de Chartres (França) del segle XI, un dels canonistes més importants de l'Edat Mitjana. Les seves col·leccions de dret canònic van preparar el camí per al Decret de Gracià i la sistematització del dret eclesiàstic medieval."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Commemoració d'Atatürk, la Joventut i l'Esport",
+        "description": "Festivitat nacional turca que celebra l'inici del moviment d'independència liderat per Mustafa Kemal Atatürk el 19 de maig de 1919, quan va desembarcar a Samsun per iniciar la Guerra d'Independència turca."
+      },
+      {
+        "name": "Dia Mundial de la Malaltia Inflamatòria Intestinal",
+        "description": "Celebrat per conscienciar sobre la malaltia de Crohn i la colitis ulcerosa, malalties cròniques que afecten el sistema digestiu de milions de persones arreu del món."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Pau a casa, pau al món.",
+      "author": "Mustafa Kemal Atatürk"
+    },
+    "motivationalQuote": {
+      "text": "La joventut és un do de la natura; la maduresa és una obra d'art.",
+      "author": "Stanislaw Lec"
+    },
+    "births": [
+      {
+        "name": "Ho Chi Minh",
+        "description": "Polític i revolucionari vietnamita, fundador del moviment independentista Viet Minh i primer president del Vietnam del Nord (1945–1969). Va liderar la lluita per la independència del Vietnam front a França i els EUA, convertint-se en símbol de l'anticolonialisme asiàtic.",
+        "year": "1890"
+      },
+      {
+        "name": "Malcolm X",
+        "description": "Activista afroamericà pels drets civils, ministre de la Nació de l'Islam i figura destacada del moviment Black Power. El seu missatge d'autodeterminació i dignitat racial va ser tan influent com polèmic. Va ser assassinat el 1965. La seva autobiografia és un clàssic del segle XX.",
+        "year": "1925"
+      },
+      {
+        "name": "Grace Jones",
+        "description": "Cantant, model i actriu jamaicana-americana, icona de la música disco i new wave dels anys 80. Coneguda per la seva imatge andrògina i la seva personalitat extravagant, va ser una figura d'avantguarda de la cultura pop.",
+        "year": "1948"
+      }
+    ],
+    "events": [
+      {
+        "title": "Inici de la Guerra d'Independència Turca",
+        "description": "Mustafa Kemal Atatürk va desembarcar a Samsun (Turquia), iniciant el moviment de resistència contra l'ocupació aliada i el sultanat otomà. Aquest fet va marcar el començament de la guerra que portaria a la fundació de la República Turca.",
+        "year": "1919"
+      },
+      {
+        "title": "Ana Bolena executada",
+        "description": "Anna Bolena, segona esposa del rei Enric VIII d'Anglaterra i mare de la futura reina Isabel I, va ser decapitada a la Torre de Londres acusada d'adulteri, traïció i incest. La seva execució va ser un episodi clau de la Reforma anglesa.",
+        "year": "1536"
+      },
+      {
+        "title": "Primer vol comercial del Concorde",
+        "description": "L'avió supersònic Concorde va realitzar el seu primer vol comercial regular, entre Londres i Bahrein i entre París i Rio de Janeiro, inaugurant l'era de l'aviació comercial supersònica que assolía el doble de la velocitat del so.",
+        "year": "1976"
+      }
+    ]
+  }
+}

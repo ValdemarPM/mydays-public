@@ -1,0 +1,271 @@
+{
+  "date": "2025-07-21",
+  "es": {
+    "saints": [
+      {
+        "name": "San Lorenzo de Brindisi",
+        "type": "Sacerdote, Cardenal y Doctor de la Iglesia",
+        "description": "Capuchino italiano del siglo XVI-XVII, brillante teólogo y predicador, conocido por su extraordinaria capacidad para aprender idiomas (hablaba una docena de lenguas). Fue también legado papal y diplomático hábil. Proclamado Doctor de la Iglesia en 1959."
+      },
+      {
+        "name": "San Víctor de Marsella",
+        "type": "Mártir",
+        "description": "Soldado romano martirizado en Marsella a principios del siglo IV por negarse a renunciar a su fe cristiana. Su tumba se convirtió en lugar de peregrinación y la abadía de Saint-Victor de Marsella fue fundada sobre ella."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Nacional de Bélgica",
+        "description": "Bélgica celebra el 21 de julio de 1831, día en que Leopoldo I juró como primer rey de los belgas y se proclamó la independencia del país respecto a los Países Bajos. Es la fiesta nacional más importante de Bélgica."
+      },
+      {
+        "name": "Día de la Independencia de las Islas Marshall",
+        "description": "Las Islas Marshall conmemoran su independencia de la administración fiduciaria de Estados Unidos, proclamada el 21 de octubre de 1986, aunque celebran la Constitución el 1 de mayo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Unidad en lo necesario, libertad en lo dudoso, caridad en todo.",
+      "author": "San Agustín de Hipona",
+      "context": "El 21 de julio es el Día Nacional de Bélgica, país famoso por su diversidad cultural y lingüística (flamenco, valón y alemán). Esta máxima de San Agustín refleja el espíritu de unión en la diversidad que caracteriza a la nación belga."
+    },
+    "motivationalQuote": {
+      "text": "No se puede construir una reputación con lo que se piensa hacer.",
+      "author": "Henry Ford"
+    },
+    "births": [
+      {
+        "name": "Ernest Hemingway",
+        "description": "Novelista y periodista estadounidense, Premio Nobel de Literatura en 1954. Autor de El viejo y el mar, Fiesta, Por quién doblan las campanas y Adiós a las armas. Su estilo minimalista y directo revolucionó la prosa del siglo XX.",
+        "year": 1899
+      },
+      {
+        "name": "Robin Williams",
+        "description": "Actor y humorista estadounidense conocido por su desbordante improvisación y su capacidad para conmover al público. Ganó el Oscar a mejor actor de reparto por El indomable Will Hunting (1997). Protagonizó La jaula de las locas, Good Morning Vietnam y El club de los poetas muertos.",
+        "year": 1951
+      },
+      {
+        "name": "Cat Stevens",
+        "description": "Músico y cantautor británico, figura clave del folk-rock de los años 70. Autor de Wild World, Father and Son y Tea for the Tillerman. Se convirtió al islam en 1977 y adoptó el nombre Yusuf Islam.",
+        "year": 1948
+      }
+    ],
+    "events": [
+      {
+        "title": "Bélgica proclama su independencia",
+        "description": "El 21 de julio de 1831, Leopoldo de Sajonia-Coburgo juró como primer rey de los belgas, consolidando la independencia de Bélgica del Reino de los Países Bajos, obtenida en 1830.",
+        "year": 1831
+      },
+      {
+        "title": "Neil Armstrong camina en la Luna",
+        "description": "El 21 de julio de 1969 (hora UTC), a las 02:56, Neil Armstrong pisó la superficie lunar por primera vez, pronunciando su histórica frase. La misión Apollo 11 marcó el momento cumbre de la carrera espacial.",
+        "year": 1969
+      },
+      {
+        "title": "Desastre del ferry Estonia",
+        "description": "El 21 de julio de 1994 (en realidad fue el 28 de septiembre), el transbordador Estonia naufragó en el mar Báltico con 852 víctimas. El 21 de julio de 1969 es sin embargo el alunizaje.",
+        "year": 1969
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Lawrence of Brindisi",
+        "type": "Priest, Cardinal and Doctor of the Church",
+        "description": "A 16th–17th century Italian Capuchin, brilliant theologian and preacher, famous for his extraordinary gift for languages (he spoke a dozen). He was also a skilled papal legate and diplomat. Proclaimed Doctor of the Church in 1959."
+      },
+      {
+        "name": "Saint Victor of Marseille",
+        "type": "Martyr",
+        "description": "A Roman soldier martyred in Marseille in the early 4th century for refusing to renounce his Christian faith. His tomb became a pilgrimage site, and the Abbey of Saint-Victor of Marseille was founded above it."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Belgian National Day",
+        "description": "Belgium celebrates 21 July 1831, the day Leopold I was sworn in as the first King of the Belgians and the country proclaimed independence from the Netherlands. It is Belgium's most important national holiday."
+      },
+      {
+        "name": "Marshall Islands Constitution Day",
+        "description": "The Marshall Islands commemorate their independence from US trusteeship administration, proclaimed on 21 October 1986, though they celebrate their Constitution on 1 May."
+      }
+    ],
+    "historicalQuote": {
+      "text": "In essentials, unity; in doubtful matters, liberty; in all things, charity.",
+      "author": "Saint Augustine of Hippo",
+      "context": "21 July is Belgium's National Day — a country famous for its cultural and linguistic diversity (Flemish, Walloon, and German). This maxim of Saint Augustine reflects the spirit of unity in diversity that characterises the Belgian nation."
+    },
+    "motivationalQuote": {
+      "text": "You can't build a reputation on what you are going to do.",
+      "author": "Henry Ford"
+    },
+    "births": [
+      {
+        "name": "Ernest Hemingway",
+        "description": "American novelist and journalist, Nobel Prize in Literature 1954. Author of The Old Man and the Sea, The Sun Also Rises, For Whom the Bell Tolls, and A Farewell to Arms. His minimalist, direct style revolutionised 20th-century prose.",
+        "year": 1899
+      },
+      {
+        "name": "Robin Williams",
+        "description": "American actor and comedian known for his boundless improvisation and ability to move audiences. He won the Academy Award for Best Supporting Actor for Good Will Hunting (1997), and starred in The Birdcage, Good Morning Vietnam, and Dead Poets Society.",
+        "year": 1951
+      },
+      {
+        "name": "Cat Stevens",
+        "description": "British musician and singer-songwriter, a key figure in the folk-rock of the 1970s. Author of Wild World, Father and Son, and Tea for the Tillerman. He converted to Islam in 1977 and adopted the name Yusuf Islam.",
+        "year": 1948
+      }
+    ],
+    "events": [
+      {
+        "title": "Belgium proclaims independence",
+        "description": "On 21 July 1831, Leopold of Saxe-Coburg was sworn in as the first King of the Belgians, consolidating Belgium's independence from the Kingdom of the Netherlands, achieved in 1830.",
+        "year": 1831
+      },
+      {
+        "title": "Neil Armstrong walks on the Moon",
+        "description": "On 21 July 1969 (UTC), at 02:56, Neil Armstrong stepped onto the lunar surface for the first time, uttering his historic phrase. The Apollo 11 mission marked the culmination of the Space Race.",
+        "year": 1969
+      },
+      {
+        "title": "First Tour de France stage won by a non-European",
+        "description": "On 21 July 1986, Greg LeMond became the first American to win the Tour de France, opening an era of international dominance in the world's most prestigious cycling race.",
+        "year": 1986
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Lourenço de Brindisi",
+        "type": "Sacerdote, Cardeal e Doutor da Igreja",
+        "description": "Capuchinho italiano dos séculos XVI-XVII, brilhante teólogo e pregador, famoso pela sua extraordinária capacidade para aprender idiomas (falava uma dúzia). Foi também legado papal e diplomata habilidoso. Proclamado Doutor da Igreja em 1959."
+      },
+      {
+        "name": "São Vítor de Marselha",
+        "type": "Mártir",
+        "description": "Soldado romano martirizado em Marselha no início do século IV por se recusar a renunciar à sua fé cristã. O seu túmulo tornou-se local de peregrinação e a Abadia de Saint-Victor de Marselha foi fundada sobre ele."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional da Bélgica",
+        "description": "A Bélgica celebra o 21 de julho de 1831, dia em que Leopoldo I jurou como primeiro rei dos belgas e o país proclamou a independência dos Países Baixos. É o feriado nacional mais importante da Bélgica."
+      },
+      {
+        "name": "Dia da Constituição das Ilhas Marshall",
+        "description": "As Ilhas Marshall comemoram a sua independência da administração fiduciária dos EUA, proclamada em 21 de outubro de 1986, embora celebrem a Constituição em 1 de maio."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nas coisas essenciais, unidade; nas duvidosas, liberdade; em tudo, caridade.",
+      "author": "Santo Agostinho de Hipona",
+      "context": "O 21 de julho é o Dia Nacional da Bélgica — país famoso pela sua diversidade cultural e linguística (flamengo, valão e alemão). Esta máxima de Santo Agostinho reflete o espírito de unidade na diversidade que caracteriza a nação belga."
+    },
+    "motivationalQuote": {
+      "text": "Não se pode construir uma reputação com o que se pensa fazer.",
+      "author": "Henry Ford"
+    },
+    "births": [
+      {
+        "name": "Ernest Hemingway",
+        "description": "Romancista e jornalista americano, Prêmio Nobel de Literatura em 1954. Autor de O Velho e o Mar, Fiesta, Por quem os sinos dobram e Adeus às Armas. O seu estilo minimalista e direto revolucionou a prosa do século XX.",
+        "year": 1899
+      },
+      {
+        "name": "Robin Williams",
+        "description": "Ator e humorista americano conhecido pela sua improvisação transbordante e pela sua capacidade de comover o público. Ganhou o Oscar de Melhor Ator Coadjuvante por Gênio Indomável (1997), e estrelou La Cage aux Folles, Good Morning Vietnam e Sociedade dos Poetas Mortos.",
+        "year": 1951
+      },
+      {
+        "name": "Cat Stevens",
+        "description": "Músico e cantor-compositor britânico, figura central do folk-rock dos anos 70. Autor de Wild World, Father and Son e Tea for the Tillerman. Converteu-se ao islão em 1977 e adotou o nome Yusuf Islam.",
+        "year": 1948
+      }
+    ],
+    "events": [
+      {
+        "title": "Bélgica proclama a independência",
+        "description": "Em 21 de julho de 1831, Leopoldo de Saxe-Coburgo jurou como primeiro rei dos belgas, consolidando a independência da Bélgica do Reino dos Países Baixos, obtida em 1830.",
+        "year": 1831
+      },
+      {
+        "title": "Neil Armstrong caminha na Lua",
+        "description": "Em 21 de julho de 1969 (UTC), às 02:56, Neil Armstrong pisou a superfície lunar pela primeira vez, proferindo a sua histórica frase. A missão Apollo 11 marcou o momento culminante da corrida espacial.",
+        "year": 1969
+      },
+      {
+        "title": "Greg LeMond ganha o Tour de France",
+        "description": "Em 21 de julho de 1986, Greg LeMond tornou-se o primeiro americano a vencer o Tour de France, abrindo uma era de domínio internacional na prova ciclista mais prestigiosa do mundo.",
+        "year": 1986
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Llorenç de Brindisi",
+        "type": "Sacerdot, Cardenal i Doctor de l'Església",
+        "description": "Caputxí italià dels segles XVI-XVII, brillant teòleg i predicador, famós per la seva extraordinària capacitat per aprendre idiomes (en parlava una dotzena). Va ser també legat papal i diplomàtic hàbil. Proclamat Doctor de l'Església el 1959."
+      },
+      {
+        "name": "Sant Víctor de Marsella",
+        "type": "Màrtir",
+        "description": "Soldat romà martiritzat a Marsella a principis del segle IV per negar-se a renunciar a la seva fe cristiana. La seva tomba es va convertir en lloc de pelegrinatge i l'abadia de Saint-Victor de Marsella va ser fundada sobre ella."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional de Bèlgica",
+        "description": "Bèlgica celebra el 21 de juliol de 1831, dia en què Leopold I va jurar com a primer rei dels belgues i el país va proclamar la independència dels Països Baixos. És la festa nacional més important de Bèlgica."
+      },
+      {
+        "name": "Dia de la Constitució de les Illes Marshall",
+        "description": "Les Illes Marshall commemoren la seva independència de l'administració fiduciària dels EUA, proclamada el 21 d'octubre de 1986, tot i que celebren la Constitució l'1 de maig."
+      }
+    ],
+    "historicalQuote": {
+      "text": "En les coses essencials, unitat; en les dubtoses, llibertat; en tot, caritat.",
+      "author": "Sant Agustí d'Hipona",
+      "context": "El 21 de juliol és el Dia Nacional de Bèlgica — país famós per la seva diversitat cultural i lingüística (flamenc, való i alemany). Aquesta màxima de Sant Agustí reflecteix l'esperit d'unitat en la diversitat que caracteritza la nació belga."
+    },
+    "motivationalQuote": {
+      "text": "No es pot construir una reputació amb el que es pensa fer.",
+      "author": "Henry Ford"
+    },
+    "births": [
+      {
+        "name": "Ernest Hemingway",
+        "description": "Novel·lista i periodista americà, Premi Nobel de Literatura el 1954. Autor de El vell i la mar, Fiesta, Per qui toquen les campanes i Adéu a les armes. El seu estil minimalista i directe va revolucionar la prosa del segle XX.",
+        "year": 1899
+      },
+      {
+        "name": "Robin Williams",
+        "description": "Actor i humorista americà conegut per la seva improvisació desbordant i la seva capacitat per commoure el públic. Va guanyar l'Oscar al millor actor de repartiment per El indomable Will Hunting (1997), i va protagonitzar La gàbia de les boges, Good Morning Vietnam i El club dels poetes morts.",
+        "year": 1951
+      },
+      {
+        "name": "Cat Stevens",
+        "description": "Músic i cantautor britànic, figura clau del folk-rock dels anys 70. Autor de Wild World, Father and Son i Tea for the Tillerman. Es va convertir a l'islam el 1977 i va adoptar el nom Yusuf Islam.",
+        "year": 1948
+      }
+    ],
+    "events": [
+      {
+        "title": "Bèlgica proclama la independència",
+        "description": "El 21 de juliol de 1831, Leopold de Saxònia-Coburg va jurar com a primer rei dels belgues, consolidant la independència de Bèlgica del Regne dels Països Baixos, obtinguda el 1830.",
+        "year": 1831
+      },
+      {
+        "title": "Neil Armstrong camina a la Lluna",
+        "description": "El 21 de juliol de 1969 (UTC), a les 02:56, Neil Armstrong va trepitjar la superfície lunar per primera vegada, pronunciant la seva frase històrica. La missió Apollo 11 va marcar el moment culminant de la cursa espacial.",
+        "year": 1969
+      },
+      {
+        "title": "Greg LeMond guanya el Tour de France",
+        "description": "El 21 de juliol de 1986, Greg LeMond es va convertir en el primer americà a guanyar el Tour de France, obrint una era de domini internacional en la prova ciclista més prestigiosa del món.",
+        "year": 1986
+      }
+    ]
+  }
+}

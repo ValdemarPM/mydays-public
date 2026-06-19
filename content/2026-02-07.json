@@ -1,0 +1,119 @@
+{
+  "date": "2026-02-07",
+  "es": {
+    "saints": [
+      { "name": "San Romualdo", "type": "Abad", "description": "Monje benedictino italiano del siglo X-XI, fundador de la Orden Camaldulense, que renovó el ideal eremítico en Occidente." },
+      { "name": "San Ricardo de Lucca", "type": "Rey peregrino", "description": "Rey anglosajon que murió en peregrinación a Tierra Santa en el siglo VIII; sus restos reposan en Lucca (Italia)." }
+    ],
+    "observances": [
+      { "name": "Día Internacional del Ser Humano con Valor", "description": "Jornada para reconocer la valentía cotidiana que muestran personas anónimas en situaciones de dificultad o peligro." },
+      { "name": "Día de la Mujer en Granada (Nicaragua)", "description": "Festividad local de la ciudad de Granada en honor a las mujeres, con celebraciones culturales y artísticas." }
+    ],
+    "historicalQuote": {
+      "text": "Es un gran libro, es una gran novela, es un gran hombre.",
+      "author": "Charles Dickens",
+      "context": "Dickens nació el 7 de febrero de 1812 en Portsmouth. Autor de Oliver Twist, David Copperfield y Historia de dos ciudades, transformó la novela victoriana en instrumento de crítica social."
+    },
+    "motivationalQuote": {
+      "text": "Nunca es demasiado tarde para ser lo que podrías haber sido.",
+      "author": "George Eliot"
+    },
+    "births": [
+      { "name": "Charles Dickens", "description": "Novelista inglés del siglo XIX, maestro de la crítica social victoriana; autor de Oliver Twist, David Copperfield y Grandes esperanzas.", "year": 1812 },
+      { "name": "Sinclair Lewis", "description": "Escritor estadounidense, primer americano en ganar el Premio Nobel de Literatura (1930), autor de Main Street y Babbitt.", "year": 1885 },
+      { "name": "Gareth Bale", "description": "Futbolista galés, uno de los mejores extremos de su generación; destacó en el Real Madrid y marcó goles históricos en Champions League.", "year": 1989 }
+    ],
+    "events": [
+      { "title": "Abolición de la esclavitud en Francia", "description": "La Asamblea Nacional francesa decreta la abolición de la esclavitud en todas las colonias francesas, convirtiéndose en la primera gran nación en hacerlo.", "year": 1794 },
+      { "title": "Los Beatles llegan a EE. UU.", "description": "John Lennon, Paul McCartney, George Harrison y Ringo Starr aterrizan en el aeropuerto JFK de Nueva York, desencadenando la 'Invasión Británica' de la música pop.", "year": 1964 },
+      { "title": "Primer Super Bowl de la historia", "description": "Los Green Bay Packers derrotan a los Kansas City Chiefs 35-10 en el primer AFL-NFL Championship Game (hoy Super Bowl I).", "year": 1967 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Romuald", "type": "Abbot", "description": "Italian Benedictine monk of the 10th–11th century, founder of the Camaldolese Order, who renewed the eremitic ideal in the West." },
+      { "name": "Saint Richard of Lucca", "type": "Pilgrim King", "description": "Anglo-Saxon king who died on pilgrimage to the Holy Land in the 8th century; his remains rest in Lucca, Italy." }
+    ],
+    "observances": [
+      { "name": "International Day of the Human with Courage", "description": "A day to recognise the everyday bravery shown by ordinary people in difficult or dangerous situations." },
+      { "name": "Women's Day in Granada (Nicaragua)", "description": "Local festivity in the city of Granada honouring women, with cultural and artistic celebrations." }
+    ],
+    "historicalQuote": {
+      "text": "It is a great book, it is a great novel, it is a great man.",
+      "author": "Charles Dickens",
+      "context": "Dickens was born on 7 February 1812 in Portsmouth. Author of Oliver Twist, David Copperfield and A Tale of Two Cities, he transformed the Victorian novel into an instrument of social criticism."
+    },
+    "motivationalQuote": {
+      "text": "It is never too late to be what you might have been.",
+      "author": "George Eliot"
+    },
+    "births": [
+      { "name": "Charles Dickens", "description": "English 19th-century novelist, master of Victorian social criticism; author of Oliver Twist, David Copperfield and Great Expectations.", "year": 1812 },
+      { "name": "Sinclair Lewis", "description": "American writer, the first American to win the Nobel Prize in Literature (1930), author of Main Street and Babbitt.", "year": 1885 },
+      { "name": "Gareth Bale", "description": "Welsh footballer, one of the best wingers of his generation; he excelled at Real Madrid and scored historic Champions League goals.", "year": 1989 }
+    ],
+    "events": [
+      { "title": "France abolishes slavery", "description": "The French National Assembly decrees the abolition of slavery in all French colonies, becoming the first major nation to do so.", "year": 1794 },
+      { "title": "The Beatles arrive in the USA", "description": "John Lennon, Paul McCartney, George Harrison and Ringo Starr land at JFK Airport in New York, triggering the 'British Invasion' of pop music.", "year": 1964 },
+      { "title": "First Super Bowl in history", "description": "The Green Bay Packers defeat the Kansas City Chiefs 35–10 in the first AFL-NFL Championship Game (now Super Bowl I).", "year": 1967 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Romualdo", "type": "Abade", "description": "Monge beneditino italiano dos séculos X-XI, fundador da Ordem Camaldulense, que renovou o ideal eremítico no Ocidente." },
+      { "name": "São Ricardo de Lucca", "type": "Rei peregrino", "description": "Rei anglo-saxão que morreu em peregrinação à Terra Santa no século VIII; seus restos repousam em Lucca (Itália)." }
+    ],
+    "observances": [
+      { "name": "Dia Internacional do Ser Humano com Coragem", "description": "Jornada para reconhecer a bravura cotidiana demonstrada por pessoas anônimas em situações de dificuldade ou perigo." },
+      { "name": "Dia da Mulher em Granada (Nicarágua)", "description": "Festividade local da cidade de Granada em homenagem às mulheres, com celebrações culturais e artísticas." }
+    ],
+    "historicalQuote": {
+      "text": "É um grande livro, é um grande romance, é um grande homem.",
+      "author": "Charles Dickens",
+      "context": "Dickens nasceu em 7 de fevereiro de 1812 em Portsmouth. Autor de Oliver Twist, David Copperfield e Um Conto de Duas Cidades, transformou o romance vitoriano em instrumento de crítica social."
+    },
+    "motivationalQuote": {
+      "text": "Nunca é tarde demais para ser o que você poderia ter sido.",
+      "author": "George Eliot"
+    },
+    "births": [
+      { "name": "Charles Dickens", "description": "Romancista inglês do século XIX, mestre da crítica social vitoriana; autor de Oliver Twist, David Copperfield e Grandes Esperanças.", "year": 1812 },
+      { "name": "Sinclair Lewis", "description": "Escritor americano, primeiro americano a ganhar o Prêmio Nobel de Literatura (1930), autor de Main Street e Babbitt.", "year": 1885 },
+      { "name": "Gareth Bale", "description": "Futebolista galês, um dos melhores pontas da sua geração; destacou-se no Real Madrid e marcou gols históricos na Liga dos Campeões.", "year": 1989 }
+    ],
+    "events": [
+      { "title": "A França aboliu a escravidão", "description": "A Assembleia Nacional francesa decreta a abolição da escravidão em todas as colônias francesas, tornando-se a primeira grande nação a fazê-lo.", "year": 1794 },
+      { "title": "Os Beatles chegam aos EUA", "description": "John Lennon, Paul McCartney, George Harrison e Ringo Starr pousam no aeroporto JFK de Nova York, desencadeando a 'Invasão Britânica' da música pop.", "year": 1964 },
+      { "title": "Primeiro Super Bowl da história", "description": "O Green Bay Packers derrota o Kansas City Chiefs por 35-10 no primeiro AFL-NFL Championship Game (hoje Super Bowl I).", "year": 1967 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Romual·d", "type": "Abat", "description": "Monjo benedictí italià dels segles X-XI, fundador de l'Orde Camaldulenc, que va renovar l'ideal eremític a Occident." },
+      { "name": "Sant Ricard de Lucca", "type": "Rei pelegrí", "description": "Rei anglosaxó que va morir en pelegrinatge a Terra Santa al segle VIII; les seves restes reposen a Lucca (Itàlia)." }
+    ],
+    "observances": [
+      { "name": "Dia Internacional de l'Ésser Humà amb Valor", "description": "Jornada per reconèixer la valentia quotidiana que mostren persones anònimes en situacions de dificultat o perill." },
+      { "name": "Dia de la Dona a Granada (Nicaragua)", "description": "Festivitat local de la ciutat de Granada en honor de les dones, amb celebracions culturals i artístiques." }
+    ],
+    "historicalQuote": {
+      "text": "És un gran llibre, és una gran novel·la, és un gran home.",
+      "author": "Charles Dickens",
+      "context": "Dickens va néixer el 7 de febrer de 1812 a Portsmouth. Autor d'Oliver Twist, David Copperfield i Historia de dos ciutats, va transformar la novel·la victoriana en instrument de crítica social."
+    },
+    "motivationalQuote": {
+      "text": "Mai és massa tard per ser el que podries haver estat.",
+      "author": "George Eliot"
+    },
+    "births": [
+      { "name": "Charles Dickens", "description": "Novel·lista anglès del segle XIX, mestre de la crítica social victoriana; autor d'Oliver Twist, David Copperfield i Grans esperances.", "year": 1812 },
+      { "name": "Sinclair Lewis", "description": "Escriptor americà, primer americà a guanyar el Premi Nobel de Literatura (1930), autor de Main Street i Babbitt.", "year": 1885 },
+      { "name": "Gareth Bale", "description": "Futbolista gal·lès, un dels millors extrems de la seva generació; va destacar al Real Madrid i va marcar gols històrics a la Champions League.", "year": 1989 }
+    ],
+    "events": [
+      { "title": "França aboleix l'esclavitud", "description": "L'Assemblea Nacional francesa decreta l'abolició de l'esclavitud a totes les colònies franceses, convertint-se en la primera gran nació a fer-ho.", "year": 1794 },
+      { "title": "Els Beatles arriben als EUA", "description": "John Lennon, Paul McCartney, George Harrison i Ringo Starr aterren a l'aeroport JFK de Nova York, desencadenant la 'Invasió Britànica' de la música pop.", "year": 1964 },
+      { "title": "Primer Super Bowl de la història", "description": "Els Green Bay Packers derroten els Kansas City Chiefs per 35-10 en el primer AFL-NFL Championship Game (avui Super Bowl I).", "year": 1967 }
+    ]
+  }
+}

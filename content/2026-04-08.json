@@ -1,0 +1,291 @@
+{
+  "date": "2026-04-08",
+  "es": {
+    "saints": [
+      {
+        "name": "San Alberto el Grande (traslado)",
+        "type": "Obispo y Doctor de la Iglesia",
+        "description": "Dominico alemán del siglo XIII, uno de los más grandes filósofos y teólogos de la Escolástica. Fue maestro de Santo Tomás de Aquino en Colonia. Su síntesis de la filosofía aristotélica con la teología cristiana sentó las bases del pensamiento medieval tardío. Es patrono de los científicos naturales y filósofos."
+      },
+      {
+        "name": "San Dionisio de Corinto",
+        "type": "Obispo",
+        "description": "Obispo de Corinto en el siglo II, famoso por sus cartas pastorales a diversas comunidades cristianas de Grecia y Asia Menor, que fueron ampliamente copiadas. Eusebio de Cesarea lo cita como una de las figuras más influyentes del cristianismo primitivo."
+      },
+      {
+        "name": "San Amancio de Como",
+        "type": "Obispo",
+        "description": "Primer obispo histórico de Como (actual Italia), en el siglo IV-V. Fue consagrado por San Ambrosio de Milán y es considerado el fundador de la iglesia local de Como. Su festividad aún se celebra con devoción en la región del lago de Como."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de los Romaníes",
+        "description": "Celebrado el 8 de abril desde 1990, conmemora el primer Congreso Internacional Romaní celebrado en Londres en 1971. Busca reconocer la identidad cultural romaní, visibilizar su historia de discriminación y reivindicar sus derechos como pueblo sin estado propio."
+      },
+      {
+        "name": "Día Mundial contra la Esclavitud",
+        "description": "Jornada de sensibilización sobre las diferentes formas de esclavitud moderna, incluyendo el trabajo forzado, la trata de personas y la servidumbre por deudas. Según la OIT, más de 40 millones de personas en el mundo viven en situación de esclavitud moderna."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Maravillarse de todo es el primer paso de la razón hacia el descubrimiento.",
+      "author": "San Alberto el Grande",
+      "context": "San Alberto el Grande, cuya festividad se recuerda hoy, fue el primer erudito medieval en clasificar y comentar sistemáticamente todos los escritos de Aristóteles. Esta cita refleja su vocación científica y filosófica."
+    },
+    "motivationalQuote": {
+      "text": "Cada momento es un nuevo comienzo.",
+      "author": "T.S. Eliot"
+    },
+    "births": [
+      {
+        "name": "Kofi Annan",
+        "description": "Diplomático ghanés, séptimo Secretario General de las Naciones Unidas (1997–2006) y primer subsahariano en ocupar el cargo. Bajo su liderazgo se crearon los Objetivos de Desarrollo del Milenio. Ganó el Premio Nobel de la Paz en 2001 junto a la propia ONU.",
+        "year": "1938"
+      },
+      {
+        "name": "Vivienne Westwood",
+        "description": "Diseñadora de moda británica, figura fundamental del punk y del postpunk en la moda. Colaboró con Malcolm McLaren en el surgimiento del movimiento punk en los años 70. Sus colecciones han fusionado la rebeldía política con la alta costura, convirtiéndola en icono de la moda alternativa.",
+        "year": "1941"
+      },
+      {
+        "name": "Betty Ford",
+        "description": "Primera Dama de los Estados Unidos como esposa del presidente Gerald Ford. Fue pionera en hablar públicamente sobre su adicción al alcohol y los analgésicos, y fundó el Betty Ford Center en 1982, uno de los centros de rehabilitación de adicciones más influyentes del mundo.",
+        "year": "1918"
+      }
+    ],
+    "events": [
+      {
+        "title": "Siddhartha Gautama alcanza la Iluminación",
+        "description": "Según la tradición budista theravada, Buda Siddhartha Gautama alcanzó la Iluminación plena bajo el árbol Bodhi en Bodh Gaya (India). Esta fecha, conocida como Vesak en algunas tradiciones, es uno de los días más sagrados del calendario budista.",
+        "year": "528 a.C."
+      },
+      {
+        "title": "Primer vuelo del Airbus A380",
+        "description": "El avión comercial más grande del mundo realizó su vuelo inaugural desde Toulouse (Francia). Con capacidad para más de 800 pasajeros, el A380 representó un hito en la aviación comercial, aunque fue descontinuado en 2019 por falta de demanda de sus principales clientes.",
+        "year": "2005"
+      },
+      {
+        "title": "Tratado de Utrecht",
+        "description": "Se firmó en Utrecht (Países Bajos) una serie de tratados de paz que puso fin a la Guerra de Sucesión Española. España cedió Gibraltar y Menorca a Gran Bretaña, y los Países Bajos españoles pasaron a Austria, redibujando el mapa de Europa occidental.",
+        "year": "1713"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Albert the Great (transfer)",
+        "type": "Bishop and Doctor of the Church",
+        "description": "A 13th-century German Dominican, one of the greatest philosophers and theologians of Scholasticism. He was the teacher of Saint Thomas Aquinas in Cologne. His synthesis of Aristotelian philosophy with Christian theology laid the foundations of late medieval thought. He is the patron saint of natural scientists and philosophers."
+      },
+      {
+        "name": "Saint Dionysius of Corinth",
+        "type": "Bishop",
+        "description": "A 2nd-century Bishop of Corinth, famous for his pastoral letters to various Christian communities in Greece and Asia Minor, which were widely copied. Eusebius of Caesarea cites him as one of the most influential figures of early Christianity."
+      },
+      {
+        "name": "Saint Amantius of Como",
+        "type": "Bishop",
+        "description": "The first historical bishop of Como (present-day Italy), in the 4th–5th century. He was consecrated by Saint Ambrose of Milan and is considered the founder of the local church of Como. His feast is still celebrated with devotion in the Lake Como region."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Romani Day",
+        "description": "Celebrated on 8 April since 1990, it commemorates the first World Romani Congress held in London in 1971. It seeks to recognise Romani cultural identity, raise awareness of their history of discrimination, and vindicate their rights as a people without their own state."
+      },
+      {
+        "name": "World Day Against Slavery",
+        "description": "A day of awareness about different forms of modern slavery, including forced labour, human trafficking, and debt bondage. According to the ILO, more than 40 million people worldwide live in conditions of modern slavery."
+      }
+    ],
+    "historicalQuote": {
+      "text": "To wonder at everything is the first step of reason towards discovery.",
+      "author": "Saint Albert the Great",
+      "context": "Saint Albert the Great, whose feast is recalled today, was the first medieval scholar to systematically classify and comment on all the writings of Aristotle. This quote reflects his scientific and philosophical vocation."
+    },
+    "motivationalQuote": {
+      "text": "Every moment is a fresh beginning.",
+      "author": "T.S. Eliot"
+    },
+    "births": [
+      {
+        "name": "Kofi Annan",
+        "description": "Ghanaian diplomat, seventh Secretary-General of the United Nations (1997–2006) and the first sub-Saharan African to hold the position. Under his leadership the Millennium Development Goals were created. He won the Nobel Peace Prize in 2001 jointly with the UN itself.",
+        "year": "1938"
+      },
+      {
+        "name": "Vivienne Westwood",
+        "description": "British fashion designer, a fundamental figure of punk and post-punk in fashion. She collaborated with Malcolm McLaren in the emergence of the punk movement in the 1970s. Her collections have fused political rebelliousness with haute couture, making her an icon of alternative fashion.",
+        "year": "1941"
+      },
+      {
+        "name": "Betty Ford",
+        "description": "First Lady of the United States as wife of President Gerald Ford. She was a pioneer in speaking publicly about her addiction to alcohol and painkillers, and she founded the Betty Ford Center in 1982, one of the most influential addiction rehabilitation centres in the world.",
+        "year": "1918"
+      }
+    ],
+    "events": [
+      {
+        "title": "Siddhartha Gautama Attains Enlightenment",
+        "description": "According to the Theravada Buddhist tradition, Buddha Siddhartha Gautama attained full Enlightenment under the Bodhi tree in Bodh Gaya (India). This date, known as Vesak in some traditions, is one of the holiest days in the Buddhist calendar.",
+        "year": "528 BC"
+      },
+      {
+        "title": "First Flight of the Airbus A380",
+        "description": "The world's largest commercial aircraft made its inaugural flight from Toulouse (France). With a capacity of more than 800 passengers, the A380 represented a milestone in commercial aviation, although it was discontinued in 2019 due to lack of demand from its main customers.",
+        "year": "2005"
+      },
+      {
+        "title": "Treaty of Utrecht",
+        "description": "A series of peace treaties was signed in Utrecht (Netherlands), ending the War of the Spanish Succession. Spain ceded Gibraltar and Minorca to Great Britain, and the Spanish Netherlands passed to Austria, redrawing the map of Western Europe.",
+        "year": "1713"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Alberto Magno (translado)",
+        "type": "Bispo e Doutor da Igreja",
+        "description": "Dominicano alemão do século XIII, um dos maiores filósofos e teólogos da Escolástica. Foi mestre de Santo Tomás de Aquino em Colónia. A sua síntese da filosofia aristotélica com a teologia cristã lançou as bases do pensamento medieval tardio. É patrono dos cientistas naturais e filósofos."
+      },
+      {
+        "name": "São Dionísio de Corinto",
+        "type": "Bispo",
+        "description": "Bispo de Corinto no século II, famoso pelas suas cartas pastorais a diversas comunidades cristãs da Grécia e da Ásia Menor, que foram amplamente copiadas. Eusébio de Cesareia cita-o como uma das figuras mais influentes do cristianismo primitivo."
+      },
+      {
+        "name": "São Amâncio de Como",
+        "type": "Bispo",
+        "description": "Primeiro bispo histórico de Como (atual Itália), nos séculos IV-V. Foi consagrado por Santo Ambrósio de Milão e é considerado o fundador da Igreja local de Como. A sua festividade ainda é celebrada com devoção na região do lago de Como."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional dos Romani",
+        "description": "Celebrado em 8 de abril desde 1990, comemora o primeiro Congresso Mundial Romano realizado em Londres em 1971. Busca reconhecer a identidade cultural romani, visibilizar a sua história de discriminação e reivindicar os seus direitos como povo sem estado próprio."
+      },
+      {
+        "name": "Dia Mundial contra a Escravatura",
+        "description": "Jornada de sensibilização sobre as diferentes formas de escravidão moderna, incluindo o trabalho forçado, o tráfico de pessoas e a servidão por dívidas. Segundo a OIT, mais de 40 milhões de pessoas no mundo vivem em situação de escravidão moderna."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Maravilhar-se com tudo é o primeiro passo da razão em direção à descoberta.",
+      "author": "Santo Alberto Magno",
+      "context": "Santo Alberto Magno, cuja festividade se recorda hoje, foi o primeiro erudito medieval a classificar e comentar sistematicamente todos os escritos de Aristóteles. Esta citação reflete a sua vocação científica e filosófica."
+    },
+    "motivationalQuote": {
+      "text": "Cada momento é um novo começo.",
+      "author": "T.S. Eliot"
+    },
+    "births": [
+      {
+        "name": "Kofi Annan",
+        "description": "Diplomata ganense, sétimo Secretário-Geral das Nações Unidas (1997–2006) e primeiro subsaariano a ocupar o cargo. Sob a sua liderança foram criados os Objetivos de Desenvolvimento do Milénio. Ganhou o Prémio Nobel da Paz em 2001 juntamente com a própria ONU.",
+        "year": "1938"
+      },
+      {
+        "name": "Vivienne Westwood",
+        "description": "Estilista britânica, figura fundamental do punk e do pós-punk na moda. Colaborou com Malcolm McLaren no surgimento do movimento punk nos anos 70. As suas coleções fundiram a rebeldia política com a alta costura, tornando-a ícone da moda alternativa.",
+        "year": "1941"
+      },
+      {
+        "name": "Betty Ford",
+        "description": "Primeira-Dama dos Estados Unidos como esposa do presidente Gerald Ford. Foi pioneira em falar publicamente sobre a sua dependência do álcool e dos analgésicos, e fundou o Betty Ford Center em 1982, um dos centros de reabilitação de dependências mais influentes do mundo.",
+        "year": "1918"
+      }
+    ],
+    "events": [
+      {
+        "title": "Sidarta Gautama alcança a Iluminação",
+        "description": "Segundo a tradição budista theravada, Buda Sidarta Gautama alcançou a plena Iluminação sob a árvore Bodhi em Bodh Gaya (Índia). Esta data, conhecida como Vesak em algumas tradições, é um dos dias mais sagrados do calendário budista.",
+        "year": "528 a.C."
+      },
+      {
+        "title": "Primeiro voo do Airbus A380",
+        "description": "O maior avião comercial do mundo realizou o seu voo inaugural a partir de Toulouse (França). Com capacidade para mais de 800 passageiros, o A380 representou um marco na aviação comercial, embora tenha sido descontinuado em 2019 por falta de procura dos seus principais clientes.",
+        "year": "2005"
+      },
+      {
+        "title": "Tratado de Utrecht",
+        "description": "Foi assinada em Utrecht (Países Baixos) uma série de tratados de paz que pôs fim à Guerra de Sucessão Espanhola. A Espanha cedeu Gibraltar e Minorca à Grã-Bretanha, e os Países Baixos espanhóis passaram para a Áustria, redesenhando o mapa da Europa ocidental.",
+        "year": "1713"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Albert el Gran (trasllat)",
+        "type": "Bisbe i Doctor de l'Església",
+        "description": "Dominic alemany del segle XIII, un dels majors filòsofs i teòlegs de l'Escolàstica. Va ser mestre de Sant Tomàs d'Aquino a Colònia. La seva síntesi de la filosofia aristotèlica amb la teologia cristiana va establir les bases del pensament medieval tardà. És patró dels científics naturals i filòsofs."
+      },
+      {
+        "name": "Sant Dionís de Corint",
+        "type": "Bisbe",
+        "description": "Bisbe de Corint al segle II, famós per les seves cartes pastorals a diverses comunitats cristianes de Grècia i l'Àsia Menor, que van ser àmpliament copiades. Eusebi de Cesarea el cita com una de les figures més influents del cristianisme primitiu."
+      },
+      {
+        "name": "Sant Amanci de Como",
+        "type": "Bisbe",
+        "description": "Primer bisbe històric de Como (actual Itàlia), als segles IV-V. Va ser consagrat per Sant Ambròs de Milà i és considerat el fundador de l'Església local de Como. La seva festivitat encara es celebra amb devoció a la regió del llac de Como."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional dels Romani",
+        "description": "Celebrat el 8 d'abril des del 1990, commemora el primer Congrés Mundial Romaní celebrat a Londres el 1971. Busca reconèixer la identitat cultural romaní, visibilitzar la seva història de discriminació i reivindicar els seus drets com a poble sense estat propi."
+      },
+      {
+        "name": "Dia Mundial contra l'Esclavitud",
+        "description": "Jornada de sensibilització sobre les diferents formes d'esclavitud moderna, incloent-hi el treball forçat, el tràfic de persones i la servitud per deutes. Segons l'OIT, més de 40 milions de persones al món viuen en situació d'esclavitud moderna."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Meravellar-se de tot és el primer pas de la raó cap al descobriment.",
+      "author": "Sant Albert el Gran",
+      "context": "Sant Albert el Gran, la festivitat del qual es recorda avui, va ser el primer erudit medieval a classificar i comentar sistemàticament tots els escrits d'Aristòtil. Aquesta cita reflecteix la seva vocació científica i filosòfica."
+    },
+    "motivationalQuote": {
+      "text": "Cada moment és un nou inici.",
+      "author": "T.S. Eliot"
+    },
+    "births": [
+      {
+        "name": "Kofi Annan",
+        "description": "Diplomàtic ghanès, setè Secretari General de les Nacions Unides (1997–2006) i primer subsaharià a ocupar el càrrec. Sota el seu lideratge es van crear els Objectius de Desenvolupament del Mil·lenni. Va guanyar el Premi Nobel de la Pau el 2001 juntament amb la pròpia ONU.",
+        "year": "1938"
+      },
+      {
+        "name": "Vivienne Westwood",
+        "description": "Dissenyadora de moda britànica, figura fonamental del punk i del postpunk en la moda. Va col·laborar amb Malcolm McLaren en el sorgiment del moviment punk als anys 70. Les seves col·leccions han fusionat la rebel·lia política amb l'alta costura, convertint-la en icona de la moda alternativa.",
+        "year": "1941"
+      },
+      {
+        "name": "Betty Ford",
+        "description": "Primera Dama dels Estats Units com a esposa del president Gerald Ford. Va ser pionera en parlar públicament sobre la seva addicció a l'alcohol i els analgèsics, i va fundar el Betty Ford Center el 1982, un dels centres de rehabilitació d'addiccions més influents del món.",
+        "year": "1918"
+      }
+    ],
+    "events": [
+      {
+        "title": "Sidarta Gautama assoleix la Il·luminació",
+        "description": "Segons la tradició budista theravada, Buda Sidarta Gautama va assolir la plena Il·luminació sota l'arbre Bodhi a Bodh Gaya (Índia). Aquesta data, coneguda com a Vesak en algunes tradicions, és un dels dies més sagrats del calendari budista.",
+        "year": "528 a.C."
+      },
+      {
+        "title": "Primer vol de l'Airbus A380",
+        "description": "L'avió comercial més gran del món va realitzar el seu vol inaugural des de Tolosa (França). Amb capacitat per a més de 800 passatgers, l'A380 va representar una fita en l'aviació comercial, tot i que va ser descontinuat el 2019 per manca de demanda dels seus principals clients.",
+        "year": "2005"
+      },
+      {
+        "title": "Tractat d'Utrecht",
+        "description": "A Utrecht (Països Baixos) es va signar una sèrie de tractats de pau que va posar fi a la Guerra de Successió Espanyola. Espanya va cedir Gibraltar i Menorca a la Gran Bretanya, i els Països Baixos espanyols van passar a Àustria, redibuixant el mapa d'Europa occidental.",
+        "year": "1713"
+      }
+    ]
+  }
+}

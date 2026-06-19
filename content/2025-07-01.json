@@ -1,0 +1,307 @@
+{
+  "date": "2025-07-01",
+  "es": {
+    "saints": [
+      {
+        "name": "San Teobaldo de Provins",
+        "type": "Anacoreta",
+        "description": "Noble francés del siglo XI que renunció a su herencia para vivir como peregrino y ermitaño. Tras visitar Roma y Compostela, se retiró como anacoreta en Salanigo (Italia), donde murió en 1066."
+      },
+      {
+        "name": "San Casto de Tarente",
+        "type": "Mártir",
+        "description": "Mártir cristiano de los primeros siglos venerado en Tarento (Puglia, Italia). Su culto es muy antiguo en la región del Mediterráneo meridional."
+      },
+      {
+        "name": "Santa Esther",
+        "type": "Reina bíblica",
+        "description": "Protagonista del libro bíblico de Ester. Reina judía de Persia que salvó a su pueblo de la persecución del ministro Amán intercediendo ante el rey Asuero. Símbolo de valentía y providencia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de Canadá",
+        "description": "Fiesta nacional canadiense que celebra la promulgación de la Ley de la Constitución el 1 de julio de 1867, que unió las colonias británicas de Norteamérica en la Confederación de Canadá."
+      },
+      {
+        "name": "Día de la Independencia de Burundi",
+        "description": "Burundi celebra su independencia del mandato de administración belga, proclamada el 1 de julio de 1962. Es fiesta nacional en el país africano."
+      },
+      {
+        "name": "Día Internacional de las Cooperativas",
+        "description": "Celebrado el primer sábado de julio por la ONU para reconocer el papel de las cooperativas en el desarrollo sostenible, la reducción de la pobreza y la cohesión social."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nuestra herencia principal es la libertad y nuestra obligación principal es defenderla.",
+      "author": "John F. Kennedy",
+      "context": "El 1 de julio de 1863 comenzó la Batalla de Gettysburg, punto de inflexión de la Guerra Civil Americana. Kennedy, gran estudioso de la historia americana, citó frecuentemente el ideal de libertad que definió ese conflicto."
+    },
+    "motivationalQuote": {
+      "text": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      {
+        "name": "George Sand",
+        "description": "Escritora francesa del Romanticismo, conocida por su prolífica obra literaria y por ser una de las primeras mujeres en alcanzar el reconocimiento literario en igualdad con los hombres de su época.",
+        "year": 1804
+      },
+      {
+        "name": "Diana, Princesa de Gales",
+        "description": "Miembro de la familia real británica, primera esposa del Príncipe Carlos y madre de los príncipes Guillermo y Harry. Conocida por su labor humanitaria y su lucha contra las minas antipersona.",
+        "year": 1961
+      },
+      {
+        "name": "Gottfried Wilhelm Leibniz",
+        "description": "Filósofo y matemático alemán que desarrolló de forma independiente el cálculo infinitesimal. También creó la lógica matemática moderna y el sistema de numeración binario.",
+        "year": 1646
+      }
+    ],
+    "events": [
+      {
+        "title": "Inauguración del Canal de Suez (apertura al tráfico)",
+        "description": "El 1 de julio de 1869, el Canal de Suez fue oficialmente abierto al tráfico marítimo internacional, transformando el comercio mundial al conectar el mar Mediterráneo con el mar Rojo.",
+        "year": 1869
+      },
+      {
+        "title": "Primera emisión de televisión a color en España",
+        "description": "El 1 de julio de 1969, TVE inició sus emisiones regulares en color, aunque la mayoría de los hogares españoles no contaban aún con televisores en color.",
+        "year": 1969
+      },
+      {
+        "title": "Entrada en vigor del Tratado de No Proliferación Nuclear",
+        "description": "El 1 de julio de 1968 se abrió a la firma el Tratado sobre la No Proliferación de Armas Nucleares (TNP), piedra angular del régimen internacional de desarme nuclear.",
+        "year": 1968
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Theobald of Provins",
+        "type": "Hermit",
+        "description": "An 11th-century French nobleman who renounced his inheritance to live as a pilgrim and hermit. After visiting Rome and Compostela, he retired as a hermit in Salanigo (Italy), where he died in 1066."
+      },
+      {
+        "name": "Saint Castus of Taranto",
+        "type": "Martyr",
+        "description": "Early Christian martyr venerated in Taranto (Puglia, Italy). His cult is very ancient in the southern Mediterranean region."
+      },
+      {
+        "name": "Saint Esther",
+        "type": "Biblical Queen",
+        "description": "Protagonist of the biblical Book of Esther. A Jewish queen of Persia who saved her people from persecution by the minister Haman by interceding with King Ahasuerus. A symbol of courage and providence."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Canada Day",
+        "description": "Canada's national holiday celebrating the enactment of the Constitution Act on 1 July 1867, which united the British colonies of North America into the Canadian Confederation."
+      },
+      {
+        "name": "Independence Day of Burundi",
+        "description": "Burundi celebrates its independence from Belgian administration, proclaimed on 1 July 1962. It is a national holiday in the African country."
+      },
+      {
+        "name": "International Day of Cooperatives",
+        "description": "Observed on the first Saturday of July by the UN to recognise the role of cooperatives in sustainable development, poverty reduction, and social cohesion."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Our primary inheritance is freedom and our primary obligation is to defend it.",
+      "author": "John F. Kennedy",
+      "context": "On 1 July 1863, the Battle of Gettysburg began — a turning point of the American Civil War. Kennedy, a keen student of American history, frequently invoked the ideal of freedom that defined that conflict."
+    },
+    "motivationalQuote": {
+      "text": "Success is the sum of small efforts repeated day in and day out.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      {
+        "name": "George Sand",
+        "description": "French Romantic writer, known for her prolific literary output and for being one of the first women to achieve literary recognition on equal terms with the men of her era.",
+        "year": 1804
+      },
+      {
+        "name": "Diana, Princess of Wales",
+        "description": "Member of the British royal family, first wife of Prince Charles, and mother of Princes William and Harry. Known for her humanitarian work and her campaign against landmines.",
+        "year": 1961
+      },
+      {
+        "name": "Gottfried Wilhelm Leibniz",
+        "description": "German philosopher and mathematician who independently developed infinitesimal calculus. He also created modern mathematical logic and the binary numeral system.",
+        "year": 1646
+      }
+    ],
+    "events": [
+      {
+        "title": "Suez Canal opens to maritime traffic",
+        "description": "On 1 July 1869, the Suez Canal was officially opened to international maritime traffic, transforming world trade by connecting the Mediterranean Sea with the Red Sea.",
+        "year": 1869
+      },
+      {
+        "title": "First colour television broadcast in Spain",
+        "description": "On 1 July 1969, TVE began regular colour broadcasts, although most Spanish households did not yet own colour television sets.",
+        "year": 1969
+      },
+      {
+        "title": "Nuclear Non-Proliferation Treaty opens for signature",
+        "description": "On 1 July 1968, the Treaty on the Non-Proliferation of Nuclear Weapons (NPT) was opened for signature, becoming the cornerstone of the international nuclear disarmament regime.",
+        "year": 1968
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Teobaldo de Provins",
+        "type": "Eremita",
+        "description": "Nobre francês do século XI que renunciou à sua herança para viver como peregrino e eremita. Após visitar Roma e Compostela, retirou-se como anacoreta em Salanigo (Itália), onde morreu em 1066."
+      },
+      {
+        "name": "São Casto de Taranto",
+        "type": "Mártir",
+        "description": "Mártir cristão dos primeiros séculos venerado em Taranto (Puglia, Itália). O seu culto é muito antigo na região do Mediterrâneo meridional."
+      },
+      {
+        "name": "Santa Ester",
+        "type": "Rainha bíblica",
+        "description": "Protagonista do livro bíblico de Ester. Rainha judaica da Pérsia que salvou o seu povo da perseguição do ministro Amã intercedendo junto ao rei Assuero. Símbolo de coragem e providência."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia do Canadá",
+        "description": "Feriado nacional canadense que celebra a promulgação da Lei da Constituição em 1º de julho de 1867, que uniu as colônias britânicas da América do Norte na Confederação Canadense."
+      },
+      {
+        "name": "Dia da Independência do Burundi",
+        "description": "O Burundi celebra a sua independência da administração belga, proclamada em 1º de julho de 1962. É feriado nacional no país africano."
+      },
+      {
+        "name": "Dia Internacional das Cooperativas",
+        "description": "Celebrado no primeiro sábado de julho pela ONU para reconhecer o papel das cooperativas no desenvolvimento sustentável, na redução da pobreza e na coesão social."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nossa principal herança é a liberdade e nossa principal obrigação é defendê-la.",
+      "author": "John F. Kennedy",
+      "context": "Em 1º de julho de 1863, começou a Batalha de Gettysburg — um ponto de viragem da Guerra Civil Americana. Kennedy, um estudioso da história americana, citou frequentemente o ideal de liberdade que definiu aquele conflito."
+    },
+    "motivationalQuote": {
+      "text": "O sucesso é a soma de pequenos esforços repetidos dia após dia.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      {
+        "name": "George Sand",
+        "description": "Escritora francesa do Romantismo, conhecida pela sua prolífica produção literária e por ser uma das primeiras mulheres a alcançar reconhecimento literário em igualdade com os homens da sua época.",
+        "year": 1804
+      },
+      {
+        "name": "Diana, Princesa de Gales",
+        "description": "Membro da família real britânica, primeira esposa do Príncipe Carlos e mãe dos príncipes Guilherme e Harry. Conhecida pela sua atuação humanitária e pela luta contra as minas antipessoal.",
+        "year": 1961
+      },
+      {
+        "name": "Gottfried Wilhelm Leibniz",
+        "description": "Filósofo e matemático alemão que desenvolveu de forma independente o cálculo infinitesimal. Também criou a lógica matemática moderna e o sistema de numeração binário.",
+        "year": 1646
+      }
+    ],
+    "events": [
+      {
+        "title": "Canal de Suez abre ao tráfego marítimo",
+        "description": "Em 1º de julho de 1869, o Canal de Suez foi oficialmente aberto ao tráfego marítimo internacional, transformando o comércio mundial ao conectar o Mar Mediterrâneo com o Mar Vermelho.",
+        "year": 1869
+      },
+      {
+        "title": "Primeira transmissão de televisão em cores na Espanha",
+        "description": "Em 1º de julho de 1969, a TVE iniciou as transmissões regulares em cores, embora a maioria dos lares espanhóis ainda não tivesse televisores coloridos.",
+        "year": 1969
+      },
+      {
+        "title": "Tratado de Não Proliferação Nuclear aberto para assinatura",
+        "description": "Em 1º de julho de 1968, o Tratado sobre a Não Proliferação de Armas Nucleares (TNP) foi aberto para assinatura, tornando-se a pedra angular do regime internacional de desarmamento nuclear.",
+        "year": 1968
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Teobald de Provins",
+        "type": "Eremita",
+        "description": "Noble francès del segle XI que va renunciar a la seva herència per viure com a pelegrí i ermità. Després de visitar Roma i Compostel·la, es va retirar com a anacorèta a Salanigo (Itàlia), on va morir el 1066."
+      },
+      {
+        "name": "Sant Cast de Tàrent",
+        "type": "Màrtir",
+        "description": "Màrtir cristià dels primers segles venerat a Tàrent (Pulla, Itàlia). El seu culte és molt antic a la regió del Mediterrani meridional."
+      },
+      {
+        "name": "Santa Ester",
+        "type": "Reina bíblica",
+        "description": "Protagonista del llibre bíblic d'Ester. Reina jueva de Pèrsia que va salvar el seu poble de la persecució del ministre Amà intercedint davant el rei Assuèros. Símbol de valentia i providència."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia del Canadà",
+        "description": "Festa nacional canadenca que celebra la promulgació de la Llei de la Constitució l'1 de juliol de 1867, que va unir les colònies britàniques d'Amèrica del Nord en la Confederació del Canadà."
+      },
+      {
+        "name": "Dia de la Independència del Burundi",
+        "description": "El Burundi celebra la seva independència de l'administració belga, proclamada l'1 de juliol de 1962. És festa nacional al país africà."
+      },
+      {
+        "name": "Dia Internacional de les Cooperatives",
+        "description": "Celebrat el primer dissabte de juliol per l'ONU per reconèixer el paper de les cooperatives en el desenvolupament sostenible, la reducció de la pobresa i la cohesió social."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La nostra principal herència és la llibertat i la nostra principal obligació és defensar-la.",
+      "author": "John F. Kennedy",
+      "context": "L'1 de juliol de 1863 va començar la Batalla de Gettysburg — un punt d'inflexió de la Guerra Civil Americana. Kennedy, estudiós de la història americana, va citar sovint l'ideal de llibertat que va definir aquell conflicte."
+    },
+    "motivationalQuote": {
+      "text": "L'èxit és la suma de petits esforços repetits dia rere dia.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      {
+        "name": "George Sand",
+        "description": "Escriptora francesa del Romanticisme, coneguda per la seva prolífica obra literària i per ser una de les primeres dones a assolir el reconeixement literari en igualtat amb els homes de la seva època.",
+        "year": 1804
+      },
+      {
+        "name": "Diana, Princesa de Gal·les",
+        "description": "Membre de la família reial britànica, primera esposa del Príncep Carles i mare dels prínceps Guillem i Harry. Coneguda per la seva tasca humanitària i la lluita contra les mines antipersones.",
+        "year": 1961
+      },
+      {
+        "name": "Gottfried Wilhelm Leibniz",
+        "description": "Filòsof i matemàtic alemany que va desenvolupar de forma independent el càlcul infinitesimal. També va crear la lògica matemàtica moderna i el sistema de numeració binari.",
+        "year": 1646
+      }
+    ],
+    "events": [
+      {
+        "title": "El canal de Suez obre al tràfic marítim",
+        "description": "L'1 de juliol de 1869, el canal de Suez va ser oficialment obert al tràfic marítim internacional, transformant el comerç mundial en connectar el mar Mediterrani amb el mar Roig.",
+        "year": 1869
+      },
+      {
+        "title": "Primera emissió de televisió en color a Espanya",
+        "description": "L'1 de juliol de 1969, TVE va iniciar les seves emissions regulars en color, tot i que la majoria de les llars espanyoles encara no tenien televisors en color.",
+        "year": 1969
+      },
+      {
+        "title": "El Tractat de No Proliferació Nuclear s'obre a la signatura",
+        "description": "L'1 de juliol de 1968 es va obrir a la signatura el Tractat sobre la No Proliferació d'Armes Nuclears (TNP), pedra angular del règim internacional de desarmament nuclear.",
+        "year": 1968
+      }
+    ]
+  }
+}

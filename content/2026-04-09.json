@@ -1,0 +1,291 @@
+{
+  "date": "2026-04-09",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa María Cleofé",
+        "type": "Discípula de Jesús",
+        "description": "Hermana de la Virgen María y madre de Santiago el Menor, apóstol. Estuvo presente en la crucifixión de Jesús y es mencionada en el Evangelio de Juan. La tradición provenzal la identifica con una de las tres Marías que, según la leyenda, llegaron en barca a las costas de la actual Camarga (Francia)."
+      },
+      {
+        "name": "San Acacio de Amida",
+        "type": "Obispo",
+        "description": "Obispo de Amida (actual Diyarbakır, Turquía) en el siglo V. Legendario por haber vendido los vasos sagrados de su catedral para rescatar a miles de prisioneros persas capturados por el Imperio Romano Oriental. Su gesto fue considerado un acto heroico de caridad cristiana."
+      },
+      {
+        "name": "San Casilda de Toledo",
+        "type": "Virgen",
+        "description": "Princesa mora de Toledo del siglo XI que, según la leyenda, llevaba pan a los presos cristianos de su padre hasta que, al ser descubierta, el pan se convirtió milagrosamente en flores. Se convirtió al cristianismo, curó de una enfermedad incurable en Burgos y vivió como ermitaña hasta su muerte."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Liberación (Túnez)",
+        "description": "Túnez celebra la evacuación completa de las tropas francesas de la base de Bizerta el 15 de octubre de 1963, aunque el 9 de abril es Día Nacional, en memoria de las víctimas del protectorado francés y como símbolo de la soberanía nacional tunecina."
+      },
+      {
+        "name": "Día Nacional de la Hermandad (Finlandia)",
+        "description": "En Finlandia se recuerda el 9 de abril como Día de la Hermandad, en conmemoración de los caídos en la Segunda Guerra Mundial y en homenaje a todos los soldados finlandeses."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Prefiero morir de pie que vivir de rodillas.",
+      "author": "Emiliano Zapata",
+      "context": "Frase atribuida al líder revolucionario mexicano Emiliano Zapata (1879-1919), símbolo de la lucha agraria y campesina en la Revolución Mexicana. Zapata fue asesinado el 10 de abril de 1919."
+    },
+    "motivationalQuote": {
+      "text": "No esperes el momento perfecto. Toma el momento y hazlo perfecto.",
+      "author": "Zoey Sayward"
+    },
+    "births": [
+      {
+        "name": "Baudelaire",
+        "description": "Charles Baudelaire, poeta francés del siglo XIX, padre del simbolismo y precursor de la poesía moderna. Su obra 'Las flores del mal' (1857) fue censurada por inmoralidad pero se convirtió en uno de los libros de poesía más influyentes de la historia. Exploró la belleza en lo sórdido y lo decadente.",
+        "year": "1821"
+      },
+      {
+        "name": "Isambard Kingdom Brunel",
+        "description": "Ingeniero civil británico considerado uno de los más brillantes de la era victoriana. Diseñó el Great Western Railway, el primer transatlántico de hierro y hélice (SS Great Britain), y el puente colgante de Clifton. Votado como el segundo británico más grande de todos los tiempos.",
+        "year": "1806"
+      },
+      {
+        "name": "Hugh Hefner",
+        "description": "Editor y empresario estadounidense, fundador de la revista Playboy en 1953. Fue una figura controvertida que moldeó la cultura popular del siglo XX, impulsó la revolución sexual y fue al mismo tiempo defensor de las libertades civiles y criticado por la objetificación de la mujer.",
+        "year": "1926"
+      }
+    ],
+    "events": [
+      {
+        "title": "Rendición de Lee en Appomattox",
+        "description": "El general confederado Robert E. Lee firmó la rendición ante el general unionista Ulysses S. Grant en el juzgado de Appomattox Court House (Virginia), poniendo fin efectivamente a la Guerra Civil Americana. La guerra había costado más de 600.000 vidas.",
+        "year": "1865"
+      },
+      {
+        "title": "Ejecución de Dietrich Bonhoeffer",
+        "description": "El pastor luterano y teólogo alemán Dietrich Bonhoeffer fue ejecutado por ahorcamiento en el campo de concentración de Flossenbürg, a solo tres semanas del fin de la guerra. Había conspirado contra Hitler y fue arrestado en 1943. Su teología del 'mundo adulto sin Dios' influyó profundamente en el pensamiento cristiano moderno.",
+        "year": "1945"
+      },
+      {
+        "title": "Inauguración del Túnel del Canal de la Mancha",
+        "description": "La reina Isabel II del Reino Unido y el presidente François Mitterrand de Francia inauguraron el túnel bajo el Canal de la Mancha, uniendo Folkestone (Reino Unido) y Coquelles (Francia). Con 50,45 km de longitud, es el tercer túnel más largo del mundo.",
+        "year": "1994"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Mary of Clopas",
+        "type": "Disciple of Jesus",
+        "description": "Sister of the Virgin Mary and mother of James the Less, apostle. She was present at the crucifixion of Jesus and is mentioned in the Gospel of John. Provençal tradition identifies her as one of the three Marys who, according to legend, arrived by boat on the shores of present-day Camargue (France)."
+      },
+      {
+        "name": "Saint Acacius of Amida",
+        "type": "Bishop",
+        "description": "A 5th-century Bishop of Amida (present-day Diyarbakır, Turkey). Legendary for having sold his cathedral's sacred vessels to ransom thousands of Persian prisoners captured by the Eastern Roman Empire. His gesture was regarded as a heroic act of Christian charity."
+      },
+      {
+        "name": "Saint Casilda of Toledo",
+        "type": "Virgin",
+        "description": "An 11th-century Moorish princess of Toledo who, according to legend, would bring bread to her father's Christian prisoners until, upon discovery, the bread miraculously turned into flowers. She converted to Christianity, was cured of an incurable illness in Burgos, and lived as a hermit until her death."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Liberation Day (Tunisia)",
+        "description": "Tunisia marks 9 April as National Day, in memory of the victims of the French protectorate and as a symbol of Tunisian national sovereignty."
+      },
+      {
+        "name": "National Brotherhood Day (Finland)",
+        "description": "In Finland, 9 April is remembered as Brotherhood Day, in commemoration of those who fell in the Second World War and in tribute to all Finnish soldiers."
+      }
+    ],
+    "historicalQuote": {
+      "text": "I would rather die standing than live on my knees.",
+      "author": "Emiliano Zapata",
+      "context": "A phrase attributed to Mexican revolutionary leader Emiliano Zapata (1879–1919), symbol of the agrarian and peasant struggle in the Mexican Revolution. Zapata was assassinated on 10 April 1919."
+    },
+    "motivationalQuote": {
+      "text": "Don't wait for the perfect moment. Take the moment and make it perfect.",
+      "author": "Zoey Sayward"
+    },
+    "births": [
+      {
+        "name": "Charles Baudelaire",
+        "description": "19th-century French poet, father of Symbolism and a precursor of modern poetry. His work 'Les Fleurs du mal' (The Flowers of Evil, 1857) was censored for immorality but became one of the most influential books of poetry in history. He explored beauty in the sordid and decadent.",
+        "year": "1821"
+      },
+      {
+        "name": "Isambard Kingdom Brunel",
+        "description": "British civil engineer considered one of the most brilliant of the Victorian era. He designed the Great Western Railway, the first iron and propeller transatlantic steamship (SS Great Britain), and the Clifton Suspension Bridge. Voted the second greatest Briton of all time.",
+        "year": "1806"
+      },
+      {
+        "name": "Hugh Hefner",
+        "description": "American publisher and businessman, founder of Playboy magazine in 1953. A controversial figure who shaped 20th-century popular culture, drove the sexual revolution, and was simultaneously a defender of civil liberties and criticised for the objectification of women.",
+        "year": "1926"
+      }
+    ],
+    "events": [
+      {
+        "title": "Lee Surrenders at Appomattox",
+        "description": "Confederate General Robert E. Lee signed the surrender to Union General Ulysses S. Grant at the Appomattox Court House (Virginia), effectively ending the American Civil War. The war had cost more than 600,000 lives.",
+        "year": "1865"
+      },
+      {
+        "title": "Execution of Dietrich Bonhoeffer",
+        "description": "The Lutheran pastor and German theologian Dietrich Bonhoeffer was executed by hanging at the Flossenbürg concentration camp, just three weeks before the war's end. He had conspired against Hitler and was arrested in 1943. His theology of a 'world come of age' profoundly influenced modern Christian thought.",
+        "year": "1945"
+      },
+      {
+        "title": "Inauguration of the Channel Tunnel",
+        "description": "Queen Elizabeth II of the United Kingdom and French President François Mitterrand inaugurated the tunnel beneath the English Channel, linking Folkestone (UK) and Coquelles (France). At 50.45 km in length, it is the third longest tunnel in the world.",
+        "year": "1994"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Maria de Cleofas",
+        "type": "Discípula de Jesus",
+        "description": "Irmã da Virgem Maria e mãe de Tiago, o Menor, apóstolo. Esteve presente na crucificação de Jesus e é mencionada no Evangelho de João. A tradição provençal identifica-a com uma das três Marias que, segundo a lenda, chegaram de barco às costas da atual Camarga (França)."
+      },
+      {
+        "name": "São Acácio de Amida",
+        "type": "Bispo",
+        "description": "Bispo de Amida (atual Diyarbakır, Turquia) no século V. Lendário por ter vendido os vasos sagrados da sua catedral para resgatar milhares de prisioneiros persas capturados pelo Império Romano Oriental. O seu gesto foi considerado um ato heróico de caridade cristã."
+      },
+      {
+        "name": "Santa Cásilda de Toledo",
+        "type": "Virgem",
+        "description": "Princesa moura de Toledo do século XI que, segundo a lenda, levava pão aos presos cristãos do seu pai até que, ao ser descoberta, o pão se transformou milagrosamente em flores. Converteu-se ao cristianismo, foi curada de uma doença incurável em Burgos e viveu como eremita até a sua morte."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Libertação (Tunísia)",
+        "description": "A Tunísia celebra o 9 de abril como Dia Nacional, em memória das vítimas do protetorado francês e como símbolo da soberania nacional tunisina."
+      },
+      {
+        "name": "Dia Nacional da Fraternidade (Finlândia)",
+        "description": "Na Finlândia, o 9 de abril é recordado como Dia da Fraternidade, em comemoração dos caídos na Segunda Guerra Mundial e em homenagem a todos os soldados finlandeses."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Prefiro morrer de pé a viver de joelhos.",
+      "author": "Emiliano Zapata",
+      "context": "Frase atribuída ao líder revolucionário mexicano Emiliano Zapata (1879-1919), símbolo da luta agrária e camponesa na Revolução Mexicana. Zapata foi assassinado em 10 de abril de 1919."
+    },
+    "motivationalQuote": {
+      "text": "Não espere o momento perfeito. Pegue o momento e torne-o perfeito.",
+      "author": "Zoey Sayward"
+    },
+    "births": [
+      {
+        "name": "Charles Baudelaire",
+        "description": "Poeta francês do século XIX, pai do simbolismo e precursor da poesia moderna. A sua obra 'As flores do mal' (1857) foi censurada por imoralidade, mas tornou-se um dos livros de poesia mais influentes da história. Explorou a beleza no sórdido e no decadente.",
+        "year": "1821"
+      },
+      {
+        "name": "Isambard Kingdom Brunel",
+        "description": "Engenheiro civil britânico considerado um dos mais brilhantes da era vitoriana. Projetou a Great Western Railway, o primeiro navio transatlântico de ferro e hélice (SS Great Britain) e a ponte suspensa de Clifton. Eleito o segundo maior britânico de todos os tempos.",
+        "year": "1806"
+      },
+      {
+        "name": "Hugh Hefner",
+        "description": "Editor e empresário americano, fundador da revista Playboy em 1953. Foi uma figura controversa que moldou a cultura popular do século XX, impulsionou a revolução sexual e foi ao mesmo tempo defensor das liberdades civis e criticado pela objetificação da mulher.",
+        "year": "1926"
+      }
+    ],
+    "events": [
+      {
+        "title": "Rendição de Lee em Appomattox",
+        "description": "O general confederado Robert E. Lee assinou a rendição perante o general unionista Ulysses S. Grant no tribunal de Appomattox Court House (Virgínia), pondo fim efetivamente à Guerra Civil Americana. A guerra tinha custado mais de 600.000 vidas.",
+        "year": "1865"
+      },
+      {
+        "title": "Execução de Dietrich Bonhoeffer",
+        "description": "O pastor luterano e teólogo alemão Dietrich Bonhoeffer foi executado por enforcamento no campo de concentração de Flossenbürg, apenas três semanas antes do fim da guerra. Tinha conspirado contra Hitler e foi preso em 1943. A sua teologia do 'mundo adulto' influenciou profundamente o pensamento cristão moderno.",
+        "year": "1945"
+      },
+      {
+        "title": "Inauguração do Túnel do Canal da Mancha",
+        "description": "A rainha Isabel II do Reino Unido e o presidente François Mitterrand de França inauguraram o túnel sob o Canal da Mancha, ligando Folkestone (Reino Unido) e Coquelles (França). Com 50,45 km de extensão, é o terceiro túnel mais longo do mundo.",
+        "year": "1994"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Maria de Cleofàs",
+        "type": "Deixebla de Jesús",
+        "description": "Germana de la Verge Maria i mare de Jaume el Menor, apòstol. Va ser present a la crucifixió de Jesús i és esmentada a l'Evangeli de Joan. La tradició provençal la identifica com una de les tres Maries que, segons la llegenda, van arribar en barca a les costes de l'actual Camarga (França)."
+      },
+      {
+        "name": "Sant Acacis d'Amida",
+        "type": "Bisbe",
+        "description": "Bisbe d'Amida (actual Diyarbakır, Turquia) al segle V. Llegendari per haver venut els vasos sagrats de la seva catedral per rescatar milers de presoners perses capturats per l'Imperi Romà d'Orient. El seu gest va ser considerat un acte heroic de caritat cristiana."
+      },
+      {
+        "name": "Santa Càssia de Toledo",
+        "type": "Verge",
+        "description": "Princesa mora de Toledo del segle XI que, segons la llegenda, portava pa als presos cristians del seu pare fins que, en ser descoberta, el pa es va convertir miraculosament en flors. Es va convertir al cristianisme, va curar d'una malaltia incurable a Burgos i va viure com a ermitana fins a la seva mort."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de l'Alliberament (Tunísia)",
+        "description": "Tunísia celebra el 9 d'abril com a Dia Nacional, en memòria de les víctimes del protectorat francès i com a símbol de la sobirania nacional tunisiana."
+      },
+      {
+        "name": "Dia Nacional de la Germandat (Finlàndia)",
+        "description": "A Finlàndia, el 9 d'abril es recorda com a Dia de la Germandat, en commemoració dels caiguts a la Segona Guerra Mundial i en homenatge a tots els soldats finlandesos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Prefereixo morir dempeus que viure agenollat.",
+      "author": "Emiliano Zapata",
+      "context": "Frase atribuïda al líder revolucionari mexicà Emiliano Zapata (1879-1919), símbol de la lluita agrària i camperola a la Revolució Mexicana. Zapata va ser assassinat el 10 d'abril de 1919."
+    },
+    "motivationalQuote": {
+      "text": "No esperis el moment perfecte. Agafa el moment i fes-lo perfecte.",
+      "author": "Zoey Sayward"
+    },
+    "births": [
+      {
+        "name": "Charles Baudelaire",
+        "description": "Poeta francès del segle XIX, pare del simbolisme i precursor de la poesia moderna. La seva obra 'Les flors del mal' (1857) va ser censurada per immoralitat però es va convertir en un dels llibres de poesia més influents de la història. Va explorar la bellesa en el sòrdid i el decadent.",
+        "year": "1821"
+      },
+      {
+        "name": "Isambard Kingdom Brunel",
+        "description": "Enginyer civil britànic considerat un dels més brillants de l'era victoriana. Va dissenyar el Great Western Railway, el primer transatlàntic de ferro i hèlix (SS Great Britain) i el pont penjant de Clifton. Votat com el segon britànic més gran de tots els temps.",
+        "year": "1806"
+      },
+      {
+        "name": "Hugh Hefner",
+        "description": "Editor i empresari nord-americà, fundador de la revista Playboy el 1953. Va ser una figura controvertida que va modelar la cultura popular del segle XX, va impulsar la revolució sexual i va ser alhora defensor de les llibertats civils i criticat per l'objectificació de la dona.",
+        "year": "1926"
+      }
+    ],
+    "events": [
+      {
+        "title": "Rendició de Lee a Appomattox",
+        "description": "El general confederat Robert E. Lee va signar la rendició davant el general unionista Ulysses S. Grant al jutjat d'Appomattox Court House (Virgínia), posant fi efectivament a la Guerra Civil Americana. La guerra havia costat més de 600.000 vides.",
+        "year": "1865"
+      },
+      {
+        "title": "Execució de Dietrich Bonhoeffer",
+        "description": "El pastor luterà i teòleg alemany Dietrich Bonhoeffer va ser executat per penjament al camp de concentració de Flossenbürg, tan sols tres setmanes abans del final de la guerra. Havia conspirat contra Hitler i va ser arrestat el 1943. La seva teologia del 'món adult' va influir profundament en el pensament cristià modern.",
+        "year": "1945"
+      },
+      {
+        "title": "Inauguració del Túnel del Canal de la Mànega",
+        "description": "La reina Elisabet II del Regne Unit i el president François Mitterrand de França van inaugurar el túnel sota el Canal de la Mànega, unint Folkestone (Regne Unit) i Coquelles (França). Amb 50,45 km de longitud, és el tercer túnel més llarg del món.",
+        "year": "1994"
+      }
+    ]
+  }
+}

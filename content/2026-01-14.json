@@ -1,0 +1,255 @@
+{
+  "date": "2026-01-14",
+  "es": {
+    "saints": [
+      {
+        "name": "San Félix de Nola",
+        "type": "Sacerdote y Confesor",
+        "description": "Sacerdote campano del siglo III, hijo de un soldado sirio, que sufrió persecución bajo Decio y Valeriano. Venerado como confesor y patrono de Nola (Campania)."
+      },
+      {
+        "name": "San Sava de Serbia",
+        "type": "Obispo",
+        "description": "Primer arzobispo de Serbia (siglo XII-XIII), hijo del gran zupán Esteban Nemanja. Fundó la Iglesia Ortodoxa Serbia autocéfala y es considerado el mayor santo nacional serbio."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Lohri (Punjab)",
+        "description": "Festival popular del Punjab (India y Pakistán) que celebra el solsticio de invierno y el inicio de la temporada de cosecha de la caña de azúcar, con hogueras y canciones tradicionales."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La educación es el arma más poderosa que se puede usar para cambiar el mundo.",
+      "author": "Nelson Mandela",
+      "context": "Nelson Mandela (nacido el 18 de julio de 1918) fue el primer presidente negro de Sudáfrica y un símbolo global de la lucha contra el apartheid. Esta cita resume su convicción en el poder transformador del conocimiento."
+    },
+    "motivationalQuote": {
+      "text": "El mejor momento para plantar un árbol fue hace veinte años. El segundo mejor momento es ahora.",
+      "author": "Proverbio chino"
+    },
+    "births": [
+      {
+        "name": "Albert Schweitzer",
+        "description": "Médico, teólogo y músico alsaciano, premio Nobel de la Paz en 1952 por su misión humanitaria en el hospital de Lambaréné (Gabón), donde trabajó décadas con los más pobres.",
+        "year": 1875
+      },
+      {
+        "name": "Faye Dunaway",
+        "description": "Actriz estadounidense ganadora del Óscar por Network (1976), conocida también por su actuación en El día del delfín y Bonnie y Clyde.",
+        "year": 1941
+      },
+      {
+        "name": "Jason Bateman",
+        "description": "Actor y director estadounidense, conocido por sus papeles en la serie Arrested Development y en la serie dramática Ozark.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "Se firma el Tratado de Utrecht",
+        "description": "Se firmó el Tratado de Utrecht entre Francia, España, Gran Bretaña, Portugal, Saboya y las Provincias Unidas, poniendo fin a la Guerra de Sucesión Española y redibujando el mapa de Europa.",
+        "year": 1713
+      },
+      {
+        "title": "Marilyn Monroe se casa con Joe DiMaggio",
+        "description": "La actriz Marilyn Monroe contrajo matrimonio con el beisbolista Joe DiMaggio en San Francisco en una boda discreta que acaparó la atención mundial.",
+        "year": 1954
+      },
+      {
+        "title": "La sonda Cassini llega a Titán",
+        "description": "La sonda Huygens, liberada por Cassini, aterrizó en Titán, la mayor luna de Saturno, siendo el primer aterrizaje exitoso en el Sistema Solar exterior.",
+        "year": 2005
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Felix of Nola",
+        "type": "Priest and Confessor",
+        "description": "Campanian priest of the 3rd century, son of a Syrian soldier, who suffered persecution under Decius and Valerian. Venerated as confessor and patron of Nola (Campania)."
+      },
+      {
+        "name": "Saint Sava of Serbia",
+        "type": "Bishop",
+        "description": "First Archbishop of Serbia (12th–13th century), son of Grand Župan Stefan Nemanja. He founded the autocephalous Serbian Orthodox Church and is considered the greatest Serbian national saint."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Lohri (Punjab)",
+        "description": "Popular festival in the Punjab (India and Pakistan) celebrating the winter solstice and the start of the sugarcane harvest season, with bonfires and traditional songs."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Education is the most powerful weapon which you can use to change the world.",
+      "author": "Nelson Mandela",
+      "context": "Nelson Mandela (born 18 July 1918) was the first Black president of South Africa and a global symbol of the fight against apartheid. This quote sums up his conviction in the transformative power of knowledge."
+    },
+    "motivationalQuote": {
+      "text": "The best time to plant a tree was twenty years ago. The second best time is now.",
+      "author": "Chinese proverb"
+    },
+    "births": [
+      {
+        "name": "Albert Schweitzer",
+        "description": "Alsatian physician, theologian and musician, winner of the Nobel Peace Prize in 1952 for his humanitarian mission at the hospital in Lambaréné (Gabon), where he worked for decades with the poorest.",
+        "year": 1875
+      },
+      {
+        "name": "Faye Dunaway",
+        "description": "American actress, Oscar winner for Network (1976), also known for her performances in Chinatown and Bonnie and Clyde.",
+        "year": 1941
+      },
+      {
+        "name": "Jason Bateman",
+        "description": "American actor and director, known for his roles in the series Arrested Development and the drama series Ozark.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "Treaty of Utrecht signed",
+        "description": "The Treaty of Utrecht was signed between France, Spain, Great Britain, Portugal, Savoy and the Dutch Republic, ending the War of the Spanish Succession and redrawing the map of Europe.",
+        "year": 1713
+      },
+      {
+        "title": "Marilyn Monroe marries Joe DiMaggio",
+        "description": "Actress Marilyn Monroe married baseball star Joe DiMaggio in San Francisco in a low-key wedding that captured worldwide attention.",
+        "year": 1954
+      },
+      {
+        "title": "Huygens probe lands on Titan",
+        "description": "The Huygens probe, released by Cassini, landed on Titan, Saturn's largest moon, marking the first successful landing in the outer Solar System.",
+        "year": 2005
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Félix de Nola",
+        "type": "Sacerdote e Confessor",
+        "description": "Sacerdote campano do século III, filho de um soldado sírio, que sofreu perseguição sob Décio e Valeriano. Venerado como confessor e padroeiro de Nola (Campânia)."
+      },
+      {
+        "name": "São Sava da Sérvia",
+        "type": "Bispo",
+        "description": "Primeiro arcebispo da Sérvia (séculos XII–XIII), filho do grande župan Estêvão Nemanja. Fundou a Igreja Ortodoxa Sérvia autocéfala e é considerado o maior santo nacional sérvio."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Lohri (Punjab)",
+        "description": "Festival popular do Punjab (Índia e Paquistão) que celebra o solstício de inverno e o início da temporada de colheita da cana-de-açúcar, com fogueiras e canções tradicionais."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A educação é a arma mais poderosa que você pode usar para mudar o mundo.",
+      "author": "Nelson Mandela",
+      "context": "Nelson Mandela (nascido em 18 de julho de 1918) foi o primeiro presidente negro da África do Sul e um símbolo global da luta contra o apartheid. Esta citação resume sua convicção no poder transformador do conhecimento."
+    },
+    "motivationalQuote": {
+      "text": "O melhor momento para plantar uma árvore foi há vinte anos. O segundo melhor momento é agora.",
+      "author": "Provérbio chinês"
+    },
+    "births": [
+      {
+        "name": "Albert Schweitzer",
+        "description": "Médico, teólogo e músico alsaciano, vencedor do Prêmio Nobel da Paz em 1952 por sua missão humanitária no hospital de Lambaréné (Gabão), onde trabalhou por décadas com os mais pobres.",
+        "year": 1875
+      },
+      {
+        "name": "Faye Dunaway",
+        "description": "Atriz americana vencedora do Oscar por Network (1976), também conhecida por suas atuações em Chinatown e Bonnie e Clyde.",
+        "year": 1941
+      },
+      {
+        "name": "Jason Bateman",
+        "description": "Ator e diretor americano, conhecido por seus papéis na série Arrested Development e na série dramática Ozark.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "Tratado de Utrecht assinado",
+        "description": "O Tratado de Utrecht foi assinado entre França, Espanha, Grã-Bretanha, Portugal, Savóia e as Províncias Unidas, encerrando a Guerra de Sucessão Espanhola e redesenhando o mapa da Europa.",
+        "year": 1713
+      },
+      {
+        "title": "Marilyn Monroe se casa com Joe DiMaggio",
+        "description": "A atriz Marilyn Monroe se casou com o astro do beisebol Joe DiMaggio em San Francisco numa cerimônia discreta que captou a atenção mundial.",
+        "year": 1954
+      },
+      {
+        "title": "Sonda Huygens pousa em Titã",
+        "description": "A sonda Huygens, liberada pela Cassini, pousou em Titã, a maior lua de Saturno, marcando o primeiro pouso bem-sucedido no Sistema Solar externo.",
+        "year": 2005
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Fèlix de Nola",
+        "type": "Sacerdot i Confessor",
+        "description": "Sacerdot campanià del segle III, fill d'un soldat sirià, que va patir persecució sota Deci i Valerià. Venerat com a confessor i patró de Nola (Campània)."
+      },
+      {
+        "name": "Sant Sava de Sèrbia",
+        "type": "Bisbe",
+        "description": "Primer arquebisbe de Sèrbia (segles XII–XIII), fill del gran župan Esteve Nemanja. Va fundar l'Església Ortodoxa Sèrbia autocèfala i és considerat el gran sant nacional serbi."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Lohri (Punjab)",
+        "description": "Festival popular del Punjab (Índia i Pakistan) que celebra el solstici d'hivern i l'inici de la temporada de collita de la canya de sucre, amb fogueres i cançons tradicionals."
+      }
+    ],
+    "historicalQuote": {
+      "text": "L'educació és l'arma més poderosa que es pot usar per canviar el món.",
+      "author": "Nelson Mandela",
+      "context": "Nelson Mandela (nascut el 18 de juliol de 1918) va ser el primer president negre de Sud-àfrica i un símbol global de la lluita contra l'apartheid. Aquesta cita resumeix la seva convicció en el poder transformador del coneixement."
+    },
+    "motivationalQuote": {
+      "text": "El millor moment per plantar un arbre va ser fa vint anys. El segon millor moment és ara.",
+      "author": "Proverbi xinès"
+    },
+    "births": [
+      {
+        "name": "Albert Schweitzer",
+        "description": "Metge, teòleg i músic alsacià, premi Nobel de la Pau el 1952 per la seva missió humanitària a l'hospital de Lambaréné (Gabon), on va treballar durant dècades amb els més pobres.",
+        "year": 1875
+      },
+      {
+        "name": "Faye Dunaway",
+        "description": "Actriu nord-americana guanyadora de l'Oscar per Network (1976), també coneguda per les seves actuacions a Chinatown i Bonnie i Clyde.",
+        "year": 1941
+      },
+      {
+        "name": "Jason Bateman",
+        "description": "Actor i director nord-americà, conegut pels seus papers a la sèrie Arrested Development i a la sèrie dramàtica Ozark.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "Signatura del Tractat d'Utrecht",
+        "description": "Es va signar el Tractat d'Utrecht entre França, Espanya, Gran Bretanya, Portugal, Savoia i les Províncies Unides, posant fi a la Guerra de Successió Espanyola i redibujant el mapa d'Europa.",
+        "year": 1713
+      },
+      {
+        "title": "Marilyn Monroe es casa amb Joe DiMaggio",
+        "description": "L'actriu Marilyn Monroe va contraure matrimoni amb l'estrella del beisbol Joe DiMaggio a San Francisco en una cerimònia discreta que va captar l'atenció mundial.",
+        "year": 1954
+      },
+      {
+        "title": "La sonda Huygens aterra a Tità",
+        "description": "La sonda Huygens, alliberada per Cassini, va aterrar a Tità, la major lluna de Saturn, marcant el primer aterratge exitós al Sistema Solar exterior.",
+        "year": 2005
+      }
+    ]
+  }
+}

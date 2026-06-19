@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-06",
+  "es": {
+    "saints": [
+      {
+        "name": "San Juan ante Portam Latinam",
+        "type": "Apóstol y Evangelista",
+        "description": "El 6 de mayo se celebra la fiesta de San Juan Evangelista 'ante Portam Latinam', recordando la tradición según la cual el apóstol Juan fue arrojado a un caldero de aceite hirviendo frente a la Puerta Latina de Roma bajo el reinado de Domiciano, saliendo ileso del martirio."
+      },
+      {
+        "name": "San Eadbert de Lindisfarne",
+        "type": "Obispo",
+        "description": "Obispo de Lindisfarne (Inglaterra) del siglo VII, sucesor de San Cuthbert. Conocido por su piedad y generosidad, se dice que donaba un tercio de sus ingresos a los pobres. Murió en el año 698 y es venerado en la Iglesia anglicana y la Iglesia católica."
+      },
+      {
+        "name": "Beata María Catalina de San Agustín",
+        "type": "Virgen",
+        "description": "Religiosa hospitalaria francesa del siglo XVII que emigró a Nueva Francia (actual Canadá) como misionera. Fundó en Quebec el Hôtel-Dieu, uno de los primeros hospitales de América del Norte. Fue beatificada en 1989."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Asma",
+        "description": "Organizado por la Iniciativa Global para el Asma (GINA), se celebra el primer martes de mayo para concienciar sobre esta enfermedad respiratoria crónica que afecta a más de 300 millones de personas en el mundo."
+      },
+      {
+        "name": "Día de San Jorge en Cataluña (Sant Jordi — festividades extendidas)",
+        "description": "Aunque la festividad principal es el 23 de abril, en algunas localidades catalanas las celebraciones de Sant Jordi se extienden durante esta semana con ferias del libro y de la rosa."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Quien salva una vida, salva al mundo entero.",
+      "author": "El Talmud"
+    },
+    "motivationalQuote": {
+      "text": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      {
+        "name": "Sigmund Freud",
+        "description": "Neurólogo y psiquiatra austríaco, fundador del psicoanálisis. Sus teorías sobre el inconsciente, los sueños, la neurosis y el desarrollo psicosexual revolucionaron la psicología y la cultura occidental del siglo XX.",
+        "year": "1856"
+      },
+      {
+        "name": "Orson Welles",
+        "description": "Director, actor y guionista estadounidense, considerado uno de los cineastas más influyentes de la historia. Su película Ciudadano Kane (1941) es frecuentemente citada como la mejor película jamás rodada.",
+        "year": "1915"
+      },
+      {
+        "name": "George Clooney",
+        "description": "Actor, director y productor estadounidense. Ganador de dos Óscars, conocido mundialmente por sus papeles en la serie ER y en películas como Ocean's Eleven y Gravity. También es reconocido activista por causas humanitarias.",
+        "year": "1961"
+      }
+    ],
+    "events": [
+      {
+        "title": "Inauguración del Eurotúnel",
+        "description": "El túnel bajo el canal de la Mancha que une Francia y el Reino Unido fue inaugurado oficialmente por la reina Isabel II y el presidente François Mitterrand, convirtiéndose en una de las obras de ingeniería más ambiciosas del siglo XX.",
+        "year": "1994"
+      },
+      {
+        "title": "Roger Bannister rompe la barrera de los 4 minutos en la milla",
+        "description": "El atleta británico Roger Bannister se convirtió en el primer ser humano en correr una milla (1.609 m) en menos de cuatro minutos, registrando un tiempo de 3 minutos y 59,4 segundos en Oxford.",
+        "year": "1954"
+      },
+      {
+        "title": "Hindenburg en llamas",
+        "description": "El dirigible alemán LZ 129 Hindenburg se incendió y se destruyó al intentar atracar en Lakehurst (Nueva Jersey), causando la muerte de 36 personas. El trágico suceso fue captado por cámaras y marcó el fin de la era de los zepelines.",
+        "year": "1937"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint John before the Latin Gate",
+        "type": "Apostle and Evangelist",
+        "description": "On May 6, the feast of Saint John the Evangelist 'before the Latin Gate' is celebrated, recalling the tradition that the Apostle John was thrown into a cauldron of boiling oil at the Latin Gate of Rome during the reign of Domitian, emerging unharmed from the martyrdom."
+      },
+      {
+        "name": "Saint Eadbert of Lindisfarne",
+        "type": "Bishop",
+        "description": "7th-century Bishop of Lindisfarne (England), successor of Saint Cuthbert. Known for his piety and generosity, he is said to have donated a third of his income to the poor. He died in 698 and is venerated in both the Anglican and Catholic Churches."
+      },
+      {
+        "name": "Blessed Marie-Catherine of Saint Augustine",
+        "type": "Virgin",
+        "description": "17th-century French nursing nun who emigrated to New France (present-day Canada) as a missionary. She founded the Hôtel-Dieu in Quebec, one of the first hospitals in North America. She was beatified in 1989."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Asthma Day",
+        "description": "Organised by the Global Initiative for Asthma (GINA), it is held on the first Tuesday of May to raise awareness of this chronic respiratory disease that affects more than 300 million people worldwide."
+      },
+      {
+        "name": "Sant Jordi Festivities (Extended)",
+        "description": "Although the main feast day is April 23, in some Catalan towns the Sant Jordi celebrations extend into this week with book and rose fairs."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Whoever saves a single life, it is as if he saved the entire world.",
+      "author": "The Talmud"
+    },
+    "motivationalQuote": {
+      "text": "Success is the sum of small efforts repeated day in and day out.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      {
+        "name": "Sigmund Freud",
+        "description": "Austrian neurologist and psychiatrist, founder of psychoanalysis. His theories on the unconscious, dreams, neurosis, and psychosexual development revolutionised psychology and Western culture in the 20th century.",
+        "year": "1856"
+      },
+      {
+        "name": "Orson Welles",
+        "description": "American director, actor, and screenwriter, considered one of the most influential filmmakers in history. His film Citizen Kane (1941) is frequently cited as the greatest film ever made.",
+        "year": "1915"
+      },
+      {
+        "name": "George Clooney",
+        "description": "American actor, director, and producer. A two-time Oscar winner, known worldwide for his roles in the TV series ER and in films such as Ocean's Eleven and Gravity. He is also a noted activist for humanitarian causes.",
+        "year": "1961"
+      }
+    ],
+    "events": [
+      {
+        "title": "Opening of the Channel Tunnel",
+        "description": "The tunnel under the English Channel linking France and the United Kingdom was officially inaugurated by Queen Elizabeth II and President François Mitterrand, becoming one of the most ambitious engineering projects of the 20th century.",
+        "year": "1994"
+      },
+      {
+        "title": "Roger Bannister Breaks the Four-Minute Mile",
+        "description": "British athlete Roger Bannister became the first human being to run a mile (1,609 m) in under four minutes, recording a time of 3 minutes 59.4 seconds in Oxford.",
+        "year": "1954"
+      },
+      {
+        "title": "Hindenburg in Flames",
+        "description": "The German airship LZ 129 Hindenburg caught fire and was destroyed while attempting to dock at Lakehurst, New Jersey, killing 36 people. The tragic event was captured on camera and marked the end of the zeppelin era.",
+        "year": "1937"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São João ante Portam Latinam",
+        "type": "Apóstolo e Evangelista",
+        "description": "Em 6 de maio celebra-se a festa de São João Evangelista 'ante Portam Latinam', recordando a tradição segundo a qual o apóstolo João foi lançado a uma caldeira de óleo fervente diante da Porta Latina de Roma sob o reinado de Domiciano, saindo ileso do martírio."
+      },
+      {
+        "name": "São Eadbert de Lindisfarne",
+        "type": "Bispo",
+        "description": "Bispo de Lindisfarne (Inglaterra) do século VII, sucessor de São Cutberto. Conhecido por sua piedade e generosidade, diz-se que doava um terço de sua renda aos pobres. Morreu em 698 e é venerado nas Igrejas anglicana e católica."
+      },
+      {
+        "name": "Beata Maria Catarina de Santo Agostinho",
+        "type": "Virgem",
+        "description": "Religiosa hospitalar francesa do século XVII que emigrou para a Nova França (atual Canadá) como missionária. Fundou em Quebec o Hôtel-Dieu, um dos primeiros hospitais da América do Norte. Foi beatificada em 1989."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Asma",
+        "description": "Organizado pela Iniciativa Global para a Asma (GINA), é realizado na primeira terça-feira de maio para conscientizar sobre essa doença respiratória crônica que afeta mais de 300 milhões de pessoas no mundo."
+      },
+      {
+        "name": "Festividades de Sant Jordi (estendidas)",
+        "description": "Embora a principal festividade seja em 23 de abril, em algumas localidades catalãs as celebrações de Sant Jordi se estendem por esta semana com feiras do livro e da rosa."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Quem salva uma única vida, é como se tivesse salvo o mundo inteiro.",
+      "author": "O Talmude"
+    },
+    "motivationalQuote": {
+      "text": "O sucesso é a soma de pequenos esforços repetidos dia após dia.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      {
+        "name": "Sigmund Freud",
+        "description": "Neurologista e psiquiatra austríaco, fundador da psicanálise. Suas teorias sobre o inconsciente, os sonhos, a neurose e o desenvolvimento psicossexual revolucionaram a psicologia e a cultura ocidental do século XX.",
+        "year": "1856"
+      },
+      {
+        "name": "Orson Welles",
+        "description": "Diretor, ator e roteirista americano, considerado um dos cineastas mais influentes da história. Seu filme Cidadão Kane (1941) é frequentemente citado como o maior filme já realizado.",
+        "year": "1915"
+      },
+      {
+        "name": "George Clooney",
+        "description": "Ator, diretor e produtor americano. Vencedor de dois Oscars, conhecido mundialmente por seus papéis na série ER e em filmes como Ocean's Eleven e Gravidade. É também um reconhecido ativista por causas humanitárias.",
+        "year": "1961"
+      }
+    ],
+    "events": [
+      {
+        "title": "Inauguração do Eurotúnel",
+        "description": "O túnel sob o canal da Mancha, ligando a França e o Reino Unido, foi inaugurado oficialmente pela rainha Elizabeth II e pelo presidente François Mitterrand, tornando-se uma das obras de engenharia mais ambiciosas do século XX.",
+        "year": "1994"
+      },
+      {
+        "title": "Roger Bannister quebra a barreira dos 4 minutos na milha",
+        "description": "O atleta britânico Roger Bannister tornou-se o primeiro ser humano a correr uma milha (1.609 m) em menos de quatro minutos, registrando o tempo de 3 minutos e 59,4 segundos em Oxford.",
+        "year": "1954"
+      },
+      {
+        "title": "Hindenburg em chamas",
+        "description": "O dirigível alemão LZ 129 Hindenburg pegou fogo e foi destruído ao tentar atracar em Lakehurst (Nova Jersey), causando a morte de 36 pessoas. O trágico evento foi captado por câmeras e marcou o fim da era dos zepelins.",
+        "year": "1937"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Joan davant la Porta Llatina",
+        "type": "Apòstol i Evangelista",
+        "description": "El 6 de maig se celebra la festa de Sant Joan Evangelista 'davant la Porta Llatina', recordant la tradició segons la qual l'apòstol Joan va ser llançat a una caldera d'oli bullent davant la Porta Llatina de Roma sota el regnat de Domicià, sortint il·lès del martiri."
+      },
+      {
+        "name": "Sant Eadbert de Lindisfarne",
+        "type": "Bisbe",
+        "description": "Bisbe de Lindisfarne (Anglaterra) del segle VII, successor de Sant Cuthbert. Conegut per la seva pietat i generositat, es diu que donava un terç dels seus ingressos als pobres. Va morir el 698 i és venerat a les Esglésies anglicana i catòlica."
+      },
+      {
+        "name": "Beata Maria Caterina de Sant Agustí",
+        "type": "Verge",
+        "description": "Religiosa hospitalària francesa del segle XVII que va emigrar a la Nova França (actual Canadà) com a missionera. Va fundar a Quebec l'Hôtel-Dieu, un dels primers hospitals de l'Amèrica del Nord. Va ser beatificada el 1989."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de l'Asma",
+        "description": "Organitzat per la Iniciativa Global per a l'Asma (GINA), se celebra el primer dimarts de maig per conscienciar sobre aquesta malaltia respiratòria crònica que afecta més de 300 milions de persones al món."
+      },
+      {
+        "name": "Festivitats de Sant Jordi (esteses)",
+        "description": "Tot i que la festivitat principal és el 23 d'abril, en alguns municipis catalans les celebracions de Sant Jordi s'estenen durant aquesta setmana amb fires del llibre i de la rosa."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Qui salva una sola vida, és com si hagués salvat el món sencer.",
+      "author": "El Talmud"
+    },
+    "motivationalQuote": {
+      "text": "L'èxit és la suma de petits esforços repetits dia rere dia.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      {
+        "name": "Sigmund Freud",
+        "description": "Neuròleg i psiquiatre austríac, fundador de la psicoanàlisi. Les seves teories sobre l'inconscient, els somnis, la neurosi i el desenvolupament psicosexual van revolucionar la psicologia i la cultura occidental del segle XX.",
+        "year": "1856"
+      },
+      {
+        "name": "Orson Welles",
+        "description": "Director, actor i guionista americà, considerat un dels cineastes més influents de la història. La seva pel·lícula Ciutadà Kane (1941) és citada freqüentment com la millor pel·lícula mai rodada.",
+        "year": "1915"
+      },
+      {
+        "name": "George Clooney",
+        "description": "Actor, director i productor americà. Guanyador de dos Òscars, conegut mundialment pels seus papers a la sèrie ER i en pel·lícules com Ocean's Eleven i Gravity. És també un reconegut activista per causes humanitàries.",
+        "year": "1961"
+      }
+    ],
+    "events": [
+      {
+        "title": "Inauguració de l'Eurotúnel",
+        "description": "El túnel sota el canal de la Mànega que uneix França i el Regne Unit va ser inaugurat oficialment per la reina Elisabet II i el president François Mitterrand, convertint-se en una de les obres d'enginyeria més ambicioses del segle XX.",
+        "year": "1994"
+      },
+      {
+        "title": "Roger Bannister trenca la barrera dels 4 minuts en la milla",
+        "description": "L'atleta britànic Roger Bannister es va convertir en el primer ésser humà a córrer una milla (1.609 m) en menys de quatre minuts, registrant un temps de 3 minuts i 59,4 segons a Oxford.",
+        "year": "1954"
+      },
+      {
+        "title": "El Hindenburg en flames",
+        "description": "El dirigible alemany LZ 129 Hindenburg va cremar i va ser destruït en intentar atracar a Lakehurst (Nova Jersey), causant la mort de 36 persones. El tràgic succés va ser captat per càmeres i va marcar el final de l'era dels zepelins.",
+        "year": "1937"
+      }
+    ]
+  }
+}

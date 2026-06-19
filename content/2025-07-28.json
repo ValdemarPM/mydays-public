@@ -1,0 +1,271 @@
+{
+  "date": "2025-07-28",
+  "es": {
+    "saints": [
+      {
+        "name": "San Víctor I",
+        "type": "Papa y Mártir",
+        "description": "Papa de origen africano que gobernó la Iglesia entre los años 189 y 199. Es conocido por haber fijado la fecha de celebración de la Pascua el domingo siguiente al plenilunio de primavera, unificando la práctica de las iglesias de Oriente y Occidente."
+      },
+      {
+        "name": "Santos Nazario y Celso",
+        "type": "Mártires",
+        "description": "Mártires del siglo I cuyas relíquias fueron descubiertas por San Ambrosio en Milán en el año 395. Nazario fue discípulo del apóstol Pedro y Celso era un niño al que bautizó. Sus restos se veneran en la basílica de San Nazaro en Milán."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia del Perú",
+        "description": "Perú celebra el 28 de julio de 1821, día en que el general José de San Martín proclamó la independencia del país del Imperio Español en Lima. Es la fiesta nacional más importante del Perú, celebrada con desfiles militares y civiles."
+      },
+      {
+        "name": "Día Mundial contra la Hepatitis",
+        "description": "Establecido por la OMS el 28 de julio, en honor al virólogo Baruch Samuel Blumberg, nacido ese día, que descubrió el virus de la hepatitis B y recibió el Premio Nobel de Medicina en 1976."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Somos libres. Seámoslo siempre, y antes sacrifiquemos todo a la libertad, que permitir que se nos arrebate.",
+      "author": "José de San Martín",
+      "context": "El 28 de julio de 1821, el general José de San Martín proclamó la independencia del Perú en Lima. Sus palabras reflejan el espíritu de sacrificio que animó a los libertadores latinoamericanos en su lucha contra el dominio colonial."
+    },
+    "motivationalQuote": {
+      "text": "Sé el cambio que deseas ver en el mundo.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Johann Sebastian Bach",
+        "description": "Compositor y músico alemán del Barroco (1685–1750), considerado uno de los más grandes compositores de la historia de la música occidental. Obras como las Variaciones Goldberg, los Preludios y fugas del Clave Bien Temperado y la Pasión según San Mateo son cumbres del repertorio clásico.",
+        "year": 1685
+      },
+      {
+        "name": "Beatrix Potter",
+        "description": "Escritora e ilustradora británica (1866–1943), creadora del personaje Peter Rabbit y autora de El cuento de Pedro el conejo, uno de los libros infantiles más vendidos de la historia. Fue también botánica y conservacionista.",
+        "year": 1866
+      },
+      {
+        "name": "Jacqueline Kennedy Onassis",
+        "description": "Primera dama de Estados Unidos (1961–1963), esposa del presidente John F. Kennedy. Reconocida por su elegancia, cultura y su papel en la preservación del patrimonio cultural de la Casa Blanca. Su fortaleza tras el asesinato de su marido la convirtió en un símbolo de dignidad.",
+        "year": 1929
+      }
+    ],
+    "events": [
+      {
+        "title": "Proclamación de la independencia del Perú",
+        "description": "El 28 de julio de 1821, el general José de San Martín proclamó la independencia del Perú en la Plaza Mayor de Lima, liberando el país del dominio del Imperio Español tras años de guerra de independencia.",
+        "year": 1821
+      },
+      {
+        "title": "Inicio de la Primera Guerra Mundial",
+        "description": "El 28 de julio de 1914, Austria-Hungría declaró la guerra a Serbia, desencadenando la Primera Guerra Mundial. El conflicto se extendería por cuatro años, causando más de 17 millones de muertos.",
+        "year": 1914
+      },
+      {
+        "title": "Inauguración de los Juegos Olímpicos de Barcelona 1992",
+        "description": "El 28 de julio de 1992 se inauguraron los Juegos Olímpicos de Barcelona con una fastuosa ceremonia en el Estadio Olímpico de Montjuïc. Fueron los primeros Juegos en suelo español y un hito en la modernización del país.",
+        "year": 1992
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Victor I",
+        "type": "Pope and Martyr",
+        "description": "A pope of African origin who governed the Church between AD 189 and 199. He is known for fixing the date of Easter on the Sunday following the spring full moon, unifying the practice of the Eastern and Western churches."
+      },
+      {
+        "name": "Saints Nazarius and Celsus",
+        "type": "Martyrs",
+        "description": "First-century martyrs whose relics were discovered by Saint Ambrose in Milan in AD 395. Nazarius was a disciple of the Apostle Peter and Celsus was a child whom he baptised. Their remains are venerated in the Basilica of San Nazaro in Milan."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Peruvian Independence Day",
+        "description": "Peru celebrates 28 July 1821, the day General José de San Martín proclaimed independence from the Spanish Empire in Lima. It is Peru's most important national holiday, marked by military and civilian parades."
+      },
+      {
+        "name": "World Hepatitis Day",
+        "description": "Established by the WHO on 28 July in honour of virologist Baruch Samuel Blumberg, born on that day, who discovered the hepatitis B virus and received the Nobel Prize in Medicine in 1976."
+      }
+    ],
+    "historicalQuote": {
+      "text": "We are free. Let us always be so, and sooner sacrifice everything for freedom than allow it to be taken from us.",
+      "author": "José de San Martín",
+      "context": "On 28 July 1821, General José de San Martín proclaimed the independence of Peru in Lima. His words reflect the spirit of sacrifice that animated the Latin American liberators in their struggle against colonial rule."
+    },
+    "motivationalQuote": {
+      "text": "Be the change you wish to see in the world.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Johann Sebastian Bach",
+        "description": "German Baroque composer and musician (1685–1750), considered one of the greatest composers in the history of Western music. Works such as the Goldberg Variations, the Well-Tempered Clavier, and the St Matthew Passion are pinnacles of the classical repertoire.",
+        "year": 1685
+      },
+      {
+        "name": "Beatrix Potter",
+        "description": "British writer and illustrator (1866–1943), creator of the character Peter Rabbit and author of The Tale of Peter Rabbit, one of the best-selling children's books in history. She was also a botanist and conservationist.",
+        "year": 1866
+      },
+      {
+        "name": "Jacqueline Kennedy Onassis",
+        "description": "First Lady of the United States (1961–1963), wife of President John F. Kennedy. Renowned for her elegance, culture, and role in preserving the cultural heritage of the White House. Her composure after her husband's assassination made her a symbol of dignity.",
+        "year": 1929
+      }
+    ],
+    "events": [
+      {
+        "title": "Peru declares independence",
+        "description": "On 28 July 1821, General José de San Martín proclaimed Peruvian independence in the Plaza Mayor of Lima, freeing the country from the Spanish Empire after years of independence wars.",
+        "year": 1821
+      },
+      {
+        "title": "World War I begins",
+        "description": "On 28 July 1914, Austria-Hungary declared war on Serbia, triggering the First World War. The conflict lasted four years and caused more than 17 million deaths.",
+        "year": 1914
+      },
+      {
+        "title": "1992 Barcelona Olympics inaugurated",
+        "description": "On 28 July 1992, the Barcelona Olympic Games were inaugurated with a spectacular ceremony at the Montjuïc Olympic Stadium. They were the first Olympics held on Spanish soil and a milestone in the country's modernisation.",
+        "year": 1992
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Vítor I",
+        "type": "Papa e Mártir",
+        "description": "Papa de origem africana que governou a Igreja entre os anos 189 e 199. É conhecido por ter fixado a data da celebração da Páscoa no domingo seguinte à lua cheia da primavera, unificando a prática das igrejas do Oriente e do Ocidente."
+      },
+      {
+        "name": "Santos Nazário e Celso",
+        "type": "Mártires",
+        "description": "Mártires do século I cujas relíquias foram descobertas por Santo Ambrósio em Milão no ano 395. Nazário foi discípulo do apóstolo Pedro e Celso era uma criança que ele batizou. Os seus restos são venerados na basílica de San Nazaro em Milão."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência do Peru",
+        "description": "O Peru celebra o 28 de julho de 1821, dia em que o general José de San Martín proclamou a independência do país do Império Espanhol em Lima. É o feriado nacional mais importante do Peru, assinalado com desfiles militares e civis."
+      },
+      {
+        "name": "Dia Mundial contra a Hepatite",
+        "description": "Estabelecido pela OMS em 28 de julho, em honra ao virologista Baruch Samuel Blumberg, nascido nesse dia, que descobriu o vírus da hepatite B e recebeu o Prêmio Nobel de Medicina em 1976."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Somos livres. Sejamo-lo sempre, e antes de tudo sacrifiquemos tudo pela liberdade, do que permitir que ela nos seja arrebatada.",
+      "author": "José de San Martín",
+      "context": "Em 28 de julho de 1821, o general José de San Martín proclamou a independência do Peru em Lima. As suas palavras refletem o espírito de sacrifício que animou os libertadores latino-americanos na sua luta contra o domínio colonial."
+    },
+    "motivationalQuote": {
+      "text": "Seja a mudança que deseja ver no mundo.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Johann Sebastian Bach",
+        "description": "Compositor e músico alemão do Barroco (1685–1750), considerado um dos maiores compositores da história da música ocidental. Obras como as Variações Goldberg, o Cravo Bem Temperado e a Paixão segundo São Mateus são cumes do repertório clássico.",
+        "year": 1685
+      },
+      {
+        "name": "Beatrix Potter",
+        "description": "Escritora e ilustradora britânica (1866–1943), criadora da personagem Peter Rabbit e autora de A História de Pedro Coelho, um dos livros infantis mais vendidos da história. Foi também botânica e conservacionista.",
+        "year": 1866
+      },
+      {
+        "name": "Jacqueline Kennedy Onassis",
+        "description": "Primeira-dama dos Estados Unidos (1961–1963), esposa do presidente John F. Kennedy. Reconhecida pela sua elegância, cultura e papel na preservação do patrimônio cultural da Casa Branca. A sua serenidade após o assassinato do marido tornou-a um símbolo de dignidade.",
+        "year": 1929
+      }
+    ],
+    "events": [
+      {
+        "title": "Peru proclama a independência",
+        "description": "Em 28 de julho de 1821, o general José de San Martín proclamou a independência do Peru na Plaza Mayor de Lima, libertando o país do domínio do Império Espanhol após anos de guerras de independência.",
+        "year": 1821
+      },
+      {
+        "title": "A Primeira Guerra Mundial começa",
+        "description": "Em 28 de julho de 1914, a Áustria-Hungria declarou guerra à Sérvia, desencadeando a Primeira Guerra Mundial. O conflito durou quatro anos e causou mais de 17 milhões de mortos.",
+        "year": 1914
+      },
+      {
+        "title": "Jogos Olímpicos de Barcelona 1992 inaugurados",
+        "description": "Em 28 de julho de 1992, os Jogos Olímpicos de Barcelona foram inaugurados com uma cerimônia espetacular no Estádio Olímpico de Montjuïc. Foram os primeiros Jogos realizados em solo espanhol e um marco na modernização do país.",
+        "year": 1992
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Víctor I",
+        "type": "Papa i Màrtir",
+        "description": "Papa d'origen africà que va governar l'Església entre els anys 189 i 199. És conegut per haver fixat la data de celebració de la Pasqua el diumenge següent al pleniluni de primavera, unificant la pràctica de les esglésies d'Orient i Occident."
+      },
+      {
+        "name": "Sants Nazari i Celsi",
+        "type": "Màrtirs",
+        "description": "Màrtirs del segle I les relíquies dels quals van ser descobertes per Sant Ambròs a Milà l'any 395. Nazari va ser deixeble de l'apòstol Pere i Celsi era un nen que ell va batejar. Les seves restes es veneren a la basílica de San Nazaro a Milà."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència del Perú",
+        "description": "El Perú celebra el 28 de juliol de 1821, dia en que el general José de San Martín va proclamar la independència del país de l'Imperi Espanyol a Lima. És la festa nacional més important del Perú, celebrada amb desfilades militars i civils."
+      },
+      {
+        "name": "Dia Mundial contra l'Hepatitis",
+        "description": "Establert per l'OMS el 28 de juliol, en honor al viròleg Baruch Samuel Blumberg, nascut aquell dia, que va descobrir el virus de l'hepatitis B i va rebre el Premi Nobel de Medicina el 1976."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Som lliures. Ho siguem sempre, i abans sacrifiquem-ho tot per la llibertat, que permetre que ens sigui arrabassada.",
+      "author": "José de San Martín",
+      "context": "El 28 de juliol de 1821, el general José de San Martín va proclamar la independència del Perú a Lima. Les seves paraules reflecteixen l'esperit de sacrifici que va animar els llibertadors llatinoamericans en la seva lluita contra el domini colonial."
+    },
+    "motivationalQuote": {
+      "text": "Sigues el canvi que desitges veure al món.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Johann Sebastian Bach",
+        "description": "Compositor i músic alemany del Barroc (1685–1750), considerat un dels més grans compositors de la història de la música occidental. Obres com les Variacions Goldberg, el Clave Bien Temperado i la Passió segons Sant Mateu són cims del repertori clàssic.",
+        "year": 1685
+      },
+      {
+        "name": "Beatrix Potter",
+        "description": "Escriptora i il·lustradora britànica (1866–1943), creadora del personatge Peter Rabbit i autora de El conte de Pere el Conill, un dels llibres infantils més venuts de la història. Va ser també botànica i conservacionista.",
+        "year": 1866
+      },
+      {
+        "name": "Jacqueline Kennedy Onassis",
+        "description": "Primera dama dels Estats Units (1961–1963), esposa del president John F. Kennedy. Reconeguda per la seva elegància, cultura i el seu paper en la preservació del patrimoni cultural de la Casa Blanca. La seva fortalesa després de l'assassinat del seu marit la va convertir en un símbol de dignitat.",
+        "year": 1929
+      }
+    ],
+    "events": [
+      {
+        "title": "El Perú proclama la independència",
+        "description": "El 28 de juliol de 1821, el general José de San Martín va proclamar la independència del Perú a la Plaza Mayor de Lima, alliberant el país del domini de l'Imperi Espanyol després d'anys de guerres d'independència.",
+        "year": 1821
+      },
+      {
+        "title": "La Primera Guerra Mundial comença",
+        "description": "El 28 de juliol de 1914, Àustria-Hongria va declarar la guerra a Sèrbia, desencadenant la Primera Guerra Mundial. El conflicte va durar quatre anys i va causar més de 17 milions de morts.",
+        "year": 1914
+      },
+      {
+        "title": "Jocs Olímpics de Barcelona 1992 inaugurats",
+        "description": "El 28 de juliol de 1992, els Jocs Olímpics de Barcelona es van inaugurar amb una espectacular cerimònia a l'Estadi Olímpic de Montjuïc. Van ser els primers Jocs celebrats en sòl espanyol i una fita en la modernització del país.",
+        "year": 1992
+      }
+    ]
+  }
+}

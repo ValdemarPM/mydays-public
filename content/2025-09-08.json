@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-08",
+  "es": {
+    "saints": [
+      {
+        "name": "Natividad de la Santísima Virgen María",
+        "type": "Solemnidad",
+        "description": "Festividad que celebra el nacimiento de la Virgen María, madre de Jesucristo. Celebrada el 8 de septiembre desde al menos el siglo VI en Jerusalén, su culto se extendió a toda la Iglesia occidental bajo el papa Sergio I (687–701)."
+      },
+      {
+        "name": "San Adrián de Nicomedia",
+        "type": "Mártir",
+        "description": "Oficial romano convertido al cristianismo al presenciar la entereza de los mártires en Nicomedia. Fue martirizado hacia el año 306 junto con su esposa Natalia. Es patrón de los soldados y guardias."
+      },
+      {
+        "name": "Santa Corbiniana",
+        "type": "Mártir",
+        "description": "Mártir venerada en la tradición cristiana cuyos restos se conservan en Frisinga (Baviera, Alemania), asociada históricamente al obispo San Corbiniano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Alfabetización",
+        "description": "Proclamado por la UNESCO en 1966, se celebra el 8 de septiembre para recordar la importancia de la alfabetización para la dignidad humana y los derechos de las personas. Hoy más de 775 millones de adultos no saben leer ni escribir."
+      },
+      {
+        "name": "Día de la Independencia de Macedonia del Norte",
+        "description": "Macedonia del Norte (antes República de Macedonia) conmemora su referéndum de independencia del 8 de septiembre de 1991, en el que el 95% de los votantes apoyó la separación de la antigua Yugoslavia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La educación es el arma más poderosa que puedes usar para cambiar el mundo.",
+      "author": "Nelson Mandela",
+      "context": "El líder sudafricano y Nobel de la Paz expresó esta convicción en numerosos discursos a lo largo de su vida, convencido de que la educación y la alfabetización son la base de la libertad y la igualdad."
+    },
+    "motivationalQuote": {
+      "text": "No importa cuán lento vayas, siempre que no te detengas.",
+      "author": "Confucio"
+    },
+    "births": [
+      {
+        "name": "Richard the Lionheart",
+        "description": "Rey de Inglaterra (1189–1199), duque de Normandía y Aquitania. Líder de la Tercera Cruzada, es recordado como uno de los monarcas medievales más valientes y legendarios de la historia europea.",
+        "year": 1157
+      },
+      {
+        "name": "Antonín Dvořák",
+        "description": "Compositor checo considerado junto a Smetana como el padre de la música nacional bohemia. Su Sinfonía n.º 9 «Del Nuevo Mundo» (1893) es una de las sinfonías más interpretadas del repertorio clásico.",
+        "year": 1841
+      },
+      {
+        "name": "Pink (Alecia Moore)",
+        "description": "Cantante y compositora estadounidense de pop-rock, conocida por su voz potente, sus acrobáticos espectáculos en vivo y éxitos mundiales como Just Give Me a Reason y Raise Your Glass.",
+        "year": 1979
+      }
+    ],
+    "events": [
+      {
+        "title": "Rendición de Japón — firma en Missouri",
+        "description": "Representantes japoneses firmaron el acta de rendición incondicional a bordo del USS Missouri, poniendo fin oficial a la Segunda Guerra Mundial en el Pacífico.",
+        "year": 1945
+      },
+      {
+        "title": "Fundación de San Francisco — Misión Dolores",
+        "description": "Se completó la fundación de la Misión de San Francisco de Asís (Misión Dolores) por los franciscanos, germen de la futura ciudad de San Francisco, California.",
+        "year": 1776
+      },
+      {
+        "title": "Coronación de la Virgen de la Merced como patrona de Barcelona",
+        "description": "La Virgen de la Merced fue coronada canónicamente como patrona de Barcelona en una solemne ceremonia, consolidando la devoción que la ciudad le profesa desde el siglo XIII.",
+        "year": 1888
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Nativity of the Blessed Virgin Mary",
+        "type": "Solemnity",
+        "description": "Feast celebrating the birth of the Virgin Mary, mother of Jesus Christ. Celebrated on 8 September since at least the 6th century in Jerusalem, her cult spread to the whole Western Church under Pope Sergius I (687–701)."
+      },
+      {
+        "name": "Saint Adrian of Nicomedia",
+        "type": "Martyr",
+        "description": "A Roman officer converted to Christianity upon witnessing the steadfastness of the martyrs in Nicomedia. He was martyred around 306 alongside his wife Natalia. He is patron of soldiers and guards."
+      },
+      {
+        "name": "Saint Corbinian",
+        "type": "Martyr",
+        "description": "A martyr venerated in the Christian tradition whose remains are kept in Freising (Bavaria, Germany), historically associated with Bishop Saint Corbinian."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Literacy Day",
+        "description": "Proclaimed by UNESCO in 1966, celebrated on 8 September to highlight the importance of literacy for human dignity and people's rights. Today more than 775 million adults still cannot read or write."
+      },
+      {
+        "name": "Independence Day of North Macedonia",
+        "description": "North Macedonia (formerly the Republic of Macedonia) commemorates its independence referendum of 8 September 1991, in which 95% of voters supported separation from former Yugoslavia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Education is the most powerful weapon you can use to change the world.",
+      "author": "Nelson Mandela",
+      "context": "The South African leader and Nobel Peace Prize laureate expressed this conviction in numerous speeches throughout his life, convinced that education and literacy are the foundation of freedom and equality."
+    },
+    "motivationalQuote": {
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius"
+    },
+    "births": [
+      {
+        "name": "Richard the Lionheart",
+        "description": "King of England (1189–1199), Duke of Normandy and Aquitaine. Leader of the Third Crusade, he is remembered as one of the bravest and most legendary medieval monarchs in European history.",
+        "year": 1157
+      },
+      {
+        "name": "Antonín Dvořák",
+        "description": "Czech composer considered, alongside Smetana, as the father of Bohemian national music. His Symphony No. 9 'From the New World' (1893) is one of the most performed symphonies in the classical repertoire.",
+        "year": 1841
+      },
+      {
+        "name": "Pink (Alecia Moore)",
+        "description": "American pop-rock singer and songwriter, known for her powerful voice, acrobatic live shows, and worldwide hits such as Just Give Me a Reason and Raise Your Glass.",
+        "year": 1979
+      }
+    ],
+    "events": [
+      {
+        "title": "Japan surrenders — signing aboard the Missouri",
+        "description": "Japanese representatives signed the instrument of unconditional surrender aboard the USS Missouri, officially ending World War II in the Pacific.",
+        "year": 1945
+      },
+      {
+        "title": "Founding of San Francisco — Mission Dolores",
+        "description": "The founding of Mission San Francisco de Asís (Mission Dolores) by the Franciscans was completed, the seed of the future city of San Francisco, California.",
+        "year": 1776
+      },
+      {
+        "title": "Our Lady of Mercy crowned patroness of Barcelona",
+        "description": "Our Lady of Mercy was canonically crowned as patroness of Barcelona in a solemn ceremony, consolidating the devotion the city has professed to her since the 13th century.",
+        "year": 1888
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Natividade da Santíssima Virgem Maria",
+        "type": "Solenidade",
+        "description": "Festa que celebra o nascimento da Virgem Maria, mãe de Jesus Cristo. Celebrada a 8 de setembro pelo menos desde o século VI em Jerusalém, o seu culto espalhou-se por toda a Igreja ocidental sob o papa Sérgio I (687–701)."
+      },
+      {
+        "name": "São Adrião de Nicomédia",
+        "type": "Mártir",
+        "description": "Oficial romano convertido ao cristianismo ao presenciar a firmeza dos mártires em Nicomédia. Foi martirizado por volta do ano 306 juntamente com a sua esposa Natália. É patrono dos soldados e guardas."
+      },
+      {
+        "name": "Santa Corbiniana",
+        "type": "Mártir",
+        "description": "Mártir venerada na tradição cristã cujos restos se conservam em Freising (Baviera, Alemanha), historicamente associada ao bispo São Corbiniano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Alfabetização",
+        "description": "Proclamado pela UNESCO em 1966, celebrado a 8 de setembro para destacar a importância da alfabetização para a dignidade humana e os direitos das pessoas. Hoje mais de 775 milhões de adultos ainda não sabem ler nem escrever."
+      },
+      {
+        "name": "Dia da Independência da Macedônia do Norte",
+        "description": "A Macedônia do Norte (antes República da Macedônia) comemora o seu referendo de independência de 8 de setembro de 1991, no qual 95% dos votantes apoiaram a separação da antiga Jugoslávia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A educação é a arma mais poderosa que podes usar para mudar o mundo.",
+      "author": "Nelson Mandela",
+      "context": "O líder sul-africano e Nobel da Paz expressou esta convicção em numerosos discursos ao longo da sua vida, convicto de que a educação e a alfabetização são a base da liberdade e da igualdade."
+    },
+    "motivationalQuote": {
+      "text": "Não importa quão devagar vás, desde que não pares.",
+      "author": "Confúcio"
+    },
+    "births": [
+      {
+        "name": "Ricardo Coração de Leão",
+        "description": "Rei de Inglaterra (1189–1199), duque da Normandia e da Aquitânia. Líder da Terceira Cruzada, é lembrado como um dos monarcas medievais mais corajosos e lendários da história europeia.",
+        "year": 1157
+      },
+      {
+        "name": "Antonín Dvořák",
+        "description": "Compositor checo considerado, a par de Smetana, pai da música nacional boémia. A sua Sinfonia n.º 9 «Do Novo Mundo» (1893) é uma das sinfonias mais interpretadas do repertório clássico.",
+        "year": 1841
+      },
+      {
+        "name": "Pink (Alecia Moore)",
+        "description": "Cantora e compositora americana de pop-rock, conhecida pela sua voz poderosa, os seus espetáculos acrobáticos ao vivo e êxitos mundiais como Just Give Me a Reason e Raise Your Glass.",
+        "year": 1979
+      }
+    ],
+    "events": [
+      {
+        "title": "Japão rende-se — assinatura a bordo do Missouri",
+        "description": "Representantes japoneses assinaram o instrumento de rendição incondicional a bordo do USS Missouri, encerrando oficialmente a Segunda Guerra Mundial no Pacífico.",
+        "year": 1945
+      },
+      {
+        "title": "Fundação de São Francisco — Missão Dolores",
+        "description": "Foi concluída a fundação da Missão de São Francisco de Assis (Missão Dolores) pelos franciscanos, semente da futura cidade de São Francisco, Califórnia.",
+        "year": 1776
+      },
+      {
+        "title": "Nossa Senhora da Mercê coroada padroeira de Barcelona",
+        "description": "Nossa Senhora da Mercê foi canonicamente coroada padroeira de Barcelona numa solene cerimônia, consolidando a devoção que a cidade lhe professa desde o século XIII.",
+        "year": 1888
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Nativitat de la Santíssima Verge Maria",
+        "type": "Solemnitat",
+        "description": "Festivitat que celebra el naixement de la Verge Maria, mare de Jesucrist. Celebrada el 8 de setembre almenys des del segle VI a Jerusalem, el seu culte es va estendre a tota l'Església occidental sota el papa Sergi I (687–701)."
+      },
+      {
+        "name": "Sant Adrià de Nicomèdia",
+        "type": "Màrtir",
+        "description": "Oficial romà convertit al cristianisme en presenciar la fermesa dels màrtirs a Nicomèdia. Va ser martiritzat cap a l'any 306 juntament amb la seva esposa Natàlia. És patró dels soldats i guàrdies."
+      },
+      {
+        "name": "Santa Corbiniana",
+        "type": "Màrtir",
+        "description": "Màrtir venerada en la tradició cristiana les restes de la qual es conserven a Freising (Baviera, Alemanya), associada històricament al bisbe Sant Corbinià."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de l'Alfabetització",
+        "description": "Proclamat per la UNESCO el 1966, celebrat el 8 de setembre per recordar la importància de l'alfabetització per a la dignitat humana i els drets de les persones. Avui més de 775 milions d'adults encara no saben llegir ni escriure."
+      },
+      {
+        "name": "Dia de la Independència de Macedònia del Nord",
+        "description": "Macedònia del Nord (abans República de Macedònia) commemora el seu referèndum d'independència del 8 de setembre de 1991, en el qual el 95% dels votants va donar suport a la separació de l'antiga Iugoslàvia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "L'educació és l'arma més poderosa que pots usar per canviar el món.",
+      "author": "Nelson Mandela",
+      "context": "El líder sud-africà i Nobel de la Pau va expressar aquesta convicció en nombrosos discursos al llarg de la seva vida, convençut que l'educació i l'alfabetització són la base de la llibertat i la igualtat."
+    },
+    "motivationalQuote": {
+      "text": "No importa com d'a poc a poc vagis, sempre que no t'aturis.",
+      "author": "Confuci"
+    },
+    "births": [
+      {
+        "name": "Ricard Cor de Lleó",
+        "description": "Rei d'Anglaterra (1189–1199), duc de Normandia i Aquitània. Líder de la Tercera Croada, és recordat com un dels monarques medievals més valents i llegendaris de la història europea.",
+        "year": 1157
+      },
+      {
+        "name": "Antonín Dvořák",
+        "description": "Compositor txec considerat, juntament amb Smetana, el pare de la música nacional bohèmia. La seva Simfonia n.º 9 «Del Nou Món» (1893) és una de les simfonies més interpretades del repertori clàssic.",
+        "year": 1841
+      },
+      {
+        "name": "Pink (Alecia Moore)",
+        "description": "Cantant i compositora americana de pop-rock, coneguda per la seva potent veu, els seus espectacles acrobàtics en directe i èxits mundials com Just Give Me a Reason i Raise Your Glass.",
+        "year": 1979
+      }
+    ],
+    "events": [
+      {
+        "title": "El Japó es rendeix — signatura a bord del Missouri",
+        "description": "Representants japonesos van signar l'acta de rendició incondicional a bord del USS Missouri, posant fi oficialment a la Segona Guerra Mundial al Pacífic.",
+        "year": 1945
+      },
+      {
+        "title": "Fundació de San Francisco — Missió Dolores",
+        "description": "Es va completar la fundació de la Missió de San Francisco de Asís (Missió Dolores) pels franciscans, llavor de la futura ciutat de San Francisco, Califòrnia.",
+        "year": 1776
+      },
+      {
+        "title": "La Mare de Déu de la Mercè coronada patrona de Barcelona",
+        "description": "La Mare de Déu de la Mercè va ser canònicament coronada patrona de Barcelona en una solemne cerimònia, consolidant la devoció que la ciutat li professa des del segle XIII.",
+        "year": 1888
+      }
+    ]
+  }
+}

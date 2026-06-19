@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-18",
+  "es": {
+    "saints": [
+      {
+        "name": "San Juan I",
+        "type": "Papa y Mártir",
+        "description": "Papa del siglo VI, primer pontífice en viajar a Constantinopla para negociar con el emperador Justino I en favor de los arrios. A su regreso, fue encarcelado por el rey Teodorico el Grande en Rávena, donde murió en prisión en 526. Es el único papa canonizado como mártir del período ostrogodo."
+      },
+      {
+        "name": "San Félix de Cantalicio",
+        "type": "Fraile Capuchino",
+        "description": "Fraile capuchino italiano del siglo XVI, conocido como 'el hermano Deo Gratias' por su saludo constante. Fue limosnero de los capuchinos en Roma durante cuarenta años y amigo espiritual de San Carlos Borromeo y San Felipe Neri. Canonizado en 1712."
+      },
+      {
+        "name": "Beata María Nazaria Ignacia March Mesa",
+        "type": "Virgen y Fundadora",
+        "description": "Religiosa española del siglo XX, fundadora de la Congregación de las Misioneras Cruzadas de la Iglesia. Trabajó en Bolivia y Argentina en favor de los más pobres. Fue beatificada en 1992 y canonizada en 2018."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de los Museos",
+        "description": "Proclamado por el ICOM (Consejo Internacional de Museos) en 1977, este día celebra el papel de los museos como medios de intercambio cultural y promotores de la educación, la paz y la comprensión mutua entre los pueblos."
+      },
+      {
+        "name": "Día Mundial del Síndrome de Tourette",
+        "description": "Celebrado para aumentar la conciencia pública sobre el síndrome de Tourette, un trastorno neurológico que afecta a millones de personas en todo el mundo y que a menudo es incomprendido y estigmatizado."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Un museo es un lugar donde uno debería perder la cabeza.",
+      "author": "Renzo Piano"
+    },
+    "motivationalQuote": {
+      "text": "La vida no se mide por las veces que respiramos, sino por los momentos que nos dejan sin aliento.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Bertrand Russell",
+        "description": "Filósofo, lógico, matemático y escritor británico del siglo XX, uno de los más influyentes del mundo occidental. Premio Nobel de Literatura en 1950. Fue un destacado pacifista y activista social, conocido por su campaña contra las armas nucleares.",
+        "year": "1872"
+      },
+      {
+        "name": "Pope John Paul II",
+        "description": "Karol Józef Wojtyła, nacido en Wadowice (Polonia), fue el 264.º papa de la Iglesia Católica (1978–2005). El primer papa no italiano desde el siglo XVI y el primero polaco, fue una figura central de la caída del comunismo en Europa del Este. Canonizado en 2014.",
+        "year": "1920"
+      },
+      {
+        "name": "Chow Yun-fat",
+        "description": "Actor hongkonés, uno de los más populares del cine asiático. Famoso por sus películas de acción con John Woo como A Better Tomorrow y The Killer, y por su papel internacional en Tigre y Dragón y Piratas del Caribe: En el fin del mundo.",
+        "year": "1955"
+      }
+    ],
+    "events": [
+      {
+        "title": "Erupción del monte Santa Helena",
+        "description": "El volcán Monte Santa Helena en el estado de Washington (EE. UU.) entró en erupción de manera catastrófica, provocando la mayor explosión volcanic registrada en la historia reciente de América del Norte, con 57 víctimas mortales y enormes daños.",
+        "year": "1980"
+      },
+      {
+        "title": "Inauguración del Museo del Prado",
+        "description": "El Museo del Prado de Madrid abrió sus puertas al público como galería de pintura y escultura, convirtiéndose en uno de los principales museos de arte del mundo, con una de las mayores colecciones de pintura europea.",
+        "year": "1819"
+      },
+      {
+        "title": "Batalla de Las Navas de Tolosa",
+        "description": "Las tropas cristianas de los reinos de Castilla, Aragón y Navarra derrotaron al califa almohade Muhammad al-Nasir en la Batalla de Las Navas de Tolosa, uno de los episodios más decisivos de la Reconquista española.",
+        "year": "1212"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint John I",
+        "type": "Pope and Martyr",
+        "description": "6th-century pope, the first pontiff to travel to Constantinople to negotiate with Emperor Justin I on behalf of the Arians. On his return, he was imprisoned by King Theodoric the Great in Ravenna, where he died in captivity in 526. He is the only pope canonised as a martyr of the Ostrogothic period."
+      },
+      {
+        "name": "Saint Felix of Cantalice",
+        "type": "Capuchin Friar",
+        "description": "16th-century Italian Capuchin friar, known as 'Brother Deo Gratias' for his constant greeting. He was the alms-collector for the Capuchins in Rome for forty years and a spiritual friend of Saints Charles Borromeo and Philip Neri. Canonised in 1712."
+      },
+      {
+        "name": "Blessed María Nazaria Ignacia March Mesa",
+        "type": "Virgin and Foundress",
+        "description": "20th-century Spanish nun, founder of the Congregation of the Missionary Crusaders of the Church. She worked in Bolivia and Argentina in favour of the poorest. She was beatified in 1992 and canonised in 2018."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Museum Day",
+        "description": "Proclaimed by ICOM (International Council of Museums) in 1977, this day celebrates the role of museums as means of cultural exchange and promoters of education, peace, and mutual understanding among peoples."
+      },
+      {
+        "name": "World Tourette Syndrome Day",
+        "description": "Celebrated to increase public awareness of Tourette syndrome, a neurological disorder that affects millions of people worldwide and is often misunderstood and stigmatised."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A museum is a place where one should lose one's head.",
+      "author": "Renzo Piano"
+    },
+    "motivationalQuote": {
+      "text": "Life is not measured by the number of breaths we take, but by the moments that take our breath away.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Bertrand Russell",
+        "description": "20th-century British philosopher, logician, mathematician, and writer, one of the most influential in the Western world. Nobel Prize in Literature in 1950. A prominent pacifist and social activist, known for his campaign against nuclear weapons.",
+        "year": "1872"
+      },
+      {
+        "name": "Pope John Paul II",
+        "description": "Karol Józef Wojtyła, born in Wadowice (Poland), was the 264th Pope of the Catholic Church (1978–2005). The first non-Italian pope since the 16th century and the first Polish pope, he was a central figure in the fall of communism in Eastern Europe. Canonised in 2014.",
+        "year": "1920"
+      },
+      {
+        "name": "Chow Yun-fat",
+        "description": "Hong Kong actor, one of the most popular in Asian cinema. Famous for his action films with John Woo such as A Better Tomorrow and The Killer, and for his international roles in Crouching Tiger, Hidden Dragon and Pirates of the Caribbean: At World's End.",
+        "year": "1955"
+      }
+    ],
+    "events": [
+      {
+        "title": "Eruption of Mount St. Helens",
+        "description": "The Mount St. Helens volcano in the state of Washington (USA) erupted catastrophically, causing the largest volcanic explosion recorded in recent North American history, with 57 fatalities and enormous damage.",
+        "year": "1980"
+      },
+      {
+        "title": "Opening of the Prado Museum",
+        "description": "The Prado Museum in Madrid opened its doors to the public as a painting and sculpture gallery, becoming one of the world's leading art museums with one of the largest collections of European painting.",
+        "year": "1819"
+      },
+      {
+        "title": "Battle of Las Navas de Tolosa",
+        "description": "The Christian forces of the kingdoms of Castile, Aragon, and Navarre defeated the Almohad caliph Muhammad al-Nasir at the Battle of Las Navas de Tolosa, one of the most decisive episodes of the Spanish Reconquista.",
+        "year": "1212"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São João I",
+        "type": "Papa e Mártir",
+        "description": "Papa do século VI, primeiro pontífice a viajar a Constantinopla para negociar com o imperador Justino I em favor dos arianos. Ao retornar, foi aprisionado pelo rei Teodorico, o Grande, em Ravena, onde morreu preso em 526. É o único papa canonizado como mártir do período ostrogótico."
+      },
+      {
+        "name": "São Félix de Cantalício",
+        "type": "Frade Capuchinho",
+        "description": "Frade capuchinho italiano do século XVI, conhecido como 'o irmão Deo Gratias' por sua saudação constante. Foi esmoleiro dos capuchinhos em Roma por quarenta anos e amigo espiritual de São Carlos Borromeu e São Filipe Néri. Canonizado em 1712."
+      },
+      {
+        "name": "Beata María Nazaria Ignacia March Mesa",
+        "type": "Virgem e Fundadora",
+        "description": "Religiosa espanhola do século XX, fundadora da Congregação das Missionárias Cruzadas da Igreja. Trabalhou na Bolívia e na Argentina em favor dos mais pobres. Foi beatificada em 1992 e canonizada em 2018."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional dos Museus",
+        "description": "Proclamado pelo ICOM (Conselho Internacional de Museus) em 1977, este dia celebra o papel dos museus como meios de intercâmbio cultural e promotores da educação, da paz e do entendimento mútuo entre os povos."
+      },
+      {
+        "name": "Dia Mundial da Síndrome de Tourette",
+        "description": "Celebrado para aumentar a consciência pública sobre a síndrome de Tourette, um transtorno neurológico que afeta milhões de pessoas em todo o mundo e que muitas vezes é incompreendido e estigmatizado."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Um museu é um lugar onde se deve perder a cabeça.",
+      "author": "Renzo Piano"
+    },
+    "motivationalQuote": {
+      "text": "A vida não se mede pelo número de vezes que respiramos, mas pelos momentos que nos tiram o fôlego.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Bertrand Russell",
+        "description": "Filósofo, lógico, matemático e escritor britânico do século XX, um dos mais influentes do mundo ocidental. Prêmio Nobel de Literatura em 1950. Foi um destacado pacifista e ativista social, conhecido pela sua campanha contra as armas nucleares.",
+        "year": "1872"
+      },
+      {
+        "name": "Papa João Paulo II",
+        "description": "Karol Józef Wojtyła, nascido em Wadowice (Polônia), foi o 264.º papa da Igreja Católica (1978–2005). O primeiro papa não italiano desde o século XVI e o primeiro polonês, foi uma figura central na queda do comunismo na Europa Oriental. Canonizado em 2014.",
+        "year": "1920"
+      },
+      {
+        "name": "Chow Yun-fat",
+        "description": "Ator hongkonguense, um dos mais populares do cinema asiático. Famoso por seus filmes de ação com John Woo, como A Better Tomorrow e The Killer, e por seus papéis internacionais em O Tigre e o Dragão e Piratas do Caribe: No Fim do Mundo.",
+        "year": "1955"
+      }
+    ],
+    "events": [
+      {
+        "title": "Erupção do Monte Santa Helena",
+        "description": "O vulcão Monte Santa Helena no estado de Washington (EUA) entrou em erupção de forma catastrófica, causando a maior explosão vulcânica registrada na história recente da América do Norte, com 57 vítimas mortais e enormes danos.",
+        "year": "1980"
+      },
+      {
+        "title": "Inauguração do Museu do Prado",
+        "description": "O Museu do Prado em Madrid abriu suas portas ao público como galeria de pintura e escultura, tornando-se um dos principais museus de arte do mundo, com uma das maiores coleções de pintura europeia.",
+        "year": "1819"
+      },
+      {
+        "title": "Batalha de Las Navas de Tolosa",
+        "description": "As forças cristãs dos reinos de Castela, Aragão e Navarra derrotaram o califa almóada Muhammad al-Nasir na Batalha de Las Navas de Tolosa, um dos episódios mais decisivos da Reconquista espanhola.",
+        "year": "1212"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Joan I",
+        "type": "Papa i Màrtir",
+        "description": "Papa del segle VI, primer pontífex a viatjar a Constantinoble per negociar amb l'emperador Justí I en favor dels arrians. Al seu retorn, va ser empresonat pel rei Teodoric el Gran a Ravenna, on va morir presoner el 526. És l'únic papa canonitzat com a màrtir del període ostrogot."
+      },
+      {
+        "name": "Sant Fèlix de Cantalici",
+        "type": "Frare Caputxí",
+        "description": "Frare caputxí italià del segle XVI, conegut com 'el germà Deo Gratias' pel seu salut constant. Va ser llimosner dels caputxins a Roma durant quaranta anys i amic espiritual de Sants Carles Borromeu i Felip Neri. Canonitzat el 1712."
+      },
+      {
+        "name": "Beata María Nazaria Ignacia March Mesa",
+        "type": "Verge i Fundadora",
+        "description": "Religiosa espanyola del segle XX, fundadora de la Congregació de les Missioneres Croades de l'Església. Va treballar a Bolívia i Argentina en favor dels més pobres. Va ser beatificada el 1992 i canonitzada el 2018."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional dels Museus",
+        "description": "Proclamat per l'ICOM (Consell Internacional de Museus) el 1977, aquest dia celebra el paper dels museus com a mitjans d'intercanvi cultural i promotors de l'educació, la pau i la comprensió mútua entre els pobles."
+      },
+      {
+        "name": "Dia Mundial de la Síndrome de Tourette",
+        "description": "Celebrat per augmentar la consciència pública sobre la síndrome de Tourette, un trastorn neurològic que afecta milions de persones arreu del món i que sovint és incomprès i estigmatitzat."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Un museu és un lloc on hauria de perdre el cap.",
+      "author": "Renzo Piano"
+    },
+    "motivationalQuote": {
+      "text": "La vida no es mesura per les vegades que respirem, sinó pels moments que ens deixen sense alè.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Bertrand Russell",
+        "description": "Filòsof, lògic, matemàtic i escriptor britànic del segle XX, un dels més influents del món occidental. Premi Nobel de Literatura el 1950. Va ser un destacat pacifista i activista social, conegut per la seva campanya contra les armes nuclears.",
+        "year": "1872"
+      },
+      {
+        "name": "Papa Joan Pau II",
+        "description": "Karol Józef Wojtyła, nascut a Wadowice (Polònia), va ser el 264è papa de l'Església Catòlica (1978–2005). El primer papa no italià des del segle XVI i el primer polonès, va ser una figura central de la caiguda del comunisme a l'Europa de l'Est. Canonitzat el 2014.",
+        "year": "1920"
+      },
+      {
+        "name": "Chow Yun-fat",
+        "description": "Actor hongkonguès, un dels més populars del cinema asiàtic. Famós per les seves pel·lícules d'acció amb John Woo com A Better Tomorrow i The Killer, i pels seus papers internacionals a El tigre i el drac i Pirates del Carib: Al final del món.",
+        "year": "1955"
+      }
+    ],
+    "events": [
+      {
+        "title": "Erupció del Mont Santa Helena",
+        "description": "El volcà Mont Santa Helena a l'estat de Washington (EUA) va entrar en erupció de manera catastròfica, causant la major explosió volcànica registrada a la història recent de l'Amèrica del Nord, amb 57 víctimes mortals i enormes danys.",
+        "year": "1980"
+      },
+      {
+        "title": "Inauguració del Museu del Prado",
+        "description": "El Museu del Prado de Madrid va obrir les portes al públic com a galeria de pintura i escultura, convertint-se en un dels principals museus d'art del món, amb una de les majors col·leccions de pintura europea.",
+        "year": "1819"
+      },
+      {
+        "title": "Batalla de Las Navas de Tolosa",
+        "description": "Les tropes cristianes dels regnes de Castella, Aragó i Navarra van derrotar el califa almohade Muhàmmad al-Nàssir a la Batalla de Las Navas de Tolosa, un dels episodis més decisius de la Reconquesta espanyola.",
+        "year": "1212"
+      }
+    ]
+  }
+}

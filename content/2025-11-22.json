@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-22",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Cecilia",
+        "type": "Virgen y Mártir",
+        "description": "Mártir romana del siglo II o III, patrona de los músicos, los cantores, los luthiers y la música sacra. Según la tradición, cantaba a Dios en su corazón mientras los instrumentos tocaban en su boda. Su basílica en Roma fue construida sobre la casa donde fue martirizada."
+      },
+      {
+        "name": "San Clemente I",
+        "type": "Papa y Mártir",
+        "description": "Cuarto papa de la historia (88–99 d.C.), mártir según la tradición, conocido por su Carta a los Corintios, uno de los documentos más antiguos del cristianismo fuera del Nuevo Testamento."
+      },
+      {
+        "name": "San Filemón",
+        "type": "Mártir",
+        "description": "Mártir del siglo III cuyo destino trazó San Pablo en la Epístola a Filemón, uno de los textos más personales del Nuevo Testamento sobre la fraternidad cristiana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Música (Santa Cecilia)",
+        "description": "Festividad musical en honor a la patrona de los músicos, celebrada con conciertos, actuaciones y festivales en iglesias, conservatorios y escuelas de música de todo el mundo."
+      },
+      {
+        "name": "Día del Maestro (varios países latinoamericanos)",
+        "description": "En países como Chile y Colombia se celebra el Día del Maestro en homenaje a los docentes y su labor formativa en la sociedad."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La música expresa lo que no puede decirse con palabras y lo que no puede permanecer en silencio.",
+      "author": "Victor Hugo",
+      "context": "El escritor francés, poeta y novelista, expresó la dimensión espiritual de la música que Santa Cecilia representa: la voz que trasciende el lenguaje."
+    },
+    "motivationalQuote": {
+      "text": "La música da color al aire del momento.",
+      "author": "Karl Lagerfeld"
+    },
+    "births": [
+      {
+        "name": "George Eliot",
+        "description": "Nombre literario de Mary Anne Evans, novelista inglesa victoriana autora de Middlemarch, El molino del Floss y Silas Marner, considerada una de las más grandes escritoras de la lengua inglesa.",
+        "year": 1819
+      },
+      {
+        "name": "Charles de Gaulle",
+        "description": "General y estadista francés, fundador de la Quinta República Francesa, líder de la Resistencia francesa durante la Segunda Guerra Mundial y presidente de Francia (1959–1969).",
+        "year": 1890
+      },
+      {
+        "name": "Scarlett Johansson",
+        "description": "Actriz estadounidense, la actriz mejor pagada del mundo en 2018 y 2019, conocida por la saga Avengers, Match Point y Marriage Story.",
+        "year": 1984
+      }
+    ],
+    "events": [
+      {
+        "title": "Asesinato de John F. Kennedy",
+        "description": "El presidente de los Estados Unidos John F. Kennedy fue asesinado en Dallas (Texas) mientras circulaba en comitiva por la ciudad. Lee Harvey Oswald fue arrestado como principal sospechoso.",
+        "year": 1963
+      },
+      {
+        "title": "C.S. Lewis fallece en Oxford",
+        "description": "El escritor y apologista cristiano C.S. Lewis, autor de Las Crónicas de Narnia y Mero Cristianismo, falleció en Oxford el mismo día en que fue asesinado Kennedy y murió Aldous Huxley.",
+        "year": 1963
+      },
+      {
+        "title": "España celebra sus primeras elecciones democráticas",
+        "description": "España celebró sus primeras elecciones democráticas desde la Segunda República, con la victoria de la Unión de Centro Democrático liderada por Adolfo Suárez, culminando la Transición.",
+        "year": 1977
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Cecilia",
+        "type": "Virgin and Martyr",
+        "description": "2nd or 3rd-century Roman martyr, patron of musicians, singers, instrument makers, and sacred music. According to tradition, she sang to God in her heart while instruments played at her wedding. Her basilica in Rome was built over the house where she was martyred."
+      },
+      {
+        "name": "Saint Clement I",
+        "type": "Pope and Martyr",
+        "description": "The fourth pope in history (88–99 AD), traditionally regarded as a martyr, known for his Letter to the Corinthians — one of the oldest Christian documents outside the New Testament."
+      },
+      {
+        "name": "Saint Philemon",
+        "type": "Martyr",
+        "description": "3rd-century martyr whose fate Saint Paul addressed in the Epistle to Philemon, one of the most personal texts in the New Testament on Christian brotherhood."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Music Day (Saint Cecilia's Day)",
+        "description": "A musical feast in honour of the patron of musicians, celebrated with concerts, performances, and festivals in churches, conservatoires, and music schools worldwide."
+      },
+      {
+        "name": "Teachers' Day (various Latin American countries)",
+        "description": "Countries such as Chile and Colombia celebrate Teachers' Day in tribute to educators and their formative role in society."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Music expresses that which cannot be said and on which it is impossible to be silent.",
+      "author": "Victor Hugo",
+      "context": "The French poet and novelist expressed the spiritual dimension of music that Saint Cecilia embodies: the voice that transcends language."
+    },
+    "motivationalQuote": {
+      "text": "Music gives colour to the air of the moment.",
+      "author": "Karl Lagerfeld"
+    },
+    "births": [
+      {
+        "name": "George Eliot",
+        "description": "Pen name of Mary Anne Evans, Victorian English novelist and author of Middlemarch, The Mill on the Floss, and Silas Marner, considered one of the greatest writers in the English language.",
+        "year": 1819
+      },
+      {
+        "name": "Charles de Gaulle",
+        "description": "French general and statesman, founder of the Fifth French Republic, leader of the French Resistance during the Second World War, and President of France (1959–1969).",
+        "year": 1890
+      },
+      {
+        "name": "Scarlett Johansson",
+        "description": "American actress, the world's highest-paid actress in 2018 and 2019, known for the Avengers franchise, Match Point, and Marriage Story.",
+        "year": 1984
+      }
+    ],
+    "events": [
+      {
+        "title": "Assassination of John F. Kennedy",
+        "description": "US President John F. Kennedy was assassinated in Dallas, Texas, while riding in a motorcade through the city. Lee Harvey Oswald was arrested as the prime suspect.",
+        "year": 1963
+      },
+      {
+        "title": "Death of C.S. Lewis in Oxford",
+        "description": "Christian writer and apologist C.S. Lewis, author of The Chronicles of Narnia and Mere Christianity, died in Oxford on the same day Kennedy was assassinated and Aldous Huxley died.",
+        "year": 1963
+      },
+      {
+        "title": "Spain holds its first democratic elections",
+        "description": "Spain held its first democratic elections since the Second Republic, with the Union of the Democratic Centre led by Adolfo Suárez winning, marking the culmination of the Transition.",
+        "year": 1977
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Cecília",
+        "type": "Virgem e Mártir",
+        "description": "Mártir romana do século II ou III, patrona dos músicos, cantores, luthiers e da música sacra. Segundo a tradição, ela cantava a Deus no seu coração enquanto os instrumentos tocavam no seu casamento. A sua basílica em Roma foi construída sobre a casa onde foi martirizada."
+      },
+      {
+        "name": "São Clemente I",
+        "type": "Papa e Mártir",
+        "description": "Quarto papa da história (88–99 d.C.), considerado mártir pela tradição, conhecido pela sua Carta aos Coríntios — um dos documentos cristãos mais antigos fora do Novo Testamento."
+      },
+      {
+        "name": "São Filêmon",
+        "type": "Mártir",
+        "description": "Mártir do século III cujo destino São Paulo abordou na Epístola a Filêmon, um dos textos mais pessoais do Novo Testamento sobre a fraternidade cristã."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Música (Santa Cecília)",
+        "description": "Festividade musical em honra da patrona dos músicos, celebrada com concertos, atuações e festivais em igrejas, conservatórios e escolas de música em todo o mundo."
+      },
+      {
+        "name": "Dia do Professor (vários países latino-americanos)",
+        "description": "Países como Chile e Colômbia celebram o Dia do Professor em homenagem aos educadores e ao seu papel formativo na sociedade."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A música expressa o que não pode ser dito com palavras e o que não pode permanecer em silêncio.",
+      "author": "Victor Hugo",
+      "context": "O escritor francês, poeta e romancista, expressou a dimensão espiritual da música que Santa Cecília representa: a voz que transcende a linguagem."
+    },
+    "motivationalQuote": {
+      "text": "A música dá cor ao ar do momento.",
+      "author": "Karl Lagerfeld"
+    },
+    "births": [
+      {
+        "name": "George Eliot",
+        "description": "Pseudônimo de Mary Anne Evans, romancista inglesa vitoriana e autora de Middlemarch, O Moinho no Floss e Silas Marner, considerada uma das maiores escritoras da língua inglesa.",
+        "year": 1819
+      },
+      {
+        "name": "Charles de Gaulle",
+        "description": "General e estadista francês, fundador da Quinta República Francesa, líder da Resistência francesa durante a Segunda Guerra Mundial e presidente da França (1959–1969).",
+        "year": 1890
+      },
+      {
+        "name": "Scarlett Johansson",
+        "description": "Atriz americana, a atriz mais bem paga do mundo em 2018 e 2019, conhecida pela saga Vingadores, Match Point e História de um Casamento.",
+        "year": 1984
+      }
+    ],
+    "events": [
+      {
+        "title": "Assassinato de John F. Kennedy",
+        "description": "O presidente dos Estados Unidos John F. Kennedy foi assassinado em Dallas, Texas, enquanto desfilava em comitiva pela cidade. Lee Harvey Oswald foi preso como principal suspeito.",
+        "year": 1963
+      },
+      {
+        "title": "Morte de C.S. Lewis em Oxford",
+        "description": "O escritor e apologista cristão C.S. Lewis, autor das Crônicas de Nárnia e Cristianismo Puro e Simples, morreu em Oxford no mesmo dia em que Kennedy foi assassinado e Aldous Huxley morreu.",
+        "year": 1963
+      },
+      {
+        "title": "Espanha realiza as suas primeiras eleições democráticas",
+        "description": "A Espanha realizou as suas primeiras eleições democráticas desde a Segunda República, com a vitória da União de Centro Democrático liderada por Adolfo Suárez, culminando a Transição.",
+        "year": 1977
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Cecília",
+        "type": "Verge i Màrtir",
+        "description": "Màrtir romana del segle II o III, patrona dels músics, cantants, luthiers i de la música sacra. Segons la tradició, cantava a Déu en el seu cor mentre els instruments tocaven al seu casament. La seva basílica a Roma va ser construïda sobre la casa on va ser martiritzada."
+      },
+      {
+        "name": "Sant Climent I",
+        "type": "Papa i Màrtir",
+        "description": "Quart papa de la història (88–99 dC), considerat màrtir per la tradició, conegut per la seva Carta als Corintis — un dels documents cristians més antics fora del Nou Testament."
+      },
+      {
+        "name": "Sant Filemó",
+        "type": "Màrtir",
+        "description": "Màrtir del segle III el destí del qual Sant Pau va abordar a l'Epístola a Filemó, un dels textos més personals del Nou Testament sobre la fraternitat cristiana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Música (Santa Cecília)",
+        "description": "Festivitat musical en honor a la patrona dels músics, celebrada amb concerts, actuacions i festivals a esglésies, conservatoris i escoles de música de tot el món."
+      },
+      {
+        "name": "Dia del Mestre (diversos països llatinoamericans)",
+        "description": "Països com Xile i Colòmbia celebren el Dia del Mestre en homenatge als docents i al seu paper formatiu en la societat."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La música expressa el que no pot dir-se amb paraules i el que no pot romandre en silenci.",
+      "author": "Victor Hugo",
+      "context": "L'escriptor francès, poeta i novel·lista, va expressar la dimensió espiritual de la música que Santa Cecília representa: la veu que transcendeix el llenguatge."
+    },
+    "motivationalQuote": {
+      "text": "La música dóna color a l'aire del moment.",
+      "author": "Karl Lagerfeld"
+    },
+    "births": [
+      {
+        "name": "George Eliot",
+        "description": "Pseudònim de Mary Anne Evans, novel·lista anglesa victoriana i autora de Middlemarch, El molí del Floss i Silas Marner, considerada una de les grans escriptores de la llengua anglesa.",
+        "year": 1819
+      },
+      {
+        "name": "Charles de Gaulle",
+        "description": "General i estadista francès, fundador de la Cinquena República Francesa, líder de la Resistència francesa durant la Segona Guerra Mundial i president de França (1959–1969).",
+        "year": 1890
+      },
+      {
+        "name": "Scarlett Johansson",
+        "description": "Actriu americana, l'actriu més ben pagada del món el 2018 i 2019, coneguda per la saga dels Venjadors, Match Point i Història de un matrimoni.",
+        "year": 1984
+      }
+    ],
+    "events": [
+      {
+        "title": "Assassinat de John F. Kennedy",
+        "description": "El president dels Estats Units John F. Kennedy va ser assassinat a Dallas (Texas) mentre circulava en comitiva per la ciutat. Lee Harvey Oswald va ser detingut com a principal sospitós.",
+        "year": 1963
+      },
+      {
+        "title": "Mort de C.S. Lewis a Oxford",
+        "description": "L'escriptor i apologista cristià C.S. Lewis, autor de Les Cròniques de Nàrnia i El Cristianisme Pur i Simple, va morir a Oxford el mateix dia en que Kennedy va ser assassinat i va morir Aldous Huxley.",
+        "year": 1963
+      },
+      {
+        "title": "Espanya celebra les seves primeres eleccions democràtiques",
+        "description": "Espanya va celebrar les seves primeres eleccions democràtiques des de la Segona República, amb la victòria de la Unió de Centre Democràtic liderada per Adolfo Suárez, culminant la Transició.",
+        "year": 1977
+      }
+    ]
+  }
+}

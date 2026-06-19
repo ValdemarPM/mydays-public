@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-27",
+  "es": {
+    "saints": [
+      { "name": "San Ruperto de Salzburgo", "type": "Obispo misionero", "description": "Obispo y apóstol de Baviera y Austria en el siglo VII-VIII, fundador del monasterio de San Pedro en Salzburgo y de la ciudad misma; patrono de Salzburgo y de los mineros de sal." },
+      { "name": "San Juan Damasceno", "type": "Doctor", "description": "Teólogo y poeta cristiano del siglo VIII, último de los Padres de la Iglesia del Este, gran defensor del culto a las imágenes frente al iconoclasmo del Imperio Bizantino." },
+      { "name": "San Alejandrino de Alejandría", "type": "Patriarca", "description": "Patriarca de Alejandría del siglo IV, sucesor de San Aquilas, que presidió el Primer Concilio de Nicea en 325 y luchó contra la herejía arriana." }
+    ],
+    "observances": [
+      { "name": "Día del Teatro Mundial", "description": "Jornada proclamada por el Instituto Internacional del Teatro (ITI) en 1961 para celebrar el arte teatral en todas sus formas y reflexionar sobre su papel en la sociedad y la paz mundial." },
+      { "name": "Aniversario del mayor accidente aéreo de la historia", "description": "El 27 de marzo de 1977, dos Boeing 747 colisionaron en la pista del aeropuerto de Los Rodeos (Tenerife), causando 583 muertes en la mayor catástrofe aérea de la historia." }
+    ],
+    "historicalQuote": {
+      "text": "El teatro es la vida misma bajo una luz más intensa.",
+      "author": "Tennessee Williams",
+      "context": "Tennessee Williams, uno de los grandes dramaturgos americanos, dedicó su vida a explorar la condición humana en el escenario. Esta reflexión sobre el teatro resume su visión de este arte como un espejo iluminado de la realidad."
+    },
+    "motivationalQuote": {
+      "text": "El actor más grande es aquel que puede hacer que el público llore y ría en la misma obra.",
+      "author": "Charlie Chaplin"
+    },
+    "births": [
+      { "name": "Quentin Tarantino", "description": "Director y guionista americano, autor de películas como 'Pulp Fiction' (1994), 'Kill Bill' y 'Django desencadenado', conocido por su estilo irreverente, sus diálogos brillantes y sus referencias cinéfilas.", "year": 1963 },
+      { "name": "Mariah Carey", "description": "Cantante americana, una de las voces más reconocibles del pop y el R&B de los años 90 y 2000, conocida por su prodigioso rango vocal de cinco octavas y éxitos como 'All I Want for Christmas Is You'.", "year": 1969 },
+      { "name": "Fergie (Stacy Ferguson)", "description": "Cantante y compositora americana, miembro de los Black Eyed Peas, con éxitos en solitario como 'Big Girls Don't Cry' y 'Glamorous'.", "year": 1975 }
+    ],
+    "events": [
+      { "title": "Catástrofe aérea de Los Rodeos (Tenerife)", "description": "Dos Boeing 747, uno de KLM y otro de Pan Am, chocaron en la pista del aeropuerto de Los Rodeos en Tenerife en condiciones de niebla densa, matando a 583 personas en la mayor catástrofe de la historia de la aviación.", "year": 1977 },
+      { "title": "Se estrena 'El planeta de los simios'", "description": "La película de ciencia ficción 'El planeta de los simios' con Charlton Heston se estrenó en Estados Unidos, convirtiéndose en un icono de la ciencia ficción cinematográfica y generando una larga franquicia.", "year": 1968 },
+      { "title": "El Irak de Sadam Husein invade Kuwait", "description": "Irak lanzó una invasión masiva de Kuwait, desencadenando la Crisis del Golfo que llevaría a la Guerra del Golfo Pérsico de 1991.", "year": 1990 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Rupert of Salzburg", "type": "Missionary bishop", "description": "Seventh–eighth-century Bishop and apostle of Bavaria and Austria, founder of the St Peter's Abbey in Salzburg and of the city itself; patron of Salzburg and of salt miners." },
+      { "name": "Saint John of Damascus", "type": "Doctor", "description": "Eighth-century Christian theologian and poet, last of the Eastern Church Fathers, great defender of the veneration of images against Byzantine Iconoclasm." },
+      { "name": "Saint Alexander of Alexandria", "type": "Patriarch", "description": "Fourth-century Patriarch of Alexandria, successor of Saint Achillas, who presided over the First Council of Nicaea in 325 and fought against the Arian heresy." }
+    ],
+    "observances": [
+      { "name": "World Theatre Day", "description": "A day proclaimed by the International Theatre Institute (ITI) in 1961 to celebrate the art of theatre in all its forms and to reflect on its role in society and world peace." },
+      { "name": "Anniversary of the worst aviation disaster in history", "description": "On 27 March 1977, two Boeing 747s collided on the runway of Los Rodeos airport (Tenerife), killing 583 people in the deadliest aviation disaster in history." }
+    ],
+    "historicalQuote": {
+      "text": "The theatre is life itself under a brighter light.",
+      "author": "Tennessee Williams",
+      "context": "Tennessee Williams, one of America's great playwrights, devoted his life to exploring the human condition on stage. This reflection on theatre encapsulates his vision of the art form as an illuminated mirror of reality."
+    },
+    "motivationalQuote": {
+      "text": "The greatest actor is one who can make the audience cry and laugh in the same play.",
+      "author": "Charlie Chaplin"
+    },
+    "births": [
+      { "name": "Quentin Tarantino", "description": "American director and screenwriter, maker of films such as 'Pulp Fiction' (1994), 'Kill Bill' and 'Django Unchained', known for his irreverent style, brilliant dialogue and cinephile references.", "year": 1963 },
+      { "name": "Mariah Carey", "description": "American singer, one of the most recognisable voices in pop and R&B of the 1990s and 2000s, known for her prodigious five-octave vocal range and hits such as 'All I Want for Christmas Is You'.", "year": 1969 },
+      { "name": "Fergie (Stacy Ferguson)", "description": "American singer and songwriter, member of the Black Eyed Peas, with solo hits such as 'Big Girls Don't Cry' and 'Glamorous'.", "year": 1975 }
+    ],
+    "events": [
+      { "title": "Tenerife airport disaster", "description": "Two Boeing 747s — one KLM, one Pan Am — collided on the runway of Los Rodeos airport in Tenerife in dense fog, killing 583 people in the deadliest disaster in aviation history.", "year": 1977 },
+      { "title": "'Planet of the Apes' premieres", "description": "The science fiction film 'Planet of the Apes' starring Charlton Heston was released in the United States, becoming an icon of cinematic science fiction and spawning a long franchise.", "year": 1968 },
+      { "title": "Iraq's Saddam Hussein invades Kuwait", "description": "Iraq launched a massive invasion of Kuwait, triggering the Gulf Crisis that would lead to the Gulf War of 1991.", "year": 1990 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Ruperto de Salzburgo", "type": "Bispo missionário", "description": "Bispo e apóstolo da Baviera e da Áustria nos séculos VII-VIII, fundador do mosteiro de São Pedro em Salzburgo e da própria cidade; patrono de Salzburgo e dos mineiros de sal." },
+      { "name": "São João Damasceno", "type": "Doutor", "description": "Teólogo e poeta cristão do século VIII, último dos Padres da Igreja do Oriente, grande defensor do culto às imagens frente ao iconoclasmo do Império Bizantino." },
+      { "name": "São Alexandre de Alexandria", "type": "Patriarca", "description": "Patriarca de Alexandria do século IV, sucessor de São Aquilas, que presidiu o Primeiro Concílio de Niceia em 325 e lutou contra a heresia ariana." }
+    ],
+    "observances": [
+      { "name": "Dia Mundial do Teatro", "description": "Jornada proclamada pelo Instituto Internacional do Teatro (ITI) em 1961 para celebrar a arte teatral em todas as suas formas e refletir sobre o seu papel na sociedade e na paz mundial." },
+      { "name": "Aniversário do maior acidente aéreo da história", "description": "Em 27 de março de 1977, dois Boeing 747 colidiram na pista do aeroporto de Los Rodeos (Tenerife), causando 583 mortes na maior catástrofe da história da aviação." }
+    ],
+    "historicalQuote": {
+      "text": "O teatro é a própria vida sob uma luz mais intensa.",
+      "author": "Tennessee Williams",
+      "context": "Tennessee Williams, um dos grandes dramaturgos americanos, dedicou a vida a explorar a condição humana no palco. Esta reflexão sobre o teatro resume a sua visão desta arte como um espelho iluminado da realidade."
+    },
+    "motivationalQuote": {
+      "text": "O maior ator é aquele que pode fazer o público chorar e rir na mesma peça.",
+      "author": "Charlie Chaplin"
+    },
+    "births": [
+      { "name": "Quentin Tarantino", "description": "Diretor e roteirista americano, autor de filmes como 'Pulp Fiction' (1994), 'Kill Bill' e 'Django Livre', conhecido pelo seu estilo irreverente, diálogos brilhantes e referências cinéfilas.", "year": 1963 },
+      { "name": "Mariah Carey", "description": "Cantora americana, uma das vozes mais reconhecíveis do pop e do R&B dos anos 90 e 2000, conhecida pelo seu prodigioso alcance vocal de cinco oitavas e sucessos como 'All I Want for Christmas Is You'.", "year": 1969 },
+      { "name": "Fergie (Stacy Ferguson)", "description": "Cantora e compositora americana, membro dos Black Eyed Peas, com sucessos a solo como 'Big Girls Don't Cry' e 'Glamorous'.", "year": 1975 }
+    ],
+    "events": [
+      { "title": "Catástrofe aérea de Los Rodeos (Tenerife)", "description": "Dois Boeing 747, um da KLM e outro da Pan Am, colidiram na pista do aeroporto de Los Rodeos em Tenerife em condições de névoa densa, matando 583 pessoas na maior catástrofe da história da aviação.", "year": 1977 },
+      { "title": "Estreia de 'O Planeta dos Macacos'", "description": "O filme de ficção científica 'O Planeta dos Macacos' com Charlton Heston estreou nos Estados Unidos, tornando-se um ícone da ficção científica cinematográfica e gerando uma longa franquia.", "year": 1968 },
+      { "title": "O Iraque de Sadam Hussein invade o Kuwait", "description": "O Iraque lançou uma invasão massiva do Kuwait, desencadeando a Crise do Golfo que levaria à Guerra do Golfo de 1991.", "year": 1990 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Rupert de Salzburg", "type": "Bisbe missioner", "description": "Bisbe i apòstol de Baviera i Àustria als segles VII-VIII, fundador del monestir de Sant Pere a Salzburg i de la mateixa ciutat; patró de Salzburg i dels miners de sal." },
+      { "name": "Sant Joan Damascè", "type": "Doctor", "description": "Teòleg i poeta cristià del segle VIII, darrer dels Pares de l'Església Oriental, gran defensor del culte a les imatges davant l'iconoclasme de l'Imperi Bizantí." },
+      { "name": "Sant Alexandre d'Alexandria", "type": "Patriarca", "description": "Patriarca d'Alexandria del segle IV, successor de Sant Aquil·les, que va presidir el Primer Concili de Nicea el 325 i va lluitar contra l'heretgia arriana." }
+    ],
+    "observances": [
+      { "name": "Dia Mundial del Teatre", "description": "Jornada proclamada per l'Institut Internacional del Teatre (ITI) el 1961 per celebrar l'art teatral en totes les seves formes i reflexionar sobre el seu paper en la societat i la pau mundial." },
+      { "name": "Aniversari del major accident aeri de la història", "description": "El 27 de març de 1977, dos Boeing 747 van col·lidir a la pista de l'aeroport de Los Rodeos (Tenerife), causant 583 morts en la major catàstrofe de la història de l'aviació." }
+    ],
+    "historicalQuote": {
+      "text": "El teatre és la vida mateixa sota una llum més intensa.",
+      "author": "Tennessee Williams",
+      "context": "Tennessee Williams, un dels grans dramaturgs americans, va dedicar la vida a explorar la condició humana a l'escenari. Aquesta reflexió sobre el teatre resumeix la seva visió d'aquesta art com un mirall il·luminat de la realitat."
+    },
+    "motivationalQuote": {
+      "text": "El millor actor és aquell que pot fer plorar i riure el públic a la mateixa obra.",
+      "author": "Charlie Chaplin"
+    },
+    "births": [
+      { "name": "Quentin Tarantino", "description": "Director i guionista americà, autor de pel·lícules com 'Pulp Fiction' (1994), 'Kill Bill' i 'Django Desencadenado', conegut pel seu estil irreverent, els seus brillants diàlegs i les seves referències cinèfiles.", "year": 1963 },
+      { "name": "Mariah Carey", "description": "Cantant americana, una de les veus més reconeixibles del pop i el R&B dels anys 90 i 2000, coneguda pel seu prodigiós registre vocal de cinc octaves i èxits com 'All I Want for Christmas Is You'.", "year": 1969 },
+      { "name": "Fergie (Stacy Ferguson)", "description": "Cantant i compositora americana, membre dels Black Eyed Peas, amb èxits en solitari com 'Big Girls Don't Cry' i 'Glamorous'.", "year": 1975 }
+    ],
+    "events": [
+      { "title": "Catàstrofe aèria de Los Rodeos (Tenerife)", "description": "Dos Boeing 747, un de KLM i un altre de Pan Am, van col·lidir a la pista de l'aeroport de Los Rodeos a Tenerife en condicions de boira densa, matant 583 persones en la major catàstrofe de la història de l'aviació.", "year": 1977 },
+      { "title": "S'estrena 'El planeta dels simis'", "description": "La pel·lícula de ciència ficció 'El planeta dels simis' amb Charlton Heston va estrenar als Estats Units, convertint-se en un icona de la ciència ficció cinematogràfica i generant una llarga franquícia.", "year": 1968 },
+      { "title": "L'Iraq de Saddam Hussein envaeix Kuwait", "description": "L'Iraq va llançar una invasió massiva de Kuwait, desencadenant la Crisi del Golf que portaria a la Guerra del Golf de 1991.", "year": 1990 }
+    ]
+  }
+}

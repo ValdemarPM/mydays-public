@@ -1,0 +1,271 @@
+{
+  "date": "2025-07-29",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Marta",
+        "type": "Discípula de Jesús",
+        "description": "Hermana de María y Lázaro de Betania, amigos íntimos de Jesús. Según el Evangelio de Juan, fue Marta quien proclamó su fe en Jesús como el Mesías antes de la resurrección de su hermano. Su nombre ha quedado asociado a la hospitalidad y al servicio activo."
+      },
+      {
+        "name": "San Olaf de Noruega",
+        "type": "Rey y Mártir",
+        "description": "Rey de Noruega (1015–1028) que impulsó la cristianización del país y fue canonizado en 1164. Murió en la batalla de Stiklestad (1030) luchando por recuperar su trono. Es el patrono de Noruega y el 29 de julio es festivo nacional en algunos territorios noruegos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional del Tigre",
+        "description": "Establecido en 2010 en la Cumbre del Tigre de San Petersburgo, el 29 de julio busca concienciar sobre la necesidad de conservar al tigre salvaje, cuya población ha caído un 97% en el último siglo. Quedan menos de 4.000 tigres en libertad."
+      },
+      {
+        "name": "Día de San Olaf (Noruega y países escandinavos)",
+        "description": "La festividad de San Olaf (Olsok) es un día de gran importancia en Noruega y en las comunidades escandinavas de todo el mundo. Se celebra con procesiones, juegos medievales y representaciones teatrales al aire libre."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Señor, si hubieras estado aquí, mi hermano no habría muerto.",
+      "author": "Marta de Betania (según el Evangelio de Juan)",
+      "context": "Marta, cuya festividad se celebra hoy, pronunció estas palabras al encuentro con Jesús tras la muerte de su hermano Lázaro. A continuación, fue ella quien profesó la fe más explícita de los Evangelios: 'Yo creo que tú eres el Cristo, el Hijo de Dios'."
+    },
+    "motivationalQuote": {
+      "text": "No cuentes los días; haz que los días cuenten.",
+      "author": "Muhammad Ali"
+    },
+    "births": [
+      {
+        "name": "Benito Mussolini",
+        "description": "Político italiano (1883–1945), fundador del fascismo y Duce de Italia de 1922 a 1943. Aliado de Hitler durante la Segunda Guerra Mundial, fue capturado y ejecutado por partisanos italianos el 28 de abril de 1945.",
+        "year": 1883
+      },
+      {
+        "name": "David Warner",
+        "description": "Actor británico reconocido por su amplio registro dramático. Conocido por sus papeles en Tom Jones (1963), The Omen (1976) y Titanic (1997). Premio BAFTA por su papel en la película Morgan (1966).",
+        "year": 1941
+      },
+      {
+        "name": "Ken Burns",
+        "description": "Director de documentales estadounidense, conocido por sus series históricas para PBS como La Guerra Civil, Jazz y Baseball. Sus documentales sobre la historia de los Estados Unidos son referente del género.",
+        "year": 1953
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera transmisión de radio de la BBC",
+        "description": "El 29 de julio de 1922, la British Broadcasting Company (BBC) realizó su primera transmisión de radio, marcando el inicio de la radiodifusión pública en el Reino Unido y sentando las bases de un modelo de servicio público que influiría en el mundo entero.",
+        "year": 1922
+      },
+      {
+        "title": "Boda del príncipe Carlos y Lady Di",
+        "description": "El 29 de julio de 1981, el príncipe Carlos de Gales y Lady Diana Spencer se casaron en la catedral de San Pablo de Londres. La boda fue seguida por 750 millones de telespectadores en todo el mundo y fue calificada de 'cuento de hadas'.",
+        "year": 1981
+      },
+      {
+        "title": "Van Gogh muere en Auvers-sur-Oise",
+        "description": "El 29 de julio de 1890, el pintor holandés Vincent van Gogh murió en Auvers-sur-Oise (Francia), dos días después de haberse disparado en el pecho. Tenía 37 años. En vida vendió solo un cuadro; hoy sus obras son las más cotizadas del mundo.",
+        "year": 1890
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Martha",
+        "type": "Disciple of Jesus",
+        "description": "Sister of Mary and Lazarus of Bethany, close friends of Jesus. According to the Gospel of John, it was Martha who proclaimed her faith in Jesus as the Messiah before the resurrection of her brother. Her name has become synonymous with hospitality and active service."
+      },
+      {
+        "name": "Saint Olaf of Norway",
+        "type": "King and Martyr",
+        "description": "King of Norway (1015–1028) who promoted the Christianisation of the country and was canonised in 1164. He died at the Battle of Stiklestad (1030) fighting to reclaim his throne. He is the patron of Norway and 29 July is a national holiday in some Norwegian territories."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Tiger Day",
+        "description": "Established in 2010 at the Saint Petersburg Tiger Summit, 29 July aims to raise awareness of the need to conserve the wild tiger, whose population has fallen 97% in the past century. Fewer than 4,000 tigers remain in the wild."
+      },
+      {
+        "name": "Saint Olaf's Day (Norway and Scandinavian countries)",
+        "description": "The feast of Saint Olaf (Olsok) is a day of great importance in Norway and Scandinavian communities around the world. It is celebrated with processions, medieval games, and outdoor theatrical performances."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Lord, if you had been here, my brother would not have died.",
+      "author": "Martha of Bethany (according to the Gospel of John)",
+      "context": "Martha, whose feast is celebrated today, spoke these words when she met Jesus after the death of her brother Lazarus. She then uttered the most explicit profession of faith in the Gospels: 'I believe that you are the Christ, the Son of God'."
+    },
+    "motivationalQuote": {
+      "text": "Don't count the days; make the days count.",
+      "author": "Muhammad Ali"
+    },
+    "births": [
+      {
+        "name": "Benito Mussolini",
+        "description": "Italian politician (1883–1945), founder of fascism and Duce of Italy from 1922 to 1943. An ally of Hitler during the Second World War, he was captured and executed by Italian partisans on 28 April 1945.",
+        "year": 1883
+      },
+      {
+        "name": "David Warner",
+        "description": "British actor renowned for his wide dramatic range. Known for his roles in Tom Jones (1963), The Omen (1976), and Titanic (1997). BAFTA winner for his role in the film Morgan (1966).",
+        "year": 1941
+      },
+      {
+        "name": "Ken Burns",
+        "description": "American documentary filmmaker, known for his historical series for PBS including The Civil War, Jazz, and Baseball. His documentaries on American history are a benchmark of the genre.",
+        "year": 1953
+      }
+    ],
+    "events": [
+      {
+        "title": "First BBC radio broadcast",
+        "description": "On 29 July 1922, the British Broadcasting Company (BBC) made its first radio transmission, marking the beginning of public broadcasting in the United Kingdom and laying the foundations of a public service model that would influence the entire world.",
+        "year": 1922
+      },
+      {
+        "title": "Wedding of Prince Charles and Lady Diana",
+        "description": "On 29 July 1981, Prince Charles of Wales and Lady Diana Spencer were married at St Paul's Cathedral in London. The wedding was watched by 750 million television viewers worldwide and was described as a 'fairy tale'.",
+        "year": 1981
+      },
+      {
+        "title": "Van Gogh dies in Auvers-sur-Oise",
+        "description": "On 29 July 1890, Dutch painter Vincent van Gogh died in Auvers-sur-Oise, France, two days after shooting himself in the chest. He was 37 years old. In his lifetime he sold only one painting; today his works are the most expensive in the world.",
+        "year": 1890
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Marta",
+        "type": "Discípula de Jesus",
+        "description": "Irmã de Maria e Lázaro de Betânia, amigos íntimos de Jesus. Segundo o Evangelho de João, foi Marta quem proclamou a sua fé em Jesus como o Messias antes da ressurreição do seu irmão. O seu nome ficou associado à hospitalidade e ao serviço ativo."
+      },
+      {
+        "name": "São Olavo da Noruega",
+        "type": "Rei e Mártir",
+        "description": "Rei da Noruega (1015–1028) que promoveu a cristianização do país e foi canonizado em 1164. Morreu na batalha de Stiklestad (1030) lutando para recuperar o seu trono. É o patrono da Noruega e o 29 de julho é feriado nacional em alguns territórios noruegueses."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional do Tigre",
+        "description": "Estabelecido em 2010 na Cúpula do Tigre de São Petersburgo, o 29 de julho visa sensibilizar sobre a necessidade de conservar o tigre selvagem, cuja população caiu 97% no último século. Restam menos de 4.000 tigres em liberdade."
+      },
+      {
+        "name": "Dia de São Olavo (Noruega e países escandinavos)",
+        "description": "A festividade de São Olavo (Olsok) é um dia de grande importância na Noruega e nas comunidades escandinavas de todo o mundo. É celebrado com procissões, jogos medievais e representações teatrais ao ar livre."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Senhor, se tivesses estado aqui, meu irmão não teria morrido.",
+      "author": "Marta de Betânia (segundo o Evangelho de João)",
+      "context": "Marta, cuja festividade se celebra hoje, pronunciou estas palavras ao encontrar Jesus após a morte do seu irmão Lázaro. Em seguida, foi ela quem fez a profissão de fé mais explícita dos Evangelhos: 'Eu creio que tu és o Cristo, o Filho de Deus'."
+    },
+    "motivationalQuote": {
+      "text": "Não conte os dias; faça os dias contarem.",
+      "author": "Muhammad Ali"
+    },
+    "births": [
+      {
+        "name": "Benito Mussolini",
+        "description": "Político italiano (1883–1945), fundador do fascismo e Duce da Itália de 1922 a 1943. Aliado de Hitler durante a Segunda Guerra Mundial, foi capturado e executado por partisanos italianos em 28 de abril de 1945.",
+        "year": 1883
+      },
+      {
+        "name": "David Warner",
+        "description": "Ator britânico reconhecido pelo seu vasto registo dramático. Conhecido pelos seus papéis em Tom Jones (1963), A Profecia (1976) e Titanic (1997). Vencedor do BAFTA pelo seu papel no filme Morgan (1966).",
+        "year": 1941
+      },
+      {
+        "name": "Ken Burns",
+        "description": "Realizador de documentários americano, conhecido pelas suas séries históricas para a PBS como A Guerra Civil, Jazz e Baseball. Os seus documentários sobre a história dos Estados Unidos são referência do género.",
+        "year": 1953
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeira transmissão de rádio da BBC",
+        "description": "Em 29 de julho de 1922, a British Broadcasting Company (BBC) realizou a sua primeira transmissão de rádio, marcando o início da radiodifusão pública no Reino Unido e estabelecendo as bases de um modelo de serviço público que influenciaria o mundo inteiro.",
+        "year": 1922
+      },
+      {
+        "title": "Casamento do príncipe Carlos e Lady Di",
+        "description": "Em 29 de julho de 1981, o príncipe Carlos do País de Gales e Lady Diana Spencer casaram-se na Catedral de São Paulo em Londres. O casamento foi seguido por 750 milhões de telespectadores em todo o mundo e foi apelidado de 'conto de fadas'.",
+        "year": 1981
+      },
+      {
+        "title": "Van Gogh morre em Auvers-sur-Oise",
+        "description": "Em 29 de julho de 1890, o pintor holandês Vincent van Gogh morreu em Auvers-sur-Oise (França), dois dias depois de se ter disparado no peito. Tinha 37 anos. Em vida vendeu apenas um quadro; hoje as suas obras são as mais cotadas do mundo.",
+        "year": 1890
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Marta",
+        "type": "Deixebla de Jesús",
+        "description": "Germana de Maria i Llàtzer de Betània, amics íntims de Jesús. Segons l'Evangeli de Joan, va ser Marta qui va proclamar la seva fe en Jesús com el Messies abans de la resurrecció del seu germà. El seu nom ha quedat associat a l'hospitalitat i al servei actiu."
+      },
+      {
+        "name": "Sant Olaf de Noruega",
+        "type": "Rei i Màrtir",
+        "description": "Rei de Noruega (1015–1028) que va impulsar la cristianització del país i va ser canonitzat el 1164. Va morir a la batalla de Stiklestad (1030) lluitant per recuperar el seu tron. És el patró de Noruega i el 29 de juliol és festiu nacional en alguns territoris noruecs."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional del Tigre",
+        "description": "Establert el 2010 a la Cimera del Tigre de Sant Petersburg, el 29 de juliol vol sensibilitzar sobre la necessitat de conservar el tigre salvatge, la població del qual ha caigut un 97% en l'últim segle. Queden menys de 4.000 tigres en llibertat."
+      },
+      {
+        "name": "Dia de Sant Olaf (Noruega i països escandinaus)",
+        "description": "La festivitat de Sant Olaf (Olsok) és un dia de gran importància a Noruega i a les comunitats escandinaves de tot el món. Es celebra amb processons, jocs medievals i representacions teatrals a l'aire lliure."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Senyor, si haguessis estat aquí, el meu germà no hauria mort.",
+      "author": "Marta de Betània (segons l'Evangeli de Joan)",
+      "context": "Marta, la festivitat de la qual se celebra avui, va pronunciar aquestes paraules en trobar-se amb Jesús després de la mort del seu germà Llàtzer. Tot seguit, va ser ella qui va fer la professió de fe més explícita dels Evangelis: 'Jo crec que tu ets el Crist, el Fill de Déu'."
+    },
+    "motivationalQuote": {
+      "text": "No comptis els dies; fes que els dies comptin.",
+      "author": "Muhammad Ali"
+    },
+    "births": [
+      {
+        "name": "Benito Mussolini",
+        "description": "Polític italià (1883–1945), fundador del feixisme i Duce d'Itàlia de 1922 a 1943. Aliat de Hitler durant la Segona Guerra Mundial, va ser capturat i executat per partisans italians el 28 d'abril de 1945.",
+        "year": 1883
+      },
+      {
+        "name": "David Warner",
+        "description": "Actor britànic reconegut pel seu ampli registre dramàtic. Conegut pels seus papers a Tom Jones (1963), La Profecia (1976) i Titanic (1997). Premi BAFTA pel seu paper en la pel·lícula Morgan (1966).",
+        "year": 1941
+      },
+      {
+        "name": "Ken Burns",
+        "description": "Director de documentals americà, conegut per les seves sèries històriques per a la PBS com La Guerra Civil, Jazz i Baseball. Els seus documentals sobre la història dels Estats Units són referència del gènere.",
+        "year": 1953
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera transmissió de ràdio de la BBC",
+        "description": "El 29 de juliol de 1922, la British Broadcasting Company (BBC) va realitzar la seva primera transmissió de ràdio, marcant l'inici de la radiodifusió pública al Regne Unit i establint les bases d'un model de servei públic que influiria en tot el món.",
+        "year": 1922
+      },
+      {
+        "title": "Casament del príncep Carles i Lady Di",
+        "description": "El 29 de juliol de 1981, el príncep Carles de Gal·les i Lady Diana Spencer es van casar a la catedral de Sant Pau de Londres. El casament va ser seguit per 750 milions de televidents a tot el món i va ser qualificat de 'conte de fades'.",
+        "year": 1981
+      },
+      {
+        "title": "Van Gogh mor a Auvers-sur-Oise",
+        "description": "El 29 de juliol de 1890, el pintor holandès Vincent van Gogh va morir a Auvers-sur-Oise (França), dos dies després d'haver-se disparat al pit. Tenia 37 anys. En vida va vendre un sol quadre; avui les seves obres són les més cotitzades del món.",
+        "year": 1890
+      }
+    ]
+  }
+}

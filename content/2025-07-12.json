@@ -1,0 +1,291 @@
+{
+  "date": "2025-07-12",
+  "es": {
+    "saints": [
+      {
+        "name": "San Juan Gualberto",
+        "type": "Abad y fundador",
+        "description": "Noble florentino del siglo XI que perdonó al asesino de su hermano y fundó la Orden Vallombrosana (OSB Vallis Umbrosae), rama reformada de los benedictinos. Patrón de los guardas forestales."
+      },
+      {
+        "name": "San Epifanio de Pavia",
+        "type": "Obispo",
+        "description": "Obispo de Pavia en el siglo V, conocido por su habilidad diplomática al mediar entre reyes bárbaros y el Imperio romano. Negoció la liberación de miles de rehenes lombardos ante Odoacro y los visigodos."
+      },
+      {
+        "name": "Santa Verónica",
+        "type": "Piadosa mujer",
+        "description": "Según la tradición cristiana, fue la mujer que enjugó el rostro de Jesús en el camino al Calvario y en el paño quedó grabada la imagen de su rostro (la Verónica). Patrona de la lavandería y los fotógrafos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de Kiribati",
+        "description": "Kiribati celebra su independencia del Reino Unido, proclamada el 12 de julio de 1979. Es la fiesta nacional del archipiélago del Pacífico, que fue el primer país en dar la bienvenida al año 2000."
+      },
+      {
+        "name": "Día de los Celtas (Irlanda del Norte)",
+        "description": "En Irlanda del Norte, el 12 de julio es la fiesta protestante del Orange Order, que conmemora la Batalla del Boyne (1690). Es una fecha políticamente sensible que ha generado tensiones históricas."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El perdón no cambia el pasado, pero amplía el futuro.",
+      "author": "Paul Boese",
+      "context": "San Juan Gualberto, cuya memoria se celebra hoy, perdonó al asesino de su hermano antes de fundar su orden monástica. Este gesto de misericordia lo convirtió en símbolo del poder transformador del perdón."
+    },
+    "motivationalQuote": {
+      "text": "La vida es lo que pasa mientras estás ocupado haciendo otros planes.",
+      "author": "John Lennon"
+    },
+    "births": [
+      {
+        "name": "Julio César",
+        "description": "General, estadista y escritor romano (100 a.C.–44 a.C.). Conquistó la Galia, cruzó el Rubicón y se convirtió en dictador perpetuo de Roma. Su asesinato en los Idus de Marzo (44 a.C.) marcó el fin de la República romana.",
+        "year": -100
+      },
+      {
+        "name": "Pablo Neruda",
+        "description": "Poeta chileno considerado uno de los más grandes del siglo XX. Premio Nobel de Literatura en 1971, autor de Veinte poemas de amor y una canción desesperada y el Canto general. Símbolo de la poesía latinoamericana.",
+        "year": 1904
+      },
+      {
+        "name": "Malala Yousafzai",
+        "description": "Activista paquistaní por la educación de las niñas, superviviente de un atentado talibán en 2012. En 2014 recibió el Premio Nobel de la Paz, convirtiéndose en la persona más joven en recibir ese galardón.",
+        "year": 1997
+      }
+    ],
+    "events": [
+      {
+        "title": "Nacimiento de Julio César",
+        "description": "El 12 de julio del año 100 a.C. nació en Roma Cayo Julio César, general y estadista que transformó la República romana en el Imperio y cuyo nombre se convirtió en sinónimo de poder soberano (Kaiser, Tsar).",
+        "year": -100
+      },
+      {
+        "title": "Tratado de Lausana",
+        "description": "El 12 de julio de 1923 entró en vigor el Tratado de Lausana, que definió las fronteras de la moderna Turquía tras la guerra greco-turca y la disolución del Imperio Otomano.",
+        "year": 1923
+      },
+      {
+        "title": "Malala sobrevive al atentado (aniversario)",
+        "description": "El 9 de octubre de 2012 fue el atentado, pero el 12 de julio es el Día de Malala, instituido por la ONU en 2013 para honrar a la joven activista paquistaní y su lucha por el derecho a la educación de las niñas.",
+        "year": 2013
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint John Gualbert",
+        "type": "Abbot and Founder",
+        "description": "An 11th-century Florentine nobleman who forgave his brother's murderer and founded the Vallombrosian Order (OSB Vallis Umbrosae), a reformed Benedictine branch. Patron of park rangers and foresters."
+      },
+      {
+        "name": "Saint Epiphanius of Pavia",
+        "type": "Bishop",
+        "description": "Bishop of Pavia in the 5th century, known for his diplomatic skill in mediating between barbarian kings and the Roman Empire. He negotiated the release of thousands of Lombard hostages from Odoacer and the Visigoths."
+      },
+      {
+        "name": "Saint Veronica",
+        "type": "Pious Woman",
+        "description": "According to Christian tradition, she was the woman who wiped the face of Jesus on the road to Calvary, and his image was miraculously imprinted on her cloth (the Veil of Veronica). Patron of laundry workers and photographers."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Independence Day of Kiribati",
+        "description": "Kiribati celebrates its independence from the United Kingdom, proclaimed on 12 July 1979. It is the national holiday of the Pacific archipelago, which was the first country to welcome the year 2000."
+      },
+      {
+        "name": "The Twelfth (Northern Ireland)",
+        "description": "In Northern Ireland, 12 July is the Protestant Orange Order festival commemorating the Battle of the Boyne (1690). It is a politically sensitive date that has historically generated tensions."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Forgiveness does not change the past, but it does enlarge the future.",
+      "author": "Paul Boese",
+      "context": "Saint John Gualbert, whose memory is celebrated today, forgave his brother's murderer before founding his monastic order. This act of mercy made him a symbol of the transformative power of forgiveness."
+    },
+    "motivationalQuote": {
+      "text": "Life is what happens while you are busy making other plans.",
+      "author": "John Lennon"
+    },
+    "births": [
+      {
+        "name": "Julius Caesar",
+        "description": "Roman general, statesman, and writer (100 BC–44 BC). He conquered Gaul, crossed the Rubicon, and became dictator perpetuo of Rome. His assassination on the Ides of March (44 BC) marked the end of the Roman Republic.",
+        "year": -100
+      },
+      {
+        "name": "Pablo Neruda",
+        "description": "Chilean poet considered one of the greatest of the 20th century. Nobel Prize in Literature 1971, author of Twenty Love Poems and a Song of Despair and Canto General. A defining voice of Latin American poetry.",
+        "year": 1904
+      },
+      {
+        "name": "Malala Yousafzai",
+        "description": "Pakistani activist for girls' education, survivor of a Taliban assassination attempt in 2012. In 2014 she received the Nobel Peace Prize, becoming the youngest person ever to receive that award.",
+        "year": 1997
+      }
+    ],
+    "events": [
+      {
+        "title": "Birth of Julius Caesar",
+        "description": "On 12 July 100 BC, Gaius Julius Caesar was born in Rome — the general and statesman who transformed the Roman Republic into an Empire, whose name became synonymous with sovereign power (Kaiser, Tsar).",
+        "year": -100
+      },
+      {
+        "title": "Treaty of Lausanne",
+        "description": "On 12 July 1923, the Treaty of Lausanne came into force, defining the borders of modern Turkey after the Greco-Turkish War and the dissolution of the Ottoman Empire.",
+        "year": 1923
+      },
+      {
+        "title": "Malala Day established by the UN",
+        "description": "12 July — Malala's birthday — was designated Malala Day by the UN in 2013 to honour the young Pakistani activist and her struggle for the right of girls to education.",
+        "year": 2013
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São João Gualberto",
+        "type": "Abade e fundador",
+        "description": "Nobre florentino do século XI que perdoou o assassino do seu irmão e fundou a Ordem Vallombrosana (OSB Vallis Umbrosae), ramo reformado dos beneditinos. Padroeiro dos guardas florestais."
+      },
+      {
+        "name": "São Epifânio de Pavia",
+        "type": "Bispo",
+        "description": "Bispo de Pavia no século V, conhecido pela sua habilidade diplomática ao mediar entre reis bárbaros e o Império Romano. Negociou a libertação de milhares de reféns lombardos junto a Odoacro e os visigodos."
+      },
+      {
+        "name": "Santa Verónica",
+        "type": "Mulher piedosa",
+        "description": "Segundo a tradição cristã, foi a mulher que enxugou o rosto de Jesus no caminho ao Calvário e no pano ficou gravada a imagem do seu rosto (a Verónica). Padroeira das lavadeiras e dos fotógrafos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência de Kiribati",
+        "description": "Kiribati celebra a sua independência do Reino Unido, proclamada em 12 de julho de 1979. É o feriado nacional do arquipélago do Pacífico, que foi o primeiro país a dar as boas-vindas ao ano 2000."
+      },
+      {
+        "name": "O Doze (Irlanda do Norte)",
+        "description": "Na Irlanda do Norte, 12 de julho é a festa protestante da Ordem de Orange, que comemora a Batalha do Boyne (1690). É uma data politicamente sensível que gerou tensões históricas."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O perdão não muda o passado, mas amplia o futuro.",
+      "author": "Paul Boese",
+      "context": "São João Gualberto, cuja memória se celebra hoje, perdoou o assassino do seu irmão antes de fundar a sua ordem monástica. Este gesto de misericórdia tornou-o símbolo do poder transformador do perdão."
+    },
+    "motivationalQuote": {
+      "text": "A vida é o que acontece enquanto você está ocupado fazendo outros planos.",
+      "author": "John Lennon"
+    },
+    "births": [
+      {
+        "name": "Júlio César",
+        "description": "General, estadista e escritor romano (100 a.C.–44 a.C.). Conquistou a Gália, atravessou o Rubicão e tornou-se ditador perpétuo de Roma. O seu assassinato nos Idos de Março (44 a.C.) marcou o fim da República romana.",
+        "year": -100
+      },
+      {
+        "name": "Pablo Neruda",
+        "description": "Poeta chileno considerado um dos maiores do século XX. Prêmio Nobel de Literatura em 1971, autor de Vinte Poemas de Amor e uma Canção Desesperada e Canto General. Símbolo da poesia latino-americana.",
+        "year": 1904
+      },
+      {
+        "name": "Malala Yousafzai",
+        "description": "Ativista paquistanesa pela educação das meninas, sobrevivente de um atentado talibã em 2012. Em 2014 recebeu o Prêmio Nobel da Paz, tornando-se a pessoa mais jovem a receber esse galardão.",
+        "year": 1997
+      }
+    ],
+    "events": [
+      {
+        "title": "Nascimento de Júlio César",
+        "description": "Em 12 de julho de 100 a.C., nasceu em Roma Caio Júlio César — o general e estadista que transformou a República romana num Império e cujo nome se tornou sinônimo de poder soberano (Kaiser, Czar).",
+        "year": -100
+      },
+      {
+        "title": "Tratado de Lausana",
+        "description": "Em 12 de julho de 1923, o Tratado de Lausana entrou em vigor, definindo as fronteiras da Turquia moderna após a guerra greco-turca e a dissolução do Império Otomano.",
+        "year": 1923
+      },
+      {
+        "title": "Dia de Malala estabelecido pela ONU",
+        "description": "O 12 de julho — aniversário de Malala — foi designado Dia de Malala pela ONU em 2013 para homenagear a jovem ativista paquistanesa e a sua luta pelo direito à educação das meninas.",
+        "year": 2013
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Joan Gualberto",
+        "type": "Abat i fundador",
+        "description": "Noble florentí del segle XI que va perdonar l'assassí del seu germà i va fundar l'Orde Vallombrosà (OSB Vallis Umbrosae), branca reformada dels benedictins. Patró dels guardes forestals."
+      },
+      {
+        "name": "Sant Epifani de Pavia",
+        "type": "Bisbe",
+        "description": "Bisbe de Pavia al segle V, conegut per la seva habilitat diplomàtica en mediar entre reis bàrbars i l'Imperi Romà. Va negociar l'alliberament de milers d'ostatges llombards davant Odoacre i els visigots."
+      },
+      {
+        "name": "Santa Verònica",
+        "type": "Dona pietosa",
+        "description": "Segons la tradició cristiana, va ser la dona que va eixugar el rostre de Jesús en el camí al Calvari i en el drap va quedar gravada la imatge del seu rostre (la Verònica). Patrona de les bugaderes i els fotògrafs."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència de Kiribati",
+        "description": "Kiribati celebra la seva independència del Regne Unit, proclamada el 12 de juliol de 1979. És la festa nacional de l'arxipèlag del Pacífic, que va ser el primer país a donar la benvinguda a l'any 2000."
+      },
+      {
+        "name": "El Dotze (Irlanda del Nord)",
+        "description": "A Irlanda del Nord, el 12 de juliol és la festa protestant de l'Ordre de Taronja, que commemora la Batalla del Boyne (1690). És una data políticament sensible que ha generat tensions històriques."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El perdó no canvia el passat, però amplia el futur.",
+      "author": "Paul Boese",
+      "context": "Sant Joan Gualberto, la memòria del qual se celebra avui, va perdonar l'assassí del seu germà abans de fundar el seu orde monàstic. Aquest gest de misericòrdia el va convertir en símbol del poder transformador del perdó."
+    },
+    "motivationalQuote": {
+      "text": "La vida és el que passa mentre estàs ocupat fent altres plans.",
+      "author": "John Lennon"
+    },
+    "births": [
+      {
+        "name": "Juli Cèsar",
+        "description": "General, estadista i escriptor romà (100 aC–44 aC). Va conquerir la Gàl·lia, va creuar el Rubicó i es va convertir en dictador perpetu de Roma. El seu assassinat als Idus de Març (44 aC) va marcar la fi de la República romana.",
+        "year": -100
+      },
+      {
+        "name": "Pablo Neruda",
+        "description": "Poeta xilè considerat un dels més grans del segle XX. Premi Nobel de Literatura el 1971, autor de Vint poemes d'amor i una cançó desesperada i Cant general. Símbol de la poesia llatinoamericana.",
+        "year": 1904
+      },
+      {
+        "name": "Malala Yousafzai",
+        "description": "Activista pakistanesa per l'educació de les nenes, supervivent d'un atemptat talibà el 2012. El 2014 va rebre el Premi Nobel de la Pau, convertint-se en la persona més jove a rebre aquest guardó.",
+        "year": 1997
+      }
+    ],
+    "events": [
+      {
+        "title": "Naixement de Juli Cèsar",
+        "description": "El 12 de juliol de l'any 100 aC va néixer a Roma Gai Juli Cèsar — el general i estadista que va transformar la República romana en l'Imperi i el nom del qual es va convertir en sinònim de poder sobirà (Kaiser, Tsar).",
+        "year": -100
+      },
+      {
+        "title": "Tractat de Lausana",
+        "description": "El 12 de juliol de 1923, el Tractat de Lausana va entrar en vigor, definint les fronteres de la moderna Turquia després de la guerra greco-turca i la dissolució de l'Imperi Otomà.",
+        "year": 1923
+      },
+      {
+        "title": "Dia de Malala establert per l'ONU",
+        "description": "El 12 de juliol — aniversari de Malala — va ser designat Dia de Malala per l'ONU el 2013 per homenatjar la jove activista pakistanesa i la seva lluita pel dret a l'educació de les nenes.",
+        "year": 2013
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "date": "2026-04-29",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Catalina de Siena",
+        "type": "Virgen y Doctora de la Iglesia",
+        "description": "Mística y teóloga italiana del siglo XIV, terciaria dominica. Convenció al papa Gregorio XI para que regresase a Roma desde Aviñón, poniendo fin al exilio de los papas. Cuidó a los enfermos de la peste y escribió cartas a reyes, papas y príncipes sobre la reforma de la Iglesia. Doctora de la Iglesia desde 1970, copatrona de Europa desde 1999."
+      },
+      {
+        "name": "San Hugo de Cluny",
+        "type": "Abad",
+        "description": "Abad de Cluny durante 60 años (1049-1109), uno de los períodos más largos de la historia monástica occidental. Bajo su liderazgo, Cluny se convirtió en el mayor complejo monástico del mundo cristiano. Fue mediador entre el papa Gregorio VII y el emperador Enrique IV en la Querella de las Investiduras."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Danza",
+        "description": "Establecido en 1982 por el Consejo Internacional de la Danza de la UNESCO, esta fecha conmemora el nacimiento del reformador del ballet Jean-Georges Noverre (1727). Celebra la danza como forma de arte universal que une a los pueblos más allá de las fronteras políticas y culturales."
+      },
+      {
+        "name": "Día de la Conmemoración de las Víctimas Químicas",
+        "description": "Declarado por la Organización para la Prohibición de las Armas Químicas (OPAQ), este día rinde homenaje a las víctimas del uso de armas químicas en conflictos bélicos, desde Ypres (1915) hasta los usos más recientes."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El amor es la única locura para la cual no hay remedio.",
+      "author": "Miguel de Cervantes",
+      "context": "La boda del príncipe Guillermo y Catalina Middleton el 29 de abril de 2011 fue seguida por más de 2.000 millones de personas en todo el mundo. La ceremonia en la Abadía de Westminster revivió el interés global por la monarquía británica y fue uno de los eventos televisivos más vistos de la historia."
+    },
+    "motivationalQuote": {
+      "text": "Donde hay amor, hay vida.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Duke Ellington",
+        "description": "Compositor, pianista y director de orquesta americano, uno de los músicos más influyentes del siglo XX y figura central del jazz. Durante más de medio siglo lideró su propia orquesta, componiendo más de 3.000 obras. Sus composiciones 'Mood Indigo', 'In a Mellow Tone' y 'Take the A Train' son estándares del jazz.",
+        "year": "1899"
+      },
+      {
+        "name": "Jerry Seinfeld",
+        "description": "Comediante y actor americano, creador y protagonista de 'Seinfeld' (1989-1998), considerada la mejor comedia de situación de la historia de la televisión americana. Sus monólogos sobre las pequeñas absurdidades de la vida cotidiana lo han convertido en uno de los comediantes más influyentes de todos los tiempos.",
+        "year": "1954"
+      },
+      {
+        "name": "Uma Thurman",
+        "description": "Actriz americana conocida por sus papeles en las películas de Quentin Tarantino 'Pulp Fiction' (1994) y 'Kill Bill' (2003-2004). Su papel de Beatrix Kiddo en 'Kill Bill' la convirtió en un icono del cine de acción. Hija del erudito budista Robert Thurman y de la modelo Nena von Schlebrügge.",
+        "year": "1970"
+      }
+    ],
+    "events": [
+      {
+        "title": "Boda del Príncipe Guillermo y Catalina Middleton",
+        "description": "El príncipe Guillermo de Gales (nieto de la reina Isabel II) se casó con Catherine Middleton en la Abadía de Westminster de Londres. La ceremonia fue presenciada por más de 2.000 millones de personas en todo el mundo a través de la televisión, convirtiéndose en uno de los eventos más vistos de la historia.",
+        "year": "2011"
+      },
+      {
+        "title": "Fundación de la NASA",
+        "description": "El Congreso de los Estados Unidos aprobó la Ley del Espacio Nacional, que creó la Agencia Nacional de Aeronáutica y del Espacio (NASA). La agencia fue creada en respuesta al lanzamiento del satélite Sputnik soviético en 1957, que evidenció la brecha tecnológica espacial entre las dos superpotencias.",
+        "year": "1958"
+      },
+      {
+        "title": "Liberación del campo de concentración de Dachau",
+        "description": "Las tropas del 7.º Ejército de los Estados Unidos liberaron el campo de concentración de Dachau, en Baviera, el primero que el régimen nazi abrió en 1933. Encontraron más de 30.000 prisioneros en condiciones extremas y los restos de miles de víctimas.",
+        "year": "1945"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Catherine of Siena",
+        "type": "Virgin and Doctor of the Church",
+        "description": "A 14th-century Italian mystic and theologian, a Dominican tertiary. She persuaded Pope Gregory XI to return to Rome from Avignon, ending the papal exile. She cared for plague victims and wrote letters to kings, popes, and princes about Church reform. Doctor of the Church since 1970, co-patron of Europe since 1999."
+      },
+      {
+        "name": "Saint Hugh of Cluny",
+        "type": "Abbot",
+        "description": "Abbot of Cluny for 60 years (1049–1109), one of the longest tenures in Western monastic history. Under his leadership, Cluny became the largest monastic complex in the Christian world. He served as mediator between Pope Gregory VII and Emperor Henry IV during the Investiture Controversy."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Dance Day",
+        "description": "Established in 1982 by UNESCO's International Dance Council, this date commemorates the birth of ballet reformer Jean-Georges Noverre (1727). It celebrates dance as a universal art form that unites peoples across political and cultural borders."
+      },
+      {
+        "name": "Day of Remembrance for Chemical Weapons Victims",
+        "description": "Declared by the Organisation for the Prohibition of Chemical Weapons (OPCW), this day honours victims of chemical weapons use in armed conflicts, from Ypres (1915) to more recent cases."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Love is the only madness for which there is no remedy.",
+      "author": "Miguel de Cervantes",
+      "context": "The wedding of Prince William and Catherine Middleton on 29 April 2011 was followed by more than 2 billion people worldwide. The ceremony at Westminster Abbey rekindled global interest in the British monarchy and was one of the most-watched television events in history."
+    },
+    "motivationalQuote": {
+      "text": "Where there is love, there is life.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Duke Ellington",
+        "description": "American composer, pianist, and bandleader, one of the most influential musicians of the 20th century and a central figure in jazz. For more than half a century he led his own orchestra, composing more than 3,000 works. His compositions 'Mood Indigo', 'In a Mellow Tone', and 'Take the A Train' are jazz standards.",
+        "year": "1899"
+      },
+      {
+        "name": "Jerry Seinfeld",
+        "description": "American comedian and actor, co-creator and star of 'Seinfeld' (1989–1998), considered the greatest sitcom in American television history. His stand-up routines about the small absurdities of everyday life have made him one of the most influential comedians of all time.",
+        "year": "1954"
+      },
+      {
+        "name": "Uma Thurman",
+        "description": "American actress known for her roles in Quentin Tarantino's films 'Pulp Fiction' (1994) and 'Kill Bill' (2003–2004). Her role as Beatrix Kiddo in 'Kill Bill' made her an action cinema icon. Daughter of Buddhist scholar Robert Thurman and model Nena von Schlebrügge.",
+        "year": "1970"
+      }
+    ],
+    "events": [
+      {
+        "title": "Wedding of Prince William and Catherine Middleton",
+        "description": "Prince William of Wales (grandson of Queen Elizabeth II) married Catherine Middleton at Westminster Abbey in London. The ceremony was watched by more than 2 billion people worldwide on television, making it one of the most-watched events in history.",
+        "year": "2011"
+      },
+      {
+        "title": "Founding of NASA",
+        "description": "The United States Congress passed the National Aeronautics and Space Act, creating the National Aeronautics and Space Administration (NASA). The agency was created in response to the Soviet Sputnik satellite launch in 1957, which had revealed the technological space gap between the two superpowers.",
+        "year": "1958"
+      },
+      {
+        "title": "Liberation of Dachau Concentration Camp",
+        "description": "Troops of the 7th United States Army liberated the Dachau concentration camp in Bavaria, the first camp the Nazi regime had opened in 1933. They found more than 30,000 prisoners in extreme conditions and the remains of thousands of victims.",
+        "year": "1945"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Catarina de Siena",
+        "type": "Virgem e Doutora da Igreja",
+        "description": "Mística e teóloga italiana do século XIV, terciária dominicana. Convenceu o papa Gregório XI a regressar a Roma desde Avinhão, pondo fim ao exílio dos papas. Cuidou dos doentes da peste e escreveu cartas a reis, papas e príncipes sobre a reforma da Igreja. Doutora da Igreja desde 1970, copadroeira da Europa desde 1999."
+      },
+      {
+        "name": "São Hugo de Cluny",
+        "type": "Abade",
+        "description": "Abade de Cluny durante 60 anos (1049-1109), um dos períodos mais longos da história monástica ocidental. Sob a sua liderança, Cluny tornou-se o maior complexo monástico do mundo cristão. Foi mediador entre o papa Gregório VII e o imperador Henrique IV na Querela das Investiduras."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Dança",
+        "description": "Estabelecido em 1982 pelo Conselho Internacional da Dança da UNESCO, esta data comemora o nascimento do reformador do ballet Jean-Georges Noverre (1727). Celebra a dança como forma de arte universal que une os povos para além das fronteiras políticas e culturais."
+      },
+      {
+        "name": "Dia da Commemoração das Vítimas Químicas",
+        "description": "Declarado pela Organização para a Proibição das Armas Químicas (OPAQ), este dia presta homenagem às vítimas do uso de armas químicas em conflitos armados, desde Ypres (1915) até aos usos mais recentes."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O amor é a única loucura para a qual não há remédio.",
+      "author": "Miguel de Cervantes",
+      "context": "O casamento do príncipe Guilherme e Catarina Middleton a 29 de abril de 2011 foi seguido por mais de 2.000 milhões de pessoas em todo o mundo. A cerimónia na Abadia de Westminster reviveu o interesse global pela monarquia britânica e foi um dos eventos televisivos mais vistos da história."
+    },
+    "motivationalQuote": {
+      "text": "Onde há amor, há vida.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Duke Ellington",
+        "description": "Compositor, pianista e maestro americano, um dos músicos mais influentes do século XX e figura central do jazz. Durante mais de meio século liderou a sua própria orquestra, compondo mais de 3.000 obras. As suas composições 'Mood Indigo', 'In a Mellow Tone' e 'Take the A Train' são standards do jazz.",
+        "year": "1899"
+      },
+      {
+        "name": "Jerry Seinfeld",
+        "description": "Comediante e ator americano, criador e protagonista de 'Seinfeld' (1989-1998), considerada a melhor comédia de situação da história da televisão americana. Os seus monólogos sobre as pequenas absurdidades da vida quotidiana tornaram-no um dos comediantes mais influentes de todos os tempos.",
+        "year": "1954"
+      },
+      {
+        "name": "Uma Thurman",
+        "description": "Atriz americana conhecida pelos seus papéis nos filmes de Quentin Tarantino 'Pulp Fiction' (1994) e 'Kill Bill' (2003-2004). O seu papel de Beatrix Kiddo em 'Kill Bill' tornou-a um ícone do cinema de ação. Filha do estudioso budista Robert Thurman e da modelo Nena von Schlebrügge.",
+        "year": "1970"
+      }
+    ],
+    "events": [
+      {
+        "title": "Casamento do Príncipe Guilherme e Catarina Middleton",
+        "description": "O príncipe Guilherme de Gales (neto da rainha Isabel II) casou com Catherine Middleton na Abadia de Westminster em Londres. A cerimónia foi assistida por mais de 2.000 milhões de pessoas em todo o mundo através da televisão, tornando-se um dos eventos mais vistos da história.",
+        "year": "2011"
+      },
+      {
+        "title": "Fundação da NASA",
+        "description": "O Congresso dos Estados Unidos aprovou a Lei Nacional da Aeronáutica e do Espaço, que criou a Agência Nacional de Aeronáutica e Espaço (NASA). A agência foi criada em resposta ao lançamento do satélite Sputnik soviético em 1957, que revelou o fosso tecnológico espacial entre as duas superpotências.",
+        "year": "1958"
+      },
+      {
+        "title": "Libertação do Campo de Concentração de Dachau",
+        "description": "As tropas do 7.º Exército dos Estados Unidos libertaram o campo de concentração de Dachau, na Baviera, o primeiro que o regime nazi tinha aberto em 1933. Encontraram mais de 30.000 prisioneiros em condições extremas e os restos de milhares de vítimas.",
+        "year": "1945"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Caterina de Siena",
+        "type": "Verge i Doctora de l'Església",
+        "description": "Mística i teòloga italiana del segle XIV, terciària dominicana. Va convèncer el papa Gregori XI perquè tornés a Roma des d'Avinyó, posant fi a l'exili dels papes. Va cuidar els malalts de la pesta i va escriure cartes a reis, papes i prínceps sobre la reforma de l'Església. Doctora de l'Església des del 1970, copatrona d'Europa des del 1999."
+      },
+      {
+        "name": "Sant Hug de Cluny",
+        "type": "Abat",
+        "description": "Abat de Cluny durant 60 anys (1049-1109), un dels períodes més llargs de la història monàstica occidental. Sota el seu lideratge, Cluny es va convertir en el major complex monàstic del món cristià. Va ser mediador entre el papa Gregori VII i l'emperador Enric IV en la Querella de les Investidures."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la Dansa",
+        "description": "Establert el 1982 pel Consell Internacional de la Dansa de la UNESCO, aquesta data commemora el naixement del reformador del ballet Jean-Georges Noverre (1727). Celebra la dansa com a forma d'art universal que uneix els pobles més enllà de les fronteres polítiques i culturals."
+      },
+      {
+        "name": "Dia de la Commemoració de les Víctimes Químiques",
+        "description": "Declarat per l'Organització per a la Prohibició de les Armes Químiques (OPAQ), aquest dia ret homenatge a les víctimes de l'ús d'armes químiques en conflictes bèl·lics, des d'Ypres (1915) fins als usos més recents."
+      }
+    ],
+    "historicalQuote": {
+      "text": "L'amor és l'única bogeria per a la qual no hi ha remei.",
+      "author": "Miguel de Cervantes",
+      "context": "El casament del príncep Guillem i Catalina Middleton el 29 d'abril de 2011 va ser seguit per més de 2.000 milions de persones arreu del món. La cerimònia a l'Abadia de Westminster va revifar l'interès global per la monarquia britànica i va ser un dels esdeveniments televisius més vistos de la història."
+    },
+    "motivationalQuote": {
+      "text": "On hi ha amor, hi ha vida.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Duke Ellington",
+        "description": "Compositor, pianista i director d'orquestra americà, un dels músics més influents del segle XX i figura central del jazz. Durant més de mig segle va liderar la seva pròpia orquestra, composant més de 3.000 obres. Les seves composicions 'Mood Indigo', 'In a Mellow Tone' i 'Take the A Train' són estàndards del jazz.",
+        "year": "1899"
+      },
+      {
+        "name": "Jerry Seinfeld",
+        "description": "Comediant i actor americà, creador i protagonista de 'Seinfeld' (1989-1998), considerada la millor comèdia de situació de la història de la televisió americana. Els seus monòlegs sobre les petites absurditats de la vida quotidiana l'han convertit en un dels comediants més influents de tots els temps.",
+        "year": "1954"
+      },
+      {
+        "name": "Uma Thurman",
+        "description": "Actriu americana coneguda pels seus papers a les pel·lícules de Quentin Tarantino 'Pulp Fiction' (1994) i 'Kill Bill' (2003-2004). El seu paper de Beatrix Kiddo a 'Kill Bill' la va convertir en una icona del cinema d'acció. Filla de l'estudiós budista Robert Thurman i de la model Nena von Schlebrügge.",
+        "year": "1970"
+      }
+    ],
+    "events": [
+      {
+        "title": "Casament del Príncep Guillem i Catalina Middleton",
+        "description": "El príncep Guillem de Gal·les (nét de la reina Elisabet II) es va casar amb Catherine Middleton a l'Abadia de Westminster de Londres. La cerimònia va ser presenciada per més de 2.000 milions de persones arreu del món per televisió, convertint-se en un dels esdeveniments més vistos de la història.",
+        "year": "2011"
+      },
+      {
+        "title": "Fundació de la NASA",
+        "description": "El Congrés dels Estats Units va aprovar la Llei Nacional d'Aeronàutica i Espai, que va crear l'Agència Nacional d'Aeronàutica i Espai (NASA). L'agència va ser creada en resposta al llançament del satèl·lit Sputnik soviètic el 1957, que va evidenciar el buit tecnològic espacial entre les dues superpotències.",
+        "year": "1958"
+      },
+      {
+        "title": "Alliberament del Camp de Concentració de Dachau",
+        "description": "Les tropes del 7è Exèrcit dels Estats Units van alliberar el camp de concentració de Dachau, a Baviera, el primer que el règim nazi havia obert el 1933. Van trobar més de 30.000 presoners en condicions extremes i les restes de milers de víctimes.",
+        "year": "1945"
+      }
+    ]
+  }
+}

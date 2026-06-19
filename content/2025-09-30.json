@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-30",
+  "es": {
+    "saints": [
+      {
+        "name": "San Jerónimo",
+        "type": "Presbítero y Doctor de la Iglesia",
+        "description": "Sacerdote y teólogo del siglo IV (347–420), autor de la Vulgata, la traducción de la Biblia al latín que fue durante siglos el texto oficial de la Iglesia Católica. Vivió como eremita en Belén y fue el erudito bíblico más importante de la Antigüedad cristiana. Es patrono de los traductores, bibliotecarios y estudiosos."
+      },
+      {
+        "name": "Santa Sofía de Fiesole",
+        "type": "Virgen",
+        "description": "Religiosa benedictina italiana del siglo XI, venerada en Fiesole (Toscana). Conocida por su dedicación a la vida contemplativa y a las obras de caridad en su comunidad."
+      },
+      {
+        "name": "Beata María Faustina Kowalska",
+        "type": "Virgen",
+        "description": "Religiosa polaca (1905–1938) a quien Cristo reveló el mensaje de la Divina Misericordia. Autora del Diario: La Divina Misericordia en mi alma. Canonizada por Juan Pablo II en 2000, es la patrona de la Divina Misericordia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Traducción",
+        "description": "Establecido por la Federación Internacional de Traductores (FIT) y adoptado por la ONU en 2017, se celebra el 30 de septiembre en honor a San Jerónimo, patrón de los traductores, para reconocer el papel esencial de la traducción en el diálogo entre culturas."
+      },
+      {
+        "name": "Día de la Independencia de Botsuana",
+        "description": "Botsuana celebra su independencia del Reino Unido, proclamada el 30 de septiembre de 1966. Uno de los ejemplos de desarrollo económico y democracia más exitosos del África subsahariana."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Quien no conoce las Escrituras, no conoce a Cristo.",
+      "author": "San Jerónimo",
+      "context": "El Doctor de la Iglesia cuya festividad se celebra hoy dedicó su vida a la traducción y el estudio de la Biblia. Esta frase resume su convicción de que el acceso al texto sagrado es el fundamento de la fe cristiana."
+    },
+    "motivationalQuote": {
+      "text": "El ignorante afirma, el sabio duda y reflexiona.",
+      "author": "Aristóteles"
+    },
+    "births": [
+      {
+        "name": "Truman Capote",
+        "description": "Escritor y periodista americano, figura central del Nuevo Periodismo. Su novela A sangre fría (1966), sobre el asesinato de una familia en Kansas, es considerada una obra maestra de la no ficción narrativa. También escribió Desayuno con diamantes (1958).",
+        "year": 1924
+      },
+      {
+        "name": "Elie Wiesel",
+        "description": "Escritor, profesor y activista rumano-americano, superviviente del Holocausto. Su obra La noche (1960) relata su experiencia en los campos de concentración de Auschwitz y Buchenwald. Premio Nobel de la Paz en 1986.",
+        "year": 1928
+      },
+      {
+        "name": "Martina Hingis",
+        "description": "Tenista suiza nacida en Eslovaquia, número uno del mundo a los 16 años. Ganó cinco títulos de Grand Slam individuales, incluyendo tres Abiertos de Australia consecutivos (1997–1999). Considerada una de las más inteligentes del tenis.",
+        "year": 1980
+      }
+    ],
+    "events": [
+      {
+        "title": "Apertura del Canal de Panamá al tráfico comercial",
+        "description": "El Canal de Panamá abrió oficialmente al tráfico comercial, conectando los océanos Atlántico y Pacífico y transformando el comercio marítimo mundial al eliminar el largo rodeo por el Cabo de Hornos.",
+        "year": 1914
+      },
+      {
+        "title": "James Dean muere en accidente de tráfico",
+        "description": "El actor americano James Dean, símbolo de la rebeldía juvenil de los años cincuenta, falleció a los 24 años al colisionar su Porsche 550 Spyder con otro vehículo en la Route 466, en California. Solo había protagonizado tres películas.",
+        "year": 1955
+      },
+      {
+        "title": "Inauguración de la Biblioteca de Alejandría moderna",
+        "description": "Se inauguró en Alejandría (Egipto) la nueva Biblioteca de Alejandría (Bibliotheca Alexandrina), proyecto de la UNESCO para resucitar el espíritu de la antigua biblioteca helenística, destruida en la Antigüedad.",
+        "year": 2002
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Jerome",
+        "type": "Priest and Doctor of the Church",
+        "description": "A 4th-century priest and theologian (347–420), author of the Vulgate, the Latin translation of the Bible that was for centuries the official text of the Catholic Church. He lived as a hermit in Bethlehem and was the most important biblical scholar of Christian antiquity. He is the patron of translators, librarians, and scholars."
+      },
+      {
+        "name": "Saint Sophia of Fiesole",
+        "type": "Virgin",
+        "description": "An 11th-century Italian Benedictine nun, venerated in Fiesole (Tuscany). Known for her dedication to the contemplative life and charitable works in her community."
+      },
+      {
+        "name": "Blessed María Faustina Kowalska",
+        "type": "Virgin",
+        "description": "A Polish nun (1905–1938) to whom Christ revealed the message of Divine Mercy. Author of the Diary: Divine Mercy in My Soul. Canonised by John Paul II in 2000, she is the patron of Divine Mercy."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Translation Day",
+        "description": "Established by the International Federation of Translators (FIT) and adopted by the United Nations in 2017, celebrated on 30 September in honour of Saint Jerome, patron of translators, to recognise the essential role of translation in dialogue between cultures."
+      },
+      {
+        "name": "Botswana Independence Day",
+        "description": "Botswana celebrates its independence from the United Kingdom, proclaimed on 30 September 1966. One of the most successful examples of economic development and democracy in sub-Saharan Africa."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Ignorance of Scripture is ignorance of Christ.",
+      "author": "Saint Jerome",
+      "context": "The Doctor of the Church whose feast is celebrated today devoted his life to the translation and study of the Bible. This phrase encapsulates his conviction that access to the sacred text is the foundation of Christian faith."
+    },
+    "motivationalQuote": {
+      "text": "The ignorant man affirms; the wise man doubts and reflects.",
+      "author": "Aristotle"
+    },
+    "births": [
+      {
+        "name": "Truman Capote",
+        "description": "American writer and journalist, a central figure of New Journalism. His novel In Cold Blood (1966), about the murder of a Kansas family, is considered a masterpiece of narrative non-fiction. He also wrote Breakfast at Tiffany's (1958).",
+        "year": 1924
+      },
+      {
+        "name": "Elie Wiesel",
+        "description": "Romanian-American writer, professor, and activist, Holocaust survivor. His work Night (1960) recounts his experience in the Auschwitz and Buchenwald concentration camps. Nobel Peace Prize in 1986.",
+        "year": 1928
+      },
+      {
+        "name": "Martina Hingis",
+        "description": "Swiss tennis player born in Slovakia, world number one at the age of 16. She won five Grand Slam singles titles, including three consecutive Australian Opens (1997–1999). Considered one of the most intelligent players in the sport.",
+        "year": 1980
+      }
+    ],
+    "events": [
+      {
+        "title": "Panama Canal opens to commercial traffic",
+        "description": "The Panama Canal officially opened to commercial traffic, connecting the Atlantic and Pacific oceans and transforming world maritime trade by eliminating the long detour around Cape Horn.",
+        "year": 1914
+      },
+      {
+        "title": "James Dean dies in car crash",
+        "description": "American actor James Dean, symbol of 1950s youth rebellion, died at the age of 24 when his Porsche 550 Spyder collided with another vehicle on Route 466 in California. He had starred in only three films.",
+        "year": 1955
+      },
+      {
+        "title": "Inauguration of the modern Library of Alexandria",
+        "description": "The new Library of Alexandria (Bibliotheca Alexandrina) was inaugurated in Alexandria, Egypt, a UNESCO project to revive the spirit of the ancient Hellenistic library that was destroyed in antiquity.",
+        "year": 2002
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Jerónimo",
+        "type": "Presbítero e Doutor da Igreja",
+        "description": "Sacerdote e teólogo do século IV (347–420), autor da Vulgata, a tradução da Bíblia para o latim que foi durante séculos o texto oficial da Igreja Católica. Viveu como eremita em Belém e foi o maior estudioso bíblico da Antiguidade cristã. É patrono dos tradutores, bibliotecários e estudiosos."
+      },
+      {
+        "name": "Santa Sofia de Fiesole",
+        "type": "Virgem",
+        "description": "Religiosa beneditina italiana do século XI, venerada em Fiesole (Toscana). Conhecida pela sua dedicação à vida contemplativa e às obras de caridade na sua comunidade."
+      },
+      {
+        "name": "Beata Maria Faustina Kowalska",
+        "type": "Virgem",
+        "description": "Religiosa polaca (1905–1938) a quem Cristo revelou a mensagem da Divina Misericórdia. Autora do Diário: A Divina Misericórdia na minha alma. Canonizada por João Paulo II em 2000, é a patrona da Divina Misericórdia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Tradução",
+        "description": "Estabelecido pela Federação Internacional de Tradutores (FIT) e adotado pela ONU em 2017, celebrado a 30 de setembro em honra de São Jerónimo, patrono dos tradutores, para reconhecer o papel essencial da tradução no diálogo entre culturas."
+      },
+      {
+        "name": "Dia da Independência do Botsuana",
+        "description": "O Botsuana celebra a sua independência do Reino Unido, proclamada a 30 de setembro de 1966. Um dos exemplos de desenvolvimento económico e democracia mais bem-sucedidos da África subsaariana."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A ignorância das Escrituras é a ignorância de Cristo.",
+      "author": "São Jerónimo",
+      "context": "O Doutor da Igreja cuja festa se celebra hoje dedicou a sua vida à tradução e ao estudo da Bíblia. Esta frase resume a sua convicção de que o acesso ao texto sagrado é o fundamento da fé cristã."
+    },
+    "motivationalQuote": {
+      "text": "O ignorante afirma; o sábio duvida e reflete.",
+      "author": "Aristóteles"
+    },
+    "births": [
+      {
+        "name": "Truman Capote",
+        "description": "Escritor e jornalista americano, figura central do Novo Jornalismo. O seu romance A Sangue Frio (1966), sobre o assassinato de uma família no Kansas, é considerado uma obra-prima da não ficção narrativa. Também escreveu Bonequinha de Luxo (1958).",
+        "year": 1924
+      },
+      {
+        "name": "Elie Wiesel",
+        "description": "Escritor, professor e ativista romeno-americano, sobrevivente do Holocausto. A sua obra A Noite (1960) relata a sua experiência nos campos de concentração de Auschwitz e Buchenwald. Prêmio Nobel da Paz em 1986.",
+        "year": 1928
+      },
+      {
+        "name": "Martina Hingis",
+        "description": "Tenista suíça nascida na Eslováquia, número um do mundo aos 16 anos. Venceu cinco títulos de Grand Slam individuais, incluindo três Abertos da Austrália consecutivos (1997–1999). Considerada uma das jogadoras mais inteligentes do desporto.",
+        "year": 1980
+      }
+    ],
+    "events": [
+      {
+        "title": "Canal do Panamá abre ao tráfego comercial",
+        "description": "O Canal do Panamá abriu oficialmente ao tráfego comercial, conectando os oceanos Atlântico e Pacífico e transformando o comércio marítimo mundial ao eliminar o longo desvio pelo Cabo Horn.",
+        "year": 1914
+      },
+      {
+        "title": "James Dean morre num acidente de viação",
+        "description": "O ator americano James Dean, símbolo da rebeldia juvenil dos anos cinquenta, faleceu aos 24 anos quando o seu Porsche 550 Spyder colidiu com outro veículo na Route 466, na Califórnia. Tinha protagonizado apenas três filmes.",
+        "year": 1955
+      },
+      {
+        "title": "Inauguração da Biblioteca de Alexandria moderna",
+        "description": "A nova Biblioteca de Alexandria (Bibliotheca Alexandrina) foi inaugurada em Alexandria (Egito), um projeto da UNESCO para reviver o espírito da antiga biblioteca helenística destruída na Antiguidade.",
+        "year": 2002
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Jeroni",
+        "type": "Prevere i Doctor de l'Església",
+        "description": "Sacerdot i teòleg del segle IV (347–420), autor de la Vulgata, la traducció de la Bíblia al llatí que va ser durant segles el text oficial de l'Església Catòlica. Va viure com a ermità a Betlem i va ser el més important estudiós bíblic de l'Antiguitat cristiana. És patró dels traductors, bibliotecaris i estudiosos."
+      },
+      {
+        "name": "Santa Sofia de Fiesole",
+        "type": "Verge",
+        "description": "Religiosa benedictina italiana del segle XI, venerada a Fiesole (Toscana). Coneguda per la seva dedicació a la vida contemplativa i a les obres de caritat en la seva comunitat."
+      },
+      {
+        "name": "Beata Maria Faustina Kowalska",
+        "type": "Verge",
+        "description": "Religiosa polonesa (1905–1938) a qui Crist va revelar el missatge de la Divina Misericòrdia. Autora del Diari: La Divina Misericòrdia en la meva ànima. Canonitzada per Joan Pau II l'any 2000, és la patrona de la Divina Misericòrdia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la Traducció",
+        "description": "Establert per la Federació Internacional de Traductors (FIT) i adoptat per l'ONU el 2017, celebrat el 30 de setembre en honor a Sant Jeroni, patró dels traductors, per reconèixer el paper essencial de la traducció en el diàleg entre cultures."
+      },
+      {
+        "name": "Dia de la Independència de Botswana",
+        "description": "Botswana celebra la seva independència del Regne Unit, proclamada el 30 de setembre de 1966. Un dels exemples de desenvolupament econòmic i democràcia més reeixits de l'Àfrica subsahariana."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La ignorància de les Escriptures és la ignorància de Crist.",
+      "author": "Sant Jeroni",
+      "context": "El Doctor de l'Església la festivitat del qual es celebra avui va dedicar la seva vida a la traducció i l'estudi de la Bíblia. Aquesta frase resumeix la seva convicció que l'accés al text sagrat és el fonament de la fe cristiana."
+    },
+    "motivationalQuote": {
+      "text": "L'ignorant afirma; el savi dubta i reflexiona.",
+      "author": "Aristòtil"
+    },
+    "births": [
+      {
+        "name": "Truman Capote",
+        "description": "Escriptor i periodista americà, figura central del Nou Periodisme. La seva novel·la A sang freda (1966), sobre l'assassinat d'una família a Kansas, és considerada una obra mestra de la no ficció narrativa. També va escriure Esmorzar amb diamants (1958).",
+        "year": 1924
+      },
+      {
+        "name": "Elie Wiesel",
+        "description": "Escriptor, professor i activista romanès-americà, supervivent de l'Holocaust. La seva obra La nit (1960) relata la seva experiència als camps de concentració d'Auschwitz i Buchenwald. Premi Nobel de la Pau el 1986.",
+        "year": 1928
+      },
+      {
+        "name": "Martina Hingis",
+        "description": "Tennista suïssa nascuda a Eslovàquia, número u del món als 16 anys. Va guanyar cinc títols de Grand Slam individuals, incloent tres Oberts d'Austràlia consecutius (1997–1999). Considerada una de les jugadores més intel·ligents del tennis.",
+        "year": 1980
+      }
+    ],
+    "events": [
+      {
+        "title": "El Canal de Panamà obre al tràfic comercial",
+        "description": "El Canal de Panamà va obrir oficialment al tràfic comercial, connectant els oceans Atlàntic i Pacífic i transformant el comerç marítim mundial en eliminar el llarg desviament pel Cap d'Hornos.",
+        "year": 1914
+      },
+      {
+        "title": "James Dean mor en un accident de trànsit",
+        "description": "L'actor americà James Dean, símbol de la rebel·lia juvenil dels anys cinquanta, va morir als 24 anys quan el seu Porsche 550 Spyder va col·lisionar amb un altre vehicle a la Route 466, a Califòrnia. Només havia protagonitzat tres pel·lícules.",
+        "year": 1955
+      },
+      {
+        "title": "Inauguració de la Biblioteca d'Alexandria moderna",
+        "description": "La nova Biblioteca d'Alexandria (Bibliotheca Alexandrina) va ser inaugurada a Alexandria (Egipte), un projecte de la UNESCO per revifar l'esperit de l'antiga biblioteca hel·lenística destruïda a l'Antiguitat.",
+        "year": 2002
+      }
+    ]
+  }
+}

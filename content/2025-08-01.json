@@ -1,0 +1,291 @@
+{
+  "date": "2025-08-01",
+  "es": {
+    "saints": [
+      {
+        "name": "San Alfonso María de Ligorio",
+        "type": "Obispo y Doctor de la Iglesia",
+        "description": "Fundador de los Redentoristas (1696–1787). Abogado napolitano convertido en sacerdote, fue uno de los teólogos morales más influyentes del siglo XVIII. Patrono de los confesores y moralistas."
+      },
+      {
+        "name": "San Pedro de Osma",
+        "type": "Obispo",
+        "description": "Primer obispo de Osma tras la reconquista cristiana de la ciudad en el siglo XII. Discípulo de Santo Domingo de Silos, impulsó la restauración de la diócesis castellana."
+      },
+      {
+        "name": "Santa Faustina de Milán",
+        "type": "Mártir",
+        "description": "Mártir cristiana venerada en Milán desde los primeros siglos. Según la tradición, sufrió el martirio durante las persecuciones romanas junto con su hermana Liberata."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Lactancia Materna",
+        "description": "Conmemorado el 1 de agosto para promover la lactancia materna como la mejor nutrición para los recién nacidos y sensibilizar sobre sus beneficios para la salud infantil y materna."
+      },
+      {
+        "name": "Día de la Independencia de Benín",
+        "description": "Benín (antiguo Dahomey) celebra su independencia de Francia, proclamada el 1 de agosto de 1960. Es fiesta nacional en el país africano."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La ignorancia de las Escrituras es ignorancia de Cristo.",
+      "author": "San Jerónimo",
+      "context": "El padre de la Iglesia y traductor de la Biblia al latín (Vulgata) nació hacia el año 347. Esta cita sintetiza su convicción de que el estudio de las Sagradas Escrituras es el camino hacia el conocimiento de Dios."
+    },
+    "motivationalQuote": {
+      "text": "No cuentes los días; haz que los días cuenten.",
+      "author": "Muhammad Ali"
+    },
+    "births": [
+      {
+        "name": "Herman Melville",
+        "description": "Novelista estadounidense autor de Moby Dick (1851), considerada una de las grandes novelas de la literatura universal por su exploración de la obsesión, la naturaleza y el destino humano.",
+        "year": 1819
+      },
+      {
+        "name": "Francis Scott Key",
+        "description": "Abogado y poeta estadounidense autor del poema que se convirtió en el himno nacional de los Estados Unidos, The Star-Spangled Banner, escrito en 1814.",
+        "year": 1779
+      },
+      {
+        "name": "Yves Saint Laurent",
+        "description": "Diseñador de moda francés que revolucionó la moda femenina del siglo XX introduciendo el esmoquin para mujeres y el prêt-à-porter de lujo.",
+        "year": 1936
+      }
+    ],
+    "events": [
+      {
+        "title": "Inauguración del primer ferrocarril de Suiza",
+        "description": "El 1 de agosto de 1847 se inauguró la primera línea ferroviaria de Suiza, entre Zúrich y Baden, conocida popularmente como el «Spanisch Brötli Bahn» por los bollos que transportaba desde la capital.",
+        "year": 1847
+      },
+      {
+        "title": "Inicio de la Primera Guerra Mundial para el Imperio Alemán",
+        "description": "El 1 de agosto de 1914, Alemania declaró la guerra a Rusia, marcando su entrada oficial en la Primera Guerra Mundial, apenas dos días después del ultimátum austro-húngaro a Serbia.",
+        "year": 1914
+      },
+      {
+        "title": "Apertura del Canal de Corinto",
+        "description": "El canal que atraviesa el istmo griego de Corinto fue inaugurado el 25 de julio de 1893, pero el 1 de agosto de 1893 comenzó oficialmente a operar al tráfico comercial.",
+        "year": 1893
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Alphonsus Mary de Liguori",
+        "type": "Bishop and Doctor of the Church",
+        "description": "Founder of the Redemptorists (1696–1787). A Neapolitan lawyer turned priest, he was one of the most influential moral theologians of the 18th century. Patron of confessors and moralists."
+      },
+      {
+        "name": "Saint Peter of Osma",
+        "type": "Bishop",
+        "description": "First bishop of Osma after the Christian reconquest of the city in the 12th century. A disciple of Saint Dominic of Silos, he led the restoration of the Castilian diocese."
+      },
+      {
+        "name": "Saint Faustina of Milan",
+        "type": "Martyr",
+        "description": "Christian martyr venerated in Milan since the early centuries. According to tradition, she suffered martyrdom during the Roman persecutions alongside her sister Liberata."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Breastfeeding Week",
+        "description": "Observed on 1 August to promote breastfeeding as the best nutrition for newborns and to raise awareness of its benefits for infant and maternal health."
+      },
+      {
+        "name": "Independence Day of Benin",
+        "description": "Benin (formerly Dahomey) celebrates its independence from France, proclaimed on 1 August 1960. It is a national holiday in the African country."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Ignorance of Scripture is ignorance of Christ.",
+      "author": "Saint Jerome",
+      "context": "The Church Father and translator of the Bible into Latin (the Vulgate) was born around 347 AD. This quote encapsulates his conviction that studying Scripture is the path to knowing God."
+    },
+    "motivationalQuote": {
+      "text": "Don't count the days; make the days count.",
+      "author": "Muhammad Ali"
+    },
+    "births": [
+      {
+        "name": "Herman Melville",
+        "description": "American novelist, author of Moby-Dick (1851), considered one of the great novels of world literature for its exploration of obsession, nature, and human fate.",
+        "year": 1819
+      },
+      {
+        "name": "Francis Scott Key",
+        "description": "American lawyer and poet who wrote the poem that became the United States national anthem, The Star-Spangled Banner, in 1814.",
+        "year": 1779
+      },
+      {
+        "name": "Yves Saint Laurent",
+        "description": "French fashion designer who revolutionised 20th-century women's fashion by introducing the tuxedo suit for women and luxury ready-to-wear clothing.",
+        "year": 1936
+      }
+    ],
+    "events": [
+      {
+        "title": "Opening of Switzerland's first railway",
+        "description": "On 1 August 1847, Switzerland's first railway line opened between Zurich and Baden, popularly known as the 'Spanisch Brötli Bahn' for the bread rolls it transported from the capital.",
+        "year": 1847
+      },
+      {
+        "title": "Germany enters World War I",
+        "description": "On 1 August 1914, Germany declared war on Russia, marking its official entry into World War I, just two days after the Austro-Hungarian ultimatum to Serbia.",
+        "year": 1914
+      },
+      {
+        "title": "Corinth Canal opens to commercial traffic",
+        "description": "The canal crossing the Greek isthmus of Corinth, inaugurated on 25 July 1893, officially began operating for commercial shipping on 1 August 1893.",
+        "year": 1893
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Afonso Maria de Ligório",
+        "type": "Bispo e Doutor da Igreja",
+        "description": "Fundador dos Redentoristas (1696–1787). Advogado napolitano convertido em sacerdote, foi um dos mais influentes teólogos morais do século XVIII. Padroeiro dos confessores e moralistas."
+      },
+      {
+        "name": "São Pedro de Osma",
+        "type": "Bispo",
+        "description": "Primeiro bispo de Osma após a reconquista cristã da cidade no século XII. Discípulo de Santo Domingo de Silos, impulsionou a restauração da diocese castelhana."
+      },
+      {
+        "name": "Santa Faustina de Milão",
+        "type": "Mártir",
+        "description": "Mártir cristã venerada em Milão desde os primeiros séculos. Segundo a tradição, sofreu o martírio durante as perseguições romanas ao lado de sua irmã Liberata."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Semana Mundial do Aleitamento Materno",
+        "description": "Comemorada em 1º de agosto para promover o aleitamento materno como a melhor nutrição para os recém-nascidos e sensibilizar sobre os seus benefícios para a saúde infantil e materna."
+      },
+      {
+        "name": "Dia da Independência do Benim",
+        "description": "O Benim (antigo Daomé) celebra a sua independência da França, proclamada em 1º de agosto de 1960. É feriado nacional no país africano."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A ignorância das Escrituras é a ignorância de Cristo.",
+      "author": "São Jerônimo",
+      "context": "O Padre da Igreja e tradutor da Bíblia para o latim (a Vulgata) nasceu por volta do ano 347. Esta citação sintetiza a sua convicção de que estudar as Escrituras é o caminho para conhecer a Deus."
+    },
+    "motivationalQuote": {
+      "text": "Não conte os dias; faça os dias contarem.",
+      "author": "Muhammad Ali"
+    },
+    "births": [
+      {
+        "name": "Herman Melville",
+        "description": "Romancista americano, autor de Moby Dick (1851), considerado um dos grandes romances da literatura universal pela sua exploração da obsessão, da natureza e do destino humano.",
+        "year": 1819
+      },
+      {
+        "name": "Francis Scott Key",
+        "description": "Advogado e poeta americano que escreveu o poema que se tornou o hino nacional dos Estados Unidos, The Star-Spangled Banner, em 1814.",
+        "year": 1779
+      },
+      {
+        "name": "Yves Saint Laurent",
+        "description": "Estilista francês que revolucionou a moda feminina do século XX ao introduzir o smoking para mulheres e o prêt-à-porter de luxo.",
+        "year": 1936
+      }
+    ],
+    "events": [
+      {
+        "title": "Inauguração da primeira ferrovia da Suíça",
+        "description": "Em 1º de agosto de 1847, foi inaugurada a primeira linha ferroviária da Suíça, entre Zurique e Baden, popularmente conhecida como 'Spanisch Brötli Bahn' pelos pãezinhos que transportava da capital.",
+        "year": 1847
+      },
+      {
+        "title": "Alemanha entra na Primeira Guerra Mundial",
+        "description": "Em 1º de agosto de 1914, a Alemanha declarou guerra à Rússia, marcando a sua entrada oficial na Primeira Guerra Mundial, apenas dois dias após o ultimato austro-húngaro à Sérvia.",
+        "year": 1914
+      },
+      {
+        "title": "Canal de Corinto abre ao tráfego comercial",
+        "description": "O canal que atravessa o istmo grego de Corinto, inaugurado em 25 de julho de 1893, começou oficialmente a operar para o transporte comercial em 1º de agosto de 1893.",
+        "year": 1893
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Alfons Maria de Liguori",
+        "type": "Bisbe i Doctor de l'Església",
+        "description": "Fundador dels Redentoristes (1696–1787). Advocat napolità convertit en sacerdot, fou un dels teòlegs moralistes més influents del segle XVIII. Patró dels confessors i moralistes."
+      },
+      {
+        "name": "Sant Pere d'Osma",
+        "type": "Bisbe",
+        "description": "Primer bisbe d'Osma després de la reconquesta cristiana de la ciutat al segle XII. Deixeble de Sant Domingo de Silos, va impulsar la restauració de la diòcesi castellana."
+      },
+      {
+        "name": "Santa Faustina de Milà",
+        "type": "Màrtir",
+        "description": "Màrtir cristiana venerada a Milà des dels primers segles. Segons la tradició, va patir el martiri durant les persecucions romanes al costat de la seva germana Liberata."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Setmana Mundial de la Lactància Materna",
+        "description": "Commemorada l'1 d'agost per promoure la lactància materna com la millor nutrició per als nadons i sensibilitzar sobre els seus beneficis per a la salut infantil i materna."
+      },
+      {
+        "name": "Dia de la Independència del Benín",
+        "description": "El Benín (antic Dahomey) celebra la seva independència de França, proclamada l'1 d'agost de 1960. És festa nacional al país africà."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La ignorància de les Escriptures és la ignorància de Crist.",
+      "author": "Sant Jeroni",
+      "context": "El Pare de l'Església i traductor de la Bíblia al llatí (la Vulgata) va néixer cap a l'any 347. Aquesta cita sintetitza la seva convicció que estudiar les Escriptures és el camí per conèixer Déu."
+    },
+    "motivationalQuote": {
+      "text": "No comptis els dies; fes que els dies comptin.",
+      "author": "Muhammad Ali"
+    },
+    "births": [
+      {
+        "name": "Herman Melville",
+        "description": "Novel·lista americà, autor de Moby Dick (1851), considerada una de les grans novel·les de la literatura universal per la seva exploració de l'obsessió, la natura i el destí humà.",
+        "year": 1819
+      },
+      {
+        "name": "Francis Scott Key",
+        "description": "Advocat i poeta americà que va escriure el poema que es va convertir en l'himne nacional dels Estats Units, The Star-Spangled Banner, el 1814.",
+        "year": 1779
+      },
+      {
+        "name": "Yves Saint Laurent",
+        "description": "Dissenyador de moda francès que va revolucionar la moda femenina del segle XX introduint el esmòquing per a dones i el prêt-à-porter de luxe.",
+        "year": 1936
+      }
+    ],
+    "events": [
+      {
+        "title": "Inauguració del primer ferrocarril de Suïssa",
+        "description": "L'1 d'agost de 1847 es va inaugurar la primera línia ferroviària de Suïssa, entre Zuric i Baden, coneguda popularment com el 'Spanisch Brötli Bahn' pels brioixets que transportava des de la capital.",
+        "year": 1847
+      },
+      {
+        "title": "Alemanya entra a la Primera Guerra Mundial",
+        "description": "L'1 d'agost de 1914, Alemanya va declarar la guerra a Rússia, marcant la seva entrada oficial a la Primera Guerra Mundial, tan sols dos dies després de l'ultimàtum austrohongarès a Sèrbia.",
+        "year": 1914
+      },
+      {
+        "title": "El canal de Corint obre al tràfic comercial",
+        "description": "El canal que travessa l'istme grec de Corint, inaugurat el 25 de juliol de 1893, va començar oficialment a operar per al transport comercial l'1 d'agost de 1893.",
+        "year": 1893
+      }
+    ]
+  }
+}

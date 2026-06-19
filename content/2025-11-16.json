@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-16",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Margarita de Escocia",
+        "type": "Reina",
+        "description": "Reina de Escocia del siglo XI, esposa del rey Malcom III, conocida por su extraordinaria devoción, su reforma de la Iglesia escocesa y su caridad con los pobres. Canonizada en 1250 y proclamada patrona de Escocia."
+      },
+      {
+        "name": "San Edmundo de Abingdon",
+        "type": "Obispo",
+        "description": "Arzobispo de Canterbury del siglo XIII, teólogo y reformador. Fue el último arzobispo de Canterbury en ser canonizado (1246). Promovió la piedad mariana y la reforma eclesiástica en Inglaterra."
+      },
+      {
+        "name": "Santa Gertrude la Grande",
+        "type": "Virgen",
+        "description": "Monja y mística benedictina alemana del siglo XIII, también celebrada el 16 de noviembre en algunas diócesis. Autora de las Revelaciones de Santa Gertrude, obra mística fundamental."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional para la Tolerancia",
+        "description": "Proclamado por la UNESCO en 1996 para fomentar el respeto mutuo entre culturas, creencias y personas. Se celebra en el aniversario de la aprobación de la Declaración de Principios sobre la Tolerancia (1995)."
+      },
+      {
+        "name": "Día Internacional del Flamenco",
+        "description": "Jornada celebrada en España y en todo el mundo para rendir homenaje al flamenco, declarado Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO en 2010."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La tolerancia es el valor que lo hace todo posible.",
+      "author": "Goethe",
+      "context": "El poeta y pensador alemán, cuya obra abarca el Clasicismo y el Romanticismo, veía la tolerancia como la virtud civil más necesaria para el progreso de la humanidad."
+    },
+    "motivationalQuote": {
+      "text": "La vida no se mide por el número de respiraciones que tomamos, sino por los momentos que nos dejan sin aliento.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "W.C. Handy",
+        "description": "Músico y compositor estadounidense conocido como el 'Padre del Blues', autor de St. Louis Blues (1914) y Memphis Blues, que llevaron el blues al gran público.",
+        "year": 1873
+      },
+      {
+        "name": "Burgess Meredith",
+        "description": "Actor estadounidense conocido por interpretar al entrenador Mickey en la saga Rocky y al Pingüino en la serie Batman de los años sesenta.",
+        "year": 1907
+      },
+      {
+        "name": "Maggie Gyllenhaal",
+        "description": "Actriz y directora estadounidense, nominada al Oscar por Secretaria ejecutiva, conocida por El oscuro caballero y la serie The Deuce.",
+        "year": 1977
+      }
+    ],
+    "events": [
+      {
+        "title": "Congreso de México decreta la Independencia de Texas",
+        "description": "El Congreso mexicano reconoció formalmente la independencia de Texas, aunque el conflicto con la República de Texas continuó hasta su anexión por Estados Unidos en 1845.",
+        "year": 1836
+      },
+      {
+        "title": "Se inaugura la Catedral de la Sagrada Familia",
+        "description": "Antoni Gaudí presentó los planos definitivos de la Sagrada Familia ante el obispado de Barcelona, dando inicio oficialmente a la construcción de la catedral más famosa del mundo moderno.",
+        "year": 1883
+      },
+      {
+        "title": "Oklahoma se convierte en el estado 46 de EE.UU.",
+        "description": "Oklahoma fue admitida como el estado número 46 de la Unión, con sus ricas tierras indígenas y el inicio del boom del petróleo que transformaría su economía.",
+        "year": 1907
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Margaret of Scotland",
+        "type": "Queen",
+        "description": "11th-century Queen of Scotland, wife of King Malcolm III, renowned for her extraordinary devotion, her reform of the Scottish Church, and her charity towards the poor. Canonised in 1250 and proclaimed patron of Scotland."
+      },
+      {
+        "name": "Saint Edmund of Abingdon",
+        "type": "Bishop",
+        "description": "13th-century Archbishop of Canterbury, theologian, and reformer. He was the last Archbishop of Canterbury to be canonised (1246). He promoted Marian piety and ecclesiastical reform in England."
+      },
+      {
+        "name": "Saint Gertrude the Great",
+        "type": "Virgin",
+        "description": "13th-century German Benedictine nun and mystic, also celebrated on 16 November in some dioceses. Author of the Revelations of Saint Gertrude, a foundational mystical work."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day for Tolerance",
+        "description": "Proclaimed by UNESCO in 1996 to promote mutual respect among cultures, beliefs, and peoples. Celebrated on the anniversary of the adoption of the Declaration of Principles on Tolerance (1995)."
+      },
+      {
+        "name": "International Flamenco Day",
+        "description": "A day celebrated in Spain and worldwide to pay tribute to flamenco, declared an Intangible Cultural Heritage of Humanity by UNESCO in 2010."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Tolerance is the value that makes everything else possible.",
+      "author": "Goethe",
+      "context": "The German poet and thinker, whose work spans Classicism and Romanticism, saw tolerance as the most necessary civil virtue for human progress."
+    },
+    "motivationalQuote": {
+      "text": "Life is not measured by the number of breaths we take, but by the moments that take our breath away.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "W.C. Handy",
+        "description": "American musician and composer known as the 'Father of the Blues', author of St. Louis Blues (1914) and Memphis Blues, which brought the blues to mass audiences.",
+        "year": 1873
+      },
+      {
+        "name": "Burgess Meredith",
+        "description": "American actor known for playing trainer Mickey in the Rocky franchise and the Penguin in the 1960s Batman television series.",
+        "year": 1907
+      },
+      {
+        "name": "Maggie Gyllenhaal",
+        "description": "American actress and director, Oscar-nominated for Secretary, known for The Dark Knight and the series The Deuce.",
+        "year": 1977
+      }
+    ],
+    "events": [
+      {
+        "title": "Mexican Congress recognises Texas independence",
+        "description": "The Mexican Congress formally recognised the independence of Texas, though the conflict with the Republic of Texas continued until its annexation by the United States in 1845.",
+        "year": 1836
+      },
+      {
+        "title": "Gaudí presents plans for the Sagrada Família",
+        "description": "Antoni Gaudí presented the final plans for the Sagrada Família to the Barcelona bishopric, officially launching the construction of the world's most famous modern cathedral.",
+        "year": 1883
+      },
+      {
+        "title": "Oklahoma becomes the 46th US state",
+        "description": "Oklahoma was admitted as the 46th state of the Union, with its rich indigenous lands and the beginning of the oil boom that would transform its economy.",
+        "year": 1907
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Margarida da Escócia",
+        "type": "Rainha",
+        "description": "Rainha da Escócia do século XI, esposa do rei Malcom III, conhecida pela sua extraordinária devoção, a sua reforma da Igreja escocesa e a sua caridade com os pobres. Canonizada em 1250 e proclamada patrona da Escócia."
+      },
+      {
+        "name": "São Edmundo de Abingdon",
+        "type": "Bispo",
+        "description": "Arcebispo de Canterbury do século XIII, teólogo e reformador. Foi o último arcebispo de Canterbury a ser canonizado (1246). Promoveu a piedade mariana e a reforma eclesiástica na Inglaterra."
+      },
+      {
+        "name": "Santa Gertrudes, a Grande",
+        "type": "Virgem",
+        "description": "Monja e mística beneditina alemã do século XIII, também celebrada a 16 de novembro em algumas dioceses. Autora das Revelações de Santa Gertrudes, obra mística fundamental."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional para a Tolerância",
+        "description": "Proclamado pela UNESCO em 1996 para fomentar o respeito mútuo entre culturas, crenças e pessoas. Celebrado no aniversário da aprovação da Declaração de Princípios sobre a Tolerância (1995)."
+      },
+      {
+        "name": "Dia Internacional do Flamenco",
+        "description": "Jornada celebrada em Espanha e em todo o mundo para prestar homenagem ao flamenco, declarado Património Cultural Imaterial da Humanidade pela UNESCO em 2010."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A tolerância é o valor que torna tudo possível.",
+      "author": "Goethe",
+      "context": "O poeta e pensador alemão, cuja obra abrange o Classicismo e o Romantismo, via a tolerância como a virtude civil mais necessária para o progresso da humanidade."
+    },
+    "motivationalQuote": {
+      "text": "A vida não se mede pelo número de respirações que tomamos, mas pelos momentos que nos tiram o fôlego.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "W.C. Handy",
+        "description": "Músico e compositor americano conhecido como o 'Pai do Blues', autor de St. Louis Blues (1914) e Memphis Blues, que levaram o blues ao grande público.",
+        "year": 1873
+      },
+      {
+        "name": "Burgess Meredith",
+        "description": "Ator americano conhecido por interpretar o treinador Mickey na saga Rocky e o Pinguim na série Batman dos anos sessenta.",
+        "year": 1907
+      },
+      {
+        "name": "Maggie Gyllenhaal",
+        "description": "Atriz e diretora americana, indicada ao Oscar por Secretária Executiva, conhecida por O Cavaleiro das Trevas e a série The Deuce.",
+        "year": 1977
+      }
+    ],
+    "events": [
+      {
+        "title": "Congresso mexicano reconhece a independência do Texas",
+        "description": "O Congresso mexicano reconheceu formalmente a independência do Texas, embora o conflito com a República do Texas tenha continuado até à sua anexação pelos Estados Unidos em 1845.",
+        "year": 1836
+      },
+      {
+        "title": "Gaudí apresenta os planos da Sagrada Família",
+        "description": "Antoni Gaudí apresentou os planos definitivos da Sagrada Família ao bispado de Barcelona, iniciando oficialmente a construção da catedral mais famosa do mundo moderno.",
+        "year": 1883
+      },
+      {
+        "title": "Oklahoma torna-se o 46.º estado dos EUA",
+        "description": "Oklahoma foi admitida como o 46.º estado da União, com as suas ricas terras indígenas e o início do boom do petróleo que transformaria a sua economia.",
+        "year": 1907
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Margarida d'Escòcia",
+        "type": "Reina",
+        "description": "Reina d'Escòcia del segle XI, esposa del rei Malcom III, coneguda per la seva extraordinària devoció, la reforma de l'Església escocesa i la seva caritat amb els pobres. Canonitzada el 1250 i proclamada patrona d'Escòcia."
+      },
+      {
+        "name": "Sant Edmond d'Abingdon",
+        "type": "Bisbe",
+        "description": "Arquebisbe de Canterbury del segle XIII, teòleg i reformador. Va ser l'últim arquebisbe de Canterbury canonitzat (1246). Va promoure la pietat mariana i la reforma eclesiàstica a Anglaterra."
+      },
+      {
+        "name": "Santa Gertrudis la Gran",
+        "type": "Verge",
+        "description": "Monja i mística benedictina alemanya del segle XIII, també celebrada el 16 de novembre en algunes diòcesis. Autora de les Revelacions de Santa Gertrudis, obra mística fonamental."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional per a la Tolerància",
+        "description": "Proclamat per la UNESCO el 1996 per fomentar el respecte mutu entre cultures, creences i persones. Es celebra en l'aniversari de l'aprovació de la Declaració de Principis sobre la Tolerància (1995)."
+      },
+      {
+        "name": "Dia Internacional del Flamenc",
+        "description": "Jornada celebrada a Espanya i arreu del món per retre homenatge al flamenc, declarat Patrimoni Cultural Immaterial de la Humanitat per la UNESCO el 2010."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La tolerància és el valor que fa possible tot allò demés.",
+      "author": "Goethe",
+      "context": "El poeta i pensador alemany, l'obra del qual abasta el Classicisme i el Romanticisme, veia la tolerància com la virtut civil més necessària per al progrés de la humanitat."
+    },
+    "motivationalQuote": {
+      "text": "La vida no es mesura pel nombre de respiracions que fem, sinó pels moments que ens deixen sense alè.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "W.C. Handy",
+        "description": "Músic i compositor americà conegut com el 'Pare del Blues', autor de St. Louis Blues (1914) i Memphis Blues, que van portar el blues al gran públic.",
+        "year": 1873
+      },
+      {
+        "name": "Burgess Meredith",
+        "description": "Actor americà conegut per interpretar l'entrenador Mickey a la saga Rocky i el Pingüí a la sèrie Batman dels anys seixanta.",
+        "year": 1907
+      },
+      {
+        "name": "Maggie Gyllenhaal",
+        "description": "Actriu i directora americana, nominada a l'Oscar per Secretaria Executiva, coneguda per El cavaller fosc i la sèrie The Deuce.",
+        "year": 1977
+      }
+    ],
+    "events": [
+      {
+        "title": "El Congrés mexicà reconeix la independència del Texas",
+        "description": "El Congrés mexicà va reconèixer formalment la independència del Texas, tot i que el conflicte amb la República del Texas va continuar fins a la seva annexió pels Estats Units el 1845.",
+        "year": 1836
+      },
+      {
+        "title": "Gaudí presenta els plànols de la Sagrada Família",
+        "description": "Antoni Gaudí va presentar els plànols definitius de la Sagrada Família davant el bisbat de Barcelona, iniciant oficialment la construcció de la catedral més famosa del món modern.",
+        "year": 1883
+      },
+      {
+        "title": "Oklahoma es converteix en el 46è estat dels EUA",
+        "description": "Oklahoma va ser admesa com el 46è estat de la Unió, amb les seves riques terres indígenes i l'inici del boom del petroli que transformaria la seva economia.",
+        "year": 1907
+      }
+    ]
+  }
+}

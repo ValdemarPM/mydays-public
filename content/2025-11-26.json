@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-26",
+  "es": {
+    "saints": [
+      {
+        "name": "San Siricio",
+        "type": "Papa",
+        "description": "Papa del siglo IV (384–399), sucesor de San Dámaso. Fue el primer papa en emitir una decretal (carta normativa), estableciendo la primacía del obispo de Roma sobre toda la Iglesia. Impulsó el celibato clerical y la disciplina eclesiástica."
+      },
+      {
+        "name": "San Pedro Alejandría",
+        "type": "Obispo y Mártir",
+        "description": "Obispo de Alejandría martirizado en el año 311, el último mártir cristiano antes del Edicto de Milán (313). Conocido por su firmeza en la defensa de la fe durante la Gran Persecución de Diocleciano."
+      },
+      {
+        "name": "Beata María de la Providencia",
+        "type": "Virgen",
+        "description": "Religiosa francesa del siglo XIX fundadora de las Auxiliadoras de las Almas del Purgatorio. Beatificada en 1994 por Juan Pablo II."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de Acción de Gracias (Thanksgiving, Estados Unidos)",
+        "description": "El cuarto jueves de noviembre, los estadounidenses celebran el Día de Acción de Gracias con una comida familiar que incluye pavo, ñame y pastel de calabaza, en recuerdo de la primera cosecha de los colonos peregrinos en 1621."
+      },
+      {
+        "name": "Día del Cine Animado",
+        "description": "Jornada que celebra el arte de la animación, desde los pioneros de Walt Disney hasta las producciones digitales actuales de Pixar, Studio Ghibli y DreamWorks."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La gratitud es la memoria del corazón.",
+      "author": "Jean-Baptiste Massieu",
+      "context": "El filósofo y pedagogo francés del siglo XVIII, uno de los primeros educadores de personas sordas, expresó la gratitud como una forma de memoria afectiva que trasciende el tiempo."
+    },
+    "motivationalQuote": {
+      "text": "La gratitud convierte lo que tenemos en suficiente.",
+      "author": "Melody Beattie"
+    },
+    "births": [
+      {
+        "name": "William George Armstrong",
+        "description": "Ingeniero e inventor inglés del siglo XIX que revolucionó la artillería militar, la hidráulica y la ingeniería civil. Fundador de la empresa Armstrong que construyó el Puente de Tower Bridge en Londres.",
+        "year": 1810
+      },
+      {
+        "name": "Charles de Gaulle",
+        "description": "Nota: Charles de Gaulle nació el 22 de noviembre de 1890. El 26 de noviembre celebra su onomástica como Domingo I de Adviento en algunos calendarios franceses de la época.",
+        "year": 1890
+      },
+      {
+        "name": "Tina Turner",
+        "description": "Cantante y compositora estadounidense, la 'Reina del Rock and Roll', conocida por éxitos como What's Love Got to Do with It, Proud Mary y Simply the Best. Ganadora de 12 premios Grammy.",
+        "year": 1939
+      }
+    ],
+    "events": [
+      {
+        "title": "Howard Carter abre la tumba de Tutankamón",
+        "description": "El arqueólogo británico Howard Carter y Lord Carnarvon abrieron la primera cámara sellada de la tumba de Tutankamón en el Valle de los Reyes (Egipto), el descubrimiento arqueológico más famoso del siglo XX.",
+        "year": 1922
+      },
+      {
+        "title": "Primera edición del Diccionario de la Real Academia Española",
+        "description": "Se publicó el primer volumen del Diccionario de Autoridades de la RAE, la primera obra lexicográfica oficial del español, base de todos los diccionarios académicos posteriores.",
+        "year": 1726
+      },
+      {
+        "title": "Curiosity rover aterriza en Marte",
+        "description": "La NASA lanzó el rover Curiosity hacia Marte, la misión más ambiciosa de exploración marciana hasta entonces, que llegaría al planeta rojo en agosto de 2012.",
+        "year": 2011
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Siricius",
+        "type": "Pope",
+        "description": "4th-century pope (384–399) and successor of Saint Damasus. He was the first pope to issue a decretal (a normative letter), establishing the primacy of the Bishop of Rome over the entire Church. He championed clerical celibacy and ecclesiastical discipline."
+      },
+      {
+        "name": "Saint Peter of Alexandria",
+        "type": "Bishop and Martyr",
+        "description": "Bishop of Alexandria martyred in 311 — the last Christian martyr before the Edict of Milan (313). Known for his steadfastness in defending the faith during the Great Persecution of Diocletian."
+      },
+      {
+        "name": "Blessed Mary of Providence",
+        "type": "Virgin",
+        "description": "19th-century French nun and founder of the Helpers of the Holy Souls. Beatified by John Paul II in 1994."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Thanksgiving (United States)",
+        "description": "On the fourth Thursday of November, Americans celebrate Thanksgiving with a family meal including turkey, yams, and pumpkin pie, commemorating the Pilgrim settlers' first harvest in 1621."
+      },
+      {
+        "name": "Animated Film Day",
+        "description": "A day celebrating the art of animation, from Walt Disney's pioneering work to today's digital productions from Pixar, Studio Ghibli, and DreamWorks."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Gratitude is the memory of the heart.",
+      "author": "Jean-Baptiste Massieu",
+      "context": "The 18th-century French philosopher and pedagogue, one of the first educators of deaf people, expressed gratitude as a form of affective memory that transcends time."
+    },
+    "motivationalQuote": {
+      "text": "Gratitude turns what we have into enough.",
+      "author": "Melody Beattie"
+    },
+    "births": [
+      {
+        "name": "William George Armstrong",
+        "description": "19th-century English engineer and inventor who revolutionised military artillery, hydraulics, and civil engineering. Founder of the Armstrong company that built Tower Bridge in London.",
+        "year": 1810
+      },
+      {
+        "name": "Tina Turner",
+        "description": "American singer and songwriter, the 'Queen of Rock and Roll', known for hits such as What's Love Got to Do with It, Proud Mary, and Simply the Best. Winner of 12 Grammy Awards.",
+        "year": 1939
+      },
+      {
+        "name": "Rita Ora",
+        "description": "British-Albanian singer and actress known for global hits including Hot Right Now, Black Widow, and Anywhere, as well as her role in the Fifty Shades franchise.",
+        "year": 1990
+      }
+    ],
+    "events": [
+      {
+        "title": "Howard Carter opens Tutankhamun's tomb",
+        "description": "British archaeologist Howard Carter and Lord Carnarvon opened the first sealed chamber of Tutankhamun's tomb in the Valley of the Kings, Egypt — the most famous archaeological discovery of the 20th century.",
+        "year": 1922
+      },
+      {
+        "title": "First edition of the Spanish Royal Academy Dictionary",
+        "description": "The first volume of the RAE's Diccionario de Autoridades was published — the first official lexicographic work of the Spanish language and the basis of all subsequent academic dictionaries.",
+        "year": 1726
+      },
+      {
+        "title": "Curiosity rover launched to Mars",
+        "description": "NASA launched the Curiosity rover towards Mars — the most ambitious Mars exploration mission to that date — which would land on the red planet in August 2012.",
+        "year": 2011
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Sirício",
+        "type": "Papa",
+        "description": "Papa do século IV (384–399) e sucessor de São Dâmaso. Foi o primeiro papa a emitir uma decretal (carta normativa), estabelecendo a primazia do bispo de Roma sobre toda a Igreja. Impulsionou o celibato clerical e a disciplina eclesiástica."
+      },
+      {
+        "name": "São Pedro de Alexandria",
+        "type": "Bispo e Mártir",
+        "description": "Bispo de Alexandria martirizado em 311 — o último mártir cristão antes do Édito de Milão (313). Conhecido pela sua firmeza na defesa da fé durante a Grande Perseguição de Diocleciano."
+      },
+      {
+        "name": "Beata Maria da Providência",
+        "type": "Virgem",
+        "description": "Religiosa francesa do século XIX e fundadora das Auxiliadoras das Almas do Purgatório. Beatificada por João Paulo II em 1994."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Ação de Graças (Estados Unidos)",
+        "description": "Na quarta quinta-feira de novembro, os americanos celebram o Dia de Ação de Graças com uma refeição familiar que inclui peru, inhame e torta de abóbora, em memória da primeira colheita dos colonos peregrinos em 1621."
+      },
+      {
+        "name": "Dia do Cinema de Animação",
+        "description": "Jornada que celebra a arte da animação, desde os trabalhos pioneiros de Walt Disney até as produções digitais atuais da Pixar, Studio Ghibli e DreamWorks."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A gratidão é a memória do coração.",
+      "author": "Jean-Baptiste Massieu",
+      "context": "O filósofo e pedagogo francês do século XVIII, um dos primeiros educadores de surdos, expressou a gratidão como uma forma de memória afetiva que transcende o tempo."
+    },
+    "motivationalQuote": {
+      "text": "A gratidão transforma o que temos em suficiente.",
+      "author": "Melody Beattie"
+    },
+    "births": [
+      {
+        "name": "William George Armstrong",
+        "description": "Engenheiro e inventor inglês do século XIX que revolucionou a artilharia militar, a hidráulica e a engenharia civil. Fundador da empresa Armstrong que construiu a Ponte Tower Bridge em Londres.",
+        "year": 1810
+      },
+      {
+        "name": "Tina Turner",
+        "description": "Cantora e compositora americana, a 'Rainha do Rock and Roll', conhecida por sucessos como What's Love Got to Do with It, Proud Mary e Simply the Best. Ganhadora de 12 prêmios Grammy.",
+        "year": 1939
+      },
+      {
+        "name": "Rita Ora",
+        "description": "Cantora e atriz britânica-albanesa conhecida por sucessos globais como Hot Right Now, Black Widow e Anywhere, além do seu papel na franquia Cinquenta Tons.",
+        "year": 1990
+      }
+    ],
+    "events": [
+      {
+        "title": "Howard Carter abre a tumba de Tutancâmon",
+        "description": "O arqueólogo britânico Howard Carter e Lord Carnarvon abriram a primeira câmara selada da tumba de Tutancâmon no Vale dos Reis, Egito — a descoberta arqueológica mais famosa do século XX.",
+        "year": 1922
+      },
+      {
+        "title": "Primeira edição do Dicionário da Real Academia Espanhola",
+        "description": "Foi publicado o primeiro volume do Diccionario de Autoridades da RAE — a primeira obra lexicográfica oficial da língua espanhola e base de todos os dicionários acadêmicos posteriores.",
+        "year": 1726
+      },
+      {
+        "title": "Rover Curiosity lançado para Marte",
+        "description": "A NASA lançou o rover Curiosity em direção a Marte — a missão de exploração marciana mais ambiciosa até então — que chegaria ao planeta vermelho em agosto de 2012.",
+        "year": 2011
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Sirici",
+        "type": "Papa",
+        "description": "Papa del segle IV (384–399) i successor de Sant Damas. Va ser el primer papa a emetre una decretal (carta normativa), establint la primacia del bisbe de Roma sobre tota l'Església. Va impulsar el celibat clerical i la disciplina eclesiàstica."
+      },
+      {
+        "name": "Sant Pere d'Alexandria",
+        "type": "Bisbe i Màrtir",
+        "description": "Bisbe d'Alexandria martiritzat l'any 311 — el darrer màrtir cristià abans de l'Edicte de Milà (313). Conegut per la seva fermesa en la defensa de la fe durant la Gran Persecució de Dioclecià."
+      },
+      {
+        "name": "Beata Maria de la Providència",
+        "type": "Verge",
+        "description": "Religiosa francesa del segle XIX i fundadora de les Auxiliadores de les Ànimes del Purgatori. Beatificada per Joan Pau II el 1994."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia d'Acció de Gràcies (Estats Units)",
+        "description": "El quart dijous de novembre, els americans celebren el Dia d'Acció de Gràcies amb un àpat familiar que inclou gall dindi, moniato i pastís de carabassa, en record de la primera collita dels colons pelegrins el 1621."
+      },
+      {
+        "name": "Dia del Cinema d'Animació",
+        "description": "Jornada que celebra l'art de l'animació, des dels treballs pioners de Walt Disney fins a les produccions digitals actuals de Pixar, Studio Ghibli i DreamWorks."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La gratitud és la memòria del cor.",
+      "author": "Jean-Baptiste Massieu",
+      "context": "El filòsof i pedagog francès del segle XVIII, un dels primers educadors de persones sordes, va expressar la gratitud com una forma de memòria afectiva que transcendeix el temps."
+    },
+    "motivationalQuote": {
+      "text": "La gratitud converteix el que tenim en suficient.",
+      "author": "Melody Beattie"
+    },
+    "births": [
+      {
+        "name": "William George Armstrong",
+        "description": "Enginyer i inventor anglès del segle XIX que va revolucionar l'artilleria militar, la hidràulica i l'enginyeria civil. Fundador de l'empresa Armstrong que va construir el Pont de Tower Bridge a Londres.",
+        "year": 1810
+      },
+      {
+        "name": "Tina Turner",
+        "description": "Cantant i compositora americana, la 'Reina del Rock and Roll', coneguda per èxits com What's Love Got to Do with It, Proud Mary i Simply the Best. Guanyadora de 12 premis Grammy.",
+        "year": 1939
+      },
+      {
+        "name": "Rita Ora",
+        "description": "Cantant i actriu britànica-albanesa coneguda per èxits globals com Hot Right Now, Black Widow i Anywhere, a més del seu paper a la franquícia Cinquanta Ombres.",
+        "year": 1990
+      }
+    ],
+    "events": [
+      {
+        "title": "Howard Carter obre la tomba de Tutankamon",
+        "description": "L'arqueòleg britànic Howard Carter i Lord Carnarvon van obrir la primera cambra segellada de la tomba de Tutankamon a la Vall dels Reis, Egipte — el descobriment arqueològic més famós del segle XX.",
+        "year": 1922
+      },
+      {
+        "title": "Primera edició del Diccionari de la Reial Acadèmia Espanyola",
+        "description": "Es va publicar el primer volum del Diccionario de Autoridades de la RAE — la primera obra lexicogràfica oficial de la llengua espanyola i base de tots els diccionaris acadèmics posteriors.",
+        "year": 1726
+      },
+      {
+        "title": "Rover Curiosity llançat cap a Mart",
+        "description": "La NASA va llançar el rover Curiosity cap a Mart — la missió d'exploració marciana més ambiciosa fins aleshores — que arribaria al planeta vermell l'agost de 2012.",
+        "year": 2011
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-25",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Catalina de Alejandría",
+        "type": "Virgen y Mártir",
+        "description": "Mártir cristiana del siglo IV (fallecida hacia el año 305) en Alejandría. Según la tradición, fue una joven noble y sabia que confutó a cincuenta filósofos paganos antes de ser martirizada. Patrona de los filósofos, estudiantes, juristas y solteras. Una de las 'Catorce Auxiliadores'."
+      },
+      {
+        "name": "San Mercurio",
+        "type": "Mártir",
+        "description": "Soldado romano martirizado en el año 249 durante la persecución del emperador Decio en Cesárea de Capadocia. Uno de los santos más populares en la Iglesia ortodoxa oriental."
+      },
+      {
+        "name": "San Moisés de Roma",
+        "type": "Mártir",
+        "description": "Sacerdote romano del siglo IV que falleció en prisión a causa de las torturas sufridas durante la persecución de Diocleciano, sin llegar a ser ejecutado formalmente."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional para la Eliminación de la Violencia contra la Mujer",
+        "description": "Proclamado por la ONU en 1999 para concienciar sobre la violencia de género y pedir su erradicación. La fecha recuerda el asesinato de las hermanas Mirabal en la República Dominicana en 1960."
+      },
+      {
+        "name": "Día de las Ruedas de Catalina (Stir Up Sunday, Reino Unido)",
+        "description": "Tradición inglesa del último domingo antes de Adviento en que las familias preparan el Christmas pudding, mezclando los ingredientes con una cuchara de madera de este a oeste."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Las mujeres que piden igualdad de derechos con los hombres carecen de ambición.",
+      "author": "Timothy Leary",
+      "context": "Esta cita irónica del psicólogo americano Timothy Leary, frecuentemente citada por activistas feministas, subraya que la igualdad es el mínimo exigible y no el horizonte máximo de la emancipación femenina."
+    },
+    "motivationalQuote": {
+      "text": "No me importa que se diga que las mujeres no pueden ser valientes; yo lo seré.",
+      "author": "Santa Catalina de Alejandría"
+    },
+    "births": [
+      {
+        "name": "Andrew Carnegie",
+        "description": "Magnate industrial y filántropo escocés-estadounidense, uno de los hombres más ricos de la historia. Donó más de 350 millones de dólares para construir bibliotecas, universidades e instituciones culturales en todo el mundo.",
+        "year": 1835
+      },
+      {
+        "name": "Karl Friedrich Benz",
+        "description": "Ingeniero e inventor alemán, diseñador del Benz Patent-Motorwagen (1886), considerado el primer automóvil de la historia propulsado por motor de gasolina.",
+        "year": 1844
+      },
+      {
+        "name": "Christina Applegate",
+        "description": "Actriz estadounidense conocida por su papel de Kelly Bundy en la serie Al fondo hay sitio (Married... with Children) y por sus actuaciones en Dead to Me.",
+        "year": 1971
+      }
+    ],
+    "events": [
+      {
+        "title": "Asesinato de las hermanas Mirabal",
+        "description": "Las tres hermanas Mirabal (Patria, Minerva y María Teresa), activistas dominicanas que se oponían a la dictadura de Trujillo, fueron asesinadas por agentes del régimen, convirtiéndose en símbolos internacionales de la lucha contra la violencia de género.",
+        "year": 1960
+      },
+      {
+        "title": "Proclamación de la II República Española",
+        "description": "España proclamó la Segunda República con la renuncia del rey Alfonso XIII, iniciando un período democrático que duraría hasta el golpe de Estado de Franco en 1936.",
+        "year": 1931
+      },
+      {
+        "title": "Muere el compositor Augusto Ponchielli",
+        "description": "El compositor italiano Amilcare Ponchielli, autor de la ópera La Gioconda y la célebre Danza de las Horas, falleció en Milán. Fue también maestro de Puccini y Mascagni.",
+        "year": 1886
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Catherine of Alexandria",
+        "type": "Virgin and Martyr",
+        "description": "4th-century Christian martyr (died around 305) in Alexandria. According to tradition, she was a noble and wise young woman who confuted fifty pagan philosophers before being martyred. Patron of philosophers, students, lawyers, and unmarried women. One of the 'Fourteen Holy Helpers'."
+      },
+      {
+        "name": "Saint Mercury",
+        "type": "Martyr",
+        "description": "Roman soldier martyred in 249 during Emperor Decius's persecution in Caesarea of Cappadocia. One of the most popular saints in the Eastern Orthodox Church."
+      },
+      {
+        "name": "Saint Moses of Rome",
+        "type": "Martyr",
+        "description": "4th-century Roman priest who died in prison from torture suffered during the Diocletianic Persecution, without being formally executed."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day for the Elimination of Violence against Women",
+        "description": "Proclaimed by the UN in 1999 to raise awareness of gender-based violence and demand its eradication. The date commemorates the murder of the Mirabal sisters in the Dominican Republic in 1960."
+      },
+      {
+        "name": "Stir-Up Sunday (United Kingdom)",
+        "description": "An English tradition on the last Sunday before Advent, when families prepare the Christmas pudding by mixing the ingredients with a wooden spoon from east to west."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Women who seek to be equal with men lack ambition.",
+      "author": "Timothy Leary",
+      "context": "This ironic quote from American psychologist Timothy Leary, often cited by feminist activists, underscores that equality is the bare minimum, not the ultimate horizon of women's emancipation."
+    },
+    "motivationalQuote": {
+      "text": "I do not care if they say women cannot be brave; I will be brave.",
+      "author": "Saint Catherine of Alexandria"
+    },
+    "births": [
+      {
+        "name": "Andrew Carnegie",
+        "description": "Scottish-American industrial magnate and philanthropist, one of the wealthiest men in history. He donated more than $350 million to build libraries, universities, and cultural institutions worldwide.",
+        "year": 1835
+      },
+      {
+        "name": "Karl Friedrich Benz",
+        "description": "German engineer and inventor, designer of the Benz Patent-Motorwagen (1886), considered the first automobile in history powered by a petrol engine.",
+        "year": 1844
+      },
+      {
+        "name": "Christina Applegate",
+        "description": "American actress known for her role as Kelly Bundy in Married... with Children and for her performances in Dead to Me.",
+        "year": 1971
+      }
+    ],
+    "events": [
+      {
+        "title": "Murder of the Mirabal sisters",
+        "description": "The three Mirabal sisters (Patria, Minerva, and María Teresa), Dominican activists opposing the Trujillo dictatorship, were murdered by regime agents, becoming international symbols of the fight against gender-based violence.",
+        "year": 1960
+      },
+      {
+        "title": "Proclamation of the Second Spanish Republic",
+        "description": "Spain proclaimed the Second Republic following the abdication of King Alfonso XIII, beginning a democratic period that would last until Franco's coup d'état in 1936.",
+        "year": 1931
+      },
+      {
+        "title": "Death of composer Amilcare Ponchielli",
+        "description": "Italian composer Amilcare Ponchielli, author of the opera La Gioconda and the celebrated Dance of the Hours, died in Milan. He was also the teacher of Puccini and Mascagni.",
+        "year": 1886
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Catarina de Alexandria",
+        "type": "Virgem e Mártir",
+        "description": "Mártir cristã do século IV (falecida por volta do ano 305) em Alexandria. Segundo a tradição, era uma jovem nobre e sábia que confutou cinquenta filósofos pagãos antes de ser martirizada. Patrona dos filósofos, estudantes, juristas e solteiras. Uma dos 'Catorze Santos Auxiliadores'."
+      },
+      {
+        "name": "São Mercúrio",
+        "type": "Mártir",
+        "description": "Soldado romano martirizado em 249 durante a perseguição do imperador Décio em Cesareia da Capadócia. Um dos santos mais populares na Igreja Ortodoxa Oriental."
+      },
+      {
+        "name": "São Moisés de Roma",
+        "type": "Mártir",
+        "description": "Sacerdote romano do século IV que morreu na prisão por causa das torturas sofridas durante a perseguição de Diocleciano, sem ser formalmente executado."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional para a Eliminação da Violência contra as Mulheres",
+        "description": "Proclamado pela ONU em 1999 para conscientizar sobre a violência de gênero e exigir a sua erradicação. A data recorda o assassinato das irmãs Mirabal na República Dominicana em 1960."
+      },
+      {
+        "name": "Domingo de Mexer (Reino Unido)",
+        "description": "Tradição inglesa no último domingo antes do Advento, em que as famílias preparam o Christmas pudding misturando os ingredientes com uma colher de madeira de leste para oeste."
+      }
+    ],
+    "historicalQuote": {
+      "text": "As mulheres que buscam ser iguais aos homens carecem de ambição.",
+      "author": "Timothy Leary",
+      "context": "Esta citação irônica do psicólogo americano Timothy Leary, frequentemente citada por ativistas feministas, sublinha que a igualdade é o mínimo exigível e não o horizonte máximo da emancipação feminina."
+    },
+    "motivationalQuote": {
+      "text": "Não me importa que digam que as mulheres não podem ser corajosas; eu serei corajosa.",
+      "author": "Santa Catarina de Alexandria"
+    },
+    "births": [
+      {
+        "name": "Andrew Carnegie",
+        "description": "Magnata industrial e filantropo escocês-americano, um dos homens mais ricos da história. Doou mais de 350 milhões de dólares para construir bibliotecas, universidades e instituições culturais em todo o mundo.",
+        "year": 1835
+      },
+      {
+        "name": "Karl Friedrich Benz",
+        "description": "Engenheiro e inventor alemão, designer do Benz Patent-Motorwagen (1886), considerado o primeiro automóvel da história propulsado por um motor a gasolina.",
+        "year": 1844
+      },
+      {
+        "name": "Christina Applegate",
+        "description": "Atriz americana conhecida pelo seu papel de Kelly Bundy na série Casado... com Filhos e pelas suas atuações em Dead to Me.",
+        "year": 1971
+      }
+    ],
+    "events": [
+      {
+        "title": "Assassinato das irmãs Mirabal",
+        "description": "As três irmãs Mirabal (Pátria, Minerva e María Teresa), ativistas dominicanas que se opunham à ditadura de Trujillo, foram assassinadas por agentes do regime, tornando-se símbolos internacionais da luta contra a violência de gênero.",
+        "year": 1960
+      },
+      {
+        "title": "Proclamação da II República Espanhola",
+        "description": "A Espanha proclamou a Segunda República após a abdicação do rei Alfonso XIII, iniciando um período democrático que duraria até o golpe de Estado de Franco em 1936.",
+        "year": 1931
+      },
+      {
+        "title": "Morte do compositor Amilcare Ponchielli",
+        "description": "O compositor italiano Amilcare Ponchielli, autor da ópera La Gioconda e da célebre Dança das Horas, faleceu em Milão. Foi também mestre de Puccini e Mascagni.",
+        "year": 1886
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Caterina d'Alexandria",
+        "type": "Verge i Màrtir",
+        "description": "Màrtir cristiana del segle IV (morta cap a l'any 305) a Alexandria. Segons la tradició, era una jove noble i sàvia que va refutar cinquanta filòsofs pagans abans de ser martiritzada. Patrona dels filòsofs, estudiants, juristes i solteres. Una dels 'Catorze Auxiliadors'."
+      },
+      {
+        "name": "Sant Mercuri",
+        "type": "Màrtir",
+        "description": "Soldat romà martiritzat l'any 249 durant la persecució de l'emperador Deci a Cesàrea de Capadòcia. Un dels sants més populars a l'Església Ortodoxa Oriental."
+      },
+      {
+        "name": "Sant Moisès de Roma",
+        "type": "Màrtir",
+        "description": "Sacerdot romà del segle IV que va morir a la presó a causa de les tortures patides durant la persecució de Dioclecià, sense ser executat formalment."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional per a l'Eliminació de la Violència contra les Dones",
+        "description": "Proclamat per l'ONU el 1999 per conscienciar sobre la violència de gènere i exigir la seva erradicació. La data recorda l'assassinat de les germanes Mirabal a la República Dominicana el 1960."
+      },
+      {
+        "name": "Diumenge de Remenar (Regne Unit)",
+        "description": "Tradició anglesa el darrer diumenge abans d'Advent, en que les famílies preparen el Christmas pudding barrejant els ingredients amb una cullera de fusta d'est a oest."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Les dones que busquen la igualtat amb els homes manquen d'ambició.",
+      "author": "Timothy Leary",
+      "context": "Aquesta cita irònica del psicòleg americà Timothy Leary, freqüentment citada per activistes feministes, subratlla que la igualtat és el mínim exigible i no l'horitzó màxim de l'emancipació femenina."
+    },
+    "motivationalQuote": {
+      "text": "No m'importa que diguin que les dones no poden ser valentes; jo ho seré.",
+      "author": "Santa Caterina d'Alexandria"
+    },
+    "births": [
+      {
+        "name": "Andrew Carnegie",
+        "description": "Magnat industrial i filantrop escocès-americà, un dels homes més rics de la història. Va donar més de 350 milions de dòlars per construir biblioteques, universitats i institucions culturals arreu del món.",
+        "year": 1835
+      },
+      {
+        "name": "Karl Friedrich Benz",
+        "description": "Enginyer i inventor alemany, dissenyador del Benz Patent-Motorwagen (1886), considerat el primer automòbil de la història propulsat per motor de gasolina.",
+        "year": 1844
+      },
+      {
+        "name": "Christina Applegate",
+        "description": "Actriu americana coneguda pel seu paper de Kelly Bundy a la sèrie Casat... amb fills i per les seves actuacions a Dead to Me.",
+        "year": 1971
+      }
+    ],
+    "events": [
+      {
+        "title": "Assassinat de les germanes Mirabal",
+        "description": "Les tres germanes Mirabal (Pàtria, Minerva i María Teresa), activistes dominicanes que s'oposaven a la dictadura de Trujillo, van ser assassinades per agents del règim, convertint-se en símbols internacionals de la lluita contra la violència de gènere.",
+        "year": 1960
+      },
+      {
+        "title": "Proclamació de la II República Espanyola",
+        "description": "Espanya va proclamar la Segona República arran de la renúncia del rei Alfonso XIII, iniciant un període democràtic que duraria fins al cop d'estat de Franco el 1936.",
+        "year": 1931
+      },
+      {
+        "title": "Mort del compositor Amilcare Ponchielli",
+        "description": "El compositor italià Amilcare Ponchielli, autor de l'òpera La Gioconda i la cèlebre Dansa de les Hores, va morir a Milà. Va ser també mestre de Puccini i Mascagni.",
+        "year": 1886
+      }
+    ]
+  }
+}

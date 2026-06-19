@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-05",
+  "es": {
+    "saints": [
+      { "name": "San Juan José de la Cruz", "type": "Presbítero", "description": "Religioso franciscano napolitano del siglo XVIII, conocido por su austeridad y sus dones místicos; canonizado en 1839 por el papa Gregorio XVI." },
+      { "name": "San Virgilio de Arles", "type": "Obispo", "description": "Obispo de Arles a principios del siglo VII, legado papal en la Galia y defensor de la unidad de la Iglesia frente a las herejías." },
+      { "name": "San Adrián de Nicomedia", "type": "Mártir", "description": "Oficial romano convertido al cristianismo que sufrió el martirio en el año 306; patrón de los soldados, carniceros y armeros." }
+    ],
+    "observances": [
+      { "name": "Día de la Plataforma de Derechos de la Naturaleza", "description": "Jornada internacional que promueve el reconocimiento legal de los derechos de los ecosistemas y la naturaleza, siguiendo modelos como el de Ecuador y Nueva Zelanda." },
+      { "name": "Aniversario del Pacto de Varsovia", "description": "En 1953, Stalin murió y el bloque soviético inició un proceso de sucesión; años después esta fecha se vincula a la distensión que condujo al fin del Pacto de Varsovia." }
+    ],
+    "historicalQuote": {
+      "text": "Un pueblo que no conoce su historia está condenado a repetirla.",
+      "author": "George Santayana",
+      "context": "El filósofo y escritor George Santayana formuló esta máxima en su obra 'La razón en el sentido común' (1905). Sigue siendo una de las advertencias más citadas sobre la importancia de la memoria histórica."
+    },
+    "motivationalQuote": {
+      "text": "No cuentes los días; haz que los días cuenten.",
+      "author": "Muhammad Ali"
+    },
+    "births": [
+      { "name": "Rosa Luxemburgo", "description": "Filósofa y revolucionaria marxista polaco-alemana, cofundadora del Partido Comunista de Alemania y figura clave del movimiento socialista europeo.", "year": 1871 },
+      { "name": "Rex Harrison", "description": "Actor británico ganador del Oscar, célebre por su interpretación del profesor Henry Higgins en 'My Fair Lady' (1964).", "year": 1908 },
+      { "name": "Andy Gibb", "description": "Cantante pop australiano, hermano menor de los Bee Gees, con éxitos como 'I Just Want to Be Your Everything' a finales de los 70.", "year": 1958 }
+    ],
+    "events": [
+      { "title": "Discurso del Telón de Acero de Winston Churchill", "description": "El ex primer ministro británico Winston Churchill pronunció su famoso discurso en Fulton, Missouri, donde acuñó la expresión 'Telón de Acero' para describir la división de Europa entre Este y Oeste.", "year": 1946 },
+      { "title": "Muerte de Josef Stalin", "description": "El dictador soviético Josef Stalin falleció, poniendo fin a casi tres décadas de dominio sobre la URSS y abriendo un incierto período de sucesión en el bloque comunista.", "year": 1953 },
+      { "title": "Boston Massacre (Masacre de Boston)", "description": "Soldados británicos dispararon contra una multitud de colonos en Boston, matando a cinco personas en un incidente que avivó el movimiento independentista americano.", "year": 1770 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint John Joseph of the Cross", "type": "Priest", "description": "Neapolitan Franciscan friar of the eighteenth century, known for his austerity and mystical gifts; canonised in 1839 by Pope Gregory XVI." },
+      { "name": "Saint Virgilius of Arles", "type": "Bishop", "description": "Bishop of Arles in the early seventh century, papal legate in Gaul and defender of Church unity against heresies." },
+      { "name": "Saint Adrian of Nicomedia", "type": "Martyr", "description": "Roman officer converted to Christianity who suffered martyrdom in 306; patron of soldiers, butchers and armourers." }
+    ],
+    "observances": [
+      { "name": "Rights of Nature Day", "description": "An international day promoting the legal recognition of the rights of ecosystems and nature, following models such as those of Ecuador and New Zealand." },
+      { "name": "Stalin's Death Anniversary", "description": "On this day in 1953, Soviet dictator Stalin died, ending nearly three decades of rule over the USSR and opening an uncertain succession period in the communist bloc." }
+    ],
+    "historicalQuote": {
+      "text": "Those who cannot remember the past are condemned to repeat it.",
+      "author": "George Santayana",
+      "context": "Philosopher and writer George Santayana formulated this maxim in his work 'The Life of Reason' (1905). It remains one of the most quoted warnings about the importance of historical memory."
+    },
+    "motivationalQuote": {
+      "text": "Don't count the days; make the days count.",
+      "author": "Muhammad Ali"
+    },
+    "births": [
+      { "name": "Rosa Luxemburg", "description": "Polish-German Marxist philosopher and revolutionary, co-founder of the Communist Party of Germany and a key figure of the European socialist movement.", "year": 1871 },
+      { "name": "Rex Harrison", "description": "Oscar-winning British actor, celebrated for his portrayal of Professor Henry Higgins in 'My Fair Lady' (1964).", "year": 1908 },
+      { "name": "Andy Gibb", "description": "Australian pop singer, younger brother of the Bee Gees, with hits such as 'I Just Want to Be Your Everything' in the late 1970s.", "year": 1958 }
+    ],
+    "events": [
+      { "title": "Winston Churchill's Iron Curtain speech", "description": "Former British Prime Minister Winston Churchill delivered his famous speech in Fulton, Missouri, coining the phrase 'Iron Curtain' to describe Europe's East-West division.", "year": 1946 },
+      { "title": "Death of Josef Stalin", "description": "Soviet dictator Josef Stalin died, ending nearly three decades of rule over the USSR and opening an uncertain succession period in the communist bloc.", "year": 1953 },
+      { "title": "Boston Massacre", "description": "British soldiers fired on a crowd of colonists in Boston, killing five people in an incident that inflamed the American independence movement.", "year": 1770 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São João José da Cruz", "type": "Presbítero", "description": "Religioso franciscano napolitano do século XVIII, conhecido pela sua austeridade e dons místicos; canonizado em 1839 pelo papa Gregório XVI." },
+      { "name": "São Virgílio de Arles", "type": "Bispo", "description": "Bispo de Arles no início do século VII, legado papal na Gália e defensor da unidade da Igreja frente às heresias." },
+      { "name": "Santo Adrião de Nicomédia", "type": "Mártir", "description": "Oficial romano convertido ao cristianismo que sofreu o martírio em 306; padroeiro dos soldados, açougueiros e armeiros." }
+    ],
+    "observances": [
+      { "name": "Dia dos Direitos da Natureza", "description": "Jornada internacional que promove o reconhecimento legal dos direitos dos ecossistemas e da natureza, seguindo modelos como o do Equador e da Nova Zelândia." },
+      { "name": "Aniversário da Morte de Stalin", "description": "Nesta data em 1953, o ditador soviético Stalin faleceu, encerrando quase três décadas de domínio sobre a URSS e abrindo um incerto período de sucessão no bloco comunista." }
+    ],
+    "historicalQuote": {
+      "text": "Quem não conhece a história está condenado a repeti-la.",
+      "author": "George Santayana",
+      "context": "O filósofo e escritor George Santayana formulou esta máxima em sua obra 'A Razão no Senso Comum' (1905). Continua sendo um dos avisos mais citados sobre a importância da memória histórica."
+    },
+    "motivationalQuote": {
+      "text": "Não conte os dias; faça os dias contarem.",
+      "author": "Muhammad Ali"
+    },
+    "births": [
+      { "name": "Rosa Luxemburgo", "description": "Filósofa e revolucionária marxista polono-alemã, cofundadora do Partido Comunista da Alemanha e figura-chave do movimento socialista europeu.", "year": 1871 },
+      { "name": "Rex Harrison", "description": "Ator britânico ganhador do Oscar, célebre por sua interpretação do professor Henry Higgins em 'My Fair Lady' (1964).", "year": 1908 },
+      { "name": "Andy Gibb", "description": "Cantor pop australiano, irmão mais novo dos Bee Gees, com sucessos como 'I Just Want to Be Your Everything' no final dos anos 70.", "year": 1958 }
+    ],
+    "events": [
+      { "title": "Discurso da Cortina de Ferro de Winston Churchill", "description": "O ex-primeiro-ministro britânico Winston Churchill proferiu seu famoso discurso em Fulton, Missouri, cunhando a expressão 'Cortina de Ferro' para descrever a divisão da Europa entre Leste e Oeste.", "year": 1946 },
+      { "title": "Morte de Josef Stalin", "description": "O ditador soviético Josef Stalin faleceu, encerrando quase três décadas de domínio sobre a URSS e abrindo um incerto período de sucessão no bloco comunista.", "year": 1953 },
+      { "title": "Massacre de Boston", "description": "Soldados britânicos atiraram contra uma multidão de colonos em Boston, matando cinco pessoas em um incidente que inflamou o movimento independentista americano.", "year": 1770 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Joan Josep de la Creu", "type": "Prevere", "description": "Religiós franciscà napolità del segle XVIII, conegut per la seva austeritat i els seus dons místics; canonitzat el 1839 pel papa Gregori XVI." },
+      { "name": "Sant Virgili d'Arles", "type": "Bisbe", "description": "Bisbe d'Arles a principis del segle VII, legat papal a la Gàl·lia i defensor de la unitat de l'Església davant les heretgies." },
+      { "name": "Sant Adrià de Nicomèdia", "type": "Màrtir", "description": "Oficial romà convertit al cristianisme que va sofrir el martiri l'any 306; patró dels soldats, carnissers i armers." }
+    ],
+    "observances": [
+      { "name": "Dia dels Drets de la Natura", "description": "Jornada internacional que promou el reconeixement legal dels drets dels ecosistemes i la natura, seguint models com els de l'Equador i Nova Zelanda." },
+      { "name": "Aniversari de la mort de Stalin", "description": "En aquesta data el 1953, el dictador soviètic Stalin va morir, posant fi a gairebé tres dècades de domini sobre la URSS i obrint un incert període de successió al bloc comunista." }
+    ],
+    "historicalQuote": {
+      "text": "Els que no poden recordar el passat estan condemnats a repetir-lo.",
+      "author": "George Santayana",
+      "context": "El filòsof i escriptor George Santayana va formular aquesta màxima a la seva obra 'La raó en el sentit comú' (1905). Continua sent un dels advertiments més citats sobre la importància de la memòria històrica."
+    },
+    "motivationalQuote": {
+      "text": "No comptis els dies; fes que els dies comptin.",
+      "author": "Muhammad Ali"
+    },
+    "births": [
+      { "name": "Rosa Luxemburg", "description": "Filòsofa i revolucionària marxista polonesa-alemanya, cofundadora del Partit Comunista d'Alemanya i figura clau del moviment socialista europeu.", "year": 1871 },
+      { "name": "Rex Harrison", "description": "Actor britànic guanyador de l'Oscar, cèlebre per la seva interpretació del professor Henry Higgins a 'My Fair Lady' (1964).", "year": 1908 },
+      { "name": "Andy Gibb", "description": "Cantant pop australià, germà petit dels Bee Gees, amb èxits com 'I Just Want to Be Your Everything' a finals dels 70.", "year": 1958 }
+    ],
+    "events": [
+      { "title": "Discurs de la Cortina de Ferro de Winston Churchill", "description": "L'ex primer ministre britànic Winston Churchill va pronunciar el seu famós discurs a Fulton, Missouri, encunyant l'expressió 'Cortina de Ferro' per descriure la divisió d'Europa entre Est i Oest.", "year": 1946 },
+      { "title": "Mort de Josef Stalin", "description": "El dictador soviètic Josef Stalin va morir, posant fi a gairebé tres dècades de domini sobre la URSS i obrint un incert període de successió al bloc comunista.", "year": 1953 },
+      { "title": "Massacre de Boston", "description": "Soldats britànics van disparar contra una multitud de colons a Boston, matant cinc persones en un incident que va inflamar el moviment independentista americà.", "year": 1770 }
+    ]
+  }
+}

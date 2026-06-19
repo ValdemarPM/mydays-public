@@ -1,0 +1,255 @@
+{
+  "date": "2025-12-11",
+  "es": {
+    "saints": [
+      {
+        "name": "San Dámaso I",
+        "type": "Papa",
+        "description": "Papa de origen hispano (366-384), promotor de la devoción a los mártires romanos y encargó a San Jerónimo la traducción de la Biblia al latín (Vulgata), que sería el texto oficial de la Iglesia durante siglos."
+      },
+      {
+        "name": "San Daniel el Estilita",
+        "type": "Monje",
+        "description": "Monje sirio del siglo V que pasó 33 años sobre una columna a las afueras de Constantinopla, a imitación de San Simeón el Estilita, predicando y aconsejando a quienes lo visitaban."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de las Montañas",
+        "description": "Proclamado por la ONU para concienciar sobre la importancia de las montañas para la biodiversidad, el agua dulce y el desarrollo sostenible de las comunidades de montaña."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Las montañas son la tierra rezando en silencio.",
+      "author": "Rabindranath Tagore",
+      "context": "Poeta bengalí y primer asiático en ganar el Premio Nobel de Literatura (1913), cuya visión poética de la naturaleza resuena en el Día Internacional de las Montañas."
+    },
+    "motivationalQuote": {
+      "text": "No es la montaña lo que conquistamos, sino a nosotros mismos.",
+      "author": "Edmund Hillary"
+    },
+    "births": [
+      {
+        "name": "Hector Berlioz",
+        "description": "Compositor y director de orquesta francés del Romanticismo, pionero de la música programática y autor de la Sinfonía Fantástica y de la cantata La condenación de Fausto.",
+        "year": 1803
+      },
+      {
+        "name": "Annie Jump Cannon",
+        "description": "Astrónoma estadounidense que clasificó más de 350.000 estrellas en el catálogo del Observatorio de Harvard, creando el sistema de clasificación espectral OBAFGKM aún vigente.",
+        "year": 1863
+      },
+      {
+        "name": "Jermaine Jackson",
+        "description": "Músico estadounidense, miembro fundador de The Jackson 5, el grupo que lanzó a la fama a su hermano menor Michael Jackson.",
+        "year": 1954
+      }
+    ],
+    "events": [
+      {
+        "title": "Abdicación del rey Eduardo VIII de Reino Unido",
+        "description": "Eduardo VIII abdicó al trono del Reino Unido para casarse con la divorciada estadounidense Wallis Simpson, en uno de los escándalos reales más sonados del siglo XX.",
+        "year": 1936
+      },
+      {
+        "title": "Fundación de UNICEF",
+        "description": "La Asamblea General de la ONU estableció el Fondo Internacional de Emergencia de las Naciones Unidas para los Niños (UNICEF) para proporcionar ayuda a los niños afectados por la Segunda Guerra Mundial.",
+        "year": 1946
+      },
+      {
+        "title": "Entrada de Japón y Alemania en guerra con EEUU",
+        "description": "Alemania e Italia declararon la guerra a los Estados Unidos, y éstos respondieron con declaraciones recíprocas, generalizando el conflicto europeo y el pacífico en una guerra verdaderamente mundial.",
+        "year": 1941
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Damasus I",
+        "type": "Pope",
+        "description": "Pope of Hispanic origin (366–384), promoter of devotion to the Roman martyrs, who commissioned Saint Jerome to translate the Bible into Latin (the Vulgate), which would remain the Church's official text for centuries."
+      },
+      {
+        "name": "Saint Daniel the Stylite",
+        "type": "Monk",
+        "description": "Syrian monk of the 5th century who spent 33 years atop a pillar on the outskirts of Constantinople, following the example of Saint Simeon the Stylite, preaching and counselling visitors."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Mountain Day",
+        "description": "Proclaimed by the UN to raise awareness of the importance of mountains for biodiversity, fresh water, and the sustainable development of mountain communities."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The mountains are the earth praying in silence.",
+      "author": "Rabindranath Tagore",
+      "context": "Bengali poet and the first Asian to win the Nobel Prize in Literature (1913), whose poetic vision of nature resonates on International Mountain Day."
+    },
+    "motivationalQuote": {
+      "text": "It is not the mountain we conquer, but ourselves.",
+      "author": "Edmund Hillary"
+    },
+    "births": [
+      {
+        "name": "Hector Berlioz",
+        "description": "French Romantic composer and conductor, pioneer of programme music and author of the Symphonie Fantastique and the cantata The Damnation of Faust.",
+        "year": 1803
+      },
+      {
+        "name": "Annie Jump Cannon",
+        "description": "American astronomer who classified over 350,000 stars in the Harvard Observatory catalogue, creating the OBAFGKM spectral classification system still in use today.",
+        "year": 1863
+      },
+      {
+        "name": "Jermaine Jackson",
+        "description": "American musician and founding member of The Jackson 5, the group that launched the career of his younger brother Michael Jackson.",
+        "year": 1954
+      }
+    ],
+    "events": [
+      {
+        "title": "Abdication of King Edward VIII",
+        "description": "Edward VIII abdicated the British throne to marry American divorcée Wallis Simpson, in one of the most sensational royal scandals of the 20th century.",
+        "year": 1936
+      },
+      {
+        "title": "Founding of UNICEF",
+        "description": "The UN General Assembly established the United Nations International Children's Emergency Fund (UNICEF) to provide aid to children affected by World War II.",
+        "year": 1946
+      },
+      {
+        "title": "Germany and Italy declare war on the United States",
+        "description": "Germany and Italy declared war on the United States, which responded in kind, merging the European and Pacific conflicts into a truly global war.",
+        "year": 1941
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Dâmaso I",
+        "type": "Papa",
+        "description": "Papa de origem hispânica (366–384), promotor da devoção aos mártires romanos e responsável por encomendar a São Jerônimo a tradução da Bíblia para o latim (Vulgata), que seria o texto oficial da Igreja durante séculos."
+      },
+      {
+        "name": "São Daniel, o Estilita",
+        "type": "Monge",
+        "description": "Monge sírio do século V que passou 33 anos sobre uma coluna nos arredores de Constantinopla, à imitação de São Simeão, o Estilita, pregando e aconselhando os visitantes."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional das Montanhas",
+        "description": "Proclamado pela ONU para conscientizar sobre a importância das montanhas para a biodiversidade, a água doce e o desenvolvimento sustentável das comunidades de montanha."
+      }
+    ],
+    "historicalQuote": {
+      "text": "As montanhas são a terra rezando em silêncio.",
+      "author": "Rabindranath Tagore",
+      "context": "Poeta bengalês e primeiro asiático a ganhar o Prémio Nobel de Literatura (1913), cuja visão poética da natureza ressoa no Dia Internacional das Montanhas."
+    },
+    "motivationalQuote": {
+      "text": "Não é a montanha que conquistamos, mas a nós mesmos.",
+      "author": "Edmund Hillary"
+    },
+    "births": [
+      {
+        "name": "Hector Berlioz",
+        "description": "Compositor e maestro francês do Romantismo, pioneiro da música programática e autor da Sinfonia Fantástica e da cantata A Condenação de Fausto.",
+        "year": 1803
+      },
+      {
+        "name": "Annie Jump Cannon",
+        "description": "Astrônoma americana que classificou mais de 350.000 estrelas no catálogo do Observatório de Harvard, criando o sistema de classificação espectral OBAFGKM ainda em uso.",
+        "year": 1863
+      },
+      {
+        "name": "Jermaine Jackson",
+        "description": "Músico americano e membro fundador dos Jackson 5, o grupo que lançou à fama o seu irmão mais novo Michael Jackson.",
+        "year": 1954
+      }
+    ],
+    "events": [
+      {
+        "title": "Abdicação do rei Eduardo VIII do Reino Unido",
+        "description": "Eduardo VIII abdicou do trono britânico para casar com a divorciada americana Wallis Simpson, num dos maiores escândalos reais do século XX.",
+        "year": 1936
+      },
+      {
+        "title": "Fundação da UNICEF",
+        "description": "A Assembleia Geral da ONU criou o Fundo Internacional de Emergência das Nações Unidas para a Infância (UNICEF) para prestar ajuda às crianças afetadas pela Segunda Guerra Mundial.",
+        "year": 1946
+      },
+      {
+        "title": "Alemanha e Itália declaram guerra aos EUA",
+        "description": "A Alemanha e a Itália declararam guerra aos Estados Unidos, que responderam reciprocamente, fundindo os conflitos europeu e do Pacífico numa guerra verdadeiramente mundial.",
+        "year": 1941
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Damas I",
+        "type": "Papa",
+        "description": "Papa d'origen hispànic (366–384), promotor de la devoció als màrtirs romans i responsable d'encarregar a Sant Jeroni la traducció de la Bíblia al llatí (Vulgata), que seria el text oficial de l'Església durant segles."
+      },
+      {
+        "name": "Sant Daniel l'Estilita",
+        "type": "Monjo",
+        "description": "Monjo sirià del segle V que va passar 33 anys sobre una columna als voltants de Constantinoble, a imitació de Sant Simeó l'Estilita, predicant i aconsellant els visitants."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de les Muntanyes",
+        "description": "Proclamat per l'ONU per conscienciar sobre la importància de les muntanyes per a la biodiversitat, l'aigua dolça i el desenvolupament sostenible de les comunitats de muntanya."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Les muntanyes són la terra resant en silenci.",
+      "author": "Rabindranath Tagore",
+      "context": "Poeta bengalí i primer asiàtic a guanyar el Premi Nobel de Literatura (1913), la visió poètica de la naturalesa del qual ressona en el Dia Internacional de les Muntanyes."
+    },
+    "motivationalQuote": {
+      "text": "No és la muntanya el que conquerim, sinó nosaltres mateixos.",
+      "author": "Edmund Hillary"
+    },
+    "births": [
+      {
+        "name": "Hector Berlioz",
+        "description": "Compositor i director d'orquestra francès del Romanticisme, pioner de la música programàtica i autor de la Simfonia Fantàstica i la cantata La condenació de Faust.",
+        "year": 1803
+      },
+      {
+        "name": "Annie Jump Cannon",
+        "description": "Astrònoma nord-americana que va classificar més de 350.000 estrelles en el catàleg de l'Observatori de Harvard, creant el sistema de classificació espectral OBAFGKM encara vigent.",
+        "year": 1863
+      },
+      {
+        "name": "Jermaine Jackson",
+        "description": "Músic nord-americà i membre fundador dels Jackson 5, el grup que va llançar a la fama el seu germà petit Michael Jackson.",
+        "year": 1954
+      }
+    ],
+    "events": [
+      {
+        "title": "Abdicació del rei Eduard VIII del Regne Unit",
+        "description": "Eduard VIII va abdicar al tron britànic per casar-se amb la divorciada americana Wallis Simpson, en un dels escàndols reials més sonats del segle XX.",
+        "year": 1936
+      },
+      {
+        "title": "Fundació de l'UNICEF",
+        "description": "L'Assemblea General de l'ONU va crear el Fons Internacional d'Emergència de les Nacions Unides per a la Infància (UNICEF) per prestar ajuda als nens afectats per la Segona Guerra Mundial.",
+        "year": 1946
+      },
+      {
+        "title": "Alemanya i Itàlia declaren la guerra als EUA",
+        "description": "Alemanya i Itàlia van declarar la guerra als Estats Units, que van respondre recíprocament, fusionant els conflictes europeu i del Pacífic en una guerra veritablement mundial.",
+        "year": 1941
+      }
+    ]
+  }
+}

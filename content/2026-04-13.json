@@ -1,0 +1,291 @@
+{
+  "date": "2026-04-13",
+  "es": {
+    "saints": [
+      {
+        "name": "San Martín I",
+        "type": "Papa y Mártir",
+        "description": "Papa del siglo VII, el último papa mártir de la historia. Se opuso a la herejía monotelita apoyada por el emperador Constante II y fue arrestado, llevado a Constantinopla y juzgado por traición. Desterrado a Crimea, murió de hambre y agotamiento en el año 655. Su firmeza doctrinal y su sufrimiento le valieron la canonización."
+      },
+      {
+        "name": "San Hermenegildo",
+        "type": "Mártir",
+        "description": "Príncipe visigodo del siglo VI, hijo del rey Leovigildo, que se convirtió del arrianismo al catolicismo por influencia de su esposa y de San Leandro de Sevilla. Al rebelarse contra su padre, fue capturado y ejecutado el día de Pascua del año 585 por negarse a recibir la comunión de manos de un obispo arriano."
+      },
+      {
+        "name": "San Carpo de Tiatira",
+        "type": "Mártir",
+        "description": "Obispo de Tiatira (actual Turquía) martirizado en el siglo II durante la persecución de Marco Aurelio. Su martirio es narrado en un documento de la Iglesia antigua, considerado uno de los testimonios más antiguos sobre el proceso a un mártir cristiano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de Thomas Jefferson (Estados Unidos)",
+        "description": "El 13 de abril, aniversario del nacimiento de Thomas Jefferson en 1743, es reconocido informalmente como un día de reflexión sobre los ideales de libertad, democracia e igualdad que plasmó en la Declaración de Independencia de los Estados Unidos."
+      },
+      {
+        "name": "Día de Songkran (Tailandia, inicio)",
+        "description": "Songkran es el Año Nuevo tailandés, celebrado entre el 13 y el 15 de abril. Es famoso mundialmente por sus batallas de agua en las calles como símbolo de purificación y renovación espiritual para el nuevo año."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No tenemos que ser dioses para construir nuestros propios paraísos.",
+      "author": "Thomas Jefferson",
+      "context": "Thomas Jefferson, nacido el 13 de abril de 1743, fue el tercer presidente de los Estados Unidos y principal redactor de la Declaración de Independencia. Esta cita refleja su fe en la capacidad humana para construir una sociedad justa."
+    },
+    "motivationalQuote": {
+      "text": "Nunca confundas el movimiento con la acción.",
+      "author": "Ernest Hemingway"
+    },
+    "births": [
+      {
+        "name": "Thomas Jefferson",
+        "description": "Tercer presidente de los Estados Unidos (1801-1809) y principal redactor de la Declaración de Independencia americana (1776). Filósofo, arquitecto, inventor e intelectual, fue uno de los Padres Fundadores más influyentes. Fundó la Universidad de Virginia y diseñó su propio hogar, Monticello.",
+        "year": "1743"
+      },
+      {
+        "name": "Samuel Beckett",
+        "description": "Escritor, dramaturgo y poeta irlandés, figura central del Teatro del Absurdo. Su obra 'Esperando a Godot' (1953) revolucionó el teatro moderno al eliminar la trama convencional y explorar la espera, el tiempo y el sinsentido de la existencia. Premio Nobel de Literatura en 1969.",
+        "year": "1906"
+      },
+      {
+        "name": "Al Green",
+        "description": "Cantante de soul y R&B estadounidense, conocido como el 'Reverend Al Green'. Sus canciones 'Let's Stay Together', 'Tired of Being Alone' y 'Love and Happiness' se han convertido en clásicos del soul. Más tarde se convirtió en pastor evangélico.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Masacre de Amritsar",
+        "description": "Tropas británicas al mando del general Reginald Dyer dispararon contra una multitud de manifestantes y civiles reunidos en el jardín de Jallianwala Bagh en Amritsar (India). Murieron entre 379 y más de 1.000 personas según distintas fuentes. El suceso radicalizó el movimiento independentista indio y a Gandhi.",
+        "year": "1919"
+      },
+      {
+        "title": "Terremoto de Tokio y el Gran Incendio",
+        "description": "Un gran incendio devastó Tokio en 1657, destruyendo gran parte de la ciudad y causando la muerte de entre 37.000 y 100.000 personas según las crónicas, en lo que se conoce como el Gran Incendio de Meireki.",
+        "year": "1657"
+      },
+      {
+        "title": "Inauguración del primer McDonald's",
+        "description": "Ray Kroc abrió el primer restaurante McDonald's de su franquicia en Des Plaines, Illinois, iniciando la expansión de la cadena de comida rápida que se convertiría en la más grande del mundo con más de 40.000 locales en 100 países.",
+        "year": "1955"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Martin I",
+        "type": "Pope and Martyr",
+        "description": "A 7th-century pope and the last papal martyr in history. He opposed the Monothelite heresy supported by Emperor Constans II and was arrested, taken to Constantinople, and tried for treason. Exiled to Crimea, he died of hunger and exhaustion in 655. His doctrinal steadfastness and suffering earned him canonisation."
+      },
+      {
+        "name": "Saint Hermenegild",
+        "type": "Martyr",
+        "description": "A 6th-century Visigothic prince, son of King Leovigild, who converted from Arianism to Catholicism under the influence of his wife and Saint Leander of Seville. Having rebelled against his father, he was captured and executed on Easter day in 585 for refusing to receive communion from an Arian bishop."
+      },
+      {
+        "name": "Saint Carpus of Thyatira",
+        "type": "Martyr",
+        "description": "A 2nd-century Bishop of Thyatira (present-day Turkey), martyred during the persecution of Marcus Aurelius. His martyrdom is narrated in a document of the early Church, considered one of the oldest accounts of the trial of a Christian martyr."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Thomas Jefferson Day (United States)",
+        "description": "13 April, the anniversary of Thomas Jefferson's birth in 1743, is informally recognised as a day of reflection on the ideals of freedom, democracy, and equality he enshrined in the United States Declaration of Independence."
+      },
+      {
+        "name": "Songkran (Thailand, begins)",
+        "description": "Songkran is the Thai New Year, celebrated from 13 to 15 April. It is famous worldwide for its water fights in the streets as a symbol of purification and spiritual renewal for the new year."
+      }
+    ],
+    "historicalQuote": {
+      "text": "We need not be gods to build our own paradises.",
+      "author": "Thomas Jefferson",
+      "context": "Thomas Jefferson, born on 13 April 1743, was the third President of the United States and the principal drafter of the Declaration of Independence. This quote reflects his faith in the human capacity to build a just society."
+    },
+    "motivationalQuote": {
+      "text": "Never mistake motion for action.",
+      "author": "Ernest Hemingway"
+    },
+    "births": [
+      {
+        "name": "Thomas Jefferson",
+        "description": "Third President of the United States (1801–1809) and principal drafter of the American Declaration of Independence (1776). Philosopher, architect, inventor, and intellectual, he was one of the most influential Founding Fathers. He founded the University of Virginia and designed his own home, Monticello.",
+        "year": "1743"
+      },
+      {
+        "name": "Samuel Beckett",
+        "description": "Irish writer, playwright, and poet, a central figure in the Theatre of the Absurd. His play 'Waiting for Godot' (1953) revolutionised modern theatre by eliminating conventional plot and exploring waiting, time, and the meaninglessness of existence. He won the Nobel Prize in Literature in 1969.",
+        "year": "1906"
+      },
+      {
+        "name": "Al Green",
+        "description": "American soul and R&B singer, known as the 'Reverend Al Green'. His songs 'Let's Stay Together', 'Tired of Being Alone', and 'Love and Happiness' have become soul classics. He later became an evangelical pastor.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Amritsar Massacre",
+        "description": "British troops under General Reginald Dyer opened fire on a crowd of protesters and civilians gathered in the Jallianwala Bagh garden in Amritsar (India). Between 379 and over 1,000 people were killed according to different sources. The event radicalised the Indian independence movement and Gandhi.",
+        "year": "1919"
+      },
+      {
+        "title": "Great Fire of Meireki",
+        "description": "A great fire devastated Edo (Tokyo) in 1657, destroying much of the city and causing the deaths of between 37,000 and 100,000 people according to chronicles, in what is known as the Great Meireki Fire.",
+        "year": "1657"
+      },
+      {
+        "title": "Opening of the First McDonald's",
+        "description": "Ray Kroc opened the first McDonald's of his franchise in Des Plaines, Illinois, beginning the expansion of the fast-food chain that would become the largest in the world with more than 40,000 outlets in 100 countries.",
+        "year": "1955"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Martinho I",
+        "type": "Papa e Mártir",
+        "description": "Papa do século VII, o último papa mártir da história. Opôs-se à heresia monotelita apoiada pelo imperador Constante II e foi preso, levado a Constantinopla e julgado por traição. Exilado na Crimeia, morreu de fome e exaustão no ano 655. A sua firmeza doutrinária e o seu sofrimento valeram-lhe a canonização."
+      },
+      {
+        "name": "São Hermenegildo",
+        "type": "Mártir",
+        "description": "Príncipe visigodo do século VI, filho do rei Leovigildo, que se converteu do arianismo ao catolicismo por influência da sua esposa e de São Leandro de Sevilha. Ao rebelar-se contra o pai, foi capturado e executado no dia de Páscoa de 585 por se recusar a receber a comunhão de mãos de um bispo ariano."
+      },
+      {
+        "name": "São Carpo de Tiatira",
+        "type": "Mártir",
+        "description": "Bispo de Tiatira (atual Turquia) martirizado no século II durante a perseguição de Marco Aurélio. O seu martírio é narrado num documento da Igreja antiga, considerado um dos testemunhos mais antigos sobre o processo a um mártir cristão."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Thomas Jefferson (Estados Unidos)",
+        "description": "O 13 de abril, aniversário do nascimento de Thomas Jefferson em 1743, é reconhecido informalmente como um dia de reflexão sobre os ideais de liberdade, democracia e igualdade que plasmou na Declaração de Independência dos Estados Unidos."
+      },
+      {
+        "name": "Songkran (Tailândia, início)",
+        "description": "Songkran é o Ano Novo tailandês, celebrado entre 13 e 15 de abril. É mundialmente famoso pelas batalhas de água nas ruas como símbolo de purificação e renovação espiritual para o novo ano."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Não precisamos ser deuses para construir os nossos próprios paraísos.",
+      "author": "Thomas Jefferson",
+      "context": "Thomas Jefferson, nascido em 13 de abril de 1743, foi o terceiro presidente dos Estados Unidos e principal redator da Declaração de Independência. Esta citação reflete a sua fé na capacidade humana para construir uma sociedade justa."
+    },
+    "motivationalQuote": {
+      "text": "Nunca confunda movimento com ação.",
+      "author": "Ernest Hemingway"
+    },
+    "births": [
+      {
+        "name": "Thomas Jefferson",
+        "description": "Terceiro presidente dos Estados Unidos (1801-1809) e principal redator da Declaração de Independência americana (1776). Filósofo, arquiteto, inventor e intelectual, foi um dos Pais Fundadores mais influentes. Fundou a Universidade da Virgínia e projetou a sua própria casa, Monticello.",
+        "year": "1743"
+      },
+      {
+        "name": "Samuel Beckett",
+        "description": "Escritor, dramaturgo e poeta irlandês, figura central do Teatro do Absurdo. A sua peça 'À Espera de Godot' (1953) revolucionou o teatro moderno ao eliminar a trama convencional e explorar a espera, o tempo e o absurdo da existência. Prémio Nobel de Literatura em 1969.",
+        "year": "1906"
+      },
+      {
+        "name": "Al Green",
+        "description": "Cantor de soul e R&B americano, conhecido como 'Reverend Al Green'. As suas canções 'Let's Stay Together', 'Tired of Being Alone' e 'Love and Happiness' tornaram-se clássicos do soul. Mais tarde tornou-se pastor evangélico.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Massacre de Amritsar",
+        "description": "Tropas britânicas sob o comando do general Reginald Dyer dispararam contra uma multidão de manifestantes e civis reunidos no jardim de Jallianwala Bagh em Amritsar (Índia). Morreram entre 379 e mais de 1.000 pessoas segundo diferentes fontes. O acontecimento radicalizou o movimento independentista indiano e Gandhi.",
+        "year": "1919"
+      },
+      {
+        "title": "Grande Incêndio de Meireki",
+        "description": "Um grande incêndio devastou Edo (Tóquio) em 1657, destruindo grande parte da cidade e causando a morte de entre 37.000 e 100.000 pessoas segundo as crónicas, no que ficou conhecido como o Grande Incêndio de Meireki.",
+        "year": "1657"
+      },
+      {
+        "title": "Inauguração do primeiro McDonald's",
+        "description": "Ray Kroc abriu o primeiro restaurante McDonald's da sua franquia em Des Plaines, Illinois, iniciando a expansão da cadeia de fast food que se tornaria a maior do mundo com mais de 40.000 estabelecimentos em 100 países.",
+        "year": "1955"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Martí I",
+        "type": "Papa i Màrtir",
+        "description": "Papa del segle VII, el darrer papa màrtir de la història. S'oposà a l'heretgia monotelita recolzada per l'emperador Constant II i va ser arrestat, portat a Constantinoble i jutjat per traïció. Desterrat a Crimea, va morir de fam i esgotament l'any 655. La seva fermesa doctrinal i el seu sofriment li van valer la canonització."
+      },
+      {
+        "name": "Sant Hermenegild",
+        "type": "Màrtir",
+        "description": "Príncep visigot del segle VI, fill del rei Leovigild, que es va convertir de l'arrianisme al catolicisme per influència de la seva esposa i de Sant Leandre de Sevilla. En rebel·lar-se contra el seu pare, va ser capturat i executat el dia de Pasqua de l'any 585 per negar-se a rebre la comunió de mans d'un bisbe arrià."
+      },
+      {
+        "name": "Sant Carpe de Tiatira",
+        "type": "Màrtir",
+        "description": "Bisbe de Tiatira (actual Turquia) martiritzat al segle II durant la persecució de Marc Aureli. El seu martiri és narrat en un document de l'Església antiga, considerat un dels testimonis més antics sobre el procés a un màrtir cristià."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Thomas Jefferson (Estats Units)",
+        "description": "El 13 d'abril, aniversari del naixement de Thomas Jefferson el 1743, és reconegut informalment com un dia de reflexió sobre els ideals de llibertat, democràcia i igualtat que va plasmar a la Declaració d'Independència dels Estats Units."
+      },
+      {
+        "name": "Songkran (Tailàndia, inici)",
+        "description": "Songkran és l'Any Nou tailandès, celebrat entre el 13 i el 15 d'abril. És famós arreu del món per les seves batalles d'aigua als carrers com a símbol de purificació i renovació espiritual per al nou any."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No cal ser déus per construir els nostres propis paradisos.",
+      "author": "Thomas Jefferson",
+      "context": "Thomas Jefferson, nascut el 13 d'abril de 1743, va ser el tercer president dels Estats Units i principal redactor de la Declaració d'Independència. Aquesta cita reflecteix la seva fe en la capacitat humana per construir una societat justa."
+    },
+    "motivationalQuote": {
+      "text": "Mai no confonguis el moviment amb l'acció.",
+      "author": "Ernest Hemingway"
+    },
+    "births": [
+      {
+        "name": "Thomas Jefferson",
+        "description": "Tercer president dels Estats Units (1801-1809) i principal redactor de la Declaració d'Independència americana (1776). Filòsof, arquitecte, inventor i intel·lectual, va ser un dels Pares Fundadors més influents. Va fundar la Universitat de Virgínia i va dissenyar la seva pròpia llar, Monticello.",
+        "year": "1743"
+      },
+      {
+        "name": "Samuel Beckett",
+        "description": "Escriptor, dramaturg i poeta irlandès, figura central del Teatre de l'Absurd. La seva obra 'Esperant Godot' (1953) va revolucionar el teatre modern en eliminar la trama convencional i explorar l'espera, el temps i l'absurd de l'existència. Premi Nobel de Literatura el 1969.",
+        "year": "1906"
+      },
+      {
+        "name": "Al Green",
+        "description": "Cantant de soul i R&B americà, conegut com el 'Reverend Al Green'. Les seves cançons 'Let's Stay Together', 'Tired of Being Alone' i 'Love and Happiness' s'han convertit en clàssics del soul. Més tard es va convertir en pastor evangèlic.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Massacre d'Amritsar",
+        "description": "Tropes britàniques al comandament del general Reginald Dyer van disparar contra una multitud de manifestants i civils reunits al jardí de Jallianwala Bagh a Amritsar (Índia). Van morir entre 379 i més de 1.000 persones segons diverses fonts. El succés va radicalitzar el moviment independentista indi i Gandhi.",
+        "year": "1919"
+      },
+      {
+        "title": "Gran Incendi de Meireki",
+        "description": "Un gran incendi va devastar Edo (Tòquio) el 1657, destruint gran part de la ciutat i causant la mort d'entre 37.000 i 100.000 persones segons les cròniques, en el que es coneix com el Gran Incendi de Meireki.",
+        "year": "1657"
+      },
+      {
+        "title": "Inauguració del primer McDonald's",
+        "description": "Ray Kroc va obrir el primer restaurant McDonald's de la seva franquícia a Des Plaines, Illinois, iniciant l'expansió de la cadena de menjar ràpid que es convertiria en la més gran del món amb més de 40.000 locals en 100 països.",
+        "year": "1955"
+      }
+    ]
+  }
+}

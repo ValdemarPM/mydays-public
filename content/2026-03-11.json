@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-11",
+  "es": {
+    "saints": [
+      { "name": "San Eulogio de Córdoba", "type": "Mártir", "description": "Sacerdote cordobés del siglo IX que fue decapitado por proteger y animar a los mártires de Córdoba durante la persecución árabe; patrón de Oviedo y de los zapateros." },
+      { "name": "San Constantino de Bretaña", "type": "Rey y mártir", "description": "Rey legendario de Cornualles y Bretaña del siglo VI que abdicó para hacerse monje y murió mártir en Escocia." },
+      { "name": "Santa Orosia de Jaca", "type": "Virgen y mártir", "description": "Mártir visigoda del siglo VIII venerada en Aragón, según la tradición princesa bohemia que rechazó casarse con un moro y fue decapitada; patrona de Jaca." }
+    ],
+    "observances": [
+      { "name": "Día Mundial del Riñón", "description": "Jornada promovida por la Sociedad Internacional de Nefrología y la Federación Internacional de Fundaciones del Riñón para concienciar sobre la importancia de la salud renal y la prevención de la enfermedad renal crónica." },
+      { "name": "Aniversario del Gran Terremoto de Japón", "description": "El 11 de marzo de 2011, un terremoto de magnitud 9,0 y el posterior tsunami devastaron el noreste de Japón, causando más de 15.000 muertes y el accidente nuclear de Fukushima." }
+    ],
+    "historicalQuote": {
+      "text": "En medio de la dificultad se encuentra la oportunidad.",
+      "author": "Albert Einstein",
+      "context": "Albert Einstein es célebre no solo por sus teorías físicas sino también por sus reflexiones filosóficas. Esta frase, frecuentemente atribuida a él, refleja su enfoque ante los problemas y la adversidad."
+    },
+    "motivationalQuote": {
+      "text": "El coraje no es la ausencia de miedo, sino el juicio de que algo más es más importante que el miedo.",
+      "author": "Ambrose Redmoon"
+    },
+    "births": [
+      { "name": "Rupert Murdoch", "description": "Magnate de los medios de comunicación australiano-americano, fundador de News Corp y Fox News, figura que transformó el panorama mediático global durante décadas.", "year": 1931 },
+      { "name": "Douglas Adams", "description": "Escritor y humorista británico, autor de la serie 'Guía del autoestopista galáctico', una de las obras de ciencia ficción cómica más queridas de la literatura inglesa.", "year": 1952 },
+      { "name": "Thora Birch", "description": "Actriz estadounidense conocida por su papel en 'American Beauty' (1999) y 'Ghost World' (2001), figuras del cine independiente de los años 90 y 2000.", "year": 1982 }
+    ],
+    "events": [
+      { "title": "Terremoto y tsunami de Tōhoku", "description": "Un terremoto de magnitud 9,0 seguido de un devastador tsunami arrasó la costa noreste de Japón, causando más de 15.000 muertos y desencadenando la crisis nuclear de Fukushima Daiichi.", "year": 2011 },
+      { "title": "Mijaíl Gorbachov se convierte en secretario general del PCUS", "description": "Mijaíl Gorbachov fue elegido secretario general del Partido Comunista de la Unión Soviética, iniciando el periodo de reformas conocido como glasnost y perestroika que transformaría el mundo.", "year": 1985 },
+      { "title": "La Liga de las Naciones se disuelve oficialmente", "description": "La Liga de las Naciones, precursora de la ONU, se disolvió formalmente después de que la ONU la reemplazara, cerrando un capítulo de la historia de la diplomacia internacional de entreguerras.", "year": 1946 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Eulogius of Córdoba", "type": "Martyr", "description": "Ninth-century Córdoba priest who was beheaded for protecting and encouraging the Martyrs of Córdoba during Arab persecution; patron of Oviedo and of shoemakers." },
+      { "name": "Saint Constantine of Brittany", "type": "King and martyr", "description": "Legendary sixth-century king of Cornwall and Brittany who abdicated to become a monk and died a martyr in Scotland." },
+      { "name": "Saint Orosia of Jaca", "type": "Virgin and martyr", "description": "Eighth-century Visigoth martyr venerated in Aragon, traditionally a Bohemian princess who refused to marry a Moorish prince and was beheaded; patron of Jaca." }
+    ],
+    "observances": [
+      { "name": "World Kidney Day", "description": "A day promoted by the International Society of Nephrology and the International Federation of Kidney Foundations to raise awareness of kidney health and the prevention of chronic kidney disease." },
+      { "name": "Anniversary of the Great East Japan Earthquake", "description": "On 11 March 2011, a magnitude 9.0 earthquake and the ensuing tsunami devastated northeastern Japan, causing more than 15,000 deaths and triggering the Fukushima nuclear disaster." }
+    ],
+    "historicalQuote": {
+      "text": "In the middle of every difficulty lies opportunity.",
+      "author": "Albert Einstein",
+      "context": "Albert Einstein is celebrated not only for his physical theories but also for his philosophical reflections. This phrase, frequently attributed to him, reflects his approach to problems and adversity."
+    },
+    "motivationalQuote": {
+      "text": "Courage is not the absence of fear, but rather the judgement that something else is more important than fear.",
+      "author": "Ambrose Redmoon"
+    },
+    "births": [
+      { "name": "Rupert Murdoch", "description": "Australian-American media mogul, founder of News Corp and Fox News, a figure who transformed the global media landscape for decades.", "year": 1931 },
+      { "name": "Douglas Adams", "description": "British writer and humorist, author of 'The Hitchhiker's Guide to the Galaxy' series, one of the most beloved works of comic science fiction in English literature.", "year": 1952 },
+      { "name": "Thora Birch", "description": "American actress known for her roles in 'American Beauty' (1999) and 'Ghost World' (2001), prominent figures of 1990s and 2000s independent cinema.", "year": 1982 }
+    ],
+    "events": [
+      { "title": "Tōhoku earthquake and tsunami", "description": "A magnitude 9.0 earthquake followed by a devastating tsunami struck northeastern Japan, killing more than 15,000 people and triggering the Fukushima Daiichi nuclear crisis.", "year": 2011 },
+      { "title": "Mikhail Gorbachev becomes General Secretary of the CPSU", "description": "Mikhail Gorbachev was elected General Secretary of the Communist Party of the Soviet Union, beginning the reform period known as glasnost and perestroika that would transform the world.", "year": 1985 },
+      { "title": "League of Nations officially dissolved", "description": "The League of Nations, forerunner of the UN, was formally dissolved after the UN replaced it, closing a chapter in the history of interwar international diplomacy.", "year": 1946 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Eulógio de Córdoba", "type": "Mártir", "description": "Sacerdote cordobês do século IX decapitado por proteger e encorajar os mártires de Córdoba durante a perseguição árabe; padroeiro de Oviedo e dos sapateiros." },
+      { "name": "São Constantino da Bretanha", "type": "Rei e mártir", "description": "Rei lendário de Cornualha e Bretanha do século VI que abdicou para se tornar monge e morreu mártir na Escócia." },
+      { "name": "Santa Orósia de Jaca", "type": "Virgem e mártir", "description": "Mártir visigoda do século VIII venerada em Aragão, segundo a tradição princesa boêmia que recusou casar-se com um mouro e foi decapitada; padroeira de Jaca." }
+    ],
+    "observances": [
+      { "name": "Dia Mundial do Rim", "description": "Jornada promovida pela Sociedade Internacional de Nefrologia e a Federação Internacional de Fundações do Rim para conscientizar sobre a saúde renal e a prevenção da doença renal crônica." },
+      { "name": "Aniversário do Grande Terremoto do Japão", "description": "Em 11 de março de 2011, um terremoto de magnitude 9,0 e o posterior tsunami devastaram o nordeste do Japão, causando mais de 15.000 mortes e desencadeando o desastre nuclear de Fukushima." }
+    ],
+    "historicalQuote": {
+      "text": "No meio de toda dificuldade encontra-se uma oportunidade.",
+      "author": "Albert Einstein",
+      "context": "Albert Einstein é célebre não apenas por suas teorias físicas, mas também por suas reflexões filosóficas. Esta frase, frequentemente atribuída a ele, reflete sua abordagem diante dos problemas e da adversidade."
+    },
+    "motivationalQuote": {
+      "text": "Coragem não é a ausência do medo, mas o julgamento de que algo mais é mais importante do que o medo.",
+      "author": "Ambrose Redmoon"
+    },
+    "births": [
+      { "name": "Rupert Murdoch", "description": "Magnata da mídia australiano-americano, fundador da News Corp e da Fox News, figura que transformou o cenário midiático global por décadas.", "year": 1931 },
+      { "name": "Douglas Adams", "description": "Escritor e humorista britânico, autor da série 'O Guia do Mochileiro das Galáxias', uma das obras de ficção científica cômica mais queridas da literatura inglesa.", "year": 1952 },
+      { "name": "Thora Birch", "description": "Atriz americana conhecida pelos papéis em 'Beleza Americana' (1999) e 'Ghost World' (2001), figuras do cinema independente dos anos 90 e 2000.", "year": 1982 }
+    ],
+    "events": [
+      { "title": "Terremoto e tsunami de Tōhoku", "description": "Um terremoto de magnitude 9,0 seguido de um devastador tsunami atingiu o nordeste do Japão, causando mais de 15.000 mortes e desencadeando a crise nuclear de Fukushima Daiichi.", "year": 2011 },
+      { "title": "Mikhail Gorbachev torna-se secretário-geral do PCUS", "description": "Mikhail Gorbachev foi eleito secretário-geral do Partido Comunista da União Soviética, iniciando o período de reformas conhecido como glasnost e perestroika que transformaria o mundo.", "year": 1985 },
+      { "title": "Liga das Nações oficialmente dissolvida", "description": "A Liga das Nações, precursora da ONU, foi formalmente dissolvida após ser substituída pela ONU, encerrando um capítulo da história da diplomacia internacional do entre-guerras.", "year": 1946 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Eulogi de Còrdova", "type": "Màrtir", "description": "Sacerdot cordovès del segle IX decapitat per protegir i animar els màrtirs de Còrdova durant la persecució àrab; patró d'Oviedo i dels sabaters." },
+      { "name": "Sant Constantí de Bretanya", "type": "Rei i màrtir", "description": "Rei llegendari de Cornualla i Bretanya del segle VI que va abdicar per fer-se monjo i va morir màrtir a Escòcia." },
+      { "name": "Santa Oròsia de Jaca", "type": "Verge i màrtir", "description": "Màrtir visigoda del segle VIII venerada a l'Aragó, segons la tradició princesa bohèmia que va refusar casar-se amb un moro i va ser decapitada; patrona de Jaca." }
+    ],
+    "observances": [
+      { "name": "Dia Mundial del Ronyó", "description": "Jornada promoguda per la Societat Internacional de Nefrologia i la Federació Internacional de Fundacions del Ronyó per conscienciar sobre la salut renal i la prevenció de la malaltia renal crònica." },
+      { "name": "Aniversari del Gran Terratrèmol del Japó", "description": "L'11 de març de 2011, un terratrèmol de magnitud 9,0 i el posterior tsunami van devastar el nord-est del Japó, causant més de 15.000 morts i desencadenant el desastre nuclear de Fukushima." }
+    ],
+    "historicalQuote": {
+      "text": "Enmig de tota dificultat es troba una oportunitat.",
+      "author": "Albert Einstein",
+      "context": "Albert Einstein és cèlebre no només per les seves teories físiques sinó també per les seves reflexions filosòfiques. Aquesta frase, freqüentment atribuïda a ell, reflecteix el seu enfocament davant els problemes i l'adversitat."
+    },
+    "motivationalQuote": {
+      "text": "El coratge no és l'absència de por, sinó el judici que alguna cosa més és més important que la por.",
+      "author": "Ambrose Redmoon"
+    },
+    "births": [
+      { "name": "Rupert Murdoch", "description": "Magnat dels mitjans de comunicació australiano-americà, fundador de News Corp i Fox News, figura que va transformar el panorama mediàtic global durant dècades.", "year": 1931 },
+      { "name": "Douglas Adams", "description": "Escriptor i humorista britànic, autor de la sèrie 'La guia de l'autoestopista galàctic', una de les obres de ciència ficció còmica més estimades de la literatura anglesa.", "year": 1952 },
+      { "name": "Thora Birch", "description": "Actriu americana coneguda pels papers a 'American Beauty' (1999) i 'Ghost World' (2001), figures del cinema independent dels anys 90 i 2000.", "year": 1982 }
+    ],
+    "events": [
+      { "title": "Terratrèmol i tsunami de Tōhoku", "description": "Un terratrèmol de magnitud 9,0 seguit d'un devastador tsunami va arrasar la costa nord-est del Japó, causant més de 15.000 morts i desencadenant la crisi nuclear de Fukushima Daiichi.", "year": 2011 },
+      { "title": "Mikhail Gorbatxov es converteix en secretari general del PCUS", "description": "Mikhail Gorbatxov va ser elegit secretari general del Partit Comunista de la Unió Soviètica, iniciant el període de reformes conegut com a glasnost i perestroika que transformaria el món.", "year": 1985 },
+      { "title": "La Lliga de les Nacions es dissol oficialment", "description": "La Lliga de les Nacions, predecessora de l'ONU, es va dissoldre formalment després que l'ONU la substituís, tancant un capítol de la història de la diplomàcia internacional d'entreguerres.", "year": 1946 }
+    ]
+  }
+}

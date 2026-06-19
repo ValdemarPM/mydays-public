@@ -1,0 +1,291 @@
+{
+  "date": "2026-06-05",
+  "es": {
+    "saints": [
+      {
+        "name": "San Bonifacio de Maguncia",
+        "type": "Obispo y Mártir",
+        "description": "Nacido en Inglaterra hacia 675 con el nombre de Winfrido, fue monje benedictino y se convirtió en el gran evangelizador de los territorios germánicos. Organizó diócesis, fundó monasterios y fortaleció la Iglesia en Europa central. Murió mártir en Frisia en el año 754. Es el 'Apóstol de Alemania'."
+      },
+      {
+        "name": "San Doroteo de Tiro",
+        "type": "Obispo y Mártir",
+        "description": "Obispo de Tiro (actual Líbano) en el siglo IV, que sufrió prisión y destierro durante las persecuciones imperiales contra los cristianos. Murió siendo centenario durante el reinado de Juliano el Apóstata."
+      },
+      {
+        "name": "Beato Fernando de Portugal",
+        "type": "Príncipe",
+        "description": "Infante portugués del siglo XV que fue retenido como rehén en el norte de África tras el desastre de Tánger. Murió en cautiverio negándose a aceptar condiciones contrarias a su honor y fe. Beatificado en 1470."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Medio Ambiente",
+        "description": "Principal jornada ambiental de Naciones Unidas, proclamada en 1972 y celebrada cada 5 de junio desde 1974. Su objetivo es impulsar la conciencia sobre los problemas medioambientales y promover acción política en favor del planeta."
+      },
+      {
+        "name": "Día Mundial del Océano (preparatorio)",
+        "description": "En la semana que precede al Día Mundial de los Océanos (8 de junio), la comunidad científica y las organizaciones ambientales lanzan campañas de sensibilización sobre la salud de los mares y la biodiversidad marina."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La riqueza de las naciones no proviene del oro ni de la plata, sino del trabajo de los hombres.",
+      "author": "Adam Smith",
+      "context": "Adam Smith fue bautizado el 5 de junio de 1723 en Kirkcaldy, Escocia. Filósofo y economista, es considerado el padre de la economía moderna. Su obra La riqueza de las naciones (1776) sentó las bases del liberalismo económico y de la economía como ciencia autónoma."
+    },
+    "motivationalQuote": {
+      "text": "Lo que no te mata te hace más fuerte.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "Federico García Lorca",
+        "description": "Poeta y dramaturgo español, uno de los más importantes del siglo XX. Figura del Surrealismo y de la Generación del 27, autor del Romancero gitano, Poeta en Nueva York y obras teatrales como Bodas de sangre y La casa de Bernarda Alba.",
+        "year": "1898"
+      },
+      {
+        "name": "John Maynard Keynes",
+        "description": "Economista británico, fundador de la macroeconomía moderna. Su obra Teoría general del empleo, el interés y el dinero transformó la economía del siglo XX y sigue siendo referencia fundamental en la política económica global.",
+        "year": "1883"
+      },
+      {
+        "name": "Pancho Villa",
+        "description": "Revolucionario mexicano, uno de los líderes más carismáticos de la Revolución Mexicana. Sus divisiones del Norte fueron determinantes en la caída del régimen de Porfirio Díaz y en el curso de la guerra civil.",
+        "year": "1878"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera Conferencia de la ONU sobre el Medio Ambiente",
+        "description": "Se celebró en Estocolmo la Primera Conferencia de las Naciones Unidas sobre el Medio Ambiente Humano, origen del Programa de Naciones Unidas para el Medio Ambiente (PNUMA) y del Día Mundial del Medio Ambiente.",
+        "year": "1972"
+      },
+      {
+        "title": "Israel lanza la Guerra de los Seis Días",
+        "description": "Israel inició ataques preventivos contra Egipto, Jordania y Siria, en el inicio de la llamada Guerra de los Seis Días. En menos de una semana, Israel tomó el control de la franja de Gaza, Cisjordania, la península del Sinaí y los Altos del Golán.",
+        "year": "1967"
+      },
+      {
+        "title": "Robert F. Kennedy es asesinado",
+        "description": "El senador estadounidense Robert F. Kennedy fue tiroteado en el Hotel Ambassador de Los Ángeles, pocas horas después de ganar las primarias presidenciales demócratas en California. Murió al día siguiente, el 6 de junio de 1968.",
+        "year": "1968"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Boniface of Mainz",
+        "type": "Bishop and Martyr",
+        "description": "Born in England around 675 with the name Winfrid, he was a Benedictine monk and became the great evangelist of the Germanic territories. He organized dioceses, founded monasteries, and strengthened the Church in central Europe. He died a martyr in Frisia in 754. He is the 'Apostle of Germany'."
+      },
+      {
+        "name": "Saint Dorotheus of Tyre",
+        "type": "Bishop and Martyr",
+        "description": "Bishop of Tyre (present-day Lebanon) in the 4th century, who suffered imprisonment and exile during the imperial persecutions of Christians. He died as a centenarian during the reign of Julian the Apostate."
+      },
+      {
+        "name": "Blessed Ferdinand of Portugal",
+        "type": "Prince",
+        "description": "15th-century Portuguese prince who was held hostage in North Africa following the disaster of Tangier. He died in captivity, refusing to accept conditions contrary to his honour and faith. Beatified in 1470."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Environment Day",
+        "description": "The United Nations' main environmental observance, proclaimed in 1972 and celebrated every June 5 since 1974. Its goal is to raise awareness about environmental problems and promote political action in favour of the planet."
+      },
+      {
+        "name": "Pre-World Oceans Day awareness",
+        "description": "In the week before World Oceans Day (June 8), the scientific community and environmental organisations launch awareness campaigns on the health of the seas and marine biodiversity."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The wealth of nations comes not from gold or silver, but from the labour of men.",
+      "author": "Adam Smith",
+      "context": "Adam Smith was baptized on June 5, 1723 in Kirkcaldy, Scotland. Philosopher and economist, he is considered the father of modern economics. His work The Wealth of Nations (1776) laid the foundations of economic liberalism and of economics as an autonomous science."
+    },
+    "motivationalQuote": {
+      "text": "That which does not kill us makes us stronger.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "Federico García Lorca",
+        "description": "Spanish poet and playwright, one of the most important of the 20th century. A figure of Surrealism and the Generation of '27, author of Romancero gitano, Poet in New York, and plays such as Blood Wedding and The House of Bernarda Alba.",
+        "year": "1898"
+      },
+      {
+        "name": "John Maynard Keynes",
+        "description": "British economist and founder of modern macroeconomics. His work The General Theory of Employment, Interest and Money transformed 20th-century economics and remains a fundamental reference in global economic policy.",
+        "year": "1883"
+      },
+      {
+        "name": "Pancho Villa",
+        "description": "Mexican revolutionary, one of the most charismatic leaders of the Mexican Revolution. His Northern Divisions were decisive in the fall of Porfirio Díaz's regime and in the course of the civil war.",
+        "year": "1878"
+      }
+    ],
+    "events": [
+      {
+        "title": "First UN Conference on the Environment",
+        "description": "The First United Nations Conference on the Human Environment was held in Stockholm, giving rise to the United Nations Environment Programme (UNEP) and World Environment Day.",
+        "year": "1972"
+      },
+      {
+        "title": "Israel launches the Six-Day War",
+        "description": "Israel launched pre-emptive strikes against Egypt, Jordan, and Syria, beginning the Six-Day War. In less than a week, Israel took control of the Gaza Strip, the West Bank, the Sinai Peninsula, and the Golan Heights.",
+        "year": "1967"
+      },
+      {
+        "title": "Robert F. Kennedy is assassinated",
+        "description": "US Senator Robert F. Kennedy was shot at the Ambassador Hotel in Los Angeles, hours after winning the Democratic presidential primary in California. He died the following day, June 6, 1968.",
+        "year": "1968"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Bonifácio de Mogúncia",
+        "type": "Bispo e Mártir",
+        "description": "Nascido na Inglaterra por volta de 675 com o nome de Winfrido, foi monge beneditino e tornou-se o grande evangelizador dos territórios germânicos. Organizou dioceses, fundou mosteiros e fortaleceu a Igreja na Europa central. Morreu mártir na Frísia em 754. É o 'Apóstolo da Alemanha'."
+      },
+      {
+        "name": "São Doroteu de Tiro",
+        "type": "Bispo e Mártir",
+        "description": "Bispo de Tiro (atual Líbano) no século IV, que sofreu prisão e exílio durante as perseguições imperiais aos cristãos. Morreu centenário durante o reinado de Juliano, o Apóstata."
+      },
+      {
+        "name": "Beato Fernando de Portugal",
+        "type": "Príncipe",
+        "description": "Infante português do século XV que foi mantido como refém no norte da África após o desastre de Tânger. Morreu em cativeiro recusando-se a aceitar condições contrárias à sua honra e fé. Beatificado em 1470."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial do Meio Ambiente",
+        "description": "Principal jornada ambiental das Nações Unidas, proclamada em 1972 e celebrada todo 5 de junho desde 1974. Seu objetivo é impulsionar a conscientização sobre os problemas ambientais e promover ação política em favor do planeta."
+      },
+      {
+        "name": "Semana anterior ao Dia Mundial dos Oceanos",
+        "description": "Na semana que antecede o Dia Mundial dos Oceanos (8 de junho), a comunidade científica e as organizações ambientais lançam campanhas de sensibilização sobre a saúde dos mares e a biodiversidade marinha."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A riqueza das nações não provém do ouro nem da prata, mas do trabalho dos homens.",
+      "author": "Adam Smith",
+      "context": "Adam Smith foi batizado em 5 de junho de 1723 em Kirkcaldy, Escócia. Filósofo e economista, é considerado o pai da economia moderna. Sua obra A Riqueza das Nações (1776) estabeleceu as bases do liberalismo econômico e da economia como ciência autônoma."
+    },
+    "motivationalQuote": {
+      "text": "O que não nos mata nos torna mais fortes.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "Federico García Lorca",
+        "description": "Poeta e dramaturgo espanhol, um dos mais importantes do século XX. Figura do Surrealismo e da Geração de '27, autor do Romanceiro Gitano, Poeta em Nova York e peças como Bodas de Sangue e A Casa de Bernarda Alba.",
+        "year": "1898"
+      },
+      {
+        "name": "John Maynard Keynes",
+        "description": "Economista britânico e fundador da macroeconomia moderna. Sua obra Teoria Geral do Emprego, do Juro e da Moeda transformou a economia do século XX e continua sendo referência fundamental na política econômica global.",
+        "year": "1883"
+      },
+      {
+        "name": "Pancho Villa",
+        "description": "Revolucionário mexicano, um dos líderes mais carismáticos da Revolução Mexicana. Suas Divisões do Norte foram determinantes na queda do regime de Porfírio Díaz e no curso da guerra civil.",
+        "year": "1878"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeira Conferência da ONU sobre o Meio Ambiente",
+        "description": "Realizou-se em Estocolmo a Primeira Conferência das Nações Unidas sobre o Meio Ambiente Humano, origem do Programa das Nações Unidas para o Meio Ambiente (PNUMA) e do Dia Mundial do Meio Ambiente.",
+        "year": "1972"
+      },
+      {
+        "title": "Israel lança a Guerra dos Seis Dias",
+        "description": "Israel iniciou ataques preventivos contra o Egito, a Jordânia e a Síria, dando início à chamada Guerra dos Seis Dias. Em menos de uma semana, Israel tomou controle da Faixa de Gaza, da Cisjordânia, da Península do Sinai e das Colinas de Golã.",
+        "year": "1967"
+      },
+      {
+        "title": "Robert F. Kennedy é assassinado",
+        "description": "O senador americano Robert F. Kennedy foi baleado no Hotel Ambassador em Los Angeles, horas após vencer as primárias presidenciais democratas na Califórnia. Morreu no dia seguinte, 6 de junho de 1968.",
+        "year": "1968"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Bonifaci de Magúncia",
+        "type": "Bisbe i Màrtir",
+        "description": "Nascut a Anglaterra cap al 675 amb el nom de Winfrido, va ser monjo benedictí i es va convertir en el gran evangelitzador dels territoris germànics. Va organitzar diòcesis, va fundar monestirs i va enfortir l'Església a l'Europa central. Va morir màrtir a Frísia l'any 754. És l''Apòstol d'Alemanya'."
+      },
+      {
+        "name": "Sant Doroteu de Tir",
+        "type": "Bisbe i Màrtir",
+        "description": "Bisbe de Tir (actual Líban) al segle IV, que va patir presó i desterrament durant les persecucions imperials contra els cristians. Va morir centenari durant el regnat de Julià l'Apòstata."
+      },
+      {
+        "name": "Beat Ferran de Portugal",
+        "type": "Príncep",
+        "description": "Infant portuguès del segle XV que va ser retingut com a ostatge al nord d'Àfrica després del desastre de Tànger. Va morir en captivitat negant-se a acceptar condicions contràries al seu honor i fe. Beatificat el 1470."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial del Medi Ambient",
+        "description": "Principal jornada ambiental de les Nacions Unides, proclamada el 1972 i celebrada cada 5 de juny des de 1974. El seu objectiu és impulsar la consciència sobre els problemes mediambientals i promoure acció política a favor del planeta."
+      },
+      {
+        "name": "Setmana anterior al Dia Mundial dels Oceans",
+        "description": "En la setmana que precedeix el Dia Mundial dels Oceans (8 de juny), la comunitat científica i les organitzacions ambientals llancen campanyes de sensibilització sobre la salut dels mars i la biodiversitat marina."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La riquesa de les nacions no prové de l'or ni de la plata, sinó del treball dels homes.",
+      "author": "Adam Smith",
+      "context": "Adam Smith va ser batejat el 5 de juny de 1723 a Kirkcaldy, Escòcia. Filòsof i economista, és considerat el pare de l'economia moderna. La seva obra La riquesa de les nacions (1776) va establir les bases del liberalisme econòmic i de l'economia com a ciència autònoma."
+    },
+    "motivationalQuote": {
+      "text": "El que no ens mata ens fa més forts.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "Federico García Lorca",
+        "description": "Poeta i dramaturg espanyol, un dels més importants del segle XX. Figura del Surrealisme i de la Generació del 27, autor del Romancer gitano, Poeta a Nova York i obres teatrals com Noces de sang i La casa de Bernarda Alba.",
+        "year": "1898"
+      },
+      {
+        "name": "John Maynard Keynes",
+        "description": "Economista britànic i fundador de la macroeconomia moderna. La seva obra Teoria general de l'ocupació, l'interès i els diners va transformar l'economia del segle XX i continua sent referència fonamental en la política econòmica global.",
+        "year": "1883"
+      },
+      {
+        "name": "Pancho Villa",
+        "description": "Revolucionari mexicà, un dels líders més carismàtics de la Revolució Mexicana. Les seves Divisions del Nord van ser determinants en la caiguda del règim de Porfiri Díaz i en el curs de la guerra civil.",
+        "year": "1878"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera Conferència de l'ONU sobre el Medi Ambient",
+        "description": "Es va celebrar a Estocolm la Primera Conferència de les Nacions Unides sobre el Medi Ambient Humà, origen del Programa de les Nacions Unides per al Medi Ambient (PNUMA) i del Dia Mundial del Medi Ambient.",
+        "year": "1972"
+      },
+      {
+        "title": "Israel llança la Guerra dels Sis Dies",
+        "description": "Israel va iniciar atacs preventius contra Egipte, Jordània i Síria, donant inici a la Guerra dels Sis Dies. En menys d'una setmana, Israel va prendre el control de la Franja de Gaza, Cisjordània, la Península del Sinaí i els Alts del Golan.",
+        "year": "1967"
+      },
+      {
+        "title": "Robert F. Kennedy és assassinat",
+        "description": "El senador americà Robert F. Kennedy va ser tiroteig a l'Hotel Ambassador de Los Angeles, hores després de guanyar les primàries presidencials demòcrates a Califòrnia. Va morir l'endemà, el 6 de juny de 1968.",
+        "year": "1968"
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-02",
+  "es": {
+    "saints": [
+      { "name": "San Simplicio", "type": "Papa", "description": "Papa entre 468 y 483, luchó contra las herejías arriana y monofisita y organizó la estructura parroquial en Roma." },
+      { "name": "San Jovino", "type": "Mártir", "description": "Mártir cristiano de los primeros siglos venerado en África del Norte, compañero de San Basileo." },
+      { "name": "Beata Ángela de la Cruz", "description": "Religiosa sevillana fundadora de la Compañía de la Cruz, entregada al servicio de los más pobres de Sevilla en el siglo XIX." }
+    ],
+    "observances": [
+      { "name": "Día de la Independencia de Marruecos", "description": "Marruecos conmemora su independencia de Francia proclamada el 2 de marzo de 1956, tras décadas de protectorado francés y español." },
+      { "name": "Día Mundial de las Enfermedades Raras", "description": "Observancia anual (el último día de febrero o el 28/29 de febrero; en años sin ese día se celebra el 1 de marzo) para concienciar sobre las enfermedades raras y sus efectos en pacientes y familias." }
+    ],
+    "historicalQuote": {
+      "text": "Sé el cambio que quieres ver en el mundo.",
+      "author": "Mahatma Gandhi",
+      "context": "Aunque esta frase se atribuye popularmente a Gandhi, su origen exacto es debatido. Refleja la filosofía de acción no violenta y transformación personal que Gandhi defendió a lo largo de su vida."
+    },
+    "motivationalQuote": {
+      "text": "No esperes a que las condiciones sean perfectas para empezar. El inicio hace que las condiciones sean perfectas.",
+      "author": "Alan Cohen"
+    },
+    "births": [
+      { "name": "Mikhail Gorbachov", "description": "Último líder de la Unión Soviética, promotor de la glasnost y la perestroika, que transformaron el mundo y condujeron al fin de la Guerra Fría.", "year": 1931 },
+      { "name": "Dr. Seuss (Theodor Geisel)", "description": "Escritor e ilustrador estadounidense, autor de libros infantiles clásicos como 'El gato en el sombrero' y 'Huevos verdes con jamón'.", "year": 1904 },
+      { "name": "Jon Bon Jovi", "description": "Cantante y compositor estadounidense, líder de la banda de rock Bon Jovi, con canciones icónicas como 'Livin' on a Prayer'.", "year": 1962 }
+    ],
+    "events": [
+      { "title": "Texas declara su independencia de México", "description": "La Convención de Texas adoptó la Declaración de Independencia de la República de Texas, separándose oficialmente de México y estableciendo una nueva nación.", "year": 1836 },
+      { "title": "Etiopía derrota a Italia en Adua", "description": "El ejército etíope del emperador Menelik II infligió una aplastante derrota a las fuerzas italianas en la batalla de Adua, siendo una de las pocas victorias africanas frente al colonialismo europeo.", "year": 1896 },
+      { "title": "Voyager 1 toma la primera foto de Júpiter y su luna Io juntos", "description": "La sonda espacial Voyager 1 de la NASA capturó la primera imagen que mostraba simultáneamente a Júpiter y a su luna volcánica Io, revolucionando el conocimiento del sistema joviano.", "year": 1979 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Simplicius", "type": "Pope", "description": "Pope from 468 to 483, he fought against Arianism and Monophysitism and organised Rome's parish structure." },
+      { "name": "Saint Jovinus", "type": "Martyr", "description": "Early Christian martyr venerated in North Africa, companion of Saint Basileus." },
+      { "name": "Blessed Angela of the Cross", "description": "Seville-born nun who founded the Company of the Cross, dedicated to serving the poorest people of Seville in the nineteenth century." }
+    ],
+    "observances": [
+      { "name": "Moroccan Independence Day", "description": "Morocco commemorates its independence from France, proclaimed on 2 March 1956 after decades of French and Spanish protectorate." },
+      { "name": "Rare Disease Day", "description": "Annual observance (held on the last day of February, or 1 March in non-leap years) raising awareness of rare diseases and their impact on patients and families." }
+    ],
+    "historicalQuote": {
+      "text": "Be the change you wish to see in the world.",
+      "author": "Mahatma Gandhi",
+      "context": "Though popularly attributed to Gandhi, the exact origin of this quote is debated. It reflects the philosophy of non-violent action and personal transformation that Gandhi championed throughout his life."
+    },
+    "motivationalQuote": {
+      "text": "Don't wait for the perfect conditions to begin. Starting makes the conditions perfect.",
+      "author": "Alan Cohen"
+    },
+    "births": [
+      { "name": "Mikhail Gorbachev", "description": "Last leader of the Soviet Union, architect of glasnost and perestroika, whose reforms transformed the world and brought the Cold War to an end.", "year": 1931 },
+      { "name": "Dr. Seuss (Theodor Geisel)", "description": "American writer and illustrator, author of beloved children's classics such as 'The Cat in the Hat' and 'Green Eggs and Ham'.", "year": 1904 },
+      { "name": "Jon Bon Jovi", "description": "American singer-songwriter and leader of the rock band Bon Jovi, with iconic songs such as 'Livin' on a Prayer'.", "year": 1962 }
+    ],
+    "events": [
+      { "title": "Texas declares independence from Mexico", "description": "The Texas Convention adopted the Texas Declaration of Independence, officially separating from Mexico and establishing the Republic of Texas.", "year": 1836 },
+      { "title": "Ethiopia defeats Italy at Adwa", "description": "Emperor Menelik II's Ethiopian army inflicted a crushing defeat on Italian forces at the Battle of Adwa, one of the few African victories against European colonialism.", "year": 1896 },
+      { "title": "Voyager 1 takes first photo of Jupiter and Io together", "description": "NASA's Voyager 1 probe captured the first image simultaneously showing Jupiter and its volcanic moon Io, revolutionising knowledge of the Jovian system.", "year": 1979 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Simplício", "type": "Papa", "description": "Papa de 468 a 483, combateu as heresias ariana e monofisita e organizou a estrutura paroquial em Roma." },
+      { "name": "São Jovino", "type": "Mártir", "description": "Mártir cristão dos primeiros séculos venerado no norte de África, companheiro de São Basileu." },
+      { "name": "Beata Ângela da Cruz", "description": "Religiosa sevilhana fundadora da Companhia da Cruz, dedicada ao serviço dos mais pobres de Sevilha no século XIX." }
+    ],
+    "observances": [
+      { "name": "Dia da Independência de Marrocos", "description": "Marrocos comemora a sua independência da França, proclamada em 2 de março de 1956, após décadas de protetorado francês e espanhol." },
+      { "name": "Dia Mundial das Doenças Raras", "description": "Observância anual (no último dia de fevereiro ou 1 de março em anos sem 29 de fevereiro) para conscientizar sobre as doenças raras e seus efeitos em pacientes e famílias." }
+    ],
+    "historicalQuote": {
+      "text": "Seja a mudança que você quer ver no mundo.",
+      "author": "Mahatma Gandhi",
+      "context": "Embora popularmente atribuída a Gandhi, a origem exata desta frase é debatida. Ela reflete a filosofia de ação não violenta e transformação pessoal que Gandhi defendeu ao longo de sua vida."
+    },
+    "motivationalQuote": {
+      "text": "Não espere que as condições sejam perfeitas para começar. O início torna as condições perfeitas.",
+      "author": "Alan Cohen"
+    },
+    "births": [
+      { "name": "Mikhail Gorbachev", "description": "Último líder da União Soviética, promotor da glasnost e da perestroika, cujas reformas transformaram o mundo e levaram ao fim da Guerra Fria.", "year": 1931 },
+      { "name": "Dr. Seuss (Theodor Geisel)", "description": "Escritor e ilustrador americano, autor de clássicos infantis como 'O Gato no Chapéu' e 'Ovos Verdes com Presunto'.", "year": 1904 },
+      { "name": "Jon Bon Jovi", "description": "Cantor e compositor americano, líder da banda de rock Bon Jovi, com canções icônicas como 'Livin' on a Prayer'.", "year": 1962 }
+    ],
+    "events": [
+      { "title": "Texas declara independência do México", "description": "A Convenção do Texas adotou a Declaração de Independência da República do Texas, separando-se oficialmente do México e estabelecendo uma nova nação.", "year": 1836 },
+      { "title": "Etiópia derrota a Itália em Adua", "description": "O exército etíope do imperador Menelik II infligiu uma esmagadora derrota às forças italianas na Batalha de Adua, uma das poucas vitórias africanas contra o colonialismo europeu.", "year": 1896 },
+      { "title": "Voyager 1 tira a primeira foto de Júpiter e Io juntos", "description": "A sonda espacial Voyager 1 da NASA capturou a primeira imagem mostrando simultaneamente Júpiter e sua lua vulcânica Io, revolucionando o conhecimento do sistema joviano.", "year": 1979 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Simplici", "type": "Papa", "description": "Papa del 468 al 483, va lluitar contra les heretgies arriana i monofisita i va organitzar l'estructura parroquial a Roma." },
+      { "name": "Sant Jovino", "type": "Màrtir", "description": "Màrtir cristià dels primers segles venerat al nord d'Àfrica, company de Sant Basileu." },
+      { "name": "Beata Àngela de la Creu", "description": "Religiosa sevillana fundadora de la Companyia de la Creu, dedicada al servei dels més pobres de Sevilla al segle XIX." }
+    ],
+    "observances": [
+      { "name": "Dia de la Independència del Marroc", "description": "El Marroc commemora la seva independència de França, proclamada el 2 de març de 1956, després de dècades de protectorat francès i espanyol." },
+      { "name": "Dia Mundial de les Malalties Rares", "description": "Observança anual (l'últim dia de febrer o l'1 de març en anys sense el 29 de febrer) per conscienciar sobre les malalties rares i els seus efectes en pacients i famílies." }
+    ],
+    "historicalQuote": {
+      "text": "Sigues el canvi que vols veure en el món.",
+      "author": "Mahatma Gandhi",
+      "context": "Encara que popularment atribuïda a Gandhi, l'origen exacte d'aquesta frase és debatut. Reflecteix la filosofia d'acció no violenta i transformació personal que Gandhi va defensar al llarg de la seva vida."
+    },
+    "motivationalQuote": {
+      "text": "No esperis que les condicions siguin perfectes per començar. L'inici fa que les condicions siguin perfectes.",
+      "author": "Alan Cohen"
+    },
+    "births": [
+      { "name": "Mikhail Gorbatxov", "description": "Darrer líder de la Unió Soviètica, promotor de la glasnost i la perestroika, les reformes del qual van transformar el món i van portar al final de la Guerra Freda.", "year": 1931 },
+      { "name": "Dr. Seuss (Theodor Geisel)", "description": "Escriptor i il·lustrador americà, autor de clàssics infantils com 'El gat amb barret' i 'Ous verds amb pernil'.", "year": 1904 },
+      { "name": "Jon Bon Jovi", "description": "Cantant i compositor americà, líder de la banda de rock Bon Jovi, amb cançons icòniques com 'Livin' on a Prayer'.", "year": 1962 }
+    ],
+    "events": [
+      { "title": "Texas declara la independència de Mèxic", "description": "La Convenció de Texas va adoptar la Declaració d'Independència de la República de Texas, separant-se oficialment de Mèxic i establint una nova nació.", "year": 1836 },
+      { "title": "Etiòpia derrota Itàlia a Adua", "description": "L'exèrcit etíop de l'emperador Menelik II va infligir una derrota aclaparadora a les forces italianes a la batalla d'Adua, una de les poques victòries africanes davant el colonialisme europeu.", "year": 1896 },
+      { "title": "Voyager 1 fa la primera foto de Júpiter i Io junts", "description": "La sonda espacial Voyager 1 de la NASA va capturar la primera imatge mostrant simultàniament Júpiter i la seva lluna volcànica Io, revolucionant el coneixement del sistema jovià.", "year": 1979 }
+    ]
+  }
+}

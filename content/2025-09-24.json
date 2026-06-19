@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-24",
+  "es": {
+    "saints": [
+      {
+        "name": "Nuestra Señora de la Merced",
+        "type": "Solemnidad",
+        "description": "Festividad de la Orden Mercedaria, fundada por San Pedro Nolasco en 1218 en Barcelona para rescatar a los cautivos cristianos en el norte de África. La Virgen de la Merced es la patrona de Barcelona y de varias ciudades latinoamericanas."
+      },
+      {
+        "name": "San Gerardo Sagredo",
+        "type": "Obispo y Mártir",
+        "description": "Monje benedictino veneciano del siglo XI que se convirtió en el primer obispo de Csanád (Hungría) y fue martirizado en 1046 durante una rebelión pagana. Patrono de Hungría junto a San Esteban."
+      },
+      {
+        "name": "Santa Pacífica de Gubbio",
+        "type": "Virgen",
+        "description": "Religiosa terciaría franciscana italiana del siglo XIII que vivió en austeridad y contemplación en Gubbio (Umbría). Fue beatificada en 1786 por el papa Pío VI."
+      }
+    ],
+    "observances": [
+      {
+        "name": "La Mercè — Festa Major de Barcelona",
+        "description": "Fiesta Mayor de Barcelona en honor a la Virgen de la Merced, patrona de la ciudad. Es la festividad más importante del año en Barcelona, con conciertos gratuitos, castellers, correfocs, gigantes y fuegos artificiales en toda la ciudad."
+      },
+      {
+        "name": "Día Mundial del Corazón",
+        "description": "Promovido por la Federación Mundial del Corazón y respaldado por la OMS, se celebra el 29 de septiembre para concienciar sobre las enfermedades cardiovasculares, primera causa de muerte en el mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La ciudad es un lugar donde se guardan civilizaciones.",
+      "author": "Ralph Waldo Emerson",
+      "context": "El filósofo americano reflexionó en sus ensayos sobre la naturaleza de las ciudades como custodias de la cultura y la historia colectiva. Barcelona, celebrando hoy su Fiesta Mayor, es un ejemplo perfecto de ciudad que atesora siglos de historia y cultura."
+    },
+    "motivationalQuote": {
+      "text": "Los que bailan son considerados locos por quienes no pueden escuchar la música.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "F. Scott Fitzgerald",
+        "description": "Novelista americano, máximo exponente de la «Generación Perdida» y de la Era del Jazz. Su novela El gran Gatsby (1925) es considerada una de las grandes obras de la literatura americana del siglo XX.",
+        "year": 1896
+      },
+      {
+        "name": "Jim Henson",
+        "description": "Titiritero, animador y productor americano, creador de Los Muppets (1955) y del mundo fantástico de Fraggle Rock. Su trabajo transformó la televisión infantil y la cultura popular del siglo XX.",
+        "year": 1936
+      },
+      {
+        "name": "Nia Long",
+        "description": "Actriz americana conocida por sus papeles en Boyz n the Hood (1991) y Las chicas de las páginas amarillas, y por su larga carrera en la televisión americana.",
+        "year": 1970
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundación de la Orden de la Merced en Barcelona",
+        "description": "San Pedro Nolasco, con el apoyo del rey Jaime I de Aragón y San Raimundo de Peñafort, fundó en Barcelona la Orden de la Bienaventurada Virgen María de la Merced, para la redención de los cautivos.",
+        "year": 1218
+      },
+      {
+        "title": "Inauguración de la ONU",
+        "description": "Las Naciones Unidas iniciaron formalmente su funcionamiento tras la ratificación de su Carta constitutiva por 29 países, creando el organismo internacional más importante para la paz y la cooperación global.",
+        "year": 1945
+      },
+      {
+        "title": "Primer debate televisado entre candidatos presidenciales",
+        "description": "El primer debate televisado de la historia entre candidatos presidenciales enfrentó a John F. Kennedy y Richard Nixon en Chicago, siendo visto por más de 66 millones de americanos y cambiando la política para siempre.",
+        "year": 1960
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Our Lady of Mercy",
+        "type": "Solemnity",
+        "description": "Feast of the Mercedarian Order, founded by Saint Peter Nolasco in 1218 in Barcelona to ransom Christian captives in North Africa. Our Lady of Mercy is the patron saint of Barcelona and several Latin American cities."
+      },
+      {
+        "name": "Saint Gerard Sagredo",
+        "type": "Bishop and Martyr",
+        "description": "A 11th-century Venetian Benedictine monk who became the first Bishop of Csanád (Hungary) and was martyred in 1046 during a pagan uprising. Co-patron of Hungary alongside Saint Stephen."
+      },
+      {
+        "name": "Saint Pacifica of Gubbio",
+        "type": "Virgin",
+        "description": "A 13th-century Italian Franciscan tertiary who lived in austerity and contemplation in Gubbio (Umbria). She was beatified in 1786 by Pope Pius VI."
+      }
+    ],
+    "observances": [
+      {
+        "name": "La Mercè — Barcelona's Main Festival",
+        "description": "Barcelona's biggest annual festival in honour of Our Lady of Mercy, the city's patron saint. It is the most important celebration of the year in Barcelona, with free concerts, human tower displays (castellers), fire-running (correfocs), giants, and fireworks across the city."
+      },
+      {
+        "name": "World Heart Day",
+        "description": "Promoted by the World Heart Federation and endorsed by the WHO, held on 29 September to raise awareness about cardiovascular diseases, the world's leading cause of death."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The city is a fact in nature, like a cave, a run of mackerel, or an ant heap.",
+      "author": "Ralph Waldo Emerson",
+      "context": "The American philosopher reflected in his essays on the nature of cities as custodians of culture and collective history. Barcelona, celebrating its main festival today, is a perfect example of a city that treasures centuries of history and culture."
+    },
+    "motivationalQuote": {
+      "text": "Those who were seen dancing were thought to be insane by those who could not hear the music.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "F. Scott Fitzgerald",
+        "description": "American novelist, the foremost representative of the 'Lost Generation' and the Jazz Age. His novel The Great Gatsby (1925) is considered one of the great works of 20th-century American literature.",
+        "year": 1896
+      },
+      {
+        "name": "Jim Henson",
+        "description": "American puppeteer, animator, and producer, creator of The Muppets (1955) and the fantastical world of Fraggle Rock. His work transformed children's television and 20th-century popular culture.",
+        "year": 1936
+      },
+      {
+        "name": "Nia Long",
+        "description": "American actress known for her roles in Boyz n the Hood (1991) and The Best Man, and for her long career in American television.",
+        "year": 1970
+      }
+    ],
+    "events": [
+      {
+        "title": "Founding of the Order of Mercy in Barcelona",
+        "description": "Saint Peter Nolasco, with the support of King James I of Aragon and Saint Raymond of Penyafort, founded in Barcelona the Order of the Blessed Virgin Mary of Mercy for the redemption of captives.",
+        "year": 1218
+      },
+      {
+        "title": "United Nations inaugurated",
+        "description": "The United Nations formally began operations after the ratification of its Charter by 29 countries, creating the most important international body for global peace and cooperation.",
+        "year": 1945
+      },
+      {
+        "title": "First televised presidential debate",
+        "description": "The first televised debate in history between presidential candidates pitted John F. Kennedy against Richard Nixon in Chicago, watched by more than 66 million Americans and changing politics forever.",
+        "year": 1960
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Nossa Senhora da Mercê",
+        "type": "Solenidade",
+        "description": "Festa da Ordem Mercedária, fundada por São Pedro Nolasco em 1218 em Barcelona para resgatar os cativos cristãos no norte de África. A Nossa Senhora da Mercê é a patrona de Barcelona e de várias cidades latino-americanas."
+      },
+      {
+        "name": "São Gerardo Sagredo",
+        "type": "Bispo e Mártir",
+        "description": "Monge beneditino veneziano do século XI que se tornou o primeiro bispo de Csanád (Hungria) e foi martirizado em 1046 durante uma revolta pagã. Copatrono da Hungria juntamente com São Estevão."
+      },
+      {
+        "name": "Santa Pacífica de Gubbio",
+        "type": "Virgem",
+        "description": "Religiosa terciária franciscana italiana do século XIII que viveu em austeridade e contemplação em Gubbio (Úmbria). Foi beatificada em 1786 pelo papa Pio VI."
+      }
+    ],
+    "observances": [
+      {
+        "name": "La Mercè — Festa Maior de Barcelona",
+        "description": "A maior festa anual de Barcelona em honra de Nossa Senhora da Mercê, a padroeira da cidade. É a celebração mais importante do ano em Barcelona, com concertos gratuitos, castellers, correfocs, gegants e fogo de artifício por toda a cidade."
+      },
+      {
+        "name": "Dia Mundial do Coração",
+        "description": "Promovido pela Federação Mundial do Coração e apoiado pela OMS, realizado a 29 de setembro para consciencializar sobre as doenças cardiovasculares, a principal causa de morte no mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A cidade é um facto da natureza, como uma caverna ou um formigueiro.",
+      "author": "Ralph Waldo Emerson",
+      "context": "O filósofo americano refletiu nos seus ensaios sobre a natureza das cidades como guardiãs da cultura e da história coletiva. Barcelona, que celebra hoje a sua Festa Maior, é um exemplo perfeito de cidade que atesora séculos de história e cultura."
+    },
+    "motivationalQuote": {
+      "text": "Os que dançavam eram considerados loucos por aqueles que não conseguiam ouvir a música.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "F. Scott Fitzgerald",
+        "description": "Romancista americano, o maior exponente da 'Geração Perdida' e da Era do Jazz. O seu romance O Grande Gatsby (1925) é considerado uma das grandes obras da literatura americana do século XX.",
+        "year": 1896
+      },
+      {
+        "name": "Jim Henson",
+        "description": "Fantocheiro, animador e produtor americano, criador dos Muppets (1955) e do mundo fantástico de Fraggle Rock. O seu trabalho transformou a televisão infantil e a cultura popular do século XX.",
+        "year": 1936
+      },
+      {
+        "name": "Nia Long",
+        "description": "Atriz americana conhecida pelos seus papéis em Boyz n the Hood (1991) e The Best Man, e pela sua longa carreira na televisão americana.",
+        "year": 1970
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundação da Ordem da Mercê em Barcelona",
+        "description": "São Pedro Nolasco, com o apoio do rei Jaime I de Aragão e de São Raimundo de Peñafort, fundou em Barcelona a Ordem da Bem-aventurada Virgem Maria da Mercê para a redenção dos cativos.",
+        "year": 1218
+      },
+      {
+        "title": "Inauguração da ONU",
+        "description": "As Nações Unidas iniciaram formalmente o seu funcionamento após a ratificação da sua Carta por 29 países, criando o mais importante organismo internacional para a paz e a cooperação global.",
+        "year": 1945
+      },
+      {
+        "title": "Primeiro debate televisivo entre candidatos presidenciais",
+        "description": "O primeiro debate televisivo da história entre candidatos presidenciais confrontou John F. Kennedy e Richard Nixon em Chicago, visto por mais de 66 milhões de americanos e mudando a política para sempre.",
+        "year": 1960
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Mare de Déu de la Mercè",
+        "type": "Solemnitat",
+        "description": "Festivitat de l'Ordre de la Mercè, fundada per Sant Pere Nolasc el 1218 a Barcelona per rescatar els captius cristians al nord d'Àfrica. La Mare de Déu de la Mercè és la patrona de Barcelona i de diverses ciutats llatinoamericanes."
+      },
+      {
+        "name": "Sant Gerardo Sagredo",
+        "type": "Bisbe i Màrtir",
+        "description": "Monjo benedictí venecià del segle XI que es va convertir en el primer bisbe de Csanád (Hongria) i va ser martiritzat el 1046 durant una revolta pagana. Copatró d'Hongria juntament amb Sant Esteve."
+      },
+      {
+        "name": "Santa Pacífica de Gubbio",
+        "type": "Verge",
+        "description": "Religiosa terciària franciscana italiana del segle XIII que va viure en austeritat i contemplació a Gubbio (Úmbria). Va ser beatificada el 1786 pel papa Pius VI."
+      }
+    ],
+    "observances": [
+      {
+        "name": "La Mercè — Festa Major de Barcelona",
+        "description": "La festa major de Barcelona en honor a la Mare de Déu de la Mercè, patrona de la ciutat. És la celebració més important de l'any a Barcelona, amb concerts gratuïts, castellers, correfocs, gegants i focs d'artifici per tota la ciutat."
+      },
+      {
+        "name": "Dia Mundial del Cor",
+        "description": "Promogut per la Federació Mundial del Cor i avalar per l'OMS, celebrat el 29 de setembre per conscienciar sobre les malalties cardiovasculars, la primera causa de mort al món."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La ciutat és un fet de la natura, com una cova o un formiguer.",
+      "author": "Ralph Waldo Emerson",
+      "context": "El filòsof americà va reflexionar en els seus assajos sobre la natura de les ciutats com a custòdies de la cultura i la història col·lectiva. Barcelona, que celebra avui la seva Festa Major, és un exemple perfecte de ciutat que atesora segles d'història i cultura."
+    },
+    "motivationalQuote": {
+      "text": "Els qui ballaven eren considerats bojos per aquells que no podien sentir la música.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "F. Scott Fitzgerald",
+        "description": "Novel·lista americà, màxim exponent de la 'Generació Perduda' i de l'Era del Jazz. La seva novel·la El gran Gatsby (1925) és considerada una de les grans obres de la literatura americana del segle XX.",
+        "year": 1896
+      },
+      {
+        "name": "Jim Henson",
+        "description": "Titellaire, animador i productor americà, creador dels Muppets (1955) i del món fantàstic de Fraggle Rock. La seva obra va transformar la televisió infantil i la cultura popular del segle XX.",
+        "year": 1936
+      },
+      {
+        "name": "Nia Long",
+        "description": "Actriu americana coneguda pels seus papers a Boyz n the Hood (1991) i The Best Man, i per la seva llarga carrera en la televisió americana.",
+        "year": 1970
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundació de l'Ordre de la Mercè a Barcelona",
+        "description": "Sant Pere Nolasc, amb el suport del rei Jaume I d'Aragó i Sant Ramon de Penyafort, va fundar a Barcelona l'Ordre de la Benaventurada Verge Maria de la Mercè per a la redempció dels captius.",
+        "year": 1218
+      },
+      {
+        "title": "Inauguració de l'ONU",
+        "description": "Les Nacions Unides van iniciar formalment el seu funcionament després de la ratificació de la seva Carta per 29 països, creant l'organisme internacional més important per a la pau i la cooperació global.",
+        "year": 1945
+      },
+      {
+        "title": "Primer debat televisat entre candidats presidencials",
+        "description": "El primer debat televisat de la història entre candidats presidencials va enfrontar John F. Kennedy i Richard Nixon a Chicago, vist per més de 66 milions d'americans i canviant la política per sempre.",
+        "year": 1960
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "date": "2026-01-06",
+  "es": {
+    "saints": [
+      {
+        "name": "La Epifanía del Señor (Reyes Magos)",
+        "type": "Solemnidad",
+        "description": "Celebración de la manifestación de Jesús a los Magos de Oriente (Melchor, Gaspar y Baltasar), que representa la revelación de Cristo a todas las naciones del mundo."
+      },
+      {
+        "name": "San Melchor",
+        "type": "Rey Mago",
+        "description": "Uno de los tres Reyes Magos que, según la tradición cristiana, visitaron al Niño Jesús llevando como ofrenda el oro, símbolo de la realeza."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de Reyes (España y América Latina)",
+        "description": "Festividad muy arraigada en España y América Latina en la que los niños reciben regalos en nombre de los Reyes Magos, celebrando la visita de los Magos al Niño Jesús."
+      },
+      {
+        "name": "Noche de Reyes",
+        "description": "Víspera de la Epifanía, en la que se celebran cabalgatas y los niños dejan sus zapatos o calcetines para recibir los regalos de los Reyes Magos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La fe puede mover montañas.",
+      "author": "Proverbio bíblico (Mateo 17:20)",
+      "context": "Esta frase del Evangelio de Mateo es especialmente pertinente en la festividad de la Epifanía, cuando la fe de los Magos los condujo a través de un largo viaje hasta el pesebre de Belén."
+    },
+    "motivationalQuote": {
+      "text": "Los que miran al cielo siempre encuentran el camino.",
+      "author": "Antoine de Saint-Exupéry"
+    },
+    "births": [
+      {
+        "name": "Juana de Arco",
+        "description": "Heroína francesa y santa de la Iglesia Católica, que lideró el ejército francés contra la ocupación inglesa durante la Guerra de los Cien Años antes de ser capturada y quemada en la hoguera a los 19 años.",
+        "year": 1412
+      },
+      {
+        "name": "Khalil Gibran",
+        "description": "Poeta, novelista y filósofo libanés-americano, conocido sobre todo por El Profeta, una colección de ensayos poéticos que ha vendido más de 100 millones de copias en todo el mundo.",
+        "year": 1883
+      },
+      {
+        "name": "Rowan Atkinson",
+        "description": "Actor y comediante británico, célebre por su personaje Mr. Bean y por la serie televisiva Blackadder, considerado uno de los grandes cómicos del siglo XX.",
+        "year": 1955
+      }
+    ],
+    "events": [
+      {
+        "title": "Proclamación de la Segunda República Española",
+        "description": "Las Cortes Constituyentes aprobaron la Constitución española de 1931, aunque el régimen republicano ya había sido proclamado el 14 de abril de 1931 tras las elecciones municipales.",
+        "year": 1931
+      },
+      {
+        "title": "Primeras transmisiones de televisión pública en España",
+        "description": "TVE (Televisión Española) comenzó sus emisiones regulares desde el Paseo de La Habana en Madrid, marcando el inicio de la televisión en España.",
+        "year": 1956
+      },
+      {
+        "title": "Ataque al Capitolio de los Estados Unidos",
+        "description": "Seguidores del expresidente Donald Trump asaltaron el Capitolio de Washington D.C. durante la certificación de los resultados electorales de las elecciones presidenciales de 2020.",
+        "year": 2021
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Epiphany of the Lord (Three Wise Men)",
+        "type": "Solemnity",
+        "description": "Celebration of Jesus's manifestation to the Magi from the East (Melchior, Caspar and Balthasar), representing the revelation of Christ to all nations of the world."
+      },
+      {
+        "name": "Saint Melchior",
+        "type": "Wise Man",
+        "description": "One of the three Magi who, according to Christian tradition, visited the infant Jesus bringing the gift of gold, a symbol of royalty."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Three Kings Day (Spain and Latin America)",
+        "description": "A deeply rooted celebration in Spain and Latin America in which children receive gifts in the name of the Three Wise Men, marking the Magi's visit to the infant Jesus."
+      },
+      {
+        "name": "Three Kings' Eve",
+        "description": "The eve of Epiphany, marked by parades and processions, when children leave shoes or stockings out to receive gifts from the Wise Men."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Faith can move mountains.",
+      "author": "Biblical proverb (Matthew 17:20)",
+      "context": "This phrase from the Gospel of Matthew is especially fitting on the Epiphany, when the faith of the Magi led them on a long journey to the manger in Bethlehem."
+    },
+    "motivationalQuote": {
+      "text": "Those who look to the sky always find their way.",
+      "author": "Antoine de Saint-Exupéry"
+    },
+    "births": [
+      {
+        "name": "Joan of Arc",
+        "description": "French heroine and saint of the Catholic Church, who led the French army against the English occupation during the Hundred Years' War before being captured and burned at the stake at age 19.",
+        "year": 1412
+      },
+      {
+        "name": "Khalil Gibran",
+        "description": "Lebanese-American poet, novelist and philosopher, best known for The Prophet, a collection of poetic essays that has sold over 100 million copies worldwide.",
+        "year": 1883
+      },
+      {
+        "name": "Rowan Atkinson",
+        "description": "British actor and comedian, famous for his character Mr Bean and the television series Blackadder, considered one of the great comic performers of the 20th century.",
+        "year": 1955
+      }
+    ],
+    "events": [
+      {
+        "title": "Proclamation of the Second Spanish Republic",
+        "description": "The Constituent Cortes approved the Spanish Constitution of 1931, though the Republican regime had already been proclaimed on 14 April 1931 following municipal elections.",
+        "year": 1931
+      },
+      {
+        "title": "First public television broadcasts in Spain",
+        "description": "TVE (Spanish Television) began its regular broadcasts from Paseo de La Habana in Madrid, marking the start of television in Spain.",
+        "year": 1956
+      },
+      {
+        "title": "Attack on the United States Capitol",
+        "description": "Supporters of former president Donald Trump stormed the Capitol in Washington D.C. during the certification of the 2020 presidential election results.",
+        "year": 2021
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Epifania do Senhor (Reis Magos)",
+        "type": "Solenidade",
+        "description": "Celebração da manifestação de Jesus aos Magos do Oriente (Melquior, Gaspar e Baltazar), representando a revelação de Cristo a todas as nações do mundo."
+      },
+      {
+        "name": "São Melquior",
+        "type": "Rei Mago",
+        "description": "Um dos três Reis Magos que, segundo a tradição cristã, visitaram o Menino Jesus trazendo como oferta o ouro, símbolo da realeza."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Reis (Espanha e América Latina)",
+        "description": "Festividade muito enraizada na Espanha e na América Latina em que as crianças recebem presentes em nome dos Reis Magos, celebrando a visita dos Magos ao Menino Jesus."
+      },
+      {
+        "name": "Véspera de Reis",
+        "description": "Véspera da Epifania, marcada por desfiles e procissões, quando as crianças deixam seus sapatos ou meias para receber presentes dos Reis Magos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A fé pode mover montanhas.",
+      "author": "Provérbio bíblico (Mateus 17:20)",
+      "context": "Esta frase do Evangelho de Mateus é especialmente pertinente na Epifania, quando a fé dos Magos os conduziu numa longa viagem até o presépio em Belém."
+    },
+    "motivationalQuote": {
+      "text": "Os que olham para o céu sempre encontram o caminho.",
+      "author": "Antoine de Saint-Exupéry"
+    },
+    "births": [
+      {
+        "name": "Joana d'Arc",
+        "description": "Heroína francesa e santa da Igreja Católica, que liderou o exército francês contra a ocupação inglesa durante a Guerra dos Cem Anos antes de ser capturada e queimada na fogueira aos 19 anos.",
+        "year": 1412
+      },
+      {
+        "name": "Khalil Gibran",
+        "description": "Poeta, romancista e filósofo libanês-americano, mais conhecido por O Profeta, uma coleção de ensaios poéticos que vendeu mais de 100 milhões de cópias em todo o mundo.",
+        "year": 1883
+      },
+      {
+        "name": "Rowan Atkinson",
+        "description": "Ator e comediante britânico, famoso por seu personagem Mr. Bean e pela série de televisão Blackadder, considerado um dos grandes cômicos do século XX.",
+        "year": 1955
+      }
+    ],
+    "events": [
+      {
+        "title": "Proclamação da Segunda República Espanhola",
+        "description": "As Cortes Constituintes aprovaram a Constituição espanhola de 1931, embora o regime republicano já tivesse sido proclamado em 14 de abril de 1931 após as eleições municipais.",
+        "year": 1931
+      },
+      {
+        "title": "Primeiras transmissões de televisão pública na Espanha",
+        "description": "A TVE (Televisão Espanhola) iniciou suas transmissões regulares a partir do Paseo de La Habana em Madri, marcando o início da televisão na Espanha.",
+        "year": 1956
+      },
+      {
+        "title": "Ataque ao Capitólio dos Estados Unidos",
+        "description": "Apoiadores do ex-presidente Donald Trump invadiram o Capitólio em Washington D.C. durante a certificação dos resultados das eleições presidenciais de 2020.",
+        "year": 2021
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Epifania del Senyor (Reis Mags)",
+        "type": "Solemnitat",
+        "description": "Celebració de la manifestació de Jesús als Mags d'Orient (Melcior, Gaspar i Baltasar), que representa la revelació de Crist a totes les nacions del món."
+      },
+      {
+        "name": "Sant Melcior",
+        "type": "Rei Mag",
+        "description": "Un dels tres Reis Mags que, segons la tradició cristiana, van visitar el Nen Jesús portant com a ofrena l'or, símbol de la reialesa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Reis (Espanya i Amèrica Llatina)",
+        "description": "Festivitat molt arrelada a Espanya i Amèrica Llatina en què els nens reben regals en nom dels Reis Mags, celebrant la visita dels Mags al Nen Jesús."
+      },
+      {
+        "name": "Nit de Reis",
+        "description": "Vigília de l'Epifania, marcada per cavalcades i processons, quan els nens deixen les seves sabates o mitges per rebre regals dels Reis Mags."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La fe pot moure muntanyes.",
+      "author": "Proverbi bíblic (Mateu 17:20)",
+      "context": "Aquesta frase de l'Evangeli de Mateu és especialment pertinent a l'Epifania, quan la fe dels Mags els va conduir en un llarg viatge fins al pessebre de Betlem."
+    },
+    "motivationalQuote": {
+      "text": "Els que miren el cel sempre troben el camí.",
+      "author": "Antoine de Saint-Exupéry"
+    },
+    "births": [
+      {
+        "name": "Joana d'Arc",
+        "description": "Heroïna francesa i santa de l'Església Catòlica, que va liderar l'exèrcit francès contra l'ocupació anglesa durant la Guerra dels Cent Anys abans de ser capturada i cremada a la foguera als 19 anys.",
+        "year": 1412
+      },
+      {
+        "name": "Khalil Gibran",
+        "description": "Poeta, novel·lista i filòsof libanès-americà, conegut sobretot per El Profeta, una col·lecció d'assajos poètics que ha venut més de 100 milions de còpies a tot el món.",
+        "year": 1883
+      },
+      {
+        "name": "Rowan Atkinson",
+        "description": "Actor i còmic britànic, famós pel seu personatge Mr. Bean i per la sèrie televisiva Blackadder, considerat un dels grans còmics del segle XX.",
+        "year": 1955
+      }
+    ],
+    "events": [
+      {
+        "title": "Proclamació de la Segona República Espanyola",
+        "description": "Les Corts Constituents van aprovar la Constitució espanyola de 1931, tot i que el règim republicà ja havia estat proclamat el 14 d'abril de 1931 després de les eleccions municipals.",
+        "year": 1931
+      },
+      {
+        "title": "Primeres emissions de televisió pública a Espanya",
+        "description": "TVE (Televisió Espanyola) va iniciar les seves emissions regulars des del Paseo de La Habana a Madrid, marcant l'inici de la televisió a Espanya.",
+        "year": 1956
+      },
+      {
+        "title": "Atac al Capitoli dels Estats Units",
+        "description": "Seguidors de l'expresident Donald Trump van assaltar el Capitoli de Washington D.C. durant la certificació dels resultats de les eleccions presidencials de 2020.",
+        "year": 2021
+      }
+    ]
+  }
+}

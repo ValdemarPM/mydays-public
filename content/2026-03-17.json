@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-17",
+  "es": {
+    "saints": [
+      { "name": "San Patricio de Irlanda", "type": "Obispo y patrono", "description": "Misionero romano-britano del siglo V que evangelizó Irlanda, fundó monasterios y obispados y estableció las bases del catolicismo celta; patrón de Irlanda y de los ingenieros." },
+      { "name": "San Gertrudis de Nivelles", "type": "Abadesa", "description": "Abadesa belga del siglo VII, hija de Pipino de Landen y hermana de San Begga, venerada como patrona de los viajeros, los jardineros y los gatos." },
+      { "name": "San José de Arimatea", "type": "Discípulo", "description": "Discípulo secreto de Jesús que, según los Evangelios, pidió el cuerpo de Cristo a Pilatos y lo enterró en su propio sepulcro; figura de la tradición artúrica como guardián del Santo Grial." }
+    ],
+    "observances": [
+      { "name": "Día de San Patricio", "description": "Festividad nacional de Irlanda y jornada de celebración de la cultura irlandesa en todo el mundo, con desfiles, el color verde y el trébol como símbolos; también celebrada ampliamente en EE. UU., Canadá y Australia." },
+      { "name": "Día Internacional del Sándwich Verde (informal)", "description": "Celebración popular en algunos países anglosajones que coincide con el Día de San Patricio, donde se comen sándwiches y pasteles teñidos de verde como homenaje a Irlanda." }
+    ],
+    "historicalQuote": {
+      "text": "El coraje es resistencia al miedo, dominio del miedo, no ausencia de miedo.",
+      "author": "Mark Twain",
+      "context": "El escritor americano Samuel Langhorne Clemens, conocido como Mark Twain, fue uno de los grandes humoristas y moralistas de la literatura americana del siglo XIX. Esta frase revela la profundidad filosófica que se esconde bajo su ingenio."
+    },
+    "motivationalQuote": {
+      "text": "No importa lo oscura que sea la noche, el día amanece.",
+      "author": "Proverbio irlandés"
+    },
+    "births": [
+      { "name": "Nat King Cole", "description": "Músico y cantante americano, uno de los artistas de jazz y pop más queridos del siglo XX, conocido por su voz inconfundible y canciones como 'Unforgettable' y 'Mona Lisa'.", "year": 1919 },
+      { "name": "Rudolf Nureyev", "description": "Bailarín y coreógrafo soviético-austríaco, considerado uno de los bailarines de ballet más extraordinarios de la historia, famoso por su deserción de la URSS en 1961.", "year": 1938 },
+      { "name": "Rob Lowe", "description": "Actor americano, miembro del Brat Pack de los años 80, conocido por series como 'The West Wing' y 'Parks and Recreation'.", "year": 1964 }
+    ],
+    "events": [
+      { "title": "San Patricio llega a Irlanda (tradición)", "description": "Según la tradición, San Patricio llegó a Irlanda el 17 de marzo del año 461, iniciando su misión evangelizadora que transformó la isla céltica y la convirtió en uno de los centros del cristianismo medieval." , "year": 461 },
+      { "title": "Inauguración del Puente del Golden Gate (inicio de obras)", "description": "El 17 de marzo de 1930 se iniciaron oficialmente las obras del Puente Golden Gate de San Francisco, que se convertiría en uno de los iconos de la arquitectura moderna al inaugurarse en 1937.", "year": 1930 },
+      { "title": "Primer partido de rugby entre naciones (Escocia vs Inglaterra)", "description": "Se disputó en Edimburgo el primer partido de rugby entre selecciones nacionales de la historia, enfrentando a Escocia e Inglaterra; Escocia ganó por 1 goal y 1 try a 1 try.", "year": 1871 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Patrick of Ireland", "type": "Bishop and patron", "description": "Romano-British missionary of the fifth century who evangelised Ireland, founded monasteries and bishoprics and laid the foundations of Celtic Catholicism; patron of Ireland and of engineers." },
+      { "name": "Saint Gertrude of Nivelles", "type": "Abbess", "description": "Seventh-century Belgian abbess, daughter of Pepin of Landen and sister of Saint Begga, venerated as patron of travellers, gardeners and cats." },
+      { "name": "Saint Joseph of Arimathea", "type": "Disciple", "description": "Secret disciple of Jesus who, according to the Gospels, asked Pilate for Christ's body and buried it in his own tomb; a figure in Arthurian tradition as guardian of the Holy Grail." }
+    ],
+    "observances": [
+      { "name": "Saint Patrick's Day", "description": "Ireland's national holiday and a worldwide celebration of Irish culture, with parades, the colour green and the shamrock as symbols; also widely celebrated in the USA, Canada and Australia." },
+      { "name": "Green Sandwich Day (informal)", "description": "A popular celebration in some English-speaking countries coinciding with Saint Patrick's Day, where sandwiches and cakes are dyed green as a tribute to Ireland." }
+    ],
+    "historicalQuote": {
+      "text": "Courage is resistance to fear, mastery of fear — not absence of fear.",
+      "author": "Mark Twain",
+      "context": "American writer Samuel Langhorne Clemens, known as Mark Twain, was one of the great humorists and moralists of nineteenth-century American literature. This phrase reveals the philosophical depth hidden beneath his wit."
+    },
+    "motivationalQuote": {
+      "text": "No matter how dark the night, morning always comes.",
+      "author": "Irish proverb"
+    },
+    "births": [
+      { "name": "Nat King Cole", "description": "American musician and singer, one of the most beloved jazz and pop artists of the twentieth century, known for his unmistakable voice and songs such as 'Unforgettable' and 'Mona Lisa'.", "year": 1919 },
+      { "name": "Rudolf Nureyev", "description": "Soviet-Austrian dancer and choreographer, considered one of the most extraordinary ballet dancers in history, famous for his defection from the USSR in 1961.", "year": 1938 },
+      { "name": "Rob Lowe", "description": "American actor, member of the 1980s Brat Pack, known for series such as 'The West Wing' and 'Parks and Recreation'.", "year": 1964 }
+    ],
+    "events": [
+      { "title": "Saint Patrick arrives in Ireland (tradition)", "description": "According to tradition, Saint Patrick arrived in Ireland on 17 March 461, beginning his evangelising mission that transformed the Celtic island and made it one of the centres of medieval Christianity.", "year": 461 },
+      { "title": "Golden Gate Bridge construction begins", "description": "On 17 March 1930, construction officially began on the Golden Gate Bridge in San Francisco, which would become one of the icons of modern architecture upon its opening in 1937.", "year": 1930 },
+      { "title": "First international rugby match (Scotland vs England)", "description": "The first rugby match between national teams in history was played in Edinburgh, pitting Scotland against England; Scotland won by 1 goal and 1 try to 1 try.", "year": 1871 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Patrício da Irlanda", "type": "Bispo e patrono", "description": "Missionário romano-bretão do século V que evangelizou a Irlanda, fundou mosteiros e bispados e lançou as bases do catolicismo celta; padroeiro da Irlanda e dos engenheiros." },
+      { "name": "Santa Gertrudes de Nivelles", "type": "Abadessa", "description": "Abadessa belga do século VII, filha de Pepino de Landen e irmã de Santa Bega, venerada como patrona dos viajantes, jardineiros e gatos." },
+      { "name": "São José de Arimateia", "type": "Discípulo", "description": "Discípulo secreto de Jesus que, segundo os Evangelhos, pediu o corpo de Cristo a Pilatos e o enterrou em seu próprio sepulcro; figura da tradição arturiana como guardião do Santo Graal." }
+    ],
+    "observances": [
+      { "name": "Dia de São Patrício", "description": "Festividade nacional da Irlanda e jornada de celebração da cultura irlandesa em todo o mundo, com desfiles, a cor verde e o trevo como símbolos; também amplamente celebrada nos EUA, Canadá e Austrália." },
+      { "name": "Dia do Sanduíche Verde (informal)", "description": "Celebração popular em alguns países anglófonos coincidindo com o Dia de São Patrício, onde sanduíches e bolos são tingidos de verde como homenagem à Irlanda." }
+    ],
+    "historicalQuote": {
+      "text": "Coragem é resistência ao medo, domínio do medo, não ausência de medo.",
+      "author": "Mark Twain",
+      "context": "O escritor americano Samuel Langhorne Clemens, conhecido como Mark Twain, foi um dos grandes humoristas e moralistas da literatura americana do século XIX. Esta frase revela a profundidade filosófica escondida sob o seu engenho."
+    },
+    "motivationalQuote": {
+      "text": "Por mais escura que seja a noite, a manhã sempre chega.",
+      "author": "Provérbio irlandês"
+    },
+    "births": [
+      { "name": "Nat King Cole", "description": "Músico e cantor americano, um dos artistas de jazz e pop mais queridos do século XX, conhecido pela sua voz inconfundível e canções como 'Unforgettable' e 'Mona Lisa'.", "year": 1919 },
+      { "name": "Rudolf Nureyev", "description": "Dançarino e coreógrafo soviético-austríaco, considerado um dos bailarinos de ballet mais extraordinários da história, famoso pela sua deserção da URSS em 1961.", "year": 1938 },
+      { "name": "Rob Lowe", "description": "Ator americano, membro do Brat Pack dos anos 80, conhecido por séries como 'The West Wing' e 'Parks and Recreation'.", "year": 1964 }
+    ],
+    "events": [
+      { "title": "São Patrício chega à Irlanda (tradição)", "description": "Segundo a tradição, São Patrício chegou à Irlanda em 17 de março de 461, iniciando sua missão evangelizadora que transformou a ilha celta e a tornou um dos centros do cristianismo medieval.", "year": 461 },
+      { "title": "Início das obras da Ponte Golden Gate", "description": "Em 17 de março de 1930, iniciaram-se oficialmente as obras da Ponte Golden Gate em São Francisco, que se tornaria um dos ícones da arquitetura moderna ao ser inaugurada em 1937.", "year": 1930 },
+      { "title": "Primeiro jogo internacional de rugby (Escócia vs Inglaterra)", "description": "O primeiro jogo de rugby entre seleções nacionais da história foi disputado em Edimburgo, com Escócia e Inglaterra; a Escócia venceu por 1 goal e 1 try a 1 try.", "year": 1871 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Patrici d'Irlanda", "type": "Bisbe i patró", "description": "Missioner romano-britànic del segle V que va evangelitzar Irlanda, va fundar monestirs i bisbats i va establir les bases del catolicisme celta; patró d'Irlanda i dels enginyers." },
+      { "name": "Santa Gertrudis de Nivelles", "type": "Abadessa", "description": "Abadessa belga del segle VII, filla de Pipí de Landen i germana de Santa Bega, venerada com a patrona dels viatgers, els jardiners i els gats." },
+      { "name": "Sant Josep d'Arimatea", "type": "Deixeble", "description": "Deixeble secret de Jesús que, segons els Evangelis, va demanar el cos de Crist a Pilat i el va enterrar al seu propi sepulcre; figura de la tradició artúrica com a guardià del Sant Greal." }
+    ],
+    "observances": [
+      { "name": "Dia de Sant Patrici", "description": "Festivitat nacional d'Irlanda i jornada de celebració de la cultura irlandesa arreu del món, amb processons, el color verd i el trèvol com a símbols; també àmpliament celebrada als EUA, Canadà i Austràlia." },
+      { "name": "Dia del Sandvitx Verd (informal)", "description": "Celebració popular en alguns països anglòfons coincidint amb el Dia de Sant Patrici, on sandvitxos i pastissos es tenyeixen de verd com a homenatge a Irlanda." }
+    ],
+    "historicalQuote": {
+      "text": "El coratge és resistència a la por, domini de la por, no absència de por.",
+      "author": "Mark Twain",
+      "context": "L'escriptor americà Samuel Langhorne Clemens, conegut com a Mark Twain, va ser un dels grans humoristes i moralistes de la literatura americana del segle XIX. Aquesta frase revela la profunditat filosòfica que s'amaga sota el seu enginy."
+    },
+    "motivationalQuote": {
+      "text": "Per molt fosca que sigui la nit, el dia sempre arriba.",
+      "author": "Proverbi irlandès"
+    },
+    "births": [
+      { "name": "Nat King Cole", "description": "Músic i cantant americà, un dels artistes de jazz i pop més estimats del segle XX, conegut per la seva veu inconfusible i cançons com 'Unforgettable' i 'Mona Lisa'.", "year": 1919 },
+      { "name": "Rudolf Nureyev", "description": "Ballarí i coreògraf soviètic-austríac, considerat un dels ballarins de ballet més extraordinaris de la història, famós per la seva deserció de la URSS el 1961.", "year": 1938 },
+      { "name": "Rob Lowe", "description": "Actor americà, membre del Brat Pack dels anys 80, conegut per sèries com 'The West Wing' i 'Parks and Recreation'.", "year": 1964 }
+    ],
+    "events": [
+      { "title": "Sant Patrici arriba a Irlanda (tradició)", "description": "Segons la tradició, Sant Patrici va arribar a Irlanda el 17 de març de l'any 461, iniciant la seva missió evangelitzadora que va transformar l'illa celta i la va convertir en un dels centres del cristianisme medieval.", "year": 461 },
+      { "title": "Inici de les obres del pont Golden Gate", "description": "El 17 de març de 1930 van iniciar-se oficialment les obres del pont Golden Gate de San Francisco, que es convertiria en un dels icones de l'arquitectura moderna en inaugurar-se el 1937.", "year": 1930 },
+      { "title": "Primer partit de rugbi internacional (Escòcia vs Anglaterra)", "description": "Es va disputar a Edimburg el primer partit de rugbi entre seleccions nacionals de la història, enfrontant Escòcia i Anglaterra; Escòcia va guanyar per 1 goal i 1 try a 1 try.", "year": 1871 }
+    ]
+  }
+}

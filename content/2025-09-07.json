@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-07",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Regina de Alesia",
+        "type": "Virgen y Mártir",
+        "description": "Virgen y mártir del siglo III en Borgoña (Francia), decapitada por rechazar casarse con el prefecto romano Olibrio y renunciar a su fe. Su culto fue muy popular en la Edad Media en Francia e Inglaterra."
+      },
+      {
+        "name": "San Clodoaldo",
+        "type": "Sacerdote",
+        "description": "Nieto del rey merovingio Clodoveo I que renunció al trono para hacerse sacerdote y ermitaño en el siglo VI. Fundó un monasterio cerca de París que dio origen a la ciudad de Saint-Cloud."
+      },
+      {
+        "name": "Beata Eustoquio de Padua",
+        "type": "Virgen",
+        "description": "Religiosa agustina del siglo XV conocida por sus éxtasis y estigmas. Fue calumniada, encarcelada y sometida a pruebas extraordinarias dentro de su propio convento, pero murió en olor de santidad."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de Brasil",
+        "description": "Brasil celebra su Independencia, proclamada el 7 de septiembre de 1822 por el príncipe Pedro I a orillas del río Ipiranga (São Paulo), en el conocido «Grito de Ipiranga». Es el mayor festivo nacional brasileño."
+      },
+      {
+        "name": "Día de la Independencia de Mozambique",
+        "description": "Mozambique conmemora el aniversario de su independencia de Portugal, declarada el 25 de junio de 1975. El 7 de septiembre se celebra como el Día de la Victoria en algunos regiones del país."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Independência ou morte!",
+      "author": "Pedro I de Brasil",
+      "context": "El 7 de septiembre de 1822, el príncipe Pedro pronunció estas palabras a orillas del río Ipiranga, proclamando la independencia de Brasil del Imperio portugués, acontecimiento que se conoce como el «Grito do Ipiranga»."
+    },
+    "motivationalQuote": {
+      "text": "Un río llega a su destino porque sabe rodear los obstáculos.",
+      "author": "Lao-Tsé"
+    },
+    "births": [
+      {
+        "name": "Grandma Moses (Anna Mary Robertson)",
+        "description": "Pintora naïf estadounidense que comenzó a pintar de forma profesional a los 78 años y se convirtió en uno de los símbolos más queridos del arte popular americano, conocida por sus escenas rurales de Nueva Inglaterra.",
+        "year": 1860
+      },
+      {
+        "name": "Buddy Holly",
+        "description": "Músico y compositor estadounidense, pionero del rock and roll y figura influyente en el desarrollo del género. Sus canciones como That'll Be the Day y Peggy Sue siguen siendo clásicos del pop.",
+        "year": 1936
+      },
+      {
+        "name": "Tupac Shakur",
+        "description": "Rapero y actor americano, una de las figuras más influyentes de la historia del hip-hop. Su álbum All Eyez on Me (1996) es uno de los más vendidos del género. Murió en Las Vegas el 13 de septiembre de 1996.",
+        "year": 1971
+      }
+    ],
+    "events": [
+      {
+        "title": "Independencia de Brasil",
+        "description": "El príncipe Pedro I proclamó la independencia de Brasil del Imperio portugués en la ribera del río Ipiranga, en São Paulo, creando el Imperio del Brasil.",
+        "year": 1822
+      },
+      {
+        "title": "Blitz de Londres — inicio del bombardeo alemán",
+        "description": "La Alemania nazi comenzó el Blitz, la campaña de bombardeos masivos sobre Londres y otras ciudades británicas que duró hasta mayo de 1941 y causó miles de víctimas civiles.",
+        "year": 1940
+      },
+      {
+        "title": "Fundación de la ciudad de San Francisco",
+        "description": "Colonos españoles fundaron el Presidio y la Misión de San Francisco de Asís (más tarde conocida como Misión Dolores) en la bahía de San Francisco, dando origen a la actual ciudad californiana.",
+        "year": 1776
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Regina of Alesia",
+        "type": "Virgin and Martyr",
+        "description": "A 3rd-century virgin and martyr in Burgundy (France), beheaded for refusing to marry the Roman prefect Olibrius and to renounce her faith. Her cult was very popular in medieval France and England."
+      },
+      {
+        "name": "Saint Cloud",
+        "type": "Priest",
+        "description": "Grandson of the Merovingian king Clovis I, who renounced the throne to become a priest and hermit in the 6th century. He founded a monastery near Paris that gave rise to the city of Saint-Cloud."
+      },
+      {
+        "name": "Blessed Eustochia of Padua",
+        "type": "Virgin",
+        "description": "A 15th-century Augustinian nun known for her ecstasies and stigmata. She was slandered, imprisoned, and subjected to extraordinary trials within her own convent, but died in the odour of sanctity."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Brazilian Independence Day",
+        "description": "Brazil celebrates its Independence, proclaimed on 7 September 1822 by Prince Pedro I on the banks of the Ipiranga River (São Paulo), in the famous 'Cry of Ipiranga'. It is Brazil's biggest national holiday."
+      },
+      {
+        "name": "Mozambique Victory Day",
+        "description": "Mozambique commemorates the anniversary of its independence from Portugal, declared on 25 June 1975. 7 September is observed as Victory Day in some parts of the country."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Independence or death!",
+      "author": "Pedro I of Brazil",
+      "context": "On 7 September 1822, Prince Pedro spoke these words on the banks of the Ipiranga River, proclaiming Brazil's independence from the Portuguese Empire — an event known as the 'Cry of Ipiranga'."
+    },
+    "motivationalQuote": {
+      "text": "A river reaches its destination because it knows how to go around obstacles.",
+      "author": "Lao Tzu"
+    },
+    "births": [
+      {
+        "name": "Grandma Moses (Anna Mary Robertson)",
+        "description": "American naïve painter who began painting professionally at age 78 and became one of the most beloved symbols of American folk art, known for her rural New England scenes.",
+        "year": 1860
+      },
+      {
+        "name": "Buddy Holly",
+        "description": "American musician and songwriter, a pioneer of rock and roll and an influential figure in the genre's development. His songs such as That'll Be the Day and Peggy Sue remain pop classics.",
+        "year": 1936
+      },
+      {
+        "name": "Tupac Shakur",
+        "description": "American rapper and actor, one of the most influential figures in hip-hop history. His album All Eyez on Me (1996) is among the best-selling in the genre. He died in Las Vegas on 13 September 1996.",
+        "year": 1971
+      }
+    ],
+    "events": [
+      {
+        "title": "Independence of Brazil",
+        "description": "Prince Pedro I proclaimed Brazil's independence from the Portuguese Empire on the banks of the Ipiranga River in São Paulo, creating the Empire of Brazil.",
+        "year": 1822
+      },
+      {
+        "title": "London Blitz — start of the German bombing campaign",
+        "description": "Nazi Germany began the Blitz, the mass bombing campaign against London and other British cities that lasted until May 1941 and caused thousands of civilian casualties.",
+        "year": 1940
+      },
+      {
+        "title": "Founding of San Francisco",
+        "description": "Spanish settlers founded the Presidio and the Mission of San Francisco de Asís (later known as Mission Dolores) on San Francisco Bay, giving rise to today's Californian city.",
+        "year": 1776
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Regina de Alesia",
+        "type": "Virgem e Mártir",
+        "description": "Virgem e mártir do século III na Borgonha (França), decapitada por recusar casar com o prefeito romano Olíbrio e renunciar à sua fé. O seu culto foi muito popular na Idade Média em França e na Inglaterra."
+      },
+      {
+        "name": "São Clodoaldo",
+        "type": "Sacerdote",
+        "description": "Neto do rei merovíngio Clodoveu I que renunciou ao trono para se tornar sacerdote e eremita no século VI. Fundou um mosteiro perto de Paris que deu origem à cidade de Saint-Cloud."
+      },
+      {
+        "name": "Beata Eustóquia de Pádua",
+        "type": "Virgem",
+        "description": "Religiosa agostiniana do século XV conhecida pelos seus êxtases e estigmas. Foi caluniada, presa e sujeita a provas extraordinárias dentro do próprio convento, mas morreu em odor de santidade."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência do Brasil",
+        "description": "O Brasil celebra a sua Independência, proclamada em 7 de setembro de 1822 pelo príncipe Pedro I às margens do rio Ipiranga (São Paulo), no célebre 'Grito do Ipiranga'. É o maior feriado nacional brasileiro."
+      },
+      {
+        "name": "Dia da Vitória de Moçambique",
+        "description": "Moçambique comemora o aniversário da sua independência de Portugal, declarada a 25 de junho de 1975. O 7 de setembro é observado como Dia da Vitória em algumas regiões do país."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Independência ou morte!",
+      "author": "Pedro I do Brasil",
+      "context": "Em 7 de setembro de 1822, o príncipe Pedro proferiu estas palavras às margens do rio Ipiranga, proclamando a independência do Brasil do Império Português — acontecimento conhecido como o 'Grito do Ipiranga'."
+    },
+    "motivationalQuote": {
+      "text": "Um rio chega ao seu destino porque sabe contornar os obstáculos.",
+      "author": "Lao-Tsé"
+    },
+    "births": [
+      {
+        "name": "Vovó Moses (Anna Mary Robertson)",
+        "description": "Pintora naïf americana que começou a pintar profissionalmente aos 78 anos e se tornou um dos símbolos mais queridos da arte popular americana, conhecida pelas suas cenas rurais da Nova Inglaterra.",
+        "year": 1860
+      },
+      {
+        "name": "Buddy Holly",
+        "description": "Músico e compositor americano, pioneiro do rock and roll e figura influente no desenvolvimento do género. As suas canções como That'll Be the Day e Peggy Sue continuam a ser clássicos do pop.",
+        "year": 1936
+      },
+      {
+        "name": "Tupac Shakur",
+        "description": "Rapper e ator americano, uma das figuras mais influentes da história do hip-hop. O seu álbum All Eyez on Me (1996) é um dos mais vendidos do género. Morreu em Las Vegas a 13 de setembro de 1996.",
+        "year": 1971
+      }
+    ],
+    "events": [
+      {
+        "title": "Independência do Brasil",
+        "description": "O príncipe Pedro I proclamou a independência do Brasil do Império Português às margens do rio Ipiranga, em São Paulo, criando o Império do Brasil.",
+        "year": 1822
+      },
+      {
+        "title": "Blitz de Londres — início dos bombardeamentos alemães",
+        "description": "A Alemanha nazi iniciou o Blitz, a campanha de bombardeamentos massivos sobre Londres e outras cidades britânicas que durou até maio de 1941 e causou milhares de vítimas civis.",
+        "year": 1940
+      },
+      {
+        "title": "Fundação de São Francisco",
+        "description": "Colonos espanhóis fundaram o Presidio e a Missão de São Francisco de Assis (mais tarde conhecida como Missão Dolores) na baía de São Francisco, dando origem à atual cidade californiana.",
+        "year": 1776
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Regina d'Alèsia",
+        "type": "Verge i Màrtir",
+        "description": "Verge i màrtir del segle III a Borgonya (França), decapitada per refusar casar-se amb el prefecte romà Olibri i renunciar a la seva fe. El seu culte va ser molt popular a l'edat mitjana a França i Anglaterra."
+      },
+      {
+        "name": "Sant Clodoald",
+        "type": "Sacerdot",
+        "description": "Net del rei merovíngi Clodoveu I que va renunciar al tron per fer-se sacerdot i ermità al segle VI. Va fundar un monestir prop de París que va donar origen a la ciutat de Saint-Cloud."
+      },
+      {
+        "name": "Beata Eustòquia de Pàdua",
+        "type": "Verge",
+        "description": "Religiosa agustina del segle XV coneguda pels seus èxtasis i estigmes. Va ser calumniada, empresonada i sotmesa a proves extraordinàries dins del seu propi convent, però va morir en olor de santedat."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència del Brasil",
+        "description": "El Brasil celebra la seva Independència, proclamada el 7 de setembre de 1822 pel príncep Pere I a les ribes del riu Ipiranga (São Paulo), en el famós 'Crit d'Ipiranga'. És el major festiu nacional brasiler."
+      },
+      {
+        "name": "Dia de la Victòria de Moçambic",
+        "description": "Moçambic commemora l'aniversari de la seva independència de Portugal, declarada el 25 de juny de 1975. El 7 de setembre s'observa com a Dia de la Victòria en algunes regions del país."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Independència o mort!",
+      "author": "Pere I del Brasil",
+      "context": "El 7 de setembre de 1822, el príncep Pere va pronunciar aquestes paraules a les ribes del riu Ipiranga, proclamant la independència del Brasil de l'Imperi Portuguès — esdeveniment conegut com el 'Crit d'Ipiranga'."
+    },
+    "motivationalQuote": {
+      "text": "Un riu arriba a la seva destinació perquè sap rodejant els obstacles.",
+      "author": "Lao-Tsé"
+    },
+    "births": [
+      {
+        "name": "L'Àvia Moses (Anna Mary Robertson)",
+        "description": "Pintora naïf americana que va començar a pintar professionalment als 78 anys i es va convertir en un dels símbols més estimats de l'art popular americà, coneguda per les seves escenes rurals de Nova Anglaterra.",
+        "year": 1860
+      },
+      {
+        "name": "Buddy Holly",
+        "description": "Músic i compositor americà, pioner del rock and roll i figura influent en el desenvolupament del gènere. Les seves cançons com That'll Be the Day i Peggy Sue continuen sent clàssics del pop.",
+        "year": 1936
+      },
+      {
+        "name": "Tupac Shakur",
+        "description": "Rapper i actor americà, una de les figures més influents de la història del hip-hop. El seu àlbum All Eyez on Me (1996) és un dels més venuts del gènere. Va morir a Las Vegas el 13 de setembre de 1996.",
+        "year": 1971
+      }
+    ],
+    "events": [
+      {
+        "title": "Independència del Brasil",
+        "description": "El príncep Pere I va proclamar la independència del Brasil de l'Imperi Portuguès a les ribes del riu Ipiranga, a São Paulo, creant l'Imperi del Brasil.",
+        "year": 1822
+      },
+      {
+        "title": "Blitz de Londres — inici dels bombardejos alemanys",
+        "description": "L'Alemanya nazi va iniciar el Blitz, la campanya de bombardejos massius sobre Londres i altres ciutats britàniques que va durar fins al maig de 1941 i va causar milers de víctimes civils.",
+        "year": 1940
+      },
+      {
+        "title": "Fundació de San Francisco",
+        "description": "Colons espanyols van fundar el Presidio i la Missió de San Francisco de Asís (més tard coneguda com a Missió Dolores) a la badia de San Francisco, donant origen a l'actual ciutat californiana.",
+        "year": 1776
+      }
+    ]
+  }
+}

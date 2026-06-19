@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-04",
+  "es": {
+    "saints": [
+      {
+        "name": "San Carlos Borromeo",
+        "type": "Obispo",
+        "description": "Cardenal arzobispo de Milán del siglo XVI, uno de los grandes reformadores de la Contrarreforma católica. Organizó sínodos, fundó seminarios y sirvió personalmente a los apestados durante la epidemia de 1576. Canonizado en 1610."
+      },
+      {
+        "name": "San Félix de Valois",
+        "type": "Presbítero",
+        "description": "Cofundador junto a San Juan de Mata de la Orden de la Santísima Trinidad (Trinitarios) en el siglo XII, dedicada a la redención de los cautivos cristianos en manos de los sarracenos."
+      },
+      {
+        "name": "Beata María Próspera de Cailhau",
+        "type": "Virgen",
+        "description": "Religiosa francesa del siglo XIX, cofundadora de las Hermanas de Nuestra Señora de la Caridad del Buen Pastor, beatificada en 2012."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Ciencia para la Paz y el Desarrollo",
+        "description": "Proclamado por la UNESCO para celebrar el papel de la ciencia en promover la paz, la cooperación y el desarrollo sostenible entre las naciones."
+      },
+      {
+        "name": "Día Nacional de la Cultura (Bolivia)",
+        "description": "Bolivia celebra la riqueza y diversidad de sus culturas originarias y mestizas, con festivales, ferias de artesanía y actividades educativas en todo el país."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El que quiera aprender mucho tiene que empezar por enseñar poco.",
+      "author": "San Carlos Borromeo",
+      "context": "El santo del día fue un reformador educativo que impulsó la creación de seminarios y escuelas para clérigos como clave de la renovación de la Iglesia."
+    },
+    "motivationalQuote": {
+      "text": "La imaginación es más importante que el conocimiento.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Willard Libby",
+        "description": "Químico estadounidense que desarrolló el método de datación por carbono-14, herramienta fundamental de la arqueología moderna. Premio Nobel de Química en 1960.",
+        "year": 1908
+      },
+      {
+        "name": "Walter Cronkite",
+        "description": "Periodista y presentador de televisión estadounidense, considerado 'el hombre más de confianza de América' por su integridad informativa durante décadas en la CBS.",
+        "year": 1916
+      },
+      {
+        "name": "Matthew McConaughey",
+        "description": "Actor estadounidense ganador del Oscar por Dallas Buyers Club (2014), conocido también por El abogado del Lincoln, Interstellar y True Detective.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "Toma de la embajada de EE. UU. en Teherán",
+        "description": "Estudiantes islamistas iraníes tomaron la embajada estadounidense en Teherán y tomaron como rehenes a 52 diplomáticos, iniciando la crisis de los rehenes de Irán que duró 444 días.",
+        "year": 1979
+      },
+      {
+        "title": "Asesinato de Yitzhak Rabin",
+        "description": "El primer ministro israelí Yitzhak Rabin fue asesinado por un extremista judío en Tel Aviv, un año después de recibir el Premio Nobel de la Paz junto a Arafat y Peres.",
+        "year": 1995
+      },
+      {
+        "title": "Firma del Protocolo de Kioto",
+        "description": "El Protocolo de Kioto sobre cambio climático fue abierto a la firma, estableciendo objetivos vinculantes de reducción de gases de efecto invernadero para los países industrializados.",
+        "year": 1997
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Charles Borromeo",
+        "type": "Bishop",
+        "description": "16th-century Cardinal Archbishop of Milan and one of the great reformers of the Catholic Counter-Reformation. He organised synods, founded seminaries, and personally served plague victims during the 1576 epidemic. Canonised in 1610."
+      },
+      {
+        "name": "Saint Felix of Valois",
+        "type": "Presbyter",
+        "description": "Co-founder, with Saint John of Matha, of the Order of the Most Holy Trinity (Trinitarians) in the 12th century, dedicated to ransoming Christian captives from the Saracens."
+      },
+      {
+        "name": "Blessed Mary Prospera de Cailhau",
+        "type": "Virgin",
+        "description": "19th-century French religious, co-founder of the Sisters of Our Lady of Charity of the Good Shepherd, beatified in 2012."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day for Science, Peace and Development",
+        "description": "Proclaimed by UNESCO to celebrate the role of science in promoting peace, cooperation, and sustainable development among nations."
+      },
+      {
+        "name": "National Culture Day (Bolivia)",
+        "description": "Bolivia celebrates the richness and diversity of its indigenous and mestizo cultures with festivals, craft fairs, and educational activities across the country."
+      }
+    ],
+    "historicalQuote": {
+      "text": "He who wishes to learn a great deal must begin by teaching a little.",
+      "author": "Saint Charles Borromeo",
+      "context": "Today's saint was an educational reformer who championed the creation of seminaries and schools for clergy as the key to renewing the Church."
+    },
+    "motivationalQuote": {
+      "text": "Imagination is more important than knowledge.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Willard Libby",
+        "description": "American chemist who developed radiocarbon dating (carbon-14), a fundamental tool of modern archaeology. Nobel Prize in Chemistry, 1960.",
+        "year": 1908
+      },
+      {
+        "name": "Walter Cronkite",
+        "description": "American journalist and television anchor, considered 'the most trusted man in America' for his journalistic integrity over decades at CBS News.",
+        "year": 1916
+      },
+      {
+        "name": "Matthew McConaughey",
+        "description": "American actor and Academy Award winner for Dallas Buyers Club (2014), also known for The Lincoln Lawyer, Interstellar, and True Detective.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "US Embassy takeover in Tehran",
+        "description": "Iranian Islamist students seized the American embassy in Tehran and took 52 diplomats hostage, beginning the Iran hostage crisis that lasted 444 days.",
+        "year": 1979
+      },
+      {
+        "title": "Assassination of Yitzhak Rabin",
+        "description": "Israeli Prime Minister Yitzhak Rabin was shot by a Jewish extremist in Tel Aviv, a year after receiving the Nobel Peace Prize alongside Arafat and Peres.",
+        "year": 1995
+      },
+      {
+        "title": "Kyoto Protocol opened for signature",
+        "description": "The Kyoto Protocol on climate change was opened for signature, establishing binding targets for reducing greenhouse gas emissions among industrialised countries.",
+        "year": 1997
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Carlos Borromeu",
+        "type": "Bispo",
+        "description": "Cardeal arcebispo de Milão do século XVI e um dos grandes reformadores da Contrarreforma católica. Organizou sínodos, fundou seminários e serviu pessoalmente as vítimas da peste durante a epidemia de 1576. Canonizado em 1610."
+      },
+      {
+        "name": "São Félix de Valois",
+        "type": "Presbítero",
+        "description": "Cofundador, com São João de Matha, da Ordem da Santíssima Trindade (Trinitários) no século XII, dedicada ao resgate de cativos cristãos nas mãos dos sarracenos."
+      },
+      {
+        "name": "Beata Maria Próspera de Cailhau",
+        "type": "Virgem",
+        "description": "Religiosa francesa do século XIX, cofundadora das Irmãs de Nossa Senhora da Caridade do Bom Pastor, beatificada em 2012."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Ciência para a Paz e o Desenvolvimento",
+        "description": "Proclamado pela UNESCO para celebrar o papel da ciência na promoção da paz, da cooperação e do desenvolvimento sustentável entre as nações."
+      },
+      {
+        "name": "Dia Nacional da Cultura (Bolívia)",
+        "description": "A Bolívia celebra a riqueza e diversidade das suas culturas indígenas e mestiças com festivais, feiras de artesanato e atividades educativas em todo o país."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Quem deseja aprender muito deve começar por ensinar pouco.",
+      "author": "São Carlos Borromeu",
+      "context": "O santo do dia foi um reformador educacional que impulsionou a criação de seminários e escolas para o clero como chave para a renovação da Igreja."
+    },
+    "motivationalQuote": {
+      "text": "A imaginação é mais importante do que o conhecimento.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Willard Libby",
+        "description": "Químico americano que desenvolveu o método de datação por carbono-14, ferramenta fundamental da arqueologia moderna. Prêmio Nobel de Química em 1960.",
+        "year": 1908
+      },
+      {
+        "name": "Walter Cronkite",
+        "description": "Jornalista e apresentador de televisão americano, considerado 'o homem mais confiável da América' pela sua integridade jornalística durante décadas na CBS.",
+        "year": 1916
+      },
+      {
+        "name": "Matthew McConaughey",
+        "description": "Ator americano vencedor do Oscar por Dallas Buyers Club (2014), também conhecido por O Advogado do Lincoln, Interestelar e True Detective.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "Tomada da embaixada dos EUA em Teerã",
+        "description": "Estudantes islamistas iranianos tomaram a embaixada americana em Teerã e fizeram 52 diplomatas reféns, iniciando a crise dos reféns do Irã que durou 444 dias.",
+        "year": 1979
+      },
+      {
+        "title": "Assassinato de Yitzhak Rabin",
+        "description": "O primeiro-ministro israelense Yitzhak Rabin foi assassinado por um extremista judeu em Tel Aviv, um ano depois de receber o Prêmio Nobel da Paz ao lado de Arafat e Peres.",
+        "year": 1995
+      },
+      {
+        "title": "Protocolo de Quioto aberto para assinatura",
+        "description": "O Protocolo de Quioto sobre mudanças climáticas foi aberto para assinatura, estabelecendo metas vinculantes de redução de emissões de gases de efeito estufa para os países industrializados.",
+        "year": 1997
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Carles Borromeu",
+        "type": "Bisbe",
+        "description": "Cardenal arquebisbe de Milà del segle XVI i un dels grans reformadors de la Contrareforma catòlica. Va organitzar sínodes, va fundar seminaris i va servir personalment les víctimes de la pesta durant l'epidèmia de 1576. Canonitzat el 1610."
+      },
+      {
+        "name": "Sant Fèlix de Valois",
+        "type": "Prevere",
+        "description": "Cofundador, amb Sant Joan de Mata, de l'Orde de la Santíssima Trinitat (Trinitaris) al segle XII, dedicada al rescat de captius cristians en mans dels sarraïns."
+      },
+      {
+        "name": "Beata Maria Pròspera de Cailhau",
+        "type": "Verge",
+        "description": "Religiosa francesa del segle XIX, cofundadora de les Germanes de Nostra Senyora de la Caritat del Bon Pastor, beatificada el 2012."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la Ciència per la Pau i el Desenvolupament",
+        "description": "Proclamat per la UNESCO per celebrar el paper de la ciència en la promoció de la pau, la cooperació i el desenvolupament sostenible entre les nacions."
+      },
+      {
+        "name": "Dia Nacional de la Cultura (Bolívia)",
+        "description": "Bolívia celebra la riquesa i diversitat de les seves cultures indígenes i mestisses amb festivals, fires d'artesania i activitats educatives arreu del país."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Qui vulgui aprendre molt ha de començar per ensenyar poc.",
+      "author": "Sant Carles Borromeu",
+      "context": "El sant del dia va ser un reformador educatiu que va impulsar la creació de seminaris i escoles per al clergat com a clau de la renovació de l'Església."
+    },
+    "motivationalQuote": {
+      "text": "La imaginació és més important que el coneixement.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Willard Libby",
+        "description": "Químic americà que va desenvolupar el mètode de datació per carboni-14, eina fonamental de l'arqueologia moderna. Premi Nobel de Química el 1960.",
+        "year": 1908
+      },
+      {
+        "name": "Walter Cronkite",
+        "description": "Periodista i presentador de televisió americà, considerat 'l'home més de confiança d'Amèrica' per la seva integritat periodística durant dècades a la CBS.",
+        "year": 1916
+      },
+      {
+        "name": "Matthew McConaughey",
+        "description": "Actor americà guanyador de l'Oscar per Dallas Buyers Club (2014), també conegut per El advocat del Lincoln, Interstellar i True Detective.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "Presa de l'ambaixada dels EUA a Teheran",
+        "description": "Estudiants islamistes iranians van prendre l'ambaixada americana a Teheran i van prendre com a ostatges 52 diplomàtics, iniciant la crisi dels ostatges de l'Iran que va durar 444 dies.",
+        "year": 1979
+      },
+      {
+        "title": "Assassinat de Yitzhak Rabin",
+        "description": "El primer ministre israelià Yitzhak Rabin va ser assassinat per un extremista jueu a Tel Aviv, un any després de rebre el Premi Nobel de la Pau juntament amb Arafat i Peres.",
+        "year": 1995
+      },
+      {
+        "title": "Protocol de Kyoto obert a la signatura",
+        "description": "El Protocol de Kyoto sobre canvi climàtic va ser obert a la signatura, establint objectius vinculants de reducció d'emissions de gasos d'efecte d'hivernacle per als països industrialitzats.",
+        "year": 1997
+      }
+    ]
+  }
+}

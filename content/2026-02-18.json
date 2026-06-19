@@ -1,0 +1,119 @@
+{
+  "date": "2026-02-18",
+  "es": {
+    "saints": [
+      { "name": "San Simeón de Jerusalén", "type": "Mártir", "description": "Segundo obispo de Jerusalén, primo de Jesús según la tradición, martirizado a edad muy avanzada bajo Trajano alrededor del año 107." },
+      { "name": "Beato Fra Angélico", "type": "Religioso", "description": "Pintor dominico florentino del siglo XV, beatificado por Juan Pablo II en 1982; patrono de los artistas y pintores." }
+    ],
+    "observances": [
+      { "name": "Día del Patrimonio del Vino (varios países)", "description": "Jornada para reconocer la importancia cultural, económica y gastronómica de la vitivinicultura en el patrimonio de los pueblos." },
+      { "name": "Día de Pluto (Astronomía)", "description": "El 18 de febrero de 1930, Clyde Tombaugh descubrió Plutón en el Observatorio Lowell, iniciando décadas de debate sobre su clasificación planetaria." }
+    ],
+    "historicalQuote": {
+      "text": "El arte nunca termina, solo se abandona.",
+      "author": "Leonardo da Vinci",
+      "context": "Leonardo da Vinci (1452-1519) fue el arquetipo del genio renacentista. Esta frase, atribuida a él, refleja la perfección inacabable que perseguía en pintura, escultura e ingeniería."
+    },
+    "motivationalQuote": {
+      "text": "La acción es la clave fundamental de todo éxito.",
+      "author": "Pablo Picasso"
+    },
+    "births": [
+      { "name": "Alessandro Volta", "description": "Físico italiano, inventor de la pila voltaica (batería eléctrica) en 1800; la unidad de tensión eléctrica, el voltio, lleva su nombre.", "year": 1745 },
+      { "name": "Ernst Mach", "description": "Físico y filósofo austríaco que estudió la velocidad del sonido; la velocidad mach en aeronáutica lleva su nombre.", "year": 1838 },
+      { "name": "John Travolta", "description": "Actor y bailarín estadounidense, famoso por Saturday Night Fever, Grease y Pulp Fiction; ícono de la cultura popular de los años 70.", "year": 1954 }
+    ],
+    "events": [
+      { "title": "Descubrimiento de Plutón", "description": "El astrónomo estadounidense Clyde Tombaugh descubre Plutón fotografiando el cielo desde el Observatorio Lowell en Arizona, añadiendo el noveno cuerpo al Sistema Solar.", "year": 1930 },
+      { "title": "Muere Martín Lutero", "description": "El reformador religioso alemán Martín Lutero fallece en Eisleben (Alemania), la misma ciudad en la que nació; sus 95 Tesis habían detonado la Reforma Protestante en 1517.", "year": 1546 },
+      { "title": "Inauguración del Coliseo de Roma", "description": "El emperador Tito inaugura el Coliseo de Roma con 100 días de juegos, incluyendo combates de gladiadores y cacerías de animales.", "year": 80 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Simeon of Jerusalem", "type": "Martyr", "description": "Second Bishop of Jerusalem, cousin of Jesus according to tradition, martyred at a very advanced age under Trajan around AD 107." },
+      { "name": "Blessed Fra Angelico", "type": "Religious", "description": "Florentine Dominican painter of the 15th century, beatified by John Paul II in 1982; patron of artists and painters." }
+    ],
+    "observances": [
+      { "name": "Wine Heritage Day (various countries)", "description": "A day to recognise the cultural, economic and gastronomic importance of viticulture in the heritage of peoples." },
+      { "name": "Pluto Day (Astronomy)", "description": "On 18 February 1930, Clyde Tombaugh discovered Pluto at Lowell Observatory, sparking decades of debate about its planetary classification." }
+    ],
+    "historicalQuote": {
+      "text": "Art is never finished, only abandoned.",
+      "author": "Leonardo da Vinci",
+      "context": "Leonardo da Vinci (1452–1519) was the archetype of the Renaissance genius. This phrase, attributed to him, reflects the endless perfection he pursued in painting, sculpture and engineering."
+    },
+    "motivationalQuote": {
+      "text": "Action is the foundational key to all success.",
+      "author": "Pablo Picasso"
+    },
+    "births": [
+      { "name": "Alessandro Volta", "description": "Italian physicist, inventor of the voltaic pile (electric battery) in 1800; the unit of electrical voltage, the volt, bears his name.", "year": 1745 },
+      { "name": "Ernst Mach", "description": "Austrian physicist and philosopher who studied the speed of sound; the Mach speed unit in aeronautics bears his name.", "year": 1838 },
+      { "name": "John Travolta", "description": "American actor and dancer, famous for Saturday Night Fever, Grease and Pulp Fiction; icon of 1970s popular culture.", "year": 1954 }
+    ],
+    "events": [
+      { "title": "Discovery of Pluto", "description": "American astronomer Clyde Tombaugh discovers Pluto while photographing the sky from Lowell Observatory in Arizona, adding a ninth body to the Solar System.", "year": 1930 },
+      { "title": "Death of Martin Luther", "description": "German religious reformer Martin Luther dies in Eisleben, Germany — the same city where he was born; his 95 Theses had sparked the Protestant Reformation in 1517.", "year": 1546 },
+      { "title": "Inauguration of the Colosseum", "description": "Emperor Titus inaugurates the Colosseum in Rome with 100 days of games, including gladiatorial combats and animal hunts.", "year": 80 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Simeão de Jerusalém", "type": "Mártir", "description": "Segundo bispo de Jerusalém, primo de Jesus segundo a tradição, martirizado em idade muito avançada sob Trajano por volta do ano 107." },
+      { "name": "Beato Fra Angélico", "type": "Religioso", "description": "Pintor dominicano florentino do século XV, beatificado por João Paulo II em 1982; padroeiro dos artistas e pintores." }
+    ],
+    "observances": [
+      { "name": "Dia do Patrimônio do Vinho (vários países)", "description": "Jornada para reconhecer a importância cultural, econômica e gastronômica da vitivinicultura no patrimônio dos povos." },
+      { "name": "Dia de Plutão (Astronomia)", "description": "Em 18 de fevereiro de 1930, Clyde Tombaugh descobriu Plutão no Observatório Lowell, iniciando décadas de debate sobre sua classificação planetária." }
+    ],
+    "historicalQuote": {
+      "text": "A arte nunca termina, apenas é abandonada.",
+      "author": "Leonardo da Vinci",
+      "context": "Leonardo da Vinci (1452-1519) foi o arquétipo do gênio renascentista. Esta frase, atribuída a ele, reflete a perfeição interminável que perseguia na pintura, escultura e engenharia."
+    },
+    "motivationalQuote": {
+      "text": "A ação é a chave fundamental de todo sucesso.",
+      "author": "Pablo Picasso"
+    },
+    "births": [
+      { "name": "Alessandro Volta", "description": "Físico italiano, inventor da pilha voltaica (bateria elétrica) em 1800; a unidade de tensão elétrica, o volt, leva o seu nome.", "year": 1745 },
+      { "name": "Ernst Mach", "description": "Físico e filósofo austríaco que estudou a velocidade do som; a unidade de velocidade mach na aeronáutica leva o seu nome.", "year": 1838 },
+      { "name": "John Travolta", "description": "Ator e dançarino americano, famoso por Saturday Night Fever, Grease e Pulp Fiction; ícone da cultura popular dos anos 70.", "year": 1954 }
+    ],
+    "events": [
+      { "title": "Descoberta de Plutão", "description": "O astrônomo americano Clyde Tombaugh descobre Plutão fotografando o céu no Observatório Lowell no Arizona, acrescentando um nono corpo ao Sistema Solar.", "year": 1930 },
+      { "title": "Morte de Martinho Lutero", "description": "O reformador religioso alemão Martinho Lutero morre em Eisleben (Alemanha) — a mesma cidade onde nasceu; suas 95 Teses haviam deflagrado a Reforma Protestante em 1517.", "year": 1546 },
+      { "title": "Inauguração do Coliseu de Roma", "description": "O imperador Tito inaugura o Coliseu de Roma com 100 dias de jogos, incluindo combates de gladiadores e caçadas de animais.", "year": 80 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Simeó de Jerusalem", "type": "Màrtir", "description": "Segon bisbe de Jerusalem, cosí de Jesús segons la tradició, martiritzat a edat molt avançada sota Trajà cap a l'any 107." },
+      { "name": "Beat Fra Angèlic", "type": "Religiós", "description": "Pintor dominic florentí del segle XV, beatificat per Joan Pau II el 1982; patró dels artistes i pintors." }
+    ],
+    "observances": [
+      { "name": "Dia del Patrimoni del Vi (diversos països)", "description": "Jornada per reconèixer la importància cultural, econòmica i gastronòmica de la vitivinicultura en el patrimoni dels pobles." },
+      { "name": "Dia de Plutó (Astronomia)", "description": "El 18 de febrer de 1930, Clyde Tombaugh va descobrir Plutó a l'Observatori Lowell, iniciant dècades de debat sobre la seva classificació planetària." }
+    ],
+    "historicalQuote": {
+      "text": "L'art mai no es termina, només s'abandona.",
+      "author": "Leonardo da Vinci",
+      "context": "Leonardo da Vinci (1452-1519) fou l'arquetip del geni renaixentista. Aquesta frase, atribuïda a ell, reflecteix la perfecció inacabable que perseguia en pintura, escultura i enginyeria."
+    },
+    "motivationalQuote": {
+      "text": "L'acció és la clau fonamental de tot èxit.",
+      "author": "Pablo Picasso"
+    },
+    "births": [
+      { "name": "Alessandro Volta", "description": "Físic italià, inventor de la pila voltaica (bateria elèctrica) el 1800; la unitat de tensió elèctrica, el volt, porta el seu nom.", "year": 1745 },
+      { "name": "Ernst Mach", "description": "Físic i filòsof austríac que estudià la velocitat del so; la unitat de velocitat mach en aeronàutica porta el seu nom.", "year": 1838 },
+      { "name": "John Travolta", "description": "Actor i ballarí americà, famós per Saturday Night Fever, Grease i Pulp Fiction; icona de la cultura popular dels anys 70.", "year": 1954 }
+    ],
+    "events": [
+      { "title": "Descoberta de Plutó", "description": "L'astrònom americà Clyde Tombaugh descobreix Plutó fotografiant el cel des de l'Observatori Lowell a Arizona, afegint un novè cos al Sistema Solar.", "year": 1930 },
+      { "title": "Mort de Martí Luter", "description": "El reformador religiós alemany Martí Luter mor a Eisleben (Alemanya) — la mateixa ciutat on va néixer; les seves 95 Tesis havien detonado la Reforma Protestant el 1517.", "year": 1546 },
+      { "title": "Inauguració del Colosseu de Roma", "description": "L'emperador Tit inaugura el Colosseu de Roma amb 100 dies de jocs, incloent-hi combats de gladiadors i caceres d'animals.", "year": 80 }
+    ]
+  }
+}

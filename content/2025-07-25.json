@@ -1,0 +1,271 @@
+{
+  "date": "2025-07-25",
+  "es": {
+    "saints": [
+      {
+        "name": "Santiago Apóstol",
+        "type": "Apóstol, Mártir y Patrón de España",
+        "description": "Hijo de Zebedeo y hermano de Juan, fue uno de los doce apóstoles de Jesús y el primero de ellos en sufrir el martirio (año 44 d.C., decapitado por Herodes Agripa I). Según la tradición, predicó el Evangelio en Hispania. Sus restos reposan en la catedral de Santiago de Compostela, meta del Camino de Santiago, una de las peregrinaciones más importantes del mundo cristiano."
+      },
+      {
+        "name": "San Cristóbal",
+        "type": "Mártir",
+        "description": "Mártir del siglo III venerado como patrono de los viajeros, automovilistas y peregrinos. Su nombre significa 'el que lleva a Cristo'. Según la leyenda, era un gigante que portó al Niño Jesús a través de un río, descubriendo entonces la enorme 'carga' que llevaba."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de Santiago (Galicia y España)",
+        "description": "El 25 de julio es el día más señalado de Galicia. Si la festividad de Santiago cae en domingo es Año Santo Compostelano (o Xacobeo), en el que se abre la Puerta Santa de la catedral y los peregrinos pueden ganar el jubileo. Es también Día Nacional de Galicia."
+      },
+      {
+        "name": "Día de la Independencia de Puerto Rico (Proclama de 1952)",
+        "description": "Puerto Rico celebra el 25 de julio de 1952, fecha en que se proclamó el Estado Libre Asociado de Puerto Rico y entró en vigor su constitución, aunque la isla sigue siendo un territorio no incorporado de Estados Unidos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El peregrino no abandona sus preguntas en el camino; las lleva consigo y regresan con él, transformadas.",
+      "author": "Paulo Coelho",
+      "context": "El Camino de Santiago es hoy una de las rutas de peregrinación más transitadas del mundo, con cientos de miles de peregrinos al año. La festividad de Santiago Apóstol, celebrada hoy, es el corazón espiritual de Galicia y uno de los tres grandes jubilos del catolicismo."
+    },
+    "motivationalQuote": {
+      "text": "El camino se hace al andar.",
+      "author": "Antonio Machado"
+    },
+    "births": [
+      {
+        "name": "Arthur Balfour",
+        "description": "Político y estadista británico, Primer Ministro del Reino Unido (1902–1905) y Secretario de Relaciones Exteriores que firmó la Declaración Balfour de 1917, que prometía apoyo británico al establecimiento de un hogar nacional judío en Palestina.",
+        "year": 1848
+      },
+      {
+        "name": "Walter Payton",
+        "description": "Jugador de fútbol americano considerado uno de los mejores corredores de la historia de la NFL. Conocido como 'Sweetness', jugó 13 temporadas con los Chicago Bears y fue admitido en el Pro Football Hall of Fame.",
+        "year": 1954
+      },
+      {
+        "name": "Matt LeBlanc",
+        "description": "Actor estadounidense famoso por interpretar a Joey Tribbiani en la serie de televisión Friends (1994–2004), uno de los personajes más queridos de la televisión americana del siglo XX.",
+        "year": 1967
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera vuelta ciclista a España (Vuelta a España)",
+        "description": "El 25 de julio de 2024 concluyó la 79ª Vuelta a España. La primera edición de la Vuelta se celebró en 1935, y es junto al Tour de France y el Giro d'Italia una de las tres grandes del ciclismo mundial.",
+        "year": 1935
+      },
+      {
+        "title": "Hannibal cruza los Alpes",
+        "description": "En el año 218 a.C., el general cartaginés Aníbal Barca inició su épica travesía de los Alpes con 38.000 soldados y 37 elefantes de guerra para atacar Roma desde el norte, en una de las maniobras militares más audaces de la antigüedad.",
+        "year": -218
+      },
+      {
+        "title": "Luis Blériot cruza el Canal de la Mancha en avión",
+        "description": "El 25 de julio de 1909, el aviador francés Louis Blériot completó el primer vuelo en avión sobre el Canal de la Mancha, de Calais a Dover en 36 minutos, demostrando el potencial transformador de la aviación.",
+        "year": 1909
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint James the Apostle",
+        "type": "Apostle, Martyr and Patron of Spain",
+        "description": "Son of Zebedee and brother of John, he was one of the twelve apostles of Jesus and the first of them to be martyred (AD 44, beheaded by Herod Agrippa I). According to tradition, he preached the Gospel in Hispania. His remains rest in the Cathedral of Santiago de Compostela, the destination of the Camino de Santiago, one of the most important pilgrimages in the Christian world."
+      },
+      {
+        "name": "Saint Christopher",
+        "type": "Martyr",
+        "description": "A 3rd-century martyr venerated as the patron of travellers, motorists, and pilgrims. His name means 'the one who carries Christ'. According to legend, he was a giant who carried the Christ Child across a river, only to discover the enormous 'burden' he bore."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Feast of Saint James (Galicia and Spain)",
+        "description": "25 July is the most important day in Galicia. When the feast of Saint James falls on a Sunday it becomes a Holy Compostelan Year (Xacobeo), when the Holy Door of the cathedral is opened and pilgrims may gain the jubilee indulgence. It is also Galicia's National Day."
+      },
+      {
+        "name": "Puerto Rico Constitution Day (1952)",
+        "description": "Puerto Rico celebrates 25 July 1952, the date the Commonwealth of Puerto Rico was proclaimed and its constitution came into force, although the island remains an unincorporated territory of the United States."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The pilgrim does not leave their questions on the road; they carry them along and they return transformed.",
+      "author": "Paulo Coelho",
+      "context": "The Camino de Santiago is today one of the most-walked pilgrimage routes in the world, with hundreds of thousands of pilgrims each year. The feast of Saint James the Apostle, celebrated today, is the spiritual heart of Galicia and one of the three great jubilees of Catholicism."
+    },
+    "motivationalQuote": {
+      "text": "The road is made by walking.",
+      "author": "Antonio Machado"
+    },
+    "births": [
+      {
+        "name": "Arthur Balfour",
+        "description": "British politician and statesman, Prime Minister of the United Kingdom (1902–1905) and Foreign Secretary who signed the Balfour Declaration of 1917, pledging British support for the establishment of a Jewish national home in Palestine.",
+        "year": 1848
+      },
+      {
+        "name": "Walter Payton",
+        "description": "American football player considered one of the greatest running backs in NFL history. Known as 'Sweetness', he played 13 seasons with the Chicago Bears and was inducted into the Pro Football Hall of Fame.",
+        "year": 1954
+      },
+      {
+        "name": "Matt LeBlanc",
+        "description": "American actor famous for portraying Joey Tribbiani in the television series Friends (1994–2004), one of the most beloved characters in 20th-century American television.",
+        "year": 1967
+      }
+    ],
+    "events": [
+      {
+        "title": "Louis Blériot crosses the English Channel by aeroplane",
+        "description": "On 25 July 1909, French aviator Louis Blériot completed the first aeroplane crossing of the English Channel, from Calais to Dover in 36 minutes, demonstrating the transformative potential of aviation.",
+        "year": 1909
+      },
+      {
+        "title": "First test-tube baby born",
+        "description": "On 25 July 1978, Louise Brown was born in Oldham, England — the first human conceived through in vitro fertilisation (IVF), opening a new era in reproductive medicine.",
+        "year": 1978
+      },
+      {
+        "title": "Concorde crash at Paris",
+        "description": "On 25 July 2000, Air France Concorde flight 4590 crashed just after take-off from Charles de Gaulle Airport in Paris, killing all 109 aboard and 4 on the ground — the only fatal Concorde accident in history.",
+        "year": 2000
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santiago Apóstolo",
+        "type": "Apóstolo, Mártir e Patrono de Espanha",
+        "description": "Filho de Zebedeu e irmão de João, foi um dos doze apóstolos de Jesus e o primeiro deles a sofrer o martírio (ano 44 d.C., decapitado por Herodes Agripa I). Segundo a tradição, pregou o Evangelho na Hispânia. Os seus restos repousam na catedral de Santiago de Compostela, meta do Caminho de Santiago, uma das peregrinações mais importantes do mundo cristão."
+      },
+      {
+        "name": "São Cristóvão",
+        "type": "Mártir",
+        "description": "Mártir do século III venerado como patrono dos viajantes, automobilistas e peregrinos. O seu nome significa 'o que carrega Cristo'. Segundo a lenda, era um gigante que transportou o Menino Jesus através de um rio, descobrindo então a enorme 'carga' que levava."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Festa de Santiago (Galiza e Espanha)",
+        "description": "O 25 de julho é o dia mais importante da Galiza. Quando a festa de Santiago cai num domingo, é Ano Santo Compostelano (ou Xacobeo), em que se abre a Porta Santa da catedral e os peregrinos podem ganhar o jubileu. É também o Dia Nacional da Galiza."
+      },
+      {
+        "name": "Dia da Constituição de Porto Rico (1952)",
+        "description": "Porto Rico celebra o 25 de julho de 1952, data em que foi proclamado o Estado Livre Associado de Porto Rico e entrou em vigor a sua constituição, embora a ilha permaneça um território não incorporado dos Estados Unidos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O peregrino não abandona as suas perguntas no caminho; leva-as consigo e voltam com ele, transformadas.",
+      "author": "Paulo Coelho",
+      "context": "O Caminho de Santiago é hoje uma das rotas de peregrinação mais percorridas do mundo, com centenas de milhares de peregrinos por ano. A festividade de Santiago Apóstolo, celebrada hoje, é o coração espiritual da Galiza e um dos três grandes jubileus do catolicismo."
+    },
+    "motivationalQuote": {
+      "text": "O caminho se faz caminhando.",
+      "author": "Antonio Machado"
+    },
+    "births": [
+      {
+        "name": "Arthur Balfour",
+        "description": "Político e estadista britânico, Primeiro-Ministro do Reino Unido (1902–1905) e Secretário das Relações Exteriores que assinou a Declaração Balfour de 1917, prometendo apoio britânico ao estabelecimento de uma pátria judaica na Palestina.",
+        "year": 1848
+      },
+      {
+        "name": "Walter Payton",
+        "description": "Jogador de futebol americano considerado um dos maiores running backs da história da NFL. Conhecido como 'Sweetness', jogou 13 temporadas com os Chicago Bears e foi incluído no Pro Football Hall of Fame.",
+        "year": 1954
+      },
+      {
+        "name": "Matt LeBlanc",
+        "description": "Ator americano famoso por interpretar Joey Tribbiani na série de televisão Friends (1994–2004), uma das personagens mais queridas da televisão americana do século XX.",
+        "year": 1967
+      }
+    ],
+    "events": [
+      {
+        "title": "Louis Blériot atravessa o Canal da Mancha de avião",
+        "description": "Em 25 de julho de 1909, o aviador francês Louis Blériot completou a primeira travessia do Canal da Mancha de avião, de Calais a Dover em 36 minutos, demonstrando o potencial transformador da aviação.",
+        "year": 1909
+      },
+      {
+        "title": "Nasce o primeiro bebê de proveta",
+        "description": "Em 25 de julho de 1978, Louise Brown nasceu em Oldham, Inglaterra — o primeiro ser humano concebido por fertilização in vitro (FIV), abrindo uma nova era na medicina reprodutiva.",
+        "year": 1978
+      },
+      {
+        "title": "Acidente do Concorde em Paris",
+        "description": "Em 25 de julho de 2000, o voo 4590 da Air France Concorde caiu logo após a decolagem do aeroporto Charles de Gaulle em Paris, matando todos os 109 a bordo e 4 em terra — o único acidente fatal do Concorde na história.",
+        "year": 2000
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Jaume Apòstol",
+        "type": "Apòstol, Màrtir i Patró d'Espanya",
+        "description": "Fill de Zebedeu i germà de Joan, va ser un dels dotze apòstols de Jesús i el primer d'ells a sofrir el martiri (any 44 dC, decapitat per Herodes Agripa I). Segons la tradició, va predicar l'Evangeli a Hispània. Les seves restes reposen a la catedral de Santiago de Compostel·la, meta del Camí de Sant Jaume, una de les peregrinacions més importants del món cristià."
+      },
+      {
+        "name": "Sant Cristòfol",
+        "type": "Màrtir",
+        "description": "Màrtir del segle III venerat com a patró dels viatgers, automobilistes i pelegrins. El seu nom significa 'el que porta Crist'. Segons la llegenda, era un gegant que va transportar el Nen Jesús a través d'un riu, descobrint aleshores l'enorme 'càrrega' que portava."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Festa de Sant Jaume (Galícia i Espanya)",
+        "description": "El 25 de juliol és el dia més assenyalat de Galícia. Si la festivitat de Sant Jaume cau en diumenge és Any Sant Compostel·là (o Xacobeu), en el qual s'obre la Porta Santa de la catedral i els pelegrins poden guanyar el jubileu. És també el Dia Nacional de Galícia."
+      },
+      {
+        "name": "Dia de la Constitució de Puerto Rico (1952)",
+        "description": "Puerto Rico celebra el 25 de juliol de 1952, data en la qual es va proclamar l'Estat Lliure Associat de Puerto Rico i va entrar en vigor la seva constitució, tot i que l'illa continua sent un territori no incorporat dels Estats Units."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El pelegrí no abandona les seves preguntes al camí; les porta amb ell i tornen amb ell, transformades.",
+      "author": "Paulo Coelho",
+      "context": "El Camí de Sant Jaume és avui una de les rutes de pelegrinatge més transitades del món, amb centenars de milers de pelegrins a l'any. La festivitat de Sant Jaume Apòstol, celebrada avui, és el cor espiritual de Galícia i un dels tres grans jubileus del catolicisme."
+    },
+    "motivationalQuote": {
+      "text": "El camí es fa caminant.",
+      "author": "Antonio Machado"
+    },
+    "births": [
+      {
+        "name": "Arthur Balfour",
+        "description": "Polític i estadista britànic, Primer Ministre del Regne Unit (1902–1905) i Secretari d'Afers Exteriors que va signar la Declaració Balfour de 1917, prometent suport britànic a l'establiment d'una llar nacional jueva a Palestina.",
+        "year": 1848
+      },
+      {
+        "name": "Walter Payton",
+        "description": "Jugador de futbol americà considerat un dels millors corredors de la història de la NFL. Conegut com a 'Sweetness', va jugar 13 temporades amb els Chicago Bears i va ser admès al Pro Football Hall of Fame.",
+        "year": 1954
+      },
+      {
+        "name": "Matt LeBlanc",
+        "description": "Actor americà famós per interpretar Joey Tribbiani a la sèrie de televisió Friends (1994–2004), un dels personatges més estimats de la televisió americana del segle XX.",
+        "year": 1967
+      }
+    ],
+    "events": [
+      {
+        "title": "Louis Blériot travessa el Canal de la Mànega en avió",
+        "description": "El 25 de juliol de 1909, l'aviador francès Louis Blériot va completar la primera travessia del Canal de la Mànega en avió, de Calais a Dover en 36 minuts, demostrant el potencial transformador de l'aviació.",
+        "year": 1909
+      },
+      {
+        "title": "Neix el primer nadó de proveta",
+        "description": "El 25 de juliol de 1978, Louise Brown va néixer a Oldham, Anglaterra — el primer ésser humà concebut per fecundació in vitro (FIV), obrint una nova era en la medicina reproductiva.",
+        "year": 1978
+      },
+      {
+        "title": "Accident del Concorde a París",
+        "description": "El 25 de juliol de 2000, el vol 4590 d'Air France Concorde va estavellar-se just després de l'enlairament de l'aeroport Charles de Gaulle de París, matant tots els 109 a bord i 4 a terra — l'únic accident mortal del Concorde a la història.",
+        "year": 2000
+      }
+    ]
+  }
+}

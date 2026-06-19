@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-05",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Teresa de Calcuta",
+        "type": "Virgen",
+        "description": "Religiosa albanesa nacida en Skopie en 1910, fundadora de las Misioneras de la Caridad en Calcuta (1950). Dedicó su vida al servicio de los más pobres entre los pobres. Fue canonizada por el papa Francisco el 4 de septiembre de 2016. Murió el 5 de septiembre de 1997."
+      },
+      {
+        "name": "San Lorenzo Justiniano",
+        "type": "Obispo",
+        "description": "Primer patriarca de Venecia (1451), canonizado en 1690. Figura espiritual eminente del siglo XV conocida por su vida contemplativa, su celo pastoral y sus escritos místicos."
+      },
+      {
+        "name": "San Bertin",
+        "type": "Abad",
+        "description": "Monje anglosajón del siglo VII que fundó el monasterio de Sithiu (actual Saint-Omer, Francia), del que fue abad por más de sesenta años, evangelizando la región de la Morinia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Caridad",
+        "description": "Proclamado por la ONU en 2012 en honor a la muerte de Santa Teresa de Calcuta el 5 de septiembre de 1997. Celebra el papel de la caridad en aliviar la pobreza y promover el diálogo entre culturas y religiones."
+      },
+      {
+        "name": "Día del Maestro — Brasil",
+        "description": "Celebración del Día del Maestro en Brasil, establecida el 5 de septiembre en conmemoración del decreto del Marqués de Pombal que reformó la educación pública portuguesa en 1759."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si juzgas a las personas no tendrás tiempo de amarlas.",
+      "author": "Santa Teresa de Calcuta",
+      "context": "La religiosa albanesa, cuya fiesta se celebra hoy, expresó con esta sencilla frase la esencia de su misión: el amor incondicional hacia todos los seres humanos, especialmente los más necesitados."
+    },
+    "motivationalQuote": {
+      "text": "No todas las personas que van rápido van en la dirección correcta.",
+      "author": "Henry David Thoreau"
+    },
+    "births": [
+      {
+        "name": "Freddie Mercury",
+        "description": "Cantante y compositor británico, líder de la banda de rock Queen. Considerado uno de los mejores vocalistas de la historia del rock, es conocido por su poderosa voz y sus épicas actuaciones en directo.",
+        "year": 1946
+      },
+      {
+        "name": "Jesse James",
+        "description": "Bandolero y forajido estadounidense del Lejano Oeste, cuya vida fue objeto de innumerables leyendas, novelas, películas y series. Líder de la banda James-Younger, se convirtió en símbolo del forajido romántico americano.",
+        "year": 1847
+      },
+      {
+        "name": "Raquel Welch",
+        "description": "Actriz y modelo estadounidense, símbolo sexual de los años sesenta y setenta, conocida especialmente por su papel en Un millón de años antes de Cristo (1966).",
+        "year": 1940
+      }
+    ],
+    "events": [
+      {
+        "title": "Masacre de los Juegos Olímpicos de Múnich",
+        "description": "Un comando del grupo terrorista palestino Septiembre Negro tomó como rehenes a once miembros del equipo olímpico israelí en los Juegos de Múnich. El rescate fallido acabó con la muerte de todos los atletas israelíes.",
+        "year": 1972
+      },
+      {
+        "title": "Madre Teresa recibe el Premio Nobel de la Paz",
+        "description": "La religiosa albanesa Madre Teresa de Calcuta recibió el Premio Nobel de la Paz por su trabajo humanitario entre los más pobres en India y en todo el mundo.",
+        "year": 1979
+      },
+      {
+        "title": "Lanzamiento del Voyager 1",
+        "description": "La NASA lanzó la sonda Voyager 1, que se convertiría en el objeto fabricado por el ser humano que más lejos ha viajado en el espacio, saliendo del sistema solar en 2012.",
+        "year": 1977
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Teresa of Calcutta",
+        "type": "Virgin",
+        "description": "Albanian religious born in Skopje in 1910, founder of the Missionaries of Charity in Calcutta (1950). She devoted her life to the service of the poorest of the poor. She was canonised by Pope Francis on 4 September 2016 and died on 5 September 1997."
+      },
+      {
+        "name": "Saint Lawrence Justinian",
+        "type": "Bishop",
+        "description": "First Patriarch of Venice (1451), canonised in 1690. An eminent spiritual figure of the 15th century, known for his contemplative life, pastoral zeal, and mystical writings."
+      },
+      {
+        "name": "Saint Bertin",
+        "type": "Abbot",
+        "description": "A 7th-century Anglo-Saxon monk who founded the monastery of Sithiu (present-day Saint-Omer, France), of which he was abbot for more than sixty years, evangelising the region of Morini."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of Charity",
+        "description": "Proclaimed by the UN in 2012 to honour the death of Saint Teresa of Calcutta on 5 September 1997. It celebrates the role of charity in alleviating poverty and promoting dialogue between cultures and religions."
+      },
+      {
+        "name": "Teacher's Day — Brazil",
+        "description": "Celebration of Teacher's Day in Brazil, established on 5 September to commemorate the Marquis of Pombal's decree that reformed public education in Portugal in 1759."
+      }
+    ],
+    "historicalQuote": {
+      "text": "If you judge people, you have no time to love them.",
+      "author": "Saint Teresa of Calcutta",
+      "context": "The Albanian religious, whose feast is celebrated today, expressed with this simple phrase the essence of her mission: unconditional love for all human beings, especially the most needy."
+    },
+    "motivationalQuote": {
+      "text": "It's not enough to be busy; so too are the ants. The question is: what are we busy about?",
+      "author": "Henry David Thoreau"
+    },
+    "births": [
+      {
+        "name": "Freddie Mercury",
+        "description": "British singer and songwriter, frontman of the rock band Queen. Considered one of the greatest vocalists in rock history, he is renowned for his powerful voice and epic live performances.",
+        "year": 1946
+      },
+      {
+        "name": "Jesse James",
+        "description": "American outlaw of the Wild West, whose life became the subject of countless legends, novels, films, and series. Leader of the James-Younger Gang, he became a symbol of the romantic American outlaw.",
+        "year": 1847
+      },
+      {
+        "name": "Raquel Welch",
+        "description": "American actress and model, sex symbol of the 1960s and 1970s, especially known for her role in One Million Years B.C. (1966).",
+        "year": 1940
+      }
+    ],
+    "events": [
+      {
+        "title": "Munich Olympics Massacre",
+        "description": "A commando of the Palestinian terrorist group Black September took eleven members of the Israeli Olympic team hostage at the Munich Games. The failed rescue ended with the death of all the Israeli athletes.",
+        "year": 1972
+      },
+      {
+        "title": "Mother Teresa receives the Nobel Peace Prize",
+        "description": "Albanian religious Mother Teresa of Calcutta received the Nobel Peace Prize for her humanitarian work among the poorest in India and around the world.",
+        "year": 1979
+      },
+      {
+        "title": "Launch of Voyager 1",
+        "description": "NASA launched the Voyager 1 probe, which would become the human-made object that has travelled furthest into space, leaving the solar system in 2012.",
+        "year": 1977
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Teresa de Calcutá",
+        "type": "Virgem",
+        "description": "Religiosa albanesa nascida em Skopje em 1910, fundadora das Missionárias da Caridade em Calcutá (1950). Dedicou a sua vida ao serviço dos mais pobres entre os pobres. Foi canonizada pelo papa Francisco em 4 de setembro de 2016 e morreu em 5 de setembro de 1997."
+      },
+      {
+        "name": "São Lourenço Justiniano",
+        "type": "Bispo",
+        "description": "Primeiro patriarca de Veneza (1451), canonizado em 1690. Figura espiritual eminente do século XV, conhecida pela sua vida contemplativa, zelo pastoral e escritos místicos."
+      },
+      {
+        "name": "São Bertino",
+        "type": "Abade",
+        "description": "Monge anglo-saxão do século VII que fundou o mosteiro de Sithiu (atual Saint-Omer, França), do qual foi abade por mais de sessenta anos, evangelizando a região dos Morinos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Caridade",
+        "description": "Proclamado pela ONU em 2012 em homenagem à morte de Santa Teresa de Calcutá em 5 de setembro de 1997. Celebra o papel da caridade em aliviar a pobreza e promover o diálogo entre culturas e religiões."
+      },
+      {
+        "name": "Dia do Professor — Brasil",
+        "description": "Celebração do Dia do Professor no Brasil, estabelecida em 5 de setembro em comemoração ao decreto do Marquês de Pombal que reformou o ensino público português em 1759."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Se você julgar as pessoas, não terá tempo de amá-las.",
+      "author": "Santa Teresa de Calcutá",
+      "context": "A religiosa albanesa, cuja festa se celebra hoje, expressou com esta simples frase a essência da sua missão: o amor incondicional a todos os seres humanos, especialmente os mais necessitados."
+    },
+    "motivationalQuote": {
+      "text": "Não basta estar ocupado; as formigas também estão. A questão é: em que estamos ocupados?",
+      "author": "Henry David Thoreau"
+    },
+    "births": [
+      {
+        "name": "Freddie Mercury",
+        "description": "Cantor e compositor britânico, vocalista da banda de rock Queen. Considerado um dos maiores vocalistas da história do rock, é famoso pela sua voz poderosa e suas épicas atuações ao vivo.",
+        "year": 1946
+      },
+      {
+        "name": "Jesse James",
+        "description": "Bandoleiro e fora-da-lei americano do Velho Oeste, cuja vida foi objeto de inúmeras lendas, romances, filmes e séries. Líder da Quadrilha James-Younger, tornou-se símbolo do fora-da-lei romântico americano.",
+        "year": 1847
+      },
+      {
+        "name": "Raquel Welch",
+        "description": "Atriz e modelo americana, símbolo sexual dos anos sessenta e setenta, especialmente conhecida pelo seu papel em Um Milhão de Anos Antes de Cristo (1966).",
+        "year": 1940
+      }
+    ],
+    "events": [
+      {
+        "title": "Massacre das Olimpíadas de Munique",
+        "description": "Um comando do grupo terrorista palestino Setembro Negro tomou como reféns onze membros da equipa olímpica israelense nos Jogos de Munique. O resgate falhado terminou com a morte de todos os atletas israelenses.",
+        "year": 1972
+      },
+      {
+        "title": "Madre Teresa recebe o Prêmio Nobel da Paz",
+        "description": "A religiosa albanesa Madre Teresa de Calcutá recebeu o Prêmio Nobel da Paz pelo seu trabalho humanitário entre os mais pobres na Índia e em todo o mundo.",
+        "year": 1979
+      },
+      {
+        "title": "Lançamento da Voyager 1",
+        "description": "A NASA lançou a sonda Voyager 1, que se tornaria o objeto fabricado pelo ser humano que mais longe viajou no espaço, saindo do sistema solar em 2012.",
+        "year": 1977
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Teresa de Calcuta",
+        "type": "Verge",
+        "description": "Religiosa albanesa nascuda a Skopje el 1910, fundadora de les Missioneres de la Caritat a Calcuta (1950). Va dedicar la seva vida al servei dels més pobres entre els pobres. Va ser canonitzada pel papa Francesc el 4 de setembre de 2016 i va morir el 5 de setembre de 1997."
+      },
+      {
+        "name": "Sant Llorenç Justinià",
+        "type": "Bisbe",
+        "description": "Primer patriarca de Venècia (1451), canonitzat el 1690. Figura espiritual eminent del segle XV, coneguda per la seva vida contemplativa, el seu zel pastoral i els seus escrits místics."
+      },
+      {
+        "name": "Sant Bertí",
+        "type": "Abat",
+        "description": "Monjo anglosaxó del segle VII que va fundar el monestir de Sithiu (actual Saint-Omer, França), del qual va ser abat durant més de seixanta anys, evangelitzant la regió dels Morins."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la Caritat",
+        "description": "Proclamat per l'ONU el 2012 en honor de la mort de Santa Teresa de Calcuta el 5 de setembre de 1997. Celebra el paper de la caritat en l'alleujament de la pobresa i la promoció del diàleg entre cultures i religions."
+      },
+      {
+        "name": "Dia del Mestre — Brasil",
+        "description": "Celebració del Dia del Mestre al Brasil, establerta el 5 de setembre en commemoració del decret del Marquès de Pombal que va reformar l'ensenyament públic portuguès el 1759."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si jutges les persones, no tindràs temps d'estimar-les.",
+      "author": "Santa Teresa de Calcuta",
+      "context": "La religiosa albanesa, la festa de la qual se celebra avui, va expressar amb aquesta senzilla frase l'essència de la seva missió: l'amor incondicional envers tots els éssers humans, especialment els més necessitats."
+    },
+    "motivationalQuote": {
+      "text": "No n'hi ha prou amb estar ocupat; les formigues també ho estan. La pregunta és: en què estem ocupats?",
+      "author": "Henry David Thoreau"
+    },
+    "births": [
+      {
+        "name": "Freddie Mercury",
+        "description": "Cantant i compositor britànic, vocalista de la banda de rock Queen. Considerat un dels millors vocalistes de la història del rock, és conegut per la seva potent veu i les seves èpiques actuacions en directe.",
+        "year": 1946
+      },
+      {
+        "name": "Jesse James",
+        "description": "Bandoler i foragitat americà del Far West, la vida del qual va ser objecte d'innombrables llegendes, novel·les, pel·lícules i sèries. Líder de la banda James-Younger, es va convertir en símbol del foragitat romàntic americà.",
+        "year": 1847
+      },
+      {
+        "name": "Raquel Welch",
+        "description": "Actriu i model americana, símbol sexual dels anys seixanta i setanta, especialment coneguda pel seu paper a Un milió d'anys abans de Crist (1966).",
+        "year": 1940
+      }
+    ],
+    "events": [
+      {
+        "title": "Massacre dels Jocs Olímpics de Munic",
+        "description": "Un comando del grup terrorista palestí Setembre Negre va prendre com a ostatges onze membres de l'equip olímpic israelià als Jocs de Munic. El rescat fallit va acabar amb la mort de tots els atletes israelians.",
+        "year": 1972
+      },
+      {
+        "title": "Mare Teresa rep el Premi Nobel de la Pau",
+        "description": "La religiosa albanesa Mare Teresa de Calcuta va rebre el Premi Nobel de la Pau pel seu treball humanitari entre els més pobres a l'Índia i arreu del món.",
+        "year": 1979
+      },
+      {
+        "title": "Llançament de la Voyager 1",
+        "description": "La NASA va llançar la sonda Voyager 1, que es convertiria en l'objecte fabricat per l'ésser humà que més lluny ha viatjat a l'espai, sortint del sistema solar el 2012.",
+        "year": 1977
+      }
+    ]
+  }
+}

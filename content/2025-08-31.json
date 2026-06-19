@@ -1,0 +1,291 @@
+{
+  "date": "2025-08-31",
+  "es": {
+    "saints": [
+      {
+        "name": "San Ramón Nonato",
+        "type": "Cardenal y Mártir",
+        "description": "Mercedario catalán (1204–1240) nacido por cesárea tras la muerte de su madre (de ahí 'no nato'). Misionero en el norte de África, se entregó como rehén para liberar a cautivos. Fue torturado y encadenado por predicar el Evangelio. Cardenal nombrado por Gregorio IX. Patrono de las parteras, los partos y los secretos."
+      },
+      {
+        "name": "San Aristides de Atenas",
+        "type": "Apologista",
+        "description": "Filósofo ateniense del siglo II que presentó al emperador Adriano una Apología del cristianismo, uno de los primeros textos apologéticos de la historia. Fue beatificado por la tradición aunque no figura en todos los calendarios."
+      },
+      {
+        "name": "Santa Aída",
+        "type": "Virgen",
+        "description": "Virgen irlandesa del siglo VI, discípula de San Brendan. Fundó un monasterio en Killeedy (Munster) y es venerada como una de las grandes santas de la Irlanda cristiana primitiva."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de Kirguistán",
+        "description": "Kirguistán celebra el 31 de agosto su independencia de la Unión Soviética, proclamada en 1991. Es la fiesta nacional del país centroasiático."
+      },
+      {
+        "name": "Aniversario de la muerte de Diana de Gales (1997)",
+        "description": "El 31 de agosto de 1997 falleció en un accidente de tráfico en el Túnel de l'Alma de París la princesa Diana de Gales, la 'princesa del pueblo', desencadenando una oleada de duelo global sin precedentes."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Soy la más afortunada de las personas vivas, porque lo que yo soñé de niña se ha hecho realidad.",
+      "author": "Grace Kelly",
+      "context": "La actriz americana (1929–1982) que se convirtió en princesa de Mónaco pronunció estas palabras en la cima de su vida. Grace Kelly murió el 14 de septiembre de 1982 a consecuencia de un accidente de tráfico, como Diana de Gales quince años después."
+    },
+    "motivationalQuote": {
+      "text": "Los sueños no tienen fecha de caducidad. Síguelos siempre.",
+      "author": "Anónimo"
+    },
+    "births": [
+      {
+        "name": "Caligula (Cayo Julio César Germánico)",
+        "description": "Tercer emperador romano (12 d.C.–41 d.C.). Su reinado comenzó con promesas de reformas pero derivó hacia una tiranía brutal. Fue asesinado por la guardia pretoriana en el año 41 d.C.",
+        "year": 12
+      },
+      {
+        "name": "Maria Montessori",
+        "description": "Médica y pedagoga italiana (1870–1952), creadora del método Montessori de educación, basado en el respeto a la autonomía y el ritmo natural de aprendizaje del niño. Primera mujer en graduarse en medicina en Italia.",
+        "year": 1870
+      },
+      {
+        "name": "Richard Gere",
+        "description": "Actor estadounidense conocido por sus papeles en Oficial y caballero, Pretty Woman y Chicago. Además, es un reconocido activista budista y defensor de los derechos humanos en el Tíbet.",
+        "year": 1949
+      }
+    ],
+    "events": [
+      {
+        "title": "Muerte de Diana de Gales",
+        "description": "En la madrugada del 31 de agosto de 1997, la princesa Diana de Gales murió en el Hospital de la Pitié-Salpêtrière de París a consecuencia de las heridas sufridas en un accidente de tráfico en el Túnel de l'Alma. Su muerte conmovió al mundo entero.",
+        "year": 1997
+      },
+      {
+        "title": "Kirguistán declara su independencia de la URSS",
+        "description": "El 31 de agosto de 1991, Kirguistán proclamó su independencia de la Unión Soviética, convirtiéndose en uno de los primeros estados de Asia Central en alcanzar la soberanía tras el fallido golpe de estado contra Gorbachov.",
+        "year": 1991
+      },
+      {
+        "title": "Primer vuelo transatlántico sin escalas de este a oeste",
+        "description": "El 1 de septiembre de 1930 (llegada), pero el 31 de agosto de 1930 partió de París hacia Nueva York Dieudonne Coste junto con Maurice Bellonte a bordo del Question Mark, siendo los primeros en volar sin escalas el Atlántico de Europa a América.",
+        "year": 1930
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Raymond Nonnatus",
+        "type": "Cardinal and Martyr",
+        "description": "Catalan Mercedarian (1204–1240) born by caesarean after his mother's death (hence 'non-natus', 'not born'). Missionary in North Africa, he gave himself as a hostage to free captives. He was tortured and chained for preaching the Gospel. Cardinal appointed by Gregory IX. Patron of midwives, childbirth, and secrets."
+      },
+      {
+        "name": "Saint Aristides of Athens",
+        "type": "Apologist",
+        "description": "2nd-century Athenian philosopher who presented Emperor Hadrian with an Apology for Christianity, one of the earliest apologetic texts in history. Beatified by tradition, though not listed in all calendars."
+      },
+      {
+        "name": "Saint Ita",
+        "type": "Virgin",
+        "description": "6th-century Irish virgin, disciple of Saint Brendan. She founded a monastery in Killeedy (Munster) and is venerated as one of the great saints of early Christian Ireland."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Independence Day of Kyrgyzstan",
+        "description": "Kyrgyzstan celebrates 31 August as its independence from the Soviet Union, proclaimed in 1991. It is the Central Asian country's national holiday."
+      },
+      {
+        "name": "Anniversary of the death of Princess Diana (1997)",
+        "description": "On 31 August 1997, Princess Diana of Wales, the 'people's princess', died in a car accident in the Pont de l'Alma tunnel in Paris, triggering an unprecedented wave of global mourning."
+      }
+    ],
+    "historicalQuote": {
+      "text": "I am the most fortunate person alive, because what I dreamed of as a child has come true.",
+      "author": "Grace Kelly",
+      "context": "The American actress (1929–1982) who became Princess of Monaco spoke these words at the height of her life. Grace Kelly died on 14 September 1982 following a car accident, as Diana of Wales would fifteen years later."
+    },
+    "motivationalQuote": {
+      "text": "Dreams have no expiry date. Always follow them.",
+      "author": "Anonymous"
+    },
+    "births": [
+      {
+        "name": "Caligula (Gaius Julius Caesar Germanicus)",
+        "description": "Third Roman Emperor (12 AD–41 AD). His reign began with promises of reform but descended into brutal tyranny. He was assassinated by the Praetorian Guard in 41 AD.",
+        "year": 12
+      },
+      {
+        "name": "Maria Montessori",
+        "description": "Italian physician and educator (1870–1952), creator of the Montessori method, based on respect for the child's autonomy and natural learning pace. The first woman to graduate in medicine in Italy.",
+        "year": 1870
+      },
+      {
+        "name": "Richard Gere",
+        "description": "American actor known for his roles in An Officer and a Gentleman, Pretty Woman, and Chicago. He is also a prominent Buddhist activist and advocate for human rights in Tibet.",
+        "year": 1949
+      }
+    ],
+    "events": [
+      {
+        "title": "Death of Princess Diana",
+        "description": "In the early hours of 31 August 1997, Princess Diana of Wales died at the Pitié-Salpêtrière Hospital in Paris from injuries sustained in a car accident in the Pont de l'Alma tunnel. Her death moved the entire world.",
+        "year": 1997
+      },
+      {
+        "title": "Kyrgyzstan declares independence from the USSR",
+        "description": "On 31 August 1991, Kyrgyzstan proclaimed its independence from the Soviet Union, becoming one of the first Central Asian states to achieve sovereignty following the failed coup against Gorbachev.",
+        "year": 1991
+      },
+      {
+        "title": "First non-stop transatlantic flight west to east — Question Mark",
+        "description": "On 31 August 1930, Dieudonné Costes and Maurice Bellonte departed Paris in the Question Mark, landing in New York on 1 September 1930 — the first non-stop transatlantic flight from Europe to America.",
+        "year": 1930
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Raimundo Nonato",
+        "type": "Cardeal e Mártir",
+        "description": "Mercedário catalão (1204–1240) nascido por cesariana após a morte da sua mãe (daí 'não-nato'). Missionário no norte de África, entregou-se como refém para libertar cativos. Foi torturado e acorrentado por pregar o Evangelho. Cardeal nomeado por Gregório IX. Padroeiro das parteiras, dos partos e dos segredos."
+      },
+      {
+        "name": "Santo Aristides de Atenas",
+        "type": "Apologista",
+        "description": "Filósofo ateniense do século II que apresentou ao imperador Adriano uma Apologia do cristianismo, um dos primeiros textos apologéticos da história. Beatificado pela tradição, embora não conste em todos os calendários."
+      },
+      {
+        "name": "Santa Ita",
+        "type": "Virgem",
+        "description": "Virgem irlandesa do século VI, discípula de São Brendan. Fundou um mosteiro em Killeedy (Munster) e é venerada como uma das grandes santas da Irlanda cristã primitiva."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência do Quirguistão",
+        "description": "O Quirguistão celebra o 31 de agosto como o dia da sua independência da União Soviética, proclamada em 1991. É o feriado nacional do país da Ásia Central."
+      },
+      {
+        "name": "Aniversário da morte de Diana de Gales (1997)",
+        "description": "Em 31 de agosto de 1997, a princesa Diana de Gales, a 'princesa do povo', morreu num acidente de trânsito no Túnel Pont de l'Alma em Paris, desencadeando uma onda de luto global sem precedentes."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Sou a pessoa mais afortunada viva, porque o que sonhei em criança tornou-se realidade.",
+      "author": "Grace Kelly",
+      "context": "A atriz americana (1929–1982) que se tornou Princesa do Mónaco pronunciou estas palavras no auge da sua vida. Grace Kelly morreu em 14 de setembro de 1982 na sequência de um acidente de trânsito, como Diana de Gales quinze anos depois."
+    },
+    "motivationalQuote": {
+      "text": "Os sonhos não têm prazo de validade. Siga-os sempre.",
+      "author": "Anônimo"
+    },
+    "births": [
+      {
+        "name": "Calígula (Caio Júlio César Germânico)",
+        "description": "Terceiro imperador romano (12 d.C.–41 d.C.). O seu reinado começou com promessas de reformas mas derivou para uma tirania brutal. Foi assassinado pela guarda pretoriana em 41 d.C.",
+        "year": 12
+      },
+      {
+        "name": "Maria Montessori",
+        "description": "Médica e pedagoga italiana (1870–1952), criadora do método Montessori de educação, baseado no respeito pela autonomia e o ritmo natural de aprendizagem da criança. Primeira mulher a graduar-se em medicina em Itália.",
+        "year": 1870
+      },
+      {
+        "name": "Richard Gere",
+        "description": "Ator americano conhecido pelos seus papéis em Oficial e Cavalheiro, Uma Linda Mulher e Chicago. É também um proeminente ativista budista e defensor dos direitos humanos no Tibet.",
+        "year": 1949
+      }
+    ],
+    "events": [
+      {
+        "title": "Morte da Princesa Diana",
+        "description": "Na madrugada de 31 de agosto de 1997, a princesa Diana de Gales morreu no Hospital Pitié-Salpêtrière de Paris em consequência de ferimentos sofridos num acidente de trânsito no Túnel Pont de l'Alma. A sua morte comoveu o mundo inteiro.",
+        "year": 1997
+      },
+      {
+        "title": "Quirguistão declara independência da URSS",
+        "description": "Em 31 de agosto de 1991, o Quirguistão proclamou a sua independência da União Soviética, tornando-se um dos primeiros estados da Ásia Central a alcançar a soberania após o falhado golpe de estado contra Gorbachev.",
+        "year": 1991
+      },
+      {
+        "title": "Primeiro voo transatlântico sem escalas de leste a oeste — Question Mark",
+        "description": "Em 31 de agosto de 1930, Dieudonné Costes e Maurice Bellonte partiram de Paris a bordo do Question Mark, chegando a Nova Iorque em 1 de setembro de 1930 — o primeiro voo transatlântico sem escalas da Europa para a América.",
+        "year": 1930
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Ramon Nonat",
+        "type": "Cardenal i Màrtir",
+        "description": "Mercedari català (1204–1240) nascut per cesària després de la mort de la seva mare (d'aquí 'no nat'). Missioner al nord d'Àfrica, es va lliurar com a ostatge per alliberar captius. Va ser torturat i encadenat per predicar l'Evangeli. Cardenal nomenat per Gregori IX. Patró de les llevadores, els parts i els secrets."
+      },
+      {
+        "name": "Sant Aristides d'Atenes",
+        "type": "Apologista",
+        "description": "Filòsof atenenc del segle II que va presentar a l'emperador Adrià una Apologia del cristianisme, un dels primers textos apologètics de la història. Beatificat per la tradició, tot i que no figura en tots els calendaris."
+      },
+      {
+        "name": "Santa Ita",
+        "type": "Verge",
+        "description": "Verge irlandesa del segle VI, deixebla de Sant Brendan. Va fundar un monestir a Killeedy (Munster) i és venerada com una de les grans santes de la Irlanda cristiana primitiva."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència de Kirguizstan",
+        "description": "Kirguizstan celebra el 31 d'agost la seva independència de la Unió Soviètica, proclamada el 1991. És la festa nacional del país centreasiàtic."
+      },
+      {
+        "name": "Aniversari de la mort de la Princesa Diana (1997)",
+        "description": "El 31 d'agost de 1997, la princesa Diana de Gal·les, la 'princesa del poble', va morir en un accident de trànsit al Túnel Pont de l'Alma de París, desencadenant una onada de dol global sense precedents."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Soc la persona més afortunada del món, perquè el que vaig somiar de nena s'ha fet realitat.",
+      "author": "Grace Kelly",
+      "context": "L'actriu americana (1929–1982) que es va convertir en Princesa de Mònaco va pronunciar aquestes paraules al cim de la seva vida. Grace Kelly va morir el 14 de setembre de 1982 a conseqüència d'un accident de trànsit, com Diana de Gal·les quinze anys després."
+    },
+    "motivationalQuote": {
+      "text": "Els somnis no tenen data de caducitat. Segueix-los sempre.",
+      "author": "Anònim"
+    },
+    "births": [
+      {
+        "name": "Calígula (Gai Juli Cèsar Germànic)",
+        "description": "Tercer emperador romà (12 d.C.–41 d.C.). El seu regnat va començar amb promeses de reformes però va derivar cap a una tirania brutal. Va ser assassinat per la guàrdia pretoriana l'any 41 d.C.",
+        "year": 12
+      },
+      {
+        "name": "Maria Montessori",
+        "description": "Metgessa i pedagoga italiana (1870–1952), creadora del mètode Montessori d'educació, basat en el respecte per l'autonomia i el ritme natural d'aprenentatge del nen. Primera dona que es va llicenciar en medicina a Itàlia.",
+        "year": 1870
+      },
+      {
+        "name": "Richard Gere",
+        "description": "Actor americà conegut pels seus papers a Oficial i cavaller, Pretty Woman i Chicago. És també un destacat activista budista i defensor dels drets humans al Tibet.",
+        "year": 1949
+      }
+    ],
+    "events": [
+      {
+        "title": "Mort de la Princesa Diana",
+        "description": "A la matinada del 31 d'agost de 1997, la princesa Diana de Gal·les va morir a l'Hospital Pitié-Salpêtrière de París a conseqüència de les ferides sofertes en un accident de trànsit al Túnel Pont de l'Alma. La seva mort va commoure el món sencer.",
+        "year": 1997
+      },
+      {
+        "title": "Kirguizstan declara la independència de l'URSS",
+        "description": "El 31 d'agost de 1991, Kirguizstan va proclamar la seva independència de la Unió Soviètica, convertint-se en un dels primers estats de l'Àsia Central a assolir la sobirania després del fallit cop d'estat contra Gorbatxov.",
+        "year": 1991
+      },
+      {
+        "title": "Primer vol transatlàntic sense escales d'est a oest — Question Mark",
+        "description": "El 31 d'agost de 1930, Dieudonné Costes i Maurice Bellonte van partir de París a bord del Question Mark, aterrant a Nova York l'1 de setembre de 1930 — el primer vol transatlàntic sense escales d'Europa a Amèrica.",
+        "year": 1930
+      }
+    ]
+  }
+}

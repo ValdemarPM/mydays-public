@@ -1,0 +1,291 @@
+{
+  "date": "2026-04-07",
+  "es": {
+    "saints": [
+      {
+        "name": "San Juan Bautista de la Salle",
+        "type": "Presbítero y Fundador",
+        "description": "Sacerdote francés del siglo XVII, fundador de los Hermanos de las Escuelas Cristianas (los Lasallistas), la primera congregación dedicada exclusivamente a la educación de los pobres en lengua vernácula. Revolucionó la pedagogía al introducir la enseñanza en grupo, los libros de texto uniformes y la formación docente sistematizada. Es patrono de los educadores."
+      },
+      {
+        "name": "San Hegesipo",
+        "type": "Padre de la Iglesia",
+        "description": "Escritor cristiano del siglo II, considerado el primer historiador de la Iglesia. Viajó a Roma y documentó la sucesión apostólica de los obispos, combatiendo las herejías gnósticas con argumentos históricos. Sus 'Memorias' (Hypomnemata), hoy perdidas, fueron ampliamente citadas por Eusebio de Cesarea."
+      },
+      {
+        "name": "Santa Epifania de Pavia",
+        "type": "Virgen",
+        "description": "Abadesa del siglo VI en Pavia (actual Italia), conocida por su sabiduría espiritual y por haber fundado un monasterio dedicado a la formación de jóvenes religiosas. Su veneración se mantiene viva en el norte de Italia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Salud",
+        "description": "Celebrado cada 7 de abril, aniversario de la fundación de la Organización Mundial de la Salud en 1948. Cada año se escoge un tema prioritario para concienciar sobre un aspecto de la salud global: desde enfermedades transmisibles hasta salud mental y acceso universal a la atención sanitaria."
+      },
+      {
+        "name": "Día de la Memoria de las Víctimas del Genocidio de Ruanda",
+        "description": "Proclamado por la ONU, este día recuerda el inicio del genocidio de 1994 en Ruanda, en el que fueron asesinadas entre 500.000 y 800.000 personas. Es un llamamiento a la solidaridad internacional y a la prevención de crímenes de odio."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La educación de los jóvenes es la base sobre la que debe construirse la sociedad futura.",
+      "author": "San Juan Bautista de la Salle",
+      "context": "San Juan Bautista de la Salle, cuya festividad se celebra hoy, fue el fundador de la educación popular moderna en Francia. Esta cita resume su convicción de que la educación es el principal motor de transformación social."
+    },
+    "motivationalQuote": {
+      "text": "La salud es la mayor riqueza, la satisfacción el mayor tesoro, la confianza el mejor de los amigos.",
+      "author": "Buda"
+    },
+    "births": [
+      {
+        "name": "William Wordsworth",
+        "description": "Poeta romántico inglés, uno de los fundadores del Romanticismo en lengua inglesa junto a Samuel Taylor Coleridge. Su obra 'Baladas líricas' (1798), escrita con Coleridge, marcó el inicio del período romántico. Fue Poeta Laureado del Reino Unido desde 1843 hasta su muerte en 1850.",
+        "year": "1770"
+      },
+      {
+        "name": "Francis Ford Coppola",
+        "description": "Director, productor y guionista estadounidense, uno de los grandes maestros del cine del siglo XX. Responsable de la trilogía de 'El Padrino' y de 'Apocalypse Now'. Ganó cinco Premios de la Academia y fue figura central del Nuevo Hollywood de los años 70.",
+        "year": "1939"
+      },
+      {
+        "name": "Russell Crowe",
+        "description": "Actor australiano-neozelandés ganador del Óscar al Mejor Actor por 'Gladiator' (2000). También destacó en 'A Beautiful Mind' y 'The Insider'. Conocido por su intensidad dramática y su predilección por roles físicamente exigentes.",
+        "year": "1964"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundación de la Organización Mundial de la Salud",
+        "description": "Entró en vigor la constitución de la Organización Mundial de la Salud (OMS), una agencia especializada de la ONU con sede en Ginebra. Su objetivo es alcanzar el grado más alto posible de salud para todos los pueblos. Esta fecha se celebra cada año como Día Mundial de la Salud.",
+        "year": "1948"
+      },
+      {
+        "title": "Muerte de Rafael Sanzio",
+        "description": "Murió en Roma el pintor Rafael Sanzio a los 37 años, el mismo día que según algunos historiadores había nacido (6 de abril de 1483). Dejó inconclusa su obra magna en el Vaticano. Su muerte fue lamentada como una pérdida incalculable para el arte del Renacimiento.",
+        "year": "1520"
+      },
+      {
+        "title": "Primer vuelo sin escalas de Europa a América",
+        "description": "Los aviadores alemanes Hermann Köhl, Ehrenfried Günther von Hünefeld y el irlandés James Fitzmaurice completaron el primer vuelo transatlántico sin escalas de este a oeste, desde Irlanda hasta Labrador (Canadá), en 36 horas 30 minutos a bordo del Bremen.",
+        "year": "1928"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint John Baptist de La Salle",
+        "type": "Priest and Founder",
+        "description": "A 17th-century French priest, founder of the Brothers of the Christian Schools (the De La Salle Brothers), the first congregation devoted exclusively to the education of the poor in the vernacular language. He revolutionised pedagogy by introducing group teaching, standardised textbooks, and systematic teacher training. He is the patron saint of educators."
+      },
+      {
+        "name": "Saint Hegesippus",
+        "type": "Church Father",
+        "description": "A 2nd-century Christian writer considered the first historian of the Church. He travelled to Rome and documented the apostolic succession of bishops, combating Gnostic heresies with historical arguments. His 'Memoirs' (Hypomnemata), now lost, were widely quoted by Eusebius of Caesarea."
+      },
+      {
+        "name": "Saint Epiphania of Pavia",
+        "type": "Virgin",
+        "description": "A 6th-century abbess in Pavia (present-day Italy), known for her spiritual wisdom and for founding a monastery devoted to the formation of young religious women. Her veneration remains alive in northern Italy."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Health Day",
+        "description": "Observed every 7 April, the anniversary of the founding of the World Health Organization in 1948. Each year a priority theme is chosen to raise awareness of a global health issue: from communicable diseases to mental health and universal access to healthcare."
+      },
+      {
+        "name": "Day of Remembrance for the Victims of the Rwandan Genocide",
+        "description": "Proclaimed by the UN, this day marks the beginning of the 1994 genocide in Rwanda, in which between 500,000 and 800,000 people were killed. It is a call for international solidarity and the prevention of hate crimes."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The education of young people is the foundation upon which future society must be built.",
+      "author": "Saint John Baptist de La Salle",
+      "context": "Saint John Baptist de La Salle, whose feast is celebrated today, was the founder of modern popular education in France. This quote encapsulates his conviction that education is the primary driver of social transformation."
+    },
+    "motivationalQuote": {
+      "text": "Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship.",
+      "author": "Buddha"
+    },
+    "births": [
+      {
+        "name": "William Wordsworth",
+        "description": "English Romantic poet and one of the founders of English-language Romanticism alongside Samuel Taylor Coleridge. His work 'Lyrical Ballads' (1798), written with Coleridge, marked the beginning of the Romantic period. He was Poet Laureate of the United Kingdom from 1843 until his death in 1850.",
+        "year": "1770"
+      },
+      {
+        "name": "Francis Ford Coppola",
+        "description": "American director, producer, and screenwriter, one of the great masters of 20th-century cinema. Responsible for 'The Godfather' trilogy and 'Apocalypse Now'. He won five Academy Awards and was a central figure in the New Hollywood movement of the 1970s.",
+        "year": "1939"
+      },
+      {
+        "name": "Russell Crowe",
+        "description": "Australian-New Zealand actor who won the Academy Award for Best Actor for 'Gladiator' (2000). He also starred in 'A Beautiful Mind' and 'The Insider'. Known for his dramatic intensity and preference for physically demanding roles.",
+        "year": "1964"
+      }
+    ],
+    "events": [
+      {
+        "title": "Founding of the World Health Organization",
+        "description": "The constitution of the World Health Organization (WHO), a specialised UN agency headquartered in Geneva, came into force. Its objective is to achieve the highest possible standard of health for all peoples. This date is marked each year as World Health Day.",
+        "year": "1948"
+      },
+      {
+        "title": "Death of Raphael Sanzio",
+        "description": "The painter Raphael Sanzio died in Rome at the age of 37, on the same day that some historians claim he was born (6 April 1483). He left his masterwork in the Vatican unfinished. His death was mourned as an incalculable loss for Renaissance art.",
+        "year": "1520"
+      },
+      {
+        "title": "First Non-Stop Europe-to-America Flight",
+        "description": "German aviators Hermann Köhl and Ehrenfried Günther von Hünefeld, along with Irishman James Fitzmaurice, completed the first non-stop transatlantic flight from east to west, from Ireland to Labrador (Canada), in 36 hours and 30 minutes aboard the Bremen.",
+        "year": "1928"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São João Batista de La Salle",
+        "type": "Presbítero e Fundador",
+        "description": "Sacerdote francês do século XVII, fundador dos Irmãos das Escolas Cristãs (os Lassalistas), a primeira congregação dedicada exclusivamente à educação dos pobres em língua vernácula. Revolucionou a pedagogia ao introduzir o ensino em grupo, os livros didáticos uniformes e a formação docente sistematizada. É patrono dos educadores."
+      },
+      {
+        "name": "São Hegesipo",
+        "type": "Padre da Igreja",
+        "description": "Escritor cristão do século II, considerado o primeiro historiador da Igreja. Viajou a Roma e documentou a sucessão apostólica dos bispos, combatendo as heresias gnósticas com argumentos históricos. As suas 'Memórias' (Hypomnemata), hoje perdidas, foram amplamente citadas por Eusébio de Cesareia."
+      },
+      {
+        "name": "Santa Epifânia de Pavia",
+        "type": "Virgem",
+        "description": "Abadessa do século VI em Pavia (atual Itália), conhecida pela sua sabedoria espiritual e por ter fundado um mosteiro dedicado à formação de jovens religiosas. A sua veneração permanece viva no norte da Itália."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Saúde",
+        "description": "Celebrado a cada 7 de abril, aniversário da fundação da Organização Mundial da Saúde em 1948. Cada ano é escolhido um tema prioritário para conscientizar sobre um aspeto da saúde global: desde doenças transmissíveis à saúde mental e ao acesso universal aos cuidados de saúde."
+      },
+      {
+        "name": "Dia de Recordação das Vítimas do Genocídio de Ruanda",
+        "description": "Proclamado pela ONU, este dia recorda o início do genocídio de 1994 em Ruanda, no qual foram assassinadas entre 500.000 e 800.000 pessoas. É um apelo à solidariedade internacional e à prevenção de crimes de ódio."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A educação dos jovens é a base sobre a qual a sociedade futura deve ser construída.",
+      "author": "São João Batista de La Salle",
+      "context": "São João Batista de La Salle, cuja festividade se celebra hoje, foi o fundador da educação popular moderna em França. Esta citação resume a sua convicção de que a educação é o principal motor de transformação social."
+    },
+    "motivationalQuote": {
+      "text": "A saúde é o maior dom, a satisfação a maior riqueza, a fidelidade o melhor dos relacionamentos.",
+      "author": "Buda"
+    },
+    "births": [
+      {
+        "name": "William Wordsworth",
+        "description": "Poeta romântico inglês, um dos fundadores do Romantismo em língua inglesa juntamente com Samuel Taylor Coleridge. A sua obra 'Baladas Líricas' (1798), escrita com Coleridge, marcou o início do período romântico. Foi Poeta Laureado do Reino Unido de 1843 até a sua morte em 1850.",
+        "year": "1770"
+      },
+      {
+        "name": "Francis Ford Coppola",
+        "description": "Diretor, produtor e roteirista americano, um dos grandes mestres do cinema do século XX. Responsável pela trilogia de 'O Poderoso Chefão' e de 'Apocalypse Now'. Ganhou cinco Prémios da Academia e foi figura central do Novo Hollywood dos anos 70.",
+        "year": "1939"
+      },
+      {
+        "name": "Russell Crowe",
+        "description": "Ator australiano-neozelandês vencedor do Oscar de Melhor Ator por 'Gladiador' (2000). Também se destacou em 'Uma Mente Brilhante' e 'O Informador'. Conhecido pela sua intensidade dramática e preferência por papéis fisicamente exigentes.",
+        "year": "1964"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundação da Organização Mundial da Saúde",
+        "description": "Entrou em vigor a constituição da Organização Mundial da Saúde (OMS), uma agência especializada da ONU com sede em Genebra. O seu objetivo é alcançar o mais alto nível possível de saúde para todos os povos. Esta data é celebrada cada ano como Dia Mundial da Saúde.",
+        "year": "1948"
+      },
+      {
+        "title": "Morte de Rafael Sanzio",
+        "description": "O pintor Rafael Sanzio morreu em Roma com 37 anos, no mesmo dia em que alguns historiadores afirmam que nasceu (6 de abril de 1483). Deixou inacabada a sua obra magna no Vaticano. A sua morte foi lamentada como uma perda incalculável para a arte do Renascimento.",
+        "year": "1520"
+      },
+      {
+        "title": "Primeiro voo sem escalas da Europa à América",
+        "description": "Os aviadores alemães Hermann Köhl e Ehrenfried Günther von Hünefeld, juntamente com o irlandês James Fitzmaurice, completaram o primeiro voo transatlântico sem escalas de leste a oeste, da Irlanda ao Labrador (Canadá), em 36 horas e 30 minutos a bordo do Bremen.",
+        "year": "1928"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Joan Baptista de La Salle",
+        "type": "Prevere i Fundador",
+        "description": "Sacerdot francès del segle XVII, fundador dels Germans de les Escoles Cristianes (els Lassalistes), la primera congregació dedicada exclusivament a l'educació dels pobres en llengua vernacla. Va revolucionar la pedagogia en introduir l'ensenyament en grup, els llibres de text uniformes i la formació docent sistematitzada. És patró dels educadors."
+      },
+      {
+        "name": "Sant Hegèsip",
+        "type": "Pare de l'Església",
+        "description": "Escriptor cristià del segle II, considerat el primer historiador de l'Església. Va viatjar a Roma i va documentar la successió apostòlica dels bisbes, combatent les heretgies gnòstiques amb arguments històrics. Les seves 'Memòries' (Hypomnemata), avui perdudes, van ser àmpliament citades per Eusebi de Cesarea."
+      },
+      {
+        "name": "Santa Epifania de Pavia",
+        "type": "Verge",
+        "description": "Abadessa del segle VI a Pavia (actual Itàlia), coneguda per la seva saviesa espiritual i per haver fundat un monestir dedicat a la formació de joves religioses. La seva veneració es manté viva al nord d'Itàlia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Salut",
+        "description": "Celebrat cada 7 d'abril, aniversari de la fundació de l'Organització Mundial de la Salut el 1948. Cada any s'escull un tema prioritari per conscienciar sobre un aspecte de la salut global: des de malalties transmissibles fins a salut mental i accés universal a l'atenció sanitària."
+      },
+      {
+        "name": "Dia del Record de les Víctimes del Genocidi de Ruanda",
+        "description": "Proclamat per l'ONU, aquest dia recorda l'inici del genocidi de 1994 a Ruanda, en el qual van ser assassinades entre 500.000 i 800.000 persones. És una crida a la solidaritat internacional i a la prevenció de crims d'odi."
+      }
+    ],
+    "historicalQuote": {
+      "text": "L'educació dels joves és la base sobre la qual s'ha de construir la societat futura.",
+      "author": "Sant Joan Baptista de La Salle",
+      "context": "Sant Joan Baptista de La Salle, la festivitat del qual se celebra avui, va ser el fundador de l'educació popular moderna a França. Aquesta cita resumeix la seva convicció que l'educació és el principal motor de transformació social."
+    },
+    "motivationalQuote": {
+      "text": "La salut és el major do, la satisfacció la major riquesa, la fidelitat la millor amistat.",
+      "author": "Buda"
+    },
+    "births": [
+      {
+        "name": "William Wordsworth",
+        "description": "Poeta romàntic anglès, un dels fundadors del Romanticisme en llengua anglesa juntament amb Samuel Taylor Coleridge. La seva obra 'Balades líriques' (1798), escrita amb Coleridge, va marcar l'inici del període romàntic. Va ser Poeta Laureà del Regne Unit des del 1843 fins a la seva mort el 1850.",
+        "year": "1770"
+      },
+      {
+        "name": "Francis Ford Coppola",
+        "description": "Director, productor i guionista americà, un dels grans mestres del cinema del segle XX. Responsable de la trilogia d'«El Padrí» i d'«Apocalypse Now». Va guanyar cinc Premis de l'Acadèmia i va ser figura central del Nou Hollywood dels anys 70.",
+        "year": "1939"
+      },
+      {
+        "name": "Russell Crowe",
+        "description": "Actor australià-neozelandès guanyador de l'Òscar al Millor Actor per 'Gladiator' (2000). També va destacar a 'Una ment meravellosa' i 'The Insider'. Conegut per la seva intensitat dramàtica i la seva preferència per papers físicament exigents.",
+        "year": "1964"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundació de l'Organització Mundial de la Salut",
+        "description": "Va entrar en vigor la constitució de l'Organització Mundial de la Salut (OMS), una agència especialitzada de l'ONU amb seu a Ginebra. El seu objectiu és assolir el grau més alt possible de salut per a tots els pobles. Aquesta data se celebra cada any com a Dia Mundial de la Salut.",
+        "year": "1948"
+      },
+      {
+        "title": "Mort de Rafael Sanzio",
+        "description": "El pintor Rafael Sanzio va morir a Roma als 37 anys, el mateix dia que alguns historiadors afirmen que havia nascut (6 d'abril de 1483). Va deixar inacabada la seva obra magna al Vaticà. La seva mort va ser lamentada com una pèrdua incalculable per a l'art del Renaixement.",
+        "year": "1520"
+      },
+      {
+        "title": "Primer vol sense escales d'Europa a Amèrica",
+        "description": "Els aviadors alemanys Hermann Köhl i Ehrenfried Günther von Hünefeld, juntament amb l'irlandès James Fitzmaurice, van completar el primer vol transatlàntic sense escales d'est a oest, des d'Irlanda fins al Labrador (Canadà), en 36 hores i 30 minuts a bord del Bremen.",
+        "year": "1928"
+      }
+    ]
+  }
+}

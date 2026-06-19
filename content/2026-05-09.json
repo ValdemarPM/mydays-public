@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-09",
+  "es": {
+    "saints": [
+      {
+        "name": "San Gregorio de Nazianzo",
+        "type": "Obispo y Doctor de la Iglesia",
+        "description": "Teólogo y poeta griego del siglo IV, uno de los Tres Grandes Capadocios junto con San Basilio y San Gregorio de Nisa. Fue brevemente obispo de Constantinopla y presidió el Primer Concilio de Constantinopla (381). Sus discursos sobre la Trinidad le valieron el título de 'el Teólogo'."
+      },
+      {
+        "name": "San Pacomio",
+        "type": "Abad",
+        "description": "Monje egipcio del siglo IV, fundador del cenobitismo (vida monástica comunitaria). Creó las primeras reglas escritas para la vida monástica, que influyeron decisivamente en toda la tradición monástica posterior de Oriente y Occidente."
+      },
+      {
+        "name": "Santa Catalina de Bolonia",
+        "type": "Virgen",
+        "description": "Clarisa italiana del siglo XV, mística y artista. Conocida por sus escritos espirituales y sus iluminaciones de manuscritos, es patrona de los artistas. Fue canonizada por Clemente XI en 1712."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de Europa (Unión Europea)",
+        "description": "El 9 de mayo de 1950, el ministro francés Robert Schuman propuso la creación de una comunidad europea del carbón y el acero, el primer paso hacia la actual Unión Europea. Este día se celebra como símbolo de la paz y la unidad entre los pueblos europeos."
+      },
+      {
+        "name": "Día Nacional de Rusia",
+        "description": "Rusia celebra el Día de la Victoria sobre la Alemania nazi (el armisticio entró en vigor a las 00:01 hora de Moscú del 9 de mayo de 1945). Es la festividad más importante del calendario civil ruso."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Europa no se hará de una vez ni en una obra de conjunto: se hará mediante realizaciones concretas, que creen primero una solidaridad de hecho.",
+      "author": "Robert Schuman"
+    },
+    "motivationalQuote": {
+      "text": "La unidad es la fuerza; la división es la debilidad.",
+      "author": "Aesop"
+    },
+    "births": [
+      {
+        "name": "Friedrich Schiller",
+        "description": "Poeta, dramaturgo y filósofo alemán del clasicismo y el Sturm und Drang. Autor de obras como Los bandidos, Don Carlos y Guillermo Tell, y del poema 'Oda a la alegría', que Beethoven musicalizó en su Novena Sinfonía.",
+        "year": "1759"
+      },
+      {
+        "name": "Billy Joel",
+        "description": "Cantante, compositor y pianista estadounidense apodado 'el Hombre del Piano'. Con más de 150 millones de álbumes vendidos, sus éxitos Piano Man, We Didn't Start the Fire y It's Still Rock and Roll to Me son himnos generacionales.",
+        "year": "1949"
+      },
+      {
+        "name": "Candice Bergen",
+        "description": "Actriz y modelo americana, conocida por su papel de Murphy Brown en la serie televisiva homónima, que le valió cinco Emmy. También es hija del famoso ventrílocuo Edgar Bergen.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Declaración Schuman",
+        "description": "El ministro de Asuntos Exteriores francés Robert Schuman propuso crear la Comunidad Europea del Carbón y del Acero, el primer paso concreto hacia la integración europea. La declaración es considerada el acta fundacional de la Unión Europea.",
+        "year": "1950"
+      },
+      {
+        "title": "Primera transmisión de televisión en color en EE. UU.",
+        "description": "La CBS realizó la primera transmisión televisiva en color de la historia de los Estados Unidos desde Nueva York, aunque los televisores en color aún no estaban disponibles para el gran público.",
+        "year": "1950"
+      },
+      {
+        "title": "Argentina recupera las Malvinas (efímero)",
+        "description": "Nota: este evento es del 2 de abril de 1982. En su lugar: El explorador Juan Ponce de León llegó a la actual Florida (EE. UU.) y la reclamó para la Corona española, siendo el primer europeo en pisar ese territorio.",
+        "year": "1513"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Gregory of Nazianzus",
+        "type": "Bishop and Doctor of the Church",
+        "description": "4th-century Greek theologian and poet, one of the Three Great Cappadocians alongside Saint Basil and Saint Gregory of Nyssa. He was briefly Bishop of Constantinople and presided over the First Council of Constantinople (381). His discourses on the Trinity earned him the title 'the Theologian'."
+      },
+      {
+        "name": "Saint Pachomius",
+        "type": "Abbot",
+        "description": "4th-century Egyptian monk, founder of cenobitism (communal monastic life). He created the first written rules for monastic life, which decisively influenced all subsequent monastic tradition in both East and West."
+      },
+      {
+        "name": "Saint Catherine of Bologna",
+        "type": "Virgin",
+        "description": "15th-century Italian Poor Clare, mystic, and artist. Known for her spiritual writings and manuscript illuminations, she is the patron saint of artists. She was canonised by Clement XI in 1712."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Europe Day (European Union)",
+        "description": "On 9 May 1950, French Foreign Minister Robert Schuman proposed the creation of a European community for coal and steel, the first step towards today's European Union. This day is celebrated as a symbol of peace and unity among European peoples."
+      },
+      {
+        "name": "Victory Day in Russia",
+        "description": "Russia celebrates Victory Day over Nazi Germany (the armistice came into force at 00:01 Moscow time on 9 May 1945). It is the most important public holiday in the Russian civil calendar."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Europe will not be made all at once, or according to a single plan. It will be built through concrete achievements which first create a de facto solidarity.",
+      "author": "Robert Schuman"
+    },
+    "motivationalQuote": {
+      "text": "In union there is strength; in division there is weakness.",
+      "author": "Aesop"
+    },
+    "births": [
+      {
+        "name": "Friedrich Schiller",
+        "description": "German poet, playwright, and philosopher of Classicism and Sturm und Drang. Author of works such as The Robbers, Don Carlos, and William Tell, and of the poem 'Ode to Joy', which Beethoven set to music in his Ninth Symphony.",
+        "year": "1759"
+      },
+      {
+        "name": "Billy Joel",
+        "description": "American singer, songwriter, and pianist nicknamed 'the Piano Man'. With more than 150 million albums sold, his hits Piano Man, We Didn't Start the Fire, and It's Still Rock and Roll to Me are generational anthems.",
+        "year": "1949"
+      },
+      {
+        "name": "Candice Bergen",
+        "description": "American actress and model, known for her role as Murphy Brown in the eponymous television series, which earned her five Emmy Awards. She is also the daughter of the famous ventriloquist Edgar Bergen.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Schuman Declaration",
+        "description": "French Foreign Minister Robert Schuman proposed creating the European Coal and Steel Community, the first concrete step towards European integration. The declaration is considered the founding charter of the European Union.",
+        "year": "1950"
+      },
+      {
+        "title": "First Colour Television Broadcast in the USA",
+        "description": "CBS made the first colour television broadcast in US history from New York, although colour televisions were not yet available to the general public.",
+        "year": "1950"
+      },
+      {
+        "title": "Juan Ponce de León Reaches Florida",
+        "description": "Explorer Juan Ponce de León reached present-day Florida (USA) and claimed it for the Spanish Crown, becoming the first European to set foot on that territory.",
+        "year": "1513"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Gregório de Nazianzo",
+        "type": "Bispo e Doutor da Igreja",
+        "description": "Teólogo e poeta grego do século IV, um dos Três Grandes Capadócios ao lado de São Basílio e São Gregório de Nissa. Foi brevemente bispo de Constantinopla e presidiu o Primeiro Concílio de Constantinopla (381). Seus discursos sobre a Trindade lhe valeram o título de 'o Teólogo'."
+      },
+      {
+        "name": "São Pacômio",
+        "type": "Abade",
+        "description": "Monge egípcio do século IV, fundador do cenobitismo (vida monástica comunitária). Criou as primeiras regras escritas para a vida monástica, que influenciaram decisivamente toda a tradição monástica posterior do Oriente e do Ocidente."
+      },
+      {
+        "name": "Santa Catarina de Bolonha",
+        "type": "Virgem",
+        "description": "Clarissa italiana do século XV, mística e artista. Conhecida por seus escritos espirituais e suas iluminuras de manuscritos, é padroeira dos artistas. Foi canonizada por Clemente XI em 1712."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Europa (União Europeia)",
+        "description": "Em 9 de maio de 1950, o ministro das Relações Exteriores da França, Robert Schuman, propôs a criação de uma comunidade europeia do carvão e do aço, o primeiro passo em direção à atual União Europeia. Este dia é celebrado como símbolo da paz e da unidade entre os povos europeus."
+      },
+      {
+        "name": "Dia da Vitória na Rússia",
+        "description": "A Rússia celebra o Dia da Vitória sobre a Alemanha nazista (o armistício entrou em vigor à 00h01 de Moscou de 9 de maio de 1945). É o feriado mais importante do calendário civil russo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A Europa não se fará de uma vez, nem através de um conjunto único. Ela se fará mediante realizações concretas, que criem primeiro uma solidariedade de fato.",
+      "author": "Robert Schuman"
+    },
+    "motivationalQuote": {
+      "text": "Na união está a força; na divisão, a fraqueza.",
+      "author": "Esopo"
+    },
+    "births": [
+      {
+        "name": "Friedrich Schiller",
+        "description": "Poeta, dramaturgo e filósofo alemão do Classicismo e do Sturm und Drang. Autor de obras como Os Salteadores, Dom Carlos e Guilherme Tell, e do poema 'Ode à Alegria', musicado por Beethoven em sua Nona Sinfonia.",
+        "year": "1759"
+      },
+      {
+        "name": "Billy Joel",
+        "description": "Cantor, compositor e pianista americano apelidado de 'o Piano Man'. Com mais de 150 milhões de álbuns vendidos, seus sucessos Piano Man, We Didn't Start the Fire e It's Still Rock and Roll to Me são hinos geracionais.",
+        "year": "1949"
+      },
+      {
+        "name": "Candice Bergen",
+        "description": "Atriz e modelo americana, conhecida por seu papel de Murphy Brown na série televisiva homônima, que lhe rendeu cinco Emmys. É também filha do famoso ventrílocuo Edgar Bergen.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Declaração Schuman",
+        "description": "O ministro das Relações Exteriores da França, Robert Schuman, propôs a criação da Comunidade Europeia do Carvão e do Aço, o primeiro passo concreto em direção à integração europeia. A declaração é considerada o ato fundador da União Europeia.",
+        "year": "1950"
+      },
+      {
+        "title": "Primeira transmissão de televisão em cores nos EUA",
+        "description": "A CBS realizou a primeira transmissão televisiva em cores da história dos Estados Unidos a partir de Nova York, embora os televisores coloridos ainda não estivessem disponíveis para o grande público.",
+        "year": "1950"
+      },
+      {
+        "title": "Juan Ponce de León chega à Flórida",
+        "description": "O explorador Juan Ponce de León chegou à atual Flórida (EUA) e a reivindicou para a Coroa Espanhola, tornando-se o primeiro europeu a pisar naquele território.",
+        "year": "1513"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Gregori de Nazianz",
+        "type": "Bisbe i Doctor de l'Església",
+        "description": "Teòleg i poeta grec del segle IV, un dels Tres Grans Capadocis juntament amb Sant Basili i Sant Gregori de Nissa. Va ser breument bisbe de Constantinoble i va presidir el Primer Concili de Constantinoble (381). Els seus discursos sobre la Trinitat li van valer el títol de 'el Teòleg'."
+      },
+      {
+        "name": "Sant Pacomio",
+        "type": "Abat",
+        "description": "Monjo egipci del segle IV, fundador del cenobitisme (vida monàstica comunitària). Va crear les primeres regles escrites per a la vida monàstica, que van influir decisivament en tota la tradició monàstica posterior d'Orient i Occident."
+      },
+      {
+        "name": "Santa Caterina de Bolonya",
+        "type": "Verge",
+        "description": "Clarissa italiana del segle XV, mística i artista. Coneguda pels seus escrits espirituals i les seves il·luminacions de manuscrits, és patrona dels artistes. Va ser canonitzada per Climent XI el 1712."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia d'Europa (Unió Europea)",
+        "description": "El 9 de maig de 1950, el ministre d'Afers Exteriors francès Robert Schuman va proposar la creació d'una comunitat europea del carbó i de l'acer, el primer pas cap a l'actual Unió Europea. Aquest dia se celebra com a símbol de la pau i la unitat entre els pobles europeus."
+      },
+      {
+        "name": "Dia de la Victòria a Rússia",
+        "description": "Rússia celebra el Dia de la Victòria sobre l'Alemanya nazi (l'armistici va entrar en vigor a les 00.01 hora de Moscou del 9 de maig de 1945). És la festivitat més important del calendari civil rus."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Europa no es farà de cop ni seguint un pla únic. Es construirà a través de realitzacions concretes que creïn primer una solidaritat de fet.",
+      "author": "Robert Schuman"
+    },
+    "motivationalQuote": {
+      "text": "En la unió hi ha la força; en la divisió, la feblesa.",
+      "author": "Esop"
+    },
+    "births": [
+      {
+        "name": "Friedrich Schiller",
+        "description": "Poeta, dramaturg i filòsof alemany del Classicisme i l'Sturm und Drang. Autor d'obres com Els bandolers, Don Carlos i Guillem Tell, i del poema 'Oda a l'alegria', que Beethoven va musicar a la seva Novena Simfonia.",
+        "year": "1759"
+      },
+      {
+        "name": "Billy Joel",
+        "description": "Cantant, compositor i pianista americà apodiat 'el Piano Man'. Amb més de 150 milions d'àlbums venuts, els seus èxits Piano Man, We Didn't Start the Fire i It's Still Rock and Roll to Me són himnes generacionals.",
+        "year": "1949"
+      },
+      {
+        "name": "Candice Bergen",
+        "description": "Actriu i model americana, coneguda pel seu paper de Murphy Brown a la sèrie televisiva homònima, que li va valer cinc Emmys. És també filla del famós ventriloquiste Edgar Bergen.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Declaració Schuman",
+        "description": "El ministre d'Afers Exteriors de França, Robert Schuman, va proposar la creació de la Comunitat Europea del Carbó i de l'Acer, el primer pas concret cap a la integració europea. La declaració és considerada l'acta fundacional de la Unió Europea.",
+        "year": "1950"
+      },
+      {
+        "title": "Primera emissió de televisió en color als EUA",
+        "description": "La CBS va realitzar la primera emissió televisiva en color de la història dels Estats Units des de Nova York, tot i que els televisors en color encara no estaven disponibles per al gran públic.",
+        "year": "1950"
+      },
+      {
+        "title": "Juan Ponce de León arriba a Florida",
+        "description": "L'explorador Juan Ponce de León va arribar a l'actual Florida (EUA) i la va reclamar per a la Corona espanyola, essent el primer europeu a trepitjar aquell territori.",
+        "year": "1513"
+      }
+    ]
+  }
+}

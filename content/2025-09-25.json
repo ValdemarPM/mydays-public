@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-25",
+  "es": {
+    "saints": [
+      {
+        "name": "San Fermín de Amiens",
+        "type": "Obispo y Mártir",
+        "description": "Primer obispo de Amiens (Francia) en el siglo III, hijo de un senador romano de Pamplona convertido al cristianismo. Fue decapitado por su fe y es el patrono principal de Navarra y de Pamplona. Su festividad el 7 de julio es la más popular (Sanfermines)."
+      },
+      {
+        "name": "San Cleopas",
+        "type": "Discípulo",
+        "description": "Discípulo de Jesucristo que, junto a otro compañero, encontró al Resucitado en el camino de Emaús el día de Pascua, según el Evangelio de Lucas. Venerado como mártir en la tradición oriental."
+      },
+      {
+        "name": "San Herculano de Perugia",
+        "type": "Obispo y Mártir",
+        "description": "Obispo de Perugia del siglo VI que fue decapitado por los ostrogodos de Totila durante el asedio de Perugia en 549. Es el patrono de Perugia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Farmacéutico",
+        "description": "Proclamado por la Federación Internacional Farmacéutica (FIP) en 2009, se celebra el 25 de septiembre para reconocer el papel de los farmacéuticos en el cuidado de la salud pública en todo el mundo."
+      },
+      {
+        "name": "Día Nacional de China",
+        "description": "La República Popular China celebra su Día Nacional el 1 de octubre, pero el 25 de septiembre se realizan actos preparatorios en muchas ciudades del país."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La salud es el mayor regalo, la satisfacción la mayor riqueza.",
+      "author": "Buda (Siddhartha Gautama)",
+      "context": "El fundador del budismo expresó a través de sus enseñanzas la importancia de cuidar el cuerpo y la mente como base del bienestar. Esta frase resume el principio budista de la salud como fundamento de la vida digna."
+    },
+    "motivationalQuote": {
+      "text": "Mantente hambriento, mantente imprudente.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "William Faulkner",
+        "description": "Novelista americano Premio Nobel de Literatura en 1949, máximo representante del modernismo literario del Sur americano. Sus novelas El sonido y la furia (1929) y Mientras agonizo (1930) son obras maestras de la literatura del siglo XX.",
+        "year": 1897
+      },
+      {
+        "name": "Christopher Reeve",
+        "description": "Actor americano internacionalmente conocido por su papel de Superman en la saga cinematográfica (1978–1987). Quedó tetrapléjico tras una caída de caballo en 1995 y dedicó el resto de su vida a la investigación sobre la lesión medular.",
+        "year": 1952
+      },
+      {
+        "name": "Will Smith",
+        "description": "Actor, productor y rapero americano, uno de los actores más taquilleros de la historia. Conocido por la saga Men in Black, Ali (2001) y El método Williams (2021), por el que ganó el Oscar.",
+        "year": 1968
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer vuelo supersónico de pasajeros del Concorde",
+        "description": "El avión supersónico Concorde realizó su primer vuelo de pasajeros a velocidad supersónica, cruzando el Atlántico en menos de cuatro horas y abriendo una nueva era en la aviación comercial de larga distancia.",
+        "year": 1973
+      },
+      {
+        "title": "Se aprueba la Declaración Universal de los Derechos Humanos",
+        "description": "La Asamblea General de la ONU aprobó la Declaración Universal de los Derechos Humanos, el documento de referencia más importante en la historia de los derechos humanos a escala mundial.",
+        "year": 1948
+      },
+      {
+        "title": "Inauguración del Museo del Louvre como museo público",
+        "description": "El Palacio del Louvre fue inaugurado como museo público en París, abriendo sus puertas a ciudadanos de todos los estamentos sociales y convirtiéndose en el germen del museo más visitado del mundo.",
+        "year": 1793
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Fermin of Amiens",
+        "type": "Bishop and Martyr",
+        "description": "First Bishop of Amiens (France) in the 3rd century, son of a Roman senator from Pamplona who converted to Christianity. He was beheaded for his faith and is the principal patron of Navarre and Pamplona. His feast on 7 July is more widely celebrated (San Fermín festival)."
+      },
+      {
+        "name": "Saint Cleopas",
+        "type": "Disciple",
+        "description": "A disciple of Jesus Christ who, together with a companion, encountered the Risen Lord on the road to Emmaus on Easter Sunday, according to the Gospel of Luke. Venerated as a martyr in the Eastern tradition."
+      },
+      {
+        "name": "Saint Herculanus of Perugia",
+        "type": "Bishop and Martyr",
+        "description": "A 6th-century Bishop of Perugia who was beheaded by the Ostrogoths of Totila during the siege of Perugia in 549. He is the patron saint of Perugia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Pharmacist Day",
+        "description": "Proclaimed by the International Pharmaceutical Federation (FIP) in 2009, celebrated on 25 September to recognise the role of pharmacists in public health care worldwide."
+      },
+      {
+        "name": "Chinese National Day preparations",
+        "description": "The People's Republic of China celebrates its National Day on 1 October, but preparatory events take place across the country from 25 September."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Health is the greatest gift, contentment the greatest wealth.",
+      "author": "Buddha (Siddhartha Gautama)",
+      "context": "The founder of Buddhism expressed through his teachings the importance of caring for body and mind as the basis of well-being. This saying summarises the Buddhist principle of health as the foundation of a dignified life."
+    },
+    "motivationalQuote": {
+      "text": "Stay hungry, stay foolish.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "William Faulkner",
+        "description": "American novelist and Nobel Prize in Literature winner in 1949, the foremost representative of literary modernism in the American South. His novels The Sound and the Fury (1929) and As I Lay Dying (1930) are masterpieces of 20th-century literature.",
+        "year": 1897
+      },
+      {
+        "name": "Christopher Reeve",
+        "description": "American actor internationally known for his role as Superman in the film franchise (1978–1987). He was left quadriplegic after a horse-riding accident in 1995 and dedicated the rest of his life to spinal cord injury research.",
+        "year": 1952
+      },
+      {
+        "name": "Will Smith",
+        "description": "American actor, producer, and rapper, one of the highest-grossing actors in history. Known for the Men in Black franchise, Ali (2001), and King Richard (2021), for which he won the Oscar.",
+        "year": 1968
+      }
+    ],
+    "events": [
+      {
+        "title": "First supersonic passenger flight of Concorde",
+        "description": "The supersonic Concorde aircraft made its first supersonic passenger flight, crossing the Atlantic in under four hours and opening a new era in long-haul commercial aviation.",
+        "year": 1973
+      },
+      {
+        "title": "Universal Declaration of Human Rights approved",
+        "description": "The UN General Assembly adopted the Universal Declaration of Human Rights, the most important reference document in the history of human rights on a global scale.",
+        "year": 1948
+      },
+      {
+        "title": "Louvre Museum opens as a public museum",
+        "description": "The Louvre Palace was inaugurated as a public museum in Paris, opening its doors to citizens of all social classes and becoming the seed of what would become the most visited museum in the world.",
+        "year": 1793
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Firmino de Amiens",
+        "type": "Bispo e Mártir",
+        "description": "Primeiro bispo de Amiens (França) no século III, filho de um senador romano de Pamplona convertido ao cristianismo. Foi decapitado pela sua fé e é o patrono principal da Navarra e de Pamplona. A sua festa a 7 de julho é mais popular (festival de San Fermín)."
+      },
+      {
+        "name": "São Clopas",
+        "type": "Discípulo",
+        "description": "Discípulo de Jesus Cristo que, juntamente com um companheiro, encontrou o Ressuscitado no caminho de Emaús no dia de Páscoa, segundo o Evangelho de Lucas. Venerado como mártir na tradição oriental."
+      },
+      {
+        "name": "São Herculano de Perugia",
+        "type": "Bispo e Mártir",
+        "description": "Bispo de Perugia do século VI que foi decapitado pelos ostrogodos de Totila durante o cerco de Perugia em 549. É o patrono de Perugia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial do Farmacêutico",
+        "description": "Proclamado pela Federação Internacional Farmacêutica (FIP) em 2009, celebrado a 25 de setembro para reconhecer o papel dos farmacêuticos nos cuidados de saúde pública em todo o mundo."
+      },
+      {
+        "name": "Preparações para o Dia Nacional da China",
+        "description": "A República Popular da China celebra o seu Dia Nacional a 1 de outubro, mas eventos preparatórios decorrem em todo o país a partir de 25 de setembro."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A saúde é o maior dom, a satisfação a maior riqueza.",
+      "author": "Buda (Sidarta Gautama)",
+      "context": "O fundador do budismo expressou através dos seus ensinamentos a importância de cuidar o corpo e a mente como base do bem-estar. Esta frase resume o princípio budista da saúde como fundamento de uma vida digna."
+    },
+    "motivationalQuote": {
+      "text": "Continua com fome, continua ingénuo.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "William Faulkner",
+        "description": "Romancista americano e vencedor do Prêmio Nobel de Literatura em 1949, o maior representante do modernismo literário do Sul americano. Os seus romances O Som e a Fúria (1929) e Enquanto Agonizo (1930) são obras-primas da literatura do século XX.",
+        "year": 1897
+      },
+      {
+        "name": "Christopher Reeve",
+        "description": "Ator americano internacionalmente conhecido pelo seu papel de Super-Homem na saga cinematográfica (1978–1987). Ficou tetraplégico após uma queda de cavalo em 1995 e dedicou o resto da sua vida à investigação sobre a lesão medular.",
+        "year": 1952
+      },
+      {
+        "name": "Will Smith",
+        "description": "Ator, produtor e rapper americano, um dos atores com maior bilheteria da história. Conhecido pela saga Men in Black, Ali (2001) e King Richard (2021), pelo qual ganhou o Oscar.",
+        "year": 1968
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeiro voo supersónico de passageiros do Concorde",
+        "description": "O avião supersónico Concorde realizou o seu primeiro voo de passageiros a velocidade supersónica, cruzando o Atlântico em menos de quatro horas e abrindo uma nova era na aviação comercial de longa distância.",
+        "year": 1973
+      },
+      {
+        "title": "Declaração Universal dos Direitos Humanos aprovada",
+        "description": "A Assembleia Geral da ONU adotou a Declaração Universal dos Direitos Humanos, o documento de referência mais importante da história dos direitos humanos à escala mundial.",
+        "year": 1948
+      },
+      {
+        "title": "Museu do Louvre inaugurado como museu público",
+        "description": "O Palácio do Louvre foi inaugurado como museu público em Paris, abrindo as suas portas a cidadãos de todas as classes sociais e tornando-se a semente do museu mais visitado do mundo.",
+        "year": 1793
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Fermí d'Amiens",
+        "type": "Bisbe i Màrtir",
+        "description": "Primer bisbe d'Amiens (França) al segle III, fill d'un senador romà de Pamplona convertit al cristianisme. Va ser decapitat per la seva fe i és el patró principal de Navarra i de Pamplona. La seva festa el 7 de juliol és la més popular (Sanfermines)."
+      },
+      {
+        "name": "Sant Cleofàs",
+        "type": "Deixeble",
+        "description": "Deixeble de Jesucrist que, juntament amb un company, va trobar el Ressuscitat pel camí d'Emaús el dia de Pasqua, segons l'Evangeli de Lluc. Venerat com a màrtir en la tradició oriental."
+      },
+      {
+        "name": "Sant Herculà de Perusa",
+        "type": "Bisbe i Màrtir",
+        "description": "Bisbe de Perusa del segle VI que va ser decapitat pels ostrogots de Tòtila durant el setge de Perusa el 549. És el patró de Perusa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial del Farmacèutic",
+        "description": "Proclamat per la Federació Internacional Farmacèutica (FIP) el 2009, celebrat el 25 de setembre per reconèixer el paper dels farmacèutics en l'atenció sanitària pública a tot el món."
+      },
+      {
+        "name": "Preparatius per al Dia Nacional de la Xina",
+        "description": "La República Popular de la Xina celebra el seu Dia Nacional l'1 d'octubre, però els actes preparatoris es realitzen arreu del país a partir del 25 de setembre."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La salut és el major do, la satisfacció la major riquesa.",
+      "author": "Buda (Siddhartha Gautama)",
+      "context": "El fundador del budisme va expressar a través dels seus ensenyaments la importància de cuidar el cos i la ment com a base del benestar. Aquesta frase resumeix el principi budista de la salut com a fonament d'una vida digna."
+    },
+    "motivationalQuote": {
+      "text": "Mantingues-te famolenc, mantingues-te imprudent.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "William Faulkner",
+        "description": "Novel·lista americà i Premi Nobel de Literatura el 1949, màxim representant del modernisme literari del Sud americà. Les seves novel·les El soroll i la fúria (1929) i Mentre agonitzo (1930) són obres mestres de la literatura del segle XX.",
+        "year": 1897
+      },
+      {
+        "name": "Christopher Reeve",
+        "description": "Actor americà internacionalment conegut pel seu paper de Superman a la saga cinematogràfica (1978–1987). Va quedar tetraplègic després d'una caiguda de cavall el 1995 i va dedicar la resta de la seva vida a la investigació sobre la lesió medul·lar.",
+        "year": 1952
+      },
+      {
+        "name": "Will Smith",
+        "description": "Actor, productor i rapper americà, un dels actors amb major recaptació de la història. Conegut per la saga Men in Black, Ali (2001) i El mètode Williams (2021), pel qual va guanyar l'Oscar.",
+        "year": 1968
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer vol supersònic de passatgers del Concorde",
+        "description": "L'avió supersònic Concorde va realitzar el seu primer vol de passatgers a velocitat supersònica, creuant l'Atlàntic en menys de quatre hores i obrint una nova era en l'aviació comercial de llarga distància.",
+        "year": 1973
+      },
+      {
+        "title": "Declaració Universal dels Drets Humans aprovada",
+        "description": "L'Assemblea General de l'ONU va adoptar la Declaració Universal dels Drets Humans, el document de referència més important en la història dels drets humans a escala mundial.",
+        "year": 1948
+      },
+      {
+        "title": "El Museu del Louvre inaugurat com a museu públic",
+        "description": "El Palau del Louvre va ser inaugurat com a museu públic a París, obrint les seves portes a ciutadans de totes les classes socials i convertint-se en el germen del museu més visitat del món.",
+        "year": 1793
+      }
+    ]
+  }
+}

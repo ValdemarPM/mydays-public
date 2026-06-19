@@ -1,0 +1,271 @@
+{
+  "date": "2025-12-02",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Bibiana de Roma",
+        "type": "Mártir",
+        "description": "Virgen mártir romana del siglo IV, venerada en la basílica que lleva su nombre en Roma. Sufrió martirio durante la persecución del emperador Juliano el Apóstata."
+      },
+      {
+        "name": "San Cromacio de Aquileya",
+        "type": "Obispo",
+        "description": "Obispo de Aquileya (norte de Italia) a finales del siglo IV, amigo de San Jerónimo y San Ambrosio, famoso por sus comentarios bíblicos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional para la Abolición de la Esclavitud",
+        "description": "Conmemoración de la adopción por la ONU en 1949 del Convenio para la Represión de la Trata de Personas, dedicada a erradicar todas las formas modernas de esclavitud."
+      },
+      {
+        "name": "Día Nacional de los Emiratos Árabes Unidos",
+        "description": "Conmemoración de la unificación de los siete emiratos en 1971 para formar los Emiratos Árabes Unidos bajo el liderazgo del jeque Zayed bin Sultan Al Nahyan."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Donde hay esclavitud no puede haber libertad, y donde hay libertad no puede haber esclavitud.",
+      "author": "Frederick Douglass",
+      "context": "Abolicionista y estadista afroamericano que escapó de la esclavitud y se convirtió en una de las voces más poderosas contra ella en el siglo XIX."
+    },
+    "motivationalQuote": {
+      "text": "La libertad no puede ser otorgada, debe ser conquistada.",
+      "author": "A. Philip Randolph"
+    },
+    "births": [
+      {
+        "name": "Georges Seurat",
+        "description": "Pintor francés fundador del puntillismo (pointillisme), técnica que aplica pequeños puntos de color puro para crear imágenes de gran luminosidad. Autor de Un domingo en La Grande Jatte.",
+        "year": 1859
+      },
+      {
+        "name": "Maria Callas",
+        "description": "Soprano griega considerada la más grande cantante de ópera del siglo XX, célebre por su dominio técnico y su capacidad dramática en roles como Norma, Violetta y Medea.",
+        "year": 1923
+      },
+      {
+        "name": "Britney Spears",
+        "description": "Cantante estadounidense que se convirtió en icono del pop a finales de los 90 con éxitos como ...Baby One More Time y Oops!... I Did It Again.",
+        "year": 1981
+      }
+    ],
+    "events": [
+      {
+        "title": "Napoleón se corona Emperador de Francia",
+        "description": "En la catedral de Notre-Dame de París, Napoleón Bonaparte tomó la corona de manos del Papa Pío VII y se la colocó él mismo sobre la cabeza, proclamándose Emperador de los Franceses.",
+        "year": 1804
+      },
+      {
+        "title": "Primera reacción nuclear en cadena controlada",
+        "description": "En la Universidad de Chicago, el físico Enrico Fermi logró la primera reacción nuclear en cadena artificial y autosustentada, abriendo la era de la energía nuclear.",
+        "year": 1942
+      },
+      {
+        "title": "Apertura del Canal de Suez al tráfico internacional",
+        "description": "Tras la crisis de Suez y la ocupación israelí, el canal fue reabierto al tráfico internacional bajo supervisión de las Naciones Unidas.",
+        "year": 1957
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Bibiana of Rome",
+        "type": "Martyr",
+        "description": "Roman virgin martyr of the 4th century, venerated in the basilica bearing her name in Rome. She suffered martyrdom during Emperor Julian the Apostate's persecution."
+      },
+      {
+        "name": "Saint Chromatius of Aquileia",
+        "type": "Bishop",
+        "description": "Bishop of Aquileia (northern Italy) in the late 4th century, friend of Saints Jerome and Ambrose, renowned for his biblical commentaries."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day for the Abolition of Slavery",
+        "description": "Marks the UN's adoption in 1949 of the Convention for the Suppression of the Traffic in Persons, dedicated to eradicating all modern forms of slavery."
+      },
+      {
+        "name": "UAE National Day",
+        "description": "Commemoration of the unification of the seven emirates in 1971 to form the United Arab Emirates under the leadership of Sheikh Zayed bin Sultan Al Nahyan."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Where there is slavery there can be no freedom, and where there is freedom there can be no slavery.",
+      "author": "Frederick Douglass",
+      "context": "African-American abolitionist and statesman who escaped slavery and became one of the most powerful voices against it in the 19th century."
+    },
+    "motivationalQuote": {
+      "text": "Freedom is never granted; it is won.",
+      "author": "A. Philip Randolph"
+    },
+    "births": [
+      {
+        "name": "Georges Seurat",
+        "description": "French painter and founder of Pointillism, a technique applying small dots of pure colour to create highly luminous images. Creator of A Sunday on La Grande Jatte.",
+        "year": 1859
+      },
+      {
+        "name": "Maria Callas",
+        "description": "Greek soprano considered the greatest opera singer of the 20th century, celebrated for her technical mastery and dramatic power in roles such as Norma, Violetta, and Medea.",
+        "year": 1923
+      },
+      {
+        "name": "Britney Spears",
+        "description": "American singer who became a pop icon in the late 1990s with hits such as ...Baby One More Time and Oops!... I Did It Again.",
+        "year": 1981
+      }
+    ],
+    "events": [
+      {
+        "title": "Napoleon crowns himself Emperor of France",
+        "description": "At Notre-Dame Cathedral in Paris, Napoleon Bonaparte took the crown from Pope Pius VII's hands and placed it on his own head, proclaiming himself Emperor of the French.",
+        "year": 1804
+      },
+      {
+        "title": "First controlled nuclear chain reaction",
+        "description": "At the University of Chicago, physicist Enrico Fermi achieved the first artificial, self-sustaining nuclear chain reaction, opening the nuclear age.",
+        "year": 1942
+      },
+      {
+        "title": "Suez Canal reopened to international traffic",
+        "description": "After the Suez Crisis and Israeli occupation, the canal was reopened to international shipping under United Nations supervision.",
+        "year": 1957
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Bibiana de Roma",
+        "type": "Mártir",
+        "description": "Virgem mártir romana do século IV, venerada na basílica que leva seu nome em Roma. Sofreu martírio durante a perseguição do imperador Juliano, o Apóstata."
+      },
+      {
+        "name": "São Cromácio de Aquileia",
+        "type": "Bispo",
+        "description": "Bispo de Aquileia (norte da Itália) no final do século IV, amigo de São Jerônimo e Santo Ambrósio, famoso pelos seus comentários bíblicos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional para a Abolição da Escravidão",
+        "description": "Comemoração da adoção pela ONU em 1949 da Convenção para a Repressão do Tráfico de Pessoas, dedicada a erradicar todas as formas modernas de escravidão."
+      },
+      {
+        "name": "Dia Nacional dos Emirados Árabes Unidos",
+        "description": "Comemoração da unificação dos sete emirados em 1971 para formar os Emirados Árabes Unidos sob a liderança do xeque Zayed bin Sultan Al Nahyan."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Onde há escravidão não pode haver liberdade, e onde há liberdade não pode haver escravidão.",
+      "author": "Frederick Douglass",
+      "context": "Abolicionista e estadista afro-americano que escapou da escravidão e se tornou uma das vozes mais poderosas contra ela no século XIX."
+    },
+    "motivationalQuote": {
+      "text": "A liberdade nunca é concedida; ela é conquistada.",
+      "author": "A. Philip Randolph"
+    },
+    "births": [
+      {
+        "name": "Georges Seurat",
+        "description": "Pintor francês fundador do pontilhismo, técnica que aplica pequenos pontos de cor pura para criar imagens de grande luminosidade. Autor de Uma Tarde de Domingo na Ilha de Grande Jatte.",
+        "year": 1859
+      },
+      {
+        "name": "Maria Callas",
+        "description": "Soprano grega considerada a maior cantora de ópera do século XX, célebre pelo seu domínio técnico e capacidade dramática em papéis como Norma, Violetta e Medeia.",
+        "year": 1923
+      },
+      {
+        "name": "Britney Spears",
+        "description": "Cantora americana que se tornou ícone do pop no final dos anos 90 com sucessos como ...Baby One More Time e Oops!... I Did It Again.",
+        "year": 1981
+      }
+    ],
+    "events": [
+      {
+        "title": "Napoleão se coroa Imperador da França",
+        "description": "Na catedral de Notre-Dame de Paris, Napoleão Bonaparte tomou a coroa das mãos do Papa Pio VII e a colocou sobre a própria cabeça, proclamando-se Imperador dos Franceses.",
+        "year": 1804
+      },
+      {
+        "title": "Primeira reação nuclear em cadeia controlada",
+        "description": "Na Universidade de Chicago, o físico Enrico Fermi realizou a primeira reação nuclear em cadeia artificial e autossustentada, abrindo a era da energia nuclear.",
+        "year": 1942
+      },
+      {
+        "title": "Reabertura do Canal de Suez ao tráfego internacional",
+        "description": "Após a crise de Suez e a ocupação israelense, o canal foi reaberto ao tráfego internacional sob supervisão das Nações Unidas.",
+        "year": 1957
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Bibiana de Roma",
+        "type": "Màrtir",
+        "description": "Verge màrtir romana del segle IV, venerada a la basílica que porta el seu nom a Roma. Va sofrir martiri durant la persecució de l'emperador Julià l'Apòstata."
+      },
+      {
+        "name": "Sant Cromaci d'Aquileia",
+        "type": "Bisbe",
+        "description": "Bisbe d'Aquileia (nord d'Itàlia) a finals del segle IV, amic de Sant Jeroni i Sant Ambròs, famós pels seus comentaris bíblics."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional per a l'Abolició de l'Esclavitud",
+        "description": "Commemoració de l'adopció per l'ONU el 1949 del Conveni per a la Repressió del Tràfic de Persones, dedicada a erradicar totes les formes modernes d'esclavitud."
+      },
+      {
+        "name": "Dia Nacional dels Emirats Àrabs Units",
+        "description": "Commemoració de la unificació dels set emirats el 1971 per formar els Emirats Àrabs Units sota el lideratge del xeic Zayed bin Sultan Al Nahyan."
+      }
+    ],
+    "historicalQuote": {
+      "text": "On hi ha esclavitud no pot haver-hi llibertat, i on hi ha llibertat no pot haver-hi esclavitud.",
+      "author": "Frederick Douglass",
+      "context": "Abolicionista i estadista afroamericà que va escapar de l'esclavitud i es va convertir en una de les veus més poderoses contra ella al segle XIX."
+    },
+    "motivationalQuote": {
+      "text": "La llibertat mai no es concedeix; es conquereix.",
+      "author": "A. Philip Randolph"
+    },
+    "births": [
+      {
+        "name": "Georges Seurat",
+        "description": "Pintor francès fundador del puntillisme, tècnica que aplica petits punts de color pur per crear imatges de gran lluminositat. Autor de Un diumenge a La Grande Jatte.",
+        "year": 1859
+      },
+      {
+        "name": "Maria Callas",
+        "description": "Soprano grega considerada la més gran cantant d'òpera del segle XX, cèlebre pel seu domini tècnic i la seva capacitat dramàtica en rols com Norma, Violetta i Medea.",
+        "year": 1923
+      },
+      {
+        "name": "Britney Spears",
+        "description": "Cantant nord-americana que es va convertir en icona del pop a finals dels anys 90 amb èxits com ...Baby One More Time i Oops!... I Did It Again.",
+        "year": 1981
+      }
+    ],
+    "events": [
+      {
+        "title": "Napoleó es corona Emperador de França",
+        "description": "A la catedral de Notre-Dame de París, Napoleó Bonaparte va prendre la corona de mans del Papa Pius VII i se la va posar al cap, proclamant-se Emperador dels Francesos.",
+        "year": 1804
+      },
+      {
+        "title": "Primera reacció nuclear en cadena controlada",
+        "description": "A la Universitat de Chicago, el físic Enrico Fermi va aconseguir la primera reacció nuclear en cadena artificial i autosustentada, obrint l'era de l'energia nuclear.",
+        "year": 1942
+      },
+      {
+        "title": "Reobertura del Canal de Suez al tràfic internacional",
+        "description": "Després de la crisi de Suez i l'ocupació israeliana, el canal va ser reoberto al tràfic internacional sota supervisió de les Nacions Unides.",
+        "year": 1957
+      }
+    ]
+  }
+}

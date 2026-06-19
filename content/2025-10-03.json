@@ -1,0 +1,275 @@
+{
+  "date": "2025-10-03",
+  "es": {
+    "saints": [
+      {
+        "name": "San Francisco de Borja",
+        "type": "Presbítero",
+        "description": "Noble español (1510–1572), duque de Gandía y virrey de Cataluña, que renunció a todos sus títulos para ingresar en la Compañía de Jesús. Fue el tercer prepósito general de los jesuitas y contribuyó decisivamente a la expansión de la orden. Canonizado en 1671."
+      },
+      {
+        "name": "San Gerardo de Brogne",
+        "type": "Abad",
+        "description": "Monje benedictino belga del siglo X (880–959), fundador del monasterio de Brogne (Namur). Fue un importante reformador monástico de la Lotaringia, que restauró la observancia de la Regla de San Benito en numerosos monasterios de Bélgica y Lorena."
+      },
+      {
+        "name": "Beato Columba Marmion",
+        "type": "Monje",
+        "description": "Monje benedictino irlandés (1858–1923), abad de Maredsous (Bélgica). Autor de importantes obras de espiritualidad como Cristo, vida del alma. Beatificado por Juan Pablo II en 2000. Considerado uno de los grandes maestros espirituales del siglo XX."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Reunificación Alemana",
+        "description": "Alemania celebra el Día de la Unidad Alemana, festividad nacional que conmemora la reunificación de la República Federal Alemana y la República Democrática Alemana el 3 de octubre de 1990, poniendo fin a cuarenta y cinco años de división del país tras la Segunda Guerra Mundial."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Cuando la libertad es una realidad completa, cuando todos los alemanes pueden vivir juntos en paz y libertad, ese es el objetivo que une a todos los alemanes.",
+      "author": "Helmut Kohl",
+      "context": "El canciller Helmut Kohl fue el arquitecto político de la reunificación alemana, cuyo aniversario se celebra hoy. Su discurso ante el Bundestag unificado resumió el sueño de toda una nación dividida durante casi cinco décadas."
+    },
+    "motivationalQuote": {
+      "text": "La libertad no se otorga. La libertad se toma.",
+      "author": "A. Philip Randolph"
+    },
+    "births": [
+      {
+        "name": "Gore Vidal",
+        "description": "Escritor, ensayista y dramaturgo americano (1925–2012), uno de los grandes intelectuales del siglo XX. Autor de novelas históricas como Lincoln (1984), Burr (1973) y Julian (1964). Famoso también por su agudeza política y sus debates televisivos con William F. Buckley.",
+        "year": 1925
+      },
+      {
+        "name": "Chubby Checker",
+        "description": "Cantante americano de rhythm and blues (n. 1941), que popularizó el twist con su versión del tema de Hank Ballard en 1960. Su actuación en el programa American Bandstand desencadenó una moda de baile global que transformó la música popular de principios de los sesenta.",
+        "year": 1941
+      },
+      {
+        "name": "Ashlee Simpson",
+        "description": "Cantante y actriz americana (n. 1984), hermana de Jessica Simpson. Debutó en 2004 con el álbum Autobiography, que vendió más de cuatro millones de copias. Conocida por sus actuaciones en series de televisión como 7th Heaven y Melrose Place.",
+        "year": 1984
+      }
+    ],
+    "events": [
+      {
+        "title": "Reunificación de Alemania",
+        "description": "La República Democrática Alemana (Alemania del Este) se disolvió formalmente y sus cinco Länder se integraron en la República Federal Alemana, completando la reunificación del país. El proceso político se inició tras la caída del Muro de Berlín en noviembre de 1989.",
+        "year": 1990
+      },
+      {
+        "title": "O. J. Simpson absuelto del doble asesinato",
+        "description": "El jurado de Los Ángeles declaró no culpable al exjugador de fútbol americano O. J. Simpson de los asesinatos de su exesposa Nicole Brown Simpson y su amigo Ron Goldman. El llamado 'juicio del siglo' dividió a la sociedad americana en torno a cuestiones de raza y justicia.",
+        "year": 1995
+      },
+      {
+        "title": "Naufragio del crucero Moby Prince en el puerto de Livorno",
+        "description": "El ferry italiano Moby Prince colisionó con el petrolero Agip Abruzzo en el puerto de Livorno (Italia), provocando un incendio que mató a 140 de las 141 personas a bordo. Considerado el peor accidente marítimo en Italia de la posguerra.",
+        "year": 1991
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Francis Borgia",
+        "type": "Priest",
+        "description": "Spanish nobleman (1510–1572), Duke of Gandía and Viceroy of Catalonia, who renounced all his titles to enter the Society of Jesus. He was the third Superior General of the Jesuits and contributed decisively to the expansion of the order. Canonised in 1671."
+      },
+      {
+        "name": "Saint Gerard of Brogne",
+        "type": "Abbot",
+        "description": "10th-century Belgian Benedictine monk (880–959), founder of the monastery of Brogne (Namur). He was an important monastic reformer of Lotharingia, restoring observance of the Rule of Saint Benedict in numerous monasteries in Belgium and Lorraine."
+      },
+      {
+        "name": "Blessed Columba Marmion",
+        "type": "Monk",
+        "description": "Irish Benedictine monk (1858–1923), Abbot of Maredsous (Belgium). Author of important works of spirituality such as Christ, the Life of the Soul. Beatified by John Paul II in 2000. Considered one of the great spiritual masters of the 20th century."
+      }
+    ],
+    "observances": [
+      {
+        "name": "German Reunification Day",
+        "description": "Germany celebrates the Day of German Unity, a national holiday commemorating the reunification of the Federal Republic of Germany and the German Democratic Republic on 3 October 1990, ending forty-five years of division of the country after the Second World War."
+      }
+    ],
+    "historicalQuote": {
+      "text": "When freedom is a complete reality, when all Germans can live together in peace and freedom — that is the goal that unites all Germans.",
+      "author": "Helmut Kohl",
+      "context": "Chancellor Helmut Kohl was the political architect of German reunification, whose anniversary is celebrated today. His speech to the unified Bundestag encapsulated the dream of a nation divided for nearly five decades."
+    },
+    "motivationalQuote": {
+      "text": "Freedom is not granted. Freedom is taken.",
+      "author": "A. Philip Randolph"
+    },
+    "births": [
+      {
+        "name": "Gore Vidal",
+        "description": "American writer, essayist and playwright (1925–2012), one of the great intellectuals of the 20th century. Author of historical novels such as Lincoln (1984), Burr (1973) and Julian (1964). Also famous for his political acuity and his televised debates with William F. Buckley.",
+        "year": 1925
+      },
+      {
+        "name": "Chubby Checker",
+        "description": "American rhythm and blues singer (b. 1941), who popularised the twist with his version of Hank Ballard's song in 1960. His performance on the American Bandstand programme triggered a global dance craze that transformed popular music at the start of the 1960s.",
+        "year": 1941
+      },
+      {
+        "name": "Ashlee Simpson",
+        "description": "American singer and actress (b. 1984), sister of Jessica Simpson. She made her debut in 2004 with the album Autobiography, which sold over four million copies. Known for her appearances in TV series such as 7th Heaven and Melrose Place.",
+        "year": 1984
+      }
+    ],
+    "events": [
+      {
+        "title": "Reunification of Germany",
+        "description": "The German Democratic Republic (East Germany) was formally dissolved and its five Länder were integrated into the Federal Republic of Germany, completing the reunification of the country. The political process began after the fall of the Berlin Wall in November 1989.",
+        "year": 1990
+      },
+      {
+        "title": "O. J. Simpson acquitted of double murder",
+        "description": "The Los Angeles jury declared former American football player O. J. Simpson not guilty of the murders of his ex-wife Nicole Brown Simpson and her friend Ron Goldman. The so-called 'trial of the century' divided American society over questions of race and justice.",
+        "year": 1995
+      },
+      {
+        "title": "Sinking of the Moby Prince ferry in Livorno harbour",
+        "description": "The Italian ferry Moby Prince collided with the oil tanker Agip Abruzzo in the port of Livorno (Italy), causing a fire that killed 140 of the 141 people on board. Considered the worst post-war maritime accident in Italy.",
+        "year": 1991
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Francisco de Borja",
+        "type": "Presbítero",
+        "description": "Nobre espanhol (1510–1572), duque de Gandía e vice-rei da Catalunha, que renunciou a todos os seus títulos para entrar na Companhia de Jesus. Foi o terceiro prepósito geral dos jesuítas e contribuiu decisivamente para a expansão da ordem. Canonizado em 1671."
+      },
+      {
+        "name": "São Gerardo de Brogne",
+        "type": "Abade",
+        "description": "Monge beneditino belga do século X (880–959), fundador do mosteiro de Brogne (Namur). Foi um importante reformador monástico da Lotaríngia, que restaurou a observância da Regra de São Bento em numerosos mosteiros da Bélgica e da Lorena."
+      },
+      {
+        "name": "Beato Columba Marmion",
+        "type": "Monge",
+        "description": "Monge beneditino irlandês (1858–1923), abade de Maredsous (Bélgica). Autor de importantes obras de espiritualidade como Cristo, Vida da Alma. Beatificado por João Paulo II em 2000. Considerado um dos grandes mestres espirituais do século XX."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Reunificação Alemã",
+        "description": "A Alemanha celebra o Dia da Unidade Alemã, feriado nacional que comemora a reunificação da República Federal da Alemanha e da República Democrática Alemã a 3 de outubro de 1990, pondo fim a quarenta e cinco anos de divisão do país após a Segunda Guerra Mundial."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Quando a liberdade é uma realidade completa, quando todos os alemães puderem viver juntos em paz e liberdade — esse é o objetivo que une todos os alemães.",
+      "author": "Helmut Kohl",
+      "context": "O chanceler Helmut Kohl foi o arquiteto político da reunificação alemã, cujo aniversário se celebra hoje. O seu discurso perante o Bundestag unificado resumiu o sonho de uma nação dividida durante quase cinco décadas."
+    },
+    "motivationalQuote": {
+      "text": "A liberdade não se concede. A liberdade toma-se.",
+      "author": "A. Philip Randolph"
+    },
+    "births": [
+      {
+        "name": "Gore Vidal",
+        "description": "Escritor, ensaísta e dramaturgo americano (1925–2012), um dos grandes intelectuais do século XX. Autor de romances históricos como Lincoln (1984), Burr (1973) e Julian (1964). Famoso também pela sua agudeza política e pelos seus debates televisivos com William F. Buckley.",
+        "year": 1925
+      },
+      {
+        "name": "Chubby Checker",
+        "description": "Cantor americano de rhythm and blues (n. 1941), que popularizou o twist com a sua versão da música de Hank Ballard em 1960. A sua atuação no programa American Bandstand desencadeou uma moda de dança global que transformou a música popular do início dos anos sessenta.",
+        "year": 1941
+      },
+      {
+        "name": "Ashlee Simpson",
+        "description": "Cantora e atriz americana (n. 1984), irmã de Jessica Simpson. Estreou-se em 2004 com o álbum Autobiography, que vendeu mais de quatro milhões de cópias. Conhecida pelas suas aparições em séries de televisão como 7th Heaven e Melrose Place.",
+        "year": 1984
+      }
+    ],
+    "events": [
+      {
+        "title": "Reunificação da Alemanha",
+        "description": "A República Democrática Alemã (Alemanha Oriental) foi formalmente dissolvida e os seus cinco Länder foram integrados na República Federal da Alemanha, completando a reunificação do país. O processo político teve início após a queda do Muro de Berlim em novembro de 1989.",
+        "year": 1990
+      },
+      {
+        "title": "O. J. Simpson absolvido do duplo homicídio",
+        "description": "O júri de Los Angeles declarou não culpado o ex-jogador de futebol americano O. J. Simpson dos assassinatos da sua ex-esposa Nicole Brown Simpson e do seu amigo Ron Goldman. O chamado 'julgamento do século' dividiu a sociedade americana em torno de questões de raça e justiça.",
+        "year": 1995
+      },
+      {
+        "title": "Naufrágio do ferry Moby Prince no porto de Livorno",
+        "description": "O ferry italiano Moby Prince colidiu com o petroleiro Agip Abruzzo no porto de Livorno (Itália), provocando um incêndio que matou 140 das 141 pessoas a bordo. Considerado o pior acidente marítimo na Itália do pós-guerra.",
+        "year": 1991
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Francesc de Borja",
+        "type": "Prevere",
+        "description": "Noble espanyol (1510–1572), duc de Gandia i virrei de Catalunya, que va renunciar a tots els seus títols per entrar a la Companyia de Jesús. Va ser el tercer prepòsit general dels jesuïtes i va contribuir decisivament a l'expansió de l'orde. Canonitzat el 1671."
+      },
+      {
+        "name": "Sant Gerard de Brogne",
+        "type": "Abat",
+        "description": "Monjo benedictí belga del segle X (880–959), fundador del monestir de Brogne (Namur). Va ser un important reformador monàstic de la Lotaríngia, que va restaurar l'observança de la Regla de Sant Benet en nombrosos monestirs de Bèlgica i Lorena."
+      },
+      {
+        "name": "Beat Columba Marmion",
+        "type": "Monjo",
+        "description": "Monjo benedictí irlandès (1858–1923), abat de Maredsous (Bèlgica). Autor d'importants obres d'espiritualitat com Crist, vida de l'ànima. Beatificat per Joan Pau II l'any 2000. Considerat un dels grans mestres espirituals del segle XX."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Reunificació Alemanya",
+        "description": "Alemanya celebra el Dia de la Unitat Alemanya, festa nacional que commemora la reunificació de la República Federal d'Alemanya i la República Democràtica Alemanya el 3 d'octubre de 1990, posant fi a quaranta-cinc anys de divisió del país després de la Segona Guerra Mundial."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Quan la llibertat sigui una realitat completa, quan tots els alemanys puguem viure junts en pau i llibertat, aquest és l'objectiu que uneix tots els alemanys.",
+      "author": "Helmut Kohl",
+      "context": "El canceller Helmut Kohl va ser l'arquitecte polític de la reunificació alemanya, l'aniversari de la qual se celebra avui. El seu discurs davant el Bundestag unificat va resumir el somni d'una nació dividida durant gairebé cinc dècades."
+    },
+    "motivationalQuote": {
+      "text": "La llibertat no s'atorga. La llibertat es pren.",
+      "author": "A. Philip Randolph"
+    },
+    "births": [
+      {
+        "name": "Gore Vidal",
+        "description": "Escriptor, assagista i dramaturg americà (1925–2012), un dels grans intel·lectuals del segle XX. Autor de novel·les històriques com Lincoln (1984), Burr (1973) i Julian (1964). Famós també per la seva agudesa política i els seus debats televisius amb William F. Buckley.",
+        "year": 1925
+      },
+      {
+        "name": "Chubby Checker",
+        "description": "Cantant americà de rhythm and blues (n. 1941), que va popularitzar el twist amb la seva versió del tema de Hank Ballard el 1960. La seva actuació al programa American Bandstand va desencadenar una moda de ball global que va transformar la música popular de principis dels seixanta.",
+        "year": 1941
+      },
+      {
+        "name": "Ashlee Simpson",
+        "description": "Cantant i actriu americana (n. 1984), germana de Jessica Simpson. Va debutar el 2004 amb l'àlbum Autobiography, que va vendre més de quatre milions de còpies. Coneguda per les seves aparicions en sèries de televisió com 7th Heaven i Melrose Place.",
+        "year": 1984
+      }
+    ],
+    "events": [
+      {
+        "title": "Reunificació d'Alemanya",
+        "description": "La República Democràtica Alemanya (Alemanya de l'Est) es va dissoldre formalment i els seus cinc Länder es van integrar a la República Federal d'Alemanya, completant la reunificació del país. El procés polític va començar després de la caiguda del Mur de Berlín el novembre de 1989.",
+        "year": 1990
+      },
+      {
+        "title": "O. J. Simpson absolt del doble assassinat",
+        "description": "El jurat de Los Angeles va declarar no culpable l'exjugador de futbol americà O. J. Simpson dels assassinats de la seva exesposa Nicole Brown Simpson i el seu amic Ron Goldman. L'anomenat 'judici del segle' va dividir la societat americana entorn de qüestions de raça i justícia.",
+        "year": 1995
+      },
+      {
+        "title": "Naufragi del ferri Moby Prince al port de Liorna",
+        "description": "El ferri italià Moby Prince va col·lisionar amb el petroler Agip Abruzzo al port de Liorna (Itàlia), provocant un incendi que va matar 140 de les 141 persones a bord. Considerat el pitjor accident marítim a Itàlia de la postguerra.",
+        "year": 1991
+      }
+    ]
+  }
+}

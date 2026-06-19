@@ -1,0 +1,291 @@
+{
+  "date": "2025-08-09",
+  "es": {
+    "saints": [
+      {
+        "name": "San Maximiliano María Kolbe",
+        "type": "Presbítero y Mártir",
+        "description": "Fraile franciscano polaco (1894–1941) que se ofreció voluntario a morir en el campo de concentración de Auschwitz en lugar de un desconocido padre de familia. Canonizado por Juan Pablo II en 1982. Patrono de las familias y del movimiento pro-vida."
+      },
+      {
+        "name": "Santa Teresa Benedicta de la Cruz (Edith Stein)",
+        "type": "Virgen y Mártir",
+        "description": "Filósofa judío-alemana convertida al catolicismo y religiosa carmelita (1891–1942). Murió en Auschwitz el 9 de agosto de 1942. Copatrona de Europa junto con Santa Brígida y Santa Catalina de Siena."
+      },
+      {
+        "name": "San Nectario de Égina",
+        "type": "Obispo",
+        "description": "Jerarca de la Iglesia Ortodoxa Griega (1846–1920), uno de los santos más venerados de la Grecia moderna. Fundador del Convento de la Santísima Trinidad en la isla de Égina."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de las Poblaciones Indígenas",
+        "description": "Proclamado por la ONU en 1994 y celebrado el 9 de agosto para reconocer los derechos y las culturas de los pueblos indígenas del mundo, que representan a más de 476 millones de personas en 90 países."
+      },
+      {
+        "name": "Día de la Memoria de Nagasaki",
+        "description": "El 9 de agosto de 1945, la bomba atómica Fat Man fue lanzada sobre Nagasaki, causando la muerte de entre 40.000 y 80.000 personas. Se conmemora junto a Hiroshima como símbolo del rechazo a las armas nucleares."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Amar significa querer el bien del otro.",
+      "author": "Santo Tomás de Aquino",
+      "context": "El Doctor Angélico, teólogo y filósofo dominico del siglo XIII, sintetizó en esta frase su concepto de caridad cristiana. Su obra Suma Teológica sigue siendo referencia fundamental de la filosofía occidental."
+    },
+    "motivationalQuote": {
+      "text": "La mayor gloria de vivir no está en no caer nunca, sino en levantarse cada vez que caemos.",
+      "author": "Nelson Mandela"
+    },
+    "births": [
+      {
+        "name": "Izaak Walton",
+        "description": "Escritor inglés del siglo XVII, autor de El pescador perfecto (The Compleat Angler, 1653), uno de los libros más reeditados en lengua inglesa y un clásico de la literatura de naturaleza.",
+        "year": 1593
+      },
+      {
+        "name": "Jean Piaget",
+        "description": "Psicólogo y epistemólogo suizo (1896–1980) cuya teoría del desarrollo cognitivo infantil transformó la pedagogía y la psicología del siglo XX.",
+        "year": 1896
+      },
+      {
+        "name": "Whitney Houston",
+        "description": "Cantante estadounidense con una de las voces más poderosas de la historia de la música pop, conocida por canciones como I Will Always Love You y Greatest Love of All.",
+        "year": 1963
+      }
+    ],
+    "events": [
+      {
+        "title": "Bomba atómica sobre Nagasaki",
+        "description": "El 9 de agosto de 1945, el bombardero B-29 Bockscar lanzó la bomba de plutonio Fat Man sobre Nagasaki (Japón), causando entre 40.000 y 80.000 muertes y precipitando la rendición japonesa.",
+        "year": 1945
+      },
+      {
+        "title": "Asesinatos de la familia Manson en Los Ángeles",
+        "description": "En la madrugada del 9 de agosto de 1969, miembros del grupo Manson asesinaron a la actriz Sharon Tate —embarazada de ocho meses— y a otras cuatro personas en una villa de Los Ángeles, conmocionando a la sociedad americana.",
+        "year": 1969
+      },
+      {
+        "title": "Sudáfrica celebra el Día Nacional de la Mujer",
+        "description": "El 9 de agosto es el Día Nacional de la Mujer en Sudáfrica, en memoria de la marcha del 9 de agosto de 1956 en que 20.000 mujeres protestaron en Pretoria contra las leyes del apartheid.",
+        "year": 1956
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Maximilian Mary Kolbe",
+        "type": "Priest and Martyr",
+        "description": "Polish Franciscan friar (1894–1941) who volunteered to die in Auschwitz concentration camp in place of a stranger, a father of a family. Canonised by John Paul II in 1982. Patron of families and the pro-life movement."
+      },
+      {
+        "name": "Saint Teresa Benedicta of the Cross (Edith Stein)",
+        "type": "Virgin and Martyr",
+        "description": "German Jewish philosopher who converted to Catholicism and became a Carmelite nun (1891–1942). She died at Auschwitz on 9 August 1942. Co-patron of Europe alongside Saint Bridget and Saint Catherine of Siena."
+      },
+      {
+        "name": "Saint Nectarius of Aegina",
+        "type": "Bishop",
+        "description": "Hierarch of the Greek Orthodox Church (1846–1920), one of the most venerated saints of modern Greece. He founded the Holy Trinity Convent on the island of Aegina."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of the World's Indigenous Peoples",
+        "description": "Proclaimed by the UN in 1994 and celebrated on 9 August to recognise the rights and cultures of the world's indigenous peoples, who represent more than 476 million people in 90 countries."
+      },
+      {
+        "name": "Nagasaki Peace Memorial Day",
+        "description": "On 9 August 1945, the atomic bomb Fat Man was dropped on Nagasaki, killing between 40,000 and 80,000 people. It is commemorated alongside Hiroshima as a symbol of the rejection of nuclear weapons."
+      }
+    ],
+    "historicalQuote": {
+      "text": "To love is to will the good of another.",
+      "author": "Saint Thomas Aquinas",
+      "context": "The Angelic Doctor, 13th-century Dominican theologian and philosopher, encapsulated his concept of Christian charity in this phrase. His Summa Theologica remains a foundational reference of Western philosophy."
+    },
+    "motivationalQuote": {
+      "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    "births": [
+      {
+        "name": "Izaak Walton",
+        "description": "17th-century English writer, author of The Compleat Angler (1653), one of the most reprinted books in the English language and a classic of nature writing.",
+        "year": 1593
+      },
+      {
+        "name": "Jean Piaget",
+        "description": "Swiss psychologist and epistemologist (1896–1980) whose theory of child cognitive development transformed 20th-century pedagogy and psychology.",
+        "year": 1896
+      },
+      {
+        "name": "Whitney Houston",
+        "description": "American singer with one of the most powerful voices in the history of pop music, known for songs such as I Will Always Love You and Greatest Love of All.",
+        "year": 1963
+      }
+    ],
+    "events": [
+      {
+        "title": "Atomic bomb dropped on Nagasaki",
+        "description": "On 9 August 1945, the B-29 bomber Bockscar dropped the plutonium bomb Fat Man on Nagasaki, Japan, killing between 40,000 and 80,000 people and hastening Japan's surrender.",
+        "year": 1945
+      },
+      {
+        "title": "Manson Family murders in Los Angeles",
+        "description": "In the early hours of 9 August 1969, members of the Manson group murdered actress Sharon Tate — eight months pregnant — and four others at a villa in Los Angeles, shocking American society.",
+        "year": 1969
+      },
+      {
+        "title": "South Africa's National Women's Day",
+        "description": "9 August is National Women's Day in South Africa, commemorating the march of 9 August 1956 in which 20,000 women protested in Pretoria against apartheid laws.",
+        "year": 1956
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Maximiliano Maria Kolbe",
+        "type": "Presbítero e Mártir",
+        "description": "Frade franciscano polonês (1894–1941) que se ofereceu voluntariamente para morrer no campo de concentração de Auschwitz no lugar de um desconhecido pai de família. Canonizado por João Paulo II em 1982. Padroeiro das famílias e do movimento pró-vida."
+      },
+      {
+        "name": "Santa Teresa Benedita da Cruz (Edith Stein)",
+        "type": "Virgem e Mártir",
+        "description": "Filósofa judeu-alemã convertida ao catolicismo e religiosa carmelita (1891–1942). Morreu em Auschwitz em 9 de agosto de 1942. Copatrona da Europa juntamente com Santa Brígida e Santa Catarina de Sena."
+      },
+      {
+        "name": "São Nectário de Egina",
+        "type": "Bispo",
+        "description": "Hierarca da Igreja Ortodoxa Grega (1846–1920), um dos santos mais venerados da Grécia moderna. Fundou o Convento da Santíssima Trindade na ilha de Egina."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional dos Povos Indígenas",
+        "description": "Proclamado pela ONU em 1994 e celebrado em 9 de agosto para reconhecer os direitos e as culturas dos povos indígenas do mundo, que representam mais de 476 milhões de pessoas em 90 países."
+      },
+      {
+        "name": "Dia da Memória de Nagasaki",
+        "description": "Em 9 de agosto de 1945, a bomba atômica Fat Man foi lançada sobre Nagasaki, causando a morte de entre 40.000 e 80.000 pessoas. É comemorado junto com Hiroshima como símbolo da rejeição às armas nucleares."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Amar é querer o bem do outro.",
+      "author": "Santo Tomás de Aquino",
+      "context": "O Doutor Angélico, teólogo e filósofo dominicano do século XIII, sintetizou nesta frase o seu conceito de caridade cristã. A sua Suma Teológica continua a ser uma referência fundamental da filosofia ocidental."
+    },
+    "motivationalQuote": {
+      "text": "A maior glória de viver não está em nunca cair, mas em nos levantarmos cada vez que caímos.",
+      "author": "Nelson Mandela"
+    },
+    "births": [
+      {
+        "name": "Izaak Walton",
+        "description": "Escritor inglês do século XVII, autor de O Pescador Perfeito (The Compleat Angler, 1653), um dos livros mais reeditados em língua inglesa e um clássico da literatura de natureza.",
+        "year": 1593
+      },
+      {
+        "name": "Jean Piaget",
+        "description": "Psicólogo e epistemólogo suíço (1896–1980) cuja teoria do desenvolvimento cognitivo infantil transformou a pedagogia e a psicologia do século XX.",
+        "year": 1896
+      },
+      {
+        "name": "Whitney Houston",
+        "description": "Cantora americana com uma das vozes mais poderosas da história da música pop, conhecida por canções como I Will Always Love You e Greatest Love of All.",
+        "year": 1963
+      }
+    ],
+    "events": [
+      {
+        "title": "Bomba atômica lançada sobre Nagasaki",
+        "description": "Em 9 de agosto de 1945, o bombardeiro B-29 Bockscar lançou a bomba de plutônio Fat Man sobre Nagasaki (Japão), causando entre 40.000 e 80.000 mortes e precipitando a rendição japonesa.",
+        "year": 1945
+      },
+      {
+        "title": "Assassinatos da Família Manson em Los Angeles",
+        "description": "Na madrugada de 9 de agosto de 1969, membros do grupo Manson assassinaram a atriz Sharon Tate — grávida de oito meses — e mais quatro pessoas numa villa em Los Angeles, chocando a sociedade americana.",
+        "year": 1969
+      },
+      {
+        "title": "Dia Nacional da Mulher na África do Sul",
+        "description": "9 de agosto é o Dia Nacional da Mulher na África do Sul, em memória da marcha de 9 de agosto de 1956 em que 20.000 mulheres protestaram em Pretória contra as leis do apartheid.",
+        "year": 1956
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Maximilià Maria Kolbe",
+        "type": "Prevere i Màrtir",
+        "description": "Frare franciscà polonès (1894–1941) que es va oferir voluntari per morir al camp de concentració d'Auschwitz en lloc d'un desconegut pare de família. Canonitzat per Joan Pau II el 1982. Patró de les famílies i del moviment pro-vida."
+      },
+      {
+        "name": "Santa Teresa Benedicta de la Creu (Edith Stein)",
+        "type": "Verge i Màrtir",
+        "description": "Filòsofa judeo-alemanya convertida al catolicisme i religiosa carmelita (1891–1942). Va morir a Auschwitz el 9 d'agost de 1942. Copatrona d'Europa juntament amb Santa Brígida i Santa Caterina de Siena."
+      },
+      {
+        "name": "Sant Nectari d'Egina",
+        "type": "Bisbe",
+        "description": "Jerarca de l'Església Ortodoxa Grega (1846–1920), un dels sants més venerats de la Grècia moderna. Va fundar el Convent de la Santíssima Trinitat a l'illa d'Egina."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional dels Pobles Indígenes",
+        "description": "Proclamat per l'ONU el 1994 i celebrat el 9 d'agost per reconèixer els drets i les cultures dels pobles indígenes del món, que representen més de 476 milions de persones en 90 països."
+      },
+      {
+        "name": "Dia de la Memòria de Nagasaki",
+        "description": "El 9 d'agost de 1945, la bomba atòmica Fat Man va ser llançada sobre Nagasaki, causant la mort d'entre 40.000 i 80.000 persones. Es commemora juntament amb Hiroshima com a símbol del rebuig a les armes nuclears."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Estimar és voler el bé de l'altre.",
+      "author": "Sant Tomàs d'Aquino",
+      "context": "El Doctor Angèlic, teòleg i filòsof dominic del segle XIII, va sintetitzar en aquesta frase el seu concepte de caritat cristiana. La seva Suma Teològica continua sent una referència fonamental de la filosofia occidental."
+    },
+    "motivationalQuote": {
+      "text": "La major glòria de viure no és no caure mai, sinó aixecar-se cada vegada que caiem.",
+      "author": "Nelson Mandela"
+    },
+    "births": [
+      {
+        "name": "Izaak Walton",
+        "description": "Escriptor anglès del segle XVII, autor de El pescador perfecte (The Compleat Angler, 1653), un dels llibres més reeditats en llengua anglesa i un clàssic de la literatura de natura.",
+        "year": 1593
+      },
+      {
+        "name": "Jean Piaget",
+        "description": "Psicòleg i epistemòleg suís (1896–1980) la teoria del desenvolupament cognitiu infantil del qual va transformar la pedagogia i la psicologia del segle XX.",
+        "year": 1896
+      },
+      {
+        "name": "Whitney Houston",
+        "description": "Cantant americana amb una de les veus més poderoses de la història de la música pop, coneguda per cançons com I Will Always Love You i Greatest Love of All.",
+        "year": 1963
+      }
+    ],
+    "events": [
+      {
+        "title": "Bomba atòmica sobre Nagasaki",
+        "description": "El 9 d'agost de 1945, el bombarder B-29 Bockscar va llançar la bomba de plutoni Fat Man sobre Nagasaki (Japó), causant entre 40.000 i 80.000 morts i precipitant la rendició japonesa.",
+        "year": 1945
+      },
+      {
+        "title": "Assassinats de la família Manson a Los Angeles",
+        "description": "A la matinada del 9 d'agost de 1969, membres del grup Manson van assassinar l'actriu Sharon Tate —embarassada de vuit mesos— i quatre persones més en una vil·la de Los Angeles, commovint la societat americana.",
+        "year": 1969
+      },
+      {
+        "title": "Dia Nacional de la Dona a Sud-àfrica",
+        "description": "El 9 d'agost és el Dia Nacional de la Dona a Sud-àfrica, en memòria de la marxa del 9 d'agost de 1956 en què 20.000 dones van protestar a Pretòria contra les lleis de l'apartheid.",
+        "year": 1956
+      }
+    ]
+  }
+}

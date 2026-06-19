@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-04",
+  "es": {
+    "saints": [
+      { "name": "San Casimiro de Polonia", "type": "Príncipe", "description": "Príncipe polaco del siglo XV, hijo del rey Casimiro IV Jagellón, canonizado por su piedad, castidad y amor a los pobres; patrón de Polonia y Lituania." },
+      { "name": "San Lucio I", "type": "Papa y mártir", "description": "Papa del siglo III, sucesor de Cornelio, que defendió la misericordia con los lapsi (cristianos que habían apostatado) y murió exiliado." },
+      { "name": "Santa Felicidad de Roma", "type": "Mártir", "description": "Mártir romana del siglo II, madre de siete hijos también mártires según la tradición, símbolo de la fe materna en la persecución." }
+    ],
+    "observances": [
+      { "name": "Día Nacional de Gramática (Grammar Day)", "description": "Celebración informal en países anglosajones que promueve el uso correcto de la lengua inglesa y anima a la sociedad a cuidar la gramática." },
+      { "name": "Día de Vermont (Vermont Day)", "description": "Vermont conmemora su admisión como decimocuarto estado de la Unión el 4 de marzo de 1791, siendo el primer estado en unirse a los trece originales." }
+    ],
+    "historicalQuote": {
+      "text": "Con malicia hacia nadie; con caridad para todos; con firmeza en lo correcto, tal como Dios nos da a ver lo correcto.",
+      "author": "Abraham Lincoln",
+      "context": "Palabras pronunciadas por Lincoln en su segundo discurso inaugural el 4 de marzo de 1865, semanas antes del fin de la Guerra Civil y de su propio asesinato. Considerado uno de los mejores discursos de la historia americana."
+    },
+    "motivationalQuote": {
+      "text": "La persistencia puede cambiar el fracaso en un logro extraordinario.",
+      "author": "Marv Levy"
+    },
+    "births": [
+      { "name": "Antonio Vivaldi", "description": "Compositor y violinista veneciano del Barroco, maestro del concerto grosso, célebre por 'Las cuatro estaciones', una de las obras más reconocibles de la música clásica.", "year": 1678 },
+      { "name": "Miriam Makeba", "description": "Cantante sudafricana conocida como 'Mama África', icono del activismo antiapartheid y figura fundamental de la música africana en el mundo.", "year": 1932 },
+      { "name": "Emilio Estévez", "description": "Actor y director estadounidense, miembro del Brat Pack de Hollywood en los años 80, conocido por 'The Breakfast Club' y la saga 'Mighty Ducks'.", "year": 1962 }
+    ],
+    "events": [
+      { "title": "Abraham Lincoln toma posesión como presidente", "description": "Abraham Lincoln prestó juramento como decimosexto presidente de los Estados Unidos por primera vez, en un momento crítico en vísperas de la Guerra de Secesión.", "year": 1861 },
+      { "title": "La Constitución de los Estados Unidos entra en vigor", "description": "El primer Congreso de los Estados Unidos se reunió por primera vez bajo la nueva Constitución federal, marcando el inicio del gobierno constitucional americano.", "year": 1789 },
+      { "title": "Primer vuelo del Concorde", "description": "El avión supersónico Concorde realizó su primer vuelo de prueba desde Toulouse, inaugurando una nueva era en la aviación comercial.", "year": 1969 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Casimir of Poland", "type": "Prince", "description": "Fifteenth-century Polish prince, son of King Casimir IV Jagiellon, canonised for his piety, chastity and love of the poor; patron of Poland and Lithuania." },
+      { "name": "Saint Lucius I", "type": "Pope and martyr", "description": "Third-century pope, successor to Cornelius, who defended mercy toward the lapsi (Christians who had apostatised) and died in exile." },
+      { "name": "Saint Felicitas of Rome", "type": "Martyr", "description": "Second-century Roman martyr, mother of seven sons also considered martyrs according to tradition, a symbol of maternal faith under persecution." }
+    ],
+    "observances": [
+      { "name": "National Grammar Day", "description": "An informal celebration in English-speaking countries promoting the correct use of the English language and encouraging society to care for grammar." },
+      { "name": "Vermont Day", "description": "Vermont commemorates its admission as the fourteenth state of the Union on 4 March 1791, the first state to join the original thirteen." }
+    ],
+    "historicalQuote": {
+      "text": "With malice toward none, with charity for all, with firmness in the right as God gives us to see the right.",
+      "author": "Abraham Lincoln",
+      "context": "Words spoken by Lincoln in his Second Inaugural Address on 4 March 1865, weeks before the end of the Civil War and his own assassination. Considered one of the finest speeches in American history."
+    },
+    "motivationalQuote": {
+      "text": "Persistence can change failure into extraordinary achievement.",
+      "author": "Marv Levy"
+    },
+    "births": [
+      { "name": "Antonio Vivaldi", "description": "Venetian Baroque composer and violinist, master of the concerto grosso, celebrated for 'The Four Seasons', one of the most recognisable works in classical music.", "year": 1678 },
+      { "name": "Miriam Makeba", "description": "South African singer known as 'Mama Africa', icon of anti-apartheid activism and a foundational figure of African music worldwide.", "year": 1932 },
+      { "name": "Emilio Estévez", "description": "American actor and director, member of the Hollywood Brat Pack in the 1980s, known for 'The Breakfast Club' and the 'Mighty Ducks' saga.", "year": 1962 }
+    ],
+    "events": [
+      { "title": "Abraham Lincoln inaugurated as president", "description": "Abraham Lincoln was sworn in as the sixteenth President of the United States for the first time, at a critical moment on the eve of the Civil War.", "year": 1861 },
+      { "title": "US Constitution comes into effect", "description": "The First United States Congress convened for the first time under the new federal Constitution, marking the beginning of American constitutional government.", "year": 1789 },
+      { "title": "Concorde's maiden flight", "description": "The supersonic Concorde aircraft completed its first test flight from Toulouse, inaugurating a new era in commercial aviation.", "year": 1969 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Casimiro da Polônia", "type": "Príncipe", "description": "Príncipe polonês do século XV, filho do rei Casimiro IV Jagelão, canonizado pela sua piedade, castidade e amor aos pobres; padroeiro da Polônia e da Lituânia." },
+      { "name": "São Lúcio I", "type": "Papa e mártir", "description": "Papa do século III, sucessor de Cornélio, que defendeu a misericórdia com os lapsi (cristãos que tinham apostatado) e morreu no exílio." },
+      { "name": "Santa Felicidade de Roma", "type": "Mártir", "description": "Mártir romana do século II, mãe de sete filhos também mártires segundo a tradição, símbolo da fé materna na perseguição." }
+    ],
+    "observances": [
+      { "name": "Dia Nacional da Gramática (Grammar Day)", "description": "Celebração informal em países anglófonos que promove o uso correto da língua inglesa e incentiva a sociedade a cuidar da gramática." },
+      { "name": "Dia de Vermont (Vermont Day)", "description": "Vermont comemora a sua admissão como décimo quarto estado da União em 4 de março de 1791, sendo o primeiro estado a se juntar aos treze originais." }
+    ],
+    "historicalQuote": {
+      "text": "Com malícia para ninguém; com caridade para todos; com firmeza no que é correto, tal como Deus nos permite ver o que é correto.",
+      "author": "Abraham Lincoln",
+      "context": "Palavras proferidas por Lincoln em seu segundo discurso inaugural em 4 de março de 1865, semanas antes do fim da Guerra Civil e de seu próprio assassinato. Considerado um dos melhores discursos da história americana."
+    },
+    "motivationalQuote": {
+      "text": "A persistência pode transformar o fracasso em uma conquista extraordinária.",
+      "author": "Marv Levy"
+    },
+    "births": [
+      { "name": "Antonio Vivaldi", "description": "Compositor e violinista veneziano do Barroco, mestre do concerto grosso, célebre pelas 'Quatro Estações', uma das obras mais reconhecíveis da música clássica.", "year": 1678 },
+      { "name": "Miriam Makeba", "description": "Cantora sul-africana conhecida como 'Mama África', ícone do ativismo antiapartheid e figura fundamental da música africana no mundo.", "year": 1932 },
+      { "name": "Emilio Estévez", "description": "Ator e diretor americano, membro do Brat Pack de Hollywood nos anos 80, conhecido por 'O Clube do Café da Manhã' e a saga 'Patos Bravos'.", "year": 1962 }
+    ],
+    "events": [
+      { "title": "Abraham Lincoln toma posse como presidente", "description": "Abraham Lincoln prestou juramento como décimo sexto presidente dos Estados Unidos pela primeira vez, em um momento crítico às vésperas da Guerra Civil.", "year": 1861 },
+      { "title": "A Constituição dos EUA entra em vigor", "description": "O primeiro Congresso dos Estados Unidos se reuniu pela primeira vez sob a nova Constituição federal, marcando o início do governo constitucional americano.", "year": 1789 },
+      { "title": "Primeiro voo do Concorde", "description": "O avião supersônico Concorde realizou seu primeiro voo de teste a partir de Toulouse, inaugurando uma nova era na aviação comercial.", "year": 1969 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Casimir de Polònia", "type": "Príncep", "description": "Príncep polonès del segle XV, fill del rei Casimir IV Jagel·ló, canonitzat per la seva pietat, castedat i amor als pobres; patró de Polònia i Lituània." },
+      { "name": "Sant Lluc I", "type": "Papa i màrtir", "description": "Papa del segle III, successor de Corneli, que va defensar la misericòrdia amb els lapsi (cristians que havien apostatat) i va morir a l'exili." },
+      { "name": "Santa Felicitat de Roma", "type": "Màrtir", "description": "Màrtir romana del segle II, mare de set fills també màrtirs segons la tradició, símbol de la fe materna en la persecució." }
+    ],
+    "observances": [
+      { "name": "Dia Nacional de la Gramàtica (Grammar Day)", "description": "Celebració informal en països anglòfons que promou l'ús correcte de la llengua anglesa i anima la societat a cuidar la gramàtica." },
+      { "name": "Dia de Vermont (Vermont Day)", "description": "Vermont commemora la seva admissió com a catorzè estat de la Unió el 4 de març de 1791, el primer estat a unir-se als tretze originals." }
+    ],
+    "historicalQuote": {
+      "text": "Sense malícia cap a ningú; amb caritat per a tothom; amb fermesa en el que és correcte, tal com Déu ens permet veure el que és correcte.",
+      "author": "Abraham Lincoln",
+      "context": "Paraules pronunciades per Lincoln en el seu segon discurs inaugural el 4 de març de 1865, setmanes abans del final de la Guerra Civil i del seu propi assassinat. Considerat un dels millors discursos de la història americana."
+    },
+    "motivationalQuote": {
+      "text": "La persistència pot convertir el fracàs en un assoliment extraordinari.",
+      "author": "Marv Levy"
+    },
+    "births": [
+      { "name": "Antonio Vivaldi", "description": "Compositor i violinista venecià del Barroc, mestre del concerto grosso, cèlebre per 'Les quatre estacions', una de les obres més reconeixibles de la música clàssica.", "year": 1678 },
+      { "name": "Miriam Makeba", "description": "Cantant sud-africana coneguda com a 'Mama Àfrica', icona de l'activisme antiapartheid i figura fonamental de la música africana al món.", "year": 1932 },
+      { "name": "Emilio Estévez", "description": "Actor i director americà, membre del Brat Pack de Hollywood als anys 80, conegut per 'El Club dels Cinc' i la saga 'Mighty Ducks'.", "year": 1962 }
+    ],
+    "events": [
+      { "title": "Abraham Lincoln pren possessió com a president", "description": "Abraham Lincoln va prestar jurament com a setzè president dels Estats Units per primera vegada, en un moment crític a les vigílies de la Guerra Civil.", "year": 1861 },
+      { "title": "La Constitució dels EUA entra en vigor", "description": "El primer Congrés dels Estats Units es va reunir per primera vegada sota la nova Constitució federal, marcant l'inici del govern constitucional americà.", "year": 1789 },
+      { "title": "Primer vol del Concorde", "description": "L'avió supersònic Concorde va realitzar el seu primer vol de proves des de Toulouse, inaugurant una nova era en l'aviació comercial.", "year": 1969 }
+    ]
+  }
+}

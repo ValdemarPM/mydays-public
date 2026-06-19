@@ -1,0 +1,255 @@
+{
+  "date": "2026-01-02",
+  "es": {
+    "saints": [
+      {
+        "name": "San Basilio el Grande",
+        "type": "Obispo y Doctor de la Iglesia",
+        "description": "Obispo de Cesarea en el siglo IV, uno de los Padres Capadocios, teólogo fundamental en la elaboración de la doctrina trinitaria y fundador del monasticismo oriental."
+      },
+      {
+        "name": "San Gregorio Nacianceno",
+        "type": "Obispo y Doctor de la Iglesia",
+        "description": "Teólogo y poeta griego del siglo IV, Patriarca de Constantinopla y uno de los tres Grandes Capadocios junto a Basilio y Gregorio de Nisa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Ciencia en España",
+        "description": "Jornada para conmemorar y difundir el valor de la ciencia y la investigación científica en la sociedad española."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El estudio sin reflexión es tiempo perdido; la reflexión sin estudio es peligrosa.",
+      "author": "Confucio",
+      "context": "Filósofo chino cuyas enseñanzas sobre la virtud y el conocimiento siguen siendo referencia universal. Cita apropiada para el inicio del año, momento de reflexión y nuevos propósitos."
+    },
+    "motivationalQuote": {
+      "text": "Comienza haciendo lo que es necesario, luego lo que es posible, y de repente estarás haciendo lo imposible.",
+      "author": "Francisco de Asís"
+    },
+    "births": [
+      {
+        "name": "Isaac Asimov",
+        "description": "Escritor y bioquímico ruso-estadounidense, uno de los grandes maestros de la ciencia ficción, conocido por la saga Fundación y las Leyes de la Robótica.",
+        "year": 1920
+      },
+      {
+        "name": "Tito (Josip Broz)",
+        "description": "Estadista y revolucionario yugoslavo que lideró la resistencia partisana durante la Segunda Guerra Mundial y gobernó Yugoslavia como presidente vitalicio.",
+        "year": 1892
+      },
+      {
+        "name": "Christy Turlington",
+        "description": "Supermodelo estadounidense, una de las modelos más reconocidas de la década de 1990 y activista en salud materna.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "Caída de Granada: fin de la Reconquista",
+        "description": "El rey Boabdil entregó la ciudad de Granada a los Reyes Católicos, poniendo fin a más de siete siglos de presencia musulmana en la Península Ibérica y completando la Reconquista.",
+        "year": 1492
+      },
+      {
+        "title": "La sonda lunar soviética Luna 1",
+        "description": "La URSS lanzó Luna 1, la primera nave espacial que alcanzó el espacio cercano a la Luna y descubrió el viento solar.",
+        "year": 1959
+      },
+      {
+        "title": "Revolución cubana: Batista huye de Cuba",
+        "description": "El dictador Fulgencio Batista abandonó Cuba en la madrugada, dejando el poder a las fuerzas revolucionarias de Fidel Castro que entraron en La Habana días después.",
+        "year": 1959
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Basil the Great",
+        "type": "Bishop and Doctor of the Church",
+        "description": "Bishop of Caesarea in the 4th century, one of the Cappadocian Fathers, a key theologian in formulating Trinitarian doctrine and founder of Eastern monasticism."
+      },
+      {
+        "name": "Saint Gregory Nazianzen",
+        "type": "Bishop and Doctor of the Church",
+        "description": "Greek theologian and poet of the 4th century, Patriarch of Constantinople and one of the Three Cappadocians alongside Basil and Gregory of Nyssa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Science Day in Spain",
+        "description": "A day to commemorate and promote the value of science and scientific research in Spanish society."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Learning without thought is labour lost; thought without learning is perilous.",
+      "author": "Confucius",
+      "context": "Chinese philosopher whose teachings on virtue and knowledge remain a universal reference. An apt quote for the start of the year, a time of reflection and new resolutions."
+    },
+    "motivationalQuote": {
+      "text": "Start by doing what is necessary, then what is possible, and suddenly you are doing the impossible.",
+      "author": "Francis of Assisi"
+    },
+    "births": [
+      {
+        "name": "Isaac Asimov",
+        "description": "Russian-American writer and biochemist, one of the great masters of science fiction, known for the Foundation saga and the Laws of Robotics.",
+        "year": 1920
+      },
+      {
+        "name": "Tito (Josip Broz)",
+        "description": "Yugoslav statesman and revolutionary who led the partisan resistance during World War II and governed Yugoslavia as lifelong president.",
+        "year": 1892
+      },
+      {
+        "name": "Christy Turlington",
+        "description": "American supermodel, one of the most recognised models of the 1990s and an activist for maternal health.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "Fall of Granada: end of the Reconquista",
+        "description": "King Boabdil surrendered the city of Granada to the Catholic Monarchs, ending more than seven centuries of Muslim presence on the Iberian Peninsula and completing the Reconquista.",
+        "year": 1492
+      },
+      {
+        "title": "Soviet lunar probe Luna 1",
+        "description": "The USSR launched Luna 1, the first spacecraft to reach the vicinity of the Moon and discover the solar wind.",
+        "year": 1959
+      },
+      {
+        "title": "Cuban Revolution: Batista flees Cuba",
+        "description": "Dictator Fulgencio Batista fled Cuba in the early hours, ceding power to Fidel Castro's revolutionary forces, who entered Havana days later.",
+        "year": 1959
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Basílio Magno",
+        "type": "Bispo e Doutor da Igreja",
+        "description": "Bispo de Cesareia no século IV, um dos Padres Capadócios, teólogo fundamental na elaboração da doutrina trinitária e fundador do monasticismo oriental."
+      },
+      {
+        "name": "São Gregório Nazianzeno",
+        "type": "Bispo e Doutor da Igreja",
+        "description": "Teólogo e poeta grego do século IV, Patriarca de Constantinopla e um dos três Grandes Capadócios ao lado de Basílio e Gregório de Nissa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Ciência na Espanha",
+        "description": "Jornada para comemorar e divulgar o valor da ciência e da pesquisa científica na sociedade espanhola."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Aprender sem pensar é tempo perdido; pensar sem aprender é perigoso.",
+      "author": "Confúcio",
+      "context": "Filósofo chinês cujos ensinamentos sobre virtude e conhecimento continuam sendo referência universal. Citação apropriada para o início do ano, momento de reflexão e novos propósitos."
+    },
+    "motivationalQuote": {
+      "text": "Comece fazendo o que é necessário, depois o que é possível, e de repente você estará fazendo o impossível.",
+      "author": "Francisco de Assis"
+    },
+    "births": [
+      {
+        "name": "Isaac Asimov",
+        "description": "Escritor e bioquímico russo-americano, um dos grandes mestres da ficção científica, conhecido pela saga Fundação e pelas Leis da Robótica.",
+        "year": 1920
+      },
+      {
+        "name": "Tito (Josip Broz)",
+        "description": "Estadista e revolucionário iugoslavo que liderou a resistência partisana durante a Segunda Guerra Mundial e governou a Iugoslávia como presidente vitalício.",
+        "year": 1892
+      },
+      {
+        "name": "Christy Turlington",
+        "description": "Supermodelo americana, uma das modelos mais reconhecidas da década de 1990 e ativista na saúde materna.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "Queda de Granada: fim da Reconquista",
+        "description": "O rei Boabdil entregou a cidade de Granada aos Reis Católicos, pondo fim a mais de sete séculos de presença muçulmana na Península Ibérica e completando a Reconquista.",
+        "year": 1492
+      },
+      {
+        "title": "Sonda lunar soviética Luna 1",
+        "description": "A URSS lançou a Luna 1, a primeira espaçonave a alcançar a vizinhança da Lua e a descobrir o vento solar.",
+        "year": 1959
+      },
+      {
+        "title": "Revolução cubana: Batista foge de Cuba",
+        "description": "O ditador Fulgêncio Batista fugiu de Cuba de madrugada, deixando o poder às forças revolucionárias de Fidel Castro, que entraram em Havana dias depois.",
+        "year": 1959
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Basili el Gran",
+        "type": "Bisbe i Doctor de l'Església",
+        "description": "Bisbe de Cesarea al segle IV, un dels Pares Capadocis, teòleg fonamental en l'elaboració de la doctrina trinitària i fundador del monaquisme oriental."
+      },
+      {
+        "name": "Sant Gregori Nazianzè",
+        "type": "Bisbe i Doctor de l'Església",
+        "description": "Teòleg i poeta grec del segle IV, Patriarca de Constantinoble i un dels tres Grans Capadocis al costat de Basili i Gregori de Nissa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Ciència a Espanya",
+        "description": "Jornada per commemorar i difondre el valor de la ciència i la recerca científica a la societat espanyola."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Aprendre sense reflexionar és temps perdut; reflexionar sense aprendre és perillós.",
+      "author": "Confuci",
+      "context": "Filòsof xinès els ensenyaments del qual sobre la virtut i el coneixement continuen sent una referència universal. Citació adient per a l'inici de l'any, moment de reflexió i nous propòsits."
+    },
+    "motivationalQuote": {
+      "text": "Comença fent el que és necessari, després el que és possible, i de sobte estaràs fent l'impossible.",
+      "author": "Francesc d'Assís"
+    },
+    "births": [
+      {
+        "name": "Isaac Asimov",
+        "description": "Escriptor i bioquímic russoamericà, un dels grans mestres de la ciència ficció, conegut per la saga Fundació i les Lleis de la Robòtica.",
+        "year": 1920
+      },
+      {
+        "name": "Tito (Josip Broz)",
+        "description": "Estadista i revolucionari iugoslau que va liderar la resistència partisana durant la Segona Guerra Mundial i va governar Iugoslàvia com a president vitalici.",
+        "year": 1892
+      },
+      {
+        "name": "Christy Turlington",
+        "description": "Supermodel nord-americana, una de les models més reconegudes dels anys 90 i activista en salut materna.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "Caiguda de Granada: fi de la Reconquesta",
+        "description": "El rei Boabdil va lliurar la ciutat de Granada als Reis Catòlics, posant fi a més de set segles de presència musulmana a la Península Ibèrica i completant la Reconquesta.",
+        "year": 1492
+      },
+      {
+        "title": "Sonda lunar soviètica Luna 1",
+        "description": "La URSS va llançar la Luna 1, la primera nau espacial que va arribar a la veïnança de la Lluna i va descobrir el vent solar.",
+        "year": 1959
+      },
+      {
+        "title": "Revolució cubana: Batista fuig de Cuba",
+        "description": "El dictador Fulgencio Batista va fugir de Cuba de matinada, cedint el poder a les forces revolucionàries de Fidel Castro, que van entrar a l'Havana dies després.",
+        "year": 1959
+      }
+    ]
+  }
+}

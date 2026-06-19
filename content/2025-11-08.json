@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-08",
+  "es": {
+    "saints": [
+      {
+        "name": "San Godofredo de Amiens",
+        "type": "Obispo",
+        "description": "Obispo de Amiens del siglo XII, conocido por su rigor ascético y su defensa de la reforma gregoriana de la Iglesia. Canonizado en 1130 por el papa Inocencio II."
+      },
+      {
+        "name": "Santos Cuatro Coronados",
+        "type": "Mártires",
+        "description": "Cuatro soldados romanos del siglo IV que se negaron a adorar la estatua de Esculapio y fueron ejecutados durante la persecución de Diocleciano. Patronos de los canteros y escultores."
+      },
+      {
+        "name": "San Deusdedit de Canterbury",
+        "type": "Arzobispo",
+        "description": "Primer arzobispo anglosajón de Canterbury (fallecido en 664), durante cuyo episcopado la Iglesia de Inglaterra consolidó su estructura organizativa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Radiología",
+        "description": "Se conmemora el descubrimiento de los rayos X por Wilhelm Röntgen el 8 de noviembre de 1895, que revolucionó la medicina y dio origen a la radiología moderna."
+      },
+      {
+        "name": "Día de la Juventud (Camboya)",
+        "description": "Camboya celebra a sus jóvenes con actos culturales, deportivos y educativos, reafirmando el papel de la juventud en la reconstrucción del país tras las décadas de conflicto."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si he visto más lejos que otros, es porque estaba parado sobre los hombros de gigantes.",
+      "author": "Isaac Newton",
+      "context": "Newton articuló esta frase para describir la naturaleza acumulativa de la ciencia, un principio que cobra sentido especial en el Día de la Radiología, cuando un descubrimiento construido sobre siglos de física cambió la medicina para siempre."
+    },
+    "motivationalQuote": {
+      "text": "El primer paso hacia el conocimiento es saber que somos ignorantes.",
+      "author": "Cecile B. de Mille"
+    },
+    "births": [
+      {
+        "name": "Edmond Halley",
+        "description": "Astrónomo inglés que calculó la órbita del cometa que lleva su nombre y predijo correctamente su retorno. También fue el primero en calcular el tamaño del Sistema Solar.",
+        "year": 1656
+      },
+      {
+        "name": "Bram Stoker",
+        "description": "Escritor irlandés autor de Drácula (1897), la novela gótica que creó el mito del vampiro moderno y que no ha dejado de estar en impresión desde su publicación.",
+        "year": 1847
+      },
+      {
+        "name": "Tara Reid",
+        "description": "Actriz estadounidense conocida por sus papeles en American Pie y Sharknado, representativa de la cultura pop de finales de los años noventa.",
+        "year": 1975
+      }
+    ],
+    "events": [
+      {
+        "title": "Descubrimiento de los rayos X",
+        "description": "El físico alemán Wilhelm Röntgen descubrió accidentalmente los rayos X mientras experimentaba con tubos de vacío, dando inicio a una nueva era en el diagnóstico médico.",
+        "year": 1895
+      },
+      {
+        "title": "La Kristallnacht (Noche de los Cristales Rotos)",
+        "description": "En Alemania y Austria, las SA nazis perpetraron pogromos contra la comunidad judía, destruyendo sinagogas, negocios y hogares, y matando a cientos de personas en una sola noche.",
+        "year": 1938
+      },
+      {
+        "title": "Caída del Muro de Berlín",
+        "description": "El gobierno de Alemania Oriental anunció que los ciudadanos podían cruzar libremente la frontera, y miles de berlineses comenzaron a demoler el muro que había dividido la ciudad durante 28 años.",
+        "year": 1989
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Godfrey of Amiens",
+        "type": "Bishop",
+        "description": "12th-century bishop of Amiens, known for his ascetic rigour and defence of the Gregorian reform of the Church. Canonised in 1130 by Pope Innocent II."
+      },
+      {
+        "name": "The Four Crowned Martyrs",
+        "type": "Martyrs",
+        "description": "Four Roman soldiers of the 4th century who refused to worship a statue of Aesculapius and were executed during the Diocletianic Persecution. Patrons of stonemasons and sculptors."
+      },
+      {
+        "name": "Saint Deusdedit of Canterbury",
+        "type": "Archbishop",
+        "description": "First Anglo-Saxon Archbishop of Canterbury (died 664), during whose episcopate the Church of England consolidated its organisational structure."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Day of Radiology",
+        "description": "Commemorates Wilhelm Röntgen's discovery of X-rays on 8 November 1895, which revolutionised medicine and gave rise to modern radiology."
+      },
+      {
+        "name": "Youth Day (Cambodia)",
+        "description": "Cambodia celebrates its young people with cultural, sporting, and educational events, reaffirming the role of youth in the country's reconstruction after decades of conflict."
+      }
+    ],
+    "historicalQuote": {
+      "text": "If I have seen further than others, it is by standing on the shoulders of giants.",
+      "author": "Isaac Newton",
+      "context": "Newton wrote this phrase to describe the cumulative nature of science — a principle that resonates especially on Radiology Day, when a discovery built on centuries of physics forever changed medicine."
+    },
+    "motivationalQuote": {
+      "text": "The first step to knowledge is knowing that we are ignorant.",
+      "author": "Cecil B. DeMille"
+    },
+    "births": [
+      {
+        "name": "Edmond Halley",
+        "description": "English astronomer who calculated the orbit of the comet that bears his name and correctly predicted its return. He was also the first to calculate the scale of the Solar System.",
+        "year": 1656
+      },
+      {
+        "name": "Bram Stoker",
+        "description": "Irish author of Dracula (1897), the Gothic novel that created the myth of the modern vampire and has never gone out of print since publication.",
+        "year": 1847
+      },
+      {
+        "name": "Tara Reid",
+        "description": "American actress known for her roles in American Pie and Sharknado, an icon of late-1990s pop culture.",
+        "year": 1975
+      }
+    ],
+    "events": [
+      {
+        "title": "Discovery of X-rays",
+        "description": "German physicist Wilhelm Röntgen accidentally discovered X-rays while experimenting with vacuum tubes, launching a new era in medical diagnosis.",
+        "year": 1895
+      },
+      {
+        "title": "Kristallnacht (Night of Broken Glass)",
+        "description": "In Germany and Austria, Nazi SA units carried out pogroms against the Jewish community, destroying synagogues, businesses, and homes, and killing hundreds in a single night.",
+        "year": 1938
+      },
+      {
+        "title": "Fall of the Berlin Wall",
+        "description": "The East German government announced that citizens could cross the border freely, and thousands of Berliners began tearing down the wall that had divided the city for 28 years.",
+        "year": 1989
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Godofredo de Amiens",
+        "type": "Bispo",
+        "description": "Bispo de Amiens do século XII, conhecido pelo seu rigor ascético e defesa da reforma gregoriana da Igreja. Canonizado em 1130 pelo papa Inocêncio II."
+      },
+      {
+        "name": "Os Quatro Santos Coroados",
+        "type": "Mártires",
+        "description": "Quatro soldados romanos do século IV que se recusaram a adorar uma estátua de Esculápio e foram executados durante a perseguição de Diocleciano. Padroeiros dos canteiros e escultores."
+      },
+      {
+        "name": "São Deusdedit de Canterbury",
+        "type": "Arcebispo",
+        "description": "Primeiro arcebispo anglo-saxão de Canterbury (falecido em 664), durante cujo episcopado a Igreja da Inglaterra consolidou a sua estrutura organizacional."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Radiologia",
+        "description": "Comemora o descobrimento dos raios X por Wilhelm Röntgen em 8 de novembro de 1895, que revolucionou a medicina e deu origem à radiologia moderna."
+      },
+      {
+        "name": "Dia da Juventude (Camboja)",
+        "description": "O Camboja celebra os seus jovens com atividades culturais, esportivas e educacionais, reafirmando o papel da juventude na reconstrução do país após décadas de conflito."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Se enxerguei mais longe do que outros, foi por estar de pé sobre os ombros de gigantes.",
+      "author": "Isaac Newton",
+      "context": "Newton escreveu esta frase para descrever a natureza cumulativa da ciência — um princípio que ressoa especialmente no Dia da Radiologia, quando uma descoberta construída sobre séculos de física transformou a medicina para sempre."
+    },
+    "motivationalQuote": {
+      "text": "O primeiro passo para o conhecimento é saber que somos ignorantes.",
+      "author": "Cecil B. DeMille"
+    },
+    "births": [
+      {
+        "name": "Edmond Halley",
+        "description": "Astrônomo inglês que calculou a órbita do cometa que leva seu nome e previu corretamente seu retorno. Foi também o primeiro a calcular a escala do Sistema Solar.",
+        "year": 1656
+      },
+      {
+        "name": "Bram Stoker",
+        "description": "Autor irlandês de Drácula (1897), o romance gótico que criou o mito do vampiro moderno e que nunca saiu de impressão desde a sua publicação.",
+        "year": 1847
+      },
+      {
+        "name": "Tara Reid",
+        "description": "Atriz americana conhecida pelos seus papéis em American Pie e Sharknado, um ícone da cultura pop do final dos anos noventa.",
+        "year": 1975
+      }
+    ],
+    "events": [
+      {
+        "title": "Descoberta dos raios X",
+        "description": "O físico alemão Wilhelm Röntgen descobriu acidentalmente os raios X ao experimentar com tubos de vácuo, inaugurando uma nova era no diagnóstico médico.",
+        "year": 1895
+      },
+      {
+        "title": "Kristallnacht (Noite dos Cristais Partidos)",
+        "description": "Na Alemanha e na Áustria, as SA nazistas perpetraram pogroms contra a comunidade judia, destruindo sinagogas, comércios e casas, e matando centenas de pessoas numa única noite.",
+        "year": 1938
+      },
+      {
+        "title": "Queda do Muro de Berlim",
+        "description": "O governo da Alemanha Oriental anunciou que os cidadãos podiam cruzar livremente a fronteira, e milhares de berlinenses começaram a demolir o muro que dividia a cidade havia 28 anos.",
+        "year": 1989
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Godofred d'Amiens",
+        "type": "Bisbe",
+        "description": "Bisbe d'Amiens del segle XII, conegut pel seu rigor ascètic i la defensa de la reforma gregoriana de l'Església. Canonitzat el 1130 pel papa Innocenci II."
+      },
+      {
+        "name": "Els Quatre Sants Coronats",
+        "type": "Màrtirs",
+        "description": "Quatre soldats romans del segle IV que es van negar a adorar una estàtua d'Esculapi i van ser executats durant la persecució de Dioclecià. Patrons dels picapedrers i escultors."
+      },
+      {
+        "name": "Sant Deusdedit de Canterbury",
+        "type": "Arquebisbe",
+        "description": "Primer arquebisbe anglosaxó de Canterbury (mort el 664), durant el bisbat del qual l'Església d'Anglaterra va consolidar la seva estructura organitzativa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Radiologia",
+        "description": "Es commemora el descobriment dels raigs X per Wilhelm Röntgen el 8 de novembre de 1895, que va revolucionar la medicina i va donar origen a la radiologia moderna."
+      },
+      {
+        "name": "Dia de la Joventut (Cambodja)",
+        "description": "Cambodja celebra els seus joves amb actes culturals, esportius i educatius, reafirmant el paper de la joventut en la reconstrucció del país després de dècades de conflicte."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si he vist més lluny que els altres, és perquè estava dret sobre les espatlles de gegants.",
+      "author": "Isaac Newton",
+      "context": "Newton va escriure aquesta frase per descriure la naturalesa acumulativa de la ciència — un principi que ressona especialment en el Dia de la Radiologia, quan un descobriment construït sobre segles de física va canviar la medicina per sempre."
+    },
+    "motivationalQuote": {
+      "text": "El primer pas cap al coneixement és saber que som ignorants.",
+      "author": "Cecil B. DeMille"
+    },
+    "births": [
+      {
+        "name": "Edmond Halley",
+        "description": "Astrònom anglès que va calcular l'òrbita del cometa que porta el seu nom i va predir correctament el seu retorn. Va ser també el primer a calcular l'escala del Sistema Solar.",
+        "year": 1656
+      },
+      {
+        "name": "Bram Stoker",
+        "description": "Autor irlandès de Dràcula (1897), la novel·la gòtica que va crear el mite del vampir modern i que no ha deixat d'imprimir-se des de la seva publicació.",
+        "year": 1847
+      },
+      {
+        "name": "Tara Reid",
+        "description": "Actriu americana coneguda pels seus papers a American Pie i Sharknado, una icona de la cultura pop de finals dels anys noranta.",
+        "year": 1975
+      }
+    ],
+    "events": [
+      {
+        "title": "Descobriment dels raigs X",
+        "description": "El físic alemany Wilhelm Röntgen va descobrir accidentalment els raigs X mentre experimentava amb tubs de buit, obrint una nova era en el diagnòstic mèdic.",
+        "year": 1895
+      },
+      {
+        "title": "Kristallnacht (Nit dels Vidres Trencats)",
+        "description": "A Alemanya i Àustria, les SA nazistes van perpetrar pogroms contra la comunitat jueva, destruint sinagogues, comerços i llars, i matant centenars de persones en una sola nit.",
+        "year": 1938
+      },
+      {
+        "title": "Caiguda del Mur de Berlín",
+        "description": "El govern d'Alemanya Oriental va anunciar que els ciutadans podien creuar lliurement la frontera, i milers de berlinesos van començar a enderrocar el mur que havia dividit la ciutat durant 28 anys.",
+        "year": 1989
+      }
+    ]
+  }
+}

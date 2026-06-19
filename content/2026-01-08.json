@@ -1,0 +1,255 @@
+{
+  "date": "2026-01-08",
+  "es": {
+    "saints": [
+      {
+        "name": "San Severino de Noricum",
+        "type": "Monje",
+        "description": "Monje misionero del siglo V, evangelizador de las provincias romanas del Danubio (actual Austria). Venerado como patrón de Austria."
+      },
+      {
+        "name": "Beata Ana de Jesús",
+        "type": "Virgen carmelita",
+        "description": "Religiosa española del siglo XVI-XVII, colaboradora de Santa Teresa de Ávila en la reforma del Carmelo y fundadora de conventos en Francia y Bélgica."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de Elvis Presley",
+        "description": "Celebración del cumpleaños de Elvis Aaron Presley (1935), «El Rey del Rock and Roll», una de las figuras musicales más influyentes y veneradas de la historia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La música que toca las cuerdas del corazón te envía directamente al alma.",
+      "author": "Elvis Presley",
+      "context": "Elvis Presley nació el 8 de enero de 1935 en Tupelo, Mississippi. Revolucionó la música popular occidental al fusionar rhythm and blues, country y gospel en lo que se convertiría en el rock and roll."
+    },
+    "motivationalQuote": {
+      "text": "Ambition is a dream with a V8 engine.",
+      "author": "Elvis Presley"
+    },
+    "births": [
+      {
+        "name": "Elvis Presley",
+        "description": "Cantante y actor estadounidense, conocido como «El Rey del Rock and Roll». Vendió más de mil millones de discos en todo el mundo y es considerado uno de los artistas más influyentes del siglo XX.",
+        "year": 1935
+      },
+      {
+        "name": "Stephen Hawking",
+        "description": "Físico teórico y cosmólogo británico, conocido por sus investigaciones sobre los agujeros negros y la relatividad general, y por su libro Breve historia del tiempo.",
+        "year": 1942
+      },
+      {
+        "name": "David Bowie",
+        "description": "Músico, cantautor y actor británico, icono del rock y de la cultura popular, conocido por sus álbumes Ziggy Stardust, Heroes y Let's Dance.",
+        "year": 1947
+      }
+    ],
+    "events": [
+      {
+        "title": "Batalla de Nueva Orleans",
+        "description": "El general Andrew Jackson derrotó a las fuerzas británicas en la Batalla de Nueva Orleans, la última gran batalla de la Guerra de 1812, aunque el Tratado de Gante ya había firmado la paz.",
+        "year": 1815
+      },
+      {
+        "title": "Primer vuelo espacial privado tripulado autorizado",
+        "description": "La FAA autorizó el primer vuelo espacial privado tripulado por SpaceShipOne de Scaled Composites, abriendo la era del turismo espacial privado.",
+        "year": 2004
+      },
+      {
+        "title": "Intento de asesinato de Gabrielle Giffords",
+        "description": "La congresista estadounidense Gabrielle Giffords fue gravemente herida en un tiroteo en Tucson, Arizona; el ataque mató a seis personas e hirió a otras 13.",
+        "year": 2011
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Severinus of Noricum",
+        "type": "Monk",
+        "description": "Missionary monk of the 5th century who evangelised the Roman provinces along the Danube (modern Austria). Venerated as patron of Austria."
+      },
+      {
+        "name": "Blessed Anne of Jesus",
+        "type": "Carmelite Virgin",
+        "description": "Spanish nun of the 16th–17th century, collaborator of Saint Teresa of Ávila in the Carmelite reform and foundress of convents in France and Belgium."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Elvis Presley Day",
+        "description": "Celebration of the birthday of Elvis Aaron Presley (1935), 'The King of Rock and Roll', one of the most influential and revered musical figures in history."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The music that touches the strings of the heart sends you straight to the soul.",
+      "author": "Elvis Presley",
+      "context": "Elvis Presley was born on 8 January 1935 in Tupelo, Mississippi. He revolutionised Western popular music by fusing rhythm and blues, country and gospel into what would become rock and roll."
+    },
+    "motivationalQuote": {
+      "text": "Ambition is a dream with a V8 engine.",
+      "author": "Elvis Presley"
+    },
+    "births": [
+      {
+        "name": "Elvis Presley",
+        "description": "American singer and actor known as 'The King of Rock and Roll'. He sold more than one billion records worldwide and is considered one of the most influential artists of the 20th century.",
+        "year": 1935
+      },
+      {
+        "name": "Stephen Hawking",
+        "description": "British theoretical physicist and cosmologist, known for his research on black holes and general relativity, and for his book A Brief History of Time.",
+        "year": 1942
+      },
+      {
+        "name": "David Bowie",
+        "description": "British musician, singer-songwriter and actor, icon of rock and popular culture, known for albums such as Ziggy Stardust, Heroes and Let's Dance.",
+        "year": 1947
+      }
+    ],
+    "events": [
+      {
+        "title": "Battle of New Orleans",
+        "description": "General Andrew Jackson defeated British forces at the Battle of New Orleans, the last major battle of the War of 1812, even though the Treaty of Ghent had already ended the war.",
+        "year": 1815
+      },
+      {
+        "title": "First authorised private crewed spaceflight",
+        "description": "The FAA authorised the first private crewed spaceflight by Scaled Composites' SpaceShipOne, opening the era of private space tourism.",
+        "year": 2004
+      },
+      {
+        "title": "Assassination attempt on Gabrielle Giffords",
+        "description": "US congresswoman Gabrielle Giffords was critically wounded in a shooting in Tucson, Arizona; the attack killed six people and injured 13 others.",
+        "year": 2011
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Severino do Nórico",
+        "type": "Monge",
+        "description": "Monge missionário do século V que evangelizou as províncias romanas ao longo do Danúbio (atual Áustria). Venerado como padroeiro da Áustria."
+      },
+      {
+        "name": "Beata Ana de Jesus",
+        "type": "Virgem Carmelita",
+        "description": "Religiosa espanhola dos séculos XVI–XVII, colaboradora de Santa Teresa de Ávila na reforma do Carmelo e fundadora de conventos na França e na Bélgica."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Elvis Presley",
+        "description": "Celebração do aniversário de Elvis Aaron Presley (1935), 'O Rei do Rock and Roll', uma das figuras musicais mais influentes e veneradas da história."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A música que toca as cordas do coração te leva diretamente à alma.",
+      "author": "Elvis Presley",
+      "context": "Elvis Presley nasceu em 8 de janeiro de 1935 em Tupelo, Mississippi. Ele revolucionou a música popular ocidental ao fundir rhythm and blues, country e gospel no que se tornaria o rock and roll."
+    },
+    "motivationalQuote": {
+      "text": "A ambição é um sonho com um motor V8.",
+      "author": "Elvis Presley"
+    },
+    "births": [
+      {
+        "name": "Elvis Presley",
+        "description": "Cantor e ator americano conhecido como 'O Rei do Rock and Roll'. Vendeu mais de um bilhão de discos em todo o mundo e é considerado um dos artistas mais influentes do século XX.",
+        "year": 1935
+      },
+      {
+        "name": "Stephen Hawking",
+        "description": "Físico teórico e cosmólogo britânico, conhecido por suas pesquisas sobre buracos negros e relatividade geral, e pelo livro Uma Breve História do Tempo.",
+        "year": 1942
+      },
+      {
+        "name": "David Bowie",
+        "description": "Músico, compositor e ator britânico, ícone do rock e da cultura popular, conhecido por álbuns como Ziggy Stardust, Heroes e Let's Dance.",
+        "year": 1947
+      }
+    ],
+    "events": [
+      {
+        "title": "Batalha de Nova Orleans",
+        "description": "O general Andrew Jackson derrotou as forças britânicas na Batalha de Nova Orleans, a última grande batalha da Guerra de 1812, embora o Tratado de Gante já tivesse encerrado a guerra.",
+        "year": 1815
+      },
+      {
+        "title": "Primeiro voo espacial privado tripulado autorizado",
+        "description": "A FAA autorizou o primeiro voo espacial privado tripulado pelo SpaceShipOne da Scaled Composites, abrindo a era do turismo espacial privado.",
+        "year": 2004
+      },
+      {
+        "title": "Tentativa de assassinato de Gabrielle Giffords",
+        "description": "A congressista americana Gabrielle Giffords foi gravemente ferida num tiroteio em Tucson, Arizona; o ataque matou seis pessoas e feriu outras 13.",
+        "year": 2011
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Severí del Nòric",
+        "type": "Monjo",
+        "description": "Monjo missioner del segle V que va evangelitzar les províncies romanes al llarg del Danubi (actual Àustria). Venerat com a patró d'Àustria."
+      },
+      {
+        "name": "Beata Ana de Jesús",
+        "type": "Verge Carmelita",
+        "description": "Religiosa espanyola dels segles XVI–XVII, col·laboradora de Santa Teresa d'Àvila en la reforma del Carmel i fundadora de convents a França i Bèlgica."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia d'Elvis Presley",
+        "description": "Celebració del natalici d'Elvis Aaron Presley (1935), «El Rei del Rock and Roll», una de les figures musicals més influents i venerades de la història."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La música que toca les cordes del cor t'envia directament a l'ànima.",
+      "author": "Elvis Presley",
+      "context": "Elvis Presley va néixer el 8 de gener de 1935 a Tupelo, Mississippi. Va revolucionar la música popular occidental fusionant rhythm and blues, country i gospel en allò que es convertiria en el rock and roll."
+    },
+    "motivationalQuote": {
+      "text": "L'ambició és un somni amb un motor V8.",
+      "author": "Elvis Presley"
+    },
+    "births": [
+      {
+        "name": "Elvis Presley",
+        "description": "Cantant i actor nord-americà conegut com «El Rei del Rock and Roll». Va vendre més de mil milions de discos a tot el món i és considerat un dels artistes més influents del segle XX.",
+        "year": 1935
+      },
+      {
+        "name": "Stephen Hawking",
+        "description": "Físic teòric i cosmòleg britànic, conegut per les seves investigacions sobre els forats negres i la relativitat general, i pel seu llibre Breu història del temps.",
+        "year": 1942
+      },
+      {
+        "name": "David Bowie",
+        "description": "Músic, cantautor i actor britànic, icona del rock i de la cultura popular, conegut per àlbums com Ziggy Stardust, Heroes i Let's Dance.",
+        "year": 1947
+      }
+    ],
+    "events": [
+      {
+        "title": "Batalla de Nova Orleans",
+        "description": "El general Andrew Jackson va derrotar les forces britàniques a la Batalla de Nova Orleans, la darrera gran batalla de la Guerra de 1812, tot i que el Tractat de Gant ja havia acabat la guerra.",
+        "year": 1815
+      },
+      {
+        "title": "Primer vol espacial privat tripulat autoritzat",
+        "description": "La FAA va autoritzar el primer vol espacial privat tripulat pel SpaceShipOne de Scaled Composites, obrint l'era del turisme espacial privat.",
+        "year": 2004
+      },
+      {
+        "title": "Intent d'assassinat de Gabrielle Giffords",
+        "description": "La congressista nord-americana Gabrielle Giffords va ser greument ferida en un tiroteig a Tucson, Arizona; l'atac va matar sis persones i en va ferir 13 més.",
+        "year": 2011
+      }
+    ]
+  }
+}

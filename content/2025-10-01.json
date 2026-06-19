@@ -1,0 +1,307 @@
+{
+  "date": "2025-10-01",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Teresa del Niño Jesús",
+        "type": "Virgen y Doctora de la Iglesia",
+        "description": "Religiosa carmelita francesa (1873–1897), conocida como «la pequeña flor». Desarrolló la «vía pequeña» de la santidad: hacer las cosas ordinarias con amor extraordinario. Murió de tuberculosis a los 24 años. Declarada Doctora de la Iglesia en 1997 y patrona de las misiones y de Francia."
+      },
+      {
+        "name": "San Remigio de Reims",
+        "type": "Obispo",
+        "description": "Obispo de Reims (437–533), conocido por bautizar al rey franco Clodoveo I en 496, acontecimiento que marcó la evangelización de los francos y el futuro de la Europa cristiana. Gobernó su diócesis durante más de 70 años."
+      },
+      {
+        "name": "San Niceto de Tréveris",
+        "type": "Obispo",
+        "description": "Obispo de Tréveris del siglo VI, defensor de los pobres y de la ortodoxia católica frente a los reyes merovingios. Participó en varios concilios de la Galia y es venerado como uno de los grandes pastores del período galo-romano tardío."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Música",
+        "description": "Proclamado por la UNESCO en 1975 a propuesta del compositor soviético Dmitri Shostakóvich, se celebra cada 1 de octubre para reconocer el poder universal de la música como lenguaje que une a los pueblos y promueve la paz y la comprensión."
+      },
+      {
+        "name": "Día Internacional de las Personas Mayores",
+        "description": "Proclamado por la Asamblea General de la ONU en 1990 (resolución 45/106), se conmemora el 1 de octubre para sensibilizar sobre los retos que afrontan las personas mayores y promover su plena participación en la sociedad."
+      },
+      {
+        "name": "Día del Café",
+        "description": "El Día Internacional del Café, creado por la Organización Internacional del Café (OIC), se celebra desde 2015 para promover y celebrar el café como bebida global y reconocer el trabajo de los millones de agricultores que lo producen."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La santidad no consiste en no cometer errores, sino en superar nuestros errores con humildad.",
+      "author": "Santa Teresa del Niño Jesús",
+      "context": "La Doctora de la Iglesia cuya festividad se celebra hoy enseñó que la santidad no requiere grandes actos heroicos sino una confianza sencilla y cotidiana en Dios. Su «vía pequeña» continúa inspirando a millones de personas."
+    },
+    "motivationalQuote": {
+      "text": "La música da alma al universo, alas a la mente, vuelo a la imaginación y vida a todo.",
+      "author": "Platón"
+    },
+    "births": [
+      {
+        "name": "Jimmy Carter",
+        "description": "Trigésimo noveno presidente de los Estados Unidos (1977–1981), Premio Nobel de la Paz en 2002. Tras su mandato, se dedicó a la diplomacia humanitaria y a la construcción de viviendas solidarias con Hábitat para la Humanidad. Uno de los expresidentes más activos en causas sociales de la historia americana.",
+        "year": 1924
+      },
+      {
+        "name": "Julie Andrews",
+        "description": "Actriz y cantante británica, icono del cine musical. Ganó el Oscar a la mejor actriz por Mary Poppins (1964) y protagonizó Sonrisas y lágrimas (1965). También destacó en obras de teatro musical en Broadway y el West End londinense.",
+        "year": 1935
+      },
+      {
+        "name": "Walter Matthau",
+        "description": "Actor estadounidense, conocido por sus papeles en comedias y películas dramáticas. Ganó el Oscar al mejor actor de reparto por La extraña pareja (1966) y fue una figura central del cine americano de los años sesenta y setenta.",
+        "year": 1920
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundación de la República Popular China",
+        "description": "Mao Zedong proclamó la fundación de la República Popular China en la Plaza de Tiananmén, en Pekín, poniendo fin a décadas de guerra civil entre el Partido Comunista y el Kuomintang. Es el Día Nacional de China, celebrado anualmente con gran solemnidad.",
+        "year": 1949
+      },
+      {
+        "title": "Primera emisión de Looney Tunes",
+        "description": "Los estudios Warner Bros. estrenaron los primeros cortometrajes de la serie animada Looney Tunes, que daría lugar a personajes icónicos como Bugs Bunny, el Pato Lucas, Porky Pig y el Correcaminos. La franquicia se convertiría en una de las más influyentes de la historia de la animación.",
+        "year": 1930
+      },
+      {
+        "title": "Inauguración del Disneyworld en Orlando",
+        "description": "Walt Disney World Resort abrió sus puertas al público en Orlando, Florida. El parque, que superó en tamaño y ambición a Disneyland de California, se convirtió rápidamente en el destino turístico más visitado del mundo.",
+        "year": 1971
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Thérèse of the Child Jesus",
+        "type": "Virgin and Doctor of the Church",
+        "description": "A French Carmelite nun (1873–1897), known as 'the Little Flower'. She developed the 'little way' of holiness: doing ordinary things with extraordinary love. She died of tuberculosis at the age of 24. Declared a Doctor of the Church in 1997 and patron of missions and of France."
+      },
+      {
+        "name": "Saint Remigius of Reims",
+        "type": "Bishop",
+        "description": "Bishop of Reims (437–533), known for baptising the Frankish king Clovis I in 496, an event that shaped the evangelisation of the Franks and the future of Christian Europe. He governed his diocese for more than 70 years."
+      },
+      {
+        "name": "Saint Nicetius of Trier",
+        "type": "Bishop",
+        "description": "6th-century Bishop of Trier, defender of the poor and of Catholic orthodoxy against the Merovingian kings. He participated in several councils of Gaul and is venerated as one of the great pastors of the late Gallo-Roman period."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Music Day",
+        "description": "Proclaimed by UNESCO in 1975 at the suggestion of Soviet composer Dmitri Shostakovich, it is celebrated each 1 October to recognise the universal power of music as a language that unites peoples and promotes peace and understanding."
+      },
+      {
+        "name": "International Day of Older Persons",
+        "description": "Proclaimed by the UN General Assembly in 1990 (resolution 45/106), it is commemorated on 1 October to raise awareness of the challenges facing older persons and promote their full participation in society."
+      },
+      {
+        "name": "International Coffee Day",
+        "description": "International Coffee Day, created by the International Coffee Organization (ICO), has been celebrated since 2015 to promote and celebrate coffee as a global beverage and recognise the work of the millions of farmers who produce it."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Holiness does not consist in not making mistakes, but in overcoming our mistakes with humility.",
+      "author": "Saint Thérèse of the Child Jesus",
+      "context": "The Doctor of the Church whose feast is celebrated today taught that holiness requires no great heroic acts but a simple, daily trust in God. Her 'little way' continues to inspire millions of people."
+    },
+    "motivationalQuote": {
+      "text": "Music gives a soul to the universe, wings to the mind, flight to the imagination, and life to everything.",
+      "author": "Plato"
+    },
+    "births": [
+      {
+        "name": "Jimmy Carter",
+        "description": "Thirty-ninth President of the United States (1977–1981), Nobel Peace Prize laureate in 2002. After his term, he devoted himself to humanitarian diplomacy and the construction of homes for Habitat for Humanity. One of the most active former presidents in social causes in American history.",
+        "year": 1924
+      },
+      {
+        "name": "Julie Andrews",
+        "description": "British actress and singer, an icon of the musical film. She won the Oscar for Best Actress for Mary Poppins (1964) and starred in The Sound of Music (1965). She also excelled in Broadway and West End musical theatre productions.",
+        "year": 1935
+      },
+      {
+        "name": "Walter Matthau",
+        "description": "American actor known for his roles in comedy and dramatic films. He won the Academy Award for Best Supporting Actor for The Odd Couple (1966) and was a central figure in American cinema of the 1960s and 1970s.",
+        "year": 1920
+      }
+    ],
+    "events": [
+      {
+        "title": "Founding of the People's Republic of China",
+        "description": "Mao Zedong proclaimed the founding of the People's Republic of China in Tiananmen Square, Beijing, ending decades of civil war between the Communist Party and the Kuomintang. It is China's National Day, celebrated annually with great solemnity.",
+        "year": 1949
+      },
+      {
+        "title": "First broadcast of Looney Tunes",
+        "description": "Warner Bros. studios released the first short films in the Looney Tunes animated series, which would give rise to iconic characters such as Bugs Bunny, Daffy Duck, Porky Pig, and the Road Runner. The franchise would become one of the most influential in the history of animation.",
+        "year": 1930
+      },
+      {
+        "title": "Opening of Walt Disney World in Orlando",
+        "description": "Walt Disney World Resort opened its doors to the public in Orlando, Florida. The park, which surpassed Disneyland in California in size and ambition, quickly became the most visited tourist destination in the world.",
+        "year": 1971
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Teresa do Menino Jesus",
+        "type": "Virgem e Doutora da Igreja",
+        "description": "Religiosa carmelita francesa (1873–1897), conhecida como 'a pequena flor'. Desenvolveu o 'caminho pequeno' da santidade: fazer as coisas ordinárias com amor extraordinário. Morreu de tuberculose aos 24 anos. Declarada Doutora da Igreja em 1997 e padroeira das missões e da França."
+      },
+      {
+        "name": "São Remígio de Reims",
+        "type": "Bispo",
+        "description": "Bispo de Reims (437–533), conhecido por batizar o rei franco Clóvis I em 496, acontecimento que marcou a evangelização dos francos e o futuro da Europa cristã. Governou a sua diocese durante mais de 70 anos."
+      },
+      {
+        "name": "São Nicécio de Tréveris",
+        "type": "Bispo",
+        "description": "Bispo de Tréveris do século VI, defensor dos pobres e da ortodoxia católica perante os reis merovíngios. Participou em vários concílios da Gália e é venerado como um dos grandes pastores do período galo-romano tardio."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Música",
+        "description": "Proclamado pela UNESCO em 1975 por sugestão do compositor soviético Dmitri Shostakovich, é celebrado a 1 de outubro para reconhecer o poder universal da música como linguagem que une os povos e promove a paz e a compreensão."
+      },
+      {
+        "name": "Dia Internacional das Pessoas Idosas",
+        "description": "Proclamado pela Assembleia Geral da ONU em 1990 (resolução 45/106), é comemorado a 1 de outubro para sensibilizar sobre os desafios que as pessoas idosas enfrentam e promover a sua plena participação na sociedade."
+      },
+      {
+        "name": "Dia Internacional do Café",
+        "description": "O Dia Internacional do Café, criado pela Organização Internacional do Café (OIC), é celebrado desde 2015 para promover e celebrar o café como bebida global e reconhecer o trabalho dos milhões de agricultores que o produzem."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A santidade não consiste em não cometer erros, mas em superar os nossos erros com humildade.",
+      "author": "Santa Teresa do Menino Jesus",
+      "context": "A Doutora da Igreja cuja festa se celebra hoje ensinou que a santidade não exige grandes atos heroicos, mas uma confiança simples e cotidiana em Deus. O seu 'caminho pequeno' continua a inspirar milhões de pessoas."
+    },
+    "motivationalQuote": {
+      "text": "A música dá alma ao universo, asas à mente, voo à imaginação e vida a tudo.",
+      "author": "Platão"
+    },
+    "births": [
+      {
+        "name": "Jimmy Carter",
+        "description": "Trigésimo nono presidente dos Estados Unidos (1977–1981), Prêmio Nobel da Paz em 2002. Após o seu mandato, dedicou-se à diplomacia humanitária e à construção de casas pelo Habitat para a Humanidade. Um dos ex-presidentes mais ativos em causas sociais da história americana.",
+        "year": 1924
+      },
+      {
+        "name": "Julie Andrews",
+        "description": "Atriz e cantora britânica, ícone do cinema musical. Ganhou o Oscar de Melhor Atriz por Mary Poppins (1964) e protagonizou A Noviça Rebelde (1965). Também se destacou em musicais na Broadway e no West End londrino.",
+        "year": 1935
+      },
+      {
+        "name": "Walter Matthau",
+        "description": "Ator americano conhecido pelos seus papéis em comédias e filmes dramáticos. Ganhou o Oscar de Melhor Ator Coadjuvante por The Odd Couple (1966) e foi uma figura central do cinema americano dos anos sessenta e setenta.",
+        "year": 1920
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundação da República Popular da China",
+        "description": "Mao Tsé-Tung proclamou a fundação da República Popular da China na Praça da Paz Celestial, em Pequim, pondo fim a décadas de guerra civil entre o Partido Comunista e o Kuomintang. É o Dia Nacional da China, celebrado anualmente com grande solenidade.",
+        "year": 1949
+      },
+      {
+        "title": "Primeira emissão dos Looney Tunes",
+        "description": "Os estúdios Warner Bros. estrearam as primeiras curtas-metragens da série animada Looney Tunes, que daria origem a personagens icónicas como Bugs Bunny, o Pato Lucas, Porky Pig e o Papa-Léguas. A franquia tornar-se-ia uma das mais influentes da história da animação.",
+        "year": 1930
+      },
+      {
+        "title": "Inauguração do Walt Disney World em Orlando",
+        "description": "O Walt Disney World Resort abriu as suas portas ao público em Orlando, Flórida. O parque, que superou em tamanho e ambição a Disneyland da Califórnia, tornou-se rapidamente no destino turístico mais visitado do mundo.",
+        "year": 1971
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Teresa del Nen Jesús",
+        "type": "Verge i Doctora de l'Església",
+        "description": "Religiosa carmelita francesa (1873–1897), coneguda com 'la petita flor'. Va desenvolupar el 'camí petit' de la santedat: fer les coses ordinàries amb amor extraordinari. Va morir de tuberculosi als 24 anys. Declarada Doctora de l'Església el 1997 i patrona de les missions i de França."
+      },
+      {
+        "name": "Sant Remi de Reims",
+        "type": "Bisbe",
+        "description": "Bisbe de Reims (437–533), conegut per batejar el rei franc Clodoveu I el 496, fet que va marcar l'evangelització dels francs i el futur de l'Europa cristiana. Va governar la seva diòcesi durant més de 70 anys."
+      },
+      {
+        "name": "Sant Niceci de Trèveris",
+        "type": "Bisbe",
+        "description": "Bisbe de Trèveris del segle VI, defensor dels pobres i de l'ortodòxia catòlica davant els reis merovingis. Va participar en diversos concilis de la Gàl·lia i és venerat com un dels grans pastors del període gal·loromà tardà."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la Música",
+        "description": "Proclamat per la UNESCO el 1975 a proposta del compositor soviètic Dmitri Xostakóvitx, se celebra cada 1 d'octubre per reconèixer el poder universal de la música com a llenguatge que uneix els pobles i promou la pau i la comprensió."
+      },
+      {
+        "name": "Dia Internacional de les Persones Grans",
+        "description": "Proclamat per l'Assemblea General de l'ONU el 1990 (resolució 45/106), es commemora l'1 d'octubre per sensibilitzar sobre els reptes que afronten les persones grans i promoure la seva plena participació en la societat."
+      },
+      {
+        "name": "Dia Internacional del Cafè",
+        "description": "El Dia Internacional del Cafè, creat per l'Organització Internacional del Cafè (OIC), se celebra des del 2015 per promoure i celebrar el cafè com a beguda global i reconèixer la feina dels milions d'agricultors que el produeixen."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La santedat no consisteix a no cometre errors, sinó a superar els nostres errors amb humilitat.",
+      "author": "Santa Teresa del Nen Jesús",
+      "context": "La Doctora de l'Església la festivitat de la qual se celebra avui va ensenyar que la santedat no requereix grans actes heroics sinó una confiança senzilla i quotidiana en Déu. El seu 'camí petit' continua inspirant milions de persones."
+    },
+    "motivationalQuote": {
+      "text": "La música dóna ànima a l'univers, ales a la ment, vol a la imaginació i vida a tot.",
+      "author": "Plató"
+    },
+    "births": [
+      {
+        "name": "Jimmy Carter",
+        "description": "Trenta-novè president dels Estats Units (1977–1981), Premi Nobel de la Pau el 2002. Després del seu mandat, es va dedicar a la diplomàcia humanitària i a la construcció d'habitatges solidaris amb Hàbitat per a la Humanitat. Un dels expresidents més actius en causes socials de la història americana.",
+        "year": 1924
+      },
+      {
+        "name": "Julie Andrews",
+        "description": "Actriu i cantant britànica, icona del cinema musical. Va guanyar l'Oscar a la millor actriu per Mary Poppins (1964) i va protagonitzar La melodia de la felicitat (1965). També va destacar en obres de teatre musical a Broadway i al West End londinenc.",
+        "year": 1935
+      },
+      {
+        "name": "Walter Matthau",
+        "description": "Actor americà conegut pels seus papers en comèdies i pel·lícules dramàtiques. Va guanyar l'Oscar al millor actor secundari per La parella esbojarrada (1966) i va ser una figura central del cinema americà dels anys seixanta i setanta.",
+        "year": 1920
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundació de la República Popular de la Xina",
+        "description": "Mao Zedong va proclamar la fundació de la República Popular de la Xina a la Plaça de Tiananmen, a Pequín, posant fi a dècades de guerra civil entre el Partit Comunista i el Kuomintang. És el Dia Nacional de la Xina, celebrat anualment amb gran solemnitat.",
+        "year": 1949
+      },
+      {
+        "title": "Primera emissió dels Looney Tunes",
+        "description": "Els estudis Warner Bros. van estrenar els primers curtmetratges de la sèrie animada Looney Tunes, que donaria lloc a personatges icònics com Bugs Bunny, l'Ànec Lluc, Porky Pig i el Correcamins. La franquícia es convertiria en una de les més influents de la història de l'animació.",
+        "year": 1930
+      },
+      {
+        "title": "Inauguració del Walt Disney World a Orlando",
+        "description": "El Walt Disney World Resort va obrir les seves portes al públic a Orlando, Florida. El parc, que va superar en mida i ambició Disneyland de Califòrnia, es va convertir ràpidament en la destinació turística més visitada del món.",
+        "year": 1971
+      }
+    ]
+  }
+}

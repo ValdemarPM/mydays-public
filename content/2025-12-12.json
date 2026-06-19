@@ -1,0 +1,255 @@
+{
+  "date": "2025-12-12",
+  "es": {
+    "saints": [
+      {
+        "name": "Nuestra Señora de Guadalupe",
+        "type": "Advocación mariana",
+        "description": "Advocación de la Virgen María aparecida al indígena Juan Diego en el cerro del Tepeyac (México) en 1531. Es la patrona de México, de América Latina y de las Américas, y una de las advocaciones marianas más veneradas del mundo."
+      },
+      {
+        "name": "San Sinesio de Roma",
+        "type": "Mártir",
+        "description": "Lector cristiano de Roma del siglo III, mártir durante la persecución del emperador Aureliano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Virgen de Guadalupe (México)",
+        "description": "Fiesta nacional de México y de gran parte de América Latina, que conmemora las apariciones de la Virgen de Guadalupe a Juan Diego en 1531 y reúne a millones de peregrinos en la Basílica de Guadalupe en Ciudad de México."
+      }
+    ],
+    "historicalQuote": {
+      "text": "¿No estoy yo aquí que soy tu madre? ¿No estás bajo mi sombra y resguardo?",
+      "author": "Virgen de Guadalupe a Juan Diego",
+      "context": "Palabras atribuidas a la Virgen de Guadalupe en su aparición al indígena Juan Diego el 12 de diciembre de 1531, según el documento náhuatl Nican Mopohua."
+    },
+    "motivationalQuote": {
+      "text": "La fe es dar el primer paso incluso cuando no ves la escalera completa.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Gustave Flaubert",
+        "description": "Novelista francés del realismo literario, autor de Madame Bovary, considerada una de las mejores novelas de la historia de la literatura universal.",
+        "year": 1821
+      },
+      {
+        "name": "Edvard Munch",
+        "description": "Pintor y grabador noruego del expresionismo, autor de El Grito, una de las imágenes más reconocidas e influyentes del arte moderno.",
+        "year": 1863
+      },
+      {
+        "name": "Frank Sinatra",
+        "description": "Cantante y actor estadounidense conocido como 'La Voz', uno de los artistas más influyentes del siglo XX y símbolo de la cultura popular americana con canciones como My Way y New York, New York.",
+        "year": 1915
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera aparición de la Virgen de Guadalupe",
+        "description": "Según la tradición católica, la Virgen María se apareció al indígena Juan Diego en el cerro del Tepeyac (México), dejando su imagen milagrosamente impresa en el tilma del vidente.",
+        "year": 1531
+      },
+      {
+        "title": "Elección de Jimmy Carter como presidente de EEUU",
+        "description": "El Colegio Electoral de Estados Unidos confirmó a Jimmy Carter como 39.º presidente de los Estados Unidos, derrotando al presidente en ejercicio Gerald Ford.",
+        "year": 1976
+      },
+      {
+        "title": "Tratado de Madrid (1750)",
+        "description": "España y Portugal firmaron el Tratado de Madrid, que redefinió las fronteras entre sus colonias sudamericanas y supuso la expulsión de los jesuitas de las misiones guaraníes.",
+        "year": 1750
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Our Lady of Guadalupe",
+        "type": "Marian title",
+        "description": "Title of the Virgin Mary who appeared to the indigenous Juan Diego on Tepeyac Hill (Mexico) in 1531. She is the patron saint of Mexico, Latin America, and the Americas, and one of the most venerated Marian titles in the world."
+      },
+      {
+        "name": "Saint Synesius of Rome",
+        "type": "Martyr",
+        "description": "Christian lector of Rome in the 3rd century, martyr during the persecution of Emperor Aurelian."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Day of the Virgin of Guadalupe (Mexico)",
+        "description": "National feast of Mexico and much of Latin America, commemorating the apparitions of the Virgin of Guadalupe to Juan Diego in 1531 and gathering millions of pilgrims at the Basilica of Guadalupe in Mexico City."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Am I not here, I who am your mother? Are you not under my shadow and protection?",
+      "author": "Our Lady of Guadalupe to Juan Diego",
+      "context": "Words attributed to the Virgin of Guadalupe in her apparition to the indigenous Juan Diego on 12 December 1531, according to the Nahuatl document Nican Mopohua."
+    },
+    "motivationalQuote": {
+      "text": "Faith is taking the first step even when you don't see the whole staircase.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Gustave Flaubert",
+        "description": "French realist novelist, author of Madame Bovary, considered one of the greatest novels in the history of world literature.",
+        "year": 1821
+      },
+      {
+        "name": "Edvard Munch",
+        "description": "Norwegian Expressionist painter and printmaker, author of The Scream, one of the most recognised and influential images in modern art.",
+        "year": 1863
+      },
+      {
+        "name": "Frank Sinatra",
+        "description": "American singer and actor known as 'The Voice', one of the most influential artists of the 20th century and a symbol of American popular culture with songs such as My Way and New York, New York.",
+        "year": 1915
+      }
+    ],
+    "events": [
+      {
+        "title": "First apparition of the Virgin of Guadalupe",
+        "description": "According to Catholic tradition, the Virgin Mary appeared to the indigenous Juan Diego on Tepeyac Hill (Mexico), miraculously imprinting her image on the seer's tilma.",
+        "year": 1531
+      },
+      {
+        "title": "Jimmy Carter elected US president",
+        "description": "The US Electoral College confirmed Jimmy Carter as the 39th President of the United States, defeating incumbent President Gerald Ford.",
+        "year": 1976
+      },
+      {
+        "title": "Treaty of Madrid (1750)",
+        "description": "Spain and Portugal signed the Treaty of Madrid, redefining the borders of their South American colonies and leading to the expulsion of the Jesuits from the Guaraní missions.",
+        "year": 1750
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Nossa Senhora de Guadalupe",
+        "type": "Invocação mariana",
+        "description": "Invocação da Virgem Maria que se apareceu ao indígena Juan Diego no Cerro do Tepeyac (México) em 1531. É a padroeira do México, da América Latina e das Américas, e uma das invocações marianas mais veneradas do mundo."
+      },
+      {
+        "name": "São Sinésio de Roma",
+        "type": "Mártir",
+        "description": "Leitor cristão de Roma do século III, mártir durante a perseguição do imperador Aureliano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Nossa Senhora de Guadalupe (México)",
+        "description": "Festa nacional do México e de grande parte da América Latina, que comemora as aparições da Virgem de Guadalupe a Juan Diego em 1531 e reúne milhões de peregrinos na Basílica de Guadalupe na Cidade do México."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Não estou eu aqui, que sou tua mãe? Não estás sob minha sombra e proteção?",
+      "author": "Nossa Senhora de Guadalupe a Juan Diego",
+      "context": "Palavras atribuídas à Virgem de Guadalupe na sua aparição ao indígena Juan Diego em 12 de dezembro de 1531, segundo o documento náuatle Nican Mopohua."
+    },
+    "motivationalQuote": {
+      "text": "A fé é dar o primeiro passo mesmo quando não se vê toda a escada.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Gustave Flaubert",
+        "description": "Romancista francês do realismo literário, autor de Madame Bovary, considerada uma das melhores novelas da história da literatura universal.",
+        "year": 1821
+      },
+      {
+        "name": "Edvard Munch",
+        "description": "Pintor e gravador norueguês do expressionismo, autor de O Grito, uma das imagens mais reconhecidas e influentes da arte moderna.",
+        "year": 1863
+      },
+      {
+        "name": "Frank Sinatra",
+        "description": "Cantor e ator americano conhecido como 'A Voz', um dos artistas mais influentes do século XX e símbolo da cultura popular americana com canções como My Way e New York, New York.",
+        "year": 1915
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeira aparição de Nossa Senhora de Guadalupe",
+        "description": "Segundo a tradição católica, a Virgem Maria apareceu ao indígena Juan Diego no Cerro do Tepeyac (México), deixando a sua imagem miraculosamente impressa na tilma do vidente.",
+        "year": 1531
+      },
+      {
+        "title": "Jimmy Carter eleito presidente dos EUA",
+        "description": "O Colégio Eleitoral dos Estados Unidos confirmou Jimmy Carter como 39.º presidente dos Estados Unidos, derrotando o presidente em exercício Gerald Ford.",
+        "year": 1976
+      },
+      {
+        "title": "Tratado de Madrid (1750)",
+        "description": "Espanha e Portugal assinaram o Tratado de Madrid, redefinindo as fronteiras entre as suas colónias sul-americanas e levando à expulsão dos jesuítas das missões guaranis.",
+        "year": 1750
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Nostra Senyora de Guadalupe",
+        "type": "Advocació mariana",
+        "description": "Advocació de la Verge Maria apareguda a l'indígena Juan Diego al turó del Tepeyac (Mèxic) el 1531. És la patrona de Mèxic, de l'Amèrica Llatina i de les Amèriques, i una de les advocacions marianes més venerades del món."
+      },
+      {
+        "name": "Sant Sinesi de Roma",
+        "type": "Màrtir",
+        "description": "Lector cristià de Roma del segle III, màrtir durant la persecució de l'emperador Aurelià."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Verge de Guadalupe (Mèxic)",
+        "description": "Festa nacional de Mèxic i de gran part d'Amèrica Llatina, que commemora les aparicions de la Verge de Guadalupe a Juan Diego el 1531 i reuneix milions de pelegrins a la Basílica de Guadalupe a la Ciutat de Mèxic."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No estic jo aquí, jo que sóc la teva mare? No estàs sota la meva ombra i protecció?",
+      "author": "Nostra Senyora de Guadalupe a Juan Diego",
+      "context": "Paraules atribuïdes a la Verge de Guadalupe en la seva aparició a l'indígena Juan Diego el 12 de desembre de 1531, segons el document nàhuatl Nican Mopohua."
+    },
+    "motivationalQuote": {
+      "text": "La fe és fer el primer pas fins i tot quan no veus tota l'escala.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Gustave Flaubert",
+        "description": "Novel·lista francès del realisme literari, autor de Madame Bovary, considerada una de les millors novel·les de la història de la literatura universal.",
+        "year": 1821
+      },
+      {
+        "name": "Edvard Munch",
+        "description": "Pintor i gravador noruec de l'expressionisme, autor de El Crit, una de les imatges més reconegudes i influents de l'art modern.",
+        "year": 1863
+      },
+      {
+        "name": "Frank Sinatra",
+        "description": "Cantant i actor nord-americà conegut com 'La Veu', un dels artistes més influents del segle XX i símbol de la cultura popular americana amb cançons com My Way i New York, New York.",
+        "year": 1915
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera aparició de la Verge de Guadalupe",
+        "description": "Segons la tradició catòlica, la Verge Maria es va aparèixer a l'indígena Juan Diego al turó del Tepeyac (Mèxic), deixant la seva imatge miraculosament impresa en el tilma del vident.",
+        "year": 1531
+      },
+      {
+        "title": "Jimmy Carter elegit president dels EUA",
+        "description": "El Col·legi Electoral dels Estats Units va confirmar Jimmy Carter com a 39è president dels Estats Units, derrotant el president en exercici Gerald Ford.",
+        "year": 1976
+      },
+      {
+        "title": "Tractat de Madrid (1750)",
+        "description": "Espanya i Portugal van signar el Tractat de Madrid, redefinint les fronteres entre les seves colònies sud-americanes i provocant l'expulsió dels jesuïtes de les missions guaranís.",
+        "year": 1750
+      }
+    ]
+  }
+}

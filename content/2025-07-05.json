@@ -1,0 +1,291 @@
+{
+  "date": "2025-07-05",
+  "es": {
+    "saints": [
+      {
+        "name": "San Antonio María Zaccaria",
+        "type": "Sacerdote y fundador",
+        "description": "Médico y sacerdote italiano del siglo XVI fundador de los Barnabitas (Clérigos Regulares de San Pablo). Propuso una reforma espiritual de la sociedad a través del ejemplo evangélico y la predicación. Canonizado en 1897."
+      },
+      {
+        "name": "San Cirilo de Tesalónica",
+        "type": "Monje y misionero",
+        "description": "Junto con su hermano Metodio, creó el alfabeto glagolítico (precursor del cirílico) para traducir los textos sagrados al eslavo. Evangelizó los pueblos eslavos en el siglo IX. Copatrono de Europa."
+      },
+      {
+        "name": "Santa Filomena",
+        "type": "Mártir",
+        "description": "Mártir cuya tumba fue descubierta en las catacumbas romanas en 1802. Fue muy venerada en el siglo XIX, aunque la Iglesia retiró su festividad del calendario oficial en 1961 por falta de datos históricos verificables."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de Cabo Verde",
+        "description": "Cabo Verde celebra su independencia de Portugal, proclamada el 5 de julio de 1975. Es la fiesta nacional del archipiélago atlántico."
+      },
+      {
+        "name": "Día de la Independencia de Venezuela",
+        "description": "Venezuela conmemora la firma del Acta de Independencia el 5 de julio de 1811, siendo una de las primeras naciones latinoamericanas en declarar su independencia de España."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Un pueblo que no conoce su historia está condenado a repetirla.",
+      "author": "Edmund Burke",
+      "context": "La fecha del 5 de julio es rica en declaraciones de independencia latinoamericanas. Burke, filósofo político irlandés del siglo XVIII, advertía del peligro del olvido histórico con esta máxima que sigue siendo citada en debates políticos actuales."
+    },
+    "motivationalQuote": {
+      "text": "Empieza donde estás. Usa lo que tienes. Haz lo que puedas.",
+      "author": "Arthur Ashe"
+    },
+    "births": [
+      {
+        "name": "P. T. Barnum",
+        "description": "Empresario y showman estadounidense fundador del Circo Barnum & Bailey, apodado 'El rey del espectáculo'. Fue también político y filántropo, pionero del entretenimiento de masas moderno.",
+        "year": 1810
+      },
+      {
+        "name": "Cecil John Rhodes",
+        "description": "Empresario y político británico que dominó la minería de diamantes en Sudáfrica y fundó Rhodesia (actual Zimbabue y Zambia). Fue un controvertido arquitecto del imperialismo británico en África.",
+        "year": 1853
+      },
+      {
+        "name": "Jean Cocteau",
+        "description": "Poeta, novelista, dramaturgo y cineasta francés, figura clave del surrealismo y el vanguardismo. Autor de La Belle et la Bête (1946) y Los niños terribles, fue un artista total de la cultura francesa del siglo XX.",
+        "year": 1889
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundación de la FIFA",
+        "description": "El 5 de mayo de 1904 se fundó la FIFA en París; sin embargo, el 5 de julio de 1930 se celebró el primer partido de la Copa del Mundo en Uruguay, la primera edición del torneo más visto del mundo.",
+        "year": 1930
+      },
+      {
+        "title": "Primer día del Servicio Nacional de Salud (NHS) del Reino Unido",
+        "description": "El 5 de julio de 1948 entró en funcionamiento el National Health Service británico, el sistema de salud pública gratuita más grande del mundo, creado por el gobierno laborista de Clement Attlee.",
+        "year": 1948
+      },
+      {
+        "title": "Dolly, la primera oveja clonada",
+        "description": "El 5 de julio de 1996 nació Dolly, la primera oveja clonada a partir de una célula adulta, en el Instituto Roslin de Edimburgo. Su existencia revolucionó la biología y planteó profundos debates éticos.",
+        "year": 1996
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Anthony Mary Zaccaria",
+        "type": "Priest and Founder",
+        "description": "An Italian physician and priest of the 16th century who founded the Barnabites (Clerics Regular of Saint Paul). He proposed a spiritual reform of society through evangelical example and preaching. Canonised in 1897."
+      },
+      {
+        "name": "Saint Cyril of Thessaloniki",
+        "type": "Monk and Missionary",
+        "description": "Together with his brother Methodius, he created the Glagolitic alphabet (precursor of Cyrillic) to translate sacred texts into Slavic. He evangelised Slavic peoples in the 9th century. Co-patron of Europe."
+      },
+      {
+        "name": "Saint Philomena",
+        "type": "Martyr",
+        "description": "A martyr whose tomb was discovered in the Roman catacombs in 1802. Widely venerated in the 19th century, though the Church removed her feast from the official calendar in 1961 due to a lack of verifiable historical data."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Independence Day of Cape Verde",
+        "description": "Cape Verde celebrates its independence from Portugal, proclaimed on 5 July 1975. It is the national holiday of the Atlantic archipelago."
+      },
+      {
+        "name": "Independence Day of Venezuela",
+        "description": "Venezuela commemorates the signing of the Declaration of Independence on 5 July 1811, making it one of the first Latin American nations to declare independence from Spain."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Those who don't know history are doomed to repeat it.",
+      "author": "Edmund Burke",
+      "context": "5 July is rich in Latin American independence declarations. Burke, an 18th-century Irish political philosopher, warned of the danger of historical forgetfulness in this maxim still cited in political debates today."
+    },
+    "motivationalQuote": {
+      "text": "Start where you are. Use what you have. Do what you can.",
+      "author": "Arthur Ashe"
+    },
+    "births": [
+      {
+        "name": "P. T. Barnum",
+        "description": "American entrepreneur and showman who founded the Barnum & Bailey Circus, nicknamed 'The Greatest Showman'. He was also a politician and philanthropist, a pioneer of modern mass entertainment.",
+        "year": 1810
+      },
+      {
+        "name": "Cecil John Rhodes",
+        "description": "British businessman and politician who dominated diamond mining in South Africa and founded Rhodesia (modern Zimbabwe and Zambia). He was a controversial architect of British imperialism in Africa.",
+        "year": 1853
+      },
+      {
+        "name": "Jean Cocteau",
+        "description": "French poet, novelist, playwright, and filmmaker, a key figure in Surrealism and the avant-garde. Author of Beauty and the Beast (1946) and Les Enfants Terribles, he was a total artist of 20th-century French culture.",
+        "year": 1889
+      }
+    ],
+    "events": [
+      {
+        "title": "First match of the FIFA World Cup",
+        "description": "On 5 July 1930, the first match of the FIFA World Cup was played in Uruguay during the inaugural edition of the world's most-watched tournament.",
+        "year": 1930
+      },
+      {
+        "title": "UK National Health Service begins",
+        "description": "On 5 July 1948, the British National Health Service came into operation — the world's largest free public health system, created by Clement Attlee's Labour government.",
+        "year": 1948
+      },
+      {
+        "title": "Dolly the sheep — first cloned mammal",
+        "description": "On 5 July 1996, Dolly the sheep was born — the first mammal cloned from an adult cell — at the Roslin Institute in Edinburgh. Her existence revolutionised biology and sparked profound ethical debates.",
+        "year": 1996
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Antônio Maria Zaccaria",
+        "type": "Sacerdote e fundador",
+        "description": "Médico e sacerdote italiano do século XVI fundador dos Barnabitas (Clérigos Regulares de São Paulo). Propôs uma reforma espiritual da sociedade através do exemplo evangélico e da pregação. Canonizado em 1897."
+      },
+      {
+        "name": "São Cirilo de Tessalônica",
+        "type": "Monge e missionário",
+        "description": "Juntamente com o seu irmão Metódio, criou o alfabeto glagolítico (precursor do cirílico) para traduzir os textos sagrados para o eslavo. Evangelizou os povos eslavos no século IX. Copadroeiro da Europa."
+      },
+      {
+        "name": "Santa Filomena",
+        "type": "Mártir",
+        "description": "Mártir cuja tumba foi descoberta nas catacumbas romanas em 1802. Muito venerada no século XIX, embora a Igreja tenha retirado a sua festa do calendário oficial em 1961 por falta de dados históricos verificáveis."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência de Cabo Verde",
+        "description": "Cabo Verde celebra a sua independência de Portugal, proclamada em 5 de julho de 1975. É o feriado nacional do arquipélago atlântico."
+      },
+      {
+        "name": "Dia da Independência da Venezuela",
+        "description": "A Venezuela comemora a assinatura da Declaração de Independência em 5 de julho de 1811, sendo uma das primeiras nações latino-americanas a declarar a independência da Espanha."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Quem não conhece a história está condenado a repeti-la.",
+      "author": "Edmund Burke",
+      "context": "O dia 5 de julho é rico em declarações de independência latino-americanas. Burke, filósofo político irlandês do século XVIII, alertava para o perigo do esquecimento histórico com esta máxima que continua sendo citada em debates políticos atuais."
+    },
+    "motivationalQuote": {
+      "text": "Comece onde você está. Use o que você tem. Faça o que você puder.",
+      "author": "Arthur Ashe"
+    },
+    "births": [
+      {
+        "name": "P. T. Barnum",
+        "description": "Empresário e showman americano fundador do Circo Barnum & Bailey, apelidado de 'O Maior Showman'. Foi também político e filantropo, pioneiro do entretenimento de massas moderno.",
+        "year": 1810
+      },
+      {
+        "name": "Cecil John Rhodes",
+        "description": "Empresário e político britânico que dominou a mineração de diamantes na África do Sul e fundou a Rodésia (atual Zimbábue e Zâmbia). Foi um controverso arquiteto do imperialismo britânico em África.",
+        "year": 1853
+      },
+      {
+        "name": "Jean Cocteau",
+        "description": "Poeta, romancista, dramaturgo e cineasta francês, figura-chave do surrealismo e da vanguarda. Autor de A Bela e a Fera (1946) e Les Enfants Terribles, foi um artista total da cultura francesa do século XX.",
+        "year": 1889
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeiro jogo da Copa do Mundo FIFA",
+        "description": "Em 5 de julho de 1930, foi disputado o primeiro jogo da Copa do Mundo FIFA no Uruguai, durante a edição inaugural do torneio mais assistido do mundo.",
+        "year": 1930
+      },
+      {
+        "title": "Serviço Nacional de Saúde do Reino Unido inicia operações",
+        "description": "Em 5 de julho de 1948, o National Health Service britânico entrou em funcionamento — o maior sistema público de saúde gratuita do mundo, criado pelo governo trabalhista de Clement Attlee.",
+        "year": 1948
+      },
+      {
+        "title": "Dolly, a primeira ovelha clonada",
+        "description": "Em 5 de julho de 1996, nasceu Dolly — o primeiro mamífero clonado a partir de uma célula adulta — no Instituto Roslin de Edimburgo. A sua existência revolucionou a biologia e gerou profundos debates éticos.",
+        "year": 1996
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Antoni Maria Zaccaria",
+        "type": "Sacerdot i fundador",
+        "description": "Metge i sacerdot italià del segle XVI fundador dels Barnabites (Clergues Regulars de Sant Pau). Va proposar una reforma espiritual de la societat a través de l'exemple evangèlic i la predicació. Canonitzat el 1897."
+      },
+      {
+        "name": "Sant Ciril de Tessalònica",
+        "type": "Monjo i missioner",
+        "description": "Juntament amb el seu germà Metodi, va crear l'alfabet glagolític (precursor del ciríl·lic) per traduir els textos sagrats a l'eslau. Va evangelitzar els pobles eslaus al segle IX. Copatró d'Europa."
+      },
+      {
+        "name": "Santa Filomena",
+        "type": "Màrtir",
+        "description": "Màrtir la tomba de la qual va ser descoberta a les catacumbes romanes el 1802. Molt venerada al segle XIX, tot i que l'Església va retirar la seva festivitat del calendari oficial el 1961 per manca de dades històriques verificables."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència de Cap Verd",
+        "description": "Cap Verd celebra la seva independència de Portugal, proclamada el 5 de juliol de 1975. És la festa nacional de l'arxipèlag atlàntic."
+      },
+      {
+        "name": "Dia de la Independència de Veneçuela",
+        "description": "Veneçuela commemora la signatura de la Declaració d'Independència el 5 de juliol de 1811, sent una de les primeres nacions llatinoamericanes a declarar la independència d'Espanya."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Els qui no coneixen la història estan condemnats a repetir-la.",
+      "author": "Edmund Burke",
+      "context": "El 5 de juliol és ric en declaracions d'independència llatinoamericanes. Burke, filòsof polític irlandès del segle XVIII, advertia del perill de l'oblit històric amb aquesta màxima que continua sent citada en debats polítics actuals."
+    },
+    "motivationalQuote": {
+      "text": "Comença on ets. Usa el que tens. Fes el que puguis.",
+      "author": "Arthur Ashe"
+    },
+    "births": [
+      {
+        "name": "P. T. Barnum",
+        "description": "Empresari i showman americà fundador del Circ Barnum & Bailey, apoderat 'El Rei de l'Espectacle'. Va ser també polític i filàntrop, pioner de l'entreteniment de masses modern.",
+        "year": 1810
+      },
+      {
+        "name": "Cecil John Rhodes",
+        "description": "Empresari i polític britànic que va dominar la mineria de diamants a Sud-àfrica i va fundar Rhodèsia (actual Zimbabwe i Zàmbia). Va ser un controvertit arquitecte de l'imperialisme britànic a l'Àfrica.",
+        "year": 1853
+      },
+      {
+        "name": "Jean Cocteau",
+        "description": "Poeta, novel·lista, dramaturg i cineasta francès, figura clau del surrealisme i l'avantguarda. Autor de La bella i la bèstia (1946) i Els infants terribles, va ser un artista total de la cultura francesa del segle XX.",
+        "year": 1889
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer partit del Mundial de Futbol FIFA",
+        "description": "El 5 de juliol de 1930 es va disputar el primer partit de la Copa del Món FIFA a l'Uruguai, durant l'edició inaugural del torneig més seguit del món.",
+        "year": 1930
+      },
+      {
+        "title": "El Servei Nacional de Salut del Regne Unit inicia les operacions",
+        "description": "El 5 de juliol de 1948, el National Health Service britànic va entrar en funcionament — el sistema de salut pública gratuïta més gran del món, creat pel govern laborista de Clement Attlee.",
+        "year": 1948
+      },
+      {
+        "title": "Dolly, la primera ovella clonada",
+        "description": "El 5 de juliol de 1996 va néixer Dolly — el primer mamífer clonat a partir d'una cèl·lula adulta — a l'Institut Roslin d'Edimburg. La seva existència va revolucionar la biologia i va plantejar profunds debats ètics.",
+        "year": 1996
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "date": "2026-04-10",
+  "es": {
+    "saints": [
+      {
+        "name": "San Ezequiel Moreno",
+        "type": "Obispo",
+        "description": "Religioso agustino recoleto español del siglo XIX, misionero en Filipinas y Colombia. Fue obispo de Pasto (Colombia) y es conocido por su incansable labor pastoral y su denuncia del liberalismo extremo de la época. Fue canonizado por Juan Pablo II en 1992."
+      },
+      {
+        "name": "San Miguel de los Santos",
+        "type": "Presbítero",
+        "description": "Religioso trinitario descalzo catalán del siglo XVII, nacido en Vic (Cataluña). Destacó por su intensa vida mística y su devoción a la Eucaristía. Murió joven en Valladolid y fue beatificado en 1779 y canonizado en 1862."
+      },
+      {
+        "name": "Santa Baderana",
+        "type": "Abadesa",
+        "description": "Abadesa merovingia del siglo VII en la región de la actual Francia, fundadora de un monasterio de mujeres. Es recordada como modelo de vida contemplativa y dedicación a los pobres en la Galia altomedieval."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Homeopatía",
+        "description": "Celebrado el 10 de abril, aniversario del nacimiento de Samuel Hahnemann (1755), el médico alemán que desarrolló la homeopatía. La jornada reúne a practicantes de esta disciplina de medicina alternativa para compartir avances y reflexiones."
+      },
+      {
+        "name": "Día de los Hermanos (fraternidad en algunos países latinoamericanos)",
+        "description": "En varios países latinoamericanos se celebra el 10 de abril como día dedicado a los hermanos, fomentando los lazos familiares y el afecto entre hermanos y hermanas."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Un hombre honesto es el más noble de los trabajos de Dios.",
+      "author": "Alexander Pope",
+      "context": "Alexander Pope, nacido el 21 de mayo de 1688, fue el poeta más influyente del siglo XVIII en lengua inglesa. Esta cita proviene de su 'Ensayo sobre el hombre' (1733-1734), una de las obras filosóficas más leídas del periodo ilustrado."
+    },
+    "motivationalQuote": {
+      "text": "La única manera de hacer un gran trabajo es amar lo que haces.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Joseph Pulitzer",
+        "description": "Periodista y editor estadounidense de origen húngaro, fundador del periodismo moderno de masas. Director del New York World, revolucionó la prensa con una combinación de noticias de impacto, ilustraciones y campañas sociales. Legó su fortuna para crear los Premios Pulitzer, el galardón periodístico más prestigioso del mundo.",
+        "year": "1847"
+      },
+      {
+        "name": "Omar Sharif",
+        "description": "Actor egipcio de fama mundial, reconocido por sus papeles en 'Lawrence de Arabia' (1962) y 'Doctor Zhivago' (1965), ambas dirigidas por David Lean. Fue también uno de los mejores jugadores de bridge del mundo.",
+        "year": "1932"
+      },
+      {
+        "name": "Steven Seagal",
+        "description": "Actor, productor y artista marcial estadounidense, maestro de aikido. Se hizo famoso en los años 80 y 90 con películas de acción como 'Marked for Death', 'Under Siege' y 'Hard to Kill'. Fue el primer ciudadano estadounidense en llegar a ser maestro de aikido en Japón.",
+        "year": "1952"
+      }
+    ],
+    "events": [
+      {
+        "title": "Hundimiento del RMS Titanic",
+        "description": "El transatlántico RMS Titanic partió de Southampton (Inglaterra) en su viaje inaugural hacia Nueva York. Cuatro días después, el 15 de abril, colisionó con un iceberg en el Atlántico Norte y se hundió en menos de tres horas, causando la muerte de más de 1.500 personas.",
+        "year": "1912"
+      },
+      {
+        "title": "Acuerdos de Paz del Viernes Santo",
+        "description": "El gobierno británico, el de Irlanda y los principales partidos políticos de Irlanda del Norte firmaron los Acuerdos de Viernes Santo (Good Friday Agreement), poniendo fin a décadas de violencia sectaria en Irlanda del Norte conocida como 'The Troubles'.",
+        "year": "1998"
+      },
+      {
+        "title": "Catástrofe aérea de Smolensk",
+        "description": "Un avión de la Fuerza Aérea Polaca se estrelló cerca de Smolensk (Rusia) mientras intentaba aterrizar. Murieron las 96 personas a bordo, entre ellas el presidente de Polonia, Lech Kaczyński, y un gran número de altos funcionarios del Estado polaco.",
+        "year": "2010"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Ezekiel Moreno",
+        "type": "Bishop",
+        "description": "A 19th-century Spanish Augustinian Recollect, missionary in the Philippines and Colombia. He was Bishop of Pasto (Colombia) and is known for his tireless pastoral work and his denunciation of the extreme liberalism of the time. He was canonised by John Paul II in 1992."
+      },
+      {
+        "name": "Saint Michael of the Saints",
+        "type": "Priest",
+        "description": "A 17th-century Catalan Discalced Trinitarian, born in Vic (Catalonia). He was remarkable for his intense mystical life and his devotion to the Eucharist. He died young in Valladolid and was beatified in 1779 and canonised in 1862."
+      },
+      {
+        "name": "Saint Baderana",
+        "type": "Abbess",
+        "description": "A 7th-century Merovingian abbess in present-day France, founder of a women's monastery. She is remembered as a model of contemplative life and dedication to the poor in early medieval Gaul."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Homeopathy Day",
+        "description": "Celebrated on 10 April, the anniversary of the birth of Samuel Hahnemann (1755), the German physician who developed homeopathy. The day brings together practitioners of this alternative medicine discipline to share advances and reflections."
+      },
+      {
+        "name": "Siblings Day",
+        "description": "In several Latin American countries, 10 April is celebrated as a day dedicated to brothers and sisters, fostering family bonds and affection between siblings."
+      }
+    ],
+    "historicalQuote": {
+      "text": "An honest man is the noblest work of God.",
+      "author": "Alexander Pope",
+      "context": "Alexander Pope, born on 21 May 1688, was the most influential English-language poet of the 18th century. This quote comes from his 'Essay on Man' (1733–1734), one of the most widely read philosophical works of the Enlightenment period."
+    },
+    "motivationalQuote": {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Joseph Pulitzer",
+        "description": "Hungarian-born American journalist and publisher, founder of modern mass journalism. Director of the New York World, he revolutionised the press with a combination of hard-hitting news, illustrations, and social campaigns. He bequeathed his fortune to create the Pulitzer Prizes, the world's most prestigious journalism award.",
+        "year": "1847"
+      },
+      {
+        "name": "Omar Sharif",
+        "description": "Egyptian actor of worldwide fame, recognised for his roles in 'Lawrence of Arabia' (1962) and 'Doctor Zhivago' (1965), both directed by David Lean. He was also one of the world's finest bridge players.",
+        "year": "1932"
+      },
+      {
+        "name": "Steven Seagal",
+        "description": "American actor, producer, and martial artist, aikido master. He rose to fame in the 1980s and 90s with action films such as 'Marked for Death', 'Under Siege', and 'Hard to Kill'. He was the first American citizen to become an aikido master in Japan.",
+        "year": "1952"
+      }
+    ],
+    "events": [
+      {
+        "title": "Departure of the RMS Titanic",
+        "description": "The ocean liner RMS Titanic departed from Southampton (England) on its maiden voyage to New York. Four days later, on 15 April, it struck an iceberg in the North Atlantic and sank in less than three hours, causing the deaths of more than 1,500 people.",
+        "year": "1912"
+      },
+      {
+        "title": "Good Friday Agreement",
+        "description": "The British government, the Irish government, and the main political parties of Northern Ireland signed the Good Friday Agreement, ending decades of sectarian violence in Northern Ireland known as 'The Troubles'.",
+        "year": "1998"
+      },
+      {
+        "title": "Smolensk Air Disaster",
+        "description": "A Polish Air Force plane crashed near Smolensk (Russia) while attempting to land. All 96 people on board were killed, including Polish President Lech Kaczyński and a large number of senior Polish state officials.",
+        "year": "2010"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Ezequiel Moreno",
+        "type": "Bispo",
+        "description": "Religioso agostiniano recoleto espanhol do século XIX, missionário nas Filipinas e na Colômbia. Foi bispo de Pasto (Colômbia) e é conhecido pelo seu incansável trabalho pastoral e pela sua denúncia do liberalismo extremo da época. Foi canonizado por João Paulo II em 1992."
+      },
+      {
+        "name": "São Miguel dos Santos",
+        "type": "Presbítero",
+        "description": "Religioso trinitário descalço catalão do século XVII, nascido em Vic (Catalunha). Destacou-se pela sua intensa vida mística e devoção à Eucaristia. Morreu jovem em Valladolid e foi beatificado em 1779 e canonizado em 1862."
+      },
+      {
+        "name": "Santa Baderana",
+        "type": "Abadessa",
+        "description": "Abadessa merovíngia do século VII na região da atual França, fundadora de um mosteiro de mulheres. É recordada como modelo de vida contemplativa e dedicação aos pobres na Gália alto-medieval."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Homeopatia",
+        "description": "Celebrado em 10 de abril, aniversário do nascimento de Samuel Hahnemann (1755), o médico alemão que desenvolveu a homeopatia. A jornada reúne praticantes desta disciplina de medicina alternativa para partilhar avanços e reflexões."
+      },
+      {
+        "name": "Dia dos Irmãos",
+        "description": "Em vários países latino-americanos, o 10 de abril é celebrado como um dia dedicado aos irmãos e irmãs, fomentando os laços familiares e o afeto entre irmãos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Um homem honesto é a obra mais nobre de Deus.",
+      "author": "Alexander Pope",
+      "context": "Alexander Pope, nascido em 21 de maio de 1688, foi o poeta mais influente do século XVIII em língua inglesa. Esta citação provém do seu 'Ensaio sobre o homem' (1733-1734), uma das obras filosóficas mais lidas do período iluminista."
+    },
+    "motivationalQuote": {
+      "text": "A única maneira de fazer um grande trabalho é amar o que faz.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Joseph Pulitzer",
+        "description": "Jornalista e editor americano de origem húngara, fundador do jornalismo moderno de massas. Diretor do New York World, revolucionou a imprensa com uma combinação de notícias de impacto, ilustrações e campanhas sociais. Legou a sua fortuna para criar os Prémios Pulitzer, o galardão jornalístico mais prestigioso do mundo.",
+        "year": "1847"
+      },
+      {
+        "name": "Omar Sharif",
+        "description": "Ator egípcio de fama mundial, reconhecido pelos seus papéis em 'Lawrence da Arábia' (1962) e 'Doutor Jivago' (1965), ambas dirigidas por David Lean. Foi também um dos melhores jogadores de bridge do mundo.",
+        "year": "1932"
+      },
+      {
+        "name": "Steven Seagal",
+        "description": "Ator, produtor e artista marcial americano, mestre de aikido. Ficou famoso nos anos 80 e 90 com filmes de ação como 'Marked for Death', 'Perigo a Bordo' e 'Hard to Kill'. Foi o primeiro cidadão americano a tornar-se mestre de aikido no Japão.",
+        "year": "1952"
+      }
+    ],
+    "events": [
+      {
+        "title": "Partida do RMS Titanic",
+        "description": "O transatlântico RMS Titanic partiu de Southampton (Inglaterra) na sua viagem inaugural para Nova Iorque. Quatro dias depois, a 15 de abril, colidiu com um iceberg no Atlântico Norte e afundou em menos de três horas, causando a morte de mais de 1.500 pessoas.",
+        "year": "1912"
+      },
+      {
+        "title": "Acordo de Sexta-Feira Santa",
+        "description": "O governo britânico, o irlandês e os principais partidos políticos da Irlanda do Norte assinaram o Acordo de Sexta-Feira Santa (Good Friday Agreement), pondo fim a décadas de violência sectária na Irlanda do Norte conhecida como 'Os Problemas'.",
+        "year": "1998"
+      },
+      {
+        "title": "Catástrofe aérea de Smolensk",
+        "description": "Um avião da Força Aérea Polaca despenhou-se perto de Smolensk (Rússia) enquanto tentava aterrar. Morreram as 96 pessoas a bordo, incluindo o presidente da Polónia, Lech Kaczyński, e um grande número de altos funcionários do Estado polaco.",
+        "year": "2010"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Ezequiel Moreno",
+        "type": "Bisbe",
+        "description": "Religiós agustí recollet espanyol del segle XIX, missioner a les Filipines i Colòmbia. Va ser bisbe de Pasto (Colòmbia) i és conegut pel seu incansable treball pastoral i la seva denúncia del liberalisme extrem de l'època. Va ser canonitzat per Joan Pau II el 1992."
+      },
+      {
+        "name": "Sant Miquel dels Sants",
+        "type": "Prevere",
+        "description": "Religiós trinitari descalç català del segle XVII, nascut a Vic (Catalunya). Va destacar per la seva intensa vida mística i devoció a l'Eucaristia. Va morir jove a Valladolid i va ser beatificat el 1779 i canonitzat el 1862."
+      },
+      {
+        "name": "Santa Baderana",
+        "type": "Abadessa",
+        "description": "Abadessa merovíngia del segle VII a la regió de l'actual França, fundadora d'un monestir de dones. És recordada com a model de vida contemplativa i dedicació als pobres a la Gàl·lia altomedieval."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de l'Homeopatia",
+        "description": "Celebrat el 10 d'abril, aniversari del naixement de Samuel Hahnemann (1755), el metge alemany que va desenvolupar l'homeopatia. La jornada reuneix practicants d'aquesta disciplina de medicina alternativa per compartir avenços i reflexions."
+      },
+      {
+        "name": "Dia dels Germans",
+        "description": "En diversos països llatinoamericans, el 10 d'abril es celebra com un dia dedicat als germans i germanes, fomentant els llaços familiars i l'afecte entre germans."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Un home honest és la més noble de les obres de Déu.",
+      "author": "Alexander Pope",
+      "context": "Alexander Pope, nascut el 21 de maig de 1688, va ser el poeta més influent del segle XVIII en llengua anglesa. Aquesta cita prové del seu 'Assaig sobre l'home' (1733-1734), una de les obres filosòfiques més llegides del període il·lustrat."
+    },
+    "motivationalQuote": {
+      "text": "L'única manera de fer un gran treball és estimar el que fas.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Joseph Pulitzer",
+        "description": "Periodista i editor americà d'origen hongarès, fundador del periodisme modern de masses. Director del New York World, va revolucionar la premsa amb una combinació de notícies d'impacte, il·lustracions i campanyes socials. Va llegar la seva fortuna per crear els Premis Pulitzer, el guardó periodístic més prestigiós del món.",
+        "year": "1847"
+      },
+      {
+        "name": "Omar Sharif",
+        "description": "Actor egipci de fama mundial, reconegut pels seus papers a 'Lawrence d'Aràbia' (1962) i 'Doctor Jivago' (1965), totes dues dirigides per David Lean. Va ser també un dels millors jugadors de bridge del món.",
+        "year": "1932"
+      },
+      {
+        "name": "Steven Seagal",
+        "description": "Actor, productor i artista marcial americà, mestre d'aikido. Es va fer famós als anys 80 i 90 amb pel·lícules d'acció com 'Marked for Death', 'Perill en alta mar' i 'Hard to Kill'. Va ser el primer ciutadà americà a convertir-se en mestre d'aikido al Japó.",
+        "year": "1952"
+      }
+    ],
+    "events": [
+      {
+        "title": "Partida del RMS Titànic",
+        "description": "El transatlàntic RMS Titànic va partir de Southampton (Anglaterra) en el seu viatge inaugural cap a Nova York. Quatre dies després, el 15 d'abril, va xocar amb un iceberg a l'Atlàntic Nord i va enfonsar-se en menys de tres hores, causant la mort de més de 1.500 persones.",
+        "year": "1912"
+      },
+      {
+        "title": "Acords de Divendres Sant",
+        "description": "El govern britànic, l'irlandès i els principals partits polítics d'Irlanda del Nord van signar els Acords de Divendres Sant (Good Friday Agreement), posant fi a dècades de violència sectària a Irlanda del Nord coneguda com «els Problemes».",
+        "year": "1998"
+      },
+      {
+        "title": "Catàstrofe aèria de Smolensk",
+        "description": "Un avió de la Força Aèria Polonesa es va estavellar prop de Smolensk (Rússia) mentre intentava aterrar. Van morir les 96 persones a bord, entre elles el president de Polònia, Lech Kaczyński, i un gran nombre d'alts funcionaris de l'Estat polonès.",
+        "year": "2010"
+      }
+    ]
+  }
+}

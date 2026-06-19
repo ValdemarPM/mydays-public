@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-28",
+  "es": {
+    "saints": [
+      { "name": "San Sixto III", "type": "Papa", "description": "Papa entre 432 y 440, contemporáneo del Concilio de Éfeso, promotor de la devoción mariana y constructor de la Basílica de Santa María Mayor en Roma." },
+      { "name": "San Gontrano de Borgoña", "type": "Rey", "description": "Rey de los francos del siglo VI, nieto de Clodoveo I, conocido por su piedad, su fundación de monasterios y su espíritu de reconciliación entre las facciones merovingias." },
+      { "name": "Santa Dorotea de Capadocia", "type": "Virgen y mártir", "description": "Mártir de Capadocia del siglo IV que según la tradición, al ser ejecutada, envió rosas y manzanas celestiales al abogado Teófilo que la había desafiado." }
+    ],
+    "observances": [
+      { "name": "Día de los Docentes (varios países de América Latina)", "description": "En varios países latinoamericanos como Venezuela y Ecuador, el 28 de marzo se conmemora el Día del Maestro, para reconocer la labor fundamental de los docentes en la formación de la sociedad." },
+      { "name": "Aniversario del accidente nuclear de Three Mile Island", "description": "El 28 de marzo de 1979, el reactor 2 de la central nuclear de Three Mile Island (Pennsylvania) sufrió una fusión parcial del núcleo, el peor accidente nuclear en la historia de EE. UU." }
+    ],
+    "historicalQuote": {
+      "text": "El maestro que camina a la sombra del templo, entre sus seguidores, no da de su sabiduría, sino de su fe y de su amor.",
+      "author": "Khalil Gibran",
+      "context": "Esta cita pertenece a 'El Profeta' (1923), la obra más celebrada de Khalil Gibran. Refleja su visión del maestro no como mero transmisor de conocimiento sino como guía espiritual y humano."
+    },
+    "motivationalQuote": {
+      "text": "La mente que se abre a una nueva idea jamás vuelve a su tamaño original.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      { "name": "Francisco de Goya", "description": "Pintor y grabador español, uno de los artistas más influyentes del mundo occidental, que oscila entre el clasicismo y el romanticismo y prefigura el arte moderno con obras como 'Los fusilamientos del 3 de mayo' y las Pinturas Negras.", "year": 1746 },
+      { "name": "Maxim Gorki", "description": "Escritor ruso, fundador del realismo socialista, autor de novelas y obras de teatro de gran importancia como 'La madre', 'Los bajos fondos' y su autobiografía tripartita.", "year": 1868 },
+      { "name": "Lady Gaga (Stefani Germanotta)", "description": "Cantante, compositora y actriz americana, una de las artistas más influyentes del siglo XXI, conocida por su estética transgresora, su voz potente y éxitos como 'Bad Romance' y 'Poker Face'.", "year": 1986 }
+    ],
+    "events": [
+      { "title": "Accidente nuclear de Three Mile Island", "description": "El reactor 2 de la central nuclear de Three Mile Island en Pennsylvania sufrió una fusión parcial del núcleo, el accidente nuclear más grave en la historia de Estados Unidos, que disparó el debate sobre la seguridad de la energía atómica.", "year": 1979 },
+      { "title": "Se funda el Partido Nazi en Alemania", "description": "Adolf Hitler reorganizó el Partido Obrero Alemán (DAP) como Partido Nacionalsocialista Obrero Alemán (NSDAP), el partido que llevaría a Hitler al poder y desencadenaría la Segunda Guerra Mundial.", "year": 1920 },
+      { "title": "Inauguración del Canal de Suez (aniversario de propuesta)", "description": "El ingeniero francés Ferdinand de Lesseps presentó en 1856 el proyecto definitivo del Canal de Suez, que conectaría el Mediterráneo con el Mar Rojo y revolucionaría el comercio marítimo mundial.", "year": 1856 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Sixtus III", "type": "Pope", "description": "Pope from 432 to 440, contemporary of the Council of Ephesus, promoter of Marian devotion and builder of the Basilica of Santa Maria Maggiore in Rome." },
+      { "name": "Saint Guntram of Burgundy", "type": "King", "description": "Sixth-century Frankish king, grandson of Clovis I, known for his piety, his founding of monasteries and his spirit of reconciliation among Merovingian factions." },
+      { "name": "Saint Dorothy of Cappadocia", "type": "Virgin and martyr", "description": "Fourth-century martyr from Cappadocia who, according to tradition, when executed sent heavenly roses and apples to the lawyer Theophilus who had challenged her." }
+    ],
+    "observances": [
+      { "name": "Teachers' Day (several Latin American countries)", "description": "In several Latin American countries such as Venezuela and Ecuador, 28 March marks Teachers' Day, recognising the fundamental role of educators in shaping society." },
+      { "name": "Three Mile Island nuclear accident anniversary", "description": "On 28 March 1979, reactor 2 at the Three Mile Island nuclear plant (Pennsylvania) suffered a partial core meltdown, the worst nuclear accident in US history." }
+    ],
+    "historicalQuote": {
+      "text": "The teacher who walks in the shadow of the temple, among his followers, gives not of his wisdom but rather of his faith and his lovingness.",
+      "author": "Khalil Gibran",
+      "context": "This quote is from 'The Prophet' (1923), Khalil Gibran's most celebrated work. It reflects his vision of the teacher not merely as a transmitter of knowledge but as a spiritual and human guide."
+    },
+    "motivationalQuote": {
+      "text": "The mind that opens to a new idea never returns to its original size.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      { "name": "Francisco de Goya", "description": "Spanish painter and printmaker, one of the most influential artists in the Western world, bridging classicism and Romanticism and prefiguring modern art with works such as 'The Third of May 1808' and the Black Paintings.", "year": 1746 },
+      { "name": "Maxim Gorky", "description": "Russian writer, founder of socialist realism, author of major novels and plays such as 'Mother', 'The Lower Depths' and his three-part autobiography.", "year": 1868 },
+      { "name": "Lady Gaga (Stefani Germanotta)", "description": "American singer, songwriter and actress, one of the most influential artists of the twenty-first century, known for her transgressive aesthetic, powerful voice and hits such as 'Bad Romance' and 'Poker Face'.", "year": 1986 }
+    ],
+    "events": [
+      { "title": "Three Mile Island nuclear accident", "description": "Reactor 2 at the Three Mile Island nuclear plant in Pennsylvania suffered a partial core meltdown, the most serious nuclear accident in US history, sparking intense debate about the safety of nuclear energy.", "year": 1979 },
+      { "title": "Nazi Party founded in Germany", "description": "Adolf Hitler reorganised the German Workers' Party (DAP) as the National Socialist German Workers' Party (NSDAP), the party that would bring Hitler to power and trigger World War II.", "year": 1920 },
+      { "title": "Suez Canal project presented", "description": "French engineer Ferdinand de Lesseps presented the definitive project for the Suez Canal in 1856, which would connect the Mediterranean with the Red Sea and revolutionise global maritime trade.", "year": 1856 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Sisto III", "type": "Papa", "description": "Papa de 432 a 440, contemporâneo do Concílio de Éfeso, promotor da devoção mariana e construtor da Basílica de Santa Maria Maior em Roma." },
+      { "name": "São Gontrão da Borgonha", "type": "Rei", "description": "Rei franco do século VI, neto de Clodoveu I, conhecido pela sua piedade, a fundação de mosteiros e o espírito de reconciliação entre as facções merovíngias." },
+      { "name": "Santa Doroteia da Capadócia", "type": "Virgem e mártir", "description": "Mártir da Capadócia do século IV que, segundo a tradição, ao ser executada, enviou rosas e maçãs celestiais ao advogado Teófilo que a tinha desafiado." }
+    ],
+    "observances": [
+      { "name": "Dia dos Professores (vários países da América Latina)", "description": "Em vários países latino-americanos como Venezuela e Equador, o 28 de março assinala o Dia do Mestre, para reconhecer o papel fundamental dos docentes na formação da sociedade." },
+      { "name": "Aniversário do acidente nuclear de Three Mile Island", "description": "Em 28 de março de 1979, o reator 2 da central nuclear de Three Mile Island (Pennsylvania) sofreu uma fusão parcial do núcleo, o pior acidente nuclear na história dos EUA." }
+    ],
+    "historicalQuote": {
+      "text": "O mestre que caminha à sombra do templo, entre os seus seguidores, não dá da sua sabedoria, mas da sua fé e do seu amor.",
+      "author": "Khalil Gibran",
+      "context": "Esta citação pertence a 'O Profeta' (1923), a obra mais celebrada de Khalil Gibran. Reflete a sua visão do mestre não como mero transmissor de conhecimento, mas como guia espiritual e humano."
+    },
+    "motivationalQuote": {
+      "text": "A mente que se abre a uma nova ideia jamais volta ao seu tamanho original.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      { "name": "Francisco de Goya", "description": "Pintor e gravador espanhol, um dos artistas mais influentes do mundo ocidental, que oscila entre o classicismo e o romantismo e prefigura a arte moderna com obras como 'Os Fuzilamentos de 3 de Maio' e as Pinturas Negras.", "year": 1746 },
+      { "name": "Máximo Gorki", "description": "Escritor russo, fundador do realismo socialista, autor de romances e peças de teatro de grande importância como 'A Mãe', 'Os Baixos Fundos' e a sua autobiografia tripartite.", "year": 1868 },
+      { "name": "Lady Gaga (Stefani Germanotta)", "description": "Cantora, compositora e atriz americana, uma das artistas mais influentes do século XXI, conhecida pela sua estética transgressora, voz poderosa e sucessos como 'Bad Romance' e 'Poker Face'.", "year": 1986 }
+    ],
+    "events": [
+      { "title": "Acidente nuclear de Three Mile Island", "description": "O reator 2 da central nuclear de Three Mile Island na Pennsylvania sofreu uma fusão parcial do núcleo, o acidente nuclear mais grave na história dos Estados Unidos, que desencadeou o debate sobre a segurança da energia atômica.", "year": 1979 },
+      { "title": "Partido Nazi fundado na Alemanha", "description": "Adolf Hitler reorganizou o Partido Operário Alemão (DAP) como Partido Nacional-Socialista dos Trabalhadores Alemães (NSDAP), o partido que levaria Hitler ao poder e desencadearia a Segunda Guerra Mundial.", "year": 1920 },
+      { "title": "Projeto do Canal de Suez apresentado", "description": "O engenheiro francês Ferdinand de Lesseps apresentou em 1856 o projeto definitivo do Canal de Suez, que ligaria o Mediterrâneo ao Mar Vermelho e revolucionaria o comércio marítimo mundial.", "year": 1856 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Sixt III", "type": "Papa", "description": "Papa del 432 al 440, contemporani del Concili d'Efes, promotor de la devoció mariana i constructor de la Basílica de Santa Maria Major a Roma." },
+      { "name": "Sant Gontrà de Borgonya", "type": "Rei", "description": "Rei dels francs del segle VI, nét de Clodoveu I, conegut per la seva pietat, la fundació de monestirs i l'esperit de reconciliació entre les faccions merovíngies." },
+      { "name": "Santa Dorotea de Capadòcia", "type": "Verge i màrtir", "description": "Màrtir de Capadòcia del segle IV que, segons la tradició, en ser executada, va enviar roses i pomes celestials a l'advocat Teòfil que l'havia desafiat." }
+    ],
+    "observances": [
+      { "name": "Dia dels Docents (diversos països de l'Amèrica Llatina)", "description": "En diversos països llatinoamericans com Veneçuela i Equador, el 28 de març es commemora el Dia del Mestre, per reconèixer el paper fonamental dels docents en la formació de la societat." },
+      { "name": "Aniversari de l'accident nuclear de Three Mile Island", "description": "El 28 de març de 1979, el reactor 2 de la central nuclear de Three Mile Island (Pennsylvania) va patir una fusió parcial del nucli, el pitjor accident nuclear en la història dels EUA." }
+    ],
+    "historicalQuote": {
+      "text": "El mestre que camina a l'ombra del temple, entre els seus seguidors, no dóna de la seva saviesa sinó de la seva fe i del seu amor.",
+      "author": "Khalil Gibran",
+      "context": "Aquesta cita pertany a 'El Profeta' (1923), l'obra més celebrada de Khalil Gibran. Reflecteix la seva visió del mestre no com a mer transmissor de coneixement sinó com a guia espiritual i humà."
+    },
+    "motivationalQuote": {
+      "text": "La ment que s'obre a una nova idea mai torna a la seva mida original.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      { "name": "Francisco de Goya", "description": "Pintor i gravador espanyol, un dels artistes més influents del món occidental, que oscil·la entre el classicisme i el romanticisme i prefigura l'art modern amb obres com 'Els afusellaments del 3 de maig' i les Pintures Negres.", "year": 1746 },
+      { "name": "Màxim Gorki", "description": "Escriptor rus, fundador del realisme socialista, autor de novel·les i obres de teatre d'importància cabdal com 'La mare', 'Els baixos fons' i la seva autobiografia tripartita.", "year": 1868 },
+      { "name": "Lady Gaga (Stefani Germanotta)", "description": "Cantant, compositora i actriu americana, una de les artistes més influents del segle XXI, coneguda per la seva estètica transgressora, la seva veu potent i èxits com 'Bad Romance' i 'Poker Face'.", "year": 1986 }
+    ],
+    "events": [
+      { "title": "Accident nuclear de Three Mile Island", "description": "El reactor 2 de la central nuclear de Three Mile Island a Pennsylvania va patir una fusió parcial del nucli, l'accident nuclear més greu en la història dels Estats Units, que va encendre el debat sobre la seguretat de l'energia atòmica.", "year": 1979 },
+      { "title": "El Partit Nazi és fundat a Alemanya", "description": "Adolf Hitler va reorganitzar el Partit Obrer Alemany (DAP) com a Partit Nacional-Socialista dels Treballadors Alemanys (NSDAP), el partit que portaria Hitler al poder i desencadenaria la Segona Guerra Mundial.", "year": 1920 },
+      { "title": "Projecte del Canal de Suez presentat", "description": "L'enginyer francès Ferdinand de Lesseps va presentar el 1856 el projecte definitiu del Canal de Suez, que connectaria la Mediterrània amb el Mar Roig i revolucionaria el comerç marítim mundial.", "year": 1856 }
+    ]
+  }
+}

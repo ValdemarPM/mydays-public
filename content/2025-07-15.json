@@ -1,0 +1,271 @@
+{
+  "date": "2025-07-15",
+  "es": {
+    "saints": [
+      {
+        "name": "San Buenaventura de Bagnoregio",
+        "type": "Obispo, Cardenal y Doctor de la Iglesia",
+        "description": "Teólogo franciscano del siglo XIII, conocido como el Doctor Seráfico. Fue ministro general de los franciscanos y reunió las dos grandes corrientes de su tiempo: la filosofía aristotélica y el misticismo. Canonizado en 1482 y proclamado Doctor en 1588."
+      },
+      {
+        "name": "San Vladimir I de Kiev",
+        "type": "Príncipe y apóstol de Rusia",
+        "description": "Gran Príncipe de Kiev que se convirtió al cristianismo ortodoxo en 988 y bautizó a su pueblo en el río Dniéper, iniciando la cristianización de Rusia. Es venerado como santo en la Iglesia Ortodoxa Rusa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de las Habilidades de los Jóvenes",
+        "description": "Proclamado por la ONU en 2014, se celebra el 15 de julio para sensibilizar sobre la importancia del desarrollo de habilidades profesionales y técnicas en los jóvenes de todo el mundo."
+      },
+      {
+        "name": "Día de la Independencia de las Maldivas",
+        "description": "Las Maldivas celebran su independencia del protectorado británico, proclamada el 26 de julio de 1965, aunque el 15 de julio conmemora la primera constitución del sultán Maldivo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El mayor pecado del hombre no es el odio, sino la indiferencia hacia sus semejantes.",
+      "author": "Elie Wiesel",
+      "context": "El 15 de julio de 1099, los cruzados tomaron Jerusalén y masacraron a su población judía y musulmana. El superviviente del Holocausto Elie Wiesel dedicó su vida a denunciar la indiferencia ante el sufrimiento ajeno."
+    },
+    "motivationalQuote": {
+      "text": "La imaginación es más importante que el conocimiento.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Rembrandt van Rijn",
+        "description": "Pintor y grabador holandés del Siglo de Oro, considerado uno de los más grandes maestros de la pintura occidental. Maestro del claroscuro y del retrato psicológico, autor de La Ronda de Noche y numerosas obras maestras.",
+        "year": 1606
+      },
+      {
+        "name": "Iris Murdoch",
+        "description": "Novelista y filósofa irlandesa-británica, autora de más de veinte novelas que exploran la moralidad, el amor y la naturaleza humana. Premio Booker en 1978 por El mar, el mar.",
+        "year": 1919
+      },
+      {
+        "name": "Édouard Manet",
+        "description": "Pintor francés del siglo XIX, puente entre el realismo y el impresionismo. Su obra Déjeuner sur l'herbe (1863) causó un escándalo en el Salón parisino y sentó las bases del arte moderno.",
+        "year": 1832
+      }
+    ],
+    "events": [
+      {
+        "title": "Toma de Jerusalén por los cruzados",
+        "description": "El 15 de julio de 1099, los cruzados de la Primera Cruzada tomaron Jerusalén tras un asedio de cinco semanas, estableciendo el Reino de Jerusalén y masacrando a gran parte de su población.",
+        "year": 1099
+      },
+      {
+        "title": "Descubrimiento de la Piedra de Rosetta",
+        "description": "El 15 de julio de 1799, soldados franceses durante la expedición a Egipto de Napoleón descubrieron la Piedra de Rosetta en Rashid, clave para descifrar los jeroglíficos egipcios.",
+        "year": 1799
+      },
+      {
+        "title": "Twitter lanza su primera versión pública",
+        "description": "El 15 de julio de 2006, Twitter fue lanzado al público como plataforma de microblogging. El primer tuit fue publicado por el cofundador Jack Dorsey: «just setting up my twttr».",
+        "year": 2006
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Bonaventure of Bagnoregio",
+        "type": "Bishop, Cardinal and Doctor of the Church",
+        "description": "A 13th-century Franciscan theologian, known as the Seraphic Doctor. He served as Minister General of the Franciscans and united the two great currents of his time: Aristotelian philosophy and mysticism. Canonised in 1482 and proclaimed Doctor in 1588."
+      },
+      {
+        "name": "Saint Vladimir I of Kiev",
+        "type": "Prince and Apostle of Russia",
+        "description": "Grand Prince of Kiev who converted to Orthodox Christianity in 988 and baptised his people in the Dnieper River, beginning the Christianisation of Russia. He is venerated as a saint in the Russian Orthodox Church."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Youth Skills Day",
+        "description": "Proclaimed by the UN in 2014, observed on 15 July to raise awareness of the importance of developing professional and technical skills in young people around the world."
+      },
+      {
+        "name": "National Day of Maldives",
+        "description": "The Maldives observe their national day commemorating an early constitutional milestone in the history of the Maldivian sultanate."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The greatest sin is not hatred but indifference towards one's fellow human beings.",
+      "author": "Elie Wiesel",
+      "context": "On 15 July 1099, the Crusaders captured Jerusalem and massacred its Jewish and Muslim population. Holocaust survivor Elie Wiesel dedicated his life to denouncing indifference to the suffering of others."
+    },
+    "motivationalQuote": {
+      "text": "Imagination is more important than knowledge.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Rembrandt van Rijn",
+        "description": "Dutch painter and engraver of the Golden Age, considered one of the greatest masters of Western painting. A master of chiaroscuro and psychological portraiture, author of The Night Watch and numerous masterpieces.",
+        "year": 1606
+      },
+      {
+        "name": "Iris Murdoch",
+        "description": "Irish-British novelist and philosopher, author of more than twenty novels exploring morality, love, and human nature. Booker Prize winner in 1978 for The Sea, the Sea.",
+        "year": 1919
+      },
+      {
+        "name": "Édouard Manet",
+        "description": "French painter of the 19th century, a bridge between Realism and Impressionism. His work Déjeuner sur l'herbe (1863) caused a scandal at the Paris Salon and laid the foundations of modern art.",
+        "year": 1832
+      }
+    ],
+    "events": [
+      {
+        "title": "Crusaders capture Jerusalem",
+        "description": "On 15 July 1099, Crusaders of the First Crusade captured Jerusalem after a five-week siege, establishing the Kingdom of Jerusalem and massacring a large part of its population.",
+        "year": 1099
+      },
+      {
+        "title": "Discovery of the Rosetta Stone",
+        "description": "On 15 July 1799, French soldiers during Napoleon's expedition to Egypt discovered the Rosetta Stone at Rashid — the key to deciphering Egyptian hieroglyphics.",
+        "year": 1799
+      },
+      {
+        "title": "Twitter launches its first public version",
+        "description": "On 15 July 2006, Twitter was launched to the public as a microblogging platform. The first tweet was published by co-founder Jack Dorsey: 'just setting up my twttr'.",
+        "year": 2006
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Boaventura de Bagnoregio",
+        "type": "Bispo, Cardeal e Doutor da Igreja",
+        "description": "Teólogo franciscano do século XIII, conhecido como o Doutor Seráfico. Foi ministro geral dos franciscanos e reuniu as duas grandes correntes do seu tempo: a filosofia aristotélica e o misticismo. Canonizado em 1482 e proclamado Doutor em 1588."
+      },
+      {
+        "name": "São Vladimiro I de Kiev",
+        "type": "Príncipe e apóstolo da Rússia",
+        "description": "Grão-Príncipe de Kiev que se converteu ao cristianismo ortodoxo em 988 e batizou o seu povo no rio Dniepre, iniciando a cristianização da Rússia. É venerado como santo na Igreja Ortodoxa Russa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial das Competências dos Jovens",
+        "description": "Proclamado pela ONU em 2014, celebrado em 15 de julho para sensibilizar sobre a importância do desenvolvimento de competências profissionais e técnicas nos jovens de todo o mundo."
+      },
+      {
+        "name": "Dia Nacional das Maldivas",
+        "description": "As Maldivas celebram o seu dia nacional em memória de um importante marco constitucional na história do sultanato maldiviano."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O maior pecado não é o ódio, mas a indiferença para com os semelhantes.",
+      "author": "Elie Wiesel",
+      "context": "Em 15 de julho de 1099, os cruzados tomaram Jerusalém e massacraram a sua população judia e muçulmana. O sobrevivente do Holocausto Elie Wiesel dedicou a sua vida a denunciar a indiferença perante o sofrimento alheio."
+    },
+    "motivationalQuote": {
+      "text": "A imaginação é mais importante que o conhecimento.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Rembrandt van Rijn",
+        "description": "Pintor e gravador holandês do Século de Ouro, considerado um dos maiores mestres da pintura ocidental. Mestre do claro-escuro e do retrato psicológico, autor de A Ronda da Noite e inúmeras obras-primas.",
+        "year": 1606
+      },
+      {
+        "name": "Iris Murdoch",
+        "description": "Romancista e filósofa irlandesa-britânica, autora de mais de vinte romances que exploram a moralidade, o amor e a natureza humana. Prêmio Booker em 1978 por O Mar, o Mar.",
+        "year": 1919
+      },
+      {
+        "name": "Édouard Manet",
+        "description": "Pintor francês do século XIX, ponte entre o realismo e o impressionismo. A sua obra Déjeuner sur l'herbe (1863) causou um escândalo no Salão parisiense e lançou as bases da arte moderna.",
+        "year": 1832
+      }
+    ],
+    "events": [
+      {
+        "title": "Cruzados tomam Jerusalém",
+        "description": "Em 15 de julho de 1099, os cruzados da Primeira Cruzada tomaram Jerusalém após um cerco de cinco semanas, estabelecendo o Reino de Jerusalém e massacrando grande parte da sua população.",
+        "year": 1099
+      },
+      {
+        "title": "Descoberta da Pedra de Roseta",
+        "description": "Em 15 de julho de 1799, soldados franceses durante a expedição de Napoleão ao Egito descobriram a Pedra de Roseta em Rashid — a chave para decifrar os hieróglifos egípcios.",
+        "year": 1799
+      },
+      {
+        "title": "Twitter lança a sua primeira versão pública",
+        "description": "Em 15 de julho de 2006, o Twitter foi lançado ao público como plataforma de microblogging. O primeiro tweet foi publicado pelo cofundador Jack Dorsey: 'just setting up my twttr'.",
+        "year": 2006
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Bonaventura de Bagnoregio",
+        "type": "Bisbe, Cardenal i Doctor de l'Església",
+        "description": "Teòleg franciscà del segle XIII, conegut com el Doctor Seràfic. Va ser ministre general dels franciscans i va reunir els dos grans corrents del seu temps: la filosofia aristotèlica i el misticisme. Canonitzat el 1482 i proclamat Doctor el 1588."
+      },
+      {
+        "name": "Sant Vladímir I de Kíev",
+        "type": "Príncep i apòstol de Rússia",
+        "description": "Gran Príncep de Kíev que es va convertir al cristianisme ortodox el 988 i va batejar el seu poble al riu Dniéper, iniciant la cristianització de Rússia. És venerat com a sant a l'Església Ortodoxa Russa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de les Habilitats dels Joves",
+        "description": "Proclamat per l'ONU el 2014, se celebra el 15 de juliol per sensibilitzar sobre la importància del desenvolupament d'habilitats professionals i tècniques en els joves de tot el món."
+      },
+      {
+        "name": "Dia Nacional de les Maldives",
+        "description": "Les Maldives celebren el seu dia nacional en record d'un important fita constitucional en la història del sultanat maldivià."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El major pecat no és l'odi, sinó la indiferència envers els semblants.",
+      "author": "Elie Wiesel",
+      "context": "El 15 de juliol de 1099, els croats van prendre Jerusalem i van massacrar la seva població jueva i musulmana. El supervivent de l'Holocaust Elie Wiesel va dedicar la seva vida a denunciar la indiferència davant el sofriment aliè."
+    },
+    "motivationalQuote": {
+      "text": "La imaginació és més important que el coneixement.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Rembrandt van Rijn",
+        "description": "Pintor i gravador holandès del Segle d'Or, considerat un dels més grans mestres de la pintura occidental. Mestre del clarobscur i del retrat psicològic, autor de La Ronda de Nit i nombroses obres mestres.",
+        "year": 1606
+      },
+      {
+        "name": "Iris Murdoch",
+        "description": "Novel·lista i filòsofa irlandesa-britànica, autora de més de vint novel·les que exploren la moralitat, l'amor i la naturalesa humana. Premi Booker el 1978 per El mar, el mar.",
+        "year": 1919
+      },
+      {
+        "name": "Édouard Manet",
+        "description": "Pintor francès del segle XIX, pont entre el realisme i l'impressionisme. La seva obra Déjeuner sur l'herbe (1863) va causar un escàndol al Saló parisenc i va establir les bases de l'art modern.",
+        "year": 1832
+      }
+    ],
+    "events": [
+      {
+        "title": "Els croats prenen Jerusalem",
+        "description": "El 15 de juliol de 1099, els croats de la Primera Croada van prendre Jerusalem després d'un setge de cinc setmanes, establint el Regne de Jerusalem i massacrant gran part de la seva població.",
+        "year": 1099
+      },
+      {
+        "title": "Descobriment de la Pedra de Rosetta",
+        "description": "El 15 de juliol de 1799, soldats francesos durant l'expedició de Napoleó a Egipte van descobrir la Pedra de Rosetta a Rashid — la clau per desxifrar els jeroglífics egipcis.",
+        "year": 1799
+      },
+      {
+        "title": "Twitter llança la seva primera versió pública",
+        "description": "El 15 de juliol de 2006, Twitter va ser llançat al públic com a plataforma de microblogging. El primer tuit va ser publicat pel cofundador Jack Dorsey: 'just setting up my twttr'.",
+        "year": 2006
+      }
+    ]
+  }
+}

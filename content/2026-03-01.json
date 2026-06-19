@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-01",
+  "es": {
+    "saints": [
+      { "name": "San Albino de Angers", "type": "Obispo", "description": "Obispo de Angers en el siglo VI, defensor de los pobres y los cautivos, conocido por su caridad y su firmeza ante los poderosos." },
+      { "name": "San Rosendo de Mondoñedo", "type": "Obispo y abad", "description": "Obispo gallego del siglo X, fundador del monasterio de Celanova, figura clave del monacato benedictino en Galicia." },
+      { "name": "Santa Eudoxia de Heliópolis", "type": "Mártir", "description": "Mártir cristiana del siglo II en Fenicia, convertida de una vida mundana a la fe cristiana antes de sufrir el martirio." }
+    ],
+    "observances": [
+      { "name": "Día de Gales (St David's Day)", "description": "Festividad nacional de Gales en honor a su patrón, San David (Dewi Sant), celebrada con procesiones y el uso tradicional del puerro y el narciso." },
+      { "name": "Día de la Cero Discriminación", "description": "Jornada promovida por ONUSIDA para defender el derecho de toda persona a vivir con dignidad, sin ser discriminada por su estado de salud, edad, sexo u otras características." }
+    ],
+    "historicalQuote": {
+      "text": "La libertad es el oxígeno del alma.",
+      "author": "Moshe Dayan",
+      "context": "El general y político israelí Moshe Dayan nació el 1 de marzo de 1915. Figura militar central en la historia de Israel, esta frase refleja su convicción sobre la independencia del pueblo judío."
+    },
+    "motivationalQuote": {
+      "text": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      { "name": "Frédéric Chopin", "description": "Compositor y pianista polaco, uno de los grandes maestros del Romanticismo, célebre por sus nocturnos, polonesas y preludios.", "year": 1810 },
+      { "name": "Glenn Miller", "description": "Trombonista y director de orquesta estadounidense, pionero del swing y el jazz de las big bands, famoso por 'In the Mood'.", "year": 1904 },
+      { "name": "Yves Saint Laurent", "description": "Diseñador de moda francés que revolucionó la moda femenina del siglo XX, creador del esmoquin para mujeres y fundador de su icónica casa de moda.", "year": 1936 }
+    ],
+    "events": [
+      { "title": "Marte 1 llega a Marte", "description": "La sonda soviética Marte 1 fue lanzada hacia el planeta rojo, siendo uno de los primeros intentos de exploración marciana de la historia espacial.", "year": 1962 },
+      { "title": "Creación del Peace Corps", "description": "El presidente John F. Kennedy firmó la orden ejecutiva que creó oficialmente el Cuerpo de Paz de los Estados Unidos, organización de voluntarios para el desarrollo internacional.", "year": 1961 },
+      { "title": "Suiza se une a la ONU", "description": "Suiza, históricamente neutral, ingresó oficialmente como miembro de pleno derecho de las Naciones Unidas, poniendo fin a décadas de no alineación formal.", "year": 2002 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Albinus of Angers", "type": "Bishop", "description": "Sixth-century Bishop of Angers, defender of the poor and captives, renowned for his charity and courage before the powerful." },
+      { "name": "Saint Rosendo of Mondoñedo", "type": "Bishop and Abbot", "description": "Tenth-century Galician bishop, founder of the Celanova monastery, a key figure of Benedictine monasticism in Galicia." },
+      { "name": "Saint Eudoxia of Heliopolis", "type": "Martyr", "description": "Second-century Christian martyr in Phoenicia, who converted from a worldly life to the Christian faith before suffering martyrdom." }
+    ],
+    "observances": [
+      { "name": "St David's Day", "description": "Wales's national day honouring its patron saint, David (Dewi Sant), celebrated with processions and the traditional wearing of leeks and daffodils." },
+      { "name": "Zero Discrimination Day", "description": "A day promoted by UNAIDS to defend everyone's right to live with dignity, free from discrimination based on health status, age, sex, or other characteristics." }
+    ],
+    "historicalQuote": {
+      "text": "Freedom is the oxygen of the soul.",
+      "author": "Moshe Dayan",
+      "context": "Israeli general and politician Moshe Dayan was born on 1 March 1915. A central military figure in Israeli history, this quote reflects his conviction about the independence of the Jewish people."
+    },
+    "motivationalQuote": {
+      "text": "Success is the sum of small efforts repeated day in and day out.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      { "name": "Frédéric Chopin", "description": "Polish composer and pianist, one of the great masters of Romanticism, celebrated for his nocturnes, polonaises, and preludes.", "year": 1810 },
+      { "name": "Glenn Miller", "description": "American trombonist and bandleader, pioneer of swing and big band jazz, famous for 'In the Mood'.", "year": 1904 },
+      { "name": "Yves Saint Laurent", "description": "French fashion designer who revolutionised twentieth-century women's fashion, creator of the tuxedo suit for women and founder of his iconic fashion house.", "year": 1936 }
+    ],
+    "events": [
+      { "title": "Mars 1 heads for Mars", "description": "The Soviet probe Mars 1 was launched toward the red planet, one of the earliest attempts at Martian exploration in space history.", "year": 1962 },
+      { "title": "Peace Corps established", "description": "President John F. Kennedy signed the executive order officially creating the United States Peace Corps, a volunteer organisation for international development.", "year": 1961 },
+      { "title": "Switzerland joins the UN", "description": "Historically neutral Switzerland officially became a full member of the United Nations, ending decades of formal non-alignment.", "year": 2002 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Albino de Angers", "type": "Bispo", "description": "Bispo de Angers no século VI, defensor dos pobres e cativos, conhecido pela sua caridade e firmeza diante dos poderosos." },
+      { "name": "São Rosendo de Mondoñedo", "type": "Bispo e abade", "description": "Bispo galego do século X, fundador do mosteiro de Celanova, figura central do monacato beneditino na Galiza." },
+      { "name": "Santa Eudóxia de Heliópolis", "type": "Mártir", "description": "Mártir cristã do século II na Fenícia, convertida de uma vida mundana à fé cristã antes de sofrer o martírio." }
+    ],
+    "observances": [
+      { "name": "Dia de São Davi (St David's Day)", "description": "Festividade nacional do País de Gales em honra ao seu padroeiro, São Davi (Dewi Sant), celebrada com procissões e o uso tradicional do alho-poró e do narciso." },
+      { "name": "Dia Zero Discriminação", "description": "Jornada promovida pelo UNAIDS para defender o direito de toda pessoa a viver com dignidade, sem ser discriminada por seu estado de saúde, idade, sexo ou outras características." }
+    ],
+    "historicalQuote": {
+      "text": "A liberdade é o oxigênio da alma.",
+      "author": "Moshe Dayan",
+      "context": "O general e político israelense Moshe Dayan nasceu em 1.º de março de 1915. Figura militar central na história de Israel, esta frase reflete sua convicção sobre a independência do povo judeu."
+    },
+    "motivationalQuote": {
+      "text": "O sucesso é a soma de pequenos esforços repetidos dia após dia.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      { "name": "Frédéric Chopin", "description": "Compositor e pianista polonês, um dos grandes mestres do Romantismo, célebre por suas noturnas, polonaises e prelúdios.", "year": 1810 },
+      { "name": "Glenn Miller", "description": "Trombonista e regente americano, pioneiro do swing e do jazz de big band, famoso por 'In the Mood'.", "year": 1904 },
+      { "name": "Yves Saint Laurent", "description": "Designer de moda francês que revolucionou a moda feminina do século XX, criador do smoking para mulheres e fundador de sua icônica casa de moda.", "year": 1936 }
+    ],
+    "events": [
+      { "title": "Marte 1 parte rumo a Marte", "description": "A sonda soviética Marte 1 foi lançada em direção ao planeta vermelho, sendo uma das primeiras tentativas de exploração marciana na história espacial.", "year": 1962 },
+      { "title": "Criação do Corpo de Paz", "description": "O presidente John F. Kennedy assinou a ordem executiva que criou oficialmente o Corpo de Paz dos Estados Unidos, organização de voluntários para o desenvolvimento internacional.", "year": 1961 },
+      { "title": "Suíça adere à ONU", "description": "A historicamente neutra Suíça tornou-se oficialmente membro pleno das Nações Unidas, encerrando décadas de não alinhamento formal.", "year": 2002 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Albí d'Angers", "type": "Bisbe", "description": "Bisbe d'Angers al segle VI, defensor dels pobres i els captius, conegut per la seva caritat i la seva fermesa davant els poderosos." },
+      { "name": "Sant Rosend de Mondoñedo", "type": "Bisbe i abat", "description": "Bisbe gallec del segle X, fundador del monestir de Celanova, figura clau del monaquisme benedictí a Galícia." },
+      { "name": "Santa Eudòxia d'Heliòpolis", "type": "Màrtir", "description": "Màrtir cristiana del segle II a Fenícia, convertida d'una vida mundana a la fe cristiana abans de sofrir el martiri." }
+    ],
+    "observances": [
+      { "name": "Dia de Gal·les (St David's Day)", "description": "Festa nacional de Gal·les en honor al seu patró, Sant David (Dewi Sant), celebrada amb processons i l'ús tradicional del porro i el narcís." },
+      { "name": "Dia Zero Discriminació", "description": "Jornada promoguda per ONUSIDA per defensar el dret de tota persona a viure amb dignitat, sense ser discriminada per la seva situació de salut, edat, sexe o altres característiques." }
+    ],
+    "historicalQuote": {
+      "text": "La llibertat és l'oxigen de l'ànima.",
+      "author": "Moshe Dayan",
+      "context": "El general i polític israelià Moshe Dayan va néixer l'1 de març de 1915. Figura militar central en la història d'Israel, aquesta frase reflecteix la seva convicció sobre la independència del poble jueu."
+    },
+    "motivationalQuote": {
+      "text": "L'èxit és la suma de petits esforços repetits dia rere dia.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      { "name": "Frédéric Chopin", "description": "Compositor i pianista polonès, un dels grans mestres del Romanticisme, cèlebre pels seus nocturns, poloneses i preludis.", "year": 1810 },
+      { "name": "Glenn Miller", "description": "Trombonista i director d'orquestra americà, pioner del swing i el jazz de big band, famós per 'In the Mood'.", "year": 1904 },
+      { "name": "Yves Saint Laurent", "description": "Dissenyador de moda francès que va revolucionar la moda femenina del segle XX, creador del esmòquing per a dones i fundador de la seva icònica casa de moda.", "year": 1936 }
+    ],
+    "events": [
+      { "title": "Mart 1 rumb a Mart", "description": "La sonda soviètica Mart 1 va ser llançada cap al planeta vermell, un dels primers intents d'exploració marciana en la història espacial.", "year": 1962 },
+      { "title": "Creació del Cos de Pau", "description": "El president John F. Kennedy va signar l'ordre executiva que va crear oficialment el Cos de Pau dels Estats Units, organització de voluntaris per al desenvolupament internacional.", "year": 1961 },
+      { "title": "Suïssa s'uneix a l'ONU", "description": "Suïssa, històricament neutral, va ingressar oficialment com a membre de ple dret de les Nacions Unides, posant fi a dècades de no alineació formal.", "year": 2002 }
+    ]
+  }
+}

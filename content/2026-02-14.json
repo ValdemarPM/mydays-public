@@ -1,0 +1,119 @@
+{
+  "date": "2026-02-14",
+  "es": {
+    "saints": [
+      { "name": "San Valentín de Roma", "type": "Mártir", "description": "Sacerdote romano martirizado alrededor del año 269 bajo el emperador Claudio II; la tradición lo vincula al amor romántico por haber celebrado matrimonios en secreto." },
+      { "name": "San Cirilo", "type": "Monje", "description": "Monje y misionero griego del siglo IX, junto a su hermano Metodio evangelizó a los eslavos e inventó el alfabeto glagolítico, base del cirílico." }
+    ],
+    "observances": [
+      { "name": "Día de San Valentín (Día de los Enamorados)", "description": "Celebración popular del amor romántico y la amistad en numerosos países del mundo, con intercambio de flores, chocolates y mensajes." },
+      { "name": "Día Internacional del Libro Regalado", "description": "Iniciativa para fomentar el hábito lector regalando libros a seres queridos como muestra de afecto cultural." }
+    ],
+    "historicalQuote": {
+      "text": "El amor no consiste en mirarse el uno al otro, sino en mirar juntos en la misma dirección.",
+      "author": "Antoine de Saint-Exupéry",
+      "context": "Saint-Exupéry (1900-1944) plasmó en El Principito su visión del amor como aventura compartida. Hoy, día de San Valentín, su reflexión cobra especial resonancia."
+    },
+    "motivationalQuote": {
+      "text": "Donde no puedas amar, no te demores.",
+      "author": "Johann Wolfgang von Goethe"
+    },
+    "births": [
+      { "name": "Frederick Douglass", "description": "Escritor, orador y abolicionista afroamericano del siglo XIX; antiguo esclavo convertido en uno de los mayores defensores de los derechos civiles.", "year": 1818 },
+      { "name": "Mel Brooks", "description": "Director, actor y humorista estadounidense, creador de comedias clásicas como El jovencito Frankenstein y Sillas de montar calientes.", "year": 1926 },
+      { "name": "Drew Barrymore", "description": "Actriz y productora estadounidense, protagonista de E.T., el extraterrestre (1982); ícono del cine infantil y luego del cine romántico.", "year": 1975 }
+    ],
+    "events": [
+      { "title": "Masacre de San Valentín en Chicago", "description": "Sicarios del gánster Al Capone asesinan a 7 miembros de la banda rival de Bugs Moran en un garaje de Chicago, el crimen más famoso de la Prohibición.", "year": 1929 },
+      { "title": "Publicación de Los versos satánicos", "description": "Ruhollah Jomeini emite una fatua contra el escritor Salman Rushdie por su novela Los versos satánicos, desencadenando una crisis internacional.", "year": 1989 },
+      { "title": "Oregon se convierte en el 33.º estado de EE. UU.", "description": "El Congreso admite Oregon como estado de la Unión, siendo el primer estado formado íntegramente al oeste de las Montañas Rocosas.", "year": 1859 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Valentine of Rome", "type": "Martyr", "description": "Roman priest martyred around AD 269 under Emperor Claudius II; tradition links him to romantic love for secretly celebrating marriages." },
+      { "name": "Saint Cyril", "type": "Monk", "description": "9th-century Greek monk and missionary who, alongside his brother Methodius, evangelised the Slavs and invented the Glagolitic alphabet, the basis of Cyrillic." }
+    ],
+    "observances": [
+      { "name": "Valentine's Day", "description": "Popular celebration of romantic love and friendship in many countries, with exchange of flowers, chocolates and messages." },
+      { "name": "International Book Gifting Day", "description": "Initiative to promote reading by giving books to loved ones as a gesture of cultural affection." }
+    ],
+    "historicalQuote": {
+      "text": "Love does not consist in gazing at each other, but in looking outward together in the same direction.",
+      "author": "Antoine de Saint-Exupéry",
+      "context": "Saint-Exupéry (1900–1944) embodied in The Little Prince his vision of love as a shared adventure. Today, Valentine's Day, his reflection resonates especially."
+    },
+    "motivationalQuote": {
+      "text": "Where you cannot love, do not linger.",
+      "author": "Johann Wolfgang von Goethe"
+    },
+    "births": [
+      { "name": "Frederick Douglass", "description": "19th-century African-American writer, orator and abolitionist; a former slave who became one of the greatest defenders of civil rights.", "year": 1818 },
+      { "name": "Mel Brooks", "description": "American director, actor and comedian, creator of classic comedies such as Young Frankenstein and Blazing Saddles.", "year": 1926 },
+      { "name": "Drew Barrymore", "description": "American actress and producer, star of E.T. the Extra-Terrestrial (1982); icon of children's cinema and later of romantic film.", "year": 1975 }
+    ],
+    "events": [
+      { "title": "Saint Valentine's Day Massacre in Chicago", "description": "Gunmen working for gangster Al Capone kill 7 members of Bugs Moran's rival gang in a Chicago garage — the most famous crime of the Prohibition era.", "year": 1929 },
+      { "title": "Fatwa against Salman Rushdie", "description": "Ruhollah Khomeini issues a fatwa against writer Salman Rushdie for his novel The Satanic Verses, triggering an international crisis.", "year": 1989 },
+      { "title": "Oregon becomes the 33rd US state", "description": "Congress admits Oregon to the Union as the first state formed entirely west of the Rocky Mountains.", "year": 1859 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Valentim de Roma", "type": "Mártir", "description": "Sacerdote romano martirizado por volta do ano 269 sob o imperador Cláudio II; a tradição o vincula ao amor romântico por ter celebrado casamentos em segredo." },
+      { "name": "São Cirilo", "type": "Monge", "description": "Monge e missionário grego do século IX que, ao lado do seu irmão Metódio, evangelizou os eslavos e inventou o alfabeto glagolítico, base do cirílico." }
+    ],
+    "observances": [
+      { "name": "Dia dos Namorados (Dia de São Valentim)", "description": "Celebração popular do amor romântico e da amizade em muitos países do mundo, com troca de flores, chocolates e mensagens." },
+      { "name": "Dia Internacional do Livro como Presente", "description": "Iniciativa para promover o hábito de leitura oferecendo livros a pessoas queridas como gesto de afeto cultural." }
+    ],
+    "historicalQuote": {
+      "text": "O amor não consiste em se olharem um ao outro, mas em olharem juntos na mesma direção.",
+      "author": "Antoine de Saint-Exupéry",
+      "context": "Saint-Exupéry (1900-1944) expressou em O Pequeno Príncipe sua visão do amor como aventura compartilhada. Hoje, Dia dos Namorados, sua reflexão ganha especial ressonância."
+    },
+    "motivationalQuote": {
+      "text": "Onde não puder amar, não se demore.",
+      "author": "Johann Wolfgang von Goethe"
+    },
+    "births": [
+      { "name": "Frederick Douglass", "description": "Escritor, orador e abolicionista afro-americano do século XIX; ex-escravo que se tornou um dos maiores defensores dos direitos civis.", "year": 1818 },
+      { "name": "Mel Brooks", "description": "Diretor, ator e humorista americano, criador de comédias clássicas como O Jovem Frankenstein e Banzé no Oeste.", "year": 1926 },
+      { "name": "Drew Barrymore", "description": "Atriz e produtora americana, protagonista de E.T. — O Extraterrestre (1982); ícone do cinema infantil e depois do cinema romântico.", "year": 1975 }
+    ],
+    "events": [
+      { "title": "Massacre do Dia de São Valentim em Chicago", "description": "Capangas do gângster Al Capone assassinam 7 membros da gangue rival de Bugs Moran numa garagem de Chicago — o crime mais famoso da Proibição.", "year": 1929 },
+      { "title": "Fatwa contra Salman Rushdie", "description": "Ruhollah Khomeini emite uma fatwa contra o escritor Salman Rushdie por seu romance Os Versos Satânicos, desencadeando uma crise internacional.", "year": 1989 },
+      { "title": "Oregon torna-se o 33.º estado dos EUA", "description": "O Congresso admite Oregon na União, sendo o primeiro estado formado inteiramente a oeste das Montanhas Rochosas.", "year": 1859 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Valentí de Roma", "type": "Màrtir", "description": "Sacerdot romà martiritzat cap a l'any 269 sota l'emperador Claudi II; la tradició el vincula a l'amor romàntic per haver celebrat matrimonis en secret." },
+      { "name": "Sant Ciril", "type": "Monjo", "description": "Monjo i missioner grec del segle IX que, juntament amb el seu germà Metodi, evangelitzà els eslaus i inventà l'alfabet glagolític, base del ciríl·lic." }
+    ],
+    "observances": [
+      { "name": "Dia de Sant Valentí (Dia dels Enamorats)", "description": "Celebració popular de l'amor romàntic i l'amistat en nombrosos països del món, amb intercanvi de flors, xocolates i missatges." },
+      { "name": "Dia Internacional del Llibre Regalat", "description": "Iniciativa per fomentar l'hàbit lector regalant llibres a éssers estimats com a mostra d'afecte cultural." }
+    ],
+    "historicalQuote": {
+      "text": "L'amor no consisteix a mirar-se l'un a l'altre, sinó a mirar junts en la mateixa direcció.",
+      "author": "Antoine de Saint-Exupéry",
+      "context": "Saint-Exupéry (1900-1944) va plasmar a El Petit Príncep la seva visió de l'amor com a aventura compartida. Avui, dia de Sant Valentí, la seva reflexió cobra especial ressonància."
+    },
+    "motivationalQuote": {
+      "text": "On no puguis estimar, no t'hi demores.",
+      "author": "Johann Wolfgang von Goethe"
+    },
+    "births": [
+      { "name": "Frederick Douglass", "description": "Escriptor, orador i abolicionista afroamericà del segle XIX; antic esclau que es va convertir en un dels majors defensors dels drets civils.", "year": 1818 },
+      { "name": "Mel Brooks", "description": "Director, actor i humorista americà, creador de comèdies clàssiques com El jove Frankenstein i Selles calentes.", "year": 1926 },
+      { "name": "Drew Barrymore", "description": "Actriu i productora nord-americana, protagonista d'E.T., l'extraterrestre (1982); icona del cinema infantil i posteriorment del cinema romàntic.", "year": 1975 }
+    ],
+    "events": [
+      { "title": "Matança de Sant Valentí a Chicago", "description": "Sicaris del gàngster Al Capone assassinen 7 membres de la banda rival de Bugs Moran en un garatge de Chicago — el crim més famós de la Prohibició.", "year": 1929 },
+      { "title": "Fatwa contra Salman Rushdie", "description": "Ruhollah Khomeini emet una fatwa contra l'escriptor Salman Rushdie per la seva novel·la Els versos satànics, desencadenant una crisi internacional.", "year": 1989 },
+      { "title": "Oregon es converteix en el 33è estat dels EUA", "description": "El Congrés admet Oregon a la Unió, sent el primer estat format íntegrament a l'oest de les Muntanyes Rocoses.", "year": 1859 }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-28",
+  "es": {
+    "saints": [
+      {
+        "name": "San Jacinto Cormier",
+        "type": "Presbítero",
+        "description": "Dominico francés del siglo XIX–XX, maestro general de la Orden de Predicadores (1904–1916). Conocido por su piedad y su dedicación a la espiritualidad dominicana. Beatificado por Juan Pablo II en 1994."
+      },
+      {
+        "name": "San Esteban el Joven",
+        "type": "Abad y Mártir",
+        "description": "Monje del monte Auxentius (Constantinopla) del siglo VIII que defendió la veneración de íconos durante el iconoclasmo imperial y fue martirizado por orden del emperador Constantino V en el año 764."
+      },
+      {
+        "name": "San José Barsabás",
+        "type": "Discípulo",
+        "description": "Discípulo de Cristo del siglo I, propuesto junto a Matías para sustituir a Judas Iscariote entre los Doce Apóstoles (Hechos 1:23). No fue elegido, pero siguió siendo un destacado miembro de la comunidad cristiana primitiva."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de Mauritania",
+        "description": "Mauritania conmemora su independencia de Francia el 28 de noviembre de 1960, cuando se proclamó la República Islámica de Mauritania."
+      },
+      {
+        "name": "Día de la Independencia de Panamá de España",
+        "description": "Panamá celebra el 28 de noviembre de 1821, cuando declaró su independencia del dominio español para unirse voluntariamente a la Gran Colombia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La independencia es la felicidad.",
+      "author": "Mary Wollstonecraft",
+      "context": "La filósofa y escritora inglesa, autora de Vindicación de los derechos de la mujer (1792), defendió la independencia intelectual y económica como base de la dignidad humana."
+    },
+    "motivationalQuote": {
+      "text": "Donde no hay lucha, no hay fuerza.",
+      "author": "Frederick Douglass"
+    },
+    "births": [
+      {
+        "name": "William Blake",
+        "description": "Poeta, pintor y místico inglés del Romanticismo, autor de Canciones de inocencia y de experiencia y El matrimonio del Cielo y el Infierno. Considerado uno de los grandes visionarios de la literatura inglesa.",
+        "year": 1757
+      },
+      {
+        "name": "Friedrich Engels",
+        "description": "Filósofo y teórico político alemán, coautor junto a Karl Marx del Manifiesto Comunista (1848) y de El Capital. Cofundador del comunismo marxista como movimiento político moderno.",
+        "year": 1820
+      },
+      {
+        "name": "Ed Harris",
+        "description": "Actor estadounidense nominado cuatro veces al Oscar, conocido por sus papeles en El Show de Truman, Apollo 13 y Pollock.",
+        "year": 1950
+      }
+    ],
+    "events": [
+      {
+        "title": "Muerte de Erasmo de Rotterdam",
+        "description": "El humanista neerlandés Erasmo de Rotterdam, una de las figuras más influyentes del Renacimiento europeo y autor del Elogio de la locura, murió en Basilea.",
+        "year": 1536
+      },
+      {
+        "title": "Albania proclama su independencia",
+        "description": "La Liga de Prizren proclamó la independencia de Albania del Imperio Otomano en Vlorë, estableciendo el primer estado albanés independiente de la historia moderna.",
+        "year": 1912
+      },
+      {
+        "title": "Regresa el Apolo 12 tras la segunda misión lunar",
+        "description": "La nave Apolo 12 amerizó en el Océano Pacífico, completando la segunda misión lunar tripulada de la historia con el aterrizaje exitoso de Pete Conrad y Alan Bean en el mar de las Tormentas.",
+        "year": 1969
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Blessed Hyacinth Cormier",
+        "type": "Presbyter",
+        "description": "19th–20th-century French Dominican, Master General of the Order of Preachers (1904–1916). Known for his piety and commitment to Dominican spirituality. Beatified by John Paul II in 1994."
+      },
+      {
+        "name": "Saint Stephen the Younger",
+        "type": "Abbot and Martyr",
+        "description": "8th-century monk of Mount Auxentius (Constantinople) who defended the veneration of icons during imperial iconoclasm and was martyred by order of Emperor Constantine V in 764."
+      },
+      {
+        "name": "Saint Joseph Barsabbas",
+        "type": "Disciple",
+        "description": "1st-century disciple of Christ, proposed alongside Matthias to replace Judas Iscariot among the Twelve Apostles (Acts 1:23). He was not chosen, but remained a prominent member of the early Christian community."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Mauritania Independence Day",
+        "description": "Mauritania commemorates its independence from France on 28 November 1960, when the Islamic Republic of Mauritania was proclaimed."
+      },
+      {
+        "name": "Panama Independence from Spain Day",
+        "description": "Panama celebrates 28 November 1821, when it declared independence from Spanish rule to voluntarily join Gran Colombia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Independence is happiness.",
+      "author": "Mary Wollstonecraft",
+      "context": "The English philosopher and writer, author of A Vindication of the Rights of Woman (1792), championed intellectual and economic independence as the foundation of human dignity."
+    },
+    "motivationalQuote": {
+      "text": "Where there is no struggle, there is no strength.",
+      "author": "Frederick Douglass"
+    },
+    "births": [
+      {
+        "name": "William Blake",
+        "description": "English Romantic poet, painter, and mystic, author of Songs of Innocence and of Experience and The Marriage of Heaven and Hell. Considered one of the great visionaries of English literature.",
+        "year": 1757
+      },
+      {
+        "name": "Friedrich Engels",
+        "description": "German philosopher and political theorist, co-author with Karl Marx of The Communist Manifesto (1848) and Capital. Co-founder of Marxist communism as a modern political movement.",
+        "year": 1820
+      },
+      {
+        "name": "Ed Harris",
+        "description": "American actor with four Oscar nominations, known for his roles in The Truman Show, Apollo 13, and Pollock.",
+        "year": 1950
+      }
+    ],
+    "events": [
+      {
+        "title": "Death of Erasmus of Rotterdam",
+        "description": "Dutch humanist Erasmus of Rotterdam, one of the most influential figures of the European Renaissance and author of In Praise of Folly, died in Basel.",
+        "year": 1536
+      },
+      {
+        "title": "Albania declares independence",
+        "description": "The League of Prizren proclaimed Albanian independence from the Ottoman Empire in Vlorë, establishing the first independent Albanian state in modern history.",
+        "year": 1912
+      },
+      {
+        "title": "Apollo 12 returns after second Moon mission",
+        "description": "The Apollo 12 spacecraft splashed down in the Pacific Ocean, completing the second crewed lunar mission in history with the successful landing of Pete Conrad and Alan Bean in the Ocean of Storms.",
+        "year": 1969
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Beato Jacinto Cormier",
+        "type": "Presbítero",
+        "description": "Dominicano francês dos séculos XIX–XX, Mestre Geral da Ordem dos Pregadores (1904–1916). Conhecido pela sua piedade e dedicação à espiritualidade dominicana. Beatificado por João Paulo II em 1994."
+      },
+      {
+        "name": "São Estêvão, o Jovem",
+        "type": "Abade e Mártir",
+        "description": "Monge do monte Auxêncio (Constantinopla) do século VIII que defendeu a veneração de ícones durante o iconoclasmo imperial e foi martirizado por ordem do imperador Constantino V em 764."
+      },
+      {
+        "name": "São José Barsabás",
+        "type": "Discípulo",
+        "description": "Discípulo de Cristo do século I, proposto juntamente com Matias para substituir Judas Iscariotes entre os Doze Apóstolos (Atos 1:23). Não foi escolhido, mas permaneceu membro proeminente da comunidade cristã primitiva."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência da Mauritânia",
+        "description": "A Mauritânia comemora a sua independência da França em 28 de novembro de 1960, quando foi proclamada a República Islâmica da Mauritânia."
+      },
+      {
+        "name": "Dia da Independência do Panamá da Espanha",
+        "description": "O Panamá celebra 28 de novembro de 1821, quando declarou independência do domínio espanhol para se unir voluntariamente à Grã-Colômbia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A independência é a felicidade.",
+      "author": "Mary Wollstonecraft",
+      "context": "A filósofa e escritora inglesa, autora de Uma Reivindicação pelos Direitos da Mulher (1792), defendeu a independência intelectual e econômica como base da dignidade humana."
+    },
+    "motivationalQuote": {
+      "text": "Onde não há luta, não há força.",
+      "author": "Frederick Douglass"
+    },
+    "births": [
+      {
+        "name": "William Blake",
+        "description": "Poeta, pintor e místico inglês do Romantismo, autor de Canções de Inocência e de Experiência e O Casamento do Céu e do Inferno. Considerado um dos grandes visionários da literatura inglesa.",
+        "year": 1757
+      },
+      {
+        "name": "Friedrich Engels",
+        "description": "Filósofo e teórico político alemão, coautor com Karl Marx do Manifesto Comunista (1848) e d'O Capital. Cofundador do comunismo marxista como movimento político moderno.",
+        "year": 1820
+      },
+      {
+        "name": "Ed Harris",
+        "description": "Ator americano com quatro indicações ao Oscar, conhecido pelos seus papéis em O Show de Truman, Apollo 13 e Pollock.",
+        "year": 1950
+      }
+    ],
+    "events": [
+      {
+        "title": "Morte de Erasmo de Roterdão",
+        "description": "O humanista neerlandês Erasmo de Roterdão, uma das figuras mais influentes do Renascimento europeu e autor do Elogio da Loucura, morreu em Basileia.",
+        "year": 1536
+      },
+      {
+        "title": "A Albânia proclama a independência",
+        "description": "A Liga de Prizren proclamou a independência da Albânia do Império Otomano em Vlora, estabelecendo o primeiro estado albanês independente da história moderna.",
+        "year": 1912
+      },
+      {
+        "title": "Apollo 12 regressa após a segunda missão lunar",
+        "description": "A nave Apollo 12 amerissou no Oceano Pacífico, completando a segunda missão lunar tripulada da história com o pouso bem-sucedido de Pete Conrad e Alan Bean no Oceano das Tempestades.",
+        "year": 1969
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Beat Jacint Cormier",
+        "type": "Prevere",
+        "description": "Dominic francès dels segles XIX–XX, Mestre General de l'Orde dels Predicadors (1904–1916). Conegut per la seva pietat i dedicació a l'espiritualitat dominicana. Beatificat per Joan Pau II el 1994."
+      },
+      {
+        "name": "Sant Esteve el Jove",
+        "type": "Abat i Màrtir",
+        "description": "Monjo del mont Auxenci (Constantinoble) del segle VIII que va defensar la veneració d'icones durant l'iconoclasme imperial i va ser martiritzat per ordre de l'emperador Constantí V l'any 764."
+      },
+      {
+        "name": "Sant Josep Barsabàs",
+        "type": "Deixeble",
+        "description": "Deixeble de Crist del segle I, proposat juntament amb Matias per substituir Judes Iscariot entre els Dotze Apòstols (Fets 1:23). No va ser escollit, però va continuar sent un membre destacat de la comunitat cristiana primitiva."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència de Mauritània",
+        "description": "Mauritània commemora la seva independència de França el 28 de novembre de 1960, quan es va proclamar la República Islàmica de Mauritània."
+      },
+      {
+        "name": "Dia de la Independència de Panamà d'Espanya",
+        "description": "Panamà celebra el 28 de novembre de 1821, quan va declarar la independència del domini espanyol per unir-se voluntàriament a la Gran Colòmbia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La independència és la felicitat.",
+      "author": "Mary Wollstonecraft",
+      "context": "La filòsofa i escriptora anglesa, autora de Vindicació dels drets de la dona (1792), va defensar la independència intel·lectual i econòmica com a base de la dignitat humana."
+    },
+    "motivationalQuote": {
+      "text": "On no hi ha lluita, no hi ha força.",
+      "author": "Frederick Douglass"
+    },
+    "births": [
+      {
+        "name": "William Blake",
+        "description": "Poeta, pintor i místic anglès del Romanticisme, autor de Cançons d'innocència i d'experiència i El matrimoni del Cel i l'Infern. Considerat un dels grans visionaris de la literatura anglesa.",
+        "year": 1757
+      },
+      {
+        "name": "Friedrich Engels",
+        "description": "Filòsof i teòric polític alemany, coautor amb Karl Marx del Manifest Comunista (1848) i El Capital. Cofundador del comunisme marxista com a moviment polític modern.",
+        "year": 1820
+      },
+      {
+        "name": "Ed Harris",
+        "description": "Actor americà amb quatre nominacions a l'Oscar, conegut pels seus papers a El Show de Truman, Apollo 13 i Pollock.",
+        "year": 1950
+      }
+    ],
+    "events": [
+      {
+        "title": "Mort d'Erasme de Rotterdam",
+        "description": "L'humanista neerlandès Erasme de Rotterdam, una de les figures més influents del Renaixement europeu i autor de l'Elogi de la follia, va morir a Basilea.",
+        "year": 1536
+      },
+      {
+        "title": "Albània proclama la independència",
+        "description": "La Lliga de Prizren va proclamar la independència d'Albània de l'Imperi Otomà a Vlorë, establint el primer estat albanès independent de la història moderna.",
+        "year": 1912
+      },
+      {
+        "title": "Apollo 12 torna després de la segona missió lunar",
+        "description": "La nau Apollo 12 va ameritzar a l'Oceà Pacífic, completant la segona missió lunar tripulada de la història amb l'aterratge exitós de Pete Conrad i Alan Bean a l'Oceà de les Tempestes.",
+        "year": 1969
+      }
+    ]
+  }
+}

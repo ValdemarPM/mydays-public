@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-23",
+  "es": {
+    "saints": [
+      { "name": "San Toribio de Mogrovejo", "type": "Obispo", "description": "Arzobispo de Lima en el siglo XVI-XVII, evangelizador del Perú colonial y patrono del episcopado latinoamericano; confirmó a Santa Rosa de Lima y al santo mestizo Martín de Porres." },
+      { "name": "San Pelagio I", "type": "Papa", "description": "Papa entre 556 y 561, elegido con el apoyo del emperador Justiniano I tras la muerte de Vigilio; dedicó su pontificado a la reconstrucción de Roma después de las guerras góticas." },
+      { "name": "San Nikon 'Metanoeite'", "type": "Monje misionero", "description": "Monje griego del siglo X conocido como 'Nikon el del Arrepentimiento', evangelizador de Creta y el Peloponeso, fundador de muchos monasterios en Grecia." }
+    ],
+    "observances": [
+      { "name": "Día Meteorológico Mundial", "description": "Jornada proclamada por la Organización Meteorológica Mundial (OMM) en conmemoración de la entrada en vigor de su convenio constitutivo el 23 de marzo de 1950; cada año se dedica a un tema relacionado con el clima." },
+      { "name": "Día del Trabajo Doméstico No Remunerado (varios países)", "description": "Jornada para visibilizar y reconocer el valor económico y social del trabajo doméstico realizado de forma no remunerada, principalmente por mujeres." }
+    ],
+    "historicalQuote": {
+      "text": "Dadme la libertad o dadme la muerte.",
+      "author": "Patrick Henry",
+      "context": "El abogado y político Patrick Henry pronunció estas palabras el 23 de marzo de 1775 en la Segunda Convención de Virginia, en un discurso que convenció a los delegados de armar a las milicias de Virginia y preparar la revolución americana."
+    },
+    "motivationalQuote": {
+      "text": "El momento en que dudas de si puedes volar, dejas de poder hacerlo para siempre.",
+      "author": "J. M. Barrie"
+    },
+    "births": [
+      { "name": "Stendhal (Marie-Henri Beyle)", "description": "Escritor francés del siglo XIX, precursor del realismo, autor de novelas fundamentales como 'Rojo y negro' y 'La cartuja de Parma', que exploran la psicología de los personajes con una modernidad sorprendente.", "year": 1783 },
+      { "name": "Akira Kurosawa", "description": "Director de cine japonés, considerado uno de los más influyentes de la historia del cine, autor de obras maestras como 'Rashōmon', 'Los siete samuráis' y 'Ran'.", "year": 1910 },
+      { "name": "Chaka Khan", "description": "Cantante americana de R&B, soul y funk, conocida como la 'Reina del Funk', con éxitos como 'I'm Every Woman' y 'Tell Me Something Good', ganadora de diez Grammy.", "year": 1953 }
+    ],
+    "events": [
+      { "title": "Patrick Henry lanza el grito de guerra de la Revolución americana", "description": "El abogado Patrick Henry pronunció su célebre discurso '¡Dadme la libertad o dadme la muerte!' en Richmond, Virginia, inflamando el ánimo de los colonos americanos contra el dominio británico.", "year": 1775 },
+      { "title": "Los Beatles graban su primer álbum en un solo día", "description": "The Beatles grabaron su álbum debut 'Please Please Me' en los estudios Abbey Road de Londres en una sesión de 10 horas, uno de los registros más rápidos de la historia de la música pop.", "year": 1963 },
+      { "title": "Yuri Gagarin muere en un accidente de aviación", "description": "El cosmonauta soviético Yuri Gagarin, el primer ser humano en el espacio, murió al estrellarse su avión MiG-15 durante un vuelo de entrenamiento cerca de Moscú.", "year": 1968 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Toribio of Mogrovejo", "type": "Bishop", "description": "Archbishop of Lima in the sixteenth–seventeenth century, evangeliser of colonial Peru and patron of the Latin American episcopate; he confirmed Saint Rose of Lima and the mestizo saint Martín de Porres." },
+      { "name": "Saint Pelagius I", "type": "Pope", "description": "Pope from 556 to 561, elected with the support of Emperor Justinian I after the death of Vigilius; he dedicated his pontificate to rebuilding Rome after the Gothic Wars." },
+      { "name": "Saint Nikon 'Metanoeite'", "type": "Missionary monk", "description": "Tenth-century Greek monk known as 'Nikon the Repentance-preacher', evangeliser of Crete and the Peloponnese, founder of many monasteries in Greece." }
+    ],
+    "observances": [
+      { "name": "World Meteorological Day", "description": "A day proclaimed by the World Meteorological Organization (WMO) to commemorate the entry into force of its founding convention on 23 March 1950; each year is dedicated to a weather-related theme." },
+      { "name": "Day of Unpaid Domestic Work (various countries)", "description": "A day to highlight and recognise the economic and social value of unpaid domestic work, carried out mainly by women." }
+    ],
+    "historicalQuote": {
+      "text": "Give me liberty, or give me death!",
+      "author": "Patrick Henry",
+      "context": "Lawyer and politician Patrick Henry spoke these words on 23 March 1775 at the Second Virginia Convention, in a speech that convinced delegates to arm Virginia's militias and prepare for the American Revolution."
+    },
+    "motivationalQuote": {
+      "text": "The moment you doubt whether you can fly, you cease for ever to be able to do it.",
+      "author": "J. M. Barrie"
+    },
+    "births": [
+      { "name": "Stendhal (Marie-Henri Beyle)", "description": "Nineteenth-century French writer, forerunner of realism, author of landmark novels such as 'The Red and the Black' and 'The Charterhouse of Parma', which explore characters' psychology with startling modernity.", "year": 1783 },
+      { "name": "Akira Kurosawa", "description": "Japanese film director, considered one of the most influential in cinema history, maker of masterpieces such as 'Rashōmon', 'Seven Samurai' and 'Ran'.", "year": 1910 },
+      { "name": "Chaka Khan", "description": "American R&B, soul and funk singer, known as the 'Queen of Funk', with hits such as 'I'm Every Woman' and 'Tell Me Something Good', ten-time Grammy winner.", "year": 1953 }
+    ],
+    "events": [
+      { "title": "Patrick Henry's 'Give me liberty' speech", "description": "Lawyer Patrick Henry delivered his celebrated 'Give me liberty, or give me death!' speech in Richmond, Virginia, inflaming the spirit of American colonists against British rule.", "year": 1775 },
+      { "title": "The Beatles record their debut album in one day", "description": "The Beatles recorded their debut album 'Please Please Me' at Abbey Road Studios in London in a 10-hour session, one of the fastest recordings in pop music history.", "year": 1963 },
+      { "title": "Yuri Gagarin dies in an aviation accident", "description": "Soviet cosmonaut Yuri Gagarin, the first human in space, died when his MiG-15 aircraft crashed during a training flight near Moscow.", "year": 1968 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Toríbio de Mogrovejo", "type": "Bispo", "description": "Arcebispo de Lima nos séculos XVI-XVII, evangelizador do Peru colonial e patrono do episcopado latino-americano; confirmou Santa Rosa de Lima e o santo mestiço Martim de Porres." },
+      { "name": "São Pelágio I", "type": "Papa", "description": "Papa de 556 a 561, eleito com o apoio do imperador Justiniano I após a morte de Vigílio; dedicou o seu pontificado à reconstrução de Roma após as guerras góticas." },
+      { "name": "São Nikon 'Metanoeite'", "type": "Monge missionário", "description": "Monge grego do século X conhecido como 'Nikon, o Pregador do Arrependimento', evangelizador de Creta e do Peloponeso, fundador de muitos mosteiros na Grécia." }
+    ],
+    "observances": [
+      { "name": "Dia Meteorológico Mundial", "description": "Jornada proclamada pela Organização Meteorológica Mundial (OMM) em comemoração da entrada em vigor da sua convenção constitutiva em 23 de março de 1950; cada ano é dedicado a uma temática relacionada com o clima." },
+      { "name": "Dia do Trabalho Doméstico Não Remunerado (vários países)", "description": "Jornada para visibilizar e reconhecer o valor económico e social do trabalho doméstico não remunerado, realizado principalmente por mulheres." }
+    ],
+    "historicalQuote": {
+      "text": "Dai-me liberdade ou dai-me a morte!",
+      "author": "Patrick Henry",
+      "context": "O advogado e político Patrick Henry pronunciou estas palavras em 23 de março de 1775 na Segunda Convenção da Virgínia, num discurso que convenceu os delegados a armar as milícias da Virgínia e preparar a revolução americana."
+    },
+    "motivationalQuote": {
+      "text": "No momento em que você duvida se pode voar, cessa para sempre de poder fazê-lo.",
+      "author": "J. M. Barrie"
+    },
+    "births": [
+      { "name": "Stendhal (Marie-Henri Beyle)", "description": "Escritor francês do século XIX, precursor do realismo, autor de romances fundamentais como 'O Vermelho e o Negro' e 'A Cartuxa de Parma', que exploram a psicologia das personagens com surpreendente modernidade.", "year": 1783 },
+      { "name": "Akira Kurosawa", "description": "Diretor de cinema japonês, considerado um dos mais influentes da história do cinema, autor de obras-primas como 'Rashōmon', 'Os Sete Samurais' e 'Ran'.", "year": 1910 },
+      { "name": "Chaka Khan", "description": "Cantora americana de R&B, soul e funk, conhecida como a 'Rainha do Funk', com sucessos como 'I'm Every Woman' e 'Tell Me Something Good', dez vezes vencedora do Grammy.", "year": 1953 }
+    ],
+    "events": [
+      { "title": "Discurso 'Dai-me liberdade' de Patrick Henry", "description": "O advogado Patrick Henry proferiu o seu célebre discurso 'Dai-me liberdade ou dai-me a morte!' em Richmond, Virgínia, inflamando o espírito dos colonos americanos contra o domínio britânico.", "year": 1775 },
+      { "title": "Os Beatles gravam o álbum de estreia num único dia", "description": "Os Beatles gravaram o álbum de estreia 'Please Please Me' nos estúdios Abbey Road de Londres numa sessão de 10 horas, um dos registros mais rápidos da história da música pop.", "year": 1963 },
+      { "title": "Yuri Gagarin morre num acidente de aviação", "description": "O cosmonauta soviético Yuri Gagarin, o primeiro ser humano no espaço, morreu quando o seu avião MiG-15 se despenhou durante um voo de treino perto de Moscovo.", "year": 1968 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Toríbio de Mogrovejo", "type": "Bisbe", "description": "Arquebisbe de Lima als segles XVI-XVII, evangelitzador del Perú colonial i patró de l'episcopat llatinoamericà; va confirmar Santa Rosa de Lima i el sant mestís Martí de Porres." },
+      { "name": "Sant Pelagi I", "type": "Papa", "description": "Papa de 556 a 561, elegit amb el suport de l'emperador Justinià I després de la mort de Vigili; va dedicar el seu pontificat a la reconstrucció de Roma després de les guerres gòtiques." },
+      { "name": "Sant Nikon 'Metanoeite'", "type": "Monjo missioner", "description": "Monjo grec del segle X conegut com a 'Nikon el predicador del penediment', evangelitzador de Creta i el Peloponès, fundador de molts monestirs a Grècia." }
+    ],
+    "observances": [
+      { "name": "Dia Meteorològic Mundial", "description": "Jornada proclamada per l'Organització Meteorològica Mundial (OMM) en commemoració de l'entrada en vigor del seu conveni constitutiu el 23 de març de 1950; cada any es dedica a una temàtica relacionada amb el clima." },
+      { "name": "Dia del Treball Domèstic No Remunerat (diversos països)", "description": "Jornada per visibilitzar i reconèixer el valor econòmic i social del treball domèstic no remunerat, realitzat principalment per dones." }
+    ],
+    "historicalQuote": {
+      "text": "Doneu-me la llibertat o doneu-me la mort!",
+      "author": "Patrick Henry",
+      "context": "L'advocat i polític Patrick Henry va pronunciar aquestes paraules el 23 de març de 1775 a la Segona Convenció de Virgínia, en un discurs que va convèncer els delegats d'armar les milícies de Virgínia i preparar la revolució americana."
+    },
+    "motivationalQuote": {
+      "text": "En el moment que dubtes si pots volar, deixes per sempre de poder-ho fer.",
+      "author": "J. M. Barrie"
+    },
+    "births": [
+      { "name": "Stendhal (Marie-Henri Beyle)", "description": "Escriptor francès del segle XIX, precursor del realisme, autor de novel·les fonamentals com 'El roig i el negre' i 'La cartoixa de Parma', que exploren la psicologia dels personatges amb una modernitat sorprenent.", "year": 1783 },
+      { "name": "Akira Kurosawa", "description": "Director de cinema japonès, considerat un dels més influents de la història del cinema, autor d'obres mestres com 'Rashōmon', 'Els set samurais' i 'Ran'.", "year": 1910 },
+      { "name": "Chaka Khan", "description": "Cantant americana de R&B, soul i funk, coneguda com la 'Reina del Funk', amb èxits com 'I'm Every Woman' i 'Tell Me Something Good', deu vegades guanyadora del Grammy.", "year": 1953 }
+    ],
+    "events": [
+      { "title": "Discurs 'Doneu-me la llibertat' de Patrick Henry", "description": "L'advocat Patrick Henry va pronunciar el seu cèlebre discurs 'Doneu-me la llibertat o doneu-me la mort!' a Richmond, Virgínia, inflamant l'ànim dels colons americans contra el domini britànic.", "year": 1775 },
+      { "title": "Els Beatles graven el seu primer àlbum en un sol dia", "description": "Els Beatles van gravar el seu àlbum debut 'Please Please Me' als estudis Abbey Road de Londres en una sessió de 10 hores, un dels registres més ràpids de la història de la música pop.", "year": 1963 },
+      { "title": "Yuri Gagarin mor en un accident d'aviació", "description": "El cosmonauta soviètic Yuri Gagarin, el primer ésser humà a l'espai, va morir quan el seu avió MiG-15 es va estavellar durant un vol d'entrenament prop de Moscou.", "year": 1968 }
+    ]
+  }
+}

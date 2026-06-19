@@ -1,0 +1,291 @@
+{
+  "date": "2026-04-22",
+  "es": {
+    "saints": [
+      {
+        "name": "San Soter",
+        "type": "Papa y Mártir",
+        "description": "Papa del siglo II, conocido por su generosidad con las iglesias más pobres y por defender la indisolubilidad del matrimonio. Su pontificado coincidió con las primeras grandes persecuciones del Imperio Romano. Fue venerado como mártir y sus restos reposan en las catacumbas de San Calixto en Roma."
+      },
+      {
+        "name": "San Caio",
+        "type": "Papa",
+        "description": "Papa del siglo III, de origen dálmata, que gobernó la Iglesia durante el reinado del emperador Diocleciano. Organizó la jerarquía eclesiástica de Roma y fue venerado como mártir, aunque los historiadores modernos dudan de que haya sufrido martirio formal. Su pontificado duró unos 12 años."
+      },
+      {
+        "name": "San Teodoro de Pavía",
+        "type": "Obispo",
+        "description": "Obispo de Pavía (actual Italia) en el siglo V-VI. Conocido por su dedicación pastoral y su lucha contra el arrianismo que prevalecía entre los godos que dominaban entonces el norte de Italia. Su veneración se mantiene viva en la ciudad de Pavía."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Tierra",
+        "description": "Celebrado el 22 de abril desde 1970, cuando 20 millones de estadounidenses salieron a las calles en la primera celebración organizada por el senador Gaylord Nelson. Hoy es el mayor evento medioambiental del mundo, con más de mil millones de personas participando en actividades en 193 países."
+      },
+      {
+        "name": "Día de la Madre (en algunos países latinoamericanos)",
+        "description": "En varios países, el 22 de abril se celebra el Día de la Madre, aunque en la mayoría es el segundo domingo de mayo. Bolivia, Honduras y Guatemala lo celebran en esta fecha fija."
+      }
+    ],
+    "historicalQuote": {
+      "text": "En algún lugar, algo increíble está esperando ser conocido.",
+      "author": "Carl Sagan",
+      "context": "Carl Sagan (1934-1996), astrónomo y divulgador científico estadounidense, fue uno de los comunicadores de la ciencia más influyentes del siglo XX. Esta cita transmite su amor por el descubrimiento y su convicción de que el universo está lleno de maravillas por conocer."
+    },
+    "motivationalQuote": {
+      "text": "La mejor forma de predecir el futuro es crearlo.",
+      "author": "Peter Drucker"
+    },
+    "births": [
+      {
+        "name": "Immanuel Kant",
+        "description": "Filósofo alemán del siglo XVIII, considerado uno de los más grandes de la historia del pensamiento occidental. Su 'Crítica de la razón pura' (1781) transformó la filosofía moderna. Su ética del imperativo categórico —actúa solo según aquella máxima por la cual puedas al mismo tiempo querer que sea una ley universal— sigue siendo referencia fundamental.",
+        "year": "1724"
+      },
+      {
+        "name": "Vladimir Lenin",
+        "description": "Líder político ruso, fundador del leninismo y figura central de la Revolución Rusa de 1917. Primer líder de la Unión Soviética. Su interpretación del marxismo y su modelo de partido de vanguardia influyeron en los movimientos revolucionarios de todo el siglo XX.",
+        "year": "1870"
+      },
+      {
+        "name": "Jack Nicholson",
+        "description": "Actor estadounidense, uno de los más premiados de la historia de Hollywood con tres Premios de la Academia. Conocido por sus papeles en 'Alguien voló sobre el nido del cuco' (1975), 'El resplandor' (1980) y 'As Good as It Gets' (1997). Su presencia carismática e intensa ha definido el cine americano durante décadas.",
+        "year": "1937"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer Día de la Tierra",
+        "description": "Veinticinco millones de estadounidenses participaron en el primer Día de la Tierra, organizado por el senador Gaylord Nelson y el activista Denis Hayes. El evento inspiró la creación de la Agencia de Protección Ambiental de EE.UU. y la aprobación de la Ley de Aire Limpio, la Ley de Aguas Limpias y la Ley de Especies en Peligro.",
+        "year": "1970"
+      },
+      {
+        "title": "Descubrimiento de Brasil",
+        "description": "La flota portuguesa comandada por Pedro Álvares Cabral avistó las costas de Brasil (22 de abril de 1500), que los portugueses llamaron inicialmente 'Terra de Vera Cruz'. El acontecimiento marcó el inicio de la colonización portuguesa del territorio que se convertiría en el mayor país de América del Sur.",
+        "year": "1500"
+      },
+      {
+        "title": "Inauguración de la Estatua de la Libertad",
+        "description": "La Estatua de la Libertad fue inaugurada oficialmente en la isla de Bedloe (actualmente llamada Liberty Island) en el puerto de Nueva York, un regalo de Francia a los Estados Unidos en celebración del centenario de la independencia americana. La escultura es obra del artista Frédéric Auguste Bartholdi.",
+        "year": "1886"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Soter",
+        "type": "Pope and Martyr",
+        "description": "A 2nd-century pope, known for his generosity towards the poorer churches and for defending the indissolubility of marriage. His pontificate coincided with the first great persecutions of the Roman Empire. He was venerated as a martyr and his remains rest in the Catacombs of Saint Callixtus in Rome."
+      },
+      {
+        "name": "Saint Gaius",
+        "type": "Pope",
+        "description": "A 3rd-century pope of Dalmatian origin, who governed the Church during the reign of Emperor Diocletian. He organised the ecclesiastical hierarchy of Rome and was venerated as a martyr, though modern historians doubt he suffered formal martyrdom. His pontificate lasted around 12 years."
+      },
+      {
+        "name": "Saint Theodore of Pavia",
+        "type": "Bishop",
+        "description": "A 5th–6th century Bishop of Pavia (present-day Italy). Known for his pastoral dedication and his struggle against Arianism, which prevailed among the Goths who then dominated northern Italy. His veneration remains alive in the city of Pavia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Earth Day",
+        "description": "Celebrated on 22 April since 1970, when 20 million Americans took to the streets at the first celebration organised by Senator Gaylord Nelson. Today it is the world's largest environmental event, with more than a billion people participating in activities in 193 countries."
+      },
+      {
+        "name": "Mother's Day (in some Latin American countries)",
+        "description": "In several countries, 22 April is celebrated as Mother's Day, although in most countries it falls on the second Sunday of May. Bolivia, Honduras, and Guatemala mark it on this fixed date."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Somewhere, something incredible is waiting to be known.",
+      "author": "Carl Sagan",
+      "context": "Carl Sagan (1934–1996), American astronomer and science communicator, was one of the most influential science popularisers of the 20th century. This quote conveys his love of discovery and his conviction that the universe is full of wonders yet to be known."
+    },
+    "motivationalQuote": {
+      "text": "The best way to predict the future is to create it.",
+      "author": "Peter Drucker"
+    },
+    "births": [
+      {
+        "name": "Immanuel Kant",
+        "description": "18th-century German philosopher, considered one of the greatest in the history of Western thought. His 'Critique of Pure Reason' (1781) transformed modern philosophy. His ethics of the categorical imperative — act only according to that maxim by which you can at the same time will that it should become a universal law — remains a fundamental reference.",
+        "year": "1724"
+      },
+      {
+        "name": "Vladimir Lenin",
+        "description": "Russian political leader, founder of Leninism and central figure of the Russian Revolution of 1917. First leader of the Soviet Union. His interpretation of Marxism and his vanguard party model influenced revolutionary movements throughout the 20th century.",
+        "year": "1870"
+      },
+      {
+        "name": "Jack Nicholson",
+        "description": "American actor, one of the most decorated in Hollywood history with three Academy Awards. Known for his roles in 'One Flew Over the Cuckoo's Nest' (1975), 'The Shining' (1980), and 'As Good as It Gets' (1997). His charismatic and intense presence has defined American cinema for decades.",
+        "year": "1937"
+      }
+    ],
+    "events": [
+      {
+        "title": "First Earth Day",
+        "description": "Twenty million Americans participated in the first Earth Day, organised by Senator Gaylord Nelson and activist Denis Hayes. The event inspired the creation of the US Environmental Protection Agency and the passage of the Clean Air Act, the Clean Water Act, and the Endangered Species Act.",
+        "year": "1970"
+      },
+      {
+        "title": "Discovery of Brazil",
+        "description": "The Portuguese fleet commanded by Pedro Álvares Cabral sighted the coast of Brazil (22 April 1500), which the Portuguese initially called 'Terra de Vera Cruz'. The event marked the beginning of Portuguese colonisation of the territory that would become the largest country in South America.",
+        "year": "1500"
+      },
+      {
+        "title": "Inauguration of the Statue of Liberty",
+        "description": "The Statue of Liberty was officially inaugurated on Bedloe's Island (now called Liberty Island) in New York Harbor, a gift from France to the United States celebrating the centenary of American independence. The sculpture was created by artist Frédéric Auguste Bartholdi.",
+        "year": "1886"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Soter",
+        "type": "Papa e Mártir",
+        "description": "Papa do século II, conhecido pela sua generosidade para com as igrejas mais pobres e pela defesa da indissolubilidade do matrimônio. O seu pontificado coincidiu com as primeiras grandes perseguições do Império Romano. Foi venerado como mártir e os seus restos repousam nas catacumbas de São Calisto em Roma."
+      },
+      {
+        "name": "São Caio",
+        "type": "Papa",
+        "description": "Papa do século III, de origem dálmata, que governou a Igreja durante o reinado do imperador Diocleciano. Organizou a hierarquia eclesiástica de Roma e foi venerado como mártir, embora os historiadores modernos duvidem que tenha sofrido martírio formal. O seu pontificado durou cerca de 12 anos."
+      },
+      {
+        "name": "São Teodoro de Pavia",
+        "type": "Bispo",
+        "description": "Bispo de Pavia (atual Itália) nos séculos V-VI. Conhecido pela sua dedicação pastoral e pela sua luta contra o arianismo que prevalecia entre os godos que então dominavam o norte de Itália. A sua veneração mantém-se viva na cidade de Pavia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Terra",
+        "description": "Celebrado em 22 de abril desde 1970, quando 20 milhões de americanos saíram às ruas na primeira celebração organizada pelo senador Gaylord Nelson. Hoje é o maior evento ambiental do mundo, com mais de mil milhões de pessoas a participar em atividades em 193 países."
+      },
+      {
+        "name": "Dia da Mãe (em alguns países latino-americanos)",
+        "description": "Em vários países, o 22 de abril é celebrado como Dia da Mãe, embora na maioria seja o segundo domingo de maio. Bolívia, Honduras e Guatemala celebram-no nesta data fixa."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Em algum lugar, algo incrível está esperando ser descoberto.",
+      "author": "Carl Sagan",
+      "context": "Carl Sagan (1934-1996), astrônomo e divulgador científico americano, foi um dos comunicadores da ciência mais influentes do século XX. Esta citação transmite o seu amor pela descoberta e a sua convicção de que o universo está cheio de maravilhas por conhecer."
+    },
+    "motivationalQuote": {
+      "text": "A melhor forma de prever o futuro é criá-lo.",
+      "author": "Peter Drucker"
+    },
+    "births": [
+      {
+        "name": "Immanuel Kant",
+        "description": "Filósofo alemão do século XVIII, considerado um dos maiores da história do pensamento ocidental. A sua 'Crítica da Razão Pura' (1781) transformou a filosofia moderna. A sua ética do imperativo categórico — age apenas segundo a máxima pela qual possas ao mesmo tempo querer que seja uma lei universal — continua a ser referência fundamental.",
+        "year": "1724"
+      },
+      {
+        "name": "Vladimir Lenine",
+        "description": "Líder político russo, fundador do leninismo e figura central da Revolução Russa de 1917. Primeiro líder da União Soviética. A sua interpretação do marxismo e o seu modelo de partido de vanguarda influenciaram os movimentos revolucionários em todo o século XX.",
+        "year": "1870"
+      },
+      {
+        "name": "Jack Nicholson",
+        "description": "Ator americano, um dos mais premiados da história de Hollywood com três Prémios da Academia. Conhecido pelos seus papéis em 'Um Estranho no Ninho' (1975), 'O Iluminado' (1980) e 'Melhor É Impossível' (1997). A sua presença carismática e intensa definiu o cinema americano durante décadas.",
+        "year": "1937"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeiro Dia da Terra",
+        "description": "Vinte milhões de americanos participaram no primeiro Dia da Terra, organizado pelo senador Gaylord Nelson e pelo ativista Denis Hayes. O evento inspirou a criação da Agência de Proteção Ambiental dos EUA e a aprovação da Lei do Ar Limpo, a Lei da Água Limpa e a Lei das Espécies em Perigo.",
+        "year": "1970"
+      },
+      {
+        "title": "Descobrimento do Brasil",
+        "description": "A frota portuguesa comandada por Pedro Álvares Cabral avistou as costas do Brasil (22 de abril de 1500), que os portugueses chamaram inicialmente 'Terra de Vera Cruz'. O acontecimento marcou o início da colonização portuguesa do território que se tornaria o maior país da América do Sul.",
+        "year": "1500"
+      },
+      {
+        "title": "Inauguração da Estátua da Liberdade",
+        "description": "A Estátua da Liberdade foi inaugurada oficialmente na Ilha de Bedloe (atualmente chamada Ilha da Liberdade) no porto de Nova Iorque, um presente da França aos Estados Unidos em celebração do centenário da independência americana. A escultura é obra do artista Frédéric Auguste Bartholdi.",
+        "year": "1886"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Soter",
+        "type": "Papa i Màrtir",
+        "description": "Papa del segle II, conegut per la seva generositat amb les esglésies més pobres i per defensar la indissolubilitat del matrimoni. El seu pontificat va coincidir amb les primeres grans persecucions de l'Imperi Romà. Va ser venerat com a màrtir i les seves restes reposen a les catacumbes de Sant Cal·list a Roma."
+      },
+      {
+        "name": "Sant Caius",
+        "type": "Papa",
+        "description": "Papa del segle III, d'origen dàlmata, que va governar l'Església durant el regnat de l'emperador Dioclecià. Va organitzar la jerarquia eclesiàstica de Roma i va ser venerat com a màrtir, tot i que els historiadors moderns dubten que hagi patit martiri formal. El seu pontificat va durar uns 12 anys."
+      },
+      {
+        "name": "Sant Teodor de Pavia",
+        "type": "Bisbe",
+        "description": "Bisbe de Pavia (actual Itàlia) als segles V-VI. Conegut per la seva dedicació pastoral i la seva lluita contra l'arrianisme que prevaleixia entre els gots que aleshores dominaven el nord d'Itàlia. La seva veneració es manté viva a la ciutat de Pavia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Terra",
+        "description": "Celebrat el 22 d'abril des del 1970, quan 20 milions d'americans van sortir als carrers en la primera celebració organitzada pel senador Gaylord Nelson. Avui és el major esdeveniment mediambiental del món, amb més de mil milions de persones participant en activitats en 193 països."
+      },
+      {
+        "name": "Dia de la Mare (en alguns països llatinoamericans)",
+        "description": "En diversos països, el 22 d'abril es celebra el Dia de la Mare, tot i que en la majoria és el segon diumenge de maig. Bolívia, Hondures i Guatemala ho celebren en aquesta data fixa."
+      }
+    ],
+    "historicalQuote": {
+      "text": "En algun lloc, alguna cosa increïble espera ser coneguda.",
+      "author": "Carl Sagan",
+      "context": "Carl Sagan (1934-1996), astrònom i divulgador científic americà, va ser un dels comunicadors de la ciència més influents del segle XX. Aquesta cita transmet el seu amor pel descobriment i la seva convicció que l'univers està ple de meravelles per conèixer."
+    },
+    "motivationalQuote": {
+      "text": "La millor manera de predir el futur és crear-lo.",
+      "author": "Peter Drucker"
+    },
+    "births": [
+      {
+        "name": "Immanuel Kant",
+        "description": "Filòsof alemany del segle XVIII, considerat un dels més grans de la història del pensament occidental. La seva 'Crítica de la raó pura' (1781) va transformar la filosofia moderna. La seva ètica de l'imperatiu categòric —actua només segons aquella màxima per la qual puguis al mateix temps voler que sigui una llei universal— continua sent referència fonamental.",
+        "year": "1724"
+      },
+      {
+        "name": "Vladimir Lenin",
+        "description": "Líder polític rus, fundador del leninisme i figura central de la Revolució Russa de 1917. Primer líder de la Unió Soviètica. La seva interpretació del marxisme i el seu model de partit d'avantguarda van influir en els moviments revolucionaris de tot el segle XX.",
+        "year": "1870"
+      },
+      {
+        "name": "Jack Nicholson",
+        "description": "Actor americà, un dels més premiats de la història de Hollywood amb tres Premis de l'Acadèmia. Conegut pels seus papers a 'Algú va volar sobre el niu del cucut' (1975), 'L'esplendor' (1980) i 'Tan bé com pot ser' (1997). La seva presència carismàtica i intensa ha definit el cinema americà durant dècades.",
+        "year": "1937"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer Dia de la Terra",
+        "description": "Vint milions d'americans van participar en el primer Dia de la Terra, organitzat pel senador Gaylord Nelson i l'activista Denis Hayes. L'esdeveniment va inspirar la creació de l'Agència de Protecció Ambiental dels EUA i l'aprovació de la Llei de l'Aire Net, la Llei de l'Aigua Neta i la Llei d'Espècies en Perill.",
+        "year": "1970"
+      },
+      {
+        "title": "Descobriment del Brasil",
+        "description": "La flota portuguesa comandada per Pedro Álvares Cabral va avistar les costes del Brasil (22 d'abril de 1500), que els portuguesos van anomenar inicialment 'Terra de Vera Cruz'. L'esdeveniment va marcar l'inici de la colonització portuguesa del territori que es convertiria en el major país d'Amèrica del Sud.",
+        "year": "1500"
+      },
+      {
+        "title": "Inauguració de l'Estàtua de la Llibertat",
+        "description": "L'Estàtua de la Llibertat va ser inaugurada oficialment a l'illa de Bedloe (ara anomenada Liberty Island) al port de Nova York, un regal de França als Estats Units en celebració del centenari de la independència americana. L'escultura és obra de l'artista Frédéric Auguste Bartholdi.",
+        "year": "1886"
+      }
+    ]
+  }
+}

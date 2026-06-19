@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-02",
+  "es": {
+    "saints": [
+      {
+        "name": "San Elpidio de Atino",
+        "type": "Obispo",
+        "description": "Obispo de Atino (Italia) en el siglo V, conocido por su vida ascética y sus obras de caridad. Venerado especialmente en el Lacio como protector de la ciudad de Atino."
+      },
+      {
+        "name": "San Esteban de Hungría",
+        "type": "Rey",
+        "description": "Primer rey cristiano de Hungría (año 1000), canonizado en 1083. Unificó las tribus magiares, introdujo el cristianismo en el reino y sentó las bases del Estado húngaro moderno."
+      },
+      {
+        "name": "Santa Ingrid de Skänninge",
+        "type": "Religiosa",
+        "description": "Noble sueca del siglo XIII que abandonó la vida cortesana para fundar el primer convento dominicano en Escandinavia, en Skänninge (Suecia). Venerada como bienaventurada."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Victoria sobre Japón — VJ Day",
+        "description": "Conmemoración de la rendición formal de Japón el 2 de septiembre de 1945 a bordo del USS Missouri, que puso fin oficialmente a la Segunda Guerra Mundial."
+      },
+      {
+        "name": "Día Nacional de Vietnam",
+        "description": "Aniversario de la proclamación de la independencia de Vietnam del Norte el 2 de septiembre de 1945, por Ho Chi Minh, en Hanói, inspirada en la Declaración de Independencia de los Estados Unidos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nada en el mundo puede reemplazar la perseverancia.",
+      "author": "Calvin Coolidge",
+      "context": "El 30.º presidente de los Estados Unidos expresó esta convicción que guió su propia carrera política, marcada por la sobriedad y la constancia en tiempos de prosperidad económica de los años veinte."
+    },
+    "motivationalQuote": {
+      "text": "Haz cada día algo que te dé miedo.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Keanu Reeves",
+        "description": "Actor canadiense-americano internacionalmente reconocido por su papel de Neo en la trilogía Matrix (1999–2003) y por la saga de acción John Wick.",
+        "year": 1964
+      },
+      {
+        "name": "Salma Hayek",
+        "description": "Actriz y productora mexicana nominada al Oscar por su interpretación de Frida Kahlo en Frida (2002), una de las figuras latinoamericanas más influyentes de Hollywood.",
+        "year": 1966
+      },
+      {
+        "name": "Jimmy Connors",
+        "description": "Tenista estadounidense que dominó el circuito mundial durante la década de 1970 y principios de los 80, ganando ocho títulos de Grand Slam y permaneciendo 268 semanas como número uno del mundo.",
+        "year": 1952
+      }
+    ],
+    "events": [
+      {
+        "title": "Incendio de Londres",
+        "description": "El Gran Incendio de Londres comenzó en una panadería de Pudding Lane y destruyó en cuatro días más de 13.000 casas y 87 iglesias, incluyendo la catedral de San Pablo, transformando la ciudad para siempre.",
+        "year": 1666
+      },
+      {
+        "title": "Japón firma la rendición — fin oficial de la Segunda Guerra Mundial",
+        "description": "Representantes del gobierno y el ejército japonés firmaron el acta de rendición incondicional a bordo del USS Missouri en la bahía de Tokio, poniendo fin oficialmente a la Segunda Guerra Mundial.",
+        "year": 1945
+      },
+      {
+        "title": "Inauguración del tesoro de Tutankamón en El Cairo",
+        "description": "El Museo Egipcio de El Cairo inauguró la exposición pública permanente del tesoro de Tutankamón, descubierto por Howard Carter en 1922, con más de 5.000 objetos del faraón niño.",
+        "year": 1926
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Elpidius of Atina",
+        "type": "Bishop",
+        "description": "Bishop of Atina (Italy) in the 5th century, known for his ascetic life and charitable works. Especially venerated in Lazio as the protector of the city of Atina."
+      },
+      {
+        "name": "Saint Stephen of Hungary",
+        "type": "King",
+        "description": "First Christian king of Hungary (year 1000), canonised in 1083. He unified the Magyar tribes, introduced Christianity into the kingdom, and laid the foundations of the modern Hungarian state."
+      },
+      {
+        "name": "Saint Ingrid of Skänninge",
+        "type": "Religious",
+        "description": "A 13th-century Swedish noblewoman who left court life to found the first Dominican convent in Scandinavia, at Skänninge (Sweden). Venerated as a blessed."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Victory over Japan Day — VJ Day",
+        "description": "Commemoration of Japan's formal surrender on 2 September 1945 aboard the USS Missouri, which officially ended World War II."
+      },
+      {
+        "name": "Vietnamese National Day",
+        "description": "Anniversary of the proclamation of North Vietnam's independence on 2 September 1945, by Ho Chi Minh in Hanoi, inspired by the United States Declaration of Independence."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nothing in the world can take the place of perseverance.",
+      "author": "Calvin Coolidge",
+      "context": "The 30th President of the United States expressed this conviction that guided his own political career, marked by restraint and steadiness during the economic prosperity of the 1920s."
+    },
+    "motivationalQuote": {
+      "text": "Do one thing every day that scares you.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Keanu Reeves",
+        "description": "Canadian-American actor internationally recognised for his role as Neo in The Matrix trilogy (1999–2003) and for the John Wick action franchise.",
+        "year": 1964
+      },
+      {
+        "name": "Salma Hayek",
+        "description": "Mexican actress and producer, Oscar-nominated for her portrayal of Frida Kahlo in Frida (2002), one of the most influential Latin American figures in Hollywood.",
+        "year": 1966
+      },
+      {
+        "name": "Jimmy Connors",
+        "description": "American tennis player who dominated the world circuit throughout the 1970s and early 1980s, winning eight Grand Slam titles and spending 268 weeks as world number one.",
+        "year": 1952
+      }
+    ],
+    "events": [
+      {
+        "title": "Great Fire of London",
+        "description": "The Great Fire of London started at a bakery on Pudding Lane and destroyed over 13,000 houses and 87 churches in four days, including St Paul's Cathedral, transforming the city forever.",
+        "year": 1666
+      },
+      {
+        "title": "Japan signs the surrender — official end of World War II",
+        "description": "Representatives of the Japanese government and military signed the instrument of unconditional surrender aboard the USS Missouri in Tokyo Bay, officially ending World War II.",
+        "year": 1945
+      },
+      {
+        "title": "Tutankhamun's treasure opens in Cairo",
+        "description": "The Egyptian Museum in Cairo inaugurated the permanent public display of Tutankhamun's treasure, discovered by Howard Carter in 1922, featuring more than 5,000 objects belonging to the boy pharaoh.",
+        "year": 1926
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Elpídio de Atino",
+        "type": "Bispo",
+        "description": "Bispo de Atino (Itália) no século V, conhecido pela sua vida ascética e pelas suas obras de caridade. Especialmente venerado no Lácio como protetor da cidade de Atino."
+      },
+      {
+        "name": "Santo Estevão da Hungria",
+        "type": "Rei",
+        "description": "Primeiro rei cristão da Hungria (ano 1000), canonizado em 1083. Unificou as tribos magiares, introduziu o cristianismo no reino e lançou as bases do Estado húngaro moderno."
+      },
+      {
+        "name": "Santa Ingrid de Skänninge",
+        "type": "Religiosa",
+        "description": "Nobre sueca do século XIII que abandonou a vida cortesã para fundar o primeiro convento dominicano na Escandinávia, em Skänninge (Suécia). Venerada como beata."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Vitória sobre o Japão — VJ Day",
+        "description": "Comemoração da rendição formal do Japão em 2 de setembro de 1945 a bordo do USS Missouri, que encerrou oficialmente a Segunda Guerra Mundial."
+      },
+      {
+        "name": "Dia Nacional do Vietname",
+        "description": "Aniversário da proclamação da independência do Vietname do Norte em 2 de setembro de 1945, por Ho Chi Minh, em Hanói, inspirada na Declaração de Independência dos Estados Unidos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nada no mundo pode substituir a perseverança.",
+      "author": "Calvin Coolidge",
+      "context": "O 30.º presidente dos Estados Unidos expressou esta convicção que guiou a sua própria carreira política, marcada pela sobriedade e constância nos tempos de prosperidade econômica dos anos vinte."
+    },
+    "motivationalQuote": {
+      "text": "Faça todos os dias algo que te cause medo.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Keanu Reeves",
+        "description": "Ator canadense-americano internacionalmente reconhecido pelo seu papel de Neo na trilogia Matrix (1999–2003) e pela franquia de ação John Wick.",
+        "year": 1964
+      },
+      {
+        "name": "Salma Hayek",
+        "description": "Atriz e produtora mexicana nomeada para o Oscar pela sua interpretação de Frida Kahlo em Frida (2002), uma das figuras latino-americanas mais influentes em Hollywood.",
+        "year": 1966
+      },
+      {
+        "name": "Jimmy Connors",
+        "description": "Tenista americano que dominou o circuito mundial durante a década de 1970 e início dos anos 80, vencendo oito títulos de Grand Slam e permanecendo 268 semanas como número um do mundo.",
+        "year": 1952
+      }
+    ],
+    "events": [
+      {
+        "title": "Grande Incêndio de Londres",
+        "description": "O Grande Incêndio de Londres começou numa padaria em Pudding Lane e destruiu em quatro dias mais de 13.000 casas e 87 igrejas, incluindo a catedral de São Paulo, transformando a cidade para sempre.",
+        "year": 1666
+      },
+      {
+        "title": "Japão assina a rendição — fim oficial da Segunda Guerra Mundial",
+        "description": "Representantes do governo e do exército japonês assinaram o instrumento de rendição incondicional a bordo do USS Missouri na baía de Tóquio, encerrando oficialmente a Segunda Guerra Mundial.",
+        "year": 1945
+      },
+      {
+        "title": "Tesouro de Tutancâmon exposto no Cairo",
+        "description": "O Museu Egípcio do Cairo inaugurou a exposição pública permanente do tesouro de Tutancâmon, descoberto por Howard Carter em 1922, com mais de 5.000 objetos pertencentes ao faraó criança.",
+        "year": 1926
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Elpidi d'Atina",
+        "type": "Bisbe",
+        "description": "Bisbe d'Atina (Itàlia) al segle V, conegut per la seva vida ascètica i les seves obres de caritat. Especialment venerat al Laci com a protector de la ciutat d'Atina."
+      },
+      {
+        "name": "Sant Esteve d'Hongria",
+        "type": "Rei",
+        "description": "Primer rei cristià d'Hongria (any 1000), canonitzat el 1083. Va unificar les tribus magiars, va introduir el cristianisme al regne i va establir les bases de l'Estat hongarès modern."
+      },
+      {
+        "name": "Santa Ingrid de Skänninge",
+        "type": "Religiosa",
+        "description": "Noble sueca del segle XIII que va abandonar la vida cortesana per fundar el primer convent dominicà a Escandinàvia, a Skänninge (Suècia). Venerada com a beata."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Victòria sobre el Japó — VJ Day",
+        "description": "Commemoració de la rendició formal del Japó el 2 de setembre de 1945 a bord del USS Missouri, que va posar fi oficialment a la Segona Guerra Mundial."
+      },
+      {
+        "name": "Dia Nacional del Vietnam",
+        "description": "Aniversari de la proclamació de la independència del Vietnam del Nord el 2 de setembre de 1945, per Ho Chi Minh, a Hanoi, inspirada en la Declaració d'Independència dels Estats Units."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Res al món no pot substituir la perseverança.",
+      "author": "Calvin Coolidge",
+      "context": "El 30è president dels Estats Units va expressar aquesta convicció que va guiar la seva pròpia carrera política, marcada per la sobrietat i la constància durant la prosperitat econòmica dels anys vint."
+    },
+    "motivationalQuote": {
+      "text": "Fes cada dia alguna cosa que et faci por.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Keanu Reeves",
+        "description": "Actor canadenc-americà internacionalment reconegut pel seu paper de Neo a la trilogia Matrix (1999–2003) i per la saga d'acció John Wick.",
+        "year": 1964
+      },
+      {
+        "name": "Salma Hayek",
+        "description": "Actriu i productora mexicana nominada a l'Oscar per la seva interpretació de Frida Kahlo a Frida (2002), una de les figures llatinoamericanes més influents d'Hollywood.",
+        "year": 1966
+      },
+      {
+        "name": "Jimmy Connors",
+        "description": "Tennista americà que va dominar el circuit mundial durant la dècada de 1970 i principis dels 80, guanyant vuit títols de Grand Slam i romanent 268 setmanes com a número u del món.",
+        "year": 1952
+      }
+    ],
+    "events": [
+      {
+        "title": "Gran Incendi de Londres",
+        "description": "El Gran Incendi de Londres va començar en una fleca de Pudding Lane i va destruir en quatre dies més de 13.000 cases i 87 esglésies, incloent-hi la catedral de Sant Pau, transformant la ciutat per sempre.",
+        "year": 1666
+      },
+      {
+        "title": "El Japó signa la rendició — fi oficial de la Segona Guerra Mundial",
+        "description": "Representants del govern i l'exèrcit japonesos van signar l'acta de rendició incondicional a bord del USS Missouri a la badia de Tòquio, posant fi oficialment a la Segona Guerra Mundial.",
+        "year": 1945
+      },
+      {
+        "title": "El tresor de Tutankamon s'exposa al Caire",
+        "description": "El Museu Egipci del Caire va inaugurar l'exposició pública permanent del tresor de Tutankamon, descobert per Howard Carter el 1922, amb més de 5.000 objectes del faraó nen.",
+        "year": 1926
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "date": "2026-02-26",
+  "es": {
+    "saints": [
+      { "name": "San Porfirio de Gaza", "type": "Obispo", "description": "Obispo de Gaza del siglo IV-V que logró la destrucción del gran templo pagano de Marnión y la conversión de la ciudad al cristianismo." },
+      { "name": "San Alejandro de Alejandría", "type": "Obispo", "description": "Patriarca de Alejandría que presidió el Concilio de Nicea (325) junto a su discípulo Atanasio y defendió la doctrina de la consubstancialidad de Cristo." }
+    ],
+    "observances": [
+      { "name": "Día Nacional del Pistache (EE. UU.)", "description": "Jornada informal para destacar el valor nutricional y gastronómico del pistacho, uno de los frutos secos más consumidos del mundo." },
+      { "name": "Día del Tejido y las Artes Textiles (varios países)", "description": "Jornada para preservar y divulgar las tradiciones artesanales de tejido, bordado y confección que forman parte del patrimonio cultural." }
+    ],
+    "historicalQuote": {
+      "text": "La razón obedece al corazón, y el corazón obedece a otra cosa.",
+      "author": "Blaise Pascal",
+      "context": "Pascal (1623-1662), matemático y filósofo francés, autor de los Pensées, exploró la tensión entre razón y fe. Sus reflexiones siguen siendo fundamentales en la filosofía occidental."
+    },
+    "motivationalQuote": {
+      "text": "Haz hoy lo que otros no harán, para mañana hacer lo que otros no pueden.",
+      "author": "Jerry Rice"
+    },
+    "births": [
+      { "name": "Victor Hugo", "description": "Poeta, dramaturgo y novelista francés, máximo exponente del Romanticismo; autor de Los miserables y El jorobado de Notre Dame.", "year": 1802 },
+      { "name": "Buffalo Bill (William Cody)", "description": "Explorador, cazador y showman americano del Oeste, cuyo Wild West Show difundió la imagen del Lejano Oeste por todo el mundo.", "year": 1846 },
+      { "name": "Michael Bolton", "description": "Cantante y compositor estadounidense conocido por baladas románticas de los años 80 y 90 como How Am I Supposed to Live Without You.", "year": 1953 }
+    ],
+    "events": [
+      { "title": "Fundación del Parque Nacional Yellowstone", "description": "El presidente Ulysses S. Grant firma la ley que crea el Parque Nacional de Yellowstone, el primer parque nacional del mundo, en los territorios de Wyoming, Montana e Idaho.", "year": 1872 },
+      { "title": "El primer atentado contra el World Trade Center", "description": "Una bomba explota en el aparcamiento subterráneo del World Trade Center de Nueva York, causando 6 muertos y más de 1.000 heridos.", "year": 1993 },
+      { "title": "El Graf Zeppelin rodea la Tierra", "description": "El dirigible alemán Graf Zeppelin completa su histórica vuelta al mundo en 21 días, convirtiéndose en el primer viaje aéreo alrededor del globo.", "year": 1929 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Porphyrius of Gaza", "type": "Bishop", "description": "4th–5th century Bishop of Gaza who achieved the destruction of the great pagan temple of Marneion and the conversion of the city to Christianity." },
+      { "name": "Saint Alexander of Alexandria", "type": "Bishop", "description": "Patriarch of Alexandria who presided at the Council of Nicaea (325) alongside his disciple Athanasius and defended the doctrine of the consubstantiality of Christ." }
+    ],
+    "observances": [
+      { "name": "National Pistachio Day (USA)", "description": "Informal day to highlight the nutritional and gastronomic value of the pistachio, one of the world's most consumed nuts." },
+      { "name": "Weaving and Textile Arts Day (various countries)", "description": "A day to preserve and promote the craft traditions of weaving, embroidery and textile-making as part of cultural heritage." }
+    ],
+    "historicalQuote": {
+      "text": "The heart has its reasons, which reason does not know.",
+      "author": "Blaise Pascal",
+      "context": "Pascal (1623–1662), French mathematician and philosopher, author of the Pensées, explored the tension between reason and faith. His reflections remain fundamental in Western philosophy."
+    },
+    "motivationalQuote": {
+      "text": "Today I will do what others won't, so tomorrow I can do what others can't.",
+      "author": "Jerry Rice"
+    },
+    "births": [
+      { "name": "Victor Hugo", "description": "French poet, playwright and novelist, the greatest exponent of Romanticism; author of Les Misérables and The Hunchback of Notre-Dame.", "year": 1802 },
+      { "name": "Buffalo Bill (William Cody)", "description": "American frontier explorer, hunter and showman whose Wild West Show spread the image of the Wild West around the world.", "year": 1846 },
+      { "name": "Michael Bolton", "description": "American singer-songwriter known for romantic ballads of the 1980s and 90s such as How Am I Supposed to Live Without You.", "year": 1953 }
+    ],
+    "events": [
+      { "title": "Yellowstone National Park established", "description": "President Ulysses S. Grant signs the law creating Yellowstone National Park — the world's first national park — in the territories of Wyoming, Montana and Idaho.", "year": 1872 },
+      { "title": "First World Trade Center bombing", "description": "A bomb explodes in the underground car park of the World Trade Center in New York City, killing 6 people and injuring more than 1,000.", "year": 1993 },
+      { "title": "Graf Zeppelin circumnavigates the Earth", "description": "The German airship Graf Zeppelin completes its historic round-the-world journey in 21 days, becoming the first aerial circumnavigation of the globe.", "year": 1929 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Porfírio de Gaza", "type": "Bispo", "description": "Bispo de Gaza dos séculos IV-V que conseguiu a destruição do grande templo pagão de Marneion e a conversão da cidade ao cristianismo." },
+      { "name": "São Alexandre de Alexandria", "type": "Bispo", "description": "Patriarca de Alexandria que presidiu o Concílio de Niceia (325) ao lado do seu discípulo Atanásio e defendeu a doutrina da consubstancialidade de Cristo." }
+    ],
+    "observances": [
+      { "name": "Dia Nacional do Pistache (EUA)", "description": "Jornada informal para destacar o valor nutricional e gastronômico do pistache, um dos frutos secos mais consumidos do mundo." },
+      { "name": "Dia da Tecelagem e das Artes Têxteis (vários países)", "description": "Jornada para preservar e divulgar as tradições artesanais de tecelagem, bordado e confecção que fazem parte do patrimônio cultural." }
+    ],
+    "historicalQuote": {
+      "text": "O coração tem razões que a própria razão desconhece.",
+      "author": "Blaise Pascal",
+      "context": "Pascal (1623-1662), matemático e filósofo francês, autor dos Pensées, explorou a tensão entre razão e fé. Suas reflexões continuam sendo fundamentais na filosofia ocidental."
+    },
+    "motivationalQuote": {
+      "text": "Hoje farei o que os outros não farão, para amanhã fazer o que os outros não podem.",
+      "author": "Jerry Rice"
+    },
+    "births": [
+      { "name": "Victor Hugo", "description": "Poeta, dramaturgo e romancista francês, maior expoente do Romantismo; autor de Os Miseráveis e O Corcunda de Notre-Dame.", "year": 1802 },
+      { "name": "Buffalo Bill (William Cody)", "description": "Explorador, caçador e showman americano do Oeste, cujo Wild West Show difundiu a imagem do Velho Oeste pelo mundo inteiro.", "year": 1846 },
+      { "name": "Michael Bolton", "description": "Cantor e compositor americano conhecido por baladas românticas dos anos 80 e 90 como How Am I Supposed to Live Without You.", "year": 1953 }
+    ],
+    "events": [
+      { "title": "Fundação do Parque Nacional de Yellowstone", "description": "O presidente Ulysses S. Grant assina a lei que cria o Parque Nacional de Yellowstone — o primeiro parque nacional do mundo — nos territórios de Wyoming, Montana e Idaho.", "year": 1872 },
+      { "title": "Primeiro ataque ao World Trade Center", "description": "Uma bomba explode no estacionamento subterrâneo do World Trade Center em Nova York, causando 6 mortes e mais de 1.000 feridos.", "year": 1993 },
+      { "title": "O Graf Zeppelin circum-navega a Terra", "description": "O dirigível alemão Graf Zeppelin completa a sua histórica volta ao mundo em 21 dias, tornando-se a primeira circum-navegação aérea do globo.", "year": 1929 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Porfiri de Gaza", "type": "Bisbe", "description": "Bisbe de Gaza dels segles IV-V que va aconseguir la destrucció del gran temple pagà de Marneion i la conversió de la ciutat al cristianisme." },
+      { "name": "Sant Alexandre d'Alexandria", "type": "Bisbe", "description": "Patriarca d'Alexandria que va presidir el Concili de Nicea (325) al costat del seu deixeble Atanasi i va defensar la doctrina de la consubstancialitat de Crist." }
+    ],
+    "observances": [
+      { "name": "Dia Nacional del Festuc (EUA)", "description": "Jornada informal per destacar el valor nutricional i gastronòmic del festuc, un dels fruits secs més consumits al món." },
+      { "name": "Dia del Teixit i les Arts Tèxtils (diversos països)", "description": "Jornada per preservar i divulgar les tradicions artesanals de teixits, brodats i confecció que formen part del patrimoni cultural." }
+    ],
+    "historicalQuote": {
+      "text": "El cor té raons que la raó desconeix.",
+      "author": "Blaise Pascal",
+      "context": "Pascal (1623-1662), matemàtic i filòsof francès, autor dels Pensaments, va explorar la tensió entre raó i fe. Les seves reflexions continuen sent fonamentals a la filosofia occidental."
+    },
+    "motivationalQuote": {
+      "text": "Avui faré el que els altres no faran, per demà fer el que els altres no poden.",
+      "author": "Jerry Rice"
+    },
+    "births": [
+      { "name": "Victor Hugo", "description": "Poeta, dramaturg i novel·lista francès, màxim exponent del Romanticisme; autor de Els Miserables i El geperut de Notre-Dame.", "year": 1802 },
+      { "name": "Buffalo Bill (William Cody)", "description": "Explorador, caçador i showman americà de l'Oest, el Wild West Show del qual va difondre la imatge del Llunyà Oest per tot el món.", "year": 1846 },
+      { "name": "Michael Bolton", "description": "Cantant i compositor americà conegut per les balades romàntiques dels anys 80 i 90 com How Am I Supposed to Live Without You.", "year": 1953 }
+    ],
+    "events": [
+      { "title": "Fundació del Parc Nacional de Yellowstone", "description": "El president Ulysses S. Grant signa la llei que crea el Parc Nacional de Yellowstone — el primer parc nacional del món — als territoris de Wyoming, Montana i Idaho.", "year": 1872 },
+      { "title": "Primer atemptat al World Trade Center", "description": "Una bomba explota al pàrquing subterrani del World Trade Center de Nova York, causant 6 morts i més de 1.000 ferits.", "year": 1993 },
+      { "title": "El Graf Zeppelin circumnavega la Terra", "description": "El dirigible alemany Graf Zeppelin completa el seu viatge históric al voltant del món en 21 dies, convertint-se en la primera circumnavegació aèria del globus.", "year": 1929 }
+    ]
+  }
+}

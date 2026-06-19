@@ -1,0 +1,271 @@
+{
+  "date": "2025-10-04",
+  "es": {
+    "saints": [
+      {
+        "name": "San Francisco de Asís",
+        "type": "Diácono",
+        "description": "Fundador de la Orden Franciscana (1181–1226), hijo de un rico comerciante de Asís que renunció a su herencia para vivir en la pobreza absoluta al servicio de los pobres y los leprosos. Autor del Cántico de las criaturas, primera obra literaria en italiano. Canonizado en 1228, es patrono de Italia, de los ecologistas y de los animales."
+      },
+      {
+        "name": "San Petronio de Bolonia",
+        "type": "Obispo",
+        "description": "Obispo de Bolonia (siglo V), constructor de la Basílica de San Esteban y mecenas de la vida religiosa y cultural de la ciudad. Es el patrono de Bolonia y su festividad es fiesta oficial en dicha ciudad italiana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de los Animales",
+        "description": "Celebrado desde 1931, el 4 de octubre coincide con la festividad de San Francisco de Asís, patrono de los animales. Promovido por la organización Nature in Focus, busca elevar el estatus de los animales y mejorar las normas de bienestar animal en todo el mundo."
+      },
+      {
+        "name": "Día Mundial del Hábitat",
+        "description": "Proclamado por la ONU en 1985, se celebra el primer lunes de octubre para reflexionar sobre el estado de nuestras ciudades y el derecho básico de todos a disponer de un refugio adecuado. Cada año tiene un tema distinto relacionado con el desarrollo urbano sostenible."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Comienza haciendo lo que es necesario; después haz lo que es posible; y de repente estarás haciendo lo imposible.",
+      "author": "San Francisco de Asís",
+      "context": "El fundador de los franciscanos, cuya festividad se celebra hoy, transformó su vida de privilegio en una de servicio radical. Esta cita resume su espiritualidad práctica: empezar pequeño y confiar en que Dios abrirá el camino."
+    },
+    "motivationalQuote": {
+      "text": "El mundo es un libro, y quienes no viajan sólo leen una página.",
+      "author": "San Agustín de Hipona"
+    },
+    "births": [
+      {
+        "name": "Buster Keaton",
+        "description": "Actor, director y comediante americano (1895–1966), figura cumbre del cine mudo. Conocido como 'El rostro de piedra' por no reír jamás en pantalla, su genio físico y visual le permitió crear escenas de acción cómica que siguen siendo insuperables. Sus obras maestras incluyen El maquinista de la general (1926) y El cameraman (1928).",
+        "year": 1895
+      },
+      {
+        "name": "Charlton Heston",
+        "description": "Actor americano (1923–2008), ganador del Oscar por su papel en Ben-Hur (1959). Protagonizó épicas bíblicas e históricas de Hollywood durante los años cincuenta y sesenta, como Los Diez Mandamientos (1956). Fue presidente de la Asociación Nacional del Rifle (NRA) entre 1998 y 2003.",
+        "year": 1923
+      },
+      {
+        "name": "Alicia Silverstone",
+        "description": "Actriz americana (n. 1976), que saltó a la fama con la película Clueless (1995), comedia adolescente que la convirtió en icono de la cultura pop de los noventa. Activista vegana y defensora del bienestar animal.",
+        "year": 1976
+      }
+    ],
+    "events": [
+      {
+        "title": "Lanzamiento del Sputnik 1",
+        "description": "La Unión Soviética lanzó el Sputnik 1, el primer satélite artificial de la historia, inaugurando la era espacial. El aparato, de 58 cm de diámetro, orbitó la Tierra durante 21 días emitiendo una señal de radio. La noticia causó consternación en Occidente e impulsó la carrera espacial.",
+        "year": 1957
+      },
+      {
+        "title": "Primer vuelo comercial del Boeing 707",
+        "description": "Pan American World Airways realizó el primer vuelo comercial del Boeing 707, el avión de pasajeros a reacción que revolucionó el transporte aéreo. El vuelo fue de Nueva York a París y marcó el inicio de la era del jet comercial moderno.",
+        "year": 1958
+      },
+      {
+        "title": "Se funda la República Francesa de la Quinta República",
+        "description": "La nueva constitución de la Quinta República Francesa entró en vigor, estableciendo un sistema semipresidencialista que reforzaba el poder ejecutivo. Fue redactada bajo la supervisión de Charles de Gaulle tras la crisis argelina que colapsó la Cuarta República.",
+        "year": 1958
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Francis of Assisi",
+        "type": "Deacon",
+        "description": "Founder of the Franciscan Order (1181–1226), son of a wealthy merchant from Assisi who renounced his inheritance to live in absolute poverty in service of the poor and lepers. Author of the Canticle of the Creatures, the first literary work in Italian. Canonised in 1228, he is the patron of Italy, ecologists and animals."
+      },
+      {
+        "name": "Saint Petronius of Bologna",
+        "type": "Bishop",
+        "description": "Bishop of Bologna (5th century), builder of the Basilica of Saint Stephen and patron of the religious and cultural life of the city. He is the patron saint of Bologna and his feast day is an official holiday in that Italian city."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Animal Day",
+        "description": "Celebrated since 1931, 4 October coincides with the feast of Saint Francis of Assisi, patron of animals. Promoted by the Nature in Focus organisation, it seeks to raise the status of animals and improve animal welfare standards worldwide."
+      },
+      {
+        "name": "World Habitat Day",
+        "description": "Proclaimed by the UN in 1985, it is celebrated on the first Monday of October to reflect on the state of our cities and the basic right of all to adequate shelter. Each year it has a different theme related to sustainable urban development."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Start by doing what is necessary; then do what is possible; and suddenly you will be doing the impossible.",
+      "author": "Saint Francis of Assisi",
+      "context": "The founder of the Franciscans, whose feast is celebrated today, transformed his life of privilege into one of radical service. This quote encapsulates his practical spirituality: start small and trust that God will open the way."
+    },
+    "motivationalQuote": {
+      "text": "The world is a book, and those who do not travel read only one page.",
+      "author": "Saint Augustine of Hippo"
+    },
+    "births": [
+      {
+        "name": "Buster Keaton",
+        "description": "American actor, director and comedian (1895–1966), a towering figure of silent cinema. Known as 'The Great Stone Face' for never smiling on screen, his physical and visual genius allowed him to create comic action sequences that remain unsurpassed. His masterworks include The General (1926) and The Cameraman (1928).",
+        "year": 1895
+      },
+      {
+        "name": "Charlton Heston",
+        "description": "American actor (1923–2008), winner of the Oscar for his role in Ben-Hur (1959). He starred in Hollywood biblical and historical epics of the 1950s and 1960s, such as The Ten Commandments (1956). He was president of the National Rifle Association (NRA) from 1998 to 2003.",
+        "year": 1923
+      },
+      {
+        "name": "Alicia Silverstone",
+        "description": "American actress (b. 1976), who rose to fame with the film Clueless (1995), a teen comedy that made her a pop culture icon of the 1990s. Vegan activist and animal welfare advocate.",
+        "year": 1976
+      }
+    ],
+    "events": [
+      {
+        "title": "Launch of Sputnik 1",
+        "description": "The Soviet Union launched Sputnik 1, the first artificial satellite in history, inaugurating the space age. The device, 58 cm in diameter, orbited the Earth for 21 days transmitting a radio signal. The news caused consternation in the West and spurred the space race.",
+        "year": 1957
+      },
+      {
+        "title": "First commercial flight of the Boeing 707",
+        "description": "Pan American World Airways made the first commercial flight of the Boeing 707, the jet passenger aircraft that revolutionised air transport. The flight was from New York to Paris and marked the beginning of the modern commercial jet age.",
+        "year": 1958
+      },
+      {
+        "title": "The French Fifth Republic is founded",
+        "description": "The new constitution of the French Fifth Republic came into force, establishing a semi-presidential system that strengthened executive power. It was drafted under the supervision of Charles de Gaulle following the Algerian crisis that brought down the Fourth Republic.",
+        "year": 1958
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Francisco de Assis",
+        "type": "Diácono",
+        "description": "Fundador da Ordem Franciscana (1181–1226), filho de um rico comerciante de Assis que renunciou à herança para viver na pobreza absoluta ao serviço dos pobres e dos leprosos. Autor do Cântico das Criaturas, primeira obra literária em italiano. Canonizado em 1228, é patrono da Itália, dos ecologistas e dos animais."
+      },
+      {
+        "name": "São Petrônio de Bolonha",
+        "type": "Bispo",
+        "description": "Bispo de Bolonha (século V), construtor da Basílica de Santo Estêvão e mecenas da vida religiosa e cultural da cidade. É o patrono de Bolonha e a sua festividade é feriado oficial nessa cidade italiana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial dos Animais",
+        "description": "Celebrado desde 1931, o 4 de outubro coincide com a festividade de São Francisco de Assis, patrono dos animais. Promovido pela organização Nature in Focus, procura elevar o estatuto dos animais e melhorar as normas de bem-estar animal em todo o mundo."
+      },
+      {
+        "name": "Dia Mundial do Habitat",
+        "description": "Proclamado pela ONU em 1985, é celebrado na primeira segunda-feira de outubro para refletir sobre o estado das nossas cidades e o direito básico de todos a dispor de um abrigo adequado. Cada ano tem um tema diferente relacionado com o desenvolvimento urbano sustentável."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Começa fazendo o que é necessário; depois faz o que é possível; e de repente estarás fazendo o impossível.",
+      "author": "São Francisco de Assis",
+      "context": "O fundador dos franciscanos, cuja festividade se celebra hoje, transformou a sua vida de privilégio em uma de serviço radical. Esta citação resume a sua espiritualidade prática: começar pequeno e confiar que Deus abrirá o caminho."
+    },
+    "motivationalQuote": {
+      "text": "O mundo é um livro, e aqueles que não viajam leem apenas uma página.",
+      "author": "Santo Agostinho de Hipona"
+    },
+    "births": [
+      {
+        "name": "Buster Keaton",
+        "description": "Ator, realizador e comediante americano (1895–1966), figura cimeira do cinema mudo. Conhecido como 'O Rosto de Pedra' por nunca rir em frente à câmara, o seu génio físico e visual permitiu-lhe criar sequências de ação cómica que permanecem insuperáveis. As suas obras-primas incluem O Maquinista das Locomotivas (1926) e O Cameraman (1928).",
+        "year": 1895
+      },
+      {
+        "name": "Charlton Heston",
+        "description": "Ator americano (1923–2008), vencedor do Oscar pelo papel em Ben-Hur (1959). Protagonizou épicas bíblicas e históricas de Hollywood nos anos cinquenta e sessenta, como Os Dez Mandamentos (1956). Foi presidente da Associação Nacional do Rifle (NRA) entre 1998 e 2003.",
+        "year": 1923
+      },
+      {
+        "name": "Alicia Silverstone",
+        "description": "Atriz americana (n. 1976), que ganhou fama com o filme Clueless (1995), comédia adolescente que a tornou um ícone da cultura pop dos anos noventa. Ativista vegana e defensora do bem-estar animal.",
+        "year": 1976
+      }
+    ],
+    "events": [
+      {
+        "title": "Lançamento do Sputnik 1",
+        "description": "A União Soviética lançou o Sputnik 1, o primeiro satélite artificial da história, inaugurando a era espacial. O aparelho, de 58 cm de diâmetro, orbitou a Terra durante 21 dias emitindo um sinal de rádio. A notícia causou consternação no Ocidente e impulsionou a corrida espacial.",
+        "year": 1957
+      },
+      {
+        "title": "Primeiro voo comercial do Boeing 707",
+        "description": "A Pan American World Airways realizou o primeiro voo comercial do Boeing 707, o avião de passageiros a jacto que revolucionou o transporte aéreo. O voo foi de Nova Iorque a Paris e marcou o início da era do jacto comercial moderno.",
+        "year": 1958
+      },
+      {
+        "title": "Fundação da Quinta República Francesa",
+        "description": "A nova constituição da Quinta República Francesa entrou em vigor, estabelecendo um sistema semipresidencialista que reforçava o poder executivo. Foi redigida sob a supervisão de Charles de Gaulle após a crise argelina que colapsou a Quarta República.",
+        "year": 1958
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Francesc d'Assís",
+        "type": "Diaca",
+        "description": "Fundador de l'Orde Franciscana (1181–1226), fill d'un ric comerciant d'Assís que va renunciar a la seva herència per viure en la pobresa absoluta al servei dels pobres i els leprosos. Autor del Càntic de les criatures, primera obra literària en italià. Canonitzat el 1228, és patró d'Itàlia, dels ecologistes i dels animals."
+      },
+      {
+        "name": "Sant Petroni de Bolonya",
+        "type": "Bisbe",
+        "description": "Bisbe de Bolonya (segle V), constructor de la Basílica de Sant Esteve i mecenes de la vida religiosa i cultural de la ciutat. És el patró de Bolonya i la seva festivitat és festa oficial en aquella ciutat italiana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial dels Animals",
+        "description": "Celebrat des del 1931, el 4 d'octubre coincideix amb la festivitat de Sant Francesc d'Assís, patró dels animals. Promogut per l'organització Nature in Focus, busca elevar l'estatus dels animals i millorar les normes de benestar animal a tot el món."
+      },
+      {
+        "name": "Dia Mundial de l'Hàbitat",
+        "description": "Proclamat per l'ONU el 1985, se celebra el primer dilluns d'octubre per reflexionar sobre l'estat de les nostres ciutats i el dret bàsic de tothom a disposar d'un refugi adequat. Cada any té un tema diferent relacionat amb el desenvolupament urbà sostenible."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Comença fent el que és necessari; després fes el que és possible; i de sobte estaràs fent l'impossible.",
+      "author": "Sant Francesc d'Assís",
+      "context": "El fundador dels franciscans, la festivitat del qual se celebra avui, va transformar la seva vida de privilegi en una de servei radical. Aquesta citació resumeix la seva espiritualitat pràctica: començar petit i confiar que Déu obrirà el camí."
+    },
+    "motivationalQuote": {
+      "text": "El món és un llibre, i els qui no viatgen només llegeixen una pàgina.",
+      "author": "Sant Agustí d'Hipona"
+    },
+    "births": [
+      {
+        "name": "Buster Keaton",
+        "description": "Actor, director i comediante americà (1895–1966), figura cabdal del cinema mut. Conegut com 'El rostre de pedra' per no riure mai en pantalla, el seu geni físic i visual li va permetre crear escenes d'acció còmica que continuen sent insuperables. Les seves obres mestres inclouen El maquinista de la general (1926) i El cameraman (1928).",
+        "year": 1895
+      },
+      {
+        "name": "Charlton Heston",
+        "description": "Actor americà (1923–2008), guanyador de l'Oscar pel paper a Ben-Hur (1959). Va protagonitzar èpiques bíbliques i històriques de Hollywood als anys cinquanta i seixanta, com Els Deu Manaments (1956). Va ser president de l'Associació Nacional del Rifle (NRA) entre 1998 i 2003.",
+        "year": 1923
+      },
+      {
+        "name": "Alicia Silverstone",
+        "description": "Actriu americana (n. 1976), que va saltar a la fama amb la pel·lícula Clueless (1995), comèdia adolescent que la va convertir en icona de la cultura pop dels noranta. Activista vegana i defensora del benestar animal.",
+        "year": 1976
+      }
+    ],
+    "events": [
+      {
+        "title": "Llançament de l'Sputnik 1",
+        "description": "La Unió Soviètica va llançar l'Sputnik 1, el primer satèl·lit artificial de la història, inaugurant l'era espacial. L'aparell, de 58 cm de diàmetre, va orbitar la Terra durant 21 dies emetent un senyal de ràdio. La notícia va causar consternació a Occident i va impulsar la carrera espacial.",
+        "year": 1957
+      },
+      {
+        "title": "Primer vol comercial del Boeing 707",
+        "description": "Pan American World Airways va realitzar el primer vol comercial del Boeing 707, l'avió de passatgers a reacció que va revolucionar el transport aeri. El vol va ser de Nova York a París i va marcar l'inici de l'era del jet comercial modern.",
+        "year": 1958
+      },
+      {
+        "title": "Fundació de la Cinquena República Francesa",
+        "description": "La nova constitució de la Cinquena República Francesa va entrar en vigor, establint un sistema semipresidencialista que reforçava el poder executiu. Va ser redactada sota la supervisió de Charles de Gaulle després de la crisi algeriana que va col·lapsar la Quarta República.",
+        "year": 1958
+      }
+    ]
+  }
+}

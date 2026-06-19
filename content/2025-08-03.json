@@ -1,0 +1,291 @@
+{
+  "date": "2025-08-03",
+  "es": {
+    "saints": [
+      {
+        "name": "San Esteban I",
+        "type": "Papa y Mártir",
+        "description": "Papa del siglo III (254–257) que defendió la validez del bautismo administrado por herejes, en controversia con San Cipriano de Cartago. Fue el primero en invocar la primacía petrina como autoridad doctrinal."
+      },
+      {
+        "name": "San Nicodemo",
+        "type": "Discípulo",
+        "description": "Fariseo y miembro del Sanedrín que visitó a Jesús de noche (Evangelio de Juan) y participó en su entierro. Venerado como santo en las tradiciones cristiana oriental y católica."
+      },
+      {
+        "name": "San Walterio de Pontoise",
+        "type": "Abad",
+        "description": "Monje benedictino francés del siglo XI que fue abad del monasterio de Saint-Martin de Pontoise. Conocido por su vida de penitencia y su resistencia a los abusos feudales sobre los bienes eclesiásticos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de Níger",
+        "description": "Níger celebra su independencia de Francia, proclamada el 3 de agosto de 1960. Es la principal fiesta nacional del país saheliano."
+      },
+      {
+        "name": "Día Nacional de la Sandía (EE. UU.)",
+        "description": "Día informal estadounidense para celebrar y disfrutar de la sandía, una de las frutas más consumidas en verano, símbolo de las reuniones estivales al aire libre."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Un hombre que no ha cometido errores nunca ha intentado nada nuevo.",
+      "author": "Albert Einstein",
+      "context": "El físico alemán, que huyó del nazismo y encontró refugio en Estados Unidos, defendía el error como parte inseparable del proceso creativo y científico. Esta cita refleja su filosofía de aprendizaje por la experimentación."
+    },
+    "motivationalQuote": {
+      "text": "La vida no es esperar a que pase la tormenta, sino aprender a bailar bajo la lluvia.",
+      "author": "Vivian Greene"
+    },
+    "births": [
+      {
+        "name": "Rupert Brooke",
+        "description": "Poeta inglés de la Primera Guerra Mundial, conocido por sus sonetos patrióticos y líricos. Su muerte prematura en 1915 lo convirtió en símbolo romántico de la generación perdida.",
+        "year": 1887
+      },
+      {
+        "name": "Tony Bennett",
+        "description": "Cantante estadounidense de jazz y pop, ganador de 20 premios Grammy, conocido por canciones inmortales como I Left My Heart in San Francisco.",
+        "year": 1926
+      },
+      {
+        "name": "Martin Sheen",
+        "description": "Actor estadounidense conocido por Apocalypse Now (1979) y la serie El ala oeste de la Casa Blanca, además de su activismo por causas sociales y de derechos humanos.",
+        "year": 1940
+      }
+    ],
+    "events": [
+      {
+        "title": "Cristóbal Colón parte de Palos de la Frontera",
+        "description": "El 3 de agosto de 1492, Cristóbal Colón zarpó del puerto de Palos de la Frontera (Huelva) con tres carabelas —la Niña, la Pinta y la Santa María— iniciando el viaje que llevaría al descubrimiento de América.",
+        "year": 1492
+      },
+      {
+        "title": "Alemania declara la guerra a Francia — Primera Guerra Mundial",
+        "description": "El 3 de agosto de 1914, el Imperio Alemán declaró la guerra a Francia, escalando el conflicto europeo que ya había comenzado con la declaración contra Rusia el día anterior.",
+        "year": 1914
+      },
+      {
+        "title": "Muere Joseph Conrad",
+        "description": "El novelista polaco-británico Joseph Conrad, autor de El corazón de las tinieblas y Lord Jim, falleció en Kent (Inglaterra) el 3 de agosto de 1924.",
+        "year": 1924
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Stephen I",
+        "type": "Pope and Martyr",
+        "description": "Pope of the 3rd century (254–257) who defended the validity of baptism administered by heretics, in controversy with Saint Cyprian of Carthage. He was the first to invoke the Petrine primacy as a doctrinal authority."
+      },
+      {
+        "name": "Saint Nicodemus",
+        "type": "Disciple",
+        "description": "A Pharisee and member of the Sanhedrin who visited Jesus at night (Gospel of John) and took part in his burial. He is venerated as a saint in both Eastern Christian and Catholic traditions."
+      },
+      {
+        "name": "Saint Gaultier of Pontoise",
+        "type": "Abbot",
+        "description": "An 11th-century French Benedictine monk who served as abbot of the monastery of Saint-Martin de Pontoise. Known for his penitential life and resistance to feudal encroachment on Church property."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Independence Day of Niger",
+        "description": "Niger celebrates its independence from France, proclaimed on 3 August 1960. It is the main national holiday in the Sahelian country."
+      },
+      {
+        "name": "National Watermelon Day (USA)",
+        "description": "An informal American day to celebrate and enjoy watermelon, one of the most popular summer fruits and a symbol of outdoor summer gatherings."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A person who never made a mistake never tried anything new.",
+      "author": "Albert Einstein",
+      "context": "The German physicist, who fled Nazism and found refuge in the United States, viewed mistakes as an inseparable part of the creative and scientific process. This quote reflects his philosophy of learning through experimentation."
+    },
+    "motivationalQuote": {
+      "text": "Life isn't about waiting for the storm to pass; it's about learning to dance in the rain.",
+      "author": "Vivian Greene"
+    },
+    "births": [
+      {
+        "name": "Rupert Brooke",
+        "description": "English World War I poet, known for his patriotic and lyrical sonnets. His early death in 1915 made him a romantic symbol of the lost generation.",
+        "year": 1887
+      },
+      {
+        "name": "Tony Bennett",
+        "description": "American jazz and pop singer, winner of 20 Grammy Awards, known for immortal songs such as I Left My Heart in San Francisco.",
+        "year": 1926
+      },
+      {
+        "name": "Martin Sheen",
+        "description": "American actor known for Apocalypse Now (1979) and the series The West Wing, as well as his activism for social and human rights causes.",
+        "year": 1940
+      }
+    ],
+    "events": [
+      {
+        "title": "Christopher Columbus departs from Palos de la Frontera",
+        "description": "On 3 August 1492, Christopher Columbus set sail from the port of Palos de la Frontera (Huelva, Spain) with three ships — the Niña, the Pinta, and the Santa María — beginning the voyage that would lead to the discovery of the Americas.",
+        "year": 1492
+      },
+      {
+        "title": "Germany declares war on France — World War I",
+        "description": "On 3 August 1914, the German Empire declared war on France, escalating the European conflict that had begun with the declaration against Russia the day before.",
+        "year": 1914
+      },
+      {
+        "title": "Death of Joseph Conrad",
+        "description": "Polish-British novelist Joseph Conrad, author of Heart of Darkness and Lord Jim, died in Kent, England, on 3 August 1924.",
+        "year": 1924
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Estêvão I",
+        "type": "Papa e Mártir",
+        "description": "Papa do século III (254–257) que defendeu a validade do batismo administrado por hereges, em controvérsia com São Cipriano de Cartago. Foi o primeiro a invocar a primazia petrina como autoridade doutrinária."
+      },
+      {
+        "name": "São Nicodemos",
+        "type": "Discípulo",
+        "description": "Fariseu e membro do Sinédrio que visitou Jesus à noite (Evangelho de João) e participou do seu sepultamento. Venerado como santo nas tradições cristã oriental e católica."
+      },
+      {
+        "name": "São Gaulterio de Pontoise",
+        "type": "Abade",
+        "description": "Monge beneditino francês do século XI que foi abade do mosteiro de Saint-Martin de Pontoise. Conhecido pela sua vida de penitência e resistência às usurpações feudais sobre os bens eclesiásticos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência do Níger",
+        "description": "O Níger celebra a sua independência da França, proclamada em 3 de agosto de 1960. É o principal feriado nacional do país saheliano."
+      },
+      {
+        "name": "Dia Nacional da Melancia (EUA)",
+        "description": "Dia informal americano para celebrar e saborear a melancia, uma das frutas mais consumidas no verão e símbolo dos encontros estivais ao ar livre."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Uma pessoa que nunca cometeu um erro nunca tentou nada novo.",
+      "author": "Albert Einstein",
+      "context": "O físico alemão, que fugiu do nazismo e encontrou refúgio nos Estados Unidos, via os erros como parte inseparável do processo criativo e científico. Esta citação reflete a sua filosofia de aprender por meio da experimentação."
+    },
+    "motivationalQuote": {
+      "text": "A vida não é esperar a tempestade passar, mas aprender a dançar na chuva.",
+      "author": "Vivian Greene"
+    },
+    "births": [
+      {
+        "name": "Rupert Brooke",
+        "description": "Poeta inglês da Primeira Guerra Mundial, conhecido pelos seus sonetos patrióticos e líricos. A sua morte prematura em 1915 fez dele um símbolo romântico da geração perdida.",
+        "year": 1887
+      },
+      {
+        "name": "Tony Bennett",
+        "description": "Cantor americano de jazz e pop, vencedor de 20 prêmios Grammy, conhecido por canções imortais como I Left My Heart in San Francisco.",
+        "year": 1926
+      },
+      {
+        "name": "Martin Sheen",
+        "description": "Ator americano conhecido por Apocalypse Now (1979) e a série O Ala Oeste da Casa Branca, além do seu ativismo em causas sociais e de direitos humanos.",
+        "year": 1940
+      }
+    ],
+    "events": [
+      {
+        "title": "Cristóvão Colombo parte de Palos de la Frontera",
+        "description": "Em 3 de agosto de 1492, Cristóvão Colombo partiu do porto de Palos de la Frontera (Huelva, Espanha) com três caravelas — a Niña, a Pinta e a Santa María — iniciando a viagem que levaria à descoberta das Américas.",
+        "year": 1492
+      },
+      {
+        "title": "Alemanha declara guerra à França — Primeira Guerra Mundial",
+        "description": "Em 3 de agosto de 1914, o Império Alemão declarou guerra à França, escalando o conflito europeu que havia começado com a declaração contra a Rússia no dia anterior.",
+        "year": 1914
+      },
+      {
+        "title": "Morte de Joseph Conrad",
+        "description": "O romancista polaco-britânico Joseph Conrad, autor de O Coração das Trevas e Lord Jim, faleceu em Kent, Inglaterra, em 3 de agosto de 1924.",
+        "year": 1924
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Esteve I",
+        "type": "Papa i Màrtir",
+        "description": "Papa del segle III (254–257) que va defensar la validesa del baptisme administrat per heretges, en controvèrsia amb Sant Cebrià de Cartago. Va ser el primer a invocar la primacia petrina com a autoritat doctrinal."
+      },
+      {
+        "name": "Sant Nicodem",
+        "type": "Deixeble",
+        "description": "Fariseu i membre del Sanedrí que va visitar Jesús de nit (Evangeli de Joan) i va participar en el seu enterrament. Venerat com a sant en les tradicions cristiana oriental i catòlica."
+      },
+      {
+        "name": "Sant Gualter de Pontoise",
+        "type": "Abat",
+        "description": "Monjo benedictí francès del segle XI que fou abat del monestir de Saint-Martin de Pontoise. Conegut per la seva vida de penitència i la resistència a les usurpacions feudals sobre els béns eclesiàstics."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència del Níger",
+        "description": "El Níger celebra la seva independència de França, proclamada el 3 d'agost de 1960. És la principal festa nacional del país sahelià."
+      },
+      {
+        "name": "Dia Nacional de la Síndria (EUA)",
+        "description": "Dia informal americà per celebrar i gaudir de la síndria, una de les fruites més consumides a l'estiu i símbol de les trobades estivals a l'aire lliure."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Una persona que mai no ha comès un error mai no ha intentat res de nou.",
+      "author": "Albert Einstein",
+      "context": "El físic alemany, que va fugir del nazisme i va trobar refugi als Estats Units, veia els errors com una part inseparable del procés creatiu i científic. Aquesta cita reflecteix la seva filosofia d'aprendre per mitjà de l'experimentació."
+    },
+    "motivationalQuote": {
+      "text": "La vida no és esperar que passi la tempesta, sinó aprendre a ballar sota la pluja.",
+      "author": "Vivian Greene"
+    },
+    "births": [
+      {
+        "name": "Rupert Brooke",
+        "description": "Poeta anglès de la Primera Guerra Mundial, conegut pels seus sonets patriòtics i lírics. La seva mort prematura el 1915 el va convertir en símbol romàntic de la generació perduda.",
+        "year": 1887
+      },
+      {
+        "name": "Tony Bennett",
+        "description": "Cantant americà de jazz i pop, guanyador de 20 premis Grammy, conegut per cançons immortals com I Left My Heart in San Francisco.",
+        "year": 1926
+      },
+      {
+        "name": "Martin Sheen",
+        "description": "Actor americà conegut per Apocalypse Now (1979) i la sèrie L'Ala Oest de la Casa Blanca, a més del seu activisme en causes socials i de drets humans.",
+        "year": 1940
+      }
+    ],
+    "events": [
+      {
+        "title": "Cristòfor Colom parteix de Palos de la Frontera",
+        "description": "El 3 d'agost de 1492, Cristòfor Colom va salpar del port de Palos de la Frontera (Huelva, Espanya) amb tres caravelles — la Niña, la Pinta i la Santa María — iniciant el viatge que portaria al descobriment d'Amèrica.",
+        "year": 1492
+      },
+      {
+        "title": "Alemanya declara la guerra a França — Primera Guerra Mundial",
+        "description": "El 3 d'agost de 1914, l'Imperi Alemany va declarar la guerra a França, escalant el conflicte europeu que havia començat amb la declaració contra Rússia el dia anterior.",
+        "year": 1914
+      },
+      {
+        "title": "Mort de Joseph Conrad",
+        "description": "El novel·lista polonès-britànic Joseph Conrad, autor de El cor de les tenebres i Lord Jim, va morir a Kent, Anglaterra, el 3 d'agost de 1924.",
+        "year": 1924
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "date": "2026-02-01",
+  "es": {
+    "saints": [
+      { "name": "San Ignacio de Antioquía", "type": "Mártir", "description": "Obispo de Antioquía del siglo I, discípulo de los apóstoles, murió devorado por fieras en el Coliseo de Roma." },
+      { "name": "Santa Brígida de Irlanda", "type": "Virgen y abadesa", "description": "Fundadora del monasterio de Kildare, patrona de Irlanda junto a San Patricio, conocida por su caridad y milagros." },
+      { "name": "San Pío V", "type": "Papa", "description": "Papa dominico que promovió la Santa Liga contra los turcos en Lepanto (1571) y reformó la liturgia tridentina." }
+    ],
+    "observances": [
+      { "name": "Día Mundial del Hijab", "description": "Jornada que invita a mujeres de todo el mundo a ponerse el hijab por un día para fomentar el entendimiento intercultural." },
+      { "name": "Día Nacional de la Libertad (Bangladés)", "description": "Bangladés conmemora el comienzo del movimiento de independencia que culminó en 1971." }
+    ],
+    "historicalQuote": {
+      "text": "La peor soledad es no estar a gusto con uno mismo.",
+      "author": "Mark Twain",
+      "context": "Mark Twain nació el 30 de noviembre de 1835, pero esta cita se recuerda especialmente en febrero, mes de introspección y renovación."
+    },
+    "motivationalQuote": {
+      "text": "Empieza donde estás. Usa lo que tienes. Haz lo que puedes.",
+      "author": "Arthur Ashe"
+    },
+    "births": [
+      { "name": "Clark Gable", "description": "Actor estadounidense, el «Rey de Hollywood», célebre por Lo que el viento se llevó (1939).", "year": 1901 },
+      { "name": "Boris Yeltsin", "description": "Político ruso, primer presidente de la Federación Rusa tras la disolución de la URSS.", "year": 1931 },
+      { "name": "Lisa Marie Presley", "description": "Cantautora estadounidense, única hija de Elvis Presley, continuadora del legado musical de su padre.", "year": 1968 }
+    ],
+    "events": [
+      { "title": "Se funda la Compañía de las Indias Orientales neerlandesa (VOC)", "description": "Los Estados Generales de los Países Bajos otorgan la carta fundacional a la VOC, primera empresa multinacional de la historia con acciones negociables.", "year": 1601 },
+      { "title": "Primera transmisión de la BBC Television", "description": "La BBC retoma sus emisiones de televisión en el Reino Unido tras la interrupción de la Segunda Guerra Mundial.", "year": 1946 },
+      { "title": "Lanzamiento del primer satélite artificial estadounidense", "description": "Explorer 1 es puesto en órbita, convirtiéndose en el primer satélite de Estados Unidos y confirmando la existencia de los cinturones de Van Allen.", "year": 1958 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Ignatius of Antioch", "type": "Martyr", "description": "Bishop of Antioch in the 1st century, disciple of the Apostles, devoured by wild beasts in the Colosseum of Rome." },
+      { "name": "Saint Brigid of Ireland", "type": "Virgin and Abbess", "description": "Founder of the monastery of Kildare, patron of Ireland alongside Saint Patrick, renowned for her charity and miracles." },
+      { "name": "Saint Pius V", "type": "Pope", "description": "Dominican pope who promoted the Holy League against the Turks at Lepanto (1571) and reformed the Tridentine liturgy." }
+    ],
+    "observances": [
+      { "name": "World Hijab Day", "description": "A day inviting women worldwide to wear the hijab for one day to foster cross-cultural understanding." },
+      { "name": "National Freedom Day (Bangladesh)", "description": "Bangladesh commemorates the start of the independence movement that culminated in 1971." }
+    ],
+    "historicalQuote": {
+      "text": "The worst loneliness is not to be comfortable with yourself.",
+      "author": "Mark Twain",
+      "context": "Mark Twain was born on 30 November 1835; this quote is especially recalled in February, a month of introspection and renewal."
+    },
+    "motivationalQuote": {
+      "text": "Start where you are. Use what you have. Do what you can.",
+      "author": "Arthur Ashe"
+    },
+    "births": [
+      { "name": "Clark Gable", "description": "American actor, the 'King of Hollywood', famous for Gone with the Wind (1939).", "year": 1901 },
+      { "name": "Boris Yeltsin", "description": "Russian politician, first president of the Russian Federation after the dissolution of the USSR.", "year": 1931 },
+      { "name": "Lisa Marie Presley", "description": "American singer-songwriter, only daughter of Elvis Presley, carrying on her father's musical legacy.", "year": 1968 }
+    ],
+    "events": [
+      { "title": "Founding of the Dutch East India Company (VOC)", "description": "The States General of the Netherlands grant the founding charter to the VOC, the world's first multinational corporation with negotiable shares.", "year": 1601 },
+      { "title": "BBC Television resumes broadcasting", "description": "The BBC resumes its television broadcasts in the United Kingdom following the interruption of World War II.", "year": 1946 },
+      { "title": "Launch of the first US artificial satellite", "description": "Explorer 1 is placed into orbit, becoming the first American satellite and confirming the existence of the Van Allen belts.", "year": 1958 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "Santo Inácio de Antioquia", "type": "Mártir", "description": "Bispo de Antioquia do século I, discípulo dos apóstolos, morreu devorado por feras no Coliseu de Roma." },
+      { "name": "Santa Brígida da Irlanda", "type": "Virgem e abadessa", "description": "Fundadora do mosteiro de Kildare, padroeira da Irlanda ao lado de São Patrício, conhecida pela caridade e milagres." },
+      { "name": "São Pio V", "type": "Papa", "description": "Papa dominicano que promoveu a Santa Liga contra os turcos em Lepanto (1571) e reformou a liturgia tridentina." }
+    ],
+    "observances": [
+      { "name": "Dia Mundial do Hijab", "description": "Jornada que convida mulheres de todo o mundo a usar o hijab por um dia para promover o entendimento intercultural." },
+      { "name": "Dia Nacional da Liberdade (Bangladesh)", "description": "Bangladesh comemora o início do movimento de independência que culminou em 1971." }
+    ],
+    "historicalQuote": {
+      "text": "A pior solidão é não se sentir bem consigo mesmo.",
+      "author": "Mark Twain",
+      "context": "Mark Twain nasceu em 30 de novembro de 1835; esta citação é lembrada especialmente em fevereiro, mês de introspecção e renovação."
+    },
+    "motivationalQuote": {
+      "text": "Comece onde você está. Use o que você tem. Faça o que você pode.",
+      "author": "Arthur Ashe"
+    },
+    "births": [
+      { "name": "Clark Gable", "description": "Ator americano, o 'Rei de Hollywood', famoso por E o Vento Levou (1939).", "year": 1901 },
+      { "name": "Boris Yeltsin", "description": "Político russo, primeiro presidente da Federação Russa após a dissolução da URSS.", "year": 1931 },
+      { "name": "Lisa Marie Presley", "description": "Cantora e compositora americana, única filha de Elvis Presley, dando continuidade ao legado musical do pai.", "year": 1968 }
+    ],
+    "events": [
+      { "title": "Fundação da Companhia das Índias Orientais Neerlandesa (VOC)", "description": "Os Estados Gerais dos Países Baixos outorgam a carta de fundação à VOC, a primeira empresa multinacional da história com ações negociáveis.", "year": 1601 },
+      { "title": "A BBC retoma as transmissões de televisão", "description": "A BBC retoma suas transmissões de televisão no Reino Unido após a interrupção da Segunda Guerra Mundial.", "year": 1946 },
+      { "title": "Lançamento do primeiro satélite artificial americano", "description": "O Explorer 1 é colocado em órbita, tornando-se o primeiro satélite dos EUA e confirmando a existência dos cinturões de Van Allen.", "year": 1958 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Ignasi d'Antioquia", "type": "Màrtir", "description": "Bisbe d'Antioquia del segle I, deixeble dels apòstols, morí devorat per feres al Colosseu de Roma." },
+      { "name": "Santa Brígida d'Irlanda", "type": "Verge i abadessa", "description": "Fundadora del monestir de Kildare, patrona d'Irlanda juntament amb Sant Patrici, coneguda per la seva caritat i miracles." },
+      { "name": "Sant Pius V", "type": "Papa", "description": "Papa dominic que promogué la Santa Lliga contra els turcs a Lepant (1571) i reformà la litúrgia tridentina." }
+    ],
+    "observances": [
+      { "name": "Dia Mundial del Hijab", "description": "Jornada que convida dones de tot el món a portar el hijab durant un dia per fomentar la comprensió intercultural." },
+      { "name": "Dia Nacional de la Llibertat (Bangladesh)", "description": "Bangladesh commemora l'inici del moviment d'independència que va culminar el 1971." }
+    ],
+    "historicalQuote": {
+      "text": "La pitjor soledat és no estar a gust amb un mateix.",
+      "author": "Mark Twain",
+      "context": "Mark Twain va néixer el 30 de novembre de 1835; aquesta cita es recorda especialment al febrer, mes d'introspecció i renovació."
+    },
+    "motivationalQuote": {
+      "text": "Comença on ets. Fes servir el que tens. Fes el que pots.",
+      "author": "Arthur Ashe"
+    },
+    "births": [
+      { "name": "Clark Gable", "description": "Actor nord-americà, el 'Rei de Hollywood', famós per Allò que el vent s'endugué (1939).", "year": 1901 },
+      { "name": "Boris Ieltsin", "description": "Polític rus, primer president de la Federació Russa després de la dissolució de l'URSS.", "year": 1931 },
+      { "name": "Lisa Marie Presley", "description": "Cantautora nord-americana, única filla d'Elvis Presley, continuadora del llegat musical del seu pare.", "year": 1968 }
+    ],
+    "events": [
+      { "title": "Fundació de la Companyia Neerlandesa de les Índies Orientals (VOC)", "description": "Els Estats Generals dels Països Baixos atorguen la carta fundacional a la VOC, la primera empresa multinacional de la història amb accions negociables.", "year": 1601 },
+      { "title": "La BBC repren les emissions de televisió", "description": "La BBC reprèn les seves emissions de televisió al Regne Unit després de la interrupció de la Segona Guerra Mundial.", "year": 1946 },
+      { "title": "Llançament del primer satèl·lit artificial nord-americà", "description": "L'Explorer 1 és posat en òrbita, convertint-se en el primer satèl·lit dels EUA i confirmant l'existència dels cinturons de Van Allen.", "year": 1958 }
+    ]
+  }
+}

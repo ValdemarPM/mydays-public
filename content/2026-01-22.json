@@ -1,0 +1,255 @@
+{
+  "date": "2026-01-22",
+  "es": {
+    "saints": [
+      {
+        "name": "San Vicente de Zaragoza",
+        "type": "Diácono y Mártir",
+        "description": "Diácono de Zaragoza del siglo III, martirizado en Valencia bajo el gobernador Daciano durante la persecución de Diocleciano. Es el protomártir de España y patrono de los viticultores."
+      },
+      {
+        "name": "San Anastasio el Persa",
+        "type": "Monje y Mártir",
+        "description": "Soldado persa convertido al cristianismo en el siglo VII, monje en Palestina y mártir bajo el rey Cosroes II de Persia. Sus reliquias llegaron a Roma en el siglo VII."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Educación (ONU)",
+        "description": "Proclamado por la ONU en 2018, este día celebra el papel fundamental de la educación para la paz y el desarrollo humano sostenible."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Dime y lo olvido. Enséñame y lo recuerdo. Involúcrame y lo aprendo.",
+      "author": "Benjamin Franklin",
+      "context": "Benjamin Franklin (nacido el 17 de enero de 1706) fue un incansable defensor de la educación práctica y la curiosidad intelectual. Esta cita, atribuida a él, resume el principio del aprendizaje experiencial."
+    },
+    "motivationalQuote": {
+      "text": "El conocimiento es poder.",
+      "author": "Francis Bacon"
+    },
+    "births": [
+      {
+        "name": "Lord Byron",
+        "description": "Poeta romántico inglés, una de las figuras más carismáticas e influyentes del Romanticismo europeo. Autor de Don Juan y Childe Harold's Pilgrimage, falleció en Grecia luchando por su independencia.",
+        "year": 1788
+      },
+      {
+        "name": "D.W. Griffith",
+        "description": "Director de cine estadounidense, pionero del lenguaje cinematográfico y creador del polémico El nacimiento de una nación (1915), que introdujo técnicas innovadoras como el plano cercano.",
+        "year": 1875
+      },
+      {
+        "name": "Balthazar Getty",
+        "description": "Actor estadounidense, conocido por sus papeles en películas de los años 90 como Mr. Holland's Opus y la serie Damages.",
+        "year": 1975
+      }
+    ],
+    "events": [
+      {
+        "title": "Muerte de la reina Victoria de Gran Bretaña",
+        "description": "La reina Victoria murió en el castillo de Osborne (Isla de Wight) tras 63 años de reinado, el más largo de un monarca británico hasta ese momento, marcando el fin de la era victoriana.",
+        "year": 1901
+      },
+      {
+        "title": "Roe v. Wade: la Corte Suprema de EE. UU. legaliza el aborto",
+        "description": "La Corte Suprema de los Estados Unidos dictó el fallo Roe v. Wade, legalizando el aborto en todo el país como un derecho constitucional. Este fallo fue posteriormente anulado en 2022.",
+        "year": 1973
+      },
+      {
+        "title": "Primer vuelo de una línea aérea transatlántica",
+        "description": "Pan American Airways inauguró el primer servicio regular transatlántico de pasajeros entre Nueva York y Lisboa, reduciendo el tiempo de viaje de 8 días a menos de 24 horas.",
+        "year": 1942
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Vincent of Zaragoza",
+        "type": "Deacon and Martyr",
+        "description": "Deacon of Zaragoza of the 3rd century, martyred in Valencia under governor Dacian during the Diocletianic persecution. He is the protomartyr of Spain and patron of winemakers."
+      },
+      {
+        "name": "Saint Anastasius the Persian",
+        "type": "Monk and Martyr",
+        "description": "Persian soldier converted to Christianity in the 7th century, monk in Palestine and martyr under King Khosrow II of Persia. His relics reached Rome in the 7th century."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of Education (UN)",
+        "description": "Proclaimed by the UN in 2018, this day celebrates the fundamental role of education for peace and sustainable human development."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+      "author": "Benjamin Franklin",
+      "context": "Benjamin Franklin (born 17 January 1706) was a tireless advocate of practical education and intellectual curiosity. This quote, attributed to him, sums up the principle of experiential learning."
+    },
+    "motivationalQuote": {
+      "text": "Knowledge is power.",
+      "author": "Francis Bacon"
+    },
+    "births": [
+      {
+        "name": "Lord Byron",
+        "description": "English Romantic poet, one of the most charismatic and influential figures of European Romanticism. Author of Don Juan and Childe Harold's Pilgrimage, he died in Greece fighting for its independence.",
+        "year": 1788
+      },
+      {
+        "name": "D.W. Griffith",
+        "description": "American film director, pioneer of cinematic language and creator of the controversial The Birth of a Nation (1915), which introduced innovative techniques such as the close-up.",
+        "year": 1875
+      },
+      {
+        "name": "Balthazar Getty",
+        "description": "American actor, known for his roles in 1990s films such as Mr. Holland's Opus and the TV series Damages.",
+        "year": 1975
+      }
+    ],
+    "events": [
+      {
+        "title": "Death of Queen Victoria",
+        "description": "Queen Victoria died at Osborne House (Isle of Wight) after 63 years on the throne, the longest reign of a British monarch up to that time, marking the end of the Victorian era.",
+        "year": 1901
+      },
+      {
+        "title": "Roe v. Wade: US Supreme Court legalises abortion",
+        "description": "The US Supreme Court issued the Roe v. Wade ruling, legalising abortion nationwide as a constitutional right. This ruling was subsequently overturned in 2022.",
+        "year": 1973
+      },
+      {
+        "title": "First transatlantic airline flight",
+        "description": "Pan American Airways inaugurated the first regular transatlantic passenger service between New York and Lisbon, cutting travel time from 8 days to less than 24 hours.",
+        "year": 1942
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Vicente de Saragoça",
+        "type": "Diácono e Mártir",
+        "description": "Diácono de Saragoça do século III, martirizado em Valência sob o governador Daciano durante a perseguição de Diocleciano. É o protomártir da Espanha e padroeiro dos viticultores."
+      },
+      {
+        "name": "São Anastácio, o Persa",
+        "type": "Monge e Mártir",
+        "description": "Soldado persa convertido ao cristianismo no século VII, monge na Palestina e mártir sob o rei Cosroes II da Pérsia. Suas relíquias chegaram a Roma no século VII."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Educação (ONU)",
+        "description": "Proclamado pela ONU em 2018, este dia celebra o papel fundamental da educação para a paz e o desenvolvimento humano sustentável."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Diga-me e eu esqueço. Ensine-me e eu me lembro. Envolva-me e eu aprendo.",
+      "author": "Benjamin Franklin",
+      "context": "Benjamin Franklin (nascido em 17 de janeiro de 1706) foi um incansável defensor da educação prática e da curiosidade intelectual. Esta citação, atribuída a ele, resume o princípio da aprendizagem experiencial."
+    },
+    "motivationalQuote": {
+      "text": "Conhecimento é poder.",
+      "author": "Francis Bacon"
+    },
+    "births": [
+      {
+        "name": "Lord Byron",
+        "description": "Poeta romântico inglês, uma das figuras mais carismáticas e influentes do Romantismo europeu. Autor de Don Juan e Childe Harold's Pilgrimage, morreu na Grécia lutando por sua independência.",
+        "year": 1788
+      },
+      {
+        "name": "D.W. Griffith",
+        "description": "Diretor de cinema americano, pioneiro da linguagem cinematográfica e criador do polêmico O Nascimento de uma Nação (1915), que introduziu técnicas inovadoras como o close-up.",
+        "year": 1875
+      },
+      {
+        "name": "Balthazar Getty",
+        "description": "Ator americano, conhecido por seus papéis em filmes dos anos 90 como Mr. Holland's Opus e a série Damages.",
+        "year": 1975
+      }
+    ],
+    "events": [
+      {
+        "title": "Morte da rainha Vitória da Grã-Bretanha",
+        "description": "A rainha Vitória morreu em Osborne House (Ilha de Wight) após 63 anos de reinado, o mais longo de um monarca britânico até então, marcando o fim da era vitoriana.",
+        "year": 1901
+      },
+      {
+        "title": "Roe v. Wade: Supremo Tribunal dos EUA legaliza o aborto",
+        "description": "O Supremo Tribunal dos Estados Unidos emitiu a decisão Roe v. Wade, legalizando o aborto em todo o país como direito constitucional. Esta decisão foi posteriormente revogada em 2022.",
+        "year": 1973
+      },
+      {
+        "title": "Primeiro voo transatlântico de uma linha aérea",
+        "description": "A Pan American Airways inaugurou o primeiro serviço regular transatlântico de passageiros entre Nova York e Lisboa, reduzindo o tempo de viagem de 8 dias para menos de 24 horas.",
+        "year": 1942
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Vicenç de Saragossa",
+        "type": "Diaca i Màrtir",
+        "description": "Diaca de Saragossa del segle III, martiritzat a València sota el governador Dacià durant la persecució de Dioclecià. És el protomàrtir d'Espanya i patró dels viticultors."
+      },
+      {
+        "name": "Sant Anastasi el Persa",
+        "type": "Monjo i Màrtir",
+        "description": "Soldat persa convertit al cristianisme al segle VII, monjo a Palestina i màrtir sota el rei Cosroes II de Pèrsia. Les seves relíquies van arribar a Roma al segle VII."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de l'Educació (ONU)",
+        "description": "Proclamat per l'ONU el 2018, aquest dia celebra el paper fonamental de l'educació per a la pau i el desenvolupament humà sostenible."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Digues-m'ho i ho oblido. Ensenya-m'ho i ho recordo. Fes-me-ho fer i ho aprenc.",
+      "author": "Benjamin Franklin",
+      "context": "Benjamin Franklin (nascut el 17 de gener de 1706) va ser un defensor incansable de l'educació pràctica i la curiositat intel·lectual. Aquesta cita, atribuïda a ell, resumeix el principi de l'aprenentatge experiencial."
+    },
+    "motivationalQuote": {
+      "text": "El coneixement és poder.",
+      "author": "Francis Bacon"
+    },
+    "births": [
+      {
+        "name": "Lord Byron",
+        "description": "Poeta romàntic anglès, una de les figures més carismàtiques i influents del Romanticisme europeu. Autor de Don Joan i Childe Harold's Pilgrimage, va morir a Grècia lluitant per la seva independència.",
+        "year": 1788
+      },
+      {
+        "name": "D.W. Griffith",
+        "description": "Director de cinema nord-americà, pioner del llenguatge cinematogràfic i creador del polèmic El naixement d'una nació (1915), que va introduir tècniques innovadores com el primer pla.",
+        "year": 1875
+      },
+      {
+        "name": "Balthazar Getty",
+        "description": "Actor nord-americà, conegut pels seus papers en pel·lícules dels anys 90 com Mr. Holland's Opus i la sèrie Damages.",
+        "year": 1975
+      }
+    ],
+    "events": [
+      {
+        "title": "Mort de la reina Victòria de la Gran Bretanya",
+        "description": "La reina Victòria va morir a Osborne House (Illa de Wight) després de 63 anys de regnat, el més llarg d'un monarca britànic fins aquell moment, marcant el final de l'era victoriana.",
+        "year": 1901
+      },
+      {
+        "title": "Roe v. Wade: el Tribunal Suprem dels EUA legalitza l'avortament",
+        "description": "El Tribunal Suprem dels Estats Units va dictar la sentència Roe v. Wade, legalitzant l'avortament a tot el país com a dret constitucional. Aquesta sentència va ser posteriorment revocada el 2022.",
+        "year": 1973
+      },
+      {
+        "title": "Primer vol transatlàntic d'una línia aèria",
+        "description": "Pan American Airways va inaugurar el primer servei regular transatlàntic de passatgers entre Nova York i Lisboa, reduint el temps de viatge de 8 dies a menys de 24 hores.",
+        "year": 1942
+      }
+    ]
+  }
+}

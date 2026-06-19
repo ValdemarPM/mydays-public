@@ -1,0 +1,255 @@
+{
+  "date": "2025-12-07",
+  "es": {
+    "saints": [
+      {
+        "name": "San Ambrosio de Milán",
+        "type": "Obispo y Doctor de la Iglesia",
+        "description": "Obispo de Milán del siglo IV, uno de los cuatro Grandes Doctores de la Iglesia latina, influyente en la conversión de San Agustín. Patrono de Milán y de los obispos."
+      },
+      {
+        "name": "Santa Fara de Faremoutiers",
+        "type": "Abadesa",
+        "description": "Abadesa del siglo VII en Francia, fundadora del monasterio de Faremoutiers en la Brie, uno de los primeros monasterios dobles de la historia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Aviación Civil Internacional",
+        "description": "Conmemoración del 50 aniversario de la firma del Convenio de Chicago (1944) que creó la Organización de Aviación Civil Internacional (OACI), celebrado desde 1994."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Cuando lleguemos al cielo no nos preguntarán qué hemos aprendido, sino qué hemos amado.",
+      "author": "San Ambrosio de Milán",
+      "context": "Doctor de la Iglesia cuya festividad se celebra hoy, conocido por su profunda doctrina sobre la caridad y su influyente predicación en el siglo IV."
+    },
+    "motivationalQuote": {
+      "text": "La vida es lo que ocurre mientras estás ocupado haciendo otros planes.",
+      "author": "John Lennon"
+    },
+    "births": [
+      {
+        "name": "Giovanni Lorenzo Bernini",
+        "description": "Escultor y arquitecto italiano del Barroco, considerado el mayor escultor del siglo XVII. Creador de la columnata de la Plaza de San Pedro del Vaticano y el baldaquino de la basílica.",
+        "year": 1598
+      },
+      {
+        "name": "Noam Chomsky",
+        "description": "Lingüista, filósofo y activista político estadounidense, padre de la gramática generativa transformacional y una de las voces críticas más influyentes del siglo XX.",
+        "year": 1928
+      },
+      {
+        "name": "Tom Waits",
+        "description": "Músico, compositor y actor estadounidense, conocido por su voz rauca y su singular mezcla de blues, jazz, vaudeville y rock experimental.",
+        "year": 1949
+      }
+    ],
+    "events": [
+      {
+        "title": "Ataque japonés a Pearl Harbor",
+        "description": "La aviación imperial japonesa atacó por sorpresa la base naval estadounidense de Pearl Harbor (Hawái), hundiendo o dañando ocho acorazados y matando a 2.403 personas, lo que llevó a EEUU a entrar en la Segunda Guerra Mundial.",
+        "year": 1941
+      },
+      {
+        "title": "Inauguración de la Catedral de Notre-Dame de París",
+        "description": "La catedral de Notre-Dame de París fue consagrada oficialmente, si bien su construcción se prolongó desde 1163 hasta finales del siglo XIII.",
+        "year": 1163
+      },
+      {
+        "title": "Terremoto de Armenia soviética",
+        "description": "Un devastador terremoto de magnitud 6,8 sacudió el norte de Armenia, matando a más de 25.000 personas y dejando sin hogar a medio millón.",
+        "year": 1988
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Ambrose of Milan",
+        "type": "Bishop and Doctor of the Church",
+        "description": "Bishop of Milan in the 4th century, one of the four Great Doctors of the Latin Church, influential in the conversion of Saint Augustine. Patron of Milan and of bishops."
+      },
+      {
+        "name": "Saint Fare of Faremoutiers",
+        "type": "Abbess",
+        "description": "7th-century abbess in France, founder of the monastery of Faremoutiers in Brie, one of the first double monasteries in history."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Civil Aviation Day",
+        "description": "Commemoration of the 50th anniversary of the signing of the Chicago Convention (1944) that created the International Civil Aviation Organisation (ICAO), celebrated since 1994."
+      }
+    ],
+    "historicalQuote": {
+      "text": "When we reach heaven we shall not be asked what we have learned, but what we have loved.",
+      "author": "Saint Ambrose of Milan",
+      "context": "Doctor of the Church whose feast is celebrated today, known for his profound doctrine on charity and his influential preaching in the 4th century."
+    },
+    "motivationalQuote": {
+      "text": "Life is what happens while you are busy making other plans.",
+      "author": "John Lennon"
+    },
+    "births": [
+      {
+        "name": "Gian Lorenzo Bernini",
+        "description": "Italian Baroque sculptor and architect, considered the greatest sculptor of the 17th century. Creator of St Peter's Square colonnade and the baldachin of St Peter's Basilica.",
+        "year": 1598
+      },
+      {
+        "name": "Noam Chomsky",
+        "description": "American linguist, philosopher, and political activist, father of transformational generative grammar and one of the most influential critical voices of the 20th century.",
+        "year": 1928
+      },
+      {
+        "name": "Tom Waits",
+        "description": "American musician, songwriter, and actor, known for his raspy voice and singular blend of blues, jazz, vaudeville, and experimental rock.",
+        "year": 1949
+      }
+    ],
+    "events": [
+      {
+        "title": "Japanese attack on Pearl Harbor",
+        "description": "The Imperial Japanese Air Force launched a surprise attack on the US naval base at Pearl Harbor, Hawaii, sinking or damaging eight battleships and killing 2,403 people, bringing the United States into World War II.",
+        "year": 1941
+      },
+      {
+        "title": "Consecration of Notre-Dame Cathedral in Paris",
+        "description": "Notre-Dame Cathedral in Paris was officially consecrated, though construction continued from 1163 until the end of the 13th century.",
+        "year": 1163
+      },
+      {
+        "title": "Armenian earthquake",
+        "description": "A devastating magnitude-6.8 earthquake struck northern Soviet Armenia, killing over 25,000 people and leaving half a million homeless.",
+        "year": 1988
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Ambrósio de Milão",
+        "type": "Bispo e Doutor da Igreja",
+        "description": "Bispo de Milão do século IV, um dos quatro Grandes Doutores da Igreja latina, influente na conversão de Santo Agostinho. Padroeiro de Milão e dos bispos."
+      },
+      {
+        "name": "Santa Fara de Faremoutiers",
+        "type": "Abadessa",
+        "description": "Abadessa do século VII em França, fundadora do mosteiro de Faremoutiers na Brie, um dos primeiros mosteiros duplos da história."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Aviação Civil Internacional",
+        "description": "Comemoração do 50.º aniversário da assinatura da Convenção de Chicago (1944) que criou a Organização de Aviação Civil Internacional (OACI), celebrado desde 1994."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Quando chegarmos ao céu não nos perguntarão o que aprendemos, mas o que amámos.",
+      "author": "Santo Ambrósio de Milão",
+      "context": "Doutor da Igreja cuja festa se celebra hoje, conhecido pela sua profunda doutrina sobre a caridade e a sua influente pregação no século IV."
+    },
+    "motivationalQuote": {
+      "text": "A vida é o que acontece enquanto você está ocupado fazendo outros planos.",
+      "author": "John Lennon"
+    },
+    "births": [
+      {
+        "name": "Gian Lorenzo Bernini",
+        "description": "Escultor e arquiteto italiano do Barroco, considerado o maior escultor do século XVII. Criador da colunata da Praça de São Pedro do Vaticano e do baldaquino da basílica.",
+        "year": 1598
+      },
+      {
+        "name": "Noam Chomsky",
+        "description": "Linguista, filósofo e ativista político americano, pai da gramática gerativa transformacional e uma das vozes críticas mais influentes do século XX.",
+        "year": 1928
+      },
+      {
+        "name": "Tom Waits",
+        "description": "Músico, compositor e ator americano, conhecido pela sua voz rouca e a singular mistura de blues, jazz, vaudeville e rock experimental.",
+        "year": 1949
+      }
+    ],
+    "events": [
+      {
+        "title": "Ataque japonês a Pearl Harbor",
+        "description": "A aviação imperial japonesa atacou de surpresa a base naval americana de Pearl Harbor (Havai), afundando ou danificando oito couraçados e matando 2.403 pessoas, levando os EUA a entrar na Segunda Guerra Mundial.",
+        "year": 1941
+      },
+      {
+        "title": "Consagração da Catedral de Notre-Dame de Paris",
+        "description": "A catedral de Notre-Dame de Paris foi oficialmente consagrada, embora a sua construção se tenha prolongado desde 1163 até ao final do século XIII.",
+        "year": 1163
+      },
+      {
+        "title": "Terramoto da Arménia soviética",
+        "description": "Um devastador sismo de magnitude 6,8 sacudiu o norte da Arménia soviética, matando mais de 25.000 pessoas e deixando meio milhão sem abrigo.",
+        "year": 1988
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Ambròs de Milà",
+        "type": "Bisbe i Doctor de l'Església",
+        "description": "Bisbe de Milà del segle IV, un dels quatre Grans Doctors de l'Església llatina, influent en la conversió de Sant Agustí. Patró de Milà i dels bisbes."
+      },
+      {
+        "name": "Santa Fara de Faremoutiers",
+        "type": "Abadessa",
+        "description": "Abadessa del segle VII a França, fundadora del monestir de Faremoutiers a la Brie, un dels primers monestirs dobles de la història."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de l'Aviació Civil Internacional",
+        "description": "Commemoració del 50è aniversari de la signatura del Conveni de Chicago (1944) que va crear l'Organització d'Aviació Civil Internacional (OACI), celebrat des del 1994."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Quan arribem al cel no ens preguntaran què hem après, sinó què hem estimat.",
+      "author": "Sant Ambròs de Milà",
+      "context": "Doctor de l'Església la festivitat del qual se celebra avui, conegut per la seva profunda doctrina sobre la caritat i la seva influent predicació al segle IV."
+    },
+    "motivationalQuote": {
+      "text": "La vida és el que passa mentre estàs ocupat fent altres plans.",
+      "author": "John Lennon"
+    },
+    "births": [
+      {
+        "name": "Gian Lorenzo Bernini",
+        "description": "Escultor i arquitecte italià del Barroc, considerat el major escultor del segle XVII. Creador de la columnata de la Plaça de Sant Pere del Vaticà i el baldaquí de la basílica.",
+        "year": 1598
+      },
+      {
+        "name": "Noam Chomsky",
+        "description": "Lingüista, filòsof i activista polític nord-americà, pare de la gramàtica generativa transformacional i una de les veus crítiques més influents del segle XX.",
+        "year": 1928
+      },
+      {
+        "name": "Tom Waits",
+        "description": "Músic, compositor i actor nord-americà, conegut per la seva veu ronca i la singular barreja de blues, jazz, vaudeville i rock experimental.",
+        "year": 1949
+      }
+    ],
+    "events": [
+      {
+        "title": "Atac japonès a Pearl Harbor",
+        "description": "L'aviació imperial japonesa va atacar per sorpresa la base naval americana de Pearl Harbor (Hawaii), enfonsant o danyant vuit cuirassats i matant 2.403 persones, fet que va portar els EUA a entrar a la Segona Guerra Mundial.",
+        "year": 1941
+      },
+      {
+        "title": "Consagració de la Catedral de Notre-Dame de París",
+        "description": "La catedral de Notre-Dame de París va ser consagrada oficialment, tot i que la seva construcció es va perllongar des del 1163 fins a finals del segle XIII.",
+        "year": 1163
+      },
+      {
+        "title": "Terratrèmol d'Armènia soviètica",
+        "description": "Un devastador sisme de magnitud 6,8 va sacsejar el nord de l'Armènia soviètica, matant més de 25.000 persones i deixant mig milió sense llar.",
+        "year": 1988
+      }
+    ]
+  }
+}

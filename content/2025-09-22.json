@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-22",
+  "es": {
+    "saints": [
+      {
+        "name": "San Mauricio y compañeros mártires",
+        "type": "Mártires",
+        "description": "Oficial romano de la Legión Tebana del siglo III que, junto con numerosos soldados, fue masacrado en Agauno (actual Saint-Maurice, Suiza) por negarse a perseguir a los cristianos. Patrono de los soldados, las fuerzas armadas y los tejedores."
+      },
+      {
+        "name": "San Tomás de Villanueva",
+        "type": "Obispo",
+        "description": "Arzobispo de Valencia (1544–1555) de la orden de los agustinos, conocido por su generosa labor de caridad con los pobres. Canonizado en 1658, es patrono de la ciudad de Valencia en España."
+      },
+      {
+        "name": "Santa Emmerana",
+        "type": "Virgen y Mártir",
+        "description": "Virgen irlandesa del siglo VII que murió martirizada cerca de Ratisbona (Baviera, Alemania) mientras peregrinaba a Roma. Sus restos se veneran en la abadía de Sankt Emmeram en Ratisbona."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial sin Automóvil",
+        "description": "Iniciativa internacional promovida en muchas ciudades del mundo para concienciar sobre el impacto ambiental del tráfico rodado y fomentar el uso del transporte público, la bicicleta y la marcha a pie."
+      },
+      {
+        "name": "Equinoccio de otoño (en el hemisferio norte)",
+        "description": "Momento astronómico en que el sol cruza el ecuador celeste y el día y la noche tienen una duración prácticamente igual en todo el planeta. Marca el inicio del otoño en el hemisferio norte y de la primavera en el sur."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El otoño es una segunda primavera, cuando cada hoja es una flor.",
+      "author": "Albert Camus",
+      "context": "El escritor y filósofo francés de origen argelino, Premio Nobel de Literatura en 1957, expresó con esta imagen poética la belleza que encontraba en la estación otoñal, estación de transformación y color."
+    },
+    "motivationalQuote": {
+      "text": "La imaginación es más importante que el conocimiento.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Michael Faraday",
+        "description": "Físico y químico inglés del siglo XIX, uno de los científicos más influyentes de la historia. Descubrió la inducción electromagnética, el diamagnetismo y la electrólisis, sentando las bases de la tecnología eléctrica moderna.",
+        "year": 1791
+      },
+      {
+        "name": "Andrea Bocelli",
+        "description": "Tenor y cantante italiano, uno de los más exitosos de la historia de la música clásica y del crossover. Perdió la vista a los 12 años tras un accidente. Ha vendido más de 80 millones de álbumes en todo el mundo.",
+        "year": 1958
+      },
+      {
+        "name": "Tom Felton",
+        "description": "Actor británico conocido mundialmente por su papel de Draco Malfoy en la saga Harry Potter (2001–2011), una de las franquicias cinematográficas más taquilleras de la historia.",
+        "year": 1987
+      }
+    ],
+    "events": [
+      {
+        "title": "Proclamación de la Primera República Francesa",
+        "description": "La Convención Nacional francesa abolió la monarquía y proclamó la Primera República Francesa, el año I de la República, marcando un punto de inflexión en la Revolución Francesa.",
+        "year": 1792
+      },
+      {
+        "title": "Abraham Lincoln proclama la Emancipación",
+        "description": "El presidente Abraham Lincoln anunció la Proclamación Preliminar de Emancipación, que declararía libres a los esclavos de los estados confederados a partir del 1 de enero de 1863, cambiando el curso de la guerra civil.",
+        "year": 1862
+      },
+      {
+        "title": "Estreno de The Hobbit (película)",
+        "description": "Peter Jackson estrenó en Nueva Zelanda El Hobbit: Un viaje inesperado, primera parte de la trilogía basada en la novela de J. R. R. Tolkien, que recaudaría más de 1.000 millones de dólares en todo el mundo.",
+        "year": 2012
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Maurice and companions",
+        "type": "Martyrs",
+        "description": "A Roman officer of the Theban Legion in the 3rd century who, along with numerous soldiers, was massacred at Agaunum (present-day Saint-Maurice, Switzerland) for refusing to persecute Christians. Patron of soldiers, the armed forces, and weavers."
+      },
+      {
+        "name": "Saint Thomas of Villanova",
+        "type": "Bishop",
+        "description": "Archbishop of Valencia (1544–1555) of the Augustinian order, renowned for his generous charitable work with the poor. Canonised in 1658, he is patron of the city of Valencia in Spain."
+      },
+      {
+        "name": "Saint Emmeram",
+        "type": "Virgin and Martyr",
+        "description": "A 7th-century Irish virgin who was martyred near Regensburg (Bavaria, Germany) while on a pilgrimage to Rome. Her remains are venerated at the Abbey of Sankt Emmeram in Regensburg."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Car-Free Day",
+        "description": "An international initiative promoted in many cities around the world to raise awareness of the environmental impact of road traffic and encourage the use of public transport, cycling, and walking."
+      },
+      {
+        "name": "Autumnal Equinox (in the Northern Hemisphere)",
+        "description": "The astronomical moment when the sun crosses the celestial equator and day and night are nearly equal in length across the planet. It marks the beginning of autumn in the Northern Hemisphere and spring in the Southern."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Autumn is a second spring, when every leaf is a flower.",
+      "author": "Albert Camus",
+      "context": "The French-Algerian writer and philosopher, Nobel Prize in Literature in 1957, expressed with this poetic image the beauty he found in the autumn season — a season of transformation and colour."
+    },
+    "motivationalQuote": {
+      "text": "Imagination is more important than knowledge.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Michael Faraday",
+        "description": "19th-century English physicist and chemist, one of the most influential scientists in history. He discovered electromagnetic induction, diamagnetism, and electrolysis, laying the foundations for modern electrical technology.",
+        "year": 1791
+      },
+      {
+        "name": "Andrea Bocelli",
+        "description": "Italian tenor and singer, one of the most successful in the history of classical and crossover music. He lost his sight at the age of 12 after an accident. He has sold more than 80 million albums worldwide.",
+        "year": 1958
+      },
+      {
+        "name": "Tom Felton",
+        "description": "British actor known worldwide for his role as Draco Malfoy in the Harry Potter franchise (2001–2011), one of the highest-grossing film series in history.",
+        "year": 1987
+      }
+    ],
+    "events": [
+      {
+        "title": "Proclamation of the First French Republic",
+        "description": "The French National Convention abolished the monarchy and proclaimed the First French Republic, Year I of the Republic, marking a turning point in the French Revolution.",
+        "year": 1792
+      },
+      {
+        "title": "Abraham Lincoln issues the Emancipation Proclamation",
+        "description": "President Abraham Lincoln announced the Preliminary Emancipation Proclamation, which would declare the slaves of Confederate states free from 1 January 1863, changing the course of the Civil War.",
+        "year": 1862
+      },
+      {
+        "title": "The Hobbit film premiere",
+        "description": "Peter Jackson premiered The Hobbit: An Unexpected Journey in New Zealand, the first part of the trilogy based on J. R. R. Tolkien's novel, which would gross more than 1 billion dollars worldwide.",
+        "year": 2012
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Maurício e companheiros mártires",
+        "type": "Mártires",
+        "description": "Oficial romano da Legião Tebana do século III que, juntamente com numerosos soldados, foi massacrado em Agauno (atual Saint-Maurice, Suíça) por se recusar a perseguir os cristãos. Patrono dos soldados, das forças armadas e dos tecelões."
+      },
+      {
+        "name": "São Tomás de Vilanova",
+        "type": "Bispo",
+        "description": "Arcebispo de Valência (1544–1555) da ordem dos agostinianos, conhecido pela sua generosa atividade caritativa com os pobres. Canonizado em 1658, é patrono da cidade de Valência em Espanha."
+      },
+      {
+        "name": "Santa Emerana",
+        "type": "Virgem e Mártir",
+        "description": "Virgem irlandesa do século VII que morreu martirizada perto de Ratisbona (Baviera, Alemanha) enquanto peregrinava a Roma. Os seus restos são venerados na abadia de Sankt Emmeram em Ratisbona."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial Sem Carro",
+        "description": "Iniciativa internacional promovida em muitas cidades do mundo para consciencializar sobre o impacto ambiental do tráfego rodoviário e incentivar o uso do transporte público, da bicicleta e de deslocações a pé."
+      },
+      {
+        "name": "Equinócio de Outono (no hemisfério norte)",
+        "description": "Momento astronômico em que o sol cruza o equador celeste e o dia e a noite têm uma duração praticamente igual em todo o planeta. Marca o início do outono no hemisfério norte e da primavera no sul."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O outono é uma segunda primavera, quando cada folha é uma flor.",
+      "author": "Albert Camus",
+      "context": "O escritor e filósofo franco-argelino, Prêmio Nobel de Literatura em 1957, expressou com esta imagem poética a beleza que encontrava na estação outonal — uma estação de transformação e cor."
+    },
+    "motivationalQuote": {
+      "text": "A imaginação é mais importante do que o conhecimento.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Michael Faraday",
+        "description": "Físico e químico inglês do século XIX, um dos cientistas mais influentes da história. Descobriu a indução eletromagnética, o diamagnetismo e a eletrólise, lançando as bases da tecnologia elétrica moderna.",
+        "year": 1791
+      },
+      {
+        "name": "Andrea Bocelli",
+        "description": "Tenor e cantor italiano, um dos mais bem-sucedidos da história da música clássica e do crossover. Perdeu a visão aos 12 anos após um acidente. Vendeu mais de 80 milhões de álbuns em todo o mundo.",
+        "year": 1958
+      },
+      {
+        "name": "Tom Felton",
+        "description": "Ator britânico mundialmente conhecido pelo seu papel de Draco Malfoy na saga Harry Potter (2001–2011), uma das franquias cinematográficas com maior bilheteria da história.",
+        "year": 1987
+      }
+    ],
+    "events": [
+      {
+        "title": "Proclamação da Primeira República Francesa",
+        "description": "A Convenção Nacional francesa aboliu a monarquia e proclamou a Primeira República Francesa, o Ano I da República, marcando um ponto de viragem na Revolução Francesa.",
+        "year": 1792
+      },
+      {
+        "title": "Abraham Lincoln proclama a Emancipação",
+        "description": "O presidente Abraham Lincoln anunciou a Proclamação Preliminar de Emancipação, que declararia livres os escravos dos estados confederados a partir de 1 de janeiro de 1863, mudando o curso da guerra civil.",
+        "year": 1862
+      },
+      {
+        "title": "Estreia de O Hobbit (filme)",
+        "description": "Peter Jackson estreou na Nova Zelândia O Hobbit: Uma Jornada Inesperada, primeira parte da trilogia baseada no romance de J. R. R. Tolkien, que arrecadaria mais de 1.000 milhões de dólares em todo o mundo.",
+        "year": 2012
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Maurici i companys màrtirs",
+        "type": "Màrtirs",
+        "description": "Oficial romà de la Legió Tebana del segle III que, juntament amb nombrosos soldats, va ser massacrat a Agaune (actual Saint-Maurice, Suïssa) per negar-se a perseguir els cristians. Patró dels soldats, les forces armades i els teixidors."
+      },
+      {
+        "name": "Sant Tomàs de Villanueva",
+        "type": "Bisbe",
+        "description": "Arquebisbe de València (1544–1555) de l'ordre dels agustins, conegut per la seva generosa tasca caritativa amb els pobres. Canonitzat el 1658, és patró de la ciutat de València."
+      },
+      {
+        "name": "Santa Emerana",
+        "type": "Verge i Màrtir",
+        "description": "Verge irlandesa del segle VII que va morir martiritzada prop de Ratisbona (Baviera, Alemanya) mentre peregrinava a Roma. Les seves restes es veneren a l'abadia de Sankt Emmeram a Ratisbona."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial sense Cotxe",
+        "description": "Iniciativa internacional promoguda en moltes ciutats del món per conscienciar sobre l'impacte ambiental del trànsit rodat i fomentar l'ús del transport públic, la bicicleta i els desplaçaments a peu."
+      },
+      {
+        "name": "Equinocci de tardor (a l'hemisferi nord)",
+        "description": "Moment astronòmic en què el sol creua l'equador celeste i el dia i la nit tenen una durada pràcticament igual a tot el planeta. Marca l'inici de la tardor a l'hemisferi nord i de la primavera al sud."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La tardor és una segona primavera, quan cada fulla és una flor.",
+      "author": "Albert Camus",
+      "context": "L'escriptor i filòsof francèsalgeria, Premi Nobel de Literatura el 1957, va expressar amb aquesta imatge poètica la bellesa que trobava en la tardor — una estació de transformació i color."
+    },
+    "motivationalQuote": {
+      "text": "La imaginació és més important que el coneixement.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Michael Faraday",
+        "description": "Físic i químic anglès del segle XIX, un dels científics més influents de la història. Va descobrir la inducció electromagnètica, el diamagnetisme i l'electròlisi, establint les bases de la tecnologia elèctrica moderna.",
+        "year": 1791
+      },
+      {
+        "name": "Andrea Bocelli",
+        "description": "Tenor i cantant italià, un dels més exitosos de la història de la música clàssica i el crossover. Va perdre la vista als 12 anys arran d'un accident. Ha venut més de 80 milions d'àlbums arreu del món.",
+        "year": 1958
+      },
+      {
+        "name": "Tom Felton",
+        "description": "Actor britànic conegut mundialment pel seu paper de Draco Malfoy a la saga Harry Potter (2001–2011), una de les franquícies cinematogràfiques amb major recaptació de la història.",
+        "year": 1987
+      }
+    ],
+    "events": [
+      {
+        "title": "Proclamació de la Primera República Francesa",
+        "description": "La Convenció Nacional francesa va abolir la monarquia i va proclamar la Primera República Francesa, l'any I de la República, marcant un punt d'inflexió a la Revolució Francesa.",
+        "year": 1792
+      },
+      {
+        "title": "Abraham Lincoln proclama l'Emancipació",
+        "description": "El president Abraham Lincoln va anunciar la Proclamació Preliminar d'Emancipació, que declararia lliures els esclaus dels estats confederats a partir de l'1 de gener de 1863, canviant el curs de la guerra civil.",
+        "year": 1862
+      },
+      {
+        "title": "Estrena de El Hobbit (pel·lícula)",
+        "description": "Peter Jackson va estrenar a Nova Zelanda El Hobbit: Un viatge inesperat, primera part de la trilogia basada en la novel·la de J. R. R. Tolkien, que recaptaria més de 1.000 milions de dòlars arreu del món.",
+        "year": 2012
+      }
+    ]
+  }
+}

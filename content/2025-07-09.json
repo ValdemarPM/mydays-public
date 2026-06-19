@@ -1,0 +1,291 @@
+{
+  "date": "2025-07-09",
+  "es": {
+    "saints": [
+      {
+        "name": "San Augusto Chapdelaine",
+        "type": "Sacerdote y Mártir",
+        "description": "Misionero francés de las Misiones Extranjeras de París, torturado y decapitado en China en 1856. Beatificado en 1900 y canonizado en 2000 junto con los 120 Mártires de China."
+      },
+      {
+        "name": "Beatos Mártires de Gorcum",
+        "type": "Mártires",
+        "description": "Grupo de diecinueve sacerdotes franciscanos, dominicos y agustinos ejecutados en Brielle (Holanda) el 9 de julio de 1572 por los «mendigos del mar» calvinistas. Su fiesta es hoy en el calendario oficial."
+      },
+      {
+        "name": "San Zenón de Verona",
+        "type": "Obispo",
+        "description": "Obispo africano de Verona en el siglo IV, conocido por sus sermones y su lucha contra el paganismo residual. Es patrono de los pescadores y de la ciudad de Verona."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de Argentina",
+        "description": "Argentina celebra la Declaración de Independencia del dominio español, proclamada en el Congreso de Tucumán el 9 de julio de 1816. Es la fecha más solemne del calendario nacional argentino."
+      },
+      {
+        "name": "Día de la Independencia de Sudán del Sur",
+        "description": "Sudán del Sur celebra su independencia de Sudán, proclamada el 9 de julio de 2011, convirtiéndose en el estado soberano más joven del mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La patria no es el lugar donde nacemos, sino el lugar por el que morimos.",
+      "author": "José de San Martín",
+      "context": "El 9 de julio de 1816, el Congreso de Tucumán declaró la independencia de Argentina. San Martín, libertador de Argentina, Chile y Perú, dedicó su vida a la emancipación latinoamericana."
+    },
+    "motivationalQuote": {
+      "text": "El único modo de hacer un gran trabajo es amar lo que haces.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Nikola Tesla",
+        "description": "Inventor e ingeniero eléctrico serbio-americano que desarrolló el sistema de corriente alterna (CA), el motor de inducción y la bobina de Tesla. Sus inventos son la base de la electricidad moderna.",
+        "year": 1856
+      },
+      {
+        "name": "Tom Hanks",
+        "description": "Actor y director estadounidense, dos veces ganador del Oscar por Philadelphia (1993) y Forrest Gump (1994). Es uno de los actores más taquilleros y respetados de la historia del cine de Hollywood.",
+        "year": 1956
+      },
+      {
+        "name": "Elias Howe",
+        "description": "Inventor estadounidense que patentó en 1846 la primera máquina de coser práctica con aguja de ojo en la punta, revolucionando la industria textil y la confección de ropa.",
+        "year": 1819
+      }
+    ],
+    "events": [
+      {
+        "title": "Declaración de Independencia de Argentina",
+        "description": "El 9 de julio de 1816, el Congreso de Tucumán proclamó la independencia de las Provincias Unidas del Río de la Plata del Imperio Español, dando origen a lo que hoy es Argentina.",
+        "year": 1816
+      },
+      {
+        "title": "Sudán del Sur se independiza",
+        "description": "El 9 de julio de 2011, Sudán del Sur proclamó su independencia de Sudán tras décadas de guerra civil, convirtiéndose en el estado soberano más nuevo del mundo.",
+        "year": 2011
+      },
+      {
+        "title": "Inauguración de la Torre Eiffel al público",
+        "description": "El 9 de julio de 1889, la Torre Eiffel, construida para la Exposición Universal de París, fue abierta oficialmente al público. Fue el edificio más alto del mundo hasta 1930.",
+        "year": 1889
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Augustus Chapdelaine",
+        "type": "Priest and Martyr",
+        "description": "A French missionary of the Paris Foreign Missions, tortured and beheaded in China in 1856. Beatified in 1900 and canonised in 2000 along with the 120 Martyrs of China."
+      },
+      {
+        "name": "Blessed Martyrs of Gorkum",
+        "type": "Martyrs",
+        "description": "A group of nineteen Franciscan, Dominican, and Augustinian priests executed in Brielle (Netherlands) on 9 July 1572 by Calvinist 'Sea Beggars'. Their feast is observed today in the official calendar."
+      },
+      {
+        "name": "Saint Zeno of Verona",
+        "type": "Bishop",
+        "description": "An African bishop of Verona in the 4th century, known for his sermons and his struggle against residual paganism. He is patron of fishermen and of the city of Verona."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Independence Day of Argentina",
+        "description": "Argentina celebrates the Declaration of Independence from Spanish rule, proclaimed at the Congress of Tucumán on 9 July 1816. It is the most solemn date in the Argentine national calendar."
+      },
+      {
+        "name": "Independence Day of South Sudan",
+        "description": "South Sudan celebrates its independence from Sudan, proclaimed on 9 July 2011, making it the world's youngest sovereign state."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The homeland is not the place where we are born, but the place for which we die.",
+      "author": "José de San Martín",
+      "context": "On 9 July 1816, the Congress of Tucumán declared Argentina's independence. San Martín, liberator of Argentina, Chile, and Peru, dedicated his life to Latin American emancipation."
+    },
+    "motivationalQuote": {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Nikola Tesla",
+        "description": "Serbian-American electrical inventor and engineer who developed the alternating current (AC) system, the induction motor, and the Tesla coil. His inventions are the foundation of modern electricity.",
+        "year": 1856
+      },
+      {
+        "name": "Tom Hanks",
+        "description": "American actor and director, twice Academy Award winner for Philadelphia (1993) and Forrest Gump (1994). He is one of the highest-grossing and most respected actors in the history of Hollywood cinema.",
+        "year": 1956
+      },
+      {
+        "name": "Elias Howe",
+        "description": "American inventor who patented in 1846 the first practical sewing machine with an eye-tipped needle, revolutionising the textile industry and clothing manufacture.",
+        "year": 1819
+      }
+    ],
+    "events": [
+      {
+        "title": "Argentina declares independence",
+        "description": "On 9 July 1816, the Congress of Tucumán proclaimed the independence of the United Provinces of the Río de la Plata from the Spanish Empire, giving rise to what is today Argentina.",
+        "year": 1816
+      },
+      {
+        "title": "South Sudan becomes independent",
+        "description": "On 9 July 2011, South Sudan proclaimed its independence from Sudan after decades of civil war, becoming the world's newest sovereign state.",
+        "year": 2011
+      },
+      {
+        "title": "Eiffel Tower opens to the public",
+        "description": "On 9 July 1889, the Eiffel Tower, built for the Paris World's Fair, was officially opened to the public. It was the tallest building in the world until 1930.",
+        "year": 1889
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Augusto Chapdelaine",
+        "type": "Sacerdote e Mártir",
+        "description": "Missionário francês das Missões Estrangeiras de Paris, torturado e decapitado na China em 1856. Beatificado em 1900 e canonizado em 2000 junto com os 120 Mártires da China."
+      },
+      {
+        "name": "Beatos Mártires de Gorcum",
+        "type": "Mártires",
+        "description": "Grupo de dezenove sacerdotes franciscanos, dominicanos e agostinhos executados em Brielle (Holanda) em 9 de julho de 1572 pelos 'mendigos do mar' calvinistas. A sua festa é celebrada hoje no calendário oficial."
+      },
+      {
+        "name": "São Zenão de Verona",
+        "type": "Bispo",
+        "description": "Bispo africano de Verona no século IV, conhecido pelos seus sermões e pela luta contra o paganismo residual. É padroeiro dos pescadores e da cidade de Verona."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência da Argentina",
+        "description": "A Argentina celebra a Declaração de Independência do domínio espanhol, proclamada no Congresso de Tucumán em 9 de julho de 1816. É a data mais solene do calendário nacional argentino."
+      },
+      {
+        "name": "Dia da Independência do Sudão do Sul",
+        "description": "O Sudão do Sul celebra a sua independência do Sudão, proclamada em 9 de julho de 2011, tornando-se o estado soberano mais jovem do mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A pátria não é o lugar onde nascemos, mas o lugar pelo qual morremos.",
+      "author": "José de San Martín",
+      "context": "Em 9 de julho de 1816, o Congresso de Tucumán declarou a independência da Argentina. San Martín, libertador da Argentina, do Chile e do Peru, dedicou a sua vida à emancipação latino-americana."
+    },
+    "motivationalQuote": {
+      "text": "A única maneira de fazer um grande trabalho é amar o que você faz.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Nikola Tesla",
+        "description": "Inventor e engenheiro elétrico sérvio-americano que desenvolveu o sistema de corrente alternada (CA), o motor de indução e a bobina de Tesla. As suas invenções são a base da eletricidade moderna.",
+        "year": 1856
+      },
+      {
+        "name": "Tom Hanks",
+        "description": "Ator e diretor americano, duas vezes ganhador do Oscar por Filadélfia (1993) e Forrest Gump (1994). É um dos atores mais rentáveis e respeitados da história do cinema de Hollywood.",
+        "year": 1956
+      },
+      {
+        "name": "Elias Howe",
+        "description": "Inventor americano que patenteou em 1846 a primeira máquina de costura prática com agulha de olho na ponta, revolucionando a indústria têxtil e a confecção de roupas.",
+        "year": 1819
+      }
+    ],
+    "events": [
+      {
+        "title": "Argentina declara independência",
+        "description": "Em 9 de julho de 1816, o Congresso de Tucumán proclamou a independência das Províncias Unidas do Rio da Prata do Império Espanhol, dando origem ao que hoje é a Argentina.",
+        "year": 1816
+      },
+      {
+        "title": "Sudão do Sul torna-se independente",
+        "description": "Em 9 de julho de 2011, o Sudão do Sul proclamou a sua independência do Sudão após décadas de guerra civil, tornando-se o estado soberano mais novo do mundo.",
+        "year": 2011
+      },
+      {
+        "title": "Torre Eiffel abre ao público",
+        "description": "Em 9 de julho de 1889, a Torre Eiffel, construída para a Exposição Universal de Paris, foi oficialmente aberta ao público. Foi o edifício mais alto do mundo até 1930.",
+        "year": 1889
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant August Chapdelaine",
+        "type": "Sacerdot i Màrtir",
+        "description": "Missioner francès de les Missions Estrangeres de París, torturat i decapitat a la Xina el 1856. Beatificat el 1900 i canonitzat el 2000 juntament amb els 120 Màrtirs de la Xina."
+      },
+      {
+        "name": "Beats Màrtirs de Gorcum",
+        "type": "Màrtirs",
+        "description": "Grup de dinou sacerdots franciscans, dominics i agustins executats a Brielle (Holanda) el 9 de juliol de 1572 pels 'captaires del mar' calvinistes. La seva festa se celebra avui al calendari oficial."
+      },
+      {
+        "name": "Sant Zenó de Verona",
+        "type": "Bisbe",
+        "description": "Bisbe africà de Verona al segle IV, conegut pels seus sermons i la lluita contra el paganisme residual. És patró dels pescadors i de la ciutat de Verona."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència de l'Argentina",
+        "description": "L'Argentina celebra la Declaració d'Independència del domini espanyol, proclamada al Congrés de Tucumán el 9 de juliol de 1816. És la data més solemne del calendari nacional argentí."
+      },
+      {
+        "name": "Dia de la Independència del Sudan del Sud",
+        "description": "El Sudan del Sud celebra la seva independència del Sudan, proclamada el 9 de juliol de 2011, convertint-se en l'estat sobirà més jove del món."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La pàtria no és el lloc on naixem, sinó el lloc pel qual morim.",
+      "author": "José de San Martín",
+      "context": "El 9 de juliol de 1816, el Congrés de Tucumán va declarar la independència de l'Argentina. San Martín, alliberador de l'Argentina, Xile i el Perú, va dedicar la seva vida a l'emancipació llatinoamericana."
+    },
+    "motivationalQuote": {
+      "text": "L'única manera de fer un gran treball és estimar el que fas.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Nikola Tesla",
+        "description": "Inventor i enginyer elèctric serbio-americà que va desenvolupar el sistema de corrent altern (CA), el motor d'inducció i la bobina de Tesla. Les seves invencions són la base de l'electricitat moderna.",
+        "year": 1856
+      },
+      {
+        "name": "Tom Hanks",
+        "description": "Actor i director americà, dues vegades guanyador de l'Oscar per Filadelfia (1993) i Forrest Gump (1994). És un dels actors amb més taquilla i més respectats de la història del cinema de Hollywood.",
+        "year": 1956
+      },
+      {
+        "name": "Elias Howe",
+        "description": "Inventor americà que va patentar el 1846 la primera màquina de cosir pràctica amb agulla d'ull a la punta, revolucionant la indústria tèxtil i la confecció de roba.",
+        "year": 1819
+      }
+    ],
+    "events": [
+      {
+        "title": "L'Argentina declara la independència",
+        "description": "El 9 de juliol de 1816, el Congrés de Tucumán va proclamar la independència de les Províncies Unides del Riu de la Plata de l'Imperi Espanyol, donant origen al que avui és l'Argentina.",
+        "year": 1816
+      },
+      {
+        "title": "El Sudan del Sud es converteix en independent",
+        "description": "El 9 de juliol de 2011, el Sudan del Sud va proclamar la seva independència del Sudan després de dècades de guerra civil, convertint-se en l'estat sobirà més nou del món.",
+        "year": 2011
+      },
+      {
+        "title": "La Torre Eiffel obre al públic",
+        "description": "El 9 de juliol de 1889, la Torre Eiffel, construïda per a l'Exposició Universal de París, va ser oberta oficialment al públic. Va ser l'edifici més alt del món fins al 1930.",
+        "year": 1889
+      }
+    ]
+  }
+}

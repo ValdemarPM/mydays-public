@@ -1,0 +1,255 @@
+{
+  "date": "2026-01-20",
+  "es": {
+    "saints": [
+      {
+        "name": "San Fabián Papa",
+        "type": "Papa y Mártir",
+        "description": "Papa del siglo III (236–250), martirizado durante la persecución de Decio. Según Eusebio de Cesarea, fue elegido papa de forma milagrosa cuando una paloma se posó sobre su cabeza."
+      },
+      {
+        "name": "San Sebastián",
+        "type": "Mártir",
+        "description": "Oficial de la guardia imperial romana del siglo III, mártir cristiano bajo el emperador Diocleciano. Patrono de los soldados, los arqueros y los atletas. Su martirio es uno de los temas más representados en el arte cristiano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de San Sebastián",
+        "description": "Festividad religiosa en honor a San Sebastián, celebrada con especial devoción en muchas ciudades de España, Italia y América Latina."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Pide no que las cargas sean más ligeras, sino que tengas espaldas más fuertes.",
+      "author": "Theodore Roosevelt",
+      "context": "26.º presidente de los Estados Unidos (nacido el 27 de octubre de 1858), conocido por su energía y voluntad. Esta cita refleja su filosofía de resiliencia ante las dificultades de la vida."
+    },
+    "motivationalQuote": {
+      "text": "El único límite para nuestra realización del mañana son nuestras dudas de hoy.",
+      "author": "Franklin D. Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Federico Fellini",
+        "description": "Director de cine italiano, uno de los cineastas más influyentes de la historia. Autor de obras maestras como La dolce vita, 8½ y Amarcord, ganador de cuatro Óscars honoríficos.",
+        "year": 1920
+      },
+      {
+        "name": "Buzz Aldrin",
+        "description": "Astronauta estadounidense, segunda persona en caminar sobre la Luna durante la misión Apolo 11 en julio de 1969.",
+        "year": 1930
+      },
+      {
+        "name": "David Lynch",
+        "description": "Director de cine y artista visual estadounidense, conocido por su estilo surrealista y perturbador en películas como Terciopelo azul, Mulholland Drive y la serie Twin Peaks.",
+        "year": 1946
+      }
+    ],
+    "events": [
+      {
+        "title": "Inauguración de John F. Kennedy como presidente",
+        "description": "John F. Kennedy tomó posesión como 35.º presidente de los Estados Unidos y pronunció su célebre discurso inaugural: «No preguntes qué puede hacer tu país por ti; pregunta qué puedes hacer tú por tu país».",
+        "year": 1961
+      },
+      {
+        "title": "Inauguración de Barack Obama",
+        "description": "Barack Obama tomó posesión como 44.º presidente de los Estados Unidos, convirtiéndose en el primer afroamericano en ocupar la Casa Blanca.",
+        "year": 2009
+      },
+      {
+        "title": "Se firma el Tratado de Westfalia",
+        "description": "El Tratado de Westfalia puso fin a la Guerra de los Treinta Años y estableció los principios modernos de soberanía nacional y no intervención en los asuntos internos de otros estados.",
+        "year": 1648
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Fabian, Pope",
+        "type": "Pope and Martyr",
+        "description": "Pope of the 3rd century (236–250), martyred during the persecution of Decius. According to Eusebius of Caesarea, he was chosen pope miraculously when a dove landed on his head."
+      },
+      {
+        "name": "Saint Sebastian",
+        "type": "Martyr",
+        "description": "Officer of the Roman imperial guard in the 3rd century, Christian martyr under Emperor Diocletian. Patron of soldiers, archers and athletes. His martyrdom is one of the most depicted themes in Christian art."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Feast of Saint Sebastian",
+        "description": "Religious feast in honour of Saint Sebastian, celebrated with particular devotion in many cities across Spain, Italy and Latin America."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Do not pray for easy lives. Pray to be stronger men.",
+      "author": "Theodore Roosevelt",
+      "context": "26th President of the United States (born 27 October 1858), known for his energy and willpower. This quote reflects his philosophy of resilience in the face of life's difficulties."
+    },
+    "motivationalQuote": {
+      "text": "The only limit to our realisation of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Federico Fellini",
+        "description": "Italian film director, one of the most influential filmmakers in history. Creator of masterpieces such as La Dolce Vita, 8½ and Amarcord, winner of four Honorary Oscars.",
+        "year": 1920
+      },
+      {
+        "name": "Buzz Aldrin",
+        "description": "American astronaut, the second person to walk on the Moon during the Apollo 11 mission in July 1969.",
+        "year": 1930
+      },
+      {
+        "name": "David Lynch",
+        "description": "American film director and visual artist, known for his surreal and disturbing style in films such as Blue Velvet, Mulholland Drive and the TV series Twin Peaks.",
+        "year": 1946
+      }
+    ],
+    "events": [
+      {
+        "title": "John F. Kennedy inaugurated as President",
+        "description": "John F. Kennedy was inaugurated as the 35th President of the United States and delivered his famous inaugural address: 'Ask not what your country can do for you; ask what you can do for your country.'",
+        "year": 1961
+      },
+      {
+        "title": "Barack Obama inaugurated as President",
+        "description": "Barack Obama was inaugurated as the 44th President of the United States, becoming the first African American to occupy the White House.",
+        "year": 2009
+      },
+      {
+        "title": "Peace of Westphalia signed",
+        "description": "The Treaty of Westphalia ended the Thirty Years' War and established the modern principles of national sovereignty and non-interference in other states' internal affairs.",
+        "year": 1648
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Fabiano, Papa",
+        "type": "Papa e Mártir",
+        "description": "Papa do século III (236–250), martirizado durante a perseguição de Décio. Segundo Eusébio de Cesareia, foi escolhido papa de forma milagrosa quando uma pomba pousou sobre sua cabeça."
+      },
+      {
+        "name": "São Sebastião",
+        "type": "Mártir",
+        "description": "Oficial da guarda imperial romana do século III, mártir cristão sob o imperador Diocleciano. Padroeiro dos soldados, arqueiros e atletas. Seu martírio é um dos temas mais representados na arte cristã."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Festa de São Sebastião",
+        "description": "Festividade religiosa em honra a São Sebastião, celebrada com especial devoção em muitas cidades da Espanha, Itália e América Latina."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Não peça que os fardos sejam mais leves, mas que tenha ombros mais fortes.",
+      "author": "Theodore Roosevelt",
+      "context": "26.º presidente dos Estados Unidos (nascido em 27 de outubro de 1858), conhecido por sua energia e força de vontade. Esta citação reflete sua filosofia de resiliência diante das dificuldades da vida."
+    },
+    "motivationalQuote": {
+      "text": "O único limite para a realização do nosso amanhã serão as nossas dúvidas de hoje.",
+      "author": "Franklin D. Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Federico Fellini",
+        "description": "Diretor de cinema italiano, um dos cineastas mais influentes da história. Criador de obras-primas como A Doce Vida, 8½ e Amarcord, vencedor de quatro Oscars honorários.",
+        "year": 1920
+      },
+      {
+        "name": "Buzz Aldrin",
+        "description": "Astronauta americano, a segunda pessoa a caminhar na Lua durante a missão Apollo 11 em julho de 1969.",
+        "year": 1930
+      },
+      {
+        "name": "David Lynch",
+        "description": "Diretor de cinema e artista visual americano, conhecido por seu estilo surrealista e perturbador em filmes como Veludo Azul, Mulholland Drive e a série Twin Peaks.",
+        "year": 1946
+      }
+    ],
+    "events": [
+      {
+        "title": "John F. Kennedy empossado como presidente",
+        "description": "John F. Kennedy tomou posse como 35.º presidente dos Estados Unidos e pronunciou seu célebre discurso inaugural: «Não pergunte o que o seu país pode fazer por você; pergunte o que você pode fazer pelo seu país».",
+        "year": 1961
+      },
+      {
+        "title": "Barack Obama empossado como presidente",
+        "description": "Barack Obama tomou posse como 44.º presidente dos Estados Unidos, tornando-se o primeiro afro-americano a ocupar a Casa Branca.",
+        "year": 2009
+      },
+      {
+        "title": "Paz de Vestfália assinada",
+        "description": "O Tratado de Vestfália pôs fim à Guerra dos Trinta Anos e estabeleceu os princípios modernos de soberania nacional e não intervenção nos assuntos internos de outros estados.",
+        "year": 1648
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Fabià, Papa",
+        "type": "Papa i Màrtir",
+        "description": "Papa del segle III (236–250), martiritzat durant la persecució de Deci. Segons Eusebi de Cesarea, va ser elegit papa de forma miraculosa quan un colom es va posar sobre el seu cap."
+      },
+      {
+        "name": "Sant Sebastià",
+        "type": "Màrtir",
+        "description": "Oficial de la guàrdia imperial romana del segle III, màrtir cristià sota l'emperador Dioclecià. Patró dels soldats, els arquers i els atletes. El seu martiri és un dels temes més representats en l'art cristià."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Festa de Sant Sebastià",
+        "description": "Festivitat religiosa en honor a Sant Sebastià, celebrada amb especial devoció en moltes ciutats d'Espanya, Itàlia i Amèrica Llatina."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No demanis que les càrregues siguin més lleugeres, sinó que tinguis les espatlles més fortes.",
+      "author": "Theodore Roosevelt",
+      "context": "26è president dels Estats Units (nascut el 27 d'octubre de 1858), conegut per la seva energia i voluntat. Aquesta cita reflecteix la seva filosofia de resiliència davant les dificultats de la vida."
+    },
+    "motivationalQuote": {
+      "text": "L'únic límit per a la realització del nostre demà seran els nostres dubtes d'avui.",
+      "author": "Franklin D. Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Federico Fellini",
+        "description": "Director de cinema italià, un dels cineastes més influents de la història. Creador d'obres mestres com La dolce vita, 8½ i Amarcord, guanyador de quatre Òscars honorífics.",
+        "year": 1920
+      },
+      {
+        "name": "Buzz Aldrin",
+        "description": "Astronauta nord-americà, la segona persona a caminar a la Lluna durant la missió Apol·lo 11 el juliol de 1969.",
+        "year": 1930
+      },
+      {
+        "name": "David Lynch",
+        "description": "Director de cinema i artista visual nord-americà, conegut pel seu estil surrealista i pertorbador en pel·lícules com Vellut blau, Mulholland Drive i la sèrie Twin Peaks.",
+        "year": 1946
+      }
+    ],
+    "events": [
+      {
+        "title": "John F. Kennedy investit com a president",
+        "description": "John F. Kennedy va prendre possessió com a 35è president dels Estats Units i va pronunciar el seu cèlebre discurs inaugural: «No preguntis el que el teu país pot fer per tu; pregunta el que tu pots fer pel teu país».",
+        "year": 1961
+      },
+      {
+        "title": "Barack Obama investit com a president",
+        "description": "Barack Obama va prendre possessió com a 44è president dels Estats Units, convertint-se en el primer afroamericà a ocupar la Casa Blanca.",
+        "year": 2009
+      },
+      {
+        "title": "Pau de Westfàlia signada",
+        "description": "El Tractat de Westfàlia va posar fi a la Guerra dels Trenta Anys i va establir els principis moderns de sobirania nacional i no ingerència en els afers interns d'altres estats.",
+        "year": 1648
+      }
+    ]
+  }
+}

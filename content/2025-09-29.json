@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-29",
+  "es": {
+    "saints": [
+      {
+        "name": "San Miguel Arcángel",
+        "type": "Arcángel",
+        "description": "Jefe de las milicias celestiales y protector de Israel en el Antiguo Testamento. En el Nuevo Testamento lucha contra el dragón en el Apocalipsis. Su nombre en hebreo significa «¿Quién como Dios?». Es patrono de los militares, policías y paramédicos, y de la Iglesia Universal."
+      },
+      {
+        "name": "San Gabriel Arcángel",
+        "type": "Arcángel",
+        "description": "Mensajero divino que anunció a la Virgen María la Encarnación del Hijo de Dios. También apareció a Daniel en el Antiguo Testamento y a Zacarías para anunciar el nacimiento de Juan el Bautista. Patrono de las telecomunicaciones y los mensajeros."
+      },
+      {
+        "name": "San Rafael Arcángel",
+        "type": "Arcángel",
+        "description": "Arcángel sanador mencionado en el libro de Tobías, donde guía al joven Tobías y cura la ceguera de su padre. Su nombre significa «Dios sana». Es patrono de los médicos, enfermeros, farmacéuticos y viajeros."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Corazón",
+        "description": "Promovido por la Federación Mundial del Corazón con el apoyo de la OMS, se celebra el 29 de septiembre para concienciar sobre las enfermedades cardiovasculares, primera causa de muerte en el mundo, y fomentar hábitos saludables."
+      },
+      {
+        "name": "Fiesta de los Arcángeles (Michaelmas)",
+        "description": "Solemnidad de los santos arcángeles Miguel, Gabriel y Rafael, celebrada en la tradición cristiana occidental. La fiesta de Michaelmas era en la Edad Media una importante fecha del calendario civil y agrícola en Inglaterra."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La música da alas a la mente, vuelo a la imaginación, y vida a todo.",
+      "author": "Platón",
+      "context": "El filósofo griego nacido en Atenas hacia el año 428 a.C. atribuyó a la música un poder extraordinario sobre el alma humana. Esta cita resume su visión de la música como elemento fundamental en la formación del carácter."
+    },
+    "motivationalQuote": {
+      "text": "El corazón tiene razones que la razón no conoce.",
+      "author": "Blaise Pascal"
+    },
+    "births": [
+      {
+        "name": "Miguel de Cervantes",
+        "description": "Escritor español, autor de El ingenioso hidalgo don Quijote de la Mancha (1605–1615), considerada la primera novela moderna y la obra cumbre de la literatura en lengua española. Sirvió como soldado y fue cautivo en Argel durante cinco años.",
+        "year": 1547
+      },
+      {
+        "name": "Lech Wałęsa",
+        "description": "Sindicalista y político polaco, fundador del sindicato Solidarność (Solidaridad) en 1980. Lideró la resistencia pacífica contra el régimen comunista y fue Premio Nobel de la Paz en 1983. Presidió Polonia entre 1990 y 1995.",
+        "year": 1943
+      },
+      {
+        "name": "Emily Lloyd",
+        "description": "Actriz británica conocida por su interpretación en Wish You Were Here (1987), papel por el que fue nominada a numerosos premios BAFTA y considerada una de las grandes promesas del cine británico de los años ochenta.",
+        "year": 1970
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundación del Parlamento Europeo",
+        "description": "La Asamblea Parlamentaria Europea, germen del actual Parlamento Europeo, celebró su primera sesión constitutiva en Estrasburgo. Fue creada en 1952 por el Tratado de París, pero el nombre oficial de «Parlamento Europeo» se adoptó en 1962.",
+        "year": 1952
+      },
+      {
+        "title": "Fin del sitio de Madrid — Guerra Civil Española",
+        "description": "Las tropas del bando nacional iniciaron el sitio de Madrid, que duraría casi tres años hasta el fin de la Guerra Civil en 1939. La capital resistió uno de los asedios más largos de la historia moderna de Europa.",
+        "year": 1936
+      },
+      {
+        "title": "Primer número de The New Yorker",
+        "description": "Se publicó el primer número de la revista The New Yorker, fundada por Harold Ross, que se convertiría en una de las publicaciones literarias y culturales más influyentes en lengua inglesa del siglo XX.",
+        "year": 1925
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Michael the Archangel",
+        "type": "Archangel",
+        "description": "Commander of the heavenly armies and protector of Israel in the Old Testament. In the New Testament he battles the dragon in the Book of Revelation. His name in Hebrew means 'Who is like God?'. He is patron of soldiers, police, and paramedics, and of the Universal Church."
+      },
+      {
+        "name": "Saint Gabriel the Archangel",
+        "type": "Archangel",
+        "description": "Divine messenger who announced to the Virgin Mary the Incarnation of the Son of God. He also appeared to Daniel in the Old Testament and to Zechariah to announce the birth of John the Baptist. Patron of telecommunications and messengers."
+      },
+      {
+        "name": "Saint Raphael the Archangel",
+        "type": "Archangel",
+        "description": "The healing archangel mentioned in the Book of Tobit, where he guides young Tobias and cures his father's blindness. His name means 'God heals'. He is patron of doctors, nurses, pharmacists, and travellers."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Heart Day",
+        "description": "Promoted by the World Heart Federation with WHO support, celebrated on 29 September to raise awareness about cardiovascular diseases, the world's leading cause of death, and encourage healthy habits."
+      },
+      {
+        "name": "Feast of the Archangels (Michaelmas)",
+        "description": "The solemnity of the holy archangels Michael, Gabriel, and Raphael, celebrated in the Western Christian tradition. In the Middle Ages, Michaelmas was an important date in the civil and agricultural calendar in England."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Music gives a soul to the universe, wings to the mind, flight to the imagination, and life to everything.",
+      "author": "Plato",
+      "context": "The Greek philosopher born in Athens around 428 BC attributed extraordinary power to music over the human soul. This quote encapsulates his vision of music as a fundamental element in the formation of character."
+    },
+    "motivationalQuote": {
+      "text": "The heart has reasons that reason cannot know.",
+      "author": "Blaise Pascal"
+    },
+    "births": [
+      {
+        "name": "Miguel de Cervantes",
+        "description": "Spanish writer, author of Don Quixote (1605–1615), considered the first modern novel and the pinnacle of Spanish-language literature. He served as a soldier and was held captive in Algiers for five years.",
+        "year": 1547
+      },
+      {
+        "name": "Lech Wałęsa",
+        "description": "Polish trade unionist and politician, founder of the Solidarność (Solidarity) trade union in 1980. He led peaceful resistance against the communist regime and was awarded the Nobel Peace Prize in 1983. He served as President of Poland from 1990 to 1995.",
+        "year": 1943
+      },
+      {
+        "name": "Emily Lloyd",
+        "description": "British actress known for her performance in Wish You Were Here (1987), for which she received multiple BAFTA nominations and was considered one of the great talents of British cinema in the 1980s.",
+        "year": 1970
+      }
+    ],
+    "events": [
+      {
+        "title": "Foundation of the European Parliamentary Assembly",
+        "description": "The European Parliamentary Assembly, forerunner of today's European Parliament, held its first constitutive session in Strasbourg. Created in 1952 by the Treaty of Paris, the name 'European Parliament' was officially adopted in 1962.",
+        "year": 1952
+      },
+      {
+        "title": "Siege of Madrid begins — Spanish Civil War",
+        "description": "Nationalist troops began the siege of Madrid, which would last almost three years until the end of the Civil War in 1939. The capital endured one of the longest sieges in modern European history.",
+        "year": 1936
+      },
+      {
+        "title": "First issue of The New Yorker",
+        "description": "The first issue of The New Yorker magazine, founded by Harold Ross, was published. It would become one of the most influential literary and cultural publications in the English language of the 20th century.",
+        "year": 1925
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Miguel Arcanjo",
+        "type": "Arcanjo",
+        "description": "Comandante das milícias celestiais e protetor de Israel no Antigo Testamento. No Novo Testamento luta contra o dragão no Apocalipse. O seu nome em hebraico significa 'Quem é como Deus?'. É patrono dos militares, policiais e paramédicos, e da Igreja Universal."
+      },
+      {
+        "name": "São Gabriel Arcanjo",
+        "type": "Arcanjo",
+        "description": "Mensageiro divino que anunciou à Virgem Maria a Encarnação do Filho de Deus. Também apareceu a Daniel no Antigo Testamento e a Zacarias para anunciar o nascimento de João Batista. Patrono das telecomunicações e dos mensageiros."
+      },
+      {
+        "name": "São Rafael Arcanjo",
+        "type": "Arcanjo",
+        "description": "O arcanjo curador mencionado no livro de Tobias, onde guia o jovem Tobias e cura a cegueira do seu pai. O seu nome significa 'Deus cura'. É patrono dos médicos, enfermeiros, farmacêuticos e viajantes."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial do Coração",
+        "description": "Promovido pela Federação Mundial do Coração com o apoio da OMS, celebrado a 29 de setembro para consciencializar sobre as doenças cardiovasculares, a principal causa de morte no mundo, e promover hábitos saudáveis."
+      },
+      {
+        "name": "Festa dos Arcanjos (Michaelmas)",
+        "description": "A solenidade dos santos arcanjos Miguel, Gabriel e Rafael, celebrada na tradição cristã ocidental. Na Idade Média, o Michaelmas era uma data importante no calendário civil e agrícola em Inglaterra."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A música dá asas à mente, voo à imaginação, e vida a tudo.",
+      "author": "Platão",
+      "context": "O filósofo grego nascido em Atenas por volta de 428 a.C. atribuiu à música um poder extraordinário sobre a alma humana. Esta citação resume a sua visão da música como elemento fundamental na formação do carácter."
+    },
+    "motivationalQuote": {
+      "text": "O coração tem razões que a razão desconhece.",
+      "author": "Blaise Pascal"
+    },
+    "births": [
+      {
+        "name": "Miguel de Cervantes",
+        "description": "Escritor espanhol, autor de Dom Quixote (1605–1615), considerado o primeiro romance moderno e a obra-prima da literatura em língua espanhola. Serviu como soldado e foi cativo em Argel durante cinco anos.",
+        "year": 1547
+      },
+      {
+        "name": "Lech Wałęsa",
+        "description": "Sindicalista e político polaco, fundador do sindicato Solidarność (Solidariedade) em 1980. Liderou a resistência pacífica contra o regime comunista e recebeu o Prêmio Nobel da Paz em 1983. Presidiu a Polónia entre 1990 e 1995.",
+        "year": 1943
+      },
+      {
+        "name": "Emily Lloyd",
+        "description": "Atriz britânica conhecida pela sua interpretação em Wish You Were Here (1987), papel pelo qual recebeu múltiplas nomeações ao BAFTA e foi considerada um dos grandes talentos do cinema britânico dos anos oitenta.",
+        "year": 1970
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundação da Assembleia Parlamentar Europeia",
+        "description": "A Assembleia Parlamentar Europeia, precursora do atual Parlamento Europeu, realizou a sua primeira sessão constitutiva em Estrasburgo. Criada em 1952 pelo Tratado de Paris, o nome 'Parlamento Europeu' foi adotado oficialmente em 1962.",
+        "year": 1952
+      },
+      {
+        "title": "Início do Cerco de Madrid — Guerra Civil Espanhola",
+        "description": "As tropas nacionalistas iniciaram o cerco de Madrid, que duraria quase três anos até ao fim da Guerra Civil em 1939. A capital suportou um dos cercos mais longos da história moderna da Europa.",
+        "year": 1936
+      },
+      {
+        "title": "Primeiro número de The New Yorker",
+        "description": "Foi publicado o primeiro número da revista The New Yorker, fundada por Harold Ross. Tornar-se-ia uma das publicações literárias e culturais mais influentes em língua inglesa do século XX.",
+        "year": 1925
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Miquel Arcàngel",
+        "type": "Arcàngel",
+        "description": "Comandant de les milícies celestials i protector d'Israel a l'Antic Testament. Al Nou Testament lluitacontra el drac a l'Apocalipsi. El seu nom en hebreu significa 'Qui és com Déu?'. És patró dels militars, policies i paramèdics, i de l'Església Universal."
+      },
+      {
+        "name": "Sant Gabriel Arcàngel",
+        "type": "Arcàngel",
+        "description": "Missatger diví que va anunciar a la Verge Maria l'Encarnació del Fill de Déu. També va aparèixer a Daniel a l'Antic Testament i a Zacaries per anunciar el naixement de Joan el Baptista. Patró de les telecomunicacions i els missatgers."
+      },
+      {
+        "name": "Sant Rafael Arcàngel",
+        "type": "Arcàngel",
+        "description": "L'arcàngel curador esmentat en el llibre de Tobies, on guia el jove Tobies i cura la ceguesa del seu pare. El seu nom significa 'Déu guareix'. És patró dels metges, infermers, farmacèutics i viatgers."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial del Cor",
+        "description": "Promogut per la Federació Mundial del Cor amb el suport de l'OMS, celebrat el 29 de setembre per conscienciar sobre les malalties cardiovasculars, la primera causa de mort al món, i fomentar hàbits saludables."
+      },
+      {
+        "name": "Festa dels Arcàngels (Michaelmas)",
+        "description": "La solemnitat dels sants arcàngels Miquel, Gabriel i Rafael, celebrada en la tradició cristiana occidental. A l'Edat Mitjana, el Michaelmas era una data important en el calendari civil i agrícola a Anglaterra."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La música dóna ales a la ment, vol a la imaginació i vida a tot.",
+      "author": "Plató",
+      "context": "El filòsof grec nascut a Atenes cap al 428 aC va atribuir a la música un poder extraordinari sobre l'ànima humana. Aquesta cita resumeix la seva visió de la música com a element fonamental en la formació del caràcter."
+    },
+    "motivationalQuote": {
+      "text": "El cor té raons que la raó desconeix.",
+      "author": "Blaise Pascal"
+    },
+    "births": [
+      {
+        "name": "Miguel de Cervantes",
+        "description": "Escriptor espanyol, autor de Don Quixot de la Manxa (1605–1615), considerat el primer novel·la moderna i l'obra mestra de la literatura en llengua castellana. Va servir com a soldat i va ser captiu a Alger durant cinc anys.",
+        "year": 1547
+      },
+      {
+        "name": "Lech Wałęsa",
+        "description": "Sindicalista i polític polonès, fundador del sindicat Solidarność (Solidaritat) el 1980. Va liderar la resistència pacífica contra el règim comunista i va rebre el Premi Nobel de la Pau el 1983. Va presidir Polònia entre 1990 i 1995.",
+        "year": 1943
+      },
+      {
+        "name": "Emily Lloyd",
+        "description": "Actriu britànica coneguda per la seva interpretació a Wish You Were Here (1987), paper pel qual va rebre múltiples nominacions als BAFTA i va ser considerada un dels grans talents del cinema britànic dels anys vuitanta.",
+        "year": 1970
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundació de l'Assemblea Parlamentària Europea",
+        "description": "L'Assemblea Parlamentària Europea, precursora de l'actual Parlament Europeu, va celebrar la seva primera sessió constitutiva a Estrasburg. Creada el 1952 pel Tractat de París, el nom 'Parlament Europeu' es va adoptar oficialment el 1962.",
+        "year": 1952
+      },
+      {
+        "title": "Inici del setge de Madrid — Guerra Civil Espanyola",
+        "description": "Les tropes nacionals van iniciar el setge de Madrid, que duraria gairebé tres anys fins al final de la Guerra Civil el 1939. La capital va aguantar un dels setges més llargs de la història moderna d'Europa.",
+        "year": 1936
+      },
+      {
+        "title": "Primer número de The New Yorker",
+        "description": "Es va publicar el primer número de la revista The New Yorker, fundada per Harold Ross. Es convertiria en una de les publicacions literàries i culturals més influents en llengua anglesa del segle XX.",
+        "year": 1925
+      }
+    ]
+  }
+}

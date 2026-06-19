@@ -1,0 +1,271 @@
+{
+  "date": "2025-06-30",
+  "es": {
+    "saints": [
+      {
+        "name": "Los Santos Primeros Mártires de la Iglesia de Roma",
+        "type": "Mártires",
+        "description": "Conmemoración colectiva de los cristianos que fueron martirizados en Roma por orden del emperador Nerón tras el gran incendio del año 64 d.C. Fueron acusados falsamente de haber provocado el siniestro. Entre ellos se encontraban personas de todas las clases sociales, desde esclavos hasta nobles, y su testimonio fue fundamental para el arraigo del cristianismo en la capital del Imperio."
+      },
+      {
+        "name": "San Marcial de Limoges",
+        "type": "Obispo",
+        "description": "Primer obispo de Limoges, enviado según la tradición por San Pedro para evangelizar la Galia. Fundó la primera comunidad cristiana de Aquitania y se le considera uno de los apóstoles de las Galias, aunque la historicidad de algunos detalles de su vida es objeto de debate entre los historiadores."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de la República Democrática del Congo",
+        "description": "El 30 de junio de 1960, el Congo Belga proclamó su independencia de Bélgica, convirtiéndose en la República del Congo. Hoy es la República Democrática del Congo, el mayor país de África subsahariana y uno de los más ricos en recursos naturales del mundo."
+      },
+      {
+        "name": "Día Internacional de los Asteroides",
+        "description": "Proclamado por la ONU para concienciar sobre los riesgos de impacto de asteroides y la importancia de la investigación y detección temprana. Se celebra el 30 de junio en recuerdo del impacto de Tunguska (Siberia) ocurrido en esa fecha en 1908, el mayor evento de impacto de la historia reciente."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El valor de una nación no consiste en ser libre, sino en ser justa.",
+      "author": "Victor Hugo",
+      "context": "Victor Hugo, escritor y humanista francés que defendió la libertad de los pueblos colonizados en sus últimos años, reflexión especialmente pertinente en el aniversario de la independencia del Congo."
+    },
+    "motivationalQuote": {
+      "text": "La vida no se mide por el número de respiraciones que tomamos, sino por los momentos que nos quitan el aliento.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Czesław Miłosz",
+        "description": "Poeta, novelista y ensayista polaco-estadounidense, Premio Nobel de Literatura en 1980. Exiliado primero por los nazis y luego por el régimen comunista, su obra explora la memoria, la historia y la búsqueda de verdad en tiempos de barbarie. Su ensayo 'El pensamiento cautivo' es un análisis sin igual del totalitarismo.",
+        "year": 1911
+      },
+      {
+        "name": "Lena Horne",
+        "description": "Cantante y actriz afroamericana que fue una de las primeras artistas negras en firmar un contrato a largo plazo con un gran estudio de Hollywood (MGM). Activista por los derechos civiles, su carrera abarcó siete décadas y su voz inconfundible la convirtió en un ícono del jazz y el blues.",
+        "year": 1917
+      },
+      {
+        "name": "Michael Phelps",
+        "description": "Nadador estadounidense, el deportista olímpico más laureado de la historia con 28 medallas, 23 de ellas de oro. Dominó la natación internacional durante más de una década y es considerado el mejor nadador de todos los tiempos. Ha sido también un referente en la visibilización de la salud mental en el deporte de élite.",
+        "year": 1985
+      }
+    ],
+    "events": [
+      {
+        "title": "Evento de Tunguska",
+        "description": "El 30 de junio de 1908, una explosión de origen cósmico devastó más de 2.000 kilómetros cuadrados de taiga siberiana en la región de Tunguska. Fue el impacto de un meteorito o cometa más potente en la historia registrada, equivalente a más de 1.000 bombas de Hiroshima. Por fortuna, cayó en una zona deshabitada.",
+        "year": 1908
+      },
+      {
+        "title": "Independencia de la República Democrática del Congo",
+        "description": "El 30 de junio de 1960, el Congo Belga se convirtió en la República del Congo, bajo la presidencia de Joseph Kasavubu y con Patrice Lumumba como primer ministro. La independencia fue turbulenta y Lumumba fue asesinado apenas siete meses después en circunstancias que implicaron a potencias extranjeras.",
+        "year": 1960
+      },
+      {
+        "title": "España proclama la Constitución de 1876",
+        "description": "El 30 de junio de 1876 entró en vigor la Constitución española de 1876, la de mayor duración de la historia de España con casi cincuenta años de vigencia. Estableció la monarquía constitucional bajo Alfonso XII y el sistema de turnismo entre liberales y conservadores del periodo de la Restauración.",
+        "year": 1876
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "The First Martyrs of the Church of Rome",
+        "type": "Martyrs",
+        "description": "A collective commemoration of the Christians martyred in Rome by order of Emperor Nero after the great fire of 64 AD. They were falsely accused of having started the blaze. Among them were people of all social classes, from slaves to nobles, and their witness was pivotal to the rooting of Christianity in the capital of the Empire."
+      },
+      {
+        "name": "Saint Martial of Limoges",
+        "type": "Bishop",
+        "description": "The first bishop of Limoges, sent according to tradition by Saint Peter to evangelize Gaul. He founded the first Christian community in Aquitaine and is considered one of the apostles of the Gauls, though the historicity of some details of his life is debated by historians."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Independence Day of the Democratic Republic of the Congo",
+        "description": "On June 30, 1960, the Belgian Congo proclaimed independence from Belgium, becoming the Republic of the Congo. Today it is the Democratic Republic of the Congo, the largest country in sub-Saharan Africa and one of the world's richest in natural resources."
+      },
+      {
+        "name": "International Asteroid Day",
+        "description": "Proclaimed by the UN to raise awareness of asteroid impact risks and the importance of research and early detection. It is observed on June 30 in memory of the Tunguska impact in Siberia on that date in 1908 — the largest impact event in recent history."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The value of a nation is not in being free, but in being just.",
+      "author": "Victor Hugo",
+      "context": "Victor Hugo, French writer and humanist who championed the freedom of colonized peoples in his later years — a reflection especially pertinent on the anniversary of Congo's independence."
+    },
+    "motivationalQuote": {
+      "text": "Life is not measured by the number of breaths we take, but by the moments that take our breath away.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Czesław Miłosz",
+        "description": "Polish-American poet, novelist, and essayist, Nobel Prize in Literature in 1980. Exiled first by the Nazis and then by the communist regime, his work explores memory, history, and the search for truth in times of barbarism. His essay 'The Captive Mind' is an unparalleled analysis of totalitarianism.",
+        "year": 1911
+      },
+      {
+        "name": "Lena Horne",
+        "description": "African American singer and actress who was one of the first Black artists to sign a long-term contract with a major Hollywood studio (MGM). A civil rights activist, her career spanned seven decades and her unmistakable voice made her an icon of jazz and blues.",
+        "year": 1917
+      },
+      {
+        "name": "Michael Phelps",
+        "description": "American swimmer, the most decorated Olympic athlete in history with 28 medals, 23 of them gold. He dominated international swimming for more than a decade and is considered the greatest swimmer of all time. He has also been a leading voice in raising awareness of mental health in elite sport.",
+        "year": 1985
+      }
+    ],
+    "events": [
+      {
+        "title": "The Tunguska Event",
+        "description": "On June 30, 1908, a cosmic explosion devastated more than 2,000 square kilometres of Siberian taiga in the Tunguska region. It was the most powerful meteorite or comet impact in recorded history, equivalent to more than 1,000 Hiroshima bombs. Fortunately, it fell over an uninhabited area.",
+        "year": 1908
+      },
+      {
+        "title": "Independence of the Democratic Republic of the Congo",
+        "description": "On June 30, 1960, the Belgian Congo became the Republic of the Congo, with Joseph Kasavubu as president and Patrice Lumumba as prime minister. The independence was turbulent and Lumumba was assassinated just seven months later in circumstances that implicated foreign powers.",
+        "year": 1960
+      },
+      {
+        "title": "Spain Enacts the Constitution of 1876",
+        "description": "On June 30, 1876, Spain's Constitution of 1876 entered into force — the longest-lasting in Spanish history, with nearly fifty years of validity. It established a constitutional monarchy under Alfonso XII and the system of alternating liberal and conservative governments known as the Restoration.",
+        "year": 1876
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Os Primeiros Mártires da Igreja de Roma",
+        "type": "Mártires",
+        "description": "Comemoração coletiva dos cristãos martirizados em Roma por ordem do imperador Nero após o grande incêndio do ano 64 d.C. Foram falsamente acusados de terem provocado o sinistro. Entre eles havia pessoas de todas as classes sociais, de escravos a nobres, e seu testemunho foi fundamental para o enraizamento do cristianismo na capital do Império."
+      },
+      {
+        "name": "São Marcial de Limoges",
+        "type": "Bispo",
+        "description": "Primeiro bispo de Limoges, enviado segundo a tradição por São Pedro para evangelizar a Gália. Fundou a primeira comunidade cristã da Aquitânia e é considerado um dos apóstolos das Gálias, embora a historicidade de alguns detalhes de sua vida seja debatida pelos historiadores."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência da República Democrática do Congo",
+        "description": "Em 30 de junho de 1960, o Congo Belga proclamou a independência da Bélgica, tornando-se a República do Congo. Hoje é a República Democrática do Congo, o maior país da África subsaariana e um dos mais ricos em recursos naturais do mundo."
+      },
+      {
+        "name": "Dia Internacional dos Asteroides",
+        "description": "Proclamado pela ONU para conscientizar sobre os riscos de impacto de asteroides e a importância da pesquisa e detecção precoce. É celebrado em 30 de junho em memória do impacto de Tunguska na Sibéria, ocorrido nessa data em 1908 — o maior evento de impacto da história recente."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O valor de uma nação não está em ser livre, mas em ser justa.",
+      "author": "Victor Hugo",
+      "context": "Victor Hugo, escritor e humanista francês que defendeu a liberdade dos povos colonizados em seus últimos anos — uma reflexão especialmente pertinente no aniversário da independência do Congo."
+    },
+    "motivationalQuote": {
+      "text": "A vida não se mede pelo número de respirações que fazemos, mas pelos momentos que nos tiram o fôlego.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Czesław Miłosz",
+        "description": "Poeta, romancista e ensaísta polaco-americano, Prêmio Nobel de Literatura em 1980. Exilado primeiro pelos nazistas e depois pelo regime comunista, sua obra explora a memória, a história e a busca da verdade em tempos de barbárie. Seu ensaio 'O Pensamento Cativo' é uma análise sem igual do totalitarismo.",
+        "year": 1911
+      },
+      {
+        "name": "Lena Horne",
+        "description": "Cantora e atriz afro-americana que foi uma das primeiras artistas negras a assinar um contrato de longa duração com um grande estúdio de Hollywood (MGM). Ativista pelos direitos civis, sua carreira abrangeu sete décadas e sua voz inconfundível a tornou um ícone do jazz e do blues.",
+        "year": 1917
+      },
+      {
+        "name": "Michael Phelps",
+        "description": "Nadador americano, o atleta olímpico mais premiado da história com 28 medalhas, 23 delas de ouro. Dominou a natação internacional por mais de uma década e é considerado o maior nadador de todos os tempos. Também foi uma voz de destaque na visibilização da saúde mental no esporte de elite.",
+        "year": 1985
+      }
+    ],
+    "events": [
+      {
+        "title": "O Evento de Tunguska",
+        "description": "Em 30 de junho de 1908, uma explosão de origem cósmica devastou mais de 2.000 quilômetros quadrados de taiga siberiana na região de Tunguska. Foi o impacto de meteorito ou cometa mais poderoso da história registrada, equivalente a mais de 1.000 bombas de Hiroshima. Felizmente, caiu em uma área desabitada.",
+        "year": 1908
+      },
+      {
+        "title": "Independência da República Democrática do Congo",
+        "description": "Em 30 de junho de 1960, o Congo Belga tornou-se a República do Congo, com Joseph Kasavubu como presidente e Patrice Lumumba como primeiro-ministro. A independência foi turbulenta e Lumumba foi assassinado apenas sete meses depois em circunstâncias que envolveram potências estrangeiras.",
+        "year": 1960
+      },
+      {
+        "title": "Espanha Promulga a Constituição de 1876",
+        "description": "Em 30 de junho de 1876, entrou em vigor a Constituição espanhola de 1876 — a de maior duração na história da Espanha, com quase cinquenta anos de vigência. Estabeleceu a monarquia constitucional sob Afonso XII e o sistema de alternância entre liberais e conservadores conhecido como Restauração.",
+        "year": 1876
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Els Primers Màrtirs de l'Església de Roma",
+        "type": "Màrtirs",
+        "description": "Commemoració col·lectiva dels cristians martirizats a Roma per ordre de l'emperador Neró després del gran incendi de l'any 64 d.C. Van ser falsament acusats d'haver provocat el sinistre. Entre ells hi havia persones de totes les classes socials, d'esclaus a nobles, i el seu testimoni va ser fonamental per a l'arrelament del cristianisme a la capital de l'Imperi."
+      },
+      {
+        "name": "Sant Marcial de Llemotges",
+        "type": "Bisbe",
+        "description": "Primer bisbe de Llemotges, enviat segons la tradició per Sant Pere per evangelitzar la Gàl·lia. Va fundar la primera comunitat cristiana d'Aquitània i és considerat un dels apòstols de les Gàl·lies, tot i que la historicitat d'alguns detalls de la seva vida és objecte de debat entre els historiadors."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència de la República Democràtica del Congo",
+        "description": "El 30 de juny de 1960, el Congo Belga va proclamar la independència de Bèlgica, convertint-se en la República del Congo. Avui és la República Democràtica del Congo, el major país de l'Àfrica subsahariana i un dels més rics en recursos naturals del món."
+      },
+      {
+        "name": "Dia Internacional dels Asteroides",
+        "description": "Proclamat per l'ONU per conscienciar sobre els riscos d'impacte d'asteroides i la importància de la investigació i la detecció precoç. Se celebra el 30 de juny en record de l'impacte de Tunguska a Sibèria, ocorregut en aquella data el 1908 — el major esdeveniment d'impacte de la història recent."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El valor d'una nació no consisteix a ser lliure, sinó a ser justa.",
+      "author": "Victor Hugo",
+      "context": "Victor Hugo, escriptor i humanista francès que va defensar la llibertat dels pobles colonitzats en els seus darrers anys — una reflexió especialment pertinent en l'aniversari de la independència del Congo."
+    },
+    "motivationalQuote": {
+      "text": "La vida no es mesura pel nombre de respiracions que prenem, sinó pels moments que ens treuen l'alè.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Czesław Miłosz",
+        "description": "Poeta, novel·lista i assagista polonès-americà, Premi Nobel de Literatura el 1980. Exiliat primer pels nazis i després pel règim comunista, la seva obra explora la memòria, la història i la recerca de la veritat en temps de barbàrie. El seu assaig 'La ment captiva' és una anàlisi sense igual del totalitarisme.",
+        "year": 1911
+      },
+      {
+        "name": "Lena Horne",
+        "description": "Cantant i actriu afroamericana que va ser una de les primeres artistes negres a signar un contracte a llarg termini amb un gran estudi de Hollywood (MGM). Activista pels drets civils, la seva carrera va abastar set dècades i la seva veu inconfusible la va convertir en una icona del jazz i el blues.",
+        "year": 1917
+      },
+      {
+        "name": "Michael Phelps",
+        "description": "Nedador americà, l'esportista olímpic més guardonat de la història amb 28 medalles, 23 d'elles d'or. Va dominar la natació internacional durant més d'una dècada i és considerat el millor nedador de tots els temps. Ha estat també una veu destacada en la visibilització de la salut mental en l'esport d'elit.",
+        "year": 1985
+      }
+    ],
+    "events": [
+      {
+        "title": "L'Esdeveniment de Tunguska",
+        "description": "El 30 de juny de 1908, una explosió d'origen còsmic va devastar més de 2.000 quilòmetres quadrats de taiga siberiana a la regió de Tunguska. Va ser l'impacte de meteorit o cometa més potent de la història registrada, equivalent a més de 1.000 bombes d'Hiroshima. Afortunadament, va caure en una zona deshabitada.",
+        "year": 1908
+      },
+      {
+        "title": "Independència de la República Democràtica del Congo",
+        "description": "El 30 de juny de 1960, el Congo Belga es va convertir en la República del Congo, amb Joseph Kasavubu com a president i Patrice Lumumba com a primer ministre. La independència va ser turbulenta i Lumumba va ser assassinat tot just set mesos després en circumstàncies que van implicar potències estrangeres.",
+        "year": 1960
+      },
+      {
+        "title": "Espanya Promulga la Constitució de 1876",
+        "description": "El 30 de juny de 1876 va entrar en vigor la Constitució espanyola de 1876 — la de major durada de la història d'Espanya, amb gairebé cinquanta anys de vigència. Va establir la monarquia constitucional sota Alfons XII i el sistema d'alternança entre liberals i conservadors conegut com la Restauració.",
+        "year": 1876
+      }
+    ]
+  }
+}

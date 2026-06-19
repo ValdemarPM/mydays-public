@@ -1,0 +1,291 @@
+{
+  "date": "2026-04-05",
+  "es": {
+    "saints": [
+      {
+        "name": "San Vicente Ferrer",
+        "type": "Presbítero y Doctor de la Iglesia",
+        "description": "Dominico valenciano del siglo XIV-XV, uno de los predicadores más célebres de la historia medieval. Recorrió Europa durante décadas predicando la penitencia y la preparación para el juicio final. Actuó como árbitro en el Compromiso de Caspe (1412) que resolvió la sucesión a la Corona de Aragón. Murió en Vannes (Bretaña) en 1419 y fue canonizado en 1455."
+      },
+      {
+        "name": "San Geraldo de Sauve-Majeure",
+        "type": "Abad",
+        "description": "Monje benedictino francés del siglo XI, fundador de la Abadía de la Sauve-Majeure en la Gironda, un importante punto de descanso en el Camino de Santiago. Su abadía llegó a tener más de treinta prioratos dependientes repartidos por toda Europa. Fue canonizado en 1197."
+      },
+      {
+        "name": "Santa Irene de Tesalónica",
+        "type": "Mártir",
+        "description": "Mártir griega del siglo IV, hermana de Agape y Quionia. Las tres fueron arrestadas por conservar copias de las Escrituras durante la persecución de Diocleciano. Irene fue ejecutada tras negarse a apostatar, convirtiéndose en símbolo de la fidelidad cristiana ante la persecución."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Nacional de la Concienciación sobre el Cáncer Infantil",
+        "description": "En varios países se dedica este día a visibilizar el cáncer en niños y adolescentes, recaudar fondos para la investigación y apoyar a las familias afectadas. El lazo dorado es el símbolo internacional de esta causa."
+      },
+      {
+        "name": "Día de la Comunidad Nacional (Argentina)",
+        "description": "Argentina conmemora en esta fecha diversas iniciativas de cohesión social y reconocimiento de las comunidades de inmigrantes que contribuyeron a la construcción del país, en un país con una de las diásporas más diversas del mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Temed al Señor y guardad sus mandamientos, porque esto es todo el deber del hombre.",
+      "author": "San Vicente Ferrer",
+      "context": "Cita representativa de la predicación de San Vicente Ferrer, cuya festividad se celebra hoy. El dominico valenciano recorrió Europa predicando la conversión y la penitencia, congregando a multitudes en los mercados y plazas públicas."
+    },
+    "motivationalQuote": {
+      "text": "La vida no se mide por las veces que respiras, sino por los momentos que te dejan sin aliento.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Booker T. Washington",
+        "description": "Educador, escritor y orador afroamericano, nacido en la esclavitud en Virginia. Fundó el Instituto Tuskegee (1881) y se convirtió en uno de los líderes más influyentes de la comunidad negra estadounidense de finales del siglo XIX. Su autobiografía 'Up from Slavery' es un testimonio fundamental de la historia afroamericana.",
+        "year": "1856"
+      },
+      {
+        "name": "Bette Davis",
+        "description": "Actriz estadounidense considerada una de las más grandes de la historia del cine de Hollywood. Ganó dos Óscars y fue reconocida por su intensa presencia en pantalla y su capacidad para interpretar personajes complejos en filmes como 'Eva al desnudo' y '¿Qué fue de Baby Jane?'.",
+        "year": "1908"
+      },
+      {
+        "name": "Thomas Hobbes",
+        "description": "Filósofo inglés del siglo XVII, autor de 'Leviatán' (1651), obra fundamental del pensamiento político moderno. Formuló la teoría del contrato social y defendió un estado soberano fuerte como único garante del orden social frente al caos del 'estado de naturaleza'.",
+        "year": "1588"
+      }
+    ],
+    "events": [
+      {
+        "title": "Creación del Tribunal Penal Internacional",
+        "description": "El Estatuto de Roma entró en vigor, creando el Tribunal Penal Internacional (TPI) con sede en La Haya. Primer tribunal permanente de la historia capaz de juzgar a individuos por crímenes de guerra, crímenes de lesa humanidad y genocidio.",
+        "year": "2002"
+      },
+      {
+        "title": "Primera película de ficción proyectada en público",
+        "description": "El cortometraje 'The Execution of Mary, Queen of Scots' (La ejecución de María, reina de Escocia), de Thomas Edison, fue proyectado públicamente. Considerado uno de los primeros usos de efectos especiales en el cine, mostraba una decapitación mediante el truco del sustituto.",
+        "year": "1895"
+      },
+      {
+        "title": "Fin del régimen de Pol Pot en Camboya",
+        "description": "Las fuerzas vietnamitas y las milicias camboyanas pro-vietnamitas tomaron Phnom Penh, poniendo fin al régimen de los Jemeres Rojos de Pol Pot, que había causado la muerte de entre 1,5 y 2 millones de personas —aproximadamente un cuarto de la población camboyana— en apenas cuatro años.",
+        "year": "1979"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Vincent Ferrer",
+        "type": "Priest and Doctor of the Church",
+        "description": "A Valencian Dominican of the 14th–15th centuries and one of the most celebrated preachers of the medieval period. He travelled Europe for decades preaching penance and preparation for the Final Judgment. He served as arbitrator in the Compromise of Caspe (1412), which resolved the succession to the Crown of Aragon. He died in Vannes (Brittany) in 1419 and was canonised in 1455."
+      },
+      {
+        "name": "Saint Gerald of Sauve-Majeure",
+        "type": "Abbot",
+        "description": "An 11th-century French Benedictine monk, founder of the Abbey of La Sauve-Majeure in the Gironde — an important resting point on the Way of Saint James. His abbey eventually had more than thirty dependent priories spread across Europe. He was canonised in 1197."
+      },
+      {
+        "name": "Saint Irene of Thessalonica",
+        "type": "Martyr",
+        "description": "A 4th-century Greek martyr and sister of Agape and Chionia. The three were arrested for keeping copies of the Scriptures during the Diocletian persecution. Irene was executed after refusing to apostatise, becoming a symbol of Christian fidelity in the face of persecution."
+      }
+    ],
+    "observances": [
+      {
+        "name": "National Childhood Cancer Awareness Day",
+        "description": "In various countries this day is dedicated to raising awareness of cancer in children and teenagers, raising funds for research, and supporting affected families. The gold ribbon is the international symbol of this cause."
+      },
+      {
+        "name": "National Community Day (Argentina)",
+        "description": "Argentina marks this date with various social cohesion initiatives and recognition of the immigrant communities that contributed to building the country — one of the most diverse diasporas in the world."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Fear God and keep his commandments, for this is the whole duty of man.",
+      "author": "Saint Vincent Ferrer",
+      "context": "A representative quote from the preaching of Saint Vincent Ferrer, whose feast is celebrated today. The Valencian Dominican travelled Europe preaching conversion and penance, gathering crowds in marketplaces and public squares."
+    },
+    "motivationalQuote": {
+      "text": "Life is not measured by the number of breaths we take, but by the moments that take our breath away.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Booker T. Washington",
+        "description": "African-American educator, writer, and orator, born into slavery in Virginia. He founded the Tuskegee Institute (1881) and became one of the most influential leaders of the African-American community in the late 19th century. His autobiography 'Up from Slavery' is a seminal account of African-American history.",
+        "year": "1856"
+      },
+      {
+        "name": "Bette Davis",
+        "description": "American actress considered one of the greatest in the history of Hollywood. She won two Academy Awards and was acclaimed for her intense screen presence and ability to portray complex characters in films such as 'All About Eve' and 'What Ever Happened to Baby Jane?'.",
+        "year": "1908"
+      },
+      {
+        "name": "Thomas Hobbes",
+        "description": "17th-century English philosopher, author of 'Leviathan' (1651), a foundational work of modern political thought. He formulated the theory of the social contract and argued for a strong sovereign state as the only guarantor of social order against the chaos of the 'state of nature'.",
+        "year": "1588"
+      }
+    ],
+    "events": [
+      {
+        "title": "Creation of the International Criminal Court",
+        "description": "The Rome Statute entered into force, establishing the International Criminal Court (ICC) in The Hague. The first permanent tribunal in history capable of trying individuals for war crimes, crimes against humanity, and genocide.",
+        "year": "2002"
+      },
+      {
+        "title": "First Publicly Screened Fiction Film",
+        "description": "Thomas Edison's short film 'The Execution of Mary, Queen of Scots' was publicly screened. Considered one of the first uses of special effects in cinema, it depicted a beheading through the substitution trick.",
+        "year": "1895"
+      },
+      {
+        "title": "End of Pol Pot's Regime in Cambodia",
+        "description": "Vietnamese forces and pro-Vietnamese Cambodian militias captured Phnom Penh, ending the Khmer Rouge regime of Pol Pot, which had caused the deaths of between 1.5 and 2 million people — roughly a quarter of Cambodia's population — in just four years.",
+        "year": "1979"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Vicente Ferrer",
+        "type": "Presbítero e Doutor da Igreja",
+        "description": "Dominicano valenciano dos séculos XIV-XV, um dos pregadores mais célebres da história medieval. Percorreu a Europa durante décadas pregando a penitência e a preparação para o juízo final. Atuou como árbitro no Compromisso de Caspe (1412), que resolveu a sucessão à Coroa de Aragão. Morreu em Vannes (Bretanha) em 1419 e foi canonizado em 1455."
+      },
+      {
+        "name": "São Geraldo de Sauve-Majeure",
+        "type": "Abade",
+        "description": "Monge beneditino francês do século XI, fundador da Abadia de La Sauve-Majeure na Gironda, um importante ponto de descanso no Caminho de Santiago. Sua abadia chegou a ter mais de trinta prioratos dependentes espalhados por toda a Europa. Foi canonizado em 1197."
+      },
+      {
+        "name": "Santa Irene de Tessalônica",
+        "type": "Mártir",
+        "description": "Mártir grega do século IV, irmã de Ágape e Quiônia. As três foram presas por guardar cópias das Escrituras durante a perseguição de Diocleciano. Irene foi executada após recusar apostatar, tornando-se símbolo da fidelidade cristã diante da perseguição."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional de Conscientização sobre o Câncer Infantil",
+        "description": "Em vários países, este dia é dedicado a visibilizar o câncer em crianças e adolescentes, arrecadar fundos para pesquisa e apoiar as famílias afetadas. O laço dourado é o símbolo internacional desta causa."
+      },
+      {
+        "name": "Dia da Comunidade Nacional (Argentina)",
+        "description": "A Argentina comemora nesta data diversas iniciativas de coesão social e reconhecimento das comunidades de imigrantes que contribuíram para a construção do país, um dos países com diásporas mais diversas do mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Temei a Deus e guardai os seus mandamentos, porque isto é tudo o que o homem deve fazer.",
+      "author": "São Vicente Ferrer",
+      "context": "Citação representativa da pregação de São Vicente Ferrer, cuja festividade se celebra hoje. O dominicano valenciano percorreu a Europa pregando a conversão e a penitência, reunindo multidões nos mercados e praças públicas."
+    },
+    "motivationalQuote": {
+      "text": "A vida não é medida pelo número de respirações que damos, mas pelos momentos que nos tiram o fôlego.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Booker T. Washington",
+        "description": "Educador, escritor e orador afro-americano, nascido na escravidão na Virgínia. Fundou o Instituto Tuskegee (1881) e tornou-se um dos líderes mais influentes da comunidade negra norte-americana do final do século XIX. Sua autobiografia 'Up from Slavery' é um testemunho fundamental da história afro-americana.",
+        "year": "1856"
+      },
+      {
+        "name": "Bette Davis",
+        "description": "Atriz americana considerada uma das maiores da história do cinema de Hollywood. Ganhou dois Óscares e foi reconhecida por sua intensa presença em cena e capacidade de interpretar personagens complexos em filmes como 'A Malvada' e 'O Que Aconteceu a Baby Jane?'.",
+        "year": "1908"
+      },
+      {
+        "name": "Thomas Hobbes",
+        "description": "Filósofo inglês do século XVII, autor de 'Leviatã' (1651), obra fundamental do pensamento político moderno. Formulou a teoria do contrato social e defendeu um estado soberano forte como único garante da ordem social frente ao caos do 'estado de natureza'.",
+        "year": "1588"
+      }
+    ],
+    "events": [
+      {
+        "title": "Criação do Tribunal Penal Internacional",
+        "description": "O Estatuto de Roma entrou em vigor, criando o Tribunal Penal Internacional (TPI) com sede em Haia. Primeiro tribunal permanente da história capaz de julgar indivíduos por crimes de guerra, crimes contra a humanidade e genocídio.",
+        "year": "2002"
+      },
+      {
+        "title": "Primeiro filme de ficção exibido publicamente",
+        "description": "O curta-metragem 'The Execution of Mary, Queen of Scots' (A execução de Maria, rainha da Escócia), de Thomas Edison, foi exibido publicamente. Considerado um dos primeiros usos de efeitos especiais no cinema, mostrava uma decapitação por meio do truque da substituição.",
+        "year": "1895"
+      },
+      {
+        "title": "Fim do regime de Pol Pot no Camboja",
+        "description": "As forças vietnamitas e as milícias cambojanas pró-vietnamitas tomaram Phnom Penh, pondo fim ao regime dos Khmers Vermelhos de Pol Pot, que tinha causado a morte de entre 1,5 e 2 milhões de pessoas — cerca de um quarto da população cambojana — em apenas quatro anos.",
+        "year": "1979"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Vicent Ferrer",
+        "type": "Prevere i Doctor de l'Església",
+        "description": "Dominic valencià dels segles XIV-XV, un dels predicadors més cèlebres de la història medieval. Va recórrer Europa durant dècades predicant la penitència i la preparació per al judici final. Va actuar com a àrbitre al Compromís de Casp (1412), que va resoldre la successió a la Corona d'Aragó. Va morir a Vannes (Bretanya) el 1419 i va ser canonitzat el 1455."
+      },
+      {
+        "name": "Sant Gerald de Sauve-Majeure",
+        "type": "Abat",
+        "description": "Monjo benedictí francès del segle XI, fundador de l'Abadia de la Sauve-Majeure a la Gironda, un important punt de descans al Camí de Sant Jaume. La seva abadia va arribar a tenir més de trenta priorats dependents repartits per tota Europa. Va ser canonitzat el 1197."
+      },
+      {
+        "name": "Santa Irene de Tessalònica",
+        "type": "Màrtir",
+        "description": "Màrtir grega del segle IV, germana d'Àgape i Quiònia. Les tres van ser arrestades per conservar còpies de les Escriptures durant la persecució de Dioclecià. Irene va ser executada després de negar-se a apostatar, convertint-se en símbol de la fidelitat cristiana davant la persecució."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional de la Conscienciació sobre el Càncer Infantil",
+        "description": "En diversos països es dedica aquest dia a visibilitzar el càncer en nens i adolescents, recaptar fons per a la recerca i donar suport a les famílies afectades. El llaç daurat és el símbol internacional d'aquesta causa."
+      },
+      {
+        "name": "Dia de la Comunitat Nacional (Argentina)",
+        "description": "L'Argentina commemora en aquesta data diverses iniciatives de cohesió social i reconeixement de les comunitats d'immigrants que van contribuir a la construcció del país, un dels països amb diàspores més diverses del món."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Temeu el Senyor i guardeu els seus manaments, perquè això és tot el deure de l'home.",
+      "author": "Sant Vicent Ferrer",
+      "context": "Citació representativa de la predicació de Sant Vicent Ferrer, la festivitat del qual se celebra avui. El dominic valencià va recórrer Europa predicant la conversió i la penitència, congregant multituds als mercats i places públiques."
+    },
+    "motivationalQuote": {
+      "text": "La vida no es mesura per les vegades que respirem, sinó pels moments que ens deixen sense alè.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Booker T. Washington",
+        "description": "Educador, escriptor i orador afroamericà, nascut en l'esclavitud a Virgínia. Va fundar l'Institut Tuskegee (1881) i es va convertir en un dels líders més influents de la comunitat negra nord-americana de finals del segle XIX. La seva autobiografia 'Up from Slavery' és un testimoni fonamental de la història afroamericana.",
+        "year": "1856"
+      },
+      {
+        "name": "Bette Davis",
+        "description": "Actriu nord-americana considerada una de les més grans de la història del cinema de Hollywood. Va guanyar dos Òscars i va ser reconeguda per la seva intensa presència en pantalla i la seva capacitat per interpretar personatges complexos en pel·lícules com 'Tot sobre Eva' i 'Qui va matar Baby Jane?'.",
+        "year": "1908"
+      },
+      {
+        "name": "Thomas Hobbes",
+        "description": "Filòsof anglès del segle XVII, autor del 'Leviatan' (1651), obra fonamental del pensament polític modern. Va formular la teoria del contracte social i va defensar un estat sobirà fort com a únic garant de l'ordre social davant el caos de l'«estat de natura».",
+        "year": "1588"
+      }
+    ],
+    "events": [
+      {
+        "title": "Creació del Tribunal Penal Internacional",
+        "description": "L'Estatut de Roma va entrar en vigor, creant el Tribunal Penal Internacional (TPI) amb seu a La Haia. Primer tribunal permanent de la història capaç de jutjar individus per crims de guerra, crims contra la humanitat i genocidi.",
+        "year": "2002"
+      },
+      {
+        "title": "Primera pel·lícula de ficció projectada en públic",
+        "description": "El curtmetratge 'The Execution of Mary, Queen of Scots' (L'execució de Maria, reina d'Escòcia), de Thomas Edison, va ser projectat públicament. Considerat un dels primers usos d'efectes especials al cinema, mostrava una decapitació mitjançant el truc de la substitució.",
+        "year": "1895"
+      },
+      {
+        "title": "Fi del règim de Pol Pot a Cambodja",
+        "description": "Les forces vietnamites i les milícies cambodjanes proVietnamites van prendre Phnom Penh, posant fi al règim dels Khmers Rojos de Pol Pot, que havia causat la mort d'entre 1,5 i 2 milions de persones —aproximadament una quarta part de la població cambodjana— en tan sols quatre anys.",
+        "year": "1979"
+      }
+    ]
+  }
+}

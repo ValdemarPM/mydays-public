@@ -1,0 +1,291 @@
+{
+  "date": "2025-08-19",
+  "es": {
+    "saints": [
+      {
+        "name": "San Juan Eudes",
+        "type": "Presbítero y Fundador",
+        "description": "Sacerdote francés (1601–1680), fundador de la Congregación de Jesús y María (Eudistas) y de las Hermanas de la Caridad del Refugio. Difundió la devoción a los Sagrados Corazones de Jesús y María antes de que fuera reconocida oficialmente."
+      },
+      {
+        "name": "San Luis de Tolosa",
+        "type": "Obispo",
+        "description": "Príncipe de Anjou y obispo de Toulouse (1274–1297), que renunció a todos sus títulos nobiliarios para unirse a la orden franciscana. Canonizado solo dos años después de su muerte. Patrono de los jóvenes."
+      },
+      {
+        "name": "San Magno de Treveris",
+        "type": "Mártir",
+        "description": "Mártir venerable de la Iglesia primitiva en Tréveris (actual Alemania). Muy poco se sabe de él con certeza histórica, pero su culto es antiquísimo en la región del Mosela."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Fotografía",
+        "description": "Celebrado el 19 de agosto en conmemoración del 19 de agosto de 1839, cuando el gobierno francés anunció oficialmente la invención del daguerrotipo de Louis Daguerre y la puso a disposición del mundo de forma gratuita."
+      },
+      {
+        "name": "Día de la Concienciación sobre la Humanitaria",
+        "description": "El 19 de agosto fue declarado Día Mundial de la Asistencia Humanitaria por la ONU en recuerdo del atentado del 19 de agosto de 2003 contra la sede de la ONU en Bagdad, que causó 22 muertes."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Desde el momento en que se inventa la fotografía, la pintura ha muerto.",
+      "author": "Paul Delaroche",
+      "context": "El pintor histórico francés (1797–1856) pronunció esta célebre frase al ver el daguerrotipo en 1839, año en que se anunció al mundo. La predicción resultó errónea: la fotografía liberó a la pintura y dio inicio al impresionismo."
+    },
+    "motivationalQuote": {
+      "text": "La fotografía es la historia de la humanidad; ningún libro o documento puede capturar lo que una imagen transmite.",
+      "author": "Lewis Hine"
+    },
+    "births": [
+      {
+        "name": "Blaise Pascal",
+        "description": "Matemático, físico y filósofo francés (1623–1662). Inventor de la primera calculadora mecánica, pionero de la teoría de la probabilidad y autor de las Pensées, obra cumbre de la literatura religiosa francesa.",
+        "year": 1623
+      },
+      {
+        "name": "Orville Wright",
+        "description": "Inventor y pionero de la aviación americano (1871–1948), hermano de Wilbur Wright. Realizó el primer vuelo motorizado de la historia en Kitty Hawk (Carolina del Norte) el 17 de diciembre de 1903.",
+        "year": 1871
+      },
+      {
+        "name": "Bill Clinton",
+        "description": "42.º presidente de los Estados Unidos (1993–2001). Durante su mandato presidió la mayor expansión económica en tiempo de paz de la historia de EE. UU. Fue sometido a un proceso de destitución por el Congreso en 1998.",
+        "year": 1946
+      }
+    ],
+    "events": [
+      {
+        "title": "Anuncio oficial del daguerrotipo — nacimiento de la fotografía",
+        "description": "El 19 de agosto de 1839, la Academia Francesa de Ciencias anunció el invento del daguerrotipo de Louis Daguerre. El gobierno francés lo compró y lo puso a disposición del mundo libre de patentes, marcando el nacimiento de la fotografía.",
+        "year": 1839
+      },
+      {
+        "title": "Golpe de Estado contra Mijail Gorbachov",
+        "description": "El 19 de agosto de 1991, un grupo de dirigentes comunistas intentó derrocar a Gorbachov mediante un golpe de Estado mientras descansaba en Crimea. El fracaso del golpe aceleró la disolución de la Unión Soviética.",
+        "year": 1991
+      },
+      {
+        "title": "Atentado en la sede de la ONU en Bagdad",
+        "description": "El 19 de agosto de 2003, un atentado con coche bomba destruyó la sede de las Naciones Unidas en Bagdad, causando 22 muertes y el retiro del personal de la ONU de Iraq.",
+        "year": 2003
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint John Eudes",
+        "type": "Priest and Founder",
+        "description": "French priest (1601–1680), founder of the Congregation of Jesus and Mary (Eudists) and the Sisters of Our Lady of Charity of the Refuge. He spread devotion to the Sacred Hearts of Jesus and Mary before it received official recognition."
+      },
+      {
+        "name": "Saint Louis of Toulouse",
+        "type": "Bishop",
+        "description": "Prince of Anjou and Bishop of Toulouse (1274–1297), who renounced all his noble titles to join the Franciscan Order. Canonised only two years after his death. Patron of young people."
+      },
+      {
+        "name": "Saint Magnus of Trier",
+        "type": "Martyr",
+        "description": "Venerable martyr of the early Church in Trier (modern Germany). Very little is known about him with historical certainty, but his cult is very ancient in the Moselle region."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Photography Day",
+        "description": "Celebrated on 19 August to commemorate 19 August 1839, when the French government officially announced the invention of Louis Daguerre's daguerreotype and made it freely available to the world."
+      },
+      {
+        "name": "World Humanitarian Day",
+        "description": "Designated by the UN on 19 August in memory of the 19 August 2003 bombing of the UN headquarters in Baghdad, which killed 22 people. It honours humanitarian workers worldwide."
+      }
+    ],
+    "historicalQuote": {
+      "text": "From today, painting is dead.",
+      "author": "Paul Delaroche",
+      "context": "The French historical painter (1797–1856) reportedly uttered this famous phrase upon seeing the daguerreotype in 1839, the year it was announced to the world. The prediction proved wrong: photography liberated painting and paved the way for Impressionism."
+    },
+    "motivationalQuote": {
+      "text": "Photography is the story of humanity; no book or document can capture what a single image conveys.",
+      "author": "Lewis Hine"
+    },
+    "births": [
+      {
+        "name": "Blaise Pascal",
+        "description": "French mathematician, physicist, and philosopher (1623–1662). Inventor of the first mechanical calculator, pioneer of probability theory, and author of the Pensées, a masterpiece of French religious literature.",
+        "year": 1623
+      },
+      {
+        "name": "Orville Wright",
+        "description": "American inventor and aviation pioneer (1871–1948), brother of Wilbur Wright. He performed the first powered, sustained, and controlled aeroplane flight in history at Kitty Hawk, North Carolina, on 17 December 1903.",
+        "year": 1871
+      },
+      {
+        "name": "Bill Clinton",
+        "description": "42nd President of the United States (1993–2001). During his term he presided over the longest peacetime economic expansion in US history. He was impeached by Congress in 1998.",
+        "year": 1946
+      }
+    ],
+    "events": [
+      {
+        "title": "Official announcement of the daguerreotype — birth of photography",
+        "description": "On 19 August 1839, the French Academy of Sciences announced the invention of Louis Daguerre's daguerreotype. The French government purchased the patent and made it freely available to the world, marking the birth of photography.",
+        "year": 1839
+      },
+      {
+        "title": "Coup attempt against Mikhail Gorbachev",
+        "description": "On 19 August 1991, a group of Communist hardliners attempted to overthrow Gorbachev while he was on holiday in Crimea. The coup's failure accelerated the dissolution of the Soviet Union.",
+        "year": 1991
+      },
+      {
+        "title": "Bombing of UN headquarters in Baghdad",
+        "description": "On 19 August 2003, a car bomb destroyed the United Nations headquarters in Baghdad, killing 22 people including the top UN envoy Sérgio Vieira de Mello, and forcing the withdrawal of UN staff from Iraq.",
+        "year": 2003
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São João Eudes",
+        "type": "Presbítero e Fundador",
+        "description": "Sacerdote francês (1601–1680), fundador da Congregação de Jesus e Maria (Eudistas) e das Irmãs de Nossa Senhora da Caridade do Refúgio. Difundiu a devoção aos Sagrados Corações de Jesus e Maria antes do seu reconhecimento oficial."
+      },
+      {
+        "name": "São Luís de Toulouse",
+        "type": "Bispo",
+        "description": "Príncipe de Anjou e bispo de Toulouse (1274–1297), que renunciou a todos os seus títulos nobiliários para se juntar à Ordem Franciscana. Canonizado apenas dois anos após a sua morte. Padroeiro dos jovens."
+      },
+      {
+        "name": "São Magno de Treveris",
+        "type": "Mártir",
+        "description": "Venerável mártir da Igreja primitiva em Treveris (atual Alemanha). Muito pouco se sabe sobre ele com certeza histórica, mas o seu culto é muito antigo na região do Mosela."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Fotografia",
+        "description": "Celebrado em 19 de agosto para comemorar o 19 de agosto de 1839, quando o governo francês anunciou oficialmente a invenção do daguerreótipo de Louis Daguerre e o colocou à disposição do mundo gratuitamente."
+      },
+      {
+        "name": "Dia Mundial da Assistência Humanitária",
+        "description": "Designado pela ONU em 19 de agosto em memória do atentado de 19 de agosto de 2003 contra a sede da ONU em Bagdade, que causou 22 mortes. Homenageia trabalhadores humanitários em todo o mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A partir de hoje, a pintura está morta.",
+      "author": "Paul Delaroche",
+      "context": "O pintor histórico francês (1797–1856) terá proferido esta célebre frase ao ver o daguerreótipo em 1839, ano em que foi anunciado ao mundo. A previsão mostrou-se errada: a fotografia libertou a pintura e abriu caminho ao impressionismo."
+    },
+    "motivationalQuote": {
+      "text": "A fotografia é a história da humanidade; nenhum livro ou documento consegue transmitir o que uma imagem captura.",
+      "author": "Lewis Hine"
+    },
+    "births": [
+      {
+        "name": "Blaise Pascal",
+        "description": "Matemático, físico e filósofo francês (1623–1662). Inventor da primeira calculadora mecânica, pioneiro da teoria das probabilidades e autor das Pensées, obra-prima da literatura religiosa francesa.",
+        "year": 1623
+      },
+      {
+        "name": "Orville Wright",
+        "description": "Inventor e pioneiro da aviação americano (1871–1948), irmão de Wilbur Wright. Realizou o primeiro voo motorizado, sustentado e controlado da história em Kitty Hawk, Carolina do Norte, em 17 de dezembro de 1903.",
+        "year": 1871
+      },
+      {
+        "name": "Bill Clinton",
+        "description": "42.º presidente dos Estados Unidos (1993–2001). Durante o seu mandato presidiu a maior expansão econômica em tempo de paz da história dos EUA. Foi submetido a um processo de destituição pelo Congresso em 1998.",
+        "year": 1946
+      }
+    ],
+    "events": [
+      {
+        "title": "Anúncio oficial do daguerreótipo — nascimento da fotografia",
+        "description": "Em 19 de agosto de 1839, a Academia Francesa de Ciências anunciou a invenção do daguerreótipo de Louis Daguerre. O governo francês comprou a patente e colocou-a à disposição do mundo gratuitamente, marcando o nascimento da fotografia.",
+        "year": 1839
+      },
+      {
+        "title": "Tentativa de golpe contra Mikhail Gorbachev",
+        "description": "Em 19 de agosto de 1991, um grupo de dirigentes comunistas tentou depor Gorbachev enquanto estava de férias na Crimeia. O fracasso do golpe acelerou a dissolução da União Soviética.",
+        "year": 1991
+      },
+      {
+        "title": "Atentado na sede da ONU em Bagdade",
+        "description": "Em 19 de agosto de 2003, um carro-bomba destruiu a sede das Nações Unidas em Bagdade, causando 22 mortes, incluindo o enviado da ONU Sérgio Vieira de Mello, e forçando a retirada do pessoal da ONU do Iraque.",
+        "year": 2003
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Joan Eudes",
+        "type": "Prevere i Fundador",
+        "description": "Sacerdot francès (1601–1680), fundador de la Congregació de Jesús i Maria (Eudistes) i de les Germanes de la Caritat del Refugi. Va difondre la devoció als Sagrats Cors de Jesús i Maria abans del seu reconeixement oficial."
+      },
+      {
+        "name": "Sant Lluís de Tolosa",
+        "type": "Bisbe",
+        "description": "Príncep d'Anjou i bisbe de Tolosa (1274–1297), que va renunciar a tots els seus títols nobiliaris per unir-se a l'orde franciscana. Canonitzat tan sols dos anys després de la seva mort. Patró dels joves."
+      },
+      {
+        "name": "Sant Magne de Treveris",
+        "type": "Màrtir",
+        "description": "Venerable màrtir de l'Església primitiva a Treveris (Alemanya actual). Se sap molt poc d'ell amb certesa històrica, però el seu culte és molt antic a la regió del Mosel·la."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Fotografia",
+        "description": "Celebrat el 19 d'agost per commemorar el 19 d'agost de 1839, quan el govern francès va anunciar oficialment la invenció del daguerreotip de Louis Daguerre i el va posar a disposició del món gratuïtament."
+      },
+      {
+        "name": "Dia Mundial de l'Ajuda Humanitària",
+        "description": "Designat per l'ONU el 19 d'agost en memòria de l'atemptat del 19 d'agost de 2003 contra la seu de l'ONU a Bagdad, que va causar 22 morts. Homenatja els treballadors humanitaris de tot el món."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A partir d'avui, la pintura és morta.",
+      "author": "Paul Delaroche",
+      "context": "El pintor històric francès (1797–1856) hauria pronunciat aquesta famosa frase en veure el daguerreotip el 1839, any en què va ser anunciat al món. La predicció va resultar equivocada: la fotografia va alliberar la pintura i va obrir el camí a l'impressionisme."
+    },
+    "motivationalQuote": {
+      "text": "La fotografia és la història de la humanitat; cap llibre ni document pot transmetre el que una imatge capta.",
+      "author": "Lewis Hine"
+    },
+    "births": [
+      {
+        "name": "Blaise Pascal",
+        "description": "Matemàtic, físic i filòsof francès (1623–1662). Inventor de la primera calculadora mecànica, pioner de la teoria de la probabilitat i autor de les Pensées, obra mestra de la literatura religiosa francesa.",
+        "year": 1623
+      },
+      {
+        "name": "Orville Wright",
+        "description": "Inventor i pioner de l'aviació americà (1871–1948), germà de Wilbur Wright. Va realitzar el primer vol motoritzat, sostingut i controlat de la història a Kitty Hawk (Carolina del Nord) el 17 de desembre de 1903.",
+        "year": 1871
+      },
+      {
+        "name": "Bill Clinton",
+        "description": "42è president dels Estats Units (1993–2001). Durant el seu mandat va presidir la major expansió econòmica en temps de pau de la història dels EUA. Va ser sotmès a un procés de destitució pel Congrés el 1998.",
+        "year": 1946
+      }
+    ],
+    "events": [
+      {
+        "title": "Anunci oficial del daguerreotip — naixement de la fotografia",
+        "description": "El 19 d'agost de 1839, l'Acadèmia Francesa de Ciències va anunciar la invenció del daguerreotip de Louis Daguerre. El govern francès va comprar la patent i la va posar a disposició del món lliurement, marcant el naixement de la fotografia.",
+        "year": 1839
+      },
+      {
+        "title": "Intent de cop d'Estat contra Mikhail Gorbatxov",
+        "description": "El 19 d'agost de 1991, un grup de dirigents comunistes va intentar derrocar Gorbatxov mentre estava de vacances a Crimea. El fracàs del cop va accelerar la dissolució de la Unió Soviètica.",
+        "year": 1991
+      },
+      {
+        "title": "Atemptat a la seu de l'ONU a Bagdad",
+        "description": "El 19 d'agost de 2003, un cotxe bomba va destruir la seu de les Nacions Unides a Bagdad, causant 22 morts, inclòs l'enviat de l'ONU Sérgio Vieira de Mello, i forçant la retirada del personal de l'ONU de l'Iraq.",
+        "year": 2003
+      }
+    ]
+  }
+}

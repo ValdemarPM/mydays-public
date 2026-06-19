@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-23",
+  "es": {
+    "saints": [
+      {
+        "name": "San Clemente I",
+        "type": "Papa y Mártir",
+        "description": "Cuarto papa de Roma (88–99 d.C.), discípulo de los apóstoles Pedro y Pablo. Su Carta a los Corintios es el texto cristiano más antiguo conservado fuera del Nuevo Testamento. Venerado como mártir aunque los datos históricos son inciertos."
+      },
+      {
+        "name": "San Columbano de Bobbio",
+        "type": "Abad",
+        "description": "Monje irlandés del siglo VI–VII, uno de los grandes misioneros del continente europeo. Fundó monasterios en Francia, Suiza e Italia (Bobbio) que fueron focos de cultura y espiritualidad durante la Edad Media."
+      },
+      {
+        "name": "Santa Felicidad de Roma",
+        "type": "Mártir",
+        "description": "Matrona romana del siglo II martirizada junto a sus siete hijos bajo el emperador Antonino Pío. Uno de los casos de martirio familiar más famosos de la historia del cristianismo primitivo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día del Trabajo (Japón - Labor Thanksgiving Day)",
+        "description": "Japón celebra el Kinrō Kansha no Hi, una festividad nacional de acción de gracias por el trabajo y la producción, que también incluye la celebración de los derechos humanos."
+      },
+      {
+        "name": "Día de la Armada (Chile y Ecuador)",
+        "description": "Chile y Ecuador conmemoran a sus fuerzas navales en esta jornada, reconociendo su papel en la defensa y la historia marítima de ambos países."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El trabajo es el precio que se paga por la reputación.",
+      "author": "Baltasar Gracián",
+      "context": "El jesuita aragonés del siglo XVII, autor de El Criticón y el Oráculo Manual, sintetizó con agudeza el valor del trabajo como base de la excelencia y el reconocimiento social."
+    },
+    "motivationalQuote": {
+      "text": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      {
+        "name": "Blaise Pascal",
+        "description": "Matemático, físico, filósofo y teólogo francés del siglo XVII. Inventó la primera calculadora mecánica, formuló los principios de la probabilidad y escribió los Pensamientos, obra cumbre de la literatura apologética cristiana.",
+        "year": 1623
+      },
+      {
+        "name": "Boris Karloff",
+        "description": "Actor británico de origen indio, icono del cine de terror clásico de Hollywood, conocido por su interpretación del monstruo de Frankenstein (1931) y La momia (1932).",
+        "year": 1887
+      },
+      {
+        "name": "Miley Cyrus",
+        "description": "Cantante, compositora y actriz estadounidense, conocida primero por la serie Hannah Montana y luego por su exitosa carrera musical con canciones como Wrecking Ball y Flowers.",
+        "year": 1992
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer partido de fútbol internacional",
+        "description": "Se disputó en Glasgow el primer partido internacional de fútbol de la historia entre Escocia e Inglaterra, con resultado 0-0. Fue el inicio de una de las rivalidades deportivas más antiguas del mundo.",
+        "year": 1872
+      },
+      {
+        "title": "Tifón Haiyan azota Filipinas",
+        "description": "El supertifón Haiyan (Yolanda), uno de los ciclones tropicales más intensos de la historia, golpeó las Filipinas causando más de 6.300 muertos y devastando la región de Visayas.",
+        "year": 2013
+      },
+      {
+        "title": "Se inaugura el Puente Golden Gate",
+        "description": "El Puente Golden Gate de San Francisco fue inaugurado al tráfico peatonal, convirtiéndose en uno de los iconos arquitectónicos más famosos del mundo.",
+        "year": 1937
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Clement I",
+        "type": "Pope and Martyr",
+        "description": "Fourth pope of Rome (88–99 AD) and disciple of the apostles Peter and Paul. His Letter to the Corinthians is the oldest surviving Christian document outside the New Testament. Venerated as a martyr though historical details are uncertain."
+      },
+      {
+        "name": "Saint Columbanus of Bobbio",
+        "type": "Abbot",
+        "description": "6th–7th-century Irish monk and one of the great missionaries to the European continent. He founded monasteries in France, Switzerland, and Italy (Bobbio) that became centres of culture and spirituality throughout the Middle Ages."
+      },
+      {
+        "name": "Saint Felicity of Rome",
+        "type": "Martyr",
+        "description": "2nd-century Roman matron martyred alongside her seven sons under Emperor Antoninus Pius — one of the most famous cases of family martyrdom in early Christian history."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Labour Thanksgiving Day (Japan)",
+        "description": "Japan celebrates Kinrō Kansha no Hi, a national holiday of thanksgiving for labour and production, which also encompasses the celebration of human rights."
+      },
+      {
+        "name": "Navy Day (Chile and Ecuador)",
+        "description": "Chile and Ecuador commemorate their naval forces on this day, recognising their role in the defence and maritime history of both countries."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Work is the price paid for reputation.",
+      "author": "Baltasar Gracián",
+      "context": "The 17th-century Aragonese Jesuit, author of The Critick and the Oráculo Manual, astutely captured the value of work as the foundation of excellence and social recognition."
+    },
+    "motivationalQuote": {
+      "text": "Success is the sum of small efforts, repeated day in and day out.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      {
+        "name": "Blaise Pascal",
+        "description": "17th-century French mathematician, physicist, philosopher, and theologian. He invented the first mechanical calculator, formulated the principles of probability, and wrote the Pensées — a masterpiece of Christian apologetic literature.",
+        "year": 1623
+      },
+      {
+        "name": "Boris Karloff",
+        "description": "British-Indian actor and icon of classic Hollywood horror, known for his portrayal of Frankenstein's monster (1931) and The Mummy (1932).",
+        "year": 1887
+      },
+      {
+        "name": "Miley Cyrus",
+        "description": "American singer, songwriter, and actress, first known for the series Hannah Montana and then for her successful music career with songs such as Wrecking Ball and Flowers.",
+        "year": 1992
+      }
+    ],
+    "events": [
+      {
+        "title": "First international football match",
+        "description": "The first international association football match in history was played in Glasgow between Scotland and England, ending 0–0 — the beginning of one of the world's oldest sporting rivalries.",
+        "year": 1872
+      },
+      {
+        "title": "Typhoon Haiyan strikes the Philippines",
+        "description": "Super Typhoon Haiyan (Yolanda), one of the most intense tropical cyclones in recorded history, struck the Philippines, killing more than 6,300 people and devastating the Visayas region.",
+        "year": 2013
+      },
+      {
+        "title": "Golden Gate Bridge opens to pedestrians",
+        "description": "San Francisco's Golden Gate Bridge opened to pedestrian traffic, becoming one of the world's most famous architectural icons.",
+        "year": 1937
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Clemente I",
+        "type": "Papa e Mártir",
+        "description": "Quarto papa de Roma (88–99 d.C.) e discípulo dos apóstolos Pedro e Paulo. A sua Carta aos Coríntios é o documento cristão mais antigo conservado fora do Novo Testamento. Venerado como mártir, embora os dados históricos sejam incertos."
+      },
+      {
+        "name": "São Columbano de Bobbio",
+        "type": "Abade",
+        "description": "Monge irlandês dos séculos VI–VII e um dos grandes missionários do continente europeu. Fundou mosteiros em França, Suíça e Itália (Bobbio) que foram focos de cultura e espiritualidade durante a Idade Média."
+      },
+      {
+        "name": "Santa Felicidade de Roma",
+        "type": "Mártir",
+        "description": "Matrona romana do século II martirizada junto aos seus sete filhos sob o imperador Antonino Pio — um dos casos mais famosos de martírio familiar na história do cristianismo primitivo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Ação de Graças pelo Trabalho (Japão)",
+        "description": "O Japão celebra o Kinrō Kansha no Hi, feriado nacional de ação de graças pelo trabalho e pela produção, que também abrange a celebração dos direitos humanos."
+      },
+      {
+        "name": "Dia da Marinha (Chile e Equador)",
+        "description": "Chile e Equador commemoram as suas forças navais neste dia, reconhecendo o seu papel na defesa e na história marítima de ambos os países."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O trabalho é o preço pago pela reputação.",
+      "author": "Baltasar Gracián",
+      "context": "O jesuíta aragonês do século XVII, autor de O Criticón e o Oráculo Manual, captou com perspicácia o valor do trabalho como base da excelência e do reconhecimento social."
+    },
+    "motivationalQuote": {
+      "text": "O sucesso é a soma de pequenos esforços repetidos dia após dia.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      {
+        "name": "Blaise Pascal",
+        "description": "Matemático, físico, filósofo e teólogo francês do século XVII. Inventou a primeira calculadora mecânica, formulou os princípios da probabilidade e escreveu os Pensamentos — obra-prima da literatura apologética cristã.",
+        "year": 1623
+      },
+      {
+        "name": "Boris Karloff",
+        "description": "Ator britânico de origem indiana e ícone do cinema de terror clássico de Hollywood, conhecido pela sua interpretação do monstro de Frankenstein (1931) e A Múmia (1932).",
+        "year": 1887
+      },
+      {
+        "name": "Miley Cyrus",
+        "description": "Cantora, compositora e atriz americana, conhecida primeiramente pela série Hannah Montana e depois pela sua bem-sucedida carreira musical com canções como Wrecking Ball e Flowers.",
+        "year": 1992
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeiro jogo de futebol internacional",
+        "description": "O primeiro jogo internacional de futebol da história foi disputado em Glasgow entre Escócia e Inglaterra, terminando em 0–0 — o início de uma das rivalidades desportivas mais antigas do mundo.",
+        "year": 1872
+      },
+      {
+        "title": "Tufão Haiyan atinge as Filipinas",
+        "description": "O super-tufão Haiyan (Yolanda), um dos ciclones tropicais mais intensos da história registada, atingiu as Filipinas, causando mais de 6.300 mortos e devastando a região das Visayas.",
+        "year": 2013
+      },
+      {
+        "title": "Ponte Golden Gate abre para pedestres",
+        "description": "A Ponte Golden Gate de São Francisco abriu para o tráfego de pedestres, tornando-se um dos ícones arquitetônicos mais famosos do mundo.",
+        "year": 1937
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Climent I",
+        "type": "Papa i Màrtir",
+        "description": "Quart papa de Roma (88–99 dC) i deixeble dels apòstols Pere i Pau. La seva Carta als Corintis és el document cristià més antic conservat fora del Nou Testament. Venerat com a màrtir, tot i que les dades històriques són incertes."
+      },
+      {
+        "name": "Sant Columbà de Bobbio",
+        "type": "Abat",
+        "description": "Monjo irlandès dels segles VI–VII i un dels grans missioners del continent europeu. Va fundar monestirs a França, Suïssa i Itàlia (Bobbio) que van ser focus de cultura i espiritualitat durant l'Edat Mitjana."
+      },
+      {
+        "name": "Santa Felicitat de Roma",
+        "type": "Màrtir",
+        "description": "Matrona romana del segle II martiritzada juntament amb els seus set fills sota l'emperador Antoní Pio — un dels casos més famosos de martiri familiar en la història del cristianisme primitiu."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia d'Acció de Gràcies pel Treball (Japó)",
+        "description": "El Japó celebra el Kinrō Kansha no Hi, una festivitat nacional d'acció de gràcies pel treball i la producció, que també abasta la celebració dels drets humans."
+      },
+      {
+        "name": "Dia de l'Armada (Xile i Equador)",
+        "description": "Xile i Equador commemoren les seves forces navals en aquest dia, reconeixent el seu paper en la defensa i la història marítima d'ambdós països."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El treball és el preu que es paga per la reputació.",
+      "author": "Baltasar Gracián",
+      "context": "El jesuïta aragonès del segle XVII, autor de El Criticó i l'Oràcul Manual, va capturar amb perspicàcia el valor del treball com a base de l'excel·lència i el reconeixement social."
+    },
+    "motivationalQuote": {
+      "text": "L'èxit és la suma de petits esforços repetits dia rere dia.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      {
+        "name": "Blaise Pascal",
+        "description": "Matemàtic, físic, filòsof i teòleg francès del segle XVII. Va inventar la primera calculadora mecànica, va formular els principis de la probabilitat i va escriure els Pensaments — obra mestra de la literatura apologètica cristiana.",
+        "year": 1623
+      },
+      {
+        "name": "Boris Karloff",
+        "description": "Actor britànic d'origen indi i icona del cinema de terror clàssic de Hollywood, conegut per la seva interpretació del monstre de Frankenstein (1931) i La Mòmia (1932).",
+        "year": 1887
+      },
+      {
+        "name": "Miley Cyrus",
+        "description": "Cantant, compositora i actriu americana, coneguda primer per la sèrie Hannah Montana i després per la seva reeixida carrera musical amb cançons com Wrecking Ball i Flowers.",
+        "year": 1992
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer partit de futbol internacional",
+        "description": "El primer partit internacional de futbol de la història es va disputar a Glasgow entre Escòcia i Anglaterra, amb resultat 0–0 — l'inici d'una de les rivalitats esportives més antigues del món.",
+        "year": 1872
+      },
+      {
+        "title": "El tifó Haiyan arrasa les Filipines",
+        "description": "El supertifó Haiyan (Yolanda), un dels ciclons tropicals més intensos de la història registrada, va colpir les Filipines, causant més de 6.300 morts i devastant la regió de les Visaies.",
+        "year": 2013
+      },
+      {
+        "title": "El pont Golden Gate s'obre als vianants",
+        "description": "El pont Golden Gate de San Francisco va obrir al trànsit de vianants, convertint-se en una de les icones arquitectòniques més famoses del món.",
+        "year": 1937
+      }
+    ]
+  }
+}

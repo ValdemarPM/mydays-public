@@ -1,0 +1,119 @@
+{
+  "date": "2026-02-16",
+  "es": {
+    "saints": [
+      { "name": "San Onésimo", "type": "Mártir", "description": "Esclavo fugitivo convertido por el apóstol Pablo, destinatario de la Epístola a Filemón en el Nuevo Testamento; obispo y mártir del siglo I." },
+      { "name": "Santa Juliana de Nicomedia", "type": "Virgen y mártir", "description": "Mártir del siglo IV en Nicomedia, conocida por su valentía ante los tormentos y considerada protectora de las enfermedades graves." }
+    ],
+    "observances": [
+      { "name": "Día de la Independencia de Lituania", "description": "Lithuania proclamó su independencia de Rusia imperial el 16 de febrero de 1918; el día es fiesta nacional." },
+      { "name": "Día de la Pizza Margherita", "description": "Jornada gastronómica informal en Italia para recordar la pizza más sencilla y emblemática, creada según la tradición en honor a la reina Margarita de Saboya en 1889." }
+    ],
+    "historicalQuote": {
+      "text": "Una nación que no recuerda lo que fue ayer no sabe lo que es hoy.",
+      "author": "Woodrow Wilson",
+      "context": "Wilson (1856-1924), 28.º presidente de los EE. UU., pronunció estas palabras en defensa de la educación histórica. La independencia de Lituania celebrada hoy recuerda la importancia de la memoria colectiva."
+    },
+    "motivationalQuote": {
+      "text": "El momento siempre será adecuado para hacer lo que es correcto.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      { "name": "Nicolás Copérnico", "description": "Astrónomo polaco del siglo XV-XVI, formuló el modelo heliocéntrico del Sistema Solar, revolucionando la visión del cosmos.", "year": 1473 },
+      { "name": "John McEnroe", "description": "Tenista estadounidense, tres veces campeón de Wimbledon y cuatro veces campeón del US Open; famoso tanto por su talento como por su carácter explosivo en la pista.", "year": 1959 },
+      { "name": "The Weeknd (Abel Tesfaye)", "description": "Cantante y compositor canadiense de origen etíope, figura dominante del R&B y pop contemporáneo con éxitos globales como Blinding Lights.", "year": 1990 }
+    ],
+    "events": [
+      { "title": "Howard Carter abre la cámara funeraria de Tutankamón", "description": "El arqueólogo británico Howard Carter accede por primera vez a la cámara interior de la tumba del faraón Tutankamón en el Valle de los Reyes.", "year": 1923 },
+      { "title": "Lituania proclama su independencia", "description": "El Consejo de Lituania firma el Acta de Independencia en Vilna, proclamando la restauración del Estado lituano independiente.", "year": 1918 },
+      { "title": "Hundimiento del submarino USS Albacore", "description": "El submarino japonés I-58 hunde al crucero pesado USS Indianapolis, con la pérdida de 880 marineros americanos, uno de los naufragios más trágicos de la Marina de EE. UU.", "year": 1945 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Onesimus", "type": "Martyr", "description": "Runaway slave converted by the Apostle Paul, subject of the Epistle to Philemon in the New Testament; bishop and martyr of the 1st century." },
+      { "name": "Saint Juliana of Nicomedia", "type": "Virgin and Martyr", "description": "4th-century martyr in Nicomedia, renowned for her courage under torture and considered a protector against grave illness." }
+    ],
+    "observances": [
+      { "name": "Lithuanian Independence Day", "description": "Lithuania proclaimed independence from Imperial Russia on 16 February 1918; the day is a national holiday." },
+      { "name": "Margherita Pizza Day", "description": "Informal gastronomic day in Italy to remember the simplest and most emblematic pizza, created according to tradition in honour of Queen Margherita of Savoy in 1889." }
+    ],
+    "historicalQuote": {
+      "text": "A nation that does not remember what it was yesterday does not know what it is today.",
+      "author": "Woodrow Wilson",
+      "context": "Wilson (1856–1924), 28th President of the USA, spoke these words in defence of historical education. Lithuania's independence, celebrated today, recalls the importance of collective memory."
+    },
+    "motivationalQuote": {
+      "text": "The time is always right to do what is right.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      { "name": "Nicolaus Copernicus", "description": "Polish astronomer of the 15th–16th century who formulated the heliocentric model of the Solar System, revolutionising the vision of the cosmos.", "year": 1473 },
+      { "name": "John McEnroe", "description": "American tennis player, three-time Wimbledon champion and four-time US Open champion; famous for both his talent and his explosive court temperament.", "year": 1959 },
+      { "name": "The Weeknd (Abel Tesfaye)", "description": "Canadian singer-songwriter of Ethiopian origin, a dominant figure in contemporary R&B and pop with global hits such as Blinding Lights.", "year": 1990 }
+    ],
+    "events": [
+      { "title": "Howard Carter opens Tutankhamun's burial chamber", "description": "British archaeologist Howard Carter enters for the first time the inner chamber of Pharaoh Tutankhamun's tomb in the Valley of the Kings.", "year": 1923 },
+      { "title": "Lithuania proclaims independence", "description": "The Council of Lithuania signs the Act of Independence in Vilnius, proclaiming the restoration of the independent Lithuanian state.", "year": 1918 },
+      { "title": "Sinking of USS Indianapolis", "description": "The Japanese submarine I-58 sinks the heavy cruiser USS Indianapolis, with the loss of 880 American sailors — one of the most tragic shipwrecks in US Navy history.", "year": 1945 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Onésimo", "type": "Mártir", "description": "Escravo fugitivo convertido pelo apóstolo Paulo, destinatário da Epístola a Filemon no Novo Testamento; bispo e mártir do século I." },
+      { "name": "Santa Juliana de Nicomédia", "type": "Virgem e mártir", "description": "Mártir do século IV em Nicomédia, conhecida pela sua coragem diante dos tormentos e considerada protetora contra doenças graves." }
+    ],
+    "observances": [
+      { "name": "Dia da Independência da Lituânia", "description": "A Lituânia proclamou sua independência da Rússia Imperial em 16 de fevereiro de 1918; o dia é feriado nacional." },
+      { "name": "Dia da Pizza Margherita", "description": "Jornada gastronômica informal na Itália para lembrar a pizza mais simples e emblemática, criada segundo a tradição em homenagem à rainha Margarida de Saboia em 1889." }
+    ],
+    "historicalQuote": {
+      "text": "Uma nação que não se lembra do que foi ontem não sabe o que é hoje.",
+      "author": "Woodrow Wilson",
+      "context": "Wilson (1856-1924), 28.º presidente dos EUA, pronunciou estas palavras em defesa da educação histórica. A independência da Lituânia celebrada hoje lembra a importância da memória coletiva."
+    },
+    "motivationalQuote": {
+      "text": "O momento sempre será adequado para fazer o que é correto.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      { "name": "Nicolau Copérnico", "description": "Astrônomo polonês dos séculos XV-XVI, formulou o modelo heliocêntrico do Sistema Solar, revolucionando a visão do cosmos.", "year": 1473 },
+      { "name": "John McEnroe", "description": "Tenista americano, tricampeão de Wimbledon e tetracampeão do US Open; famoso tanto pelo seu talento quanto pelo temperamento explosivo na quadra.", "year": 1959 },
+      { "name": "The Weeknd (Abel Tesfaye)", "description": "Cantor e compositor canadense de origem etíope, figura dominante do R&B e pop contemporâneo com sucessos globais como Blinding Lights.", "year": 1990 }
+    ],
+    "events": [
+      { "title": "Howard Carter abre a câmara funerária de Tutancâmon", "description": "O arqueólogo britânico Howard Carter acessa pela primeira vez a câmara interna do túmulo do faraó Tutancâmon no Vale dos Reis.", "year": 1923 },
+      { "title": "A Lituânia proclama sua independência", "description": "O Conselho da Lituânia assina o Ato de Independência em Vilnius, proclamando a restauração do Estado lituano independente.", "year": 1918 },
+      { "title": "Naufrágio do USS Indianapolis", "description": "O submarino japonês I-58 afunda o cruzador pesado USS Indianapolis, com a perda de 880 marinheiros americanos — um dos naufrágios mais trágicos da história da Marinha dos EUA.", "year": 1945 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Onèsim", "type": "Màrtir", "description": "Esclau fugitiu convertit per l'apòstol Pau, destinatari de l'Epístola a Filemon al Nou Testament; bisbe i màrtir del segle I." },
+      { "name": "Santa Juliana de Nicomèdia", "type": "Verge i màrtir", "description": "Màrtir del segle IV a Nicomèdia, coneguda per la seva valentia davant els turments i considerada protectora de les malalties greus." }
+    ],
+    "observances": [
+      { "name": "Dia de la Independència de Lituània", "description": "Lituània va proclamar la independència de la Rússia imperial el 16 de febrer de 1918; el dia és festa nacional." },
+      { "name": "Dia de la Pizza Margherita", "description": "Jornada gastronòmica informal a Itàlia per recordar la pizza més senzilla i emblemàtica, creada segons la tradició en honor de la reina Margarida de Savoia el 1889." }
+    ],
+    "historicalQuote": {
+      "text": "Una nació que no recorda el que va ser ahir no sap el que és avui.",
+      "author": "Woodrow Wilson",
+      "context": "Wilson (1856-1924), 28è president dels EUA, va pronunciar aquestes paraules en defensa de l'educació històrica. La independència de Lituània celebrada avui recorda la importància de la memòria col·lectiva."
+    },
+    "motivationalQuote": {
+      "text": "El moment sempre serà adequat per fer el que és correcte.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      { "name": "Nicolau Copèrnic", "description": "Astrònom polonès dels segles XV-XVI, va formular el model heliocèntric del Sistema Solar, revolucionant la visió del cosmos.", "year": 1473 },
+      { "name": "John McEnroe", "description": "Tennista americà, tres vegades campió de Wimbledon i quatre vegades campió de l'US Open; famós tant pel seu talent com pel seu caràcter explosiu a la pista.", "year": 1959 },
+      { "name": "The Weeknd (Abel Tesfaye)", "description": "Cantant i compositor canadenc d'origen etíop, figura dominant del R&B i del pop contemporani amb èxits globals com Blinding Lights.", "year": 1990 }
+    ],
+    "events": [
+      { "title": "Howard Carter obre la cambra funerària de Tutankamon", "description": "L'arqueòleg britànic Howard Carter accedeix per primera vegada a la cambra interior de la tomba del faraó Tutankamon a la Vall dels Reis.", "year": 1923 },
+      { "title": "Lituània proclama la independència", "description": "El Consell de Lituània signa l'Acta d'Independència a Vílnius, proclamant la restauració de l'Estat lituà independent.", "year": 1918 },
+      { "title": "Naufragi del USS Indianapolis", "description": "El submarí japonès I-58 enfonsa el creuer pesat USS Indianapolis, amb la pèrdua de 880 mariners americans — un dels naufrागis més tràgics de la història de la Marina dels EUA.", "year": 1945 }
+    ]
+  }
+}

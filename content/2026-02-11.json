@@ -1,0 +1,119 @@
+{
+  "date": "2026-02-11",
+  "es": {
+    "saints": [
+      { "name": "Nuestra Señora de Lourdes", "type": "Advocación mariana", "description": "Conmemora la primera de las 18 apariciones de la Virgen María a la joven Bernadette Soubirous en la gruta de Massabielle (Lourdes, Francia) en 1858." },
+      { "name": "San Pascual I", "type": "Papa", "description": "Papa del siglo IX, promotor de las artes y la arquitectura en Roma; bajo su pontificado se construyeron las basílicas de Santa Cecilia y Santa Práxedes." }
+    ],
+    "observances": [
+      { "name": "Día Mundial del Enfermo", "description": "Instituido por Juan Pablo II en 1992 para que la Iglesia recuerde a los enfermos y los agentes sanitarios que los atienden en nombre de Cristo." },
+      { "name": "Día de la Fundación del Estado del Vaticano", "description": "El 11 de febrero de 1929 se firmaron los Pactos de Letrán entre la Santa Sede y el gobierno italiano, creando el Estado de la Ciudad del Vaticano." }
+    ],
+    "historicalQuote": {
+      "text": "La fe mueve montañas.",
+      "author": "San Pablo",
+      "context": "Frase inspirada en 1 Corintios 13:2 del Nuevo Testamento. Aparición de Nuestra Señora de Lourdes (1858) es recordada hoy como celebración de la fe popular y la esperanza en la curación."
+    },
+    "motivationalQuote": {
+      "text": "Cuando todo parezca ir en tu contra, recuerda que el avión despega contra el viento.",
+      "author": "Henry Ford"
+    },
+    "births": [
+      { "name": "Thomas Edison", "description": "Inventor y empresario estadounidense con más de 1000 patentes; inventó la bombilla incandescente, el fonógrafo y contribuyó al desarrollo de la electricidad.", "year": 1847 },
+      { "name": "Burt Reynolds", "description": "Actor y director de cine estadounidense, sex symbol de Hollywood en los años 70 y 80, conocido por películas como Smokey and the Bandit.", "year": 1936 },
+      { "name": "Jennifer Aniston", "description": "Actriz estadounidense, mundialmente famosa por interpretar a Rachel Green en la serie Friends (1994–2004).", "year": 1969 }
+    ],
+    "events": [
+      { "title": "Pactos de Letrán: nace el Vaticano", "description": "Italia y la Santa Sede firman los Pactos de Letrán, creando el Estado de la Ciudad del Vaticano como entidad soberana independiente.", "year": 1929 },
+      { "title": "Nelson Mandela es puesto en libertad (anuncio)", "description": "El presidente sudafricano F.W. de Klerk anuncia en el Parlamento que Nelson Mandela será liberado al día siguiente, marcando el fin del apartheid.", "year": 1990 },
+      { "title": "Primera ejecución con silla eléctrica en EE. UU.", "description": "William Kemmler se convierte en la primera persona ejecutada mediante silla eléctrica en el estado de Nueva York.", "year": 1890 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Our Lady of Lourdes", "type": "Marian apparition", "description": "Commemorates the first of 18 apparitions of the Virgin Mary to the young Bernadette Soubirous at the grotto of Massabielle (Lourdes, France) in 1858." },
+      { "name": "Saint Paschal I", "type": "Pope", "description": "9th-century pope and promoter of the arts and architecture in Rome; under his pontificate the basilicas of Santa Cecilia and Santa Prassede were built." }
+    ],
+    "observances": [
+      { "name": "World Day of the Sick", "description": "Instituted by John Paul II in 1992 so that the Church remembers the sick and the healthcare workers who care for them in Christ's name." },
+      { "name": "Foundation of the Vatican City State", "description": "On 11 February 1929, the Lateran Pacts were signed between the Holy See and the Italian government, creating the Vatican City State." }
+    ],
+    "historicalQuote": {
+      "text": "Faith can move mountains.",
+      "author": "Saint Paul",
+      "context": "Inspired by 1 Corinthians 13:2 in the New Testament. The apparition of Our Lady of Lourdes (1858) is remembered today as a celebration of popular faith and hope in healing."
+    },
+    "motivationalQuote": {
+      "text": "When everything seems to be going against you, remember that the airplane takes off against the wind.",
+      "author": "Henry Ford"
+    },
+    "births": [
+      { "name": "Thomas Edison", "description": "American inventor and businessman with more than 1,000 patents; he invented the incandescent light bulb, the phonograph and contributed to the development of electricity.", "year": 1847 },
+      { "name": "Burt Reynolds", "description": "American actor and film director, Hollywood sex symbol of the 1970s and 80s, known for films such as Smokey and the Bandit.", "year": 1936 },
+      { "name": "Jennifer Aniston", "description": "American actress, world-famous for playing Rachel Green in the series Friends (1994–2004).", "year": 1969 }
+    ],
+    "events": [
+      { "title": "Lateran Pacts: Vatican is born", "description": "Italy and the Holy See sign the Lateran Pacts, creating the Vatican City State as a sovereign independent entity.", "year": 1929 },
+      { "title": "Nelson Mandela's release announced", "description": "South African President F.W. de Klerk announces in Parliament that Nelson Mandela will be freed the following day, marking the end of apartheid.", "year": 1990 },
+      { "title": "First electric chair execution in the USA", "description": "William Kemmler becomes the first person executed by electric chair in the state of New York.", "year": 1890 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "Nossa Senhora de Lourdes", "type": "Invocação mariana", "description": "Comemora a primeira das 18 aparições da Virgem Maria à jovem Bernadette Soubirous na gruta de Massabielle (Lourdes, França) em 1858." },
+      { "name": "São Pascoal I", "type": "Papa", "description": "Papa do século IX, promotor das artes e da arquitetura em Roma; sob seu pontificado foram construídas as basílicas de Santa Cecília e Santa Práxedes." }
+    ],
+    "observances": [
+      { "name": "Dia Mundial do Doente", "description": "Instituído por João Paulo II em 1992 para que a Igreja recorde os doentes e os agentes de saúde que os assistem em nome de Cristo." },
+      { "name": "Dia da Fundação do Estado do Vaticano", "description": "Em 11 de fevereiro de 1929, foram assinados os Pactos de Latrão entre a Santa Sé e o governo italiano, criando o Estado da Cidade do Vaticano." }
+    ],
+    "historicalQuote": {
+      "text": "A fé move montanhas.",
+      "author": "São Paulo",
+      "context": "Frase inspirada em 1 Coríntios 13:2 do Novo Testamento. A aparição de Nossa Senhora de Lourdes (1858) é lembrada hoje como celebração da fé popular e da esperança na cura."
+    },
+    "motivationalQuote": {
+      "text": "Quando tudo parece ir contra você, lembre-se de que o avião decola contra o vento.",
+      "author": "Henry Ford"
+    },
+    "births": [
+      { "name": "Thomas Edison", "description": "Inventor e empresário americano com mais de 1.000 patentes; inventou a lâmpada incandescente, o fonógrafo e contribuiu para o desenvolvimento da eletricidade.", "year": 1847 },
+      { "name": "Burt Reynolds", "description": "Ator e diretor de cinema americano, símbolo sexual de Hollywood nos anos 70 e 80, conhecido por filmes como Smokey and the Bandit.", "year": 1936 },
+      { "name": "Jennifer Aniston", "description": "Atriz americana, mundialmente famosa por interpretar Rachel Green na série Friends (1994–2004).", "year": 1969 }
+    ],
+    "events": [
+      { "title": "Pactos de Latrão: nasce o Vaticano", "description": "A Itália e a Santa Sé assinam os Pactos de Latrão, criando o Estado da Cidade do Vaticano como entidade soberana independente.", "year": 1929 },
+      { "title": "Anúncio da libertação de Nelson Mandela", "description": "O presidente sul-africano F.W. de Klerk anuncia no Parlamento que Nelson Mandela será libertado no dia seguinte, marcando o fim do apartheid.", "year": 1990 },
+      { "title": "Primeira execução na cadeira elétrica nos EUA", "description": "William Kemmler torna-se a primeira pessoa executada na cadeira elétrica no estado de Nova York.", "year": 1890 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "La Mare de Déu de Lourdes", "type": "Advocació mariana", "description": "Commemora la primera de les 18 aparicions de la Verge Maria a la jove Bernadette Soubirous a la gruta de Massabielle (Lourdes, França) el 1858." },
+      { "name": "Sant Pasqual I", "type": "Papa", "description": "Papa del segle IX, promotor de les arts i l'arquitectura a Roma; sota el seu pontificat es construïren les basíliques de Santa Cecília i Santa Pràssedes." }
+    ],
+    "observances": [
+      { "name": "Dia Mundial del Malalt", "description": "Instituït per Joan Pau II el 1992 perquè l'Església recordi els malalts i els agents sanitaris que els atenen en nom de Crist." },
+      { "name": "Dia de la Fundació de l'Estat del Vaticà", "description": "L'11 de febrer de 1929 es van signar els Pactes del Laterà entre la Santa Seu i el govern italià, creant l'Estat de la Ciutat del Vaticà." }
+    ],
+    "historicalQuote": {
+      "text": "La fe mou muntanyes.",
+      "author": "Sant Pau",
+      "context": "Frase inspirada en 1 Corintis 13:2 del Nou Testament. L'aparició de la Mare de Déu de Lourdes (1858) es recorda avui com a celebració de la fe popular i l'esperança en la curació."
+    },
+    "motivationalQuote": {
+      "text": "Quan tot sembli anar en contra teu, recorda que l'avió enlaire contra el vent.",
+      "author": "Henry Ford"
+    },
+    "births": [
+      { "name": "Thomas Edison", "description": "Inventor i empresari americà amb més de 1.000 patents; va inventar la bombeta incandescent, el fonògraf i va contribuir al desenvolupament de l'electricitat.", "year": 1847 },
+      { "name": "Burt Reynolds", "description": "Actor i director de cinema americà, sex symbol de Hollywood als anys 70 i 80, conegut per pel·lícules com Smokey and the Bandit.", "year": 1936 },
+      { "name": "Jennifer Aniston", "description": "Actriu nord-americana, mundialmente famosa per interpretar Rachel Green a la sèrie Friends (1994–2004).", "year": 1969 }
+    ],
+    "events": [
+      { "title": "Pactes del Laterà: neix el Vaticà", "description": "Itàlia i la Santa Seu signen els Pactes del Laterà, creant l'Estat de la Ciutat del Vaticà com a entitat sobirana independent.", "year": 1929 },
+      { "title": "Anunci de l'alliberament de Nelson Mandela", "description": "El president sud-africà F.W. de Klerk anuncia al Parlament que Nelson Mandela serà alliberat l'endemà, marcant la fi de l'apartheid.", "year": 1990 },
+      { "title": "Primera execució a la cadira elèctrica als EUA", "description": "William Kemmler es converteix en la primera persona executada a la cadira elèctrica a l'estat de Nova York.", "year": 1890 }
+    ]
+  }
+}

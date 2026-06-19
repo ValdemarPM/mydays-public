@@ -1,0 +1,271 @@
+{
+  "date": "2026-04-30",
+  "es": {
+    "saints": [
+      {
+        "name": "San Pío V",
+        "type": "Papa",
+        "description": "Papa dominico del siglo XVI (1566-1572), figura central de la Contrarreforma. Promulgó el Catecismo Romano, el Breviario y el Misal tridentino. Organizó la Santa Liga que derrotó a los otomanos en la Batalla de Lepanto (1571). Fue canonizado en 1712 y es el último papa canonizado hasta el siglo XX."
+      },
+      {
+        "name": "Santa María de la Cabeza",
+        "type": "Beata",
+        "description": "Esposa del patrón de Madrid, San Isidro Labrador. Vivió en el siglo XII-XIII. Según la tradición, al morir dejó que su cabeza fuera usada como reliquia que se llevaría en procesión para pedir lluvia en tiempos de sequía. Esta costumbre pervive en la Comunidad de Madrid. Es patrona de las Comunidades rurales de Castilla."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Noche de Walpurgis",
+        "description": "Celebrada en la noche del 30 de abril al 1 de mayo, especialmente en los países germánicos, escandinavos y centroeuropeos. Es la festividad de la santa Walpurgis, misionera inglesa del siglo VIII que evangelizó Alemania. La tradición popular mezclada con costumbres precristianas asocia esta noche con brujas, hogueras y el triunfo de la primavera sobre el invierno."
+      },
+      {
+        "name": "Día Internacional del Jazz",
+        "description": "Proclamado por la UNESCO en 2011 y celebrado el 30 de abril. Reconoce el jazz como forma de arte que promueve la libertad, la creatividad, la democracia y la dignidad humana. La primera celebración tuvo lugar en la sede de la UNESCO en París."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La guerra es demasiado importante para dejársela a los militares.",
+      "author": "Georges Clemenceau",
+      "context": "La caída de Saigón el 30 de abril de 1975 puso fin a una guerra que duró décadas y costó la vida a más de 3 millones de personas. El primer ministro francés Clemenceau (1841-1929) reflexionó durante la Primera Guerra Mundial sobre el peso político de los conflictos armados."
+    },
+    "motivationalQuote": {
+      "text": "La vida es lo que te pasa mientras estás ocupado haciendo otros planes.",
+      "author": "John Lennon"
+    },
+    "births": [
+      {
+        "name": "Franz Léhar",
+        "description": "Compositor húngaro-austriaco del siglo XIX-XX, rey de la opereta vienesa. Su obra 'La viuda alegre' (1905) fue un éxito internacional arrollador que inauguró la edad de oro de la opereta vienesa. Sus melodías brillantes y su capacidad para la melodía romántica lo convirtieron en el compositor de opereta más famoso del siglo XX.",
+        "year": "1870"
+      },
+      {
+        "name": "Willie Nelson",
+        "description": "Músico y cantautor americano, figura fundamental del género country outlaw y una de las voces más icónicas de la música americana. Con más de 200 álbumes grabados, canciones como 'On the Road Again', 'Always on My Mind' y 'Blue Eyes Crying in the Rain' lo han convertido en leyenda. Activista social por los derechos de los agricultores.",
+        "year": "1933"
+      },
+      {
+        "name": "Kirsten Dunst",
+        "description": "Actriz americana, conocida por su papel de Mary Jane Watson en la trilogía de Spider-Man de Sam Raimi (2002-2007) y por su actuación en 'Melancholia' de Lars von Trier (2011), que le valió el premio a mejor actriz en Cannes. Debutó en el cine con 'Entrevista con el vampiro' (1994) a los 11 años.",
+        "year": "1982"
+      }
+    ],
+    "events": [
+      {
+        "title": "Caída de Saigón — Fin de la Guerra de Vietnam",
+        "description": "Las fuerzas del Ejército Popular de Vietnam del Norte y el Viet Cong tomaron Saigón, capital de Vietnam del Sur, poniendo fin a la Guerra de Vietnam. Las imágenes de los helicópteros americanos evacuando desde el techo de la embajada se convirtieron en símbolo de la derrota. Vietnam se reunificó al año siguiente como República Socialista.",
+        "year": "1975"
+      },
+      {
+        "title": "Hitler se suicida en su búnker",
+        "description": "Adolf Hitler se suicidó en el Führerbunker de Berlín junto a su esposa Eva Braun (con quien se había casado el día anterior), mientras las tropas soviéticas tomaban la ciudad. En su testamento político culpó a los judíos de la guerra. La noticia se hizo pública al día siguiente.",
+        "year": "1945"
+      },
+      {
+        "title": "Inauguración de George Washington como primer presidente de los EE.UU.",
+        "description": "George Washington prestó juramento como primer presidente de los Estados Unidos en Federal Hall, en la ciudad de Nueva York, que era entonces la capital provisional del país. Su discurso inaugural fue uno de los más cortos de la historia: apenas 135 palabras.",
+        "year": "1789"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Pius V",
+        "type": "Pope",
+        "description": "A 16th-century Dominican pope (1566–1572), a central figure of the Counter-Reformation. He promulgated the Roman Catechism, the Breviary, and the Tridentine Missal. He organised the Holy League that defeated the Ottomans at the Battle of Lepanto (1571). He was canonised in 1712 and is the last pope canonised until the 20th century."
+      },
+      {
+        "name": "Saint Mary of the Head",
+        "type": "Blessed",
+        "description": "Wife of the patron of Madrid, Saint Isidore the Farmer. She lived in the 12th–13th century. According to tradition, on her death she allowed her head to be used as a relic that would be carried in procession to pray for rain in times of drought. This custom survives in the Community of Madrid. She is patron of rural communities of Castile."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Walpurgis Night",
+        "description": "Celebrated on the night of 30 April to 1 May, especially in Germanic, Scandinavian, and Central European countries. It is the feast of Saint Walpurgis, an 8th-century English missionary who evangelised Germany. Popular tradition, mixed with pre-Christian customs, associates this night with witches, bonfires, and the triumph of spring over winter."
+      },
+      {
+        "name": "International Jazz Day",
+        "description": "Proclaimed by UNESCO in 2011 and celebrated on 30 April. It recognises jazz as an art form that promotes freedom, creativity, democracy, and human dignity. The first celebration was held at UNESCO headquarters in Paris."
+      }
+    ],
+    "historicalQuote": {
+      "text": "War is too serious a matter to be entrusted to the military.",
+      "author": "Georges Clemenceau",
+      "context": "The fall of Saigon on 30 April 1975 ended a war that lasted decades and cost the lives of more than 3 million people. French Prime Minister Clemenceau (1841–1929) reflected during the First World War on the political weight of armed conflicts."
+    },
+    "motivationalQuote": {
+      "text": "Life is what happens to you while you're busy making other plans.",
+      "author": "John Lennon"
+    },
+    "births": [
+      {
+        "name": "Franz Lehár",
+        "description": "Hungarian-Austrian composer of the 19th–20th century, king of the Viennese operetta. His work 'The Merry Widow' (1905) was an overwhelming international success that launched the golden age of Viennese operetta. His brilliant melodies and gift for romantic melody made him the most famous operetta composer of the 20th century.",
+        "year": "1870"
+      },
+      {
+        "name": "Willie Nelson",
+        "description": "American musician and singer-songwriter, a fundamental figure in the outlaw country genre and one of the most iconic voices in American music. With more than 200 albums recorded, songs like 'On the Road Again', 'Always on My Mind', and 'Blue Eyes Crying in the Rain' have made him a legend. A social activist for farmers' rights.",
+        "year": "1933"
+      },
+      {
+        "name": "Kirsten Dunst",
+        "description": "American actress, known for her role as Mary Jane Watson in Sam Raimi's Spider-Man trilogy (2002–2007) and for her performance in Lars von Trier's 'Melancholia' (2011), which earned her the Best Actress award at Cannes. She made her film debut in 'Interview with the Vampire' (1994) at the age of 11.",
+        "year": "1982"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fall of Saigon — End of the Vietnam War",
+        "description": "The forces of the North Vietnamese People's Army and the Viet Cong captured Saigon, the capital of South Vietnam, ending the Vietnam War. The images of American helicopters evacuating from the roof of the embassy became symbols of defeat. Vietnam was reunified the following year as a Socialist Republic.",
+        "year": "1975"
+      },
+      {
+        "title": "Hitler Commits Suicide in His Bunker",
+        "description": "Adolf Hitler committed suicide in the Führerbunker in Berlin alongside his wife Eva Braun (whom he had married the day before), as Soviet troops took the city. In his political testament he blamed the Jews for the war. The news was made public the following day.",
+        "year": "1945"
+      },
+      {
+        "title": "Inauguration of George Washington as First President of the USA",
+        "description": "George Washington was sworn in as the first President of the United States at Federal Hall in New York City, which was then the provisional capital of the country. His inaugural address was one of the shortest in history: just 135 words.",
+        "year": "1789"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Pio V",
+        "type": "Papa",
+        "description": "Papa dominicano do século XVI (1566-1572), figura central da Contra-Reforma. Promulgou o Catecismo Romano, o Breviário e o Missal tridentino. Organizou a Santa Liga que derrotou os otomanos na Batalha de Lepanto (1571). Foi canonizado em 1712 e é o último papa canonizado até ao século XX."
+      },
+      {
+        "name": "Santa Maria da Cabeça",
+        "type": "Beata",
+        "description": "Esposa do patrono de Madrid, São Isidoro Lavrador. Viveu nos séculos XII-XIII. Segundo a tradição, ao morrer deixou que a sua cabeça fosse usada como relíquia que seria levada em procissão para pedir chuva em tempos de seca. Este costume sobrevive na Comunidade de Madrid. É padroeira das comunidades rurais de Castela."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Noite de Valburga",
+        "description": "Celebrada na noite de 30 de abril para 1 de maio, especialmente nos países germânicos, escandinavos e centro-europeus. É a festividade de Santa Valburga, missionária inglesa do século VIII que evangelizou a Alemanha. A tradição popular misturada com costumes pré-cristãos associa esta noite a bruxas, fogueiras e o triunfo da primavera sobre o inverno."
+      },
+      {
+        "name": "Dia Internacional do Jazz",
+        "description": "Proclamado pela UNESCO em 2011 e celebrado a 30 de abril. Reconhece o jazz como forma de arte que promove a liberdade, a criatividade, a democracia e a dignidade humana. A primeira celebração teve lugar na sede da UNESCO em Paris."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A guerra é demasiado importante para a deixar aos militares.",
+      "author": "Georges Clemenceau",
+      "context": "A queda de Saigão a 30 de abril de 1975 pôs fim a uma guerra que durou décadas e custou a vida a mais de 3 milhões de pessoas. O primeiro-ministro francês Clemenceau (1841-1929) refletiu durante a Primeira Guerra Mundial sobre o peso político dos conflitos armados."
+    },
+    "motivationalQuote": {
+      "text": "A vida é o que te acontece enquanto estás ocupado a fazer outros planos.",
+      "author": "John Lennon"
+    },
+    "births": [
+      {
+        "name": "Franz Lehár",
+        "description": "Compositor húngaro-austríaco dos séculos XIX-XX, rei da opereta vienense. A sua obra 'A Viúva Alegre' (1905) foi um sucesso internacional arrasador que inaugurou a idade de ouro da opereta vienense. As suas melodias brilhantes e a sua capacidade para a melodia romântica tornaram-no o compositor de opereta mais famoso do século XX.",
+        "year": "1870"
+      },
+      {
+        "name": "Willie Nelson",
+        "description": "Músico e cantor-compositor americano, figura fundamental do género country outlaw e uma das vozes mais icónicas da música americana. Com mais de 200 álbuns gravados, canções como 'On the Road Again', 'Always on My Mind' e 'Blue Eyes Crying in the Rain' tornaram-no lenda. Ativista social pelos direitos dos agricultores.",
+        "year": "1933"
+      },
+      {
+        "name": "Kirsten Dunst",
+        "description": "Atriz americana, conhecida pelo seu papel de Mary Jane Watson na trilogia do Homem-Aranha de Sam Raimi (2002-2007) e pela sua atuação em 'Melancholia' de Lars von Trier (2011), que lhe valeu o prémio de melhor atriz em Cannes. Estreou-se no cinema em 'Entrevista com o Vampiro' (1994) com 11 anos.",
+        "year": "1982"
+      }
+    ],
+    "events": [
+      {
+        "title": "Queda de Saigão — Fim da Guerra do Vietname",
+        "description": "As forças do Exército Popular do Vietname do Norte e o Viet Cong tomaram Saigão, capital do Vietname do Sul, pondo fim à Guerra do Vietname. As imagens dos helicópteros americanos a evacuar do telhado da embaixada tornaram-se símbolos da derrota. O Vietname foi reunificado no ano seguinte como República Socialista.",
+        "year": "1975"
+      },
+      {
+        "title": "Hitler suicida-se no seu bunker",
+        "description": "Adolf Hitler suicidou-se no Führerbunker de Berlim juntamente com a sua esposa Eva Braun (com quem tinha casado no dia anterior), enquanto as tropas soviéticas tomavam a cidade. No seu testamento político culpou os judeus pela guerra. A notícia foi tornada pública no dia seguinte.",
+        "year": "1945"
+      },
+      {
+        "title": "Inauguração de George Washington como primeiro presidente dos EUA",
+        "description": "George Washington prestou juramento como primeiro presidente dos Estados Unidos no Federal Hall, na cidade de Nova Iorque, que era então a capital provisória do país. O seu discurso inaugural foi um dos mais curtos da história: apenas 135 palavras.",
+        "year": "1789"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Pius V",
+        "type": "Papa",
+        "description": "Papa dominic del segle XVI (1566-1572), figura central de la Contrareforma. Va promulgar el Catecisme Romà, el Breviari i el Missal tridentí. Va organitzar la Santa Lliga que va derrotar els otomans a la Batalla de Lepant (1571). Va ser canonitzat el 1712 i és l'últim papa canonitzat fins al segle XX."
+      },
+      {
+        "name": "Santa Maria del Cap",
+        "type": "Beata",
+        "description": "Esposa del patró de Madrid, Sant Isidre Llaurador. Va viure als segles XII-XIII. Segons la tradició, en morir va deixar que el seu cap fos usat com a relíquia que es portaria en processó per demanar pluja en temps de sequera. Aquest costum perviu a la Comunitat de Madrid. És patrona de les comunitats rurals de Castella."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Nit de Valburga",
+        "description": "Celebrada en la nit del 30 d'abril a l'1 de maig, especialment als països germànics, escandinaus i centreeuropeus. És la festivitat de Santa Valburga, missionera anglesa del segle VIII que va evangelitzar Alemanya. La tradició popular barrejada amb costums precristians associa aquesta nit a bruixes, fogueres i el triomf de la primavera sobre l'hivern."
+      },
+      {
+        "name": "Dia Internacional del Jazz",
+        "description": "Proclamat per la UNESCO el 2011 i celebrat el 30 d'abril. Reconeix el jazz com a forma d'art que promou la llibertat, la creativitat, la democràcia i la dignitat humana. La primera celebració va tenir lloc a la seu de la UNESCO a París."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La guerra és massa important per deixar-la als militars.",
+      "author": "Georges Clemenceau",
+      "context": "La caiguda de Saigon el 30 d'abril de 1975 va posar fi a una guerra que va durar dècades i va costar la vida a més de 3 milions de persones. El primer ministre francès Clemenceau (1841-1929) va reflexionar durant la Primera Guerra Mundial sobre el pes polític dels conflictes armats."
+    },
+    "motivationalQuote": {
+      "text": "La vida és el que et passa mentre estàs ocupat fent altres plans.",
+      "author": "John Lennon"
+    },
+    "births": [
+      {
+        "name": "Franz Lehár",
+        "description": "Compositor hongarès-austríac dels segles XIX-XX, rei de l'opereta vienesa. La seva obra 'La vídua alegre' (1905) va ser un èxit internacional aclaparador que va inaugurar l'edat d'or de l'opereta vienesa. Les seves melodies brillants i la seva capacitat per a la melodia romàntica el van convertir en el compositor d'opereta més famós del segle XX.",
+        "year": "1870"
+      },
+      {
+        "name": "Willie Nelson",
+        "description": "Músic i cantautor americà, figura fonamental del gènere country outlaw i una de les veus més icòniques de la música americana. Amb més de 200 àlbums gravats, cançons com 'On the Road Again', 'Always on My Mind' i 'Blue Eyes Crying in the Rain' l'han convertit en llegenda. Activista social pels drets dels agricultors.",
+        "year": "1933"
+      },
+      {
+        "name": "Kirsten Dunst",
+        "description": "Actriu americana, coneguda pel seu paper de Mary Jane Watson a la trilogia de l'Spiderman de Sam Raimi (2002-2007) i per la seva actuació a 'Melancholia' de Lars von Trier (2011), que li va valer el premi a millor actriu a Cannes. Va debutar al cinema amb 'Entrevista amb el vampir' (1994) als 11 anys.",
+        "year": "1982"
+      }
+    ],
+    "events": [
+      {
+        "title": "Caiguda de Saigon — Fi de la Guerra del Vietnam",
+        "description": "Les forces de l'Exèrcit Popular del Vietnam del Nord i el Viet Cong van prendre Saigon, capital del Vietnam del Sud, posant fi a la Guerra del Vietnam. Les imatges dels helicòpters americans evacuant des del terrat de l'ambaixada es van convertir en símbols de la derrota. El Vietnam es va reunificar l'any següent com a República Socialista.",
+        "year": "1975"
+      },
+      {
+        "title": "Hitler se suïcida al seu búnquer",
+        "description": "Adolf Hitler es va suïcidar al Führerbunker de Berlín juntament amb la seva esposa Eva Braun (amb qui s'havia casat l'endemà anterior), mentre les tropes soviètiques prenien la ciutat. En el seu testament polític va culpar els jueus de la guerra. La notícia es va fer pública l'endemà.",
+        "year": "1945"
+      },
+      {
+        "title": "Inauguració de George Washington com a primer president dels EUA",
+        "description": "George Washington va prestar jurament com a primer president dels Estats Units al Federal Hall, a la ciutat de Nova York, que era aleshores la capital provisional del país. El seu discurs inaugural va ser un dels més curts de la història: tan sols 135 paraules.",
+        "year": "1789"
+      }
+    ]
+  }
+}

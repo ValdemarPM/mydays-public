@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-22",
+  "es": {
+    "saints": [
+      { "name": "San Bienvenido de Osimo", "type": "Obispo", "description": "Obispo de Osimo (Marche, Italia) en el siglo XIII, canonizado en 1619 por Paulo V, conocido por su humildad, su caridad y sus dotes de mediador en conflictos civiles." },
+      { "name": "San Basilio de Ancira", "type": "Mártir", "description": "Presbítero de Ancira (actual Ankara) del siglo IV, martirizado durante las persecuciones del emperador Juliano el Apóstata por defender públicamente el catolicismo frente al arrianismo." },
+      { "name": "Santa Lea de Roma", "type": "Viuda y religiosa", "description": "Matrona romana del siglo IV, que tras enviudar ingresó en una comunidad de vírgenes consagradas en Roma y fue elogiada por su vida de penitencia por San Jerónimo." }
+    ],
+    "observances": [
+      { "name": "Día Mundial del Agua", "description": "Jornada proclamada por la ONU en 1993 para concienciar sobre la importancia del agua dulce y la necesidad de gestionarla de forma sostenible; cada año se centra en un tema específico relacionado con el agua." },
+      { "name": "Día Mundial del Trabajo Social", "description": "Jornada internacional para visibilizar la labor de los trabajadores sociales en la defensa de los derechos humanos, la justicia social y el bienestar de las comunidades." }
+    ],
+    "historicalQuote": {
+      "text": "El agua es el alma de la Tierra.",
+      "author": "W. H. Auden",
+      "context": "El poeta anglo-americano W. H. Auden escribió extensamente sobre la naturaleza y la condición humana. Esta frase, frecuentemente atribuida a él, refleja la visión poética de la importancia del agua para la vida en el planeta."
+    },
+    "motivationalQuote": {
+      "text": "El río acepta todo lo que se le ofrece y le da una forma nueva y bella.",
+      "author": "Khalil Gibran"
+    },
+    "births": [
+      { "name": "Johann Wolfgang von Goethe", "description": "Escritor, poeta y científico alemán, autor de 'Fausto' y 'Las desventuras del joven Werther', figura cumbre del Romanticismo alemán y una de las personalidades más influyentes de la cultura occidental.", "year": 1749 },
+      { "name": "Marcel Marceau", "description": "Actor y mimo francés de origen judío, el más célebre del siglo XX, creador del personaje Bip el Payaso y artista que convirtió el silencio en un lenguaje universal.", "year": 1923 },
+      { "name": "Andrew Lloyd Webber", "description": "Compositor británico de musicales, autor de 'El fantasma de la ópera', 'Cats', 'Evita' y otras obras que revolucionaron el teatro musical en el siglo XX.", "year": 1948 }
+    ],
+    "events": [
+      { "title": "Abolición de la esclavitud en los Estados Unidos: nace el Partido Republicano", "description": "El Partido Republicano de los Estados Unidos fue fundado formalmente en Ripon, Wisconsin, en parte como respuesta al debate sobre la expansión de la esclavitud a los nuevos territorios.", "year": 1854 },
+      { "title": "Goethe publica el 'Fausto' (primera parte)", "description": "Johann Wolfgang von Goethe publicó la primera parte del 'Fausto', considerada la obra cumbre de la literatura alemana y una de las más influyentes de la literatura universal.", "year": 1808 },
+      { "title": "Primer viaje en tren de vapor en Estados Unidos", "description": "El primer ferrocarril de vapor de Estados Unidos, el Baltimore and Ohio, fue inaugurado oficialmente, marcando el inicio de la era ferroviaria en el país.", "year": 1829 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Benvenute of Osimo", "type": "Bishop", "description": "Thirteenth-century Bishop of Osimo (Marche, Italy), canonised in 1619 by Paul V, known for his humility, charity and skills as a mediator in civil conflicts." },
+      { "name": "Saint Basil of Ancyra", "type": "Martyr", "description": "Fourth-century priest of Ancyra (modern Ankara), martyred during the persecutions of Emperor Julian the Apostate for publicly defending Catholicism against Arianism." },
+      { "name": "Saint Lea of Rome", "type": "Widow and religious", "description": "Fourth-century Roman matron who, after being widowed, joined a community of consecrated virgins in Rome and was praised for her life of penance by Saint Jerome." }
+    ],
+    "observances": [
+      { "name": "World Water Day", "description": "A UN day proclaimed in 1993 to raise awareness of the importance of fresh water and the need to manage it sustainably; each year focuses on a specific water-related theme." },
+      { "name": "World Social Work Day", "description": "An international day to raise the profile of social workers' role in defending human rights, social justice and the well-being of communities." }
+    ],
+    "historicalQuote": {
+      "text": "Water is the soul of the Earth.",
+      "author": "W. H. Auden",
+      "context": "Anglo-American poet W. H. Auden wrote extensively about nature and the human condition. This phrase, frequently attributed to him, reflects a poetic vision of water's importance to life on the planet."
+    },
+    "motivationalQuote": {
+      "text": "The river accepts everything offered to it and gives it a new and beautiful form.",
+      "author": "Khalil Gibran"
+    },
+    "births": [
+      { "name": "Johann Wolfgang von Goethe", "description": "German writer, poet and scientist, author of 'Faust' and 'The Sorrows of Young Werther', the towering figure of German Romanticism and one of the most influential personalities in Western culture.", "year": 1749 },
+      { "name": "Marcel Marceau", "description": "French Jewish actor and mime, the most celebrated of the twentieth century, creator of the character Bip the Clown and an artist who turned silence into a universal language.", "year": 1923 },
+      { "name": "Andrew Lloyd Webber", "description": "British musical theatre composer, author of 'The Phantom of the Opera', 'Cats', 'Evita' and other works that revolutionised musical theatre in the twentieth century.", "year": 1948 }
+    ],
+    "events": [
+      { "title": "US Republican Party founded", "description": "The Republican Party of the United States was formally founded in Ripon, Wisconsin, partly in response to the debate over the expansion of slavery into new territories.", "year": 1854 },
+      { "title": "Goethe publishes 'Faust' (Part One)", "description": "Johann Wolfgang von Goethe published the first part of 'Faust', considered the masterpiece of German literature and one of the most influential works in world literature.", "year": 1808 },
+      { "title": "First steam train journey in the United States", "description": "The first steam railway in the United States, the Baltimore and Ohio, was officially inaugurated, marking the beginning of the railway era in the country.", "year": 1829 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Benvindo de Osimo", "type": "Bispo", "description": "Bispo de Osimo (Marche, Itália) no século XIII, canonizado em 1619 por Paulo V, conhecido pela sua humildade, caridade e dons de mediador em conflitos civis." },
+      { "name": "São Basílio de Ancira", "type": "Mártir", "description": "Presbítero de Ancira (atual Ancara) do século IV, martirizado durante as perseguições do imperador Juliano, o Apóstata, por defender publicamente o catolicismo frente ao arianismo." },
+      { "name": "Santa Léia de Roma", "type": "Viúva e religiosa", "description": "Matrona romana do século IV que, após enviuvar, ingressou numa comunidade de virgens consagradas em Roma e foi elogiada pela sua vida de penitência por São Jerônimo." }
+    ],
+    "observances": [
+      { "name": "Dia Mundial da Água", "description": "Jornada proclamada pela ONU em 1993 para conscienciar sobre a importância da água doce e a necessidade de geri-la de forma sustentável; cada ano centra-se numa temática específica relacionada com a água." },
+      { "name": "Dia Mundial do Trabalho Social", "description": "Jornada internacional para visibilizar o trabalho dos assistentes sociais na defesa dos direitos humanos, a justiça social e o bem-estar das comunidades." }
+    ],
+    "historicalQuote": {
+      "text": "A água é a alma da Terra.",
+      "author": "W. H. Auden",
+      "context": "O poeta anglo-americano W. H. Auden escreveu extensamente sobre a natureza e a condição humana. Esta frase, frequentemente atribuída a ele, reflete a visão poética da importância da água para a vida no planeta."
+    },
+    "motivationalQuote": {
+      "text": "O rio aceita tudo o que lhe é oferecido e lhe dá uma forma nova e bela.",
+      "author": "Khalil Gibran"
+    },
+    "births": [
+      { "name": "Johann Wolfgang von Goethe", "description": "Escritor, poeta e cientista alemão, autor de 'Fausto' e 'Os Sofrimentos do Jovem Werther', figura culminante do Romantismo alemão e uma das personalidades mais influentes da cultura ocidental.", "year": 1749 },
+      { "name": "Marcel Marceau", "description": "Ator e mímico francês de origem judaica, o mais célebre do século XX, criador do personagem Bip, o Palhaço, e artista que transformou o silêncio numa linguagem universal.", "year": 1923 },
+      { "name": "Andrew Lloyd Webber", "description": "Compositor britânico de musicais, autor de 'O Fantasma da Ópera', 'Cats', 'Evita' e outras obras que revolucionaram o teatro musical no século XX.", "year": 1948 }
+    ],
+    "events": [
+      { "title": "Partido Republicano dos EUA é fundado", "description": "O Partido Republicano dos Estados Unidos foi formalmente fundado em Ripon, Wisconsin, em parte como resposta ao debate sobre a expansão da escravidão aos novos territórios.", "year": 1854 },
+      { "title": "Goethe publica o 'Fausto' (primeira parte)", "description": "Johann Wolfgang von Goethe publicou a primeira parte do 'Fausto', considerada a obra máxima da literatura alemã e uma das mais influentes da literatura universal.", "year": 1808 },
+      { "title": "Primeira viagem de trem a vapor nos Estados Unidos", "description": "A primeira ferrovia a vapor dos Estados Unidos, a Baltimore and Ohio, foi inaugurada oficialmente, marcando o início da era ferroviária no país.", "year": 1829 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Benvingut d'Osimo", "type": "Bisbe", "description": "Bisbe d'Osimo (Marche, Itàlia) al segle XIII, canonitzat el 1619 per Pau V, conegut per la seva humilitat, caritat i dots de mediador en conflictes civils." },
+      { "name": "Sant Basili d'Ancira", "type": "Màrtir", "description": "Prevere d'Ancira (actual Ankara) del segle IV, martiritzat durant les persecucions de l'emperador Julià l'Apòstata per defensar públicament el catolicisme davant l'arrianisme." },
+      { "name": "Santa Lea de Roma", "type": "Vídua i religiosa", "description": "Matrona romana del segle IV que, després de quedar vídua, va ingressar en una comunitat de verges consagrades a Roma i va ser elogiada per la seva vida de penitència per Sant Jeroni." }
+    ],
+    "observances": [
+      { "name": "Dia Mundial de l'Aigua", "description": "Jornada proclamada per l'ONU el 1993 per conscienciar sobre la importància de l'aigua dolça i la necessitat de gestionar-la de forma sostenible; cada any es centra en una temàtica específica relacionada amb l'aigua." },
+      { "name": "Dia Mundial del Treball Social", "description": "Jornada internacional per visibilitzar la tasca dels treballadors socials en la defensa dels drets humans, la justícia social i el benestar de les comunitats." }
+    ],
+    "historicalQuote": {
+      "text": "L'aigua és l'ànima de la Terra.",
+      "author": "W. H. Auden",
+      "context": "El poeta anglo-americà W. H. Auden va escriure extensament sobre la natura i la condició humana. Aquesta frase, freqüentment atribuïda a ell, reflecteix la visió poètica de la importància de l'aigua per a la vida al planeta."
+    },
+    "motivationalQuote": {
+      "text": "El riu accepta tot el que se li ofereix i li dóna una forma nova i bella.",
+      "author": "Khalil Gibran"
+    },
+    "births": [
+      { "name": "Johann Wolfgang von Goethe", "description": "Escriptor, poeta i científic alemany, autor del 'Faust' i 'Les desgràcies del jove Werther', figura culminant del Romanticisme alemany i una de les personalitats més influents de la cultura occidental.", "year": 1749 },
+      { "name": "Marcel Marceau", "description": "Actor i mim francès d'origen jueu, el més cèlebre del segle XX, creador del personatge Bip el Pallasso i artista que va convertir el silenci en un llenguatge universal.", "year": 1923 },
+      { "name": "Andrew Lloyd Webber", "description": "Compositor britànic de musicals, autor de 'El fantasma de l'òpera', 'Cats', 'Evita' i altres obres que van revolucionar el teatre musical al segle XX.", "year": 1948 }
+    ],
+    "events": [
+      { "title": "Fundació del Partit Republicà dels EUA", "description": "El Partit Republicà dels Estats Units va ser formalment fundat a Ripon, Wisconsin, en part com a resposta al debat sobre l'expansió de l'esclavitud als nous territoris.", "year": 1854 },
+      { "title": "Goethe publica el 'Faust' (primera part)", "description": "Johann Wolfgang von Goethe va publicar la primera part del 'Faust', considerada l'obra culminant de la literatura alemanya i una de les més influents de la literatura universal.", "year": 1808 },
+      { "title": "Primer viatge en tren de vapor als Estats Units", "description": "El primer ferrocarril de vapor dels Estats Units, el Baltimore and Ohio, va ser inaugurat oficialment, marcant l'inici de l'era ferroviària al país.", "year": 1829 }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-10",
+  "es": {
+    "saints": [
+      {
+        "name": "San Antonino de Florencia",
+        "type": "Obispo",
+        "description": "Arzobispo de Florencia del siglo XV, dominico y uno de los grandes teólogos morales de su tiempo. Fue canonizado en 1523 y es recordado por su labor en favor de los pobres, su sabiduría jurídica y sus reflexiones sobre la ética económica, siendo pionero en la condena de la usura."
+      },
+      {
+        "name": "San Juan de Ávila",
+        "type": "Sacerdote y Doctor de la Iglesia",
+        "description": "Sacerdote español del siglo XVI, conocido como el 'Apóstol de Andalucía'. Predicador excepcional y director espiritual de figuras como Santa Teresa de Ávila y San Francisco de Borja. Fue canonizado en 1970 y declarado Doctor de la Iglesia en 2012."
+      },
+      {
+        "name": "San Gordiano",
+        "type": "Mártir",
+        "description": "Mártir cristiano del siglo IV que sufrió martirio en Roma junto con San Epímaco durante el reinado del emperador Juliano el Apóstata. Sus reliquias fueron trasladadas a la catedral de Essen en el siglo XII."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Nacional de los Océanos (China)",
+        "description": "China celebra su Día Nacional de los Océanos el 10 de mayo para concienciar sobre la conservación de los mares, los recursos marinos y el impacto humano en los océanos."
+      },
+      {
+        "name": "Día de la Madre en España y muchos países",
+        "description": "El primer o segundo domingo de mayo se celebra el Día de la Madre en España, Portugal y muchos países hispanoamericanos. En 2026, coincide con estas fechas de mayo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No hay amor más grande que el de una madre.",
+      "author": "Proverbio popular"
+    },
+    "motivationalQuote": {
+      "text": "La imaginación es más importante que el conocimiento.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Fred Astaire",
+        "description": "Bailarín, actor y coreógrafo americano, considerado el mejor bailarín de la historia del cine. Su estilo elegante y su asociación artística con Ginger Rogers produjeron clásicos del cine musical como Top Hat (1935) y Swing Time (1936).",
+        "year": "1899"
+      },
+      {
+        "name": "Dante Alighieri",
+        "description": "Poeta italiano medieval, autor de la Divina Comedia, considerada la obra cumbre de la literatura italiana y una de las obras maestras de la literatura universal. Su uso del toscano literario contribuyó a la formación del italiano moderno.",
+        "year": "1265"
+      },
+      {
+        "name": "Sid Vicious",
+        "description": "Músico británico, bajista y figura emblemática de la banda de punk rock Sex Pistols. Conocido tanto por su música provocadora como por su turbulenta vida personal, fue uno de los iconos del movimiento punk de los años 70.",
+        "year": "1957"
+      }
+    ],
+    "events": [
+      {
+        "title": "Nelson Mandela, presidente de Sudáfrica",
+        "description": "Nelson Mandela fue investido presidente de Sudáfrica, convirtiéndose en el primer mandatario negro elegido democráticamente del país. Su presidencia marcó el fin del apartheid y el inicio de una nueva era de reconciliación nacional.",
+        "year": "1994"
+      },
+      {
+        "title": "Inauguración del Golden Gate",
+        "description": "El puente Golden Gate de San Francisco fue inaugurado para el tráfico peatonal, un día antes de su apertura al tráfico rodado. Con sus 1.280 metros de vano central, fue durante décadas el puente colgante más largo del mundo.",
+        "year": "1937"
+      },
+      {
+        "title": "Confederación Suiza",
+        "description": "Los cantones de Uri, Schwytz y Unterwalden firmaron la Carta Federal, considerada el acta fundacional de la Confederación Suiza, una de las alianzas más duraderas de la historia europea.",
+        "year": "1291"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Antoninus of Florence",
+        "type": "Bishop",
+        "description": "15th-century Archbishop of Florence, Dominican friar and one of the greatest moral theologians of his time. Canonised in 1523, he is remembered for his work on behalf of the poor, his legal wisdom, and his reflections on economic ethics, being a pioneer in the condemnation of usury."
+      },
+      {
+        "name": "Saint John of Ávila",
+        "type": "Priest and Doctor of the Church",
+        "description": "16th-century Spanish priest, known as the 'Apostle of Andalusia'. An exceptional preacher and spiritual director of figures such as Saint Teresa of Ávila and Saint Francis Borgia. He was canonised in 1970 and declared a Doctor of the Church in 2012."
+      },
+      {
+        "name": "Saint Gordian",
+        "type": "Martyr",
+        "description": "4th-century Christian martyr who suffered martyrdom in Rome alongside Saint Epimachus during the reign of Emperor Julian the Apostate. His relics were transferred to Essen Cathedral in the 12th century."
+      }
+    ],
+    "observances": [
+      {
+        "name": "National Ocean Day (China)",
+        "description": "China celebrates its National Ocean Day on May 10 to raise awareness about the conservation of the seas, marine resources, and human impact on the oceans."
+      },
+      {
+        "name": "Mother's Day in Spain and many countries",
+        "description": "The first or second Sunday of May is Mother's Day in Spain, Portugal, and many Latin American countries. In 2026, it falls around these May dates."
+      }
+    ],
+    "historicalQuote": {
+      "text": "There is no greater love than that of a mother.",
+      "author": "Popular proverb"
+    },
+    "motivationalQuote": {
+      "text": "Imagination is more important than knowledge.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Fred Astaire",
+        "description": "American dancer, actor, and choreographer, considered the greatest dancer in cinema history. His elegant style and artistic partnership with Ginger Rogers produced classics of the musical film genre such as Top Hat (1935) and Swing Time (1936).",
+        "year": "1899"
+      },
+      {
+        "name": "Dante Alighieri",
+        "description": "Medieval Italian poet, author of the Divine Comedy, considered the supreme work of Italian literature and one of the masterpieces of world literature. His use of literary Tuscan contributed to the formation of modern Italian.",
+        "year": "1265"
+      },
+      {
+        "name": "Sid Vicious",
+        "description": "British musician, bassist, and iconic figure of the punk rock band the Sex Pistols. Known as much for his provocative music as for his turbulent personal life, he was one of the icons of the punk movement of the 1970s.",
+        "year": "1957"
+      }
+    ],
+    "events": [
+      {
+        "title": "Nelson Mandela Becomes President of South Africa",
+        "description": "Nelson Mandela was inaugurated as President of South Africa, becoming the country's first democratically elected Black head of state. His presidency marked the end of apartheid and the beginning of a new era of national reconciliation.",
+        "year": "1994"
+      },
+      {
+        "title": "Opening of the Golden Gate Bridge",
+        "description": "San Francisco's Golden Gate Bridge was opened to pedestrian traffic, one day before its opening to vehicles. With its 1,280-metre central span, it was for decades the longest suspension bridge in the world.",
+        "year": "1937"
+      },
+      {
+        "title": "Swiss Confederation",
+        "description": "The cantons of Uri, Schwyz, and Unterwalden signed the Federal Charter, considered the founding document of the Swiss Confederation — one of the most enduring alliances in European history.",
+        "year": "1291"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Antonino de Florença",
+        "type": "Bispo",
+        "description": "Arcebispo de Florença do século XV, dominicano e um dos maiores teólogos morais de seu tempo. Canonizado em 1523, é lembrado por seu trabalho em favor dos pobres, sua sabedoria jurídica e suas reflexões sobre a ética econômica, sendo pioneiro na condenação da usura."
+      },
+      {
+        "name": "São João de Ávila",
+        "type": "Sacerdote e Doutor da Igreja",
+        "description": "Sacerdote espanhol do século XVI, conhecido como o 'Apóstolo da Andaluzia'. Pregador excepcional e diretor espiritual de figuras como Santa Teresa de Ávila e São Francisco de Borja. Foi canonizado em 1970 e declarado Doutor da Igreja em 2012."
+      },
+      {
+        "name": "São Gordiano",
+        "type": "Mártir",
+        "description": "Mártir cristão do século IV que sofreu martírio em Roma ao lado de São Epímaco durante o reinado do imperador Juliano, o Apóstata. Suas relíquias foram transferidas para a catedral de Essen no século XII."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional dos Oceanos (China)",
+        "description": "A China celebra seu Dia Nacional dos Oceanos em 10 de maio para conscientizar sobre a conservação dos mares, os recursos marinhos e o impacto humano nos oceanos."
+      },
+      {
+        "name": "Dia das Mães na Espanha e em muitos países",
+        "description": "O primeiro ou segundo domingo de maio é o Dia das Mães na Espanha, em Portugal e em muitos países latino-americanos. Em 2026, coincide com essas datas de maio."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Não há amor maior do que o de uma mãe.",
+      "author": "Provérbio popular"
+    },
+    "motivationalQuote": {
+      "text": "A imaginação é mais importante do que o conhecimento.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Fred Astaire",
+        "description": "Dançarino, ator e coreógrafo americano, considerado o maior dançarino da história do cinema. Seu estilo elegante e sua parceria artística com Ginger Rogers produziram clássicos do cinema musical como Chapéu Alto (1935) e Swing Time (1936).",
+        "year": "1899"
+      },
+      {
+        "name": "Dante Alighieri",
+        "description": "Poeta italiano medieval, autor da Divina Comédia, considerada a obra máxima da literatura italiana e uma das obras-primas da literatura universal. Seu uso do toscano literário contribuiu para a formação do italiano moderno.",
+        "year": "1265"
+      },
+      {
+        "name": "Sid Vicious",
+        "description": "Músico britânico, baixista e figura emblemática da banda de punk rock Sex Pistols. Conhecido tanto por sua música provocadora quanto por sua turbulenta vida pessoal, foi um dos ícones do movimento punk dos anos 70.",
+        "year": "1957"
+      }
+    ],
+    "events": [
+      {
+        "title": "Nelson Mandela, presidente da África do Sul",
+        "description": "Nelson Mandela foi empossado presidente da África do Sul, tornando-se o primeiro chefe de estado negro eleito democraticamente no país. Sua presidência marcou o fim do apartheid e o início de uma nova era de reconciliação nacional.",
+        "year": "1994"
+      },
+      {
+        "title": "Inauguração da Ponte Golden Gate",
+        "description": "A Ponte Golden Gate de San Francisco foi inaugurada para o tráfego de pedestres, um dia antes de sua abertura ao tráfego de veículos. Com seus 1.280 metros de vão central, foi durante décadas a ponte suspensa mais longa do mundo.",
+        "year": "1937"
+      },
+      {
+        "title": "Confederação Suíça",
+        "description": "Os cantões de Uri, Schwyz e Unterwalden assinaram a Carta Federal, considerada o ato fundador da Confederação Suíça, uma das alianças mais duradouras da história europeia.",
+        "year": "1291"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Antoní de Florència",
+        "type": "Bisbe",
+        "description": "Arquebisbe de Florència del segle XV, dominicà i un dels grans teòlegs morals del seu temps. Canonitzat el 1523, és recordat per la seva labor en favor dels pobres, la seva saviesa jurídica i les seves reflexions sobre l'ètica econòmica, essent pioner en la condemna de la usura."
+      },
+      {
+        "name": "Sant Joan d'Àvila",
+        "type": "Sacerdot i Doctor de l'Església",
+        "description": "Sacerdot espanyol del segle XVI, conegut com l''Apòstol d'Andalusia'. Predicador excepcional i director espiritual de figures com Santa Teresa d'Àvila i Sant Francesc de Borja. Va ser canonitzat el 1970 i declarat Doctor de l'Església el 2012."
+      },
+      {
+        "name": "Sant Gordià",
+        "type": "Màrtir",
+        "description": "Màrtir cristià del segle IV que va patir martiri a Roma juntament amb Sant Epímac durant el regnat de l'emperador Julià l'Apòstata. Les seves relíquies van ser traslladades a la catedral d'Essen al segle XII."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional dels Oceans (Xina)",
+        "description": "La Xina celebra el seu Dia Nacional dels Oceans el 10 de maig per conscienciar sobre la conservació dels mars, els recursos marins i l'impacte humà en els oceans."
+      },
+      {
+        "name": "Dia de la Mare a Espanya i molts països",
+        "description": "El primer o segon diumenge de maig és el Dia de la Mare a Espanya, Portugal i molts països hispanoamericans. El 2026, coincideix amb aquestes dates de maig."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No hi ha amor més gran que el d'una mare.",
+      "author": "Proverbi popular"
+    },
+    "motivationalQuote": {
+      "text": "La imaginació és més important que el coneixement.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Fred Astaire",
+        "description": "Ballarí, actor i coreògraf americà, considerat el millor ballarí de la història del cinema. El seu estil elegant i la seva associació artística amb Ginger Rogers van produir clàssics del cinema musical com Top Hat (1935) i Swing Time (1936).",
+        "year": "1899"
+      },
+      {
+        "name": "Dante Alighieri",
+        "description": "Poeta italià medieval, autor de la Divina Comèdia, considerada l'obra cimera de la literatura italiana i una de les obres mestres de la literatura universal. L'ús del toscà literari va contribuir a la formació de l'italià modern.",
+        "year": "1265"
+      },
+      {
+        "name": "Sid Vicious",
+        "description": "Músic britànic, baixista i figura emblemàtica de la banda de punk rock Sex Pistols. Conegut tant per la seva música provocadora com per la seva turbulenta vida personal, va ser una de les icones del moviment punk dels anys 70.",
+        "year": "1957"
+      }
+    ],
+    "events": [
+      {
+        "title": "Nelson Mandela, president de Sud-àfrica",
+        "description": "Nelson Mandela va ser investit president de Sud-àfrica, convertint-se en el primer cap d'estat negre elegit democràticament al país. La seva presidència va marcar el final de l'apartheid i l'inici d'una nova era de reconciliació nacional.",
+        "year": "1994"
+      },
+      {
+        "title": "Inauguració del Golden Gate",
+        "description": "El pont Golden Gate de San Francisco va ser inaugurat per al trànsit de vianants, un dia abans de la seva obertura al trànsit rodat. Amb els seus 1.280 metres de vano central, va ser durant dècades el pont penjant més llarg del món.",
+        "year": "1937"
+      },
+      {
+        "title": "Confederació Suïssa",
+        "description": "Els cantons d'Uri, Schwyz i Unterwalden van signar la Carta Federal, considerada l'acta fundacional de la Confederació Suïssa, una de les aliances més duradores de la història europea.",
+        "year": "1291"
+      }
+    ]
+  }
+}

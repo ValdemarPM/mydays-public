@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-15",
+  "es": {
+    "saints": [
+      {
+        "name": "San Isidro Labrador",
+        "type": "Seglar",
+        "description": "Campesino madrileño del siglo XII, venerado como patrón de Madrid y de los agricultores. Célebre por su profunda piedad y su amor al trabajo, la leyenda le atribuye el don de que los ángeles araban por él mientras rezaba. Es patrono de los agricultores en España, América Latina y Filipinas. Fiesta nacional en Madrid."
+      },
+      {
+        "name": "Santa Dymphna",
+        "type": "Virgen y Mártir",
+        "description": "Princesa irlandesa del siglo VII, mártir que huyó de su padre para preservar su fe y su castidad. Es patrona de los enfermos mentales, los epilépticos y las víctimas de abuso. Su santuario en Geel (Bélgica) fue un pionero en el tratamiento humano de las enfermedades mentales."
+      },
+      {
+        "name": "San Juan Bautista de la Salle",
+        "type": "Sacerdote y fundador",
+        "description": "Sacerdote francés del siglo XVII, fundador de los Hermanos de las Escuelas Cristianas. Revolucionó la educación pública al crear las primeras escuelas gratuitas para niños pobres y fue pionero en la formación de maestros. Patrono de los educadores. Canonizado en 1900."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Familia",
+        "description": "Proclamado por la ONU en 1993, este día reconoce la importancia de la familia como unidad fundamental de la sociedad y promueve el bienestar de las familias en todo el mundo."
+      },
+      {
+        "name": "Día de San Isidro en Madrid",
+        "description": "El 15 de mayo Madrid celebra con fiestas, verbenas y procesiones la festividad de su patrón, San Isidro Labrador. Las fiestas de San Isidro son una de las tradiciones más arraigadas de la capital española."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La familia es el primer bien de la humanidad, y el último refugio del hombre.",
+      "author": "Friedrich Hegel"
+    },
+    "motivationalQuote": {
+      "text": "El trabajo es el precio que se paga por la fama.",
+      "author": "Voltaire"
+    },
+    "births": [
+      {
+        "name": "Pierre Curie",
+        "description": "Físico francés, codescubridor junto a su esposa Marie Curie de la radiactividad, fenómeno que le valió el Premio Nobel de Física en 1903. Sus investigaciones sobre el magnetismo y los cristales piezoeléctricos siguen siendo fundamentales en la ciencia moderna.",
+        "year": "1859"
+      },
+      {
+        "name": "L. Frank Baum",
+        "description": "Escritor americano, autor de El mago de Oz (1900), la novela de fantasía más famosa de la literatura infantil americana. La historia fue adaptada al cine en 1939 en una película que se convirtió en un clásico del séptimo arte.",
+        "year": "1856"
+      },
+      {
+        "name": "Madeleine Albright",
+        "description": "Diplomática y política checo-americana, primera mujer en ocupar el cargo de Secretaria de Estado de los Estados Unidos (1997–2001). Fue una de las figuras más influyentes de la política exterior americana del siglo XX.",
+        "year": "1937"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fin de la guerra de Corea (armisticio)",
+        "description": "Las negociaciones del armisticio de la guerra de Corea comenzaron en esta fecha de 1951, aunque el cese oficial del fuego no se firmó hasta el 27 de julio de 1953. El conflicto dejó más de 3 millones de muertos.",
+        "year": "1951"
+      },
+      {
+        "title": "Primer vuelo del avión a reacción comercial (BOAC)",
+        "description": "El De Havilland Comet, el primer avión de pasajeros a reacción del mundo, inició su servicio comercial con la aerolínea BOAC en la ruta Londres-Johannesburgo, marcando el inicio de la era del vuelo comercial a reacción.",
+        "year": "1952"
+      },
+      {
+        "title": "Independencia de Austria",
+        "description": "Austria firmó el Tratado de Estado que restauró su soberanía e independencia plena tras diez años de ocupación aliada (Estados Unidos, Reino Unido, Francia y URSS) al final de la Segunda Guerra Mundial.",
+        "year": "1955"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Isidore the Farmer",
+        "type": "Layman",
+        "description": "12th-century Madrid peasant, venerated as patron saint of Madrid and of farmers. Famous for his deep piety and love of work, legend attributes to him the gift that angels ploughed for him while he prayed. He is patron of farmers in Spain, Latin America, and the Philippines. A public holiday in Madrid."
+      },
+      {
+        "name": "Saint Dymphna",
+        "type": "Virgin and Martyr",
+        "description": "7th-century Irish princess and martyr who fled her father to preserve her faith and chastity. She is the patron saint of the mentally ill, epileptics, and victims of abuse. Her shrine in Geel (Belgium) was a pioneer in the humane treatment of mental illness."
+      },
+      {
+        "name": "Saint John Baptist de La Salle",
+        "type": "Priest and Founder",
+        "description": "17th-century French priest, founder of the Brothers of the Christian Schools. He revolutionised public education by creating the first free schools for poor children and was a pioneer in teacher training. Patron of educators. Canonised in 1900."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of Families",
+        "description": "Proclaimed by the UN in 1993, this day recognises the importance of the family as the fundamental unit of society and promotes the well-being of families worldwide."
+      },
+      {
+        "name": "Feast of Saint Isidore in Madrid",
+        "description": "On May 15, Madrid celebrates with festivals, fairs, and processions the feast of its patron saint, Saint Isidore the Farmer. The San Isidro festivities are one of the most deep-rooted traditions of the Spanish capital."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The family is the first good of humanity, and the last refuge of man.",
+      "author": "Friedrich Hegel"
+    },
+    "motivationalQuote": {
+      "text": "Work is the price paid for reputation.",
+      "author": "Voltaire"
+    },
+    "births": [
+      {
+        "name": "Pierre Curie",
+        "description": "French physicist, co-discoverer alongside his wife Marie Curie of radioactivity, a phenomenon that earned them the Nobel Prize in Physics in 1903. His research on magnetism and piezoelectric crystals remains fundamental to modern science.",
+        "year": "1859"
+      },
+      {
+        "name": "L. Frank Baum",
+        "description": "American writer, author of The Wonderful Wizard of Oz (1900), the most famous fantasy novel in American children's literature. The story was adapted to film in 1939 in a movie that became a classic of cinema.",
+        "year": "1856"
+      },
+      {
+        "name": "Madeleine Albright",
+        "description": "Czech-American diplomat and politician, the first woman to serve as US Secretary of State (1997–2001). She was one of the most influential figures in 20th-century American foreign policy.",
+        "year": "1937"
+      }
+    ],
+    "events": [
+      {
+        "title": "Korean War Armistice Negotiations Begin",
+        "description": "Armistice negotiations for the Korean War began on this date in 1951, though the official ceasefire was not signed until 27 July 1953. The conflict left more than 3 million dead.",
+        "year": "1951"
+      },
+      {
+        "title": "First Commercial Jet Flight (BOAC)",
+        "description": "The de Havilland Comet, the world's first passenger jet aircraft, entered commercial service with BOAC on the London–Johannesburg route, marking the beginning of the age of commercial jet travel.",
+        "year": "1952"
+      },
+      {
+        "title": "Austrian Independence",
+        "description": "Austria signed the State Treaty that restored its full sovereignty and independence after ten years of Allied occupation (United States, United Kingdom, France, and USSR) following the end of World War II.",
+        "year": "1955"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Isidoro Lavrador",
+        "type": "Leigo",
+        "description": "Camponês madrileno do século XII, venerado como padroeiro de Madrid e dos agricultores. Célebre por sua profunda piedade e amor ao trabalho, a lenda lhe atribui o dom de que os anjos aravam por ele enquanto rezava. É padroeiro dos agricultores na Espanha, América Latina e Filipinas. Feriado em Madrid."
+      },
+      {
+        "name": "Santa Dymphna",
+        "type": "Virgem e Mártir",
+        "description": "Princesa irlandesa do século VII, mártir que fugiu de seu pai para preservar sua fé e castidade. É padroeira dos doentes mentais, epilépticos e vítimas de abuso. Seu santuário em Geel (Bélgica) foi pioneiro no tratamento humanizado das doenças mentais."
+      },
+      {
+        "name": "São João Batista de La Salle",
+        "type": "Sacerdote e Fundador",
+        "description": "Sacerdote francês do século XVII, fundador dos Irmãos das Escolas Cristãs. Revolucionou a educação pública ao criar as primeiras escolas gratuitas para crianças pobres e foi pioneiro na formação de professores. Padroeiro dos educadores. Canonizado em 1900."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional das Famílias",
+        "description": "Proclamado pela ONU em 1993, este dia reconhece a importância da família como unidade fundamental da sociedade e promove o bem-estar das famílias em todo o mundo."
+      },
+      {
+        "name": "Festa de São Isidoro em Madrid",
+        "description": "Em 15 de maio, Madrid celebra com festas, feiras e procissões a festividade do seu patrono, São Isidoro Lavrador. As festas de São Isidoro são uma das tradições mais enraizadas da capital espanhola."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A família é o primeiro bem da humanidade e o último refúgio do homem.",
+      "author": "Friedrich Hegel"
+    },
+    "motivationalQuote": {
+      "text": "O trabalho é o preço pago pela fama.",
+      "author": "Voltaire"
+    },
+    "births": [
+      {
+        "name": "Pierre Curie",
+        "description": "Físico francês, codescobidor juntamente com sua esposa Marie Curie da radioatividade, fenômeno que lhes valeu o Prêmio Nobel de Física em 1903. Suas pesquisas sobre magnetismo e cristais piezoelétricos continuam sendo fundamentais para a ciência moderna.",
+        "year": "1859"
+      },
+      {
+        "name": "L. Frank Baum",
+        "description": "Escritor americano, autor de O Mágico de Oz (1900), o romance de fantasia mais famoso da literatura infantil americana. A história foi adaptada para o cinema em 1939 em um filme que se tornou um clássico da sétima arte.",
+        "year": "1856"
+      },
+      {
+        "name": "Madeleine Albright",
+        "description": "Diplomata e política checo-americana, a primeira mulher a ocupar o cargo de Secretária de Estado dos Estados Unidos (1997–2001). Foi uma das figuras mais influentes da política externa americana do século XX.",
+        "year": "1937"
+      }
+    ],
+    "events": [
+      {
+        "title": "Início das negociações de armistício da Guerra da Coreia",
+        "description": "As negociações de armistício da Guerra da Coreia começaram nesta data em 1951, embora o cessar-fogo oficial só tenha sido assinado em 27 de julho de 1953. O conflito deixou mais de 3 milhões de mortos.",
+        "year": "1951"
+      },
+      {
+        "title": "Primeiro voo comercial a jato (BOAC)",
+        "description": "O De Havilland Comet, o primeiro avião de passageiros a jato do mundo, iniciou serviço comercial com a BOAC na rota Londres-Joanesburgo, marcando o início da era do voo comercial a jato.",
+        "year": "1952"
+      },
+      {
+        "title": "Independência da Áustria",
+        "description": "A Áustria assinou o Tratado de Estado que restaurou sua plena soberania e independência após dez anos de ocupação aliada (EUA, Reino Unido, França e URSS) ao final da Segunda Guerra Mundial.",
+        "year": "1955"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Isidre Llaurador",
+        "type": "Laic",
+        "description": "Pagès madrileny del segle XII, venerat com a patró de Madrid i dels agricultors. Cèlebre per la seva profunda pietat i el seu amor al treball, la llegenda li atribueix el do que els àngels llavraven per ell mentre pregava. És patró dels agricultors a Espanya, Amèrica Llatina i les Filipines. Festiu a Madrid."
+      },
+      {
+        "name": "Santa Dymphna",
+        "type": "Verge i Màrtir",
+        "description": "Princesa irlandesa del segle VII, màrtir que va fugir del seu pare per preservar la seva fe i castedat. És patrona dels malalts mentals, els epilèptics i les víctimes d'abusos. El seu santuari a Geel (Bèlgica) va ser un pioner en el tractament humà de les malalties mentals."
+      },
+      {
+        "name": "Sant Joan Baptista de La Salle",
+        "type": "Sacerdot i Fundador",
+        "description": "Sacerdot francès del segle XVII, fundador dels Germans de les Escoles Cristianes. Va revolucionar l'educació pública en crear les primeres escoles gratuïtes per a nens pobres i va ser pioner en la formació de mestres. Patró dels educadors. Canonitzat el 1900."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de les Famílies",
+        "description": "Proclamat per l'ONU el 1993, aquest dia reconeix la importància de la família com a unitat fonamental de la societat i promou el benestar de les famílies arreu del món."
+      },
+      {
+        "name": "Festa de Sant Isidre a Madrid",
+        "description": "El 15 de maig, Madrid celebra amb festes, verbenes i processons la festivitat del seu patró, Sant Isidre Llaurador. Les festes de Sant Isidre són una de les tradicions més arrelades de la capital espanyola."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La família és el primer bé de la humanitat i l'últim refugi de l'home.",
+      "author": "Friedrich Hegel"
+    },
+    "motivationalQuote": {
+      "text": "El treball és el preu que es paga per la fama.",
+      "author": "Voltaire"
+    },
+    "births": [
+      {
+        "name": "Pierre Curie",
+        "description": "Físic francès, codescubridor juntament amb la seva esposa Marie Curie de la radioactivitat, fenomen que els va valdre el Premi Nobel de Física el 1903. Les seves investigacions sobre el magnetisme i els cristalls piezoelèctrics continuen sent fonamentals per a la ciència moderna.",
+        "year": "1859"
+      },
+      {
+        "name": "L. Frank Baum",
+        "description": "Escriptor americà, autor d'El meravellós mag d'Oz (1900), la novel·la de fantasia més famosa de la literatura infantil americana. La història va ser adaptada al cinema el 1939 en una pel·lícula que es va convertir en un clàssic del setè art.",
+        "year": "1856"
+      },
+      {
+        "name": "Madeleine Albright",
+        "description": "Diplomàtica i política txeco-americana, la primera dona a ocupar el càrrec de Secretària d'Estat dels Estats Units (1997–2001). Va ser una de les figures més influents de la política exterior americana del segle XX.",
+        "year": "1937"
+      }
+    ],
+    "events": [
+      {
+        "title": "Inici de les negociacions d'armistici de la Guerra de Corea",
+        "description": "Les negociacions d'armistici de la Guerra de Corea van començar en aquesta data el 1951, tot i que el cessament oficial del foc no es va signar fins al 27 de juliol de 1953. El conflicte va deixar més de 3 milions de morts.",
+        "year": "1951"
+      },
+      {
+        "title": "Primer vol comercial a reacció (BOAC)",
+        "description": "El De Havilland Comet, el primer avió de passatgers a reacció del món, va iniciar el servei comercial amb la BOAC a la ruta Londres-Johannesburg, marcant l'inici de l'era del vol comercial a reacció.",
+        "year": "1952"
+      },
+      {
+        "title": "Independència d'Àustria",
+        "description": "Àustria va signar el Tractat d'Estat que va restaurar la seva sobirania i independència plenes després de deu anys d'ocupació aliada (EUA, Regne Unit, França i URSS) al final de la Segona Guerra Mundial.",
+        "year": "1955"
+      }
+    ]
+  }
+}

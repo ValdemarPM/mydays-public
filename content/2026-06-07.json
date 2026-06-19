@@ -1,0 +1,291 @@
+{
+  "date": "2026-06-07",
+  "es": {
+    "saints": [
+      {
+        "name": "San Isaac de Córdoba",
+        "type": "Presbítero y Mártir",
+        "description": "Sacerdote cristiano que vivió en Al-Ándalus durante el siglo IX. Declaró públicamente su fe cristiana ante las autoridades islámicas de Córdoba y fue ejecutado en el año 851. Es uno de los primeros Mártires de Córdoba."
+      },
+      {
+        "name": "Beata Ana de San Bartolomé",
+        "type": "Virgen",
+        "description": "Carmelita descalza, compañera inseparable de Santa Teresa de Ávila hasta su muerte. Tras el fallecimiento de la fundadora, extendió la espiritualidad teresiana por Francia y los Países Bajos, fundando nuevos conventos. Beatificada en 1917."
+      },
+      {
+        "name": "San Antonio María Gianelli",
+        "type": "Obispo y Fundador",
+        "description": "Obispo de Bobbio (Italia) en el siglo XIX y fundador de la Congregación de las Hijas de María Santísima del Huerto, dedicada a la educación de la juventud. Canonizado por Pío XII en 1951."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Medio Ambiente",
+        "description": "Proclamado por la ONU desde 1972 y celebrado el 5 de junio, en torno a esta semana muchas instituciones prolongan sus actividades. Es el principal vehículo de la ONU para promover la conciencia y la acción en favor del medio ambiente."
+      },
+      {
+        "name": "Día de la Libertad de Prensa en muchos países",
+        "description": "En el contexto de la primera semana de junio, numerosas organizaciones de periodistas reafirman el compromiso con la libertad de expresión y el derecho a la información, valores fundamentales de la democracia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La música da color a las horas.",
+      "author": "Prince",
+      "context": "Prince Rogers Nelson nació el 7 de junio de 1958 en Mineápolis. Músico, compositor, cantante y multiinstrumentista, es considerado uno de los artistas más creativos e influyentes del siglo XX. Fusionó funk, rock, R&B, pop y soul con una presencia escénica única. Vendió más de 100 millones de discos en todo el mundo."
+    },
+    "motivationalQuote": {
+      "text": "Si puedes soñarlo, puedes hacerlo.",
+      "author": "Walt Disney"
+    },
+    "births": [
+      {
+        "name": "Prince",
+        "description": "Músico, compositor y multiinstrumentista estadounidense, uno de los más creativos del siglo XX. Fusionó funk, rock, soul y R&B con una presencia escénica única. Autor de éxitos como Purple Rain, Kiss y When Doves Cry.",
+        "year": "1958"
+      },
+      {
+        "name": "Paul Gauguin",
+        "description": "Pintor postimpresionista francés que abandonó una carrera en bolsa para consagrarse a la pintura. Vivió en Tahití y las Marquesas, donde desarrolló un estilo lleno de color y simbolismo que influyó en el arte moderno.",
+        "year": "1848"
+      },
+      {
+        "name": "Orhan Pamuk",
+        "description": "Escritor turco, Premio Nobel de Literatura en 2006. Sus novelas, entre ellas El museo de la inocencia y Me llamo Rojo, exploran la identidad cultural turca, la memoria y la tensión entre Oriente y Occidente.",
+        "year": "1952"
+      }
+    ],
+    "events": [
+      {
+        "title": "Muerte de Alan Turing",
+        "description": "El matemático, lógico y criptógrafo británico Alan Turing —padre de la informática moderna y artífice del descifrado de la máquina Enigma nazi— falleció en circunstancias trágicas. Había sido condenado por su homosexualidad y sometido a castración química. En 2013 recibió un indulto póstumo de la corona británica.",
+        "year": "1954"
+      },
+      {
+        "title": "Referéndum en Noruega: separación de Suecia",
+        "description": "El pueblo noruego votó en referéndum a favor de la disolución de la unión con Suecia, proclamando la independencia del reino de Noruega y eligiendo una monarquía propia encabezada por el príncipe Carlos de Dinamarca.",
+        "year": "1905"
+      },
+      {
+        "title": "Primera vuelta al mundo en globo sin escala",
+        "description": "Steve Fossett completó la primera vuelta al mundo en globo en solitario y sin escalas a bordo del Spirit of Freedom, tras 13 días, 8 horas y 33 minutos de vuelo desde Australia.",
+        "year": "2002"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Isaac of Córdoba",
+        "type": "Priest and Martyr",
+        "description": "Christian priest who lived in Al-Andalus during the 9th century. He publicly declared his Christian faith before the Islamic authorities of Córdoba and was executed in 851. He is one of the first Martyrs of Córdoba."
+      },
+      {
+        "name": "Blessed Anne of Saint Bartholomew",
+        "type": "Virgin",
+        "description": "Discalced Carmelite and inseparable companion of Saint Teresa of Ávila until her death. After the foundress died, she spread Teresian spirituality through France and the Low Countries, founding new convents. Beatified in 1917."
+      },
+      {
+        "name": "Saint Anthony Mary Gianelli",
+        "type": "Bishop and Founder",
+        "description": "19th-century Bishop of Bobbio (Italy) and founder of the Congregation of the Daughters of Our Lady of the Garden, dedicated to the education of youth. Canonized by Pius XII in 1951."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Environment Day (extended)",
+        "description": "Proclaimed by the UN since 1972 and celebrated on June 5, many institutions extend their activities throughout this week. It is the UN's main vehicle for promoting awareness and action in favour of the environment."
+      },
+      {
+        "name": "Press Freedom Day (many countries)",
+        "description": "In the context of the first week of June, numerous journalist organizations reaffirm their commitment to freedom of expression and the right to information, fundamental values of democracy."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Music gives color to the air of the moment.",
+      "author": "Prince",
+      "context": "Prince Rogers Nelson was born June 7, 1958 in Minneapolis. Musician, songwriter, singer, and multi-instrumentalist, he is considered one of the most creative and influential artists of the 20th century. He fused funk, rock, R&B, pop, and soul with a unique stage presence and sold over 100 million records worldwide."
+    },
+    "motivationalQuote": {
+      "text": "All our dreams can come true, if we have the courage to pursue them.",
+      "author": "Walt Disney"
+    },
+    "births": [
+      {
+        "name": "Prince",
+        "description": "American musician, songwriter, and multi-instrumentalist, one of the most creative of the 20th century. He fused funk, rock, soul, and R&B with a unique stage presence. Author of hits like Purple Rain, Kiss, and When Doves Cry.",
+        "year": "1958"
+      },
+      {
+        "name": "Paul Gauguin",
+        "description": "French Post-Impressionist painter who abandoned a career in finance to devote himself to painting. He lived in Tahiti and the Marquesas, where he developed a style full of colour and symbolism that influenced modern art.",
+        "year": "1848"
+      },
+      {
+        "name": "Orhan Pamuk",
+        "description": "Turkish writer, Nobel Prize in Literature in 2006. His novels, including The Museum of Innocence and My Name Is Red, explore Turkish cultural identity, memory, and the tension between East and West.",
+        "year": "1952"
+      }
+    ],
+    "events": [
+      {
+        "title": "Death of Alan Turing",
+        "description": "British mathematician, logician, and cryptographer Alan Turing — father of modern computing and architect of the decipherment of the Nazi Enigma machine — died under tragic circumstances. He had been convicted for his homosexuality and subjected to chemical castration. In 2013 he received a posthumous royal pardon.",
+        "year": "1954"
+      },
+      {
+        "title": "Norwegian referendum: separation from Sweden",
+        "description": "The Norwegian people voted in a referendum in favour of dissolving the union with Sweden, proclaiming the independence of the Kingdom of Norway and choosing their own monarchy, headed by Prince Charles of Denmark.",
+        "year": "1905"
+      },
+      {
+        "title": "First solo non-stop round-the-world balloon flight",
+        "description": "Steve Fossett completed the first solo non-stop circumnavigation of the globe in a balloon aboard the Spirit of Freedom, after 13 days, 8 hours and 33 minutes of flight from Australia.",
+        "year": "2002"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Isaac de Córdoba",
+        "type": "Presbítero e Mártir",
+        "description": "Sacerdote cristão que viveu em Al-Ândalus durante o século IX. Declarou publicamente a sua fé cristã perante as autoridades islâmicas de Córdoba e foi executado no ano 851. É um dos primeiros Mártires de Córdoba."
+      },
+      {
+        "name": "Beata Ana de São Bartolomeu",
+        "type": "Virgem",
+        "description": "Carmelita descalça, companheira inseparável de Santa Teresa de Ávila até sua morte. Após o falecimento da fundadora, espalhou a espiritualidade teresiana pela França e pelos Países Baixos, fundando novos conventos. Beatificada em 1917."
+      },
+      {
+        "name": "Santo Antônio Maria Gianelli",
+        "type": "Bispo e Fundador",
+        "description": "Bispo de Bobbio (Itália) no século XIX e fundador da Congregação das Filhas de Nossa Senhora do Jardim, dedicada à educação da juventude. Canonizado por Pio XII em 1951."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial do Meio Ambiente (estendido)",
+        "description": "Proclamado pela ONU desde 1972 e celebrado em 5 de junho, muitas instituições estendem suas atividades por toda esta semana. É o principal veículo da ONU para promover a conscientização e a ação em favor do meio ambiente."
+      },
+      {
+        "name": "Dia da Liberdade de Imprensa (vários países)",
+        "description": "No contexto da primeira semana de junho, numerosas organizações de jornalistas reafirmam o compromisso com a liberdade de expressão e o direito à informação, valores fundamentais da democracia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A música dá cor ao ar do momento.",
+      "author": "Prince",
+      "context": "Prince Rogers Nelson nasceu em 7 de junho de 1958 em Mineápolis. Músico, compositor, cantor e multi-instrumentista, é considerado um dos artistas mais criativos e influentes do século XX. Fundiu funk, rock, R&B, pop e soul com uma presença cênica única e vendeu mais de 100 milhões de discos em todo o mundo."
+    },
+    "motivationalQuote": {
+      "text": "Todos os nossos sonhos podem se tornar realidade, se tivermos a coragem de persegui-los.",
+      "author": "Walt Disney"
+    },
+    "births": [
+      {
+        "name": "Prince",
+        "description": "Músico, compositor e multi-instrumentista americano, um dos mais criativos do século XX. Fundiu funk, rock, soul e R&B com uma presença cênica única. Autor de sucessos como Purple Rain, Kiss e When Doves Cry.",
+        "year": "1958"
+      },
+      {
+        "name": "Paul Gauguin",
+        "description": "Pintor pós-impressionista francês que abandonou uma carreira na bolsa para se consagrar à pintura. Viveu no Taiti e nas Marquesas, onde desenvolveu um estilo repleto de cor e simbolismo que influenciou a arte moderna.",
+        "year": "1848"
+      },
+      {
+        "name": "Orhan Pamuk",
+        "description": "Escritor turco, Prêmio Nobel de Literatura em 2006. Seus romances, entre eles O Museu da Inocência e Meu Nome é Vermelho, exploram a identidade cultural turca, a memória e a tensão entre Oriente e Ocidente.",
+        "year": "1952"
+      }
+    ],
+    "events": [
+      {
+        "title": "Morte de Alan Turing",
+        "description": "O matemático, lógico e criptógrafo britânico Alan Turing — pai da informática moderna e artífice da decifração da máquina Enigma nazista — morreu em circunstâncias trágicas. Havia sido condenado por sua homossexualidade e submetido à castração química. Em 2013 recebeu um indulto póstumo da coroa britânica.",
+        "year": "1954"
+      },
+      {
+        "title": "Referendo na Noruega: separação da Suécia",
+        "description": "O povo norueguês votou em referendo a favor da dissolução da união com a Suécia, proclamando a independência do reino da Noruega e escolhendo uma monarquia própria encabeçada pelo príncipe Carlos da Dinamarca.",
+        "year": "1905"
+      },
+      {
+        "title": "Primeira volta ao mundo de balão sem escalas em solitário",
+        "description": "Steve Fossett completou a primeira circumnavegação terrestre de balão em solitário e sem escalas a bordo do Spirit of Freedom, após 13 dias, 8 horas e 33 minutos de voo desde a Austrália.",
+        "year": "2002"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Isaac de Còrdova",
+        "type": "Prevere i Màrtir",
+        "description": "Sacerdot cristià que va viure a Al-Àndalus durant el segle IX. Va declarar públicament la seva fe cristiana davant les autoritats islàmiques de Còrdova i va ser executat l'any 851. És un dels primers Màrtirs de Còrdova."
+      },
+      {
+        "name": "Beata Anna de Sant Bartomeu",
+        "type": "Verge",
+        "description": "Carmelita descalça, companya inseparable de Santa Teresa d'Àvila fins a la seva mort. Després del traspàs de la fundadora, va estendre l'espiritualitat teresiana per França i els Països Baixos, fundant nous convents. Beatificada el 1917."
+      },
+      {
+        "name": "Sant Antoni Maria Gianelli",
+        "type": "Bisbe i Fundador",
+        "description": "Bisbe de Bobbio (Itàlia) al segle XIX i fundador de la Congregació de les Filles de la Mare de Déu del Hort, dedicada a l'educació de la joventut. Canonitzat per Pius XII el 1951."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial del Medi Ambient (estès)",
+        "description": "Proclamat per l'ONU des de 1972 i celebrat el 5 de juny, moltes institucions estenen les seves activitats al llarg d'aquesta setmana. És el principal vehicle de l'ONU per promoure la conscienciació i l'acció en favor del medi ambient."
+      },
+      {
+        "name": "Dia de la Llibertat de Premsa (molts països)",
+        "description": "En el context de la primera setmana de juny, nombroses organitzacions de periodistes reafirmen el compromís amb la llibertat d'expressió i el dret a la informació, valors fonamentals de la democràcia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La música dóna color a l'aire del moment.",
+      "author": "Prince",
+      "context": "Prince Rogers Nelson va néixer el 7 de juny de 1958 a Mineàpolis. Músic, compositor, cantant i multi-instrumentista, és considerat un dels artistes més creatius i influents del segle XX. Va fusionar funk, rock, R&B, pop i soul amb una presència escènica única i va vendre més de 100 milions de discos a tot el món."
+    },
+    "motivationalQuote": {
+      "text": "Tots els nostres somnis poden fer-se realitat, si tenim el coratge de perseguir-los.",
+      "author": "Walt Disney"
+    },
+    "births": [
+      {
+        "name": "Prince",
+        "description": "Músic, compositor i multi-instrumentista nord-americà, un dels més creatius del segle XX. Va fusionar funk, rock, soul i R&B amb una presència escènica única. Autor d'èxits com Purple Rain, Kiss i When Doves Cry.",
+        "year": "1958"
+      },
+      {
+        "name": "Paul Gauguin",
+        "description": "Pintor postimpressionista francès que va abandonar una carrera a la borsa per consagrar-se a la pintura. Va viure a Tahití i a les Marqueses, on va desenvolupar un estil ple de color i simbolisme que va influir en l'art modern.",
+        "year": "1848"
+      },
+      {
+        "name": "Orhan Pamuk",
+        "description": "Escriptor turc, Premi Nobel de Literatura el 2006. Les seves novel·les, entre elles El museu de la innocència i Em dic Vermell, exploren la identitat cultural turca, la memòria i la tensió entre Orient i Occident.",
+        "year": "1952"
+      }
+    ],
+    "events": [
+      {
+        "title": "Mort d'Alan Turing",
+        "description": "El matemàtic, lògic i criptògraf britànic Alan Turing —pare de la informàtica moderna i artífex del desxiframent de la màquina Enigma nazi— va morir en circumstàncies tràgiques. Havia estat condemnat per la seva homosexualitat i sotmès a castració química. El 2013 va rebre un indult pòstum de la corona britànica.",
+        "year": "1954"
+      },
+      {
+        "title": "Referèndum a Noruega: separació de Suècia",
+        "description": "El poble noruec va votar en referèndum a favor de la dissolució de la unió amb Suècia, proclamant la independència del regne de Noruega i escollint una monarquia pròpia encapçalada pel príncep Carles de Dinamarca.",
+        "year": "1905"
+      },
+      {
+        "title": "Primera volta al món en globus en solitari sense escales",
+        "description": "Steve Fossett va completar la primera circumnavegació terrestre en globus en solitari i sense escales a bord de l'Spirit of Freedom, després de 13 dies, 8 hores i 33 minuts de vol des d'Austràlia.",
+        "year": "2002"
+      }
+    ]
+  }
+}

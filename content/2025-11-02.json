@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-02",
+  "es": {
+    "saints": [
+      {
+        "name": "Conmemoración de los Fieles Difuntos",
+        "type": "Conmemoración",
+        "description": "Día en que la Iglesia Católica ora por las almas de los fieles que han muerto y se encuentran en el purgatorio. Instituida por San Odilón de Cluny en el año 998."
+      },
+      {
+        "name": "San Victorino de Pettau",
+        "type": "Obispo y Mártir",
+        "description": "Primer escritor cristiano en lengua latina nacido en la región de la actual Eslovenia. Fue obispo de Pettau y murió mártir durante la persecución de Diocleciano hacia el año 303."
+      },
+      {
+        "name": "Beato Juan Bodey",
+        "type": "Mártir",
+        "description": "Laico inglés ejecutado en 1583 durante la persecución religiosa contra los católicos bajo el reinado de Isabel I, beatificado en 1987."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de los Muertos (México)",
+        "description": "Segunda jornada de la festividad mexicana en que se honra a los difuntos con altares, ofrendas de comida, flores de cempasúchil y visitas a los cementerios, fusión de tradición indígena y catolicismo."
+      },
+      {
+        "name": "Día de los Difuntos",
+        "description": "Festividad conmemorada en numerosos países hispanohablantes y europeos mediante visitas a cementerios, deposición de flores y oraciones en memoria de los fallecidos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nadie muere del todo mientras alguien lo recuerde.",
+      "author": "Publio Ovidio Nasón",
+      "context": "El poeta romano, en sus Metamorfosis, exploró la permanencia del alma y la memoria como forma de inmortalidad, ideas resonantes en el Día de los Difuntos."
+    },
+    "motivationalQuote": {
+      "text": "El duelo es el precio que pagamos por el amor, y merece la pena pagarlo.",
+      "author": "Colin Murray Parkes"
+    },
+    "births": [
+      {
+        "name": "Marie Antonieta",
+        "description": "Archiduquesa austriaca y reina de Francia, última reina consorte del Antiguo Régimen, guillotinada durante la Revolución Francesa en 1793.",
+        "year": 1755
+      },
+      {
+        "name": "James Knox Polk",
+        "description": "Decimoprimer presidente de los Estados Unidos (1845–1849), bajo cuyo mandato el país se expandió enormemente con la anexión de Texas y la guerra con México.",
+        "year": 1795
+      },
+      {
+        "name": "k.d. lang",
+        "description": "Cantautora canadiense de country y pop, conocida por su potente voz y éxitos como Constant Craving, ganadora de múltiples premios Grammy.",
+        "year": 1961
+      }
+    ],
+    "events": [
+      {
+        "title": "Declaración Balfour",
+        "description": "El ministro británico de Asuntos Exteriores Arthur Balfour envió una carta al líder sionista Lord Rothschild manifestando el apoyo del gobierno británico al establecimiento de un hogar nacional judío en Palestina.",
+        "year": 1917
+      },
+      {
+        "title": "Franklin D. Roosevelt gana su cuarta elección presidencial",
+        "description": "Roosevelt fue reelegido por cuarta vez como presidente de Estados Unidos, convirtiéndose en el único mandatario en la historia del país en ganar cuatro elecciones presidenciales.",
+        "year": 1944
+      },
+      {
+        "title": "Muere el poeta Ezra Pound",
+        "description": "El influyente poeta modernista estadounidense Ezra Pound falleció en Venecia a los 87 años, dejando una obra que transformó la poesía del siglo XX.",
+        "year": 1972
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Commemoration of All the Faithful Departed",
+        "type": "Commemoration",
+        "description": "Day on which the Catholic Church prays for the souls of the faithful who have died and are in purgatory. Instituted by Saint Odilo of Cluny in 998."
+      },
+      {
+        "name": "Saint Victorinus of Pettau",
+        "type": "Bishop and Martyr",
+        "description": "The first Christian writer in Latin born in the region of present-day Slovenia. He was bishop of Pettau and died a martyr during the Diocletianic Persecution around 303."
+      },
+      {
+        "name": "Blessed John Bodey",
+        "type": "Martyr",
+        "description": "English layman executed in 1583 during the religious persecution of Catholics under Queen Elizabeth I, beatified in 1987."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de los Muertos (Mexico)",
+        "description": "The second day of the Mexican feast honouring the dead with altars, offerings of food, marigolds, and cemetery visits — a fusion of indigenous tradition and Catholicism."
+      },
+      {
+        "name": "All Souls' Day",
+        "description": "Feast observed in many Spanish-speaking and European countries through cemetery visits, flower laying, and prayers in memory of the departed."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No one truly dies as long as someone still remembers them.",
+      "author": "Publius Ovidius Naso (Ovid)",
+      "context": "The Roman poet, in his Metamorphoses, explored the persistence of the soul and memory as a form of immortality — ideas that resonate on All Souls' Day."
+    },
+    "motivationalQuote": {
+      "text": "Grief is the price we pay for love, and it is worth paying.",
+      "author": "Colin Murray Parkes"
+    },
+    "births": [
+      {
+        "name": "Marie Antoinette",
+        "description": "Austrian archduchess and Queen of France, the last queen consort of the Ancien Régime, guillotined during the French Revolution in 1793.",
+        "year": 1755
+      },
+      {
+        "name": "James Knox Polk",
+        "description": "Eleventh President of the United States (1845–1849), under whose administration the country expanded greatly with the annexation of Texas and the war with Mexico.",
+        "year": 1795
+      },
+      {
+        "name": "k.d. lang",
+        "description": "Canadian country and pop singer-songwriter, known for her powerful voice and hits such as Constant Craving, winner of multiple Grammy Awards.",
+        "year": 1961
+      }
+    ],
+    "events": [
+      {
+        "title": "Balfour Declaration",
+        "description": "British Foreign Secretary Arthur Balfour sent a letter to Zionist leader Lord Rothschild expressing the British government's support for establishing a national home for the Jewish people in Palestine.",
+        "year": 1917
+      },
+      {
+        "title": "Franklin D. Roosevelt wins his fourth presidential election",
+        "description": "Roosevelt was re-elected for a fourth term as President of the United States, becoming the only leader in the country's history to win four presidential elections.",
+        "year": 1944
+      },
+      {
+        "title": "Death of poet Ezra Pound",
+        "description": "The influential American modernist poet Ezra Pound died in Venice at the age of 87, leaving a body of work that transformed 20th-century poetry.",
+        "year": 1972
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Comemoração de Todos os Fiéis Defuntos",
+        "type": "Comemoração",
+        "description": "Dia em que a Igreja Católica reza pelas almas dos fiéis que morreram e se encontram no purgatório. Instituída por São Odilão de Cluny em 998."
+      },
+      {
+        "name": "São Victorino de Poetovio",
+        "type": "Bispo e Mártir",
+        "description": "Primeiro escritor cristão em latim nascido na região da atual Eslovênia. Foi bispo de Poetovio e morreu mártir durante a perseguição de Diocleciano por volta do ano 303."
+      },
+      {
+        "name": "Beato João Bodey",
+        "type": "Mártir",
+        "description": "Leigo inglês executado em 1583 durante a perseguição religiosa contra os católicos sob o reinado de Isabel I, beatificado em 1987."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia dos Mortos (México)",
+        "description": "Segundo dia da festividade mexicana em que se honram os defuntos com altares, oferendas de comida, flores de calêndula e visitas aos cemitérios — fusão da tradição indígena e do catolicismo."
+      },
+      {
+        "name": "Dia de Finados",
+        "description": "Festividade comemorada em muitos países de língua portuguesa e europeus com visitas a cemitérios, deposição de flores e orações em memória dos falecidos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Ninguém morre de verdade enquanto alguém ainda o recorda.",
+      "author": "Públio Ovídio Nasão (Ovídio)",
+      "context": "O poeta romano, em suas Metamorfoses, explorou a permanência da alma e a memória como forma de imortalidade — ideias ressonantes no Dia de Finados."
+    },
+    "motivationalQuote": {
+      "text": "O luto é o preço que pagamos pelo amor, e vale a pena pagá-lo.",
+      "author": "Colin Murray Parkes"
+    },
+    "births": [
+      {
+        "name": "Maria Antonieta",
+        "description": "Arquiduquesa austríaca e rainha de França, última rainha consorte do Antigo Regime, guilhotinada durante a Revolução Francesa em 1793.",
+        "year": 1755
+      },
+      {
+        "name": "James Knox Polk",
+        "description": "Décimo primeiro presidente dos Estados Unidos (1845–1849), sob cuja administração o país se expandiu enormemente com a anexação do Texas e a guerra com o México.",
+        "year": 1795
+      },
+      {
+        "name": "k.d. lang",
+        "description": "Cantautora canadense de country e pop, conhecida pela sua poderosa voz e sucessos como Constant Craving, vencedora de múltiplos prêmios Grammy.",
+        "year": 1961
+      }
+    ],
+    "events": [
+      {
+        "title": "Declaração Balfour",
+        "description": "O ministro britânico das Relações Exteriores Arthur Balfour enviou uma carta ao líder sionista Lord Rothschild manifestando o apoio do governo britânico ao estabelecimento de um lar nacional judeu na Palestina.",
+        "year": 1917
+      },
+      {
+        "title": "Franklin D. Roosevelt vence sua quarta eleição presidencial",
+        "description": "Roosevelt foi reeleito pela quarta vez como presidente dos Estados Unidos, tornando-se o único líder da história do país a vencer quatro eleições presidenciais.",
+        "year": 1944
+      },
+      {
+        "title": "Morte do poeta Ezra Pound",
+        "description": "O influente poeta modernista americano Ezra Pound faleceu em Veneza aos 87 anos, deixando uma obra que transformou a poesia do século XX.",
+        "year": 1972
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Commemoració de Tots els Fidels Difunts",
+        "type": "Commemoració",
+        "description": "Dia en què l'Església Catòlica prega per les ànimes dels fidels que han mort i es troben al purgatori. Instituïda per Sant Odilón de Cluny l'any 998."
+      },
+      {
+        "name": "Sant Victorí de Petau",
+        "type": "Bisbe i Màrtir",
+        "description": "Primer escriptor cristià en llatí nascut a la regió de l'actual Eslovènia. Va ser bisbe de Petau i va morir màrtir durant la persecució de Dioclecià cap a l'any 303."
+      },
+      {
+        "name": "Beat Joan Bodey",
+        "type": "Màrtir",
+        "description": "Laic anglès executat el 1583 durant la persecució religiosa contra els catòlics sota el regnat d'Isabel I, beatificat el 1987."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia dels Morts (Mèxic)",
+        "description": "Segona jornada de la festivitat mexicana en què s'honren els difunts amb altars, ofrenes de menjar, flors de cempasúchil i visites als cementiris — fusió de la tradició indígena i el catolicisme."
+      },
+      {
+        "name": "Dia dels Difunts",
+        "description": "Festivitat commemorada en molts països hispanòfons i europeus amb visites als cementiris, dipòsit de flors i oracions en memòria dels finats."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Ningú no mor del tot mentre algú el recorda.",
+      "author": "Publi Ovidi Nasó (Ovidi)",
+      "context": "El poeta romà, en les seves Metamorfosis, va explorar la permanència de l'ànima i la memòria com a forma d'immortalitat — idees ressonants en el Dia dels Difunts."
+    },
+    "motivationalQuote": {
+      "text": "El dol és el preu que paguem per l'amor, i val la pena pagar-lo.",
+      "author": "Colin Murray Parkes"
+    },
+    "births": [
+      {
+        "name": "Maria Antonieta",
+        "description": "Arxiduquessa austríaca i reina de França, última reina consort de l'Antic Règim, guillotinada durant la Revolució Francesa el 1793.",
+        "year": 1755
+      },
+      {
+        "name": "James Knox Polk",
+        "description": "Onzè president dels Estats Units (1845–1849), sota el mandat del qual el país es va expandir enormement amb l'annexió del Texas i la guerra amb Mèxic.",
+        "year": 1795
+      },
+      {
+        "name": "k.d. lang",
+        "description": "Cantautora canadenca de country i pop, coneguda per la seva potent veu i èxits com Constant Craving, guanyadora de múltiples premis Grammy.",
+        "year": 1961
+      }
+    ],
+    "events": [
+      {
+        "title": "Declaració Balfour",
+        "description": "El ministre britànic d'Afers Estrangers Arthur Balfour va enviar una carta al líder sionista Lord Rothschild manifestant el suport del govern britànic a l'establiment d'una llar nacional jueva a Palestina.",
+        "year": 1917
+      },
+      {
+        "title": "Franklin D. Roosevelt guanya la seva quarta elecció presidencial",
+        "description": "Roosevelt va ser reelegit per quarta vegada com a president dels Estats Units, convertint-se en l'únic líder de la història del país a guanyar quatre eleccions presidencials.",
+        "year": 1944
+      },
+      {
+        "title": "Mort del poeta Ezra Pound",
+        "description": "L'influent poeta modernista americà Ezra Pound va morir a Venècia als 87 anys, deixant una obra que va transformar la poesia del segle XX.",
+        "year": 1972
+      }
+    ]
+  }
+}

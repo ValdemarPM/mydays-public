@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-15",
+  "es": {
+    "saints": [
+      {
+        "name": "San Alberto Magno",
+        "type": "Obispo y Doctor de la Iglesia",
+        "description": "Filósofo, teólogo y científico alemán del siglo XIII, maestro de Santo Tomás de Aquino. Conocido como 'Doctor Universalis' por la amplitud de sus conocimientos en filosofía, teología, ciencias naturales y medicina. Canonizado y declarado Doctor de la Iglesia en 1931 y patrón de los científicos."
+      },
+      {
+        "name": "San Leopoldo de Austria",
+        "type": "Príncipe",
+        "description": "Margrave de Austria del siglo XII (1073–1136), famoso por su piedad y su mecenazgo de la Iglesia. Fundó los monasterios de Klosterneuburg, Heiligenkreuz y Kleinmariazell. Patrón de Austria."
+      },
+      {
+        "name": "Santa Gertrudis la Grande",
+        "type": "Virgen",
+        "description": "Monja benedictina alemana del siglo XIII, mística y escritora espiritual conocida por sus Revelaciones e Instrucciones Espirituales. Fue la primera santa cuyo nombre lleva el calificativo 'la Grande' en la Iglesia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Proclamación de la República de Brasil",
+        "description": "El 15 de noviembre de 1889, el mariscal Deodoro da Fonseca proclamó la República de los Estados Unidos del Brasil, poniendo fin al Imperio del Brasil y al reinado de Pedro II."
+      },
+      {
+        "name": "Día Mundial de la Filosofía (tercer jueves de noviembre)",
+        "description": "Jornada proclamada por la UNESCO para celebrar la filosofía y su contribución al pensamiento crítico, la democracia y la cultura del diálogo en todo el mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La maravilla es el principio de toda filosofía.",
+      "author": "San Alberto Magno",
+      "context": "El santo y doctor de la Iglesia del día sintetizó en esta frase la esencia del método científico y filosófico: la curiosidad como motor del conocimiento, anticipando en siglos el espíritu de la Ilustración."
+    },
+    "motivationalQuote": {
+      "text": "No esperes a ser grande para empezar; empieza y serás grande.",
+      "author": "Marie Curie"
+    },
+    "births": [
+      {
+        "name": "Erwin Schrödinger",
+        "description": "Físico austríaco Premio Nobel (1933), famoso por su ecuación cuántica y por el experimento mental del Gato de Schrödinger, que ilustra las paradojas de la mecánica cuántica.",
+        "year": 1887
+      },
+      {
+        "name": "Georgia O'Keeffe",
+        "description": "Pintora estadounidense, pionera del arte moderno americano, conocida por sus grandes pinturas de flores, paisajes del desierto de Nuevo México y rascacielos de Nueva York.",
+        "year": 1887
+      },
+      {
+        "name": "Jonghyun (SHINee)",
+        "description": "Cantante, compositor y productor musical surcoreano, miembro de la banda de K-pop SHINee y uno de los artistas más influyentes del género.",
+        "year": 1990
+      }
+    ],
+    "events": [
+      {
+        "title": "Proclamación de la República de Brasil",
+        "description": "El mariscal Deodoro da Fonseca proclamó la República de los Estados Unidos del Brasil, poniendo fin al Imperio y al reinado de Pedro II, en un cambio de régimen incruento.",
+        "year": 1889
+      },
+      {
+        "title": "El Congreso de Viena comienza sus sesiones",
+        "description": "El Congreso de Viena, convocado para reorganizar Europa tras las guerras napoleónicas, comenzó formalmente sus sesiones, redibujando el mapa político del continente.",
+        "year": 1814
+      },
+      {
+        "title": "Primer tren subterráneo de Londres (Metropolitan Railway)",
+        "description": "El Metropolitan Railway de Londres, la primera línea de ferrocarril subterráneo del mundo, realizó su primer viaje de prueba entre Paddington y Farringdon.",
+        "year": 1862
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Albert the Great",
+        "type": "Bishop and Doctor of the Church",
+        "description": "13th-century German philosopher, theologian, and scientist, and teacher of Saint Thomas Aquinas. Known as 'Doctor Universalis' for the breadth of his knowledge in philosophy, theology, natural sciences, and medicine. Canonised and declared Doctor of the Church in 1931 and patron of scientists."
+      },
+      {
+        "name": "Saint Leopold of Austria",
+        "type": "Prince",
+        "description": "12th-century Margrave of Austria (1073–1136), renowned for his piety and patronage of the Church. He founded the monasteries of Klosterneuburg, Heiligenkreuz, and Kleinmariazell. Patron of Austria."
+      },
+      {
+        "name": "Saint Gertrude the Great",
+        "type": "Virgin",
+        "description": "13th-century German Benedictine nun, mystic, and spiritual writer, known for her Revelations and Spiritual Instructions. The first saint to carry the epithet 'the Great' in the Church."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Proclamation of the Republic of Brazil",
+        "description": "On 15 November 1889, Marshal Deodoro da Fonseca proclaimed the Republic of the United States of Brazil, ending the Brazilian Empire and the reign of Emperor Pedro II."
+      },
+      {
+        "name": "World Philosophy Day (third Thursday in November)",
+        "description": "A day proclaimed by UNESCO to celebrate philosophy and its contribution to critical thinking, democracy, and a culture of dialogue worldwide."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Wonder is the beginning of all philosophy.",
+      "author": "Saint Albert the Great",
+      "context": "Today's Doctor of the Church captured in this phrase the essence of the scientific and philosophical method: curiosity as the engine of knowledge, anticipating the spirit of the Enlightenment by centuries."
+    },
+    "motivationalQuote": {
+      "text": "Don't wait to be great to start; start and you will be great.",
+      "author": "Marie Curie"
+    },
+    "births": [
+      {
+        "name": "Erwin Schrödinger",
+        "description": "Austrian physicist and Nobel laureate (1933), famous for his quantum wave equation and the thought experiment of Schrödinger's Cat, which illustrates the paradoxes of quantum mechanics.",
+        "year": 1887
+      },
+      {
+        "name": "Georgia O'Keeffe",
+        "description": "American painter and pioneer of American modernism, known for her large-scale flower paintings, New Mexico desert landscapes, and New York skyscrapers.",
+        "year": 1887
+      },
+      {
+        "name": "Jonghyun (SHINee)",
+        "description": "South Korean singer, songwriter, and music producer, member of the K-pop band SHINee and one of the genre's most influential artists.",
+        "year": 1990
+      }
+    ],
+    "events": [
+      {
+        "title": "Proclamation of the Republic of Brazil",
+        "description": "Marshal Deodoro da Fonseca proclaimed the Republic of the United States of Brazil, ending the Empire and the reign of Pedro II in a bloodless change of regime.",
+        "year": 1889
+      },
+      {
+        "title": "Congress of Vienna opens its sessions",
+        "description": "The Congress of Vienna, convened to reorganise Europe after the Napoleonic Wars, formally began its sessions, redrawing the political map of the continent.",
+        "year": 1814
+      },
+      {
+        "title": "First underground train in London (Metropolitan Railway)",
+        "description": "London's Metropolitan Railway, the world's first underground railway line, made its first test run between Paddington and Farringdon.",
+        "year": 1862
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Alberto Magno",
+        "type": "Bispo e Doutor da Igreja",
+        "description": "Filósofo, teólogo e cientista alemão do século XIII e mestre de Santo Tomás de Aquino. Conhecido como 'Doutor Universal' pela amplitude dos seus conhecimentos em filosofia, teologia, ciências naturais e medicina. Canonizado e declarado Doutor da Igreja em 1931 e padroeiro dos cientistas."
+      },
+      {
+        "name": "São Leopoldo da Áustria",
+        "type": "Príncipe",
+        "description": "Marquês da Áustria do século XII (1073–1136), renomado pela sua piedade e mecenato da Igreja. Fundou os mosteiros de Klosterneuburg, Heiligenkreuz e Kleinmariazell. Padroeiro da Áustria."
+      },
+      {
+        "name": "Santa Gertrudes, a Grande",
+        "type": "Virgem",
+        "description": "Monja beneditina alemã do século XIII, mística e escritora espiritual, conhecida pelas suas Revelações e Instruções Espirituais. A primeira santa a receber o epíteto 'a Grande' na Igreja."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Proclamação da República do Brasil",
+        "description": "Em 15 de novembro de 1889, o marechal Deodoro da Fonseca proclamou a República dos Estados Unidos do Brasil, encerrando o Império e o reinado de Dom Pedro II."
+      },
+      {
+        "name": "Dia Mundial da Filosofia (terceira quinta-feira de novembro)",
+        "description": "Jornada proclamada pela UNESCO para celebrar a filosofia e a sua contribuição ao pensamento crítico, à democracia e à cultura do diálogo em todo o mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A maravilha é o princípio de toda a filosofia.",
+      "author": "Santo Alberto Magno",
+      "context": "O Doutor da Igreja do dia captou nesta frase a essência do método científico e filosófico: a curiosidade como motor do conhecimento, antecipando séculos antes o espírito do Iluminismo."
+    },
+    "motivationalQuote": {
+      "text": "Não espere ser grande para começar; comece e você será grande.",
+      "author": "Marie Curie"
+    },
+    "births": [
+      {
+        "name": "Erwin Schrödinger",
+        "description": "Físico austríaco e Prêmio Nobel (1933), famoso pela sua equação de onda quântica e pelo experimento mental do Gato de Schrödinger, que ilustra os paradoxos da mecânica quântica.",
+        "year": 1887
+      },
+      {
+        "name": "Georgia O'Keeffe",
+        "description": "Pintora americana e pioneira do modernismo americano, conhecida pelas suas grandes pinturas de flores, paisagens do deserto do Novo México e arranha-céus de Nova York.",
+        "year": 1887
+      },
+      {
+        "name": "Jonghyun (SHINee)",
+        "description": "Cantor, compositor e produtor musical sul-coreano, membro da banda de K-pop SHINee e um dos artistas mais influentes do gênero.",
+        "year": 1990
+      }
+    ],
+    "events": [
+      {
+        "title": "Proclamação da República do Brasil",
+        "description": "O marechal Deodoro da Fonseca proclamou a República dos Estados Unidos do Brasil, encerrando o Império e o reinado de Dom Pedro II numa mudança de regime incruenta.",
+        "year": 1889
+      },
+      {
+        "title": "Congresso de Viena abre as suas sessões",
+        "description": "O Congresso de Viena, convocado para reorganizar a Europa após as guerras napoleônicas, iniciou formalmente as suas sessões, redesenhando o mapa político do continente.",
+        "year": 1814
+      },
+      {
+        "title": "Primeiro trem subterrâneo de Londres (Metropolitan Railway)",
+        "description": "A Metropolitan Railway de Londres, a primeira linha de ferrovia subterrânea do mundo, realizou a sua primeira viagem de teste entre Paddington e Farringdon.",
+        "year": 1862
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Albert el Gran",
+        "type": "Bisbe i Doctor de l'Església",
+        "description": "Filòsof, teòleg i científic alemany del segle XIII i mestre de Sant Tomàs d'Aquino. Conegut com a 'Doctor Universalis' per l'amplitud dels seus coneixements en filosofia, teologia, ciències naturals i medicina. Canonitzat i declarat Doctor de l'Església el 1931 i patró dels científics."
+      },
+      {
+        "name": "Sant Leopold d'Àustria",
+        "type": "Príncep",
+        "description": "Marquès d'Àustria del segle XII (1073–1136), cèlebre per la seva pietat i el mecenatge de l'Església. Va fundar els monestirs de Klosterneuburg, Heiligenkreuz i Kleinmariazell. Patró d'Àustria."
+      },
+      {
+        "name": "Santa Gertrudis la Gran",
+        "type": "Verge",
+        "description": "Monja benedictina alemanya del segle XIII, mística i escriptora espiritual, coneguda per les seves Revelacions i Instruccions Espirituals. La primera santa a rebre l'epítet 'la Gran' a l'Església."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Proclamació de la República del Brasil",
+        "description": "El 15 de novembre de 1889, el mariscal Deodoro da Fonseca va proclamar la República dels Estats Units del Brasil, posant fi a l'Imperi i al regnat de Pere II."
+      },
+      {
+        "name": "Dia Mundial de la Filosofia (tercer dijous de novembre)",
+        "description": "Jornada proclamada per la UNESCO per celebrar la filosofia i la seva contribució al pensament crític, la democràcia i la cultura del diàleg a tot el món."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La meravella és el principi de tota filosofia.",
+      "author": "Sant Albert el Gran",
+      "context": "El Doctor de l'Església del dia va capturar en aquesta frase l'essència del mètode científic i filosòfic: la curiositat com a motor del coneixement, anticipant segles abans l'esperit de la Il·lustració."
+    },
+    "motivationalQuote": {
+      "text": "No esperis a ser gran per començar; comença i seràs gran.",
+      "author": "Marie Curie"
+    },
+    "births": [
+      {
+        "name": "Erwin Schrödinger",
+        "description": "Físic austríac i Premi Nobel (1933), famós per la seva equació d'ona quàntica i l'experiment mental del Gat de Schrödinger, que il·lustra les paradoxes de la mecànica quàntica.",
+        "year": 1887
+      },
+      {
+        "name": "Georgia O'Keeffe",
+        "description": "Pintora americana i pionera del modernisme americà, coneguda per les seves grans pintures de flors, paisatges del desert de Nou Mèxic i gratacels de Nova York.",
+        "year": 1887
+      },
+      {
+        "name": "Jonghyun (SHINee)",
+        "description": "Cantant, compositor i productor musical sud-coreà, membre de la banda de K-pop SHINee i un dels artistes més influents del gènere.",
+        "year": 1990
+      }
+    ],
+    "events": [
+      {
+        "title": "Proclamació de la República del Brasil",
+        "description": "El mariscal Deodoro da Fonseca va proclamar la República dels Estats Units del Brasil, posant fi a l'Imperi i al regnat de Pere II en un canvi de règim incruent.",
+        "year": 1889
+      },
+      {
+        "title": "El Congrés de Viena obre les seves sessions",
+        "description": "El Congrés de Viena, convocat per reorganitzar Europa després de les guerres napoleòniques, va iniciar formalment les seves sessions, redibujant el mapa polític del continent.",
+        "year": 1814
+      },
+      {
+        "title": "Primer tren subterrani de Londres (Metropolitan Railway)",
+        "description": "La Metropolitan Railway de Londres, la primera línia de ferrocarril subterrani del món, va realitzar el seu primer viatge de prova entre Paddington i Farringdon.",
+        "year": 1862
+      }
+    ]
+  }
+}

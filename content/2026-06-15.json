@@ -1,0 +1,291 @@
+{
+  "date": "2026-06-15",
+  "es": {
+    "saints": [
+      {
+        "name": "San Vito",
+        "type": "Mártir",
+        "description": "Uno de los mártires más venerados de la antigüedad cristiana, junto con San Modesto y Santa Crescencia. Joven siciliano que sufrió el martirio durante las persecuciones del Imperio romano por negarse a renunciar a su fe cristiana."
+      },
+      {
+        "name": "Santa María Micaela del Santísimo Sacramento",
+        "type": "Virgen y Fundadora",
+        "description": "Nacida en Madrid en 1809 en el seno de una familia noble, dejó su vida privilegiada para consagrarse a los más necesitados. En 1856 fundó el Instituto de las Adoratrices Esclavas del Santísimo Sacramento y de la Caridad, dedicado a rescatar a mujeres en situación de marginación."
+      },
+      {
+        "name": "Santa Germana de Pibrac",
+        "type": "Virgen",
+        "description": "Campesina francesa del siglo XVI nacida en Pibrac, cerca de Toulouse. Huérfana de madre desde niña, soportó una vida de servidumbre y enfermedad con extraordinaria serenidad y alegría. Canonizada en 1867 por Pío IX."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de Toma de Conciencia del Abuso y Maltrato en la Vejez",
+        "description": "Proclamado por la Asamblea General de la ONU (resolución A/RES/66/127), este día busca sensibilizar a la sociedad sobre el maltrato físico, psicológico y económico que sufren muchas personas mayores, y promover su dignidad y protección."
+      },
+      {
+        "name": "Aniversario de la firma de la Magna Carta",
+        "description": "El 15 de junio de 1215, el rey Juan Sin Tierra firmó en Runnymede (Inglaterra) la Magna Carta, el primer documento escrito que limitó el poder absoluto de un monarca y reconoció derechos fundamentales, considerado el origen del constitucionalismo moderno."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El artista es un optimista. De lo contrario, no sería artista. Cree y espera en el triunfo de lo bueno y lo bello.",
+      "author": "Edvard Grieg",
+      "context": "El compositor noruego Edvard Grieg nació el 15 de junio de 1843 en Bergen. Padre de la música nacionalista noruega, es conocido mundialmente por su Concierto para piano en la menor y las Suites de Peer Gynt. Su obra buscó dar voz a la identidad y el paisaje de su pueblo, encarnando el optimismo que él mismo predicaba."
+    },
+    "motivationalQuote": {
+      "text": "La vida no es esperar a que pase la tormenta; es aprender a bailar bajo la lluvia.",
+      "author": "Vivian Greene"
+    },
+    "births": [
+      {
+        "name": "Edvard Grieg",
+        "description": "Compositor y pianista noruego, padre de la música nacionalista de su país. Sus Suites de Peer Gynt y su Concierto para piano en la menor son obras cumbres del Romanticismo europeo.",
+        "year": "1843"
+      },
+      {
+        "name": "Ice Cube",
+        "description": "Rapero, actor y productor estadounidense, figura clave del hip-hop de la Costa Oeste y cofundador del legendario grupo N.W.A, cuya música retrató la realidad social del sur de Los Ángeles.",
+        "year": "1969"
+      },
+      {
+        "name": "Helen Hunt",
+        "description": "Actriz estadounidense ganadora del Óscar a la mejor actriz por Mad About You y ¿Qué fue del baby Jane? (As Good as It Gets, 1997), reconocida por su versatilidad en cine y televisión.",
+        "year": "1963"
+      }
+    ],
+    "events": [
+      {
+        "title": "Firma de la Magna Carta",
+        "description": "El rey Juan Sin Tierra de Inglaterra firmó en Runnymede la Magna Carta, el primer documento que limitó por escrito el poder de un monarca e impuso restricciones en materia de impuestos, derechos feudales y justicia. Es considerada la piedra angular del constitucionalismo moderno.",
+        "year": "1215"
+      },
+      {
+        "title": "Primeras elecciones democráticas en España tras la dictadura",
+        "description": "Cuarenta años después del fin de la República, España celebró sus primeras elecciones generales libres desde la Guerra Civil. La Unión de Centro Democrático de Adolfo Suárez ganó sin mayoría absoluta, marcando el inicio de la democracia parlamentaria española.",
+        "year": "1977"
+      },
+      {
+        "title": "Fundación del Studio Ghibli",
+        "description": "En Tokio se fundó el legendario estudio de animación japonés Studio Ghibli, creado por Hayao Miyazaki e Isao Takahata. Sus obras, como Mi vecino Totoro, La princesa Mononoke y El viaje de Chihiro, son referentes universales del cine de animación.",
+        "year": "1985"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Vitus",
+        "type": "Martyr",
+        "description": "One of the most venerated martyrs of Christian antiquity, alongside Saints Modestus and Crescentia. A young Sicilian who suffered martyrdom during the Roman Empire's persecutions for refusing to renounce his Christian faith."
+      },
+      {
+        "name": "Saint Micaela of the Blessed Sacrament",
+        "type": "Virgin and Foundress",
+        "description": "Born in Madrid in 1809 into a noble family, she left her privileged life to devote herself to the needy. In 1856 she founded the Institute of the Handmaids of the Blessed Sacrament and of Charity, dedicated to rescuing marginalized women."
+      },
+      {
+        "name": "Saint Germaine Cousin",
+        "type": "Virgin",
+        "description": "A 16th-century French peasant girl born in Pibrac, near Toulouse. Motherless from childhood, she endured a life of servitude and illness with extraordinary serenity and joy. Canonized in 1867 by Pope Pius IX."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Elder Abuse Awareness Day",
+        "description": "Proclaimed by the UN General Assembly (resolution A/RES/66/127), this day aims to raise society's awareness of the physical, psychological, and financial abuse suffered by many elderly people, and to promote their dignity and protection."
+      },
+      {
+        "name": "Magna Carta Anniversary",
+        "description": "On June 15, 1215, King John of England signed the Magna Carta at Runnymede, the first written document to limit the absolute power of a monarch and recognize fundamental rights, considered the origin of modern constitutionalism."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The artist is an optimist. Otherwise, he would be no artist. He believes and hopes in the triumph of the good and the beautiful.",
+      "author": "Edvard Grieg",
+      "context": "Norwegian composer Edvard Grieg was born on June 15, 1843 in Bergen. Father of Norwegian nationalist music, he is known worldwide for his Piano Concerto in A minor and the Peer Gynt Suites. His work sought to give voice to the identity and landscape of his people, embodying the very optimism he professed."
+    },
+    "motivationalQuote": {
+      "text": "Life isn't about waiting for the storm to pass; it's about learning to dance in the rain.",
+      "author": "Vivian Greene"
+    },
+    "births": [
+      {
+        "name": "Edvard Grieg",
+        "description": "Norwegian composer and pianist, father of his country's nationalist music. His Peer Gynt Suites and Piano Concerto in A minor are pinnacle works of European Romanticism.",
+        "year": "1843"
+      },
+      {
+        "name": "Ice Cube",
+        "description": "American rapper, actor, and producer, a key figure in West Coast hip-hop and co-founder of the legendary group N.W.A, whose music portrayed the social reality of South Los Angeles.",
+        "year": "1969"
+      },
+      {
+        "name": "Helen Hunt",
+        "description": "American actress and Academy Award winner for Best Actress for As Good as It Gets (1997), acclaimed for her versatility in film and television.",
+        "year": "1963"
+      }
+    ],
+    "events": [
+      {
+        "title": "Signing of the Magna Carta",
+        "description": "King John of England signed the Magna Carta at Runnymede, the first document to impose written restrictions on a monarch's power over taxation, feudal rights, and justice. It is considered the cornerstone of modern constitutionalism.",
+        "year": "1215"
+      },
+      {
+        "title": "First democratic elections in Spain after the dictatorship",
+        "description": "Forty years after the fall of the Republic, Spain held its first free general elections since the Civil War. Adolfo Suárez's Union of the Democratic Centre won without an absolute majority, marking the beginning of Spanish parliamentary democracy.",
+        "year": "1977"
+      },
+      {
+        "title": "Founding of Studio Ghibli",
+        "description": "The legendary Japanese animation studio Studio Ghibli was founded in Tokyo by Hayao Miyazaki and Isao Takahata. Its works, including My Neighbor Totoro, Princess Mononoke, and Spirited Away, are universal benchmarks of animated cinema.",
+        "year": "1985"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Vito",
+        "type": "Mártir",
+        "description": "Um dos mártires mais venerados da antiguidade cristã, junto com São Modesto e Santa Crescência. Jovem siciliano que sofreu o martírio durante as perseguições do Império Romano por se recusar a renunciar à sua fé cristã."
+      },
+      {
+        "name": "Santa Micaela do Santíssimo Sacramento",
+        "type": "Virgem e Fundadora",
+        "description": "Nascida em Madri em 1809 em uma família nobre, deixou sua vida privilegiada para se consagrar aos mais necessitados. Em 1856 fundou o Instituto das Escravas do Santíssimo Sacramento e da Caridade, dedicado a resgatar mulheres em situação de marginalização."
+      },
+      {
+        "name": "Santa Germana de Pibrac",
+        "type": "Virgem",
+        "description": "Camponesa francesa do século XVI nascida em Pibrac, perto de Toulouse. Órfã de mãe desde criança, suportou uma vida de servidão e doença com extraordinária serenidade e alegria. Canonizada em 1867 pelo Papa Pio IX."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de Conscientização sobre o Abuso e Maus-Tratos na Velhice",
+        "description": "Proclamado pela Assembleia Geral da ONU (resolução A/RES/66/127), este dia visa sensibilizar a sociedade sobre os maus-tratos físicos, psicológicos e financeiros sofridos por muitos idosos, e promover sua dignidade e proteção."
+      },
+      {
+        "name": "Aniversário da assinatura da Magna Carta",
+        "description": "Em 15 de junho de 1215, o rei João Sem Terra da Inglaterra assinou a Magna Carta em Runnymede, o primeiro documento escrito a limitar o poder absoluto de um monarca e reconhecer direitos fundamentais, considerado a origem do constitucionalismo moderno."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O artista é um otimista. Do contrário, não seria artista. Ele acredita e espera no triunfo do bom e do belo.",
+      "author": "Edvard Grieg",
+      "context": "O compositor norueguês Edvard Grieg nasceu em 15 de junho de 1843 em Bergen. Pai da música nacionalista norueguesa, é conhecido mundialmente por seu Concerto para piano em lá menor e pelas Suítes Peer Gynt. Sua obra buscou dar voz à identidade e à paisagem de seu povo, encarnando o otimismo que ele mesmo pregava."
+    },
+    "motivationalQuote": {
+      "text": "A vida não é esperar a tempestade passar; é aprender a dançar na chuva.",
+      "author": "Vivian Greene"
+    },
+    "births": [
+      {
+        "name": "Edvard Grieg",
+        "description": "Compositor e pianista norueguês, pai da música nacionalista de seu país. Suas Suítes Peer Gynt e seu Concerto para piano em lá menor são obras cumes do Romantismo europeu.",
+        "year": "1843"
+      },
+      {
+        "name": "Ice Cube",
+        "description": "Rapper, ator e produtor americano, figura-chave do hip-hop da Costa Oeste e cofundador do lendário grupo N.W.A, cuja música retratou a realidade social do sul de Los Angeles.",
+        "year": "1969"
+      },
+      {
+        "name": "Helen Hunt",
+        "description": "Atriz americana vencedora do Oscar de melhor atriz por Melhor É Impossível (As Good as It Gets, 1997), reconhecida por sua versatilidade no cinema e na televisão.",
+        "year": "1963"
+      }
+    ],
+    "events": [
+      {
+        "title": "Assinatura da Magna Carta",
+        "description": "O rei João Sem Terra da Inglaterra assinou a Magna Carta em Runnymede, o primeiro documento a impor restrições escritas ao poder de um monarca em matéria de impostos, direitos feudais e justiça. É considerada a pedra angular do constitucionalismo moderno.",
+        "year": "1215"
+      },
+      {
+        "title": "Primeiras eleições democráticas na Espanha após a ditadura",
+        "description": "Quarenta anos após o fim da República, a Espanha realizou suas primeiras eleições gerais livres desde a Guerra Civil. A União de Centro Democrático de Adolfo Suárez venceu sem maioria absoluta, marcando o início da democracia parlamentar espanhola.",
+        "year": "1977"
+      },
+      {
+        "title": "Fundação do Studio Ghibli",
+        "description": "O lendário estúdio de animação japonês Studio Ghibli foi fundado em Tóquio por Hayao Miyazaki e Isao Takahata. Suas obras, como Meu Vizinho Totoro, Princesa Mononoke e A Viagem de Chihiro, são referências universais do cinema de animação.",
+        "year": "1985"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Vit",
+        "type": "Màrtir",
+        "description": "Un dels màrtirs més venerats de l'antiguitat cristiana, juntament amb Sant Modest i Santa Crescència. Jove sicilià que va patir el martiri durant les persecucions de l'Imperi Romà per negar-se a renunciar a la seva fe cristiana."
+      },
+      {
+        "name": "Santa Micaela del Santíssim Sagrament",
+        "type": "Verge i Fundadora",
+        "description": "Nascuda a Madrid el 1809 en el si d'una família noble, va deixar la seva vida privilegiada per consagrar-se als més necessitats. El 1856 va fundar l'Institut de les Adoratrius Esclaves del Santíssim Sagrament i de la Caritat, dedicat a rescatar dones en situació de marginalització."
+      },
+      {
+        "name": "Santa Germana de Pibrac",
+        "type": "Verge",
+        "description": "Pagesa francesa del segle XVI nascuda a Pibrac, prop de Tolosa de Llenguadoc. Òrfena de mare des de petita, va suportar una vida de servitud i malaltia amb una extraordinària serenitat i alegria. Canonitzada el 1867 per Pius IX."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial per a la Presa de Consciència sobre l'Abús i el Maltractament en la Vellesa",
+        "description": "Proclamat per l'Assemblea General de l'ONU (resolució A/RES/66/127), aquest dia vol sensibilitzar la societat sobre els maltractaments físics, psicològics i econòmics que pateixen moltes persones grans, i promoure'n la dignitat i la protecció."
+      },
+      {
+        "name": "Aniversari de la signatura de la Magna Carta",
+        "description": "El 15 de juny de 1215, el rei Joan Sense Terra d'Anglaterra va signar la Magna Carta a Runnymede, el primer document escrit que va limitar el poder absolut d'un monarca i va reconèixer drets fonamentals, considerat l'origen del constitucionalisme modern."
+      }
+    ],
+    "historicalQuote": {
+      "text": "L'artista és un optimista. Si no, no seria artista. Creu i espera en el triomf del bo i del bell.",
+      "author": "Edvard Grieg",
+      "context": "El compositor noruec Edvard Grieg va néixer el 15 de juny de 1843 a Bergen. Pare de la música nacionalista noruega, és conegut arreu del món pel seu Concert per a piano en la menor i les Suites de Peer Gynt. La seva obra va cercar donar veu a la identitat i al paisatge del seu poble, encarnant l'optimisme que ell mateix predicava."
+    },
+    "motivationalQuote": {
+      "text": "La vida no consisteix a esperar que passi la tempesta; consisteix a aprendre a ballar sota la pluja.",
+      "author": "Vivian Greene"
+    },
+    "births": [
+      {
+        "name": "Edvard Grieg",
+        "description": "Compositor i pianista noruec, pare de la música nacionalista del seu país. Les seves Suites de Peer Gynt i el seu Concert per a piano en la menor són obres cabdals del Romanticisme europeu.",
+        "year": "1843"
+      },
+      {
+        "name": "Ice Cube",
+        "description": "Raper, actor i productor nord-americà, figura clau del hip-hop de la Costa Oest i cofundador del llegendari grup N.W.A, la música del qual va retratar la realitat social del sud de Los Angeles.",
+        "year": "1969"
+      },
+      {
+        "name": "Helen Hunt",
+        "description": "Actriu nord-americana guanyadora de l'Oscar a la millor actriu per Millor... impossible (As Good as It Gets, 1997), reconeguda per la seva versatilitat al cinema i la televisió.",
+        "year": "1963"
+      }
+    ],
+    "events": [
+      {
+        "title": "Signatura de la Magna Carta",
+        "description": "El rei Joan Sense Terra d'Anglaterra va signar la Magna Carta a Runnymede, el primer document que va imposar restriccions escrites al poder d'un monarca en matèria d'impostos, drets feudals i justícia. És considerada la pedra angular del constitucionalisme modern.",
+        "year": "1215"
+      },
+      {
+        "title": "Primeres eleccions democràtiques a Espanya després de la dictadura",
+        "description": "Quaranta anys després de la caiguda de la República, Espanya va celebrar les seves primeres eleccions generals lliures des de la Guerra Civil. La Unió de Centre Democràtic d'Adolfo Suárez va guanyar sense majoria absoluta, marcant l'inici de la democràcia parlamentària espanyola.",
+        "year": "1977"
+      },
+      {
+        "title": "Fundació de l'Studio Ghibli",
+        "description": "L'llegendari estudi d'animació japonès Studio Ghibli va ser fundat a Tòquio per Hayao Miyazaki i Isao Takahata. Les seves obres, com El meu veí Totoro, La princesa Mononoke i El viatge de Chihiro, són referents universals del cinema d'animació.",
+        "year": "1985"
+      }
+    ]
+  }
+}

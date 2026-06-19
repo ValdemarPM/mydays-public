@@ -1,0 +1,255 @@
+{
+  "date": "2026-01-03",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Genoveva de París",
+        "type": "Virgen y patrona de París",
+        "description": "Patrona de París, vivió en el siglo V y fortaleció el ánimo de los parisinos ante la amenaza de Atila. Es venerada como protectora de la ciudad."
+      },
+      {
+        "name": "San Daniel el Estilita",
+        "type": "Monje",
+        "description": "Asceta sirio del siglo V que vivió 33 años encima de una columna cerca de Constantinopla, siguiendo el ejemplo de San Simeón Estilita."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Mente Creativa (DACE)",
+        "description": "Conmemoración informal que celebra la creatividad, la innovación y el pensamiento original como motores del progreso humano."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La imaginación es más importante que el conocimiento.",
+      "author": "Albert Einstein",
+      "context": "Físico teórico alemán, nacido el 14 de marzo de 1879. Esta cita refleja su convicción de que la creatividad impulsa el avance científico más allá de los datos acumulados."
+    },
+    "motivationalQuote": {
+      "text": "No cuentes los días, haz que los días cuenten.",
+      "author": "Muhammad Ali"
+    },
+    "births": [
+      {
+        "name": "J.R.R. Tolkien",
+        "description": "Escritor y filólogo británico, creador de la Tierra Media y autor de El hobbit y El señor de los anillos, obras fundacionales de la fantasía moderna.",
+        "year": 1892
+      },
+      {
+        "name": "Mel Gibson",
+        "description": "Actor y director australiano-estadounidense, ganador del Óscar por Braveheart y conocido también por su controvertida trayectoria pública.",
+        "year": 1956
+      },
+      {
+        "name": "Florence Pugh",
+        "description": "Actriz británica nominada al Óscar por su papel en Midsommar y Little Women, una de las estrellas más destacadas de su generación.",
+        "year": 1996
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundación de la ciudad de Buenos Aires (primera fundación)",
+        "description": "El explorador español Pedro de Mendoza fundó el puerto de Nuestra Señora del Buen Ayre a orillas del Río de la Plata, aunque la ciudad sería abandonada y refundada definitivamente en 1580.",
+        "year": 1536
+      },
+      {
+        "title": "Alaska se convierte en el 49.º estado de EE. UU.",
+        "description": "Alaska fue admitida oficialmente como el 49.º estado de la Unión, siendo el territorio más grande incorporado a los Estados Unidos.",
+        "year": 1959
+      },
+      {
+        "title": "Apple presenta el primer Macintosh",
+        "description": "Steve Jobs presentó el primer ordenador Macintosh en el Flint Center de Cupertino, revolucionando la informática personal con su interfaz gráfica y ratón.",
+        "year": 1984
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Genevieve of Paris",
+        "type": "Virgin and Patron of Paris",
+        "description": "Patron saint of Paris, she lived in the 5th century and bolstered the spirits of Parisians against the threat of Attila. She is venerated as protector of the city."
+      },
+      {
+        "name": "Saint Daniel the Stylite",
+        "type": "Monk",
+        "description": "Syrian ascetic of the 5th century who spent 33 years atop a column near Constantinople, following the example of Saint Simeon Stylites."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Creative Mind Day",
+        "description": "An informal commemoration celebrating creativity, innovation and original thinking as drivers of human progress."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Imagination is more important than knowledge.",
+      "author": "Albert Einstein",
+      "context": "German theoretical physicist, born 14 March 1879. This quote reflects his conviction that creativity drives scientific progress beyond accumulated data."
+    },
+    "motivationalQuote": {
+      "text": "Don't count the days, make the days count.",
+      "author": "Muhammad Ali"
+    },
+    "births": [
+      {
+        "name": "J.R.R. Tolkien",
+        "description": "British writer and philologist, creator of Middle-earth and author of The Hobbit and The Lord of the Rings, foundational works of modern fantasy.",
+        "year": 1892
+      },
+      {
+        "name": "Mel Gibson",
+        "description": "Australian-American actor and director, Oscar winner for Braveheart, also known for his controversial public life.",
+        "year": 1956
+      },
+      {
+        "name": "Florence Pugh",
+        "description": "British actress nominated for an Oscar for her roles in Midsommar and Little Women, one of the most prominent stars of her generation.",
+        "year": 1996
+      }
+    ],
+    "events": [
+      {
+        "title": "Founding of Buenos Aires (first foundation)",
+        "description": "Spanish explorer Pedro de Mendoza founded the port of Nuestra Señora del Buen Ayre on the banks of the Río de la Plata, though the city was later abandoned and definitively refounded in 1580.",
+        "year": 1536
+      },
+      {
+        "title": "Alaska becomes the 49th US state",
+        "description": "Alaska was officially admitted as the 49th state of the Union, the largest territory ever incorporated into the United States.",
+        "year": 1959
+      },
+      {
+        "title": "Apple introduces the first Macintosh",
+        "description": "Steve Jobs introduced the first Macintosh computer at the Flint Center in Cupertino, revolutionising personal computing with its graphical interface and mouse.",
+        "year": 1984
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Genoveva de Paris",
+        "type": "Virgem e Padroeira de Paris",
+        "description": "Padroeira de Paris, viveu no século V e fortaleceu o ânimo dos parisienses diante da ameaça de Átila. É venerada como protetora da cidade."
+      },
+      {
+        "name": "São Daniel Estilita",
+        "type": "Monge",
+        "description": "Asceta sírio do século V que viveu 33 anos no topo de uma coluna perto de Constantinopla, seguindo o exemplo de São Simeão Estilita."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Mente Criativa",
+        "description": "Comemoração informal que celebra a criatividade, a inovação e o pensamento original como motores do progresso humano."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A imaginação é mais importante do que o conhecimento.",
+      "author": "Albert Einstein",
+      "context": "Físico teórico alemão, nascido em 14 de março de 1879. Esta citação reflete sua convicção de que a criatividade impulsiona o progresso científico além dos dados acumulados."
+    },
+    "motivationalQuote": {
+      "text": "Não conte os dias, faça os dias contarem.",
+      "author": "Muhammad Ali"
+    },
+    "births": [
+      {
+        "name": "J.R.R. Tolkien",
+        "description": "Escritor e filólogo britânico, criador da Terra Média e autor de O Hobbit e O Senhor dos Anéis, obras fundacionais da fantasia moderna.",
+        "year": 1892
+      },
+      {
+        "name": "Mel Gibson",
+        "description": "Ator e diretor australiano-americano, vencedor do Oscar por Coração Valente, também conhecido por sua controversa vida pública.",
+        "year": 1956
+      },
+      {
+        "name": "Florence Pugh",
+        "description": "Atriz britânica indicada ao Oscar por seus papéis em Midsommar e Adoráveis Mulheres, uma das estrelas mais destacadas de sua geração.",
+        "year": 1996
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundação de Buenos Aires (primeira fundação)",
+        "description": "O explorador espanhol Pedro de Mendoza fundou o porto de Nossa Senhora do Bom Ayre às margens do Rio da Prata, embora a cidade fosse abandonada e refundada definitivamente em 1580.",
+        "year": 1536
+      },
+      {
+        "title": "Alaska torna-se o 49.º estado dos EUA",
+        "description": "O Alaska foi admitido oficialmente como o 49.º estado da União, o maior território já incorporado aos Estados Unidos.",
+        "year": 1959
+      },
+      {
+        "title": "Apple apresenta o primeiro Macintosh",
+        "description": "Steve Jobs apresentou o primeiro computador Macintosh no Flint Center em Cupertino, revolucionando a informática pessoal com sua interface gráfica e mouse.",
+        "year": 1984
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Genoveva de París",
+        "type": "Verge i patrona de París",
+        "description": "Patrona de París, va viure al segle V i va enfortir l'ànim dels parisencs davant l'amenaça d'Àtila. És venerada com a protectora de la ciutat."
+      },
+      {
+        "name": "Sant Daniel l'Estilita",
+        "type": "Monjo",
+        "description": "Asceta sirià del segle V que va viure 33 anys sobre una columna prop de Constantinoble, seguint l'exemple de Sant Simeó Estilita."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Ment Creativa",
+        "description": "Commemoració informal que celebra la creativitat, la innovació i el pensament original com a motors del progrés humà."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La imaginació és més important que el coneixement.",
+      "author": "Albert Einstein",
+      "context": "Físic teòric alemany, nascut el 14 de març de 1879. Aquesta cita reflecteix la seva convicció que la creativitat impulsa el progrés científic més enllà de les dades acumulades."
+    },
+    "motivationalQuote": {
+      "text": "No comptis els dies, fes que els dies comptin.",
+      "author": "Muhammad Ali"
+    },
+    "births": [
+      {
+        "name": "J.R.R. Tolkien",
+        "description": "Escriptor i filòleg britànic, creador de la Terra Mitjana i autor de El hòbbit i El senyor dels anells, obres fundacionals de la fantasia moderna.",
+        "year": 1892
+      },
+      {
+        "name": "Mel Gibson",
+        "description": "Actor i director australià-nord-americà, guanyador de l'Oscar per Braveheart, també conegut per la seva controvertida vida pública.",
+        "year": 1956
+      },
+      {
+        "name": "Florence Pugh",
+        "description": "Actriu britànica nominada a l'Oscar pels seus papers a Midsommar i Donetes, una de les estrelles més destacades de la seva generació.",
+        "year": 1996
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundació de Buenos Aires (primera fundació)",
+        "description": "L'explorador espanyol Pedro de Mendoza va fundar el port de Nostra Senyora del Bon Aire a les ribes del Riu de la Plata, tot i que la ciutat seria abandonada i refundada definitivament el 1580.",
+        "year": 1536
+      },
+      {
+        "title": "Alaska es converteix en el 49è estat dels EUA",
+        "description": "Alaska va ser admesa oficialment com el 49è estat de la Unió, el territori més gran mai incorporat als Estats Units.",
+        "year": 1959
+      },
+      {
+        "title": "Apple presenta el primer Macintosh",
+        "description": "Steve Jobs va presentar el primer ordinador Macintosh al Flint Center de Cupertino, revolucionant la informàtica personal amb la seva interfície gràfica i ratolí.",
+        "year": 1984
+      }
+    ]
+  }
+}

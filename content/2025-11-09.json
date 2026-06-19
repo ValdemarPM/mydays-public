@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-09",
+  "es": {
+    "saints": [
+      {
+        "name": "Dedicación de la Basílica de Letrán",
+        "description": "La Iglesia celebra la dedicación de la Basílica de San Juan de Letrán en Roma, la catedral del papa y la iglesia madre de todo el mundo católico, consagrada en el siglo IV por el papa Silvestre I.",
+        "type": "Festividad"
+      },
+      {
+        "name": "San Teodoro Tiró",
+        "type": "Mártir",
+        "description": "Soldado romano martirizado en el siglo IV por negarse a quemar el templo de la diosa Cibeles durante la persecución de Maximiano. Patrón del ejército griego."
+      },
+      {
+        "name": "Beata Isabel de la Trinidad",
+        "type": "Virgen",
+        "description": "Carmelita descalza francesa del siglo XX, mística que desarrolló una profunda espiritualidad trinitaria. Beatificada por Juan Pablo II en 1984 y canonizada en 2016."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Caída del Muro de Berlín",
+        "description": "Aniversario del 9 de noviembre de 1989, cuando se abrieron los puestos de control del Muro de Berlín y comenzó la reunificación alemana, símbolo del fin de la Guerra Fría."
+      },
+      {
+        "name": "Día de la Independencia (Cambodia)",
+        "description": "Camboya conmemora su independencia de Francia el 9 de noviembre de 1953, proclamada por el rey Norodom Sihanouk tras años de negociación con las autoridades coloniales."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Las paredes en la cabeza son más difíciles de derribar que las paredes de piedra.",
+      "author": "Willy Brandt",
+      "context": "El excanciller alemán y Premio Nobel de la Paz pronunció estas palabras en relación al proceso de reunificación alemana, reconociendo que la división ideológica persistía más allá de la caída del Muro."
+    },
+    "motivationalQuote": {
+      "text": "La libertad no es algo que se tiene; es algo que se practica.",
+      "author": "Simone de Beauvoir"
+    },
+    "births": [
+      {
+        "name": "Ivan Turguénev",
+        "description": "Novelista y dramaturgo ruso del siglo XIX, autor de Padres e hijos, obra que introdujo el término 'nihilismo' en la literatura y retrató el conflicto generacional de la Rusia zarista.",
+        "year": 1818
+      },
+      {
+        "name": "Carl Sagan",
+        "description": "Astrónomo, cosmólogo y divulgador científico estadounidense, autor de Cosmos y Contact, responsable de acercar la ciencia al gran público durante el siglo XX.",
+        "year": 1934
+      },
+      {
+        "name": "Lou Ferrigno",
+        "description": "Actor y culturista estadounidense que interpretó al personaje de Hulk en la serie de televisión El increíble Hulk (1977–1982), convirtiéndose en símbolo cultural del superhéroe televisivo.",
+        "year": 1951
+      }
+    ],
+    "events": [
+      {
+        "title": "Apertura del Muro de Berlín",
+        "description": "El gobierno de la RDA anunció que los ciudadanos podían cruzar libremente los puestos de control del Muro de Berlín, iniciando la reunificación alemana y el fin simbólico de la Guerra Fría.",
+        "year": 1989
+      },
+      {
+        "title": "Cristal Night — La Noche de los Cristales Rotos",
+        "description": "Las SA nazis perpetraron a lo largo de toda Alemania y Austria pogromos contra la comunidad judía: se incendiaron 7.500 negocios, 1.400 sinagogas y se detuvo a 30.000 judíos.",
+        "year": 1938
+      },
+      {
+        "title": "Muere el arquitecto Hermann Muthesius",
+        "description": "El arquitecto e influyente teórico alemán Hermann Muthesius, que introdujo el diseño artesanal británico en Alemania y cofundó la Werkbund, falleció en Berlín en accidente de tráfico.",
+        "year": 1927
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Dedication of the Lateran Basilica",
+        "type": "Feast",
+        "description": "The Church celebrates the dedication of the Basilica of Saint John Lateran in Rome — the Pope's cathedral and the mother church of the entire Catholic world — consecrated in the 4th century by Pope Sylvester I."
+      },
+      {
+        "name": "Saint Theodore Tiro",
+        "type": "Martyr",
+        "description": "Roman soldier martyred in the 4th century for refusing to burn the temple of the goddess Cybele during the Maximian persecution. Patron of the Greek army."
+      },
+      {
+        "name": "Blessed Elizabeth of the Trinity",
+        "type": "Virgin",
+        "description": "20th-century French Discalced Carmelite, a mystic who developed a profound Trinitarian spirituality. Beatified by John Paul II in 1984 and canonised in 2016."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Fall of the Berlin Wall Day",
+        "description": "Anniversary of 9 November 1989, when the Berlin Wall checkpoints were opened and German reunification began, symbolising the end of the Cold War."
+      },
+      {
+        "name": "Independence Day (Cambodia)",
+        "description": "Cambodia commemorates its independence from France on 9 November 1953, proclaimed by King Norodom Sihanouk after years of negotiation with colonial authorities."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The walls in our heads are harder to tear down than walls of stone.",
+      "author": "Willy Brandt",
+      "context": "The former German Chancellor and Nobel Peace Prize laureate spoke these words about German reunification, recognising that ideological division persisted beyond the fall of the Wall."
+    },
+    "motivationalQuote": {
+      "text": "Freedom is not something one has; it is something one practises.",
+      "author": "Simone de Beauvoir"
+    },
+    "births": [
+      {
+        "name": "Ivan Turgenev",
+        "description": "19th-century Russian novelist and playwright, author of Fathers and Sons, which introduced the term 'nihilism' into literature and portrayed the generational conflict in Tsarist Russia.",
+        "year": 1818
+      },
+      {
+        "name": "Carl Sagan",
+        "description": "American astronomer, cosmologist, and science communicator, author of Cosmos and Contact, responsible for bringing science to the general public throughout the 20th century.",
+        "year": 1934
+      },
+      {
+        "name": "Lou Ferrigno",
+        "description": "American actor and bodybuilder who played the Hulk in the television series The Incredible Hulk (1977–1982), becoming a cultural icon of the TV superhero.",
+        "year": 1951
+      }
+    ],
+    "events": [
+      {
+        "title": "Berlin Wall opens",
+        "description": "The East German government announced that citizens could freely cross the Berlin Wall checkpoints, beginning German reunification and symbolically ending the Cold War.",
+        "year": 1989
+      },
+      {
+        "title": "Kristallnacht — Night of Broken Glass",
+        "description": "Nazi SA forces carried out pogroms throughout Germany and Austria against the Jewish community: 7,500 businesses and 1,400 synagogues were destroyed, and 30,000 Jews were arrested.",
+        "year": 1938
+      },
+      {
+        "title": "Death of architect Hermann Muthesius",
+        "description": "German architect and influential theorist Hermann Muthesius, who introduced British Arts and Crafts design to Germany and co-founded the Werkbund, died in a road accident in Berlin.",
+        "year": 1927
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Dedicação da Basílica de Latrão",
+        "type": "Festa",
+        "description": "A Igreja celebra a dedicação da Basílica de São João de Latrão em Roma — a catedral do papa e a igreja mãe de todo o mundo católico — consagrada no século IV pelo papa Silvestre I."
+      },
+      {
+        "name": "São Teodoro Tiró",
+        "type": "Mártir",
+        "description": "Soldado romano martirizado no século IV por se recusar a queimar o templo da deusa Cibele durante a perseguição de Maximiano. Padroeiro do exército grego."
+      },
+      {
+        "name": "Beata Isabel da Trindade",
+        "type": "Virgem",
+        "description": "Carmelita descalça francesa do século XX, mística que desenvolveu uma profunda espiritualidade trinitária. Beatificada por João Paulo II em 1984 e canonizada em 2016."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Queda do Muro de Berlim",
+        "description": "Aniversário de 9 de novembro de 1989, quando os postos de controle do Muro de Berlim foram abertos e a reunificação alemã começou, simbolizando o fim da Guerra Fria."
+      },
+      {
+        "name": "Dia da Independência (Camboja)",
+        "description": "O Camboja comemora sua independência da França em 9 de novembro de 1953, proclamada pelo rei Norodom Sihanouk após anos de negociação com as autoridades coloniais."
+      }
+    ],
+    "historicalQuote": {
+      "text": "As paredes nas nossas cabeças são mais difíceis de derrubar do que as paredes de pedra.",
+      "author": "Willy Brandt",
+      "context": "O ex-chanceler alemão e Prêmio Nobel da Paz proferiu estas palavras sobre a reunificação alemã, reconhecendo que a divisão ideológica persistia além da queda do Muro."
+    },
+    "motivationalQuote": {
+      "text": "A liberdade não é algo que se tem; é algo que se pratica.",
+      "author": "Simone de Beauvoir"
+    },
+    "births": [
+      {
+        "name": "Ivan Turguêniev",
+        "description": "Romancista e dramaturgo russo do século XIX, autor de Pais e Filhos, obra que introduziu o termo 'niilismo' na literatura e retratou o conflito geracional na Rússia czarista.",
+        "year": 1818
+      },
+      {
+        "name": "Carl Sagan",
+        "description": "Astrônomo, cosmólogo e divulgador científico americano, autor de Cosmos e Contato, responsável por aproximar a ciência do grande público ao longo do século XX.",
+        "year": 1934
+      },
+      {
+        "name": "Lou Ferrigno",
+        "description": "Ator e fisiculturista americano que interpretou o Hulk na série de televisão O Incrível Hulk (1977–1982), tornando-se um ícone cultural do super-herói televisivo.",
+        "year": 1951
+      }
+    ],
+    "events": [
+      {
+        "title": "Abertura do Muro de Berlim",
+        "description": "O governo da RDA anunciou que os cidadãos podiam cruzar livremente os postos de controle do Muro de Berlim, iniciando a reunificação alemã e simbolizando o fim da Guerra Fria.",
+        "year": 1989
+      },
+      {
+        "title": "Kristallnacht — Noite dos Cristais Partidos",
+        "description": "As SA nazistas realizaram pogroms em toda a Alemanha e Áustria contra a comunidade judia: 7.500 negócios e 1.400 sinagogas foram destruídos e 30.000 judeus foram presos.",
+        "year": 1938
+      },
+      {
+        "title": "Morte do arquiteto Hermann Muthesius",
+        "description": "O arquiteto e influente teórico alemão Hermann Muthesius, que introduziu o design artesanal britânico na Alemanha e cofundou a Werkbund, morreu num acidente de trânsito em Berlim.",
+        "year": 1927
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Dedicació de la Basílica de Laterà",
+        "type": "Festivitat",
+        "description": "L'Església celebra la dedicació de la Basílica de Sant Joan de Laterà a Roma — la catedral del papa i l'església mare de tot el món catòlic — consagrada al segle IV pel papa Silvestre I."
+      },
+      {
+        "name": "Sant Teodor Tiró",
+        "type": "Màrtir",
+        "description": "Soldat romà martiritzat al segle IV per negar-se a cremar el temple de la deessa Cibele durant la persecució de Maximià. Patró de l'exèrcit grec."
+      },
+      {
+        "name": "Beata Isabel de la Trinitat",
+        "type": "Verge",
+        "description": "Carmelita descalça francesa del segle XX, mística que va desenvolupar una profunda espiritualitat trinitària. Beatificada per Joan Pau II el 1984 i canonitzada el 2016."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Caiguda del Mur de Berlín",
+        "description": "Aniversari del 9 de novembre de 1989, quan es van obrir els controls del Mur de Berlín i va començar la reunificació alemanya, símbol de la fi de la Guerra Freda."
+      },
+      {
+        "name": "Dia de la Independència (Cambodja)",
+        "description": "Cambodja commemora la seva independència de França el 9 de novembre de 1953, proclamada pel rei Norodom Sihanouk després d'anys de negociació amb les autoritats colonials."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Les parets als caps són més difícils d'enderrocar que les parets de pedra.",
+      "author": "Willy Brandt",
+      "context": "L'excanceller alemany i Premi Nobel de la Pau va pronunciar aquestes paraules sobre la reunificació alemanya, reconeixent que la divisió ideològica persistia més enllà de la caiguda del Mur."
+    },
+    "motivationalQuote": {
+      "text": "La llibertat no és quelcom que es té; és quelcom que es practica.",
+      "author": "Simone de Beauvoir"
+    },
+    "births": [
+      {
+        "name": "Ivan Turguènev",
+        "description": "Novel·lista i dramaturg rus del segle XIX, autor de Pares i fills, obra que va introduir el terme 'nihilisme' a la literatura i va retratar el conflicte generacional a la Rússia tsarista.",
+        "year": 1818
+      },
+      {
+        "name": "Carl Sagan",
+        "description": "Astrònom, cosmòleg i divulgador científic americà, autor de Cosmos i Contacte, responsable d'apropar la ciència al gran públic al llarg del segle XX.",
+        "year": 1934
+      },
+      {
+        "name": "Lou Ferrigno",
+        "description": "Actor i culturista americà que va interpretar Hulk a la sèrie de televisió L'increïble Hulk (1977–1982), convertint-se en una icona cultural del superheroi televisiu.",
+        "year": 1951
+      }
+    ],
+    "events": [
+      {
+        "title": "Obertura del Mur de Berlín",
+        "description": "El govern de la RDA va anunciar que els ciutadans podien creuar lliurement els controls del Mur de Berlín, iniciant la reunificació alemanya i simbolitzant la fi de la Guerra Freda.",
+        "year": 1989
+      },
+      {
+        "title": "Kristallnacht — Nit dels Vidres Trencats",
+        "description": "Les SA nazistes van perpetrar pogroms arreu d'Alemanya i Àustria contra la comunitat jueva: es van destruir 7.500 negocis i 1.400 sinagogues i es van detenir 30.000 jueus.",
+        "year": 1938
+      },
+      {
+        "title": "Mort de l'arquitecte Hermann Muthesius",
+        "description": "L'arquitecte i influent teòric alemany Hermann Muthesius, que va introduir el disseny artesanal britànic a Alemanya i va cofundar la Werkbund, va morir en un accident de trànsit a Berlín.",
+        "year": 1927
+      }
+    ]
+  }
+}

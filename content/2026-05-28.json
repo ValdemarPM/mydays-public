@@ -1,0 +1,267 @@
+{
+  "date": "2026-05-28",
+  "es": {
+    "saints": [
+      {
+        "name": "San Justo de Urgel",
+        "type": "Obispo",
+        "description": "Obispo de Urgel (Lleida, España) del siglo VI, hermano de San Eutropio de Valencia. Celebrado por su comentario al Cantar de los Cantares, una de las obras más antiguas de la exégesis bíblica hispana. Presidió varios concilios en la Iglesia hispanovisigoda."
+      },
+      {
+        "name": "San Germán de París",
+        "type": "Obispo",
+        "description": "Obispo de París del siglo VI, conocido por su santidad y su labor de caridad. Fue uno de los grandes prelados de la Galia merovingia. La iglesia de Saint-Germain-des-Prés, uno de los monumentos más emblemáticos de París, fue construida sobre su tumba."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de Acción por la Salud de la Mujer",
+        "description": "Convocado por la Red Mundial de Mujeres por los Derechos Reproductivos, este día llama la atención sobre la salud reproductiva y los derechos de las mujeres en todo el mundo, con especial atención a los países en desarrollo donde los problemas de salud materna son más graves."
+      },
+      {
+        "name": "Día de las Fuerzas Armadas de Etiopía",
+        "description": "Etiopía conmemora cada 28 de mayo la derrota del régimen militar del Derg en 1991, un hito en la historia contemporánea del país que marcó el inicio de la transición hacia la democracia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No hay causa más digna que luchar por la dignidad de cada ser humano.",
+      "author": "Nelson Mandela"
+    },
+    "motivationalQuote": {
+      "text": "Una mujer es como una bolsa de té: no sabes lo fuerte que es hasta que la metes en agua caliente.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Ian Fleming",
+        "description": "Escritor y periodista británico, creador del agente secreto James Bond (007). Sus novelas de espionaje, publicadas entre 1953 y 1966, han dado lugar a la franquicia cinematográfica de mayor recaudación del mundo, con más de 7.000 millones de dólares en taquilla.",
+        "year": "1908"
+      },
+      {
+        "name": "Kylie Minogue",
+        "description": "Cantante y actriz australiana, conocida como la 'Princesa del Pop'. Con más de 80 millones de discos vendidos y el hit Locomotion (1987) y Can't Get You Out of My Head (2001), es una de las artistas más exitosas del mundo angloparlante.",
+        "year": "1968"
+      },
+      {
+        "name": "Patrick White",
+        "description": "Novelista australiano, premio Nobel de Literatura en 1973, el primer australiano en recibirlo. Sus obras Voss y El árbol del hombre son consideradas clásicos de la literatura en inglés del siglo XX.",
+        "year": "1912"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera ascensión al Everest",
+        "description": "Edmund Hillary y Tenzing Norgay se convirtieron en las primeras personas en alcanzar la cima del Monte Everest (8.849 m), la cumbre más alta del mundo. La noticia llegó a Londres justo a tiempo para coincidir con la coronación de Isabel II el 2 de junio.",
+        "year": "1953"
+      },
+      {
+        "title": "Fundación de la ciudad de San Petersburgo",
+        "description": "El zar Pedro el Grande fundó la ciudad de San Petersburgo a orillas del río Neva, sobre los territorios arrebatados a Suecia. La nueva ciudad se convirtió en capital del Imperio Ruso durante más de dos siglos.",
+        "year": "1703"
+      },
+      {
+        "title": "Etiopía derrota al Derg",
+        "description": "Las fuerzas del Frente Democrático Revolucionario del Pueblo Etíope (FDRPE) tomaron Adís Abeba, poniendo fin al régimen marxista militar del Derg que había gobernado Etiopía desde 1974 y causado millones de muertes.",
+        "year": "1991"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Justus of Urgell",
+        "type": "Bishop",
+        "description": "6th-century Bishop of Urgell (Lleida, Spain), brother of Saint Eutropius of Valencia. Celebrated for his commentary on the Song of Songs, one of the oldest works of Hispanic biblical exegesis. He presided over several councils of the Hispano-Visigothic Church."
+      },
+      {
+        "name": "Saint Germanus of Paris",
+        "type": "Bishop",
+        "description": "6th-century Bishop of Paris, known for his holiness and charitable work. He was one of the great prelates of Merovingian Gaul. The church of Saint-Germain-des-Prés, one of the most iconic monuments of Paris, was built over his tomb."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of Action for Women's Health",
+        "description": "Convened by the Women's Global Network for Reproductive Rights, this day draws attention to reproductive health and women's rights worldwide, with special focus on developing countries where maternal health problems are most severe."
+      },
+      {
+        "name": "Ethiopian Armed Forces Day",
+        "description": "Ethiopia commemorates on 28 May the defeat of the military Derg regime in 1991, a milestone in the country's contemporary history that marked the beginning of the transition to democracy."
+      }
+    ],
+    "historicalQuote": {
+      "text": "There is no cause more worthy than fighting for the dignity of every human being.",
+      "author": "Nelson Mandela"
+    },
+    "motivationalQuote": {
+      "text": "A woman is like a tea bag: you never know how strong she is until she gets in hot water.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Ian Fleming",
+        "description": "British writer and journalist, creator of secret agent James Bond (007). His spy novels, published between 1953 and 1966, gave rise to the highest-grossing film franchise in the world, with more than $7 billion at the box office.",
+        "year": "1908"
+      },
+      {
+        "name": "Kylie Minogue",
+        "description": "Australian singer and actress, known as the 'Princess of Pop'. With more than 80 million records sold and hits including Locomotion (1987) and Can't Get You Out of My Head (2001), she is one of the most successful artists in the English-speaking world.",
+        "year": "1968"
+      },
+      {
+        "name": "Patrick White",
+        "description": "Australian novelist, Nobel Prize in Literature laureate in 1973, the first Australian to receive it. His works Voss and The Tree of Man are considered classics of 20th-century English-language literature.",
+        "year": "1912"
+      }
+    ],
+    "events": [
+      {
+        "title": "First Ascent of Everest",
+        "description": "Edmund Hillary and Tenzing Norgay became the first people to reach the summit of Mount Everest (8,849 m), the highest peak in the world. The news reached London just in time to coincide with the coronation of Elizabeth II on 2 June.",
+        "year": "1953"
+      },
+      {
+        "title": "Founding of Saint Petersburg",
+        "description": "Tsar Peter the Great founded the city of Saint Petersburg on the banks of the Neva River, on territories taken from Sweden. The new city became the capital of the Russian Empire for more than two centuries.",
+        "year": "1703"
+      },
+      {
+        "title": "Ethiopia Defeats the Derg",
+        "description": "Forces of the Ethiopian People's Revolutionary Democratic Front (EPRDF) captured Addis Ababa, ending the Marxist military Derg regime that had governed Ethiopia since 1974 and caused millions of deaths.",
+        "year": "1991"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Justo de Urgel",
+        "type": "Bispo",
+        "description": "Bispo de Urgel (Lleida, Espanha) do século VI, irmão de São Eutrópio de Valência. Celebrado pelo seu comentário ao Cântico dos Cânticos, uma das obras mais antigas da exegese bíblica hispânica. Presidiu vários concílios na Igreja hispano-visigótica."
+      },
+      {
+        "name": "São Germano de Paris",
+        "type": "Bispo",
+        "description": "Bispo de Paris do século VI, conhecido pela sua santidade e obra caritativa. Foi um dos grandes prelados da Gália merovíngia. A igreja de Saint-Germain-des-Prés, um dos monumentos mais emblemáticos de Paris, foi construída sobre a sua tumba."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de Ação pela Saúde da Mulher",
+        "description": "Convocado pela Rede Mundial de Mulheres pelos Direitos Reprodutivos, este dia chama a atenção para a saúde reprodutiva e os direitos das mulheres em todo o mundo, com especial ênfase nos países em desenvolvimento onde os problemas de saúde materna são mais graves."
+      },
+      {
+        "name": "Dia das Forças Armadas da Etiópia",
+        "description": "A Etiópia comemora a 28 de maio a derrota do regime militar Derg em 1991, um marco na história contemporânea do país que marcou o início da transição para a democracia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Não há causa mais digna do que lutar pela dignidade de cada ser humano.",
+      "author": "Nelson Mandela"
+    },
+    "motivationalQuote": {
+      "text": "A mulher é como um saco de chá: nunca se sabe o quão forte ela é até a colocar em água quente.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Ian Fleming",
+        "description": "Escritor e jornalista britânico, criador do agente secreto James Bond (007). Os seus romances de espionagem, publicados entre 1953 e 1966, deram origem à franquia cinematográfica de maior bilheteira do mundo, com mais de 7.000 milhões de dólares.",
+        "year": "1908"
+      },
+      {
+        "name": "Kylie Minogue",
+        "description": "Cantora e atriz australiana, conhecida como a 'Princesa do Pop'. Com mais de 80 milhões de discos vendidos e êxitos como Locomotion (1987) e Can't Get You Out of My Head (2001), é uma das artistas mais bem-sucedidas do mundo anglófono.",
+        "year": "1968"
+      },
+      {
+        "name": "Patrick White",
+        "description": "Romancista australiano, Prémio Nobel de Literatura em 1973, o primeiro australiano a recebê-lo. As suas obras Voss e A Árvore do Homem são consideradas clássicos da literatura em língua inglesa do século XX.",
+        "year": "1912"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeira ascensão ao Evereste",
+        "description": "Edmund Hillary e Tenzing Norgay tornaram-se as primeiras pessoas a alcançar o cume do Monte Evereste (8.849 m), o pico mais alto do mundo. A notícia chegou a Londres mesmo a tempo de coincidir com a coroação de Isabel II a 2 de junho.",
+        "year": "1953"
+      },
+      {
+        "title": "Fundação de São Petersburgo",
+        "description": "O czar Pedro, o Grande, fundou a cidade de São Petersburgo às margens do rio Neva, nos territórios conquistados à Suécia. A nova cidade tornou-se capital do Império Russo durante mais de dois séculos.",
+        "year": "1703"
+      },
+      {
+        "title": "Etiópia derrota o Derg",
+        "description": "As forças da Frente Democrática Revolucionária do Povo Etíope (FDRPE) tomaram Adis Abeba, pondo fim ao regime marxista militar do Derg que governava a Etiópia desde 1974 e causou milhões de mortes.",
+        "year": "1991"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Just d'Urgell",
+        "type": "Bisbe",
+        "description": "Bisbe d'Urgell (Lleida, Espanya) del segle VI, germà de Sant Eutrobi de València. Celebrat pel seu comentari al Càntic dels Càntics, una de les obres més antigues de l'exegesi bíblica hispànica. Va presidir diversos concilis a l'Església hispanovisigoda."
+      },
+      {
+        "name": "Sant Germà de París",
+        "type": "Bisbe",
+        "description": "Bisbe de París del segle VI, conegut per la seva santedat i la seva obra caritativa. Va ser un dels grans prelats de la Gàl·lia merovíngia. L'església de Saint-Germain-des-Prés, un dels monuments més emblemàtics de París, va ser construïda sobre la seva tomba."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional d'Acció per la Salut de la Dona",
+        "description": "Convocat per la Xarxa Mundial de Dones pels Drets Reproductius, aquest dia crida l'atenció sobre la salut reproductiva i els drets de les dones arreu del món, amb especial atenció als països en vies de desenvolupament on els problemes de salut materna són més greus."
+      },
+      {
+        "name": "Dia de les Forces Armades d'Etiòpia",
+        "description": "Etiòpia commemora cada 28 de maig la derrota del règim militar Derg el 1991, una fita en la història contemporània del país que va marcar l'inici de la transició cap a la democràcia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No hi ha causa més digna que lluitar per la dignitat de cada ésser humà.",
+      "author": "Nelson Mandela"
+    },
+    "motivationalQuote": {
+      "text": "Una dona és com una bossa de te: no saps el fort que és fins que la poses en aigua calenta.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Ian Fleming",
+        "description": "Escriptor i periodista britànic, creador de l'agent secret James Bond (007). Les seves novel·les d'espionatge, publicades entre 1953 i 1966, han donat lloc a la franquícia cinematogràfica de major recaptació del món, amb més de 7.000 milions de dòlars en taquilla.",
+        "year": "1908"
+      },
+      {
+        "name": "Kylie Minogue",
+        "description": "Cantant i actriu australiana, coneguda com la 'Princesa del Pop'. Amb més de 80 milions de discos venuts i èxits com Locomotion (1987) i Can't Get You Out of My Head (2001), és una de les artistes més exitoses del món angloparlant.",
+        "year": "1968"
+      },
+      {
+        "name": "Patrick White",
+        "description": "Novel·lista australià, Premi Nobel de Literatura el 1973, el primer australià a rebre'l. Les seves obres Voss i L'arbre de l'home són considerades clàssics de la literatura en anglès del segle XX.",
+        "year": "1912"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera ascensió a l'Everest",
+        "description": "Edmund Hillary i Tenzing Norgay es van convertir en les primeres persones a assolir el cim del Mont Everest (8.849 m), el cim més alt del món. La notícia va arribar a Londres just a temps per coincidir amb la coronació d'Elisabet II el 2 de juny.",
+        "year": "1953"
+      },
+      {
+        "title": "Fundació de Sant Petersburg",
+        "description": "El tsar Pere el Gran va fundar la ciutat de Sant Petersburg a les ribes del riu Neva, sobre els territoris conquistats a Suècia. La nova ciutat es va convertir en capital de l'Imperi Rus durant més de dos segles.",
+        "year": "1703"
+      },
+      {
+        "title": "Etiòpia derrota el Derg",
+        "description": "Les forces del Front Democràtic Revolucionari del Poble Etíop (FDRPE) van prendre Addis Abeba, posant fi al règim marxista militar del Derg que havia governat Etiòpia des de 1974 i havia causat milions de morts.",
+        "year": "1991"
+      }
+    ]
+  }
+}

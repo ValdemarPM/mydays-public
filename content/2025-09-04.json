@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-04",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Rosalía de Palermo",
+        "type": "Virgen",
+        "description": "Eremita siciliana del siglo XII que vivió retirada en una cueva del Monte Pellegrino. Su intercesión se atribuye el fin de la epidemia de peste de 1624 en Palermo, donde es venerada como patrona principal."
+      },
+      {
+        "name": "San Moisés el Negro",
+        "type": "Monje y Mártir",
+        "description": "Exesclavo etíope convertido al cristianismo que llegó a ser monje y sacerdote en el desierto egipcio del siglo IV. Ejemplo de conversión radical, murió martirizado por piratas bereberes."
+      },
+      {
+        "name": "San Marcelo de Lyon",
+        "type": "Obispo",
+        "description": "Obispo de Lyon en el siglo V conocido por su celo pastoral y su defensa de la ortodoxia cristiana frente a las herejías de su tiempo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de los Animales Salvajes",
+        "description": "Jornada dedicada a la concienciación sobre la conservación de la fauna silvestre y a la lucha contra el tráfico y la caza ilegal de animales en peligro de extinción."
+      },
+      {
+        "name": "Día Nacional de los Estados Unidos — fundación de Los Ángeles",
+        "description": "Aniversario de la fundación de la ciudad de Los Ángeles, California, el 4 de septiembre de 1781 por colonos españoles que la denominaron «El Pueblo de la Reina de los Ángeles»."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No podemos resolver problemas usando el mismo tipo de pensamiento que usamos cuando los creamos.",
+      "author": "Albert Einstein",
+      "context": "El físico alemán nacido en Ulm en 1879, Premio Nobel de Física en 1921, formuló esta reflexión sobre la necesidad del pensamiento creativo y lateral para superar los obstáculos intelectuales."
+    },
+    "motivationalQuote": {
+      "text": "Nuestras vidas son definidas por las oportunidades, incluso aquellas que perdemos.",
+      "author": "F. Scott Fitzgerald"
+    },
+    "births": [
+      {
+        "name": "Beyoncé",
+        "description": "Cantante, actriz y productora estadounidense, una de las artistas más premiadas de la historia de la música. Ganadora de más de 30 premios Grammy, ha vendido más de 200 millones de discos en todo el mundo.",
+        "year": 1981
+      },
+      {
+        "name": "Mitzi Gaynor",
+        "description": "Actriz y cantante estadounidense conocida por su papel en la película musical South Pacific (1958), una de las grandes estrellas del Hollywood dorado de los años cincuenta.",
+        "year": 1931
+      },
+      {
+        "name": "Damon Hill",
+        "description": "Piloto de Fórmula 1 británico, campeón mundial en 1996 con el equipo Williams. Hijo del también campeón Graham Hill, es uno de los escasos casos de padre e hijo campeones del mundo en F1.",
+        "year": 1960
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundación de Los Ángeles",
+        "description": "Cuarenta y cuatro colonos españoles procedentes de Sinaloa (México) fundaron El Pueblo de la Reina de los Ángeles junto al río Los Ángeles, origen de la actual metrópoli californiana.",
+        "year": 1781
+      },
+      {
+        "title": "George Eastman patenta el rollo de película fotográfica",
+        "description": "George Eastman obtuvo la patente de su rollo de película fotográfica, revolucionando la fotografía y democratizando su uso al hacerla accesible al público general.",
+        "year": 1888
+      },
+      {
+        "title": "Caída del último emperador romano de Occidente",
+        "description": "Rómulo Augústulo, último emperador de Roma Occidental, fue depuesto por el caudillo germánico Odoacro, hecho considerado convencionalmente como el fin del Imperio Romano de Occidente.",
+        "year": 476
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Rosalia of Palermo",
+        "type": "Virgin",
+        "description": "A 12th-century Sicilian hermit who lived in a cave on Monte Pellegrino. Her intercession is credited with ending the plague epidemic of 1624 in Palermo, where she is venerated as the principal patron saint."
+      },
+      {
+        "name": "Saint Moses the Black",
+        "type": "Monk and Martyr",
+        "description": "A former Ethiopian slave who converted to Christianity and became a monk and priest in the Egyptian desert in the 4th century. A model of radical conversion, he died martyred by Berber raiders."
+      },
+      {
+        "name": "Saint Marcellus of Lyon",
+        "type": "Bishop",
+        "description": "Bishop of Lyon in the 5th century, known for his pastoral zeal and his defence of Christian orthodoxy against the heresies of his time."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Wild Animals Day",
+        "description": "A day devoted to raising awareness about wildlife conservation and the fight against the illegal trade and hunting of endangered species."
+      },
+      {
+        "name": "Founding of Los Angeles",
+        "description": "Anniversary of the founding of the city of Los Angeles, California, on 4 September 1781, by Spanish settlers who named it 'El Pueblo de la Reina de los Ángeles'."
+      }
+    ],
+    "historicalQuote": {
+      "text": "We cannot solve our problems with the same thinking we used when we created them.",
+      "author": "Albert Einstein",
+      "context": "The German physicist born in Ulm in 1879, Nobel Prize in Physics 1921, formulated this reflection on the need for creative and lateral thinking to overcome intellectual obstacles."
+    },
+    "motivationalQuote": {
+      "text": "Our lives are defined by opportunities, even the ones we miss.",
+      "author": "F. Scott Fitzgerald"
+    },
+    "births": [
+      {
+        "name": "Beyoncé",
+        "description": "American singer, actress, and producer, one of the most awarded artists in music history. Winner of more than 30 Grammy Awards, she has sold over 200 million records worldwide.",
+        "year": 1981
+      },
+      {
+        "name": "Mitzi Gaynor",
+        "description": "American actress and singer known for her role in the musical film South Pacific (1958), one of the great stars of Golden Age Hollywood in the 1950s.",
+        "year": 1931
+      },
+      {
+        "name": "Damon Hill",
+        "description": "British Formula 1 driver, world champion in 1996 with the Williams team. Son of champion Graham Hill, he is one of the rare father-and-son world champion pairs in F1.",
+        "year": 1960
+      }
+    ],
+    "events": [
+      {
+        "title": "Founding of Los Angeles",
+        "description": "Forty-four Spanish settlers from Sinaloa (Mexico) founded El Pueblo de la Reina de los Ángeles beside the Los Angeles River, the origin of today's Californian metropolis.",
+        "year": 1781
+      },
+      {
+        "title": "George Eastman patents the photographic film roll",
+        "description": "George Eastman was granted the patent for his photographic film roll, revolutionising photography and democratising its use by making it accessible to the general public.",
+        "year": 1888
+      },
+      {
+        "title": "Fall of the last Western Roman Emperor",
+        "description": "Romulus Augustulus, the last emperor of Western Rome, was deposed by the Germanic chieftain Odoacer, an event conventionally regarded as the end of the Western Roman Empire.",
+        "year": 476
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Rosália de Palermo",
+        "type": "Virgem",
+        "description": "Eremita siciliana do século XII que viveu retirada numa gruta do Monte Pellegrino. A sua intercessão é atribuída ao fim da epidemia de peste de 1624 em Palermo, onde é venerada como principal padroeira."
+      },
+      {
+        "name": "São Moisés o Negro",
+        "type": "Monge e Mártir",
+        "description": "Antigo escravo etíope convertido ao cristianismo que se tornou monge e sacerdote no deserto egípcio no século IV. Exemplo de conversão radical, morreu martirizado por piratas berberes."
+      },
+      {
+        "name": "São Marcelo de Lyon",
+        "type": "Bispo",
+        "description": "Bispo de Lyon no século V, conhecido pelo seu zelo pastoral e pela defesa da ortodoxia cristã contra as heresias do seu tempo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia dos Animais Selvagens",
+        "description": "Jornada dedicada à consciencialização sobre a conservação da fauna silvestre e ao combate ao tráfico e caça ilegal de espécies em risco de extinção."
+      },
+      {
+        "name": "Fundação de Los Angeles",
+        "description": "Aniversário da fundação da cidade de Los Angeles, Califórnia, em 4 de setembro de 1781, por colonos espanhóis que a denominaram 'El Pueblo de la Reina de los Ángeles'."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Não podemos resolver problemas usando o mesmo tipo de pensamento que usamos quando os criamos.",
+      "author": "Albert Einstein",
+      "context": "O físico alemão nascido em Ulm em 1879, Prêmio Nobel de Física em 1921, formulou esta reflexão sobre a necessidade do pensamento criativo e lateral para superar obstáculos intelectuais."
+    },
+    "motivationalQuote": {
+      "text": "As nossas vidas são definidas pelas oportunidades, mesmo as que perdemos.",
+      "author": "F. Scott Fitzgerald"
+    },
+    "births": [
+      {
+        "name": "Beyoncé",
+        "description": "Cantora, atriz e produtora americana, uma das artistas mais premiadas da história da música. Vencedora de mais de 30 prêmios Grammy, vendeu mais de 200 milhões de discos em todo o mundo.",
+        "year": 1981
+      },
+      {
+        "name": "Mitzi Gaynor",
+        "description": "Atriz e cantora americana conhecida pelo seu papel no filme musical South Pacific (1958), uma das grandes estrelas de Hollywood dos anos cinquenta.",
+        "year": 1931
+      },
+      {
+        "name": "Damon Hill",
+        "description": "Piloto de Fórmula 1 britânico, campeão mundial em 1996 com a equipa Williams. Filho do também campeão Graham Hill, é um dos raros casos de pai e filho campeões do mundo na F1.",
+        "year": 1960
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundação de Los Angeles",
+        "description": "Quarenta e quatro colonos espanhóis vindos de Sinaloa (México) fundaram El Pueblo de la Reina de los Ángeles junto ao rio Los Angeles, origem da atual metrópole californiana.",
+        "year": 1781
+      },
+      {
+        "title": "George Eastman patenteia o rolo de película fotográfica",
+        "description": "George Eastman obteve a patente do seu rolo de película fotográfica, revolucionando a fotografia e democratizando o seu uso ao torná-la acessível ao público em geral.",
+        "year": 1888
+      },
+      {
+        "title": "Queda do último imperador romano do Ocidente",
+        "description": "Rômulo Augústulo, último imperador de Roma Ocidental, foi deposto pelo chefe germânico Odoacro, evento convencionalmente considerado como o fim do Império Romano do Ocidente.",
+        "year": 476
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Rosalia de Palerm",
+        "type": "Verge",
+        "description": "Eremita siciliana del segle XII que va viure retirada en una cova del Monte Pellegrino. La seva intercesió s'atribueix la fi de l'epidèmia de pesta de 1624 a Palerm, on és venerada com a patrona principal."
+      },
+      {
+        "name": "Sant Moisès el Negre",
+        "type": "Monjo i Màrtir",
+        "description": "Antic esclau etíop convertit al cristianisme que va arribar a ser monjo i sacerdot al desert egipci al segle IV. Exemple de conversió radical, va morir martiritzat per pirates berbers."
+      },
+      {
+        "name": "Sant Marcel de Lió",
+        "type": "Bisbe",
+        "description": "Bisbe de Lió al segle V, conegut pel seu zel pastoral i la seva defensa de l'ortodòxia cristiana davant les heretgies del seu temps."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia dels Animals Salvatges",
+        "description": "Jornada dedicada a la conscienciació sobre la conservació de la fauna silvestre i la lluita contra el tràfic i la caça il·legal d'espècies en perill d'extinció."
+      },
+      {
+        "name": "Fundació de Los Angeles",
+        "description": "Aniversari de la fundació de la ciutat de Los Angeles, Califòrnia, el 4 de setembre de 1781, per colons espanyols que la van denominar 'El Pueblo de la Reina de los Ángeles'."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No podem resoldre problemes usant el mateix tipus de pensament que vam usar quan els vam crear.",
+      "author": "Albert Einstein",
+      "context": "El físic alemany nascut a Ulm el 1879, Premi Nobel de Física el 1921, va formular aquesta reflexió sobre la necessitat del pensament creatiu i lateral per superar els obstacles intel·lectuals."
+    },
+    "motivationalQuote": {
+      "text": "Les nostres vides es defineixen per les oportunitats, fins i tot les que perdem.",
+      "author": "F. Scott Fitzgerald"
+    },
+    "births": [
+      {
+        "name": "Beyoncé",
+        "description": "Cantant, actriu i productora americana, una de les artistes més premiades de la història de la música. Guanyadora de més de 30 premis Grammy, ha venut més de 200 milions de discos arreu del món.",
+        "year": 1981
+      },
+      {
+        "name": "Mitzi Gaynor",
+        "description": "Actriu i cantant americana coneguda pel seu paper a la pel·lícula musical South Pacific (1958), una de les grans estrelles del Hollywood daurat dels anys cinquanta.",
+        "year": 1931
+      },
+      {
+        "name": "Damon Hill",
+        "description": "Pilot de Fórmula 1 britànic, campió mundial el 1996 amb l'equip Williams. Fill del també campió Graham Hill, és un dels rars casos de pare i fill campions del món a la F1.",
+        "year": 1960
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundació de Los Angeles",
+        "description": "Quaranta-quatre colons espanyols procedents de Sinaloa (Mèxic) van fundar El Pueblo de la Reina de los Ángeles vora el riu Los Angeles, origen de l'actual metròpoli californiana.",
+        "year": 1781
+      },
+      {
+        "title": "George Eastman patenta el rotllo de pel·lícula fotogràfica",
+        "description": "George Eastman va obtenir la patent del seu rotllo de pel·lícula fotogràfica, revolucionant la fotografia i democratitzant el seu ús en fer-la accessible al públic en general.",
+        "year": 1888
+      },
+      {
+        "title": "Caiguda de l'últim emperador romà d'Occident",
+        "description": "Ròmul Augústul, darrer emperador de Roma d'Occident, va ser deposat pel cap germànic Odoacre, fet que es considera convencionalment com el final de l'Imperi Romà d'Occident.",
+        "year": 476
+      }
+    ]
+  }
+}

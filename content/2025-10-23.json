@@ -1,0 +1,251 @@
+{
+  "date": "2025-10-23",
+  "es": {
+    "saints": [
+      {
+        "name": "San Juan de Capistrano",
+        "type": "Presbítero",
+        "description": "Fraile franciscano italiano (1386–1456), jurista convertido en fraile, predicador itinerante que recorrió Europa central y oriental. Lideró a los cruzados en la Batalla de Belgrado (1456), donde los otomanos fueron derrotados, protegiendo a la Europa cristiana durante décadas. Murió poco después de la batalla."
+      },
+      {
+        "name": "Beato Ángelo de Acri",
+        "type": "Presbítero",
+        "description": "Fraile capuchino italiano (1669–1739), predicador popular en el sur de Italia. Conocido por su elocuencia y sencillez, transformó la predicación religiosa popular en el reino de Nápoles. Beatificado por Pío VI en 1825."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Moño o Nudo (Necktie Day)",
+        "description": "El 18 de octubre se celebra en algunos países el Día Mundial de la Corbata, aunque la fecha varía. En Croacia, cuna de la corbata moderna (cuyo nombre en francés, cravate, viene de «croate», croata), la festividad es especialmente popular. La corbata fue adoptada por los soldados croatas del siglo XVII y popularizada en la corte de Luis XIV."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La primera condición del progreso es la libertad.",
+      "author": "Herbert Spencer"
+    },
+    "motivationalQuote": {
+      "text": "Haz cada día algo que te dé miedo.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Robert Bunsen",
+        "description": "Químico alemán (1811–1899), inventor del mechero Bunsen, uno de los instrumentos más utilizados en los laboratorios del mundo. Junto a Kirchhoff, fue pionero del análisis espectroscópico, método que permitió descubrir nuevos elementos químicos como el cesio y el rubidio.",
+        "year": 1811
+      },
+      {
+        "name": "Johnny Carson",
+        "description": "Presentador de televisión americano (1925–2005), estrella durante 30 años del programa The Tonight Show de la NBC. Su carisma, humor y habilidad para las entrevistas lo convirtieron en el presentador de late night más influyente de la historia americana. Lanzó la carrera de numerosas estrellas del entretenimiento.",
+        "year": 1925
+      },
+      {
+        "name": "Ryan Reynolds",
+        "description": "Actor, productor y empresario canadiense-americano (n. 1976), conocido por su papel de Deadpool en la saga homónima de Marvel (desde 2016). Es también propietario de la marca de ginebra Aviation Gin y cofundador de la productora Maximum Effort. Ha combinado su carrera con el co-propietariado del club de fútbol Wrexham AFC.",
+        "year": 1976
+      }
+    ],
+    "events": [
+      {
+        "title": "Inauguración del túnel bajo el Canal de la Mancha",
+        "description": "El Eurotúnel (Channel Tunnel o Chunnel), que conecta Folkestone (Reino Unido) con Coquelles (Francia) bajo el Canal de la Mancha, fue inaugurado por la reina Isabel II y el presidente François Mitterrand. Con 50,5 km de longitud, es el segundo túnel de mayor longitud bajo el agua del mundo.",
+        "year": 1994
+      },
+      {
+        "title": "El Concorde bate el récord de velocidad transatlántica",
+        "description": "El avión supersónico Concorde batió el récord de velocidad para un vuelo transatlántico comercial, completando el trayecto entre Nueva York y Londres en 2 horas, 52 minutos y 59 segundos. El récord, que nunca ha sido superado por ningún avión comercial, permanece vigente.",
+        "year": 1996
+      },
+      {
+        "title": "Terremoto de Bam (Irán)",
+        "description": "Un terremoto de magnitud 6,6 sacudió la ciudad de Bam (Irán), destruyendo casi por completo la ciudadela de adobe más grande del mundo (Arg-e Bam, Patrimonio de la Humanidad) y matando a más de 26.000 personas. Fue uno de los desastres naturales más devastadores del siglo XXI.",
+        "year": 2003
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint John of Capistrano",
+        "type": "Priest",
+        "description": "Italian Franciscan friar (1386–1456), a lawyer turned friar and itinerant preacher who travelled through central and eastern Europe. He led the crusaders at the Battle of Belgrade (1456), where the Ottomans were defeated, protecting Christian Europe for decades. He died shortly after the battle."
+      },
+      {
+        "name": "Blessed Angelo of Acri",
+        "type": "Priest",
+        "description": "Italian Capuchin friar (1669–1739), popular preacher in southern Italy. Known for his eloquence and simplicity, he transformed popular religious preaching in the Kingdom of Naples. Beatified by Pius VI in 1825."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Necktie Day",
+        "description": "World Necktie Day is celebrated in some countries on 18 October, though the date varies. In Croatia, the birthplace of the modern tie (whose French name, cravate, comes from 'Croate', Croatian), the celebration is especially popular. The tie was adopted by 17th-century Croatian soldiers and popularised at the court of Louis XIV."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The first condition of progress is liberty.",
+      "author": "Herbert Spencer"
+    },
+    "motivationalQuote": {
+      "text": "Do one thing every day that scares you.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Robert Bunsen",
+        "description": "German chemist (1811–1899), inventor of the Bunsen burner, one of the most widely used instruments in laboratories worldwide. Together with Kirchhoff, he was a pioneer of spectroscopic analysis, a method that enabled the discovery of new chemical elements such as caesium and rubidium.",
+        "year": 1811
+      },
+      {
+        "name": "Johnny Carson",
+        "description": "American television host (1925–2005), star for 30 years of NBC's The Tonight Show. His charisma, humour and interviewing skills made him the most influential late-night host in American history. He launched the careers of numerous entertainment stars.",
+        "year": 1925
+      },
+      {
+        "name": "Ryan Reynolds",
+        "description": "Canadian-American actor, producer and businessman (b. 1976), known for his role as Deadpool in the Marvel franchise of the same name (from 2016). He is also the owner of the Aviation Gin brand and co-founder of the production company Maximum Effort. He has combined his acting career with co-ownership of the football club Wrexham AFC.",
+        "year": 1976
+      }
+    ],
+    "events": [
+      {
+        "title": "Inauguration of the Channel Tunnel",
+        "description": "The Eurotunnel (Channel Tunnel or Chunnel), connecting Folkestone, UK, with Coquelles, France, under the English Channel, was inaugurated by Queen Elizabeth II and President François Mitterrand. At 50.5 km long, it is the second longest undersea tunnel in the world.",
+        "year": 1994
+      },
+      {
+        "title": "Concorde breaks transatlantic speed record",
+        "description": "The supersonic aircraft Concorde broke the speed record for a commercial transatlantic flight, completing the journey between New York and London in 2 hours, 52 minutes and 59 seconds. The record, never surpassed by any commercial aircraft, still stands.",
+        "year": 1996
+      },
+      {
+        "title": "Bam earthquake (Iran)",
+        "description": "A magnitude 6.6 earthquake struck the city of Bam, Iran, almost completely destroying the world's largest adobe citadel (Arg-e Bam, a UNESCO World Heritage Site) and killing more than 26,000 people. It was one of the most devastating natural disasters of the 21st century.",
+        "year": 2003
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São João de Capistrano",
+        "type": "Presbítero",
+        "description": "Frade franciscano italiano (1386–1456), jurista convertido em frade, pregador itinerante que percorreu a Europa central e oriental. Liderou os cruzados na Batalha de Belgrado (1456), onde os otomanos foram derrotados, protegendo a Europa cristã durante décadas. Morreu pouco depois da batalha."
+      },
+      {
+        "name": "Beato Ângelo de Acri",
+        "type": "Presbítero",
+        "description": "Frade capuchinho italiano (1669–1739), pregador popular no sul de Itália. Conhecido pela sua eloquência e simplicidade, transformou a pregação religiosa popular no reino de Nápoles. Beatificado por Pio VI em 1825."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Gravata",
+        "description": "O Dia Mundial da Gravata é celebrado em alguns países a 18 de outubro, embora a data varie. Na Croácia, berço da gravata moderna (cujo nome em francês, cravate, vem de «Croate», croata), a festividade é especialmente popular. A gravata foi adotada pelos soldados croatas do século XVII e popularizada na corte de Luís XIV."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A primeira condição do progresso é a liberdade.",
+      "author": "Herbert Spencer"
+    },
+    "motivationalQuote": {
+      "text": "Faz cada dia algo que te dê medo.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Robert Bunsen",
+        "description": "Químico alemão (1811–1899), inventor do bico de Bunsen, um dos instrumentos mais utilizados nos laboratórios do mundo. Juntamente com Kirchhoff, foi pioneiro da análise espectroscópica, método que permitiu descobrir novos elementos químicos como o césio e o rubídio.",
+        "year": 1811
+      },
+      {
+        "name": "Johnny Carson",
+        "description": "Apresentador de televisão americano (1925–2005), estrela durante 30 anos do programa The Tonight Show da NBC. O seu carisma, humor e habilidade para as entrevistas tornaram-no no apresentador de late night mais influente da história americana. Lançou a carreira de numerosas estrelas do entretenimento.",
+        "year": 1925
+      },
+      {
+        "name": "Ryan Reynolds",
+        "description": "Ator, produtor e empresário canadiano-americano (n. 1976), conhecido pelo papel de Deadpool na saga homónima da Marvel (desde 2016). É também proprietário da marca de gin Aviation Gin e cofundador da produtora Maximum Effort. Combinou a sua carreira com a co-propriedade do clube de futebol Wrexham AFC.",
+        "year": 1976
+      }
+    ],
+    "events": [
+      {
+        "title": "Inauguração do Túnel sob o Canal da Mancha",
+        "description": "O Eurotúnel (Channel Tunnel ou Chunnel), que liga Folkestone (Reino Unido) a Coquelles (França) sob o Canal da Mancha, foi inaugurado pela rainha Isabel II e pelo presidente François Mitterrand. Com 50,5 km de comprimento, é o segundo túnel subaquático mais longo do mundo.",
+        "year": 1994
+      },
+      {
+        "title": "O Concorde bate o recorde de velocidade transatlântica",
+        "description": "O avião supersónico Concorde bateu o recorde de velocidade para um voo transatlântico comercial, completando o trajeto entre Nova Iorque e Londres em 2 horas, 52 minutos e 59 segundos. O recorde, nunca superado por nenhum avião comercial, permanece vigente.",
+        "year": 1996
+      },
+      {
+        "title": "Sismo de Bam (Irão)",
+        "description": "Um sismo de magnitude 6,6 sacudiu a cidade de Bam (Irão), destruindo quase por completo a maior cidadela de adobe do mundo (Arg-e Bam, Património da Humanidade) e matando mais de 26.000 pessoas. Foi um dos desastres naturais mais devastadores do século XXI.",
+        "year": 2003
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Joan de Capistrano",
+        "type": "Prevere",
+        "description": "Frare franciscà italià (1386–1456), jurista convertit en frare, predicador itinerant que va recórrer l'Europa central i oriental. Va liderar els croats a la Batalla de Belgrad (1456), on els otomans van ser derrotats, protegint l'Europa cristiana durant dècades. Va morir poc després de la batalla."
+      },
+      {
+        "name": "Beat Àngel d'Acri",
+        "type": "Prevere",
+        "description": "Frare caputxí italià (1669–1739), predicador popular al sud d'Itàlia. Conegut per la seva eloqüència i senzillesa, va transformar la predicació religiosa popular al regne de Nàpols. Beatificat per Pius VI el 1825."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Corbata",
+        "description": "El Dia Mundial de la Corbata se celebra en alguns països el 18 d'octubre, tot i que la data varia. A Croàcia, bressol de la corbata moderna (el nom de la qual en francès, cravate, ve de «Croate», croat), la festivitat és especialment popular. La corbata va ser adoptada pels soldats croats del segle XVII i popularitzada a la cort de Lluís XIV."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La primera condició del progrés és la llibertat.",
+      "author": "Herbert Spencer"
+    },
+    "motivationalQuote": {
+      "text": "Fes cada dia alguna cosa que et faci por.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Robert Bunsen",
+        "description": "Químic alemany (1811–1899), inventor del bec Bunsen, un dels instruments més utilitzats als laboratoris del món. Juntament amb Kirchhoff, va ser pioner de l'anàlisi espectroscòpica, mètode que va permetre descobrir nous elements químics com el cesi i el rubidi.",
+        "year": 1811
+      },
+      {
+        "name": "Johnny Carson",
+        "description": "Presentador de televisió americà (1925–2005), estrella durant 30 anys del programa The Tonight Show de la NBC. El seu carisma, humor i habilitat per a les entrevistes el van convertir en el presentador de late night més influent de la història americana. Va llançar la carrera de nombroses estrelles de l'entreteniment.",
+        "year": 1925
+      },
+      {
+        "name": "Ryan Reynolds",
+        "description": "Actor, productor i empresari canadenc-americà (n. 1976), conegut pel paper de Deadpool a la saga homònima de Marvel (des del 2016). És també propietari de la marca de ginebra Aviation Gin i cofundador de la productora Maximum Effort. Ha combinat la seva carrera amb la co-propietat del club de futbol Wrexham AFC.",
+        "year": 1976
+      }
+    ],
+    "events": [
+      {
+        "title": "Inauguració del túnel sota el Canal de la Mànega",
+        "description": "L'Eurotúnel (Channel Tunnel o Chunnel), que connecta Folkestone (Regne Unit) amb Coquelles (França) sota el Canal de la Mànega, va ser inaugurat per la reina Elisabet II i el president François Mitterrand. Amb 50,5 km de longitud, és el segon túnel submarí més llarg del món.",
+        "year": 1994
+      },
+      {
+        "title": "El Concorde bat el rècord de velocitat transatlàntica",
+        "description": "L'avió supersònic Concorde va batre el rècord de velocitat per a un vol transatlàntic comercial, completant el trajecte entre Nova York i Londres en 2 hores, 52 minuts i 59 segons. El rècord, mai superat per cap avió comercial, continua vigent.",
+        "year": 1996
+      },
+      {
+        "title": "Terratrèmol de Bam (Iran)",
+        "description": "Un terratrèmol de magnitud 6,6 va sacsejar la ciutat de Bam (Iran), destruint gairebé per complet la ciutadella d'adobe més gran del món (Arg-e Bam, Patrimoni de la Humanitat) i matant més de 26.000 persones. Va ser un dels desastres naturals més devastadors del segle XXI.",
+        "year": 2003
+      }
+    ]
+  }
+}

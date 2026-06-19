@@ -1,0 +1,291 @@
+{
+  "date": "2026-04-16",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Bernadette Soubirous",
+        "type": "Virgen",
+        "description": "Joven pastora francesa del siglo XIX que afirmó haber visto dieciocho apariciones de la Virgen María en la gruta de Massabielle, en Lourdes, entre febrero y julio de 1858. La Iglesia reconoció las apariciones en 1862. Bernadette ingresó en las Hermanas de la Caridad de Nevers, donde vivió en la oscuridad y el sufrimiento hasta su muerte. Fue canonizada en 1933."
+      },
+      {
+        "name": "San Fructuoso de Braga",
+        "type": "Obispo",
+        "description": "Obispo de Braga (actual Portugal) en el siglo VII, de familia noble visigoda. Fundó numerosos monasterios en la Península Ibérica y fue un gran impulsor del monacato hispánico. Es patrono de la ciudad de Braga y uno de los santos más venerados del noroeste peninsular."
+      },
+      {
+        "name": "San Benedicto José Labre",
+        "type": "Confesor",
+        "description": "Peregrino y mendigo francés del siglo XVIII que renunció a ingresar en diversas órdenes religiosas para dedicarse a la vida de peregrinación continua por Europa, visitando los principales santuarios. Murió de agotamiento y malnutrición en Roma en 1783 y fue canonizado en 1881. Es patrono de los pobres y los sin techo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Voz",
+        "description": "Celebrado el 16 de abril desde 2002, este día busca concienciar sobre la importancia de la voz humana en la comunicación, la expresión artística y el bienestar. Impulsado por profesionales de la medicina y la fonética, promueve el cuidado de la salud vocal."
+      },
+      {
+        "name": "Día Nacional de la Ciencia en Polonia",
+        "description": "Polonia celebra este día en conmemoración del nacimiento de Marie Curie (7 de noviembre, en algunas variantes el 16 de abril), reconociendo el papel de la ciencia en el progreso de la humanidad y rindiendo homenaje a los científicos polacos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nada en la vida debe ser temido, solo comprendido. Ahora es el momento de comprender más para temer menos.",
+      "author": "Marie Curie",
+      "context": "Marie Curie, nacida el 7 de noviembre de 1867, fue la primera mujer en ganar un Premio Nobel y la única persona en ganarlo en dos disciplinas científicas distintas (Física, 1903; Química, 1911). Esta cita sintetiza su espíritu científico frente a lo desconocido."
+    },
+    "motivationalQuote": {
+      "text": "No es lo que eres lo que te retiene, sino lo que crees que no eres.",
+      "author": "Denis Waitley"
+    },
+    "births": [
+      {
+        "name": "Charlie Chaplin",
+        "description": "Actor, director, guionista y compositor británico, una de las figuras más importantes de la historia del cine. Creador del personaje de 'El vagabundo' (Charlot), símbolo universal del humor y la ternura. Sus películas 'Tiempos modernos', 'El gran dictador' y 'El chico' marcaron épocas. Fue el primer gran genio del cine mudo.",
+        "year": "1889"
+      },
+      {
+        "name": "Anatole France",
+        "description": "Escritor y crítico literario francés, uno de los grandes del naturalismo y la ironía satírica. Ganó el Premio Nobel de Literatura en 1921. Entre sus obras destacan 'La isla de los pingüinos' y 'Los dioses tienen sed'. Fue también un ardiente defensor de la justicia en el Caso Dreyfus.",
+        "year": "1844"
+      },
+      {
+        "name": "Pope Benedict XVI",
+        "description": "Joseph Aloisius Ratzinger, teólogo alemán, prefecto de la Congregación para la Doctrina de la Fe y papa de la Iglesia Católica de 2005 a 2013, cuando renunció al pontificado, siendo el primero en hacerlo en casi 600 años. Su pontificado estuvo marcado por la defensa de la ortodoxia católica y la crisis de los abusos sexuales en la Iglesia.",
+        "year": "1927"
+      }
+    ],
+    "events": [
+      {
+        "title": "Masacre de Virginia Tech",
+        "description": "Seung-Hui Cho, estudiante de la universidad, abrió fuego en el campus de Virginia Tech (Blacksburg, Virginia), matando a 32 personas e hiriendo a otras 25. Fue la masacre universitaria más mortífera de la historia de los Estados Unidos. Provocó un intenso debate sobre el control de armas.",
+        "year": "2007"
+      },
+      {
+        "title": "Nace el Premio Nobel de Literatura",
+        "description": "La Academia Sueca anunció la institución del Premio Nobel de Literatura siguiendo el testamento de Alfred Nobel (1895). El primer premio sería otorgado al francés Sully Prudhomme en 1901.",
+        "year": "1900"
+      },
+      {
+        "title": "Independencia de Dinamarca de la Unión de Kalmar",
+        "description": "Christian I fue coronado rey de Dinamarca en Copenhague, comenzando la separación efectiva del dominio escandinavo unificado, que eventualmente llevaría a la plena independencia de los estados nórdicos.",
+        "year": "1448"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Bernadette Soubirous",
+        "type": "Virgin",
+        "description": "A 19th-century French shepherdess who claimed to have seen eighteen apparitions of the Virgin Mary in the grotto of Massabielle, in Lourdes, between February and July 1858. The Church recognised the apparitions in 1862. Bernadette entered the Sisters of Charity of Nevers, where she lived in obscurity and suffering until her death. She was canonised in 1933."
+      },
+      {
+        "name": "Saint Fructuosus of Braga",
+        "type": "Bishop",
+        "description": "A 7th-century Bishop of Braga (present-day Portugal), from a Visigothic noble family. He founded numerous monasteries on the Iberian Peninsula and was a great promoter of Hispanic monasticism. He is the patron saint of the city of Braga and one of the most venerated saints of the north-western Peninsula."
+      },
+      {
+        "name": "Saint Benedict Joseph Labre",
+        "type": "Confessor",
+        "description": "An 18th-century French pilgrim and beggar who renounced entering various religious orders to devote himself to a life of continuous pilgrimage across Europe, visiting the main shrines. He died of exhaustion and malnutrition in Rome in 1783 and was canonised in 1881. He is the patron saint of the poor and the homeless."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Voice Day",
+        "description": "Celebrated on 16 April since 2002, this day aims to raise awareness of the importance of the human voice in communication, artistic expression, and well-being. Promoted by medical and phonetics professionals, it encourages vocal health care."
+      },
+      {
+        "name": "National Science Day (Poland)",
+        "description": "Poland celebrates this day in commemoration of the birth of Marie Curie, recognising the role of science in human progress and paying tribute to Polish scientists."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nothing in life is to be feared, only to be understood. Now is the time to understand more, so that we may fear less.",
+      "author": "Marie Curie",
+      "context": "Marie Curie, born on 7 November 1867, was the first woman to win a Nobel Prize and the only person to win it in two different scientific disciplines (Physics, 1903; Chemistry, 1911). This quote encapsulates her scientific spirit in the face of the unknown."
+    },
+    "motivationalQuote": {
+      "text": "It's not who you are that holds you back, it's who you think you're not.",
+      "author": "Denis Waitley"
+    },
+    "births": [
+      {
+        "name": "Charlie Chaplin",
+        "description": "British actor, director, screenwriter, and composer, one of the most important figures in the history of cinema. Creator of the 'Tramp' character (Charlot), a universal symbol of humour and tenderness. His films 'Modern Times', 'The Great Dictator', and 'The Kid' defined eras. He was the first great genius of silent cinema.",
+        "year": "1889"
+      },
+      {
+        "name": "Anatole France",
+        "description": "French writer and literary critic, one of the great masters of naturalism and satirical irony. He won the Nobel Prize in Literature in 1921. His works include 'Penguin Island' and 'The Gods Are Athirst'. He was also a passionate defender of justice in the Dreyfus Affair.",
+        "year": "1844"
+      },
+      {
+        "name": "Pope Benedict XVI",
+        "description": "Joseph Aloisius Ratzinger, German theologian, Prefect of the Congregation for the Doctrine of the Faith, and Pope of the Catholic Church from 2005 to 2013, when he resigned from the pontificate — the first to do so in nearly 600 years. His pontificate was marked by the defence of Catholic orthodoxy and the crisis of sexual abuse in the Church.",
+        "year": "1927"
+      }
+    ],
+    "events": [
+      {
+        "title": "Virginia Tech Massacre",
+        "description": "Seung-Hui Cho, a student at the university, opened fire on the Virginia Tech campus (Blacksburg, Virginia), killing 32 people and wounding 25 others. It was the deadliest university mass shooting in US history and prompted an intense debate about gun control.",
+        "year": "2007"
+      },
+      {
+        "title": "Nobel Prize in Literature Established",
+        "description": "The Swedish Academy announced the institution of the Nobel Prize in Literature, following Alfred Nobel's will (1895). The first prize would be awarded to the Frenchman Sully Prudhomme in 1901.",
+        "year": "1900"
+      },
+      {
+        "title": "Danish Separation from the Kalmar Union",
+        "description": "Christian I was crowned King of Denmark in Copenhagen, beginning the effective separation from the unified Scandinavian dominion, which would eventually lead to the full independence of the Nordic states.",
+        "year": "1448"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Bernadette Soubirous",
+        "type": "Virgem",
+        "description": "Jovem pastora francesa do século XIX que afirmou ter visto dezoito aparições da Virgem Maria na gruta de Massabielle, em Lourdes, entre fevereiro e julho de 1858. A Igreja reconheceu as aparições em 1862. Bernadette entrou nas Irmãs da Caridade de Nevers, onde viveu na obscuridade e no sofrimento até à sua morte. Foi canonizada em 1933."
+      },
+      {
+        "name": "São Frutuoso de Braga",
+        "type": "Bispo",
+        "description": "Bispo de Braga (atual Portugal) no século VII, de família nobre visigoda. Fundou numerosos mosteiros na Península Ibérica e foi um grande impulsionador do monaquismo hispânico. É patrono da cidade de Braga e um dos santos mais venerados do noroeste peninsular."
+      },
+      {
+        "name": "São Bento José Labre",
+        "type": "Confessor",
+        "description": "Peregrino e mendigo francês do século XVIII que renunciou a entrar em várias ordens religiosas para se dedicar à vida de peregrinação contínua pela Europa, visitando os principais santuários. Morreu de exaustão e desnutrição em Roma em 1783 e foi canonizado em 1881. É patrono dos pobres e dos sem-abrigo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Voz",
+        "description": "Celebrado em 16 de abril desde 2002, este dia busca consciencializar sobre a importância da voz humana na comunicação, expressão artística e bem-estar. Impulsionado por profissionais da medicina e fonética, promove o cuidado da saúde vocal."
+      },
+      {
+        "name": "Dia Nacional da Ciência na Polónia",
+        "description": "A Polónia celebra este dia em comemoração do nascimento de Marie Curie, reconhecendo o papel da ciência no progresso da humanidade e prestando homenagem aos cientistas polacos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nada na vida deve ser temido, apenas compreendido. Agora é o momento de compreender mais para temer menos.",
+      "author": "Marie Curie",
+      "context": "Marie Curie, nascida em 7 de novembro de 1867, foi a primeira mulher a ganhar um Prémio Nobel e a única pessoa a ganhá-lo em duas disciplinas científicas distintas (Física, 1903; Química, 1911). Esta citação sintetiza o seu espírito científico perante o desconhecido."
+    },
+    "motivationalQuote": {
+      "text": "Não é o que és que te segura, é o que acreditas não ser.",
+      "author": "Denis Waitley"
+    },
+    "births": [
+      {
+        "name": "Charlie Chaplin",
+        "description": "Ator, realizador, argumentista e compositor britânico, uma das figuras mais importantes da história do cinema. Criador da personagem do 'Vagabundo' (Carlitos), símbolo universal do humor e da ternura. Os seus filmes 'Tempos Modernos', 'O Grande Ditador' e 'O Miúdo' marcaram épocas. Foi o primeiro grande génio do cinema mudo.",
+        "year": "1889"
+      },
+      {
+        "name": "Anatole France",
+        "description": "Escritor e crítico literário francês, um dos grandes do naturalismo e da ironia satírica. Ganhou o Prémio Nobel de Literatura em 1921. Entre as suas obras destacam-se 'A Ilha dos Pinguins' e 'Os Deuses Têm Sede'. Foi também um ardente defensor da justiça no Caso Dreyfus.",
+        "year": "1844"
+      },
+      {
+        "name": "Papa Bento XVI",
+        "description": "Joseph Aloisius Ratzinger, teólogo alemão, prefeito da Congregação para a Doutrina da Fé e papa da Igreja Católica de 2005 a 2013, quando renunciou ao pontificado, sendo o primeiro a fazê-lo em quase 600 anos. O seu pontificado foi marcado pela defesa da ortodoxia católica e pela crise dos abusos sexuais na Igreja.",
+        "year": "1927"
+      }
+    ],
+    "events": [
+      {
+        "title": "Massacre de Virginia Tech",
+        "description": "Seung-Hui Cho, estudante da universidade, abriu fogo no campus de Virginia Tech (Blacksburg, Virgínia), matando 32 pessoas e ferindo outras 25. Foi o massacre universitário mais mortífero da história dos Estados Unidos. Desencadeou um intenso debate sobre o controlo de armas.",
+        "year": "2007"
+      },
+      {
+        "title": "Criação do Prémio Nobel de Literatura",
+        "description": "A Academia Sueca anunciou a instituição do Prémio Nobel de Literatura, seguindo o testamento de Alfred Nobel (1895). O primeiro prémio seria atribuído ao francês Sully Prudhomme em 1901.",
+        "year": "1900"
+      },
+      {
+        "title": "Separação da Dinamarca da União de Kalmar",
+        "description": "Cristiano I foi coroado rei da Dinamarca em Copenhaga, iniciando a separação efetiva do domínio escandinavo unificado, que eventualmente levaria à plena independência dos estados nórdicos.",
+        "year": "1448"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Bernadette Soubirous",
+        "type": "Verge",
+        "description": "Jove pastora francesa del segle XIX que va afirmar haver vist divuit aparicions de la Verge Maria a la gruta de Massabielle, a Lourdes, entre febrer i juliol de 1858. L'Església va reconèixer les aparicions el 1862. Bernadette va ingressar a les Germanes de la Caritat de Nevers, on va viure en l'obscuritat i el sofriment fins a la seva mort. Va ser canonitzada el 1933."
+      },
+      {
+        "name": "Sant Fructuós de Braga",
+        "type": "Bisbe",
+        "description": "Bisbe de Braga (actual Portugal) al segle VII, de família noble visigoda. Va fundar nombrosos monestirs a la Península Ibèrica i va ser un gran impulsor del monaquisme hispànic. És patró de la ciutat de Braga i un dels sants més venerats del nord-oest peninsular."
+      },
+      {
+        "name": "Sant Benet Josep Labre",
+        "type": "Confessor",
+        "description": "Pelegrí i captaire francès del segle XVIII que va renunciar a entrar en diverses ordres religioses per dedicar-se a la vida de pelegrinatge continu per Europa, visitant els principals santuaris. Va morir d'esgotament i malnutrició a Roma el 1783 i va ser canonitzat el 1881. És patró dels pobres i els sense llar."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Veu",
+        "description": "Celebrat el 16 d'abril des del 2002, aquest dia busca conscienciar sobre la importància de la veu humana en la comunicació, l'expressió artística i el benestar. Impulsat per professionals de la medicina i la fonètica, promou la cura de la salut vocal."
+      },
+      {
+        "name": "Dia Nacional de la Ciència a Polònia",
+        "description": "Polònia celebra aquest dia en commemoració del naixement de Marie Curie, reconeixent el paper de la ciència en el progrés de la humanitat i rendint homenatge als científics polonesos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Res en la vida ha de ser temut, només comprès. Ara és el moment de comprendre més per témer menys.",
+      "author": "Marie Curie",
+      "context": "Marie Curie, nascuda el 7 de novembre de 1867, va ser la primera dona a guanyar un Premi Nobel i l'única persona a guanyar-lo en dues disciplines científiques diferents (Física, 1903; Química, 1911). Aquesta cita sintetitza el seu esperit científic davant el desconegut."
+    },
+    "motivationalQuote": {
+      "text": "No és el que ets el que et frena, sinó el que creus que no ets.",
+      "author": "Denis Waitley"
+    },
+    "births": [
+      {
+        "name": "Charlie Chaplin",
+        "description": "Actor, director, guionista i compositor britànic, una de les figures més importants de la història del cinema. Creador del personatge del 'Rodamón' (Charlot), símbol universal de l'humor i la tendresa. Les seves pel·lícules 'Temps moderns', 'El gran dictador' i 'El minyó' van marcar èpoques. Va ser el primer gran geni del cinema mut.",
+        "year": "1889"
+      },
+      {
+        "name": "Anatole France",
+        "description": "Escriptor i crític literari francès, un dels grans del naturalisme i la ironia satírica. Va guanyar el Premi Nobel de Literatura el 1921. Entre les seves obres destaquen 'L'illa dels pingüins' i 'Els déus tenen set'. Va ser també un ardent defensor de la justícia en el Cas Dreyfus.",
+        "year": "1844"
+      },
+      {
+        "name": "Papa Benet XVI",
+        "description": "Joseph Aloisius Ratzinger, teòleg alemany, prefecte de la Congregació per a la Doctrina de la Fe i papa de l'Església Catòlica del 2005 al 2013, quan va renunciar al pontificat, essent el primer a fer-ho en gairebé 600 anys. El seu pontificat va estar marcat per la defensa de l'ortodòxia catòlica i la crisi dels abusos sexuals a l'Església.",
+        "year": "1927"
+      }
+    ],
+    "events": [
+      {
+        "title": "Massacre de Virginia Tech",
+        "description": "Seung-Hui Cho, estudiant de la universitat, va obrir foc al campus de Virginia Tech (Blacksburg, Virgínia), matant 32 persones i ferint-ne 25 més. Va ser la matança universitària més mortífera de la història dels Estats Units. Va provocar un intens debat sobre el control d'armes.",
+        "year": "2007"
+      },
+      {
+        "title": "Creació del Premi Nobel de Literatura",
+        "description": "L'Acadèmia Sueca va anunciar la institució del Premi Nobel de Literatura, seguint el testament d'Alfred Nobel (1895). El primer premi seria atorgat al francès Sully Prudhomme el 1901.",
+        "year": "1900"
+      },
+      {
+        "title": "Separació de Dinamarca de la Unió de Kalmar",
+        "description": "Cristià I va ser coronat rei de Dinamarca a Copenhaguen, iniciant la separació efectiva del domini escandinau unificat, que eventualment portaria a la plena independència dels estats nòrdics.",
+        "year": "1448"
+      }
+    ]
+  }
+}

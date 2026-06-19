@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-04",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Mónica",
+        "type": "Matrona",
+        "description": "Madre de San Agustín de Hipona, nacida en el norte de África hacia el año 331. Pasó décadas orando por la conversión de su hijo, quien acabó convirtiéndose en uno de los mayores Doctores de la Iglesia. Es patrona de las madres y las esposas."
+      },
+      {
+        "name": "San Florián",
+        "type": "Mártir",
+        "description": "Oficial romano del siglo III que se negó a perseguir a los cristianos durante el reinado del emperador Diocleciano. Fue ahogado en el río Enns (Austria) atado a una piedra de molino. Es patrón de Polonia, Austria y de los bomberos."
+      },
+      {
+        "name": "San Silvano de Gaza",
+        "type": "Mártir",
+        "description": "Obispo de Gaza que sufrió martirio junto con un grupo de cuarenta compañeros durante las persecuciones del emperador Maximino II, hacia el año 311, siendo uno de los últimos mártires de las persecuciones romanas."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional del Combate a la Desertificación y la Sequía",
+        "description": "Aunque se conmemora oficialmente el 17 de junio, en torno a estas fechas se organizan numerosos eventos para concienciar sobre el avance de los desiertos y la escasez de agua, dos de los grandes retos ambientales del siglo XXI."
+      },
+      {
+        "name": "Día de la Aviación",
+        "description": "Fecha simbólica para la aviación en varios países, en reconocimiento a los pioneros del vuelo y a la industria aeronáutica que ha unido el mundo durante el último siglo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Las lágrimas de una madre son el rocío silencioso del cielo sobre las flores de la tierra.",
+      "author": "Samuel Taylor Coleridge"
+    },
+    "motivationalQuote": {
+      "text": "El secreto de salir adelante es comenzar.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Audrey Hepburn",
+        "description": "Actriz británica de origen belga, una de las grandes estrellas del cine clásico de Hollywood. Ganadora del Óscar, el Emmy, el Grammy y el Tony, protagonizó filmes icónicos como Vacaciones en Roma, Desayuno con diamantes y My Fair Lady. Fue también embajadora de UNICEF.",
+        "year": "1929"
+      },
+      {
+        "name": "Thomas Henry Huxley",
+        "description": "Biólogo y naturalista inglés del siglo XIX, defensor entusiasta de la teoría de la evolución de Charles Darwin, con quien se le apodó 'el bulldog de Darwin'. Fue el primero en usar el término 'agnóstico'.",
+        "year": "1825"
+      },
+      {
+        "name": "Randy Travis",
+        "description": "Cantante y actor estadounidense de música country, considerado uno de los pioneros del movimiento 'neotradicionalist country' de la década de 1980. Sus álbumes Storms of Life y Always & Forever le convirtieron en un ícono del género.",
+        "year": "1959"
+      }
+    ],
+    "events": [
+      {
+        "title": "Masacre de Kent State",
+        "description": "La Guardia Nacional de Ohio disparó contra estudiantes que protestaban contra la intervención militar de EE. UU. en Camboya en la Universidad Kent State, matando a cuatro jóvenes e hiriendo a nueve. El suceso conmocionó a la opinión pública americana.",
+        "year": "1970"
+      },
+      {
+        "title": "Margaret Thatcher, primera ministra de Reino Unido",
+        "description": "Margaret Thatcher asumió el cargo de primera ministra del Reino Unido tras la victoria del Partido Conservador en las elecciones generales, convirtiéndose en la primera mujer en ocupar ese cargo en la historia británica.",
+        "year": "1979"
+      },
+      {
+        "title": "Incendio del Parlamento de Westminster",
+        "description": "Un incendio devastador destruyó el Palacio de Westminster, sede del Parlamento inglés. El desastre motivó la construcción del actual edificio neogótico diseñado por Charles Barry y Augustus Pugin.",
+        "year": "1834"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Monica",
+        "type": "Matron",
+        "description": "Mother of Saint Augustine of Hippo, born in North Africa around 331 AD. She spent decades praying for the conversion of her son, who went on to become one of the greatest Doctors of the Church. She is the patron saint of mothers and wives."
+      },
+      {
+        "name": "Saint Florian",
+        "type": "Martyr",
+        "description": "3rd-century Roman officer who refused to persecute Christians during the reign of Emperor Diocletian. He was drowned in the river Enns (Austria) tied to a millstone. He is the patron saint of Poland, Austria, and firefighters."
+      },
+      {
+        "name": "Saint Silvanus of Gaza",
+        "type": "Martyr",
+        "description": "Bishop of Gaza who suffered martyrdom along with a group of forty companions during the persecutions of Emperor Maximinus II, around 311 AD, being one of the last martyrs of the Roman persecutions."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day to Combat Desertification and Drought",
+        "description": "Although officially commemorated on 17 June, numerous events are organised around this time to raise awareness about the spread of deserts and water scarcity, two of the great environmental challenges of the 21st century."
+      },
+      {
+        "name": "Aviation Day",
+        "description": "A symbolic date for aviation in several countries, honouring the pioneers of flight and the aeronautical industry that has connected the world over the past century."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A mother's tears are the silent dew of heaven on the flowers of the earth.",
+      "author": "Samuel Taylor Coleridge"
+    },
+    "motivationalQuote": {
+      "text": "The secret of getting ahead is getting started.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Audrey Hepburn",
+        "description": "British actress of Belgian origin, one of the great stars of classic Hollywood cinema. A winner of the Oscar, Emmy, Grammy, and Tony, she starred in iconic films such as Roman Holiday, Breakfast at Tiffany's, and My Fair Lady. She was also a UNICEF Goodwill Ambassador.",
+        "year": "1929"
+      },
+      {
+        "name": "Thomas Henry Huxley",
+        "description": "19th-century English biologist and naturalist, an enthusiastic defender of Charles Darwin's theory of evolution, for which he was nicknamed 'Darwin's bulldog'. He was the first to use the term 'agnostic'.",
+        "year": "1825"
+      },
+      {
+        "name": "Randy Travis",
+        "description": "American country music singer and actor, considered one of the pioneers of the 'neotraditional country' movement of the 1980s. His albums Storms of Life and Always & Forever made him an icon of the genre.",
+        "year": "1959"
+      }
+    ],
+    "events": [
+      {
+        "title": "Kent State Massacre",
+        "description": "The Ohio National Guard opened fire on students protesting against the US military intervention in Cambodia at Kent State University, killing four young people and wounding nine. The event shocked American public opinion.",
+        "year": "1970"
+      },
+      {
+        "title": "Margaret Thatcher Becomes UK Prime Minister",
+        "description": "Margaret Thatcher assumed the office of Prime Minister of the United Kingdom following the Conservative Party's victory in the general election, becoming the first woman to hold that position in British history.",
+        "year": "1979"
+      },
+      {
+        "title": "Fire at the Palace of Westminster",
+        "description": "A devastating fire destroyed the Palace of Westminster, the seat of the English Parliament. The disaster prompted the construction of the current neo-Gothic building designed by Charles Barry and Augustus Pugin.",
+        "year": "1834"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Mônica",
+        "type": "Matrona",
+        "description": "Mãe de Santo Agostinho de Hipona, nascida no norte da África por volta do ano 331. Passou décadas orando pela conversão de seu filho, que viria a se tornar um dos maiores Doutores da Igreja. É padroeira das mães e das esposas."
+      },
+      {
+        "name": "São Floriano",
+        "type": "Mártir",
+        "description": "Oficial romano do século III que se recusou a perseguir os cristãos durante o reinado do imperador Diocleciano. Foi afogado no rio Enns (Áustria) amarrado a uma pedra de moinho. É padroeiro da Polônia, da Áustria e dos bombeiros."
+      },
+      {
+        "name": "São Silvano de Gaza",
+        "type": "Mártir",
+        "description": "Bispo de Gaza que sofreu martírio junto com um grupo de quarenta companheiros durante as perseguições do imperador Maximino II, por volta do ano 311 d.C., sendo um dos últimos mártires das perseguições romanas."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de Combate à Desertificação e à Seca",
+        "description": "Embora oficialmente comemorado em 17 de junho, muitos eventos são organizados nesta época para conscientizar sobre o avanço dos desertos e a escassez de água, dois dos grandes desafios ambientais do século XXI."
+      },
+      {
+        "name": "Dia da Aviação",
+        "description": "Data simbólica para a aviação em vários países, em reconhecimento aos pioneiros do voo e à indústria aeronáutica que tem unido o mundo no último século."
+      }
+    ],
+    "historicalQuote": {
+      "text": "As lágrimas de uma mãe são o orvalho silencioso do céu sobre as flores da terra.",
+      "author": "Samuel Taylor Coleridge"
+    },
+    "motivationalQuote": {
+      "text": "O segredo de progredir é começar.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Audrey Hepburn",
+        "description": "Atriz britânica de origem belga, uma das grandes estrelas do cinema clássico de Hollywood. Ganhadora do Oscar, Emmy, Grammy e Tony, protagonizou filmes icônicos como A Princesa e o Plebeu, Bonequinha de Luxo e My Fair Lady. Também foi embaixadora da UNICEF.",
+        "year": "1929"
+      },
+      {
+        "name": "Thomas Henry Huxley",
+        "description": "Biólogo e naturalista inglês do século XIX, defensor entusiástico da teoria da evolução de Charles Darwin, que lhe valeu o apelido de 'o buldogue de Darwin'. Foi o primeiro a usar o termo 'agnóstico'.",
+        "year": "1825"
+      },
+      {
+        "name": "Randy Travis",
+        "description": "Cantor e ator americano de música country, considerado um dos pioneiros do movimento 'neotraditional country' da década de 1980. Seus álbuns Storms of Life e Always & Forever fizeram dele um ícone do gênero.",
+        "year": "1959"
+      }
+    ],
+    "events": [
+      {
+        "title": "Massacre de Kent State",
+        "description": "A Guarda Nacional de Ohio abriu fogo contra estudantes que protestavam contra a intervenção militar dos EUA no Camboja na Universidade Kent State, matando quatro jovens e ferindo nove. O ocorrido chocou a opinião pública americana.",
+        "year": "1970"
+      },
+      {
+        "title": "Margaret Thatcher torna-se primeira-ministra do Reino Unido",
+        "description": "Margaret Thatcher assumiu o cargo de primeira-ministra do Reino Unido após a vitória do Partido Conservador nas eleições gerais, tornando-se a primeira mulher a ocupar esse cargo na história britânica.",
+        "year": "1979"
+      },
+      {
+        "title": "Incêndio no Palácio de Westminster",
+        "description": "Um incêndio devastador destruiu o Palácio de Westminster, sede do Parlamento inglês. O desastre motivou a construção do atual edifício neogótico projetado por Charles Barry e Augustus Pugin.",
+        "year": "1834"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Mònica",
+        "type": "Matrona",
+        "description": "Mare de Sant Agustí d'Hipona, nascuda al nord d'Àfrica cap a l'any 331. Va passar dècades pregant per la conversió del seu fill, que va acabar convertint-se en un dels majors Doctors de l'Església. És patrona de les mares i les esposes."
+      },
+      {
+        "name": "Sant Florià",
+        "type": "Màrtir",
+        "description": "Oficial romà del segle III que es va negar a perseguir els cristians durant el regnat de l'emperador Dioclecià. Va ser ofegat al riu Enns (Àustria) lligat a una pedra de molí. És patró de Polònia, Àustria i dels bombers."
+      },
+      {
+        "name": "Sant Silvà de Gaza",
+        "type": "Màrtir",
+        "description": "Bisbe de Gaza que va patir martiri juntament amb un grup de quaranta companys durant les persecucions de l'emperador Maximí II, cap a l'any 311 dC, essent un dels darrers màrtirs de les persecucions romanes."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de Lluita contra la Desertificació i la Sequera",
+        "description": "Tot i que es commemora oficialment el 17 de juny, nombrosos actes s'organitzen al voltant d'aquestes dates per conscienciar sobre l'avanç dels deserts i l'escassetat d'aigua, dos dels grans reptes mediambientals del segle XXI."
+      },
+      {
+        "name": "Dia de l'Aviació",
+        "description": "Data simbòlica per a l'aviació en diversos països, en reconeixement als pioners del vol i a la indústria aeronàutica que ha unit el món durant l'últim segle."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Les llàgrimes d'una mare són la rosada silenciosa del cel sobre les flors de la terra.",
+      "author": "Samuel Taylor Coleridge"
+    },
+    "motivationalQuote": {
+      "text": "El secret per avançar és començar.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Audrey Hepburn",
+        "description": "Actriu britànica d'origen belga, una de les grans estrelles del cinema clàssic de Hollywood. Guanyadora de l'Oscar, l'Emmy, el Grammy i el Tony, va protagonitzar pel·lícules icòniques com Vacances a Roma, Esmorzar amb diamants i My Fair Lady. També va ser ambaixadora de l'UNICEF.",
+        "year": "1929"
+      },
+      {
+        "name": "Thomas Henry Huxley",
+        "description": "Biòleg i naturalista anglès del segle XIX, defensor entusiasta de la teoria de l'evolució de Charles Darwin, que li va valer el sobrenom de 'el buldog de Darwin'. Va ser el primer a usar el terme 'agnòstic'.",
+        "year": "1825"
+      },
+      {
+        "name": "Randy Travis",
+        "description": "Cantant i actor americà de música country, considerat un dels pioners del moviment 'neotraditional country' de la dècada de 1980. Els seus àlbums Storms of Life i Always & Forever el van convertir en una icona del gènere.",
+        "year": "1959"
+      }
+    ],
+    "events": [
+      {
+        "title": "Massacre de Kent State",
+        "description": "La Guàrdia Nacional d'Ohio va disparar contra estudiants que protestaven contra la intervenció militar dels EUA a Cambodja a la Universitat Kent State, matant quatre joves i ferint-ne nou. El succés va commoure l'opinió pública americana.",
+        "year": "1970"
+      },
+      {
+        "title": "Margaret Thatcher, primera ministra del Regne Unit",
+        "description": "Margaret Thatcher va assumir el càrrec de primera ministra del Regne Unit després de la victòria del Partit Conservador a les eleccions generals, convertint-se en la primera dona a ocupar aquest càrrec en la història britànica.",
+        "year": "1979"
+      },
+      {
+        "title": "Incendi del Palau de Westminster",
+        "description": "Un incendi devastador va destruir el Palau de Westminster, seu del Parlament anglès. El desastre va motivar la construcció de l'actual edifici neogòtic dissenyat per Charles Barry i Augustus Pugin.",
+        "year": "1834"
+      }
+    ]
+  }
+}

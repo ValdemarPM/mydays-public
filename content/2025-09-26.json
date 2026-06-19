@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-26",
+  "es": {
+    "saints": [
+      {
+        "name": "San Cosme y San Damián",
+        "type": "Mártires",
+        "description": "Hermanos gemelos médicos de Arabia del siglo III que ejercían la medicina gratuitamente (anargyroi — «sin plata») y fueron martirizados en Cirro (Siria) durante la persecución de Diocleciano. Son los patronos de los médicos, cirujanos y farmacéuticos."
+      },
+      {
+        "name": "San Nilo de Rossano",
+        "type": "Abad",
+        "description": "Monje basiliano italo-griego del siglo X (910–1005) que fundó el monasterio de Grottaferrata cerca de Roma. Famoso por su vida ascética y su sabiduría espiritual, es patrono de los calabreses."
+      },
+      {
+        "name": "San Eusebio de Cesarea",
+        "type": "Obispo",
+        "description": "Obispo de Cesarea Marítima (Palestina) del siglo IV, conocido como el «Padre de la Historia de la Iglesia» por su monumental obra Historia Eclesiástica, primera historia del cristianismo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Europeo de las Lenguas",
+        "description": "Iniciativa del Consejo de Europa y la Unión Europea celebrada el 26 de septiembre para promover el aprendizaje de lenguas en toda Europa y concienciar sobre la riqueza de la diversidad lingüística del continente."
+      },
+      {
+        "name": "Día Mundial del Medio Ambiente Marino",
+        "description": "Jornada dedicada a la concienciación sobre la salud de los mares y océanos del mundo, su biodiversidad y la amenaza de la contaminación plástica y el cambio climático."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Los límites de mi lenguaje significan los límites de mi mundo.",
+      "author": "Ludwig Wittgenstein",
+      "context": "El filósofo austriaco nacido en Viena en 1889, uno de los más influyentes del siglo XX, expresó en el Tractatus Logico-Philosophicus (1921) la íntima relación entre el lenguaje y la comprensión de la realidad."
+    },
+    "motivationalQuote": {
+      "text": "Un idioma diferente es una visión diferente de la vida.",
+      "author": "Federico Fellini"
+    },
+    "births": [
+      {
+        "name": "T. S. Eliot",
+        "description": "Poeta, crítico literario y dramaturgo anglo-americano, Premio Nobel de Literatura en 1948. Su poema La tierra baldía (1922) es una de las obras más influyentes de la poesía modernista del siglo XX.",
+        "year": 1888
+      },
+      {
+        "name": "George Gershwin",
+        "description": "Compositor y pianista americano que fusionó el jazz con la música clásica, creando obras icónicas como Rhapsody in Blue (1924) y Un americano en París (1928). Falleció a los 38 años en 1937.",
+        "year": 1898
+      },
+      {
+        "name": "Serena Williams",
+        "description": "Tenista americana, considerada por muchos la mejor jugadora de tenis de todos los tiempos. Ganadora de 23 títulos de Grand Slam individuales, fue la número uno del mundo durante años.",
+        "year": 1981
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer vuelo transcontinental en avión de Estados Unidos",
+        "description": "Calbraith Perry Rodgers completó el primer vuelo transcontinental de los Estados Unidos en avión, aterrizando en Pasadena (California) tras 49 días de vuelo desde Sheepshead Bay (Nueva York).",
+        "year": 1911
+      },
+      {
+        "title": "Alemania declara la guerra a Gran Bretaña — Primera Guerra Mundial",
+        "description": "El Imperio Alemán declaró la guerra al Imperio Británico, iniciando el enfrentamiento directo entre las dos grandes potencias europeas y ampliando el alcance de la Primera Guerra Mundial.",
+        "year": 1914
+      },
+      {
+        "title": "Primer debate televisado entre Nixon y Kennedy",
+        "description": "John F. Kennedy y Richard Nixon protagonizaron el primer debate televisado de la historia presidencial americana, en que Kennedy demostró mayor telegenia y ganó la partida mediática en Chicago.",
+        "year": 1960
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saints Cosmas and Damian",
+        "type": "Martyrs",
+        "description": "3rd-century twin brothers from Arabia who practised medicine free of charge (anargyroi — 'silverless') and were martyred in Cyrrhus (Syria) during the Diocletian persecution. They are patrons of doctors, surgeons, and pharmacists."
+      },
+      {
+        "name": "Saint Nilus of Rossano",
+        "type": "Abbot",
+        "description": "A 10th-century Italo-Greek Basilian monk (910–1005) who founded the monastery of Grottaferrata near Rome. Renowned for his ascetic life and spiritual wisdom, he is the patron of Calabrians."
+      },
+      {
+        "name": "Saint Eusebius of Caesarea",
+        "type": "Bishop",
+        "description": "Bishop of Caesarea Maritima (Palestine) in the 4th century, known as the 'Father of Church History' for his monumental work Ecclesiastical History, the first history of Christianity."
+      }
+    ],
+    "observances": [
+      {
+        "name": "European Day of Languages",
+        "description": "An initiative of the Council of Europe and the European Union, celebrated on 26 September to promote language learning throughout Europe and raise awareness of the linguistic diversity of the continent."
+      },
+      {
+        "name": "World Maritime Environment Day",
+        "description": "A day dedicated to raising awareness about the health of the world's seas and oceans, their biodiversity, and the threat of plastic pollution and climate change."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The limits of my language mean the limits of my world.",
+      "author": "Ludwig Wittgenstein",
+      "context": "The Austrian philosopher born in Vienna in 1889, one of the most influential of the 20th century, expressed in the Tractatus Logico-Philosophicus (1921) the intimate relationship between language and the understanding of reality."
+    },
+    "motivationalQuote": {
+      "text": "A different language is a different vision of life.",
+      "author": "Federico Fellini"
+    },
+    "births": [
+      {
+        "name": "T. S. Eliot",
+        "description": "Anglo-American poet, literary critic, and playwright, Nobel Prize in Literature in 1948. His poem The Waste Land (1922) is one of the most influential works of 20th-century Modernist poetry.",
+        "year": 1888
+      },
+      {
+        "name": "George Gershwin",
+        "description": "American composer and pianist who fused jazz with classical music, creating iconic works such as Rhapsody in Blue (1924) and An American in Paris (1928). He died at the age of 38 in 1937.",
+        "year": 1898
+      },
+      {
+        "name": "Serena Williams",
+        "description": "American tennis player, considered by many the greatest female tennis player of all time. Winner of 23 Grand Slam singles titles, she was the world number one for many years.",
+        "year": 1981
+      }
+    ],
+    "events": [
+      {
+        "title": "First US transcontinental aeroplane flight",
+        "description": "Calbraith Perry Rodgers completed the first transcontinental aeroplane flight across the United States, landing in Pasadena, California, after 49 days of flying from Sheepshead Bay, New York.",
+        "year": 1911
+      },
+      {
+        "title": "Germany declares war on Great Britain — World War I",
+        "description": "The German Empire declared war on the British Empire, initiating the direct confrontation between the two great European powers and widening the scope of World War I.",
+        "year": 1914
+      },
+      {
+        "title": "First televised debate between Nixon and Kennedy",
+        "description": "John F. Kennedy and Richard Nixon took part in the first televised debate in American presidential history, in which Kennedy demonstrated greater telegenic appeal and won the media battle in Chicago.",
+        "year": 1960
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Cosme e São Damião",
+        "type": "Mártires",
+        "description": "Irmãos gémeos médicos da Arábia do século III que exerciam a medicina gratuitamente (anargyroi — 'sem prata') e foram martirizados em Cyrrhus (Síria) durante a perseguição de Diocleciano. São patronos dos médicos, cirurgiões e farmacêuticos."
+      },
+      {
+        "name": "São Nilo de Rossano",
+        "type": "Abade",
+        "description": "Monge basiliano ítalo-grego do século X (910–1005) que fundou o mosteiro de Grottaferrata perto de Roma. Famoso pela sua vida ascética e sabedoria espiritual, é patrono dos calabreses."
+      },
+      {
+        "name": "São Eusébio de Cesareia",
+        "type": "Bispo",
+        "description": "Bispo de Cesareia Marítima (Palestina) do século IV, conhecido como o 'Pai da História da Igreja' pela sua monumental obra História Eclesiástica, a primeira história do cristianismo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Europeu das Línguas",
+        "description": "Iniciativa do Conselho da Europa e da União Europeia, celebrada a 26 de setembro para promover a aprendizagem de línguas em toda a Europa e consciencializar sobre a riqueza da diversidade linguística do continente."
+      },
+      {
+        "name": "Dia Mundial do Ambiente Marinho",
+        "description": "Jornada dedicada à consciencialização sobre a saúde dos mares e oceanos do mundo, a sua biodiversidade e a ameaça da poluição plástica e das alterações climáticas."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Os limites da minha linguagem significam os limites do meu mundo.",
+      "author": "Ludwig Wittgenstein",
+      "context": "O filósofo austríaco nascido em Viena em 1889, um dos mais influentes do século XX, expressou no Tractatus Logico-Philosophicus (1921) a íntima relação entre a linguagem e a compreensão da realidade."
+    },
+    "motivationalQuote": {
+      "text": "Uma língua diferente é uma visão diferente da vida.",
+      "author": "Federico Fellini"
+    },
+    "births": [
+      {
+        "name": "T. S. Eliot",
+        "description": "Poeta, crítico literário e dramaturgo anglo-americano, Prêmio Nobel de Literatura em 1948. O seu poema A Terra Devastada (1922) é uma das obras mais influentes da poesia modernista do século XX.",
+        "year": 1888
+      },
+      {
+        "name": "George Gershwin",
+        "description": "Compositor e pianista americano que fundiu o jazz com a música clássica, criando obras icónicas como Rhapsody in Blue (1924) e Um Americano em Paris (1928). Faleceu aos 38 anos em 1937.",
+        "year": 1898
+      },
+      {
+        "name": "Serena Williams",
+        "description": "Tenista americana, considerada por muitos a melhor jogadora de ténis de todos os tempos. Vencedora de 23 títulos de Grand Slam individuais, foi a número um do mundo durante anos.",
+        "year": 1981
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeiro voo transcontinental de avião dos EUA",
+        "description": "Calbraith Perry Rodgers completou o primeiro voo transcontinental de avião pelos Estados Unidos, aterrando em Pasadena (Califórnia) após 49 dias de voo desde Sheepshead Bay (Nova Iorque).",
+        "year": 1911
+      },
+      {
+        "title": "Alemanha declara guerra à Grã-Bretanha — Primeira Guerra Mundial",
+        "description": "O Império Alemão declarou guerra ao Império Britânico, iniciando o confronto direto entre as duas grandes potências europeias e alargando o âmbito da Primeira Guerra Mundial.",
+        "year": 1914
+      },
+      {
+        "title": "Primeiro debate televisivo entre Nixon e Kennedy",
+        "description": "John F. Kennedy e Richard Nixon protagonizaram o primeiro debate televisivo da história presidencial americana, em que Kennedy demonstrou maior telegenia e ganhou o duelo mediático em Chicago.",
+        "year": 1960
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sants Cosme i Damià",
+        "type": "Màrtirs",
+        "description": "Germans bessons metges d'Aràbia del segle III que exercien la medicina gratuïtament (anargyroi — 'sense plata') i van ser martiritzats a Cyrrhus (Síria) durant la persecució de Dioclecià. Són patrons dels metges, cirurgians i farmacèutics."
+      },
+      {
+        "name": "Sant Nil de Rossano",
+        "type": "Abat",
+        "description": "Monjo basilià ítalo-grec del segle X (910–1005) que va fundar el monestir de Grottaferrata prop de Roma. Famós per la seva vida ascètica i la seva saviesa espiritual, és patró dels calabresos."
+      },
+      {
+        "name": "Sant Eusebi de Cesarea",
+        "type": "Bisbe",
+        "description": "Bisbe de Cesarea Marítima (Palestina) del segle IV, conegut com el 'Pare de la Història de l'Església' per la seva monumental obra Història Eclesiàstica, la primera història del cristianisme."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Europeu de les Llengües",
+        "description": "Iniciativa del Consell d'Europa i la Unió Europea, celebrada el 26 de setembre per promoure l'aprenentatge de llengües a tota Europa i conscienciar sobre la riquesa de la diversitat lingüística del continent."
+      },
+      {
+        "name": "Dia Mundial del Medi Ambient Marí",
+        "description": "Jornada dedicada a la conscienciació sobre la salut dels mars i oceans del món, la seva biodiversitat i l'amenaça de la contaminació plàstica i el canvi climàtic."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Els límits del meu llenguatge signifiquen els límits del meu món.",
+      "author": "Ludwig Wittgenstein",
+      "context": "El filòsof austríac nascut a Viena el 1889, un dels més influents del segle XX, va expressar al Tractatus Logico-Philosophicus (1921) la íntima relació entre el llenguatge i la comprensió de la realitat."
+    },
+    "motivationalQuote": {
+      "text": "Un idioma diferent és una visió diferent de la vida.",
+      "author": "Federico Fellini"
+    },
+    "births": [
+      {
+        "name": "T. S. Eliot",
+        "description": "Poeta, crític literari i dramaturg angloamericà, Premi Nobel de Literatura el 1948. El seu poema La terra erma (1922) és una de les obres més influents de la poesia modernista del segle XX.",
+        "year": 1888
+      },
+      {
+        "name": "George Gershwin",
+        "description": "Compositor i pianista americà que va fusionar el jazz amb la música clàssica, creant obres icòniques com Rhapsody in Blue (1924) i Un americà a París (1928). Va morir als 38 anys el 1937.",
+        "year": 1898
+      },
+      {
+        "name": "Serena Williams",
+        "description": "Tennista americana, considerada per molts la millor jugadora de tennis de tots els temps. Guanyadora de 23 títols de Grand Slam individuals, va ser la número u del món durant anys.",
+        "year": 1981
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer vol transcontinental en avió dels EUA",
+        "description": "Calbraith Perry Rodgers va completar el primer vol transcontinental en avió dels Estats Units, aterrant a Pasadena (Califòrnia) després de 49 dies de vol des de Sheepshead Bay (Nova York).",
+        "year": 1911
+      },
+      {
+        "title": "Alemanya declara la guerra a la Gran Bretanya — Primera Guerra Mundial",
+        "description": "L'Imperi Alemany va declarar la guerra a l'Imperi Britànic, iniciant l'enfrontament directe entre les dues grans potències europees i ampliant l'abast de la Primera Guerra Mundial.",
+        "year": 1914
+      },
+      {
+        "title": "Primer debat televisat entre Nixon i Kennedy",
+        "description": "John F. Kennedy i Richard Nixon van protagonitzar el primer debat televisat de la història presidencial americana, en el qual Kennedy va demostrar una major telegènia i va guanyar la batalla mediàtica a Chicago.",
+        "year": 1960
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "date": "2026-04-02",
+  "es": {
+    "saints": [
+      {
+        "name": "San Francisco de Paula",
+        "type": "Fundador",
+        "description": "Ermitaño calabrés del siglo XV, fundador de la Orden de los Mínimos. Vivió en penitencia extrema y se hizo célebre por sus milagros. Fue llamado a la corte de Francia para asistir espiritualmente al rey Luis XI en su lecho de muerte. Murió a los 91 años y fue canonizado en 1519. Es patrono de los marineros calabreses y de la gente de mar."
+      },
+      {
+        "name": "San Abundio de Córdoba",
+        "type": "Mártir",
+        "description": "Sacerdote cristiano martirizado en Córdoba en el año 854 durante el emirato de Abd al-Rahman II. Fue decapitado por confesar públicamente su fe cristiana ante las autoridades musulmanas, siendo uno de los Mártires de Córdoba."
+      },
+      {
+        "name": "Santa María Egipciaca",
+        "type": "Penitente",
+        "description": "Figura legendaria de los primeros siglos del cristianismo, presentada como una pecadora que se convirtió profundamente y pasó décadas de penitencia en el desierto de Judea. Su historia, narrada por San Sofronio de Jerusalén, se convirtió en un poderoso símbolo de conversión y redención."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Concienciación sobre el Autismo",
+        "description": "Aunque el 2 de abril es la fecha oficial proclamada por la ONU en 2007, muchas organizaciones celebran este día con actividades para visibilizar las necesidades de las personas con trastorno del espectro autista y fomentar la empatía y la inclusión."
+      },
+      {
+        "name": "Día Internacional del Libro para Niños",
+        "description": "Celebrado cada año el 2 de abril, aniversario del nacimiento de Hans Christian Andersen, este día promueve el amor por la lectura en la infancia y llama la atención sobre el libro como herramienta de aprendizaje y creatividad."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La vida es un cuento narrado por un idiota, lleno de ruido y furia, que no significa nada.",
+      "author": "William Shakespeare",
+      "context": "Frase del monólogo de Macbeth en la obra homónima de Shakespeare (Acto V, escena 5). Shakespeare, bautizado el 26 de abril de 1564, escribió algunas de las reflexiones más oscuras y profundas sobre la condición humana."
+    },
+    "motivationalQuote": {
+      "text": "Nunca es demasiado tarde para ser lo que podrías haber sido.",
+      "author": "George Eliot"
+    },
+    "births": [
+      {
+        "name": "Hans Christian Andersen",
+        "description": "Escritor danés del siglo XIX, autor de cuentos de hadas universales como 'La Sirenita', 'El patito feo', 'La Reina de las Nieves' y 'El soldadito de plomo'. Sus relatos, inicialmente concebidos para adultos, se convirtieron en patrimonio de la literatura infantil universal.",
+        "year": "1805"
+      },
+      {
+        "name": "Émile Zola",
+        "description": "Novelista francés, fundador del naturalismo literario. Autor de la serie 'Les Rougon-Macquart', que incluye obras como 'Germinal' y 'Nana'. Conocido también por su valentía cívica al publicar 'J'accuse...!' en defensa del capitán Alfred Dreyfus.",
+        "year": "1840"
+      },
+      {
+        "name": "Charlemagne",
+        "description": "Rey de los francos y primer Emperador de Occidente desde Augusto, coronado por el papa León III el día de Navidad del año 800. Unificó gran parte de Europa occidental y promovió el renacimiento carolingio de las artes y la educación.",
+        "year": "742"
+      }
+    ],
+    "events": [
+      {
+        "title": "Comienzo de la Guerra de las Malvinas",
+        "description": "Tropas argentinas desembarcaron en las Islas Malvinas, iniciando el conflicto armado con el Reino Unido. La guerra, que duró 74 días, terminó con la rendición argentina y dejó más de 900 muertos. Las islas permanecen bajo soberanía británica.",
+        "year": "1982"
+      },
+      {
+        "title": "Muerte del papa Juan Pablo II",
+        "description": "Falleció en el Vaticano Karol Józef Wojtyła, Juan Pablo II, el papa más viajero de la historia, pontífice durante 26 años. Su muerte convocó a millones de personas en Roma y fue seguida en directo por cientos de millones de personas en todo el mundo.",
+        "year": "2005"
+      },
+      {
+        "title": "Primera transmisión de radio intercontinental",
+        "description": "Guglielmo Marconi realizó la primera transmisión de señales de radio a través del Atlántico, entre Cornualles (Inglaterra) y Terranova (Canadá), demostrando la posibilidad de las comunicaciones inalámbricas de largo alcance.",
+        "year": "1902"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Francis of Paola",
+        "type": "Founder",
+        "description": "A 15th-century Calabrian hermit and founder of the Order of Minims. He lived in extreme penance and became famous for his miracles. He was summoned to the French court to spiritually assist King Louis XI on his deathbed. He died at the age of 91 and was canonised in 1519. He is the patron saint of Calabrian sailors and seafarers."
+      },
+      {
+        "name": "Saint Abundius of Córdoba",
+        "type": "Martyr",
+        "description": "A Christian priest martyred in Córdoba in 854 during the emirate of Abd al-Rahman II. He was beheaded for publicly professing his Christian faith before Muslim authorities, and is counted among the Martyrs of Córdoba."
+      },
+      {
+        "name": "Saint Mary of Egypt",
+        "type": "Penitent",
+        "description": "A legendary figure from early Christianity, presented as a sinner who underwent a profound conversion and spent decades of penance in the Judean desert. Her story, narrated by Saint Sophronius of Jerusalem, became a powerful symbol of conversion and redemption."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Autism Awareness Day",
+        "description": "Although 2 April is the official date proclaimed by the UN in 2007, many organisations mark this day with activities to raise visibility of the needs of people with autism spectrum disorder and to foster empathy and inclusion."
+      },
+      {
+        "name": "International Children's Book Day",
+        "description": "Celebrated every year on 2 April, the anniversary of Hans Christian Andersen's birth, this day promotes a love of reading in childhood and highlights the book as a tool for learning and creativity."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Life is a tale told by an idiot, full of sound and fury, signifying nothing.",
+      "author": "William Shakespeare",
+      "context": "A line from Macbeth's monologue in Shakespeare's play of the same name (Act V, Scene 5). Shakespeare, baptised on 26 April 1564, wrote some of the darkest and most profound reflections on the human condition."
+    },
+    "motivationalQuote": {
+      "text": "It is never too late to be what you might have been.",
+      "author": "George Eliot"
+    },
+    "births": [
+      {
+        "name": "Hans Christian Andersen",
+        "description": "19th-century Danish writer, author of universal fairy tales such as 'The Little Mermaid', 'The Ugly Duckling', 'The Snow Queen', and 'The Steadfast Tin Soldier'. His stories, initially conceived for adults, became part of the universal heritage of children's literature.",
+        "year": "1805"
+      },
+      {
+        "name": "Émile Zola",
+        "description": "French novelist and founder of literary naturalism. Author of the 'Les Rougon-Macquart' series, which includes works such as 'Germinal' and 'Nana'. Also known for his civic courage in publishing 'J'accuse...!' in defence of Captain Alfred Dreyfus.",
+        "year": "1840"
+      },
+      {
+        "name": "Charlemagne",
+        "description": "King of the Franks and the first Emperor of the West since Augustus, crowned by Pope Leo III on Christmas Day in the year 800. He unified much of Western Europe and promoted the Carolingian renaissance of arts and education.",
+        "year": "742"
+      }
+    ],
+    "events": [
+      {
+        "title": "Start of the Falklands War",
+        "description": "Argentine troops landed on the Falkland Islands, triggering the armed conflict with the United Kingdom. The war lasted 74 days and ended with the Argentine surrender, leaving more than 900 dead. The islands remain under British sovereignty.",
+        "year": "1982"
+      },
+      {
+        "title": "Death of Pope John Paul II",
+        "description": "Karol Józef Wojtyła, John Paul II — the most travelled pope in history and pontiff for 26 years — died in the Vatican. His death drew millions to Rome and was followed live by hundreds of millions of people around the world.",
+        "year": "2005"
+      },
+      {
+        "title": "First Transatlantic Radio Transmission",
+        "description": "Guglielmo Marconi carried out the first transmission of radio signals across the Atlantic, between Cornwall (England) and Newfoundland (Canada), demonstrating the possibility of long-range wireless communications.",
+        "year": "1902"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Francisco de Paula",
+        "type": "Fundador",
+        "description": "Eremita calabrês do século XV, fundador da Ordem dos Mínimos. Viveu em penitência extrema e ficou famoso por seus milagres. Foi chamado à corte da França para assistir espiritualmente ao rei Luís XI em seu leito de morte. Morreu aos 91 anos e foi canonizado em 1519. É padroeiro dos marinheiros calabreses e das gentes do mar."
+      },
+      {
+        "name": "São Abundio de Córdoba",
+        "type": "Mártir",
+        "description": "Sacerdote cristão martirizado em Córdoba no ano 854 durante o emirado de Abd al-Rahman II. Foi decapitado por professar publicamente a sua fé cristã perante as autoridades muçulmanas, sendo um dos Mártires de Córdoba."
+      },
+      {
+        "name": "Santa Maria Egípcia",
+        "type": "Penitente",
+        "description": "Figura lendária dos primeiros séculos do cristianismo, apresentada como uma pecadora que se converteu profundamente e passou décadas de penitência no deserto da Judeia. Sua história, narrada por São Sofrônio de Jerusalém, tornou-se um poderoso símbolo de conversão e redenção."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Consciencialização do Autismo",
+        "description": "Embora o 2 de abril seja a data oficial proclamada pela ONU em 2007, muitas organizações celebram este dia com atividades para dar visibilidade às necessidades das pessoas com transtorno do espectro autista e fomentar a empatia e a inclusão."
+      },
+      {
+        "name": "Dia Internacional do Livro Infantil",
+        "description": "Celebrado a cada ano no dia 2 de abril, aniversário do nascimento de Hans Christian Andersen, este dia promove o amor pela leitura na infância e chama a atenção para o livro como ferramenta de aprendizagem e criatividade."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A vida é um conto narrado por um idiota, cheio de som e fúria, que não significa nada.",
+      "author": "William Shakespeare",
+      "context": "Frase do monólogo de Macbeth na obra homônima de Shakespeare (Ato V, cena 5). Shakespeare, batizado em 26 de abril de 1564, escreveu algumas das reflexões mais sombrias e profundas sobre a condição humana."
+    },
+    "motivationalQuote": {
+      "text": "Nunca é tarde demais para ser o que você poderia ter sido.",
+      "author": "George Eliot"
+    },
+    "births": [
+      {
+        "name": "Hans Christian Andersen",
+        "description": "Escritor dinamarquês do século XIX, autor de contos de fadas universais como 'A Pequena Sereia', 'O Patinho Feio', 'A Rainha da Neve' e 'O Soldadinho de Chumbo'. Suas histórias, inicialmente concebidas para adultos, tornaram-se parte do patrimônio universal da literatura infantil.",
+        "year": "1805"
+      },
+      {
+        "name": "Émile Zola",
+        "description": "Romancista francês, fundador do naturalismo literário. Autor da série 'Les Rougon-Macquart', que inclui obras como 'Germinal' e 'Nana'. Conhecido também por sua coragem cívica ao publicar 'J'accuse...!' em defesa do capitão Alfred Dreyfus.",
+        "year": "1840"
+      },
+      {
+        "name": "Carlos Magno",
+        "description": "Rei dos francos e primeiro Imperador do Ocidente desde Augusto, coroado pelo papa Leão III no dia de Natal do ano 800. Unificou grande parte da Europa ocidental e promoveu o renascimento carolíngio das artes e da educação.",
+        "year": "742"
+      }
+    ],
+    "events": [
+      {
+        "title": "Início da Guerra das Malvinas",
+        "description": "Tropas argentinas desembarcaram nas Ilhas Malvinas, iniciando o conflito armado com o Reino Unido. A guerra durou 74 dias e terminou com a rendição argentina, deixando mais de 900 mortos. As ilhas permanecem sob soberania britânica.",
+        "year": "1982"
+      },
+      {
+        "title": "Morte do papa João Paulo II",
+        "description": "Faleceu no Vaticano Karol Józef Wojtyła, João Paulo II, o papa mais viajante da história, pontífice durante 26 anos. Sua morte reuniu milhões de pessoas em Roma e foi acompanhada ao vivo por centenas de milhões de pessoas em todo o mundo.",
+        "year": "2005"
+      },
+      {
+        "title": "Primeira transmissão de rádio transatlântica",
+        "description": "Guglielmo Marconi realizou a primeira transmissão de sinais de rádio através do Atlântico, entre a Cornualha (Inglaterra) e Terra Nova (Canadá), demonstrando a possibilidade das comunicações sem fio de longo alcance.",
+        "year": "1902"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Francesc de Paula",
+        "type": "Fundador",
+        "description": "Ermità calabrès del segle XV, fundador de l'Orde dels Mínims. Va viure en penitència extrema i es va fer cèlebre pels seus miracles. Va ser cridat a la cort de França per assistir espiritualment el rei Lluís XI al seu llit de mort. Va morir als 91 anys i va ser canonitzat el 1519. És patró dels mariners calabresos i de la gent de mar."
+      },
+      {
+        "name": "Sant Abundi de Còrdova",
+        "type": "Màrtir",
+        "description": "Sacerdot cristià martiritzat a Còrdova l'any 854 durant l'emirat d'Abd al-Rahman II. Va ser decapitat per professar públicament la seva fe cristiana davant les autoritats musulmanes, essent un dels Màrtirs de Còrdova."
+      },
+      {
+        "name": "Santa Maria Egípcia",
+        "type": "Penitent",
+        "description": "Figura llegendària dels primers segles del cristianisme, presentada com una pecadora que es va convertir profundament i va passar dècades de penitència al desert de Judea. La seva història, narrada per Sant Sofroni de Jerusalem, es va convertir en un poderós símbol de conversió i redempció."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Conscienciació sobre l'Autisme",
+        "description": "Encara que el 2 d'abril és la data oficial proclamada per l'ONU el 2007, moltes organitzacions celebren aquest dia amb activitats per visibilitzar les necessitats de les persones amb trastorn de l'espectre autista i fomentar l'empatia i la inclusió."
+      },
+      {
+        "name": "Dia Internacional del Llibre Infantil",
+        "description": "Celebrat cada any el 2 d'abril, aniversari del naixement de Hans Christian Andersen, aquest dia promou l'amor per la lectura en la infància i crida l'atenció sobre el llibre com a eina d'aprenentatge i creativitat."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La vida és un conte narrat per un idiota, ple de soroll i fúria, que no significa res.",
+      "author": "William Shakespeare",
+      "context": "Frase del monòleg de Macbeth a l'obra homònima de Shakespeare (Acte V, escena 5). Shakespeare, batejat el 26 d'abril de 1564, va escriure algunes de les reflexions més fosques i profundes sobre la condició humana."
+    },
+    "motivationalQuote": {
+      "text": "Mai no és massa tard per ser el que podies haver estat.",
+      "author": "George Eliot"
+    },
+    "births": [
+      {
+        "name": "Hans Christian Andersen",
+        "description": "Escriptor danès del segle XIX, autor de contes de fades universals com 'La Sireneta', 'El patufet lleig', 'La Reina de les Neus' i 'El soldadet de plom'. Les seves històries, inicialment concebudes per a adults, es van convertir en patrimoni de la literatura infantil universal.",
+        "year": "1805"
+      },
+      {
+        "name": "Émile Zola",
+        "description": "Novel·lista francès, fundador del naturalisme literari. Autor de la sèrie 'Les Rougon-Macquart', que inclou obres com 'Germinal' i 'Nana'. Conegut també per la seva valentia cívica en publicar 'J'accuse...!' en defensa del capità Alfred Dreyfus.",
+        "year": "1840"
+      },
+      {
+        "name": "Carlemany",
+        "description": "Rei dels francs i primer Emperador d'Occident des d'August, coronat pel papa Lleó III el dia de Nadal de l'any 800. Va unificar gran part d'Europa occidental i va promoure el renaixement carolingi de les arts i l'educació.",
+        "year": "742"
+      }
+    ],
+    "events": [
+      {
+        "title": "Inici de la Guerra de les Malvines",
+        "description": "Tropes argentines van desembarcar a les Illes Malvines, iniciant el conflicte armat amb el Regne Unit. La guerra va durar 74 dies i va acabar amb la rendició argentina, deixant més de 900 morts. Les illes continuen sota sobirania britànica.",
+        "year": "1982"
+      },
+      {
+        "title": "Mort del papa Joan Pau II",
+        "description": "Va morir al Vaticà Karol Józef Wojtyła, Joan Pau II, el papa més viatger de la història, pontífex durant 26 anys. La seva mort va congregar milions de persones a Roma i va ser seguida en directe per centenars de milions de persones a tot el món.",
+        "year": "2005"
+      },
+      {
+        "title": "Primera transmissió de ràdio transatlàntica",
+        "description": "Guglielmo Marconi va realitzar la primera transmissió de senyals de ràdio a través de l'Atlàntic, entre Cornualla (Anglaterra) i Terranova (Canadà), demostrant la possibilitat de les comunicacions sense fils de llarg abast.",
+        "year": "1902"
+      }
+    ]
+  }
+}

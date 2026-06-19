@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-15",
+  "es": {
+    "saints": [
+      { "name": "San Zacarías", "type": "Papa", "description": "Papa greco-bizantino entre 741 y 752, conocido por su diplomacia frente a los lombardos y su apoyo a la reforma de la Iglesia franca impulsada por San Bonifacio." },
+      { "name": "San Clemente María Hofbauer", "type": "Sacerdote", "description": "Religioso redentorista bohemio del siglo XVIII-XIX, apóstol de Viena y Varsovia, canonizado en 1909; patrón de Viena y de los panaderos." },
+      { "name": "Santa Luisa de Marillac", "type": "Cofundadora", "description": "Mujer francesa del siglo XVII que, junto con San Vicente de Paúl, fundó las Hijas de la Caridad, primera congregación femenina sin clausura dedicada al cuidado de los pobres y enfermos." }
+    ],
+    "observances": [
+      { "name": "Día Mundial del Consumidor", "description": "Jornada proclamada por la ONU en recuerdo del discurso de John F. Kennedy al Congreso en 1962 sobre los derechos de los consumidores: a la seguridad, la información, la elección y a ser escuchados." },
+      { "name": "Los Idus de Marzo", "description": "Fecha del calendario romano que marca la mitad del mes y que se hizo famosa por el asesinato de Julio César en el año 44 a. C.; inmortalizada por Shakespeare en 'Julio César'." }
+    ],
+    "historicalQuote": {
+      "text": "El poder corrompe; el poder absoluto corrompe absolutamente.",
+      "author": "Lord Acton",
+      "context": "John Emerich Edward Dalberg-Acton, conocido como Lord Acton, formuló esta máxima en una carta a un obispo en 1887. Es una de las sentencias más citadas en política y filosofía del poder, especialmente relevante al recordar el asesinato de César."
+    },
+    "motivationalQuote": {
+      "text": "La mejor manera de predecir el futuro es crearlo.",
+      "author": "Abraham Lincoln"
+    },
+    "births": [
+      { "name": "Andrew Jackson", "description": "Séptimo presidente de los Estados Unidos (1829-1837), héroe de la batalla de Nueva Orleans en 1815 y figura controvertida por su política de expulsión de nativos americanos.", "year": 1767 },
+      { "name": "Eva Longoria", "description": "Actriz y productora americana de origen mexicano, célebre por su papel en 'Mujeres Desesperadas' y activista en causas de igualdad de género y derechos de los hispanos.", "year": 1975 },
+      { "name": "Ry Cooder", "description": "Músico, guitarrista y productor americano, conocido por su dominio de múltiples estilos (blues, folk, tex-mex) y por producir el célebre álbum 'Buena Vista Social Club' (1997).", "year": 1947 }
+    ],
+    "events": [
+      { "title": "Asesinato de Julio César (Idus de Marzo)", "description": "El dictador romano Julio César fue apuñalado 23 veces en el Senado por un grupo de senadores liderados por Bruto y Casio, en uno de los magnicidios más famosos de la historia.", "year": -44 },
+      { "title": "Hungría se rebela contra Austria (Revolución de 1848)", "description": "Estalla la revolución húngara de 1848, parte de la Primavera de los Pueblos que sacudió Europa, liderada por el poeta Sándor Petőfi y el político Lajos Kossuth.", "year": 1848 },
+      { "title": "Serbia se convierte en reino", "description": "El príncipe Milan Obrenović fue proclamado rey de Serbia, transformando el principado en reino y afirmando la independencia del Estado serbio en los Balcanes.", "year": 1882 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Zachary", "type": "Pope", "description": "Greek-Byzantine pope from 741 to 752, known for his diplomacy towards the Lombards and his support for the Frankish Church reform led by Saint Boniface." },
+      { "name": "Saint Clement Mary Hofbauer", "type": "Priest", "description": "Eighteenth-nineteenth-century Bohemian Redemptorist, apostle of Vienna and Warsaw, canonised in 1909; patron of Vienna and of bakers." },
+      { "name": "Saint Louise de Marillac", "type": "Co-foundress", "description": "Seventeenth-century Frenchwoman who, together with Saint Vincent de Paul, founded the Daughters of Charity, the first women's congregation without enclosure dedicated to caring for the poor and sick." }
+    ],
+    "observances": [
+      { "name": "World Consumer Rights Day", "description": "A UN-proclaimed day commemorating John F. Kennedy's 1962 address to Congress on consumer rights: to safety, information, choice and to be heard." },
+      { "name": "The Ides of March", "description": "A date in the Roman calendar marking the middle of the month, made famous by the assassination of Julius Caesar in 44 BC; immortalised by Shakespeare in 'Julius Caesar'." }
+    ],
+    "historicalQuote": {
+      "text": "Power tends to corrupt, and absolute power corrupts absolutely.",
+      "author": "Lord Acton",
+      "context": "John Emerich Edward Dalberg-Acton, known as Lord Acton, formulated this maxim in a letter to a bishop in 1887. It is one of the most quoted sayings in politics and the philosophy of power, especially relevant when recalling Caesar's assassination."
+    },
+    "motivationalQuote": {
+      "text": "The best way to predict the future is to create it.",
+      "author": "Abraham Lincoln"
+    },
+    "births": [
+      { "name": "Andrew Jackson", "description": "Seventh President of the United States (1829–1837), hero of the Battle of New Orleans in 1815 and a controversial figure for his policy of Native American removal.", "year": 1767 },
+      { "name": "Eva Longoria", "description": "American actress and producer of Mexican descent, celebrated for her role in 'Desperate Housewives' and an activist for gender equality and Hispanic rights.", "year": 1975 },
+      { "name": "Ry Cooder", "description": "American musician, guitarist and producer, known for his mastery of multiple styles (blues, folk, tex-mex) and for producing the celebrated 'Buena Vista Social Club' album (1997).", "year": 1947 }
+    ],
+    "events": [
+      { "title": "Assassination of Julius Caesar (Ides of March)", "description": "Roman dictator Julius Caesar was stabbed 23 times in the Senate by a group of senators led by Brutus and Cassius, in one of the most famous assassinations in history.", "year": -44 },
+      { "title": "Hungary rises against Austria (1848 Revolution)", "description": "The Hungarian Revolution of 1848 broke out, part of the Spring of Nations that shook Europe, led by poet Sándor Petőfi and politician Lajos Kossuth.", "year": 1848 },
+      { "title": "Serbia becomes a kingdom", "description": "Prince Milan Obrenović was proclaimed King of Serbia, transforming the principality into a kingdom and asserting Serbian state independence in the Balkans.", "year": 1882 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Zacarias", "type": "Papa", "description": "Papa greco-bizantino de 741 a 752, conhecido pela sua diplomacia frente aos lombardos e pelo seu apoio à reforma da Igreja franca impulsionada por São Bonifácio." },
+      { "name": "São Clemente Maria Hofbauer", "type": "Sacerdote", "description": "Religioso redentorista boêmio dos séculos XVIII-XIX, apóstolo de Viena e Varsóvia, canonizado em 1909; padroeiro de Viena e dos padeiros." },
+      { "name": "Santa Luísa de Marillac", "type": "Cofundadora", "description": "Francesa do século XVII que, junto com São Vicente de Paulo, fundou as Filhas da Caridade, a primeira congregação feminina sem clausura dedicada ao cuidado dos pobres e enfermos." }
+    ],
+    "observances": [
+      { "name": "Dia Mundial dos Direitos do Consumidor", "description": "Jornada proclamada pela ONU em memória do discurso de John F. Kennedy ao Congresso em 1962 sobre os direitos dos consumidores: à segurança, à informação, à escolha e a serem ouvidos." },
+      { "name": "Os Idos de Março", "description": "Data do calendário romano que marca a metade do mês e que se tornou famosa pelo assassinato de Júlio César em 44 a.C.; imortalizada por Shakespeare em 'Júlio César'." }
+    ],
+    "historicalQuote": {
+      "text": "O poder tende a corromper; o poder absoluto corrompe absolutamente.",
+      "author": "Lord Acton",
+      "context": "John Emerich Edward Dalberg-Acton, conhecido como Lord Acton, formulou esta máxima em uma carta a um bispo em 1887. É uma das sentenças mais citadas em política e filosofia do poder, especialmente relevante ao lembrar o assassinato de César."
+    },
+    "motivationalQuote": {
+      "text": "A melhor forma de prever o futuro é criá-lo.",
+      "author": "Abraham Lincoln"
+    },
+    "births": [
+      { "name": "Andrew Jackson", "description": "Sétimo presidente dos Estados Unidos (1829-1837), herói da Batalha de Nova Orleans em 1815 e figura controversa pela sua política de expulsão dos nativos americanos.", "year": 1767 },
+      { "name": "Eva Longoria", "description": "Atriz e produtora americana de origem mexicana, célebre pelo papel em 'Desperate Housewives' e ativista em causas de igualdade de gênero e direitos dos hispânicos.", "year": 1975 },
+      { "name": "Ry Cooder", "description": "Músico, guitarrista e produtor americano, conhecido pelo seu domínio de múltiplos estilos (blues, folk, tex-mex) e por produzir o célebre álbum 'Buena Vista Social Club' (1997).", "year": 1947 }
+    ],
+    "events": [
+      { "title": "Assassinato de Júlio César (Idos de Março)", "description": "O ditador romano Júlio César foi esfaqueado 23 vezes no Senado por um grupo de senadores liderados por Bruto e Cássio, num dos magnicídios mais famosos da história.", "year": -44 },
+      { "title": "Hungria se rebela contra a Áustria (Revolução de 1848)", "description": "Eclode a revolução húngara de 1848, parte da Primavera dos Povos que sacudiu a Europa, liderada pelo poeta Sándor Petőfi e pelo político Lajos Kossuth.", "year": 1848 },
+      { "title": "Sérvia torna-se um reino", "description": "O príncipe Milan Obrenović foi proclamado rei da Sérvia, transformando o principado em reino e afirmando a independência do Estado sérvio nos Balcãs.", "year": 1882 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Zacaries", "type": "Papa", "description": "Papa greco-bizantí de 741 a 752, conegut per la seva diplomàcia davant els llombards i el seu suport a la reforma de l'Església franca impulsada per Sant Bonifaci." },
+      { "name": "Sant Climent Maria Hofbauer", "type": "Sacerdot", "description": "Religiós redentorista bohemi dels segles XVIII-XIX, apòstol de Viena i Varsòvia, canonitzat el 1909; patró de Viena i dels forners." },
+      { "name": "Santa Lluïsa de Marillac", "type": "Cofundadora", "description": "Francesa del segle XVII que, juntament amb Sant Vicenç de Paül, va fundar les Filles de la Caritat, la primera congregació femenina sense clausura dedicada a la cura dels pobres i malalts." }
+    ],
+    "observances": [
+      { "name": "Dia Mundial dels Drets del Consumidor", "description": "Jornada proclamada per l'ONU en record del discurs de John F. Kennedy al Congrés el 1962 sobre els drets dels consumidors: a la seguretat, la informació, l'elecció i a ser escoltats." },
+      { "name": "Els Idus de Març", "description": "Data del calendari romà que marca la meitat del mes i que es va fer famosa per l'assassinat de Juli Cèsar l'any 44 a.C.; immortalitzada per Shakespeare a 'Juli Cèsar'." }
+    ],
+    "historicalQuote": {
+      "text": "El poder tendeix a corrompre; el poder absolut corromp absolutament.",
+      "author": "Lord Acton",
+      "context": "John Emerich Edward Dalberg-Acton, conegut com a Lord Acton, va formular aquesta màxima en una carta a un bisbe el 1887. És una de les sentències més citades en política i filosofia del poder, especialment rellevant en recordar l'assassinat de Cèsar."
+    },
+    "motivationalQuote": {
+      "text": "La millor manera de predir el futur és crear-lo.",
+      "author": "Abraham Lincoln"
+    },
+    "births": [
+      { "name": "Andrew Jackson", "description": "Setè president dels Estats Units (1829-1837), heroi de la batalla de Nova Orleans el 1815 i figura controvertida per la seva política d'expulsió dels nadius americans.", "year": 1767 },
+      { "name": "Eva Longoria", "description": "Actriu i productora americana d'origen mexicà, cèlebre pel paper a 'Mujeres Desesperadas' i activista en causes d'igualtat de gènere i drets dels hispans.", "year": 1975 },
+      { "name": "Ry Cooder", "description": "Músic, guitarrista i productor americà, conegut pel seu domini de múltiples estils (blues, folk, tex-mex) i per produir el cèlebre àlbum 'Buena Vista Social Club' (1997).", "year": 1947 }
+    ],
+    "events": [
+      { "title": "Assassinat de Juli Cèsar (Idus de Març)", "description": "El dictador romà Juli Cèsar va ser apunyalat 23 vegades al Senat per un grup de senadors encapçalats per Brut i Cassi, en un dels magnicidis més famosos de la història.", "year": -44 },
+      { "title": "Hongria es rebel·la contra Àustria (Revolució de 1848)", "description": "Esclata la revolució hongaresa de 1848, part de la Primavera dels Pobles que va sacsejar Europa, liderada pel poeta Sándor Petőfi i el polític Lajos Kossuth.", "year": 1848 },
+      { "title": "Sèrbia es converteix en regne", "description": "El príncep Milan Obrenović va ser proclamat rei de Sèrbia, transformant el principat en regne i afirmant la independència de l'Estat serbi als Balcans.", "year": 1882 }
+    ]
+  }
+}

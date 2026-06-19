@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-06",
+  "es": {
+    "saints": [
+      { "name": "San Coleta de Corbie", "type": "Virgen y religiosa", "description": "Religiosa francesa del siglo XV que reformó la Orden de las Clarisas volviendo a la observancia estricta de la regla de santa Clara; canonizada en 1807." },
+      { "name": "San Víctor de Plaisance", "type": "Mártir", "description": "Mártir del siglo II venerado en el norte de Italia, cuya tumba fue lugar de peregrinación durante la Edad Media." },
+      { "name": "Beato Jordán de Sajonia", "type": "Religioso", "description": "Segundo maestro general de la Orden de Predicadores (dominicos), sucesor de Santo Domingo de Guzmán, conocido por su elocuencia y fervor misionero." }
+    ],
+    "observances": [
+      { "name": "Día de la Independencia de Ghana", "description": "Ghana conmemora su independencia del Reino Unido el 6 de marzo de 1957, convirtiéndose en el primer país subsahariano en independizarse de una potencia colonial europea en la era moderna." },
+      { "name": "Día del Dentista (en varios países)", "description": "Jornada para reconocer la labor de los odontólogos en la salud bucodental de la población, celebrada en México, Colombia y otros países de América Latina." }
+    ],
+    "historicalQuote": {
+      "text": "La libertad nunca se regala voluntariamente por el opresor; debe ser exigida por el oprimido.",
+      "author": "Martin Luther King Jr.",
+      "context": "El reverendo Martin Luther King Jr. fue uno de los líderes más influyentes del movimiento por los derechos civiles en Estados Unidos. Esta cita resume la filosofía de lucha no violenta que guió su activismo."
+    },
+    "motivationalQuote": {
+      "text": "El único modo de hacer un gran trabajo es amar lo que haces.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      { "name": "Michelangelo Buonarroti", "description": "Escultor, pintor y arquitecto italiano del Renacimiento, autor de obras maestras como el David, la Piedad y los frescos de la Capilla Sixtina.", "year": 1475 },
+      { "name": "Gabriel García Márquez", "description": "Escritor colombiano, premio Nobel de Literatura en 1982, padre del realismo mágico y autor de la monumental novela 'Cien años de soledad'.", "year": 1927 },
+      { "name": "Shaquille O'Neal", "description": "Jugador de baloncesto estadounidense, uno de los mejores pivots de la historia de la NBA, cuatro veces campeón y tres veces MVP de las Finales.", "year": 1972 }
+    ],
+    "events": [
+      { "title": "El Álamo cae ante el ejército mexicano", "description": "Tras un asedio de 13 días, el ejército del general Santa Anna tomó la misión de El Álamo en Texas, matando a todos sus defensores, incluidos Davy Crockett y Jim Bowie.", "year": 1836 },
+      { "title": "Ghana proclama su independencia", "description": "Ghana se convirtió en la primera nación subsahariana en independizarse de una potencia colonial europea en la era moderna, bajo el liderazgo de Kwame Nkrumah.", "year": 1957 },
+      { "title": "Aspirin registrada como marca", "description": "La empresa alemana Bayer registró oficialmente 'Aspirina' como marca registrada, consolidando uno de los medicamentos más vendidos y usados en la historia de la medicina.", "year": 1899 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Colette of Corbie", "type": "Virgin and religious", "description": "Fifteenth-century French nun who reformed the Order of Poor Clares by returning to strict observance of Saint Clare's rule; canonised in 1807." },
+      { "name": "Saint Victor of Piacenza", "type": "Martyr", "description": "Second-century martyr venerated in northern Italy, whose tomb was a pilgrimage site throughout the Middle Ages." },
+      { "name": "Blessed Jordan of Saxony", "type": "Religious", "description": "Second Master General of the Order of Preachers (Dominicans), successor of Saint Dominic, known for his eloquence and missionary zeal." }
+    ],
+    "observances": [
+      { "name": "Ghana Independence Day", "description": "Ghana commemorates its independence from the United Kingdom on 6 March 1957, becoming the first sub-Saharan country to gain independence from a European colonial power in the modern era." },
+      { "name": "Dentist Day (in several countries)", "description": "A day to recognise the work of dentists in public oral health, celebrated in Mexico, Colombia and other Latin American countries." }
+    ],
+    "historicalQuote": {
+      "text": "Freedom is never voluntarily given by the oppressor; it must be demanded by the oppressed.",
+      "author": "Martin Luther King Jr.",
+      "context": "Reverend Martin Luther King Jr. was one of the most influential leaders of the civil rights movement in the United States. This quote encapsulates the philosophy of non-violent struggle that guided his activism."
+    },
+    "motivationalQuote": {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      { "name": "Michelangelo Buonarroti", "description": "Italian Renaissance sculptor, painter and architect, creator of masterpieces such as the David, the Pietà and the Sistine Chapel frescoes.", "year": 1475 },
+      { "name": "Gabriel García Márquez", "description": "Colombian writer, Nobel Prize in Literature 1982, father of magical realism and author of the monumental novel 'One Hundred Years of Solitude'.", "year": 1927 },
+      { "name": "Shaquille O'Neal", "description": "American basketball player, one of the greatest centres in NBA history, four-time champion and three-time Finals MVP.", "year": 1972 }
+    ],
+    "events": [
+      { "title": "The Alamo falls to the Mexican army", "description": "After a 13-day siege, General Santa Anna's army took the Alamo mission in Texas, killing all its defenders, including Davy Crockett and Jim Bowie.", "year": 1836 },
+      { "title": "Ghana proclaims independence", "description": "Ghana became the first sub-Saharan nation to gain independence from a European colonial power in the modern era, under the leadership of Kwame Nkrumah.", "year": 1957 },
+      { "title": "Aspirin registered as a trademark", "description": "German company Bayer officially registered 'Aspirin' as a trademark, cementing one of the most sold and used medicines in the history of medicine.", "year": 1899 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "Santa Coleta de Corbie", "type": "Virgem e religiosa", "description": "Religiosa francesa do século XV que reformou a Ordem das Clarissas voltando à observância estrita da regra de Santa Clara; canonizada em 1807." },
+      { "name": "São Vítor de Placência", "type": "Mártir", "description": "Mártir do século II venerado no norte da Itália, cuja tumba foi local de peregrinação durante a Idade Média." },
+      { "name": "Beato Jordão da Saxônia", "type": "Religioso", "description": "Segundo mestre geral da Ordem dos Pregadores (dominicanos), sucessor de Santo Domingo de Gusmão, conhecido pela sua eloquência e fervor missionário." }
+    ],
+    "observances": [
+      { "name": "Dia da Independência de Gana", "description": "Gana comemora a sua independência do Reino Unido em 6 de março de 1957, tornando-se o primeiro país da África Subsaariana a se independizar de uma potência colonial europeia na era moderna." },
+      { "name": "Dia do Dentista (em vários países)", "description": "Jornada para reconhecer o trabalho dos dentistas na saúde bucal da população, celebrada no México, Colômbia e outros países da América Latina." }
+    ],
+    "historicalQuote": {
+      "text": "A liberdade nunca é concedida voluntariamente pelo opressor; ela deve ser exigida pelo oprimido.",
+      "author": "Martin Luther King Jr.",
+      "context": "O reverendo Martin Luther King Jr. foi um dos líderes mais influentes do movimento pelos direitos civis nos Estados Unidos. Esta citação resume a filosofia de luta não violenta que guiou seu ativismo."
+    },
+    "motivationalQuote": {
+      "text": "A única forma de fazer um grande trabalho é amar o que você faz.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      { "name": "Michelangelo Buonarroti", "description": "Escultor, pintor e arquiteto italiano do Renascimento, autor de obras-primas como o David, a Pietà e os afrescos da Capela Sistina.", "year": 1475 },
+      { "name": "Gabriel García Márquez", "description": "Escritor colombiano, Prêmio Nobel de Literatura em 1982, pai do realismo mágico e autor do monumental romance 'Cem Anos de Solidão'.", "year": 1927 },
+      { "name": "Shaquille O'Neal", "description": "Jogador de basquete americano, um dos melhores pivôs da história da NBA, tetracampeão e três vezes MVP das Finais.", "year": 1972 }
+    ],
+    "events": [
+      { "title": "O Álamo cai para o exército mexicano", "description": "Após um cerco de 13 dias, o exército do general Santa Anna tomou a missão do Álamo no Texas, matando todos os seus defensores, incluindo Davy Crockett e Jim Bowie.", "year": 1836 },
+      { "title": "Gana proclama sua independência", "description": "Gana tornou-se a primeira nação subsaariana a se independizar de uma potência colonial europeia na era moderna, sob a liderança de Kwame Nkrumah.", "year": 1957 },
+      { "title": "Aspirina registrada como marca comercial", "description": "A empresa alemã Bayer registrou oficialmente 'Aspirina' como marca registrada, consolidando um dos medicamentos mais vendidos e usados na história da medicina.", "year": 1899 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Santa Coleta de Corbie", "type": "Verge i religiosa", "description": "Religiosa francesa del segle XV que va reformar l'Ordre de les Clarisses tornant a l'observança estricta de la regla de santa Clara; canonitzada el 1807." },
+      { "name": "Sant Víctor de Plasència", "type": "Màrtir", "description": "Màrtir del segle II venerat al nord d'Itàlia, la tomba del qual va ser lloc de pelegrinatge durant l'Edat Mitjana." },
+      { "name": "Beat Jordà de Saxònia", "type": "Religiós", "description": "Segon mestre general de l'Orde dels Predicadors (dominicans), successor de Sant Domènec de Guzmán, conegut per la seva eloqüència i fervor missioner." }
+    ],
+    "observances": [
+      { "name": "Dia de la Independència de Ghana", "description": "Ghana commemora la seva independència del Regne Unit el 6 de març de 1957, convertint-se en el primer país de l'Àfrica subsahariana a independitzar-se d'una potència colonial europea en l'era moderna." },
+      { "name": "Dia del Dentista (en diversos països)", "description": "Jornada per reconèixer la tasca dels dentistes en la salut bucodental de la població, celebrada a Mèxic, Colòmbia i altres països llatinoamericans." }
+    ],
+    "historicalQuote": {
+      "text": "La llibertat mai no és concedida voluntàriament per l'opressor; ha de ser exigida per l'oprimit.",
+      "author": "Martin Luther King Jr.",
+      "context": "El reverend Martin Luther King Jr. va ser un dels líders més influents del moviment pels drets civils als Estats Units. Aquesta cita resumeix la filosofia de lluita no violenta que va guiar el seu activisme."
+    },
+    "motivationalQuote": {
+      "text": "L'única manera de fer una gran feina és estimar el que fas.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      { "name": "Miquel Àngel Buonarroti", "description": "Escultor, pintor i arquitecte italià del Renaixement, autor d'obres mestres com el David, la Pietà i els frescos de la Capella Sixtina.", "year": 1475 },
+      { "name": "Gabriel García Márquez", "description": "Escriptor colombià, Premi Nobel de Literatura el 1982, pare del realisme màgic i autor de la monumental novel·la 'Cent anys de solitud'.", "year": 1927 },
+      { "name": "Shaquille O'Neal", "description": "Jugador de bàsquet americà, un dels millors pivots de la història de l'NBA, quatre vegades campió i tres vegades MVP de les Finals.", "year": 1972 }
+    ],
+    "events": [
+      { "title": "El Àlam cau davant l'exèrcit mexicà", "description": "Després d'un setge de 13 dies, l'exèrcit del general Santa Anna va prendre la missió del Àlam a Texas, matant tots els seus defensors, inclosos Davy Crockett i Jim Bowie.", "year": 1836 },
+      { "title": "Ghana proclama la independència", "description": "Ghana es va convertir en la primera nació subsahariana a independitzar-se d'una potència colonial europea en l'era moderna, sota el lideratge de Kwame Nkrumah.", "year": 1957 },
+      { "title": "Aspirina registrada com a marca comercial", "description": "L'empresa alemanya Bayer va registrar oficialment 'Aspirina' com a marca registrada, consolidant un dels medicaments més venuts i usats en la història de la medicina.", "year": 1899 }
+    ]
+  }
+}

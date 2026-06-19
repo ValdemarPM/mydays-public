@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-06",
+  "es": {
+    "saints": [
+      {
+        "name": "San Leonardo de Noblac",
+        "type": "Ermitaño",
+        "description": "Ermitaño francés del siglo VI, patrón de los presos y los cautivos. Según la leyenda, el rey franco le concedió que fueran liberados todos los prisioneros que él visitase. Su santuario en Noblac (Francia) fue destino de peregrinación medieval."
+      },
+      {
+        "name": "San Iluminado de Sansepolcro",
+        "type": "Franciscano",
+        "description": "Fraile franciscano italiano del siglo XIII, compañero de San Francisco de Asís en varios viajes misioneros, incluida la visita al sultán de Egipto."
+      },
+      {
+        "name": "Beato Segismundo Felinski",
+        "type": "Obispo",
+        "description": "Arzobispo de Varsovia del siglo XIX, deportado a Siberia por oponerse a la opresión rusa en Polonia. Beatificado en 2002 y canonizado en 2009 por Benedicto XVI."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional para la Prevención de la Explotación del Medio Ambiente en la Guerra",
+        "description": "Proclamado por la ONU en 2001 en esta fecha para concienciar sobre los daños medioambientales causados por los conflictos armados."
+      },
+      {
+        "name": "Día del Cineasta (Rusia)",
+        "description": "Rusia celebra a sus directores y trabajadores del cine en esta jornada, reconociendo la rica tradición cinematográfica soviética y rusa desde Eisenstein hasta Tarkovsky."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La libertad no es un don de unos pocos a otros: es una conquista de todos.",
+      "author": "Giuseppe Mazzini",
+      "context": "El político y activista italiano, cuya lucha por la unificación de Italia definió el Risorgimento del siglo XIX, fue uno de los grandes defensores de la libertad de los pueblos."
+    },
+    "motivationalQuote": {
+      "text": "No importa cuán despacio vayas, siempre que no te detengas.",
+      "author": "Confucio"
+    },
+    "births": [
+      {
+        "name": "Adolphe Sax",
+        "description": "Inventor belga del saxofón (1840), instrumento que lleva su nombre y que revolucionó tanto la música clásica como el jazz.",
+        "year": 1814
+      },
+      {
+        "name": "John Philip Sousa",
+        "description": "Compositor y director de banda estadounidense, conocido como el 'Rey de las Marchas', autor de Las estrellas y franjas por siempre y de la marcha que da nombre a la tuba Sousaphone.",
+        "year": 1854
+      },
+      {
+        "name": "Ethan Hawke",
+        "description": "Actor y director estadounidense, candidato al Oscar por Antes del amanecer y Boyhood, reconocido por su trabajo en el cine independiente.",
+        "year": 1970
+      }
+    ],
+    "events": [
+      {
+        "title": "Elección de Abraham Lincoln",
+        "description": "Abraham Lincoln fue elegido presidente de los Estados Unidos, desencadenando la secesión de los estados del sur y el inicio de la Guerra Civil americana.",
+        "year": 1860
+      },
+      {
+        "title": "Tchaikovsky dirige su Sinfonía Patética",
+        "description": "Piotr Ilyich Tchaikovsky dirigió el estreno de su Sinfonía n.º 6 en si menor, op. 74, «Patética», en San Petersburgo, nueve días antes de su muerte.",
+        "year": 1893
+      },
+      {
+        "title": "Muere el compositor Félix Mendelssohn",
+        "description": "El compositor alemán Félix Mendelssohn falleció en Leipzig a los 38 años, dejando obras como el Concierto para violín en mi menor y la Sinfonía italiana.",
+        "year": 1847
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Leonard of Noblac",
+        "type": "Hermit",
+        "description": "6th-century French hermit and patron of prisoners and captives. According to legend, the Frankish king granted that all prisoners Leonard visited would be freed. His shrine at Noblac was a medieval pilgrimage destination."
+      },
+      {
+        "name": "Saint Illuminato of Sansepolcro",
+        "type": "Franciscan",
+        "description": "13th-century Italian Franciscan friar and companion of Saint Francis of Assisi on several missionary journeys, including the visit to the Sultan of Egypt."
+      },
+      {
+        "name": "Blessed Zygmunt Felinski",
+        "type": "Bishop",
+        "description": "19th-century Archbishop of Warsaw, deported to Siberia for opposing Russian oppression in Poland. Beatified in 2002 and canonised in 2009 by Benedict XVI."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day for Preventing the Exploitation of the Environment in War",
+        "description": "Proclaimed by the UN in 2001 on this date to raise awareness of the environmental damage caused by armed conflict."
+      },
+      {
+        "name": "Filmmaker's Day (Russia)",
+        "description": "Russia celebrates its directors and film workers on this day, honouring the rich Soviet and Russian cinematic tradition from Eisenstein to Tarkovsky."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Freedom is not a gift from a few to others: it is a conquest by all.",
+      "author": "Giuseppe Mazzini",
+      "context": "The Italian politician and activist whose struggle for Italian unification defined the 19th-century Risorgimento was one of the great champions of the freedom of peoples."
+    },
+    "motivationalQuote": {
+      "text": "It does not matter how slowly you go, as long as you do not stop.",
+      "author": "Confucius"
+    },
+    "births": [
+      {
+        "name": "Adolphe Sax",
+        "description": "Belgian inventor of the saxophone (1840), the instrument that bears his name and revolutionised both classical music and jazz.",
+        "year": 1814
+      },
+      {
+        "name": "John Philip Sousa",
+        "description": "American bandmaster and composer known as the 'March King', author of The Stars and Stripes Forever and the inventor (by influence) of the sousaphone.",
+        "year": 1854
+      },
+      {
+        "name": "Ethan Hawke",
+        "description": "American actor and director, Oscar-nominated for Before Sunrise and Boyhood, recognised for his work in independent cinema.",
+        "year": 1970
+      }
+    ],
+    "events": [
+      {
+        "title": "Abraham Lincoln elected president",
+        "description": "Abraham Lincoln was elected President of the United States, triggering the secession of the southern states and the beginning of the American Civil War.",
+        "year": 1860
+      },
+      {
+        "title": "Tchaikovsky conducts his Pathétique Symphony",
+        "description": "Pyotr Ilyich Tchaikovsky conducted the premiere of his Symphony No. 6 in B minor, Op. 74, 'Pathétique', in Saint Petersburg, nine days before his death.",
+        "year": 1893
+      },
+      {
+        "title": "Death of composer Felix Mendelssohn",
+        "description": "German composer Felix Mendelssohn died in Leipzig at the age of 38, leaving masterpieces such as the Violin Concerto in E minor and the Italian Symphony.",
+        "year": 1847
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Leonado de Noblac",
+        "type": "Eremita",
+        "description": "Eremita francês do século VI e padroeiro dos prisioneiros e cativos. Segundo a lenda, o rei franco concedeu que todos os prisioneiros que Leonado visitasse seriam libertados. Seu santuário em Noblac foi destino de peregrinação medieval."
+      },
+      {
+        "name": "São Iluminado de Sansepolcro",
+        "type": "Franciscano",
+        "description": "Frade franciscano italiano do século XIII e companheiro de São Francisco de Assis em várias viagens missionárias, incluindo a visita ao sultão do Egito."
+      },
+      {
+        "name": "Beato Sigismundo Felinski",
+        "type": "Bispo",
+        "description": "Arcebispo de Varsóvia do século XIX, deportado para a Sibéria por se opor à opressão russa na Polônia. Beatificado em 2002 e canonizado em 2009 por Bento XVI."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional para a Prevenção da Exploração do Meio Ambiente em Guerra",
+        "description": "Proclamado pela ONU em 2001 nesta data para conscientizar sobre os danos ambientais causados pelos conflitos armados."
+      },
+      {
+        "name": "Dia do Cineasta (Rússia)",
+        "description": "A Rússia celebra seus diretores e trabalhadores do cinema neste dia, homenageando a rica tradição cinematográfica soviética e russa de Eisenstein a Tarkovsky."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A liberdade não é um dom de poucos para os outros: é uma conquista de todos.",
+      "author": "Giuseppe Mazzini",
+      "context": "O político e ativista italiano cuja luta pela unificação da Itália definiu o Risorgimento do século XIX foi um dos grandes defensores da liberdade dos povos."
+    },
+    "motivationalQuote": {
+      "text": "Não importa quão devagar você vá, desde que não pare.",
+      "author": "Confúcio"
+    },
+    "births": [
+      {
+        "name": "Adolphe Sax",
+        "description": "Inventor belga do saxofone (1840), instrumento que leva seu nome e que revolucionou tanto a música clássica quanto o jazz.",
+        "year": 1814
+      },
+      {
+        "name": "John Philip Sousa",
+        "description": "Maestro e compositor americano conhecido como o 'Rei das Marchas', autor de As Estrelas e as Listras para Sempre e influenciador do instrumento batizado de sousafone.",
+        "year": 1854
+      },
+      {
+        "name": "Ethan Hawke",
+        "description": "Ator e diretor americano, indicado ao Oscar por Antes do Amanhecer e Boyhood, reconhecido pelo seu trabalho no cinema independente.",
+        "year": 1970
+      }
+    ],
+    "events": [
+      {
+        "title": "Abraham Lincoln eleito presidente",
+        "description": "Abraham Lincoln foi eleito presidente dos Estados Unidos, desencadeando a secessão dos estados do sul e o início da Guerra Civil americana.",
+        "year": 1860
+      },
+      {
+        "title": "Tchaikovsky rege a sua Sinfonia Patética",
+        "description": "Piotr Ilyich Tchaikovsky regeu a estreia da sua Sinfonia n.º 6 em si menor, op. 74, «Patética», em São Petersburgo, nove dias antes de sua morte.",
+        "year": 1893
+      },
+      {
+        "title": "Morte do compositor Felix Mendelssohn",
+        "description": "O compositor alemão Felix Mendelssohn faleceu em Leipzig aos 38 anos, deixando obras-primas como o Concerto para Violino em mi menor e a Sinfonia Italiana.",
+        "year": 1847
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Lleó de Noblac",
+        "type": "Ermità",
+        "description": "Ermità francès del segle VI i patró dels presos i captius. Segons la llegenda, el rei franc va concedir que tots els presoners que Lleó visités serien alliberats. El seu santuari a Noblac va ser un destí de pelegrinatge medieval."
+      },
+      {
+        "name": "Sant Il·luminat de Sansepolcro",
+        "type": "Franciscà",
+        "description": "Frare franciscà italià del segle XIII i company de Sant Francesc d'Assís en diversos viatges missioners, inclosa la visita al sultà d'Egipte."
+      },
+      {
+        "name": "Beat Sigismund Felinski",
+        "type": "Bisbe",
+        "description": "Arquebisbe de Varsòvia del segle XIX, deportat a Sibèria per oposar-se a l'opressió russa a Polònia. Beatificat el 2002 i canonitzat el 2009 per Benet XVI."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional per a la Prevenció de l'Explotació del Medi Ambient en la Guerra",
+        "description": "Proclamat per l'ONU el 2001 en aquesta data per conscienciar sobre els danys mediambientals causats pels conflictes armats."
+      },
+      {
+        "name": "Dia del Cineasta (Rússia)",
+        "description": "Rússia celebra els seus directors i treballadors del cinema en aquesta jornada, reconeixent la rica tradició cinematogràfica soviètica i russa des d'Eisenstein fins a Tarkovsky."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La llibertat no és un do de pocs per als altres: és una conquesta de tots.",
+      "author": "Giuseppe Mazzini",
+      "context": "El polític i activista italià la lluita del qual per la unificació d'Itàlia va definir el Risorgimento del segle XIX va ser un dels grans defensors de la llibertat dels pobles."
+    },
+    "motivationalQuote": {
+      "text": "No importa com de lentament vagis, sempre que no t'aturis.",
+      "author": "Confuci"
+    },
+    "births": [
+      {
+        "name": "Adolphe Sax",
+        "description": "Inventor belga del saxòfon (1840), instrument que porta el seu nom i que va revolucionar tant la música clàssica com el jazz.",
+        "year": 1814
+      },
+      {
+        "name": "John Philip Sousa",
+        "description": "Mestre de banda i compositor americà conegut com el 'Rei de les Marxes', autor de Les estrelles i franges per sempre i influenciador de l'instrument batejat sousàfon.",
+        "year": 1854
+      },
+      {
+        "name": "Ethan Hawke",
+        "description": "Actor i director americà, candidat a l'Oscar per Abans de l'alba i Boyhood, reconegut pel seu treball en el cinema independent.",
+        "year": 1970
+      }
+    ],
+    "events": [
+      {
+        "title": "Abraham Lincoln elegit president",
+        "description": "Abraham Lincoln va ser elegit president dels Estats Units, desencadenant la secessió dels estats del sud i l'inici de la Guerra Civil americana.",
+        "year": 1860
+      },
+      {
+        "title": "Txaikovski dirigeix la seva Simfonia Patètica",
+        "description": "Piotr Ilitx Txaikovski va dirigir l'estrena de la seva Simfonia núm. 6 en si menor, op. 74, «Patètica», a Sant Petersburg, nou dies abans de la seva mort.",
+        "year": 1893
+      },
+      {
+        "title": "Mort del compositor Felix Mendelssohn",
+        "description": "El compositor alemany Felix Mendelssohn va morir a Leipzig als 38 anys, deixant obres mestres com el Concert per a violí en mi menor i la Simfonia italiana.",
+        "year": 1847
+      }
+    ]
+  }
+}

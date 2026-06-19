@@ -1,0 +1,119 @@
+{
+  "date": "2026-02-28",
+  "es": {
+    "saints": [
+      { "name": "San Román Ostiario", "type": "Mártir", "description": "Ostiario romano del siglo IV que, conmovido por la valentía de San Lorenzo durante su martirio, se convirtió al cristianismo y fue ejecutado al instante." },
+      { "name": "San Hilario de Arles", "type": "Obispo", "description": "Monje de Lerins y obispo de Arles del siglo V, sobrino de San Honorato; reformador de la vida eclesiástica en la Galia." }
+    ],
+    "observances": [
+      { "name": "Día de las Enfermedades Raras", "description": "Celebrado el último día de febrero, visibiliza las enfermedades que afectan a menos de 1 de cada 2.000 personas y apoya a los 300 millones de afectados en el mundo." },
+      { "name": "Día del Flamenco en Andalucía", "description": "En coincidencia con el Día de Andalucía (28 de febrero), se celebra el flamenco como patrimonio cultural inmaterial declarado por la UNESCO en 2010." }
+    ],
+    "historicalQuote": {
+      "text": "En medio de la dificultad reside la oportunidad.",
+      "author": "Albert Einstein",
+      "context": "Einstein (1879-1955) pronunció estas palabras en diferentes conferencias a lo largo de su vida. Representan la actitud científica ante los problemas: los obstáculos son estímulos para el avance."
+    },
+    "motivationalQuote": {
+      "text": "El único fracaso real es dejar de intentarlo.",
+      "author": "Elbert Hubbard"
+    },
+    "births": [
+      { "name": "Michel de Montaigne", "description": "Escritor y filósofo francés del Renacimiento, padre del ensayo literario moderno; sus Essais exploran con agudeza la condición humana.", "year": 1533 },
+      { "name": "Linus Pauling", "description": "Químico y activista estadounidense, único ganador de dos Premios Nobel en categorías distintas: Química (1954) y la Paz (1962).", "year": 1901 },
+      { "name": "Frank Gehry", "description": "Arquitecto canadiense-americano, autor del Museo Guggenheim de Bilbao y del Walt Disney Concert Hall de Los Ángeles; icono de la arquitectura deconstructivista.", "year": 1929 }
+    ],
+    "events": [
+      { "title": "Descubrimiento de la estructura del ADN", "description": "James Watson y Francis Crick anuncian el descubrimiento de la estructura de doble hélice del ADN, el hito más importante de la biología del siglo XX.", "year": 1953 },
+      { "title": "Día de Andalucía: autonomía española", "description": "Andalucía celebra el referéndum autonómico de 1980 y el Estatuto de Autonomía ratificado por el 55 % de los votantes; desde 1983 es fiesta oficial de la comunidad.", "year": 1980 },
+      { "title": "El telescopio espacial Hubble capta la imagen más profunda del universo", "description": "La NASA publica el Hubble Deep Field, fotografía de más de 3.000 galaxias a miles de millones de años luz, revolucionando la cosmología observacional.", "year": 1996 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Roman the Ostiarius", "type": "Martyr", "description": "Roman doorkeeper of the 4th century who, moved by the courage of Saint Lawrence during his martyrdom, converted to Christianity and was immediately executed." },
+      { "name": "Saint Hilary of Arles", "type": "Bishop", "description": "5th-century monk of Lérins and Bishop of Arles, nephew of Saint Honoratus; reformer of ecclesiastical life in Gaul." }
+    ],
+    "observances": [
+      { "name": "Rare Disease Day", "description": "Held on the last day of February, it raises awareness of diseases affecting fewer than 1 in 2,000 people and supports the 300 million people affected worldwide." },
+      { "name": "Flamenco Day in Andalusia", "description": "Coinciding with Andalusia Day (28 February), flamenco is celebrated as an intangible cultural heritage proclaimed by UNESCO in 2010." }
+    ],
+    "historicalQuote": {
+      "text": "In the middle of difficulty lies opportunity.",
+      "author": "Albert Einstein",
+      "context": "Einstein (1879–1955) expressed this thought in various lectures throughout his life. It represents the scientific attitude towards problems: obstacles are stimuli for progress."
+    },
+    "motivationalQuote": {
+      "text": "The only real failure is to stop trying.",
+      "author": "Elbert Hubbard"
+    },
+    "births": [
+      { "name": "Michel de Montaigne", "description": "French Renaissance writer and philosopher, father of the modern literary essay; his Essais explore the human condition with piercing insight.", "year": 1533 },
+      { "name": "Linus Pauling", "description": "American chemist and activist, the only person to win two Nobel Prizes in different categories: Chemistry (1954) and Peace (1962).", "year": 1901 },
+      { "name": "Frank Gehry", "description": "Canadian-American architect, author of the Guggenheim Museum Bilbao and the Walt Disney Concert Hall in Los Angeles; icon of deconstructivist architecture.", "year": 1929 }
+    ],
+    "events": [
+      { "title": "Discovery of DNA's double helix structure", "description": "James Watson and Francis Crick announce the discovery of the double-helix structure of DNA — the most important milestone in 20th-century biology.", "year": 1953 },
+      { "title": "Andalusia Day: Spanish autonomy referendum", "description": "Andalusia celebrates the 1980 autonomy referendum and the Statute of Autonomy ratified by 55 % of voters; since 1983 it has been the community's official holiday.", "year": 1980 },
+      { "title": "Hubble Space Telescope captures the deepest image of the universe", "description": "NASA publishes the Hubble Deep Field — a photograph of more than 3,000 galaxies billions of light-years away — revolutionising observational cosmology.", "year": 1996 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Romano Ostiário", "type": "Mártir", "description": "Porteiro romano do século IV que, comovido pela coragem de São Lourenço durante o seu martírio, se converteu ao cristianismo e foi executado imediatamente." },
+      { "name": "São Hilário de Arles", "type": "Bispo", "description": "Monge de Lerins e bispo de Arles do século V, sobrinho de Santo Honorato; reformador da vida eclesiástica na Gália." }
+    ],
+    "observances": [
+      { "name": "Dia das Doenças Raras", "description": "Celebrado no último dia de fevereiro, dá visibilidade às doenças que afetam menos de 1 em cada 2.000 pessoas e apoia os 300 milhões de afetados no mundo." },
+      { "name": "Dia do Flamenco na Andaluzia", "description": "Em coincidência com o Dia da Andaluzia (28 de fevereiro), celebra-se o flamenco como patrimônio cultural imaterial proclamado pela UNESCO em 2010." }
+    ],
+    "historicalQuote": {
+      "text": "No meio da dificuldade reside a oportunidade.",
+      "author": "Albert Einstein",
+      "context": "Einstein (1879-1955) expressou este pensamento em diversas conferências ao longo da vida. Representa a atitude científica diante dos problemas: os obstáculos são estímulos para o avanço."
+    },
+    "motivationalQuote": {
+      "text": "O único fracasso real é parar de tentar.",
+      "author": "Elbert Hubbard"
+    },
+    "births": [
+      { "name": "Michel de Montaigne", "description": "Escritor e filósofo francês do Renascimento, pai do ensaio literário moderno; seus Essais exploram com perspicácia a condição humana.", "year": 1533 },
+      { "name": "Linus Pauling", "description": "Químico e ativista americano, único ganhador de dois Prêmios Nobel em categorias diferentes: Química (1954) e Paz (1962).", "year": 1901 },
+      { "name": "Frank Gehry", "description": "Arquiteto canadense-americano, autor do Museu Guggenheim de Bilbao e do Walt Disney Concert Hall em Los Angeles; ícone da arquitetura desconstrutivista.", "year": 1929 }
+    ],
+    "events": [
+      { "title": "Descoberta da estrutura de dupla hélice do DNA", "description": "James Watson e Francis Crick anunciam a descoberta da estrutura de dupla hélice do DNA — o marco mais importante da biologia do século XX.", "year": 1953 },
+      { "title": "Dia da Andaluzia: referendo autonômico espanhol", "description": "A Andaluzia celebra o referendo autonômico de 1980 e o Estatuto de Autonomia ratificado por 55% dos eleitores; desde 1983 é feriado oficial da comunidade.", "year": 1980 },
+      { "title": "O Hubble captura a imagem mais profunda do universo", "description": "A NASA publica o Hubble Deep Field — uma fotografia de mais de 3.000 galáxias a bilhões de anos-luz — revolucionando a cosmologia observacional.", "year": 1996 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Romà Ostiari", "type": "Màrtir", "description": "Porter romà del segle IV que, commogut per la valentia de Sant Llorenç durant el seu martiri, es va convertir al cristianisme i va ser executat immediatament." },
+      { "name": "Sant Hilari d'Arle", "type": "Bisbe", "description": "Monjo de Lerins i bisbe d'Arle del segle V, nebot de Sant Honorat; reformador de la vida eclesiàstica a la Gàl·lia." }
+    ],
+    "observances": [
+      { "name": "Dia de les Malalties Rares", "description": "Celebrat l'últim dia de febrer, visibilitza les malalties que afecten menys d'1 de cada 2.000 persones i dóna suport als 300 milions d'afectats al món." },
+      { "name": "Dia del Flamenc a Andalusia", "description": "En coincidència amb el Dia d'Andalusia (28 de febrer), es celebra el flamenc com a patrimoni cultural immaterial proclamat per la UNESCO el 2010." }
+    ],
+    "historicalQuote": {
+      "text": "Enmig de la dificultat rau l'oportunitat.",
+      "author": "Albert Einstein",
+      "context": "Einstein (1879-1955) va expressar aquest pensament en diverses conferències al llarg de la seva vida. Representa l'actitud científica davant els problemes: els obstacles són estímuls per a l'avenç."
+    },
+    "motivationalQuote": {
+      "text": "L'únic fracàs real és deixar d'intentar-ho.",
+      "author": "Elbert Hubbard"
+    },
+    "births": [
+      { "name": "Michel de Montaigne", "description": "Escriptor i filòsof francès del Renaixement, pare de l'assaig literari modern; els seus Essais exploren amb agudesa la condició humana.", "year": 1533 },
+      { "name": "Linus Pauling", "description": "Químic i activista americà, únic guanyador de dos Premis Nobel en categories diferents: Química (1954) i la Pau (1962).", "year": 1901 },
+      { "name": "Frank Gehry", "description": "Arquitecte canadenc-americà, autor del Museu Guggenheim de Bilbao i del Walt Disney Concert Hall de Los Angeles; icona de l'arquitectura deconstructivista.", "year": 1929 }
+    ],
+    "events": [
+      { "title": "Descoberta de l'estructura de doble hèlix de l'ADN", "description": "James Watson i Francis Crick anuncien el descobriment de l'estructura de doble hèlix de l'ADN — la fita més important de la biologia del segle XX.", "year": 1953 },
+      { "title": "Dia d'Andalusia: referèndum autonòmic espanyol", "description": "Andalusia celebra el referèndum autonòmic de 1980 i l'Estatut d'Autonomia ratificat pel 55% dels votants; des del 1983 és festa oficial de la comunitat.", "year": 1980 },
+      { "title": "El Hubble captura la imatge més profunda de l'univers", "description": "La NASA publica el Hubble Deep Field — una fotografia de més de 3.000 galàxies a milers de milions d'anys llum — revolucionant la cosmologia observacional.", "year": 1996 }
+    ]
+  }
+}

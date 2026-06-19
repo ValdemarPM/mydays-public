@@ -1,0 +1,119 @@
+{
+  "date": "2026-02-10",
+  "es": {
+    "saints": [
+      { "name": "Santa Escolástica", "type": "Virgen", "description": "Hermana gemela de San Benito de Nursia, fundó la primera comunidad femenina benedictina en Plombariola (Italia), modelo de vida contemplativa." },
+      { "name": "San Guillermo de Malavalle", "type": "Ermitaño", "description": "Noble francés del siglo XII convertido en ermitaño en la Toscana; fundador de los Guilelmitas." }
+    ],
+    "observances": [
+      { "name": "Día de la Mujer con Discapacidad (varios países)", "description": "Jornada para visibilizar las dificultades adicionales que enfrentan las mujeres con discapacidad en materia de igualdad y acceso a derechos." },
+      { "name": "Día de la Prensa en Filipinas", "description": "Filipinas celebra a los periodistas que arriesgan su vida para informar con libertad, honrando la tradición de la prensa libre." }
+    ],
+    "historicalQuote": {
+      "text": "La ignorancia nunca ha ayudado a nadie.",
+      "author": "Hipatia de Alejandría",
+      "context": "Hipatia (c.360-415) fue matemática y filósofa en Alejandría, símbolo del conocimiento racional frente al fanatismo. Fue asesinada por una turba en 415 d.C."
+    },
+    "motivationalQuote": {
+      "text": "No dejes que el miedo al tiempo que puede tardar te impida empezar.",
+      "author": "Earl Nightingale"
+    },
+    "births": [
+      { "name": "Boris Pasternak", "description": "Poeta y novelista ruso, autor de Doctor Zhivago; Premio Nobel de Literatura 1958, obligado a rechazarlo bajo presión del régimen soviético.", "year": 1890 },
+      { "name": "Bertolt Brecht", "description": "Dramaturgo y poeta alemán, creador del teatro épico; autor de La ópera de tres peniques y Madre Coraje.", "year": 1898 },
+      { "name": "Elizabeth Banks", "description": "Actriz, directora y productora estadounidense, conocida por la saga Pitch Perfect y la serie Modern Family.", "year": 1974 }
+    ],
+    "events": [
+      { "title": "Duelo Pushkin-D'Anthès", "description": "El poeta ruso Alexandr Pushkin muere dos días después de ser herido mortalmente en un duelo contra Georges-Charles d'Anthès en San Petersburgo.", "year": 1837 },
+      { "title": "Tratado de París: Francia cede Canadá a Gran Bretaña", "description": "Francia entrega definitivamente el control del Canadá y la India a Gran Bretaña, reestructurando el mapa colonial del mundo.", "year": 1763 },
+      { "title": "Nelson Mandela sale de prisión", "description": "Tras 27 años encarcelado, Nelson Mandela es liberado de la prisión Victor Verster en Sudáfrica, símbolo de la lucha contra el apartheid.", "year": 1990 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Scholastica", "type": "Virgin", "description": "Twin sister of Saint Benedict of Nursia, she founded the first Benedictine women's community at Plombariola (Italy), a model of contemplative life." },
+      { "name": "Saint William of Malavalle", "type": "Hermit", "description": "French nobleman of the 12th century who became a hermit in Tuscany; founder of the Williamites." }
+    ],
+    "observances": [
+      { "name": "Day of Women with Disabilities (various countries)", "description": "A day to raise visibility of the additional difficulties faced by women with disabilities in terms of equality and access to rights." },
+      { "name": "Press Day (Philippines)", "description": "The Philippines honours journalists who risk their lives to report freely, celebrating the tradition of a free press." }
+    ],
+    "historicalQuote": {
+      "text": "Ignorance has never helped anyone.",
+      "author": "Hypatia of Alexandria",
+      "context": "Hypatia (c.360–415) was a mathematician and philosopher in Alexandria, a symbol of rational knowledge in the face of fanaticism. She was killed by a mob in AD 415."
+    },
+    "motivationalQuote": {
+      "text": "Don't let the fear of the time it will take to accomplish something stand in the way of your doing it.",
+      "author": "Earl Nightingale"
+    },
+    "births": [
+      { "name": "Boris Pasternak", "description": "Russian poet and novelist, author of Doctor Zhivago; 1958 Nobel Laureate in Literature, forced to decline the prize under Soviet regime pressure.", "year": 1890 },
+      { "name": "Bertolt Brecht", "description": "German playwright and poet, creator of epic theatre; author of The Threepenny Opera and Mother Courage.", "year": 1898 },
+      { "name": "Elizabeth Banks", "description": "American actress, director and producer, known for the Pitch Perfect franchise and the series Modern Family.", "year": 1974 }
+    ],
+    "events": [
+      { "title": "Pushkin–d'Anthès duel", "description": "Russian poet Alexander Pushkin dies two days after being mortally wounded in a duel against Georges-Charles d'Anthès in Saint Petersburg.", "year": 1837 },
+      { "title": "Treaty of Paris: France cedes Canada to Great Britain", "description": "France definitively surrenders control of Canada and India to Great Britain, restructuring the colonial map of the world.", "year": 1763 },
+      { "title": "Nelson Mandela released from prison", "description": "After 27 years of imprisonment, Nelson Mandela is freed from Victor Verster Prison in South Africa, a symbol of the struggle against apartheid.", "year": 1990 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "Santa Escolástica", "type": "Virgem", "description": "Irmã gêmea de São Bento de Núrsia, fundou a primeira comunidade feminina beneditina em Plombariola (Itália), modelo de vida contemplativa." },
+      { "name": "São Guilherme de Malavalle", "type": "Eremita", "description": "Nobre francês do século XII convertido em eremita na Toscana; fundador dos Guilelmitas." }
+    ],
+    "observances": [
+      { "name": "Dia da Mulher com Deficiência (vários países)", "description": "Jornada para dar visibilidade às dificuldades adicionais enfrentadas pelas mulheres com deficiência em termos de igualdade e acesso a direitos." },
+      { "name": "Dia da Imprensa (Filipinas)", "description": "As Filipinas homenageiam os jornalistas que arriscam a vida para informar com liberdade, honrando a tradição da imprensa livre." }
+    ],
+    "historicalQuote": {
+      "text": "A ignorância nunca ajudou ninguém.",
+      "author": "Hipácia de Alexandria",
+      "context": "Hipácia (c.360-415) foi matemática e filósofa em Alexandria, símbolo do conhecimento racional diante do fanatismo. Foi assassinada por uma multidão em 415 d.C."
+    },
+    "motivationalQuote": {
+      "text": "Não deixe que o medo do tempo que levará para realizar algo impeça você de começar.",
+      "author": "Earl Nightingale"
+    },
+    "births": [
+      { "name": "Boris Pasternak", "description": "Poeta e romancista russo, autor do Doutor Jivago; Prêmio Nobel de Literatura de 1958, forçado a recusá-lo sob pressão do regime soviético.", "year": 1890 },
+      { "name": "Bertolt Brecht", "description": "Dramaturgo e poeta alemão, criador do teatro épico; autor de A Ópera dos Três Vinténs e Mãe Coragem.", "year": 1898 },
+      { "name": "Elizabeth Banks", "description": "Atriz, diretora e produtora americana, conhecida pela saga Pitch Perfect e pela série Modern Family.", "year": 1974 }
+    ],
+    "events": [
+      { "title": "Duelo Pushkin-d'Anthès", "description": "O poeta russo Alexandre Pushkin morre dois dias após ser mortalmente ferido num duelo contra Georges-Charles d'Anthès em São Petersburgo.", "year": 1837 },
+      { "title": "Tratado de Paris: a França cede o Canadá à Grã-Bretanha", "description": "A França entrega definitivamente o controle do Canadá e da Índia à Grã-Bretanha, reestruturando o mapa colonial do mundo.", "year": 1763 },
+      { "title": "Nelson Mandela é libertado da prisão", "description": "Após 27 anos encarcerado, Nelson Mandela é libertado da prisão Victor Verster na África do Sul, símbolo da luta contra o apartheid.", "year": 1990 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Santa Escolàstica", "type": "Verge", "description": "Germana bessona de Sant Benet de Núrsia, va fundar la primera comunitat femenina benedictina a Plombariola (Itàlia), model de vida contemplativa." },
+      { "name": "Sant Guillem de Malavalle", "type": "Eremita", "description": "Noble francès del segle XII convertit en ermità a la Toscana; fundador dels Guilelmites." }
+    ],
+    "observances": [
+      { "name": "Dia de la Dona amb Discapacitat (diversos països)", "description": "Jornada per visibilitzar les dificultats addicionals que afronten les dones amb discapacitat en matèria d'igualtat i accés a drets." },
+      { "name": "Dia de la Premsa (Filipines)", "description": "Les Filipines homenatgen els periodistes que arrisquen la vida per informar amb llibertat, honrant la tradició de la premsa lliure." }
+    ],
+    "historicalQuote": {
+      "text": "La ignorància mai ha ajudat ningú.",
+      "author": "Hipàtia d'Alexandria",
+      "context": "Hipàtia (c.360-415) va ser matemàtica i filòsofa a Alexandria, símbol del coneixement racional davant el fanatisme. Va ser assassinada per una turba el 415 dC."
+    },
+    "motivationalQuote": {
+      "text": "No et deixis frenar per la por al temps que trigarà; comença ara.",
+      "author": "Earl Nightingale"
+    },
+    "births": [
+      { "name": "Boris Pasternak", "description": "Poeta i novel·lista rus, autor del Doctor Jivago; Premi Nobel de Literatura de 1958, obligat a rebutjar-lo sota la pressió del règim soviètic.", "year": 1890 },
+      { "name": "Bertolt Brecht", "description": "Dramaturg i poeta alemany, creador del teatre èpic; autor de L'òpera de tres rals i Mare Coratge.", "year": 1898 },
+      { "name": "Elizabeth Banks", "description": "Actriu, directora i productora nord-americana, coneguda per la saga Pitch Perfect i la sèrie Modern Family.", "year": 1974 }
+    ],
+    "events": [
+      { "title": "Duel Pushkin-d'Anthès", "description": "El poeta rus Aleksandr Puixkin mor dos dies després de ser mortalment ferit en un duel contra Georges-Charles d'Anthès a Sant Petersburg.", "year": 1837 },
+      { "title": "Tractat de París: França cedeix el Canadà a la Gran Bretanya", "description": "França lliura definitivament el control del Canadà i l'Índia a la Gran Bretanya, reestructurant el mapa colonial del món.", "year": 1763 },
+      { "title": "Nelson Mandela surt de la presó", "description": "Després de 27 anys empresonat, Nelson Mandela és alliberat de la presó Victor Verster a Sud-àfrica, símbol de la lluita contra l'apartheid.", "year": 1990 }
+    ]
+  }
+}

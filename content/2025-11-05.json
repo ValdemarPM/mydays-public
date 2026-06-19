@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-05",
+  "es": {
+    "saints": [
+      {
+        "name": "San Zacarías",
+        "type": "Profeta",
+        "description": "Profeta hebreo del siglo VI a.C., autor del libro de Zacarías en el Antiguo Testamento. Junto a Hageo, animó al pueblo judío a reconstruir el Templo de Jerusalén tras el exilio babilónico."
+      },
+      {
+        "name": "San Teófilo de Antioquía",
+        "type": "Obispo",
+        "description": "Sexto obispo de Antioquía del siglo II, primer autor cristiano conocido en usar el término 'Trinidad' para describir a Dios. Escribió una apología del cristianismo dirigida a los paganos."
+      },
+      {
+        "name": "Santa Isabel y Zacarías",
+        "type": "Padres de Juan Bautista",
+        "description": "Padres de Juan el Bautista, venerados en el calendario cristiano oriental. Zacarías era sacerdote del Templo e Isabel era pariente de la Virgen María."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Guy Fawkes Night (Reino Unido)",
+        "description": "Noche de Hogueras celebrada en el Reino Unido para conmemorar el fracaso de la Conspiración de la Pólvora de 1605, en que Guy Fawkes intentó volar el Parlamento. Se celebra con fuegos artificiales y quema de efigies."
+      },
+      {
+        "name": "Día Mundial del Tsunami",
+        "description": "Establecido por la ONU en 2015 para concienciar sobre los riesgos de los tsunamis y la importancia de los sistemas de alerta temprana tras el devastador maremoto del Índico en 2004."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El conocimiento es poder.",
+      "author": "Francis Bacon",
+      "context": "El filósofo inglés nació el 22 de enero de 1561, pero su influencia en la ciencia moderna se consolidó en noviembre de 1605 con la publicación de El avance del conocimiento, contemporánea de la Conspiración de la Pólvora."
+    },
+    "motivationalQuote": {
+      "text": "La perseverancia es el trabajo duro que haces después de cansarte del trabajo duro que ya hiciste.",
+      "author": "Newt Gingrich"
+    },
+    "births": [
+      {
+        "name": "Vivien Leigh",
+        "description": "Actriz británica ganadora de dos premios Oscar, inmortalizada por sus papeles de Escarlata O'Hara en Lo que el viento se llevó y Blanche DuBois en Un tranvía llamado Deseo.",
+        "year": 1913
+      },
+      {
+        "name": "Bryan Adams",
+        "description": "Cantante y compositor canadiense, autor de éxitos mundiales como Summer of '69, (Everything I Do) I Do It for You y Run to You.",
+        "year": 1959
+      },
+      {
+        "name": "Tilda Swinton",
+        "description": "Actriz escocesa ganadora del Oscar por Michael Clayton, conocida por su versatilidad y papeles en Orlando, Narnia y el universo Marvel.",
+        "year": 1960
+      }
+    ],
+    "events": [
+      {
+        "title": "Conspiración de la Pólvora descubierta",
+        "description": "Las autoridades inglesas descubrieron la Conspiración de la Pólvora: Guy Fawkes fue arrestado en los sótanos del Parlamento con 36 barriles de pólvora listos para volar el edificio.",
+        "year": 1605
+      },
+      {
+        "title": "Primera elección de Roosevelt",
+        "description": "Franklin D. Roosevelt fue elegido presidente de los Estados Unidos por primera vez, derrotando al republicano Herbert Hoover en plena Gran Depresión con un programa de reformas llamado New Deal.",
+        "year": 1932
+      },
+      {
+        "title": "Primera transmisión de radio de la BBC",
+        "description": "La British Broadcasting Company realizó su primera emisión de radio oficial desde Londres, iniciando lo que se convertiría en el servicio público de radiodifusión más reconocido del mundo.",
+        "year": 1922
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Zechariah",
+        "type": "Prophet",
+        "description": "Hebrew prophet of the 6th century BC and author of the Book of Zechariah in the Old Testament. Together with Haggai, he encouraged the Jewish people to rebuild the Temple in Jerusalem after the Babylonian exile."
+      },
+      {
+        "name": "Saint Theophilus of Antioch",
+        "type": "Bishop",
+        "description": "Sixth bishop of Antioch in the 2nd century, the first known Christian author to use the word 'Trinity' to describe God. He wrote an apology for Christianity addressed to pagans."
+      },
+      {
+        "name": "Saints Elizabeth and Zechariah",
+        "type": "Parents of John the Baptist",
+        "description": "Parents of John the Baptist, venerated in the Eastern Christian calendar. Zechariah was a Temple priest and Elizabeth was a relative of the Virgin Mary."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Guy Fawkes Night (United Kingdom)",
+        "description": "Bonfire Night celebrated in the United Kingdom to commemorate the failure of the 1605 Gunpowder Plot, in which Guy Fawkes attempted to blow up Parliament. Marked with fireworks and burning effigies."
+      },
+      {
+        "name": "World Tsunami Awareness Day",
+        "description": "Established by the UN in 2015 to raise awareness of tsunami risks and the importance of early warning systems, following the devastating 2004 Indian Ocean tsunami."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Knowledge is power.",
+      "author": "Francis Bacon",
+      "context": "The English philosopher published The Advancement of Learning in November 1605 — the same month as the Gunpowder Plot — cementing his influence on modern science."
+    },
+    "motivationalQuote": {
+      "text": "Perseverance is the hard work you do after you get tired of doing the hard work you already did.",
+      "author": "Newt Gingrich"
+    },
+    "births": [
+      {
+        "name": "Vivien Leigh",
+        "description": "British actress and two-time Academy Award winner, immortalised as Scarlett O'Hara in Gone with the Wind and Blanche DuBois in A Streetcar Named Desire.",
+        "year": 1913
+      },
+      {
+        "name": "Bryan Adams",
+        "description": "Canadian singer-songwriter behind global hits such as Summer of '69, (Everything I Do) I Do It for You, and Run to You.",
+        "year": 1959
+      },
+      {
+        "name": "Tilda Swinton",
+        "description": "Scottish Academy Award-winning actress, known for her versatility and roles in Orlando, The Chronicles of Narnia, and the Marvel Cinematic Universe.",
+        "year": 1960
+      }
+    ],
+    "events": [
+      {
+        "title": "Gunpowder Plot discovered",
+        "description": "English authorities uncovered the Gunpowder Plot: Guy Fawkes was arrested in the cellars of Parliament with 36 barrels of gunpowder ready to blow up the building.",
+        "year": 1605
+      },
+      {
+        "title": "Roosevelt's first election",
+        "description": "Franklin D. Roosevelt was elected President of the United States for the first time, defeating Republican Herbert Hoover during the Great Depression with a programme of reforms called the New Deal.",
+        "year": 1932
+      },
+      {
+        "title": "BBC's first radio broadcast",
+        "description": "The British Broadcasting Company made its first official radio transmission from London, launching what would become the world's most recognised public broadcasting service.",
+        "year": 1922
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Zacarias",
+        "type": "Profeta",
+        "description": "Profeta hebraico do século VI a.C. e autor do Livro de Zacarias no Antigo Testamento. Junto com Ageu, encorajou o povo judeu a reconstruir o Templo de Jerusalém após o exílio babilônico."
+      },
+      {
+        "name": "São Teófilo de Antioquia",
+        "type": "Bispo",
+        "description": "Sexto bispo de Antioquia do século II, o primeiro autor cristão conhecido a usar a palavra 'Trindade' para descrever Deus. Escreveu uma apologia do cristianismo dirigida aos pagãos."
+      },
+      {
+        "name": "Santos Isabel e Zacarias",
+        "type": "Pais de João Batista",
+        "description": "Pais de João Batista, venerados no calendário cristão oriental. Zacarias era sacerdote do Templo e Isabel era parente da Virgem Maria."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Noite de Guy Fawkes (Reino Unido)",
+        "description": "Noite das Fogueiras celebrada no Reino Unido para comemorar o fracasso da Conspiração da Pólvora de 1605, em que Guy Fawkes tentou explodir o Parlamento. Marcada com fogos de artifício e queima de efígies."
+      },
+      {
+        "name": "Dia Mundial de Conscientização sobre Tsunamis",
+        "description": "Estabelecido pela ONU em 2015 para conscientizar sobre os riscos dos tsunamis e a importância dos sistemas de alerta precoce, após o devastador tsunami do Oceano Índico em 2004."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Conhecimento é poder.",
+      "author": "Francis Bacon",
+      "context": "O filósofo inglês publicou O Avanço do Conhecimento em novembro de 1605 — o mesmo mês da Conspiração da Pólvora — consolidando sua influência na ciência moderna."
+    },
+    "motivationalQuote": {
+      "text": "A perseverança é o trabalho duro que se faz depois de se cansar do trabalho duro que já se fez.",
+      "author": "Newt Gingrich"
+    },
+    "births": [
+      {
+        "name": "Vivien Leigh",
+        "description": "Atriz britânica e vencedora de dois prêmios Oscar, imortalizada como Scarlett O'Hara em E o Vento Levou e Blanche DuBois em Uma Rua Chamada Pecado.",
+        "year": 1913
+      },
+      {
+        "name": "Bryan Adams",
+        "description": "Cantor e compositor canadense autor de sucessos mundiais como Summer of '69, (Everything I Do) I Do It for You e Run to You.",
+        "year": 1959
+      },
+      {
+        "name": "Tilda Swinton",
+        "description": "Atriz escocesa vencedora do Oscar, conhecida pela sua versatilidade e papéis em Orlando, As Crônicas de Nárnia e o Universo Cinematográfico Marvel.",
+        "year": 1960
+      }
+    ],
+    "events": [
+      {
+        "title": "Conspiração da Pólvora descoberta",
+        "description": "As autoridades inglesas descobriram a Conspiração da Pólvora: Guy Fawkes foi preso nos porões do Parlamento com 36 barris de pólvora prontos para explodir o edifício.",
+        "year": 1605
+      },
+      {
+        "title": "Primeira eleição de Roosevelt",
+        "description": "Franklin D. Roosevelt foi eleito presidente dos Estados Unidos pela primeira vez, derrotando o republicano Herbert Hoover em plena Grande Depressão com um programa de reformas chamado New Deal.",
+        "year": 1932
+      },
+      {
+        "title": "Primeira transmissão de rádio da BBC",
+        "description": "A British Broadcasting Company realizou a sua primeira transmissão de rádio oficial de Londres, inaugurando o que se tornaria o serviço público de radiodifusão mais reconhecido do mundo.",
+        "year": 1922
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Zacaries",
+        "type": "Profeta",
+        "description": "Profeta hebreu del segle VI aC i autor del Llibre de Zacaries a l'Antic Testament. Juntament amb Ageu, va animar el poble jueu a reconstruir el Temple de Jerusalem després de l'exili babilònic."
+      },
+      {
+        "name": "Sant Teòfil d'Antioquia",
+        "type": "Bisbe",
+        "description": "Sisè bisbe d'Antioquia del segle II, el primer autor cristià conegut que va usar la paraula 'Trinitat' per descriure Déu. Va escriure una apologia del cristianisme adreçada als pagans."
+      },
+      {
+        "name": "Sants Isabel i Zacaries",
+        "type": "Pares de Joan Baptista",
+        "description": "Pares de Joan Baptista, venerats en el calendari cristià oriental. Zacaries era sacerdot del Temple i Isabel era parent de la Verge Maria."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Nit de Guy Fawkes (Regne Unit)",
+        "description": "Nit de les Fogueres celebrada al Regne Unit per commemorar el fracàs de la Conspiració de la Pólvora de 1605, en què Guy Fawkes va intentar fer volar el Parlament. Es marca amb focs d'artifici i crema d'efígies."
+      },
+      {
+        "name": "Dia Mundial de Sensibilització sobre els Tsunamis",
+        "description": "Establert per l'ONU el 2015 per conscienciar sobre els riscos dels tsunamis i la importància dels sistemes d'alerta primerenca, arran del devastador tsunami de l'Oceà Índic el 2004."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El coneixement és poder.",
+      "author": "Francis Bacon",
+      "context": "El filòsof anglès va publicar El Progrés del Coneixement el novembre de 1605 — el mateix mes de la Conspiració de la Pólvora — consolidant la seva influència en la ciència moderna."
+    },
+    "motivationalQuote": {
+      "text": "La perseverança és el treball dur que fas després de cansar-te del treball dur que ja vas fer.",
+      "author": "Newt Gingrich"
+    },
+    "births": [
+      {
+        "name": "Vivien Leigh",
+        "description": "Actriu britànica i guanyadora de dos premis Oscar, immortalitzada com Scarlett O'Hara a Allò que el vent s'endugué i Blanche DuBois a Un tramvia anomenat Desig.",
+        "year": 1913
+      },
+      {
+        "name": "Bryan Adams",
+        "description": "Cantant i compositor canadenc autor d'èxits mundials com Summer of '69, (Everything I Do) I Do It for You i Run to You.",
+        "year": 1959
+      },
+      {
+        "name": "Tilda Swinton",
+        "description": "Actriu escocesa guanyadora de l'Oscar, coneguda per la seva versatilitat i papers a Orlando, Les Cròniques de Nàrnia i l'Univers Cinematogràfic Marvel.",
+        "year": 1960
+      }
+    ],
+    "events": [
+      {
+        "title": "Conspiració de la Pólvora descoberta",
+        "description": "Les autoritats angleses van descobrir la Conspiració de la Pólvora: Guy Fawkes va ser arrestat als soterranis del Parlament amb 36 barrils de pólvora llestos per fer explotar l'edifici.",
+        "year": 1605
+      },
+      {
+        "title": "Primera elecció de Roosevelt",
+        "description": "Franklin D. Roosevelt va ser elegit president dels Estats Units per primera vegada, derrotant el republicà Herbert Hoover en plena Gran Depressió amb un programa de reformes anomenat New Deal.",
+        "year": 1932
+      },
+      {
+        "title": "Primera emissió de ràdio de la BBC",
+        "description": "La British Broadcasting Company va realitzar la seva primera emissió de ràdio oficial des de Londres, inaugurant el que es convertiria en el servei públic de radiodifusió més reconegut del món.",
+        "year": 1922
+      }
+    ]
+  }
+}

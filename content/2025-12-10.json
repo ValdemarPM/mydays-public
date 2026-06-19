@@ -1,0 +1,271 @@
+{
+  "date": "2025-12-10",
+  "es": {
+    "saints": [
+      {
+        "name": "Nuestra Señora de Loreto",
+        "type": "Advocación mariana",
+        "description": "Advocación de la Virgen María venerada en el Santuario de Loreto (Italia), que según la tradición custodia la Santa Casa de Nazaret trasladada milagrosamente por ángeles. Patrona de los aviadores."
+      },
+      {
+        "name": "San Melquíades",
+        "type": "Papa y Mártir",
+        "description": "Papa de origen africano (311-314), el último pontífice mártir. Durante su papado el Emperador Constantino promulgó el Edicto de Milán, reconociendo la libertad religiosa cristiana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de los Derechos Humanos",
+        "description": "Conmemoración de la aprobación por la Asamblea General de la ONU en 1948 de la Declaración Universal de los Derechos Humanos, texto fundacional de los derechos inalienables de toda persona."
+      },
+      {
+        "name": "Entrega de los Premios Nobel",
+        "description": "Cada año en esta fecha se entregan los Premios Nobel en Estocolmo (Física, Química, Medicina, Literatura y Economía) y en Oslo (Paz), coincidiendo con el aniversario de la muerte de Alfred Nobel (1896)."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Todos los seres humanos nacen libres e iguales en dignidad y derechos.",
+      "author": "Declaración Universal de los Derechos Humanos",
+      "context": "Artículo 1 de la Declaración Universal de los Derechos Humanos, aprobada por la ONU el 10 de diciembre de 1948, cuya conmemoración se celebra hoy."
+    },
+    "motivationalQuote": {
+      "text": "El único modo de hacer un gran trabajo es amar lo que haces.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Emily Dickinson",
+        "description": "Poeta estadounidense del siglo XIX, una de las figuras más originales y prolíficas de la literatura americana, cuya obra, en su mayor parte inédita en vida, redefinió la poesía moderna.",
+        "year": 1830
+      },
+      {
+        "name": "Ada Lovelace",
+        "description": "Matemática británica hija de Lord Byron, autora del primer algoritmo diseñado para ser ejecutado por una máquina (el motor analítico de Babbage), considerada la primera programadora de la historia.",
+        "year": 1815
+      },
+      {
+        "name": "Kenneth Branagh",
+        "description": "Actor y director británico-irlandés, conocido por sus adaptaciones cinematográficas de Shakespeare y sus papeles en el Universo Cinematográfico de Marvel como el dios nórdico Thor.",
+        "year": 1960
+      }
+    ],
+    "events": [
+      {
+        "title": "Aprobación de la Declaración Universal de los Derechos Humanos",
+        "description": "La Asamblea General de las Naciones Unidas aprobó la Declaración Universal de los Derechos Humanos, compuesta por 30 artículos que recogen los derechos inalienables de todas las personas.",
+        "year": 1948
+      },
+      {
+        "title": "Primera entrega de los Premios Nobel",
+        "description": "Se celebró en Estocolmo la primera ceremonia de entrega de los Premios Nobel, cinco años después de la muerte de Alfred Nobel, que los instituyó en su testamento.",
+        "year": 1901
+      },
+      {
+        "title": "Fin del apartheid en Sudáfrica (referéndum)",
+        "description": "El Parlamento sudafricano aprobó la Constitución provisional que ponía fin oficialmente al apartheid y allanaba el camino hacia las primeras elecciones democráticas de 1994.",
+        "year": 1993
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Our Lady of Loreto",
+        "type": "Marian title",
+        "description": "Title of the Virgin Mary venerated at the Sanctuary of Loreto (Italy), which according to tradition enshrines the Holy House of Nazareth miraculously transported by angels. Patron saint of aviators."
+      },
+      {
+        "name": "Saint Miltiades",
+        "type": "Pope and Martyr",
+        "description": "Pope of African origin (311–314), the last pontiff to be considered a martyr. During his papacy Emperor Constantine issued the Edict of Milan, granting religious freedom to Christians."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Human Rights Day",
+        "description": "Commemorates the adoption by the UN General Assembly in 1948 of the Universal Declaration of Human Rights, the foundational text of the inalienable rights of every person."
+      },
+      {
+        "name": "Nobel Prize Award Ceremony",
+        "description": "Every year on this date the Nobel Prizes are awarded in Stockholm (Physics, Chemistry, Medicine, Literature, and Economics) and in Oslo (Peace), coinciding with the anniversary of Alfred Nobel's death (1896)."
+      }
+    ],
+    "historicalQuote": {
+      "text": "All human beings are born free and equal in dignity and rights.",
+      "author": "Universal Declaration of Human Rights",
+      "context": "Article 1 of the Universal Declaration of Human Rights, adopted by the UN on 10 December 1948, whose anniversary is commemorated today."
+    },
+    "motivationalQuote": {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Emily Dickinson",
+        "description": "American poet of the 19th century, one of the most original and prolific figures in American literature, whose largely unpublished work redefined modern poetry.",
+        "year": 1830
+      },
+      {
+        "name": "Ada Lovelace",
+        "description": "British mathematician and daughter of Lord Byron, author of the first algorithm intended to be executed by a machine (Babbage's Analytical Engine), considered the world's first programmer.",
+        "year": 1815
+      },
+      {
+        "name": "Kenneth Branagh",
+        "description": "British-Irish actor and director, known for his film adaptations of Shakespeare and his roles in the Marvel Cinematic Universe, including portraying the Norse god Heimdall.",
+        "year": 1960
+      }
+    ],
+    "events": [
+      {
+        "title": "Universal Declaration of Human Rights adopted",
+        "description": "The UN General Assembly adopted the Universal Declaration of Human Rights, comprising 30 articles setting out the inalienable rights of all people everywhere.",
+        "year": 1948
+      },
+      {
+        "title": "First Nobel Prize ceremony",
+        "description": "The first Nobel Prize award ceremony was held in Stockholm, five years after the death of Alfred Nobel, who instituted the prizes in his will.",
+        "year": 1901
+      },
+      {
+        "title": "End of apartheid in South Africa",
+        "description": "The South African Parliament approved the interim Constitution that officially ended apartheid and paved the way for the first democratic elections of 1994.",
+        "year": 1993
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Nossa Senhora de Loreto",
+        "type": "Invocação mariana",
+        "description": "Invocação da Virgem Maria venerada no Santuário de Loreto (Itália), que segundo a tradição guarda a Santa Casa de Nazaré transportada miraculosamente por anjos. Padroeira dos aviadores."
+      },
+      {
+        "name": "São Melquíades",
+        "type": "Papa e Mártir",
+        "description": "Papa de origem africana (311–314), o último pontífice considerado mártir. Durante o seu pontificado o Imperador Constantino promulgou o Édito de Milão, reconhecendo a liberdade religiosa cristã."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia dos Direitos Humanos",
+        "description": "Comemoração da aprovação pela Assembleia Geral da ONU em 1948 da Declaração Universal dos Direitos Humanos, texto fundacional dos direitos inalienáveis de toda a pessoa."
+      },
+      {
+        "name": "Entrega dos Prémios Nobel",
+        "description": "Todos os anos nesta data são entregues os Prémios Nobel em Estocolmo (Física, Química, Medicina, Literatura e Economia) e em Oslo (Paz), coincidindo com o aniversário da morte de Alfred Nobel (1896)."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Todos os seres humanos nascem livres e iguais em dignidade e em direitos.",
+      "author": "Declaração Universal dos Direitos Humanos",
+      "context": "Artigo 1.º da Declaração Universal dos Direitos Humanos, aprovada pela ONU em 10 de dezembro de 1948, cuja comemoração se celebra hoje."
+    },
+    "motivationalQuote": {
+      "text": "A única maneira de fazer um trabalho fantástico é amar o que se faz.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Emily Dickinson",
+        "description": "Poetisa americana do século XIX, uma das figuras mais originais e prolíficas da literatura americana, cuja obra, em grande parte inédita em vida, redefiniu a poesia moderna.",
+        "year": 1830
+      },
+      {
+        "name": "Ada Lovelace",
+        "description": "Matemática britânica e filha de Lord Byron, autora do primeiro algoritmo concebido para ser executado por uma máquina (o motor analítico de Babbage), considerada a primeira programadora da história.",
+        "year": 1815
+      },
+      {
+        "name": "Kenneth Branagh",
+        "description": "Ator e realizador britânico-irlandês, conhecido pelas suas adaptações cinematográficas de Shakespeare e pelos papéis no Universo Cinematográfico da Marvel.",
+        "year": 1960
+      }
+    ],
+    "events": [
+      {
+        "title": "Aprovação da Declaração Universal dos Direitos Humanos",
+        "description": "A Assembleia Geral das Nações Unidas aprovou a Declaração Universal dos Direitos Humanos, composta por 30 artigos que consagram os direitos inalienáveis de todas as pessoas.",
+        "year": 1948
+      },
+      {
+        "title": "Primeira cerimônia de entrega dos Prémios Nobel",
+        "description": "Realizou-se em Estocolmo a primeira cerimônia de entrega dos Prémios Nobel, cinco anos após a morte de Alfred Nobel, que os instituiu no seu testamento.",
+        "year": 1901
+      },
+      {
+        "title": "Fim do apartheid na África do Sul",
+        "description": "O Parlamento sul-africano aprovou a Constituição provisória que pôs fim oficialmente ao apartheid e abriu caminho para as primeiras eleições democráticas de 1994.",
+        "year": 1993
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Nostra Senyora de Loreto",
+        "type": "Advocació mariana",
+        "description": "Advocació de la Verge Maria venerada al Santuari de Loreto (Itàlia), que segons la tradició custòdia la Santa Casa de Natzaret transportada miraculosament per àngels. Patrona dels aviadors."
+      },
+      {
+        "name": "Sant Melquíades",
+        "type": "Papa i Màrtir",
+        "description": "Papa d'origen africà (311–314), l'últim pontífex considerat màrtir. Durant el seu papat l'Emperador Constantí va promulgar l'Edicte de Milà, reconeixent la llibertat religiosa cristiana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia dels Drets Humans",
+        "description": "Commemoració de l'aprovació per l'Assemblea General de l'ONU el 1948 de la Declaració Universal dels Drets Humans, text fonamental dels drets inalienables de tota persona."
+      },
+      {
+        "name": "Lliurament dels Premis Nobel",
+        "description": "Cada any en aquesta data es lliuren els Premis Nobel a Estocolm (Física, Química, Medicina, Literatura i Economia) i a Oslo (Pau), coincidint amb l'aniversari de la mort d'Alfred Nobel (1896)."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Tots els éssers humans neixen lliures i iguals en dignitat i en drets.",
+      "author": "Declaració Universal dels Drets Humans",
+      "context": "Article 1 de la Declaració Universal dels Drets Humans, aprovada per l'ONU el 10 de desembre de 1948, la commemoració de la qual se celebra avui."
+    },
+    "motivationalQuote": {
+      "text": "L'única manera de fer una gran feina és estimar el que fas.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Emily Dickinson",
+        "description": "Poetessa nord-americana del segle XIX, una de les figures més originals i prolífiques de la literatura americana, la obra de la qual, en gran part inèdita en vida, va redefinir la poesia moderna.",
+        "year": 1830
+      },
+      {
+        "name": "Ada Lovelace",
+        "description": "Matemàtica britànica i filla de Lord Byron, autora del primer algorisme dissenyat per ser executat per una màquina (el motor analític de Babbage), considerada la primera programadora de la història.",
+        "year": 1815
+      },
+      {
+        "name": "Kenneth Branagh",
+        "description": "Actor i director britànic-irlandès, conegut per les seves adaptacions cinematogràfiques de Shakespeare i els seus papers a l'Univers Cinematogràfic de Marvel.",
+        "year": 1960
+      }
+    ],
+    "events": [
+      {
+        "title": "Aprovació de la Declaració Universal dels Drets Humans",
+        "description": "L'Assemblea General de les Nacions Unides va aprovar la Declaració Universal dels Drets Humans, composta per 30 articles que recullen els drets inalienables de totes les persones.",
+        "year": 1948
+      },
+      {
+        "title": "Primera cerimònia de lliurament dels Premis Nobel",
+        "description": "Es va celebrar a Estocolm la primera cerimònia de lliurament dels Premis Nobel, cinc anys després de la mort d'Alfred Nobel, que els va instituir en el seu testament.",
+        "year": 1901
+      },
+      {
+        "title": "Fi de l'apartheid a Sud-àfrica",
+        "description": "El Parlament sudafricà va aprovar la Constitució provisional que posava fi oficialment a l'apartheid i obria el camí cap a les primeres eleccions democràtiques de 1994.",
+        "year": 1993
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-23",
+  "es": {
+    "saints": [
+      {
+        "name": "San Pío de Pietrelcina (Padre Pío)",
+        "type": "Sacerdote",
+        "description": "Fraile capuchino italiano (1887–1968), conocido popularmente como Padre Pío. Portó los estigmas durante 50 años, el primer sacerdote estigmatizado de la historia. Fundó la Casa Alivio del Sufrimiento en San Giovanni Rotondo. Canonizado en 2002."
+      },
+      {
+        "name": "Santa Tecla de Iconium",
+        "type": "Virgen y Mártir",
+        "description": "Primera mártir entre las mujeres según la tradición cristiana. Discípula de San Pablo en Iconium (actual Turquía) que renunció a su matrimonio para seguirle. Venerada en toda la Iglesia antigua, su historia está en los apócrifos Hechos de Pablo y Tecla."
+      },
+      {
+        "name": "San Lino",
+        "type": "Papa",
+        "description": "Sucesor inmediato del apóstol Pedro como obispo de Roma, considera el segundo papa de la historia. Gobernó la Iglesia entre los años 67 y 79 d.C. y murió mártir según la tradición."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional contra la Explotación Sexual y el Tráfico",
+        "description": "Jornada internacional establecida para concienciar sobre la explotación sexual y el tráfico de personas, una de las violaciones más graves de los derechos humanos que afecta a millones de personas en todo el mundo."
+      },
+      {
+        "name": "Día de la Independencia de Arabia Saudí",
+        "description": "El Reino de Arabia Saudí celebra el Día Nacional, conmemorando la unificación del reino por el rey Abdulaziz ibn Saud el 23 de septiembre de 1932."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Ora, spera y no te preocupes. La ansiedad no sirve para nada. Dios es misericordioso y escuchará tus oraciones.",
+      "author": "Padre Pío de Pietrelcina",
+      "context": "El fraile capuchino italiano, cuya festividad se celebra hoy, fue conocido por su profunda espiritualidad, sus estigmas y su misericordia infinita hacia los que acudían a él en busca de consuelo."
+    },
+    "motivationalQuote": {
+      "text": "La fe mueve montañas, pero tienes que seguir empujando mientras rezas.",
+      "author": "Mason Cooley"
+    },
+    "births": [
+      {
+        "name": "Augusto César",
+        "description": "Primer emperador del Imperio Romano (27 a.C. – 14 d.C.), sobrino nieto y heredero de Julio César. Bajo su reinado Roma alcanzó su máximo esplendor en lo que se conoce como la Pax Romana.",
+        "year": -63
+      },
+      {
+        "name": "Ray Charles",
+        "description": "Músico americano ciego desde los 7 años, uno de los grandes genios de la música del siglo XX. Fusionó el rhythm and blues, el soul, el gospel y el country, creando un sonido revolucionario que influyó a generaciones.",
+        "year": 1930
+      },
+      {
+        "name": "Bruce Springsteen",
+        "description": "Cantante y compositor americano conocido como «El Jefe» (The Boss). Sus álbumes Born to Run (1975) y Born in the USA (1984) son hitos del rock americano. Ganador de 20 premios Grammy.",
+        "year": 1949
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundación de la Liga de las Naciones",
+        "description": "La Liga de las Naciones, primera organización internacional de seguridad colectiva, celebró su primera asamblea en Ginebra tras el fin de la Primera Guerra Mundial, precursora de la actual ONU.",
+        "year": 1920
+      },
+      {
+        "title": "Primera transmisión televisiva de los Juegos Olímpicos",
+        "description": "Los Juegos Olímpicos de Berlín de 1936 se convirtieron en los primeros transmitidos por televisión, con 162 horas de emisión en circuito cerrado para los espectadores berlineses.",
+        "year": 1936
+      },
+      {
+        "title": "El Padre Pío es canonizado",
+        "description": "El papa Juan Pablo II canonizó al Padre Pío de Pietrelcina en la Plaza de San Pedro ante más de 300.000 fieles, uno de los santos más populares y venerados del catolicismo contemporáneo.",
+        "year": 2002
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Pius of Pietrelcina (Padre Pio)",
+        "type": "Priest",
+        "description": "Italian Capuchin friar (1887–1968), popularly known as Padre Pio. He bore the stigmata for 50 years, the first stigmatised priest in history. He founded the Casa Sollievo della Sofferenza in San Giovanni Rotondo. Canonised in 2002."
+      },
+      {
+        "name": "Saint Thecla of Iconium",
+        "type": "Virgin and Martyr",
+        "description": "The first martyr among women according to Christian tradition. A disciple of Saint Paul in Iconium (present-day Turkey) who renounced her betrothal to follow him. Venerated in the whole early Church, her story is told in the apocryphal Acts of Paul and Thecla."
+      },
+      {
+        "name": "Saint Linus",
+        "type": "Pope",
+        "description": "Immediate successor of the Apostle Peter as Bishop of Rome, considered the second pope in history. He governed the Church between 67 and 79 AD and died a martyr according to tradition."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day against Sexual Exploitation and Trafficking",
+        "description": "An international day established to raise awareness about sexual exploitation and human trafficking, one of the most serious violations of human rights, affecting millions of people worldwide."
+      },
+      {
+        "name": "Saudi Arabia National Day",
+        "description": "The Kingdom of Saudi Arabia celebrates its National Day, commemorating the unification of the kingdom by King Abdulaziz ibn Saud on 23 September 1932."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Pray, hope, and don't worry. Anxiety doesn't help at all. Our Merciful Lord will listen to your prayer.",
+      "author": "Padre Pio of Pietrelcina",
+      "context": "The Italian Capuchin friar, whose feast is celebrated today, was known for his deep spirituality, his stigmata, and his infinite mercy toward those who came to him seeking comfort."
+    },
+    "motivationalQuote": {
+      "text": "Faith moves mountains, but you have to keep pushing while you pray.",
+      "author": "Mason Cooley"
+    },
+    "births": [
+      {
+        "name": "Augustus Caesar",
+        "description": "First Emperor of the Roman Empire (27 BC – 14 AD), grandnephew and heir of Julius Caesar. Under his reign, Rome reached its greatest splendour in what is known as the Pax Romana.",
+        "year": -63
+      },
+      {
+        "name": "Ray Charles",
+        "description": "American musician blind from the age of 7, one of the great geniuses of 20th-century music. He fused rhythm and blues, soul, gospel, and country, creating a revolutionary sound that influenced generations.",
+        "year": 1930
+      },
+      {
+        "name": "Bruce Springsteen",
+        "description": "American singer and songwriter known as 'The Boss'. His albums Born to Run (1975) and Born in the USA (1984) are landmarks of American rock. He has won 20 Grammy Awards.",
+        "year": 1949
+      }
+    ],
+    "events": [
+      {
+        "title": "League of Nations founded",
+        "description": "The League of Nations, the first international collective security organisation, held its first assembly in Geneva after the end of World War I, a forerunner of the current United Nations.",
+        "year": 1920
+      },
+      {
+        "title": "First television broadcast of the Olympic Games",
+        "description": "The 1936 Berlin Olympics became the first to be broadcast on television, with 162 hours of closed-circuit transmission for Berlin viewers.",
+        "year": 1936
+      },
+      {
+        "title": "Padre Pio is canonised",
+        "description": "Pope John Paul II canonised Padre Pio of Pietrelcina in St Peter's Square before more than 300,000 faithful, making him one of the most popular and venerated saints of contemporary Catholicism.",
+        "year": 2002
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Pio de Pietrelcina (Padre Pio)",
+        "type": "Sacerdote",
+        "description": "Frade capuchinho italiano (1887–1968), popularmente conhecido como Padre Pio. Portou os estigmas durante 50 anos, o primeiro sacerdote estigmatizado da história. Fundou a Casa Alívio do Sofrimento em San Giovanni Rotondo. Canonizado em 2002."
+      },
+      {
+        "name": "Santa Tecla de Icônio",
+        "type": "Virgem e Mártir",
+        "description": "Primeira mártir entre as mulheres segundo a tradição cristã. Discípula de São Paulo em Icônio (atual Turquia) que renunciou ao seu noivado para o seguir. Venerada em toda a Igreja primitiva, a sua história consta nos apócrifos Atos de Paulo e Tecla."
+      },
+      {
+        "name": "São Lino",
+        "type": "Papa",
+        "description": "Sucessor imediato do apóstolo Pedro como bispo de Roma, considerado o segundo papa da história. Governou a Igreja entre os anos 67 e 79 d.C. e morreu mártir segundo a tradição."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional contra a Exploração Sexual e o Tráfico",
+        "description": "Jornada internacional criada para consciencializar sobre a exploração sexual e o tráfico de pessoas, uma das violações mais graves dos direitos humanos, que afeta milhões de pessoas em todo o mundo."
+      },
+      {
+        "name": "Dia Nacional da Arábia Saudita",
+        "description": "O Reino da Arábia Saudita celebra o seu Dia Nacional, comemorando a unificação do reino pelo rei Abdulaziz ibn Saud em 23 de setembro de 1932."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Reza, espera e não te preocupes. A ansiedade não serve de nada. O nosso Senhor misericordioso ouvirá as tuas preces.",
+      "author": "Padre Pio de Pietrelcina",
+      "context": "O frade capuchinho italiano, cuja festa se celebra hoje, era conhecido pela sua profunda espiritualidade, os seus estigmas e a sua infinita misericórdia para com os que recorriam a ele em busca de conforto."
+    },
+    "motivationalQuote": {
+      "text": "A fé move montanhas, mas tens de continuar a empurrar enquanto rezas.",
+      "author": "Mason Cooley"
+    },
+    "births": [
+      {
+        "name": "Augusto César",
+        "description": "Primeiro imperador do Império Romano (27 a.C. – 14 d.C.), sobrinho-neto e herdeiro de Júlio César. Sob o seu reinado, Roma atingiu o seu maior esplendor no que se conhece como a Pax Romana.",
+        "year": -63
+      },
+      {
+        "name": "Ray Charles",
+        "description": "Músico americano cego desde os 7 anos, um dos grandes génios da música do século XX. Fundiu o rhythm and blues, o soul, o gospel e o country, criando um som revolucionário que influenciou gerações.",
+        "year": 1930
+      },
+      {
+        "name": "Bruce Springsteen",
+        "description": "Cantor e compositor americano conhecido como 'O Chefe' (The Boss). Os seus álbuns Born to Run (1975) e Born in the USA (1984) são marcos do rock americano. Vencedor de 20 prêmios Grammy.",
+        "year": 1949
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundação da Liga das Nações",
+        "description": "A Liga das Nações, primeira organização internacional de segurança coletiva, realizou a sua primeira assembleia em Genebra após o fim da Primeira Guerra Mundial, precursora da atual ONU.",
+        "year": 1920
+      },
+      {
+        "title": "Primeira transmissão televisiva dos Jogos Olímpicos",
+        "description": "Os Jogos Olímpicos de Berlim de 1936 tornaram-se os primeiros a ser transmitidos pela televisão, com 162 horas de emissão em circuito fechado para os espectadores berlinenses.",
+        "year": 1936
+      },
+      {
+        "title": "O Padre Pio é canonizado",
+        "description": "O papa João Paulo II canonizou o Padre Pio de Pietrelcina na Praça de São Pedro perante mais de 300.000 fiéis, tornando-o um dos santos mais populares e venerados do catolicismo contemporâneo.",
+        "year": 2002
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Pius de Pietrelcina (Pare Pio)",
+        "type": "Sacerdot",
+        "description": "Frare caputxí italià (1887–1968), popularment conegut com a Pare Pio. Va portar els estigmes durant 50 anys, el primer sacerdot estigmatitzat de la història. Va fundar la Casa Sollievo della Sofferenza a San Giovanni Rotondo. Canonitzat el 2002."
+      },
+      {
+        "name": "Santa Tecla d'Iconi",
+        "type": "Verge i Màrtir",
+        "description": "Primera màrtir entre les dones segons la tradició cristiana. Deixebla de Sant Pau a Iconi (actual Turquia) que va renunciar al seu prometatge per seguir-lo. Venerada en tota l'Església primitiva, la seva història consta als apòcrifs Fets de Pau i Tecla."
+      },
+      {
+        "name": "Sant Lí",
+        "type": "Papa",
+        "description": "Successor immediat de l'apòstol Pere com a bisbe de Roma, considerat el segon papa de la història. Va governar l'Església entre els anys 67 i 79 dC i va morir màrtir segons la tradició."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional contra l'Explotació Sexual i el Tràfic",
+        "description": "Jornada internacional establerta per conscienciar sobre l'explotació sexual i el tràfic de persones, una de les violacions més greus dels drets humans, que afecta milions de persones arreu del món."
+      },
+      {
+        "name": "Dia Nacional de l'Aràbia Saudita",
+        "description": "El Regne de l'Aràbia Saudita celebra el seu Dia Nacional, commemorant la unificació del regne pel rei Abdulaziz ibn Saud el 23 de setembre de 1932."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Resa, espera i no et preocupis. L'ansietat no serveix de res. El nostre Senyor misericordiós escoltarà les teves pregàries.",
+      "author": "Pare Pio de Pietrelcina",
+      "context": "El frare caputxí italià, la festivitat del qual se celebra avui, era conegut per la seva profunda espiritualitat, els seus estigmes i la seva infinita misericòrdia envers els qui acudien a ell buscant consol."
+    },
+    "motivationalQuote": {
+      "text": "La fe mou muntanyes, però has de continuar empenyent mentre reses.",
+      "author": "Mason Cooley"
+    },
+    "births": [
+      {
+        "name": "August César",
+        "description": "Primer emperador de l'Imperi Romà (27 a.C. – 14 dC), nebot-nét i hereu de Juli Cèsar. Sota el seu regnat, Roma va assolir el seu màxim esplendor en el que es coneix com la Pax Romana.",
+        "year": -63
+      },
+      {
+        "name": "Ray Charles",
+        "description": "Músic americà cec des dels 7 anys, un dels grans genis de la música del segle XX. Va fusionar el rhythm and blues, el soul, el gospel i el country, creant un so revolucionari que va influir generacions.",
+        "year": 1930
+      },
+      {
+        "name": "Bruce Springsteen",
+        "description": "Cantant i compositor americà conegut com 'El Cap' (The Boss). Els seus àlbums Born to Run (1975) i Born in the USA (1984) són fites del rock americà. Guanyador de 20 premis Grammy.",
+        "year": 1949
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundació de la Lliga de les Nacions",
+        "description": "La Lliga de les Nacions, primera organització internacional de seguretat col·lectiva, va celebrar la seva primera assemblea a Ginebra després de la fi de la Primera Guerra Mundial, predecessora de l'actual ONU.",
+        "year": 1920
+      },
+      {
+        "title": "Primera transmissió televisiva dels Jocs Olímpics",
+        "description": "Els Jocs Olímpics de Berlín de 1936 van ser els primers transmesos per televisió, amb 162 hores d'emissió en circuit tancat per als espectadors berlinesos.",
+        "year": 1936
+      },
+      {
+        "title": "El Pare Pio és canonitzat",
+        "description": "El papa Joan Pau II va canonitzar el Pare Pio de Pietrelcina a la Plaça de Sant Pere davant més de 300.000 fidels, convertint-lo en un dels sants més populars i venerats del catolicisme contemporani.",
+        "year": 2002
+      }
+    ]
+  }
+}

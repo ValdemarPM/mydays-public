@@ -1,0 +1,291 @@
+{
+  "date": "2025-12-01",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Natalia de Nicomedia",
+        "type": "Mártir",
+        "description": "Cristiana de Nicomedia que protegió y asistió a los mártires durante la persecución de Diocleciano en el siglo IV, venerada junto a su esposo Adriano."
+      },
+      {
+        "name": "San Eligio de Noyon",
+        "type": "Obispo",
+        "description": "Orfebre y obispo del siglo VII, patrón de los orfebres, herreros y trabajadores de los metales. Fue consejero del rey Dagoberto I de Francia."
+      },
+      {
+        "name": "Beato Carlos de Foucauld",
+        "type": "Mártir",
+        "description": "Monje y misionero francés que vivió entre los tuareg del Sáhara argelino, asesinado en 1916. Beatificado en 2005 y canonizado en 2022."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del SIDA",
+        "description": "Jornada proclamada por la OMS en 1988 para concienciar sobre el VIH/SIDA, recordar a las personas fallecidas y pedir respeto por quienes conviven con el virus."
+      },
+      {
+        "name": "Día Mundial de la Lucha contra el SIDA",
+        "description": "Se conmemora el primer caso documentado de SIDA (1981) y se reafirma el compromiso global para acabar con la epidemia antes de 2030."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La salud es la mayor posesión. La contentment es el mayor tesoro. La confianza es el mayor amigo.",
+      "author": "Lao-Tsé",
+      "context": "Filósofo chino fundador del taoísmo. Su reflexión sobre la salud cobra especial resonancia en el Día Mundial del SIDA."
+    },
+    "motivationalQuote": {
+      "text": "No son los años de tu vida los que cuentan, sino la vida que hay en tus años.",
+      "author": "Abraham Lincoln"
+    },
+    "births": [
+      {
+        "name": "Woody Allen",
+        "description": "Director, actor y escritor estadounidense, uno de los cineastas más influyentes del siglo XX, conocido por películas como Annie Hall y Manhattan.",
+        "year": 1935
+      },
+      {
+        "name": "Richard Pryor",
+        "description": "Comediante y actor estadounidense, considerado uno de los más influyentes de la historia del humor, pionero en la comedia autobiográfica y social.",
+        "year": 1940
+      },
+      {
+        "name": "Bette Midler",
+        "description": "Cantante y actriz estadounidense, conocida como 'La Divina', ganadora de Emmys, Grammys y Globos de Oro por su carrera en cine, teatro y música.",
+        "year": 1945
+      }
+    ],
+    "events": [
+      {
+        "title": "Rosa Parks se niega a ceder su asiento",
+        "description": "En Montgomery (Alabama), la activista Rosa Parks se negó a ceder su asiento en el autobús a un pasajero blanco, desencadenando el boicot a los autobuses de Montgomery y un hito en el movimiento por los derechos civiles.",
+        "year": 1955
+      },
+      {
+        "title": "Antártida declarada reserva científica",
+        "description": "El Tratado Antártico entró en vigor, convirtiendo el continente en una zona dedicada exclusivamente a la investigación científica y la paz, prohibiendo toda actividad militar.",
+        "year": 1961
+      },
+      {
+        "title": "Inauguración del Canal de Corinto",
+        "description": "Se inauguró el Canal de Corinto en Grecia, uniendo el golfo de Corinto con el mar Egeo y acortando la ruta marítima en más de 700 km.",
+        "year": 1893
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Natalia of Nicomedia",
+        "type": "Martyr",
+        "description": "Christian woman from Nicomedia who protected and assisted the martyrs during Diocletian's persecution in the 4th century, venerated together with her husband Adrian."
+      },
+      {
+        "name": "Saint Eligius of Noyon",
+        "type": "Bishop",
+        "description": "Goldsmith and bishop of the 7th century, patron of goldsmiths, blacksmiths, and metalworkers. He served as counsellor to King Dagobert I of France."
+      },
+      {
+        "name": "Blessed Charles de Foucauld",
+        "type": "Martyr",
+        "description": "French monk and missionary who lived among the Tuareg of the Algerian Sahara, martyred in 1916. Beatified in 2005 and canonised in 2022."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World AIDS Day",
+        "description": "Day proclaimed by the WHO in 1988 to raise awareness about HIV/AIDS, remember those who have died, and call for respect for people living with the virus."
+      },
+      {
+        "name": "World AIDS Awareness Day",
+        "description": "Commemorates the first documented AIDS case (1981) and reaffirms the global commitment to ending the epidemic by 2030."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Health is the greatest possession. Contentment is the greatest treasure. Confidence is the greatest friend.",
+      "author": "Laozi",
+      "context": "Chinese philosopher and founder of Taoism. His reflection on health resonates especially strongly on World AIDS Day."
+    },
+    "motivationalQuote": {
+      "text": "It's not the years in your life that count, it's the life in your years.",
+      "author": "Abraham Lincoln"
+    },
+    "births": [
+      {
+        "name": "Woody Allen",
+        "description": "American director, actor, and writer, one of the most influential filmmakers of the 20th century, known for Annie Hall and Manhattan.",
+        "year": 1935
+      },
+      {
+        "name": "Richard Pryor",
+        "description": "American comedian and actor, considered one of the most influential in the history of comedy, a pioneer of autobiographical and social humour.",
+        "year": 1940
+      },
+      {
+        "name": "Bette Midler",
+        "description": "American singer and actress known as 'The Divine Miss M', winner of Emmys, Grammys, and Golden Globes across film, theatre, and music.",
+        "year": 1945
+      }
+    ],
+    "events": [
+      {
+        "title": "Rosa Parks refuses to give up her seat",
+        "description": "In Montgomery, Alabama, activist Rosa Parks refused to give up her bus seat to a white passenger, sparking the Montgomery Bus Boycott and a landmark moment in the civil rights movement.",
+        "year": 1955
+      },
+      {
+        "title": "Antarctica declared a scientific reserve",
+        "description": "The Antarctic Treaty entered into force, dedicating the continent exclusively to scientific research and peace, and prohibiting all military activity.",
+        "year": 1961
+      },
+      {
+        "title": "Corinth Canal inaugurated",
+        "description": "The Corinth Canal in Greece was inaugurated, linking the Gulf of Corinth with the Aegean Sea and shortening the maritime route by over 700 km.",
+        "year": 1893
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Natália de Nicomédia",
+        "type": "Mártir",
+        "description": "Cristã de Nicomédia que protegeu e assistiu os mártires durante a perseguição de Diocleciano no século IV, venerada junto ao seu marido Adriano."
+      },
+      {
+        "name": "São Elói de Noyon",
+        "type": "Bispo",
+        "description": "Ourives e bispo do século VII, padroeiro dos ourives, ferreiros e trabalhadores dos metais. Foi conselheiro do rei Dagoberto I de França."
+      },
+      {
+        "name": "Beato Carlos de Foucauld",
+        "type": "Mártir",
+        "description": "Monge e missionário francês que viveu entre os tuaregues do Saara argelino, assassinado em 1916. Beatificado em 2005 e canonizado em 2022."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da AIDS",
+        "description": "Jornada proclamada pela OMS em 1988 para conscientizar sobre o HIV/AIDS, lembrar as pessoas falecidas e pedir respeito por quem convive com o vírus."
+      },
+      {
+        "name": "Dia Mundial de Luta contra a AIDS",
+        "description": "Comemora o primeiro caso documentado de AIDS (1981) e reafirma o compromisso global para acabar com a epidemia antes de 2030."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A saúde é a maior posse. O contentamento é o maior tesouro. A confiança é o maior amigo.",
+      "author": "Laozi",
+      "context": "Filósofo chinês e fundador do taoísmo. Sua reflexão sobre saúde ressoa com especial força no Dia Mundial da AIDS."
+    },
+    "motivationalQuote": {
+      "text": "Não são os anos da sua vida que contam, mas a vida que há nos seus anos.",
+      "author": "Abraham Lincoln"
+    },
+    "births": [
+      {
+        "name": "Woody Allen",
+        "description": "Diretor, ator e escritor americano, um dos cineastas mais influentes do século XX, conhecido por filmes como Annie Hall e Manhattan.",
+        "year": 1935
+      },
+      {
+        "name": "Richard Pryor",
+        "description": "Comediante e ator americano, considerado um dos mais influentes da história do humor, pioneiro na comédia autobiográfica e social.",
+        "year": 1940
+      },
+      {
+        "name": "Bette Midler",
+        "description": "Cantora e atriz americana conhecida como 'A Divina', ganhadora de Emmys, Grammys e Globos de Ouro em cinema, teatro e música.",
+        "year": 1945
+      }
+    ],
+    "events": [
+      {
+        "title": "Rosa Parks recusa ceder seu assento",
+        "description": "Em Montgomery (Alabama), a ativista Rosa Parks recusou ceder seu assento no ônibus a um passageiro branco, desencadeando o boicote aos ônibus de Montgomery e um marco no movimento pelos direitos civis.",
+        "year": 1955
+      },
+      {
+        "title": "Antártida declarada reserva científica",
+        "description": "O Tratado Antártico entrou em vigor, dedicando o continente exclusivamente à investigação científica e à paz, proibindo toda atividade militar.",
+        "year": 1961
+      },
+      {
+        "title": "Inauguração do Canal de Corinto",
+        "description": "O Canal de Corinto na Grécia foi inaugurado, ligando o golfo de Corinto ao mar Egeu e encurtando a rota marítima em mais de 700 km.",
+        "year": 1893
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Natàlia de Nicomèdia",
+        "type": "Màrtir",
+        "description": "Cristiana de Nicomèdia que va protegir i assistir els màrtirs durant la persecució de Dioclecià al segle IV, venerada juntament amb el seu marit Adrià."
+      },
+      {
+        "name": "Sant Eloi de Noyon",
+        "type": "Bisbe",
+        "description": "Orfebre i bisbe del segle VII, patró dels orfebres, ferrers i treballadors dels metalls. Va ser conseller del rei Dagoberto I de França."
+      },
+      {
+        "name": "Beat Carles de Foucauld",
+        "type": "Màrtir",
+        "description": "Monjo i missioner francès que va viure entre els tuàregs del Sàhara algerià, assassinat el 1916. Beatificat el 2005 i canonitzat el 2022."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la SIDA",
+        "description": "Jornada proclamada per l'OMS el 1988 per conscienciar sobre el VIH/SIDA, recordar les persones mortes i demanar respecte per a les qui conviuen amb el virus."
+      },
+      {
+        "name": "Dia Mundial de la Lluita contra la SIDA",
+        "description": "Es commemora el primer cas documentat de SIDA (1981) i es reafirma el compromís global per acabar amb l'epidèmia abans del 2030."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La salut és la major possessió. El contentament és el major tresor. La confiança és el major amic.",
+      "author": "Laozi",
+      "context": "Filòsof xinès i fundador del taoisme. La seva reflexió sobre la salut ressona amb especial força el Dia Mundial de la SIDA."
+    },
+    "motivationalQuote": {
+      "text": "No són els anys de la teva vida els que compten, sinó la vida que hi ha en els teus anys.",
+      "author": "Abraham Lincoln"
+    },
+    "births": [
+      {
+        "name": "Woody Allen",
+        "description": "Director, actor i escriptor nord-americà, un dels cineastes més influents del segle XX, conegut per Annie Hall i Manhattan.",
+        "year": 1935
+      },
+      {
+        "name": "Richard Pryor",
+        "description": "Comediant i actor nord-americà, considerat un dels més influents de la història de l'humor, pioner en la comèdia autobiogràfica i social.",
+        "year": 1940
+      },
+      {
+        "name": "Bette Midler",
+        "description": "Cantant i actriu nord-americana coneguda com 'La Divina', guanyadora d'Emmys, Grammys i Globus d'Or en cinema, teatre i música.",
+        "year": 1945
+      }
+    ],
+    "events": [
+      {
+        "title": "Rosa Parks es nega a cedir el seu seient",
+        "description": "A Montgomery (Alabama), l'activista Rosa Parks va negar-se a cedir el seu seient a l'autobús a un passatger blanc, desencadenant el boicot als autobusos de Montgomery i una fita en el moviment pels drets civils.",
+        "year": 1955
+      },
+      {
+        "title": "L'Antàrtida declarada reserva científica",
+        "description": "El Tractat Antàrtic va entrar en vigor, dedicant el continent exclusivament a la recerca científica i la pau, i prohibint tota activitat militar.",
+        "year": 1961
+      },
+      {
+        "title": "Inauguració del Canal de Corint",
+        "description": "El Canal de Corint a Grècia va ser inaugurat, unint el golf de Corint amb la mar Egea i escurçant la ruta marítima en més de 700 km.",
+        "year": 1893
+      }
+    ]
+  }
+}

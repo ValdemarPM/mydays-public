@@ -1,0 +1,271 @@
+{
+  "date": "2025-10-24",
+  "es": {
+    "saints": [
+      {
+        "name": "San Antonio María Claret",
+        "type": "Obispo",
+        "description": "Sacerdote catalán (1807–1870), fundador de los Misioneros Claretianos (1849) y arzobispo de Santiago de Cuba. Fue confesor de la reina Isabel II y una figura clave de la renovación religiosa española del siglo XIX. Canonizado en 1950."
+      },
+      {
+        "name": "San Rafael Arcángel",
+        "type": "Arcángel",
+        "description": "Uno de los tres arcángeles mencionados en las Sagradas Escrituras, junto a Miguel y Gabriel. Protagonista del libro de Tobías en el Antiguo Testamento, donde guía al joven Tobías en su viaje y cura la ceguera de su padre. Su nombre significa «Dios sana». Es patrono de los médicos, farmacéuticos y viajeros."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de las Naciones Unidas",
+        "description": "Proclamado por la Asamblea General de la ONU en 1947, el 24 de octubre es el Día de las Naciones Unidas, que conmemora la entrada en vigor de la Carta de la ONU en 1945. En esta fecha nació la organización multilateral más importante del mundo, sucesor de la Sociedad de Naciones."
+      },
+      {
+        "name": "Día Mundial del Desarrollo de la Información",
+        "description": "Proclamado por la Asamblea General de la ONU en 1972 (resolución 2930/XXVII), se celebra el 24 de octubre para promover el desarrollo de la comunicación y la información al servicio del progreso económico y social, especialmente en los países en desarrollo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Las Naciones Unidas no fueron creadas para llevarnos al Cielo, sino para salvarnos del Infierno.",
+      "author": "Dag Hammarskjöld",
+      "context": "El segundo secretario general de la ONU, Dag Hammarskjöld, murió en un accidente de aviación en 1961 y fue galardonado póstumamente con el Nobel de la Paz. Esta frase resume su visión pragmática de una organización internacional creada para prevenir la guerra, no para alcanzar la utopía."
+    },
+    "motivationalQuote": {
+      "text": "El talento hace lo que puede; el genio hace lo que debe.",
+      "author": "Edward Bulwer-Lytton"
+    },
+    "births": [
+      {
+        "name": "Anton van Leeuwenhoek",
+        "description": "Comerciante y científico holandés (1632–1723), considerado el padre de la microbiología. Construyó microscopios de una precisión sin precedentes y fue el primero en observar bacterias, protozoos y glóbulos rojos. Sus cartas a la Royal Society de Londres fueron fundamentales para el desarrollo de la biología.",
+        "year": 1632
+      },
+      {
+        "name": "Moss Hart",
+        "description": "Dramaturgo y director de teatro americano (1904–1961), autor de clásicos de Broadway como You Can't Take It With You (1936, Premio Pulitzer) y The Man Who Came to Dinner (1939), escritas en colaboración con George S. Kaufman. También dirigió el musical My Fair Lady (1956).",
+        "year": 1904
+      },
+      {
+        "name": "Kevin Kline",
+        "description": "Actor americano (n. 1947), ganador del Oscar al mejor actor de reparto por A Fish Called Wanda (1988). Conocido por su versatilidad entre comedia y drama, ha brillado en Broadway y en Hollywood. También ha protagonizado el papel de Cole Porter en De-Lovely (2004).",
+        "year": 1947
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundación de las Naciones Unidas",
+        "description": "Entró en vigor la Carta de las Naciones Unidas, firmada el 26 de junio de 1945 en San Francisco por 51 países fundadores. La ONU nació para mantener la paz y la seguridad internacionales tras los horrores de la Segunda Guerra Mundial y sustituyó a la fracasada Sociedad de Naciones.",
+        "year": 1945
+      },
+      {
+        "title": "El martes negro de Wall Street",
+        "description": "La Bolsa de Nueva York sufrió el «Martes Negro», la mayor caída de su historia hasta entonces, con una pérdida del 12 % en un solo día. Junto al «Jueves Negro» del 24 de octubre de 1929, marcó el inicio de la Gran Depresión, la peor crisis económica del siglo XX.",
+        "year": 1929
+      },
+      {
+        "title": "Primera transmisión televisiva de colores en Estados Unidos",
+        "description": "CBS realizó la primera transmisión televisiva pública en color de la historia de Estados Unidos, mostrando imágenes de la ciudad de Nueva York. Sin embargo, los televisores en color eran extremadamente caros y la tecnología no se popularizó hasta los años sesenta.",
+        "year": 1951
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Anthony Mary Claret",
+        "type": "Bishop",
+        "description": "Catalan priest (1807–1870), founder of the Claretian Missionaries (1849) and Archbishop of Santiago de Cuba. He was confessor to Queen Isabella II and a key figure in the religious renewal of 19th-century Spain. Canonised in 1950."
+      },
+      {
+        "name": "Saint Raphael the Archangel",
+        "type": "Archangel",
+        "description": "One of the three archangels mentioned in Sacred Scripture, along with Michael and Gabriel. The protagonist of the Book of Tobit in the Old Testament, where he guides the young Tobias on his journey and heals his father's blindness. His name means 'God heals'. He is the patron of physicians, pharmacists and travellers."
+      }
+    ],
+    "observances": [
+      {
+        "name": "United Nations Day",
+        "description": "Proclaimed by the UN General Assembly in 1947, 24 October is United Nations Day, commemorating the entry into force of the UN Charter in 1945. On this date the world's most important multilateral organisation was born, successor to the League of Nations."
+      },
+      {
+        "name": "World Development Information Day",
+        "description": "Proclaimed by the UN General Assembly in 1972 (resolution 2930/XXVII), it is celebrated on 24 October to promote the development of communication and information in the service of economic and social progress, especially in developing countries."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The United Nations was not created to take mankind to heaven, but to save humanity from hell.",
+      "author": "Dag Hammarskjöld",
+      "context": "The second UN Secretary-General, Dag Hammarskjöld, died in a plane crash in 1961 and was posthumously awarded the Nobel Peace Prize. This phrase encapsulates his pragmatic vision of an international organisation created to prevent war, not to achieve utopia."
+    },
+    "motivationalQuote": {
+      "text": "Talent does what it can; genius does what it must.",
+      "author": "Edward Bulwer-Lytton"
+    },
+    "births": [
+      {
+        "name": "Antonie van Leeuwenhoek",
+        "description": "Dutch tradesman and scientist (1632–1723), considered the father of microbiology. He built microscopes of unprecedented precision and was the first to observe bacteria, protozoa and red blood cells. His letters to the Royal Society in London were fundamental to the development of biology.",
+        "year": 1632
+      },
+      {
+        "name": "Moss Hart",
+        "description": "American playwright and theatre director (1904–1961), author of Broadway classics such as You Can't Take It With You (1936, Pulitzer Prize) and The Man Who Came to Dinner (1939), written in collaboration with George S. Kaufman. He also directed the musical My Fair Lady (1956).",
+        "year": 1904
+      },
+      {
+        "name": "Kevin Kline",
+        "description": "American actor (b. 1947), winner of the Academy Award for Best Supporting Actor for A Fish Called Wanda (1988). Known for his versatility in comedy and drama, he has excelled on Broadway and in Hollywood. He also played the role of Cole Porter in De-Lovely (2004).",
+        "year": 1947
+      }
+    ],
+    "events": [
+      {
+        "title": "Founding of the United Nations",
+        "description": "The United Nations Charter, signed on 26 June 1945 in San Francisco by 51 founding countries, entered into force. The UN was born to maintain international peace and security following the horrors of the Second World War and replaced the failed League of Nations.",
+        "year": 1945
+      },
+      {
+        "title": "Black Tuesday on Wall Street",
+        "description": "The New York Stock Exchange suffered 'Black Tuesday', its largest single-day fall in history at that time, with a loss of 12% in one day. Together with 'Black Thursday' of 24 October 1929, it marked the beginning of the Great Depression, the worst economic crisis of the 20th century.",
+        "year": 1929
+      },
+      {
+        "title": "First colour television broadcast in the United States",
+        "description": "CBS made the first public colour television broadcast in American history, showing images of New York City. However, colour television sets were extremely expensive and the technology did not become widely popular until the 1960s.",
+        "year": 1951
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo António Maria Claret",
+        "type": "Bispo",
+        "description": "Sacerdote catalão (1807–1870), fundador dos Missionários Claretianos (1849) e arcebispo de Santiago de Cuba. Foi confessor da rainha Isabel II e uma figura-chave da renovação religiosa espanhola do século XIX. Canonizado em 1950."
+      },
+      {
+        "name": "São Rafael Arcanjo",
+        "type": "Arcanjo",
+        "description": "Um dos três arcanjos mencionados nas Sagradas Escrituras, juntamente com Miguel e Gabriel. Protagonista do livro de Tobias no Antigo Testamento, onde guia o jovem Tobias na sua viagem e cura a cegueira do seu pai. O seu nome significa «Deus cura». É patrono dos médicos, farmacêuticos e viajantes."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia das Nações Unidas",
+        "description": "Proclamado pela Assembleia Geral da ONU em 1947, o 24 de outubro é o Dia das Nações Unidas, que comemora a entrada em vigor da Carta da ONU em 1945. Nesta data nasceu a organização multilateral mais importante do mundo, sucessora da Sociedade das Nações."
+      },
+      {
+        "name": "Dia Mundial do Desenvolvimento da Informação",
+        "description": "Proclamado pela Assembleia Geral da ONU em 1972 (resolução 2930/XXVII), é celebrado a 24 de outubro para promover o desenvolvimento da comunicação e da informação ao serviço do progresso económico e social, especialmente nos países em desenvolvimento."
+      }
+    ],
+    "historicalQuote": {
+      "text": "As Nações Unidas não foram criadas para levar a humanidade ao Céu, mas para salvá-la do Inferno.",
+      "author": "Dag Hammarskjöld",
+      "context": "O segundo secretário-geral da ONU, Dag Hammarskjöld, morreu num acidente de aviação em 1961 e foi galardoado postumamente com o Nobel da Paz. Esta frase resume a sua visão pragmática de uma organização internacional criada para prevenir a guerra, não para alcançar a utopia."
+    },
+    "motivationalQuote": {
+      "text": "O talento faz o que pode; o génio faz o que deve.",
+      "author": "Edward Bulwer-Lytton"
+    },
+    "births": [
+      {
+        "name": "Antonie van Leeuwenhoek",
+        "description": "Comerciante e cientista holandês (1632–1723), considerado o pai da microbiologia. Construiu microscópios de uma precisão sem precedentes e foi o primeiro a observar bactérias, protozoários e glóbulos vermelhos. As suas cartas à Royal Society de Londres foram fundamentais para o desenvolvimento da biologia.",
+        "year": 1632
+      },
+      {
+        "name": "Moss Hart",
+        "description": "Dramaturgo e diretor de teatro americano (1904–1961), autor de clássicos da Broadway como You Can't Take It With You (1936, Prémio Pulitzer) e The Man Who Came to Dinner (1939), escritos em colaboração com George S. Kaufman. Também dirigiu o musical My Fair Lady (1956).",
+        "year": 1904
+      },
+      {
+        "name": "Kevin Kline",
+        "description": "Ator americano (n. 1947), vencedor do Oscar de Melhor Ator Secundário por A Fish Called Wanda (1988). Conhecido pela sua versatilidade entre a comédia e o drama, brilhou na Broadway e em Hollywood. Também protagonizou o papel de Cole Porter em De-Lovely (2004).",
+        "year": 1947
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundação das Nações Unidas",
+        "description": "Entrou em vigor a Carta das Nações Unidas, assinada a 26 de junho de 1945 em São Francisco por 51 países fundadores. A ONU nasceu para manter a paz e a segurança internacionais após os horrores da Segunda Guerra Mundial e substituiu a fracassada Sociedade das Nações.",
+        "year": 1945
+      },
+      {
+        "title": "Terça-feira Negra em Wall Street",
+        "description": "A Bolsa de Nova Iorque sofreu a «Terça-feira Negra», a maior queda da sua história até então, com uma perda de 12% num só dia. Juntamente com a «Quinta-feira Negra» de 24 de outubro de 1929, marcou o início da Grande Depressão, a pior crise económica do século XX.",
+        "year": 1929
+      },
+      {
+        "title": "Primeira transmissão televisiva a cores nos Estados Unidos",
+        "description": "A CBS realizou a primeira transmissão televisiva pública a cores da história dos Estados Unidos, mostrando imagens da cidade de Nova Iorque. No entanto, os televisores a cores eram extremamente caros e a tecnologia não se popularizou até aos anos sessenta.",
+        "year": 1951
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Antoni Maria Claret",
+        "type": "Bisbe",
+        "description": "Sacerdot català (1807–1870), fundador dels Missionaris Claretians (1849) i arquebisbe de Santiago de Cuba. Va ser confessor de la reina Isabel II i una figura clau de la renovació religiosa espanyola del segle XIX. Canonitzat el 1950."
+      },
+      {
+        "name": "Sant Rafael Arcàngel",
+        "type": "Arcàngel",
+        "description": "Un dels tres arcàngels esmentats a les Sagrades Escriptures, juntament amb Miquel i Gabriel. Protagonista del llibre de Tobies a l'Antic Testament, on guia el jove Tobies en el seu viatge i cura la ceguesa del seu pare. El seu nom significa «Déu cura». És patró dels metges, farmacèutics i viatgers."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de les Nacions Unides",
+        "description": "Proclamat per l'Assemblea General de l'ONU el 1947, el 24 d'octubre és el Dia de les Nacions Unides, que commemora l'entrada en vigor de la Carta de l'ONU el 1945. En aquesta data va néixer l'organització multilateral més important del món, successora de la Societat de Nacions."
+      },
+      {
+        "name": "Dia Mundial del Desenvolupament de la Informació",
+        "description": "Proclamat per l'Assemblea General de l'ONU el 1972 (resolució 2930/XXVII), se celebra el 24 d'octubre per promoure el desenvolupament de la comunicació i la informació al servei del progrés econòmic i social, especialment als països en desenvolupament."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Les Nacions Unides no van ser creades per portar la humanitat al Cel, sinó per salvar-la de l'Infern.",
+      "author": "Dag Hammarskjöld",
+      "context": "El segon secretari general de l'ONU, Dag Hammarskjöld, va morir en un accident d'aviació el 1961 i va ser guardonat pòstumament amb el Nobel de la Pau. Aquesta frase resumeix la seva visió pragmàtica d'una organització internacional creada per prevenir la guerra, no per assolir la utopia."
+    },
+    "motivationalQuote": {
+      "text": "El talent fa el que pot; el geni fa el que ha de fer.",
+      "author": "Edward Bulwer-Lytton"
+    },
+    "births": [
+      {
+        "name": "Antonie van Leeuwenhoek",
+        "description": "Comerciant i científic holandès (1632–1723), considerat el pare de la microbiologia. Va construir microscopis d'una precisió sense precedents i va ser el primer a observar bacteris, protozous i glòbuls vermells. Les seves cartes a la Royal Society de Londres van ser fonamentals per al desenvolupament de la biologia.",
+        "year": 1632
+      },
+      {
+        "name": "Moss Hart",
+        "description": "Dramaturg i director de teatre americà (1904–1961), autor de clàssics de Broadway com You Can't Take It With You (1936, Premi Pulitzer) i The Man Who Came to Dinner (1939), escrits en col·laboració amb George S. Kaufman. També va dirigir el musical My Fair Lady (1956).",
+        "year": 1904
+      },
+      {
+        "name": "Kevin Kline",
+        "description": "Actor americà (n. 1947), guanyador de l'Oscar al millor actor secundari per A Fish Called Wanda (1988). Conegut per la seva versatilitat entre la comèdia i el drama, ha brillat a Broadway i a Hollywood. També va protagonitzar el paper de Cole Porter a De-Lovely (2004).",
+        "year": 1947
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundació de les Nacions Unides",
+        "description": "Va entrar en vigor la Carta de les Nacions Unides, signada el 26 de juny de 1945 a San Francisco per 51 països fundadors. L'ONU va néixer per mantenir la pau i la seguretat internacionals després dels horrors de la Segona Guerra Mundial i va substituir la fracassada Societat de Nacions.",
+        "year": 1945
+      },
+      {
+        "title": "Dimarts Negre a Wall Street",
+        "description": "La Borsa de Nova York va patir el «Dimarts Negre», la major caiguda de la seva història fins aleshores, amb una pèrdua del 12% en un sol dia. Juntament amb el «Dijous Negre» del 24 d'octubre de 1929, va marcar l'inici de la Gran Depressió, la pitjor crisi econòmica del segle XX.",
+        "year": 1929
+      },
+      {
+        "title": "Primera transmissió televisiva en color als Estats Units",
+        "description": "CBS va realitzar la primera transmissió televisiva pública en color de la història dels Estats Units, mostrant imatges de la ciutat de Nova York. No obstant, els televisors en color eren extremadament cars i la tecnologia no es va popularitzar fins als anys seixanta.",
+        "year": 1951
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "date": "2025-12-19",
+  "es": {
+    "saints": [
+      {
+        "name": "San Anastasio I",
+        "type": "Papa",
+        "description": "Papa romano del siglo IV (399-401), conocido por su rigor doctrinal y su condena de algunos escritos de Orígenes. Amigo de San Jerónimo y San Agustín."
+      },
+      {
+        "name": "San Nemesio de Alejandría",
+        "type": "Mártir",
+        "description": "Mártir cristiano de Alejandría del siglo III, acusado falsamente de robo y luego quemado vivo con dos ladrones al confesar su fe cristiana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional para Acabar con la Violencia contra las Mujeres (periodo)",
+        "description": "Periodo de 16 días de activismo (del 25 de noviembre al 10 de diciembre) para concienciar sobre la violencia de género y movilizar a la sociedad para erradicarla."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La verdad es como el sol: puedes apagarla por un tiempo, pero no puedes ocultarla para siempre.",
+      "author": "Victor Hugo",
+      "context": "Escritor y poeta francés del Romanticismo, autor de Los Miserables y El Jorobado de Notre Dame, símbolo de la lucha por la justicia social."
+    },
+    "motivationalQuote": {
+      "text": "La felicidad no es algo hecho. Viene de tus propias acciones.",
+      "author": "Dalai Lama"
+    },
+    "births": [
+      {
+        "name": "Édith Piaf",
+        "description": "Cantante francesa, conocida como 'La Mome Piaf' (el gorrión), icono de la canción popular francesa y una de las artistas más amadas de la historia, autora de Non, je ne regrette rien y La vie en rose.",
+        "year": 1915
+      },
+      {
+        "name": "Leonid Brezhnev",
+        "description": "Político soviético, secretario general del PCUS (1964-1982), cuya era marcó la cima y el inicio del declive de la Unión Soviética en plena Guerra Fría.",
+        "year": 1906
+      },
+      {
+        "name": "Jake Gyllenhaal",
+        "description": "Actor estadounidense conocido por sus papeles en Donnie Darko, Zodiac, Brokeback Mountain y Nightcrawler.",
+        "year": 1980
+      }
+    ],
+    "events": [
+      {
+        "title": "Destitución de Andrew Johnson (juicio político)",
+        "description": "El presidente Andrew Johnson se convirtió en el primer presidente de los Estados Unidos en ser sometido a un juicio político (impeachment) por el Congreso, siendo absuelto por un voto.",
+        "year": 1868
+      },
+      {
+        "title": "Nixon reelegido por aplastante mayoría",
+        "description": "Richard Nixon ganó la reelección presidencial con uno de los mayores márgenes de victoria en la historia de EE.UU., pocas semanas antes de que estallara el escándalo Watergate.",
+        "year": 1972
+      },
+      {
+        "title": "Fundación de la Compañía Holandesa de las Indias Orientales (VOC)",
+        "description": "Los Estados Generales de los Países Bajos concedieron el monopolio del comercio con Asia a la Compañía de las Indias Orientales (VOC), considerada la primera empresa multinacional de la historia.",
+        "year": 1601
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Anastasius I",
+        "type": "Pope",
+        "description": "Roman pope of the 4th century (399–401), known for his doctrinal rigour and his condemnation of some writings of Origen. Friend of Saints Jerome and Augustine."
+      },
+      {
+        "name": "Saint Nemesius of Alexandria",
+        "type": "Martyr",
+        "description": "Christian martyr of Alexandria in the 3rd century, falsely accused of theft and then burned alive with two thieves after confessing his Christian faith."
+      }
+    ],
+    "observances": [
+      {
+        "name": "16 Days of Activism Against Gender Violence (period)",
+        "description": "A 16-day period of activism (25 November to 10 December) to raise awareness of gender-based violence and mobilise society to eradicate it."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The truth is like the sun: you can shut it out for a time, but it is not going to go away.",
+      "author": "Victor Hugo",
+      "context": "French Romantic writer and poet, author of Les Misérables and The Hunchback of Notre-Dame, symbol of the struggle for social justice."
+    },
+    "motivationalQuote": {
+      "text": "Happiness is not something ready-made. It comes from your own actions.",
+      "author": "Dalai Lama"
+    },
+    "births": [
+      {
+        "name": "Édith Piaf",
+        "description": "French singer known as 'La Môme Piaf' (the Little Sparrow), icon of French chanson and one of the most beloved artists in history, author of Non, je ne regrette rien and La vie en rose.",
+        "year": 1915
+      },
+      {
+        "name": "Leonid Brezhnev",
+        "description": "Soviet politician, General Secretary of the CPSU (1964–1982), whose era marked the peak and the beginning of the decline of the Soviet Union during the Cold War.",
+        "year": 1906
+      },
+      {
+        "name": "Jake Gyllenhaal",
+        "description": "American actor known for his roles in Donnie Darko, Zodiac, Brokeback Mountain, and Nightcrawler.",
+        "year": 1980
+      }
+    ],
+    "events": [
+      {
+        "title": "Impeachment of Andrew Johnson",
+        "description": "President Andrew Johnson became the first President of the United States to be impeached by Congress, but was acquitted by a single vote.",
+        "year": 1868
+      },
+      {
+        "title": "Nixon wins re-election by a landslide",
+        "description": "Richard Nixon won the presidential election with one of the largest margins of victory in US history, weeks before the Watergate scandal broke.",
+        "year": 1972
+      },
+      {
+        "title": "Founding of the Dutch East India Company (VOC)",
+        "description": "The States General of the Netherlands granted the monopoly on Asian trade to the East India Company (VOC), considered the world's first multinational corporation.",
+        "year": 1601
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Anastácio I",
+        "type": "Papa",
+        "description": "Papa romano do século IV (399–401), conhecido pelo seu rigor doutrinal e pela condenação de alguns escritos de Orígenes. Amigo de São Jerônimo e Santo Agostinho."
+      },
+      {
+        "name": "São Nemésio de Alexandria",
+        "type": "Mártir",
+        "description": "Mártir cristão de Alexandria do século III, falsamente acusado de roubo e depois queimado vivo com dois ladrões ao confessar a sua fé cristã."
+      }
+    ],
+    "observances": [
+      {
+        "name": "16 Dias de Ativismo contra a Violência de Género (período)",
+        "description": "Período de 16 dias de ativismo (25 de novembro a 10 de dezembro) para consciencializar sobre a violência de género e mobilizar a sociedade para a erradicar."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A verdade é como o sol: pode-se apagá-la por um tempo, mas não pode-se escondê-la para sempre.",
+      "author": "Victor Hugo",
+      "context": "Escritor e poeta francês do Romantismo, autor de Os Miseráveis e O Corcunda de Notre-Dame, símbolo da luta pela justiça social."
+    },
+    "motivationalQuote": {
+      "text": "A felicidade não é algo já feito. Vem das suas próprias ações.",
+      "author": "Dalai Lama"
+    },
+    "births": [
+      {
+        "name": "Édith Piaf",
+        "description": "Cantora francesa conhecida como 'La Môme Piaf' (o Pardal), ícone da canção popular francesa e uma das artistas mais amadas da história, autora de Non, je ne regrette rien e La vie en rose.",
+        "year": 1915
+      },
+      {
+        "name": "Leonid Brejnev",
+        "description": "Político soviético, secretário-geral do PCUS (1964–1982), cuja era marcou o apogeu e o início do declínio da União Soviética durante a Guerra Fria.",
+        "year": 1906
+      },
+      {
+        "name": "Jake Gyllenhaal",
+        "description": "Ator americano conhecido pelos seus papéis em Donnie Darko, Zodiac, O Segredo de Brokeback Mountain e Nightcrawler.",
+        "year": 1980
+      }
+    ],
+    "events": [
+      {
+        "title": "Impeachment de Andrew Johnson",
+        "description": "O presidente Andrew Johnson tornou-se o primeiro presidente dos Estados Unidos a sofrer um impeachment pelo Congresso, mas foi absolvido por um único voto.",
+        "year": 1868
+      },
+      {
+        "title": "Nixon reeleito por larga margem",
+        "description": "Richard Nixon ganhou a eleição presidencial com uma das maiores margens de vitória da história dos EUA, semanas antes de o escândalo Watergate estalar.",
+        "year": 1972
+      },
+      {
+        "title": "Fundação da Companhia Holandesa das Índias Orientais (VOC)",
+        "description": "Os Estados Gerais dos Países Baixos concederam o monopólio do comércio com a Ásia à Companhia das Índias Orientais (VOC), considerada a primeira empresa multinacional da história.",
+        "year": 1601
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Anastasi I",
+        "type": "Papa",
+        "description": "Papa romà del segle IV (399–401), conegut pel seu rigor doctrinal i la seva condemna d'alguns escrits d'Orígens. Amic de Sant Jeroni i Sant Agustí."
+      },
+      {
+        "name": "Sant Nemesi d'Alexandria",
+        "type": "Màrtir",
+        "description": "Màrtir cristià d'Alexandria del segle III, acusat falsament de robatori i després cremat viu amb dos lladres en confessar la seva fe cristiana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "16 Dies d'Activisme contra la Violència de Gènere (període)",
+        "description": "Període de 16 dies d'activisme (del 25 de novembre al 10 de desembre) per conscienciar sobre la violència de gènere i mobilitzar la societat per erradicar-la."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La veritat és com el sol: pots apagar-la per un temps, però no la pots ocultar per sempre.",
+      "author": "Victor Hugo",
+      "context": "Escriptor i poeta francès del Romanticisme, autor de Els Miserables i El geperut de Notre-Dame, símbol de la lluita per la justícia social."
+    },
+    "motivationalQuote": {
+      "text": "La felicitat no és alguna cosa ja feta. Ve de les teves pròpies accions.",
+      "author": "Dalai Lama"
+    },
+    "births": [
+      {
+        "name": "Édith Piaf",
+        "description": "Cantant francesa coneguda com 'La Môme Piaf' (el Pardal), icona de la cançó popular francesa i una de les artistes més estimades de la història, autora de Non, je ne regrette rien i La vie en rose.",
+        "year": 1915
+      },
+      {
+        "name": "Leonid Bréjnev",
+        "description": "Polític soviètic, secretari general del PCUS (1964–1982), la era del qual va marcar l'apogeu i l'inici del declivi de la Unió Soviètica durant la Guerra Freda.",
+        "year": 1906
+      },
+      {
+        "name": "Jake Gyllenhaal",
+        "description": "Actor nord-americà conegut pels seus papers a Donnie Darko, Zodiac, Brokeback Mountain i Nightcrawler.",
+        "year": 1980
+      }
+    ],
+    "events": [
+      {
+        "title": "Impeachment d'Andrew Johnson",
+        "description": "El president Andrew Johnson es va convertir en el primer president dels Estats Units a ser sotmès a un judici polític (impeachment) pel Congrés, essent absolt per un sol vot.",
+        "year": 1868
+      },
+      {
+        "title": "Nixon reelegit per àmplia majoria",
+        "description": "Richard Nixon va guanyar les eleccions presidencials amb un dels majors marges de victòria de la història dels EUA, setmanes abans que esclatés l'escàndol Watergate.",
+        "year": 1972
+      },
+      {
+        "title": "Fundació de la Companyia Holandesa de les Índies Orientals (VOC)",
+        "description": "Els Estats Generals dels Països Baixos van concedir el monopoli del comerç amb Àsia a la Companyia de les Índies Orientals (VOC), considerada la primera empresa multinacional de la història.",
+        "year": 1601
+      }
+    ]
+  }
+}

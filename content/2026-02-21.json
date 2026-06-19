@@ -1,0 +1,119 @@
+{
+  "date": "2026-02-21",
+  "es": {
+    "saints": [
+      { "name": "San Pedro Damián", "type": "Doctor de la Iglesia", "description": "Monje benedictino y cardenal italiano del siglo XI, reformador de la vida monástica y paladín de la reforma gregoriana de la Iglesia." },
+      { "name": "Beato Noel Pinot", "type": "Mártir", "description": "Sacerdote francés guillotinado durante el Terror de la Revolución Francesa (1794) por negarse a renunciar al sacerdocio." }
+    ],
+    "observances": [
+      { "name": "Día Internacional de la Lengua Materna", "description": "Proclamado por la UNESCO en 1999, promueve la diversidad lingüística y el multilingüismo como garantía de preservación de las culturas del mundo." },
+      { "name": "Día de la Consciencia de la Isla de Tierra del Fuego (Argentina)", "description": "Argentina celebra la singularidad cultural y geográfica de la Patagonia austral, habitada por pueblos originarios yaganes y selknam." }
+    ],
+    "historicalQuote": {
+      "text": "Una lengua es una visión del mundo.",
+      "author": "Wilhelm von Humboldt",
+      "context": "Humboldt (1767-1835), filósofo y lingüista prusiano, fue uno de los primeros en comprender que la lengua no solo comunica el pensamiento sino que lo constituye. Su obra dio nacimiento a la lingüística moderna."
+    },
+    "motivationalQuote": {
+      "text": "El lenguaje es la casa del ser.",
+      "author": "Martin Heidegger"
+    },
+    "births": [
+      { "name": "Anaïs Nin", "description": "Escritora franco-cubana-estadounidense, pionera de la literatura erótica y del diario íntimo como género literario.", "year": 1903 },
+      { "name": "Sam Peckinpah", "description": "Director de cine estadounidense, renovador del western con películas como La pandilla salvaje (1969), conocido por su estilo violento y estético.", "year": 1925 },
+      { "name": "Charlotte Church", "description": "Cantante galesa que a los 11 años lanzó su debut operístico; evolucionó al pop y fue considerada fenómeno musical de su generación.", "year": 1986 }
+    ],
+    "events": [
+      { "title": "Publicación del Manifiesto Comunista", "description": "Karl Marx y Friedrich Engels publican el Manifiesto del Partido Comunista en Londres, uno de los textos políticos más influyentes de la historia.", "year": 1848 },
+      { "title": "Batalla de Verdún", "description": "Alemania lanza la Batalla de Verdún contra Francia, la batalla más larga de la Primera Guerra Mundial, con cerca de 700.000 bajas en ambos bandos.", "year": 1916 },
+      { "title": "Asesinato de Malcolm X", "description": "El líder de los derechos civiles afroamericanos Malcolm X es asesinado a tiros durante un discurso en el Audubon Ballroom de Nueva York.", "year": 1965 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Peter Damian", "type": "Doctor of the Church", "description": "11th-century Italian Benedictine monk and cardinal, reformer of monastic life and champion of the Gregorian Reform of the Church." },
+      { "name": "Blessed Noël Pinot", "type": "Martyr", "description": "French priest guillotined during the Terror of the French Revolution (1794) for refusing to renounce his priesthood." }
+    ],
+    "observances": [
+      { "name": "International Mother Language Day", "description": "Proclaimed by UNESCO in 1999, it promotes linguistic diversity and multilingualism as a guarantee for preserving the world's cultures." },
+      { "name": "Tierra del Fuego Awareness Day (Argentina)", "description": "Argentina celebrates the cultural and geographical uniqueness of austral Patagonia, home to the indigenous Yaghan and Selknam peoples." }
+    ],
+    "historicalQuote": {
+      "text": "A language is a vision of the world.",
+      "author": "Wilhelm von Humboldt",
+      "context": "Humboldt (1767–1835), Prussian philosopher and linguist, was among the first to understand that language does not merely communicate thought but constitutes it. His work gave birth to modern linguistics."
+    },
+    "motivationalQuote": {
+      "text": "Language is the house of being.",
+      "author": "Martin Heidegger"
+    },
+    "births": [
+      { "name": "Anaïs Nin", "description": "Franco-Cuban-American writer, pioneer of erotic literature and the intimate diary as a literary genre.", "year": 1903 },
+      { "name": "Sam Peckinpah", "description": "American film director, renewer of the western with films such as The Wild Bunch (1969), known for his violent and aesthetic style.", "year": 1925 },
+      { "name": "Charlotte Church", "description": "Welsh singer who debuted in opera at age 11; she evolved into pop and was considered a musical phenomenon of her generation.", "year": 1986 }
+    ],
+    "events": [
+      { "title": "Publication of The Communist Manifesto", "description": "Karl Marx and Friedrich Engels publish The Communist Manifesto in London, one of the most influential political texts in history.", "year": 1848 },
+      { "title": "Battle of Verdun", "description": "Germany launches the Battle of Verdun against France — the longest battle of World War I, with around 700,000 casualties on both sides.", "year": 1916 },
+      { "title": "Assassination of Malcolm X", "description": "Civil rights leader Malcolm X is shot dead during a speech at the Audubon Ballroom in New York City.", "year": 1965 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Pedro Damião", "type": "Doutor da Igreja", "description": "Monge beneditino e cardeal italiano do século XI, reformador da vida monástica e paladino da Reforma Gregoriana da Igreja." },
+      { "name": "Beato Noël Pinot", "type": "Mártir", "description": "Sacerdote francês guilhotinado durante o Terror da Revolução Francesa (1794) por recusar-se a renunciar ao sacerdócio." }
+    ],
+    "observances": [
+      { "name": "Dia Internacional da Língua Materna", "description": "Proclamado pela UNESCO em 1999, promove a diversidade linguística e o multilinguismo como garantia de preservação das culturas do mundo." },
+      { "name": "Dia da Consciência da Terra do Fogo (Argentina)", "description": "A Argentina celebra a singularidade cultural e geográfica da Patagônia austral, habitada pelos povos originários yaganes e selknam." }
+    ],
+    "historicalQuote": {
+      "text": "Uma língua é uma visão do mundo.",
+      "author": "Wilhelm von Humboldt",
+      "context": "Humboldt (1767-1835), filósofo e linguista prussiano, foi um dos primeiros a compreender que a língua não apenas comunica o pensamento, mas o constitui. Seu trabalho deu origem à linguística moderna."
+    },
+    "motivationalQuote": {
+      "text": "A linguagem é a casa do ser.",
+      "author": "Martin Heidegger"
+    },
+    "births": [
+      { "name": "Anaïs Nin", "description": "Escritora franco-cubana-americana, pioneira da literatura erótica e do diário íntimo como gênero literário.", "year": 1903 },
+      { "name": "Sam Peckinpah", "description": "Diretor de cinema americano, renovador do western com filmes como Meu Ódio Será Tua Herança (1969), conhecido por seu estilo violento e estético.", "year": 1925 },
+      { "name": "Charlotte Church", "description": "Cantora galesa que estreou na ópera aos 11 anos; evoluiu para o pop e foi considerada um fenômeno musical de sua geração.", "year": 1986 }
+    ],
+    "events": [
+      { "title": "Publicação do Manifesto Comunista", "description": "Karl Marx e Friedrich Engels publicam o Manifesto do Partido Comunista em Londres, um dos textos políticos mais influentes da história.", "year": 1848 },
+      { "title": "Batalha de Verdun", "description": "A Alemanha lança a Batalha de Verdun contra a França — a batalha mais longa da Primeira Guerra Mundial, com cerca de 700.000 baixas em ambos os lados.", "year": 1916 },
+      { "title": "Assassinato de Malcolm X", "description": "O líder dos direitos civis Malcolm X é assassinado a tiros durante um discurso no Audubon Ballroom de Nova York.", "year": 1965 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Pere Damià", "type": "Doctor de l'Església", "description": "Monjo benedictí i cardenal italià del segle XI, reformador de la vida monàstica i paladí de la Reforma Gregoriana de l'Església." },
+      { "name": "Beat Noël Pinot", "type": "Màrtir", "description": "Sacerdot francès guillotinat durant el Terror de la Revolució Francesa (1794) per negar-se a renunciar al sacerdoci." }
+    ],
+    "observances": [
+      { "name": "Dia Internacional de la Llengua Materna", "description": "Proclamat per la UNESCO el 1999, promou la diversitat lingüística i el multilingüisme com a garantia de preservació de les cultures del món." },
+      { "name": "Dia de la Consciència de la Terra del Foc (Argentina)", "description": "L'Argentina celebra la singularitat cultural i geogràfica de la Patagònia austral, habitada pels pobles originaris yaganes i selknam." }
+    ],
+    "historicalQuote": {
+      "text": "Una llengua és una visió del món.",
+      "author": "Wilhelm von Humboldt",
+      "context": "Humboldt (1767-1835), filòsof i lingüista prussià, va ser un dels primers a comprendre que la llengua no tan sols comunica el pensament sinó que el constitueix. La seva obra va donar naixement a la lingüística moderna."
+    },
+    "motivationalQuote": {
+      "text": "El llenguatge és la casa de l'ésser.",
+      "author": "Martin Heidegger"
+    },
+    "births": [
+      { "name": "Anaïs Nin", "description": "Escriptora franco-cubana-americana, pionera de la literatura eròtica i del diari íntim com a gènere literari.", "year": 1903 },
+      { "name": "Sam Peckinpah", "description": "Director de cinema americà, renovador del western amb pel·lícules com The Wild Bunch (1969), conegut pel seu estil violent i estètic.", "year": 1925 },
+      { "name": "Charlotte Church", "description": "Cantant gal·lesa que va debutar en l'òpera als 11 anys; va evolucionar cap al pop i va ser considerada un fenomen musical de la seva generació.", "year": 1986 }
+    ],
+    "events": [
+      { "title": "Publicació del Manifest Comunista", "description": "Karl Marx i Friedrich Engels publiquen el Manifest del Partit Comunista a Londres, un dels textos polítics més influents de la història.", "year": 1848 },
+      { "title": "Batalla de Verdun", "description": "Alemanya llança la Batalla de Verdun contra França — la batalla més llarga de la Primera Guerra Mundial, amb al voltant de 700.000 baixes en tots dos bàndols.", "year": 1916 },
+      { "title": "Assassinat de Malcolm X", "description": "El líder dels drets civils Malcolm X és assassinat a trets durant un discurs a l'Audubon Ballroom de Nova York.", "year": 1965 }
+    ]
+  }
+}

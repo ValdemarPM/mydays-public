@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-10",
+  "es": {
+    "saints": [
+      { "name": "San Juan Ogilvie", "type": "Mártir", "description": "Jesuita escocés del siglo XVII que fue ahorcado en Glasgow por defender la supremacía papal frente al rey Jacobo I; canonizado en 1976 por Pablo VI." },
+      { "name": "San Macario de Jerusalén", "type": "Obispo", "description": "Obispo de Jerusalén en el siglo IV, protagonista en la reconstrucción de la Basílica del Santo Sepulcro bajo el emperador Constantino." },
+      { "name": "San Cayo de Milán", "type": "Obispo", "description": "Obispo de Milán del siglo III, predecesor de San Ambrosio, del que se conservan pocas pero valiosas referencias históricas." }
+    ],
+    "observances": [
+      { "name": "Día Internacional del Empoderamiento de las Mujeres con Discapacidad", "description": "Jornada para visibilizar los desafíos específicos de las mujeres y niñas con discapacidad y promover su inclusión plena en todos los ámbitos sociales." },
+      { "name": "Día de los Mártires del Tíbet", "description": "Conmemoración del levantamiento tibetano de 1959 contra la ocupación china, que llevó al Dalai Lama al exilio y marcó décadas de resistencia cultural." }
+    ],
+    "historicalQuote": {
+      "text": "La tierra proporciona lo suficiente para satisfacer las necesidades de cada hombre, pero no la codicia de cada hombre.",
+      "author": "Mahatma Gandhi",
+      "context": "Gandhi formuló esta máxima sobre la sostenibilidad y el consumo responsable décadas antes de que estos conceptos se convirtieran en preocupación global. Sigue siendo una guía vigente para el debate medioambiental actual."
+    },
+    "motivationalQuote": {
+      "text": "Si puedes soñarlo, puedes hacerlo.",
+      "author": "Walt Disney"
+    },
+    "births": [
+      { "name": "Harriet Tubman", "description": "Abolicionista y activista americana, escapó de la esclavitud y condujo a cientos de esclavos a la libertad a través de la Red del Ferrocarril Subterráneo; también fue espía de la Unión durante la Guerra Civil.", "year": 1822 },
+      { "name": "Sharon Stone", "description": "Actriz estadounidense nominada al Oscar por 'Casino' (1995), famosa por su papel en 'Instinto básico' y una de las figuras más icónicas del cine de los años 90.", "year": 1958 },
+      { "name": "Chuck Norris", "description": "Actor y artista marcial estadounidense, icono de las películas de acción de los años 80 y personaje central de numerosos memes de internet.", "year": 1940 }
+    ],
+    "events": [
+      { "title": "Primera llamada telefónica de la historia", "description": "Alexander Graham Bell realizó la primera llamada telefónica exitosa de la historia, dirigida a su asistente Thomas Watson con las palabras: 'Watson, ven aquí, te necesito'.", "year": 1876 },
+      { "title": "Levantamiento tibetano contra la ocupación china", "description": "El pueblo tibetano se levantó en Lhasa contra la presencia del ejército chino. El levantamiento fue sofocado y el Dalai Lama huyó a India, donde estableció un gobierno en el exilio.", "year": 1959 },
+      { "title": "Martin Luther King asesinado (conmemoración)", "description": "El 4 de abril de 1968, Martin Luther King Jr. fue asesinado en Memphis. El 10 de marzo de 1969, James Earl Ray se declaró culpable, poniendo fin al juicio más esperado del movimiento por los derechos civiles.", "year": 1969 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint John Ogilvie", "type": "Martyr", "description": "Seventeenth-century Scottish Jesuit who was hanged in Glasgow for defending papal supremacy against King James I; canonised in 1976 by Paul VI." },
+      { "name": "Saint Macarius of Jerusalem", "type": "Bishop", "description": "Fourth-century Bishop of Jerusalem, a key figure in the reconstruction of the Church of the Holy Sepulchre under Emperor Constantine." },
+      { "name": "Saint Caius of Milan", "type": "Bishop", "description": "Third-century Bishop of Milan, predecessor of Saint Ambrose, of whom few but valuable historical references survive." }
+    ],
+    "observances": [
+      { "name": "International Day of Women and Girls with Disabilities", "description": "A day to highlight the specific challenges faced by women and girls with disabilities and promote their full inclusion in all areas of society." },
+      { "name": "Tibet Uprising Day", "description": "Commemoration of the 1959 Tibetan uprising against Chinese occupation, which led the Dalai Lama into exile and marked decades of cultural resistance." }
+    ],
+    "historicalQuote": {
+      "text": "The earth provides enough to satisfy every man's needs, but not every man's greed.",
+      "author": "Mahatma Gandhi",
+      "context": "Gandhi formulated this maxim on sustainability and responsible consumption decades before these concepts became a global concern. It remains a relevant guide for today's environmental debate."
+    },
+    "motivationalQuote": {
+      "text": "If you can dream it, you can do it.",
+      "author": "Walt Disney"
+    },
+    "births": [
+      { "name": "Harriet Tubman", "description": "American abolitionist and activist who escaped slavery and led hundreds of enslaved people to freedom through the Underground Railroad; she also served as a Union spy during the Civil War.", "year": 1822 },
+      { "name": "Sharon Stone", "description": "American actress nominated for an Oscar for 'Casino' (1995), famous for her role in 'Basic Instinct' and one of the most iconic figures in 1990s cinema.", "year": 1958 },
+      { "name": "Chuck Norris", "description": "American actor and martial artist, icon of 1980s action films and the central figure of countless internet memes.", "year": 1940 }
+    ],
+    "events": [
+      { "title": "First telephone call in history", "description": "Alexander Graham Bell made the first successful telephone call in history, to his assistant Thomas Watson, with the words: 'Watson, come here, I want to see you'.", "year": 1876 },
+      { "title": "Tibetan uprising against Chinese occupation", "description": "The Tibetan people rose up in Lhasa against the presence of the Chinese army. The uprising was suppressed and the Dalai Lama fled to India, where he established a government in exile.", "year": 1959 },
+      { "title": "James Earl Ray pleads guilty to King's murder", "description": "On this day in 1969, James Earl Ray pleaded guilty to the murder of Martin Luther King Jr., ending the most anticipated trial of the civil rights movement.", "year": 1969 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São João Ogilvie", "type": "Mártir", "description": "Jesuíta escocês do século XVII que foi enforcado em Glasgow por defender a supremacia papal frente ao rei Tiago I; canonizado em 1976 por Paulo VI." },
+      { "name": "São Macário de Jerusalém", "type": "Bispo", "description": "Bispo de Jerusalém no século IV, figura central na reconstrução da Basílica do Santo Sepulcro sob o imperador Constantino." },
+      { "name": "São Caio de Milão", "type": "Bispo", "description": "Bispo de Milão do século III, predecessor de Santo Ambrósio, do qual sobrevivem poucas, mas valiosas referências históricas." }
+    ],
+    "observances": [
+      { "name": "Dia Internacional das Mulheres e Meninas com Deficiência", "description": "Jornada para visibilizar os desafios específicos das mulheres e meninas com deficiência e promover a sua inclusão plena em todos os âmbitos sociais." },
+      { "name": "Dia do Levante Tibetano", "description": "Comemoração do levante tibetano de 1959 contra a ocupação chinesa, que levou o Dalai Lama ao exílio e marcou décadas de resistência cultural." }
+    ],
+    "historicalQuote": {
+      "text": "A terra fornece o suficiente para satisfazer as necessidades de cada homem, mas não a ganância de cada homem.",
+      "author": "Mahatma Gandhi",
+      "context": "Gandhi formulou esta máxima sobre a sustentabilidade e o consumo responsável décadas antes de esses conceitos se tornarem uma preocupação global. Continua sendo um guia válido para o debate ambiental atual."
+    },
+    "motivationalQuote": {
+      "text": "Se você pode sonhar, você pode fazer.",
+      "author": "Walt Disney"
+    },
+    "births": [
+      { "name": "Harriet Tubman", "description": "Abolicionista e ativista americana, escapou da escravidão e conduziu centenas de escravos à liberdade pela Ferrovia Subterrânea; também foi espiã da União durante a Guerra Civil.", "year": 1822 },
+      { "name": "Sharon Stone", "description": "Atriz americana indicada ao Oscar por 'Cassino' (1995), famosa pelo papel em 'Instinto Selvagem' e uma das figuras mais icônicas do cinema dos anos 90.", "year": 1958 },
+      { "name": "Chuck Norris", "description": "Ator e artista marcial americano, ícone dos filmes de ação dos anos 80 e personagem central de inúmeros memes de internet.", "year": 1940 }
+    ],
+    "events": [
+      { "title": "Primeira chamada telefônica da história", "description": "Alexander Graham Bell realizou a primeira chamada telefônica bem-sucedida da história, dirigida ao seu assistente Thomas Watson com as palavras: 'Watson, venha aqui, preciso de você'.", "year": 1876 },
+      { "title": "Levante tibetano contra a ocupação chinesa", "description": "O povo tibetano se levantou em Lhasa contra a presença do exército chinês. O levante foi suprimido e o Dalai Lama fugiu para a Índia, onde estabeleceu um governo no exílio.", "year": 1959 },
+      { "title": "James Earl Ray se declara culpado pelo assassinato de King", "description": "Nesta data em 1969, James Earl Ray se declarou culpado pelo assassinato de Martin Luther King Jr., encerrando o julgamento mais esperado do movimento pelos direitos civis.", "year": 1969 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Joan Ogilvie", "type": "Màrtir", "description": "Jesuïta escocès del segle XVII que va ser penjat a Glasgow per defensar la supremacia papal davant el rei Jaume I; canonitzat el 1976 per Pau VI." },
+      { "name": "Sant Macari de Jerusalem", "type": "Bisbe", "description": "Bisbe de Jerusalem al segle IV, figura central en la reconstrucció de la Basílica del Sant Sepulcre sota l'emperador Constantí." },
+      { "name": "Sant Gai de Milà", "type": "Bisbe", "description": "Bisbe de Milà del segle III, predecessor de Sant Ambròs, del qual sobreviuen poques però valuoses referències històriques." }
+    ],
+    "observances": [
+      { "name": "Dia Internacional de les Dones i Nenes amb Discapacitat", "description": "Jornada per visibilitzar els reptes específics de les dones i nenes amb discapacitat i promoure la seva inclusió plena en tots els àmbits socials." },
+      { "name": "Dia de l'Aixecament Tibetà", "description": "Commemoració de l'aixecament tibetà de 1959 contra l'ocupació xinesa, que va portar el Dalai Lama a l'exili i va marcar dècades de resistència cultural." }
+    ],
+    "historicalQuote": {
+      "text": "La terra proporciona prou per satisfer les necessitats de cada home, però no la cobdícia de cada home.",
+      "author": "Mahatma Gandhi",
+      "context": "Gandhi va formular aquesta màxima sobre la sostenibilitat i el consum responsable dècades abans que aquests conceptes es convertissin en una preocupació global. Continua sent una guia vigent per al debat mediambiental actual."
+    },
+    "motivationalQuote": {
+      "text": "Si pots somiar-ho, pots fer-ho.",
+      "author": "Walt Disney"
+    },
+    "births": [
+      { "name": "Harriet Tubman", "description": "Abolicionista i activista americana, va escapar de l'esclavitud i va conduir centenars d'esclaus a la llibertat a través de la Xarxa del Ferrocarril Subterrani; també va ser espia de la Unió durant la Guerra Civil.", "year": 1822 },
+      { "name": "Sharon Stone", "description": "Actriu americana nominada a l'Oscar per 'Casino' (1995), famosa pel seu paper a 'Instint bàsic' i una de les figures més icòniques del cinema dels anys 90.", "year": 1958 },
+      { "name": "Chuck Norris", "description": "Actor i artista marcial americà, icona de les pel·lícules d'acció dels anys 80 i personatge central d'innombrables memes d'internet.", "year": 1940 }
+    ],
+    "events": [
+      { "title": "Primera trucada telefònica de la història", "description": "Alexander Graham Bell va fer la primera trucada telefònica exitosa de la història, dirigida al seu assistent Thomas Watson amb les paraules: 'Watson, vine aquí, et necessito'.", "year": 1876 },
+      { "title": "Aixecament tibetà contra l'ocupació xinesa", "description": "El poble tibetà es va aixecar a Lhasa contra la presència de l'exèrcit xinès. L'aixecament va ser sufocat i el Dalai Lama va fugir a l'Índia, on va establir un govern a l'exili.", "year": 1959 },
+      { "title": "James Earl Ray es declara culpable de l'assassinat de King", "description": "En aquesta data el 1969, James Earl Ray es va declarar culpable de l'assassinat de Martin Luther King Jr., posant fi al judici més esperat del moviment pels drets civils.", "year": 1969 }
+    ]
+  }
+}

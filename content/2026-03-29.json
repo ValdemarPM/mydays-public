@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-29",
+  "es": {
+    "saints": [
+      { "name": "San Armogasto de Cartago", "type": "Mártir", "description": "Servidor del rey vándalo Geiserico en el siglo V, martirizado en Cartago por defender su fe católica frente al arrianismo impuesto por los conquistadores." },
+      { "name": "San Bertoldo de Calabria", "type": "Prior", "description": "Monje carmelita del siglo XII-XIII, considerado el segundo fundador de la Orden del Carmen en el monte Carmelo, tras el primer fundador San Brokardo." },
+      { "name": "San Eustasio de Luxeuil", "type": "Abad", "description": "Abad del monasterio de Luxeuil (actual Francia) a principios del siglo VII, discípulo y sucesor de San Columbano, expansor del monacato irlandés en la Galia." }
+    ],
+    "observances": [
+      { "name": "Día Internacional del Piano", "description": "Jornada informal que celebra el piano como instrumento musical universal y el impacto de sus grandes compositores e intérpretes en la cultura musical." },
+      { "name": "Día Nacional de los Veteranos de Vietnam (EE. UU.)", "description": "En Estados Unidos, el 29 de marzo conmemora el final de la participación directa americana en la guerra de Vietnam con la retirada de las últimas tropas en 1973." }
+    ],
+    "historicalQuote": {
+      "text": "Nunca dudes que un pequeño grupo de ciudadanos reflexivos y comprometidos puede cambiar el mundo. De hecho, es lo único que lo ha cambiado.",
+      "author": "Margaret Mead",
+      "context": "Margaret Mead fue una pionera de la antropología cultural americana, conocida por su trabajo sobre comunidades de Samoa y Papua Nueva Guinea. Esta cita resume su fe en el poder del cambio colectivo desde la base."
+    },
+    "motivationalQuote": {
+      "text": "No hay camino hacia la felicidad: la felicidad es el camino.",
+      "author": "Buda"
+    },
+    "births": [
+      { "name": "John Tyler", "description": "Décimo presidente de los Estados Unidos (1841-1845), el primero en llegar al cargo sin ser elegido directamente (asumió tras la muerte de William Henry Harrison).", "year": 1790 },
+      { "name": "Cy Young", "description": "Lanzador de béisbol americano del siglo XIX-XX, el pitcher con más victorias en la historia de las Grandes Ligas (511); en su honor se entrega el premio Cy Young al mejor lanzador de la MLB cada año.", "year": 1867 },
+      { "name": "Lucy Lawless", "description": "Actriz neozelandesa, famosa mundialmente por su papel de Xena en la serie de televisión 'Xena: la princesa guerrera' (1995-2001), icono de la cultura popular de los 90.", "year": 1968 }
+    ],
+    "events": [
+      { "title": "Último soldado americano abandona Vietnam", "description": "Los últimos soldados americanos abandonaron Vietnam del Sur, poniendo fin oficialmente a la participación directa de los Estados Unidos en la guerra de Vietnam tras el Acuerdo de Paz de París de 1973.", "year": 1973 },
+      { "title": "Van Gogh se corta la oreja", "description": "El pintor holandés Vincent van Gogh se cortó parte de la oreja derecha en Arlés, un episodio que marcó la historia del arte y que es símbolo de su tumultuosa vida emocional.", "year": 1888 },
+      { "title": "Los marines americanos aterrizan en Okinawa", "description": "Los marines de los Estados Unidos desembarcaron en la isla de Okinawa (Japón) en la Operación Iceberg, una de las batallas más sangrientas del Pacífico en la Segunda Guerra Mundial.", "year": 1945 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Armogastus of Carthage", "type": "Martyr", "description": "Servant of Vandal king Gaiseric in the fifth century, martyred in Carthage for defending his Catholic faith against the Arianism imposed by the conquerors." },
+      { "name": "Saint Bertold of Calabria", "type": "Prior", "description": "Twelfth–thirteenth-century Carmelite monk, considered the second founder of the Order of Carmel on Mount Carmel, after the first founder Saint Brocard." },
+      { "name": "Saint Eustace of Luxeuil", "type": "Abbot", "description": "Abbot of the Luxeuil monastery (modern France) in the early seventh century, disciple and successor of Saint Columban, spreader of Irish monasticism in Gaul." }
+    ],
+    "observances": [
+      { "name": "International Piano Day", "description": "An informal day celebrating the piano as a universal musical instrument and the impact of its great composers and performers on musical culture." },
+      { "name": "National Vietnam War Veterans Day (USA)", "description": "In the United States, 29 March commemorates the end of direct American involvement in the Vietnam War with the withdrawal of the last troops in 1973." }
+    ],
+    "historicalQuote": {
+      "text": "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.",
+      "author": "Margaret Mead",
+      "context": "Margaret Mead was a pioneer of American cultural anthropology, known for her fieldwork in Samoa and Papua New Guinea. This quote encapsulates her faith in the power of collective change from the grassroots."
+    },
+    "motivationalQuote": {
+      "text": "There is no way to happiness; happiness is the way.",
+      "author": "Buddha"
+    },
+    "births": [
+      { "name": "John Tyler", "description": "Tenth President of the United States (1841–1845), the first to reach office without being directly elected (he succeeded after the death of William Henry Harrison).", "year": 1790 },
+      { "name": "Cy Young", "description": "Nineteenth–twentieth-century American baseball pitcher, the winningest pitcher in Major League Baseball history (511 wins); the annual Cy Young Award for the best MLB pitcher is named in his honour.", "year": 1867 },
+      { "name": "Lucy Lawless", "description": "New Zealand actress, globally famous for her role as Xena in the television series 'Xena: Warrior Princess' (1995–2001), a 1990s pop culture icon.", "year": 1968 }
+    ],
+    "events": [
+      { "title": "Last American soldier leaves Vietnam", "description": "The last American soldiers left South Vietnam, officially ending direct US involvement in the Vietnam War following the 1973 Paris Peace Accords.", "year": 1973 },
+      { "title": "Van Gogh cuts off his ear", "description": "Dutch painter Vincent van Gogh cut off part of his right ear in Arles, an episode that marked art history and became a symbol of his tumultuous emotional life.", "year": 1888 },
+      { "title": "US Marines land on Okinawa", "description": "United States Marines landed on the island of Okinawa (Japan) in Operation Iceberg, one of the bloodiest battles of the Pacific in World War II.", "year": 1945 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Armogasto de Cartago", "type": "Mártir", "description": "Servidor do rei vândalo Genserico no século V, martirizado em Cartago por defender a sua fé católica frente ao arianismo imposto pelos conquistadores." },
+      { "name": "São Bertoldo da Calábria", "type": "Prior", "description": "Monge carmelita dos séculos XII-XIII, considerado o segundo fundador da Ordem do Carmelo no monte Carmelo, após o primeiro fundador São Brocardo." },
+      { "name": "São Eustásio de Luxeuil", "type": "Abade", "description": "Abade do mosteiro de Luxeuil (atual França) no início do século VII, discípulo e sucessor de São Columbano, expansor do monacato irlandês na Gália." }
+    ],
+    "observances": [
+      { "name": "Dia Internacional do Piano", "description": "Jornada informal que celebra o piano como instrumento musical universal e o impacto dos seus grandes compositores e intérpretes na cultura musical." },
+      { "name": "Dia Nacional dos Veteranos do Vietnã (EUA)", "description": "Nos Estados Unidos, o 29 de março comemora o fim da participação direta americana na guerra do Vietnã com a retirada das últimas tropas em 1973." }
+    ],
+    "historicalQuote": {
+      "text": "Nunca duvide que um pequeno grupo de cidadãos reflexivos e comprometidos pode mudar o mundo. De fato, é a única coisa que sempre o fez.",
+      "author": "Margaret Mead",
+      "context": "Margaret Mead foi uma pioneira da antropologia cultural americana, conhecida pelo seu trabalho sobre comunidades de Samoa e Papua Nova Guiné. Esta citação resume a sua fé no poder da mudança coletiva desde a base."
+    },
+    "motivationalQuote": {
+      "text": "Não há caminho para a felicidade: a felicidade é o caminho.",
+      "author": "Buda"
+    },
+    "births": [
+      { "name": "John Tyler", "description": "Décimo presidente dos Estados Unidos (1841-1845), o primeiro a chegar ao cargo sem ser eleito diretamente (assumiu após a morte de William Henry Harrison).", "year": 1790 },
+      { "name": "Cy Young", "description": "Lançador de beisebol americano dos séculos XIX-XX, o pitcher com mais vitórias na história das Grandes Ligas (511); em sua homenagem é entregue o prêmio Cy Young ao melhor lançador da MLB a cada ano.", "year": 1867 },
+      { "name": "Lucy Lawless", "description": "Atriz neozelandesa, famosa mundialmente pelo papel de Xena na série de televisão 'Xena: A Princesa Guerreira' (1995-2001), ícone da cultura popular dos anos 90.", "year": 1968 }
+    ],
+    "events": [
+      { "title": "Último soldado americano abandona o Vietnã", "description": "Os últimos soldados americanos abandonaram o Vietnã do Sul, encerrando oficialmente a participação direta dos Estados Unidos na guerra do Vietnã após o Acordo de Paz de Paris de 1973.", "year": 1973 },
+      { "title": "Van Gogh corta a própria orelha", "description": "O pintor holandês Vincent van Gogh cortou parte da orelha direita em Arles, um episódio que marcou a história da arte e é símbolo da sua tumultuosa vida emocional.", "year": 1888 },
+      { "title": "Os fuzileiros americanos desembarcam em Okinawa", "description": "Os fuzileiros dos Estados Unidos desembarcaram na ilha de Okinawa (Japão) na Operação Iceberg, uma das batalhas mais sangrentas do Pacífico na Segunda Guerra Mundial.", "year": 1945 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Armogast de Cartago", "type": "Màrtir", "description": "Servidor del rei vàndal Genseric al segle V, martiritzat a Cartago per defensar la seva fe catòlica davant l'arrianisme imposat pels conquistadors." },
+      { "name": "Sant Bertold de Calàbria", "type": "Prior", "description": "Monjo carmelità dels segles XII-XIII, considerat el segon fundador de l'Orde del Carmel al mont Carmel, després del primer fundador Sant Brocard." },
+      { "name": "Sant Eustasi de Luxeuil", "type": "Abat", "description": "Abat del monestir de Luxeuil (actual França) a principis del segle VII, deixeble i successor de Sant Columbà, expansor del monaquisme irlandès a la Gàl·lia." }
+    ],
+    "observances": [
+      { "name": "Dia Internacional del Piano", "description": "Jornada informal que celebra el piano com a instrument musical universal i l'impacte dels seus grans compositors i intèrprets en la cultura musical." },
+      { "name": "Dia Nacional dels Veterans del Vietnam (EUA)", "description": "Als Estats Units, el 29 de març commemora el final de la participació directa americana a la guerra del Vietnam amb la retirada de les últimes tropes el 1973." }
+    ],
+    "historicalQuote": {
+      "text": "Mai dubtes que un petit grup de ciutadans reflexius i compromesos pot canviar el món. De fet, és l'única cosa que mai ho ha fet.",
+      "author": "Margaret Mead",
+      "context": "Margaret Mead va ser una pionera de l'antropologia cultural americana, coneguda pel seu treball sobre comunitats de Samoa i Papua Nova Guinea. Aquesta cita resumeix la seva fe en el poder del canvi col·lectiu des de la base."
+    },
+    "motivationalQuote": {
+      "text": "No hi ha camí cap a la felicitat: la felicitat és el camí.",
+      "author": "Buda"
+    },
+    "births": [
+      { "name": "John Tyler", "description": "Desè president dels Estats Units (1841-1845), el primer a arribar al càrrec sense ser elegit directament (va assumir després de la mort de William Henry Harrison).", "year": 1790 },
+      { "name": "Cy Young", "description": "Llançador de beisbol americà dels segles XIX-XX, el pitcher amb més victòries a la història de les Grans Lligues (511); en el seu honor s'entrega el premi Cy Young al millor llançador de l'MLB cada any.", "year": 1867 },
+      { "name": "Lucy Lawless", "description": "Actriu neozelandesa, famosa mundialment pel paper de Xena a la sèrie de televisió 'Xena: la princesa guerrera' (1995-2001), icona de la cultura popular dels 90.", "year": 1968 }
+    ],
+    "events": [
+      { "title": "L'últim soldat americà abandona el Vietnam", "description": "Els últims soldats americans van abandonar el Vietnam del Sud, posant fi oficialment a la participació directa dels Estats Units a la guerra del Vietnam, tot seguint l'Acord de Pau de París de 1973.", "year": 1973 },
+      { "title": "Van Gogh es talla l'orella", "description": "El pintor holandès Vincent van Gogh es va tallar part de l'orella dreta a Arles, un episodi que va marcar la història de l'art i que és símbol de la seva tumultuosa vida emocional.", "year": 1888 },
+      { "title": "Els marines americans desembarquen a Okinawa", "description": "Els marines dels Estats Units van desembarcar a l'illa d'Okinawa (Japó) en l'Operació Iceberg, una de les batalles més sagnants del Pacífic a la Segona Guerra Mundial.", "year": 1945 }
+    ]
+  }
+}

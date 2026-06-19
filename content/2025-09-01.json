@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-01",
+  "es": {
+    "saints": [
+      {
+        "name": "San Gil Abad",
+        "type": "Abad",
+        "description": "Ermitaño de origen griego que se retiró a las Galias en el siglo VII y fundó un monasterio en la Provenza. Su tumba en Saint-Gilles (Francia) fue importante centro de peregrinación medieval."
+      },
+      {
+        "name": "San Josué",
+        "type": "Profeta",
+        "description": "Sucesor de Moisés que condujo al pueblo de Israel a la Tierra Prometida cruzando el río Jordán, según el Antiguo Testamento. Venerado como profeta en la tradición cristiana oriental."
+      },
+      {
+        "name": "Santa Drusila",
+        "type": "Virgen y Mártir",
+        "description": "Mártir cristiana de los primeros siglos que sufrió el martirio por mantenerse fiel a su fe y a su voto de virginidad. Venerada en el martirológio romano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Concienciación sobre los Incendios Forestales",
+        "description": "Jornada establecida para concienciar sobre el impacto devastador de los incendios forestales en la biodiversidad, el clima y las comunidades humanas, y promover medidas de prevención."
+      },
+      {
+        "name": "Día del Trabajador (Labrador) — Australia y Nueva Zelanda",
+        "description": "Celebración del Día del Trabajo en Australia y Nueva Zelanda, en reconocimiento a las luchas obreras del siglo XIX que consiguieron la jornada de ocho horas."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El trabajo es el refugio de los que no tienen nada que hacer.",
+      "author": "Oscar Wilde",
+      "context": "El escritor irlandés, cuya obra satirizó la sociedad victoriana, nació el 16 de octubre de 1854. Esta cita refleja su característica ironía sobre las convenciones sociales del trabajo."
+    },
+    "motivationalQuote": {
+      "text": "El secreto de avanzar es comenzar.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Edgar Rice Burroughs",
+        "description": "Novelista estadounidense creador de Tarzán de los Monos (1912) y de John Carter de Marte, dos de los personajes de ficción más famosos del siglo XX.",
+        "year": 1875
+      },
+      {
+        "name": "Rocky Marciano",
+        "description": "Boxeador estadounidense, único campeón mundial de los pesos pesados que se retiró invicto con un récord de 49 victorias y 0 derrotas.",
+        "year": 1923
+      },
+      {
+        "name": "Lily Tomlin",
+        "description": "Actriz y comediante estadounidense, ganadora de premios Emmy, Tony y Grammy, conocida por su versatilidad y por sus personajes satíricos de la sociedad americana.",
+        "year": 1939
+      }
+    ],
+    "events": [
+      {
+        "title": "Alemania invade Polonia — inicio de la Segunda Guerra Mundial",
+        "description": "El 1 de septiembre de 1939, la Alemania nazi invadió Polonia sin declaración de guerra previa, desencadenando la Segunda Guerra Mundial, el conflicto bélico más devastador de la historia humana.",
+        "year": 1939
+      },
+      {
+        "title": "Terremoto de San Francisco",
+        "description": "Un terremoto de magnitud 7,9 sacudió San Francisco, California, causando incendios devastadores que destruyeron gran parte de la ciudad y dejaron miles de víctimas.",
+        "year": 1906
+      },
+      {
+        "title": "Japón firma la rendición definitiva — fin de la Segunda Guerra Mundial",
+        "description": "El 2 de septiembre de 1945 (2 de septiembre por hora local, 1 de septiembre en algunas zonas horarias del Pacífico), Japón firmó el acta de rendición a bordo del USS Missouri en la bahía de Tokio.",
+        "year": 1945
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Giles the Abbot",
+        "type": "Abbot",
+        "description": "A hermit of Greek origin who retired to Gaul in the 7th century and founded a monastery in Provence. His tomb at Saint-Gilles (France) became an important medieval pilgrimage centre."
+      },
+      {
+        "name": "Saint Joshua",
+        "type": "Prophet",
+        "description": "Successor of Moses who led the people of Israel into the Promised Land by crossing the River Jordan, according to the Old Testament. Venerated as a prophet in the Eastern Christian tradition."
+      },
+      {
+        "name": "Saint Drusilla",
+        "type": "Virgin and Martyr",
+        "description": "An early Christian martyr who suffered for remaining faithful to her faith and her vow of virginity. She is venerated in the Roman Martyrology."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of Awareness on Wildfires",
+        "description": "A day established to raise awareness about the devastating impact of wildfires on biodiversity, climate, and human communities, and to promote prevention measures."
+      },
+      {
+        "name": "Labour Day — Australia and New Zealand",
+        "description": "Celebration of Labour Day in Australia and New Zealand, honouring the 19th-century workers' struggles that secured the eight-hour workday."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Work is the refuge of people who have nothing better to do.",
+      "author": "Oscar Wilde",
+      "context": "The Irish writer, whose work satirised Victorian society, was born on 16 October 1854. This quote reflects his characteristic irony about social conventions surrounding work."
+    },
+    "motivationalQuote": {
+      "text": "The secret of getting ahead is getting started.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Edgar Rice Burroughs",
+        "description": "American novelist who created Tarzan of the Apes (1912) and John Carter of Mars, two of the most famous fictional characters of the 20th century.",
+        "year": 1875
+      },
+      {
+        "name": "Rocky Marciano",
+        "description": "American boxer, the only undisputed world heavyweight champion to retire undefeated, with a record of 49 wins and 0 losses.",
+        "year": 1923
+      },
+      {
+        "name": "Lily Tomlin",
+        "description": "American actress and comedian, winner of Emmy, Tony, and Grammy Awards, celebrated for her versatility and satirical portrayals of American society.",
+        "year": 1939
+      }
+    ],
+    "events": [
+      {
+        "title": "Germany invades Poland — start of World War II",
+        "description": "On 1 September 1939, Nazi Germany invaded Poland without a prior declaration of war, triggering World War II, the most devastating armed conflict in human history.",
+        "year": 1939
+      },
+      {
+        "title": "San Francisco earthquake",
+        "description": "A magnitude-7.9 earthquake struck San Francisco, California, causing devastating fires that destroyed much of the city and left thousands of victims.",
+        "year": 1906
+      },
+      {
+        "title": "Japan signs the formal surrender — end of World War II",
+        "description": "Japan signed the instrument of surrender aboard the USS Missouri in Tokyo Bay, officially ending World War II.",
+        "year": 1945
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Gil Abade",
+        "type": "Abade",
+        "description": "Eremita de origem grega que se retirou para a Gália no século VII e fundou um mosteiro na Provença. O seu túmulo em Saint-Gilles (França) tornou-se um importante centro de peregrinação medieval."
+      },
+      {
+        "name": "São Josué",
+        "type": "Profeta",
+        "description": "Sucessor de Moisés que conduziu o povo de Israel à Terra Prometida atravessando o rio Jordão, segundo o Antigo Testamento. Venerado como profeta na tradição cristã oriental."
+      },
+      {
+        "name": "Santa Drúsila",
+        "type": "Virgem e Mártir",
+        "description": "Mártir cristã dos primeiros séculos que sofreu por permanecer fiel à sua fé e ao seu voto de virgindade. Venerada no Martirológio Romano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de Consciencialização sobre Incêndios Florestais",
+        "description": "Jornada criada para sensibilizar sobre o impacto devastador dos incêndios florestais na biodiversidade, no clima e nas comunidades humanas, e promover medidas de prevenção."
+      },
+      {
+        "name": "Dia do Trabalho — Austrália e Nova Zelândia",
+        "description": "Celebração do Dia do Trabalho na Austrália e Nova Zelândia, em homenagem às lutas operárias do século XIX que conquistaram a jornada de oito horas."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O trabalho é o refúgio das pessoas que não têm nada melhor para fazer.",
+      "author": "Oscar Wilde",
+      "context": "O escritor irlandês, cuja obra satirizou a sociedade vitoriana, nasceu a 16 de outubro de 1854. Esta citação reflete a sua característica ironia sobre as convenções sociais em torno do trabalho."
+    },
+    "motivationalQuote": {
+      "text": "O segredo de avançar é começar.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Edgar Rice Burroughs",
+        "description": "Romancista americano criador de Tarzan dos Macacos (1912) e John Carter de Marte, dois dos personagens fictícios mais famosos do século XX.",
+        "year": 1875
+      },
+      {
+        "name": "Rocky Marciano",
+        "description": "Boxeador americano, único campeão mundial dos pesos pesados a aposentar-se invicto, com um recorde de 49 vitórias e 0 derrotas.",
+        "year": 1923
+      },
+      {
+        "name": "Lily Tomlin",
+        "description": "Atriz e comediante americana, vencedora de prêmios Emmy, Tony e Grammy, celebrada pela sua versatilidade e pelos seus retratos satíricos da sociedade americana.",
+        "year": 1939
+      }
+    ],
+    "events": [
+      {
+        "title": "Alemanha invade a Polônia — início da Segunda Guerra Mundial",
+        "description": "Em 1º de setembro de 1939, a Alemanha nazi invadiu a Polônia sem declaração de guerra prévia, desencadeando a Segunda Guerra Mundial, o conflito armado mais devastador da história humana.",
+        "year": 1939
+      },
+      {
+        "title": "Terremoto de São Francisco",
+        "description": "Um terremoto de magnitude 7,9 atingiu São Francisco, Califórnia, causando incêndios devastadores que destruíram grande parte da cidade e deixaram milhares de vítimas.",
+        "year": 1906
+      },
+      {
+        "title": "Japão assina a rendição formal — fim da Segunda Guerra Mundial",
+        "description": "O Japão assinou o instrumento de rendição a bordo do USS Missouri na baía de Tóquio, encerrando oficialmente a Segunda Guerra Mundial.",
+        "year": 1945
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Gil Abat",
+        "type": "Abat",
+        "description": "Ermità d'origen grec que es va retirar a les Gàl·lies al segle VII i va fundar un monestir a la Provença. El seu sepulcre a Saint-Gilles (França) va ser un important centre de pelegrinatge medieval."
+      },
+      {
+        "name": "Sant Josuè",
+        "type": "Profeta",
+        "description": "Successor de Moisès que va conduir el poble d'Israel a la Terra Promesa travessant el riu Jordà, segons l'Antic Testament. Venerat com a profeta en la tradició cristiana oriental."
+      },
+      {
+        "name": "Santa Drúsil·la",
+        "type": "Verge i Màrtir",
+        "description": "Màrtir cristiana dels primers segles que va patir per mantenir-se fidel a la seva fe i al seu vot de virginitat. Venerada en el Martirologi Romà."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de Conscienciació sobre els Incendis Forestals",
+        "description": "Jornada creada per conscienciar sobre l'impacte devastador dels incendis forestals en la biodiversitat, el clima i les comunitats humanes, i promoure mesures de prevenció."
+      },
+      {
+        "name": "Dia del Treball — Austràlia i Nova Zelanda",
+        "description": "Celebració del Dia del Treball a Austràlia i Nova Zelanda, en homenatge a les lluites obreres del segle XIX que van aconseguir la jornada de vuit hores."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El treball és el refugi de les persones que no tenen res millor per fer.",
+      "author": "Oscar Wilde",
+      "context": "L'escriptor irlandès, l'obra del qual va satiritzar la societat victoriana, va néixer el 16 d'octubre de 1854. Aquesta cita reflecteix la seva característica ironia sobre les convencions socials al voltant del treball."
+    },
+    "motivationalQuote": {
+      "text": "El secret d'avançar és començar.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Edgar Rice Burroughs",
+        "description": "Novel·lista americà creador de Tarzán dels Micos (1912) i John Carter de Mart, dos dels personatges de ficció més famosos del segle XX.",
+        "year": 1875
+      },
+      {
+        "name": "Rocky Marciano",
+        "description": "Boxejador americà, l'únic campió mundial dels pesos pesants que es va retirar invicte, amb un rècord de 49 victòries i 0 derrotes.",
+        "year": 1923
+      },
+      {
+        "name": "Lily Tomlin",
+        "description": "Actriu i còmica americana, guanyadora de premis Emmy, Tony i Grammy, coneguda per la seva versatilitat i pels seus retrats satírics de la societat americana.",
+        "year": 1939
+      }
+    ],
+    "events": [
+      {
+        "title": "Alemanya envaeix Polònia — inici de la Segona Guerra Mundial",
+        "description": "L'1 de setembre de 1939, l'Alemanya nazi va envair Polònia sense declaració de guerra prèvia, desencadenant la Segona Guerra Mundial, el conflicte armat més devastador de la història humana.",
+        "year": 1939
+      },
+      {
+        "title": "Terratrèmol de San Francisco",
+        "description": "Un terratrèmol de magnitud 7,9 va sacsejar San Francisco, Califòrnia, provocant incendis devastadors que van destruir gran part de la ciutat i van deixar milers de víctimes.",
+        "year": 1906
+      },
+      {
+        "title": "El Japó signa la rendició formal — fi de la Segona Guerra Mundial",
+        "description": "El Japó va signar l'acta de rendició a bord del USS Missouri a la badia de Tòquio, posant fi oficialment a la Segona Guerra Mundial.",
+        "year": 1945
+      }
+    ]
+  }
+}

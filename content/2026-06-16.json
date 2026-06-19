@@ -33,6 +33,10 @@
       "author": "James Joyce",
       "context": "Esta frase de James Joyce cobra un significado especial en el Bloomsday, que se celebra el 16 de junio en conmemoración de la fecha en que se desarrolla su novela 'Ulises'. Este día también marca la primera vez que Joyce salió a pasear con Nora Barnacle, quien sería su compañera de vida. Sus propias experiencias de lucha y rechazo editorial reflejan la idea de que los tropiezos pueden conducir a descubrimientos."
     },
+    "motivationalQuote": {
+      "text": "He aprendido que las personas olvidarán lo que dices y lo que haces, pero nunca olvidarán cómo las hiciste sentir.",
+      "author": "Maya Angelou"
+    },
     "births": [
       {
         "name": "Tupac Shakur",
@@ -71,63 +75,216 @@
   "en": {
     "saints": [
       {
-        "name": "St. Benno of Meissen",
+        "name": "Saints Quiricus and Julitta",
+        "type": "Martyrs",
+        "description": "Mother and son who were martyred in Tarsus during the Diocletian persecution. They refused to renounce their faith, with Quiricus, only three years old, proclaiming himself a Christian and being killed before his mother."
+      },
+      {
+        "name": "Saint Benno of Meissen",
         "type": "Bishop",
-        "description": "Born into Saxon nobility, St. Benno served as Bishop of Meissen and was known for his efforts to evangelize Slavic peoples and his involvement in the Investiture Controversy, supporting Pope Gregory VII against Emperor Henry IV. He is the patron saint of Munich."
+        "description": "Bishop of Meissen in the 12th century, known for his steadfast defense of Church unity and his loyalty to the Roman Pontiff, which earned him exile on several occasions."
       },
       {
-        "name": "St. Lutgardis of Aywières",
-        "type": "Benedictine Nun, Mystic",
-        "description": "A 13th-century mystic from Belgium, St. Lutgardis is noted for her profound spiritual experiences, including an exchange of hearts with Christ, and her early devotion to the Sacred Heart of Jesus. She spent four decades devoted to Christ and was blind for the last eleven years of her life."
-      },
-      {
-        "name": "St. Aurelian of Arles",
-        "type": "Archbishop",
-        "description": "Archbishop of Arles from 546 to 551, St. Aurelian founded two monasteries in Arles, one for monks and one for nuns, and authored monastic rules for both communities. He was appointed papal vicar for Gaul by Pope Vigilius."
+        "name": "Saint Lutgardis",
+        "type": "Cistercian Virgin",
+        "description": "A 13th-century Cistercian nun, renowned for her devotion and mystical experiences, including a legendary exchange of hearts with Christ. She lost her sight eleven years before her death, which she had predicted."
       }
     ],
     "observances": [
       {
-        "name": "Bloomsday",
-        "description": "Observed annually on June 16, Bloomsday is a cultural celebration of Irish writer James Joyce, commemorating the events of June 16, 1904, as depicted in his renowned novel 'Ulysses'."
+        "name": "Day of the African Child",
+        "description": "This day, proclaimed by the African Union in 1991, commemorates the Soweto massacre of 1976 and aims to raise awareness of the needs and serious problems facing children in Africa."
       },
       {
-        "name": "International Day of the African Child",
-        "description": "Established by the Organisation of African Unity in 1991, this day marks the June 16, 1976, Soweto Uprising, where South African police opened fire on students protesting Afrikaans-language instruction."
+        "name": "Bloomsday",
+        "description": "An annual celebration honoring the life and work of Irish writer James Joyce, commemorating June 16, 1904, the day on which his most famous novel, Ulysses, is set."
       }
     ],
     "historicalQuote": {
-      "text": "A house divided against itself cannot stand. I believe this government cannot endure, permanently, half slave and half free. I do not expect the Union to be dissolved — I do not expect the house to fall — but I do expect it will cease to be divided. It will become all one thing or all the other.",
-      "author": "Abraham Lincoln",
-      "context": "Abraham Lincoln delivered this famous 'House Divided' speech on June 16, 1858, in Springfield, Illinois, upon accepting the Republican Party's nomination for U.S. Senator. The speech highlighted the irreconcilable differences over slavery that threatened the unity of the United States."
+      "text": "Mistakes are not failures; mistakes are the portals of discovery.",
+      "author": "James Joyce",
+      "context": "This quote by James Joyce takes on special meaning on Bloomsday, celebrated on June 16 to mark the date on which his novel 'Ulysses' is set. This day also marks the first time Joyce went for a walk with Nora Barnacle, who would become his lifelong companion. His own experiences of struggle and editorial rejection reflect the idea that setbacks can lead to discoveries."
+    },
+    "motivationalQuote": {
+      "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+      "author": "Maya Angelou"
     },
     "births": [
       {
-        "name": "Adam Smith",
-        "description": "A Scottish philosopher and economist, Adam Smith is widely considered the father of modern economics for his seminal work 'The Wealth of Nations'.",
-        "year": "1723"
-      },
-      {
-        "name": "Barbara McClintock",
-        "description": "An American geneticist, Barbara McClintock was awarded the Nobel Prize in Physiology or Medicine in 1983 for her groundbreaking discovery of mobile genetic elements, or 'jumping genes'."
-      },
-      {
         "name": "Tupac Shakur",
-        "description": "An influential American rapper, actor, and activist, Tupac Shakur is remembered for his powerful lyrics that often addressed social injustice, political issues, and the struggles of African Americans."
+        "description": "Influential American rapper and actor, considered one of the most important artists of his genre, whose music addressed social and cultural themes.",
+        "year": "1971"
+      },
+      {
+        "name": "Daniel Brühl",
+        "description": "Acclaimed Spanish-German actor who has appeared in numerous international film and television productions, noted for his versatility.",
+        "year": "1978"
+      },
+      {
+        "name": "Jairo",
+        "description": "Argentine singer and songwriter with an extensive international career, known for his voice and his repertoire across various musical genres.",
+        "year": "1949"
       }
     ],
     "events": [
       {
-        "title": "Ford Motor Company Incorporated",
-        "description": "On June 16, 1903, the Ford Motor Company was incorporated in Dearborn, Michigan, by Henry Ford and eleven associate investors, laying the groundwork for mass-produced automobiles."
+        "title": "Founding of Ford Motor Company",
+        "description": "In 1903, Henry Ford founded the Ford Motor Company in the United States, an automotive company that would revolutionize industry and transportation worldwide.",
+        "year": "1903"
       },
       {
-        "title": "Valentina Tereshkova Becomes First Woman in Space",
-        "description": "Soviet cosmonaut Valentina Tereshkova made history on June 16, 1963, when she was launched into orbit aboard Vostok 6, becoming the first woman to travel to space and completing 48 orbits of Earth."
+        "title": "Founding of IBM",
+        "description": "In 1911, International Business Machines (IBM) was born as a Computing-Tabulating-Recording company in Endicott, New York, laying the foundations of a technology giant.",
+        "year": "1911"
       },
       {
-        "title": "U.S. President Franklin D. Roosevelt Signs Banking Act",
-        "description": "On June 16, 1933, President Franklin D. Roosevelt signed the Banking Act, a significant piece of New Deal legislation that separated commercial banking from investment banking and established the Federal Deposit Insurance Corporation (FDIC) to restore public confidence in the banking system."
+        "title": "First woman in space",
+        "description": "In 1963, Soviet cosmonaut Valentina Tereshkova became the first woman to travel to space aboard the Vostok 6 spacecraft, marking a milestone in space exploration.",
+        "year": "1963"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santos Quirico e Julita",
+        "type": "Mártires",
+        "description": "Mãe e filho que sofreram o martírio em Tarso durante a perseguição de Diocleciano. Recusaram-se a renunciar à sua fé, com Quirico, de apenas três anos, proclamando-se cristão e sendo morto antes de sua mãe."
+      },
+      {
+        "name": "São Benno de Meissen",
+        "type": "Bispo",
+        "description": "Bispo de Meissen no século XII, conhecido por sua firme defesa da unidade da Igreja e sua lealdade ao Romano Pontífice, o que lhe valeu o exílio em diversas ocasiões."
+      },
+      {
+        "name": "Santa Lutgarda",
+        "type": "Virgem Cisterciense",
+        "description": "Monja cisterciense do século XIII, célebre por sua devoção e experiências místicas, incluindo uma lendária troca de corações com Cristo. Perdeu a visão onze anos antes de sua morte, que havia previsto."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Criança Africana",
+        "description": "Este dia, proclamado pela União Africana em 1991, comemora o massacre de Soweto em 1976 e busca conscientizar sobre as necessidades e os graves problemas enfrentados pelas crianças na África."
+      },
+      {
+        "name": "Bloomsday",
+        "description": "Celebração anual que homenageia a vida e a obra do escritor irlandês James Joyce, comemorando o dia 16 de junho de 1904, data em que se passa seu romance mais famoso, Ulisses."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Os erros não são fracassos; os erros são os portais da descoberta.",
+      "author": "James Joyce",
+      "context": "Esta frase de James Joyce ganha um significado especial no Bloomsday, celebrado em 16 de junho em comemoração à data em que se passa seu romance 'Ulisses'. Este dia também marca a primeira vez que Joyce saiu para passear com Nora Barnacle, que seria sua companheira de vida. Suas próprias experiências de luta e rejeição editorial refletem a ideia de que os tropeços podem levar a descobertas."
+    },
+    "motivationalQuote": {
+      "text": "Aprendi que as pessoas esquecerão o que você disse, esquecerão o que você fez, mas nunca esquecerão como você as fez sentir.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Tupac Shakur",
+        "description": "Influente rapper e ator americano, considerado um dos artistas mais importantes de seu gênero, cuja música abordou temas sociais e culturais.",
+        "year": "1971"
+      },
+      {
+        "name": "Daniel Brühl",
+        "description": "Reconhecido ator hispano-alemão que participou de inúmeras produções cinematográficas e televisivas internacionais, destacando-se por sua versatilidade.",
+        "year": "1978"
+      },
+      {
+        "name": "Jairo",
+        "description": "Cantor e compositor argentino com uma extensa carreira internacional, conhecido por sua voz e seu repertório em diversos gêneros musicais.",
+        "year": "1949"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundação da Ford Motor Company",
+        "description": "Em 1903, Henry Ford fundou a Ford Motor Company nos Estados Unidos, uma empresa automobilística que revolucionaria a indústria e o transporte em nível mundial.",
+        "year": "1903"
+      },
+      {
+        "title": "Fundação da IBM",
+        "description": "Em 1911, a International Business Machines (IBM) nasceu como uma empresa de Computação-Tabulação-Gravação em Endicott, Nova York, lançando as bases de um gigante tecnológico.",
+        "year": "1911"
+      },
+      {
+        "title": "Primeira mulher no espaço",
+        "description": "Em 1963, a cosmonauta soviética Valentina Tereshkova tornou-se a primeira mulher a viajar ao espaço a bordo da nave Vostok 6, marcando um marco na exploração espacial.",
+        "year": "1963"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sants Quirze i Julita",
+        "type": "Màrtirs",
+        "description": "Mare i fill que van patir el martiri a Tars durant la persecució de Dioclecià. Es van negar a renunciar a la seva fe; Quirze, de tan sols tres anys, es va proclamar cristià i va ser mort abans que la seva mare."
+      },
+      {
+        "name": "Sant Benno de Meissen",
+        "type": "Bisbe",
+        "description": "Bisbe de Meissen al segle XII, conegut per la seva ferma defensa de la unitat de l'Església i la seva lleialtat al Romà Pontífex, la qual cosa li va valer l'exili en diverses ocasions."
+      },
+      {
+        "name": "Santa Lutgarda",
+        "type": "Verge Cistercenca",
+        "description": "Monja cistercenca del segle XIII, insigne per la seva devoció i les seves experiències místiques, incloent-hi un llegendari intercanvi de cors amb Crist. Va perdre la vista onze anys abans de la seva mort, la qual havia predit."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional del Nen Africà",
+        "description": "Aquesta jornada, proclamada per la Unió Africana el 1991, commemora la massacre de Soweto del 1976 i vol conscienciar sobre les necessitats i els greus problemes que afronten els nens a l'Àfrica."
+      },
+      {
+        "name": "Bloomsday",
+        "description": "Celebració anual que ret homenatge a la vida i l'obra de l'escriptor irlandès James Joyce, commemorant el 16 de juny de 1904, el dia en què transcorre la seva novel·la més famosa, Ulisses."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Els errors no són fracassos; els errors són els portals del descobriment.",
+      "author": "James Joyce",
+      "context": "Aquesta frase de James Joyce pren un significat especial en el Bloomsday, que se celebra el 16 de juny en commemoració de la data en què transcorre la seva novel·la 'Ulisses'. Aquest dia també marca la primera vegada que Joyce va sortir a passejar amb Nora Barnacle, que seria la seva companya de vida. Les seves pròpies experiències de lluita i rebuig editorial reflecteixen la idea que els entrebancs poden conduir a descobriments."
+    },
+    "motivationalQuote": {
+      "text": "He après que la gent oblidarà el que vas dir i el que vas fer, però mai no oblidarà com els vas fer sentir.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Tupac Shakur",
+        "description": "Influent raper i actor nord-americà, considerat un dels artistes més importants del seu gènere, la música del qual va abordar temes socials i culturals.",
+        "year": "1971"
+      },
+      {
+        "name": "Daniel Brühl",
+        "description": "Reconegut actor hispanoalemany que ha participat en nombroses produccions cinematogràfiques i televisives internacionals, destacant per la seva versatilitat.",
+        "year": "1978"
+      },
+      {
+        "name": "Jairo",
+        "description": "Cantant i compositor argentí amb una extensa trajectòria internacional, conegut per la seva veu i el seu repertori en diversos gèneres musicals.",
+        "year": "1949"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundació de la Ford Motor Company",
+        "description": "El 1903, Henry Ford va fundar la Ford Motor Company als Estats Units, una empresa automobilística que revolucionaria la indústria i el transport a nivell mundial.",
+        "year": "1903"
+      },
+      {
+        "title": "Fundació d'IBM",
+        "description": "El 1911, la International Business Machines (IBM) va néixer com una empresa de Computació-Tabulació-Gravació a Endicott, Nova York, assentant les bases d'un gegant tecnològic.",
+        "year": "1911"
+      },
+      {
+        "title": "Primera dona a l'espai",
+        "description": "El 1963, la cosmonauta soviètica Valentina Tereshkova es va convertir en la primera dona a viatjar a l'espai a bord de la nau Vostok 6, marcant una fita en l'exploració espacial.",
+        "year": "1963"
       }
     ]
   }

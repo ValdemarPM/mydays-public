@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-16",
+  "es": {
+    "saints": [
+      {
+        "name": "San Cornelio y San Cipriano",
+        "type": "Mártires",
+        "description": "Conmemoración conjunta del papa Cornelio (†253) y el obispo Cipriano de Cartago (†258), ambos mártires del siglo III vinculados por su lucha contra los cismas y las herejías de su tiempo. La Iglesia los celebra juntos desde la antigüedad."
+      },
+      {
+        "name": "Santa Ludmila de Bohemia",
+        "type": "Mártir",
+        "description": "Abuela del príncipe Wenceslao de Bohemia que fue estrangulada en 921 por orden de su nuera Drahomira, pagana que se oponía a la educación cristiana del joven príncipe. Es patrona de Bohemia y de los catequistas."
+      },
+      {
+        "name": "San Ninian de Whithorn",
+        "type": "Obispo",
+        "description": "Misionero escocés del siglo V que evangelizó a los pictos del sur de Escocia. Fundó el monasterio de Whithorn, el primer centro cristiano conocido de Escocia, llamado la «Casa Blanca» (Candida Casa)."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de México",
+        "description": "México celebra el aniversario del «Grito de Independencia» lanzado por el padre Miguel Hidalgo en la madrugada del 16 de septiembre de 1810 en Dolores (Guanajuato), que inició la guerra de independencia contra España."
+      },
+      {
+        "name": "Día Internacional para la Preservación de la Capa de Ozono",
+        "description": "Proclamado por la ONU para conmemorar la firma del Protocolo de Montreal (16 de septiembre de 1987), que restringió el uso de sustancias que destruyen la capa de ozono. Es uno de los tratados medioambientales más exitosos de la historia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "¡Viva México! ¡Viva la independencia!",
+      "author": "Miguel Hidalgo y Costilla",
+      "context": "El sacerdote criollo pronunció estas palabras en la madrugada del 16 de septiembre de 1810 en Dolores (Guanajuato), convocando a la rebelión popular contra el dominio español. Este momento se conoce como el «Grito de Dolores»."
+    },
+    "motivationalQuote": {
+      "text": "La confianza en uno mismo es el primer secreto del éxito.",
+      "author": "Ralph Waldo Emerson"
+    },
+    "births": [
+      {
+        "name": "B. B. King",
+        "description": "Guitarrista y cantante americano de blues, conocido como el «Rey del Blues». Su técnica de vibrato con la guitarra Lucille y canciones como The Thrill Is Gone le convirtieron en uno de los músicos más influyentes del siglo XX.",
+        "year": 1925
+      },
+      {
+        "name": "Lauren Bacall",
+        "description": "Actriz americana de la Edad Dorada de Hollywood, conocida por su voz grave y su presencia magnética. Protagonizó Tener o no tener (1944) y El sueño eterno (1946) junto a Humphrey Bogart, con quien se casó.",
+        "year": 1924
+      },
+      {
+        "name": "Henry V de Inglaterra",
+        "description": "Rey de Inglaterra (1413–1422) que venció a los franceses en la batalla de Agincourt (1415) y fue reconocido como heredero del trono de Francia por el Tratado de Troyes. Inmortalizado por Shakespeare.",
+        "year": 1386
+      }
+    ],
+    "events": [
+      {
+        "title": "Grito de Independencia de México",
+        "description": "El cura Miguel Hidalgo tocó las campanas de la iglesia de Dolores y pronunció un discurso incendiario que convocó al pueblo a levantarse contra el dominio español, iniciando la guerra de independencia mexicana.",
+        "year": 1810
+      },
+      {
+        "title": "Firma del Protocolo de Montreal",
+        "description": "189 países firmaron el Protocolo de Montreal para regular las sustancias que agotan la capa de ozono, siendo considerado el tratado ambiental internacional más exitoso de la historia.",
+        "year": 1987
+      },
+      {
+        "title": "Creación de la Comunidad Económica Europea (CEE)",
+        "description": "Los Tratados de Roma que establecieron la Comunidad Económica Europea (antecesora de la Unión Europea) entraron en vigor, marcando el inicio de la integración económica europea.",
+        "year": 1957
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saints Cornelius and Cyprian",
+        "type": "Martyrs",
+        "description": "Joint commemoration of Pope Cornelius (†253) and Bishop Cyprian of Carthage (†258), both 3rd-century martyrs linked by their fight against schisms and heresies of their time. The Church has celebrated them together since antiquity."
+      },
+      {
+        "name": "Saint Ludmila of Bohemia",
+        "type": "Martyr",
+        "description": "Grandmother of Prince Wenceslas of Bohemia, who was strangled in 921 by order of her daughter-in-law Drahomira, a pagan who opposed the Christian education of the young prince. She is patron of Bohemia and catechists."
+      },
+      {
+        "name": "Saint Ninian of Whithorn",
+        "type": "Bishop",
+        "description": "A 5th-century Scottish missionary who evangelised the southern Picts. He founded the monastery of Whithorn, the first known Christian centre in Scotland, called the 'White House' (Candida Casa)."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Mexican Independence Day",
+        "description": "Mexico celebrates the anniversary of the 'Cry of Independence' (Grito de Independencia) delivered by Father Miguel Hidalgo in the early hours of 16 September 1810 in Dolores (Guanajuato), which began the war of independence against Spain."
+      },
+      {
+        "name": "International Day for the Preservation of the Ozone Layer",
+        "description": "Proclaimed by the UN to commemorate the signing of the Montreal Protocol (16 September 1987), which restricted the use of ozone-depleting substances. It is considered one of the most successful environmental treaties in history."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Long live Mexico! Long live independence!",
+      "author": "Miguel Hidalgo y Costilla",
+      "context": "The creole priest spoke these words in the early hours of 16 September 1810 in Dolores (Guanajuato), calling the people to rebel against Spanish rule. This moment is known as the 'Cry of Dolores'."
+    },
+    "motivationalQuote": {
+      "text": "Self-confidence is the first secret of success.",
+      "author": "Ralph Waldo Emerson"
+    },
+    "births": [
+      {
+        "name": "B. B. King",
+        "description": "American blues guitarist and singer, known as the 'King of the Blues'. His distinctive vibrato technique on his guitar Lucille and songs such as The Thrill Is Gone made him one of the most influential musicians of the 20th century.",
+        "year": 1925
+      },
+      {
+        "name": "Lauren Bacall",
+        "description": "American actress of Hollywood's Golden Age, known for her deep voice and magnetic presence. She starred in To Have and Have Not (1944) and The Big Sleep (1946) alongside Humphrey Bogart, whom she married.",
+        "year": 1924
+      },
+      {
+        "name": "Henry V of England",
+        "description": "King of England (1413–1422) who defeated the French at the Battle of Agincourt (1415) and was recognised as heir to the French throne by the Treaty of Troyes. Immortalised by Shakespeare.",
+        "year": 1386
+      }
+    ],
+    "events": [
+      {
+        "title": "Mexican Cry of Independence",
+        "description": "Father Miguel Hidalgo rang the bells of the Dolores church and delivered a fiery speech calling the people to rise against Spanish rule, launching the Mexican War of Independence.",
+        "year": 1810
+      },
+      {
+        "title": "Montreal Protocol signed",
+        "description": "189 countries signed the Montreal Protocol to regulate ozone-depleting substances, considered the most successful international environmental treaty in history.",
+        "year": 1987
+      },
+      {
+        "title": "European Economic Community established",
+        "description": "The Treaties of Rome establishing the European Economic Community (predecessor of the European Union) entered into force, marking the beginning of European economic integration.",
+        "year": 1957
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santos Cornélio e Cipriano",
+        "type": "Mártires",
+        "description": "Commemoração conjunta do papa Cornélio (†253) e do bispo Cipriano de Cartago (†258), ambos mártires do século III ligados pela sua luta contra os cismas e as heresias do seu tempo. A Igreja celebra-os juntos desde a antiguidade."
+      },
+      {
+        "name": "Santa Ludmila da Boémia",
+        "type": "Mártir",
+        "description": "Avó do príncipe Venceslau da Boémia, estrangulada em 921 por ordem da sua nora Drahomira, pagã que se opunha à educação cristã do jovem príncipe. É patrona da Boémia e dos catequistas."
+      },
+      {
+        "name": "São Niniano de Whithorn",
+        "type": "Bispo",
+        "description": "Missionário escocês do século V que evangelizou os pictos do sul da Escócia. Fundou o mosteiro de Whithorn, o primeiro centro cristão conhecido da Escócia, chamado a 'Casa Branca' (Candida Casa)."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência do México",
+        "description": "O México celebra o aniversário do 'Grito de Independência' proferido pelo padre Miguel Hidalgo na madrugada de 16 de setembro de 1810 em Dolores (Guanajuato), que iniciou a guerra de independência contra a Espanha."
+      },
+      {
+        "name": "Dia Internacional para a Preservação da Camada de Ozônio",
+        "description": "Proclamado pela ONU para comemorar a assinatura do Protocolo de Montreal (16 de setembro de 1987), que restringiu o uso de substâncias que destroem a camada de ozônio. É considerado um dos tratados ambientais mais bem-sucedidos da história."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Viva o México! Viva a independência!",
+      "author": "Miguel Hidalgo y Costilla",
+      "context": "O sacerdote crioulo pronunciou estas palavras na madrugada de 16 de setembro de 1810 em Dolores (Guanajuato), convocando o povo à rebelião contra o domínio espanhol. Este momento é conhecido como o 'Grito de Dolores'."
+    },
+    "motivationalQuote": {
+      "text": "A confiança em si mesmo é o primeiro segredo do sucesso.",
+      "author": "Ralph Waldo Emerson"
+    },
+    "births": [
+      {
+        "name": "B. B. King",
+        "description": "Guitarrista e cantor americano de blues, conhecido como o 'Rei do Blues'. A sua técnica de vibrato com a guitarra Lucille e canções como The Thrill Is Gone tornaram-no um dos músicos mais influentes do século XX.",
+        "year": 1925
+      },
+      {
+        "name": "Lauren Bacall",
+        "description": "Atriz americana da Idade de Ouro de Hollywood, conhecida pela sua voz grave e presença magnética. Protagonizou Ter ou Não Ter (1944) e O Grande Sono (1946) ao lado de Humphrey Bogart, com quem se casou.",
+        "year": 1924
+      },
+      {
+        "name": "Henrique V de Inglaterra",
+        "description": "Rei de Inglaterra (1413–1422) que derrotou os franceses na Batalha de Azincourt (1415) e foi reconhecido como herdeiro do trono de França pelo Tratado de Troyes. Imortalizado por Shakespeare.",
+        "year": 1386
+      }
+    ],
+    "events": [
+      {
+        "title": "Grito de Independência do México",
+        "description": "O padre Miguel Hidalgo tocou os sinos da igreja de Dolores e proferiu um discurso inflamado convocando o povo a levantar-se contra o domínio espanhol, lançando a guerra da independência mexicana.",
+        "year": 1810
+      },
+      {
+        "title": "Protocolo de Montreal assinado",
+        "description": "189 países assinaram o Protocolo de Montreal para regulamentar as substâncias que destroem o ozônio, considerado o tratado ambiental internacional mais bem-sucedido da história.",
+        "year": 1987
+      },
+      {
+        "title": "Criação da Comunidade Económica Europeia",
+        "description": "Os Tratados de Roma que estabeleceram a Comunidade Económica Europeia (predecessora da União Europeia) entraram em vigor, marcando o início da integração econômica europeia.",
+        "year": 1957
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sants Corneli i Cebrià",
+        "type": "Màrtirs",
+        "description": "Commemoració conjunta del papa Corneli (†253) i el bisbe Cebrià de Cartago (†258), tots dos màrtirs del segle III vinculats per la seva lluita contra els cismes i les heretgies del seu temps. L'Església els celebra junts des de l'antiguitat."
+      },
+      {
+        "name": "Santa Ludmila de Bohèmia",
+        "type": "Màrtir",
+        "description": "Àvia del príncep Venceslau de Bohèmia, estrangulada el 921 per ordre de la seva nora Drahomira, pagana que s'oposava a l'educació cristiana del jove príncep. És patrona de Bohèmia i dels catequistes."
+      },
+      {
+        "name": "Sant Niniâ de Whithorn",
+        "type": "Bisbe",
+        "description": "Missioner escocès del segle V que va evangelitzar els pictes del sud d'Escòcia. Va fundar el monestir de Whithorn, el primer centre cristià conegut d'Escòcia, anomenat la 'Casa Blanca' (Candida Casa)."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència de Mèxic",
+        "description": "Mèxic celebra l'aniversari del 'Crit d'Independència' (Grito de Independencia) pronunciat pel pare Miguel Hidalgo a la matinada del 16 de setembre de 1810 a Dolores (Guanajuato), que va iniciar la guerra d'independència contra Espanya."
+      },
+      {
+        "name": "Dia Internacional per a la Preservació de la Capa d'Ozó",
+        "description": "Proclamat per l'ONU per commemorar la signatura del Protocol de Mont-real (16 de setembre de 1987), que va restringir l'ús de substàncies que destrueixen la capa d'ozó. És considerat un dels tractats mediambientals més reeixits de la història."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Visca Mèxic! Visca la independència!",
+      "author": "Miguel Hidalgo y Costilla",
+      "context": "El sacerdot crioll va pronunciar aquestes paraules a la matinada del 16 de setembre de 1810 a Dolores (Guanajuato), convocant el poble a rebel·lar-se contra el domini espanyol. Aquest moment es coneix com el 'Crit de Dolores'."
+    },
+    "motivationalQuote": {
+      "text": "La confiança en un mateix és el primer secret de l'èxit.",
+      "author": "Ralph Waldo Emerson"
+    },
+    "births": [
+      {
+        "name": "B. B. King",
+        "description": "Guitarrista i cantant americà de blues, conegut com el 'Rei del Blues'. La seva tècnica de vibrato amb la guitarra Lucille i cançons com The Thrill Is Gone el van convertir en un dels músics més influents del segle XX.",
+        "year": 1925
+      },
+      {
+        "name": "Lauren Bacall",
+        "description": "Actriu americana de l'Edat d'Or d'Hollywood, coneguda per la seva veu greu i la seva presència magnètica. Va protagonitzar Tenir o no tenir (1944) i El son etern (1946) al costat d'Humphrey Bogart, amb qui es va casar.",
+        "year": 1924
+      },
+      {
+        "name": "Enric V d'Anglaterra",
+        "description": "Rei d'Anglaterra (1413–1422) que va vèncer els francesos a la batalla d'Agincourt (1415) i va ser reconegut com a hereu del tron de França pel Tractat de Troies. Immortalitzat per Shakespeare.",
+        "year": 1386
+      }
+    ],
+    "events": [
+      {
+        "title": "Crit d'Independència de Mèxic",
+        "description": "El mossèn Miguel Hidalgo va tocar les campanes de l'església de Dolores i va pronunciar un discurs encès convocant el poble a alçar-se contra el domini espanyol, llançant la guerra d'independència mexicana.",
+        "year": 1810
+      },
+      {
+        "title": "Protocol de Mont-real signat",
+        "description": "189 països van signar el Protocol de Mont-real per regular les substàncies que esgoten l'ozó, considerat el tractat ambiental internacional més exitós de la història.",
+        "year": 1987
+      },
+      {
+        "title": "Creació de la Comunitat Econòmica Europea",
+        "description": "Els Tractats de Roma que van establir la Comunitat Econòmica Europea (predecessora de la Unió Europea) van entrar en vigor, marcant l'inici de la integració econòmica europea.",
+        "year": 1957
+      }
+    ]
+  }
+}

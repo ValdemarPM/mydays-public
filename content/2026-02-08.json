@@ -1,0 +1,119 @@
+{
+  "date": "2026-02-08",
+  "es": {
+    "saints": [
+      { "name": "San Jerónimo Emiliani", "type": "Sacerdote", "description": "Noble veneciano del siglo XV-XVI que, tras ser liberado milagrosamente de la cárcel, fundó los Somascos para atender a huérfanos y enfermos; patrono de los niños abandonados." },
+      { "name": "Santa Josefina Bakhita", "type": "Virgen", "description": "Sudanesa esclavizada de niña, liberada y convertida al catolicismo; canónica como símbolo de esperanza para las víctimas de trata de personas." }
+    ],
+    "observances": [
+      { "name": "Día Internacional contra la Esclavitud Infantil", "description": "Jornada de denuncia del trabajo y la esclavitud infantil, que según la OIT afecta a más de 160 millones de niños en el mundo." },
+      { "name": "Día Nacional de Scouts (varios países)", "description": "Conmemora el nacimiento del escultismo, fundado por Robert Baden-Powell, que celebró el 22 de febrero de 1857." }
+    ],
+    "historicalQuote": {
+      "text": "No basta saber, se debe también aplicar. No es suficiente querer, se debe también hacer.",
+      "author": "Johann Wolfgang von Goethe",
+      "context": "Goethe (1749-1832) sintetizó en esta frase de su obra Máximas y reflexiones su filosofía de la acción como complemento indispensable del conocimiento."
+    },
+    "motivationalQuote": {
+      "text": "Lo que no te mata te hace más fuerte.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      { "name": "Jules Verne", "description": "Novelista francés padre de la ciencia ficción moderna; autor de Veinte mil leguas de viaje submarino, La vuelta al mundo en 80 días y Viaje al centro de la Tierra.", "year": 1828 },
+      { "name": "John Williams", "description": "Compositor y director de orquesta estadounidense, autor de las bandas sonoras de Star Wars, Indiana Jones, Schindler's List y muchos otros filmes icónicos.", "year": 1932 },
+      { "name": "Seth MacFarlane", "description": "Escritor, productor y animador estadounidense, creador de la serie de animación Padre de familia (Family Guy).", "year": 1973 }
+    ],
+    "events": [
+      { "title": "Se funda la Confederación Sudista de Estados Unidos", "description": "Los estados secesionistas del sur se reúnen en Montgomery (Alabama) y redactan la Constitución provisional de los Estados Confederados de América.", "year": 1861 },
+      { "title": "Inauguración de la Bolsa de Nueva York (NYSE) en su actual ubicación", "description": "La NYSE inaugura su nuevo edificio neoclásico en 11 Wall Street, en el corazón del distrito financiero de Manhattan.", "year": 1903 },
+      { "title": "Aparece el primer número de la revista Sports Illustrated", "description": "Time Inc. lanza Sports Illustrated, la publicación deportiva semanal que se convertiría en la más influyente del mundo anglófono.", "year": 1954 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Jerome Emiliani", "type": "Priest", "description": "Venetian nobleman of the 15th–16th century who, after being miraculously freed from prison, founded the Somaschi to care for orphans and the sick; patron of abandoned children." },
+      { "name": "Saint Josephine Bakhita", "type": "Virgin", "description": "Sudanese woman enslaved as a child, later freed and converted to Catholicism; canonised as a symbol of hope for victims of human trafficking." }
+    ],
+    "observances": [
+      { "name": "International Day against Child Slavery", "description": "A day denouncing child labour and slavery, which the ILO estimates affects more than 160 million children worldwide." },
+      { "name": "National Scout Day (various countries)", "description": "Commemorates the birth of Scouting, founded by Robert Baden-Powell, born on 22 February 1857." }
+    ],
+    "historicalQuote": {
+      "text": "Knowing is not enough; we must apply. Willing is not enough; we must do.",
+      "author": "Johann Wolfgang von Goethe",
+      "context": "Goethe (1749–1832) distilled this idea in his Maxims and Reflections, his philosophy of action as an indispensable complement to knowledge."
+    },
+    "motivationalQuote": {
+      "text": "What does not kill me makes me stronger.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      { "name": "Jules Verne", "description": "French novelist and father of modern science fiction; author of Twenty Thousand Leagues Under the Seas, Around the World in Eighty Days and Journey to the Centre of the Earth.", "year": 1828 },
+      { "name": "John Williams", "description": "American composer and conductor, author of the scores for Star Wars, Indiana Jones, Schindler's List and many other iconic films.", "year": 1932 },
+      { "name": "Seth MacFarlane", "description": "American writer, producer and animator, creator of the animated series Family Guy.", "year": 1973 }
+    ],
+    "events": [
+      { "title": "Confederate States of America founded", "description": "Secessionist southern states meet in Montgomery, Alabama, and draft the provisional constitution of the Confederate States of America.", "year": 1861 },
+      { "title": "NYSE opens at its current location", "description": "The New York Stock Exchange inaugurates its new neoclassical building at 11 Wall Street, in the heart of Manhattan's financial district.", "year": 1903 },
+      { "title": "First issue of Sports Illustrated", "description": "Time Inc. launches Sports Illustrated, the weekly sports publication that would become the most influential in the English-speaking world.", "year": 1954 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Jerônimo Emiliani", "type": "Sacerdote", "description": "Nobre veneziano dos séculos XV-XVI que, após ser milagrosamente libertado da prisão, fundou os Somascos para cuidar de órfãos e doentes; padroeiro das crianças abandonadas." },
+      { "name": "Santa Josefina Bakhita", "type": "Virgem", "description": "Sudanesa escravizada na infância, libertada e convertida ao catolicismo; canonizada como símbolo de esperança para as vítimas do tráfico de pessoas." }
+    ],
+    "observances": [
+      { "name": "Dia Internacional contra a Escravidão Infantil", "description": "Jornada de denúncia do trabalho e da escravidão infantil, que segundo a OIT afeta mais de 160 milhões de crianças no mundo." },
+      { "name": "Dia Nacional do Escotismo (vários países)", "description": "Comemora o nascimento do escotismo, fundado por Robert Baden-Powell, nascido em 22 de fevereiro de 1857." }
+    ],
+    "historicalQuote": {
+      "text": "Saber não é suficiente; devemos aplicar. Querer não é suficiente; devemos fazer.",
+      "author": "Johann Wolfgang von Goethe",
+      "context": "Goethe (1749-1832) sintetizou esta ideia em suas Máximas e reflexões, sua filosofia da ação como complemento indispensável do conhecimento."
+    },
+    "motivationalQuote": {
+      "text": "O que não te mata te fortalece.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      { "name": "Jules Verne", "description": "Romancista francês e pai da ficção científica moderna; autor de Vinte Mil Léguas Submarinas, A Volta ao Mundo em Oitenta Dias e Viagem ao Centro da Terra.", "year": 1828 },
+      { "name": "John Williams", "description": "Compositor e regente americano, autor das trilhas sonoras de Star Wars, Indiana Jones, A Lista de Schindler e muitos outros filmes icônicos.", "year": 1932 },
+      { "name": "Seth MacFarlane", "description": "Escritor, produtor e animador americano, criador da série animada Pai de Família (Family Guy).", "year": 1973 }
+    ],
+    "events": [
+      { "title": "Fundação dos Estados Confederados da América", "description": "Os estados secessionistas do sul se reúnem em Montgomery (Alabama) e redigem a constituição provisória dos Estados Confederados da América.", "year": 1861 },
+      { "title": "A NYSE inaugura sua localização atual", "description": "A Bolsa de Nova York inaugura seu novo edifício neoclássico na 11 Wall Street, no coração do distrito financeiro de Manhattan.", "year": 1903 },
+      { "title": "Primeiro número da revista Sports Illustrated", "description": "A Time Inc. lança a Sports Illustrated, a publicação esportiva semanal que se tornaria a mais influente no mundo de língua inglesa.", "year": 1954 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Jeroni Emiliani", "type": "Sacerdot", "description": "Noble venecià dels segles XV-XVI que, després de ser miraculosament alliberat de la presó, va fundar els Somascs per atendre orfes i malalts; patró dels infants abandonats." },
+      { "name": "Santa Josefina Bakhita", "type": "Verge", "description": "Sudanesa esclavitzada de petita, alliberada i convertida al catolicisme; canonitzada com a símbol d'esperança per a les víctimes de la tracta de persones." }
+    ],
+    "observances": [
+      { "name": "Dia Internacional contra l'Esclavitud Infantil", "description": "Jornada de denúncia del treball i l'esclavitud infantil, que segons l'OIT afecta més de 160 milions de nens al món." },
+      { "name": "Dia Nacional dels Escoltistes (diversos països)", "description": "Commemora el naixement de l'escoltisme, fundat per Robert Baden-Powell, nascut el 22 de febrer de 1857." }
+    ],
+    "historicalQuote": {
+      "text": "Saber no és suficient; hem d'aplicar. Voler no és suficient; hem de fer.",
+      "author": "Johann Wolfgang von Goethe",
+      "context": "Goethe (1749-1832) va sintetitzar aquesta idea a les seves Màximes i reflexions, la seva filosofia de l'acció com a complement indispensable del coneixement."
+    },
+    "motivationalQuote": {
+      "text": "Allò que no et mata et fa més fort.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      { "name": "Jules Verne", "description": "Novel·lista francès i pare de la ciència ficció moderna; autor de Vint mil llegues de viatge submarí, La volta al món en vuitanta dies i Viatge al centre de la Terra.", "year": 1828 },
+      { "name": "John Williams", "description": "Compositor i director d'orquestra americà, autor de les bandes sonores de Star Wars, Indiana Jones, La llista de Schindler i molts altres films icònics.", "year": 1932 },
+      { "name": "Seth MacFarlane", "description": "Escriptor, productor i animador americà, creador de la sèrie d'animació Family Guy.", "year": 1973 }
+    ],
+    "events": [
+      { "title": "Fundació dels Estats Confederats d'Amèrica", "description": "Els estats secessionistes del sud es reuneixen a Montgomery (Alabama) i redacten la constitució provisional dels Estats Confederats d'Amèrica.", "year": 1861 },
+      { "title": "La NYSE inaugura la seva ubicació actual", "description": "La Borsa de Nova York inaugura el seu nou edifici neoclàssic a l'11 de Wall Street, al cor del districte financer de Manhattan.", "year": 1903 },
+      { "title": "Primer número de la revista Sports Illustrated", "description": "Time Inc. llança Sports Illustrated, la publicació esportiva setmanal que es convertiria en la més influent del món anglòfon.", "year": 1954 }
+    ]
+  }
+}

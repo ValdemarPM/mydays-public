@@ -1,0 +1,255 @@
+{
+  "date": "2025-10-21",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Úrsula y sus compañeras mártires",
+        "type": "Virgen y Mártir",
+        "description": "Mártir británica del siglo IV, según la tradición una princesa cristiana que fue asesinada por los hunos junto a sus compañeras en Colonia al regresar de una peregrinación a Roma. La devoción popular aumentó el número de sus compañeras mártires a «11.000 vírgenes». Las Ursulinas, orden educativa fundada en 1535 por Santa Ángela Merici, llevan su nombre."
+      },
+      {
+        "name": "San Hilarión el Grande",
+        "type": "Monje",
+        "description": "Monje del siglo IV (291–371), fundador del monaquismo en Palestina. Discípulo de San Antonio Abad en Egipto, regresó a su tierra natal en Gaza y se convirtió en padre espiritual de numerosas comunidades monásticas en Palestina, Egipto y Chipre."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de las Naciones Unidas",
+        "description": "El 24 de octubre es el Día de las Naciones Unidas, pero el 21 de octubre es la fecha en que la ONU inicia sus conmemoraciones semanales. El 24 de octubre de 1945 entró en vigor la Carta de las Naciones Unidas, fundando la organización internacional más importante del mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "England expects that every man will do his duty.",
+      "author": "Almirante Horatio Nelson",
+      "context": "Esta célebre orden fue transmitida por el almirante Nelson a su flota antes de la Batalla de Trafalgar (21 de octubre de 1805), en la que la armada británica derrotó a la flota franco-española. Nelson murió herido en la batalla, en el momento de su mayor victoria."
+    },
+    "motivationalQuote": {
+      "text": "Hay dos maneras de vivir la vida. Una es como si nada fuese un milagro. La otra es como si todo fuese un milagro.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Alfred Nobel",
+        "description": "Químico, ingeniero e inventor sueco (1833–1896), inventor de la dinamita en 1867 y propietario de las patentes de más de 350 inventos. Atormentado por las aplicaciones bélicas de sus invenciones, legó su fortuna para financiar los premios que llevan su nombre. Los Premios Nobel se otorgan desde 1901.",
+        "year": 1833
+      },
+      {
+        "name": "Carrie Fisher",
+        "description": "Actriz y escritora americana (1956–2016), inmortalizada como la Princesa Leia en la saga Star Wars. Fue también una franquicia de guionista de Hollywood y activista de la salud mental. Su autobiografía Wishful Drinking (2008) relata con humor su lucha contra el trastorno bipolar y la adicción.",
+        "year": 1956
+      },
+      {
+        "name": "Kim Kardashian",
+        "description": "Empresaria y celebridad americana (n. 1980), figura central de la cultura pop de los años 2000 en adelante. Protagonista de la reality show Keeping Up with the Kardashians durante 20 temporadas. Fundadora de la marca SKIMS y activista por la reforma penal en Estados Unidos.",
+        "year": 1980
+      }
+    ],
+    "events": [
+      {
+        "title": "Batalla de Trafalgar",
+        "description": "La escuadra británica del almirante Nelson derrotó de forma decisiva a la flota combinada franco-española bajo las órdenes de Villeneuve frente al Cabo de Trafalgar (España). La victoria aseguró la supremacía naval británica durante un siglo. Nelson murió durante la batalla herido por el disparo de un tirador galo.",
+        "year": 1805
+      },
+      {
+        "title": "Inauguración del Guggenheim de Nueva York",
+        "description": "Se inauguró en Nueva York el Museo Solomon R. Guggenheim, diseñado por Frank Lloyd Wright. Su estructura helicoidal, radicalmente diferente de cualquier museo anterior, fue un escándalo y luego un icono de la arquitectura americana del siglo XX.",
+        "year": 1959
+      },
+      {
+        "title": "Muere Alejandro el Grande... en realidad el 10 o 11 de junio de 323 a.C.",
+        "description": "El 21 de octubre es la fecha de la Batalla de Arbela-Gaugamela (331 a.C.), no la de la muerte de Alejandro. En esa batalla, Alejandro Magno derrotó definitivamente al rey persa Darío III, asegurando la conquista del Imperio Persa Aqueménida. Fue una de las batallas decisivas de la historia antigua.",
+        "year": -331
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Ursula and Companions",
+        "type": "Virgin and Martyr",
+        "description": "A 4th-century British martyr, according to tradition a Christian princess who was killed by the Huns with her companions in Cologne on returning from a pilgrimage to Rome. Popular devotion inflated the number of her martyr companions to '11,000 virgins'. The Ursulines, an educational order founded in 1535 by Saint Angela Merici, bear her name."
+      },
+      {
+        "name": "Saint Hilarion the Great",
+        "type": "Monk",
+        "description": "A 4th-century monk (291–371), founder of monasticism in Palestine. A disciple of Saint Anthony Abbot in Egypt, he returned to his native land in Gaza and became the spiritual father of numerous monastic communities in Palestine, Egypt and Cyprus."
+      }
+    ],
+    "observances": [
+      {
+        "name": "United Nations Day",
+        "description": "24 October is United Nations Day, but 21 October is the date when the UN begins its weekly commemorations. On 24 October 1945 the United Nations Charter entered into force, founding the world's most important international organisation."
+      }
+    ],
+    "historicalQuote": {
+      "text": "England expects that every man will do his duty.",
+      "author": "Admiral Horatio Nelson",
+      "context": "This famous order was transmitted by Admiral Nelson to his fleet before the Battle of Trafalgar (21 October 1805), in which the British navy defeated the Franco-Spanish fleet. Nelson died of his wounds during the battle, at the moment of his greatest victory."
+    },
+    "motivationalQuote": {
+      "text": "There are two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Alfred Nobel",
+        "description": "Swedish chemist, engineer and inventor (1833–1896), inventor of dynamite in 1867 and owner of more than 350 patents. Tormented by the wartime applications of his inventions, he bequeathed his fortune to fund the prizes that bear his name. The Nobel Prizes have been awarded since 1901.",
+        "year": 1833
+      },
+      {
+        "name": "Carrie Fisher",
+        "description": "American actress and writer (1956–2016), immortalised as Princess Leia in the Star Wars franchise. She was also a Hollywood screenwriter and mental health activist. Her autobiography Wishful Drinking (2008) humorously recounts her struggle with bipolar disorder and addiction.",
+        "year": 1956
+      },
+      {
+        "name": "Kim Kardashian",
+        "description": "American businesswoman and celebrity (b. 1980), a central figure in pop culture from the 2000s onwards. Star of the reality show Keeping Up with the Kardashians for 20 seasons. Founder of the SKIMS brand and activist for criminal justice reform in the United States.",
+        "year": 1980
+      }
+    ],
+    "events": [
+      {
+        "title": "Battle of Trafalgar",
+        "description": "The British squadron of Admiral Nelson decisively defeated the combined Franco-Spanish fleet under Admiral Villeneuve off Cape Trafalgar, Spain. The victory secured British naval supremacy for a century. Nelson died during the battle, wounded by a French sharpshooter.",
+        "year": 1805
+      },
+      {
+        "title": "Opening of the Guggenheim Museum in New York",
+        "description": "The Solomon R. Guggenheim Museum, designed by Frank Lloyd Wright, was inaugurated in New York. Its helical structure, radically different from any previous museum, was a scandal and then an icon of 20th-century American architecture.",
+        "year": 1959
+      },
+      {
+        "title": "Battle of Gaugamela",
+        "description": "At the Battle of Gaugamela (331 BC), Alexander the Great decisively defeated the Persian King Darius III, securing the conquest of the Achaemenid Persian Empire. It was one of the most decisive battles of ancient history and opened the way for Alexander's eastward advance.",
+        "year": -331
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Úrsula e Companheiras Mártires",
+        "type": "Virgem e Mártir",
+        "description": "Mártir britânica do século IV, segundo a tradição uma princesa cristã que foi assassinada pelos hunos com as suas companheiras em Colónia ao regressar de uma peregrinação a Roma. A devoção popular aumentou o número das suas companheiras mártires para «11.000 virgens». As Ursulinas, ordem educativa fundada em 1535 por Santa Ângela Merici, levam o seu nome."
+      },
+      {
+        "name": "São Hilarião o Grande",
+        "type": "Monge",
+        "description": "Monge do século IV (291–371), fundador do monaquismo na Palestina. Discípulo de Santo António Abade no Egito, regressou à sua terra natal em Gaza e tornou-se pai espiritual de numerosas comunidades monásticas na Palestina, Egito e Chipre."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia das Nações Unidas",
+        "description": "O 24 de outubro é o Dia das Nações Unidas, mas o 21 de outubro é a data em que a ONU inicia as suas comemorações semanais. A 24 de outubro de 1945 entrou em vigor a Carta das Nações Unidas, fundando a organização internacional mais importante do mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A Inglaterra espera que cada homem cumpra o seu dever.",
+      "author": "Almirante Horatio Nelson",
+      "context": "Esta célebre ordem foi transmitida pelo almirante Nelson à sua frota antes da Batalha de Trafalgar (21 de outubro de 1805), na qual a armada britânica derrotou a frota franco-espanhola. Nelson morreu ferido durante a batalha, no momento da sua maior vitória."
+    },
+    "motivationalQuote": {
+      "text": "Há duas formas de viver a vida. Uma é como se nada fosse um milagre. A outra é como se tudo fosse um milagre.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Alfred Nobel",
+        "description": "Químico, engenheiro e inventor sueco (1833–1896), inventor da dinamite em 1867 e proprietário de mais de 350 patentes. Atormentado pelas aplicações bélicas das suas invenções, legou a sua fortuna para financiar os prémios que levam o seu nome. Os Prémios Nobel são atribuídos desde 1901.",
+        "year": 1833
+      },
+      {
+        "name": "Carrie Fisher",
+        "description": "Atriz e escritora americana (1956–2016), imortalizada como a Princesa Leia na saga Star Wars. Foi também argumentista de Hollywood e ativista da saúde mental. A sua autobiografia Wishful Drinking (2008) relata com humor a sua luta contra o transtorno bipolar e a dependência.",
+        "year": 1956
+      },
+      {
+        "name": "Kim Kardashian",
+        "description": "Empresária e celebridade americana (n. 1980), figura central da cultura pop a partir dos anos 2000. Protagonista do reality show Keeping Up with the Kardashians durante 20 temporadas. Fundadora da marca SKIMS e ativista pela reforma penal nos Estados Unidos.",
+        "year": 1980
+      }
+    ],
+    "events": [
+      {
+        "title": "Batalha de Trafalgar",
+        "description": "A esquadra britânica do almirante Nelson derrotou de forma decisiva a frota combinada franco-espanhola sob as ordens de Villeneuve ao largo do Cabo Trafalgar (Espanha). A vitória assegurou a supremacia naval britânica durante um século. Nelson morreu durante a batalha, ferido por um atirador francês.",
+        "year": 1805
+      },
+      {
+        "title": "Inauguração do Museu Guggenheim de Nova Iorque",
+        "description": "Foi inaugurado em Nova Iorque o Museu Solomon R. Guggenheim, concebido por Frank Lloyd Wright. A sua estrutura helicoidal, radicalmente diferente de qualquer museu anterior, foi um escândalo e depois um ícone da arquitetura americana do século XX.",
+        "year": 1959
+      },
+      {
+        "title": "Batalha de Gaugamela",
+        "description": "Na Batalha de Gaugamela (331 a.C.), Alexandre Magno derrotou definitivamente o rei persa Dário III, assegurando a conquista do Império Persa Aquemênida. Foi uma das batalhas mais decisivas da história antiga e abriu o caminho para o avanço de Alexandre para leste.",
+        "year": -331
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Úrsula i Companyes Màrtirs",
+        "type": "Verge i Màrtir",
+        "description": "Màrtir britànica del segle IV, segons la tradició una princesa cristiana que va ser assassinada pels huns amb les seves companyes a Colònia en tornar d'una peregrinació a Roma. La devoció popular va augmentar el nombre de les seves companyes màrtirs a «11.000 verges». Les Ursulinas, ordre educativa fundada el 1535 per Santa Àngela Merici, porten el seu nom."
+      },
+      {
+        "name": "Sant Hilarió el Gran",
+        "type": "Monjo",
+        "description": "Monjo del segle IV (291–371), fundador del monaquisme a Palestina. Deixeble de Sant Antoni Abat a Egipte, va tornar a la seva terra natal a Gaza i es va convertir en pare espiritual de nombroses comunitats monàstiques a Palestina, Egipte i Xipre."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de les Nacions Unides",
+        "description": "El 24 d'octubre és el Dia de les Nacions Unides, però el 21 d'octubre és la data en què l'ONU inicia les seves commemoracions setmanals. El 24 d'octubre de 1945 va entrar en vigor la Carta de les Nacions Unides, fundant l'organització internacional més important del món."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Anglaterra espera que cada home compleixi amb el seu deure.",
+      "author": "Almirall Horatio Nelson",
+      "context": "Aquesta cèlebre ordre va ser transmesa per l'almirall Nelson a la seva flota abans de la Batalla de Trafalgar (21 d'octubre de 1805), en la qual l'armada britànica va derrotar la flota franco-espanyola. Nelson va morir ferit durant la batalla, en el moment de la seva major victòria."
+    },
+    "motivationalQuote": {
+      "text": "Hi ha dues maneres de viure la vida. Una és com si res fos un miracle. L'altra és com si tot fos un miracle.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Alfred Nobel",
+        "description": "Químic, enginyer i inventor suec (1833–1896), inventor de la dinamita el 1867 i propietari de més de 350 patents. Turmentat per les aplicacions bèl·liques de les seves invencions, va llegar la seva fortuna per finançar els premis que porten el seu nom. Els Premis Nobel s'atorguen des del 1901.",
+        "year": 1833
+      },
+      {
+        "name": "Carrie Fisher",
+        "description": "Actriu i escriptora americana (1956–2016), immortalitzada com la Princesa Leia a la saga Star Wars. Va ser també guionista de Hollywood i activista de la salut mental. La seva autobiografia Wishful Drinking (2008) relata amb humor la seva lluita contra el trastorn bipolar i l'addicció.",
+        "year": 1956
+      },
+      {
+        "name": "Kim Kardashian",
+        "description": "Empresària i celebritat americana (n. 1980), figura central de la cultura pop dels anys 2000 en endavant. Protagonista del reality show Keeping Up with the Kardashians durant 20 temporades. Fundadora de la marca SKIMS i activista per la reforma penal als Estats Units.",
+        "year": 1980
+      }
+    ],
+    "events": [
+      {
+        "title": "Batalla de Trafalgar",
+        "description": "L'esquadra britànica de l'almirall Nelson va derrotar de forma decisiva la flota combinada franco-espanyola sota les ordres de Villeneuve davant el Cap de Trafalgar (Espanya). La victòria va assegurar la supremacia naval britànica durant un segle. Nelson va morir durant la batalla ferit per un tirador gal.",
+        "year": 1805
+      },
+      {
+        "title": "Inauguració del Guggenheim de Nova York",
+        "description": "Va ser inaugurat a Nova York el Museu Solomon R. Guggenheim, dissenyat per Frank Lloyd Wright. La seva estructura helicoïdal, radicalment diferent de qualsevol museu anterior, va ser un escàndol i després una icona de l'arquitectura americana del segle XX.",
+        "year": 1959
+      },
+      {
+        "title": "Batalla de Gaugamela",
+        "description": "A la Batalla de Gaugamela (331 a.C.), Alexandre el Gran va derrotar definitivament el rei persa Darius III, assegurant la conquesta de l'Imperi Persa Aquemènida. Va ser una de les batalles més decisives de la història antiga i va obrir el camí per a l'avanç d'Alexandre cap a l'est.",
+        "year": -331
+      }
+    ]
+  }
+}

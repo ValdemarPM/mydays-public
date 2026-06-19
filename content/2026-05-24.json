@@ -1,0 +1,267 @@
+{
+  "date": "2026-05-24",
+  "es": {
+    "saints": [
+      {
+        "name": "San Simón Stock",
+        "type": "Fraile Carmelita",
+        "description": "Fraile carmelita inglés del siglo XIII, sexto prior general de la Orden del Carmen. Según la tradición, la Virgen María se le apareció en 1251 y le entregó el escapulario marrón de los carmelitas, prometiendo la salvación a quienes lo llevasen con devoción. Es patrono de la Orden Carmelita."
+      },
+      {
+        "name": "Santa María Auxiliadora",
+        "type": "Advocación Mariana",
+        "description": "Advocación de la Virgen María especialmente venerada por los salesianos, fundada por San Juan Bosco. Esta fecha fue elegida por él para honrar a la Virgen como 'auxilium christianorum' (auxilio de los cristianos), en recuerdo de la victoria de Lepanto. La fiesta fue declarada universal en 1815 por el Papa Pío VII."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día del Commonwealth (Día del Imperio)",
+        "description": "Celebrado el segundo lunes de mayo en el Reino Unido, Canadá, Australia y otros países de la Mancomunidad de Naciones, esta festividad honra los lazos históricos, culturales y lingüísticos entre las naciones que formaron parte del Imperio Británico. En 2026 cae el 24 de mayo."
+      },
+      {
+        "name": "Día Europeo del Mar",
+        "description": "Jornada anual de la Unión Europea dedicada a reflexionar sobre la importancia de los océanos, mares y zonas costeras para la economía, la cultura y el medioambiente europeos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El Imperio sobre el que nunca se pone el sol.",
+      "author": "Descripción del Imperio Británico, siglo XIX"
+    },
+    "motivationalQuote": {
+      "text": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      {
+        "name": "Bob Dylan",
+        "description": "Músico, cantante y poeta estadounidense, nacido en 1941, ganador del Premio Nobel de Literatura en 2016. Con canciones como Blowin' in the Wind, The Times They Are a-Changin' y Like a Rolling Stone, es considerado uno de los artistas más influyentes del siglo XX y un símbolo del movimiento de derechos civiles.",
+        "year": "1941"
+      },
+      {
+        "name": "Queen Victoria",
+        "description": "Reina del Reino Unido de Gran Bretaña e Irlanda desde 1837 hasta su muerte en 1901, y primera Emperatriz de la India. Su reinado, el más largo de la historia británica hasta entonces, coincidió con la expansión del Imperio Británico y la Revolución Industrial.",
+        "year": "1819"
+      },
+      {
+        "name": "Priscilla Presley",
+        "description": "Actriz y empresaria estadounidense, ex esposa de Elvis Presley. Además de su papel en la serie Dallas y las películas de la franquicia Naked Gun, es fundadora del museo Graceland y gestora del legado de Elvis Presley.",
+        "year": "1945"
+      }
+    ],
+    "events": [
+      {
+        "title": "Samuel Morse envía el primer telegrama oficial",
+        "description": "Samuel F. B. Morse envió el primer telegrama oficial de la historia a través del cable entre Washington D.C. y Baltimore, con el mensaje '¿Qué obra ha realizado Dios?'. Este hito marcó el inicio de la era de las telecomunicaciones modernas.",
+        "year": "1844"
+      },
+      {
+        "title": "Brooklyn Bridge: inauguración",
+        "description": "Se inauguró el puente de Brooklyn sobre el río Este, que une Manhattan y Brooklyn en Nueva York. En el momento de su apertura era el puente colgante más largo del mundo, con 486 metros de vano central, y se convirtió en símbolo de la ingeniería moderna.",
+        "year": "1883"
+      },
+      {
+        "title": "Eritrea proclama su independencia",
+        "description": "Eritrea proclamó oficialmente su independencia de Etiopía tras 30 años de guerra y un referéndum en el que el 99,8% de la población votó a favor. Se convirtió en el país más joven de África en aquel momento.",
+        "year": "1993"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Simon Stock",
+        "type": "Carmelite Friar",
+        "description": "13th-century English Carmelite friar, sixth Prior General of the Order of Carmel. According to tradition, the Virgin Mary appeared to him in 1251 and gave him the brown scapular of the Carmelites, promising salvation to those who wore it devoutly. He is the patron of the Carmelite Order."
+      },
+      {
+        "name": "Our Lady Help of Christians",
+        "type": "Marian Feast",
+        "description": "A title of the Virgin Mary especially venerated by the Salesians, established by Saint John Bosco. He chose this date to honour the Virgin as 'auxilium christianorum' (helper of Christians), in memory of the Battle of Lepanto. The feast was declared universal in 1815 by Pope Pius VII."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Commonwealth Day (Empire Day)",
+        "description": "Celebrated on the second Monday of May in the United Kingdom, Canada, Australia, and other Commonwealth nations, this holiday honours the historic, cultural, and linguistic ties between nations that were part of the British Empire. In 2026 it falls on 24 May."
+      },
+      {
+        "name": "European Maritime Day",
+        "description": "An annual European Union day dedicated to reflecting on the importance of oceans, seas, and coastal areas for the European economy, culture, and environment."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The empire on which the sun never sets.",
+      "author": "Description of the British Empire, 19th century"
+    },
+    "motivationalQuote": {
+      "text": "Success is the sum of small efforts repeated day in and day out.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      {
+        "name": "Bob Dylan",
+        "description": "American musician, singer, and poet, born in 1941, winner of the Nobel Prize in Literature in 2016. With songs such as Blowin' in the Wind, The Times They Are a-Changin', and Like a Rolling Stone, he is considered one of the most influential artists of the 20th century and a symbol of the civil rights movement.",
+        "year": "1941"
+      },
+      {
+        "name": "Queen Victoria",
+        "description": "Queen of the United Kingdom of Great Britain and Ireland from 1837 until her death in 1901, and first Empress of India. Her reign, the longest in British history at that time, coincided with the expansion of the British Empire and the Industrial Revolution.",
+        "year": "1819"
+      },
+      {
+        "name": "Priscilla Presley",
+        "description": "American actress and businesswoman, former wife of Elvis Presley. As well as her role in the Dallas series and the Naked Gun film franchise, she is the founder of the Graceland museum and manager of Elvis Presley's legacy.",
+        "year": "1945"
+      }
+    ],
+    "events": [
+      {
+        "title": "Samuel Morse Sends First Official Telegram",
+        "description": "Samuel F. B. Morse sent the first official telegram in history over the cable between Washington D.C. and Baltimore, with the message 'What hath God wrought'. This milestone marked the beginning of the era of modern telecommunications.",
+        "year": "1844"
+      },
+      {
+        "title": "Brooklyn Bridge Opening",
+        "description": "The Brooklyn Bridge over the East River, connecting Manhattan and Brooklyn in New York, was inaugurated. At the time of its opening it was the longest suspension bridge in the world, with a central span of 486 metres, and became a symbol of modern engineering.",
+        "year": "1883"
+      },
+      {
+        "title": "Eritrea Declares Independence",
+        "description": "Eritrea officially declared independence from Ethiopia after 30 years of war and a referendum in which 99.8% of the population voted in favour. It became the youngest country in Africa at that time.",
+        "year": "1993"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Simão Stock",
+        "type": "Frade Carmelita",
+        "description": "Frade carmelita inglês do século XIII, sexto prior geral da Ordem do Carmo. Segundo a tradição, a Virgem Maria apareceu-lhe em 1251 e entregou-lhe o escapulário castanho dos carmelitas, prometendo a salvação a quem o usasse com devoção. É patrono da Ordem Carmelita."
+      },
+      {
+        "name": "Nossa Senhora Auxiliadora",
+        "type": "Festa Mariana",
+        "description": "Invocação da Virgem Maria especialmente venerada pelos salesianos, fundada por São João Bosco. Ele escolheu esta data para honrar a Virgem como 'auxilium christianorum' (auxílio dos cristãos), em memória da vitória de Lepanto. A festa foi declarada universal em 1815 pelo Papa Pio VII."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Commonwealth (Dia do Império)",
+        "description": "Celebrado na segunda segunda-feira de maio no Reino Unido, Canadá, Austrália e outros países da Commonwealth, esta festividade homenageia os laços históricos, culturais e linguísticos entre as nações que fizeram parte do Império Britânico. Em 2026 cai a 24 de maio."
+      },
+      {
+        "name": "Dia Europeu do Mar",
+        "description": "Jornada anual da União Europeia dedicada a refletir sobre a importância dos oceanos, mares e zonas costeiras para a economia, a cultura e o ambiente europeus."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O império sobre o qual o sol nunca se põe.",
+      "author": "Descrição do Império Britânico, século XIX"
+    },
+    "motivationalQuote": {
+      "text": "O sucesso é a soma de pequenos esforços repetidos dia após dia.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      {
+        "name": "Bob Dylan",
+        "description": "Músico, cantor e poeta americano, nascido em 1941, ganhador do Prêmio Nobel de Literatura em 2016. Com canções como Blowin' in the Wind, The Times They Are a-Changin' e Like a Rolling Stone, é considerado um dos artistas mais influentes do século XX e símbolo do movimento pelos direitos civis.",
+        "year": "1941"
+      },
+      {
+        "name": "Rainha Vitória",
+        "description": "Rainha do Reino Unido da Grã-Bretanha e Irlanda de 1837 até sua morte em 1901, e primeira Imperatriz da Índia. Seu reinado, o mais longo da história britânica até então, coincidiu com a expansão do Império Britânico e a Revolução Industrial.",
+        "year": "1819"
+      },
+      {
+        "name": "Priscilla Presley",
+        "description": "Atriz e empresária americana, ex-esposa de Elvis Presley. Além de seu papel na série Dallas e nos filmes da franquia Naked Gun, é fundadora do museu Graceland e gestora do legado de Elvis Presley.",
+        "year": "1945"
+      }
+    ],
+    "events": [
+      {
+        "title": "Samuel Morse envia o primeiro telegrama oficial",
+        "description": "Samuel F. B. Morse enviou o primeiro telegrama oficial da história pelo cabo entre Washington D.C. e Baltimore, com a mensagem 'O que Deus realizou?'. Este marco assinalou o início da era das telecomunicações modernas.",
+        "year": "1844"
+      },
+      {
+        "title": "Inauguração da Ponte do Brooklyn",
+        "description": "A Ponte do Brooklyn sobre o Rio Leste, que une Manhattan e Brooklyn em Nova York, foi inaugurada. No momento da sua abertura era a maior ponte suspensa do mundo, com um vão central de 486 metros, e tornou-se símbolo da engenharia moderna.",
+        "year": "1883"
+      },
+      {
+        "title": "Eritreia proclama a independência",
+        "description": "A Eritreia proclamou oficialmente a sua independência da Etiópia após 30 anos de guerra e um referendo em que 99,8% da população votou a favor. Tornou-se o país mais jovem de África naquele momento.",
+        "year": "1993"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Simó Stock",
+        "type": "Frare Carmelita",
+        "description": "Frare carmelita anglès del segle XIII, sisè prior general de l'Orde del Carme. Segons la tradició, la Verge Maria se li va aparèixer el 1251 i li va lliurar l'escapulari marró dels carmelites, prometent la salvació a qui el portés amb devoció. És patró de l'Orde Carmelita."
+      },
+      {
+        "name": "Mare de Déu Auxiliadora",
+        "type": "Festa Mariana",
+        "description": "Advocació de la Verge Maria especialment venerada pels salesians, fundada per Sant Joan Bosco. Ell va escollir aquesta data per honorar la Verge com a 'auxilium christianorum' (auxili dels cristians), en record de la victòria de Lepant. La festa va ser declarada universal el 1815 pel Papa Pius VII."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Commonwealth (Dia de l'Imperi)",
+        "description": "Celebrat el segon dilluns de maig al Regne Unit, el Canadà, Austràlia i altres països de la Commonwealth, aquesta festivitat honra els lligams històrics, culturals i lingüístics entre les nacions que van formar part de l'Imperi Britànic. El 2026 cau el 24 de maig."
+      },
+      {
+        "name": "Dia Europeu del Mar",
+        "description": "Jornada anual de la Unió Europea dedicada a reflexionar sobre la importància dels oceans, mars i zones costaneres per a l'economia, la cultura i el medi ambient europeus."
+      }
+    ],
+    "historicalQuote": {
+      "text": "L'imperi sobre el qual mai no es pon el sol.",
+      "author": "Descripció de l'Imperi Britànic, segle XIX"
+    },
+    "motivationalQuote": {
+      "text": "L'èxit és la suma de petits esforços repetits dia rere dia.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      {
+        "name": "Bob Dylan",
+        "description": "Músic, cantant i poeta americà, nascut el 1941, guanyador del Premi Nobel de Literatura el 2016. Amb cançons com Blowin' in the Wind, The Times They Are a-Changin' i Like a Rolling Stone, és considerat un dels artistes més influents del segle XX i un símbol del moviment pels drets civils.",
+        "year": "1941"
+      },
+      {
+        "name": "Reina Victòria",
+        "description": "Reina del Regne Unit de la Gran Bretanya i Irlanda des de 1837 fins a la seva mort el 1901, i primera Emperadriu de l'Índia. El seu regnat, el més llarg de la història britànica fins aleshores, va coincidir amb l'expansió de l'Imperi Britànic i la Revolució Industrial.",
+        "year": "1819"
+      },
+      {
+        "name": "Priscilla Presley",
+        "description": "Actriu i empresària americana, ex-esposa d'Elvis Presley. A més del seu paper a la sèrie Dallas i a les pel·lícules de la franquícia Naked Gun, és fundadora del museu Graceland i gestora del llegat d'Elvis Presley.",
+        "year": "1945"
+      }
+    ],
+    "events": [
+      {
+        "title": "Samuel Morse envia el primer telegrama oficial",
+        "description": "Samuel F. B. Morse va enviar el primer telegrama oficial de la història pel cable entre Washington D.C. i Baltimore, amb el missatge 'Quines obres ha fet Déu?'. Aquesta fita va marcar l'inici de l'era de les telecomunicacions modernes.",
+        "year": "1844"
+      },
+      {
+        "title": "Inauguració del pont de Brooklyn",
+        "description": "Es va inaugurar el pont de Brooklyn sobre el riu Est, que uneix Manhattan i Brooklyn a Nova York. En el moment de la seva obertura era el pont penjant més llarg del món, amb un vano central de 486 metres, i es va convertir en símbol de l'enginyeria moderna.",
+        "year": "1883"
+      },
+      {
+        "title": "Eritrea proclama la independència",
+        "description": "Eritrea va proclamar oficialment la seva independència d'Etiòpia després de 30 anys de guerra i un referèndum en el qual el 99,8% de la població va votar a favor. Es va convertir en el país més jove d'Àfrica en aquell moment.",
+        "year": "1993"
+      }
+    ]
+  }
+}

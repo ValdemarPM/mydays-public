@@ -1,0 +1,255 @@
+{
+  "date": "2025-12-22",
+  "es": {
+    "saints": [
+      {
+        "name": "San Queremon de Alejandría",
+        "type": "Obispo y Mártir",
+        "description": "Obispo de Alejandría del siglo III, anciano que huyó a las montañas con su esposa durante la persecución de Decio y nunca regresó. Considerado mártir por las privaciones sufridas."
+      },
+      {
+        "name": "San Flaviano de Aquino",
+        "type": "Mártir",
+        "description": "Mártir cristiano italiano del siglo III, ejecutado en Aquino (Lacio) durante la persecución de Diocleciano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Nacional de España (sin festividad oficial)",
+        "description": "Sin observancia oficial internacional destacada. Es el período de preparación navideña más intenso en España y muchos países del mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La ciencia sin religión está coja, la religión sin ciencia está ciega.",
+      "author": "Albert Einstein",
+      "context": "Físico alemán que formuló la teoría de la relatividad, ganador del Premio Nobel de Física en 1921, uno de los mayores genios científicos de todos los tiempos."
+    },
+    "motivationalQuote": {
+      "text": "Si puedes soñarlo, puedes hacerlo.",
+      "author": "Walt Disney"
+    },
+    "births": [
+      {
+        "name": "Jean Racine",
+        "description": "Dramaturgo francés del siglo XVII, junto con Corneille y Molière uno de los tres grandes de la tragedia clásica francesa. Sus obras Fedra, Berenice y Andrómaca son cimas del teatro barroco.",
+        "year": 1639
+      },
+      {
+        "name": "Giacomo Puccini",
+        "description": "Compositor italiano de ópera del siglo XIX, autor de La Bohème, Tosca, Madama Butterfly y Turandot, obras que se cuentan entre las más representadas del repertorio operístico mundial.",
+        "year": 1858
+      },
+      {
+        "name": "Diane Sawyer",
+        "description": "Periodista y presentadora de televisión estadounidense, una de las más influyentes de la historia del periodismo americano, conocida por su trabajo en ABC News y 60 Minutes.",
+        "year": 1945
+      }
+    ],
+    "events": [
+      {
+        "title": "Estreno del primer episodio de Star Wars",
+        "description": "George Lucas dirigió y estrenó La guerra de las galaxias (Star Wars: Episodio IV - Una nueva esperanza), que revolucionó el cine de ciencia ficción y creó una de las franquicias más exitosas de la historia.",
+        "year": 1977
+      },
+      {
+        "title": "Fundación de la URSS",
+        "description": "El Primer Congreso de los Soviets de la URSS proclamó la Unión de Repúblicas Socialistas Soviéticas, un estado federal que agrupaba a Rusia, Ucrania, Bielorrusia y Transcaucasia.",
+        "year": 1922
+      },
+      {
+        "title": "El Parlamento Europeo rechaza el Acuerdo de Brexit",
+        "description": "El Tribunal de Justicia de la UE dictaminó que el Reino Unido podía revocar unilateralmente el artículo 50 del TUE y permanecer en la UE.",
+        "year": 2018
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Chaeremon of Alexandria",
+        "type": "Bishop and Martyr",
+        "description": "Bishop of Alexandria in the 3rd century, an elderly man who fled to the mountains with his wife during the Decian persecution and never returned. Considered a martyr for the hardships he endured."
+      },
+      {
+        "name": "Saint Flavian of Aquino",
+        "type": "Martyr",
+        "description": "Italian Christian martyr of the 3rd century, executed at Aquino (Lazio) during the Diocletian persecution."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Christmas preparation period",
+        "description": "The most intense period of Christmas preparation in Spain and many countries worldwide, with just three days to go until Christmas Eve."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Science without religion is lame, religion without science is blind.",
+      "author": "Albert Einstein",
+      "context": "German physicist who formulated the theory of relativity, Nobel Prize in Physics laureate in 1921, one of the greatest scientific geniuses of all time."
+    },
+    "motivationalQuote": {
+      "text": "If you can dream it, you can do it.",
+      "author": "Walt Disney"
+    },
+    "births": [
+      {
+        "name": "Jean Racine",
+        "description": "French dramatist of the 17th century, alongside Corneille and Molière one of the three giants of French classical tragedy. His works Phèdre, Bérénice, and Andromaque are summits of Baroque theatre.",
+        "year": 1639
+      },
+      {
+        "name": "Giacomo Puccini",
+        "description": "Italian opera composer of the 19th century, author of La Bohème, Tosca, Madama Butterfly, and Turandot, among the most performed works in the world operatic repertoire.",
+        "year": 1858
+      },
+      {
+        "name": "Diane Sawyer",
+        "description": "American journalist and television presenter, one of the most influential in the history of American journalism, known for her work on ABC News and 60 Minutes.",
+        "year": 1945
+      }
+    ],
+    "events": [
+      {
+        "title": "Release of the first Star Wars episode",
+        "description": "George Lucas directed and released Star Wars (Episode IV - A New Hope), which revolutionised science fiction cinema and created one of the most successful franchises in history.",
+        "year": 1977
+      },
+      {
+        "title": "Founding of the USSR",
+        "description": "The First Congress of Soviets of the USSR proclaimed the Union of Soviet Socialist Republics, a federal state uniting Russia, Ukraine, Byelorussia, and Transcaucasia.",
+        "year": 1922
+      },
+      {
+        "title": "EU Court rules UK can revoke Brexit",
+        "description": "The European Court of Justice ruled that the United Kingdom could unilaterally revoke Article 50 of the Treaty on European Union and remain in the EU.",
+        "year": 2018
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Queremon de Alexandria",
+        "type": "Bispo e Mártir",
+        "description": "Bispo de Alexandria do século III, ancião que fugiu para as montanhas com a sua esposa durante a perseguição de Décio e nunca regressou. Considerado mártir pelas privações sofridas."
+      },
+      {
+        "name": "São Flaviano de Aquino",
+        "type": "Mártir",
+        "description": "Mártir cristão italiano do século III, executado em Aquino (Lácio) durante a perseguição de Diocleciano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Período de preparação natalícia",
+        "description": "O período de preparação natalícia mais intenso em Espanha e muitos países do mundo, faltando apenas três dias para a véspera de Natal."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A ciência sem religião é capenga, a religião sem ciência é cega.",
+      "author": "Albert Einstein",
+      "context": "Físico alemão que formulou a teoria da relatividade, vencedor do Prémio Nobel de Física em 1921, um dos maiores génios científicos de todos os tempos."
+    },
+    "motivationalQuote": {
+      "text": "Se você consegue sonhar, você consegue fazer.",
+      "author": "Walt Disney"
+    },
+    "births": [
+      {
+        "name": "Jean Racine",
+        "description": "Dramaturgo francês do século XVII, ao lado de Corneille e Molière um dos três grandes da tragédia clássica francesa. As suas obras Fedra, Berenice e Andrômaca são cumes do teatro barroco.",
+        "year": 1639
+      },
+      {
+        "name": "Giacomo Puccini",
+        "description": "Compositor italiano de ópera do século XIX, autor de La Bohème, Tosca, Madama Butterfly e Turandot, entre as obras mais representadas do repertório operístico mundial.",
+        "year": 1858
+      },
+      {
+        "name": "Diane Sawyer",
+        "description": "Jornalista e apresentadora de televisão americana, uma das mais influentes da história do jornalismo americano, conhecida pelo seu trabalho na ABC News e no 60 Minutes.",
+        "year": 1945
+      }
+    ],
+    "events": [
+      {
+        "title": "Estreia do primeiro episódio de Guerra nas Estrelas",
+        "description": "George Lucas dirigiu e estreou Guerra nas Estrelas (Episódio IV - Uma Nova Esperança), que revolucionou o cinema de ficção científica e criou uma das franquias mais bem-sucedidas da história.",
+        "year": 1977
+      },
+      {
+        "title": "Fundação da URSS",
+        "description": "O Primeiro Congresso dos Sovietes da URSS proclamou a União das Repúblicas Socialistas Soviéticas, um estado federal que agrupava a Rússia, a Ucrânia, a Bielorrússia e a Transcaucásia.",
+        "year": 1922
+      },
+      {
+        "title": "Tribunal da UE decide que o Reino Unido pode revogar o Brexit",
+        "description": "O Tribunal de Justiça da UE decidiu que o Reino Unido poderia revogar unilateralmente o artigo 50.º do Tratado da União Europeia e permanecer na UE.",
+        "year": 2018
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Queremon d'Alexandria",
+        "type": "Bisbe i Màrtir",
+        "description": "Bisbe d'Alexandria del segle III, ancià que va fugir a les muntanyes amb la seva esposa durant la persecució de Deci i mai va tornar. Considerat màrtir per les privacions sofertes."
+      },
+      {
+        "name": "Sant Flavià d'Aquino",
+        "type": "Màrtir",
+        "description": "Màrtir cristià italià del segle III, executat a Aquino (Laci) durant la persecució de Dioclecià."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Període de preparació nadalenca",
+        "description": "El període de preparació nadalenca més intens a Espanya i molts països del món, faltant tan sols tres dies per a la Nit de Nadal."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La ciència sense religió és coixa, la religió sense ciència és cega.",
+      "author": "Albert Einstein",
+      "context": "Físic alemany que va formular la teoria de la relativitat, guanyador del Premi Nobel de Física el 1921, un dels majors genis científics de tots els temps."
+    },
+    "motivationalQuote": {
+      "text": "Si ho pots somiar, ho pots fer.",
+      "author": "Walt Disney"
+    },
+    "births": [
+      {
+        "name": "Jean Racine",
+        "description": "Dramaturg francès del segle XVII, al costat de Corneille i Molière un dels tres grans de la tragèdia clàssica francesa. Les seves obres Fedra, Berenice i Andrômaca són cims del teatre barroc.",
+        "year": 1639
+      },
+      {
+        "name": "Giacomo Puccini",
+        "description": "Compositor italià d'òpera del segle XIX, autor de La Bohème, Tosca, Madama Butterfly i Turandot, entre les obres més representades del repertori operístic mundial.",
+        "year": 1858
+      },
+      {
+        "name": "Diane Sawyer",
+        "description": "Periodista i presentadora de televisió nord-americana, una de les més influents de la història del periodisme americà, coneguda pel seu treball a ABC News i 60 Minutes.",
+        "year": 1945
+      }
+    ],
+    "events": [
+      {
+        "title": "Estrena del primer episodi de La Guerra de les Galàxies",
+        "description": "George Lucas va dirigir i estrenar Star Wars (Episodi IV - Una nova esperança), que va revolucionar el cinema de ciència-ficció i va crear una de les franquícies més exitoses de la història.",
+        "year": 1977
+      },
+      {
+        "title": "Fundació de l'URSS",
+        "description": "El Primer Congrés dels Soviets de l'URSS va proclamar la Unió de Repúbliques Socialistes Soviètiques, un estat federal que agrupava Rússia, Ucraïna, Bielorússia i Transcaucàsia.",
+        "year": 1922
+      },
+      {
+        "title": "Tribunal de la UE decideix que el Regne Unit pot revocar el Brexit",
+        "description": "El Tribunal de Justícia de la UE va dictaminar que el Regne Unit podia revocar unilateralment l'article 50 del Tractat de la Unió Europea i romandre a la UE.",
+        "year": 2018
+      }
+    ]
+  }
+}

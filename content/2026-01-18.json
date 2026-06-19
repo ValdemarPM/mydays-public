@@ -1,0 +1,255 @@
+{
+  "date": "2026-01-18",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Prisca",
+        "type": "Virgen y Mártir",
+        "description": "Mártir romana del siglo I o III, venerada en la Iglesia Primitiva. Según la tradición, San Pedro la bautizó y fue martirizada bajo el emperador Claudio."
+      },
+      {
+        "name": "San Leobardo de Marmoutier",
+        "type": "Recluso",
+        "description": "Monje francés del siglo VI que vivió como recluso durante doce años en una celda junto a la abadía de Marmoutier bajo la guía espiritual de San Gregorio de Tours."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Nacional de la Línea de Actuación contra el Cáncer de Tiroides",
+        "description": "Jornada para concienciar sobre el cáncer de tiroides, sus síntomas y la importancia del diagnóstico temprano en el tratamiento de esta enfermedad."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La audacia tiene genio, poder y magia en sí misma.",
+      "author": "Johann Wolfgang von Goethe",
+      "context": "El gran poeta y escritor alemán Johann Wolfgang von Goethe (nacido el 28 de agosto de 1749) escribió estas palabras en su poema dramático Fausto. La cita anima a actuar con determinación para hacer realidad los sueños."
+    },
+    "motivationalQuote": {
+      "text": "La diferencia entre lo ordinario y lo extraordinario es ese pequeño «extra».",
+      "author": "Jimmy Johnson"
+    },
+    "births": [
+      {
+        "name": "Cary Grant",
+        "description": "Actor británico-estadounidense de la Edad de Oro de Hollywood, conocido por su elegancia y versatilidad en comedias y thrillers. Protagonizó clásicos como Con la muerte en los talones y La fiera de mi niña.",
+        "year": 1904
+      },
+      {
+        "name": "Kevin Costner",
+        "description": "Actor, director y productor estadounidense, ganador del Óscar por Bailando con lobos, famoso también por películas como Field of Dreams y The Bodyguard.",
+        "year": 1955
+      },
+      {
+        "name": "Dave Bautista",
+        "description": "Luchador profesional y actor estadounidense, conocido por su papel de Drax el Destructor en la saga Guardianes de la Galaxia del Universo Marvel.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "La Conferencia de Paz de París abre sus puertas",
+        "description": "Se inauguró la Conferencia de Paz de París, que daría lugar al Tratado de Versalles y definiría el nuevo orden mundial tras la Primera Guerra Mundial.",
+        "year": 1919
+      },
+      {
+        "title": "Apple presenta el iPod",
+        "description": "Apple anunció el lanzamiento del iPod, el reproductor de música digital portátil que transformó la industria musical y abrió el camino al iTunes Store.",
+        "year": 2001
+      },
+      {
+        "title": "El Polo Sur es alcanzado por primera vez",
+        "description": "El explorador noruego Roald Amundsen y su equipo de cuatro hombres llegaron al Polo Sur, convirtiéndose en la primera expedición en alcanzar ese punto.",
+        "year": 1912
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Prisca",
+        "type": "Virgin and Martyr",
+        "description": "Roman martyr of the 1st or 3rd century, venerated in the Early Church. According to tradition, she was baptised by Saint Peter and martyred under Emperor Claudius."
+      },
+      {
+        "name": "Saint Leobard of Marmoutier",
+        "type": "Recluse",
+        "description": "French monk of the 6th century who lived as a recluse for twelve years in a cell beside Marmoutier Abbey under the spiritual guidance of Saint Gregory of Tours."
+      }
+    ],
+    "observances": [
+      {
+        "name": "National Thyroid Cancer Action Line Day",
+        "description": "A day to raise awareness of thyroid cancer, its symptoms and the importance of early diagnosis in treating the disease."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Boldness has genius, power, and magic in it.",
+      "author": "Johann Wolfgang von Goethe",
+      "context": "The great German poet and writer Johann Wolfgang von Goethe (born 28 August 1749) wrote these words in his dramatic poem Faust. The quote encourages acting with determination to make dreams come true."
+    },
+    "motivationalQuote": {
+      "text": "The difference between ordinary and extraordinary is that little 'extra'.",
+      "author": "Jimmy Johnson"
+    },
+    "births": [
+      {
+        "name": "Cary Grant",
+        "description": "British-American actor of Hollywood's Golden Age, known for his elegance and versatility in comedies and thrillers. He starred in classics such as North by Northwest and Bringing Up Baby.",
+        "year": 1904
+      },
+      {
+        "name": "Kevin Costner",
+        "description": "American actor, director and producer, Oscar winner for Dances with Wolves, also famous for Field of Dreams and The Bodyguard.",
+        "year": 1955
+      },
+      {
+        "name": "Dave Bautista",
+        "description": "American professional wrestler and actor, known for his role as Drax the Destroyer in the Guardians of the Galaxy franchise in the Marvel Universe.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "Paris Peace Conference opens",
+        "description": "The Paris Peace Conference opened, leading to the Treaty of Versailles and defining the new world order after World War I.",
+        "year": 1919
+      },
+      {
+        "title": "Apple introduces the iPod",
+        "description": "Apple announced the launch of the iPod, the portable digital music player that transformed the music industry and paved the way for the iTunes Store.",
+        "year": 2001
+      },
+      {
+        "title": "South Pole reached for the first time",
+        "description": "Norwegian explorer Roald Amundsen and his team of four men reached the South Pole, becoming the first expedition to achieve this feat.",
+        "year": 1912
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Prisca",
+        "type": "Virgem e Mártir",
+        "description": "Mártir romana dos séculos I ou III, venerada na Igreja Primitiva. Segundo a tradição, foi batizada por São Pedro e martirizada sob o imperador Cláudio."
+      },
+      {
+        "name": "São Leobardo de Marmoutier",
+        "type": "Recluso",
+        "description": "Monge francês do século VI que viveu como recluso durante doze anos numa cela junto à abadia de Marmoutier sob a orientação espiritual de São Gregório de Tours."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional da Linha de Ação contra o Câncer de Tireoide",
+        "description": "Jornada para conscientizar sobre o câncer de tireoide, seus sintomas e a importância do diagnóstico precoce no tratamento desta doença."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A audácia tem gênio, poder e magia em si mesma.",
+      "author": "Johann Wolfgang von Goethe",
+      "context": "O grande poeta e escritor alemão Johann Wolfgang von Goethe (nascido em 28 de agosto de 1749) escreveu estas palavras em seu poema dramático Fausto. A citação encoraja a agir com determinação para tornar os sonhos realidade."
+    },
+    "motivationalQuote": {
+      "text": "A diferença entre o ordinário e o extraordinário é aquele pequeno «extra».",
+      "author": "Jimmy Johnson"
+    },
+    "births": [
+      {
+        "name": "Cary Grant",
+        "description": "Ator britânico-americano da Idade de Ouro de Hollywood, conhecido por sua elegância e versatilidade em comédias e thrillers. Estrelou clássicos como Intriga Internacional e A Noiva Era Ele.",
+        "year": 1904
+      },
+      {
+        "name": "Kevin Costner",
+        "description": "Ator, diretor e produtor americano, vencedor do Oscar por Dança com Lobos, famoso também por Field of Dreams e O Guarda-Costas.",
+        "year": 1955
+      },
+      {
+        "name": "Dave Bautista",
+        "description": "Lutador profissional e ator americano, conhecido por seu papel de Drax o Destruidor na saga Guardiões da Galáxia do Universo Marvel.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "Conferência de Paz de Paris abre",
+        "description": "A Conferência de Paz de Paris foi inaugurada, levando ao Tratado de Versalhes e definindo a nova ordem mundial após a Primeira Guerra Mundial.",
+        "year": 1919
+      },
+      {
+        "title": "Apple apresenta o iPod",
+        "description": "A Apple anunciou o lançamento do iPod, o reprodutor de música digital portátil que transformou a indústria musical e abriu caminho para a iTunes Store.",
+        "year": 2001
+      },
+      {
+        "title": "Polo Sul alcançado pela primeira vez",
+        "description": "O explorador norueguês Roald Amundsen e sua equipe de quatro homens chegaram ao Polo Sul, tornando-se a primeira expedição a atingir esse ponto.",
+        "year": 1912
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Prisca",
+        "type": "Verge i Màrtir",
+        "description": "Màrtir romana dels segles I o III, venerada a l'Església Primitiva. Segons la tradició, va ser batejada per Sant Pere i martiritzada sota l'emperador Claudi."
+      },
+      {
+        "name": "Sant Leobard de Marmoutier",
+        "type": "Reclús",
+        "description": "Monjo francès del segle VI que va viure com a reclús durant dotze anys en una cel·la al costat de l'abadia de Marmoutier sota la guia espiritual de Sant Gregori de Tours."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional de Conscienciació sobre el Càncer de Tiroide",
+        "description": "Jornada per conscienciar sobre el càncer de tiroide, els seus símptomes i la importància del diagnòstic precoç en el tractament d'aquesta malaltia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "L'audàcia té geni, poder i màgia en si mateixa.",
+      "author": "Johann Wolfgang von Goethe",
+      "context": "El gran poeta i escriptor alemany Johann Wolfgang von Goethe (nascut el 28 d'agost de 1749) va escriure aquestes paraules al seu poema dramàtic Faust. La cita anima a actuar amb determinació per fer realitat els somnis."
+    },
+    "motivationalQuote": {
+      "text": "La diferència entre l'ordinari i l'extraordinari és aquell petit «extra».",
+      "author": "Jimmy Johnson"
+    },
+    "births": [
+      {
+        "name": "Cary Grant",
+        "description": "Actor britànic-nord-americà de l'Edat d'Or d'Hollywood, conegut per la seva elegància i versatilitat en comèdies i thrillers. Va protagonitzar clàssics com Amb la mort als talons i L'hereva.",
+        "year": 1904
+      },
+      {
+        "name": "Kevin Costner",
+        "description": "Actor, director i productor nord-americà, guanyador de l'Oscar per Dansa amb llops, famós també per Field of Dreams i El guardaespatlles.",
+        "year": 1955
+      },
+      {
+        "name": "Dave Bautista",
+        "description": "Lluitador professional i actor nord-americà, conegut pel seu paper de Drax el Destructor a la saga Guardians de la Galàxia de l'Univers Marvel.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "La Conferència de Pau de París obre les portes",
+        "description": "La Conferència de Pau de París va ser inaugurada, donant lloc al Tractat de Versalles i definint el nou ordre mundial després de la Primera Guerra Mundial.",
+        "year": 1919
+      },
+      {
+        "title": "Apple presenta l'iPod",
+        "description": "Apple va anunciar el llançament de l'iPod, el reproductor de música digital portàtil que va transformar la indústria musical i va obrir el camí a l'iTunes Store.",
+        "year": 2001
+      },
+      {
+        "title": "El Pol Sud és assolit per primera vegada",
+        "description": "L'explorador noruec Roald Amundsen i el seu equip de quatre homes van arribar al Pol Sud, convertint-se en la primera expedició a assolir aquest punt.",
+        "year": 1912
+      }
+    ]
+  }
+}

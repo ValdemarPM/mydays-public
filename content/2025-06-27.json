@@ -1,0 +1,255 @@
+{
+  "date": "2025-06-27",
+  "es": {
+    "saints": [
+      {
+        "name": "San Cirilo de Alejandría",
+        "type": "Doctor de la Iglesia",
+        "description": "Patriarca de Alejandría en el siglo V y uno de los teólogos más influyentes del primer milenio cristiano. Presidió el Concilio de Éfeso en 431, donde se proclamó a María como Theotokos (Madre de Dios), refutando la herejía nestoriana. Sus escritos sobre la naturaleza de Cristo son fundamentales para la teología cristológica."
+      },
+      {
+        "name": "San Ladislao I de Hungría",
+        "type": "Rey",
+        "description": "Rey de Hungría del siglo XI canonizado en 1192, conocido por su gobierno justo y su labor de consolidación del reino cristiano húngaro. Promulgó leyes para la protección de los campesinos y la Iglesia, y su reinado fue una etapa de estabilidad y expansión territorial para Hungría."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de las Microempresas y las Pequeñas y Medianas Empresas",
+        "description": "Proclamado por la ONU para reconocer el papel fundamental de las pymes y microempresas en el desarrollo económico sostenible, la generación de empleo y la reducción de la pobreza en todo el mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La televisión ha hecho real al mundo. Es la primera vez en la historia que el ojo humano puede ver lo que ocurre en otro lugar en el mismo instante en que ocurre.",
+      "author": "John Logie Baird",
+      "context": "Reflexión del inventor escocés John Logie Baird, quien realizó la primera demostración pública de televisión en el Great Central Hotel de Londres el 27 de junio de 1925."
+    },
+    "motivationalQuote": {
+      "text": "El carácter es simplemente el hábito durante mucho tiempo.",
+      "author": "Plutarco"
+    },
+    "births": [
+      {
+        "name": "Helen Keller",
+        "description": "Escritora, activista y oradora estadounidense que quedó sorda y ciega a los 19 meses de vida. Con la ayuda de su maestra Anne Sullivan aprendió a comunicarse y se convirtió en la primera persona sordociega en obtener un título universitario. Su vida es símbolo universal de superación ante la adversidad.",
+        "year": 1880
+      },
+      {
+        "name": "Luigi Pirandello",
+        "description": "Dramaturgo y novelista italiano, premio Nobel de Literatura en 1934. Autor de 'Seis personajes en busca de autor' y 'Enrique IV', es considerado el padre del teatro del absurdo y de la metateatralidad, cuestionando la naturaleza de la realidad y la identidad en sus obras.",
+        "year": 1867
+      },
+      {
+        "name": "Tobey Maguire",
+        "description": "Actor estadounidense conocido mundialmente por encarnar a Peter Parker / Spider-Man en la trilogía de Sam Raimi entre 2002 y 2007. Ha protagonizado también dramas aclamados como 'El lado bueno de las cosas' (The Ice Storm) y 'El gran Gatsby'.",
+        "year": 1975
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera transmisión de televisión pública del mundo",
+        "description": "El 27 de junio de 1925, John Logie Baird realizó la primera demostración pública de televisión en funcionamiento en el Great Central Hotel de Londres. Aunque la imagen era tosca, el experimento demostró que la transmisión de imágenes en movimiento a distancia era técnicamente posible.",
+        "year": 1925
+      },
+      {
+        "title": "El presidente Truman ordena intervenir en Corea",
+        "description": "El 27 de junio de 1950, dos días después de que Corea del Norte invadiera el sur, el presidente Harry Truman ordenó a las fuerzas militares estadounidenses intervenir en el conflicto siguiendo la resolución del Consejo de Seguridad de la ONU, marcando el inicio de la participación americana en la Guerra de Corea.",
+        "year": 1950
+      },
+      {
+        "title": "España gana la Eurocopa de fútbol",
+        "description": "El 27 de junio de 2008, la selección española de fútbol derrotó a Alemania por 1-0 en la final de la Eurocopa celebrada en Viena con un gol de Fernando Torres. Fue el primer gran título del fútbol español en 44 años e inauguró una era dorada de victorias consecutivas.",
+        "year": 2008
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Cyril of Alexandria",
+        "type": "Doctor of the Church",
+        "description": "Patriarch of Alexandria in the 5th century and one of the most influential theologians of the first Christian millennium. He presided over the Council of Ephesus in 431, where Mary was proclaimed Theotokos (Mother of God), refuting the Nestorian heresy. His writings on the nature of Christ are fundamental to Christological theology."
+      },
+      {
+        "name": "Saint Ladislaus I of Hungary",
+        "type": "King",
+        "description": "An 11th-century King of Hungary canonized in 1192, known for his just rule and his work consolidating the Hungarian Christian kingdom. He enacted laws protecting peasants and the Church, and his reign was a period of stability and territorial expansion for Hungary."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Day of Micro, Small and Medium-sized Enterprises",
+        "description": "Proclaimed by the UN to recognize the fundamental role of SMEs and micro-enterprises in sustainable economic development, job creation, and poverty reduction around the world."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Television has made real the world. It is the first time in history the human eye has been able to see what is happening elsewhere at the very moment it happens.",
+      "author": "John Logie Baird",
+      "context": "Reflection from the Scottish inventor John Logie Baird, who gave the world's first public television demonstration at the Great Central Hotel in London on June 27, 1925."
+    },
+    "motivationalQuote": {
+      "text": "Character is simply long-held habit.",
+      "author": "Plutarch"
+    },
+    "births": [
+      {
+        "name": "Helen Keller",
+        "description": "American writer, activist, and speaker who became deaf and blind at 19 months of age. With the help of her teacher Anne Sullivan, she learned to communicate and became the first deafblind person to earn a university degree. Her life is a universal symbol of overcoming adversity.",
+        "year": 1880
+      },
+      {
+        "name": "Luigi Pirandello",
+        "description": "Italian playwright and novelist, Nobel Prize in Literature in 1934. Author of 'Six Characters in Search of an Author' and 'Henry IV', he is considered the father of the theatre of the absurd and metatheatre, questioning the nature of reality and identity in his works.",
+        "year": 1867
+      },
+      {
+        "name": "Tobey Maguire",
+        "description": "American actor known worldwide for portraying Peter Parker / Spider-Man in Sam Raimi's trilogy from 2002 to 2007. He has also starred in acclaimed dramas such as 'The Ice Storm' and 'The Great Gatsby'.",
+        "year": 1975
+      }
+    ],
+    "events": [
+      {
+        "title": "World's First Public Television Demonstration",
+        "description": "On June 27, 1925, John Logie Baird gave the first public demonstration of a working television at the Great Central Hotel in London. Though the image was crude, the experiment proved that the transmission of moving images over a distance was technically possible.",
+        "year": 1925
+      },
+      {
+        "title": "President Truman Orders U.S. Forces into Korea",
+        "description": "On June 27, 1950, two days after North Korea invaded the south, President Harry Truman ordered U.S. military forces to intervene in the conflict following a UN Security Council resolution, marking the start of American involvement in the Korean War.",
+        "year": 1950
+      },
+      {
+        "title": "Spain Wins the UEFA European Championship",
+        "description": "On June 27, 2008, the Spanish football team defeated Germany 1-0 in the Euro final held in Vienna, with a goal from Fernando Torres. It was Spain's first major title in 44 years and launched a golden era of consecutive victories.",
+        "year": 2008
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Cirilo de Alexandria",
+        "type": "Doutor da Igreja",
+        "description": "Patriarca de Alexandria no século V e um dos teólogos mais influentes do primeiro milênio cristão. Presidiu o Concílio de Éfeso em 431, onde Maria foi proclamada Theotokos (Mãe de Deus), refutando a heresia nestoriana. Seus escritos sobre a natureza de Cristo são fundamentais para a teologia cristológica."
+      },
+      {
+        "name": "São Ladislau I da Hungria",
+        "type": "Rei",
+        "description": "Rei da Hungria do século XI canonizado em 1192, conhecido pelo seu governo justo e pelo seu trabalho de consolidação do reino cristão húngaro. Promulgou leis para a proteção dos camponeses e da Igreja, e seu reinado foi um período de estabilidade e expansão territorial para a Hungria."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia das Micro, Pequenas e Médias Empresas",
+        "description": "Proclamado pela ONU para reconhecer o papel fundamental das PMEs e microempresas no desenvolvimento econômico sustentável, na geração de empregos e na redução da pobreza em todo o mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A televisão tornou o mundo real. É a primeira vez na história que o olho humano pode ver o que está acontecendo em outro lugar no exato momento em que acontece.",
+      "author": "John Logie Baird",
+      "context": "Reflexão do inventor escocês John Logie Baird, que realizou a primeira demonstração pública de televisão no Great Central Hotel de Londres em 27 de junho de 1925."
+    },
+    "motivationalQuote": {
+      "text": "O caráter é simplesmente um hábito por longo tempo.",
+      "author": "Plutarco"
+    },
+    "births": [
+      {
+        "name": "Helen Keller",
+        "description": "Escritora, ativista e oradora americana que ficou surda e cega aos 19 meses de vida. Com a ajuda de sua professora Anne Sullivan, aprendeu a se comunicar e tornou-se a primeira pessoa surda-cega a obter um diploma universitário. Sua vida é um símbolo universal de superação diante da adversidade.",
+        "year": 1880
+      },
+      {
+        "name": "Luigi Pirandello",
+        "description": "Dramaturgo e romancista italiano, Prêmio Nobel de Literatura em 1934. Autor de 'Seis personagens à procura de um autor' e 'Henrique IV', é considerado o pai do teatro do absurdo e da metateatralidade, questionando a natureza da realidade e da identidade em suas obras.",
+        "year": 1867
+      },
+      {
+        "name": "Tobey Maguire",
+        "description": "Ator americano conhecido mundialmente por interpretar Peter Parker / Homem-Aranha na trilogia de Sam Raimi entre 2002 e 2007. Também estrelou dramas aclamados como 'A Tempestade de Gelo' e 'O Grande Gatsby'.",
+        "year": 1975
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeira Demonstração Pública de Televisão do Mundo",
+        "description": "Em 27 de junho de 1925, John Logie Baird realizou a primeira demonstração pública de uma televisão em funcionamento no Great Central Hotel de Londres. Embora a imagem fosse rudimentar, o experimento provou que a transmissão de imagens em movimento à distância era tecnicamente possível.",
+        "year": 1925
+      },
+      {
+        "title": "O Presidente Truman Ordena Forças dos EUA na Coreia",
+        "description": "Em 27 de junho de 1950, dois dias após a Coreia do Norte invadir o sul, o presidente Harry Truman ordenou a intervenção das forças militares americanas no conflito seguindo uma resolução do Conselho de Segurança da ONU, marcando o início da participação americana na Guerra da Coreia.",
+        "year": 1950
+      },
+      {
+        "title": "Espanha Vence o Campeonato Europeu de Futebol",
+        "description": "Em 27 de junho de 2008, a seleção espanhola de futebol derrotou a Alemanha por 1-0 na final da Eurocopa realizada em Viena, com gol de Fernando Torres. Foi o primeiro grande título do futebol espanhol em 44 anos e inaugurou uma era dourada de vitórias consecutivas.",
+        "year": 2008
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Ciril d'Alexandria",
+        "type": "Doctor de l'Església",
+        "description": "Patriarca d'Alexandria al segle V i un dels teòlegs més influents del primer mil·lenni cristià. Va presidir el Concili d'Efes el 431, on Maria va ser proclamada Theotokos (Mare de Déu), refutant l'heretgia nestoriana. Els seus escrits sobre la naturalesa de Crist són fonamentals per a la teologia cristològica."
+      },
+      {
+        "name": "Sant Ladislau I d'Hongria",
+        "type": "Rei",
+        "description": "Rei d'Hongria del segle XI canonitzat el 1192, conegut pel seu govern just i per la seva tasca de consolidació del regne cristià hongarès. Va promulgar lleis per a la protecció dels camperols i l'Església, i el seu regnat va ser una etapa d'estabilitat i expansió territorial per a Hongria."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de les Micro, Petites i Mitjanes Empreses",
+        "description": "Proclamat per l'ONU per reconèixer el paper fonamental de les pimes i microempreses en el desenvolupament econòmic sostenible, la generació d'ocupació i la reducció de la pobresa a tot el món."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La televisió ha fet real el món. És la primera vegada en la història que l'ull humà pot veure el que passa en un altre lloc en el mateix instant en que passa.",
+      "author": "John Logie Baird",
+      "context": "Reflexió de l'inventor escocès John Logie Baird, que va realitzar la primera demostració pública de televisió al Great Central Hotel de Londres el 27 de juny de 1925."
+    },
+    "motivationalQuote": {
+      "text": "El caràcter és simplement un hàbit mantingut durant molt de temps.",
+      "author": "Plutarc"
+    },
+    "births": [
+      {
+        "name": "Helen Keller",
+        "description": "Escriptora, activista i oradora americana que va quedar sorda i cega als 19 mesos de vida. Amb l'ajuda de la seva mestra Anne Sullivan va aprendre a comunicar-se i es va convertir en la primera persona sordcega a obtenir un títol universitari. La seva vida és un símbol universal de superació davant l'adversitat.",
+        "year": 1880
+      },
+      {
+        "name": "Luigi Pirandello",
+        "description": "Dramaturg i novel·lista italià, Premi Nobel de Literatura el 1934. Autor de 'Sis personatges a la recerca d'autor' i 'Enric IV', és considerat el pare del teatre de l'absurd i de la metateatralitat, qüestionant la naturalesa de la realitat i la identitat en les seves obres.",
+        "year": 1867
+      },
+      {
+        "name": "Tobey Maguire",
+        "description": "Actor americà conegut mundialment per encarnar Peter Parker / Spider-Man a la trilogia de Sam Raimi entre 2002 i 2007. Ha protagonitzat també drames aclamats com 'La tempesta de gel' i 'El gran Gatsby'.",
+        "year": 1975
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera Demostració Pública de Televisió del Món",
+        "description": "El 27 de juny de 1925, John Logie Baird va realitzar la primera demostració pública d'una televisió en funcionament al Great Central Hotel de Londres. Tot i que la imatge era tosca, l'experiment va demostrar que la transmissió d'imatges en moviment a distància era tècnicament possible.",
+        "year": 1925
+      },
+      {
+        "title": "El President Truman Ordena Intervenir a Corea",
+        "description": "El 27 de juny de 1950, dos dies després que Corea del Nord envaís el sud, el president Harry Truman va ordenar a les forces militars nord-americanes intervenir en el conflicte seguint una resolució del Consell de Seguretat de l'ONU, marcant l'inici de la participació americana a la Guerra de Corea.",
+        "year": 1950
+      },
+      {
+        "title": "Espanya Guanya la Eurocopa de Futbol",
+        "description": "El 27 de juny de 2008, la selecció espanyola de futbol va derrotar Alemanya per 1-0 a la final de l'Eurocopa celebrada a Viena, amb un gol de Fernando Torres. Va ser el primer gran títol del futbol espanyol en 44 anys i va inaugurar una era daurada de victòries consecutives.",
+        "year": 2008
+      }
+    ]
+  }
+}

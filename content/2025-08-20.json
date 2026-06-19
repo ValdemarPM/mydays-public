@@ -1,0 +1,291 @@
+{
+  "date": "2025-08-20",
+  "es": {
+    "saints": [
+      {
+        "name": "San Bernardo de Claraval",
+        "type": "Abad y Doctor de la Iglesia",
+        "description": "Monje cisterciense francés (1090–1153), abad de Claraval, una de las figuras más influyentes del siglo XII. Promotor de la Segunda Cruzada, defensor de la reforma monástica y místico mariano. Doctor de la Iglesia. Patrono de los apicultores y los académicos."
+      },
+      {
+        "name": "Santa Filomena",
+        "type": "Virgen y Mártir",
+        "description": "En algunos calendarios tradicionales se conmemora hoy. Mártir romana cuyo culto fue extendido por el padre Filippo de Lucia en el siglo XIX."
+      },
+      {
+        "name": "San Samuel",
+        "type": "Profeta",
+        "description": "Profeta y juez bíblico del Antiguo Testamento que ungió a los dos primeros reyes de Israel: Saúl y David. Venerado tanto en la tradición cristiana como en la judía e islámica."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de San Esteban — Fiesta Nacional de Hungría",
+        "description": "Hungría celebra el 20 de agosto la coronación de su primer rey, San Esteban I, en el año 1000. Es la fiesta nacional más importante del país y coincide con un espectacular festival de fuegos artificiales sobre el Danubio."
+      },
+      {
+        "name": "Día Mundial del Mosquito",
+        "description": "Conmemorado el 20 de agosto desde 1897, fecha en que Sir Ronald Ross descubrió que los mosquitos transmiten la malaria. Promueve la conciencia sobre esta enfermedad que causa más de 600.000 muertes anuales."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La medida del amor es amar sin medida.",
+      "author": "San Bernardo de Claraval",
+      "context": "El Doctor Melifluo, cuya fiesta se celebra hoy, sintetizó en esta paradoja la espiritualidad del amor cristiano: el amor verdadero trasciende cualquier cálculo o limitación, pues su naturaleza es la entrega total."
+    },
+    "motivationalQuote": {
+      "text": "El que tiene un porqué para vivir puede soportar casi cualquier cómo.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "H. P. Lovecraft",
+        "description": "Escritor americano (1890–1937), padre del horror cósmico moderno. Sus relatos como La llamada de Cthulhu y Las montañas de la locura crearon un universo mitológico propio que sigue influyendo en la cultura popular.",
+        "year": 1890
+      },
+      {
+        "name": "Connie Chung",
+        "description": "Periodista y presentadora de televisión americana, una de las primeras mujeres y la primera persona de origen chino-americano en ser copresentadora del noticiario nocturno de una cadena principal de EE. UU.",
+        "year": 1946
+      },
+      {
+        "name": "Demi Lovato",
+        "description": "Cantante y actriz americana conocida por sus potentes baladas y su activismo en salud mental. Sus álbumes incluyen éxitos como Skyscraper y Sorry Not Sorry.",
+        "year": 1992
+      }
+    ],
+    "events": [
+      {
+        "title": "Voyager 2 lanzada al espacio",
+        "description": "El 20 de agosto de 1977, la NASA lanzó la sonda Voyager 2, que ha sobrevolado Júpiter, Saturno, Urano y Neptuno y en 2018 se convirtió en el segundo objeto humano en cruzar la heliopausa, entrando al espacio interestelar.",
+        "year": 1977
+      },
+      {
+        "title": "Invasión soviética de Checoslovaquia",
+        "description": "En la madrugada del 20 al 21 de agosto de 1968, las tropas del Pacto de Varsovia encabezadas por la URSS invadieron Checoslovaquia para aplastar la Primavera de Praga, el movimiento reformista liderado por Alexander Dubček.",
+        "year": 1968
+      },
+      {
+        "title": "Muere León Trotski",
+        "description": "El 20 de agosto de 1940, León Trotski murió en Ciudad de México a causa de las heridas infligidas el día anterior por el agente soviético Ramón Mercader, que le golpeó en la cabeza con un piolet.",
+        "year": 1940
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Bernard of Clairvaux",
+        "type": "Abbot and Doctor of the Church",
+        "description": "French Cistercian monk (1090–1153), abbot of Clairvaux, one of the most influential figures of the 12th century. Promoter of the Second Crusade, defender of monastic reform, and Marian mystic. Doctor of the Church. Patron of beekeepers and academics."
+      },
+      {
+        "name": "Saint Philibert",
+        "type": "Abbot",
+        "description": "7th-century Frankish monk and abbot who founded the Abbey of Jumièges in Normandy. He was later exiled for his opposition to the mayor of the palace Ebroin and founded further monasteries."
+      },
+      {
+        "name": "Saint Samuel",
+        "type": "Prophet",
+        "description": "Biblical prophet and judge of the Old Testament who anointed the first two kings of Israel: Saul and David. Venerated in the Christian, Jewish, and Islamic traditions."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Saint Stephen's Day — National Day of Hungary",
+        "description": "Hungary celebrates on 20 August the coronation of its first king, Saint Stephen I, in the year 1000. It is the most important national holiday in the country, marked by a spectacular fireworks display over the Danube."
+      },
+      {
+        "name": "World Mosquito Day",
+        "description": "Commemorated on 20 August since 1897, the date on which Sir Ronald Ross discovered that mosquitoes transmit malaria. It promotes awareness of a disease that causes more than 600,000 deaths annually."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The measure of love is to love without measure.",
+      "author": "Saint Bernard of Clairvaux",
+      "context": "The Doctor Mellifluus, whose feast is celebrated today, captured in this paradox the spirituality of Christian love: true love transcends all calculation or limitation, for its nature is one of total self-giving."
+    },
+    "motivationalQuote": {
+      "text": "He who has a why to live can bear almost any how.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "H. P. Lovecraft",
+        "description": "American writer (1890–1937), father of modern cosmic horror. His tales such as The Call of Cthulhu and At the Mountains of Madness created a mythological universe that continues to influence popular culture.",
+        "year": 1890
+      },
+      {
+        "name": "Connie Chung",
+        "description": "American journalist and television presenter, one of the first women and the first person of Chinese-American descent to co-anchor a major US network's nightly news broadcast.",
+        "year": 1946
+      },
+      {
+        "name": "Demi Lovato",
+        "description": "American singer and actress known for powerful ballads and activism in mental health. Her albums include hits such as Skyscraper and Sorry Not Sorry.",
+        "year": 1992
+      }
+    ],
+    "events": [
+      {
+        "title": "Voyager 2 launched",
+        "description": "On 20 August 1977, NASA launched the Voyager 2 probe, which has flown past Jupiter, Saturn, Uranus, and Neptune, and in 2018 became the second human-made object to cross the heliopause into interstellar space.",
+        "year": 1977
+      },
+      {
+        "title": "Soviet invasion of Czechoslovakia",
+        "description": "In the early hours of 20–21 August 1968, Warsaw Pact troops led by the USSR invaded Czechoslovakia to crush the Prague Spring, the reform movement led by Alexander Dubček.",
+        "year": 1968
+      },
+      {
+        "title": "Death of Leon Trotsky",
+        "description": "On 20 August 1940, Leon Trotsky died in Mexico City from wounds inflicted the previous day by Soviet agent Ramón Mercader, who struck him in the head with an ice axe.",
+        "year": 1940
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Bernardo de Claraval",
+        "type": "Abade e Doutor da Igreja",
+        "description": "Monge cisterciense francês (1090–1153), abade de Claraval, uma das figuras mais influentes do século XII. Promotor da Segunda Cruzada, defensor da reforma monástica e místico mariano. Doutor da Igreja. Padroeiro dos apicultores e dos académicos."
+      },
+      {
+        "name": "São Filiberto",
+        "type": "Abade",
+        "description": "Monge e abade franco do século VII que fundou a Abadia de Jumièges na Normandia. Foi mais tarde exilado pela sua oposição ao prefeito do palácio Ebroin e fundou outros mosteiros."
+      },
+      {
+        "name": "São Samuel",
+        "type": "Profeta",
+        "description": "Profeta e juiz bíblico do Antigo Testamento que ungiu os dois primeiros reis de Israel: Saul e David. Venerado nas tradições cristã, judaica e islâmica."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Santo Estêvão — Dia Nacional da Hungria",
+        "description": "A Hungria celebra em 20 de agosto a coroação do seu primeiro rei, Santo Estêvão I, no ano 1000. É o feriado nacional mais importante do país, assinalado por um espetacular fogo de artifício sobre o Danúbio."
+      },
+      {
+        "name": "Dia Mundial do Mosquito",
+        "description": "Comemorado em 20 de agosto desde 1897, data em que Sir Ronald Ross descobriu que os mosquitos transmitem a malária. Promove a consciencialização sobre uma doença que causa mais de 600.000 mortes anuais."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A medida do amor é amar sem medida.",
+      "author": "São Bernardo de Claraval",
+      "context": "O Doutor Melifluo, cuja festa se celebra hoje, sintetizou neste paradoxo a espiritualidade do amor cristão: o amor verdadeiro transcende qualquer cálculo ou limitação, pois a sua natureza é a entrega total."
+    },
+    "motivationalQuote": {
+      "text": "Quem tem um porquê para viver pode suportar quase qualquer como.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "H. P. Lovecraft",
+        "description": "Escritor americano (1890–1937), pai do horror cósmico moderno. Os seus contos como O Chamado de Cthulhu e Nas Montanhas da Loucura criaram um universo mitológico próprio que continua a influenciar a cultura popular.",
+        "year": 1890
+      },
+      {
+        "name": "Connie Chung",
+        "description": "Jornalista e apresentadora de televisão americana, uma das primeiras mulheres e a primeira pessoa de ascendência sino-americana a co-apresentar o noticiário noturno de uma grande rede americana.",
+        "year": 1946
+      },
+      {
+        "name": "Demi Lovato",
+        "description": "Cantora e atriz americana conhecida por poderosas baladas e ativismo em saúde mental. Os seus álbuns incluem sucessos como Skyscraper e Sorry Not Sorry.",
+        "year": 1992
+      }
+    ],
+    "events": [
+      {
+        "title": "Voyager 2 lançada ao espaço",
+        "description": "Em 20 de agosto de 1977, a NASA lançou a sonda Voyager 2, que sobrevoou Júpiter, Saturno, Úrano e Neptuno e em 2018 tornou-se o segundo objeto humano a cruzar a heliopausa para o espaço interestelar.",
+        "year": 1977
+      },
+      {
+        "title": "Invasão soviética da Checoslováquia",
+        "description": "Na madrugada de 20 para 21 de agosto de 1968, tropas do Pacto de Varsóvia lideradas pela URSS invadiram a Checoslováquia para esmagar a Primavera de Praga, o movimento reformista liderado por Alexander Dubček.",
+        "year": 1968
+      },
+      {
+        "title": "Morte de Leon Trotsky",
+        "description": "Em 20 de agosto de 1940, Leon Trotsky morreu na Cidade do México em consequência dos ferimentos infligidos no dia anterior pelo agente soviético Ramón Mercader, que o golpeou na cabeça com um piolet.",
+        "year": 1940
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Bernat de Claravall",
+        "type": "Abat i Doctor de l'Església",
+        "description": "Monjo cistercenc francès (1090–1153), abat de Claravall, una de les figures més influents del segle XII. Promotor de la Segona Croada, defensor de la reforma monàstica i místic marià. Doctor de l'Església. Patró dels apicultors i els acadèmics."
+      },
+      {
+        "name": "Sant Filibert",
+        "type": "Abat",
+        "description": "Monjo i abat franc del segle VII que va fundar l'Abadia de Jumièges a Normandia. Va ser més tard exiliat per la seva oposició al majordòm de palau Ebroí i va fundar nous monestirs."
+      },
+      {
+        "name": "Sant Samuel",
+        "type": "Profeta",
+        "description": "Profeta i jutge bíblic de l'Antic Testament que va ungir els dos primers reis d'Israel: Saül i David. Venerat en les tradicions cristiana, jueva i islàmica."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Sant Esteve — Festa Nacional d'Hongria",
+        "description": "Hongria celebra el 20 d'agost la coronació del seu primer rei, Sant Esteve I, l'any 1000. És la festa nacional més important del país, marcada per un espectacular foc d'artifici sobre el Danubi."
+      },
+      {
+        "name": "Dia Mundial del Mosquit",
+        "description": "Commemorat el 20 d'agost des de 1897, data en què Sir Ronald Ross va descobrir que els mosquits transmeten la malària. Promou la consciència sobre una malaltia que causa més de 600.000 morts anuals."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La mesura de l'amor és estimar sense mesura.",
+      "author": "Sant Bernat de Claravall",
+      "context": "El Doctor Mel·liflu, la festa del qual es celebra avui, va sintetitzar en aquesta paradoxa l'espiritualitat de l'amor cristià: l'amor veritable transcendeix qualsevol càlcul o limitació, car la seva naturalesa és el lliurament total."
+    },
+    "motivationalQuote": {
+      "text": "Qui té un perquè per viure pot suportar gairebé qualsevol com.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "H. P. Lovecraft",
+        "description": "Escriptor americà (1890–1937), pare de l'horror còsmic modern. Els seus relats com La crida de Cthulhu i A les muntanyes de la bogeria van crear un univers mitològic propi que continua influint en la cultura popular.",
+        "year": 1890
+      },
+      {
+        "name": "Connie Chung",
+        "description": "Periodista i presentadora de televisió americana, una de les primeres dones i la primera persona d'ascendència xino-americana a copresentar el noticiaris nocturns d'una gran cadena americana.",
+        "year": 1946
+      },
+      {
+        "name": "Demi Lovato",
+        "description": "Cantant i actriu americana coneguda per potents balades i activisme en salut mental. Els seus àlbums inclouen èxits com Skyscraper i Sorry Not Sorry.",
+        "year": 1992
+      }
+    ],
+    "events": [
+      {
+        "title": "Voyager 2 llançada a l'espai",
+        "description": "El 20 d'agost de 1977, la NASA va llançar la sonda Voyager 2, que ha sobrevolat Júpiter, Saturn, Urà i Neptú i el 2018 es va convertir en el segon objecte humà a creuar l'heliopausa cap a l'espai interestelar.",
+        "year": 1977
+      },
+      {
+        "title": "Invasió soviètica de Txecoslovàquia",
+        "description": "A la matinada del 20 al 21 d'agost de 1968, les tropes del Pacte de Varsòvia encapçalades per l'URSS van envair Txecoslovàquia per aixafar la Primavera de Praga, el moviment reformista liderat per Alexander Dubček.",
+        "year": 1968
+      },
+      {
+        "title": "Mort de Lev Trotski",
+        "description": "El 20 d'agost de 1940, Lev Trotski va morir a Ciutat de Mèxic a causa de les ferides infligides el dia anterior per l'agent soviètic Ramón Mercader, que li va colpejar el cap amb un piolet.",
+        "year": 1940
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "date": "2025-08-24",
+  "es": {
+    "saints": [
+      {
+        "name": "San Bartolomé Apóstol",
+        "type": "Apóstol y Mártir",
+        "description": "Uno de los doce apóstoles de Jesucristo, identificado por muchos estudiosos con Natanael. Predicó el Evangelio en Armenia, India y Etiopía. Murió desollado vivo según la tradición, lo que lo convirtió en patrono de los curtidores y los carniceros."
+      },
+      {
+        "name": "San Patricio de Irlanda",
+        "type": "Obispo",
+        "description": "Misionero y patrón de Irlanda (385–461). En algunos calendarios orientales se celebra hoy su fiesta. Convirtió al pueblo irlandés al cristianismo y su figura es inseparable de la identidad irlandesa."
+      },
+      {
+        "name": "San Ouen (Audeno) de Ruán",
+        "type": "Obispo",
+        "description": "Obispo de Ruán del siglo VII (600–684) que evangelizó Normandía. Fundó el monasterio de Rebais y fue consejero del rey franco Dagoberto I."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de Ucrania",
+        "description": "Ucrania celebra su independencia de la Unión Soviética, declarada el 24 de agosto de 1991. Es la fiesta nacional más importante del país."
+      },
+      {
+        "name": "Día Nacional de Liberia",
+        "description": "Liberia conmemora el nacimiento de Joseph Jenkins Roberts (24 de agosto de 1809), su primer presidente y fundador de la república. Se celebra como Día de la Fundación."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La fortuna ayuda a los audaces.",
+      "author": "Virgilio",
+      "context": "El poeta latino (70 a. C.–19 a. C.), autor de la Eneida, puso esta frase en boca de Turno. Ha sobrevivido como refrán universal que anima a la acción valiente frente a la incertidumbre."
+    },
+    "motivationalQuote": {
+      "text": "No es la montaña lo que conquistamos, sino a nosotros mismos.",
+      "author": "Edmund Hillary"
+    },
+    "births": [
+      {
+        "name": "Jorge Luis Borges",
+        "description": "Escritor argentino (1899–1986), uno de los más importantes de la literatura en español. Sus cuentos fantásticos, incluidos en Ficciones y El Aleph, exploraron el laberinto, el infinito y el tiempo de manera única.",
+        "year": 1899
+      },
+      {
+        "name": "Steve Carell",
+        "description": "Actor y comediante estadounidense conocido por sus papeles en la serie The Office y en películas como El reportero: La leyenda de Ron Burgundy, 40 años... ¡todavía virgen! y Beautiful Boy.",
+        "year": 1962
+      },
+      {
+        "name": "Rupert Grint",
+        "description": "Actor británico conocido mundialmente por interpretar a Ron Weasley en la saga de películas de Harry Potter (2001–2011).",
+        "year": 1988
+      }
+    ],
+    "events": [
+      {
+        "title": "La noche de San Bartolomé — masacre de hugonotes",
+        "description": "En la noche del 23 al 24 de agosto de 1572, miles de hugonotes (protestantes franceses) fueron masacrados en París y en otras ciudades de Francia, en uno de los episodios más sangrientos de las Guerras de Religión europeas.",
+        "year": 1572
+      },
+      {
+        "title": "Erupción del Vesubio — destrucción de Pompeya",
+        "description": "El 24 de agosto del año 79 d. C., el volcán Vesubio entró en erupción catastrófica, destruyendo las ciudades romanas de Pompeya y Herculano y sepultando a miles de personas bajo la lava y las cenizas.",
+        "year": 79
+      },
+      {
+        "title": "Ucrania declara su independencia",
+        "description": "El 24 de agosto de 1991, el Parlamento de Ucrania adoptó la Declaración de Independencia de la Unión Soviética, confirmada por referéndum el 1 de diciembre de 1991.",
+        "year": 1991
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Bartholomew the Apostle",
+        "type": "Apostle and Martyr",
+        "description": "One of the twelve apostles of Jesus Christ, identified by many scholars with Nathanael. He preached the Gospel in Armenia, India, and Ethiopia. He died flayed alive according to tradition, making him patron of tanners and butchers."
+      },
+      {
+        "name": "Saint Patrick of Ireland",
+        "type": "Bishop",
+        "description": "Missionary and patron of Ireland (385–461). Some Eastern calendars celebrate his feast today. He converted the Irish people to Christianity, and his figure is inseparable from Irish identity."
+      },
+      {
+        "name": "Saint Ouen (Audoenus) of Rouen",
+        "type": "Bishop",
+        "description": "7th-century Bishop of Rouen (600–684) who evangelised Normandy. He founded the monastery of Rebais and served as counsellor to the Frankish king Dagobert I."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Independence Day of Ukraine",
+        "description": "Ukraine celebrates its independence from the Soviet Union, declared on 24 August 1991. It is the country's most important national holiday."
+      },
+      {
+        "name": "National Day of Liberia",
+        "description": "Liberia commemorates the birth of Joseph Jenkins Roberts (24 August 1809), its first president and founder of the republic. It is celebrated as Founders' Day."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Fortune favours the bold.",
+      "author": "Virgil",
+      "context": "The Latin poet (70 BC–19 BC), author of the Aeneid, put this phrase in the mouth of Turnus. It has survived as a universal proverb encouraging brave action in the face of uncertainty."
+    },
+    "motivationalQuote": {
+      "text": "It is not the mountain we conquer, but ourselves.",
+      "author": "Edmund Hillary"
+    },
+    "births": [
+      {
+        "name": "Jorge Luis Borges",
+        "description": "Argentine writer (1899–1986), one of the most important in Spanish-language literature. His fantastic short stories, collected in Ficciones and The Aleph, explored labyrinths, infinity, and time in a unique way.",
+        "year": 1899
+      },
+      {
+        "name": "Steve Carell",
+        "description": "American actor and comedian known for his roles in the series The Office and in films such as Anchorman, The 40-Year-Old Virgin, and Beautiful Boy.",
+        "year": 1962
+      },
+      {
+        "name": "Rupert Grint",
+        "description": "British actor known worldwide for playing Ron Weasley in the Harry Potter film series (2001–2011).",
+        "year": 1988
+      }
+    ],
+    "events": [
+      {
+        "title": "St Bartholomew's Day Massacre",
+        "description": "In the night of 23–24 August 1572, thousands of Huguenots (French Protestants) were massacred in Paris and other French cities, in one of the bloodiest episodes of the European Wars of Religion.",
+        "year": 1572
+      },
+      {
+        "title": "Eruption of Vesuvius — destruction of Pompeii",
+        "description": "On 24 August 79 AD, Mount Vesuvius erupted catastrophically, destroying the Roman cities of Pompeii and Herculaneum and burying thousands of people under lava and ash.",
+        "year": 79
+      },
+      {
+        "title": "Ukraine declares independence",
+        "description": "On 24 August 1991, the Parliament of Ukraine adopted the Declaration of Independence from the Soviet Union, confirmed by referendum on 1 December 1991.",
+        "year": 1991
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Bartolomeu Apóstolo",
+        "type": "Apóstolo e Mártir",
+        "description": "Um dos doze apóstolos de Jesus Cristo, identificado por muitos estudiosos com Natanael. Pregou o Evangelho na Arménia, Índia e Etiópia. Morreu esfolado vivo segundo a tradição, tornando-se padroeiro dos curtidores e açougueiros."
+      },
+      {
+        "name": "São Patrício da Irlanda",
+        "type": "Bispo",
+        "description": "Missionário e padroeiro da Irlanda (385–461). Alguns calendários orientais celebram hoje a sua festa. Converteu o povo irlandês ao cristianismo e a sua figura é inseparável da identidade irlandesa."
+      },
+      {
+        "name": "São Ouen (Audeno) de Ruão",
+        "type": "Bispo",
+        "description": "Bispo de Ruão do século VII (600–684) que evangelizou a Normandia. Fundou o mosteiro de Rebais e serviu como conselheiro do rei franco Dagoberto I."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência da Ucrânia",
+        "description": "A Ucrânia celebra a sua independência da União Soviética, declarada em 24 de agosto de 1991. É o feriado nacional mais importante do país."
+      },
+      {
+        "name": "Dia Nacional da Libéria",
+        "description": "A Libéria comemora o nascimento de Joseph Jenkins Roberts (24 de agosto de 1809), o seu primeiro presidente e fundador da república. É celebrado como Dia dos Fundadores."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A fortuna favorece os audazes.",
+      "author": "Virgílio",
+      "context": "O poeta latino (70 a.C.–19 a.C.), autor da Eneida, colocou esta frase na boca de Turno. Sobreviveu como provérbio universal que incentiva a ação corajosa face à incerteza."
+    },
+    "motivationalQuote": {
+      "text": "Não é a montanha que conquistamos, mas a nós mesmos.",
+      "author": "Edmund Hillary"
+    },
+    "births": [
+      {
+        "name": "Jorge Luis Borges",
+        "description": "Escritor argentino (1899–1986), um dos mais importantes da literatura em língua espanhola. Os seus contos fantásticos, reunidos em Ficções e O Aleph, exploraram o labirinto, o infinito e o tempo de forma única.",
+        "year": 1899
+      },
+      {
+        "name": "Steve Carell",
+        "description": "Ator e comediante americano conhecido pelos seus papéis na série The Office e em filmes como Anchorman, O Virgem de 40 anos e Beautiful Boy.",
+        "year": 1962
+      },
+      {
+        "name": "Rupert Grint",
+        "description": "Ator britânico conhecido mundialmente por interpretar Ron Weasley na saga de filmes de Harry Potter (2001–2011).",
+        "year": 1988
+      }
+    ],
+    "events": [
+      {
+        "title": "Massacre da Noite de São Bartolomeu",
+        "description": "Na noite de 23 para 24 de agosto de 1572, milhares de huguenotes (protestantes franceses) foram massacrados em Paris e outras cidades francesas, num dos episódios mais sangrentos das Guerras de Religião europeias.",
+        "year": 1572
+      },
+      {
+        "title": "Erupção do Vesúvio — destruição de Pompeia",
+        "description": "Em 24 de agosto de 79 d.C., o Monte Vesúvio entrou em erupção catastrófica, destruindo as cidades romanas de Pompeia e Herculano e sepultando milhares de pessoas sob lava e cinzas.",
+        "year": 79
+      },
+      {
+        "title": "Ucrânia declara independência",
+        "description": "Em 24 de agosto de 1991, o Parlamento da Ucrânia adotou a Declaração de Independência da União Soviética, confirmada por referendo em 1 de dezembro de 1991.",
+        "year": 1991
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Bartomeu Apòstol",
+        "type": "Apòstol i Màrtir",
+        "description": "Un dels dotze apòstols de Jesucrist, identificat per molts estudiosos amb Natanael. Va predicar l'Evangeli a Armènia, l'Índia i Etiòpia. Va morir escorxat viu segons la tradició, convertint-se en patró dels blanquers i els carnissers."
+      },
+      {
+        "name": "Sant Patrici d'Irlanda",
+        "type": "Bisbe",
+        "description": "Missioner i patró d'Irlanda (385–461). Alguns calendaris orientals celebren avui la seva festa. Va convertir el poble irlandès al cristianisme i la seva figura és inseparable de la identitat irlandesa."
+      },
+      {
+        "name": "Sant Ouen (Audè) de Rouen",
+        "type": "Bisbe",
+        "description": "Bisbe de Rouen del segle VII (600–684) que va evangelitzar Normandia. Va fundar el monestir de Rebais i va ser conseller del rei franc Dagobert I."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència d'Ucraïna",
+        "description": "Ucraïna celebra la seva independència de la Unió Soviètica, declarada el 24 d'agost de 1991. És la festa nacional més important del país."
+      },
+      {
+        "name": "Dia Nacional de Libèria",
+        "description": "Libèria commemora el naixement de Joseph Jenkins Roberts (24 d'agost de 1809), el seu primer president i fundador de la república. Es celebra com a Dia dels Fundadors."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La fortuna afavoreix els audaços.",
+      "author": "Virgili",
+      "context": "El poeta llatí (70 a.C.–19 a.C.), autor de l'Eneida, va posar aquesta frase en boca de Turne. Ha sobreviscut com a proverbi universal que anima a l'acció valenta davant la incertesa."
+    },
+    "motivationalQuote": {
+      "text": "No és la muntanya el que conquerim, sinó nosaltres mateixos.",
+      "author": "Edmund Hillary"
+    },
+    "births": [
+      {
+        "name": "Jorge Luis Borges",
+        "description": "Escriptor argentí (1899–1986), un dels més importants de la literatura en castellà. Els seus contes fantàstics, recollits a Ficcions i L'Aleph, van explorar el laberint, l'infinit i el temps d'una manera única.",
+        "year": 1899
+      },
+      {
+        "name": "Steve Carell",
+        "description": "Actor i comediant americà conegut pels seus papers a la sèrie The Office i en pel·lícules com Anchorman, El verge dels 40 anys i Beautiful Boy.",
+        "year": 1962
+      },
+      {
+        "name": "Rupert Grint",
+        "description": "Actor britànic conegut mundialment per interpretar Ron Weasley a la saga de pel·lícules de Harry Potter (2001–2011).",
+        "year": 1988
+      }
+    ],
+    "events": [
+      {
+        "title": "Massacre de la Nit de Sant Bartomeu",
+        "description": "En la nit del 23 al 24 d'agost de 1572, milers d'hugonots (protestants francesos) van ser massacrats a París i altres ciutats de França, en un dels episodis més sagnants de les Guerres de Religió europees.",
+        "year": 1572
+      },
+      {
+        "title": "Erupció del Vesuvi — destrucció de Pompeia",
+        "description": "El 24 d'agost de l'any 79 d.C., el volcà Vesuvi va entrar en erupció catastròfica, destruint les ciutats romanes de Pompeia i Herculà i sepultant milers de persones sota la lava i les cendres.",
+        "year": 79
+      },
+      {
+        "title": "Ucraïna declara la independència",
+        "description": "El 24 d'agost de 1991, el Parlament d'Ucraïna va adoptar la Declaració d'Independència de la Unió Soviètica, confirmada per referèndum l'1 de desembre de 1991.",
+        "year": 1991
+      }
+    ]
+  }
+}

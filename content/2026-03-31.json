@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-31",
+  "es": {
+    "saints": [
+      { "name": "San Benjamín de Persia", "type": "Mártir", "description": "Diácono persa del siglo V martirizado bajo el rey sasánida Bahram V por negarse a renunciar al cristinismo; venerado tanto en la Iglesia Católica como en las iglesias ortodoxas orientales." },
+      { "name": "San Amos", "type": "Profeta", "description": "Profeta del Antiguo Testamento del siglo VIII a.C., el primero cuyos oráculos fueron recogidos en un libro; predicó la justicia social y el cuidado de los pobres frente a las injusticias del reino de Israel." },
+      { "name": "San Guido de Pomposa", "type": "Abad", "description": "Abad del monasterio de Pomposa en la región de Emilia-Romaña (Italia) en el siglo XI, reformador de la vida monástica benedictina y patrono de los músicos por su impulso al canto gregoriano." }
+    ],
+    "observances": [
+      { "name": "Día de César Chávez (en EE. UU.)", "description": "En California y otros estados de EE. UU., el 31 de marzo es festivo oficial en honor a César Chávez, líder sindical y activista chicano que cofundó el Sindicato de Trabajadores Agrícolas (UFW) para defender los derechos de los agricultores migrantes." },
+      { "name": "Día del Backup (Backup Day)", "description": "Jornada informal que recuerda a usuarios y empresas la importancia de hacer copias de seguridad de sus datos digitales para prevenir pérdidas irreversibles." }
+    ],
+    "historicalQuote": {
+      "text": "Sí, se puede.",
+      "author": "César Chávez",
+      "context": "César Chávez, líder sindical y activista por los derechos civiles de los trabajadores agrícolas latinoamericanos en Estados Unidos, utilizó esta frase como grito de unidad y esperanza. Más tarde sería adoptada por Barack Obama en su campaña presidencial de 2008 como 'Yes, we can'."
+    },
+    "motivationalQuote": {
+      "text": "El trabajo sin amor es esclavitud.",
+      "author": "Madre Teresa de Calcuta"
+    },
+    "births": [
+      { "name": "René Descartes", "description": "Filósofo, matemático y científico francés del siglo XVII, padre del racionalismo moderno, autor del 'Discurso del método' y la máxima 'Cogito, ergo sum' ('Pienso, luego existo').", "year": 1596 },
+      { "name": "Franz Joseph Haydn", "description": "Compositor austriaco del periodo clásico, pionero de la sinfonía y el cuarteto de cuerdas, maestro de Beethoven y Mozart, autor de más de 100 sinfonías.", "year": 1732 },
+      { "name": "César Chávez", "description": "Líder sindical y activista americano de origen mexicano, cofundador del Sindicato de Trabajadores Agrícolas (UFW), que mejoró las condiciones de millones de trabajadores del campo en EE. UU. mediante la no violencia y las huelgas.", "year": 1927 }
+    ],
+    "events": [
+      { "title": "La Torre Eiffel es inaugurada en París", "description": "La Torre Eiffel, diseñada por Gustave Eiffel para la Exposición Universal de 1889, fue inaugurada en París; en su momento el edificio más alto del mundo, hoy es el monumento más visitado del planeta.", "year": 1889 },
+      { "title": "Desintegración de la URSS: las repúblicas bálticas declaran su independencia", "description": "Estonia, Letonia y Lituania proclamaron su independencia de la Unión Soviética durante el proceso de desintegración del bloque comunista.", "year": 1990 },
+      { "title": "Apertura de Disney World en Florida (aniversario de los estudios Disney)", "description": "El 31 de marzo de 1901 nació Walt Disney en Chicago, Illinois, el visionario fundador de The Walt Disney Company y creador de personajes como Mickey Mouse, que transformó el entretenimiento familiar en todo el mundo.", "year": 1901 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Benjamin of Persia", "type": "Martyr", "description": "Fifth-century Persian deacon martyred under Sasanian king Bahram V for refusing to renounce Christianity; venerated in both the Catholic Church and Eastern Orthodox churches." },
+      { "name": "Saint Amos", "type": "Prophet", "description": "Eighth-century BC Old Testament prophet, the first whose oracles were collected in a book; he preached social justice and care for the poor against the injustices of the kingdom of Israel." },
+      { "name": "Saint Guy of Pomposa", "type": "Abbot", "description": "Eleventh-century Abbot of the Pomposa monastery in Emilia-Romagna (Italy), reformer of Benedictine monastic life and patron of musicians for his promotion of Gregorian chant." }
+    ],
+    "observances": [
+      { "name": "César Chávez Day (USA)", "description": "In California and other US states, 31 March is an official holiday honouring César Chávez, union leader and Chicano activist who co-founded the United Farm Workers (UFW) to defend the rights of migrant farm workers." },
+      { "name": "World Backup Day", "description": "An informal day reminding users and businesses of the importance of backing up their digital data to prevent irreversible loss." }
+    ],
+    "historicalQuote": {
+      "text": "Sí, se puede. (Yes, we can.)",
+      "author": "César Chávez",
+      "context": "César Chávez, union leader and civil rights activist for Latin American farm workers in the United States, used this phrase as a rallying cry of unity and hope. It was later adopted by Barack Obama in his 2008 presidential campaign as 'Yes, we can'."
+    },
+    "motivationalQuote": {
+      "text": "Work without love is slavery.",
+      "author": "Mother Teresa of Calcutta"
+    },
+    "births": [
+      { "name": "René Descartes", "description": "Seventeenth-century French philosopher, mathematician and scientist, father of modern rationalism, author of 'Discourse on the Method' and the maxim 'Cogito, ergo sum' ('I think, therefore I am').", "year": 1596 },
+      { "name": "Franz Joseph Haydn", "description": "Austrian Classical-period composer, pioneer of the symphony and string quartet, teacher of Beethoven and Mozart, author of more than 100 symphonies.", "year": 1732 },
+      { "name": "César Chávez", "description": "American union leader and activist of Mexican descent, co-founder of the United Farm Workers (UFW), who improved the conditions of millions of agricultural workers in the US through non-violence and strikes.", "year": 1927 }
+    ],
+    "events": [
+      { "title": "Eiffel Tower inaugurated in Paris", "description": "The Eiffel Tower, designed by Gustave Eiffel for the 1889 World's Fair, was inaugurated in Paris; at the time the tallest building in the world, today it is the most visited monument on the planet.", "year": 1889 },
+      { "title": "Baltic states declare independence from the USSR", "description": "Estonia, Latvia and Lithuania proclaimed their independence from the Soviet Union during the process of communist bloc disintegration.", "year": 1990 },
+      { "title": "Walt Disney born in Chicago", "description": "On 31 March 1901, Walt Disney was born in Chicago, Illinois, the visionary founder of The Walt Disney Company and creator of characters such as Mickey Mouse, who transformed family entertainment worldwide.", "year": 1901 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Benjamim da Pérsia", "type": "Mártir", "description": "Diácono persa do século V martirizado sob o rei sassânida Bahram V por se recusar a renunciar ao cristianismo; venerado tanto na Igreja Católica como nas igrejas ortodoxas orientais." },
+      { "name": "São Amós", "type": "Profeta", "description": "Profeta do Antigo Testamento do século VIII a.C., o primeiro cujos oráculos foram recolhidos num livro; pregou a justiça social e o cuidado dos pobres face às injustiças do reino de Israel." },
+      { "name": "São Guido de Pomposa", "type": "Abade", "description": "Abade do mosteiro de Pomposa na região de Emília-Romanha (Itália) no século XI, reformador da vida monástica beneditina e patrono dos músicos pelo seu impulso ao canto gregoriano." }
+    ],
+    "observances": [
+      { "name": "Dia de César Chávez (EUA)", "description": "Na Califórnia e noutros estados dos EUA, o 31 de março é feriado oficial em honra a César Chávez, líder sindical e ativista chicano que cofundou o Sindicato de Trabalhadores Agrícolas (UFW) para defender os direitos dos trabalhadores agrícolas migrantes." },
+      { "name": "Dia do Backup (Backup Day)", "description": "Jornada informal que lembra utilizadores e empresas da importância de fazer cópias de segurança dos seus dados digitais para prevenir perdas irreversíveis." }
+    ],
+    "historicalQuote": {
+      "text": "Sí, se puede. (Sim, é possível.)",
+      "author": "César Chávez",
+      "context": "César Chávez, líder sindical e ativista pelos direitos civis dos trabalhadores agrícolas latino-americanos nos Estados Unidos, usou esta frase como grito de unidade e esperança. Mais tarde seria adotada por Barack Obama na sua campanha presidencial de 2008 como 'Yes, we can'."
+    },
+    "motivationalQuote": {
+      "text": "O trabalho sem amor é escravidão.",
+      "author": "Madre Teresa de Calcutá"
+    },
+    "births": [
+      { "name": "René Descartes", "description": "Filósofo, matemático e cientista francês do século XVII, pai do racionalismo moderno, autor do 'Discurso do Método' e da máxima 'Cogito, ergo sum' ('Penso, logo existo').", "year": 1596 },
+      { "name": "Franz Joseph Haydn", "description": "Compositor austríaco do período clássico, pioneiro da sinfonia e do quarteto de cordas, mestre de Beethoven e Mozart, autor de mais de 100 sinfonias.", "year": 1732 },
+      { "name": "César Chávez", "description": "Líder sindical e ativista americano de origem mexicana, cofundador do Sindicato de Trabalhadores Agrícolas (UFW), que melhorou as condições de milhões de trabalhadores do campo nos EUA através da não violência e das greves.", "year": 1927 }
+    ],
+    "events": [
+      { "title": "A Torre Eiffel é inaugurada em Paris", "description": "A Torre Eiffel, projetada por Gustave Eiffel para a Exposição Universal de 1889, foi inaugurada em Paris; na época o edifício mais alto do mundo, hoje é o monumento mais visitado do planeta.", "year": 1889 },
+      { "title": "Os estados bálticos declaram a independência da URSS", "description": "A Estônia, a Letônia e a Lituânia proclamaram a sua independência da União Soviética durante o processo de desintegração do bloco comunista.", "year": 1990 },
+      { "title": "Walt Disney nasce em Chicago", "description": "Em 31 de março de 1901, Walt Disney nasceu em Chicago, Illinois, o visionário fundador da The Walt Disney Company e criador de personagens como Mickey Mouse, que transformou o entretenimento familiar em todo o mundo.", "year": 1901 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Benjamí de Pèrsia", "type": "Màrtir", "description": "Diaca persa del segle V martiritzat sota el rei sassànida Bahram V per negar-se a renunciar al cristianisme; venerat tant a l'Església Catòlica com a les esglésies ortodoxes orientals." },
+      { "name": "Sant Amós", "type": "Profeta", "description": "Profeta de l'Antic Testament del segle VIII a.C., el primer els oracles del qual van ser recollits en un llibre; va predicar la justícia social i la cura dels pobres davant les injustícies del regne d'Israel." },
+      { "name": "Sant Guiu de Pomposa", "type": "Abat", "description": "Abat del monestir de Pomposa a la regió d'Emília-Romanya (Itàlia) al segle XI, reformador de la vida monàstica benedictina i patró dels músics pel seu impuls al cant gregorià." }
+    ],
+    "observances": [
+      { "name": "Dia de César Chávez (EUA)", "description": "A Califòrnia i altres estats dels EUA, el 31 de març és festiu oficial en honor a César Chávez, líder sindical i activista xicano que va cofundar el Sindicat de Treballadors Agrícoles (UFW) per defensar els drets dels treballadors agrícoles migrants." },
+      { "name": "Dia del Còpia de Seguretat (Backup Day)", "description": "Jornada informal que recorda als usuaris i les empreses la importància de fer còpies de seguretat de les seves dades digitals per prevenir pèrdues irreversibles." }
+    ],
+    "historicalQuote": {
+      "text": "Sí, se puede. (Sí, es pot.)",
+      "author": "César Chávez",
+      "context": "César Chávez, líder sindical i activista pels drets civils dels treballadors agrícoles llatinoamericans als Estats Units, va usar aquesta frase com a crit d'unitat i esperança. Més tard seria adoptada per Barack Obama a la seva campanya presidencial de 2008 com a 'Yes, we can'."
+    },
+    "motivationalQuote": {
+      "text": "El treball sense amor és esclavitud.",
+      "author": "Mare Teresa de Calcuta"
+    },
+    "births": [
+      { "name": "René Descartes", "description": "Filòsof, matemàtic i científic francès del segle XVII, pare del racionalisme modern, autor del 'Discurs del mètode' i la màxima 'Cogito, ergo sum' ('Penso, doncs existeixo').", "year": 1596 },
+      { "name": "Franz Joseph Haydn", "description": "Compositor austríac del període clàssic, pioner de la simfonia i el quartet de corda, mestre de Beethoven i Mozart, autor de més de 100 simfonies.", "year": 1732 },
+      { "name": "César Chávez", "description": "Líder sindical i activista americà d'origen mexicà, cofundador del Sindicat de Treballadors Agrícoles (UFW), que va millorar les condicions de milions de treballadors del camp als EUA per mitjà de la no violència i les vagues.", "year": 1927 }
+    ],
+    "events": [
+      { "title": "La Torre Eiffel s'inaugura a París", "description": "La Torre Eiffel, dissenyada per Gustave Eiffel per a l'Exposició Universal de 1889, va ser inaugurada a París; en aquell moment l'edifici més alt del món, avui és el monument més visitat del planeta.", "year": 1889 },
+      { "title": "Els estats bàltics declaren la independència de l'URSS", "description": "Estònia, Letònia i Lituània van proclamar la seva independència de la Unió Soviètica durant el procés de desintegració del bloc comunista.", "year": 1990 },
+      { "title": "Walt Disney neix a Chicago", "description": "El 31 de març de 1901, Walt Disney va néixer a Chicago, Illinois, el visionari fundador de The Walt Disney Company i creador de personatges com Mickey Mouse, que va transformar l'entreteniment familiar arreu del món.", "year": 1901 }
+    ]
+  }
+}

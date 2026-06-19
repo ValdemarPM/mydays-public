@@ -1,0 +1,255 @@
+{
+  "date": "2026-01-23",
+  "es": {
+    "saints": [
+      {
+        "name": "San Ildefonso de Toledo",
+        "type": "Arzobispo",
+        "description": "Arzobispo de Toledo del siglo VII, sobrino de San Isidoro de Sevilla, notable teólogo y escritor. Conocido por su devoción mariana y sus escritos sobre la virginidad de María."
+      },
+      {
+        "name": "San Juan el Limosnero",
+        "type": "Patriarca",
+        "description": "Patriarca de Alejandría del siglo VI-VII, famoso por su caridad ilimitada hacia los pobres y los refugiados. Vendió todos los bienes de la Iglesia para aliviar el sufrimiento de los necesitados."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Infancia Española",
+        "description": "Jornada de sensibilización sobre los derechos de los niños en España, promovida por organizaciones como UNICEF y Save the Children para visibilizar las condiciones de vida de la infancia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La infancia sabe cosas que la adultez olvida.",
+      "author": "Eduardo Galeano",
+      "context": "Escritor y periodista uruguayo (nacido el 3 de septiembre de 1940), conocido por Las venas abiertas de América Latina. Su obra pone frecuentemente el foco en las voces silenciadas, incluidas las de los niños."
+    },
+    "motivationalQuote": {
+      "text": "La única manera de hacer un trabajo excelente es amar lo que haces.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Édouard Manet",
+        "description": "Pintor francés del siglo XIX, figura de transición entre el realismo y el impresionismo. Sus obras Olympia y Le Déjeuner sur l'herbe causaron escándalo en su época y abrieron el camino al arte moderno.",
+        "year": 1832
+      },
+      {
+        "name": "Django Reinhardt",
+        "description": "Guitarrista de jazz belga de origen romaní, uno de los mejores guitarristas del siglo XX. Creó el estilo conocido como jazz manouche o jazz gitano y lo desarrolló a pesar de tener dos dedos paralizados.",
+        "year": 1910
+      },
+      {
+        "name": "Mariska Hargitay",
+        "description": "Actriz y directora estadounidense, conocida por su papel de la detective Olivia Benson en la serie Law & Order: SVU, ganadora del Emmy y el Globo de Oro.",
+        "year": 1964
+      }
+    ],
+    "events": [
+      {
+        "title": "El buque USS Pueblo es capturado por Corea del Norte",
+        "description": "El buque espía estadounidense USS Pueblo fue capturado por fuerzas navales norcoreanas en aguas del mar de Japón, desencadenando una crisis diplomática que duró once meses.",
+        "year": 1968
+      },
+      {
+        "title": "La primera fotografía transmitida por fax",
+        "description": "La primera fotografía fue transmitida con éxito por cable transatlántico entre Nueva York y Londres, abriendo una nueva era en las comunicaciones visuales.",
+        "year": 1926
+      },
+      {
+        "title": "Fundación de la República Popular China (sello)",
+        "description": "China emitió sus primeros sellos postales de la República Popular conmemorando la proclamación del estado el 1 de octubre de 1949, marcando el inicio del estado moderno.",
+        "year": 1950
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Ildefonso of Toledo",
+        "type": "Archbishop",
+        "description": "Archbishop of Toledo of the 7th century, nephew of Saint Isidore of Seville, a noted theologian and writer. Known for his Marian devotion and writings on the virginity of Mary."
+      },
+      {
+        "name": "Saint John the Almsgiver",
+        "type": "Patriarch",
+        "description": "Patriarch of Alexandria of the 6th–7th century, famous for his limitless charity towards the poor and refugees. He sold all of the Church's possessions to relieve the suffering of those in need."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Spanish Children's Day",
+        "description": "An awareness day on children's rights in Spain, promoted by organisations such as UNICEF and Save the Children to highlight the living conditions of children."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Childhood knows things that adulthood forgets.",
+      "author": "Eduardo Galeano",
+      "context": "Uruguayan writer and journalist (born 3 September 1940), known for Open Veins of Latin America. His work frequently focuses on silenced voices, including those of children."
+    },
+    "motivationalQuote": {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Édouard Manet",
+        "description": "French painter of the 19th century, a transitional figure between realism and Impressionism. His works Olympia and Le Déjeuner sur l'herbe caused scandal in their day and paved the way for modern art.",
+        "year": 1832
+      },
+      {
+        "name": "Django Reinhardt",
+        "description": "Belgian Romani jazz guitarist, one of the finest guitarists of the 20th century. He created the style known as jazz manouche (Gypsy jazz) and developed it despite having two paralysed fingers.",
+        "year": 1910
+      },
+      {
+        "name": "Mariska Hargitay",
+        "description": "American actress and director, known for her role as Detective Olivia Benson in Law & Order: SVU, winner of the Emmy and Golden Globe.",
+        "year": 1964
+      }
+    ],
+    "events": [
+      {
+        "title": "USS Pueblo captured by North Korea",
+        "description": "The US spy ship USS Pueblo was captured by North Korean naval forces in the Sea of Japan, triggering a diplomatic crisis that lasted eleven months.",
+        "year": 1968
+      },
+      {
+        "title": "First photograph transmitted by fax",
+        "description": "The first photograph was successfully transmitted by transatlantic cable between New York and London, opening a new era in visual communications.",
+        "year": 1926
+      },
+      {
+        "title": "People's Republic of China issues first stamps",
+        "description": "China issued its first postage stamps of the People's Republic commemorating the proclamation of the state on 1 October 1949, marking the beginning of the modern state.",
+        "year": 1950
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Ildefonso de Toledo",
+        "type": "Arcebispo",
+        "description": "Arcebispo de Toledo do século VII, sobrinho de Santo Isidoro de Sevilha, notável teólogo e escritor. Conhecido por sua devoção mariana e seus escritos sobre a virgindade de Maria."
+      },
+      {
+        "name": "São João o Misericordioso",
+        "type": "Patriarca",
+        "description": "Patriarca de Alexandria dos séculos VI–VII, famoso por sua caridade ilimitada com os pobres e refugiados. Vendeu todos os bens da Igreja para aliviar o sofrimento dos necessitados."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Infância Espanhola",
+        "description": "Jornada de sensibilização sobre os direitos das crianças na Espanha, promovida por organizações como UNICEF e Save the Children para visibilizar as condições de vida das crianças."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A infância sabe coisas que a vida adulta esquece.",
+      "author": "Eduardo Galeano",
+      "context": "Escritor e jornalista uruguaio (nascido em 3 de setembro de 1940), conhecido por As Veias Abertas da América Latina. Sua obra frequentemente foca nas vozes silenciadas, incluindo as das crianças."
+    },
+    "motivationalQuote": {
+      "text": "A única forma de fazer um trabalho excelente é amar o que você faz.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Édouard Manet",
+        "description": "Pintor francês do século XIX, figura de transição entre o realismo e o Impressionismo. Suas obras Olympia e Le Déjeuner sur l'herbe causaram escândalo em sua época e abriram o caminho para a arte moderna.",
+        "year": 1832
+      },
+      {
+        "name": "Django Reinhardt",
+        "description": "Guitarrista de jazz belga de origem romani, um dos melhores guitarristas do século XX. Criou o estilo conhecido como jazz manouche (jazz cigano) e o desenvolveu apesar de ter dois dedos paralisados.",
+        "year": 1910
+      },
+      {
+        "name": "Mariska Hargitay",
+        "description": "Atriz e diretora americana, conhecida por seu papel de detetive Olivia Benson na série Law & Order: SVU, vencedora do Emmy e do Globo de Ouro.",
+        "year": 1964
+      }
+    ],
+    "events": [
+      {
+        "title": "USS Pueblo capturado pela Coreia do Norte",
+        "description": "O navio-espião americano USS Pueblo foi capturado por forças navais norte-coreanas no Mar do Japão, desencadeando uma crise diplomática que durou onze meses.",
+        "year": 1968
+      },
+      {
+        "title": "Primeira fotografia transmitida por fax",
+        "description": "A primeira fotografia foi transmitida com sucesso por cabo transatlântico entre Nova York e Londres, abrindo uma nova era nas comunicações visuais.",
+        "year": 1926
+      },
+      {
+        "title": "República Popular da China emite primeiros selos",
+        "description": "A China emitiu seus primeiros selos postais da República Popular comemorando a proclamação do estado em 1 de outubro de 1949, marcando o início do estado moderno.",
+        "year": 1950
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Ildefons de Toledo",
+        "type": "Arquebisbe",
+        "description": "Arquebisbe de Toledo del segle VII, nebot de Sant Isidor de Sevilla, notable teòleg i escriptor. Conegut per la seva devoció mariana i els seus escrits sobre la virginitat de Maria."
+      },
+      {
+        "name": "Sant Joan el Limoiner",
+        "type": "Patriarca",
+        "description": "Patriarca d'Alexandria dels segles VI–VII, famós per la seva caritat il·limitada cap als pobres i els refugiats. Va vendre tots els béns de l'Església per alleujar el patiment dels necessitats."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Infància Espanyola",
+        "description": "Jornada de sensibilització sobre els drets dels nens a Espanya, promoguda per organitzacions com UNICEF i Save the Children per visibilitzar les condicions de vida de la infància."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La infància sap coses que l'edat adulta oblida.",
+      "author": "Eduardo Galeano",
+      "context": "Escriptor i periodista uruguaià (nascut el 3 de setembre de 1940), conegut per Les venes obertes d'Amèrica Llatina. La seva obra posa sovint el focus en les veus silenciades, incloses les dels nens."
+    },
+    "motivationalQuote": {
+      "text": "L'única manera de fer una feina excel·lent és estimar el que fas.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Édouard Manet",
+        "description": "Pintor francès del segle XIX, figura de transició entre el realisme i l'impressionisme. Les seves obres Olympia i Le Déjeuner sur l'herbe van causar escàndol en la seva època i van obrir el camí a l'art modern.",
+        "year": 1832
+      },
+      {
+        "name": "Django Reinhardt",
+        "description": "Guitarrista de jazz belga d'origen gitano, un dels millors guitarristes del segle XX. Va crear l'estil conegut com a jazz manouche (jazz gitano) i el va desenvolupar malgrat tenir dos dits paralitzats.",
+        "year": 1910
+      },
+      {
+        "name": "Mariska Hargitay",
+        "description": "Actriu i directora nord-americana, coneguda pel seu paper de la detectiu Olivia Benson a la sèrie Law & Order: SVU, guanyadora de l'Emmy i el Globus d'Or.",
+        "year": 1964
+      }
+    ],
+    "events": [
+      {
+        "title": "USS Pueblo capturat per Corea del Nord",
+        "description": "El vaixell espia nord-americà USS Pueblo va ser capturat per forces navals nord-coreanes a la mar del Japó, desencadenant una crisi diplomàtica que va durar onze mesos.",
+        "year": 1968
+      },
+      {
+        "title": "Primera fotografia transmesa per fax",
+        "description": "La primera fotografia va ser transmesa amb èxit per cable transatlàntic entre Nova York i Londres, obrint una nova era en les comunicacions visuals.",
+        "year": 1926
+      },
+      {
+        "title": "La República Popular de la Xina emet els primers segells",
+        "description": "La Xina va emetre els seus primers segells postals de la República Popular commemorant la proclamació de l'estat l'1 d'octubre de 1949, marcant l'inici de l'estat modern.",
+        "year": 1950
+      }
+    ]
+  }
+}

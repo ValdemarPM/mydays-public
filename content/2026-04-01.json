@@ -1,0 +1,291 @@
+{
+  "date": "2026-04-01",
+  "es": {
+    "saints": [
+      {
+        "name": "San Hugo de Grenoble",
+        "type": "Obispo",
+        "description": "Obispo francés del siglo XI, nombrado para la sede de Grenoble a pesar de su juventud y reticencia. Fue el prelado que acogió a San Bruno y sus compañeros en la montaña de la Chartreuse, dando así origen a la Orden Cartuja. Renunció al obispado para hacerse monje, pero el papa le obligó a continuar. Murió en 1132 y fue canonizado apenas dos años después."
+      },
+      {
+        "name": "Santa Teodora de Quirino",
+        "type": "Mártir",
+        "description": "Mártir romana del siglo IV, hermana del mártir Hermes. Según la tradición, fue arrojada a un prostíbulo para ser deshonrada, pero fue protegida milagrosamente y finalmente ejecutada junto a su hermano durante las persecuciones de Diocleciano."
+      },
+      {
+        "name": "Beato Tomás de Tolentino",
+        "type": "Misionero y Mártir",
+        "description": "Fraile franciscano del siglo XIV que marchó como misionero a Asia. Fue decapitado en la India, en la región de Tana (actual Thane), junto a otros compañeros franciscanos, convirtiéndose en uno de los primeros mártires del continente asiático reconocidos por la Iglesia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Autismo",
+        "description": "Proclamado por la ONU en 2007 y celebrado desde 2008, este día busca concienciar sobre el autismo y promover la aceptación e inclusión de las personas con trastorno del espectro autista en todos los ámbitos de la sociedad."
+      },
+      {
+        "name": "Día Internacional de la Diversidad Intra-Específica Cultivada",
+        "description": "Jornada dedicada a sensibilizar sobre la importancia de la biodiversidad de los cultivos y la conservación de variedades locales de semillas para garantizar la seguridad alimentaria global."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El primer síntoma de amor en un joven es la timidez; en una joven es el atrevimiento.",
+      "author": "Victor Hugo",
+      "context": "Victor Hugo, nacido el 26 de febrero de 1802, fue uno de los mayores escritores del Romanticismo francés. Esta reflexión aparece en 'Los miserables', su novela cumbre sobre la redención y la justicia."
+    },
+    "motivationalQuote": {
+      "text": "Empieza donde estás. Usa lo que tienes. Haz lo que puedas.",
+      "author": "Arthur Ashe"
+    },
+    "births": [
+      {
+        "name": "Ferruccio Lamborghini",
+        "description": "Industrial italiano fundador de la marca de automóviles de lujo Lamborghini. Antes de dedicarse a los coches deportivos, construyó una exitosa empresa de tractores. Su rivalidad con Enzo Ferrari es legendaria y fue el detonante para crear su propio automóvil deportivo.",
+        "year": "1916"
+      },
+      {
+        "name": "Lon Chaney",
+        "description": "Actor estadounidense del cine mudo, conocido como 'El hombre de las mil caras' por su maestría en el maquillaje y la caracterización. Protagonizó clásicos del horror como 'El jorobado de Notre Dame' (1923) y 'El fantasma de la ópera' (1925).",
+        "year": "1883"
+      },
+      {
+        "name": "Susan Boyle",
+        "description": "Cantante escocesa que se hizo mundialmente famosa de la noche a la mañana en 2009 al participar en el programa Britain's Got Talent con una interpretación de 'I Dreamed a Dream'. Su historia se convirtió en símbolo de perseverancia y talento tardío reconocido.",
+        "year": "1961"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundación de Apple Inc.",
+        "description": "Steve Jobs, Steve Wozniak y Ronald Wayne firmaron el acta constitutiva de Apple Computer Company en el garaje de la familia Jobs en Los Altos, California. La compañía cambiaría para siempre la industria tecnológica y la forma en que el mundo interactúa con los ordenadores.",
+        "year": "1976"
+      },
+      {
+        "title": "Comienzo de la Revolución de los Claveles en Portugal",
+        "description": "Un golpe de Estado militar liderado por el Movimiento de las Fuerzas Armadas puso fin a casi 50 años de dictadura salazarista en Portugal. La población salió a las calles y colocó claveles en los cañones de los fusiles, dando nombre a una de las revoluciones más pacíficas de la historia.",
+        "year": "1974"
+      },
+      {
+        "title": "Inauguración de la Torre Eiffel",
+        "description": "Gustave Eiffel inauguró oficialmente la Torre Eiffel de París, construida como arco de entrada a la Exposición Universal de 1889. Rechazada inicialmente por los intelectuales parisinos, hoy es el monumento más visitado del mundo con más de siete millones de visitantes anuales.",
+        "year": "1889"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Hugh of Grenoble",
+        "type": "Bishop",
+        "description": "An 11th-century French bishop appointed to the see of Grenoble despite his youth and reluctance. He was the prelate who welcomed Saint Bruno and his companions on the mountain of Chartreuse, thus giving rise to the Carthusian Order. He resigned his bishopric to become a monk but was ordered by the pope to continue. He died in 1132 and was canonised just two years later."
+      },
+      {
+        "name": "Saint Theodora of Quirino",
+        "type": "Martyr",
+        "description": "A 4th-century Roman martyr and sister of the martyr Hermes. According to tradition, she was thrown into a brothel to be dishonoured but was miraculously protected and ultimately executed alongside her brother during the Diocletian persecutions."
+      },
+      {
+        "name": "Blessed Thomas of Tolentino",
+        "type": "Missionary and Martyr",
+        "description": "A 14th-century Franciscan friar who travelled as a missionary to Asia. He was beheaded in India, in the region of Tana (present-day Thane), along with other Franciscan companions, becoming one of the first martyrs of the Asian continent recognised by the Church."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Autism Awareness Day",
+        "description": "Proclaimed by the UN in 2007 and observed since 2008, this day aims to raise awareness about autism and promote the acceptance and inclusion of people with autism spectrum disorder in all areas of society."
+      },
+      {
+        "name": "International Day for Cultivated Intra-Specific Diversity",
+        "description": "A day dedicated to raising awareness of the importance of crop biodiversity and the conservation of local seed varieties to ensure global food security."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The first symptom of love in a young man is timidity; in a young woman, boldness.",
+      "author": "Victor Hugo",
+      "context": "Victor Hugo, born on 26 February 1802, was one of the greatest writers of French Romanticism. This reflection appears in 'Les Misérables', his masterwork on redemption and justice."
+    },
+    "motivationalQuote": {
+      "text": "Start where you are. Use what you have. Do what you can.",
+      "author": "Arthur Ashe"
+    },
+    "births": [
+      {
+        "name": "Ferruccio Lamborghini",
+        "description": "Italian industrialist and founder of the luxury automobile brand Lamborghini. Before turning to sports cars, he built a successful tractor company. His rivalry with Enzo Ferrari is legendary and was the trigger for creating his own sports car.",
+        "year": "1916"
+      },
+      {
+        "name": "Lon Chaney",
+        "description": "American silent film actor known as 'The Man of a Thousand Faces' for his mastery of makeup and character transformation. He starred in horror classics such as 'The Hunchback of Notre Dame' (1923) and 'The Phantom of the Opera' (1925).",
+        "year": "1883"
+      },
+      {
+        "name": "Susan Boyle",
+        "description": "Scottish singer who became world-famous overnight in 2009 after performing 'I Dreamed a Dream' on Britain's Got Talent. Her story became a symbol of perseverance and late-recognised talent.",
+        "year": "1961"
+      }
+    ],
+    "events": [
+      {
+        "title": "Founding of Apple Inc.",
+        "description": "Steve Jobs, Steve Wozniak, and Ronald Wayne signed the articles of incorporation for Apple Computer Company in the Jobs family garage in Los Altos, California. The company would forever change the technology industry and the way the world interacts with computers.",
+        "year": "1976"
+      },
+      {
+        "title": "The Carnation Revolution in Portugal",
+        "description": "A military coup led by the Armed Forces Movement ended nearly 50 years of Salazarist dictatorship in Portugal. Citizens took to the streets and placed carnations in the barrels of rifles, giving name to one of the most peaceful revolutions in history.",
+        "year": "1974"
+      },
+      {
+        "title": "Inauguration of the Eiffel Tower",
+        "description": "Gustave Eiffel officially inaugurated the Eiffel Tower in Paris, built as the entrance arch for the 1889 Universal Exposition. Initially rejected by Parisian intellectuals, it is today the most visited monument in the world with over seven million visitors annually.",
+        "year": "1889"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Hugo de Grenoble",
+        "type": "Bispo",
+        "description": "Bispo francês do século XI, nomeado para a sé de Grenoble apesar de sua juventude e relutância. Foi o prelado que acolheu São Bruno e seus companheiros na montanha de Chartreuse, dando origem à Ordem Cartusiana. Renunciou ao bispado para se tornar monge, mas o papa o obrigou a continuar. Morreu em 1132 e foi canonizado apenas dois anos depois."
+      },
+      {
+        "name": "Santa Teodora de Quirino",
+        "type": "Mártir",
+        "description": "Mártir romana do século IV, irmã do mártir Hermes. Segundo a tradição, foi lançada a um prostíbulo para ser desonrada, mas foi milagrosamente protegida e finalmente executada junto ao irmão durante as perseguições de Diocleciano."
+      },
+      {
+        "name": "Beato Tomás de Tolentino",
+        "type": "Missionário e Mártir",
+        "description": "Frade franciscano do século XIV que foi como missionário à Ásia. Foi decapitado na Índia, na região de Tana (atual Thane), junto a outros companheiros franciscanos, tornando-se um dos primeiros mártires do continente asiático reconhecidos pela Igreja."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Consciencialização do Autismo",
+        "description": "Proclamado pela ONU em 2007 e celebrado desde 2008, este dia busca conscientizar sobre o autismo e promover a aceitação e inclusão das pessoas com transtorno do espectro autista em todos os âmbitos da sociedade."
+      },
+      {
+        "name": "Dia Internacional da Diversidade Intraespecífica Cultivada",
+        "description": "Jornada dedicada a sensibilizar sobre a importância da biodiversidade dos cultivos e a conservação de variedades locais de sementes para garantir a segurança alimentar global."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O primeiro sintoma de amor em um jovem é a timidez; em uma jovem, é a ousadia.",
+      "author": "Victor Hugo",
+      "context": "Victor Hugo, nascido em 26 de fevereiro de 1802, foi um dos maiores escritores do Romantismo francês. Esta reflexão aparece em 'Os Miseráveis', sua obra-prima sobre redenção e justiça."
+    },
+    "motivationalQuote": {
+      "text": "Comece onde você está. Use o que você tem. Faça o que puder.",
+      "author": "Arthur Ashe"
+    },
+    "births": [
+      {
+        "name": "Ferruccio Lamborghini",
+        "description": "Industrial italiano fundador da marca de automóveis de luxo Lamborghini. Antes de se dedicar aos carros esportivos, construiu uma bem-sucedida empresa de tratores. Sua rivalidade com Enzo Ferrari é lendária e foi o gatilho para criar seu próprio carro esportivo.",
+        "year": "1916"
+      },
+      {
+        "name": "Lon Chaney",
+        "description": "Ator americano do cinema mudo, conhecido como 'O Homem das Mil Faces' por sua maestria na maquiagem e caracterização. Protagonizou clássicos do horror como 'O Corcunda de Notre Dame' (1923) e 'O Fantasma da Ópera' (1925).",
+        "year": "1883"
+      },
+      {
+        "name": "Susan Boyle",
+        "description": "Cantora escocesa que se tornou mundialmente famosa da noite para o dia em 2009 ao participar do programa Britain's Got Talent com uma interpretação de 'I Dreamed a Dream'. Sua história tornou-se símbolo de perseverança e talento reconhecido tardiamente.",
+        "year": "1961"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundação da Apple Inc.",
+        "description": "Steve Jobs, Steve Wozniak e Ronald Wayne assinaram o ato constitutivo da Apple Computer Company na garagem da família Jobs em Los Altos, Califórnia. A empresa mudaria para sempre a indústria tecnológica e a forma como o mundo interage com os computadores.",
+        "year": "1976"
+      },
+      {
+        "title": "Revolução dos Cravos em Portugal",
+        "description": "Um golpe de estado militar liderado pelo Movimento das Forças Armadas pôs fim a quase 50 anos de ditadura salazarista em Portugal. A população saiu às ruas e colocou cravos nos canos dos fuzis, dando nome a uma das revoluções mais pacíficas da história.",
+        "year": "1974"
+      },
+      {
+        "title": "Inauguração da Torre Eiffel",
+        "description": "Gustave Eiffel inaugurou oficialmente a Torre Eiffel em Paris, construída como arco de entrada para a Exposição Universal de 1889. Inicialmente rejeitada pelos intelectuais parisienses, é hoje o monumento mais visitado do mundo com mais de sete milhões de visitantes anuais.",
+        "year": "1889"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Hug de Grenoble",
+        "type": "Bisbe",
+        "description": "Bisbe francès del segle XI, nomenat per a la seu de Grenoble malgrat la seva joventut i reticència. Va ser el prelat que va acollir Sant Bru i els seus companys a la muntanya de la Chartreuse, donant origen a l'Ordre Cartoixana. Va renunciar al bisbat per fer-se monjo, però el papa el va obligar a continuar. Va morir el 1132 i va ser canonitzat tan sols dos anys després."
+      },
+      {
+        "name": "Santa Teodora de Quirí",
+        "type": "Màrtir",
+        "description": "Màrtir romana del segle IV, germana del màrtir Hermes. Segons la tradició, va ser llançada a un prostíbul per ser deshonrada, però va ser protegida miraculosament i finalment executada juntament amb el seu germà durant les persecucions de Dioclecià."
+      },
+      {
+        "name": "Beat Tomàs de Tolentino",
+        "type": "Missioner i Màrtir",
+        "description": "Frare franciscà del segle XIV que va anar com a missioner a Àsia. Va ser decapitat a l'Índia, a la regió de Tana (actual Thane), juntament amb altres companys franciscans, convertint-se en un dels primers màrtirs del continent asiàtic reconeguts per l'Església."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Conscienciació sobre l'Autisme",
+        "description": "Proclamat per l'ONU el 2007 i celebrat des del 2008, aquest dia busca conscienciar sobre l'autisme i promoure l'acceptació i la inclusió de les persones amb trastorn de l'espectre autista en tots els àmbits de la societat."
+      },
+      {
+        "name": "Dia Internacional de la Diversitat Intraespecífica Cultivada",
+        "description": "Jornada dedicada a sensibilitzar sobre la importància de la biodiversitat dels cultius i la conservació de varietats locals de llavors per garantir la seguretat alimentària global."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El primer símptoma d'amor en un jove és la timidesa; en una jove, és l'atreviment.",
+      "author": "Victor Hugo",
+      "context": "Victor Hugo, nascut el 26 de febrer de 1802, va ser un dels majors escriptors del Romanticisme francès. Aquesta reflexió apareix a 'Els miserables', la seva novel·la cabdal sobre la redempció i la justícia."
+    },
+    "motivationalQuote": {
+      "text": "Comença on ets. Fes servir el que tens. Fes el que puguis.",
+      "author": "Arthur Ashe"
+    },
+    "births": [
+      {
+        "name": "Ferruccio Lamborghini",
+        "description": "Industrial italià fundador de la marca d'automòbils de luxe Lamborghini. Abans de dedicar-se als cotxes esportius, va construir una empresa de tractors d'èxit. La seva rivalitat amb Enzo Ferrari és llegendària i va ser el detonant per crear el seu propi automòbil esportiu.",
+        "year": "1916"
+      },
+      {
+        "name": "Lon Chaney",
+        "description": "Actor nord-americà del cinema mut, conegut com 'L'home de les mil cares' per la seva mestria en el maquillatge i la caracterització. Va protagonitzar clàssics del terror com 'El geperut de Notre Dame' (1923) i 'El fantasma de l'òpera' (1925).",
+        "year": "1883"
+      },
+      {
+        "name": "Susan Boyle",
+        "description": "Cantant escocesa que es va fer mundialmente famosa de la nit al dia el 2009 en participar al programa Britain's Got Talent amb una interpretació de 'I Dreamed a Dream'. La seva història es va convertir en símbol de perseverança i talent tardanament reconegut.",
+        "year": "1961"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundació d'Apple Inc.",
+        "description": "Steve Jobs, Steve Wozniak i Ronald Wayne van signar l'acta constitutiva d'Apple Computer Company al garatge de la família Jobs a Los Altos, Califòrnia. L'empresa canviaria per sempre la indústria tecnològica i la manera com el món interactua amb els ordinadors.",
+        "year": "1976"
+      },
+      {
+        "title": "Revolució dels Clavells a Portugal",
+        "description": "Un cop d'estat militar liderat pel Moviment de les Forces Armades va posar fi a gairebé 50 anys de dictadura salazarista a Portugal. La població va sortir al carrer i va col·locar clavells als canons dels fusells, donant nom a una de les revolucions més pacífiques de la història.",
+        "year": "1974"
+      },
+      {
+        "title": "Inauguració de la Torre Eiffel",
+        "description": "Gustave Eiffel va inaugurar oficialment la Torre Eiffel de París, construïda com a arc d'entrada a l'Exposició Universal de 1889. Rebutjada inicialment pels intel·lectuals parisencs, avui és el monument més visitat del món amb més de set milions de visitants anuals.",
+        "year": "1889"
+      }
+    ]
+  }
+}

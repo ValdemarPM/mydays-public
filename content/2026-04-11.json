@@ -1,0 +1,291 @@
+{
+  "date": "2026-04-11",
+  "es": {
+    "saints": [
+      {
+        "name": "San Estanislao de Cracovia",
+        "type": "Obispo y Mártir",
+        "description": "Obispo de Cracovia en el siglo XI, asesinado por el rey polaco Boleslao II el Generoso mientras celebraba misa. Según la tradición, Estanislao denunció la conducta del rey ante la corte y fue ejecutado personalmente por él. Es patrono de Polonia y uno de sus santos nacionales más venerados, canonizado en 1253."
+      },
+      {
+        "name": "San Gémelo de Ancira",
+        "type": "Mártir",
+        "description": "Mártir cristiano del siglo IV, ejecutado en Ancira (actual Ankara) durante la persecución del emperador Juliano el Apóstata. Fue uno de los últimos mártires de las persecuciones romanas antes del triunfo definitivo del cristianismo bajo Teodosio I."
+      },
+      {
+        "name": "Beato Miguel Rua",
+        "type": "Presbítero",
+        "description": "Primer sucesor de Don Bosco al frente de la Congregación Salesiana, a quien conoció desde niño. Amplió la obra salesiana a nivel mundial, pasando de 64 casas en 1888 a más de 345 en el momento de su muerte en 1910. Fue beatificado por Juan Pablo II en 1972."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Nacional del Voluntariado (Polonia)",
+        "description": "Polonia celebra el Día del Voluntariado el 11 de abril, en reconocimiento al papel fundamental de los voluntarios en la sociedad civil, especialmente en el ámbito social, sanitario y cultural."
+      },
+      {
+        "name": "Día Nacional de los Expresos Políticos (Cuba)",
+        "description": "El 11 de abril es una fecha recordada por las organizaciones de derechos humanos cubanas en memoria de los presos políticos del régimen cubano, abogando por su liberación y el reconocimiento de su sufrimiento."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El hombre no es sino lo que hace de sí mismo.",
+      "author": "Jean-Paul Sartre",
+      "context": "Frase central del existencialismo sartreano, filosofía dominante en la Europa de posguerra del siglo XX. Sartre (nacido el 21 de junio de 1905) afirmaba que la existencia precede a la esencia y que somos absolutamente responsables de nuestras elecciones."
+    },
+    "motivationalQuote": {
+      "text": "Lo que no te mata te hace más fuerte.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "Evelyn Waugh",
+        "description": "Escritor inglés del siglo XX, autor de novelas como 'Retorno a Brideshead' (1945) y la trilogía 'Sword of Honour'. Conocido por su satírica descripción de la aristocracia inglesa y su conversión al catolicismo romano, que influyó profundamente en su obra literaria.",
+        "year": "1903"
+      },
+      {
+        "name": "Joel Grey",
+        "description": "Actor y cantante estadounidense ganador del Óscar al Mejor Actor de Reparto por su interpretación del Maestro de Ceremonias en la película 'Cabaret' (1972). Su actuación en el original de Broadway y en el cine es considerada una de las más memorables de la historia del musical.",
+        "year": "1932"
+      },
+      {
+        "name": "Jeremy Clarkson",
+        "description": "Periodista, escritor y presentador de televisión británico, conocido mundialmente por conducir el programa de automóviles 'Top Gear' durante décadas. Su estilo provocador y sus polémicas declaraciones le han convertido en una de las figuras más reconocibles de la televisión británica.",
+        "year": "1960"
+      }
+    ],
+    "events": [
+      {
+        "title": "Comienzo del juicio de Adolf Eichmann",
+        "description": "Se inició en Jerusalén el juicio contra Adolf Eichmann, uno de los principales organizadores del Holocausto. Fue capturado en Argentina por el Mossad israelí en 1960 y juzgado en Israel. Su juicio fue retransmitido en todo el mundo y fue el primero en ser televisado en la historia.",
+        "year": "1961"
+      },
+      {
+        "title": "Explosión del Apolo 13",
+        "description": "A 321.860 km de la Tierra, uno de los tanques de oxígeno del módulo de servicio del Apolo 13 explotó, poniendo en grave peligro a los tres astronautas. Los ingenieros de la NASA lograron traerlos de regreso sanos y salvos, en lo que se llamó 'el fracaso más exitoso de la NASA'.",
+        "year": "1970"
+      },
+      {
+        "title": "Liberación de los campos de exterminio nazis por los Aliados",
+        "description": "Tropas del ejército estadounidense liberaron el campo de concentración de Buchenwald, uno de los más grandes del Reich alemán. El general Eisenhower obligó a los civiles alemanes de las ciudades cercanas a visitar el campo para que fueran testigos de los crímenes cometidos.",
+        "year": "1945"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Stanislaus of Kraków",
+        "type": "Bishop and Martyr",
+        "description": "An 11th-century Bishop of Kraków, killed by the Polish king Bolesław II the Bold while celebrating Mass. According to tradition, Stanislaus denounced the king's conduct before the court and was personally executed by him. He is the patron saint of Poland and one of its most revered national saints, canonised in 1253."
+      },
+      {
+        "name": "Saint Gemellus of Ancyra",
+        "type": "Martyr",
+        "description": "A 4th-century Christian martyr, executed in Ancyra (present-day Ankara) during the persecution of Emperor Julian the Apostate. He was one of the last martyrs of the Roman persecutions before the final triumph of Christianity under Theodosius I."
+      },
+      {
+        "name": "Blessed Michael Rua",
+        "type": "Priest",
+        "description": "The first successor of Don Bosco at the head of the Salesian Congregation, whom he had known since childhood. He expanded the Salesian work worldwide, growing from 64 houses in 1888 to more than 345 at the time of his death in 1910. He was beatified by John Paul II in 1972."
+      }
+    ],
+    "observances": [
+      {
+        "name": "National Volunteer Day (Poland)",
+        "description": "Poland celebrates Volunteer Day on 11 April, in recognition of the fundamental role of volunteers in civil society, especially in social, healthcare, and cultural fields."
+      },
+      {
+        "name": "National Day of Political Prisoners (Cuba)",
+        "description": "11 April is a date remembered by Cuban human rights organisations in memory of political prisoners of the Cuban regime, advocating for their release and recognition of their suffering."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Man is nothing else but what he makes of himself.",
+      "author": "Jean-Paul Sartre",
+      "context": "A central phrase of Sartrean existentialism, the dominant philosophy in post-war 20th-century Europe. Sartre (born 21 June 1905) claimed that existence precedes essence and that we are absolutely responsible for our choices."
+    },
+    "motivationalQuote": {
+      "text": "What does not kill me makes me stronger.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "Evelyn Waugh",
+        "description": "20th-century English writer, author of novels such as 'Brideshead Revisited' (1945) and the 'Sword of Honour' trilogy. Known for his satirical depiction of the English aristocracy and his conversion to Roman Catholicism, which profoundly influenced his literary work.",
+        "year": "1903"
+      },
+      {
+        "name": "Joel Grey",
+        "description": "American actor and singer, Academy Award winner for Best Supporting Actor for his portrayal of the Master of Ceremonies in the film 'Cabaret' (1972). His performance in the original Broadway production and the film is considered one of the most memorable in the history of the musical.",
+        "year": "1932"
+      },
+      {
+        "name": "Jeremy Clarkson",
+        "description": "British journalist, writer, and television presenter, globally known for hosting the car programme 'Top Gear' for decades. His provocative style and controversial remarks have made him one of the most recognisable figures on British television.",
+        "year": "1960"
+      }
+    ],
+    "events": [
+      {
+        "title": "Start of the Adolf Eichmann Trial",
+        "description": "The trial of Adolf Eichmann, one of the chief organisers of the Holocaust, began in Jerusalem. He had been captured in Argentina by the Israeli Mossad in 1960 and tried in Israel. His trial was broadcast around the world and was the first in history to be televised.",
+        "year": "1961"
+      },
+      {
+        "title": "Apollo 13 Explosion",
+        "description": "At 321,860 km from Earth, one of the oxygen tanks in the Apollo 13 service module exploded, placing the three astronauts in grave danger. NASA engineers managed to bring them home safely, in what became known as 'NASA's most successful failure'.",
+        "year": "1970"
+      },
+      {
+        "title": "Allied Liberation of Nazi Extermination Camps",
+        "description": "US Army troops liberated the Buchenwald concentration camp, one of the largest in the German Reich. General Eisenhower ordered German civilians from nearby towns to visit the camp so they could witness the crimes that had been committed.",
+        "year": "1945"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Estanislau de Cracóvia",
+        "type": "Bispo e Mártir",
+        "description": "Bispo de Cracóvia no século XI, assassinado pelo rei polaco Boleslau II o Generoso enquanto celebrava a missa. Segundo a tradição, Estanislau denunciou a conduta do rei perante a corte e foi executado pessoalmente por ele. É patrono da Polónia e um dos seus santos nacionais mais venerados, canonizado em 1253."
+      },
+      {
+        "name": "São Gemelo de Ancira",
+        "type": "Mártir",
+        "description": "Mártir cristão do século IV, executado em Ancira (atual Ancara) durante a perseguição do imperador Juliano o Apóstata. Foi um dos últimos mártires das perseguições romanas antes do triunfo definitivo do cristianismo sob Teodósio I."
+      },
+      {
+        "name": "Beato Miguel Rua",
+        "type": "Presbítero",
+        "description": "Primeiro sucessor de Dom Bosco à frente da Congregação Salesiana, a quem conheceu desde criança. Expandiu a obra salesiana a nível mundial, passando de 64 casas em 1888 para mais de 345 no momento da sua morte em 1910. Foi beatificado por João Paulo II em 1972."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional do Voluntariado (Polónia)",
+        "description": "A Polónia celebra o Dia do Voluntariado em 11 de abril, em reconhecimento ao papel fundamental dos voluntários na sociedade civil, especialmente no âmbito social, sanitário e cultural."
+      },
+      {
+        "name": "Dia Nacional dos Presos Políticos (Cuba)",
+        "description": "O 11 de abril é uma data recordada pelas organizações de direitos humanos cubanas em memória dos presos políticos do regime cubano, pugnando pela sua libertação e pelo reconhecimento do seu sofrimento."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O homem não é senão o que faz de si mesmo.",
+      "author": "Jean-Paul Sartre",
+      "context": "Frase central do existencialismo sartreano, filosofia dominante na Europa do pós-guerra do século XX. Sartre (nascido em 21 de junho de 1905) afirmava que a existência precede a essência e que somos absolutamente responsáveis pelas nossas escolhas."
+    },
+    "motivationalQuote": {
+      "text": "O que não me mata torna-me mais forte.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "Evelyn Waugh",
+        "description": "Escritor inglês do século XX, autor de romances como 'Retorno a Brideshead' (1945) e a trilogia 'Sword of Honour'. Conhecido pela sua descrição satírica da aristocracia inglesa e a sua conversão ao catolicismo romano, que influenciou profundamente a sua obra literária.",
+        "year": "1903"
+      },
+      {
+        "name": "Joel Grey",
+        "description": "Ator e cantor americano, vencedor do Oscar de Melhor Ator Coadjuvante pela interpretação do Mestre de Cerimônias no filme 'Cabaret' (1972). A sua atuação no original da Broadway e no cinema é considerada uma das mais memoráveis da história do musical.",
+        "year": "1932"
+      },
+      {
+        "name": "Jeremy Clarkson",
+        "description": "Jornalista, escritor e apresentador de televisão britânico, mundialmente conhecido por apresentar o programa automóvel 'Top Gear' durante décadas. O seu estilo provocador e as suas declarações polémicas tornaram-no uma das figuras mais reconhecíveis da televisão britânica.",
+        "year": "1960"
+      }
+    ],
+    "events": [
+      {
+        "title": "Início do julgamento de Adolf Eichmann",
+        "description": "Começou em Jerusalém o julgamento de Adolf Eichmann, um dos principais organizadores do Holocausto. Foi capturado na Argentina pelo Mossad israelense em 1960 e julgado em Israel. O seu julgamento foi transmitido em todo o mundo e foi o primeiro a ser televisionado na história.",
+        "year": "1961"
+      },
+      {
+        "title": "Explosão da Apolo 13",
+        "description": "A 321.860 km da Terra, um dos tanques de oxigénio do módulo de serviço da Apolo 13 explodiu, colocando em grave perigo os três astronautas. Os engenheiros da NASA conseguiram trazê-los de regresso sãos e salvos, no que ficou conhecido como 'o fracasso mais bem-sucedido da NASA'.",
+        "year": "1970"
+      },
+      {
+        "title": "Libertação dos campos de extermínio nazis pelos Aliados",
+        "description": "Tropas do exército americano libertaram o campo de concentração de Buchenwald, um dos maiores do Reich alemão. O general Eisenhower obrigou os civis alemães das cidades próximas a visitar o campo para que testemunhassem os crimes cometidos.",
+        "year": "1945"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Estanislau de Cracòvia",
+        "type": "Bisbe i Màrtir",
+        "description": "Bisbe de Cracòvia al segle XI, assassinat pel rei polonès Boleslau II el Generós mentre celebrava la missa. Segons la tradició, Estanislau va denunciar la conducta del rei davant la cort i va ser executat personalment per ell. És patró de Polònia i un dels seus sants nacionals més venerats, canonitzat el 1253."
+      },
+      {
+        "name": "Sant Gemel d'Ancira",
+        "type": "Màrtir",
+        "description": "Màrtir cristià del segle IV, executat a Ancira (actual Ankara) durant la persecució de l'emperador Julià l'Apòstata. Va ser un dels darrers màrtirs de les persecucions romanes abans del triomf definitiu del cristianisme sota Teodosi I."
+      },
+      {
+        "name": "Beat Miquel Rua",
+        "type": "Prevere",
+        "description": "Primer successor de Don Bosco al capdavant de la Congregació Salesiana, a qui va conèixer de petit. Va ampliar l'obra salesiana a nivell mundial, passant de 64 cases el 1888 a més de 345 en el moment de la seva mort el 1910. Va ser beatificat per Joan Pau II el 1972."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional del Voluntariat (Polònia)",
+        "description": "Polònia celebra el Dia del Voluntariat l'11 d'abril, en reconeixement al paper fonamental dels voluntaris en la societat civil, especialment en l'àmbit social, sanitari i cultural."
+      },
+      {
+        "name": "Dia Nacional dels Presos Polítics (Cuba)",
+        "description": "L'11 d'abril és una data recordada per les organitzacions de drets humans cubanes en memòria dels presos polítics del règim cubà, defensant la seva alliberament i el reconeixement del seu sofriment."
+      }
+    ],
+    "historicalQuote": {
+      "text": "L'home no és sinó el que fa de si mateix.",
+      "author": "Jean-Paul Sartre",
+      "context": "Frase central de l'existencialisme sartreà, filosofia dominant en l'Europa de la postguerra del segle XX. Sartre (nascut el 21 de juny de 1905) afirmava que l'existència precedeix l'essència i que som absolutament responsables de les nostres eleccions."
+    },
+    "motivationalQuote": {
+      "text": "El que no et mata et fa més fort.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "Evelyn Waugh",
+        "description": "Escriptor anglès del segle XX, autor de novel·les com 'Retorn a Brideshead' (1945) i la trilogia 'Sword of Honour'. Conegut per la seva descripció satírica de l'aristocràcia anglesa i la seva conversió al catolicisme romà, que va influir profundament en la seva obra literària.",
+        "year": "1903"
+      },
+      {
+        "name": "Joel Grey",
+        "description": "Actor i cantant americà, guanyador de l'Oscar al Millor Actor de Repartiment per la seva interpretació del Mestre de Cerimònies a la pel·lícula 'Cabaret' (1972). La seva actuació en l'original de Broadway i en el cinema és considerada una de les més memorables de la història del musical.",
+        "year": "1932"
+      },
+      {
+        "name": "Jeremy Clarkson",
+        "description": "Periodista, escriptor i presentador de televisió britànic, conegut mundialment per presentar el programa d'automòbils 'Top Gear' durant dècades. El seu estil provocador i les seves declaracions polèmiques l'han convertit en una de les figures més reconeixibles de la televisió britànica.",
+        "year": "1960"
+      }
+    ],
+    "events": [
+      {
+        "title": "Inici del judici d'Adolf Eichmann",
+        "description": "Va començar a Jerusalem el judici contra Adolf Eichmann, un dels principals organitzadors de l'Holocaust. Va ser capturat a l'Argentina pel Mossad israelià el 1960 i jutjat a Israel. El seu judici va ser emès arreu del món i va ser el primer a ser televisat en la història.",
+        "year": "1961"
+      },
+      {
+        "title": "Explosió de l'Apol·lo 13",
+        "description": "A 321.860 km de la Terra, un dels dipòsits d'oxigen del mòdul de servei de l'Apol·lo 13 va explotar, posant en greu perill els tres astronautes. Els enginyers de la NASA van aconseguir portar-los de tornada sans i estalvis, en el que es va anomenar 'el fracàs més reeixit de la NASA'.",
+        "year": "1970"
+      },
+      {
+        "title": "Alliberament dels camps d'extermini nazis pels Aliats",
+        "description": "Tropes de l'exèrcit americà van alliberar el camp de concentració de Buchenwald, un dels més grans del Reich alemany. El general Eisenhower va obligar els civils alemanys de les poblacions properes a visitar el camp perquè fossin testimonis dels crims comesos.",
+        "year": "1945"
+      }
+    ]
+  }
+}

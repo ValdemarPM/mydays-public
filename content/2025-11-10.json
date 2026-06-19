@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-10",
+  "es": {
+    "saints": [
+      {
+        "name": "San León Magno",
+        "type": "Papa y Doctor de la Iglesia",
+        "description": "Papa del siglo V (440–461), uno de los más grandes de la historia de la Iglesia. Convenció a Atila de no saquear Roma en 452 y definió con claridad la naturaleza divina y humana de Cristo en el Concilio de Calcedonia (451)."
+      },
+      {
+        "name": "San Andrés Avelino",
+        "type": "Presbítero",
+        "description": "Clérigo teatino italiano del siglo XVI, conocido por su ardiente caridad y su devoción a la Virgen. Murió en 1608 mientras celebraba misa, fulminado por una apoplejía."
+      },
+      {
+        "name": "Santa Ninfa de Palermo",
+        "type": "Virgen y Mártir",
+        "description": "Mártir siciliana del siglo IV, una de las patronas de Palermo junto a Santa Rosalía y Santa Ágata. Muy venerada en la tradición religiosa de Sicilia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Ciencia para la Paz y el Desarrollo",
+        "description": "Proclamado por la UNESCO para destacar el papel crucial de la ciencia en la paz, la seguridad y el desarrollo humano sostenible."
+      },
+      {
+        "name": "Día de los Marines (Estados Unidos)",
+        "description": "El Cuerpo de Marines de los Estados Unidos celebra su aniversario de fundación el 10 de noviembre de 1775, con ceremonias militares en todo el mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Ningún hombre puede servir a dos amos.",
+      "author": "San León Magno",
+      "context": "El papa del día aplicó esta enseñanza evangélica al gobernar la Iglesia con firmeza doctrinal y pastoral durante uno de los períodos más convulsos de la historia romana."
+    },
+    "motivationalQuote": {
+      "text": "Lo que sabemos es una gota; lo que ignoramos es un océano.",
+      "author": "Isaac Newton"
+    },
+    "births": [
+      {
+        "name": "Friedrich von Schiller",
+        "description": "Poeta, dramaturgo y filósofo alemán del Romanticismo, autor de obras como Guillermo Tell, Los bandidos y el Himno a la Alegría que musicalizó Beethoven en su Novena Sinfonía.",
+        "year": 1759
+      },
+      {
+        "name": "Richard Burton",
+        "description": "Actor galés considerado uno de los mejores de su generación, conocido por Cleopatra, ¿Quién teme a Virginia Woolf? y su turbulenta relación con Elizabeth Taylor.",
+        "year": 1925
+      },
+      {
+        "name": "Ellen Pompeo",
+        "description": "Actriz estadounidense conocida mundialmente por interpretar a Meredith Grey en la serie médica Anatomía de Grey, una de las series más longevas de la televisión americana.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundación del Cuerpo de Marines de EE.UU.",
+        "description": "El Segundo Congreso Continental fundó el Cuerpo de Marines de los Estados Unidos en Filadelfia, estableciendo el cuerpo de infantería de marina más veterano de América del Norte.",
+        "year": 1775
+      },
+      {
+        "title": "Stanley localiza a Livingstone",
+        "description": "El periodista y explorador Henry Morton Stanley encontró al explorador y misionero David Livingstone a orillas del lago Tanganika en África, y pronunció la famosa frase: 'El doctor Livingstone, supongo'.",
+        "year": 1871
+      },
+      {
+        "title": "Primera emisión de Sesame Street",
+        "description": "El programa infantil Barrio Sésamo se emitió por primera vez en la televisión pública estadounidense (PBS), revolucionando la educación preescolar con sus personajes y método innovador.",
+        "year": 1969
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Leo the Great",
+        "type": "Pope and Doctor of the Church",
+        "description": "5th-century pope (440–461), one of the greatest in Church history. He persuaded Attila not to sack Rome in 452 and clearly defined the divine and human natures of Christ at the Council of Chalcedon (451)."
+      },
+      {
+        "name": "Saint Andrew Avellino",
+        "type": "Presbyter",
+        "description": "16th-century Italian Theatine cleric, known for his ardent charity and devotion to the Virgin. He died in 1608 while celebrating Mass, struck down by a stroke."
+      },
+      {
+        "name": "Saint Nympha of Palermo",
+        "type": "Virgin and Martyr",
+        "description": "4th-century Sicilian martyr, one of the patron saints of Palermo alongside Saints Rosalia and Agatha. Widely venerated in Sicilian religious tradition."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Science Day for Peace and Development",
+        "description": "Proclaimed by UNESCO to highlight the crucial role of science in peace, security, and sustainable human development."
+      },
+      {
+        "name": "US Marine Corps Birthday",
+        "description": "The United States Marine Corps celebrates its founding anniversary on 10 November 1775, with military ceremonies worldwide."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No man can serve two masters.",
+      "author": "Saint Leo the Great",
+      "context": "Today's pope applied this Gospel teaching to governing the Church with doctrinal and pastoral firmness during one of the most turbulent periods in Roman history."
+    },
+    "motivationalQuote": {
+      "text": "What we know is a drop; what we don't know is an ocean.",
+      "author": "Isaac Newton"
+    },
+    "births": [
+      {
+        "name": "Friedrich von Schiller",
+        "description": "German Romantic poet, playwright, and philosopher, author of William Tell, The Robbers, and the Ode to Joy set to music by Beethoven in his Ninth Symphony.",
+        "year": 1759
+      },
+      {
+        "name": "Richard Burton",
+        "description": "Welsh actor considered one of the finest of his generation, known for Cleopatra, Who's Afraid of Virginia Woolf?, and his turbulent relationship with Elizabeth Taylor.",
+        "year": 1925
+      },
+      {
+        "name": "Ellen Pompeo",
+        "description": "American actress known worldwide for playing Meredith Grey in the medical drama Grey's Anatomy, one of the longest-running series in American television.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "Founding of the US Marine Corps",
+        "description": "The Second Continental Congress established the United States Marine Corps in Philadelphia, creating the oldest amphibious infantry corps in North America.",
+        "year": 1775
+      },
+      {
+        "title": "Stanley finds Livingstone",
+        "description": "Journalist and explorer Henry Morton Stanley found explorer and missionary David Livingstone on the shores of Lake Tanganyika in Africa, and uttered the famous phrase: 'Dr Livingstone, I presume.'",
+        "year": 1871
+      },
+      {
+        "title": "First broadcast of Sesame Street",
+        "description": "The children's programme Sesame Street aired for the first time on American public television (PBS), revolutionising pre-school education with its innovative characters and method.",
+        "year": 1969
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Leão Magno",
+        "type": "Papa e Doutor da Igreja",
+        "description": "Papa do século V (440–461), um dos maiores da história da Igreja. Convenceu Átila a não saquear Roma em 452 e definiu claramente as naturezas divina e humana de Cristo no Concílio de Calcedônia (451)."
+      },
+      {
+        "name": "São André Avelino",
+        "type": "Presbítero",
+        "description": "Clérigo teatino italiano do século XVI, conhecido pela sua ardente caridade e devoção à Virgem. Morreu em 1608 enquanto celebrava missa, fulminado por um derrame."
+      },
+      {
+        "name": "Santa Ninfa de Palermo",
+        "type": "Virgem e Mártir",
+        "description": "Mártir siciliana do século IV, uma das patronas de Palermo ao lado de Santa Rosália e Santa Águeda. Muito venerada na tradição religiosa da Sicília."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Ciência para a Paz e o Desenvolvimento",
+        "description": "Proclamado pela UNESCO para destacar o papel crucial da ciência na paz, na segurança e no desenvolvimento humano sustentável."
+      },
+      {
+        "name": "Aniversário do Corpo de Fuzileiros Navais dos EUA",
+        "description": "O Corpo de Fuzileiros Navais dos Estados Unidos celebra o seu aniversário de fundação em 10 de novembro de 1775, com cerimônias militares em todo o mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nenhum homem pode servir a dois senhores.",
+      "author": "São Leão Magno",
+      "context": "O papa do dia aplicou este ensinamento evangélico ao governar a Igreja com firmeza doutrinária e pastoral durante um dos períodos mais convulsivos da história romana."
+    },
+    "motivationalQuote": {
+      "text": "O que sabemos é uma gota; o que ignoramos é um oceano.",
+      "author": "Isaac Newton"
+    },
+    "births": [
+      {
+        "name": "Friedrich von Schiller",
+        "description": "Poeta, dramaturgo e filósofo alemão do Romantismo, autor de obras como Guilherme Tell, Os Salteadores e a Ode à Alegria musicada por Beethoven na sua Nona Sinfonia.",
+        "year": 1759
+      },
+      {
+        "name": "Richard Burton",
+        "description": "Ator galês considerado um dos melhores de sua geração, conhecido por Cleópatra, Quem Tem Medo de Virgínia Woolf? e a sua turbulenta relação com Elizabeth Taylor.",
+        "year": 1925
+      },
+      {
+        "name": "Ellen Pompeo",
+        "description": "Atriz americana conhecida mundialmente por interpretar Meredith Grey na série médica Grey's Anatomy, uma das séries mais longevas da televisão americana.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundação do Corpo de Fuzileiros Navais dos EUA",
+        "description": "O Segundo Congresso Continental fundou o Corpo de Fuzileiros Navais dos Estados Unidos na Filadélfia, criando o mais antigo corpo de infantaria anfíbia da América do Norte.",
+        "year": 1775
+      },
+      {
+        "title": "Stanley encontra Livingstone",
+        "description": "O jornalista e explorador Henry Morton Stanley encontrou o explorador e missionário David Livingstone às margens do lago Tanganica em África, pronunciando a famosa frase: 'Dr. Livingstone, suponho.'",
+        "year": 1871
+      },
+      {
+        "title": "Primeira exibição da Vila Sésamo",
+        "description": "O programa infantil Vila Sésamo foi transmitido pela primeira vez na televisão pública americana (PBS), revolucionando a educação pré-escolar com seus personagens e método inovadores.",
+        "year": 1969
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Lleó el Gran",
+        "type": "Papa i Doctor de l'Església",
+        "description": "Papa del segle V (440–461), un dels més grans de la història de l'Església. Va convèncer Àtila de no saquejar Roma el 452 i va definir amb claredat les naturaleses divina i humana de Crist al Concili de Calcedònia (451)."
+      },
+      {
+        "name": "Sant Andreu Avelí",
+        "type": "Prevere",
+        "description": "Clergue teatí italià del segle XVI, conegut per la seva ardent caritat i devoció a la Verge. Va morir el 1608 mentre celebrava missa, fulminat per una apoplexia."
+      },
+      {
+        "name": "Santa Nimfa de Palerm",
+        "type": "Verge i Màrtir",
+        "description": "Màrtir siciliana del segle IV, una de les patronos de Palerm juntament amb Santa Rosalia i Santa Àgueda. Molt venerada en la tradició religiosa de Sicília."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Ciència per la Pau i el Desenvolupament",
+        "description": "Proclamat per la UNESCO per destacar el paper crucial de la ciència en la pau, la seguretat i el desenvolupament humà sostenible."
+      },
+      {
+        "name": "Aniversari del Cos de Marines dels EUA",
+        "description": "El Cos de Marines dels Estats Units celebra el seu aniversari de fundació el 10 de novembre de 1775, amb cerimònies militars arreu del món."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Cap home no pot servir dos amos.",
+      "author": "Sant Lleó el Gran",
+      "context": "El papa del dia va aplicar aquest ensenyament evangèlic a governar l'Església amb fermesa doctrinal i pastoral durant un dels períodes més convulsos de la història romana."
+    },
+    "motivationalQuote": {
+      "text": "El que sabem és una gota; el que ignorem és un oceà.",
+      "author": "Isaac Newton"
+    },
+    "births": [
+      {
+        "name": "Friedrich von Schiller",
+        "description": "Poeta, dramaturg i filòsof alemany del Romanticisme, autor d'obres com Guillem Tell, Els bandits i l'Himne a l'Alegria musicat per Beethoven en la seva Novena Simfonia.",
+        "year": 1759
+      },
+      {
+        "name": "Richard Burton",
+        "description": "Actor gal·lès considerat un dels millors de la seva generació, conegut per Cleòpatra, Qui té por de Virginia Woolf? i la seva turbulenta relació amb Elizabeth Taylor.",
+        "year": 1925
+      },
+      {
+        "name": "Ellen Pompeo",
+        "description": "Actriu americana coneguda mundialment per interpretar Meredith Grey a la sèrie mèdica Grey's Anatomy, una de les sèries més longevas de la televisió americana.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundació del Cos de Marines dels EUA",
+        "description": "El Segon Congrés Continental va fundar el Cos de Marines dels Estats Units a Filadèlfia, creant el cos d'infanteria amfíbia més veteran d'Amèrica del Nord.",
+        "year": 1775
+      },
+      {
+        "title": "Stanley troba Livingstone",
+        "description": "El periodista i explorador Henry Morton Stanley va trobar l'explorador i missioner David Livingstone a les ribes del llac Tanganyika a l'Àfrica, pronunciant la famosa frase: 'El doctor Livingstone, suposo.'",
+        "year": 1871
+      },
+      {
+        "title": "Primera emissió de Barri Sèsam",
+        "description": "El programa infantil Barri Sèsam es va emetre per primera vegada a la televisió pública americana (PBS), revolucionant l'educació preescolar amb els seus personatges i mètode innovadors.",
+        "year": 1969
+      }
+    ]
+  }
+}

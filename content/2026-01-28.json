@@ -1,0 +1,235 @@
+{
+  "date": "2026-01-28",
+  "es": {
+    "saints": [
+      {
+        "name": "Santo Tomás de Aquino",
+        "type": "Sacerdote dominico y Doctor de la Iglesia",
+        "description": "El «Doctor Angélico», teólogo y filósofo dominico del siglo XIII, autor de la Suma Teológica. Sintetizó la filosofía aristotélica con la teología cristiana, sentando las bases del tomismo. Patrono de las universidades y los estudiantes."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de Acción de Gracias en Francia",
+        "description": "Celebración religiosa en Francia en honor a la victoria del rey Enrique IV en la Batalla de Arques, que puso fin a las Guerras de Religión."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Tres cosas son necesarias para la salvación del hombre: saber qué debe creer; saber qué debe desear; y saber qué debe hacer.",
+      "author": "Santo Tomás de Aquino",
+      "context": "Tomás de Aquino nació en el castillo de Roccasecca (Italia) en 1225. Su pensamiento filosófico y teológico sigue siendo referencia fundamental de la doctrina católica y de la filosofía occidental."
+    },
+    "motivationalQuote": {
+      "text": "Si el camino es bello, pregúntate a dónde te lleva.",
+      "author": "Albert Camus"
+    },
+    "births": [
+      {
+        "name": "Charlemagne (Carlo Magno)",
+        "description": "Rey de los Francos y primer Emperador de los francos, coronado Emperador de Occidente por el Papa León III en el año 800. Unificó gran parte de Europa y promovió la educación y la cultura carolingia.",
+        "year": 742
+      },
+      {
+        "name": "Jules Verne",
+        "description": "Novelista francés pionero de la ciencia ficción, autor de Veinte mil leguas de viaje submarino, La vuelta al mundo en ochenta días y Viaje al centro de la Tierra. Sus obras anticiparon numerosas tecnologías modernas.",
+        "year": 1828
+      },
+      {
+        "name": "Elijah Wood",
+        "description": "Actor estadounidense, conocido por su interpretación de Frodo Bolsón en la trilogía El señor de los anillos de Peter Jackson, una de las sagas cinematográficas más taquilleras de la historia.",
+        "year": 1981
+      }
+    ],
+    "events": [
+      {
+        "title": "Desintegración del transbordador Challenger",
+        "description": "El transbordador espacial Challenger se desintegró 73 segundos después del despegue ante millones de espectadores televisivos, matando a los siete tripulantes incluida Christa McAuliffe, la primera maestra en el espacio.",
+        "year": 1986
+      },
+      {
+        "title": "Fallecimiento de Carlomagno",
+        "description": "Carlomagno, Emperador de los Francos y primer gran unificador de Europa occidental, murió en Aquisgrán a los 72 años, dejando un legado que definiría la historia europea medieval.",
+        "year": 814
+      },
+      {
+        "title": "Se funda la ciudad de Nueva Orleans",
+        "description": "El ingeniero militar francés Jean-Baptiste Le Moyne de Bienville fundó la Nouvelle-Orléans a orillas del Mississippi, ciudad que se convertiría en la capital musical del blues y el jazz.",
+        "year": 1718
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Thomas Aquinas",
+        "type": "Dominican Priest and Doctor of the Church",
+        "description": "The 'Angelic Doctor', Dominican theologian and philosopher of the 13th century, author of the Summa Theologiae. He synthesised Aristotelian philosophy with Christian theology, laying the foundations of Thomism. Patron of universities and students."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Thanksgiving Day in France",
+        "description": "Religious celebration in France honouring the victory of King Henry IV at the Battle of Arques, which ended the Wars of Religion."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do.",
+      "author": "Saint Thomas Aquinas",
+      "context": "Thomas Aquinas was born at Roccasecca Castle (Italy) in 1225. His philosophical and theological thought remains a fundamental reference in Catholic doctrine and Western philosophy."
+    },
+    "motivationalQuote": {
+      "text": "If the road is beautiful, ask yourself where it leads.",
+      "author": "Albert Camus"
+    },
+    "births": [
+      {
+        "name": "Charlemagne",
+        "description": "King of the Franks and first Emperor of the Franks, crowned Emperor of the West by Pope Leo III in 800 AD. He unified much of Europe and promoted education and Carolingian culture.",
+        "year": 742
+      },
+      {
+        "name": "Jules Verne",
+        "description": "French pioneer of science fiction, author of Twenty Thousand Leagues Under the Sea, Around the World in Eighty Days and Journey to the Centre of the Earth. His works anticipated many modern technologies.",
+        "year": 1828
+      },
+      {
+        "name": "Elijah Wood",
+        "description": "American actor, known for his portrayal of Frodo Baggins in Peter Jackson's The Lord of the Rings trilogy, one of the highest-grossing film sagas in history.",
+        "year": 1981
+      }
+    ],
+    "events": [
+      {
+        "title": "Space Shuttle Challenger disintegrates",
+        "description": "The Space Shuttle Challenger disintegrated 73 seconds after lift-off before millions of television viewers, killing all seven crew members including Christa McAuliffe, the first teacher in space.",
+        "year": 1986
+      },
+      {
+        "title": "Death of Charlemagne",
+        "description": "Charlemagne, Emperor of the Franks and the first great unifier of western Europe, died in Aachen at age 72, leaving a legacy that would define medieval European history.",
+        "year": 814
+      },
+      {
+        "title": "New Orleans founded",
+        "description": "French military engineer Jean-Baptiste Le Moyne de Bienville founded Nouvelle-Orléans on the banks of the Mississippi, a city that would become the musical capital of blues and jazz.",
+        "year": 1718
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Tomás de Aquino",
+        "type": "Sacerdote Dominicano e Doutor da Igreja",
+        "description": "O «Doutor Angélico», teólogo e filósofo dominicano do século XIII, autor da Suma Teológica. Sintetizou a filosofia aristotélica com a teologia cristã, estabelecendo as bases do tomismo. Padroeiro das universidades e dos estudantes."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Ação de Graças na França",
+        "description": "Celebração religiosa na França em honra à vitória do rei Henrique IV na Batalha de Arques, que encerrou as Guerras de Religião."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Três coisas são necessárias para a salvação do homem: saber o que deve crer; saber o que deve desejar; e saber o que deve fazer.",
+      "author": "São Tomás de Aquino",
+      "context": "Tomás de Aquino nasceu no castelo de Roccasecca (Itália) em 1225. Seu pensamento filosófico e teológico continua sendo referência fundamental da doutrina católica e da filosofia ocidental."
+    },
+    "motivationalQuote": {
+      "text": "Se o caminho é bonito, pergunte a si mesmo para onde ele leva.",
+      "author": "Albert Camus"
+    },
+    "births": [
+      {
+        "name": "Carlos Magno",
+        "description": "Rei dos Francos e primeiro Imperador dos francos, coroado Imperador do Ocidente pelo Papa Leão III em 800 d.C. Unificou grande parte da Europa e promoveu a educação e a cultura carolíngia.",
+        "year": 742
+      },
+      {
+        "name": "Júlio Verne",
+        "description": "Romancista francês pioneiro da ficção científica, autor de Vinte Mil Léguas Submarinas, A Volta ao Mundo em Oitenta Dias e Viagem ao Centro da Terra. Suas obras anteciparam numerosas tecnologias modernas.",
+        "year": 1828
+      },
+      {
+        "name": "Elijah Wood",
+        "description": "Ator americano, conhecido por sua interpretação de Frodo Bolseiro na trilogia O Senhor dos Anéis de Peter Jackson, uma das sagas cinematográficas de maior bilheteria da história.",
+        "year": 1981
+      }
+    ],
+    "events": [
+      {
+        "title": "Desintegração do ônibus espacial Challenger",
+        "description": "O ônibus espacial Challenger se desintegrou 73 segundos após a decolagem diante de milhões de espectadores televisivos, matando os sete tripulantes, incluindo Christa McAuliffe, a primeira professora no espaço.",
+        "year": 1986
+      },
+      {
+        "title": "Morte de Carlos Magno",
+        "description": "Carlos Magno, Imperador dos Francos e o primeiro grande unificador da Europa ocidental, morreu em Aix-la-Chapelle aos 72 anos, deixando um legado que definiria a história europeia medieval.",
+        "year": 814
+      },
+      {
+        "title": "Nova Orleans fundada",
+        "description": "O engenheiro militar francês Jean-Baptiste Le Moyne de Bienville fundou a Nouvelle-Orléans às margens do Mississippi, cidade que se tornaria a capital musical do blues e do jazz.",
+        "year": 1718
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Tomàs d'Aquino",
+        "type": "Sacerdot Dominic i Doctor de l'Església",
+        "description": "El «Doctor Angèlic», teòleg i filòsof dominic del segle XIII, autor de la Summa Theologiae. Va sintetitzar la filosofia aristotèlica amb la teologia cristiana, establint les bases del tomisme. Patró de les universitats i els estudiants."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia d'Acció de Gràcies a França",
+        "description": "Celebració religiosa a França en honor de la victòria del rei Enric IV a la Batalla d'Arques, que va posar fi a les Guerres de Religió."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Tres coses són necessàries per a la salvació de l'home: saber el que ha de creure; saber el que ha de desitjar; i saber el que ha de fer.",
+      "author": "Sant Tomàs d'Aquino",
+      "context": "Tomàs d'Aquino va néixer al castell de Roccasecca (Itàlia) el 1225. El seu pensament filosòfic i teològic continua sent una referència fonamental de la doctrina catòlica i de la filosofia occidental."
+    },
+    "motivationalQuote": {
+      "text": "Si el camí és bell, pregunta't a on et porta.",
+      "author": "Albert Camus"
+    },
+    "births": [
+      {
+        "name": "Carlemany",
+        "description": "Rei dels Francs i primer Emperador dels francs, coronat Emperador d'Occident pel Papa Lleó III l'any 800. Va unificar gran part d'Europa i va promoure l'educació i la cultura carolíngia.",
+        "year": 742
+      },
+      {
+        "name": "Jules Verne",
+        "description": "Novel·lista francès pioner de la ciència ficció, autor de Vint mil llegues de viatge submarí, La volta al món en vuitanta dies i Viatge al centre de la Terra. Les seves obres van anticipar nombroses tecnologies modernes.",
+        "year": 1828
+      },
+      {
+        "name": "Elijah Wood",
+        "description": "Actor nord-americà, conegut per la seva interpretació de Frodo Saquet a la trilogia El senyor dels anells de Peter Jackson, una de les sagues cinematogràfiques de major recaptació de la història.",
+        "year": 1981
+      }
+    ],
+    "events": [
+      {
+        "title": "Desintegració del transbordador Challenger",
+        "description": "El transbordador espacial Challenger es va desintegrar 73 segons després del llançament davant de milions d'espectadors televisius, matant els set tripulants, inclosa Christa McAuliffe, la primera mestra a l'espai.",
+        "year": 1986
+      },
+      {
+        "title": "Mort de Carlemany",
+        "description": "Carlemany, Emperador dels Francs i primer gran unificador d'Europa occidental, va morir a Aquisgrà als 72 anys, deixant un llegat que definiria la història europea medieval.",
+        "year": 814
+      },
+      {
+        "title": "Nova Orleans fundada",
+        "description": "L'enginyer militar francès Jean-Baptiste Le Moyne de Bienville va fundar la Nouvelle-Orléans a les ribes del Mississippi, una ciutat que es convertiria en la capital musical del blues i el jazz.",
+        "year": 1718
+      }
+    ]
+  }
+}

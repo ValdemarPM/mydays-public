@@ -1,0 +1,291 @@
+{
+  "date": "2025-08-29",
+  "es": {
+    "saints": [
+      {
+        "name": "Martirio de San Juan Bautista",
+        "type": "Fiesta litúrgica",
+        "description": "Fiesta que conmemora la decapitación de Juan el Bautista por orden de Herodes Antipas, a petición de Salomé, hija de Herodías. Juan, primo de Jesús y el último de los profetas del Antiguo Testamento, fue decapitado por denunciar el adulterio del tetrarca. Su muerte es narrada en el Evangelio de Marcos (6, 14-29)."
+      },
+      {
+        "name": "Santa Sabina de Roma",
+        "type": "Mártir",
+        "description": "Matrona romana del siglo II, mártir en tiempos del emperador Adriano. Según la tradición, fue convertida al cristianismo por su esclava Serafía. La basílica de Santa Sabina en el Aventino de Roma es una de las iglesias paleocristianas mejor conservadas."
+      },
+      {
+        "name": "San Mederio (Merry) de París",
+        "type": "Anacoreta",
+        "description": "Anacoreta galo del siglo V (390–488), cuya celda se convirtió en el núcleo del futuro arrabal de Saint-Merri en París. Considerado un santo popular del París medieval."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional contra los Ensayos Nucleares",
+        "description": "Proclamado por la ONU en 2009 para el 29 de agosto, fecha del primer ensayo nuclear soviético (1949). Busca la abolición total de las pruebas nucleares y el avance hacia un mundo libre de armas nucleares."
+      },
+      {
+        "name": "Aniversario del huracán Katrina (2005)",
+        "description": "El 29 de agosto de 2005, el huracán Katrina tocó tierra en Louisiana causando una de las mayores catástrofes naturales de la historia de EE. UU., con más de 1.800 muertos y devastación total en Nueva Orleans."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El que tiene oídos para oír, que oiga.",
+      "author": "Jesucristo (Evangelio de Marcos)",
+      "context": "Frase recurrente en los evangelios con la que Jesús invitaba a sus oyentes a comprender el sentido profundo de sus enseñanzas. San Juan Bautista, cuyo martirio se conmemora hoy, preparó el camino para el mensaje del Maestro."
+    },
+    "motivationalQuote": {
+      "text": "El valor no es la ausencia del miedo, sino el juicio de que algo más importante que el miedo merece ser defendido.",
+      "author": "Ambrose Redmoon"
+    },
+    "births": [
+      {
+        "name": "John Locke",
+        "description": "Filósofo inglés (1632–1704), padre del liberalismo político y del empirismo. Su Ensayo sobre el entendimiento humano y los Dos tratados sobre el gobierno civil influyeron decisivamente en las revoluciones americana y francesa.",
+        "year": 1632
+      },
+      {
+        "name": "Michael Jackson",
+        "description": "El 'Rey del Pop' (1958–2009), el artista más vendido de la historia de la música. Sus álbumes Thriller, Bad y Dangerous redefinieron la música pop, el videoclip y la danza.",
+        "year": 1958
+      },
+      {
+        "name": "Ingrid Bergman",
+        "description": "Actriz sueca (1915–1982), una de las grandes estrellas del cine clásico de Hollywood. Ganó tres premios Óscar y es conocida especialmente por su papel en Casablanca (1942).",
+        "year": 1915
+      }
+    ],
+    "events": [
+      {
+        "title": "Huracán Katrina devasta Nueva Orleans",
+        "description": "El 29 de agosto de 2005, el huracán Katrina de categoría 4 tocó tierra en Louisiana. Los diques de Nueva Orleans cedieron, inundando el 80% de la ciudad y causando más de 1.800 muertes en una de las mayores catástrofes de la historia de EE. UU.",
+        "year": 2005
+      },
+      {
+        "title": "Primera prueba nuclear soviética",
+        "description": "El 29 de agosto de 1949, la Unión Soviética detonó su primera bomba atómica ('Joe-1'), rompiendo el monopolio nuclear estadounidense e inaugurando la carrera armamentística de la Guerra Fría.",
+        "year": 1949
+      },
+      {
+        "title": "Creación del Distrito de Columbia (EE. UU.)",
+        "description": "El 29 de agosto de 1842, el Congreso de los Estados Unidos aprobó la ley que reorganizó el Distrito de Columbia como capital federal, sentando las bases administrativas de la ciudad de Washington tal como la conocemos.",
+        "year": 1842
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Beheading of Saint John the Baptist",
+        "type": "Liturgical Feast",
+        "description": "A feast commemorating the decapitation of John the Baptist by order of Herod Antipas at the request of Salome, daughter of Herodias. John, cousin of Jesus and the last prophet of the Old Testament, was beheaded for denouncing the tetrarch's adultery. His death is narrated in the Gospel of Mark (6:14-29)."
+      },
+      {
+        "name": "Saint Sabina of Rome",
+        "type": "Martyr",
+        "description": "Roman matron of the 2nd century, martyr during the reign of Emperor Hadrian. According to tradition, she was converted to Christianity by her slave Serapia. The Basilica of Santa Sabina on the Aventine Hill in Rome is one of the best-preserved early Christian churches."
+      },
+      {
+        "name": "Saint Medericus (Merry) of Paris",
+        "type": "Hermit",
+        "description": "5th-century Gaulish hermit (390–488) whose cell became the nucleus of the future Saint-Merri district in Paris. Regarded as a popular saint of medieval Paris."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day against Nuclear Tests",
+        "description": "Proclaimed by the UN in 2009 for 29 August — the date of the first Soviet nuclear test (1949). It seeks the total abolition of nuclear testing and progress towards a nuclear-weapon-free world."
+      },
+      {
+        "name": "Hurricane Katrina anniversary (2005)",
+        "description": "On 29 August 2005, Hurricane Katrina made landfall in Louisiana, causing one of the greatest natural disasters in US history, with more than 1,800 deaths and total devastation in New Orleans."
+      }
+    ],
+    "historicalQuote": {
+      "text": "He who has ears to hear, let him hear.",
+      "author": "Jesus Christ (Gospel of Mark)",
+      "context": "A recurring phrase in the Gospels with which Jesus invited his listeners to grasp the deeper meaning of his teachings. Saint John the Baptist, whose martyrdom is commemorated today, prepared the way for the Master's message."
+    },
+    "motivationalQuote": {
+      "text": "Courage is not the absence of fear, but rather the judgement that something else is more important than fear.",
+      "author": "Ambrose Redmoon"
+    },
+    "births": [
+      {
+        "name": "John Locke",
+        "description": "English philosopher (1632–1704), father of political liberalism and empiricism. His Essay Concerning Human Understanding and Two Treatises of Government decisively influenced the American and French revolutions.",
+        "year": 1632
+      },
+      {
+        "name": "Michael Jackson",
+        "description": "The 'King of Pop' (1958–2009), the best-selling music artist in history. His albums Thriller, Bad, and Dangerous redefined pop music, the music video, and dance.",
+        "year": 1958
+      },
+      {
+        "name": "Ingrid Bergman",
+        "description": "Swedish actress (1915–1982), one of the great stars of classic Hollywood cinema. She won three Academy Awards and is especially known for her role in Casablanca (1942).",
+        "year": 1915
+      }
+    ],
+    "events": [
+      {
+        "title": "Hurricane Katrina devastates New Orleans",
+        "description": "On 29 August 2005, Category 4 Hurricane Katrina made landfall in Louisiana. The New Orleans levees failed, flooding 80% of the city and causing more than 1,800 deaths in one of the greatest disasters in US history.",
+        "year": 2005
+      },
+      {
+        "title": "First Soviet nuclear test",
+        "description": "On 29 August 1949, the Soviet Union detonated its first atomic bomb ('Joe-1'), breaking the American nuclear monopoly and launching the arms race of the Cold War.",
+        "year": 1949
+      },
+      {
+        "title": "Reorganisation of the District of Columbia",
+        "description": "On 29 August 1842, the US Congress passed the law reorganising the District of Columbia as the federal capital, laying the administrative foundations of Washington as we know it today.",
+        "year": 1842
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Degolação de São João Batista",
+        "type": "Festa Litúrgica",
+        "description": "Festa que comemora a decapitação de João Batista por ordem de Herodes Antipas, a pedido de Salomé, filha de Herodíades. João, primo de Jesus e o último profeta do Antigo Testamento, foi decapitado por denunciar o adultério do tetrarca. A sua morte é narrada no Evangelho de Marcos (6, 14-29)."
+      },
+      {
+        "name": "Santa Sabina de Roma",
+        "type": "Mártir",
+        "description": "Matrona romana do século II, mártir no reinado do imperador Adriano. Segundo a tradição, foi convertida ao cristianismo pela sua escrava Seráfia. A Basílica de Santa Sabina no Aventino de Roma é uma das igrejas paleocristãs mais bem conservadas."
+      },
+      {
+        "name": "São Mederico (Merry) de Paris",
+        "type": "Eremita",
+        "description": "Eremita gaulês do século V (390–488) cuja cela se tornou o núcleo do futuro bairro de Saint-Merri em Paris. Considerado um santo popular do Paris medieval."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional contra os Ensaios Nucleares",
+        "description": "Proclamado pela ONU em 2009 para o 29 de agosto — data do primeiro ensaio nuclear soviético (1949). Visa a abolição total dos ensaios nucleares e o progresso para um mundo livre de armas nucleares."
+      },
+      {
+        "name": "Aniversário do furacão Katrina (2005)",
+        "description": "Em 29 de agosto de 2005, o furacão Katrina aterrou na Louisiana, causando uma das maiores catástrofes naturais da história dos EUA, com mais de 1.800 mortos e devastação total em Nova Orleães."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Quem tem ouvidos para ouvir, que ouça.",
+      "author": "Jesus Cristo (Evangelho de Marcos)",
+      "context": "Frase recorrente nos Evangelhos com que Jesus convidava os ouvintes a compreender o sentido mais profundo dos seus ensinamentos. São João Batista, cujo martírio se comemora hoje, preparou o caminho para a mensagem do Mestre."
+    },
+    "motivationalQuote": {
+      "text": "A coragem não é a ausência do medo, mas o julgamento de que algo mais importante do que o medo merece ser defendido.",
+      "author": "Ambrose Redmoon"
+    },
+    "births": [
+      {
+        "name": "John Locke",
+        "description": "Filósofo inglês (1632–1704), pai do liberalismo político e do empirismo. O seu Ensaio acerca do entendimento humano e os Dois tratados sobre o governo civil influenciaram decisivamente as revoluções americana e francesa.",
+        "year": 1632
+      },
+      {
+        "name": "Michael Jackson",
+        "description": "O 'Rei do Pop' (1958–2009), o artista mais vendido da história da música. Os seus álbuns Thriller, Bad e Dangerous redefiniram a música pop, o videoclipe e a dança.",
+        "year": 1958
+      },
+      {
+        "name": "Ingrid Bergman",
+        "description": "Atriz sueca (1915–1982), uma das grandes estrelas do cinema clássico de Hollywood. Ganhou três Óscares e é especialmente conhecida pelo seu papel em Casablanca (1942).",
+        "year": 1915
+      }
+    ],
+    "events": [
+      {
+        "title": "Furacão Katrina devasta Nova Orleães",
+        "description": "Em 29 de agosto de 2005, o furacão Katrina de categoria 4 aterrou na Louisiana. Os diques de Nova Orleães cederam, inundando 80% da cidade e causando mais de 1.800 mortes numa das maiores catástrofes da história dos EUA.",
+        "year": 2005
+      },
+      {
+        "title": "Primeiro ensaio nuclear soviético",
+        "description": "Em 29 de agosto de 1949, a União Soviética detonou a sua primeira bomba atómica ('Joe-1'), quebrando o monopólio nuclear americano e lançando a corrida armamentista da Guerra Fria.",
+        "year": 1949
+      },
+      {
+        "title": "Reorganização do Distrito de Columbia",
+        "description": "Em 29 de agosto de 1842, o Congresso dos EUA aprovou a lei que reorganizou o Distrito de Columbia como capital federal, estabelecendo as bases administrativas de Washington tal como a conhecemos hoje.",
+        "year": 1842
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Degollació de Sant Joan Baptista",
+        "type": "Festa Litúrgica",
+        "description": "Festa que commemora la decapitació de Joan Baptista per ordre d'Herodes Antipas, a petició de Salomé, filla d'Herodíades. Joan, cosí de Jesús i l'últim profeta de l'Antic Testament, va ser decapitat per denunciar l'adulteri del tetrarques. La seva mort és narrada en l'Evangeli de Marc (6, 14-29)."
+      },
+      {
+        "name": "Santa Sabina de Roma",
+        "type": "Màrtir",
+        "description": "Matrona romana del segle II, màrtir en temps de l'emperador Adrià. Segons la tradició, va ser convertida al cristianisme per la seva esclava Seràfia. La basílica de Santa Sabina a l'Aventí de Roma és una de les esglésies paleocristianes millor conservades."
+      },
+      {
+        "name": "Sant Mederi (Merry) de París",
+        "type": "Eremita",
+        "description": "Eremita gal del segle V (390–488) la cel·la del qual es va convertir en el nucli del futur barri de Saint-Merri a París. Considerat un sant popular del París medieval."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional contra els Assaigs Nuclears",
+        "description": "Proclamat per l'ONU el 2009 per al 29 d'agost — data del primer assaig nuclear soviètic (1949). Cerca l'abolició total dels assaigs nuclears i el progrés cap a un món lliure d'armes nuclears."
+      },
+      {
+        "name": "Aniversari de l'huracà Katrina (2005)",
+        "description": "El 29 d'agost de 2005, l'huracà Katrina va tocar terra a Louisiana, causant una de les majors catàstrofes naturals de la història dels EUA, amb més de 1.800 morts i devastació total a Nova Orleans."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Qui té orelles per escoltar, que escolti.",
+      "author": "Jesucrist (Evangeli de Marc)",
+      "context": "Frase recurrent als Evangelis amb la qual Jesús convidava els oients a comprendre el sentit més profund dels seus ensenyaments. Sant Joan Baptista, el martiri del qual es commemora avui, va preparar el camí per al missatge del Mestre."
+    },
+    "motivationalQuote": {
+      "text": "El coratge no és l'absència del por, sinó el judici que alguna cosa més important que la por mereix ser defensada.",
+      "author": "Ambrose Redmoon"
+    },
+    "births": [
+      {
+        "name": "John Locke",
+        "description": "Filòsof anglès (1632–1704), pare del liberalisme polític i l'empirisme. El seu Assaig sobre l'enteniment humà i els Dos tractats sobre el govern civil van influir decisivament en les revolucions americana i francesa.",
+        "year": 1632
+      },
+      {
+        "name": "Michael Jackson",
+        "description": "El 'Rei del Pop' (1958–2009), l'artista més venut de la història de la música. Els seus àlbums Thriller, Bad i Dangerous van redefinir la música pop, el videoclip i la dansa.",
+        "year": 1958
+      },
+      {
+        "name": "Ingrid Bergman",
+        "description": "Actriu sueca (1915–1982), una de les grans estrelles del cinema clàssic de Hollywood. Va guanyar tres premis Oscar i és especialment coneguda pel seu paper a Casablanca (1942).",
+        "year": 1915
+      }
+    ],
+    "events": [
+      {
+        "title": "L'huracà Katrina devasta Nova Orleans",
+        "description": "El 29 d'agost de 2005, l'huracà Katrina de categoria 4 va tocar terra a Louisiana. Els dics de Nova Orleans van cedir, inundant el 80% de la ciutat i causant més de 1.800 morts en una de les majors catàstrofes de la història dels EUA.",
+        "year": 2005
+      },
+      {
+        "title": "Primer assaig nuclear soviètic",
+        "description": "El 29 d'agost de 1949, la Unió Soviètica va detonar la seva primera bomba atòmica ('Joe-1'), trencant el monopoli nuclear americà i inaugurant la carrera armamentista de la Guerra Freda.",
+        "year": 1949
+      },
+      {
+        "title": "Reorganització del Districte de Colúmbia",
+        "description": "El 29 d'agost de 1842, el Congrés dels EUA va aprovar la llei que va reorganitzar el Districte de Colúmbia com a capital federal, establint les bases administratives de Washington tal com la coneixem avui.",
+        "year": 1842
+      }
+    ]
+  }
+}

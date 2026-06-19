@@ -1,0 +1,271 @@
+{
+  "date": "2026-01-01",
+  "es": {
+    "saints": [
+      {
+        "name": "María, Madre de Dios",
+        "type": "Solemnidad",
+        "description": "Solemnidad de la Santísima Virgen María como Madre de Dios, celebrada el primer día del año en la Iglesia Católica."
+      },
+      {
+        "name": "San Fulgencio de Ruspe",
+        "type": "Obispo y Doctor de la Iglesia",
+        "description": "Obispo africano del siglo V-VI, defensor de la doctrina agustiniana contra el arrianismo y el pelagianismo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Año Nuevo",
+        "description": "Celebración mundial del inicio del nuevo año gregoriano, adoptada como festividad oficial por la mayoría de los países del mundo."
+      },
+      {
+        "name": "Día Mundial de la Paz",
+        "description": "Jornada instituida por la Iglesia Católica en 1967 por el Papa Pablo VI para reflexionar sobre la paz en el mundo y el compromiso social."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El tiempo es el bien más precioso que posee el hombre.",
+      "author": "Teofrasto",
+      "context": "Filósofo griego sucesor de Aristóteles. Reflexión especialmente pertinente al inicio de un nuevo año, cuando el tiempo cobra un significado renovado."
+    },
+    "motivationalQuote": {
+      "text": "Año nuevo, vida nueva: el primer paso es creer que es posible.",
+      "author": "Paulo Coelho"
+    },
+    "births": [
+      {
+        "name": "Lorenzo da Ponte",
+        "description": "Libretista italiano, autor de los libretos de las óperas más famosas de Mozart: Las bodas de Fígaro, Don Giovanni y Così fan tutte.",
+        "year": 1749
+      },
+      {
+        "name": "J. Edgar Hoover",
+        "description": "Director fundador del FBI de Estados Unidos, que dirigió la agencia durante 48 años y se convirtió en una figura controvertida del siglo XX.",
+        "year": 1895
+      },
+      {
+        "name": "Verne Troyer",
+        "description": "Actor estadounidense conocido por su papel de Mini-Me en la saga cinematográfica de Austin Powers.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundación de la Unión Europea (Mercado Único)",
+        "description": "El 1 de enero de 1993 entró en vigor el Mercado Único Europeo, permitiendo la libre circulación de personas, bienes, servicios y capitales entre los estados miembros de la CE.",
+        "year": 1993
+      },
+      {
+        "title": "Introducción del euro como moneda oficial",
+        "description": "El euro se convirtió en moneda de curso legal en 12 países europeos, sustituyendo a las monedas nacionales como el marco alemán, el franco francés o la peseta española.",
+        "year": 2002
+      },
+      {
+        "title": "Independencia de Haití",
+        "description": "Haití proclamó su independencia de Francia, convirtiéndose en la primera república negra independiente del mundo y el primer país de América Latina en lograr la independencia.",
+        "year": 1804
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Mary, Mother of God",
+        "type": "Solemnity",
+        "description": "Solemnity of the Blessed Virgin Mary as Mother of God, celebrated on the first day of the year in the Catholic Church."
+      },
+      {
+        "name": "Saint Fulgentius of Ruspe",
+        "type": "Bishop and Doctor of the Church",
+        "description": "African bishop of the 5th–6th century, defender of Augustinian doctrine against Arianism and Pelagianism."
+      }
+    ],
+    "observances": [
+      {
+        "name": "New Year's Day",
+        "description": "Global celebration of the beginning of a new Gregorian year, recognised as an official holiday in most countries worldwide."
+      },
+      {
+        "name": "World Day of Peace",
+        "description": "Day established by the Catholic Church in 1967 by Pope Paul VI to reflect on peace in the world and social commitment."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Time is the most valuable thing a man can spend.",
+      "author": "Theophrastus",
+      "context": "Greek philosopher and successor of Aristotle. This reflection is especially fitting at the start of a new year, when time takes on a renewed meaning."
+    },
+    "motivationalQuote": {
+      "text": "New year, new life: the first step is to believe it is possible.",
+      "author": "Paulo Coelho"
+    },
+    "births": [
+      {
+        "name": "Lorenzo Da Ponte",
+        "description": "Italian librettist who wrote the texts for Mozart's most celebrated operas: The Marriage of Figaro, Don Giovanni, and Così fan tutte.",
+        "year": 1749
+      },
+      {
+        "name": "J. Edgar Hoover",
+        "description": "Founding director of the FBI, who led the agency for 48 years and became one of the most controversial figures of the 20th century.",
+        "year": 1895
+      },
+      {
+        "name": "Verne Troyer",
+        "description": "American actor best known for his role as Mini-Me in the Austin Powers film series.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "European Single Market comes into force",
+        "description": "On 1 January 1993 the European Single Market took effect, enabling the free movement of people, goods, services, and capital among EC member states.",
+        "year": 1993
+      },
+      {
+        "title": "Euro introduced as official currency",
+        "description": "The euro became legal tender in 12 European countries, replacing national currencies such as the German Mark, French Franc, and Spanish Peseta.",
+        "year": 2002
+      },
+      {
+        "title": "Haitian Independence",
+        "description": "Haiti declared independence from France, becoming the world's first Black republic and the first Latin American country to gain independence.",
+        "year": 1804
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Maria, Mãe de Deus",
+        "type": "Solenidade",
+        "description": "Solenidade da Santíssima Virgem Maria como Mãe de Deus, celebrada no primeiro dia do ano pela Igreja Católica."
+      },
+      {
+        "name": "São Fulgêncio de Ruspe",
+        "type": "Bispo e Doutor da Igreja",
+        "description": "Bispo africano dos séculos V–VI, defensor da doutrina agostiniana contra o arianismo e o pelagianismo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Ano Novo",
+        "description": "Celebração mundial do início do novo ano gregoriano, reconhecida como feriado oficial na maioria dos países do mundo."
+      },
+      {
+        "name": "Dia Mundial da Paz",
+        "description": "Dia instituído pela Igreja Católica em 1967 pelo Papa Paulo VI para refletir sobre a paz no mundo e o compromisso social."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O tempo é o bem mais precioso que o homem pode gastar.",
+      "author": "Teofrasto",
+      "context": "Filósofo grego e sucessor de Aristóteles. Esta reflexão é especialmente pertinente no início de um novo ano, quando o tempo assume um significado renovado."
+    },
+    "motivationalQuote": {
+      "text": "Ano novo, vida nova: o primeiro passo é acreditar que é possível.",
+      "author": "Paulo Coelho"
+    },
+    "births": [
+      {
+        "name": "Lorenzo Da Ponte",
+        "description": "Libretista italiano que escreveu os textos das óperas mais famosas de Mozart: As Bodas de Fígaro, Don Giovanni e Così fan tutte.",
+        "year": 1749
+      },
+      {
+        "name": "J. Edgar Hoover",
+        "description": "Diretor fundador do FBI, que chefiou a agência por 48 anos e tornou-se uma das figuras mais controversas do século XX.",
+        "year": 1895
+      },
+      {
+        "name": "Verne Troyer",
+        "description": "Ator americano conhecido pelo papel de Mini-Me na saga Austin Powers.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "Mercado Único Europeu entra em vigor",
+        "description": "Em 1.º de janeiro de 1993, o Mercado Único Europeu passou a vigorar, permitindo a livre circulação de pessoas, bens, serviços e capitais entre os estados membros da CE.",
+        "year": 1993
+      },
+      {
+        "title": "Euro introduzido como moeda oficial",
+        "description": "O euro tornou-se moeda de curso legal em 12 países europeus, substituindo moedas nacionais como o marco alemão, o franco francês e a peseta espanhola.",
+        "year": 2002
+      },
+      {
+        "title": "Independência do Haiti",
+        "description": "O Haiti proclamou sua independência da França, tornando-se a primeira república negra independente do mundo e o primeiro país da América Latina a conquistar a independência.",
+        "year": 1804
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Maria, Mare de Déu",
+        "type": "Solemnitat",
+        "description": "Solemnitat de la Santíssima Verge Maria com a Mare de Déu, celebrada el primer dia de l'any per l'Església Catòlica."
+      },
+      {
+        "name": "Sant Fulgenci de Ruspe",
+        "type": "Bisbe i Doctor de l'Església",
+        "description": "Bisbe africà dels segles V–VI, defensor de la doctrina agustiniana contra l'arrianisme i el pelagianisme."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Cap d'Any",
+        "description": "Celebració mundial de l'inici del nou any gregorià, reconeguda com a festivitat oficial a la majoria de països del món."
+      },
+      {
+        "name": "Dia Mundial de la Pau",
+        "description": "Jornada instituïda per l'Església Catòlica el 1967 pel Papa Pau VI per reflexionar sobre la pau al món i el compromís social."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El temps és el bé més preuat que l'home pot gastar.",
+      "author": "Teofrast",
+      "context": "Filòsof grec i successor d'Aristòtil. Aquesta reflexió és especialment pertinent a l'inici d'un nou any, quan el temps pren un significat renovat."
+    },
+    "motivationalQuote": {
+      "text": "Any nou, vida nova: el primer pas és creure que és possible.",
+      "author": "Paulo Coelho"
+    },
+    "births": [
+      {
+        "name": "Lorenzo Da Ponte",
+        "description": "Llibretista italià autor dels textos de les òperes més famoses de Mozart: Les noces de Fígaro, Don Giovanni i Così fan tutte.",
+        "year": 1749
+      },
+      {
+        "name": "J. Edgar Hoover",
+        "description": "Director fundador de l'FBI, que va dirigir l'agència durant 48 anys i es va convertir en una de les figures més controvertides del segle XX.",
+        "year": 1895
+      },
+      {
+        "name": "Verne Troyer",
+        "description": "Actor nord-americà conegut pel seu paper de Mini-Me a la saga d'Austin Powers.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "El Mercat Únic Europeu entra en vigor",
+        "description": "L'1 de gener de 1993 va entrar en vigor el Mercat Únic Europeu, que permet la lliure circulació de persones, béns, serveis i capitals entre els estats membres de la CE.",
+        "year": 1993
+      },
+      {
+        "title": "L'euro s'introdueix com a moneda oficial",
+        "description": "L'euro es va convertir en moneda de curs legal a 12 països europeus, substituint monedes nacionals com el marc alemany, el franc francès i la pesseta espanyola.",
+        "year": 2002
+      },
+      {
+        "title": "Independència d'Haití",
+        "description": "Haití va proclamar la seva independència de França, convertint-se en la primera república negra independent del món i el primer país d'Amèrica Llatina a aconseguir la independència.",
+        "year": 1804
+      }
+    ]
+  }
+}

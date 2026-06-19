@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-07",
+  "es": {
+    "saints": [
+      {
+        "name": "San Augusto de Canterbury",
+        "type": "Obispo y Apóstol de Inglaterra",
+        "description": "Monje benedictino enviado por el papa Gregorio I para evangelizar Inglaterra en el año 596. Se convirtió en el primer arzobispo de Canterbury y es conocido como el 'Apóstol de los anglosajones'. Bautizó al rey Etelberto de Kent y fundó la Catedral de Canterbury."
+      },
+      {
+        "name": "San Flavio",
+        "type": "Mártir",
+        "description": "Mártir cristiano del siglo III cuya devoción fue importante en la región de Auvergne (actual Francia). Su martirio tuvo lugar durante las persecuciones del Imperio Romano bajo el reinado de Decio."
+      },
+      {
+        "name": "Beata Gisela de Hungría",
+        "type": "Reina",
+        "description": "Hermana del emperador Enrique II de Alemania y esposa del rey Esteban I de Hungría. Fue una figura clave en la evangelización de Hungría y contribuyó a la construcción de iglesias y monasterios. Es venerada en Hungría y Baviera."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Radio (radiodifusión)",
+        "description": "Proclamado por la UNESCO en 2012 para celebrar la radio como medio de comunicación global, recordar su relevancia en la educación y la cultura, y promover el acceso a la información a través de la radiodifusión."
+      },
+      {
+        "name": "Día de Europa (Unión Europea)",
+        "description": "El 9 de mayo se celebra el Día de Europa de la UE (Declaración Schuman, 1950), pero los eventos conmemorativos comienzan en torno a esta fecha en muchos países europeos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La música expresa lo que no puede decirse y sobre lo que es imposible guardar silencio.",
+      "author": "Victor Hugo"
+    },
+    "motivationalQuote": {
+      "text": "En medio de la dificultad reside la oportunidad.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Pyotr Ilyich Tchaikovsky",
+        "description": "Compositor ruso del siglo XIX, uno de los más célebres de la historia de la música clásica. Autor del Lago de los cisnes, La bella durmiente, El cascanueces y del Concierto para piano n.º 1, obras que siguen siendo pilares del repertorio universal.",
+        "year": "1840"
+      },
+      {
+        "name": "Johannes Brahms",
+        "description": "Compositor y pianista alemán del Romanticismo, uno de los 'tres grandes B' de la música clásica junto a Bach y Beethoven. Sus cuatro sinfonías, sus conciertos para piano y su Réquiem alemán son considerados obras maestras del siglo XIX.",
+        "year": "1833"
+      },
+      {
+        "name": "Eva Perón",
+        "description": "Primera dama de Argentina y figura política de enorme influencia. Esposa del presidente Juan Domingo Perón, fue defensora de los derechos de los trabajadores y de las mujeres, promoviendo el sufragio femenino en Argentina en 1947. Murió en 1952 con tan solo 33 años.",
+        "year": "1919"
+      }
+    ],
+    "events": [
+      {
+        "title": "Beethoven estrena su Novena Sinfonía",
+        "description": "Ludwig van Beethoven dirigió el estreno de su Sinfonía n.º 9 en re menor en el Teatro Imperial de Viena, ya completamente sordo. La obra, que incluye la famosa 'Oda a la alegría', es considerada una de las cumbres de la música occidental.",
+        "year": "1824"
+      },
+      {
+        "title": "Rendición de Alemania en la Segunda Guerra Mundial",
+        "description": "El general Alfred Jodl firmó en Reims (Francia) el acta de rendición incondicional de la Alemania nazi ante los Aliados, poniendo fin a la Segunda Guerra Mundial en Europa. El 8 de mayo se celebra como el Día de la Victoria en Europa (VE Day).",
+        "year": "1945"
+      },
+      {
+        "title": "Primer vuelo del Boeing 707",
+        "description": "El avión de pasajeros a reacción Boeing 707 realizó su vuelo inaugural, iniciando la era de la aviación comercial a chorro que transformaría los viajes internacionales para siempre.",
+        "year": "1954"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Augustine of Canterbury",
+        "type": "Bishop and Apostle of England",
+        "description": "Benedictine monk sent by Pope Gregory I to evangelise England in 596 AD. He became the first Archbishop of Canterbury and is known as the 'Apostle of the Anglo-Saxons'. He baptised King Ethelbert of Kent and founded Canterbury Cathedral."
+      },
+      {
+        "name": "Saint Flavius",
+        "type": "Martyr",
+        "description": "3rd-century Christian martyr whose devotion was important in the region of Auvergne (present-day France). His martyrdom took place during the Roman persecutions under the reign of Decius."
+      },
+      {
+        "name": "Blessed Gisela of Hungary",
+        "type": "Queen",
+        "description": "Sister of Emperor Henry II of Germany and wife of King Stephen I of Hungary. She was a key figure in the evangelisation of Hungary and contributed to the building of churches and monasteries. She is venerated in Hungary and Bavaria."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Radio Day",
+        "description": "Proclaimed by UNESCO in 2012 to celebrate radio as a global medium of communication, recalling its relevance in education and culture, and promoting access to information through broadcasting."
+      },
+      {
+        "name": "Europe Day (European Union)",
+        "description": "May 9 is the EU's Europe Day (Schuman Declaration, 1950), but commemorative events begin around this date in many European countries."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Music expresses that which cannot be put into words and that which cannot remain silent.",
+      "author": "Victor Hugo"
+    },
+    "motivationalQuote": {
+      "text": "In the middle of difficulty lies opportunity.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Pyotr Ilyich Tchaikovsky",
+        "description": "19th-century Russian composer, one of the most celebrated in the history of classical music. Author of Swan Lake, The Sleeping Beauty, The Nutcracker, and Piano Concerto No. 1 — works that remain pillars of the universal repertoire.",
+        "year": "1840"
+      },
+      {
+        "name": "Johannes Brahms",
+        "description": "German Romantic composer and pianist, one of the 'three great Bs' of classical music alongside Bach and Beethoven. His four symphonies, piano concertos, and A German Requiem are considered masterpieces of the 19th century.",
+        "year": "1833"
+      },
+      {
+        "name": "Eva Perón",
+        "description": "First Lady of Argentina and enormously influential political figure. Wife of President Juan Domingo Perón, she was a champion of workers' and women's rights, promoting women's suffrage in Argentina in 1947. She died in 1952 at only 33 years of age.",
+        "year": "1919"
+      }
+    ],
+    "events": [
+      {
+        "title": "Beethoven Premieres His Ninth Symphony",
+        "description": "Ludwig van Beethoven conducted the premiere of his Symphony No. 9 in D minor at the Imperial Theatre in Vienna, already completely deaf. The work, which includes the famous 'Ode to Joy', is considered one of the pinnacles of Western music.",
+        "year": "1824"
+      },
+      {
+        "title": "Germany's Surrender in World War II",
+        "description": "General Alfred Jodl signed the act of unconditional surrender of Nazi Germany to the Allies in Reims, France, ending World War II in Europe. May 8 is celebrated as Victory in Europe Day (VE Day).",
+        "year": "1945"
+      },
+      {
+        "title": "First Flight of the Boeing 707",
+        "description": "The Boeing 707 jet passenger aircraft made its inaugural flight, launching the era of commercial jet aviation that would transform international travel forever.",
+        "year": "1954"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Agostinho de Cantuária",
+        "type": "Bispo e Apóstolo da Inglaterra",
+        "description": "Monge beneditino enviado pelo papa Gregório I para evangelizar a Inglaterra no ano 596. Tornou-se o primeiro arcebispo de Cantuária e é conhecido como o 'Apóstolo dos anglo-saxões'. Batizou o rei Etelberto de Kent e fundou a Catedral de Cantuária."
+      },
+      {
+        "name": "São Flávio",
+        "type": "Mártir",
+        "description": "Mártir cristão do século III cuja devoção foi importante na região de Auvergne (atual França). Seu martírio ocorreu durante as perseguições do Império Romano sob o reinado de Décio."
+      },
+      {
+        "name": "Beata Gisela da Hungria",
+        "type": "Rainha",
+        "description": "Irmã do imperador Henrique II da Alemanha e esposa do rei Estêvão I da Hungria. Foi figura-chave na evangelização da Hungria e contribuiu para a construção de igrejas e mosteiros. É venerada na Hungria e na Baviera."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial do Rádio",
+        "description": "Proclamado pela UNESCO em 2012 para celebrar o rádio como meio de comunicação global, recordar sua relevância na educação e na cultura, e promover o acesso à informação pela radiodifusão."
+      },
+      {
+        "name": "Dia da Europa (União Europeia)",
+        "description": "O 9 de maio é o Dia da Europa da UE (Declaração Schuman, 1950), mas os eventos comemorativos começam por volta desta data em muitos países europeus."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A música expressa o que não pode ser dito e sobre o que é impossível ficar em silêncio.",
+      "author": "Victor Hugo"
+    },
+    "motivationalQuote": {
+      "text": "No meio da dificuldade encontra-se a oportunidade.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Piotr Ilitch Tchaikovsky",
+        "description": "Compositor russo do século XIX, um dos mais célebres da história da música clássica. Autor de O Lago dos Cisnes, A Bela Adormecida, O Quebra-Nozes e o Concerto para Piano n.º 1, obras que continuam sendo pilares do repertório universal.",
+        "year": "1840"
+      },
+      {
+        "name": "Johannes Brahms",
+        "description": "Compositor e pianista alemão do Romantismo, um dos 'três grandes Bs' da música clássica ao lado de Bach e Beethoven. Suas quatro sinfonias, concertos para piano e o Réquiem Alemão são considerados obras-primas do século XIX.",
+        "year": "1833"
+      },
+      {
+        "name": "Eva Perón",
+        "description": "Primeira-dama da Argentina e figura política de enorme influência. Esposa do presidente Juan Domingo Perón, foi defensora dos direitos dos trabalhadores e das mulheres, promovendo o sufrágio feminino na Argentina em 1947. Morreu em 1952 com apenas 33 anos.",
+        "year": "1919"
+      }
+    ],
+    "events": [
+      {
+        "title": "Beethoven estreia sua Nona Sinfonia",
+        "description": "Ludwig van Beethoven regeu a estreia de sua Sinfonia n.º 9 em ré menor no Teatro Imperial de Viena, já completamente surdo. A obra, que inclui a famosa 'Ode à Alegria', é considerada um dos ápices da música ocidental.",
+        "year": "1824"
+      },
+      {
+        "title": "Rendição da Alemanha na Segunda Guerra Mundial",
+        "description": "O general Alfred Jodl assinou em Reims (França) o ato de rendição incondicional da Alemanha nazista aos Aliados, encerrando a Segunda Guerra Mundial na Europa. O 8 de maio é celebrado como Dia da Vitória na Europa (VE Day).",
+        "year": "1945"
+      },
+      {
+        "title": "Primeiro voo do Boeing 707",
+        "description": "O avião de passageiros a jato Boeing 707 realizou seu voo inaugural, iniciando a era da aviação comercial a jato que transformaria as viagens internacionais para sempre.",
+        "year": "1954"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Agustí de Canterbury",
+        "type": "Bisbe i Apòstol d'Anglaterra",
+        "description": "Monjo benedictí enviat pel papa Gregori I per evangelitzar Anglaterra l'any 596. Va esdevenir el primer arquebisbe de Canterbury i és conegut com l''Apòstol dels anglosaxons'. Va batejar el rei Etelberto de Kent i va fundar la Catedral de Canterbury."
+      },
+      {
+        "name": "Sant Flavi",
+        "type": "Màrtir",
+        "description": "Màrtir cristià del segle III la devoció del qual va ser important a la regió d'Auvergne (actual França). El seu martiri va tenir lloc durant les persecucions de l'Imperi Romà sota el regnat de Deci."
+      },
+      {
+        "name": "Beata Gisela d'Hongria",
+        "type": "Reina",
+        "description": "Germana de l'emperador Enric II d'Alemanya i esposa del rei Esteve I d'Hongria. Va ser una figura clau en l'evangelització d'Hongria i va contribuir a la construcció d'esglésies i monestirs. És venerada a Hongria i Baviera."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Ràdio",
+        "description": "Proclamat per la UNESCO el 2012 per celebrar la ràdio com a mitjà de comunicació global, recordar la seva rellevància en l'educació i la cultura, i promoure l'accés a la informació a través de la radiodifusió."
+      },
+      {
+        "name": "Dia d'Europa (Unió Europea)",
+        "description": "El 9 de maig és el Dia d'Europa de la UE (Declaració Schuman, 1950), però els actes commemoratius comencen entorn d'aquesta data en molts països europeus."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La música expressa allò que no pot ser dit i sobre el qual és impossible guardar silenci.",
+      "author": "Victor Hugo"
+    },
+    "motivationalQuote": {
+      "text": "En el mig de la dificultat hi ha l'oportunitat.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Piotr Ilitx Txaikovski",
+        "description": "Compositor rus del segle XIX, un dels més cèlebres de la història de la música clàssica. Autor de El llac dels cignes, La bella dorment, El trencanous i el Concert per a piano n.º 1, obres que continuen sent pilars del repertori universal.",
+        "year": "1840"
+      },
+      {
+        "name": "Johannes Brahms",
+        "description": "Compositor i pianista alemany del Romanticisme, un dels 'tres grans B' de la música clàssica juntament amb Bach i Beethoven. Les seves quatre simfonies, els concerts per a piano i el Rèquiem alemany són considerats obres mestres del segle XIX.",
+        "year": "1833"
+      },
+      {
+        "name": "Eva Perón",
+        "description": "Primera dama d'Argentina i figura política d'enorme influència. Esposa del president Juan Domingo Perón, va ser defensora dels drets dels treballadors i de les dones, promovent el sufragi femení a l'Argentina el 1947. Va morir el 1952 amb tan sols 33 anys.",
+        "year": "1919"
+      }
+    ],
+    "events": [
+      {
+        "title": "Beethoven estrena la seva Novena Simfonia",
+        "description": "Ludwig van Beethoven va dirigir l'estrena de la seva Simfonia n.º 9 en re menor al Teatre Imperial de Viena, ja completament sord. L'obra, que inclou la famosa 'Oda a l'alegria', és considerada un dels cims de la música occidental.",
+        "year": "1824"
+      },
+      {
+        "title": "Rendició d'Alemanya a la Segona Guerra Mundial",
+        "description": "El general Alfred Jodl va signar a Reims (França) l'acta de rendició incondicional de l'Alemanya nazi als Aliats, posant fi a la Segona Guerra Mundial a Europa. El 8 de maig es celebra com el Dia de la Victòria a Europa (VE Day).",
+        "year": "1945"
+      },
+      {
+        "title": "Primer vol del Boeing 707",
+        "description": "L'avió de passatgers a reacció Boeing 707 va realitzar el seu vol inaugural, iniciant l'era de l'aviació comercial a reacció que transformaria els viatges internacionals per sempre.",
+        "year": "1954"
+      }
+    ]
+  }
+}

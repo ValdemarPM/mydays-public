@@ -1,0 +1,291 @@
+{
+  "date": "2025-08-13",
+  "es": {
+    "saints": [
+      {
+        "name": "San Ponciano",
+        "type": "Papa y Mártir",
+        "description": "Papa del siglo III (230–235), exiliado por el emperador Maximino el Tracio a las minas de Cerdeña, donde murió a causa de las duras condiciones de trabajo. Fue el primer papa en renunciar formalmente a su cargo."
+      },
+      {
+        "name": "San Hipólito de Roma",
+        "type": "Presbítero y Mártir",
+        "description": "Teólogo y escritor eclesiástico del siglo III, considerado el antipapa más antiguo documentado. Reconciliado con la Iglesia antes de morir, fue deportado junto a Ponciano a Cerdeña y murió mártir."
+      },
+      {
+        "name": "Santa Radegunda",
+        "type": "Reina",
+        "description": "Reina de los francos del siglo VI, esposa del rey Clotario I. Huyó de la corte para fundar el monasterio de la Sainte-Croix en Poitiers, donde vivió como religiosa hasta su muerte en 587."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional del Zurdo",
+        "description": "Celebrado el 13 de agosto desde 1976 para concienciar sobre los retos que enfrentan las personas zurdas en un mundo diseñado para diestros, y para celebrar la singularidad de ser zurdo."
+      },
+      {
+        "name": "Día de la Independencia de la República Central Africana",
+        "description": "La República Centroafricana celebra su independencia de Francia, proclamada el 13 de agosto de 1960."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El que no conoce la historia está condenado a repetirla.",
+      "author": "George Santayana",
+      "context": "El filósofo hispano-estadounidense nacido el 16 de diciembre de 1863 publicó esta reflexión en La razón en el sentido común (1905). La frase se ha convertido en uno de los aforismos más citados de la cultura occidental sobre la memoria histórica."
+    },
+    "motivationalQuote": {
+      "text": "La perseverancia no es una larga carrera; es muchas carreras cortas una tras otra.",
+      "author": "Walter Elliot"
+    },
+    "births": [
+      {
+        "name": "Annie Oakley",
+        "description": "Tiradora y artista del espectáculo estadounidense (1860–1926), una de las primeras mujeres famosas en la historia del Salvaje Oeste americano. Su puntería legendaria la convirtió en la estrella del espectáculo de Buffalo Bill.",
+        "year": 1860
+      },
+      {
+        "name": "Alfred Hitchcock",
+        "description": "Director de cine británico (1899–1980), conocido como el 'Maestro del suspense', autor de películas como Psicosis, Vértigo, Los pájaros y Con la muerte en los talones. Una de las figuras más influyentes de la historia del cine.",
+        "year": 1899
+      },
+      {
+        "name": "Fidel Castro",
+        "description": "Revolucionario y político cubano (1926–2016), líder de la Revolución Cubana y gobernante de Cuba durante casi 50 años. Figura controvertida de la historia latinoamericana del siglo XX.",
+        "year": 1926
+      }
+    ],
+    "events": [
+      {
+        "title": "Construcción del Muro de Berlín",
+        "description": "El 13 de agosto de 1961, la República Democrática Alemana comenzó la construcción del Muro de Berlín, dividiendo físicamente la ciudad y separando a familias durante 28 años, hasta su caída en 1989.",
+        "year": 1961
+      },
+      {
+        "title": "El Imperio Español cae en manos de los aztecas",
+        "description": "El 13 de agosto de 1521, el conquistador Hernán Cortés capturó a Cuauhtémoc, el último tlatoani azteca, marcando la caída de Tenochtitlan y el fin del Imperio Mexica.",
+        "year": 1521
+      },
+      {
+        "title": "Primer vuelo supersónico de un avión civil",
+        "description": "El 13 de agosto de 1969, el avión soviético Tupolev Tu-144 superó oficialmente por primera vez la velocidad del sonido en vuelo de prueba, antes que el Concorde.",
+        "year": 1969
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Pontian",
+        "type": "Pope and Martyr",
+        "description": "3rd-century Pope (230–235), exiled by Emperor Maximinus Thrax to the mines of Sardinia, where he died from the harsh working conditions. He was the first pope formally to resign from office."
+      },
+      {
+        "name": "Saint Hippolytus of Rome",
+        "type": "Priest and Martyr",
+        "description": "3rd-century theologian and ecclesiastical writer, considered the earliest documented antipope. Reconciled with the Church before his death, he was deported to Sardinia alongside Pontian and died a martyr."
+      },
+      {
+        "name": "Saint Radegund",
+        "type": "Queen",
+        "description": "6th-century Frankish queen, wife of King Chlothar I. She fled the court to found the monastery of Sainte-Croix in Poitiers, where she lived as a nun until her death in 587."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Left-Handers Day",
+        "description": "Celebrated on 13 August since 1976 to raise awareness of the challenges faced by left-handed people in a right-handed world, and to celebrate the uniqueness of being left-handed."
+      },
+      {
+        "name": "Independence Day of the Central African Republic",
+        "description": "The Central African Republic celebrates its independence from France, proclaimed on 13 August 1960."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Those who cannot remember the past are condemned to repeat it.",
+      "author": "George Santayana",
+      "context": "The Hispanic-American philosopher, born on 16 December 1863, published this reflection in The Life of Reason (1905). The phrase has become one of the most quoted aphorisms in Western culture on the subject of historical memory."
+    },
+    "motivationalQuote": {
+      "text": "Perseverance is not a long race; it is many short races one after the other.",
+      "author": "Walter Elliot"
+    },
+    "births": [
+      {
+        "name": "Annie Oakley",
+        "description": "American sharpshooter and show performer (1860–1926), one of the first famous women in the history of the American Wild West. Her legendary marksmanship made her the star of Buffalo Bill's show.",
+        "year": 1860
+      },
+      {
+        "name": "Alfred Hitchcock",
+        "description": "British film director (1899–1980), known as the 'Master of Suspense', creator of films such as Psycho, Vertigo, The Birds, and North by Northwest. One of the most influential figures in cinema history.",
+        "year": 1899
+      },
+      {
+        "name": "Fidel Castro",
+        "description": "Cuban revolutionary and politician (1926–2016), leader of the Cuban Revolution and ruler of Cuba for nearly 50 years. A controversial figure in 20th-century Latin American history.",
+        "year": 1926
+      }
+    ],
+    "events": [
+      {
+        "title": "Construction of the Berlin Wall begins",
+        "description": "On 13 August 1961, the German Democratic Republic began building the Berlin Wall, physically dividing the city and separating families for 28 years, until its fall in 1989.",
+        "year": 1961
+      },
+      {
+        "title": "Fall of Tenochtitlan — end of the Aztec Empire",
+        "description": "On 13 August 1521, conquistador Hernán Cortés captured Cuauhtémoc, the last Aztec tlatoani, marking the fall of Tenochtitlan and the end of the Mexica Empire.",
+        "year": 1521
+      },
+      {
+        "title": "First supersonic passenger aircraft flight",
+        "description": "On 13 August 1969, the Soviet Tupolev Tu-144 officially broke the sound barrier for the first time on a test flight, beating the Concorde to the milestone.",
+        "year": 1969
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Ponciano",
+        "type": "Papa e Mártir",
+        "description": "Papa do século III (230–235), exilado pelo imperador Maximino, o Trácio, para as minas da Sardenha, onde morreu em consequência das duras condições de trabalho. Foi o primeiro papa a renunciar formalmente ao cargo."
+      },
+      {
+        "name": "São Hipólito de Roma",
+        "type": "Presbítero e Mártir",
+        "description": "Teólogo e escritor eclesiástico do século III, considerado o antipapa mais antigo documentado. Reconciliado com a Igreja antes de morrer, foi deportado para a Sardenha juntamente com Ponciano e morreu mártir."
+      },
+      {
+        "name": "Santa Radegunda",
+        "type": "Rainha",
+        "description": "Rainha dos francos do século VI, esposa do rei Clotário I. Fugiu da corte para fundar o mosteiro de Sainte-Croix em Poitiers, onde viveu como religiosa até à sua morte em 587."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional dos Canhotos",
+        "description": "Celebrado em 13 de agosto desde 1976 para sensibilizar sobre os desafios enfrentados pelos canhotos num mundo concebido para destros, e para celebrar a singularidade de ser canhoto."
+      },
+      {
+        "name": "Dia da Independência da República Centro-Africana",
+        "description": "A República Centro-Africana celebra a sua independência da França, proclamada em 13 de agosto de 1960."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Aqueles que não se lembram do passado estão condenados a repeti-lo.",
+      "author": "George Santayana",
+      "context": "O filósofo hispano-americano, nascido em 16 de dezembro de 1863, publicou esta reflexão em A Vida da Razão (1905). A frase tornou-se um dos aforismos mais citados da cultura ocidental sobre a memória histórica."
+    },
+    "motivationalQuote": {
+      "text": "A perseverança não é uma longa corrida; são muitas corridas curtas uma após a outra.",
+      "author": "Walter Elliot"
+    },
+    "births": [
+      {
+        "name": "Annie Oakley",
+        "description": "Atiradora e artista de espetáculo americana (1860–1926), uma das primeiras mulheres famosas na história do Velho Oeste americano. A sua pontaria lendária fez dela a estrela do espetáculo de Buffalo Bill.",
+        "year": 1860
+      },
+      {
+        "name": "Alfred Hitchcock",
+        "description": "Diretor de cinema britânico (1899–1980), conhecido como o 'Mestre do Suspense', criador de filmes como Psicose, Vertigo, Os Pássaros e Intriga Internacional. Uma das figuras mais influentes da história do cinema.",
+        "year": 1899
+      },
+      {
+        "name": "Fidel Castro",
+        "description": "Revolucionário e político cubano (1926–2016), líder da Revolução Cubana e governante de Cuba durante quase 50 anos. Figura controversa da história latino-americana do século XX.",
+        "year": 1926
+      }
+    ],
+    "events": [
+      {
+        "title": "Construção do Muro de Berlim tem início",
+        "description": "Em 13 de agosto de 1961, a República Democrática Alemã começou a construir o Muro de Berlim, dividindo fisicamente a cidade e separando famílias durante 28 anos, até à sua queda em 1989.",
+        "year": 1961
+      },
+      {
+        "title": "Queda de Tenochtitlan — fim do Império Asteca",
+        "description": "Em 13 de agosto de 1521, o conquistador Hernán Cortés capturou Cuauhtémoc, o último tlatoani asteca, marcando a queda de Tenochtitlan e o fim do Império Mexica.",
+        "year": 1521
+      },
+      {
+        "title": "Primeiro voo supersônico de avião de passageiros",
+        "description": "Em 13 de agosto de 1969, o soviético Tupolev Tu-144 ultrapassou oficialmente a barreira do som pela primeira vez num voo de teste, antecipando-se ao Concorde nesse marco.",
+        "year": 1969
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Poncià",
+        "type": "Papa i Màrtir",
+        "description": "Papa del segle III (230–235), exiliat per l'emperador Maximí el Traci a les mines de Sardenya, on va morir a causa de les dures condicions de treball. Va ser el primer papa a renunciar formalment al seu càrrec."
+      },
+      {
+        "name": "Sant Hipòlit de Roma",
+        "type": "Prevere i Màrtir",
+        "description": "Teòleg i escriptor eclesiàstic del segle III, considerat l'antipapa més antic documentat. Reconciliat amb l'Església abans de morir, va ser deportat a Sardenya juntament amb Poncià i va morir màrtir."
+      },
+      {
+        "name": "Santa Radegunda",
+        "type": "Reina",
+        "description": "Reina dels francs del segle VI, esposa del rei Clotari I. Va fugir de la cort per fundar el monestir de Sainte-Croix a Poitiers, on va viure com a religiosa fins a la seva mort el 587."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional dels Esquerrans",
+        "description": "Celebrat el 13 d'agost des de 1976 per conscienciar sobre els reptes que afronten les persones esquerranes en un món dissenyat per a dretans, i per celebrar la singularitat de ser esquerrà."
+      },
+      {
+        "name": "Dia de la Independència de la República Centreafricana",
+        "description": "La República Centreafricana celebra la seva independència de França, proclamada el 13 d'agost de 1960."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Els qui no recorden el passat estan condemnats a repetir-lo.",
+      "author": "George Santayana",
+      "context": "El filòsof hispanoamericà, nascut el 16 de desembre de 1863, va publicar aquesta reflexió a La vida de la raó (1905). La frase s'ha convertit en un dels aforismes més citats de la cultura occidental sobre la memòria històrica."
+    },
+    "motivationalQuote": {
+      "text": "La perseverança no és una cursa llarga; és moltes curses curtes una darrere l'altra.",
+      "author": "Walter Elliot"
+    },
+    "births": [
+      {
+        "name": "Annie Oakley",
+        "description": "Tiradora i artista d'espectacle americana (1860–1926), una de les primeres dones famoses en la història del Vell Oest americà. La seva llegendària punteria la va convertir en l'estrella de l'espectacle de Buffalo Bill.",
+        "year": 1860
+      },
+      {
+        "name": "Alfred Hitchcock",
+        "description": "Director de cinema britànic (1899–1980), conegut com el 'Mestre del suspens', autor de pel·lícules com Psicosi, Vertigo, Els ocells i L'encadenada. Una de les figures més influents de la història del cinema.",
+        "year": 1899
+      },
+      {
+        "name": "Fidel Castro",
+        "description": "Revolucionari i polític cubà (1926–2016), líder de la Revolució Cubana i governant de Cuba durant gairebé 50 anys. Figura controvertida de la història llatinoamericana del segle XX.",
+        "year": 1926
+      }
+    ],
+    "events": [
+      {
+        "title": "Construcció del Mur de Berlín",
+        "description": "El 13 d'agost de 1961, la República Democràtica Alemanya va començar la construcció del Mur de Berlín, dividint físicament la ciutat i separant famílies durant 28 anys, fins a la seva caiguda el 1989.",
+        "year": 1961
+      },
+      {
+        "title": "Caiguda de Tenochtitlan — fi de l'Imperi Asteca",
+        "description": "El 13 d'agost de 1521, el conquistador Hernán Cortés va capturar Cuauhtémoc, l'últim tlatoani asteca, marcant la caiguda de Tenochtitlan i el fi de l'Imperi Mexica.",
+        "year": 1521
+      },
+      {
+        "title": "Primer vol supersònic d'un avió de passatgers",
+        "description": "El 13 d'agost de 1969, el sovietic Tupolev Tu-144 va superar oficialment per primera vegada la barrera del so en un vol de prova, avançant-se al Concorde en aquesta fita.",
+        "year": 1969
+      }
+    ]
+  }
+}

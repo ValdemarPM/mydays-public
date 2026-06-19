@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-19",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Isabel de Hungría",
+        "type": "Reina",
+        "description": "Conmemorada también hoy en algunos calendarios como día de su muerte (1231). Princesa húngara que renunció a los privilegios reales para servir a los más pobres, fundando hospitales y distribuyendo sus bienes. Uno de los grandes iconos de la caridad cristiana medieval."
+      },
+      {
+        "name": "San Abdías",
+        "type": "Profeta",
+        "description": "Profeta hebreo cuyo libro es el más corto del Antiguo Testamento (solo 21 versículos). Anunció la caída de Edom y la restauración de Israel. Venerado en tradiciones judía y cristiana."
+      },
+      {
+        "name": "San Crispín de Viterbo",
+        "type": "Religioso",
+        "description": "Fraile capuchino italiano del siglo XVIII, conocido como el 'cocinero de los pobres' por su caridad y humildad. Fue beatificado en 1806 y canonizado por Juan Pablo II en 1982."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Inodoro",
+        "description": "Proclamado por la ONU para concienciar sobre la crisis global de saneamiento: casi 3.500 millones de personas carecen de acceso a instalaciones sanitarias seguras."
+      },
+      {
+        "name": "Día Internacional de los Hombres",
+        "description": "Jornada celebrada en más de 80 países para reconocer las contribuciones masculinas a la familia y la sociedad, promover la salud masculina y fomentar la igualdad de género."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El gobierno del pueblo, por el pueblo y para el pueblo no desaparecerá de la faz de la Tierra.",
+      "author": "Abraham Lincoln",
+      "context": "Lincoln pronunció el Discurso de Gettysburg el 19 de noviembre de 1863, durante la dedicación del Cementerio Nacional de los Soldados en Gettysburg, Pennsylvania, 4 meses después de la batalla."
+    },
+    "motivationalQuote": {
+      "text": "No hay nada noble en ser superior a otro hombre; la verdadera nobleza está en ser superior a tu yo anterior.",
+      "author": "Ernest Hemingway"
+    },
+    "births": [
+      {
+        "name": "James Garfield",
+        "description": "Vigésimo presidente de los Estados Unidos (1881), el segundo en ser asesinado. Fue el único presidente de la historia en servir como general durante la Guerra Civil y ganar posteriormente las elecciones presidenciales.",
+        "year": 1831
+      },
+      {
+        "name": "Indira Gandhi",
+        "description": "Primera ministra de la India (1966–1977 y 1980–1984), la primera mujer en gobernar ese país, conocida por su liderazgo fuerte y su papel en la creación de Bangladesh.",
+        "year": 1917
+      },
+      {
+        "name": "Ryan Gosling",
+        "description": "Actor canadiense conocido por sus papeles en La La Land, El diario de Noah y Blade Runner 2049, nominado al Oscar por su interpretación en La La Land.",
+        "year": 1980
+      }
+    ],
+    "events": [
+      {
+        "title": "Discurso de Gettysburg de Abraham Lincoln",
+        "description": "Abraham Lincoln pronunció el Discurso de Gettysburg durante la dedicación del Cementerio Nacional de los Soldados en Pennsylvania, uno de los discursos más influyentes de la historia americana.",
+        "year": 1863
+      },
+      {
+        "title": "Anwar el-Sadat visita Israel",
+        "description": "El presidente egipcio Anwar el-Sadat llegó a Jerusalén, convirtiéndose en el primer líder árabe en visitar oficialmente Israel, abriendo el camino a los Acuerdos de Camp David.",
+        "year": 1977
+      },
+      {
+        "title": "Muere Franz Schubert",
+        "description": "El compositor austriaco Franz Schubert murió en Viena a los 31 años, dejando una obra prolífica que incluye más de 600 lieder, sinfonías, música de cámara y óperas.",
+        "year": 1828
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Elizabeth of Hungary",
+        "type": "Queen",
+        "description": "Also commemorated today in some calendars, on the date of her death (1231). A Hungarian princess who renounced royal privileges to serve the poorest, founding hospitals and distributing her wealth — one of the great icons of medieval Christian charity."
+      },
+      {
+        "name": "Saint Obadiah",
+        "type": "Prophet",
+        "description": "Hebrew prophet whose book is the shortest in the Old Testament (only 21 verses). He foretold the fall of Edom and the restoration of Israel. Venerated in both the Jewish and Christian traditions."
+      },
+      {
+        "name": "Saint Crispin of Viterbo",
+        "type": "Religious",
+        "description": "18th-century Italian Capuchin friar, known as the 'cook of the poor' for his charity and humility. Beatified in 1806 and canonised by John Paul II in 1982."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Toilet Day",
+        "description": "Proclaimed by the UN to raise awareness of the global sanitation crisis: nearly 3.5 billion people lack access to safe sanitation facilities."
+      },
+      {
+        "name": "International Men's Day",
+        "description": "A day celebrated in more than 80 countries to recognise men's contributions to family and society, promote men's health, and foster gender equality."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Government of the people, by the people, for the people, shall not perish from the earth.",
+      "author": "Abraham Lincoln",
+      "context": "Lincoln delivered the Gettysburg Address on 19 November 1863 at the dedication of the Soldiers' National Cemetery in Gettysburg, Pennsylvania, four months after the battle."
+    },
+    "motivationalQuote": {
+      "text": "There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.",
+      "author": "Ernest Hemingway"
+    },
+    "births": [
+      {
+        "name": "James Garfield",
+        "description": "20th President of the United States (1881), the second to be assassinated. He was the only president in history to serve as a general during the Civil War and subsequently win the presidential election.",
+        "year": 1831
+      },
+      {
+        "name": "Indira Gandhi",
+        "description": "Prime Minister of India (1966–1977 and 1980–1984), the first woman to govern that country, known for her strong leadership and her role in the creation of Bangladesh.",
+        "year": 1917
+      },
+      {
+        "name": "Ryan Gosling",
+        "description": "Canadian actor known for his roles in La La Land, The Notebook, and Blade Runner 2049, Oscar-nominated for his performance in La La Land.",
+        "year": 1980
+      }
+    ],
+    "events": [
+      {
+        "title": "Gettysburg Address by Abraham Lincoln",
+        "description": "Abraham Lincoln delivered the Gettysburg Address at the dedication of the Soldiers' National Cemetery in Pennsylvania — one of the most influential speeches in American history.",
+        "year": 1863
+      },
+      {
+        "title": "Anwar Sadat visits Israel",
+        "description": "Egyptian President Anwar Sadat arrived in Jerusalem, becoming the first Arab leader to officially visit Israel, paving the way for the Camp David Accords.",
+        "year": 1977
+      },
+      {
+        "title": "Death of Franz Schubert",
+        "description": "Austrian composer Franz Schubert died in Vienna at the age of 31, leaving a prolific body of work including more than 600 lieder, symphonies, chamber music, and operas.",
+        "year": 1828
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Isabel da Hungria",
+        "type": "Rainha",
+        "description": "Também commemorada hoje em alguns calendários, na data da sua morte (1231). Princesa húngara que renunciou aos privilégios reais para servir os mais pobres, fundando hospitais e distribuindo os seus bens — um dos grandes ícones da caridade cristã medieval."
+      },
+      {
+        "name": "São Abdias",
+        "type": "Profeta",
+        "description": "Profeta hebraico cujo livro é o mais curto do Antigo Testamento (apenas 21 versículos). Anunciou a queda de Edom e a restauração de Israel. Venerado nas tradições judaica e cristã."
+      },
+      {
+        "name": "São Crispim de Viterbo",
+        "type": "Religioso",
+        "description": "Frade capuchinho italiano do século XVIII, conhecido como o 'cozinheiro dos pobres' pela sua caridade e humildade. Beatificado em 1806 e canonizado por João Paulo II em 1982."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial do Saneamento (Dia do Banheiro)",
+        "description": "Proclamado pela ONU para conscientizar sobre a crise global de saneamento: quase 3,5 bilhões de pessoas não têm acesso a instalações sanitárias seguras."
+      },
+      {
+        "name": "Dia Internacional do Homem",
+        "description": "Jornada celebrada em mais de 80 países para reconhecer as contribuições masculinas à família e à sociedade, promover a saúde masculina e fomentar a igualdade de género."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O governo do povo, pelo povo e para o povo não desaparecerá da face da Terra.",
+      "author": "Abraham Lincoln",
+      "context": "Lincoln proferiu o Discurso de Gettysburg em 19 de novembro de 1863 na dedicação do Cemitério Nacional dos Soldados em Gettysburg, Pensilvânia, quatro meses após a batalha."
+    },
+    "motivationalQuote": {
+      "text": "Não há nada de nobre em ser superior a outro homem; a verdadeira nobreza está em ser superior ao seu eu anterior.",
+      "author": "Ernest Hemingway"
+    },
+    "births": [
+      {
+        "name": "James Garfield",
+        "description": "Vigésimo presidente dos Estados Unidos (1881), o segundo a ser assassinado. Foi o único presidente da história a servir como general durante a Guerra Civil e a vencer posteriormente as eleições presidenciais.",
+        "year": 1831
+      },
+      {
+        "name": "Indira Gandhi",
+        "description": "Primeira-ministra da Índia (1966–1977 e 1980–1984), a primeira mulher a governar aquele país, conhecida pelo seu forte liderança e pelo seu papel na criação do Bangladesh.",
+        "year": 1917
+      },
+      {
+        "name": "Ryan Gosling",
+        "description": "Ator canadense conhecido pelos seus papéis em La La Land, Diário de uma Paixão e Blade Runner 2049, indicado ao Oscar pela sua atuação em La La Land.",
+        "year": 1980
+      }
+    ],
+    "events": [
+      {
+        "title": "Discurso de Gettysburg de Abraham Lincoln",
+        "description": "Abraham Lincoln proferiu o Discurso de Gettysburg na dedicação do Cemitério Nacional dos Soldados na Pensilvânia — um dos discursos mais influentes da história americana.",
+        "year": 1863
+      },
+      {
+        "title": "Anwar Sadat visita Israel",
+        "description": "O presidente egípcio Anwar Sadat chegou a Jerusalém, tornando-se o primeiro líder árabe a visitar oficialmente Israel, abrindo caminho para os Acordos de Camp David.",
+        "year": 1977
+      },
+      {
+        "title": "Morte de Franz Schubert",
+        "description": "O compositor austríaco Franz Schubert morreu em Viena aos 31 anos, deixando uma obra prolífica que inclui mais de 600 lieder, sinfonias, música de câmara e óperas.",
+        "year": 1828
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Isabel d'Hongria",
+        "type": "Reina",
+        "description": "També commemorada avui en alguns calendaris, en la data de la seva mort (1231). Princesa hongaresa que va renunciar als privilegis reials per servir els més pobres, fundant hospitals i distribuint els seus béns — una de les grans icones de la caritat cristiana medieval."
+      },
+      {
+        "name": "Sant Abdies",
+        "type": "Profeta",
+        "description": "Profeta hebreu el llibre del qual és el més curt de l'Antic Testament (només 21 versos). Va anunciar la caiguda d'Edom i la restauració d'Israel. Venerat en les tradicions jueva i cristiana."
+      },
+      {
+        "name": "Sant Crispí de Viterbo",
+        "type": "Religiós",
+        "description": "Frare caputxí italià del segle XVIII, conegut com el 'cuiner dels pobres' per la seva caritat i humilitat. Beatificat el 1806 i canonitzat per Joan Pau II el 1982."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial del Vàter",
+        "description": "Proclamat per l'ONU per conscienciar sobre la crisi global de sanejament: quasi 3.500 milions de persones no tenen accés a instal·lacions sanitàries segures."
+      },
+      {
+        "name": "Dia Internacional dels Homes",
+        "description": "Jornada celebrada en més de 80 països per reconèixer les contribucions masculines a la família i la societat, promoure la salut masculina i fomentar la igualtat de gènere."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El govern del poble, pel poble i per al poble no desapareixerà de la faç de la Terra.",
+      "author": "Abraham Lincoln",
+      "context": "Lincoln va pronunciar el Discurs de Gettysburg el 19 de novembre de 1863 en la dedicació del Cementiri Nacional dels Soldats a Gettysburg, Pennsilvània, quatre mesos després de la batalla."
+    },
+    "motivationalQuote": {
+      "text": "No hi ha res de noble en ser superior a un altre home; la veritable noblesa és ser superior al teu jo anterior.",
+      "author": "Ernest Hemingway"
+    },
+    "births": [
+      {
+        "name": "James Garfield",
+        "description": "Vintè president dels Estats Units (1881), el segon a ser assassinat. Va ser l'únic president de la història a servir com a general durant la Guerra Civil i a guanyar posteriorment les eleccions presidencials.",
+        "year": 1831
+      },
+      {
+        "name": "Indira Gandhi",
+        "description": "Primera ministra de l'Índia (1966–1977 i 1980–1984), la primera dona a governar aquell país, coneguda per la seva fermesa i el seu paper en la creació de Bangladesh.",
+        "year": 1917
+      },
+      {
+        "name": "Ryan Gosling",
+        "description": "Actor canadenc conegut pels seus papers a La La Land, El diari de la Noemi i Blade Runner 2049, nominat a l'Oscar per la seva interpretació a La La Land.",
+        "year": 1980
+      }
+    ],
+    "events": [
+      {
+        "title": "Discurs de Gettysburg d'Abraham Lincoln",
+        "description": "Abraham Lincoln va pronunciar el Discurs de Gettysburg en la dedicació del Cementiri Nacional dels Soldats a Pennsilvània — un dels discursos més influents de la història americana.",
+        "year": 1863
+      },
+      {
+        "title": "Anwar Sadat visita Israel",
+        "description": "El president egipci Anwar Sadat va arribar a Jerusalem, convertint-se en el primer líder àrab a visitar officialment Israel, obrint el camí als Acords de Camp David.",
+        "year": 1977
+      },
+      {
+        "title": "Mort de Franz Schubert",
+        "description": "El compositor austríac Franz Schubert va morir a Viena als 31 anys, deixant una obra prolífica que inclou més de 600 lieder, simfonies, música de cambra i òperes.",
+        "year": 1828
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "date": "2025-10-02",
+  "es": {
+    "saints": [
+      {
+        "name": "Santos Ángeles Custodios",
+        "type": "Festividad litúrgica",
+        "description": "La Iglesia Católica celebra hoy la fiesta de los Ángeles Custodios, los ángeles que Dios asigna a cada persona para guiarla y protegerla a lo largo de su vida. La devoción se remonta a los primeros siglos del cristianismo y fue incorporada al calendario universal en 1670 por el papa Clemente X."
+      },
+      {
+        "name": "San Leodegario de Autun",
+        "type": "Obispo y Mártir",
+        "description": "Obispo de Autun (Francia) del siglo VII, consejero de la reina Batilde y promotor de reformas eclesiásticas. Fue torturado y ejecutado por sus rivales políticos. Venerado como mártir por la firmeza de su fe ante la persecución."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la No Violencia",
+        "description": "Establecido por la Asamblea General de la ONU en 2007 (resolución 61/271), se celebra el 2 de octubre coincidiendo con el aniversario del nacimiento de Mahatma Gandhi, pionero de la filosofía de la resistencia pacífica. Busca difundir el mensaje de la no violencia, la tolerancia y la comprensión mutua."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Un ojo por ojo y el mundo entero acabará ciego.",
+      "author": "Mahatma Gandhi",
+      "context": "Hoy se conmemora el nacimiento de Mahatma Gandhi (1869), el líder indio cuya filosofía de la no violencia inspiró movimientos de liberación en todo el mundo. La ONU eligió este día para el Día Internacional de la No Violencia."
+    },
+    "motivationalQuote": {
+      "text": "Sé el cambio que deseas ver en el mundo.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Mahatma Gandhi",
+        "description": "Abogado, político y líder espiritual indio (1869–1948), padre de la independencia de la India. Desarrolló la filosofía de la ahimsa (no violencia) y el satyagraha (resistencia pacífica), que influyó en movimientos de derechos civiles de todo el mundo, incluido el liderado por Martin Luther King.",
+        "year": 1869
+      },
+      {
+        "name": "Groucho Marx",
+        "description": "Cómico y actor americano (1890–1977), el más célebre de los Hermanos Marx. Conocido por su ingenio verbal, su bigote pintado y su cigarro, protagonizó clásicos del humor como Una noche en la ópera (1935) y Sopa de ganso (1933). Fue también presentador del popular programa de TV Diga la contraseña.",
+        "year": 1890
+      },
+      {
+        "name": "Sting",
+        "description": "Músico, cantante y compositor inglés (Gordon Sumner), cofundador y líder de The Police. Artista en solitario con éxitos como Fields of Gold y Englishman in New York. Activista por los derechos humanos y la defensa de la Amazonia. Uno de los músicos de rock más influyentes de finales del siglo XX.",
+        "year": 1951
+      }
+    ],
+    "events": [
+      {
+        "title": "Masacre de Tlatelolco",
+        "description": "El ejército mexicano abrió fuego contra una concentración de estudiantes en la Plaza de las Tres Culturas de Tlatelolco, Ciudad de México, días antes de los Juegos Olímpicos de 1968. El número de víctimas mortales, censurado durante décadas, fue de al menos 44 personas según fuentes oficiales y cientos según testigos.",
+        "year": 1968
+      },
+      {
+        "title": "El Congreso de EE.UU. aprueba la ley de derechos civiles de 1964",
+        "description": "El presidente Lyndon B. Johnson promulgó la Civil Rights Act de 1964, que prohibía la discriminación por raza, color, religión, sexo u origen nacional. Una de las leyes más transformadoras de la historia estadounidense, resultado de años de lucha del movimiento por los derechos civiles.",
+        "year": 1964
+      },
+      {
+        "title": "Guinea proclama su independencia de Francia",
+        "description": "Guinea se convirtió en el primer país del África Occidental Francesa en proclamar su independencia, liderada por Sékou Touré, quien rechazó la propuesta de De Gaulle de integración en la Comunidad Francesa. Francia respondió retirando toda la ayuda y el personal técnico.",
+        "year": 1958
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Holy Guardian Angels",
+        "type": "Liturgical feast",
+        "description": "The Catholic Church today celebrates the feast of the Guardian Angels, the angels God assigns to each person to guide and protect them throughout their life. The devotion dates back to the early centuries of Christianity and was incorporated into the universal calendar in 1670 by Pope Clement X."
+      },
+      {
+        "name": "Saint Leodegar of Autun",
+        "type": "Bishop and Martyr",
+        "description": "Bishop of Autun (France) in the 7th century, adviser to Queen Balthild and promoter of ecclesiastical reforms. He was tortured and executed by his political rivals. Venerated as a martyr for the steadfastness of his faith in the face of persecution."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of Non-Violence",
+        "description": "Established by the UN General Assembly in 2007 (resolution 61/271), it is celebrated on 2 October to coincide with the anniversary of the birth of Mahatma Gandhi, pioneer of the philosophy of peaceful resistance. It seeks to spread the message of non-violence, tolerance and mutual understanding."
+      }
+    ],
+    "historicalQuote": {
+      "text": "An eye for an eye and the whole world will be blind.",
+      "author": "Mahatma Gandhi",
+      "context": "Today marks the birth of Mahatma Gandhi (1869), the Indian leader whose philosophy of non-violence inspired liberation movements around the world. The UN chose this day for the International Day of Non-Violence."
+    },
+    "motivationalQuote": {
+      "text": "Be the change you wish to see in the world.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Mahatma Gandhi",
+        "description": "Indian lawyer, politician and spiritual leader (1869–1948), father of Indian independence. He developed the philosophy of ahimsa (non-violence) and satyagraha (peaceful resistance), which influenced civil rights movements worldwide, including that led by Martin Luther King.",
+        "year": 1869
+      },
+      {
+        "name": "Groucho Marx",
+        "description": "American comedian and actor (1890–1977), the most famous of the Marx Brothers. Known for his verbal wit, painted moustache and cigar, he starred in comedy classics such as A Night at the Opera (1935) and Duck Soup (1933). He was also the host of the popular TV show You Bet Your Life.",
+        "year": 1890
+      },
+      {
+        "name": "Sting",
+        "description": "English musician, singer and songwriter (Gordon Sumner), co-founder and leader of The Police. Solo artist with hits such as Fields of Gold and Englishman in New York. Activist for human rights and the defence of the Amazon. One of the most influential rock musicians of the late 20th century.",
+        "year": 1951
+      }
+    ],
+    "events": [
+      {
+        "title": "Tlatelolco Massacre",
+        "description": "The Mexican army opened fire on a student rally in the Plaza de las Tres Culturas in Tlatelolco, Mexico City, days before the 1968 Olympic Games. The death toll, censored for decades, was at least 44 according to official sources and hundreds according to witnesses.",
+        "year": 1968
+      },
+      {
+        "title": "US Congress passes the Civil Rights Act of 1964",
+        "description": "President Lyndon B. Johnson signed the Civil Rights Act of 1964, which prohibited discrimination based on race, colour, religion, sex or national origin. One of the most transformative laws in American history, the result of years of struggle by the civil rights movement.",
+        "year": 1964
+      },
+      {
+        "title": "Guinea proclaims independence from France",
+        "description": "Guinea became the first country in French West Africa to proclaim its independence, led by Sékou Touré, who rejected De Gaulle's proposal for integration into the French Community. France responded by withdrawing all aid and technical personnel.",
+        "year": 1958
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santos Anjos Custódios",
+        "type": "Festa litúrgica",
+        "description": "A Igreja Católica celebra hoje a festa dos Anjos Custódios, os anjos que Deus designa a cada pessoa para a guiar e proteger ao longo da sua vida. A devoção remonta aos primeiros séculos do cristianismo e foi incorporada ao calendário universal em 1670 pelo papa Clemente X."
+      },
+      {
+        "name": "São Leodegário de Autun",
+        "type": "Bispo e Mártir",
+        "description": "Bispo de Autun (França) do século VII, conselheiro da rainha Balthild e promotor de reformas eclesiásticas. Foi torturado e executado pelos seus rivais políticos. Venerado como mártir pela firmeza da sua fé perante a perseguição."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Não-Violência",
+        "description": "Estabelecido pela Assembleia Geral da ONU em 2007 (resolução 61/271), é celebrado a 2 de outubro por coincidir com o aniversário do nascimento de Mahatma Gandhi, pioneiro da filosofia da resistência pacífica. Procura difundir a mensagem da não-violência, da tolerância e da compreensão mútua."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Olho por olho e o mundo todo ficará cego.",
+      "author": "Mahatma Gandhi",
+      "context": "Hoje se comemora o nascimento de Mahatma Gandhi (1869), o líder indiano cuja filosofia da não-violência inspirou movimentos de libertação em todo o mundo. A ONU escolheu este dia para o Dia Internacional da Não-Violência."
+    },
+    "motivationalQuote": {
+      "text": "Sê a mudança que deseja ver no mundo.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Mahatma Gandhi",
+        "description": "Advogado, político e líder espiritual indiano (1869–1948), pai da independência da Índia. Desenvolveu a filosofia da ahimsa (não-violência) e do satyagraha (resistência pacífica), que influenciou movimentos de direitos civis em todo o mundo, incluindo o liderado por Martin Luther King.",
+        "year": 1869
+      },
+      {
+        "name": "Groucho Marx",
+        "description": "Comediante e ator americano (1890–1977), o mais célebre dos Irmãos Marx. Conhecido pelo seu humor verbal, bigode pintado e charuto, protagonizou clássicos da comédia como Uma Noite na Ópera (1935) e Sopa de Ganso (1933). Foi também apresentador do popular programa de TV Diga a Senha.",
+        "year": 1890
+      },
+      {
+        "name": "Sting",
+        "description": "Músico, cantor e compositor inglês (Gordon Sumner), cofundador e líder do The Police. Artista a solo com êxitos como Fields of Gold e Englishman in New York. Ativista pelos direitos humanos e pela defesa da Amazónia. Um dos músicos de rock mais influentes do final do século XX.",
+        "year": 1951
+      }
+    ],
+    "events": [
+      {
+        "title": "Massacre de Tlatelolco",
+        "description": "O exército mexicano abriu fogo contra uma concentração de estudantes na Plaza de las Tres Culturas de Tlatelolco, Cidade do México, dias antes dos Jogos Olímpicos de 1968. O número de vítimas mortais, censurado durante décadas, foi de pelo menos 44 segundo fontes oficiais e centenas segundo testemunhas.",
+        "year": 1968
+      },
+      {
+        "title": "Congresso dos EUA aprova a Lei dos Direitos Civis de 1964",
+        "description": "O presidente Lyndon B. Johnson promulgou a Lei dos Direitos Civis de 1964, que proibia a discriminação por raça, cor, religião, sexo ou origem nacional. Uma das leis mais transformadoras da história americana, resultado de anos de luta do movimento pelos direitos civis.",
+        "year": 1964
+      },
+      {
+        "title": "Guiné proclama a independência de França",
+        "description": "A Guiné tornou-se no primeiro país da África Ocidental Francesa a proclamar a sua independência, liderada por Sékou Touré, que rejeitou a proposta de De Gaulle de integração na Comunidade Francesa. A França respondeu retirando toda a ajuda e o pessoal técnico.",
+        "year": 1958
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sants Àngels Custodis",
+        "type": "Festivitat litúrgica",
+        "description": "L'Església Catòlica celebra avui la festa dels Àngels Custodis, els àngels que Déu assigna a cada persona per guiar-la i protegir-la al llarg de la seva vida. La devoció es remunta als primers segles del cristianisme i va ser incorporada al calendari universal el 1670 pel papa Climent X."
+      },
+      {
+        "name": "Sant Lleodegari d'Autun",
+        "type": "Bisbe i Màrtir",
+        "description": "Bisbe d'Autun (França) del segle VII, conseller de la reina Balthild i promotor de reformes eclesiàstiques. Va ser torturat i executat pels seus rivals polítics. Venerat com a màrtir per la fermesa de la seva fe davant la persecució."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la No-Violència",
+        "description": "Establert per l'Assemblea General de l'ONU el 2007 (resolució 61/271), se celebra el 2 d'octubre coincidint amb l'aniversari del naixement de Mahatma Gandhi, pioner de la filosofia de la resistència pacífica. Busca difondre el missatge de la no-violència, la tolerància i la comprensió mútua."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Ull per ull i el món sencer acabarà cec.",
+      "author": "Mahatma Gandhi",
+      "context": "Avui es commemora el naixement de Mahatma Gandhi (1869), el líder indi la filosofia de la no-violència del qual va inspirar moviments d'alliberament arreu del món. L'ONU va triar aquest dia per al Dia Internacional de la No-Violència."
+    },
+    "motivationalQuote": {
+      "text": "Sigues el canvi que desitges veure en el món.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Mahatma Gandhi",
+        "description": "Advocat, polític i líder espiritual indi (1869–1948), pare de la independència de l'Índia. Va desenvolupar la filosofia de l'ahimsa (no-violència) i el satyagraha (resistència pacífica), que va influir en moviments de drets civils de tot el món, inclòs el liderat per Martin Luther King.",
+        "year": 1869
+      },
+      {
+        "name": "Groucho Marx",
+        "description": "Còmic i actor americà (1890–1977), el més cèlebre dels Germans Marx. Conegut pel seu enginy verbal, el bigoti pintat i el cigar, va protagonitzar clàssics de l'humor com Una nit a l'òpera (1935) i Sopa d'ànec (1933). Va ser també presentador del popular programa de TV You Bet Your Life.",
+        "year": 1890
+      },
+      {
+        "name": "Sting",
+        "description": "Músic, cantant i compositor anglès (Gordon Sumner), cofundador i líder de The Police. Artista en solitari amb èxits com Fields of Gold i Englishman in New York. Activista pels drets humans i la defensa de l'Amazònia. Un dels músics de rock més influents de finals del segle XX.",
+        "year": 1951
+      }
+    ],
+    "events": [
+      {
+        "title": "Massacre de Tlatelolco",
+        "description": "L'exèrcit mexicà va obrir foc contra una concentració d'estudiants a la Plaza de las Tres Culturas de Tlatelolco, Ciutat de Mèxic, dies abans dels Jocs Olímpics de 1968. El nombre de víctimes mortals, censurat durant dècades, va ser d'almenys 44 segons fonts oficials i centenars segons testimonis.",
+        "year": 1968
+      },
+      {
+        "title": "El Congrés dels EUA aprova la Llei de Drets Civils de 1964",
+        "description": "El president Lyndon B. Johnson va promulgar la Llei de Drets Civils de 1964, que prohibia la discriminació per raça, color, religió, sexe o origen nacional. Una de les lleis més transformadores de la història americana, resultat d'anys de lluita del moviment pels drets civils.",
+        "year": 1964
+      },
+      {
+        "title": "Guinea proclama la independència de França",
+        "description": "Guinea es va convertir en el primer país de l'Àfrica Occidental Francesa a proclamar la seva independència, liderada per Sékou Touré, que va rebutjar la proposta de De Gaulle d'integració a la Comunitat Francesa. França va respondre retirant tota l'ajuda i el personal tècnic.",
+        "year": 1958
+      }
+    ]
+  }
+}

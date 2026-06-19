@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-12",
+  "es": {
+    "saints": [
+      {
+        "name": "San Pancracio",
+        "type": "Mártir",
+        "description": "Joven romano de origen frigio, martirizado hacia el año 304 bajo el emperador Diocleciano a la edad de 14 años por negarse a renunciar al cristianismo. Es uno de los tres Santos de Hielo (junto a Mamerto y Servacio). Su basílica en Roma es una de las más antiguas de la ciudad."
+      },
+      {
+        "name": "San Mamerto",
+        "type": "Obispo",
+        "description": "Obispo de Vienne (Francia) del siglo V, instituidor de las Rogativas de los tres días anteriores a la Ascensión. Es uno de los Santos de Hielo, cuya fiesta (11-12-13 de mayo) se asocia popularmente con heladas tardías en Europa central."
+      },
+      {
+        "name": "San Epímaco",
+        "type": "Mártir",
+        "description": "Mártir cristiano del siglo IV que sufrió martirio en Alejandría (Egipto) durante las persecuciones romanas. Sus reliquias fueron trasladadas a Roma y luego a Colonia (Alemania), donde es venerado hasta hoy."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Enfermería",
+        "description": "Celebrado el 12 de mayo, aniversario del nacimiento de Florence Nightingale, fundadora de la enfermería moderna. Este día reconoce la labor esencial de los profesionales de enfermería en todo el mundo."
+      },
+      {
+        "name": "Día Internacional de los Cuidadores",
+        "description": "Reconoce a las personas que dedican su vida a cuidar de familiares enfermos, mayores o con discapacidades, poniendo en valor una labor que frecuentemente queda invisible en la sociedad."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La enfermería es una de las artes; y si queremos que sea arte, requiere una devoción tan exclusiva como las artes más inspiradas.",
+      "author": "Florence Nightingale"
+    },
+    "motivationalQuote": {
+      "text": "El único modo de hacer buen trabajo es amar lo que haces.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Florence Nightingale",
+        "description": "Enfermera, estadística y escritora británica, pionera de la enfermería moderna. Durante la guerra de Crimea (1853–1856), redujo drásticamente la mortalidad en los hospitales militares a través de mejoras higiénicas. Fundó la primera escuela de enfermería del mundo en el Hospital St. Thomas de Londres.",
+        "year": "1820"
+      },
+      {
+        "name": "Katharine Hepburn",
+        "description": "Actriz americana, la más galardonada de la historia de Hollywood con cuatro premios Óscar a la mejor actriz. Con una carrera de más de seis décadas, protagonizó clásicos como La reina africana, Adivina quién viene esta noche y En el estanque dorado.",
+        "year": "1907"
+      },
+      {
+        "name": "Yogi Berra",
+        "description": "Jugador de béisbol americano, considerado uno de los mejores receptores de la historia de las Grandes Ligas. Ganador de 10 Series Mundiales con los New York Yankees, es también famoso por sus citas ingeniosas y paradójicas conocidas como 'Yogi-ismos'.",
+        "year": "1925"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fin del bloqueo soviético de Berlín",
+        "description": "La Unión Soviética levantó el bloqueo de Berlín Occidental, que había durado casi un año (desde junio de 1948). El puente aéreo aliado que abasteció la ciudad durante el bloqueo fue uno de los primeros grandes episodios de la Guerra Fría.",
+        "year": "1949"
+      },
+      {
+        "title": "El transbordador espacial Challenger completa su primera misión",
+        "description": "El transbordador espacial Challenger aterrizó con éxito tras completar su primera misión (STS-6), que incluía el despliegue del primer satélite del sistema de rastreo y retransmisión de datos (TDRS-1).",
+        "year": "1983"
+      },
+      {
+        "title": "Independencia de Bulgaria del Imperio Otomano",
+        "description": "Bulgaria proclamó su independencia formal respecto al Imperio Otomano, poniendo fin a cinco siglos de dominio otomano sobre el pueblo búlgaro y estableciendo el Principado de Bulgaria bajo protección rusa.",
+        "year": "1878"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Pancras",
+        "type": "Martyr",
+        "description": "Young Roman of Phrygian origin, martyred around 304 AD under Emperor Diocletian at the age of 14 for refusing to renounce Christianity. He is one of the three Ice Saints (along with Mamertus and Servatius). His basilica in Rome is one of the oldest in the city."
+      },
+      {
+        "name": "Saint Mamertus",
+        "type": "Bishop",
+        "description": "5th-century Bishop of Vienne (France), instituter of the Rogation Days on the three days before the Ascension. He is one of the Ice Saints, whose feast days (11–12–13 May) are popularly associated with late frosts in central Europe."
+      },
+      {
+        "name": "Saint Epimachus",
+        "type": "Martyr",
+        "description": "4th-century Christian martyr who suffered martyrdom in Alexandria (Egypt) during the Roman persecutions. His relics were transferred to Rome and later to Cologne (Germany), where he is venerated to this day."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Nurses Day",
+        "description": "Celebrated on May 12, the anniversary of the birth of Florence Nightingale, founder of modern nursing. This day recognises the essential work of nursing professionals worldwide."
+      },
+      {
+        "name": "International Carers Day",
+        "description": "Recognises people who dedicate their lives to caring for sick, elderly, or disabled family members, highlighting a role that often goes unnoticed in society."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nursing is an art; and if it is to be made an art, it requires an exclusive devotion as hard a preparation as any painter's or sculptor's work.",
+      "author": "Florence Nightingale"
+    },
+    "motivationalQuote": {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Florence Nightingale",
+        "description": "British nurse, statistician, and writer, pioneer of modern nursing. During the Crimean War (1853–1856), she dramatically reduced mortality in military hospitals through hygiene improvements. She founded the world's first nursing school at St Thomas' Hospital in London.",
+        "year": "1820"
+      },
+      {
+        "name": "Katharine Hepburn",
+        "description": "American actress, the most awarded in Hollywood history with four Academy Awards for Best Actress. With a career spanning more than six decades, she starred in classics such as The African Queen, Guess Who's Coming to Dinner, and On Golden Pond.",
+        "year": "1907"
+      },
+      {
+        "name": "Yogi Berra",
+        "description": "American baseball player, considered one of the greatest catchers in Major League history. A winner of 10 World Series titles with the New York Yankees, he is also famous for his witty and paradoxical sayings known as 'Yogi-isms'.",
+        "year": "1925"
+      }
+    ],
+    "events": [
+      {
+        "title": "End of the Soviet Blockade of Berlin",
+        "description": "The Soviet Union lifted the blockade of West Berlin, which had lasted nearly a year (since June 1948). The Allied airlift that supplied the city during the blockade was one of the first major episodes of the Cold War.",
+        "year": "1949"
+      },
+      {
+        "title": "Space Shuttle Challenger Completes Its First Mission",
+        "description": "The Space Shuttle Challenger landed successfully after completing its first mission (STS-6), which included the deployment of the first satellite of the Tracking and Data Relay Satellite System (TDRS-1).",
+        "year": "1983"
+      },
+      {
+        "title": "Bulgarian Independence from the Ottoman Empire",
+        "description": "Bulgaria proclaimed its formal independence from the Ottoman Empire, ending five centuries of Ottoman rule over the Bulgarian people and establishing the Principality of Bulgaria under Russian protection.",
+        "year": "1878"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Pancrácio",
+        "type": "Mártir",
+        "description": "Jovem romano de origem frígia, martirizado por volta do ano 304 sob o imperador Diocleciano aos 14 anos por se recusar a renunciar ao cristianismo. É um dos três Santos de Gelo (junto com Mamerto e Servácio). Sua basílica em Roma é uma das mais antigas da cidade."
+      },
+      {
+        "name": "São Mamerto",
+        "type": "Bispo",
+        "description": "Bispo de Vienne (França) do século V, instituidor das Rogações nos três dias anteriores à Ascensão. É um dos Santos de Gelo, cujas festas (11–12–13 de maio) estão popularmente associadas a geadas tardias na Europa central."
+      },
+      {
+        "name": "São Epímaco",
+        "type": "Mártir",
+        "description": "Mártir cristão do século IV que sofreu martírio em Alexandria (Egito) durante as perseguições romanas. Suas relíquias foram transferidas para Roma e depois para Colônia (Alemanha), onde é venerado até hoje."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Enfermagem",
+        "description": "Celebrado em 12 de maio, aniversário do nascimento de Florence Nightingale, fundadora da enfermagem moderna. Este dia reconhece o trabalho essencial dos profissionais de enfermagem em todo o mundo."
+      },
+      {
+        "name": "Dia Internacional dos Cuidadores",
+        "description": "Reconhece as pessoas que dedicam suas vidas a cuidar de familiares doentes, idosos ou com deficiências, valorizando uma função que frequentemente passa despercebida na sociedade."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A enfermagem é uma arte; e se deve ser uma arte, requer uma dedicação exclusiva tão árdua quanto a de qualquer pintor ou escultor.",
+      "author": "Florence Nightingale"
+    },
+    "motivationalQuote": {
+      "text": "A única maneira de fazer um ótimo trabalho é amar o que você faz.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Florence Nightingale",
+        "description": "Enfermeira, estatística e escritora britânica, pioneira da enfermagem moderna. Durante a Guerra da Crimeia (1853–1856), reduziu drasticamente a mortalidade nos hospitais militares por meio de melhorias higiênicas. Fundou a primeira escola de enfermagem do mundo no Hospital St Thomas de Londres.",
+        "year": "1820"
+      },
+      {
+        "name": "Katharine Hepburn",
+        "description": "Atriz americana, a mais premiada da história de Hollywood com quatro Oscars de Melhor Atriz. Com uma carreira de mais de seis décadas, protagonizou clássicos como A Rainha Africana, Adivinhe Quem Vem Para Jantar e Na Lagoa Dourada.",
+        "year": "1907"
+      },
+      {
+        "name": "Yogi Berra",
+        "description": "Jogador de beisebol americano, considerado um dos maiores receptores da história das Grandes Ligas. Vencedor de 10 Séries Mundiais com o New York Yankees, é também famoso por suas frases espirituosas e paradoxais conhecidas como 'Yogi-ismos'.",
+        "year": "1925"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fim do bloqueio soviético de Berlim",
+        "description": "A União Soviética levantou o bloqueio de Berlim Ocidental, que durou quase um ano (desde junho de 1948). A ponte aérea aliada que abasteceu a cidade durante o bloqueio foi um dos primeiros grandes episódios da Guerra Fria.",
+        "year": "1949"
+      },
+      {
+        "title": "Ônibus espacial Challenger completa sua primeira missão",
+        "description": "O ônibus espacial Challenger pousou com sucesso após completar sua primeira missão (STS-6), que incluiu o lançamento do primeiro satélite do sistema de rastreamento e retransmissão de dados (TDRS-1).",
+        "year": "1983"
+      },
+      {
+        "title": "Independência da Bulgária do Império Otomano",
+        "description": "A Bulgária proclamou sua independência formal do Império Otomano, encerrando cinco séculos de domínio otomano sobre o povo búlgaro e estabelecendo o Principado da Bulgária sob proteção russa.",
+        "year": "1878"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Pancraç",
+        "type": "Màrtir",
+        "description": "Jove romà d'origen frigi, martiritzat cap a l'any 304 sota l'emperador Dioclecià als 14 anys per negar-se a renunciar al cristianisme. És un dels tres Sants de Gel (juntament amb Mamert i Servaci). La seva basílica a Roma és una de les més antigues de la ciutat."
+      },
+      {
+        "name": "Sant Mamert",
+        "type": "Bisbe",
+        "description": "Bisbe de Viena (França) del segle V, instituïdor de les Rogatives dels tres dies anteriors a l'Ascensió. És un dels Sants de Gel, les festes dels quals (11–12–13 de maig) s'associen popularment amb gelades tardanes a l'Europa central."
+      },
+      {
+        "name": "Sant Epímac",
+        "type": "Màrtir",
+        "description": "Màrtir cristià del segle IV que va patir martiri a Alexandria (Egipte) durant les persecucions romanes. Les seves relíquies van ser traslladades a Roma i més tard a Colònia (Alemanya), on és venerat fins avui."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la Infermeria",
+        "description": "Celebrat el 12 de maig, aniversari del naixement de Florence Nightingale, fundadora de la infermeria moderna. Aquest dia reconeix la labor essencial dels professionals d'infermeria arreu del món."
+      },
+      {
+        "name": "Dia Internacional dels Cuidadors",
+        "description": "Reconeix les persones que dediquen la seva vida a cuidar familiars malalts, grans o amb discapacitats, posant en valor una labor que sovint queda invisible a la societat."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La infermeria és un art; i si ha de ser un art, requereix una dedicació exclusiva tan ardua com la de qualsevol pintor o escultor.",
+      "author": "Florence Nightingale"
+    },
+    "motivationalQuote": {
+      "text": "L'única manera de fer una gran feina és estimar el que fas.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Florence Nightingale",
+        "description": "Infermera, estadística i escriptora britànica, pionera de la infermeria moderna. Durant la guerra de Crimea (1853–1856), va reduir dràsticament la mortalitat als hospitals militars gràcies a millores higièniques. Va fundar la primera escola d'infermeria del món a l'Hospital St Thomas de Londres.",
+        "year": "1820"
+      },
+      {
+        "name": "Katharine Hepburn",
+        "description": "Actriu americana, la més guardonada de la història de Hollywood amb quatre premis Oscar a la millor actriu. Amb una carrera de més de sis dècades, va protagonitzar clàssics com La reina africana, Endevina qui ve a sopar i A l'estany daurat.",
+        "year": "1907"
+      },
+      {
+        "name": "Yogi Berra",
+        "description": "Jugador de beisbol americà, considerat un dels millors receptors de la història de les Grans Lligues. Guanyador de 10 Sèries Mundials amb els New York Yankees, és també famós per les seves frases enginyoses i paradoxals conegudes com 'Yogi-ismes'.",
+        "year": "1925"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fi del bloqueig soviètic de Berlín",
+        "description": "La Unió Soviètica va aixecar el bloqueig de Berlín Occidental, que havia durat gairebé un any (des del juny de 1948). El pont aeri aliat que va abastir la ciutat durant el bloqueig va ser un dels primers grans episodis de la Guerra Freda.",
+        "year": "1949"
+      },
+      {
+        "title": "El transbordador espacial Challenger completa la seva primera missió",
+        "description": "El transbordador espacial Challenger va aterrar amb èxit després de completar la seva primera missió (STS-6), que incloïa el desplegament del primer satèl·lit del sistema de seguiment i retransmissió de dades (TDRS-1).",
+        "year": "1983"
+      },
+      {
+        "title": "Independència de Bulgària de l'Imperi Otomà",
+        "description": "Bulgària va proclamar la seva independència formal de l'Imperi Otomà, posant fi a cinc segles de domini otomà sobre el poble búlgar i establint el Principat de Bulgària sota protecció russa.",
+        "year": "1878"
+      }
+    ]
+  }
+}

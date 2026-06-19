@@ -1,0 +1,251 @@
+{
+  "date": "2025-10-20",
+  "es": {
+    "saints": [
+      {
+        "name": "San Juan Cánelo",
+        "type": "Presbítero",
+        "description": "Sacerdote polaco (1390–1473), profesor de teología en la Universidad Jaguelónica de Cracovia durante cuarenta años. Conocido por su humildad y su generosidad con los pobres. Canonizado por Alejandro VIII en 1767, es patrono de Polonia y Lituania."
+      },
+      {
+        "name": "Santa Irene de Tesalónica",
+        "type": "Mártir",
+        "description": "Virgen mártir del siglo IV, hija del gobernador romano Licinio. Convertida al cristianismo por el monje Apolinar, fue torturada y ejecutada durante la persecución de Diocleciano. Su culto se extendió por Grecia, Bulgaria y toda la Iglesia Oriental."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Desarrollo",
+        "description": "El 20 de octubre se conmemora el Día Mundial del Desarrollo, que busca sensibilizar sobre la importancia de la cooperación internacional para reducir las desigualdades globales. Las Naciones Unidas recuerdan que el planeta cuenta con recursos suficientes para erradicar la pobreza si existe voluntad política global."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La historia se repite, primero como tragedia, después como farsa.",
+      "author": "Karl Marx"
+    },
+    "motivationalQuote": {
+      "text": "El éxito consiste en ir de fracaso en fracaso sin perder el entusiasmo.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Christopher Wren",
+        "description": "Arquitecto inglés (1632–1723), el más influyente de la historia de la arquitectura británica. Diseñó más de 50 iglesias en Londres tras el Gran Incendio de 1666, incluida la Catedral de San Pablo, su obra maestra. También fue matemático y astrónomo, y fue uno de los fundadores de la Royal Society.",
+        "year": 1632
+      },
+      {
+        "name": "Art Buchwald",
+        "description": "Columnista y humorista político americano (1925–2007), que durante más de cincuenta años publicó artículos satíricos sobre la política de Washington en cientos de diarios de todo el mundo. Ganó el Premio Pulitzer en 1982. Sus columnas influenciaron a generaciones de periodistas y humoristas políticos.",
+        "year": 1925
+      },
+      {
+        "name": "Snoop Dogg",
+        "description": "Rapero, productor y actor americano (Calvin Cordozar Broadus Jr., n. 1971). Debutó con el álbum Doggystyle (1993), producido por Dr. Dre, que se convirtió en uno de los discos de rap más vendidos de la historia. Personaje icónico de la costa oeste del hip-hop americano.",
+        "year": 1971
+      }
+    ],
+    "events": [
+      {
+        "title": "Muerte de Muamar el Gadafi",
+        "description": "El dictador libio Muamar el Gadafi fue capturado y ejecutado en Sirte (Libia) por combatientes del Consejo Nacional de Transición, que lo encontraron escondido en una tubería de desagüe. Gadafi había gobernado Libia durante 42 años. Su muerte marcó el fin de la guerra civil libia de 2011.",
+        "year": 2011
+      },
+      {
+        "title": "El huracán Hazel arrasa Haití y Estados Unidos",
+        "description": "El huracán Hazel, uno de los más destructivos del siglo XX, azotó Haití y el este de los Estados Unidos y Canadá. Causó la muerte de más de 400 personas en Haití y 95 en Estados Unidos. En Toronto provocó el mayor desastre natural de la historia de la ciudad.",
+        "year": 1954
+      },
+      {
+        "title": "El Vaticano reconoce la teoría de la evolución",
+        "description": "El papa Juan Pablo II declaró ante la Pontificia Academia de las Ciencias que la teoría de la evolución es «más que una hipótesis» y está en plena consonancia con la fe católica, siempre que se reconozca la creación divina del alma. Era un paso histórico en la reconciliación entre ciencia y religión.",
+        "year": 1996
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint John Cantius",
+        "type": "Priest",
+        "description": "Polish priest (1390–1473), theology professor at the Jagiellonian University of Kraków for forty years. Known for his humility and generosity towards the poor. Canonised by Alexander VIII in 1767, he is the patron of Poland and Lithuania."
+      },
+      {
+        "name": "Saint Irene of Thessalonica",
+        "type": "Martyr",
+        "description": "A 4th-century virgin martyr, daughter of the Roman governor Licinius. Converted to Christianity by the monk Apollinaris, she was tortured and executed during the persecution of Diocletian. Her cult spread throughout Greece, Bulgaria and the entire Eastern Church."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Development Day",
+        "description": "20 October marks World Development Day, which aims to raise awareness of the importance of international cooperation in reducing global inequalities. The United Nations recalls that the planet has sufficient resources to eradicate poverty if there is global political will."
+      }
+    ],
+    "historicalQuote": {
+      "text": "History repeats itself, first as tragedy, then as farce.",
+      "author": "Karl Marx"
+    },
+    "motivationalQuote": {
+      "text": "Success consists of going from failure to failure without loss of enthusiasm.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Christopher Wren",
+        "description": "English architect (1632–1723), the most influential in the history of British architecture. He designed more than 50 churches in London after the Great Fire of 1666, including St Paul's Cathedral, his masterpiece. He was also a mathematician and astronomer, and was one of the founders of the Royal Society.",
+        "year": 1632
+      },
+      {
+        "name": "Art Buchwald",
+        "description": "American political columnist and humorist (1925–2007), who for more than fifty years published satirical articles about Washington politics in hundreds of newspapers worldwide. He won the Pulitzer Prize in 1982. His columns influenced generations of journalists and political humorists.",
+        "year": 1925
+      },
+      {
+        "name": "Snoop Dogg",
+        "description": "American rapper, producer and actor (Calvin Cordozar Broadus Jr., b. 1971). He debuted with the album Doggystyle (1993), produced by Dr. Dre, which became one of the best-selling rap records in history. An iconic figure of the West Coast of American hip-hop.",
+        "year": 1971
+      }
+    ],
+    "events": [
+      {
+        "title": "Death of Muammar Gaddafi",
+        "description": "Libyan dictator Muammar Gaddafi was captured and killed in Sirte, Libya, by fighters from the National Transitional Council, who found him hiding in a drainage pipe. Gaddafi had ruled Libya for 42 years. His death marked the end of the 2011 Libyan civil war.",
+        "year": 2011
+      },
+      {
+        "title": "Hurricane Hazel devastates Haiti and the United States",
+        "description": "Hurricane Hazel, one of the most destructive of the 20th century, struck Haiti and the eastern United States and Canada. It caused the deaths of more than 400 people in Haiti and 95 in the United States. In Toronto it caused the worst natural disaster in the city's history.",
+        "year": 1954
+      },
+      {
+        "title": "Vatican endorses the theory of evolution",
+        "description": "Pope John Paul II declared before the Pontifical Academy of Sciences that the theory of evolution is 'more than a hypothesis' and is fully consonant with the Catholic faith, as long as the divine creation of the soul is recognised. It was a historic step in the reconciliation between science and religion.",
+        "year": 1996
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São João de Cantius",
+        "type": "Presbítero",
+        "description": "Sacerdote polaco (1390–1473), professor de teologia na Universidade Jaguelónica de Cracóvia durante quarenta anos. Conhecido pela sua humildade e generosidade para com os pobres. Canonizado por Alexandre VIII em 1767, é patrono da Polónia e da Lituânia."
+      },
+      {
+        "name": "Santa Irene de Tessalônica",
+        "type": "Mártir",
+        "description": "Virgem mártir do século IV, filha do governador romano Licínio. Convertida ao cristianismo pelo monge Apolinário, foi torturada e executada durante a perseguição de Diocleciano. O seu culto espalhou-se pela Grécia, Bulgária e toda a Igreja Oriental."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial do Desenvolvimento",
+        "description": "O 20 de outubro assinala o Dia Mundial do Desenvolvimento, que procura sensibilizar sobre a importância da cooperação internacional para reduzir as desigualdades globais. As Nações Unidas recordam que o planeta tem recursos suficientes para erradicar a pobreza se existir vontade política global."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A história repete-se, primeiro como tragédia, depois como farsa.",
+      "author": "Karl Marx"
+    },
+    "motivationalQuote": {
+      "text": "O sucesso consiste em ir de fracasso em fracasso sem perder o entusiasmo.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Christopher Wren",
+        "description": "Arquiteto inglês (1632–1723), o mais influente da história da arquitetura britânica. Concebeu mais de 50 igrejas em Londres após o Grande Incêndio de 1666, incluindo a Catedral de São Paulo, a sua obra-prima. Foi também matemático e astrónomo, e foi um dos fundadores da Royal Society.",
+        "year": 1632
+      },
+      {
+        "name": "Art Buchwald",
+        "description": "Colunista e humorista político americano (1925–2007), que durante mais de cinquenta anos publicou artigos satíricos sobre a política de Washington em centenas de jornais de todo o mundo. Ganhou o Prémio Pulitzer em 1982. As suas colunas influenciaram gerações de jornalistas e humoristas políticos.",
+        "year": 1925
+      },
+      {
+        "name": "Snoop Dogg",
+        "description": "Rapper, produtor e ator americano (Calvin Cordozar Broadus Jr., n. 1971). Estreou-se com o álbum Doggystyle (1993), produzido por Dr. Dre, que se tornou num dos discos de rap mais vendidos da história. Personagem icónico da costa oeste do hip-hop americano.",
+        "year": 1971
+      }
+    ],
+    "events": [
+      {
+        "title": "Morte de Muammar Kadafi",
+        "description": "O ditador líbio Muammar Kadafi foi capturado e executado em Sirte (Líbia) por combatentes do Conselho Nacional de Transição, que o encontraram escondido numa conduta de escoamento. Kadafi tinha governado a Líbia durante 42 anos. A sua morte marcou o fim da guerra civil líbia de 2011.",
+        "year": 2011
+      },
+      {
+        "title": "O furacão Hazel devasta o Haiti e os Estados Unidos",
+        "description": "O furacão Hazel, um dos mais destrutivos do século XX, atingiu o Haiti e o leste dos Estados Unidos e do Canadá. Causou a morte de mais de 400 pessoas no Haiti e 95 nos Estados Unidos. Em Toronto provocou o pior desastre natural da história da cidade.",
+        "year": 1954
+      },
+      {
+        "title": "O Vaticano reconhece a teoria da evolução",
+        "description": "O papa João Paulo II declarou perante a Academia Pontifícia das Ciências que a teoria da evolução é 'mais do que uma hipótese' e está plenamente em consonância com a fé católica, desde que se reconheça a criação divina da alma. Foi um passo histórico na reconciliação entre ciência e religião.",
+        "year": 1996
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Joan de Cantis",
+        "type": "Prevere",
+        "description": "Sacerdot polonès (1390–1473), professor de teologia a la Universitat Jaguel·lónica de Cracòvia durant quaranta anys. Conegut per la seva humilitat i generositat envers els pobres. Canonitzat per Alexandre VIII el 1767, és patró de Polònia i Lituània."
+      },
+      {
+        "name": "Santa Irene de Tessalònica",
+        "type": "Màrtir",
+        "description": "Verge màrtir del segle IV, filla del governador romà Licini. Convertida al cristianisme pel monjo Apolinari, va ser torturada i executada durant la persecució de Dioclecià. El seu culte es va estendre per Grècia, Bulgària i tota l'Església Oriental."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial del Desenvolupament",
+        "description": "El 20 d'octubre es commemora el Dia Mundial del Desenvolupament, que busca sensibilitzar sobre la importància de la cooperació internacional per reduir les desigualtats globals. Les Nacions Unides recorden que el planeta disposa de recursos suficients per eradicar la pobresa si hi ha voluntat política global."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La història es repeteix, primer com a tragèdia, després com a farsa.",
+      "author": "Karl Marx"
+    },
+    "motivationalQuote": {
+      "text": "L'èxit consisteix a anar de fracàs en fracàs sense perdre l'entusiasme.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Christopher Wren",
+        "description": "Arquitecte anglès (1632–1723), el més influent de la història de l'arquitectura britànica. Va dissenyar més de 50 esglésies a Londres després del Gran Incendi de 1666, inclosa la Catedral de Sant Pau, la seva obra mestra. Va ser també matemàtic i astrònom, i va ser un dels fundadors de la Royal Society.",
+        "year": 1632
+      },
+      {
+        "name": "Art Buchwald",
+        "description": "Columnista i humorista polític americà (1925–2007), que durant més de cinquanta anys va publicar articles satírics sobre la política de Washington en centenars de diaris de tot el món. Va guanyar el Premi Pulitzer el 1982. Les seves columnes van influir en generacions de periodistes i humoristes polítics.",
+        "year": 1925
+      },
+      {
+        "name": "Snoop Dogg",
+        "description": "Raper, productor i actor americà (Calvin Cordozar Broadus Jr., n. 1971). Va debutar amb l'àlbum Doggystyle (1993), produït per Dr. Dre, que es va convertir en un dels discos de rap més venuts de la història. Personatge icònic de la costa oest del hip-hop americà.",
+        "year": 1971
+      }
+    ],
+    "events": [
+      {
+        "title": "Mort de Muammar al-Gaddafi",
+        "description": "El dictador libi Muammar al-Gaddafi va ser capturat i executat a Sirte (Líbia) per combatents del Consell Nacional de Transició, que el van trobar amagat en una canonada de drenatge. Gaddafi havia governat Líbia durant 42 anys. La seva mort va marcar el final de la guerra civil líbia de 2011.",
+        "year": 2011
+      },
+      {
+        "title": "L'huracà Hazel devasta Haití i els Estats Units",
+        "description": "L'huracà Hazel, un dels més destructius del segle XX, va assotar Haití i l'est dels Estats Units i el Canadà. Va causar la mort de més de 400 persones a Haití i 95 als Estats Units. A Toronto va provocar el pitjor desastre natural de la història de la ciutat.",
+        "year": 1954
+      },
+      {
+        "title": "El Vaticà reconeix la teoria de l'evolució",
+        "description": "El papa Joan Pau II va declarar davant la Pontifícia Acadèmia de les Ciències que la teoria de l'evolució és 'més que una hipòtesi' i està en plena consonància amb la fe catòlica, sempre que es reconegui la creació divina de l'ànima. Va ser un pas històric en la reconciliació entre ciència i religió.",
+        "year": 1996
+      }
+    ]
+  }
+}

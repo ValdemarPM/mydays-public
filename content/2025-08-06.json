@@ -1,0 +1,291 @@
+{
+  "date": "2025-08-06",
+  "es": {
+    "saints": [
+      {
+        "name": "Transfiguración del Señor",
+        "type": "Fiesta del Señor",
+        "description": "Fiesta litúrgica que conmemora el episodio evangélico en que Jesús se transfiguró ante Pedro, Santiago y Juan en el monte Tabor, mostrando su naturaleza divina. Instaurada como fiesta universal en 1457 por Calixto III."
+      },
+      {
+        "name": "San Justo y San Pastor",
+        "type": "Mártires",
+        "description": "Dos hermanos niños —de 13 y 9 años según la tradición— martizados en Complutum (actual Alcalá de Henares) durante la persecución de Diocleciano (año 304). Patronos de Alcalá de Henares y Madrid."
+      },
+      {
+        "name": "San Hormisdas",
+        "type": "Papa",
+        "description": "Papa (514–523) cuyo pontificado logró la reunificación de las Iglesias de Roma y Constantinopla, poniéndole fin al Cisma Acaciano que había dividido a la Iglesia durante 35 años."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Paz Atómica (Hiroshima)",
+        "description": "El 6 de agosto de 1945 la bomba atómica Little Boy fue lanzada sobre Hiroshima, causando entre 70.000 y 80.000 muertes inmediatas. Este día se celebra la memoria de las víctimas y se promueve el desarme nuclear."
+      },
+      {
+        "name": "Día de la Independencia de Bolivia",
+        "description": "Bolivia celebra su independencia del dominio español, proclamada el 6 de agosto de 1825 en honor al libertador Simón Bolívar, de quien toma su nombre."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No sé con qué armas se luchará en la Tercera Guerra Mundial, pero la Cuarta será con palos y piedras.",
+      "author": "Albert Einstein",
+      "context": "Esta reflexión cobró especial relevancia el 6 de agosto de 1945, cuando la bomba atómica destruyó Hiroshima. Einstein, cuya ecuación E=mc² hizo posible la fisión nuclear, vivió con angustia el uso bélico de su ciencia."
+    },
+    "motivationalQuote": {
+      "text": "En medio de la dificultad yace la oportunidad.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Alfred Lord Tennyson",
+        "description": "Poeta laureado de Inglaterra durante el reinado de la reina Victoria, autor de In Memoriam A.H.H. y de la célebre oda Charge of the Light Brigade. Una de las cumbres de la poesía victoriana.",
+        "year": 1809
+      },
+      {
+        "name": "Andy Warhol",
+        "description": "Artista estadounidense y figura central del movimiento Pop Art, conocido por sus serigrafías de latas de sopa Campbell y retratos de Marilyn Monroe que convirtieron la cultura de masas en arte.",
+        "year": 1928
+      },
+      {
+        "name": "M. Night Shyamalan",
+        "description": "Director de cine indio-americano conocido por películas de suspense con giros narrativos inesperados, entre ellas El sexto sentido (1999) y El protegido.",
+        "year": 1970
+      }
+    ],
+    "events": [
+      {
+        "title": "Bomba atómica sobre Hiroshima",
+        "description": "El 6 de agosto de 1945, el bombardero B-29 Enola Gay lanzó sobre Hiroshima (Japón) la primera bomba atómica utilizada en combate, causando la muerte inmediata de unas 80.000 personas y marcando el inicio de la era nuclear.",
+        "year": 1945
+      },
+      {
+        "title": "Tim Berners-Lee presenta la World Wide Web",
+        "description": "El 6 de agosto de 1991, Tim Berners-Lee publicó en el primer servidor web del mundo el primer sitio web de la historia, dando inicio a la era de Internet tal como la conocemos.",
+        "year": 1991
+      },
+      {
+        "title": "Independencia de Jamaica",
+        "description": "El 6 de agosto de 1962, Jamaica obtuvo su independencia del Reino Unido, convirtiéndose en el primer país del Caribe angloparlante en alcanzar la independencia dentro de la Commonwealth.",
+        "year": 1962
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Transfiguration of the Lord",
+        "type": "Feast of the Lord",
+        "description": "A liturgical feast commemorating the gospel episode in which Jesus was transfigured before Peter, James, and John on Mount Tabor, revealing his divine nature. Established as a universal feast in 1457 by Callixtus III."
+      },
+      {
+        "name": "Saints Justus and Pastor",
+        "type": "Martyrs",
+        "description": "Two young brothers — aged 13 and 9 according to tradition — martyred at Complutum (modern Alcalá de Henares) during the Diocletianic Persecution in 304 AD. Patrons of Alcalá de Henares and Madrid."
+      },
+      {
+        "name": "Saint Hormisdas",
+        "type": "Pope",
+        "description": "Pope (514–523) whose pontificate achieved the reunification of the Churches of Rome and Constantinople, ending the Acacian Schism that had divided the Church for 35 years."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Hiroshima Peace Memorial Day",
+        "description": "On 6 August 1945, the atomic bomb Little Boy was dropped on Hiroshima, causing between 70,000 and 80,000 immediate deaths. This day honours the memory of the victims and promotes nuclear disarmament."
+      },
+      {
+        "name": "Independence Day of Bolivia",
+        "description": "Bolivia celebrates its independence from Spanish rule, proclaimed on 6 August 1825 in honour of the liberator Simón Bolívar, from whom the country takes its name."
+      }
+    ],
+    "historicalQuote": {
+      "text": "I do not know with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.",
+      "author": "Albert Einstein",
+      "context": "This reflection gained special resonance on 6 August 1945, when the atomic bomb destroyed Hiroshima. Einstein, whose equation E=mc² made nuclear fission possible, lived in anguish over the military use of his science."
+    },
+    "motivationalQuote": {
+      "text": "In the middle of every difficulty lies opportunity.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Alfred Lord Tennyson",
+        "description": "Poet Laureate of England during the reign of Queen Victoria, author of In Memoriam A.H.H. and the celebrated ode Charge of the Light Brigade. One of the pinnacles of Victorian poetry.",
+        "year": 1809
+      },
+      {
+        "name": "Andy Warhol",
+        "description": "American artist and central figure of the Pop Art movement, known for his silkscreen prints of Campbell's Soup cans and Marilyn Monroe portraits that transformed mass culture into art.",
+        "year": 1928
+      },
+      {
+        "name": "M. Night Shyamalan",
+        "description": "Indian-American film director known for suspense films with unexpected narrative twists, including The Sixth Sense (1999) and Unbreakable.",
+        "year": 1970
+      }
+    ],
+    "events": [
+      {
+        "title": "Atomic bomb dropped on Hiroshima",
+        "description": "On 6 August 1945, the B-29 bomber Enola Gay dropped the first atomic bomb used in combat on Hiroshima, Japan, killing around 80,000 people immediately and marking the beginning of the nuclear age.",
+        "year": 1945
+      },
+      {
+        "title": "Tim Berners-Lee launches the World Wide Web",
+        "description": "On 6 August 1991, Tim Berners-Lee published on the world's first web server the first website in history, launching the Internet age as we know it.",
+        "year": 1991
+      },
+      {
+        "title": "Jamaica gains independence",
+        "description": "On 6 August 1962, Jamaica obtained its independence from the United Kingdom, becoming the first English-speaking Caribbean country to achieve independence within the Commonwealth.",
+        "year": 1962
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Transfiguração do Senhor",
+        "type": "Festa do Senhor",
+        "description": "Festa litúrgica que comemora o episódio evangélico em que Jesus se transfigurou diante de Pedro, Tiago e João no monte Tabor, revelando a sua natureza divina. Estabelecida como festa universal em 1457 por Calisto III."
+      },
+      {
+        "name": "Santos Justo e Pastor",
+        "type": "Mártires",
+        "description": "Dois irmãos jovens — de 13 e 9 anos segundo a tradição — martirizados em Complutum (atual Alcalá de Henares) durante a perseguição de Diocleciano em 304 d.C. Padroeiros de Alcalá de Henares e Madrid."
+      },
+      {
+        "name": "São Hormisdas",
+        "type": "Papa",
+        "description": "Papa (514–523) cujo pontificado logrou a reunificação das Igrejas de Roma e Constantinopla, pondo fim ao Cisma Acaciano que havia dividido a Igreja durante 35 anos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Memória de Hiroshima",
+        "description": "Em 6 de agosto de 1945, a bomba atômica Little Boy foi lançada sobre Hiroshima, causando entre 70.000 e 80.000 mortes imediatas. Este dia homenageia a memória das vítimas e promove o desarmamento nuclear."
+      },
+      {
+        "name": "Dia da Independência da Bolívia",
+        "description": "A Bolívia celebra a sua independência do domínio espanhol, proclamada em 6 de agosto de 1825 em homenagem ao libertador Simón Bolívar, de quem o país recebe o nome."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Não sei com que armas será travada a Terceira Guerra Mundial, mas a Quarta será com paus e pedras.",
+      "author": "Albert Einstein",
+      "context": "Esta reflexão ganhou especial ressonância em 6 de agosto de 1945, quando a bomba atômica destruiu Hiroshima. Einstein, cuja equação E=mc² tornou possível a fissão nuclear, viveu com angústia o uso bélico da sua ciência."
+    },
+    "motivationalQuote": {
+      "text": "No meio de toda dificuldade está uma oportunidade.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Alfred Lord Tennyson",
+        "description": "Poeta laureado de Inglaterra durante o reinado da rainha Vitória, autor de In Memoriam A.H.H. e da célebre ode Charge of the Light Brigade. Um dos cumes da poesia vitoriana.",
+        "year": 1809
+      },
+      {
+        "name": "Andy Warhol",
+        "description": "Artista americano e figura central do movimento Pop Art, conhecido pelas suas serigrafias de latas de sopa Campbell e retratos de Marilyn Monroe que transformaram a cultura de massas em arte.",
+        "year": 1928
+      },
+      {
+        "name": "M. Night Shyamalan",
+        "description": "Diretor de cinema indo-americano conhecido por filmes de suspense com reviravoltas narrativas inesperadas, incluindo O Sexto Sentido (1999) e Inconcebível.",
+        "year": 1970
+      }
+    ],
+    "events": [
+      {
+        "title": "Bomba atômica lançada sobre Hiroshima",
+        "description": "Em 6 de agosto de 1945, o bombardeiro B-29 Enola Gay lançou sobre Hiroshima (Japão) a primeira bomba atômica usada em combate, causando a morte imediata de cerca de 80.000 pessoas e marcando o início da era nuclear.",
+        "year": 1945
+      },
+      {
+        "title": "Tim Berners-Lee lança a World Wide Web",
+        "description": "Em 6 de agosto de 1991, Tim Berners-Lee publicou no primeiro servidor web do mundo o primeiro site da história, dando início à era da Internet tal como a conhecemos.",
+        "year": 1991
+      },
+      {
+        "title": "Jamaica obtém independência",
+        "description": "Em 6 de agosto de 1962, a Jamaica obteve a sua independência do Reino Unido, tornando-se o primeiro país caribenho de língua inglesa a alcançar a independência dentro da Commonwealth.",
+        "year": 1962
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Transfiguració del Senyor",
+        "type": "Festa del Senyor",
+        "description": "Festa litúrgica que commemora l'episodi evangèlic en què Jesús es va transfigurar davant Pere, Jaume i Joan al mont Tabor, mostrant la seva naturalesa divina. Instaurada com a festa universal el 1457 per Calixt III."
+      },
+      {
+        "name": "Sants Just i Pastor",
+        "type": "Màrtirs",
+        "description": "Dos germans nens — de 13 i 9 anys segons la tradició — martiritzats a Complutum (actual Alcalá de Henares) durant la persecució de Dioclecià l'any 304. Patrons d'Alcalá de Henares i Madrid."
+      },
+      {
+        "name": "Sant Hormisdes",
+        "type": "Papa",
+        "description": "Papa (514–523) el pontificat del qual va aconseguir la reunificació de les Esglésies de Roma i Constantinoble, posant fi al Cisma Acacià que havia dividit l'Església durant 35 anys."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Memòria de Hiroshima",
+        "description": "El 6 d'agost de 1945, la bomba atòmica Little Boy va ser llançada sobre Hiroshima, causant entre 70.000 i 80.000 morts immediates. Aquest dia commemora la memòria de les víctimes i promou el desarmament nuclear."
+      },
+      {
+        "name": "Dia de la Independència de Bolívia",
+        "description": "Bolívia celebra la seva independència del domini espanyol, proclamada el 6 d'agost de 1825 en honor al llibertador Simón Bolívar, de qui el país pren el nom."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No sé amb quines armes es lluitarà la Tercera Guerra Mundial, però la Quarta serà amb pals i pedres.",
+      "author": "Albert Einstein",
+      "context": "Aquesta reflexió va adquirir especial rellevància el 6 d'agost de 1945, quan la bomba atòmica va destruir Hiroshima. Einstein, la equació E=mc² del qual va fer possible la fissió nuclear, va viure amb angoixa l'ús bèl·lic de la seva ciència."
+    },
+    "motivationalQuote": {
+      "text": "Enmig de tota dificultat hi ha una oportunitat.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Alfred Lord Tennyson",
+        "description": "Poeta llorejat d'Anglaterra durant el regnat de la reina Victòria, autor de In Memoriam A.H.H. i de la cèlebre oda Càrrega de la Brigada Lleugera. Un dels cims de la poesia victoriana.",
+        "year": 1809
+      },
+      {
+        "name": "Andy Warhol",
+        "description": "Artista americà i figura central del moviment Pop Art, conegut per les seves serigrafia de llaunes de sopa Campbell i retrats de Marilyn Monroe que van transformar la cultura de masses en art.",
+        "year": 1928
+      },
+      {
+        "name": "M. Night Shyamalan",
+        "description": "Director de cinema indo-americà conegut per pel·lícules de suspens amb girs narratius inesperats, entre elles El sisè sentit (1999) i Incombustible.",
+        "year": 1970
+      }
+    ],
+    "events": [
+      {
+        "title": "Bomba atòmica sobre Hiroshima",
+        "description": "El 6 d'agost de 1945, el bombarder B-29 Enola Gay va llançar sobre Hiroshima (Japó) la primera bomba atòmica usada en combat, causant la mort immediata d'unes 80.000 persones i marcant l'inici de l'era nuclear.",
+        "year": 1945
+      },
+      {
+        "title": "Tim Berners-Lee llança la World Wide Web",
+        "description": "El 6 d'agost de 1991, Tim Berners-Lee va publicar al primer servidor web del món el primer lloc web de la història, donant inici a l'era d'Internet tal com la coneixem.",
+        "year": 1991
+      },
+      {
+        "title": "Jamaica obté la independència",
+        "description": "El 6 d'agost de 1962, Jamaica va obtenir la seva independència del Regne Unit, convertint-se en el primer país del Carib anglòfon a assolir la independència dins de la Commonwealth.",
+        "year": 1962
+      }
+    ]
+  }
+}

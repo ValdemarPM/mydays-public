@@ -1,0 +1,287 @@
+{
+  "date": "2026-06-09",
+  "es": {
+    "saints": [
+      {
+        "name": "San Efrén de Siria",
+        "type": "Diácono y Doctor de la Iglesia",
+        "description": "Nacido en Nisibis (actual Turquía) hacia el año 306, fue diácono, teólogo y prolífico escritor cristiano oriental. Compuso comentarios bíblicos, sermones e himnos que contribuyeron enormemente a la difusión de la fe. La Iglesia lo venera como Doctor de la Iglesia."
+      },
+      {
+        "name": "San Columba de Iona",
+        "type": "Abad",
+        "description": "Monje irlandés del siglo VI que fundó el célebre monasterio de Iona en Escocia, desde donde impulsó la evangelización de Escocia, el norte de Inglaterra y otras regiones de las islas británicas. Uno de los padres del cristianismo celta."
+      },
+      {
+        "name": "Beata Ana María Taigi",
+        "type": "Madre de familia",
+        "description": "Laica italiana del siglo XIX que vivió una profunda vida espiritual mientras cuidaba a su marido y sus siete hijos. Conocida por sus dones místicos, su caridad hacia los enfermos y pobres, y su serenidad ante las adversidades. Beatificada en 1920."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de los Amigos",
+        "description": "Celebrado en varios países el 9 de junio, este día rinde homenaje a la amistad como uno de los vínculos más valiosos de la vida humana, promoviendo la solidaridad, la empatía y el encuentro entre personas de distintas culturas."
+      },
+      {
+        "name": "Día de las Comunidades Autónomas (España)",
+        "description": "En varias comunidades autónomas españolas se celebran sus días festivos regionales en torno a esta fecha de junio, afirmando la diversidad cultural y la descentralización del Estado."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nuestra mayor gloria no está en no caer nunca, sino en levantarnos cada vez que caemos.",
+      "author": "Oliver Goldsmith"
+    },
+    "motivationalQuote": {
+      "text": "La imaginación es más importante que el conocimiento.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Johnny Depp",
+        "description": "Actor y músico estadounidense de gran versatilidad, conocido por sus personajes excéntricos en cintas como Eduardo Manostijeras, la saga Piratas del Caribe y Chocolat. Ganador del Globo de Oro.",
+        "year": "1963"
+      },
+      {
+        "name": "Cole Porter",
+        "description": "Compositor y letrista estadounidense, uno de los grandes del jazz y el teatro musical de Broadway. Autor de canciones inmortales como Night and Day, I've Got You Under My Skin y Anything Goes.",
+        "year": "1891"
+      },
+      {
+        "name": "Natalie Portman",
+        "description": "Actriz israelí-estadounidense, ganadora del Óscar a la mejor actriz por Cisne Negro (2010). Reconocida también por su papel en El profesional y la saga Star Wars.",
+        "year": "1981"
+      }
+    ],
+    "events": [
+      {
+        "title": "Suicidio del emperador Nerón",
+        "description": "El último emperador de la dinastía Julio-Claudia huyó de Roma ante la rebelión del ejército y del Senado y se suicidó antes de ser apresado. Con su muerte se inició el agitado año de los Cuatro Emperadores.",
+        "year": "68"
+      },
+      {
+        "title": "Matilde Hidalgo: primera mujer en votar en Latinoamérica",
+        "description": "La médica ecuatoriana Matilde Hidalgo se convirtió en la primera mujer de Latinoamérica en ejercer el derecho al voto en unas elecciones nacionales, abriendo un camino histórico para el sufragio femenino en la región.",
+        "year": "1924"
+      },
+      {
+        "title": "Naruhito se casa con Masako Owada",
+        "description": "El príncipe heredero del Japón, Naruhito, contrajo matrimonio con la diplomática Masako Owada en el palacio imperial de Tokio, en una ceremonia seguida por millones de personas en todo el mundo.",
+        "year": "1993"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Ephrem of Syria",
+        "type": "Deacon and Doctor of the Church",
+        "description": "Born in Nisibis (present-day Turkey) around 306, he was a deacon, theologian, and prolific Eastern Christian writer. He composed biblical commentaries, sermons, and hymns that greatly contributed to the spread of the faith. The Church venerates him as a Doctor of the Church."
+      },
+      {
+        "name": "Saint Columba of Iona",
+        "type": "Abbot",
+        "description": "6th-century Irish monk who founded the celebrated monastery of Iona in Scotland, from where he drove the evangelization of Scotland, northern England, and other regions of the British Isles. One of the fathers of Celtic Christianity."
+      },
+      {
+        "name": "Blessed Anna Maria Taigi",
+        "type": "Mother and laywoman",
+        "description": "19th-century Italian laywoman who lived a deep spiritual life while caring for her husband and seven children. Known for her mystical gifts, her charity toward the sick and poor, and her serenity in the face of adversity. Beatified in 1920."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Friends Day",
+        "description": "Celebrated in several countries on June 9, this day honors friendship as one of the most valuable bonds in human life, promoting solidarity, empathy, and connection between people of different cultures."
+      },
+      {
+        "name": "Regional Autonomy Days (Spain)",
+        "description": "Several Spanish autonomous communities celebrate their regional holidays around this date in June, affirming cultural diversity and the decentralization of the state."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Our greatest glory is not in never falling, but in rising every time we fall.",
+      "author": "Oliver Goldsmith"
+    },
+    "motivationalQuote": {
+      "text": "Imagination is more important than knowledge.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Johnny Depp",
+        "description": "Versatile American actor and musician, known for his eccentric characters in films like Edward Scissorhands, the Pirates of the Caribbean saga, and Chocolat. Golden Globe winner.",
+        "year": "1963"
+      },
+      {
+        "name": "Cole Porter",
+        "description": "American composer and lyricist, one of the greats of jazz and Broadway musical theatre. Author of immortal songs such as Night and Day, I've Got You Under My Skin, and Anything Goes.",
+        "year": "1891"
+      },
+      {
+        "name": "Natalie Portman",
+        "description": "Israeli-American actress, Academy Award winner for Best Actress for Black Swan (2010). Also acclaimed for her role in Léon: The Professional and the Star Wars saga.",
+        "year": "1981"
+      }
+    ],
+    "events": [
+      {
+        "title": "Suicide of Emperor Nero",
+        "description": "The last emperor of the Julio-Claudian dynasty fled Rome in the face of a rebellion by the army and Senate and took his own life before being captured. His death initiated the tumultuous Year of the Four Emperors.",
+        "year": "68"
+      },
+      {
+        "title": "Matilde Hidalgo: first woman to vote in Latin America",
+        "description": "Ecuadorian physician Matilde Hidalgo became the first woman in Latin America to exercise the right to vote in national elections, opening a historic path for women's suffrage in the region.",
+        "year": "1924"
+      },
+      {
+        "title": "Naruhito marries Masako Owada",
+        "description": "Crown Prince Naruhito of Japan married diplomat Masako Owada at the imperial palace in Tokyo, in a ceremony watched by millions of people around the world.",
+        "year": "1993"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Efrém da Síria",
+        "type": "Diácono e Doutor da Igreja",
+        "description": "Nascido em Nisibis (atual Turquia) por volta do ano 306, foi diácono, teólogo e prolífico escritor cristão oriental. Compôs comentários bíblicos, sermões e hinos que contribuíram enormemente para a difusão da fé. A Igreja o venera como Doutor da Igreja."
+      },
+      {
+        "name": "São Columba de Iona",
+        "type": "Abade",
+        "description": "Monge irlandês do século VI que fundou o célebre mosteiro de Iona na Escócia, de onde impulsionou a evangelização da Escócia, do norte da Inglaterra e de outras regiões das ilhas britânicas. Um dos pais do cristianismo celta."
+      },
+      {
+        "name": "Beata Ana Maria Taigi",
+        "type": "Leiga",
+        "description": "Leiga italiana do século XIX que viveu uma profunda vida espiritual enquanto cuidava do marido e de seus sete filhos. Conhecida pelos seus dons místicos, sua caridade para com doentes e pobres, e sua serenidade diante das adversidades. Beatificada em 1920."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional dos Amigos",
+        "description": "Celebrado em vários países em 9 de junho, este dia homenageia a amizade como um dos vínculos mais valiosos da vida humana, promovendo a solidariedade, a empatia e o encontro entre pessoas de diferentes culturas."
+      },
+      {
+        "name": "Dias das Comunidades Autônomas (Espanha)",
+        "description": "Várias comunidades autônomas espanholas celebram seus feriados regionais em torno desta data de junho, afirmando a diversidade cultural e a descentralização do Estado."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nossa maior glória não está em nunca cair, mas em nos levantarmos cada vez que caímos.",
+      "author": "Oliver Goldsmith"
+    },
+    "motivationalQuote": {
+      "text": "A imaginação é mais importante que o conhecimento.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Johnny Depp",
+        "description": "Ator e músico americano de grande versatilidade, conhecido por seus personagens excêntricos em filmes como Eduardo Mãos de Tesoura, a saga Piratas do Caribe e Chocolat. Vencedor do Globo de Ouro.",
+        "year": "1963"
+      },
+      {
+        "name": "Cole Porter",
+        "description": "Compositor e letrista americano, um dos grandes do jazz e do teatro musical da Broadway. Autor de canções imortais como Night and Day, I've Got You Under My Skin e Anything Goes.",
+        "year": "1891"
+      },
+      {
+        "name": "Natalie Portman",
+        "description": "Atriz israelense-americana, vencedora do Oscar de Melhor Atriz por Cisne Negro (2010). Também aclamada por seu papel em O Profissional e na saga Star Wars.",
+        "year": "1981"
+      }
+    ],
+    "events": [
+      {
+        "title": "Suicídio do imperador Nero",
+        "description": "O último imperador da dinastia Júlio-Claudiana fugiu de Roma diante da rebelião do exército e do Senado e se suicidou antes de ser capturado. Com sua morte iniciou-se o agitado Ano dos Quatro Imperadores.",
+        "year": "68"
+      },
+      {
+        "title": "Matilde Hidalgo: primeira mulher a votar na América Latina",
+        "description": "A médica equatoriana Matilde Hidalgo tornou-se a primeira mulher da América Latina a exercer o direito ao voto em eleições nacionais, abrindo um caminho histórico para o sufrágio feminino na região.",
+        "year": "1924"
+      },
+      {
+        "title": "Naruhito casa-se com Masako Owada",
+        "description": "O príncipe herdeiro do Japão, Naruhito, contraiu matrimônio com a diplomata Masako Owada no palácio imperial de Tóquio, numa cerimônia acompanhada por milhões de pessoas em todo o mundo.",
+        "year": "1993"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Efrèm de Síria",
+        "type": "Diaca i Doctor de l'Església",
+        "description": "Nascut a Nisibis (actual Turquia) cap al any 306, fou diaca, teòleg i prolífic escriptor cristià oriental. Va compondre comentaris bíblics, sermons i himnes que van contribuir enormement a la difusió de la fe. L'Església el venera com a Doctor de l'Església."
+      },
+      {
+        "name": "Sant Columba d'Iona",
+        "type": "Abat",
+        "description": "Monjo irlandès del segle VI que va fundar el cèlebre monestir d'Iona a Escòcia, des d'on va impulsar l'evangelització d'Escòcia, el nord d'Anglaterra i altres regions de les illes britàniques. Un dels pares del cristianisme celta."
+      },
+      {
+        "name": "Beata Anna Maria Taigi",
+        "type": "Mare de família",
+        "description": "Laica italiana del segle XIX que va viure una profunda vida espiritual mentre cuidava el marit i els seus set fills. Coneguda pels seus dons místics, la seva caritat envers malalts i pobres, i la seva serenitat davant les adversitats. Beatificada el 1920."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional dels Amics",
+        "description": "Celebrat en diversos països el 9 de juny, aquest dia ret homenatge a l'amistat com un dels vincles més valuosos de la vida humana, promovent la solidaritat, l'empatia i l'encontre entre persones de cultures diverses."
+      },
+      {
+        "name": "Dies de les Comunitats Autònomes (Espanya)",
+        "description": "Diverses comunitats autònomes espanyoles celebren les seves festivitats regionals al voltant d'aquesta data de juny, afirmant la diversitat cultural i la descentralització de l'Estat."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La nostra major glòria no és no caure mai, sinó aixecar-nos cada vegada que caiem.",
+      "author": "Oliver Goldsmith"
+    },
+    "motivationalQuote": {
+      "text": "La imaginació és més important que el coneixement.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Johnny Depp",
+        "description": "Actor i músic americà de gran versatilitat, conegut pels seus personatges excèntrics en pel·lícules com Edward Manos Tissores, la saga Pirates del Carib i Xocolata. Guanyador del Globus d'Or.",
+        "year": "1963"
+      },
+      {
+        "name": "Cole Porter",
+        "description": "Compositor i lletrista nord-americà, un dels grans del jazz i el teatre musical de Broadway. Autor de cançons immortals com Night and Day, I've Got You Under My Skin i Anything Goes.",
+        "year": "1891"
+      },
+      {
+        "name": "Natalie Portman",
+        "description": "Actriu israeliana-nord-americana, guanyadora de l'Oscar a la millor actriu per Cigne Negre (2010). Aclamada també pel seu paper a El professional i la saga Star Wars.",
+        "year": "1981"
+      }
+    ],
+    "events": [
+      {
+        "title": "Suïcidi de l'emperador Neró",
+        "description": "L'últim emperador de la dinastia Júlio-Clàudia va fugir de Roma davant la rebel·lió de l'exèrcit i el Senat i es va suïcidar abans de ser capturat. Amb la seva mort va iniciar-se l'agitat Any dels Quatre Emperadors.",
+        "year": "68"
+      },
+      {
+        "title": "Matilde Hidalgo: primera dona a votar a l'Amèrica Llatina",
+        "description": "La metgessa equatoriana Matilde Hidalgo es va convertir en la primera dona de l'Amèrica Llatina a exercir el dret al vot en unes eleccions nacionals, obrint un camí històric per al sufragi femení a la regió.",
+        "year": "1924"
+      },
+      {
+        "title": "Naruhito es casa amb Masako Owada",
+        "description": "El príncep hereu del Japó, Naruhito, va contreure matrimoni amb la diplomàtica Masako Owada al palau imperial de Tòquio, en una cerimònia seguida per milions de persones arreu del món.",
+        "year": "1993"
+      }
+    ]
+  }
+}

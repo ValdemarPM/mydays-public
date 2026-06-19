@@ -1,0 +1,291 @@
+{
+  "date": "2026-04-15",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Anastasia Patricias",
+        "type": "Virgen y Ermitaña",
+        "description": "Mujer de noble familia romana del siglo VI que, para evitar un matrimonio no deseado, huyó a Alejandría y luego al desierto egipcio, donde vivió como eremita durante décadas disfrazada de monje. Su historia fue muy popular en el monacato oriental y fue modelo de huida del mundo."
+      },
+      {
+        "name": "San Paternus de Avranches",
+        "type": "Obispo",
+        "description": "Monje bretón del siglo VI, fundador del monasterio de Saint-Pair en la costa normanda. Fue elegido obispo de Avranches (actual Francia) y es celebrado por su santidad y sus milagros. Es uno de los santos más venerados de la Bretaña francesa."
+      },
+      {
+        "name": "San César de Bus",
+        "type": "Presbítero",
+        "description": "Sacerdote provenzal del siglo XVI-XVII, fundador de los Padres de la Doctrina Cristiana, una congregación dedicada a la catequesis popular en la Francia post-Reforma. Canonizado por Benedicto XVI en 2022, fue un gran renovador de la pastoral catequética en tiempos de crisis religiosa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de los Impuestos (Estados Unidos - Tax Day)",
+        "description": "El 15 de abril es la fecha límite habitual para presentar la declaración de la renta federal en los Estados Unidos, conocida popularmente como 'Tax Day'. Es una de las fechas más relevantes del calendario fiscal americano."
+      },
+      {
+        "name": "Día de las Artes (Brasil)",
+        "description": "Brasil celebra el 15 de abril como Día de las Artes, en homenaje al Día del Artista Plástico. Es una ocasión para reconocer la creatividad artística en todas sus formas y apoyar a los creadores brasileños."
+      }
+    ],
+    "historicalQuote": {
+      "text": "En los momentos de crisis, solo la imaginación es más importante que el conocimiento.",
+      "author": "Albert Einstein",
+      "context": "Cita frecuentemente atribuida a Einstein (nacido el 14 de marzo de 1879). Esta variante resume su convicción de que la imaginación creativa supera al conocimiento acumulado cuando los problemas son radicalmente nuevos."
+    },
+    "motivationalQuote": {
+      "text": "Si quieres caminar rápido, camina solo. Si quieres llegar lejos, camina acompañado.",
+      "author": "Proverbio africano"
+    },
+    "births": [
+      {
+        "name": "Leonardo da Vinci",
+        "description": "Polímata del Renacimiento italiano: pintor, escultor, arquitecto, músico, matemático, ingeniero, anatomista, geólogo e inventor. Autor de 'La Gioconda' y 'La Última Cena', realizó estudios anatómicos siglos antes de que la ciencia los sistematizara y diseñó ingenios mecánicos que no se construirían hasta el siglo XX.",
+        "year": "1452"
+      },
+      {
+        "name": "Henry James",
+        "description": "Novelista estadounidense-británico del siglo XIX-XX, maestro del realismo psicológico. Autor de obras como 'Retrato de una dama', 'Las alas de la paloma' y 'Los embajadores'. Fue pionero en el uso de la perspectiva narrativa interior y la conciencia de los personajes como eje de la novela.",
+        "year": "1843"
+      },
+      {
+        "name": "Emma Thompson",
+        "description": "Actriz y guionista británica, ganadora de dos Premios de la Academia: como actriz por 'Lo que queda del día' (1993) y como guionista por 'Sentido y sensibilidad' (1995). Es la única persona en haber ganado Óscars en ambas categorías. También conocida por la saga Harry Potter (Profesora McGonagall).",
+        "year": "1959"
+      }
+    ],
+    "events": [
+      {
+        "title": "Hundimiento del RMS Titanic",
+        "description": "A las 2:20 de la madrugada, el RMS Titanic se hundió definitivamente en el Atlántico Norte tras la colisión con un iceberg ocurrida la noche anterior. De las 2.224 personas a bordo, murieron más de 1.500. El desastre provocó cambios históricos en la legislación marítima internacional.",
+        "year": "1912"
+      },
+      {
+        "title": "Muerte de Abraham Lincoln",
+        "description": "El presidente Abraham Lincoln falleció a las 7:22 de la mañana, nueve horas después de ser disparado en el Teatro Ford por John Wilkes Booth. Fue el primer presidente asesinado en la historia de los Estados Unidos. Le sucedió Andrew Johnson.",
+        "year": "1865"
+      },
+      {
+        "title": "Desastre de Hillsborough",
+        "description": "Durante el partido de semifinal de la Copa FA entre el Liverpool y el Nottingham Forest en el estadio Hillsborough de Sheffield, una avalancha humana causó la muerte de 97 aficionados del Liverpool. Es el peor desastre deportivo de la historia de Gran Bretaña. Las investigaciones posteriores revelaron negligencia policial.",
+        "year": "1989"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Anastasia the Patrician",
+        "type": "Virgin and Hermit",
+        "description": "A 6th-century Roman noblewoman who, to escape an unwanted marriage, fled to Alexandria and then to the Egyptian desert, where she lived as a hermit for decades disguised as a monk. Her story was very popular in Eastern monasticism and served as a model of flight from the world."
+      },
+      {
+        "name": "Saint Paternus of Avranches",
+        "type": "Bishop",
+        "description": "A 6th-century Breton monk, founder of the monastery of Saint-Pair on the Norman coast. He was elected Bishop of Avranches (present-day France) and is celebrated for his holiness and miracles. He is one of the most venerated saints of French Brittany."
+      },
+      {
+        "name": "Saint César de Bus",
+        "type": "Priest",
+        "description": "A 16th–17th century Provençal priest, founder of the Fathers of Christian Doctrine, a congregation devoted to popular catechesis in post-Reformation France. Canonised by Benedict XVI in 2022, he was a great renewer of catechetical ministry in times of religious crisis."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Tax Day (United States)",
+        "description": "15 April is the usual deadline for filing the federal income tax return in the United States, popularly known as 'Tax Day'. It is one of the most significant dates in the American tax calendar."
+      },
+      {
+        "name": "Day of the Arts (Brazil)",
+        "description": "Brazil celebrates 15 April as the Day of the Arts, in honour of the Day of the Visual Artist. It is an occasion to recognise artistic creativity in all its forms and to support Brazilian creators."
+      }
+    ],
+    "historicalQuote": {
+      "text": "In moments of crisis, only imagination is more important than knowledge.",
+      "author": "Albert Einstein",
+      "context": "A quote frequently attributed to Einstein (born 14 March 1879). This variant encapsulates his conviction that creative imagination surpasses accumulated knowledge when problems are radically new."
+    },
+    "motivationalQuote": {
+      "text": "If you want to go fast, go alone. If you want to go far, go together.",
+      "author": "African proverb"
+    },
+    "births": [
+      {
+        "name": "Leonardo da Vinci",
+        "description": "Italian Renaissance polymath: painter, sculptor, architect, musician, mathematician, engineer, anatomist, geologist, and inventor. Author of the 'Mona Lisa' and 'The Last Supper', he conducted anatomical studies centuries before science systematised them, and designed mechanical devices that would not be built until the 20th century.",
+        "year": "1452"
+      },
+      {
+        "name": "Henry James",
+        "description": "19th–20th century American-British novelist, master of psychological realism. Author of works such as 'The Portrait of a Lady', 'The Wings of the Dove', and 'The Ambassadors'. He was a pioneer in the use of interior narrative perspective and the consciousness of characters as the axis of the novel.",
+        "year": "1843"
+      },
+      {
+        "name": "Emma Thompson",
+        "description": "British actress and screenwriter, winner of two Academy Awards: as actress for 'The Remains of the Day' (1993) and as screenwriter for 'Sense and Sensibility' (1995). She is the only person to have won Oscars in both categories. Also known for the Harry Potter saga (Professor McGonagall).",
+        "year": "1959"
+      }
+    ],
+    "events": [
+      {
+        "title": "Sinking of the RMS Titanic",
+        "description": "At 2:20 in the morning, the RMS Titanic sank definitively in the North Atlantic following its collision with an iceberg the previous night. Of the 2,224 people on board, more than 1,500 died. The disaster prompted historic changes in international maritime legislation.",
+        "year": "1912"
+      },
+      {
+        "title": "Death of Abraham Lincoln",
+        "description": "President Abraham Lincoln died at 7:22 in the morning, nine hours after being shot at Ford's Theatre by John Wilkes Booth. He was the first president to be assassinated in US history. He was succeeded by Andrew Johnson.",
+        "year": "1865"
+      },
+      {
+        "title": "Hillsborough Disaster",
+        "description": "During the FA Cup semi-final between Liverpool and Nottingham Forest at Sheffield's Hillsborough stadium, a human crush caused the deaths of 97 Liverpool supporters. It is the worst sporting disaster in British history. Subsequent investigations revealed police negligence.",
+        "year": "1989"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Anastásia Patrício",
+        "type": "Virgem e Eremita",
+        "description": "Nobre romana do século VI que, para evitar um casamento indesejado, fugiu para Alexandria e depois para o deserto egípcio, onde viveu como eremita durante décadas disfarçada de monge. A sua história foi muito popular no monacato oriental e serviu de modelo de fuga do mundo."
+      },
+      {
+        "name": "São Paterno de Avranches",
+        "type": "Bispo",
+        "description": "Monge bretão do século VI, fundador do mosteiro de Saint-Pair na costa normanda. Foi eleito bispo de Avranches (atual França) e é celebrado pela sua santidade e milagres. É um dos santos mais venerados da Bretanha francesa."
+      },
+      {
+        "name": "São César de Bus",
+        "type": "Presbítero",
+        "description": "Sacerdote provençal dos séculos XVI-XVII, fundador dos Padres da Doutrina Cristã, uma congregação dedicada à catequese popular na França pós-Reforma. Canonizado por Bento XVI em 2022, foi um grande renovador da pastoral catequética em tempos de crise religiosa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia dos Impostos (Estados Unidos - Tax Day)",
+        "description": "O 15 de abril é a data limite habitual para apresentar a declaração de imposto de renda federal nos Estados Unidos, popularmente conhecida como 'Tax Day'. É uma das datas mais relevantes do calendário fiscal americano."
+      },
+      {
+        "name": "Dia das Artes (Brasil)",
+        "description": "O Brasil celebra o 15 de abril como Dia das Artes, em homenagem ao Dia do Artista Plástico. É uma ocasião para reconhecer a criatividade artística em todas as suas formas e apoiar os criadores brasileiros."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Em momentos de crise, apenas a imaginação é mais importante que o conhecimento.",
+      "author": "Albert Einstein",
+      "context": "Citação frequentemente atribuída a Einstein (nascido em 14 de março de 1879). Esta variante resume a sua convicção de que a imaginação criativa supera o conhecimento acumulado quando os problemas são radicalmente novos."
+    },
+    "motivationalQuote": {
+      "text": "Se quiseres andar rápido, anda sozinho. Se quiseres ir longe, anda acompanhado.",
+      "author": "Provérbio africano"
+    },
+    "births": [
+      {
+        "name": "Leonardo da Vinci",
+        "description": "Polímata do Renascimento italiano: pintor, escultor, arquiteto, músico, matemático, engenheiro, anatomista, geólogo e inventor. Autor da 'Mona Lisa' e d'A Última Ceia', realizou estudos anatómicos séculos antes de a ciência os sistematizar e projetou engenhos mecânicos que não seriam construídos até ao século XX.",
+        "year": "1452"
+      },
+      {
+        "name": "Henry James",
+        "description": "Romancista americano-britânico dos séculos XIX-XX, mestre do realismo psicológico. Autor de obras como 'Retrato de uma Senhora', 'As Asas da Pomba' e 'Os Embaixadores'. Foi pioneiro no uso da perspetiva narrativa interior e da consciência das personagens como eixo do romance.",
+        "year": "1843"
+      },
+      {
+        "name": "Emma Thompson",
+        "description": "Atriz e roteirista britânica, vencedora de dois Prémios da Academia: como atriz por 'O Que Resta do Dia' (1993) e como roteirista por 'Razão e Sensibilidade' (1995). É a única pessoa a ter ganho Óscares em ambas as categorias. Também conhecida pela saga Harry Potter (Professora McGonagall).",
+        "year": "1959"
+      }
+    ],
+    "events": [
+      {
+        "title": "Afundamento do RMS Titanic",
+        "description": "Às 2h20 da madrugada, o RMS Titanic afundou definitivamente no Atlântico Norte após a colisão com um iceberg ocorrida na noite anterior. Das 2.224 pessoas a bordo, morreram mais de 1.500. O desastre provocou mudanças históricas na legislação marítima internacional.",
+        "year": "1912"
+      },
+      {
+        "title": "Morte de Abraham Lincoln",
+        "description": "O presidente Abraham Lincoln faleceu às 7h22, nove horas após ser baleado no Teatro Ford por John Wilkes Booth. Foi o primeiro presidente assassinado na história dos Estados Unidos. Sucedeu-lhe Andrew Johnson.",
+        "year": "1865"
+      },
+      {
+        "title": "Desastre de Hillsborough",
+        "description": "Durante o jogo de semifinal da Taça FA entre o Liverpool e o Nottingham Forest no estádio Hillsborough de Sheffield, uma debandada humana causou a morte de 97 adeptos do Liverpool. É o pior desastre desportivo da história da Grã-Bretanha. As investigações posteriores revelaram negligência policial.",
+        "year": "1989"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Anastàsia Patrícis",
+        "type": "Verge i Eremita",
+        "description": "Noble romana del segle VI que, per evitar un matrimoni no desitjat, va fugir a Alexandria i després al desert egipci, on va viure com a eremita durant dècades disfressada de monjo. La seva història va ser molt popular en el monaquisme oriental i va servir de model de fugida del món."
+      },
+      {
+        "name": "Sant Patern d'Avranches",
+        "type": "Bisbe",
+        "description": "Monjo bretó del segle VI, fundador del monestir de Saint-Pair a la costa normanda. Va ser elegit bisbe d'Avranches (actual França) i és celebrat per la seva santedat i els seus miracles. És un dels sants més venerats de la Bretanya francesa."
+      },
+      {
+        "name": "Sant Cèsar de Bus",
+        "type": "Prevere",
+        "description": "Sacerdot provençal dels segles XVI-XVII, fundador dels Pares de la Doctrina Cristiana, una congregació dedicada a la catequesi popular a la França post-Reforma. Canonitzat per Benet XVI el 2022, va ser un gran renovador de la pastoral catequètica en temps de crisi religiosa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia dels Impostos (Estats Units - Tax Day)",
+        "description": "El 15 d'abril és la data límit habitual per presentar la declaració de la renda federal als Estats Units, popularment coneguda com a 'Tax Day'. És una de les dates més rellevants del calendari fiscal americà."
+      },
+      {
+        "name": "Dia de les Arts (Brasil)",
+        "description": "El Brasil celebra el 15 d'abril com a Dia de les Arts, en homenatge al Dia de l'Artista Plàstic. És una ocasió per reconèixer la creativitat artística en totes les seves formes i donar suport als creadors brasilers."
+      }
+    ],
+    "historicalQuote": {
+      "text": "En els moments de crisi, només la imaginació és més important que el coneixement.",
+      "author": "Albert Einstein",
+      "context": "Citació freqüentment atribuïda a Einstein (nascut el 14 de març de 1879). Aquesta variant resumeix la seva convicció que la imaginació creativa supera el coneixement acumulat quan els problemes són radicalment nous."
+    },
+    "motivationalQuote": {
+      "text": "Si vols anar ràpid, ves sol. Si vols arribar lluny, ves acompanyat.",
+      "author": "Proverbi africà"
+    },
+    "births": [
+      {
+        "name": "Leonardo da Vinci",
+        "description": "Polímata del Renaixement italià: pintor, escultor, arquitecte, músic, matemàtic, enginyer, anatomista, geòleg i inventor. Autor de 'La Gioconda' i 'L'Últim Sopar', va realitzar estudis anatòmics segles abans que la ciència els sistematitzés i va dissenyar enginys mecànics que no es construirien fins al segle XX.",
+        "year": "1452"
+      },
+      {
+        "name": "Henry James",
+        "description": "Novel·lista americà-britànic dels segles XIX-XX, mestre del realisme psicològic. Autor d'obres com 'Retrat d'una dama', 'Les ales del colom' i 'Els ambaixadors'. Va ser pioner en l'ús de la perspectiva narrativa interior i la consciència dels personatges com a eix de la novel·la.",
+        "year": "1843"
+      },
+      {
+        "name": "Emma Thompson",
+        "description": "Actriu i guionista britànica, guanyadora de dos Premis de l'Acadèmia: com a actriu per 'Allò que queda del dia' (1993) i com a guionista per 'Raó i sentiment' (1995). És l'única persona a haver guanyat Òscars en totes dues categories. També coneguda per la saga Harry Potter (Professora McGonagall).",
+        "year": "1959"
+      }
+    ],
+    "events": [
+      {
+        "title": "Enfonsament del RMS Titànic",
+        "description": "A les 2:20 de la matinada, el RMS Titànic va enfonsar-se definitivament a l'Atlàntic Nord després de la col·lisió amb un iceberg ocorreguda la nit anterior. De les 2.224 persones a bord, van morir més de 1.500. El desastre va provocar canvis històrics en la legislació marítima internacional.",
+        "year": "1912"
+      },
+      {
+        "title": "Mort d'Abraham Lincoln",
+        "description": "El president Abraham Lincoln va morir a les 7:22 del matí, nou hores després de ser disparat al Teatre Ford per John Wilkes Booth. Va ser el primer president assassinat en la història dels Estats Units. El va succeir Andrew Johnson.",
+        "year": "1865"
+      },
+      {
+        "title": "Desastre de Hillsborough",
+        "description": "Durant el partit de semifinal de la Copa FA entre el Liverpool i el Nottingham Forest a l'estadi Hillsborough de Sheffield, una allau humana va causar la mort de 97 aficionats del Liverpool. És el pitjor desastre esportiu de la història de la Gran Bretanya. Les investigacions posteriors van revelar negligència policial.",
+        "year": "1989"
+      }
+    ]
+  }
+}

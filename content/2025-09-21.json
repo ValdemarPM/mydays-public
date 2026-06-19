@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-21",
+  "es": {
+    "saints": [
+      {
+        "name": "San Mateo Apóstol y Evangelista",
+        "type": "Apóstol",
+        "description": "Uno de los doce apóstoles de Jesucristo y autor del primer Evangelio. Era recaudador de impuestos en Cafarnaún cuando fue llamado por Jesús. Es el patrón de los banqueros, recaudadores de impuestos y contables."
+      },
+      {
+        "name": "San Jonás",
+        "type": "Profeta",
+        "description": "Profeta hebreo del Antiguo Testamento cuya historia, especialmente el episodio de ser tragado por un gran pez, es uno de los relatos más conocidos de la Biblia. Su libro es el quinto de los doce profetas menores."
+      },
+      {
+        "name": "San Mauro de Troyes",
+        "type": "Obispo",
+        "description": "Obispo de Troyes (Francia) del siglo V, conocido por su integridad moral y su labor pastoral en defensa de los fieles durante las invasiones bárbaras que asolaron la Galia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Paz",
+        "description": "Proclamado por la ONU en 1981, se celebra el 21 de septiembre para honrar la paz mundial y alentar el cese de las hostilidades en todo el mundo. La fecha fue elegida para coincidir con la apertura de la Asamblea General de la ONU."
+      },
+      {
+        "name": "Día de la Independencia de Malta",
+        "description": "Malta celebra su independencia del Reino Unido, proclamada el 21 de septiembre de 1964. La isla mediterránea, de gran importancia estratégica, pasó a ser una república en 1974."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La paz no se puede mantener por la fuerza; solo se puede lograr a través de la comprensión.",
+      "author": "Albert Einstein",
+      "context": "El físico alemán, Premio Nobel de la Paz, expresó esta convicción en el contexto de las dos guerras mundiales que vivió. Su compromiso pacifista le llevó a apoyar causas de desarme y cooperación internacional."
+    },
+    "motivationalQuote": {
+      "text": "No hay camino a la paz; la paz es el camino.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "H. G. Wells",
+        "description": "Escritor y novelista británico, padre de la ciencia ficción moderna. Autor de La máquina del tiempo (1895), La guerra de los mundos (1898) e El hombre invisible (1897), anticipó tecnologías y conflictos del siglo XX.",
+        "year": 1866
+      },
+      {
+        "name": "Stephen King",
+        "description": "Novelista americano de terror, suspense y ciencia ficción, uno de los autores más prolíficos y vendidos de la historia. Sus obras Carrie (1974), El resplandor (1977) e IT (1986) han sido adaptadas múltiples veces al cine.",
+        "year": 1947
+      },
+      {
+        "name": "Bill Murray",
+        "description": "Actor y comediante americano conocido por sus papeles en Ghostbusters (1984), Groundhog Day (1993) y Lost in Translation (2003), película por la que fue nominado al Oscar.",
+        "year": 1950
+      }
+    ],
+    "events": [
+      {
+        "title": "Proclamación del Día Internacional de la Paz",
+        "description": "La Asamblea General de la ONU proclamó el 21 de septiembre como el Día Internacional de la Paz, instando a todos los pueblos y naciones a observar un alto el fuego durante 24 horas.",
+        "year": 1981
+      },
+      {
+        "title": "El Imperio Romano de Oriente acaba formalmente",
+        "description": "Caída de Constantinopla ante los turcos otomanos en 1453 marca convencionalmente el fin del Imperio Bizantino, aunque historiadores señalan la derrota final de las últimas resistencias en la Morea.",
+        "year": 1453
+      },
+      {
+        "title": "Primera transmisión de radio de la BBC",
+        "description": "La BBC realizó su primera emisión oficial de radio desde la estación de Marconi House en Londres, inaugurando la era de la radiodifusión pública en el Reino Unido.",
+        "year": 1922
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Matthew, Apostle and Evangelist",
+        "type": "Apostle",
+        "description": "One of the twelve apostles of Jesus Christ and author of the first Gospel. He was a tax collector in Capernaum when called by Jesus. He is patron of bankers, tax collectors, and accountants."
+      },
+      {
+        "name": "Saint Jonah",
+        "type": "Prophet",
+        "description": "A Hebrew prophet of the Old Testament whose story, especially the episode of being swallowed by a great fish, is one of the best-known narratives in the Bible. His book is the fifth of the twelve minor prophets."
+      },
+      {
+        "name": "Saint Maurus of Troyes",
+        "type": "Bishop",
+        "description": "A 5th-century Bishop of Troyes (France), known for his moral integrity and pastoral work defending the faithful during the barbarian invasions that ravaged Gaul."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of Peace",
+        "description": "Proclaimed by the UN in 1981, celebrated on 21 September to honour world peace and encourage the cessation of hostilities everywhere. The date was chosen to coincide with the opening of the UN General Assembly."
+      },
+      {
+        "name": "Malta Independence Day",
+        "description": "Malta celebrates its independence from the United Kingdom, proclaimed on 21 September 1964. The strategically important Mediterranean island became a republic in 1974."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Peace cannot be kept by force; it can only be achieved by understanding.",
+      "author": "Albert Einstein",
+      "context": "The German physicist and Nobel Peace Prize winner expressed this conviction in the context of the two world wars he witnessed. His pacifist commitment led him to support disarmament and international cooperation."
+    },
+    "motivationalQuote": {
+      "text": "There is no way to peace; peace is the way.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "H. G. Wells",
+        "description": "British writer and novelist, father of modern science fiction. Author of The Time Machine (1895), The War of the Worlds (1898), and The Invisible Man (1897), he anticipated technologies and conflicts of the 20th century.",
+        "year": 1866
+      },
+      {
+        "name": "Stephen King",
+        "description": "American novelist of horror, suspense, and science fiction, one of the most prolific and best-selling authors in history. His works Carrie (1974), The Shining (1977), and IT (1986) have been adapted multiple times for the screen.",
+        "year": 1947
+      },
+      {
+        "name": "Bill Murray",
+        "description": "American actor and comedian known for his roles in Ghostbusters (1984), Groundhog Day (1993), and Lost in Translation (2003), for which he was nominated for the Oscar.",
+        "year": 1950
+      }
+    ],
+    "events": [
+      {
+        "title": "International Day of Peace proclaimed",
+        "description": "The UN General Assembly proclaimed 21 September as the International Day of Peace, calling on all peoples and nations to observe a 24-hour ceasefire.",
+        "year": 1981
+      },
+      {
+        "title": "Fall of Constantinople",
+        "description": "The fall of Constantinople to the Ottoman Turks in 1453 conventionally marks the end of the Byzantine Empire, although historians point to the final defeat of the last resistance in the Morea.",
+        "year": 1453
+      },
+      {
+        "title": "First BBC radio broadcast",
+        "description": "The BBC made its first official radio broadcast from Marconi House in London, inaugurating the era of public broadcasting in the United Kingdom.",
+        "year": 1922
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Mateus Apóstolo e Evangelista",
+        "type": "Apóstolo",
+        "description": "Um dos doze apóstolos de Jesus Cristo e autor do primeiro Evangelho. Era cobrador de impostos em Cafarnaum quando foi chamado por Jesus. É patrono dos banqueiros, cobradores de impostos e contabilistas."
+      },
+      {
+        "name": "São Jonas",
+        "type": "Profeta",
+        "description": "Profeta hebreu do Antigo Testamento cuja história, especialmente o episódio de ser engolido por um grande peixe, é uma das narrativas mais conhecidas da Bíblia. O seu livro é o quinto dos doze profetas menores."
+      },
+      {
+        "name": "São Mauro de Troyes",
+        "type": "Bispo",
+        "description": "Bispo de Troyes (França) do século V, conhecido pela sua integridade moral e pelo seu trabalho pastoral em defesa dos fiéis durante as invasões bárbaras que assolaram a Gália."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Paz",
+        "description": "Proclamado pela ONU em 1981, celebrado a 21 de setembro para honrar a paz mundial e incentivar a cessação das hostilidades em todo o mundo. A data foi escolhida para coincidir com a abertura da Assembleia Geral da ONU."
+      },
+      {
+        "name": "Dia da Independência de Malta",
+        "description": "Malta celebra a sua independência do Reino Unido, proclamada a 21 de setembro de 1964. A ilha mediterrânica de grande importância estratégica tornou-se república em 1974."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A paz não pode ser mantida pela força; só pode ser alcançada através da compreensão.",
+      "author": "Albert Einstein",
+      "context": "O físico alemão e Prêmio Nobel da Paz expressou esta convicção no contexto das duas guerras mundiais que viveu. O seu compromisso pacifista levou-o a apoiar causas de desarmamento e cooperação internacional."
+    },
+    "motivationalQuote": {
+      "text": "Não há caminho para a paz; a paz é o caminho.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "H. G. Wells",
+        "description": "Escritor e romancista britânico, pai da ficção científica moderna. Autor de A Máquina do Tempo (1895), A Guerra dos Mundos (1898) e O Homem Invisível (1897), antecipou tecnologias e conflitos do século XX.",
+        "year": 1866
+      },
+      {
+        "name": "Stephen King",
+        "description": "Romancista americano de terror, suspense e ficção científica, um dos autores mais prolíficos e vendidos da história. As suas obras Carrie (1974), O Iluminado (1977) e IT (1986) foram adaptadas múltiplas vezes para o cinema.",
+        "year": 1947
+      },
+      {
+        "name": "Bill Murray",
+        "description": "Ator e comediante americano conhecido pelos seus papéis em Caça-Fantasmas (1984), O Feitiço do Tempo (1993) e Encontros e Desencontros (2003), pelo qual foi nomeado para o Oscar.",
+        "year": 1950
+      }
+    ],
+    "events": [
+      {
+        "title": "Dia Internacional da Paz proclamado",
+        "description": "A Assembleia Geral da ONU proclamou o 21 de setembro como o Dia Internacional da Paz, apelando a todos os povos e nações a observar um cessar-fogo de 24 horas.",
+        "year": 1981
+      },
+      {
+        "title": "Queda de Constantinopla",
+        "description": "A queda de Constantinopla perante os turcos otomanos em 1453 marca convencionalmente o fim do Império Bizantino, embora os historiadores apontem para a derrota final das últimas resistências na Morea.",
+        "year": 1453
+      },
+      {
+        "title": "Primeira transmissão de rádio da BBC",
+        "description": "A BBC realizou a sua primeira emissão oficial de rádio a partir da Marconi House em Londres, inaugurando a era da radiodifusão pública no Reino Unido.",
+        "year": 1922
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Mateu Apòstol i Evangelista",
+        "type": "Apòstol",
+        "description": "Un dels dotze apòstols de Jesucrist i autor del primer Evangeli. Era recaptador d'impostos a Cafarnaüm quan va ser cridat per Jesús. És patró dels banquers, recaptadors d'impostos i comptables."
+      },
+      {
+        "name": "Sant Jonàs",
+        "type": "Profeta",
+        "description": "Profeta hebreu de l'Antic Testament la història del qual, especialment l'episodi de ser engolit per un gran peix, és una de les narracions més conegudes de la Bíblia. El seu llibre és el cinquè dels dotze profetes menors."
+      },
+      {
+        "name": "Sant Maur de Troyes",
+        "type": "Bisbe",
+        "description": "Bisbe de Troyes (França) del segle V, conegut per la seva integritat moral i la seva labor pastoral en defensa dels fidels durant les invasions bàrbares que van assotar la Gàl·lia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la Pau",
+        "description": "Proclamat per l'ONU el 1981, celebrat el 21 de setembre per honorar la pau mundial i fomentar el cessament de les hostilitats arreu del món. La data es va escollir per coincidir amb l'obertura de l'Assemblea General de l'ONU."
+      },
+      {
+        "name": "Dia de la Independència de Malta",
+        "description": "Malta celebra la seva independència del Regne Unit, proclamada el 21 de setembre de 1964. L'illa mediterrània de gran importància estratègica es va convertir en república el 1974."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La pau no es pot mantenir per la força; només es pot assolir a través de la comprensió.",
+      "author": "Albert Einstein",
+      "context": "El físic alemany i Premi Nobel de la Pau va expressar aquesta convicció en el context de les dues guerres mundials que va viure. El seu compromís pacifista el va portar a donar suport a causes de desarmament i cooperació internacional."
+    },
+    "motivationalQuote": {
+      "text": "No hi ha camí cap a la pau; la pau és el camí.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "H. G. Wells",
+        "description": "Escriptor i novel·lista britànic, pare de la ciència ficció moderna. Autor de La màquina del temps (1895), La guerra dels mons (1898) i L'home invisible (1897), va anticipar tecnologies i conflictes del segle XX.",
+        "year": 1866
+      },
+      {
+        "name": "Stephen King",
+        "description": "Novel·lista americà de terror, suspense i ciència ficció, un dels autors més prolífics i venuts de la història. Les seves obres Carrie (1974), El resplendor (1977) i IT (1986) han estat adaptades múltiples vegades al cinema.",
+        "year": 1947
+      },
+      {
+        "name": "Bill Murray",
+        "description": "Actor i còmic americà conegut pels seus papers a Ghostbusters (1984), Groundhog Day (1993) i Lost in Translation (2003), pel·lícula per la qual va ser nominat a l'Oscar.",
+        "year": 1950
+      }
+    ],
+    "events": [
+      {
+        "title": "Dia Internacional de la Pau proclamat",
+        "description": "L'Assemblea General de l'ONU va proclamar el 21 de setembre com el Dia Internacional de la Pau, instant tots els pobles i nacions a observar un alto el foc de 24 hores.",
+        "year": 1981
+      },
+      {
+        "title": "Caiguda de Constantinoble",
+        "description": "La caiguda de Constantinoble davant els turcs otomans el 1453 marca convencionalment el final de l'Imperi Bizantí, tot i que els historiadors assenyalen la derrota final de les últimes resistències a la Morea.",
+        "year": 1453
+      },
+      {
+        "title": "Primera emissió de ràdio de la BBC",
+        "description": "La BBC va realitzar la seva primera emissió oficial de ràdio des de Marconi House a Londres, inaugurant l'era de la radiodifusió pública al Regne Unit.",
+        "year": 1922
+      }
+    ]
+  }
+}

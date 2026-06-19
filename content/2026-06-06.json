@@ -1,0 +1,287 @@
+{
+  "date": "2026-06-06",
+  "es": {
+    "saints": [
+      {
+        "name": "San Marcelino Champagnat",
+        "type": "Presbítero y Fundador",
+        "description": "Sacerdote francés nacido en 1789, fundador de la congregación de los Hermanos Maristas, dedicada especialmente a la formación humana y cristiana de niños y jóvenes en situación de vulnerabilidad. Canonizado por Juan Pablo II en 1999."
+      },
+      {
+        "name": "San Norberto de Magdeburgo",
+        "type": "Obispo y Fundador",
+        "description": "Nacido en Xanten (Alemania) en torno al año 1080, fue fundador de la Orden Premonstratense de Canónigos Regulares. Vivió una profunda conversión y dedicó su vida a la reforma de la Iglesia y la predicación itinerante. Canonizado en 1582."
+      },
+      {
+        "name": "San Rafael Guízar y Valencia",
+        "type": "Obispo",
+        "description": "Sacerdote misionero y obispo de Veracruz (México) nacido en 1878. Destacó por su intensa actividad pastoral en tiempos de conflictos políticos y persecuciones religiosas. Canonizado por Benedicto XVI en 2006."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día D — Aniversario del Desembarco de Normandía",
+        "description": "El 6 de junio de 1944, 135.000 soldados aliados desembarcaron en las costas de Normandía (Francia) en la mayor operación anfibia de la historia. La Operación Overlord fue el punto de inflexión que abrió el camino hacia la liberación de Europa y la derrota del nazismo."
+      },
+      {
+        "name": "Día de la Lengua Sueca",
+        "description": "En Suecia se celebra el Día Nacional y el Día de la Lengua Sueca, conmemorando el día en que Gustavo Vasa fue elegido rey de Suecia en 1523, símbolo de la unidad nacional y cultural del país."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No hay viento favorable para el que no sabe adónde va.",
+      "author": "Séneca"
+    },
+    "motivationalQuote": {
+      "text": "En el medio de la dificultad yace la oportunidad.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Aleksandr Pushkin",
+        "description": "El más grande poeta ruso, considerado el padre de la literatura rusa moderna. Autor de obras como Eugenio Oneguín, La dama de picas y Boris Godunov, que establecieron los cánones de la lengua y la cultura literaria rusa.",
+        "year": "1799"
+      },
+      {
+        "name": "Diego Velázquez",
+        "description": "Pintor barroco español, considerado el mayor representante de la pintura española y uno de los más importantes de toda la historia del arte. Autor de Las Meninas, La rendición de Breda y Las hilanderas.",
+        "year": "1599"
+      },
+      {
+        "name": "Thomas Mann",
+        "description": "Novelista alemán, Premio Nobel de Literatura en 1929. Autor de Los Buddenbrook, La montaña mágica y Doctor Fausto, obras clave del modernismo literario europeo.",
+        "year": "1875"
+      }
+    ],
+    "events": [
+      {
+        "title": "Desembarco de Normandía (Día D)",
+        "description": "135.000 soldados aliados desembarcaron en las playas de Normandía en la Operación Overlord, la mayor operación anfibia de la historia. Fue el principio del fin del nazismo en Europa occidental.",
+        "year": "1944"
+      },
+      {
+        "title": "Gustavo Vasa elegido rey de Suecia",
+        "description": "La Dieta sueca de Strängnäs eligió a Gustavo Vasa como rey de Suecia, poniendo fin a la Unión de Kalmar con Dinamarca y estableciendo la soberanía sueca. Esta fecha se celebra hoy como Día Nacional de Suecia.",
+        "year": "1523"
+      },
+      {
+        "title": "Fallece Alejandro el Grande",
+        "description": "El rey de Macedonia y conquistador de un imperio que se extendía desde Grecia hasta India, falleció en Babilonia a los 32 años en circunstancias todavía debatidas por los historiadores. Su muerte abrió el período helenístico.",
+        "year": "-323"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Marcellin Champagnat",
+        "type": "Priest and Founder",
+        "description": "French priest born in 1789, founder of the Marist Brothers congregation, dedicated especially to the human and Christian education of vulnerable children and young people. Canonized by John Paul II in 1999."
+      },
+      {
+        "name": "Saint Norbert of Magdeburg",
+        "type": "Bishop and Founder",
+        "description": "Born in Xanten (Germany) around 1080, he was the founder of the Premonstratensian Order of Canons Regular. He underwent a profound conversion and devoted his life to Church reform and itinerant preaching. Canonized in 1582."
+      },
+      {
+        "name": "Saint Rafael Guízar y Valencia",
+        "type": "Bishop",
+        "description": "Missionary priest and Bishop of Veracruz (Mexico) born in 1878. He was noted for his intense pastoral activity during times of political conflict and religious persecution. Canonized by Benedict XVI in 2006."
+      }
+    ],
+    "observances": [
+      {
+        "name": "D-Day — Anniversary of the Normandy Landings",
+        "description": "On June 6, 1944, 135,000 Allied soldiers landed on the beaches of Normandy (France) in the largest amphibious operation in history. Operation Overlord was the turning point that opened the path to the liberation of Europe and the defeat of Nazism."
+      },
+      {
+        "name": "Swedish National Day",
+        "description": "Sweden celebrates its National Day and the Day of the Swedish Language, commemorating the day that Gustav Vasa was elected King of Sweden in 1523, a symbol of the country's national and cultural unity."
+      }
+    ],
+    "historicalQuote": {
+      "text": "There is no favorable wind for the sailor who doesn't know where to go.",
+      "author": "Seneca"
+    },
+    "motivationalQuote": {
+      "text": "In the middle of difficulty lies opportunity.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Alexander Pushkin",
+        "description": "The greatest Russian poet, considered the father of modern Russian literature. Author of works such as Eugene Onegin, The Queen of Spades, and Boris Godunov, which established the canons of the Russian literary language and culture.",
+        "year": "1799"
+      },
+      {
+        "name": "Diego Velázquez",
+        "description": "Spanish Baroque painter, considered the greatest representative of Spanish painting and one of the most important in the history of art. Author of Las Meninas, The Surrender of Breda, and The Spinners.",
+        "year": "1599"
+      },
+      {
+        "name": "Thomas Mann",
+        "description": "German novelist, Nobel Prize in Literature in 1929. Author of Buddenbrooks, The Magic Mountain, and Doctor Faustus, key works of European literary modernism.",
+        "year": "1875"
+      }
+    ],
+    "events": [
+      {
+        "title": "Normandy Landings (D-Day)",
+        "description": "135,000 Allied soldiers landed on the beaches of Normandy in Operation Overlord, the largest amphibious operation in history. It was the beginning of the end of Nazism in Western Europe.",
+        "year": "1944"
+      },
+      {
+        "title": "Gustav Vasa elected King of Sweden",
+        "description": "The Swedish Diet at Strängnäs elected Gustav Vasa as King of Sweden, ending the Kalmar Union with Denmark and establishing Swedish sovereignty. This date is celebrated today as Sweden's National Day.",
+        "year": "1523"
+      },
+      {
+        "title": "Death of Alexander the Great",
+        "description": "The King of Macedonia and conqueror of an empire stretching from Greece to India died in Babylon at age 32 under circumstances still debated by historians. His death opened the Hellenistic period.",
+        "year": "-323"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Marcelino Champagnat",
+        "type": "Presbítero e Fundador",
+        "description": "Sacerdote francês nascido em 1789, fundador da congregação dos Irmãos Maristas, dedicada especialmente à formação humana e cristã de crianças e jovens em situação de vulnerabilidade. Canonizado por João Paulo II em 1999."
+      },
+      {
+        "name": "São Norberto de Magdeburgo",
+        "type": "Bispo e Fundador",
+        "description": "Nascido em Xanten (Alemanha) por volta do ano 1080, foi fundador da Ordem Premonstratense de Cônegos Regulares. Viveu uma profunda conversão e dedicou sua vida à reforma da Igreja e à pregação itinerante. Canonizado em 1582."
+      },
+      {
+        "name": "São Rafael Guízar y Valencia",
+        "type": "Bispo",
+        "description": "Sacerdote missionário e bispo de Veracruz (México) nascido em 1878. Destacou-se por sua intensa atividade pastoral em tempos de conflitos políticos e perseguições religiosas. Canonizado por Bento XVI em 2006."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia D — Aniversário do Desembarque na Normandia",
+        "description": "Em 6 de junho de 1944, 135.000 soldados aliados desembarcaram nas praias da Normandia (França) na maior operação anfíbia da história. A Operação Overlord foi o ponto de inflexão que abriu o caminho para a libertação da Europa e a derrota do nazismo."
+      },
+      {
+        "name": "Dia Nacional da Suécia",
+        "description": "A Suécia celebra seu Dia Nacional e o Dia da Língua Sueca, em memória do dia em que Gustavo Vasa foi eleito rei da Suécia em 1523, símbolo da unidade nacional e cultural do país."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Não há vento favorável para quem não sabe para onde vai.",
+      "author": "Sêneca"
+    },
+    "motivationalQuote": {
+      "text": "No meio da dificuldade está a oportunidade.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Aleksandr Pushkin",
+        "description": "O maior poeta russo, considerado o pai da literatura russa moderna. Autor de obras como Eugênio Oneguin, A Dama de Espadas e Boris Godunov, que estabeleceram os cânones da língua e cultura literária russa.",
+        "year": "1799"
+      },
+      {
+        "name": "Diego Velázquez",
+        "description": "Pintor barroco espanhol, considerado o maior representante da pintura espanhola e um dos mais importantes de toda a história da arte. Autor de As Meninas, A Rendição de Breda e As Fiandeiras.",
+        "year": "1599"
+      },
+      {
+        "name": "Thomas Mann",
+        "description": "Romancista alemão, Prêmio Nobel de Literatura em 1929. Autor de Os Buddenbrooks, A Montanha Mágica e Doutor Fausto, obras-chave do modernismo literário europeu.",
+        "year": "1875"
+      }
+    ],
+    "events": [
+      {
+        "title": "Desembarque na Normandia (Dia D)",
+        "description": "135.000 soldados aliados desembarcaram nas praias da Normandia na Operação Overlord, a maior operação anfíbia da história. Foi o início do fim do nazismo na Europa Ocidental.",
+        "year": "1944"
+      },
+      {
+        "title": "Gustavo Vasa eleito rei da Suécia",
+        "description": "A Dieta sueca de Strängnäs elegeu Gustavo Vasa como rei da Suécia, pondo fim à União de Kalmar com a Dinamarca e estabelecendo a soberania sueca. Esta data é celebrada hoje como Dia Nacional da Suécia.",
+        "year": "1523"
+      },
+      {
+        "title": "Morte de Alexandre o Grande",
+        "description": "O rei da Macedônia e conquistador de um império que se estendia da Grécia à Índia faleceu em Babilônia aos 32 anos em circunstâncias ainda debatidas pelos historiadores. Sua morte abriu o período helenístico.",
+        "year": "-323"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Marcelí Champagnat",
+        "type": "Prevere i Fundador",
+        "description": "Sacerdot francès nascut el 1789, fundador de la congregació dels Germans Maristes, dedicada especialment a la formació humana i cristiana de nens i joves en situació de vulnerabilitat. Canonitzat per Joan Pau II el 1999."
+      },
+      {
+        "name": "Sant Norbert de Magdeburg",
+        "type": "Bisbe i Fundador",
+        "description": "Nascut a Xanten (Alemanya) al voltant de l'any 1080, va ser fundador de l'Orde Premonstratesa de Canonges Regulars. Va viure una profunda conversió i va dedicar la seva vida a la reforma de l'Església i la predicació itinerant. Canonitzat el 1582."
+      },
+      {
+        "name": "Sant Rafael Guízar i Valencia",
+        "type": "Bisbe",
+        "description": "Sacerdot missioner i bisbe de Veracruz (Mèxic) nascut el 1878. Va destacar per la seva intensa activitat pastoral en temps de conflictes polítics i persecucions religioses. Canonitzat per Benet XVI el 2006."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia D — Aniversari del Desembarcament de Normandia",
+        "description": "El 6 de juny de 1944, 135.000 soldats aliats van desembarcar a les platges de Normandia (França) en la major operació amfíbia de la història. L'Operació Overlord va ser el punt d'inflexió que va obrir el camí cap a l'alliberament d'Europa i la derrota del nazisme."
+      },
+      {
+        "name": "Dia Nacional de Suècia",
+        "description": "Suècia celebra el seu Dia Nacional i el Dia de la Llengua Sueca, en memòria del dia que Gustau Vasa va ser elegit rei de Suècia el 1523, símbol de la unitat nacional i cultural del país."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No hi ha vent favorable per a qui no sap on va.",
+      "author": "Sèneca"
+    },
+    "motivationalQuote": {
+      "text": "Enmig de la dificultat es troba l'oportunitat.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Aleksandr Puixkin",
+        "description": "El més gran poeta rus, considerat el pare de la literatura russa moderna. Autor d'obres com Eugeni Oneguin, La dama de piques i Borís Godunov, que van establir els cànons de la llengua i la cultura literària russa.",
+        "year": "1799"
+      },
+      {
+        "name": "Diego Velázquez",
+        "description": "Pintor barroc espanyol, considerat el major representant de la pintura espanyola i un dels més importants de tota la història de l'art. Autor de Les Menines, La rendició de Breda i Les filadores.",
+        "year": "1599"
+      },
+      {
+        "name": "Thomas Mann",
+        "description": "Novel·lista alemany, Premi Nobel de Literatura el 1929. Autor de Els Buddenbrook, La muntanya màgica i Doctor Faustus, obres clau del modernisme literari europeu.",
+        "year": "1875"
+      }
+    ],
+    "events": [
+      {
+        "title": "Desembarcament de Normandia (Dia D)",
+        "description": "135.000 soldats aliats van desembarcar a les platges de Normandia en l'Operació Overlord, la major operació amfíbia de la història. Va ser el principi de la fi del nazisme a l'Europa occidental.",
+        "year": "1944"
+      },
+      {
+        "title": "Gustau Vasa elegit rei de Suècia",
+        "description": "La Dieta sueca de Strängnäs va elegir Gustau Vasa com a rei de Suècia, posant fi a la Unió de Kalmar amb Dinamarca i establint la sobirania sueca. Aquesta data es celebra avui com a Dia Nacional de Suècia.",
+        "year": "1523"
+      },
+      {
+        "title": "Mort d'Alexandre el Gran",
+        "description": "El rei de Macedònia i conqueridor d'un imperi que s'estenia des de Grècia fins a l'Índia va morir a Babilònia als 32 anys en circumstàncies encara debatudes pels historiadors. La seva mort va obrir el període hel·lenístic.",
+        "year": "-323"
+      }
+    ]
+  }
+}

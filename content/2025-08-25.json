@@ -1,0 +1,291 @@
+{
+  "date": "2025-08-25",
+  "es": {
+    "saints": [
+      {
+        "name": "San Luis IX de Francia",
+        "type": "Rey",
+        "description": "Rey de Francia (1214–1270), modelo de monarca cristiano medieval. Impulsó la construcción de la Sainte-Chapelle de París, lideró la Séptima y Octava Cruzada y fue conocido por su justicia y devoción. Canonizado en 1297. Patrono de los terceros franciscanos, los barberos y los constructores."
+      },
+      {
+        "name": "San José de Calasanz",
+        "type": "Presbítero y Fundador",
+        "description": "Sacerdote aragonés (1557–1648) fundador de las Escuelas Pías (Escolapios), la primera red de escuelas gratuitas de Europa para niños pobres. Canonizado en 1767. Patrono universal de las escuelas primarias y populares."
+      },
+      {
+        "name": "Santa Genoveva Torres Morales",
+        "type": "Virgen y Fundadora",
+        "description": "Fundadora española (1870–1956) de la Congregación de las Hermanas del Sagrado Corazón de Jesús y los Santos Ángeles (Angelinas), dedicada al cuidado de mujeres solas y necesitadas. Canonizada por Juan Pablo II en 2003."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de Uruguay",
+        "description": "Uruguay celebra la firma de la Declaración de Independencia el 25 de agosto de 1825, cuando el Congreso de la Florida proclamó la separación de Brasil y la unión voluntaria a las Provincias Unidas del Río de la Plata."
+      },
+      {
+        "name": "Día Nacional de Bielorrusia (Independencia de la URSS)",
+        "description": "Bielorrusia declaró formalmente su independencia de la Unión Soviética el 25 de agosto de 1991, aunque la declaración de soberanía fue el 27 de julio de 1990."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Un rey que no sabe gobernar es un pastor que no sabe pastorear.",
+      "author": "San Luis IX de Francia",
+      "context": "El rey santo de Francia, cuya fiesta se celebra hoy, fue célebre por impartir justicia él mismo bajo un roble en Vincennes, escuchando a sus súbditos directamente. Esta cita refleja su concepción del poder como servicio al pueblo."
+    },
+    "motivationalQuote": {
+      "text": "El conocimiento es poder.",
+      "author": "Francis Bacon"
+    },
+    "births": [
+      {
+        "name": "Ivan el Terrible",
+        "description": "Primer zar de Rusia (1530–1584), que unificó y expandió el territorio ruso. Célebre por sus victorias militares y por los episodios de extrema crueldad que marcaron su reinado, incluida la matanza de la ciudad de Nóvgorod.",
+        "year": 1530
+      },
+      {
+        "name": "Bret Harte",
+        "description": "Escritor americano (1836–1902) pionero del realismo regional americano. Sus cuentos ambientados en la fiebre del oro californiana —como El azar de Roaring Camp— fundaron el género del Lejano Oeste literario.",
+        "year": 1836
+      },
+      {
+        "name": "Sean Connery",
+        "description": "Actor escocés (1930–2020) ganador del Óscar por Los intocables de Eliot Ness (1987) y eterno James Bond de la pantalla grande. Considerado uno de los actores más carismáticos de la historia del cine.",
+        "year": 1930
+      }
+    ],
+    "events": [
+      {
+        "title": "Inauguración de la Torre Eiffel",
+        "description": "La Torre Eiffel fue inaugurada el 31 de marzo de 1889, pero el 25 de agosto de ese año recibió la visita de Thomas Edison, que quedó asombrado ante la estructura y ofreció un fonógrafo de regalo a su constructor Gustave Eiffel.",
+        "year": 1889
+      },
+      {
+        "title": "Liberación de París — Segunda Guerra Mundial",
+        "description": "El 25 de agosto de 1944, las fuerzas francesas libres del general Leclerc, apoyadas por las fuerzas estadounidenses, liberaron París del ocupante alemán. El general De Gaulle entró triunfalmente en la ciudad ese mismo día.",
+        "year": 1944
+      },
+      {
+        "title": "Voyager 2 sobrevuela Neptuno",
+        "description": "El 25 de agosto de 1989, la sonda Voyager 2 realizó su máximo acercamiento a Neptuno, siendo el primer y único objeto de fabricación humana que ha visitado el planeta más lejano del Sistema Solar.",
+        "year": 1989
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Louis IX of France",
+        "type": "King",
+        "description": "King of France (1214–1270), the model of the medieval Christian monarch. He promoted the construction of the Sainte-Chapelle in Paris, led the Seventh and Eighth Crusades, and was renowned for his justice and piety. Canonised in 1297. Patron of Franciscan tertiaries, barbers, and builders."
+      },
+      {
+        "name": "Saint Joseph Calasanz",
+        "type": "Priest and Founder",
+        "description": "Aragonese priest (1557–1648), founder of the Pious Schools (Piarists), the first network of free schools in Europe for poor children. Canonised in 1767. Universal patron of primary and popular schools."
+      },
+      {
+        "name": "Saint Genoveva Torres Morales",
+        "type": "Virgin and Foundress",
+        "description": "Spanish foundress (1870–1956) of the Congregation of the Sacred Heart of Jesus and the Holy Angels (Angelinas), dedicated to the care of lonely and needy women. Canonised by John Paul II in 2003."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Independence Day of Uruguay",
+        "description": "Uruguay celebrates the signing of the Declaration of Independence on 25 August 1825, when the Congress of Florida proclaimed separation from Brazil and voluntary union with the United Provinces of the Río de la Plata."
+      },
+      {
+        "name": "Independence Day of Belarus",
+        "description": "Belarus formally declared independence from the Soviet Union on 25 August 1991, although its declaration of sovereignty was on 27 July 1990."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A king who does not know how to govern is a shepherd who does not know how to tend his flock.",
+      "author": "Saint Louis IX of France",
+      "context": "The saintly king of France, whose feast is celebrated today, was famous for personally administering justice under an oak tree in Vincennes, listening directly to his subjects. This quote reflects his conception of power as service to the people."
+    },
+    "motivationalQuote": {
+      "text": "Knowledge is power.",
+      "author": "Francis Bacon"
+    },
+    "births": [
+      {
+        "name": "Ivan the Terrible",
+        "description": "First Tsar of Russia (1530–1584), who unified and expanded Russian territory. Famous for his military victories and the episodes of extreme cruelty that marked his reign, including the massacre of the city of Novgorod.",
+        "year": 1530
+      },
+      {
+        "name": "Bret Harte",
+        "description": "American writer (1836–1902) and pioneer of American regional realism. His stories set in the California Gold Rush — such as The Luck of Roaring Camp — founded the literary genre of the Old West.",
+        "year": 1836
+      },
+      {
+        "name": "Sean Connery",
+        "description": "Scottish actor (1930–2020), Oscar winner for The Untouchables (1987) and the original cinematic James Bond. Considered one of the most charismatic actors in film history.",
+        "year": 1930
+      }
+    ],
+    "events": [
+      {
+        "title": "Liberation of Paris — World War II",
+        "description": "On 25 August 1944, General Leclerc's Free French forces, supported by American troops, liberated Paris from German occupation. General de Gaulle entered the city in triumph the same day.",
+        "year": 1944
+      },
+      {
+        "title": "Voyager 2 flies past Neptune",
+        "description": "On 25 August 1989, the Voyager 2 probe made its closest approach to Neptune, the only human-made object ever to visit the most distant planet in the Solar System.",
+        "year": 1989
+      },
+      {
+        "title": "Thomas Edison visits the Eiffel Tower",
+        "description": "On 25 August 1889, Thomas Edison visited the Eiffel Tower and was so impressed that he offered a phonograph to its constructor Gustave Eiffel — a symbolic meeting of two icons of the industrial age.",
+        "year": 1889
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Luís IX de França",
+        "type": "Rei",
+        "description": "Rei de França (1214–1270), o modelo do monarca cristão medieval. Promoveu a construção da Sainte-Chapelle de Paris, liderou a Sétima e a Oitava Cruzadas e foi célebre pela sua justiça e devoção. Canonizado em 1297. Padroeiro dos terceiros franciscanos, barbeiros e construtores."
+      },
+      {
+        "name": "São José de Calasanz",
+        "type": "Presbítero e Fundador",
+        "description": "Sacerdote aragonês (1557–1648), fundador das Escolas Pias (Escolápios), a primeira rede de escolas gratuitas da Europa para crianças pobres. Canonizado em 1767. Padroeiro universal das escolas primárias e populares."
+      },
+      {
+        "name": "Santa Genoveva Torres Morales",
+        "type": "Virgem e Fundadora",
+        "description": "Fundadora espanhola (1870–1956) da Congregação do Sagrado Coração de Jesus e dos Santos Anjos (Angelinas), dedicada ao cuidado de mulheres sós e necessitadas. Canonizada por João Paulo II em 2003."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência do Uruguai",
+        "description": "O Uruguai celebra a assinatura da Declaração de Independência em 25 de agosto de 1825, quando o Congresso da Florida proclamou a separação do Brasil e a união voluntária às Províncias Unidas do Rio da Prata."
+      },
+      {
+        "name": "Dia da Independência da Bielorrússia",
+        "description": "A Bielorrússia declarou formalmente a sua independência da União Soviética em 25 de agosto de 1991, embora a declaração de soberania fosse em 27 de julho de 1990."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Um rei que não sabe governar é um pastor que não sabe apascentar o seu rebanho.",
+      "author": "São Luís IX de França",
+      "context": "O rei santo de França, cuja festa se celebra hoje, era célebre por administrar pessoalmente a justiça debaixo de um carvalho em Vincennes, ouvindo diretamente os seus súditos. Esta citação reflete a sua conceção do poder como serviço ao povo."
+    },
+    "motivationalQuote": {
+      "text": "Conhecimento é poder.",
+      "author": "Francis Bacon"
+    },
+    "births": [
+      {
+        "name": "Ivan, o Terrível",
+        "description": "Primeiro czar da Rússia (1530–1584), que unificou e expandiu o território russo. Célebre pelas suas vitórias militares e pelos episódios de extrema crueldade que marcaram o seu reinado, incluindo o massacre da cidade de Novgorod.",
+        "year": 1530
+      },
+      {
+        "name": "Bret Harte",
+        "description": "Escritor americano (1836–1902) e pioneiro do realismo regional americano. Os seus contos ambientados na febre do ouro da Califórnia — como A Sorte do Roaring Camp — fundaram o género literário do Velho Oeste.",
+        "year": 1836
+      },
+      {
+        "name": "Sean Connery",
+        "description": "Ator escocês (1930–2020), vencedor do Oscar por Os Intocáveis (1987) e o James Bond cinematográfico original. Considerado um dos atores mais carismáticos da história do cinema.",
+        "year": 1930
+      }
+    ],
+    "events": [
+      {
+        "title": "Libertação de Paris — Segunda Guerra Mundial",
+        "description": "Em 25 de agosto de 1944, as forças francesas livres do general Leclerc, apoiadas por tropas americanas, libertaram Paris da ocupação alemã. O general De Gaulle entrou triunfalmente na cidade nesse mesmo dia.",
+        "year": 1944
+      },
+      {
+        "title": "Voyager 2 sobrevoa Neptuno",
+        "description": "Em 25 de agosto de 1989, a sonda Voyager 2 realizou a sua aproximação máxima a Neptuno, sendo o único objeto feito pelo homem a visitar o planeta mais distante do Sistema Solar.",
+        "year": 1989
+      },
+      {
+        "title": "Thomas Edison visita a Torre Eiffel",
+        "description": "Em 25 de agosto de 1889, Thomas Edison visitou a Torre Eiffel e ficou tão impressionado que ofereceu um fonógrafo ao seu construtor Gustave Eiffel — um encontro simbólico entre dois ícones da era industrial.",
+        "year": 1889
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Lluís IX de França",
+        "type": "Rei",
+        "description": "Rei de França (1214–1270), el model del monarca cristià medieval. Va impulsar la construcció de la Sainte-Chapelle de París, va liderar la Setena i la Vuitena Croades i va ser cèlebre per la seva justícia i pietat. Canonitzat el 1297. Patró dels terciaris franciscans, els barbers i els constructors."
+      },
+      {
+        "name": "Sant Josep de Calassanç",
+        "type": "Prevere i Fundador",
+        "description": "Sacerdot aragonès (1557–1648), fundador de les Escoles Pies (Escolapis), la primera xarxa d'escoles gratuïtes d'Europa per a nens pobres. Canonitzat el 1767. Patró universal de les escoles primàries i populars."
+      },
+      {
+        "name": "Santa Genoveva Torres Morales",
+        "type": "Verge i Fundadora",
+        "description": "Fundadora espanyola (1870–1956) de la Congregació del Sagrat Cor de Jesús i els Sants Àngels (Angelines), dedicada a l'atenció de dones soles i necessitades. Canonitzada per Joan Pau II el 2003."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència de l'Uruguai",
+        "description": "L'Uruguai celebra la signatura de la Declaració d'Independència el 25 d'agost de 1825, quan el Congrés de la Florida va proclamar la separació del Brasil i la unió voluntària a les Províncies Unides del Riu de la Plata."
+      },
+      {
+        "name": "Dia de la Independència de Bielorússia",
+        "description": "Bielorússia va declarar formalment la seva independència de la Unió Soviètica el 25 d'agost de 1991, tot i que la declaració de sobirania va ser el 27 de juliol de 1990."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Un rei que no sap governar és un pastor que no sap pasturar el seu ramat.",
+      "author": "Sant Lluís IX de França",
+      "context": "El rei sant de França, la festa del qual se celebra avui, era cèlebre per administrar personalment la justícia sota un roure a Vincennes, escoltant directament els seus súbdits. Aquesta cita reflecteix la seva concepció del poder com a servei al poble."
+    },
+    "motivationalQuote": {
+      "text": "El coneixement és poder.",
+      "author": "Francis Bacon"
+    },
+    "births": [
+      {
+        "name": "Ivan el Terrible",
+        "description": "Primer tsar de Rússia (1530–1584), que va unificar i expandir el territori rus. Cèlebre per les seves victòries militars i els episodis de crueltat extrema que van marcar el seu regnat, inclosa la massacre de la ciutat de Nóvgorod.",
+        "year": 1530
+      },
+      {
+        "name": "Bret Harte",
+        "description": "Escriptor americà (1836–1902) i pioner del realisme regional americà. Els seus contes ambientats en la febre de l'or californiana — com La sort del Roaring Camp — van fundar el gènere literari del Far West.",
+        "year": 1836
+      },
+      {
+        "name": "Sean Connery",
+        "description": "Actor escocès (1930–2020), guanyador de l'Oscar per Els Intocables (1987) i el James Bond cinematogràfic original. Considerat un dels actors més carismàtics de la història del cinema.",
+        "year": 1930
+      }
+    ],
+    "events": [
+      {
+        "title": "Alliberament de París — Segona Guerra Mundial",
+        "description": "El 25 d'agost de 1944, les forces franceses lliures del general Leclerc, recolzades per tropes americanes, van alliberar París de l'ocupació alemanya. El general De Gaulle va entrar triomfalment a la ciutat aquell mateix dia.",
+        "year": 1944
+      },
+      {
+        "title": "Voyager 2 sobrevola Neptú",
+        "description": "El 25 d'agost de 1989, la sonda Voyager 2 va realitzar la seva aproximació màxima a Neptú, sent l'únic objecte fabricat per humans que ha visitat el planeta més llunyà del Sistema Solar.",
+        "year": 1989
+      },
+      {
+        "title": "Thomas Edison visita la Torre Eiffel",
+        "description": "El 25 d'agost de 1889, Thomas Edison va visitar la Torre Eiffel i va quedar tan impressionat que va oferir un fonògraf al seu constructor Gustave Eiffel — una trobada simbòlica entre dues icones de l'era industrial.",
+        "year": 1889
+      }
+    ]
+  }
+}

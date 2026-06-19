@@ -1,0 +1,271 @@
+{
+  "date": "2025-07-20",
+  "es": {
+    "saints": [
+      {
+        "name": "San Elías el Profeta",
+        "type": "Profeta bíblico",
+        "description": "Profeta del siglo IX a.C. que combatió la idolatría en Israel durante el reinado de Acab y Jezabel. Según la Biblia, fue arrebatado al cielo en un carro de fuego. Es venerado en el catolicismo, la ortodoxia y el islam como figura de transformación espiritual."
+      },
+      {
+        "name": "San Sabino de Spoleto",
+        "type": "Obispo y Mártir",
+        "description": "Obispo de Spoleto (Umbría, Italia) que murió mártir durante la persecución de Maximiano a finales del siglo III. Sus reliquias se veneran en la catedral de Spoleto desde la Edad Media."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de Colombia",
+        "description": "Colombia celebra la proclamación de la independencia del Imperio Español el 20 de julio de 1810, cuando el Cabildo de Bogotá rechazó la autoridad del virrey Amar y Borbón. Es la fiesta nacional más importante del país."
+      },
+      {
+        "name": "Día Internacional del Ajedrez",
+        "description": "Conmemorado el 20 de julio desde 1966, coincidiendo con la fundación de la Federación Internacional de Ajedrez (FIDE) en 1924. El ajedrez fue declarado 'deporte de la mente' por el Comité Olímpico Internacional."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Un pequeño paso para el hombre, un gran salto para la humanidad.",
+      "author": "Neil Armstrong",
+      "context": "El 20 de julio de 1969, Neil Armstrong fue el primer ser humano en pisar la Luna durante la misión Apollo 11. Sus palabras al descender del módulo lunar se convirtieron en una de las frases más célebres del siglo XX."
+    },
+    "motivationalQuote": {
+      "text": "Cuanto más trabajo, más suerte tengo.",
+      "author": "Thomas Jefferson"
+    },
+    "births": [
+      {
+        "name": "Petrarca",
+        "description": "Poeta y humanista italiano del siglo XIV (Francisco Petrarca, 1304–1374), considerado el primer humanista europeo. Autor del Cancionero, su colección de poemas dedicados a Laura, influyó en toda la lírica occidental posterior.",
+        "year": 1304
+      },
+      {
+        "name": "Bruce Lee",
+        "description": "Actor, director y artista marcial estadounidense-hongkonés, símbolo global de las artes marciales y del cine de acción asiático. Fundador del sistema de combate Jeet Kune Do y protagonista de películas icónicas como Furia Oriental.",
+        "year": 1940
+      },
+      {
+        "name": "Carlos Santana",
+        "description": "Guitarrista mexicano-americano fundador del grupo Santana, que fusiona el rock, el blues y la música latina. Ganó nueve premios Grammy en 2000 con el álbum Supernatural, récord en una sola noche.",
+        "year": 1947
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer alunizaje de la historia",
+        "description": "El 20 de julio de 1969, a las 20:17 UTC, el módulo lunar Eagle del Apollo 11 aterrizó en el Mar de la Tranquilidad. Seis horas después, Neil Armstrong fue el primer ser humano en pisar la superficie lunar.",
+        "year": 1969
+      },
+      {
+        "title": "Vikingo 1 llega a Marte",
+        "description": "El 20 de julio de 1976, la sonda Viking 1 de la NASA aterrizó en Marte, siendo la primera vez en la historia que una nave espacial posó con éxito en el planeta rojo y envió imágenes desde su superficie.",
+        "year": 1976
+      },
+      {
+        "title": "Colombia proclama su independencia",
+        "description": "El 20 de julio de 1810, el Cabildo de Bogotá rechazó la autoridad del virrey y proclamó la independencia de la Nueva Granada del Imperio Español, iniciando el proceso que llevaría a la independencia definitiva de Colombia.",
+        "year": 1810
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Elijah the Prophet",
+        "type": "Biblical Prophet",
+        "description": "A 9th-century BC prophet who combated idolatry in Israel during the reign of Ahab and Jezebel. According to the Bible, he was taken up to heaven in a chariot of fire. He is venerated in Catholicism, Orthodoxy, and Islam as a figure of spiritual transformation."
+      },
+      {
+        "name": "Saint Sabinus of Spoleto",
+        "type": "Bishop and Martyr",
+        "description": "Bishop of Spoleto (Umbria, Italy) who died as a martyr during the persecution of Maximian at the end of the 3rd century. His relics have been venerated in Spoleto Cathedral since the Middle Ages."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Independence Day of Colombia",
+        "description": "Colombia celebrates the proclamation of independence from the Spanish Empire on 20 July 1810, when the Cabildo of Bogotá rejected the authority of Viceroy Amar y Borbón. It is the country's most important national holiday."
+      },
+      {
+        "name": "International Chess Day",
+        "description": "Observed on 20 July since 1966, coinciding with the founding of the International Chess Federation (FIDE) in 1924. Chess was declared a 'sport of the mind' by the International Olympic Committee."
+      }
+    ],
+    "historicalQuote": {
+      "text": "That's one small step for man, one giant leap for mankind.",
+      "author": "Neil Armstrong",
+      "context": "On 20 July 1969, Neil Armstrong became the first human to walk on the Moon during the Apollo 11 mission. His words as he descended from the lunar module became one of the most celebrated phrases of the 20th century."
+    },
+    "motivationalQuote": {
+      "text": "The harder I work, the more luck I seem to have.",
+      "author": "Thomas Jefferson"
+    },
+    "births": [
+      {
+        "name": "Petrarch",
+        "description": "Italian poet and humanist of the 14th century (Francesco Petrarca, 1304–1374), considered the first European humanist. Author of the Canzoniere, his collection of poems dedicated to Laura, he influenced all subsequent Western lyric poetry.",
+        "year": 1304
+      },
+      {
+        "name": "Bruce Lee",
+        "description": "American-Hong Kong actor, director, and martial artist, a global symbol of martial arts and Asian action cinema. Founder of the Jeet Kune Do combat system and star of iconic films such as Fist of Fury.",
+        "year": 1940
+      },
+      {
+        "name": "Carlos Santana",
+        "description": "Mexican-American guitarist and founder of the band Santana, which fuses rock, blues, and Latin music. He won nine Grammy Awards in 2000 with the album Supernatural, a record for a single night.",
+        "year": 1947
+      }
+    ],
+    "events": [
+      {
+        "title": "First Moon landing in history",
+        "description": "On 20 July 1969, at 20:17 UTC, the Apollo 11 lunar module Eagle landed in the Sea of Tranquility. Six hours later, Neil Armstrong became the first human being to walk on the lunar surface.",
+        "year": 1969
+      },
+      {
+        "title": "Viking 1 lands on Mars",
+        "description": "On 20 July 1976, NASA's Viking 1 probe landed on Mars — the first time in history that a spacecraft successfully landed on the red planet and transmitted images from its surface.",
+        "year": 1976
+      },
+      {
+        "title": "Colombia proclaims independence",
+        "description": "On 20 July 1810, the Cabildo of Bogotá rejected the viceroy's authority and proclaimed the independence of New Granada from the Spanish Empire, beginning the process that would lead to Colombia's definitive independence.",
+        "year": 1810
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Elias Profeta",
+        "type": "Profeta bíblico",
+        "description": "Profeta do século IX a.C. que combateu a idolatria em Israel durante o reinado de Acab e Jezabel. Segundo a Bíblia, foi arrebatado ao céu num carro de fogo. É venerado no catolicismo, na ortodoxia e no islão como figura de transformação espiritual."
+      },
+      {
+        "name": "São Sabino de Espoleto",
+        "type": "Bispo e Mártir",
+        "description": "Bispo de Espoleto (Úmbria, Itália) que morreu mártir durante a perseguição de Maximiano no final do século III. As suas relíquias são veneradas na catedral de Espoleto desde a Idade Média."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência da Colômbia",
+        "description": "A Colômbia celebra a proclamação da independência do Império Espanhol em 20 de julho de 1810, quando o Cabildo de Bogotá rejeitou a autoridade do vice-rei Amar y Borbón. É o feriado nacional mais importante do país."
+      },
+      {
+        "name": "Dia Internacional do Xadrez",
+        "description": "Comemorado em 20 de julho desde 1966, coincidindo com a fundação da Federação Internacional de Xadrez (FIDE) em 1924. O xadrez foi declarado 'desporto da mente' pelo Comitê Olímpico Internacional."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Um pequeno passo para o homem, um grande salto para a humanidade.",
+      "author": "Neil Armstrong",
+      "context": "Em 20 de julho de 1969, Neil Armstrong foi o primeiro ser humano a pisar na Lua durante a missão Apollo 11. As suas palavras ao descer do módulo lunar tornaram-se uma das frases mais célebres do século XX."
+    },
+    "motivationalQuote": {
+      "text": "Quanto mais trabalho, mais sorte parece que tenho.",
+      "author": "Thomas Jefferson"
+    },
+    "births": [
+      {
+        "name": "Petrarca",
+        "description": "Poeta e humanista italiano do século XIV (Francesco Petrarca, 1304–1374), considerado o primeiro humanista europeu. Autor do Cancioneiro, a sua coleção de poemas dedicados a Laura influenciou toda a lírica ocidental posterior.",
+        "year": 1304
+      },
+      {
+        "name": "Bruce Lee",
+        "description": "Ator, diretor e artista marcial americano-hongkonguês, símbolo global das artes marciais e do cinema de ação asiático. Fundador do sistema de combate Jeet Kune Do e protagonista de filmes icônicos como Punho de Fúria.",
+        "year": 1940
+      },
+      {
+        "name": "Carlos Santana",
+        "description": "Guitarrista mexicano-americano fundador do grupo Santana, que funde o rock, o blues e a música latina. Ganhou nove prêmios Grammy em 2000 com o álbum Supernatural, um recorde numa única noite.",
+        "year": 1947
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeira alunagem da história",
+        "description": "Em 20 de julho de 1969, às 20h17 UTC, o módulo lunar Eagle do Apollo 11 pousou no Mar da Tranquilidade. Seis horas depois, Neil Armstrong tornou-se o primeiro ser humano a pisar a superfície lunar.",
+        "year": 1969
+      },
+      {
+        "title": "Viking 1 pousa em Marte",
+        "description": "Em 20 de julho de 1976, a sonda Viking 1 da NASA pousou em Marte — a primeira vez na história em que uma nave espacial poisou com sucesso no planeta vermelho e transmitiu imagens da sua superfície.",
+        "year": 1976
+      },
+      {
+        "title": "Colômbia proclama a independência",
+        "description": "Em 20 de julho de 1810, o Cabildo de Bogotá rejeitou a autoridade do vice-rei e proclamou a independência da Nova Granada do Império Espanhol, iniciando o processo que levaria à independência definitiva da Colômbia.",
+        "year": 1810
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Elies Profeta",
+        "type": "Profeta bíblic",
+        "description": "Profeta del segle IX aC que va combatre la idolatria a Israel durant el regnat d'Acab i Jezabel. Segons la Bíblia, va ser arravat al cel en un carro de foc. És venerat en el catolicisme, l'ortodòxia i l'islam com a figura de transformació espiritual."
+      },
+      {
+        "name": "Sant Sabí d'Espoleto",
+        "type": "Bisbe i Màrtir",
+        "description": "Bisbe d'Espoleto (Úmbria, Itàlia) que va morir màrtir durant la persecució de Maximià a finals del segle III. Les seves relíquies es veneren a la catedral d'Espoleto des de l'Edat Mitjana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència de Colòmbia",
+        "description": "Colòmbia celebra la proclamació de la independència de l'Imperi Espanyol el 20 de juliol de 1810, quan el Cabildo de Bogotà va rebutjar l'autoritat del virrei Amar y Borbón. És la festa nacional més important del país."
+      },
+      {
+        "name": "Dia Internacional dels Escacs",
+        "description": "Commemorat el 20 de juliol des de 1966, coincidint amb la fundació de la Federació Internacional d'Escacs (FIDE) el 1924. Els escacs van ser declarats 'esport de la ment' pel Comitè Olímpic Internacional."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Un petit pas per a un home, un gran salt per a la humanitat.",
+      "author": "Neil Armstrong",
+      "context": "El 20 de juliol de 1969, Neil Armstrong va ser el primer ésser humà a trepitjar la Lluna durant la missió Apollo 11. Les seves paraules en baixar del mòdul lunar es van convertir en una de les frases més cèlebres del segle XX."
+    },
+    "motivationalQuote": {
+      "text": "Com més treballo, més sort sembla que tinc.",
+      "author": "Thomas Jefferson"
+    },
+    "births": [
+      {
+        "name": "Petrarca",
+        "description": "Poeta i humanista italià del segle XIV (Francesco Petrarca, 1304–1374), considerat el primer humanista europeu. Autor del Cançoner, la seva col·lecció de poemes dedicats a Laura va influir en tota la lírica occidental posterior.",
+        "year": 1304
+      },
+      {
+        "name": "Bruce Lee",
+        "description": "Actor, director i artista marcial americà-hongkonguès, símbol global de les arts marcials i del cinema d'acció asiàtic. Fundador del sistema de combat Jeet Kune Do i protagonista de pel·lícules icòniques com Furor Orental.",
+        "year": 1940
+      },
+      {
+        "name": "Carlos Santana",
+        "description": "Guitarrista mexicà-americà fundador del grup Santana, que fusiona el rock, el blues i la música llatina. Va guanyar nou premis Grammy el 2000 amb l'àlbum Supernatural, un rècord en una sola nit.",
+        "year": 1947
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera allunatge de la història",
+        "description": "El 20 de juliol de 1969, a les 20:17 UTC, el mòdul lunar Eagle de l'Apollo 11 va aterrar al Mar de la Tranquil·litat. Sis hores després, Neil Armstrong va ser el primer ésser humà a trepitjar la superfície lunar.",
+        "year": 1969
+      },
+      {
+        "title": "Viking 1 aterra a Mart",
+        "description": "El 20 de juliol de 1976, la sonda Viking 1 de la NASA va aterrar a Mart — la primera vegada en la història que una nau espacial va aterrar amb èxit al planeta vermell i va transmetre imatges des de la seva superfície.",
+        "year": 1976
+      },
+      {
+        "title": "Colòmbia proclama la independència",
+        "description": "El 20 de juliol de 1810, el Cabildo de Bogotà va rebutjar l'autoritat del virrei i va proclamar la independència de la Nova Granada de l'Imperi Espanyol, iniciant el procés que portaria a la independència definitiva de Colòmbia.",
+        "year": 1810
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-01",
+  "es": {
+    "saints": [
+      {
+        "name": "Solemnidad de Todos los Santos",
+        "type": "Solemnidad",
+        "description": "Festividad de la Iglesia Católica que honra a todos los santos, conocidos y desconocidos, que están en la presencia de Dios. Instituida universalmente por el papa Gregorio IV en el año 835."
+      },
+      {
+        "name": "San Benigno de Dijon",
+        "type": "Mártir",
+        "description": "Sacerdote discípulo de San Policarpo que evangelizó la Borgoña en el siglo II y fue martirizado en Dijon durante la persecución de Marco Aurelio."
+      },
+      {
+        "name": "Santa María de la Providencia",
+        "type": "Virgen",
+        "description": "Religiosa italiana del siglo XIX que fundó las Auxiliadoras de las Almas del Purgatorio, dedicada a ayudar a los moribundos y a las almas del purgatorio."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de Todos los Santos",
+        "description": "Festividad civil y religiosa en muchos países hispanohablantes y europeos. En México se celebra como el primer día del Día de Muertos, con ofrendas y visitas a cementerios."
+      },
+      {
+        "name": "Día Mundial del Veganismo",
+        "description": "Jornada internacional proclamada en 1994 para concienciar sobre los beneficios del veganismo para los animales, el medio ambiente y la salud humana."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Los muertos no están muertos mientras los recordamos.",
+      "author": "Gabriel García Márquez",
+      "context": "El escritor colombiano, Premio Nobel de Literatura, expresó a través de su obra cómo la memoria mantiene vivos a quienes ya no están, idea central de festividades como Todos los Santos."
+    },
+    "motivationalQuote": {
+      "text": "La santidad no es un lujo para pocos, sino una necesidad simple para todos.",
+      "author": "Santa Teresa de Calcuta"
+    },
+    "births": [
+      {
+        "name": "Stephen Crane",
+        "description": "Novelista y poeta estadounidense, autor de La roja insignia del valor (1895), pionero del naturalismo literario norteamericano.",
+        "year": 1871
+      },
+      {
+        "name": "Aishwarya Rai",
+        "description": "Actriz y modelo india, exreina de belleza (Miss Mundo 1994), una de las actrices más reconocidas de Bollywood a nivel internacional.",
+        "year": 1973
+      },
+      {
+        "name": "Larry Flynt",
+        "description": "Editor estadounidense fundador de la revista Hustler, figura polémica que protagonizó importantes batallas legales por la libertad de expresión en Estados Unidos.",
+        "year": 1942
+      }
+    ],
+    "events": [
+      {
+        "title": "Explosión del volcán Krakatoa",
+        "description": "El volcán Krakatoa en Indonesia entró en una nueva fase eruptiva, en el contexto de la catástrofe de 1883 que provocó el mayor tsunami registrado hasta entonces y cambios climáticos globales.",
+        "year": 1883
+      },
+      {
+        "title": "Se inaugura la Galería de los Uffizi",
+        "description": "Los Uffizi de Florencia abrieron sus puertas al público, convirtiéndose en uno de los museos de arte más importantes del mundo con obras de Botticelli, Leonardo y Miguel Ángel.",
+        "year": 1765
+      },
+      {
+        "title": "Estreno de Don Giovanni de Mozart",
+        "description": "Wolfgang Amadeus Mozart estrenó en Praga su ópera Don Giovanni, considerada una de las obras maestras absolutas de la historia de la música.",
+        "year": 1787
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Solemnity of All Saints",
+        "type": "Solemnity",
+        "description": "Catholic feast honouring all saints, known and unknown, who dwell in God's presence. Established universally by Pope Gregory IV in 835."
+      },
+      {
+        "name": "Saint Benignus of Dijon",
+        "type": "Martyr",
+        "description": "A priest and disciple of Saint Polycarp who evangelised Burgundy in the 2nd century and was martyred in Dijon during the persecution of Marcus Aurelius."
+      },
+      {
+        "name": "Saint Mary of Providence",
+        "type": "Virgin",
+        "description": "19th-century Italian religious who founded the Helpers of the Holy Souls, dedicated to assisting the dying and the souls in purgatory."
+      }
+    ],
+    "observances": [
+      {
+        "name": "All Saints' Day",
+        "description": "A civil and religious holiday in many Spanish-speaking and European countries. In Mexico it marks the first day of Día de Muertos, with offerings and cemetery visits."
+      },
+      {
+        "name": "World Vegan Day",
+        "description": "International day proclaimed in 1994 to raise awareness of the benefits of veganism for animals, the environment, and human health."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The dead are not dead as long as we remember them.",
+      "author": "Gabriel García Márquez",
+      "context": "The Colombian Nobel Prize-winning author expressed throughout his work how memory keeps the departed alive — a central idea of feasts like All Saints' Day."
+    },
+    "motivationalQuote": {
+      "text": "Holiness is not a luxury for the few, but a simple necessity for all.",
+      "author": "Saint Teresa of Calcutta"
+    },
+    "births": [
+      {
+        "name": "Stephen Crane",
+        "description": "American novelist and poet, author of The Red Badge of Courage (1895), a pioneer of American literary naturalism.",
+        "year": 1871
+      },
+      {
+        "name": "Aishwarya Rai",
+        "description": "Indian actress and model, former beauty queen (Miss World 1994), one of Bollywood's most internationally recognised stars.",
+        "year": 1973
+      },
+      {
+        "name": "Larry Flynt",
+        "description": "American publisher and founder of Hustler magazine, a controversial figure who fought landmark legal battles for freedom of expression in the United States.",
+        "year": 1942
+      }
+    ],
+    "events": [
+      {
+        "title": "Krakatoa volcano eruption",
+        "description": "The Krakatoa volcano in Indonesia entered a new eruptive phase within the broader 1883 catastrophe, which produced the largest tsunami recorded at the time and caused global climate changes.",
+        "year": 1883
+      },
+      {
+        "title": "Uffizi Gallery opens to the public",
+        "description": "The Uffizi in Florence opened its doors to the public, becoming one of the world's most important art museums, housing works by Botticelli, Leonardo, and Michelangelo.",
+        "year": 1765
+      },
+      {
+        "title": "Premiere of Mozart's Don Giovanni",
+        "description": "Wolfgang Amadeus Mozart premiered his opera Don Giovanni in Prague, considered one of the absolute masterpieces in the history of music.",
+        "year": 1787
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Solenidade de Todos os Santos",
+        "type": "Solenidade",
+        "description": "Festa católica em honra de todos os santos, conhecidos e desconhecidos, que habitam na presença de Deus. Estabelecida universalmente pelo papa Gregório IV em 835."
+      },
+      {
+        "name": "São Benigno de Dijon",
+        "type": "Mártir",
+        "description": "Sacerdote e discípulo de São Policarpo que evangelizou a Borgonha no século II e foi martirizado em Dijon durante a perseguição de Marco Aurélio."
+      },
+      {
+        "name": "Santa Maria da Providência",
+        "type": "Virgem",
+        "description": "Religiosa italiana do século XIX que fundou as Auxiliadoras das Almas do Purgatório, dedicada a ajudar os moribundos e as almas do purgatório."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Todos os Santos",
+        "description": "Feriado civil e religioso em muitos países de língua espanhola e europeus. No México marca o primeiro dia do Día de Muertos, com oferendas e visitas a cemitérios."
+      },
+      {
+        "name": "Dia Mundial do Veganismo",
+        "description": "Jornada internacional proclamada em 1994 para conscientizar sobre os benefícios do veganismo para os animais, o meio ambiente e a saúde humana."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Os mortos não estão mortos enquanto os lembramos.",
+      "author": "Gabriel García Márquez",
+      "context": "O escritor colombiano, Prêmio Nobel de Literatura, expressou ao longo de sua obra como a memória mantém vivos os que já se foram — ideia central de festas como Todos os Santos."
+    },
+    "motivationalQuote": {
+      "text": "A santidade não é um luxo para poucos, mas uma necessidade simples para todos.",
+      "author": "Santa Teresa de Calcutá"
+    },
+    "births": [
+      {
+        "name": "Stephen Crane",
+        "description": "Romancista e poeta americano, autor de A Insígnia Vermelha da Coragem (1895), pioneiro do naturalismo literário norte-americano.",
+        "year": 1871
+      },
+      {
+        "name": "Aishwarya Rai",
+        "description": "Atriz e modelo indiana, ex-rainha da beleza (Miss Mundo 1994), uma das estrelas de Bollywood mais reconhecidas internacionalmente.",
+        "year": 1973
+      },
+      {
+        "name": "Larry Flynt",
+        "description": "Editor americano e fundador da revista Hustler, figura controversa que travou batalhas jurídicas marcantes pela liberdade de expressão nos Estados Unidos.",
+        "year": 1942
+      }
+    ],
+    "events": [
+      {
+        "title": "Erupção do vulcão Krakatoa",
+        "description": "O vulcão Krakatoa na Indonésia entrou em nova fase eruptiva no âmbito da catástrofe de 1883, que provocou o maior tsunami registado até então e mudanças climáticas globais.",
+        "year": 1883
+      },
+      {
+        "title": "Inauguração da Galeria dos Uffizi",
+        "description": "Os Uffizi de Florença abriram as portas ao público, tornando-se um dos museus de arte mais importantes do mundo, com obras de Botticelli, Leonardo e Miguel Ângelo.",
+        "year": 1765
+      },
+      {
+        "title": "Estreia de Don Giovanni de Mozart",
+        "description": "Wolfgang Amadeus Mozart estreou em Praga a sua ópera Don Giovanni, considerada uma das obras-primas absolutas da história da música.",
+        "year": 1787
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Solemnitat de Tots els Sants",
+        "type": "Solemnitat",
+        "description": "Festa catòlica en honor de tots els sants, coneguts i desconeguts, que habiten en la presència de Déu. Establerta universalment pel papa Gregori IV l'any 835."
+      },
+      {
+        "name": "Sant Benignes de Dijon",
+        "type": "Màrtir",
+        "description": "Sacerdot i deixeble de Sant Policarp que va evangelitzar Borgonya al segle II i va ser martiritzat a Dijon durant la persecució de Marc Aureli."
+      },
+      {
+        "name": "Santa Maria de la Providència",
+        "type": "Verge",
+        "description": "Religiosa italiana del segle XIX que va fundar les Auxiliadores de les Ànimes del Purgatori, dedicada a ajudar els moribunds i les ànimes del purgatori."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Tots els Sants",
+        "description": "Festivitat civil i religiosa en molts països hispanòfons i europeus. A Mèxic marca el primer dia del Dia dels Morts, amb ofrenes i visites als cementiris."
+      },
+      {
+        "name": "Dia Mundial del Veganisme",
+        "description": "Jornada internacional proclamada el 1994 per conscienciar sobre els beneficis del veganisme per als animals, el medi ambient i la salut humana."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Els morts no estan morts mentre els recordem.",
+      "author": "Gabriel García Márquez",
+      "context": "L'escriptor colombià, Premi Nobel de Literatura, va expressar al llarg de la seva obra com la memòria manté vius els qui ja no hi són — idea central de festivitats com Tots els Sants."
+    },
+    "motivationalQuote": {
+      "text": "La santedat no és un luxe per a pocs, sinó una necessitat simple per a tots.",
+      "author": "Santa Teresa de Calcuta"
+    },
+    "births": [
+      {
+        "name": "Stephen Crane",
+        "description": "Novel·lista i poeta americà, autor de La insígnia roja del valor (1895), pioner del naturalisme literari nord-americà.",
+        "year": 1871
+      },
+      {
+        "name": "Aishwarya Rai",
+        "description": "Actriu i model índia, exreina de bellesa (Miss Món 1994), una de les estrelles de Bollywood més reconegudes internacionalment.",
+        "year": 1973
+      },
+      {
+        "name": "Larry Flynt",
+        "description": "Editor americà i fundador de la revista Hustler, figura controvertida que va protagonitzar batalles legals transcendents per la llibertat d'expressió als Estats Units.",
+        "year": 1942
+      }
+    ],
+    "events": [
+      {
+        "title": "Erupció del volcà Krakatoa",
+        "description": "El volcà Krakatoa a Indonèsia va entrar en una nova fase eruptiva en el marc de la catàstrofe de 1883, que va provocar el major tsunami registrat fins aleshores i canvis climàtics globals.",
+        "year": 1883
+      },
+      {
+        "title": "Inauguració de la Galeria dels Uffizi",
+        "description": "Els Uffizi de Florència van obrir les portes al públic, convertint-se en un dels museus d'art més importants del món, amb obres de Botticelli, Leonardo i Miquel Àngel.",
+        "year": 1765
+      },
+      {
+        "title": "Estrena del Don Giovanni de Mozart",
+        "description": "Wolfgang Amadeus Mozart va estrenar a Praga la seva òpera Don Giovanni, considerada una de les obres mestres absolutes de la història de la música.",
+        "year": 1787
+      }
+    ]
+  }
+}

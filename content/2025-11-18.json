@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-18",
+  "es": {
+    "saints": [
+      {
+        "name": "Dedicación de las Basílicas de San Pedro y San Pablo",
+        "type": "Festividad",
+        "description": "La Iglesia conmemora la dedicación de las dos grandes basílicas apostólicas de Roma: San Pedro en el Vaticano y San Pablo Extramuros, monumentos espirituales y artísticos de la cristiandad."
+      },
+      {
+        "name": "San Román de Antioquía",
+        "type": "Mártir",
+        "description": "Diácono antioqueno martirizado en el año 303 durante la persecución de Diocleciano. Su predicación antes de morir convirtió al joven Barulas, que fue ejecutado junto a él."
+      },
+      {
+        "name": "Beata Philippa Mareri",
+        "type": "Virgen",
+        "description": "Religiosa franciscana italiana del siglo XIII, fundadora de uno de los primeros monasterios de clarisas en Italia central. Beatificada en 1806."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Filosofía (UNESCO)",
+        "description": "La UNESCO celebra este día para promover la reflexión filosófica como herramienta para abordar los grandes desafíos de la humanidad y fomentar el diálogo intercultural."
+      },
+      {
+        "name": "Día del Circo Europeo",
+        "description": "Jornada que celebra el arte del circo y sus tradiciones en Europa, una forma de expresión artística que combina danza, acrobacia, teatro y música."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Los hombres pasan, las ideas permanecen.",
+      "author": "Victor Hugo",
+      "context": "El escritor francés, nacido el 26 de febrero de 1802, resumió en esta frase su convicción de que las grandes ideas transforman la historia mucho más allá de la vida de quienes las formulan."
+    },
+    "motivationalQuote": {
+      "text": "La diferencia entre lo ordinario y lo extraordinario es ese pequeño 'extra'.",
+      "author": "Jimmy Johnson"
+    },
+    "births": [
+      {
+        "name": "Carl Maria von Weber",
+        "description": "Compositor alemán pionero del Romanticismo musical, autor de la ópera El cazador furtivo (Der Freischütz), considerada la primera gran ópera alemana del siglo XIX.",
+        "year": 1786
+      },
+      {
+        "name": "Marcel Proust",
+        "description": "Novelista francés autor de En busca del tiempo perdido, obra maestra de la literatura universal en siete volúmenes que explora la memoria, el tiempo y la identidad.",
+        "year": 1871
+      },
+      {
+        "name": "Owen Wilson",
+        "description": "Actor y guionista estadounidense conocido por sus colaboraciones con Wes Anderson y comedias de Hollywood como Zoolander, Noche en el museo y Midnight in Paris.",
+        "year": 1968
+      }
+    ],
+    "events": [
+      {
+        "title": "Mickey Mouse debuta en Steamboat Willie",
+        "description": "Walt Disney presentó el cortometraje Steamboat Willie, el primer dibujo animado sonoro sincronizado de la historia y el debut oficial de Mickey Mouse, que se convertiría en el icono más reconocible de la cultura pop mundial.",
+        "year": 1928
+      },
+      {
+        "title": "Masacre de Jonestown",
+        "description": "En la colonia del Templo del Pueblo en Jonestown (Guyana), 918 miembros de la secta del reverendo Jim Jones murieron en el suicidio colectivo más numeroso de la historia moderna.",
+        "year": 1978
+      },
+      {
+        "title": "Se funda la Asociación Europea de Libre Comercio (AELC)",
+        "description": "Austria, Dinamarca, Noruega, Portugal, Suecia, Suiza y el Reino Unido fundaron la AELC (EFTA) en Estocolmo como alternativa a la Comunidad Económica Europea.",
+        "year": 1959
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Dedication of the Basilicas of Saints Peter and Paul",
+        "type": "Feast",
+        "description": "The Church commemorates the dedication of the two great apostolic basilicas of Rome: Saint Peter's in the Vatican and Saint Paul Outside the Walls — spiritual and artistic monuments of Christendom."
+      },
+      {
+        "name": "Saint Roman of Antioch",
+        "type": "Martyr",
+        "description": "Antiochene deacon martyred in 303 during the Diocletianic Persecution. His preaching before death converted the young Barulas, who was executed alongside him."
+      },
+      {
+        "name": "Blessed Philippa Mareri",
+        "type": "Virgin",
+        "description": "13th-century Italian Franciscan nun, founder of one of the first Poor Clares monasteries in central Italy. Beatified in 1806."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Philosophy Day (UNESCO)",
+        "description": "UNESCO celebrates this day to promote philosophical reflection as a tool for addressing humanity's greatest challenges and fostering intercultural dialogue."
+      },
+      {
+        "name": "European Circus Day",
+        "description": "A day celebrating the art of the circus and its traditions in Europe — an art form combining dance, acrobatics, theatre, and music."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Men pass; ideas remain.",
+      "author": "Victor Hugo",
+      "context": "The French writer summarised in this phrase his conviction that great ideas transform history far beyond the lifetimes of those who formulate them."
+    },
+    "motivationalQuote": {
+      "text": "The difference between ordinary and extraordinary is that little 'extra'.",
+      "author": "Jimmy Johnson"
+    },
+    "births": [
+      {
+        "name": "Carl Maria von Weber",
+        "description": "German composer and pioneer of musical Romanticism, author of the opera Der Freischütz (The Marksman), considered the first great German opera of the 19th century.",
+        "year": 1786
+      },
+      {
+        "name": "Marcel Proust",
+        "description": "French novelist and author of In Search of Lost Time, a seven-volume masterpiece of world literature exploring memory, time, and identity.",
+        "year": 1871
+      },
+      {
+        "name": "Owen Wilson",
+        "description": "American actor and screenwriter, known for his collaborations with Wes Anderson and Hollywood comedies such as Zoolander, Night at the Museum, and Midnight in Paris.",
+        "year": 1968
+      }
+    ],
+    "events": [
+      {
+        "title": "Mickey Mouse debuts in Steamboat Willie",
+        "description": "Walt Disney presented the short film Steamboat Willie, the first synchronised sound cartoon in history and the official debut of Mickey Mouse, who would become the world's most recognisable pop-culture icon.",
+        "year": 1928
+      },
+      {
+        "title": "Jonestown massacre",
+        "description": "At the Peoples Temple colony in Jonestown, Guyana, 918 members of Reverend Jim Jones's sect died in the largest mass suicide in modern history.",
+        "year": 1978
+      },
+      {
+        "title": "European Free Trade Association founded",
+        "description": "Austria, Denmark, Norway, Portugal, Sweden, Switzerland, and the United Kingdom founded EFTA in Stockholm as an alternative to the European Economic Community.",
+        "year": 1959
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Dedicação das Basílicas de São Pedro e São Paulo",
+        "type": "Festividade",
+        "description": "A Igreja comemora a dedicação das duas grandes basílicas apostólicas de Roma: São Pedro no Vaticano e São Paulo Extramuros — monumentos espirituais e artísticos da cristandade."
+      },
+      {
+        "name": "São Romano de Antioquia",
+        "type": "Mártir",
+        "description": "Diácono antioqueno martirizado em 303 durante a perseguição de Diocleciano. A sua pregação antes de morrer converteu o jovem Bárulas, que foi executado ao seu lado."
+      },
+      {
+        "name": "Beata Filipa Mareri",
+        "type": "Virgem",
+        "description": "Religiosa franciscana italiana do século XIII, fundadora de um dos primeiros mosteiros de clarissas na Itália central. Beatificada em 1806."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Filosofia (UNESCO)",
+        "description": "A UNESCO celebra este dia para promover a reflexão filosófica como ferramenta para enfrentar os grandes desafios da humanidade e fomentar o diálogo intercultural."
+      },
+      {
+        "name": "Dia do Circo Europeu",
+        "description": "Jornada que celebra a arte do circo e as suas tradições na Europa — uma forma de expressão artística que combina dança, acrobacia, teatro e música."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Os homens passam; as ideias permanecem.",
+      "author": "Victor Hugo",
+      "context": "O escritor francês resumiu nesta frase a sua convicção de que as grandes ideias transformam a história muito além da vida de quem as formula."
+    },
+    "motivationalQuote": {
+      "text": "A diferença entre o ordinário e o extraordinário é esse pequeno 'extra'.",
+      "author": "Jimmy Johnson"
+    },
+    "births": [
+      {
+        "name": "Carl Maria von Weber",
+        "description": "Compositor alemão e pioneiro do Romantismo musical, autor da ópera O Caçador Furtivo (Der Freischütz), considerada a primeira grande ópera alemã do século XIX.",
+        "year": 1786
+      },
+      {
+        "name": "Marcel Proust",
+        "description": "Romancista francês e autor de Em Busca do Tempo Perdido, obra-prima em sete volumes da literatura universal que explora a memória, o tempo e a identidade.",
+        "year": 1871
+      },
+      {
+        "name": "Owen Wilson",
+        "description": "Ator e roteirista americano, conhecido pelas suas colaborações com Wes Anderson e comédias de Hollywood como Zoolander, Uma Noite no Museu e Meia-Noite em Paris.",
+        "year": 1968
+      }
+    ],
+    "events": [
+      {
+        "title": "Mickey Mouse estreia em Steamboat Willie",
+        "description": "Walt Disney apresentou a curta-metragem Steamboat Willie, o primeiro desenho animado sonoro sincronizado da história e a estreia oficial de Mickey Mouse, que se tornaria o ícone da cultura pop mais reconhecível do mundo.",
+        "year": 1928
+      },
+      {
+        "title": "Massacre de Jonestown",
+        "description": "Na colônia do Templo do Povo em Jonestown (Guiana), 918 membros da seita do reverendo Jim Jones morreram no maior suicídio em massa da história moderna.",
+        "year": 1978
+      },
+      {
+        "title": "Fundação da Associação Europeia de Livre Comércio",
+        "description": "Áustria, Dinamarca, Noruega, Portugal, Suécia, Suíça e Reino Unido fundaram a AELC (EFTA) em Estocolmo como alternativa à Comunidade Económica Europeia.",
+        "year": 1959
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Dedicació de les Basíliques de Sant Pere i Sant Pau",
+        "type": "Festivitat",
+        "description": "L'Església commemora la dedicació de les dues grans basíliques apostòliques de Roma: Sant Pere al Vaticà i Sant Pau Extramurs — monuments espirituals i artístics de la cristiandat."
+      },
+      {
+        "name": "Sant Romà d'Antioquia",
+        "type": "Màrtir",
+        "description": "Diaca antioquè martiritzat l'any 303 durant la persecució de Dioclecià. La seva predicació abans de morir va convertir el jove Bàrules, que va ser executat al seu costat."
+      },
+      {
+        "name": "Beata Filipa Mareri",
+        "type": "Verge",
+        "description": "Religiosa franciscana italiana del segle XIII, fundadora d'un dels primers monestirs de clarisses a la Itàlia central. Beatificada el 1806."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Filosofia (UNESCO)",
+        "description": "La UNESCO celebra aquest dia per promoure la reflexió filosòfica com a eina per afrontar els grans reptes de la humanitat i fomentar el diàleg intercultural."
+      },
+      {
+        "name": "Dia del Circ Europeu",
+        "description": "Jornada que celebra l'art del circ i les seves tradicions a Europa — una forma d'expressió artística que combina dansa, acrobàcia, teatre i música."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Els homes passen; les idees romanen.",
+      "author": "Victor Hugo",
+      "context": "L'escriptor francès va resumir en aquesta frase la seva convicció que les grans idees transformen la història molt més enllà de la vida de qui les formula."
+    },
+    "motivationalQuote": {
+      "text": "La diferència entre l'ordinari i l'extraordinari és aquell petit 'extra'.",
+      "author": "Jimmy Johnson"
+    },
+    "births": [
+      {
+        "name": "Carl Maria von Weber",
+        "description": "Compositor alemany i pioner del Romanticisme musical, autor de l'òpera El caçador furtiu (Der Freischütz), considerada la primera gran òpera alemanya del segle XIX.",
+        "year": 1786
+      },
+      {
+        "name": "Marcel Proust",
+        "description": "Novel·lista francès i autor d'À la recerca del temps perdut, obra mestra en set volums de la literatura universal que explora la memòria, el temps i la identitat.",
+        "year": 1871
+      },
+      {
+        "name": "Owen Wilson",
+        "description": "Actor i guionista americà, conegut per les seves col·laboracions amb Wes Anderson i comèdies de Hollywood com Zoolander, Una nit al museu i Mitjanit a París.",
+        "year": 1968
+      }
+    ],
+    "events": [
+      {
+        "title": "Mickey Mouse debuta a Steamboat Willie",
+        "description": "Walt Disney va presentar el curtmetratge Steamboat Willie, el primer dibuix animat sonor sincronitzat de la història i el debut oficial de Mickey Mouse, que es convertiria en la icona de la cultura pop més reconeixible del món.",
+        "year": 1928
+      },
+      {
+        "title": "Massacre de Jonestown",
+        "description": "A la colònia del Temple del Poble a Jonestown (Guyana), 918 membres de la secta del reverend Jim Jones van morir en el suïcidi col·lectiu més nombrós de la història moderna.",
+        "year": 1978
+      },
+      {
+        "title": "Fundació de l'Associació Europea de Lliure Comerç",
+        "description": "Àustria, Dinamarca, Noruega, Portugal, Suècia, Suïssa i el Regne Unit van fundar l'AELC (EFTA) a Estocolm com a alternativa a la Comunitat Econòmica Europea.",
+        "year": 1959
+      }
+    ]
+  }
+}

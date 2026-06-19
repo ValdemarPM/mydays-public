@@ -1,0 +1,291 @@
+{
+  "date": "2025-08-15",
+  "es": {
+    "saints": [
+      {
+        "name": "Asunción de la Virgen María",
+        "type": "Solemnidad",
+        "description": "Solemnidad que conmemora el dogma católico (definido por Pío XII en 1950) según el cual María fue llevada al cielo en cuerpo y alma al fin de su vida terrena. Es la fiesta mariana más importante del año litúrgico. Fiesta nacional en muchos países europeos."
+      },
+      {
+        "name": "San Tarcisio",
+        "type": "Mártir",
+        "description": "Joven acólito romano del siglo III que murió defendiendo la Eucaristía de una turba pagana que quería profanarla. Es el patrono de los monaguillos y de los jóvenes que hacen la primera comunión."
+      },
+      {
+        "name": "San Esteban I de Hungría",
+        "type": "Rey",
+        "description": "Primer rey cristiano de Hungría (975–1038), fundador del Estado húngaro. Fue coronado el día de Navidad del año 1000 con una corona enviada por el papa Silvestre II. Patrono de Hungría."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de la India",
+        "description": "La India celebra su independencia del Imperio Británico, proclamada el 15 de agosto de 1947. Junto con Pakistán, fue el resultado de la partición de la India que puso fin al Raj Británico."
+      },
+      {
+        "name": "Día de la Victoria en el Pacífico (V-J Day)",
+        "description": "El 15 de agosto de 1945, el emperador Hirohito anunció por radio la rendición de Japón. Se celebra en varios países como el fin de la Segunda Guerra Mundial."
+      }
+    ],
+    "historicalQuote": {
+      "text": "India no se liberará por violencia ni por la revolución, sino por el camino de la no violencia y el amor.",
+      "author": "Mahatma Gandhi",
+      "context": "El padre de la independencia de la India, nacido el 2 de octubre de 1869, lideró el movimiento de independencia mediante la resistencia civil pacífica. Esta cita resume su filosofía del ahimsa, que inspiraría a líderes de todo el mundo."
+    },
+    "motivationalQuote": {
+      "text": "Primero te ignoran, luego se ríen de ti, luego te atacan, y entonces ganas.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Napoleón Bonaparte",
+        "description": "Militar y estadista francés (1769–1821), uno de los personajes más influyentes de la historia europea. Emperador de los franceses, reformó las instituciones del Estado con el Código Napoleónico y libró guerras que remodelaron el mapa de Europa.",
+        "year": 1769
+      },
+      {
+        "name": "Sir Walter Scott",
+        "description": "Novelista y poeta escocés (1771–1832), padre de la novela histórica moderna. Sus obras Ivanhoe y Rob Roy definieron el género romántico histórico e influyeron en toda la literatura europea posterior.",
+        "year": 1771
+      },
+      {
+        "name": "Ben Affleck",
+        "description": "Actor, director y guionista estadounidense, ganador del Óscar como guionista de El indomable Will Hunting (1997) y como productor de Argo (2012). Ha interpretado a Batman en el universo cinematográfico de DC.",
+        "year": 1972
+      }
+    ],
+    "events": [
+      {
+        "title": "Proclamación de la independencia de la India",
+        "description": "El 15 de agosto de 1947, Jawaharlal Nehru pronunció el discurso 'Cita con el destino' para proclamar la independencia de la India del dominio británico tras casi 90 años de colonialismo directo.",
+        "year": 1947
+      },
+      {
+        "title": "Fin de la Segunda Guerra Mundial en el Pacífico",
+        "description": "El 15 de agosto de 1945, el emperador Hirohito anunció por radio la rendición incondicional de Japón, conocida como el 'día V-J', que puso fin a la Segunda Guerra Mundial.",
+        "year": 1945
+      },
+      {
+        "title": "Inauguración del Canal de Panamá",
+        "description": "El 15 de agosto de 1914, el buque de carga SS Ancon realizó el primer tránsito oficial por el Canal de Panamá, conectando los océanos Atlántico y Pacífico y transformando el comercio marítimo mundial.",
+        "year": 1914
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Assumption of the Virgin Mary",
+        "type": "Solemnity",
+        "description": "A solemnity commemorating the Catholic dogma (defined by Pius XII in 1950) that Mary was taken body and soul into heaven at the end of her earthly life. It is the most important Marian feast in the liturgical year and a public holiday in many European countries."
+      },
+      {
+        "name": "Saint Tarcisius",
+        "type": "Martyr",
+        "description": "A young Roman acolyte of the 3rd century who died defending the Eucharist from a pagan mob seeking to desecrate it. He is the patron of altar servers and young people receiving their first Communion."
+      },
+      {
+        "name": "Saint Stephen I of Hungary",
+        "type": "King",
+        "description": "First Christian king of Hungary (975–1038) and founder of the Hungarian state. He was crowned on Christmas Day in the year 1000 with a crown sent by Pope Sylvester II. Patron of Hungary."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Independence Day of India",
+        "description": "India celebrates its independence from the British Empire, proclaimed on 15 August 1947. Together with Pakistan, it was the result of the partition of India that ended the British Raj."
+      },
+      {
+        "name": "Victory over Japan Day (V-J Day)",
+        "description": "On 15 August 1945, Emperor Hirohito announced by radio Japan's surrender. It is celebrated in several countries as the end of World War II."
+      }
+    ],
+    "historicalQuote": {
+      "text": "India will not be freed by violence or revolution, but by the path of non-violence and love.",
+      "author": "Mahatma Gandhi",
+      "context": "The father of Indian independence, born on 2 October 1869, led the independence movement through peaceful civil resistance. This quote sums up his philosophy of ahimsa, which would inspire leaders around the world."
+    },
+    "motivationalQuote": {
+      "text": "First they ignore you, then they laugh at you, then they fight you, then you win.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Napoleon Bonaparte",
+        "description": "French military commander and statesman (1769–1821), one of the most influential figures in European history. Emperor of the French, he reformed state institutions through the Napoleonic Code and waged wars that redrawn the map of Europe.",
+        "year": 1769
+      },
+      {
+        "name": "Sir Walter Scott",
+        "description": "Scottish novelist and poet (1771–1832), father of the modern historical novel. His works Ivanhoe and Rob Roy defined the Romantic historical genre and influenced all subsequent European literature.",
+        "year": 1771
+      },
+      {
+        "name": "Ben Affleck",
+        "description": "American actor, director, and screenwriter, Academy Award winner as screenwriter for Good Will Hunting (1997) and as producer of Argo (2012). He has also played Batman in the DC Extended Universe.",
+        "year": 1972
+      }
+    ],
+    "events": [
+      {
+        "title": "India's independence proclaimed",
+        "description": "On 15 August 1947, Jawaharlal Nehru delivered the 'Tryst with Destiny' speech to proclaim India's independence from British rule after nearly 90 years of direct colonialism.",
+        "year": 1947
+      },
+      {
+        "title": "End of World War II in the Pacific",
+        "description": "On 15 August 1945, Emperor Hirohito announced by radio Japan's unconditional surrender, known as V-J Day, which brought World War II to a close.",
+        "year": 1945
+      },
+      {
+        "title": "Panama Canal opens",
+        "description": "On 15 August 1914, the cargo ship SS Ancon made the first official transit of the Panama Canal, connecting the Atlantic and Pacific Oceans and transforming global maritime trade.",
+        "year": 1914
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Assunção da Virgem Maria",
+        "type": "Solenidade",
+        "description": "Solenidade que comemora o dogma católico (definido por Pio XII em 1950) segundo o qual Maria foi levada ao céu em corpo e alma no fim da sua vida terrena. É a maior festa mariana do ano litúrgico e feriado nacional em muitos países europeus."
+      },
+      {
+        "name": "São Tarcísio",
+        "type": "Mártir",
+        "description": "Jovem acólito romano do século III que morreu defendendo a Eucaristia de uma multidão pagã que queria profaná-la. É o padroeiro dos coroinhas e dos jovens que fazem a primeira comunhão."
+      },
+      {
+        "name": "São Estêvão I da Hungria",
+        "type": "Rei",
+        "description": "Primeiro rei cristão da Hungria (975–1038) e fundador do Estado húngaro. Foi coroado no dia de Natal do ano 1000 com uma coroa enviada pelo papa Silvestre II. Padroeiro da Hungria."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência da Índia",
+        "description": "A Índia celebra a sua independência do Império Britânico, proclamada em 15 de agosto de 1947. Juntamente com o Paquistão, foi o resultado da partição da Índia que pôs fim ao Raj Britânico."
+      },
+      {
+        "name": "Dia da Vitória sobre o Japão (V-J Day)",
+        "description": "Em 15 de agosto de 1945, o imperador Hirohito anunciou pelo rádio a rendição do Japão. É celebrado em vários países como o fim da Segunda Guerra Mundial."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A Índia não será libertada pela violência ou pela revolução, mas pelo caminho da não violência e do amor.",
+      "author": "Mahatma Gandhi",
+      "context": "O pai da independência indiana, nascido em 2 de outubro de 1869, liderou o movimento de independência por meio da resistência civil pacífica. Esta citação resume a sua filosofia do ahimsa, que inspiraria líderes em todo o mundo."
+    },
+    "motivationalQuote": {
+      "text": "Primeiro ignoram-te, depois riem de ti, depois atacam-te, e então vences.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Napoleão Bonaparte",
+        "description": "Militar e estadista francês (1769–1821), uma das figuras mais influentes da história europeia. Imperador dos franceses, reformou as instituições do Estado com o Código Napoleônico e travou guerras que redesenharam o mapa da Europa.",
+        "year": 1769
+      },
+      {
+        "name": "Sir Walter Scott",
+        "description": "Romancista e poeta escocês (1771–1832), pai do romance histórico moderno. As suas obras Ivanhoe e Rob Roy definiram o género romântico histórico e influenciaram toda a literatura europeia posterior.",
+        "year": 1771
+      },
+      {
+        "name": "Ben Affleck",
+        "description": "Ator, diretor e roteirista americano, vencedor do Oscar como roteirista de Gênio Indomável (1997) e como produtor de Argo (2012). Também interpretou o Batman no universo cinematográfico DC.",
+        "year": 1972
+      }
+    ],
+    "events": [
+      {
+        "title": "Independência da Índia proclamada",
+        "description": "Em 15 de agosto de 1947, Jawaharlal Nehru pronunciou o discurso 'Encontro com o Destino' para proclamar a independência da Índia do domínio britânico após quase 90 anos de colonialismo direto.",
+        "year": 1947
+      },
+      {
+        "title": "Fim da Segunda Guerra Mundial no Pacífico",
+        "description": "Em 15 de agosto de 1945, o imperador Hirohito anunciou pelo rádio a rendição incondicional do Japão, conhecido como o Dia V-J, que encerrou a Segunda Guerra Mundial.",
+        "year": 1945
+      },
+      {
+        "title": "Canal do Panamá é inaugurado",
+        "description": "Em 15 de agosto de 1914, o navio de carga SS Ancon realizou o primeiro trânsito oficial pelo Canal do Panamá, ligando os oceanos Atlântico e Pacífico e transformando o comércio marítimo mundial.",
+        "year": 1914
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Assumpció de la Verge Maria",
+        "type": "Solemnitat",
+        "description": "Solemnitat que commemora el dogma catòlic (definit per Pius XII el 1950) que afirma que Maria va ser portada al cel en cos i ànima al final de la seva vida terrena. És la festa mariana més important de l'any litúrgic i festa nacional en molts països europeus."
+      },
+      {
+        "name": "Sant Tarsici",
+        "type": "Màrtir",
+        "description": "Jove acòlit romà del segle III que va morir defensant l'Eucaristia d'una multitud pagana que volia profanar-la. És el patró dels escolans i dels joves que fan la primera comunió."
+      },
+      {
+        "name": "Sant Esteve I d'Hongria",
+        "type": "Rei",
+        "description": "Primer rei cristià d'Hongria (975–1038) i fundador de l'Estat hongarès. Va ser coronat el dia de Nadal de l'any 1000 amb una corona enviada pel papa Silvestre II. Patró d'Hongria."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència de l'Índia",
+        "description": "L'Índia celebra la seva independència de l'Imperi Britànic, proclamada el 15 d'agost de 1947. Juntament amb el Pakistan, va ser el resultat de la partició de l'Índia que va posar fi al Raj Britànic."
+      },
+      {
+        "name": "Dia de la Victòria sobre el Japó (V-J Day)",
+        "description": "El 15 d'agost de 1945, l'emperador Hirohito va anunciar per ràdio la rendició del Japó. Es celebra en diversos països com la fi de la Segona Guerra Mundial."
+      }
+    ],
+    "historicalQuote": {
+      "text": "L'Índia no serà alliberada per la violència ni per la revolució, sinó pel camí de la no violència i l'amor.",
+      "author": "Mahatma Gandhi",
+      "context": "El pare de la independència de l'Índia, nascut el 2 d'octubre de 1869, va liderar el moviment d'independència per mitjà de la resistència civil pacífica. Aquesta cita resumeix la seva filosofia de l'ahimsa, que inspiraria líders de tot el món."
+    },
+    "motivationalQuote": {
+      "text": "Primer t'ignoren, després se'n riuen, després t'ataquen, i llavors guanyes.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Napoleó Bonaparte",
+        "description": "Militar i estadista francès (1769–1821), una de les figures més influents de la història europea. Emperador dels francesos, va reformar les institucions de l'Estat amb el Codi Napoleònic i va lliurar guerres que van reconfigurar el mapa d'Europa.",
+        "year": 1769
+      },
+      {
+        "name": "Sir Walter Scott",
+        "description": "Novel·lista i poeta escocès (1771–1832), pare de la novel·la històrica moderna. Les seves obres Ivanhoe i Rob Roy van definir el gènere romàntic històric i van influir en tota la literatura europea posterior.",
+        "year": 1771
+      },
+      {
+        "name": "Ben Affleck",
+        "description": "Actor, director i guionista americà, guanyador de l'Oscar com a guionista de El indomable Will Hunting (1997) i com a productor d'Argo (2012). També ha interpretat Batman a l'univers cinematogràfic DC.",
+        "year": 1972
+      }
+    ],
+    "events": [
+      {
+        "title": "Independència de l'Índia proclamada",
+        "description": "El 15 d'agost de 1947, Jawaharlal Nehru va pronunciar el discurs 'Cita amb el destí' per proclamar la independència de l'Índia del domini britànic després de gairebé 90 anys de colonialisme directe.",
+        "year": 1947
+      },
+      {
+        "title": "Fi de la Segona Guerra Mundial al Pacífic",
+        "description": "El 15 d'agost de 1945, l'emperador Hirohito va anunciar per ràdio la rendició incondicional del Japó, conegut com el dia V-J, que va posar fi a la Segona Guerra Mundial.",
+        "year": 1945
+      },
+      {
+        "title": "Inauguració del Canal de Panamà",
+        "description": "El 15 d'agost de 1914, el vaixell de càrrega SS Ancon va fer el primer trànsit oficial pel Canal de Panamà, connectant els oceans Atlàntic i Pacífic i transformant el comerç marítim mundial.",
+        "year": 1914
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-11",
+  "es": {
+    "saints": [
+      {
+        "name": "San Martín de Tours",
+        "type": "Obispo",
+        "description": "Soldado romano convertido al cristianismo, fundó el primer monasterio de las Galias y fue obispo de Tours en el siglo IV. La leyenda más famosa narra cómo partió su capa militar con un mendigo en invierno, imagen que se convirtió en símbolo universal de la caridad."
+      },
+      {
+        "name": "San Mennas",
+        "type": "Mártir",
+        "description": "Soldado egipcio martirizado durante la persecución de Diocleciano hacia el año 296. Uno de los santos más venerados en la Iglesia ortodoxa copta y en Oriente."
+      },
+      {
+        "name": "San Teodoro Estudita",
+        "type": "Abad",
+        "description": "Monje y reformador religioso de Constantinopla del siglo VIII–IX, defensor de la veneración de imágenes frente al iconoclasmo imperial, autor de importantes himnos litúrgicos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día del Armisticio / Día de los Veteranos",
+        "description": "Se conmemora el armisticio firmado el 11 de noviembre de 1918 a las 11:00 h que puso fin a la Primera Guerra Mundial. Celebrado como Día de los Veteranos en EE.UU. y Día del Recuerdo en el Reino Unido."
+      },
+      {
+        "name": "Día de San Martín (Europa)",
+        "description": "En muchos países europeos, especialmente en Alemania, Países Bajos y Bélgica, se celebra con farolillos y procesiones de niños en honor a San Martín de Tours."
+      }
+    ],
+    "historicalQuote": {
+      "text": "He vivido bastante; cuando ya no pueda hacer nada por vosotros, prefiero morir.",
+      "author": "San Martín de Tours",
+      "context": "Palabras del santo del día cuando sus monjes le pidieron que no muriera todavía, reflejo de su entrega total al servicio de los demás hasta el último momento."
+    },
+    "motivationalQuote": {
+      "text": "La paz no es simplemente la ausencia de guerra: es una virtud, un estado de ánimo, una disposición a la benevolencia, la confianza y la justicia.",
+      "author": "Baruch Spinoza"
+    },
+    "births": [
+      {
+        "name": "Fiódor Dostoievski",
+        "description": "Novelista ruso, uno de los más grandes escritores de la historia universal, autor de Crimen y castigo, El idiota, Los hermanos Karamázov y El jugador.",
+        "year": 1821
+      },
+      {
+        "name": "Kurt Vonnegut",
+        "description": "Escritor estadounidense autor de Matadero Cinco, novela antibelicista que mezcla ficción y autobiografía basándose en el bombardeo de Dresde que presenció como prisionero de guerra.",
+        "year": 1922
+      },
+      {
+        "name": "DiDi Gregorius",
+        "description": "Beisbolista neerlandés-surinamés que jugó en los New York Yankees y Philadelphia Phillies, uno de los jugadores más talentosos de la liga mayor de su generación.",
+        "year": 1990
+      }
+    ],
+    "events": [
+      {
+        "title": "Armisticio de la Primera Guerra Mundial",
+        "description": "A las 11:00 horas del 11 del 11 de 1918, entró en vigor el armisticio entre los Aliados y Alemania, poniendo fin a cuatro años de guerra que costaron la vida a más de 17 millones de personas.",
+        "year": 1918
+      },
+      {
+        "title": "Independencia de Angola",
+        "description": "Angola proclamó su independencia de Portugal el 11 de noviembre de 1975, con el movimiento MPLA asumiendo el gobierno de la nueva nación.",
+        "year": 1975
+      },
+      {
+        "title": "Declaración Unilateral de Independencia de Rhodesia",
+        "description": "El gobierno de minoría blanca de Ian Smith en Rhodesia (actual Zimbabue) declaró unilateralmente la independencia del Reino Unido, desencadenando décadas de conflicto y sanciones internacionales.",
+        "year": 1965
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Martin of Tours",
+        "type": "Bishop",
+        "description": "Roman soldier turned Christian, he founded the first monastery in Gaul and became Bishop of Tours in the 4th century. The most famous legend tells how he cut his military cloak in two to share it with a beggar in winter — an image that became a universal symbol of charity."
+      },
+      {
+        "name": "Saint Mennas",
+        "type": "Martyr",
+        "description": "Egyptian soldier martyred during the Diocletianic Persecution around 296. One of the most venerated saints in the Coptic Orthodox Church and in the Eastern tradition."
+      },
+      {
+        "name": "Saint Theodore the Studite",
+        "type": "Abbot",
+        "description": "8th–9th-century monk and religious reformer of Constantinople, defender of the veneration of images against imperial iconoclasm, and author of important liturgical hymns."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Armistice Day / Veterans Day",
+        "description": "Commemorates the armistice signed on 11 November 1918 at 11:00 a.m. that ended the First World War. Celebrated as Veterans Day in the USA and Remembrance Day in the United Kingdom."
+      },
+      {
+        "name": "Saint Martin's Day (Europe)",
+        "description": "In many European countries, especially Germany, the Netherlands, and Belgium, the day is marked with lantern processions and children's parades in honour of Saint Martin of Tours."
+      }
+    ],
+    "historicalQuote": {
+      "text": "I have lived long enough; when I can no longer be of service to you, I would rather die.",
+      "author": "Saint Martin of Tours",
+      "context": "Words spoken by today's saint when his monks begged him not to die yet — a reflection of his total dedication to serving others until the very last moment."
+    },
+    "motivationalQuote": {
+      "text": "Peace is not merely the absence of war: it is a virtue, a state of mind, a disposition towards benevolence, confidence, and justice.",
+      "author": "Baruch Spinoza"
+    },
+    "births": [
+      {
+        "name": "Fyodor Dostoevsky",
+        "description": "Russian novelist, one of the greatest writers in world literary history, author of Crime and Punishment, The Idiot, The Brothers Karamazov, and The Gambler.",
+        "year": 1821
+      },
+      {
+        "name": "Kurt Vonnegut",
+        "description": "American author of Slaughterhouse-Five, an anti-war novel blending fiction and autobiography based on the firebombing of Dresden that he witnessed as a prisoner of war.",
+        "year": 1922
+      },
+      {
+        "name": "Didi Gregorius",
+        "description": "Dutch-Surinamese baseball shortstop who played for the New York Yankees and Philadelphia Phillies, one of the most talented players of his generation in the major leagues.",
+        "year": 1990
+      }
+    ],
+    "events": [
+      {
+        "title": "Armistice of the First World War",
+        "description": "At the 11th hour of the 11th day of the 11th month of 1918, the armistice between the Allies and Germany came into force, ending four years of war that claimed more than 17 million lives.",
+        "year": 1918
+      },
+      {
+        "title": "Independence of Angola",
+        "description": "Angola proclaimed its independence from Portugal on 11 November 1975, with the MPLA movement assuming governance of the new nation.",
+        "year": 1975
+      },
+      {
+        "title": "Rhodesian Unilateral Declaration of Independence",
+        "description": "Ian Smith's white-minority government in Rhodesia (present-day Zimbabwe) unilaterally declared independence from the United Kingdom, triggering decades of conflict and international sanctions.",
+        "year": 1965
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Martinho de Tours",
+        "type": "Bispo",
+        "description": "Soldado romano convertido ao cristianismo, fundou o primeiro mosteiro da Gália e tornou-se bispo de Tours no século IV. A lenda mais famosa conta como partiu a sua capa militar com um mendigo no inverno — imagem que se tornou símbolo universal da caridade."
+      },
+      {
+        "name": "São Menas",
+        "type": "Mártir",
+        "description": "Soldado egípcio martirizado durante a perseguição de Diocleciano por volta do ano 296. Um dos santos mais venerados na Igreja Ortodoxa Copta e na tradição oriental."
+      },
+      {
+        "name": "São Teodoro Estudita",
+        "type": "Abade",
+        "description": "Monge e reformador religioso de Constantinopla dos séculos VIII–IX, defensor da veneração de imagens contra o iconoclasmo imperial, autor de importantes hinos litúrgicos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia do Armistício / Dia dos Veteranos",
+        "description": "Comemora o armistício assinado em 11 de novembro de 1918 às 11h00 que pôs fim à Primeira Guerra Mundial. Celebrado como Dia dos Veteranos nos EUA e Dia da Memória no Reino Unido."
+      },
+      {
+        "name": "Dia de São Martinho (Europa)",
+        "description": "Em muitos países europeus, especialmente na Alemanha, Países Baixos e Bélgica, o dia é marcado com procissões de lanternas e desfiles de crianças em honra a São Martinho de Tours."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Já vivi o suficiente; quando não puder mais ser útil a vós, prefiro morrer.",
+      "author": "São Martinho de Tours",
+      "context": "Palavras do santo do dia quando os seus monges lhe pediram que não morresse ainda — reflexo da sua total dedicação ao serviço dos outros até ao último momento."
+    },
+    "motivationalQuote": {
+      "text": "A paz não é simplesmente a ausência de guerra: é uma virtude, um estado de espírito, uma disposição para a benevolência, a confiança e a justiça.",
+      "author": "Baruch Spinoza"
+    },
+    "births": [
+      {
+        "name": "Fiódor Dostoiévski",
+        "description": "Romancista russo, um dos maiores escritores da história universal, autor de Crime e Castigo, O Idiota, Os Irmãos Karamázov e O Jogador.",
+        "year": 1821
+      },
+      {
+        "name": "Kurt Vonnegut",
+        "description": "Escritor americano autor de Matadouro Cinco, romance antibélico que mistura ficção e autobiografia baseando-se no bombardeio de Dresden que presenciou como prisioneiro de guerra.",
+        "year": 1922
+      },
+      {
+        "name": "Didi Gregorius",
+        "description": "Jogador de beisebol holandês-surinamês que atuou nos New York Yankees e Philadelphia Phillies, um dos jogadores mais talentosos de sua geração na liga maior.",
+        "year": 1990
+      }
+    ],
+    "events": [
+      {
+        "title": "Armistício da Primeira Guerra Mundial",
+        "description": "Às 11h do dia 11 do mês 11 de 1918, o armistício entre os Aliados e a Alemanha entrou em vigor, encerrando quatro anos de guerra que custaram a vida de mais de 17 milhões de pessoas.",
+        "year": 1918
+      },
+      {
+        "title": "Independência de Angola",
+        "description": "Angola proclamou a sua independência de Portugal em 11 de novembro de 1975, com o movimento MPLA assumindo o governo da nova nação.",
+        "year": 1975
+      },
+      {
+        "title": "Declaração Unilateral de Independência da Rodésia",
+        "description": "O governo de minoria branca de Ian Smith na Rodésia (atual Zimbábue) declarou unilateralmente a independência do Reino Unido, desencadeando décadas de conflito e sanções internacionais.",
+        "year": 1965
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Martí de Tours",
+        "type": "Bisbe",
+        "description": "Soldat romà convertit al cristianisme, va fundar el primer monestir de les Gàl·lies i va ser bisbe de Tours al segle IV. La llegenda més famosa narra com va partir la seva capa militar amb un captaire a l'hivern — imatge que es va convertir en símbol universal de la caritat."
+      },
+      {
+        "name": "Sant Menas",
+        "type": "Màrtir",
+        "description": "Soldat egipci martiritzat durant la persecució de Dioclecià cap a l'any 296. Un dels sants més venerats a l'Església Ortodoxa Copta i en la tradició oriental."
+      },
+      {
+        "name": "Sant Teodor Estudita",
+        "type": "Abat",
+        "description": "Monjo i reformador religiós de Constantinoble dels segles VIII–IX, defensor de la veneració d'imatges enfront de l'iconoclasme imperial, autor d'importants himnes litúrgics."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de l'Armistici / Dia dels Veterans",
+        "description": "Es commemora l'armistici signat l'11 de novembre de 1918 a les 11:00 h que va posar fi a la Primera Guerra Mundial. Celebrat com a Dia dels Veterans als EUA i Dia del Record al Regne Unit."
+      },
+      {
+        "name": "Dia de Sant Martí (Europa)",
+        "description": "En molts països europeus, especialment a Alemanya, els Països Baixos i Bèlgica, el dia es marca amb processons de llanternes i desfilades de nens en honor a Sant Martí de Tours."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Ja he viscut prou; quan ja no pugui ser d'utilitat per a vosaltres, prefereixo morir.",
+      "author": "Sant Martí de Tours",
+      "context": "Paraules del sant del dia quan els seus monjos li van demanar que no morís encara — reflex de la seva dedicació total al servei dels altres fins al darrer moment."
+    },
+    "motivationalQuote": {
+      "text": "La pau no és simplement l'absència de guerra: és una virtut, un estat d'ànim, una disposició cap a la benvolença, la confiança i la justícia.",
+      "author": "Baruch Spinoza"
+    },
+    "births": [
+      {
+        "name": "Fiódor Dostoievski",
+        "description": "Novel·lista rus, un dels més grans escriptors de la història universal, autor de Crim i càstig, L'idiota, Els germans Karamàzov i El jugador.",
+        "year": 1821
+      },
+      {
+        "name": "Kurt Vonnegut",
+        "description": "Escriptor americà autor de Escorxador Cinc, novel·la antibèl·lica que barreja ficció i autobiografia basant-se en el bombardeig de Dresden que va presenciar com a presoner de guerra.",
+        "year": 1922
+      },
+      {
+        "name": "Didi Gregorius",
+        "description": "Jugador de beisbol neerlandès-surinamès que va jugar als New York Yankees i Philadelphia Phillies, un dels jugadors més talents de la seva generació a les grans lligues.",
+        "year": 1990
+      }
+    ],
+    "events": [
+      {
+        "title": "Armistici de la Primera Guerra Mundial",
+        "description": "A les 11 hores del dia 11 del mes 11 de 1918, va entrar en vigor l'armistici entre els Aliats i Alemanya, posant fi a quatre anys de guerra que van costar la vida de més de 17 milions de persones.",
+        "year": 1918
+      },
+      {
+        "title": "Independència d'Angola",
+        "description": "Angola va proclamar la seva independència de Portugal l'11 de novembre de 1975, amb el moviment MPLA assumint el govern de la nova nació.",
+        "year": 1975
+      },
+      {
+        "title": "Declaració Unilateral d'Independència de Rhodèsia",
+        "description": "El govern de minoria blanca d'Ian Smith a Rhodèsia (actual Zimbàbue) va declarar unilateralment la independència del Regne Unit, desencadenant dècades de conflicte i sancions internacionals.",
+        "year": 1965
+      }
+    ]
+  }
+}

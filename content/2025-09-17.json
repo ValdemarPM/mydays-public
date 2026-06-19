@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-17",
+  "es": {
+    "saints": [
+      {
+        "name": "San Roberto Belarmino",
+        "type": "Obispo y Doctor de la Iglesia",
+        "description": "Jesuita italiano (1542–1621), cardenal y teólogo, una de las figuras más importantes de la Contrarreforma. Escribió el célebre Catecismo y defendió la autoridad papal frente al poder civil. Canonizado en 1930 y declarado Doctor de la Iglesia."
+      },
+      {
+        "name": "Santa Hildegarda de Bingen",
+        "type": "Virgen y Doctora de la Iglesia",
+        "description": "Abadesa benedictina alemana del siglo XII (1098–1179), mística, compositora, naturalista y médica. Sus visiones se recogen en Scivias. Declarada Doctora de la Iglesia por Benedicto XVI en 2012, siendo la cuarta mujer en recibir este título."
+      },
+      {
+        "name": "San Lamberto de Maastricht",
+        "type": "Obispo y Mártir",
+        "description": "Obispo de Maastricht del siglo VII asesinado por razones políticas en Lieja. Venerado como mártir, su muerte fue el origen de la fundación de la catedral de San Lamberto de Lieja."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Constitución de los Estados Unidos",
+        "description": "Aniversario de la firma de la Constitución de los Estados Unidos en Filadelfia el 17 de septiembre de 1787, documento fundacional que sigue siendo la constitución escrita en vigor más antigua del mundo."
+      },
+      {
+        "name": "Día de la Independencia de Malasia",
+        "description": "Malasia celebra el Hari Malaysia, el aniversario de la formación de la Federación de Malasia el 16 de septiembre de 1963, con actos que se desarrollan también el día 17."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Quien no conoce la historia está condenado a repetirla.",
+      "author": "Edmund Burke",
+      "context": "El político y filósofo irlandés, nacido el 12 de enero de 1729, fue uno de los grandes pensadores del conservadurismo político y de la filosofía de la historia. Esta cita, frecuentemente atribuida a otros, refleja su convicción sobre el valor de la memoria histórica."
+    },
+    "motivationalQuote": {
+      "text": "El talento hace lo que puede; el genio hace lo que debe.",
+      "author": "Edward Bulwer-Lytton"
+    },
+    "births": [
+      {
+        "name": "Hank Williams",
+        "description": "Cantante y compositor americano de música country, considerado el padre del country moderno. Canciones como Your Cheatin' Heart y I'm So Lonesome I Could Cry son clásicos del género que influenciaron a generaciones de artistas.",
+        "year": 1923
+      },
+      {
+        "name": "Stirling Moss",
+        "description": "Piloto de Fórmula 1 británico, considerado el mejor corredor que nunca ganó el Campeonato del Mundo (fue subcampeón cuatro veces). Su elegancia y deportividad le convirtieron en una leyenda del automobilismo.",
+        "year": 1929
+      },
+      {
+        "name": "Anne Bancroft",
+        "description": "Actriz americana ganadora del Oscar por El milagro de Ana Sullivan (1962) y conocida por su papel de la seductora señora Robinson en El graduado (1967).",
+        "year": 1931
+      }
+    ],
+    "events": [
+      {
+        "title": "Firma de la Constitución de los Estados Unidos",
+        "description": "Los delegados a la Convención Constitucional firmaron la Constitución de los Estados Unidos en Filadelfia, creando el documento fundacional de la nación americana que establece la separación de poderes.",
+        "year": 1787
+      },
+      {
+        "title": "Batalla de Antietam",
+        "description": "La batalla de Antietam (Maryland) fue el día más sangriento de la Guerra Civil americana, con más de 22.000 bajas en ambos bandos. La victoria de la Unión permitió a Lincoln proclamar la Emancipación de los esclavos.",
+        "year": 1862
+      },
+      {
+        "title": "Primer vuelo del Boeing 747",
+        "description": "El Boeing 747 realizó su primer vuelo de prueba en Everett (Washington), inaugurando la era de los vuelos intercontinentales masivos y cambiando para siempre la industria de la aviación comercial.",
+        "year": 1968
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Robert Bellarmine",
+        "type": "Bishop and Doctor of the Church",
+        "description": "Italian Jesuit (1542–1621), cardinal and theologian, one of the most important figures of the Counter-Reformation. He wrote the famous Catechism and defended papal authority against civil power. Canonised in 1930 and proclaimed a Doctor of the Church."
+      },
+      {
+        "name": "Saint Hildegard of Bingen",
+        "type": "Virgin and Doctor of the Church",
+        "description": "German Benedictine abbess of the 12th century (1098–1179), mystic, composer, naturalist, and physician. Her visions are recorded in Scivias. Declared a Doctor of the Church by Benedict XVI in 2012, the fourth woman to receive this title."
+      },
+      {
+        "name": "Saint Lambert of Maastricht",
+        "type": "Bishop and Martyr",
+        "description": "A 7th-century Bishop of Maastricht murdered for political reasons in Liège. Venerated as a martyr, his death gave rise to the founding of the Cathedral of Saint Lambert in Liège."
+      }
+    ],
+    "observances": [
+      {
+        "name": "US Constitution Day",
+        "description": "Anniversary of the signing of the United States Constitution in Philadelphia on 17 September 1787, the founding document that remains the world's oldest written constitution still in force."
+      },
+      {
+        "name": "Malaysia Day — Hari Malaysia",
+        "description": "Malaysia celebrates Hari Malaysia, the anniversary of the formation of the Federation of Malaysia on 16 September 1963, with events continuing on the 17th."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Those who don't know history are doomed to repeat it.",
+      "author": "Edmund Burke",
+      "context": "The Irish politician and philosopher, born on 12 January 1729, was one of the great thinkers of political conservatism and the philosophy of history. This quote, often attributed to others, reflects his conviction about the value of historical memory."
+    },
+    "motivationalQuote": {
+      "text": "Talent does what it can; genius does what it must.",
+      "author": "Edward Bulwer-Lytton"
+    },
+    "births": [
+      {
+        "name": "Hank Williams",
+        "description": "American country music singer and songwriter, considered the father of modern country. Songs such as Your Cheatin' Heart and I'm So Lonesome I Could Cry are genre classics that influenced generations of artists.",
+        "year": 1923
+      },
+      {
+        "name": "Stirling Moss",
+        "description": "British Formula 1 driver, widely regarded as the greatest driver never to have won the World Championship (he finished runner-up four times). His elegance and sportsmanship made him a legend of motorsport.",
+        "year": 1929
+      },
+      {
+        "name": "Anne Bancroft",
+        "description": "American actress and Academy Award winner for The Miracle Worker (1962), also known for her role as the seductive Mrs Robinson in The Graduate (1967).",
+        "year": 1931
+      }
+    ],
+    "events": [
+      {
+        "title": "US Constitution signed",
+        "description": "Delegates to the Constitutional Convention signed the United States Constitution in Philadelphia, creating the founding document of the American nation that establishes the separation of powers.",
+        "year": 1787
+      },
+      {
+        "title": "Battle of Antietam",
+        "description": "The Battle of Antietam (Maryland) was the bloodiest day of the American Civil War, with more than 22,000 casualties on both sides. The Union victory enabled Lincoln to issue the Emancipation Proclamation.",
+        "year": 1862
+      },
+      {
+        "title": "First flight of the Boeing 747",
+        "description": "The Boeing 747 made its first test flight in Everett, Washington, inaugurating the era of mass intercontinental flights and forever changing the commercial aviation industry.",
+        "year": 1968
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Roberto Bellarmino",
+        "type": "Bispo e Doutor da Igreja",
+        "description": "Jesuíta italiano (1542–1621), cardeal e teólogo, uma das figuras mais importantes da Contrarreforma. Escreveu o célebre Catecismo e defendeu a autoridade papal face ao poder civil. Canonizado em 1930 e proclamado Doutor da Igreja."
+      },
+      {
+        "name": "Santa Hildegarda de Bingen",
+        "type": "Virgem e Doutora da Igreja",
+        "description": "Abadessa beneditina alemã do século XII (1098–1179), mística, compositora, naturalista e médica. As suas visões estão registadas em Scivias. Declarada Doutora da Igreja por Bento XVI em 2012, a quarta mulher a receber este título."
+      },
+      {
+        "name": "São Lamberto de Maastricht",
+        "type": "Bispo e Mártir",
+        "description": "Bispo de Maastricht do século VII assassinado por razões políticas em Liège. Venerado como mártir, a sua morte foi a origem da fundação da catedral de São Lamberto em Liège."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Constituição dos EUA",
+        "description": "Aniversário da assinatura da Constituição dos Estados Unidos na Filadélfia em 17 de setembro de 1787, documento fundador que continua a ser a constituição escrita mais antiga ainda em vigor no mundo."
+      },
+      {
+        "name": "Dia da Malásia — Hari Malaysia",
+        "description": "A Malásia celebra o Hari Malaysia, o aniversário da formação da Federação da Malásia em 16 de setembro de 1963, com eventos que se estendem ao dia 17."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Quem não conhece a história está condenado a repeti-la.",
+      "author": "Edmund Burke",
+      "context": "O político e filósofo irlandês, nascido a 12 de janeiro de 1729, foi um dos grandes pensadores do conservadorismo político e da filosofia da história. Esta citação, frequentemente atribuída a outros, reflete a sua convicção sobre o valor da memória histórica."
+    },
+    "motivationalQuote": {
+      "text": "O talento faz o que pode; o génio faz o que deve.",
+      "author": "Edward Bulwer-Lytton"
+    },
+    "births": [
+      {
+        "name": "Hank Williams",
+        "description": "Cantor e compositor americano de música country, considerado o pai do country moderno. Canções como Your Cheatin' Heart e I'm So Lonesome I Could Cry são clássicos do género que influenciaram gerações de artistas.",
+        "year": 1923
+      },
+      {
+        "name": "Stirling Moss",
+        "description": "Piloto de Fórmula 1 britânico, amplamente considerado o melhor piloto que nunca ganhou o Campeonato do Mundo (foi vice-campeão quatro vezes). A sua elegância e desportivismo tornaram-no numa lenda do automobilismo.",
+        "year": 1929
+      },
+      {
+        "name": "Anne Bancroft",
+        "description": "Atriz americana vencedora do Oscar por O Milagre de Ana Sullivan (1962), também conhecida pelo seu papel da sedutora senhora Robinson em O Graduado (1967).",
+        "year": 1931
+      }
+    ],
+    "events": [
+      {
+        "title": "Constituição dos EUA assinada",
+        "description": "Os delegados da Convenção Constitucional assinaram a Constituição dos Estados Unidos na Filadélfia, criando o documento fundador da nação americana que estabelece a separação de poderes.",
+        "year": 1787
+      },
+      {
+        "title": "Batalha de Antietam",
+        "description": "A Batalha de Antietam (Maryland) foi o dia mais sangrento da Guerra Civil americana, com mais de 22.000 baixas em ambos os lados. A vitória da União permitiu a Lincoln proclamar a Emancipação dos escravos.",
+        "year": 1862
+      },
+      {
+        "title": "Primeiro voo do Boeing 747",
+        "description": "O Boeing 747 realizou o seu primeiro voo de teste em Everett (Washington), inaugurando a era dos voos intercontinentais em massa e mudando para sempre a indústria da aviação comercial.",
+        "year": 1968
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Robert Bel·larmí",
+        "type": "Bisbe i Doctor de l'Església",
+        "description": "Jesuïta italià (1542–1621), cardenal i teòleg, una de les figures més importants de la Contrareforma. Va escriure el cèlebre Catecisme i va defensar l'autoritat papal davant el poder civil. Canonitzat el 1930 i proclamat Doctor de l'Església."
+      },
+      {
+        "name": "Santa Hildegarda de Bingen",
+        "type": "Verge i Doctora de l'Església",
+        "description": "Abadessa benedictina alemanya del segle XII (1098–1179), mística, compositora, naturalista i metgessa. Les seves visions es recullen a Scivias. Declarada Doctora de l'Església per Benet XVI el 2012, la quarta dona a rebre aquest títol."
+      },
+      {
+        "name": "Sant Lambert de Maastricht",
+        "type": "Bisbe i Màrtir",
+        "description": "Bisbe de Maastricht del segle VII assassinat per raons polítiques a Lieja. Venerat com a màrtir, la seva mort va ser l'origen de la fundació de la catedral de Sant Lambert de Lieja."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Constitució dels EUA",
+        "description": "Aniversari de la signatura de la Constitució dels Estats Units a Filadèlfia el 17 de setembre de 1787, document fundacional que continua sent la constitució escrita en vigor més antiga del món."
+      },
+      {
+        "name": "Dia de Malàisia — Hari Malaysia",
+        "description": "Malàisia celebra el Hari Malaysia, l'aniversari de la formació de la Federació de Malàisia el 16 de setembre de 1963, amb actes que es prolonguen al dia 17."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Qui no coneix la història està condemnat a repetir-la.",
+      "author": "Edmund Burke",
+      "context": "El polític i filòsof irlandès, nascut el 12 de gener de 1729, va ser un dels grans pensadors del conservadorisme polític i de la filosofia de la història. Aquesta cita, sovint atribuïda a d'altres, reflecteix la seva convicció sobre el valor de la memòria històrica."
+    },
+    "motivationalQuote": {
+      "text": "El talent fa el que pot; el geni fa el que ha de fer.",
+      "author": "Edward Bulwer-Lytton"
+    },
+    "births": [
+      {
+        "name": "Hank Williams",
+        "description": "Cantant i compositor americà de música country, considerat el pare del country modern. Cançons com Your Cheatin' Heart i I'm So Lonesome I Could Cry són clàssics del gènere que van influir generacions d'artistes.",
+        "year": 1923
+      },
+      {
+        "name": "Stirling Moss",
+        "description": "Pilot de Fórmula 1 britànic, considerat el millor pilot que mai no va guanyar el Campionat del Món (va ser subcampió quatre vegades). La seva elegància i esportivitat el van convertir en una llegenda de l'automobilisme.",
+        "year": 1929
+      },
+      {
+        "name": "Anne Bancroft",
+        "description": "Actriu americana guanyadora de l'Oscar per El miracle d'Ana Sullivan (1962), coneguda també pel seu paper de la seductora senyora Robinson a El graduat (1967).",
+        "year": 1931
+      }
+    ],
+    "events": [
+      {
+        "title": "La Constitució dels EUA és signada",
+        "description": "Els delegats a la Convenció Constitucional van signar la Constitució dels Estats Units a Filadèlfia, creant el document fundacional de la nació americana que estableix la separació de poders.",
+        "year": 1787
+      },
+      {
+        "title": "Batalla d'Antietam",
+        "description": "La batalla d'Antietam (Maryland) va ser el dia més sagnant de la Guerra Civil americana, amb més de 22.000 baixes en ambdós bàndols. La victòria de la Unió va permetre a Lincoln proclamar l'Emancipació dels esclaus.",
+        "year": 1862
+      },
+      {
+        "title": "Primer vol del Boeing 747",
+        "description": "El Boeing 747 va realitzar el seu primer vol de proves a Everett (Washington), inaugurant l'era dels vols intercontinentals massius i canviant per sempre la indústria de l'aviació comercial.",
+        "year": 1968
+      }
+    ]
+  }
+}

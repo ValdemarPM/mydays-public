@@ -1,0 +1,119 @@
+{
+  "date": "2026-02-27",
+  "es": {
+    "saints": [
+      { "name": "San Gabriel de la Dolorosa", "type": "Religioso", "description": "Joven pasionista italiano del siglo XIX, Francisco Possenti, que murió de tuberculosis a los 24 años; patrono de los jóvenes y los clérigos." },
+      { "name": "San Leandro de Sevilla", "type": "Obispo", "description": "Arzobispo de Sevilla del siglo VI, hermano de San Isidoro, que convirtió a los visigodos al catolicismo niceno y presidió el III Concilio de Toledo (589)." }
+    ],
+    "observances": [
+      { "name": "Día Internacional del Oso Polar", "description": "Jornada de sensibilización sobre la amenaza del cambio climático para el oso polar, cuyo hábitat en el Ártico desaparece a un ritmo alarmante." },
+      { "name": "Día de la Independencia de la República Dominicana", "description": "La República Dominicana celebra su proclamación de independencia de Haití el 27 de febrero de 1844." }
+    ],
+    "historicalQuote": {
+      "text": "La mente que se abre a una nueva idea jamás vuelve a su tamaño original.",
+      "author": "Albert Einstein",
+      "context": "Esta reflexión, atribuida a Einstein, resume la irreversibilidad del aprendizaje verdadero. La apertura intelectual fue la clave de sus revolucionarios descubrimientos en física."
+    },
+    "motivationalQuote": {
+      "text": "No hay talento sin trabajo, ni trabajo sin talento.",
+      "author": "Pelé"
+    },
+    "births": [
+      { "name": "Henry Wadsworth Longfellow", "description": "Poeta estadounidense del siglo XIX, el más popular de su época; autor de El canto de Hiawatha y La cabaña del herrero.", "year": 1807 },
+      { "name": "Ralph Nader", "description": "Abogado y activista estadounidense, pionero de la defensa de los consumidores; sus campañas provocaron cambios profundos en la legislación de seguridad de automóviles.", "year": 1934 },
+      { "name": "Josh Groban", "description": "Tenor y cantante pop estadounidense, conocido por sus poderosas interpretaciones y álbumes de crossover clásico-pop.", "year": 1981 }
+    ],
+    "events": [
+      { "title": "La República Dominicana declara su independencia", "description": "El movimiento La Trinitaria proclama la independencia de la República Dominicana respecto de Haití, estableciendo el primer estado soberano en la isla de La Española.", "year": 1844 },
+      { "title": "Incendio del Reichstag", "description": "El parlamento alemán (Reichstag) es incendiado en Berlín. El gobierno nazi de Hitler aprovecha el suceso para decretar el estado de emergencia y suspender las libertades civiles.", "year": 1933 },
+      { "title": "Primer tranvía eléctrico de España", "description": "Barcelona inaugura el primer tranvía eléctrico de España, en la línea Barcelona-Gràcia, marcando el inicio de la modernización del transporte urbano.", "year": 1899 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Gabriel of Our Lady of Sorrows", "type": "Religious", "description": "19th-century young Italian Passionist, Francisco Possenti, who died of tuberculosis at 24; patron of youth and clerics." },
+      { "name": "Saint Leander of Seville", "type": "Bishop", "description": "6th-century Archbishop of Seville, brother of Saint Isidore, who converted the Visigoths to Nicene Catholicism and presided over the Third Council of Toledo (589)." }
+    ],
+    "observances": [
+      { "name": "International Polar Bear Day", "description": "An awareness day about the threat of climate change to the polar bear, whose Arctic habitat is disappearing at an alarming rate." },
+      { "name": "Dominican Republic Independence Day", "description": "The Dominican Republic celebrates its proclamation of independence from Haiti on 27 February 1844." }
+    ],
+    "historicalQuote": {
+      "text": "A mind that is stretched by a new experience can never go back to its old dimensions.",
+      "author": "Albert Einstein",
+      "context": "This reflection, attributed to Einstein, encapsulates the irreversibility of true learning. Intellectual openness was the key to his revolutionary discoveries in physics."
+    },
+    "motivationalQuote": {
+      "text": "There is no talent without work, and no work without talent.",
+      "author": "Pelé"
+    },
+    "births": [
+      { "name": "Henry Wadsworth Longfellow", "description": "19th-century American poet, the most popular of his era; author of The Song of Hiawatha and The Village Blacksmith.", "year": 1807 },
+      { "name": "Ralph Nader", "description": "American lawyer and activist, pioneer of consumer protection; his campaigns brought profound changes to automobile safety legislation.", "year": 1934 },
+      { "name": "Josh Groban", "description": "American tenor and pop singer, known for his powerful performances and classic-pop crossover albums.", "year": 1981 }
+    ],
+    "events": [
+      { "title": "Dominican Republic declares independence", "description": "The La Trinitaria movement proclaims Dominican independence from Haiti, establishing the first sovereign state on the island of Hispaniola.", "year": 1844 },
+      { "title": "Reichstag fire", "description": "The German parliament (Reichstag) is set ablaze in Berlin. Hitler's Nazi government uses the event to decree a state of emergency and suspend civil liberties.", "year": 1933 },
+      { "title": "First electric tram in Spain", "description": "Barcelona inaugurates Spain's first electric tram on the Barcelona–Gràcia line, marking the start of the modernisation of urban transport.", "year": 1899 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Gabriel de Nossa Senhora das Dores", "type": "Religioso", "description": "Jovem passionista italiano do século XIX, Francisco Possenti, que morreu de tuberculose aos 24 anos; padroeiro dos jovens e clérigos." },
+      { "name": "São Leandro de Sevilha", "type": "Bispo", "description": "Arcebispo de Sevilha do século VI, irmão de Santo Isidoro, que converteu os visigodos ao catolicismo niceno e presidiu o III Concílio de Toledo (589)." }
+    ],
+    "observances": [
+      { "name": "Dia Internacional do Urso Polar", "description": "Jornada de conscientização sobre a ameaça das mudanças climáticas para o urso polar, cujo habitat no Ártico desaparece em ritmo alarmante." },
+      { "name": "Dia da Independência da República Dominicana", "description": "A República Dominicana celebra sua proclamação de independência do Haiti em 27 de fevereiro de 1844." }
+    ],
+    "historicalQuote": {
+      "text": "A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original.",
+      "author": "Albert Einstein",
+      "context": "Esta reflexão, atribuída a Einstein, resume a irreversibilidade do verdadeiro aprendizado. A abertura intelectual foi a chave para suas descobertas revolucionárias na física."
+    },
+    "motivationalQuote": {
+      "text": "Não há talento sem trabalho, nem trabalho sem talento.",
+      "author": "Pelé"
+    },
+    "births": [
+      { "name": "Henry Wadsworth Longfellow", "description": "Poeta americano do século XIX, o mais popular de sua época; autor do Canto de Hiawatha e O Ferreiro da Aldeia.", "year": 1807 },
+      { "name": "Ralph Nader", "description": "Advogado e ativista americano, pioneiro da defesa dos consumidores; suas campanhas provocaram mudanças profundas na legislação de segurança de automóveis.", "year": 1934 },
+      { "name": "Josh Groban", "description": "Tenor e cantor pop americano, conhecido pelas suas interpretações poderosas e álbuns de crossover clássico-pop.", "year": 1981 }
+    ],
+    "events": [
+      { "title": "República Dominicana declara independência", "description": "O movimento La Trinitaria proclama a independência dominicana do Haiti, estabelecendo o primeiro Estado soberano na ilha de Hispaniola.", "year": 1844 },
+      { "title": "Incêndio do Reichstag", "description": "O parlamento alemão (Reichstag) é incendiado em Berlim. O governo nazista de Hitler usa o evento para decretar estado de emergência e suspender as liberdades civis.", "year": 1933 },
+      { "title": "Primeiro bonde elétrico da Espanha", "description": "Barcelona inaugura o primeiro bonde elétrico da Espanha na linha Barcelona-Gràcia, marcando o início da modernização do transporte urbano.", "year": 1899 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Gabriel de la Dolorosa", "type": "Religiós", "description": "Jove passionista italià del segle XIX, Francesc Possenti, que morí de tuberculosi als 24 anys; patró dels joves i clergues." },
+      { "name": "Sant Lleandre de Sevilla", "type": "Bisbe", "description": "Arquebisbe de Sevilla del segle VI, germà de Sant Isidor, que va convertir els visigots al catolicisme nicè i va presidir el III Concili de Toledo (589)." }
+    ],
+    "observances": [
+      { "name": "Dia Internacional de l'Ós Polar", "description": "Jornada de sensibilització sobre l'amenaça del canvi climàtic per a l'ós polar, l'hàbitat àrtic del qual desapareix a un ritme alarmant." },
+      { "name": "Dia de la Independència de la República Dominicana", "description": "La República Dominicana celebra la seva proclamació d'independència de l'Haití el 27 de febrer de 1844." }
+    ],
+    "historicalQuote": {
+      "text": "La ment que s'obre a una nova idea mai no torna a la seva mida original.",
+      "author": "Albert Einstein",
+      "context": "Aquesta reflexió, atribuïda a Einstein, resumeix la irreversibilitat del veritable aprenentatge. L'obertura intel·lectual va ser la clau dels seus descobriments revolucionaris en física."
+    },
+    "motivationalQuote": {
+      "text": "No hi ha talent sense feina, ni feina sense talent.",
+      "author": "Pelé"
+    },
+    "births": [
+      { "name": "Henry Wadsworth Longfellow", "description": "Poeta americà del segle XIX, el més popular de la seva època; autor del Cant d'Hiawatha i El ferrer de la vila.", "year": 1807 },
+      { "name": "Ralph Nader", "description": "Advocat i activista americà, pioner de la defensa dels consumidors; les seves campanyes van provocar canvis profunds en la legislació de seguretat dels automòbils.", "year": 1934 },
+      { "name": "Josh Groban", "description": "Tenor i cantant pop americà, conegut per les seves poderoses interpretacions i àlbums de crossover clàssic-pop.", "year": 1981 }
+    ],
+    "events": [
+      { "title": "La República Dominicana declara la independència", "description": "El moviment La Trinitaria proclama la independència dominicana de l'Haití, establint el primer estat sobirà a l'illa d'Hispaniola.", "year": 1844 },
+      { "title": "Incendi del Reichstag", "description": "El parlament alemany (Reichstag) és incendiat a Berlín. El govern nazi d'Hitler aprofita el succés per decretar l'estat d'emergència i suspendre les llibertats civils.", "year": 1933 },
+      { "title": "Primer tramvia elèctric d'Espanya", "description": "Barcelona inaugura el primer tramvia elèctric d'Espanya a la línia Barcelona-Gràcia, marcant l'inici de la modernització del transport urbà.", "year": 1899 }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "date": "2025-12-09",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Leocadia de Toledo",
+        "type": "Virgen y Mártir",
+        "description": "Mártir cristiana del siglo IV, patrona de Toledo. Según la tradición murió en prisión durante la persecución de Diocleciano. Su basílica en Toledo es uno de los templos más antiguos de España."
+      },
+      {
+        "name": "San Pedro Fourier",
+        "type": "Presbítero",
+        "description": "Sacerdote loreno del siglo XVI-XVII, fundador de las Canonesas de San Agustín y promotor de la educación gratuita para niñas pobres en el noreste de Francia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional contra la Corrupción",
+        "description": "Proclamado por la ONU en 2003 para concienciar sobre los efectos devastadores de la corrupción en el desarrollo, la justicia y la paz mundial."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El peor enemigo de la razón y del progreso es la ignorancia y la corrupción.",
+      "author": "Voltaire",
+      "context": "Filósofo e ilustrado francés del siglo XVIII, cuya obra fue pionera en la denuncia de la arbitrariedad del poder y la corrupción institucional."
+    },
+    "motivationalQuote": {
+      "text": "La educación es el arma más poderosa que puedes usar para cambiar el mundo.",
+      "author": "Nelson Mandela"
+    },
+    "births": [
+      {
+        "name": "John Milton",
+        "description": "Poeta y polemista inglés del siglo XVII, autor del poema épico El paraíso perdido, considerado una de las cumbres de la literatura en lengua inglesa.",
+        "year": 1608
+      },
+      {
+        "name": "Kirk Douglas",
+        "description": "Actor y productor estadounidense, icono de Hollywood del siglo XX, conocido por Espartaco, Senderos de gloria y El loco del pelo rojo. Padre del también actor Michael Douglas.",
+        "year": 1916
+      },
+      {
+        "name": "Judi Dench",
+        "description": "Actriz británica ganadora del Óscar por Shakespeare in Love, dama del Imperio Británico y una de las intérpretes más respetadas del teatro y el cine en lengua inglesa.",
+        "year": 1934
+      }
+    ],
+    "events": [
+      {
+        "title": "Rendición de Jerusalén a las fuerzas británicas",
+        "description": "El alcalde de Jerusalén entregó la ciudad al general Edmund Allenby del ejército británico durante la Primera Guerra Mundial, poniendo fin a cuatro siglos de dominio otomano sobre la ciudad.",
+        "year": 1917
+      },
+      {
+        "title": "Aprobación de la Convención para la Prevención del Genocidio",
+        "description": "La ONU aprobó la Convención para la Prevención y Sanción del Delito de Genocidio, el primer tratado de derechos humanos de las Naciones Unidas.",
+        "year": 1948
+      },
+      {
+        "title": "Inicio del juicio de Núremberg",
+        "description": "Comenzaron formalmente los procesos de Núremberg contra los principales criminales de guerra nazis, hito fundacional del Derecho Internacional Penal.",
+        "year": 1945
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Leocadia of Toledo",
+        "type": "Virgin and Martyr",
+        "description": "Christian martyr of the 4th century, patron saint of Toledo. According to tradition she died in prison during Diocletian's persecution. Her basilica in Toledo is one of the oldest churches in Spain."
+      },
+      {
+        "name": "Saint Peter Fourier",
+        "type": "Priest",
+        "description": "Lorraine priest of the 16th–17th century, founder of the Canonesses of Saint Augustine and promoter of free education for poor girls in north-east France."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Anti-Corruption Day",
+        "description": "Proclaimed by the UN in 2003 to raise awareness of the devastating effects of corruption on development, justice, and world peace."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The worst enemy of reason and progress is ignorance and corruption.",
+      "author": "Voltaire",
+      "context": "French philosopher and Enlightenment thinker of the 18th century, whose work pioneered the denunciation of arbitrary power and institutional corruption."
+    },
+    "motivationalQuote": {
+      "text": "Education is the most powerful weapon which you can use to change the world.",
+      "author": "Nelson Mandela"
+    },
+    "births": [
+      {
+        "name": "John Milton",
+        "description": "English poet and polemicist of the 17th century, author of the epic poem Paradise Lost, considered one of the pinnacles of English literature.",
+        "year": 1608
+      },
+      {
+        "name": "Kirk Douglas",
+        "description": "American actor and producer, Hollywood icon of the 20th century, known for Spartacus, Paths of Glory, and Lust for Life. Father of actor Michael Douglas.",
+        "year": 1916
+      },
+      {
+        "name": "Judi Dench",
+        "description": "British actress who won the Academy Award for Shakespeare in Love, Dame of the British Empire, and one of the most respected performers in English-language theatre and film.",
+        "year": 1934
+      }
+    ],
+    "events": [
+      {
+        "title": "Surrender of Jerusalem to British forces",
+        "description": "The mayor of Jerusalem surrendered the city to General Edmund Allenby of the British Army during World War I, ending four centuries of Ottoman rule over the city.",
+        "year": 1917
+      },
+      {
+        "title": "Genocide Convention approved",
+        "description": "The UN adopted the Convention on the Prevention and Punishment of the Crime of Genocide, the first human rights treaty of the United Nations.",
+        "year": 1948
+      },
+      {
+        "title": "Nuremberg trials begin",
+        "description": "The Nuremberg trials of the principal Nazi war criminals formally opened, a founding milestone of international criminal law.",
+        "year": 1945
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Leocádia de Toledo",
+        "type": "Virgem e Mártir",
+        "description": "Mártir cristã do século IV, padroeira de Toledo. Segundo a tradição, morreu na prisão durante a perseguição de Diocleciano. A sua basílica em Toledo é uma das igrejas mais antigas de Espanha."
+      },
+      {
+        "name": "São Pedro Fourier",
+        "type": "Presbítero",
+        "description": "Sacerdote lorenês dos séculos XVI–XVII, fundador das Canonissas de Santo Agostinho e promotor da educação gratuita para raparigas pobres no nordeste de França."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional contra a Corrupção",
+        "description": "Proclamado pela ONU em 2003 para consciencializar sobre os efeitos devastadores da corrupção no desenvolvimento, na justiça e na paz mundial."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O pior inimigo da razão e do progresso é a ignorância e a corrupção.",
+      "author": "Voltaire",
+      "context": "Filósofo e iluminista francês do século XVIII, cuja obra foi pioneira na denúncia da arbitrariedade do poder e da corrupção institucional."
+    },
+    "motivationalQuote": {
+      "text": "A educação é a arma mais poderosa que você pode usar para mudar o mundo.",
+      "author": "Nelson Mandela"
+    },
+    "births": [
+      {
+        "name": "John Milton",
+        "description": "Poeta e polemista inglês do século XVII, autor do poema épico O Paraíso Perdido, considerado um dos cumes da literatura em língua inglesa.",
+        "year": 1608
+      },
+      {
+        "name": "Kirk Douglas",
+        "description": "Ator e produtor americano, ícone de Hollywood do século XX, conhecido por Espartaco, Glória Feita de Sangue e O Ávido Ambicioso. Pai do também ator Michael Douglas.",
+        "year": 1916
+      },
+      {
+        "name": "Judi Dench",
+        "description": "Atriz britânica vencedora do Oscar por Shakespeare Apaixonado, Dama do Império Britânico e uma das intérpretes mais respeitadas do teatro e cinema de língua inglesa.",
+        "year": 1934
+      }
+    ],
+    "events": [
+      {
+        "title": "Rendição de Jerusalém às forças britânicas",
+        "description": "O alcaide de Jerusalém entregou a cidade ao general Edmund Allenby do exército britânico durante a Primeira Guerra Mundial, pondo fim a quatro séculos de domínio otomano sobre a cidade.",
+        "year": 1917
+      },
+      {
+        "title": "Aprovação da Convenção sobre o Genocídio",
+        "description": "A ONU aprovou a Convenção para a Prevenção e Punição do Crime de Genocídio, o primeiro tratado de direitos humanos das Nações Unidas.",
+        "year": 1948
+      },
+      {
+        "title": "Início dos julgamentos de Nuremberga",
+        "description": "Os julgamentos de Nuremberga dos principais criminosos de guerra nazis foram formalmente abertos, marco fundador do Direito Penal Internacional.",
+        "year": 1945
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Leocàdia de Toledo",
+        "type": "Verge i Màrtir",
+        "description": "Màrtir cristiana del segle IV, patrona de Toledo. Segons la tradició va morir a la presó durant la persecució de Dioclecià. La seva basílica a Toledo és una de les esglésies més antigues d'Espanya."
+      },
+      {
+        "name": "Sant Pere Fourier",
+        "type": "Prevere",
+        "description": "Sacerdot lorenès dels segles XVI–XVII, fundador de les Canonesses de Sant Agustí i promotor de l'educació gratuïta per a noies pobres al nord-est de França."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional contra la Corrupció",
+        "description": "Proclamat per l'ONU el 2003 per conscienciar sobre els efectes devastadors de la corrupció en el desenvolupament, la justícia i la pau mundial."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El pitjor enemic de la raó i del progrés és la ignorància i la corrupció.",
+      "author": "Voltaire",
+      "context": "Filòsof i il·lustrat francès del segle XVIII, la obra del qual va ser pionera en la denúncia de l'arbitrarietat del poder i la corrupció institucional."
+    },
+    "motivationalQuote": {
+      "text": "L'educació és l'arma més poderosa que pots fer servir per canviar el món.",
+      "author": "Nelson Mandela"
+    },
+    "births": [
+      {
+        "name": "John Milton",
+        "description": "Poeta i polemista anglès del segle XVII, autor del poema èpic El Paradís Perdut, considerat un dels cims de la literatura en llengua anglesa.",
+        "year": 1608
+      },
+      {
+        "name": "Kirk Douglas",
+        "description": "Actor i productor nord-americà, icona de Hollywood del segle XX, conegut per Espartac, Camins de Glòria i El Boig del Cabell Roig. Pare de l'també actor Michael Douglas.",
+        "year": 1916
+      },
+      {
+        "name": "Judi Dench",
+        "description": "Actriu britànica guanyadora de l'Oscar per Shakespeare enamorat, Dama de l'Imperi Britànic i una de les intèrprets més respectades del teatre i el cinema de llengua anglesa.",
+        "year": 1934
+      }
+    ],
+    "events": [
+      {
+        "title": "Rendició de Jerusalem a les forces britàniques",
+        "description": "L'alcalde de Jerusalem va lliurar la ciutat al general Edmund Allenby de l'exèrcit britànic durant la Primera Guerra Mundial, posant fi a quatre segles de domini otomà sobre la ciutat.",
+        "year": 1917
+      },
+      {
+        "title": "Aprovació de la Convenció sobre el Genocidi",
+        "description": "L'ONU va aprovar la Convenció per a la Prevenció i Sanció del Crim de Genocidi, el primer tractat de drets humans de les Nacions Unides.",
+        "year": 1948
+      },
+      {
+        "title": "Inici dels judicis de Nuremberg",
+        "description": "Els judicis de Nuremberg dels principals criminals de guerra nazis van ser formalment oberts, fita fundadora del Dret Penal Internacional.",
+        "year": 1945
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-17",
+  "es": {
+    "saints": [
+      {
+        "name": "San Pascual Bailón",
+        "type": "Fraile franciscano",
+        "description": "Fraile franciscano español del siglo XVI, nacido en Torre Hermosa (Zaragoza). Célebre por su profunda devoción eucarística y su vida de pobreza extrema. Fue canonizado en 1690 y en 1897 fue proclamado patrono de los congresos y obras eucarísticas. Es patrón de Valencia y de las pastores."
+      },
+      {
+        "name": "Santa Restituta de Cartago",
+        "type": "Virgen y Mártir",
+        "description": "Mártir cristiana africana del siglo III, quemada viva en una barca cargada de paja en el mar frente a Cartago durante las persecuciones del emperador Valeriano. Sus reliquias fueron llevadas a Nápoles, donde es venerada como patrona principal de la ciudad."
+      },
+      {
+        "name": "San Ubaldo de Gubbio",
+        "type": "Obispo",
+        "description": "Obispo de Gubbio (Italia) del siglo XII, conocido por su paciencia y humildad. Fue consejero del papa Inocencio II y rechazó el arzobispado de Ravena por modestia. Es patrono de Gubbio y protector contra la posesión diabólica."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de las Telecomunicaciones y la Sociedad de la Información",
+        "description": "Proclamado por la Unión Internacional de Telecomunicaciones (UIT) el 17 de mayo, fecha en que se firmó el primer Convenio Telegráfico Internacional en 1865. Celebra el poder de las telecomunicaciones para impulsar el desarrollo social y económico."
+      },
+      {
+        "name": "Día Internacional contra la Homofobia, la Bifobia y la Transfobia (IDAHOT)",
+        "description": "Celebrado cada 17 de mayo en conmemoración de la retirada de la homosexualidad de la lista de enfermedades mentales de la OMS en 1990. Promueve la visibilidad y los derechos de las personas LGTBIQ+."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La comunicación lleva a la comunidad, es decir, a la comprensión, la intimidad y el respeto mutuo.",
+      "author": "Rollo May"
+    },
+    "motivationalQuote": {
+      "text": "Un viaje de mil millas comienza con un solo paso.",
+      "author": "Lao Tsé"
+    },
+    "births": [
+      {
+        "name": "Sandro Botticelli",
+        "description": "Pintor florentino del Renacimiento, uno de los artistas más representativos del Quattrocento italiano. Sus obras El nacimiento de Venus y La primavera son iconos del arte universal. Trabajó bajo el mecenazgo de los Médicis y dejó una impronta imborrable en la historia del arte.",
+        "year": "1445"
+      },
+      {
+        "name": "Dennis Hopper",
+        "description": "Actor, director y artista americano, icono de la contracultura de los años 60 y 70. Dirigió y protagonizó Easy Rider (1969), que revolucionó el cine independiente americano. También fue un reconocido fotógrafo y coleccionista de arte.",
+        "year": "1936"
+      },
+      {
+        "name": "Jordan Knight",
+        "description": "Cantante americano, miembro del grupo New Kids on the Block, uno de los boy bands más exitosos de los años 80. Con millones de fans en todo el mundo, fue un fenómeno de masas que marcó toda una generación.",
+        "year": "1970"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer Convenio Telegráfico Internacional",
+        "description": "Veinte naciones europeas firmaron en París el primer Convenio Telegráfico Internacional, creando la Unión Telegráfica Internacional (antecesora de la UIT). Este tratado estableció las bases de la cooperación internacional en telecomunicaciones.",
+        "year": "1865"
+      },
+      {
+        "title": "Noruega celebra su Día de la Constitución",
+        "description": "Noruega conmemora la firma de su constitución el 17 de mayo de 1814, uno de los días nacionales más celebrados de Europa, con desfiles y festividades en todo el país.",
+        "year": "1814"
+      },
+      {
+        "title": "Primera Final de la Copa de Europa de Fútbol",
+        "description": "El Real Madrid venció al Stade de Reims por 4-3 en el Parque de los Príncipes de París en la primera final de la Copa de Europa de Fútbol, lo que marcaría el inicio de la hegemonía del club madridista en Europa.",
+        "year": "1956"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Paschal Baylon",
+        "type": "Franciscan Friar",
+        "description": "16th-century Spanish Franciscan friar, born in Torre Hermosa (Zaragoza). Famous for his deep Eucharistic devotion and life of extreme poverty. He was canonised in 1690 and in 1897 was proclaimed patron of Eucharistic congresses and works. He is patron of Valencia and of shepherds."
+      },
+      {
+        "name": "Saint Restituta of Carthage",
+        "type": "Virgin and Martyr",
+        "description": "3rd-century African Christian martyr, burned alive on a boat loaded with straw at sea off Carthage during the persecutions of Emperor Valerian. Her relics were taken to Naples, where she is venerated as the city's principal patron saint."
+      },
+      {
+        "name": "Saint Ubaldo of Gubbio",
+        "type": "Bishop",
+        "description": "12th-century Bishop of Gubbio (Italy), known for his patience and humility. He was an adviser to Pope Innocent II and declined the archbishopric of Ravenna out of modesty. He is the patron saint of Gubbio and protector against diabolical possession."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Telecommunications and Information Society Day",
+        "description": "Proclaimed by the International Telecommunication Union (ITU) on May 17, the date the first International Telegraph Convention was signed in 1865. It celebrates the power of telecommunications to drive social and economic development."
+      },
+      {
+        "name": "International Day Against Homophobia, Biphobia, and Transphobia (IDAHOT)",
+        "description": "Celebrated every May 17 to mark the removal of homosexuality from the WHO list of mental disorders in 1990. It promotes visibility and rights for LGBTIQ+ people."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Communication leads to community, that is, to understanding, intimacy, and mutual valuing.",
+      "author": "Rollo May"
+    },
+    "motivationalQuote": {
+      "text": "A journey of a thousand miles begins with a single step.",
+      "author": "Lao Tzu"
+    },
+    "births": [
+      {
+        "name": "Sandro Botticelli",
+        "description": "Florentine Renaissance painter, one of the most representative artists of the Italian Quattrocento. His works The Birth of Venus and Primavera are icons of universal art. He worked under the patronage of the Medici and left an indelible mark on art history.",
+        "year": "1445"
+      },
+      {
+        "name": "Dennis Hopper",
+        "description": "American actor, director, and artist, icon of the counterculture of the 1960s and 1970s. He directed and starred in Easy Rider (1969), which revolutionised American independent cinema. He was also a renowned photographer and art collector.",
+        "year": "1936"
+      },
+      {
+        "name": "Jordan Knight",
+        "description": "American singer, member of the group New Kids on the Block, one of the most successful boy bands of the 1980s. With millions of fans worldwide, he was a mass phenomenon that defined a generation.",
+        "year": "1970"
+      }
+    ],
+    "events": [
+      {
+        "title": "First International Telegraph Convention",
+        "description": "Twenty European nations signed the first International Telegraph Convention in Paris, creating the International Telegraph Union (forerunner of the ITU). This treaty laid the foundations for international cooperation in telecommunications.",
+        "year": "1865"
+      },
+      {
+        "title": "Norway Celebrates Constitution Day",
+        "description": "Norway commemorates the signing of its constitution on 17 May 1814, one of the most celebrated national days in Europe, with parades and festivities across the country.",
+        "year": "1814"
+      },
+      {
+        "title": "First European Cup Football Final",
+        "description": "Real Madrid defeated Stade de Reims 4–3 at the Parc des Princes in Paris in the first European Cup final, marking the beginning of the Madrid club's dominance in European football.",
+        "year": "1956"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Pascácio Bailão",
+        "type": "Frade Franciscano",
+        "description": "Frade franciscano espanhol do século XVI, nascido em Torre Hermosa (Zaragoza). Célebre por sua profunda devoção eucarística e vida de extrema pobreza. Foi canonizado em 1690 e em 1897 foi proclamado padroeiro dos congressos e obras eucarísticas. É patrono de Valência e dos pastores."
+      },
+      {
+        "name": "Santa Restituta de Cartago",
+        "type": "Virgem e Mártir",
+        "description": "Mártir cristã africana do século III, queimada viva em um barco carregado de palha no mar perto de Cartago durante as perseguições do imperador Valeriano. Suas relíquias foram levadas para Nápoles, onde é venerada como padroeira principal da cidade."
+      },
+      {
+        "name": "São Ubaldo de Gubbio",
+        "type": "Bispo",
+        "description": "Bispo de Gubbio (Itália) do século XII, conhecido por sua paciência e humildade. Foi conselheiro do papa Inocêncio II e recusou o arcebispado de Ravena por modéstia. É padroeiro de Gubbio e protetor contra a possessão diabólica."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial das Telecomunicações e da Sociedade da Informação",
+        "description": "Proclamado pela União Internacional de Telecomunicações (UIT) em 17 de maio, data em que foi assinada a primeira Convenção Telegráfica Internacional em 1865. Celebra o poder das telecomunicações para impulsionar o desenvolvimento social e econômico."
+      },
+      {
+        "name": "Dia Internacional contra a Homofobia, a Bifobia e a Transfobia (IDAHOT)",
+        "description": "Celebrado em 17 de maio em comemoração à retirada da homossexualidade da lista de doenças mentais da OMS em 1990. Promove a visibilidade e os direitos das pessoas LGBTIQ+."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A comunicação leva à comunidade, ou seja, à compreensão, à intimidade e ao respeito mútuo.",
+      "author": "Rollo May"
+    },
+    "motivationalQuote": {
+      "text": "Uma jornada de mil milhas começa com um único passo.",
+      "author": "Lao Tsé"
+    },
+    "births": [
+      {
+        "name": "Sandro Botticelli",
+        "description": "Pintor florentino do Renascimento, um dos artistas mais representativos do Quattrocento italiano. Suas obras O Nascimento de Vênus e A Primavera são ícones da arte universal. Trabalhou sob o mecenato dos Médici e deixou uma marca indelével na história da arte.",
+        "year": "1445"
+      },
+      {
+        "name": "Dennis Hopper",
+        "description": "Ator, diretor e artista americano, ícone da contracultura dos anos 60 e 70. Dirigiu e estrelou Easy Rider (1969), que revolucionou o cinema independente americano. Foi também um reconhecido fotógrafo e colecionador de arte.",
+        "year": "1936"
+      },
+      {
+        "name": "Jordan Knight",
+        "description": "Cantor americano, membro do grupo New Kids on the Block, um dos boy bands mais bem-sucedidos dos anos 80. Com milhões de fãs em todo o mundo, foi um fenômeno de massa que marcou toda uma geração.",
+        "year": "1970"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeira Convenção Telegráfica Internacional",
+        "description": "Vinte nações europeias assinaram em Paris a primeira Convenção Telegráfica Internacional, criando a União Telegráfica Internacional (antecessora da UIT). Este tratado estabeleceu as bases da cooperação internacional em telecomunicações.",
+        "year": "1865"
+      },
+      {
+        "title": "Noruega celebra seu Dia da Constituição",
+        "description": "A Noruega comemora a assinatura de sua constituição em 17 de maio de 1814, um dos dias nacionais mais celebrados da Europa, com desfiles e festividades em todo o país.",
+        "year": "1814"
+      },
+      {
+        "title": "Primeira final da Copa dos Clubes Campeões Europeus",
+        "description": "O Real Madrid venceu o Stade de Reims por 4 a 3 no Parque dos Príncipes em Paris na primeira final da Copa dos Clubes Campeões, marcando o início da hegemonia do clube madrileno no futebol europeu.",
+        "year": "1956"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Pasqual Bailon",
+        "type": "Frare Franciscà",
+        "description": "Frare franciscà espanyol del segle XVI, nascut a Torre Hermosa (Saragossa). Cèlebre per la seva profunda devoció eucarística i la seva vida de pobresa extrema. Va ser canonitzat el 1690 i el 1897 va ser proclamat patró dels congressos i obres eucarístiques. És patró de València i dels pastors."
+      },
+      {
+        "name": "Santa Restituta de Cartago",
+        "type": "Verge i Màrtir",
+        "description": "Màrtir cristiana africana del segle III, cremada viva en una barca carregada de palla al mar prop de Cartago durant les persecucions de l'emperador Valerià. Les seves relíquies van ser portades a Nàpols, on és venerada com a patrona principal de la ciutat."
+      },
+      {
+        "name": "Sant Ubald de Gubbio",
+        "type": "Bisbe",
+        "description": "Bisbe de Gubbio (Itàlia) del segle XII, conegut per la seva paciència i humilitat. Va ser conseller del papa Innocenci II i va rebutjar l'arquebisbat de Ravena per modèstia. És patró de Gubbio i protector contra la possessió diabòlica."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de les Telecomunicacions i la Societat de la Informació",
+        "description": "Proclamat per la Unió Internacional de Telecomunicacions (UIT) el 17 de maig, data en què es va signar el primer Conveni Telegràfic Internacional el 1865. Celebra el poder de les telecomunicacions per impulsar el desenvolupament social i econòmic."
+      },
+      {
+        "name": "Dia Internacional contra l'Homofòbia, la Bifòbia i la Transfòbia (IDAHOT)",
+        "description": "Celebrat cada 17 de maig en commemoració de la retirada de l'homosexualitat de la llista de malalties mentals de l'OMS el 1990. Promou la visibilitat i els drets de les persones LGTBIQ+."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La comunicació porta a la comunitat, és a dir, a la comprensió, la intimitat i el respecte mutu.",
+      "author": "Rollo May"
+    },
+    "motivationalQuote": {
+      "text": "Un viatge de mil milles comença amb un sol pas.",
+      "author": "Lao Tsé"
+    },
+    "births": [
+      {
+        "name": "Sandro Botticelli",
+        "description": "Pintor florentí del Renaixement, un dels artistes més representatius del Quattrocento italià. Les seves obres El naixement de Venus i La primavera són icones de l'art universal. Va treballar sota el mecenatge dels Mèdici i va deixar una empremta inesborrable en la història de l'art.",
+        "year": "1445"
+      },
+      {
+        "name": "Dennis Hopper",
+        "description": "Actor, director i artista americà, icona de la contracultura dels anys 60 i 70. Va dirigir i protagonitzar Easy Rider (1969), que va revolucionar el cinema independent americà. Va ser també un reconegut fotògraf i col·leccionista d'art.",
+        "year": "1936"
+      },
+      {
+        "name": "Jordan Knight",
+        "description": "Cantant americà, membre del grup New Kids on the Block, un dels boy bands amb més èxit dels anys 80. Amb milions de fans arreu del món, va ser un fenomen de masses que va marcar tota una generació.",
+        "year": "1970"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer Conveni Telegràfic Internacional",
+        "description": "Vint nacions europees van signar a París el primer Conveni Telegràfic Internacional, creant la Unió Telegràfica Internacional (antecessora de la UIT). Aquest tractat va establir les bases de la cooperació internacional en telecomunicacions.",
+        "year": "1865"
+      },
+      {
+        "title": "Noruega celebra el seu Dia de la Constitució",
+        "description": "Noruega commemora la signatura de la seva constitució el 17 de maig de 1814, un dels dies nacionals més celebrats d'Europa, amb desfilades i festivitats a tot el país.",
+        "year": "1814"
+      },
+      {
+        "title": "Primera final de la Copa d'Europa de futbol",
+        "description": "El Reial Madrid va vèncer l'Stade de Reims per 4–3 al Parc dels Prínceps de París en la primera final de la Copa d'Europa, marcant l'inici de l'hegemonia del club madrileny al futbol europeu.",
+        "year": "1956"
+      }
+    ]
+  }
+}

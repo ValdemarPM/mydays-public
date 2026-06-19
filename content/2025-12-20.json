@@ -1,0 +1,255 @@
+{
+  "date": "2025-12-20",
+  "es": {
+    "saints": [
+      {
+        "name": "Santo Domingo de Silos",
+        "type": "Abad",
+        "description": "Monje benedictino español del siglo XI, reformador del monasterio de Silos (Burgos), donde ejerció como abad. Es famoso por el Beato de Silos y los manuscritos iluminados producidos en su scriptorium."
+      },
+      {
+        "name": "San Uri de Lituania",
+        "type": "Mártir",
+        "description": "Mártir cristiano del siglo XIV en Lituania, muerto junto a sus hermanos Antonino y Juan por negarse a abjurar del cristianismo ante el príncipe pagano Algirdas."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Solidaridad Humana",
+        "description": "Proclamado por la ONU para celebrar la unidad en la diversidad, recordar que la solidaridad es uno de los valores fundamentales de las relaciones internacionales del siglo XXI."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No hay extranjeros en nuestro mundo, solo amigos que aún no nos conocemos.",
+      "author": "William Butler Yeats",
+      "context": "Poeta irlandés, Premio Nobel de Literatura en 1923, cuya visión humanista de la solidaridad resuena en el Día Internacional de la Solidaridad Humana."
+    },
+    "motivationalQuote": {
+      "text": "La solidaridad es el tendón del mundo.",
+      "author": "Albert Camus"
+    },
+    "births": [
+      {
+        "name": "Horace",
+        "description": "Poeta latino del siglo I a.C., considerado el mayor lírico de la literatura romana, autor de las Odas y las Sátiras, cuya máxima 'Carpe Diem' sigue siendo universalmente conocida.",
+        "year": -65
+      },
+      {
+        "name": "Harvey Firestone",
+        "description": "Empresario estadounidense fundador de la Firestone Tire and Rubber Company, uno de los primeros en proporcionar neumáticos para los automóviles de Henry Ford.",
+        "year": 1868
+      },
+      {
+        "name": "Uri Geller",
+        "description": "Ilusionista y prestidigitador israelí famoso por sus supuestos poderes paranormales, especialmente la capacidad de doblar cucharas con la mente.",
+        "year": 1946
+      }
+    ],
+    "events": [
+      {
+        "title": "Compra de Luisiana (firma del tratado)",
+        "description": "Francia y Estados Unidos firmaron el Tratado de la Compra de Luisiana, por el que EE.UU. adquirió por 15 millones de dólares un territorio de 2,1 millones de km² que dobló su extensión.",
+        "year": 1803
+      },
+      {
+        "title": "Secesión de Carolina del Sur",
+        "description": "Carolina del Sur se convirtió en el primer estado de los EE.UU. en declarar su secesión de la Unión, precipitando la Guerra Civil Americana.",
+        "year": 1860
+      },
+      {
+        "title": "Invasión de Panamá por EE.UU.",
+        "description": "Los Estados Unidos lanzaron la Operación Causa Justa, invadiendo Panamá para derrocar al general Manuel Noriega, acusado de narcotráfico y fraude electoral.",
+        "year": 1989
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Dominic of Silos",
+        "type": "Abbot",
+        "description": "Spanish Benedictine monk of the 11th century, reformer of the Monastery of Silos (Burgos), where he served as abbot. Famous for the Beatus of Silos and the illuminated manuscripts produced in its scriptorium."
+      },
+      {
+        "name": "Saint Uri of Lithuania",
+        "type": "Martyr",
+        "description": "Christian martyr of the 14th century in Lithuania, killed together with his brothers Anthony and John for refusing to renounce Christianity before the pagan prince Algirdas."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Human Solidarity Day",
+        "description": "Proclaimed by the UN to celebrate unity in diversity and to recall that solidarity is one of the fundamental values of 21st-century international relations."
+      }
+    ],
+    "historicalQuote": {
+      "text": "There are no strangers in our world, only friends we have not yet met.",
+      "author": "William Butler Yeats",
+      "context": "Irish poet and Nobel Prize in Literature laureate (1923), whose humanist vision of solidarity resonates on International Human Solidarity Day."
+    },
+    "motivationalQuote": {
+      "text": "Solidarity is the sinew of the world.",
+      "author": "Albert Camus"
+    },
+    "births": [
+      {
+        "name": "Horace",
+        "description": "Latin poet of the 1st century BC, considered the greatest lyric poet of Roman literature, author of the Odes and Satires, whose maxim 'Carpe Diem' remains universally known.",
+        "year": -65
+      },
+      {
+        "name": "Harvey Firestone",
+        "description": "American entrepreneur and founder of the Firestone Tire and Rubber Company, one of the first to supply tyres for Henry Ford's automobiles.",
+        "year": 1868
+      },
+      {
+        "name": "Uri Geller",
+        "description": "Israeli illusionist and conjurer famous for his alleged paranormal powers, especially the ability to bend spoons with his mind.",
+        "year": 1946
+      }
+    ],
+    "events": [
+      {
+        "title": "Louisiana Purchase treaty signed",
+        "description": "France and the United States signed the Louisiana Purchase Treaty, by which the US acquired 2.1 million km² of territory for 15 million dollars, doubling its size.",
+        "year": 1803
+      },
+      {
+        "title": "South Carolina secedes",
+        "description": "South Carolina became the first US state to declare secession from the Union, precipitating the American Civil War.",
+        "year": 1860
+      },
+      {
+        "title": "US invasion of Panama",
+        "description": "The United States launched Operation Just Cause, invading Panama to overthrow General Manuel Noriega, charged with drug trafficking and electoral fraud.",
+        "year": 1989
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Domingos de Silos",
+        "type": "Abade",
+        "description": "Monge beneditino espanhol do século XI, reformador do Mosteiro de Silos (Burgos), onde exerceu como abade. Famoso pelo Beato de Silos e os manuscritos iluminados produzidos no seu scriptorium."
+      },
+      {
+        "name": "São Uri da Lituânia",
+        "type": "Mártir",
+        "description": "Mártir cristão do século XIV na Lituânia, morto juntamente com os seus irmãos António e João por se recusarem a abjurar do cristianismo perante o príncipe pagão Algirdas."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Solidariedade Humana",
+        "description": "Proclamado pela ONU para celebrar a unidade na diversidade e recordar que a solidariedade é um dos valores fundamentais das relações internacionais do século XXI."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Não há estrangeiros no nosso mundo, apenas amigos que ainda não conhecemos.",
+      "author": "William Butler Yeats",
+      "context": "Poeta irlandês e Nobel de Literatura em 1923, cuja visão humanista da solidariedade ressoa no Dia Internacional da Solidariedade Humana."
+    },
+    "motivationalQuote": {
+      "text": "A solidariedade é o tendão do mundo.",
+      "author": "Albert Camus"
+    },
+    "births": [
+      {
+        "name": "Horácio",
+        "description": "Poeta latino do século I a.C., considerado o maior lírico da literatura romana, autor das Odes e das Sátiras, cuja máxima 'Carpe Diem' continua universalmente conhecida.",
+        "year": -65
+      },
+      {
+        "name": "Harvey Firestone",
+        "description": "Empresário americano e fundador da Firestone Tire and Rubber Company, um dos primeiros a fornecer pneus para os automóveis de Henry Ford.",
+        "year": 1868
+      },
+      {
+        "name": "Uri Geller",
+        "description": "Ilusionista e prestidigitador israelense famoso pelos seus supostos poderes paranormais, especialmente a capacidade de dobrar colheres com a mente.",
+        "year": 1946
+      }
+    ],
+    "events": [
+      {
+        "title": "Assinatura do Tratado da Compra da Luisiana",
+        "description": "França e os Estados Unidos assinaram o Tratado da Compra da Luisiana, pelo qual os EUA adquiriram 2,1 milhões de km² de território por 15 milhões de dólares, duplicando a sua extensão.",
+        "year": 1803
+      },
+      {
+        "title": "Carolina do Sul secciona-se",
+        "description": "A Carolina do Sul tornou-se o primeiro estado dos EUA a declarar a sua secessão da União, precipitando a Guerra Civil Americana.",
+        "year": 1860
+      },
+      {
+        "title": "Invasão do Panamá pelos EUA",
+        "description": "Os Estados Unidos lançaram a Operação Causa Justa, invadindo o Panamá para derrubar o general Manuel Noriega, acusado de narcotráfico e fraude eleitoral.",
+        "year": 1989
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Domingo de Silos",
+        "type": "Abat",
+        "description": "Monjo benedictí espanyol del segle XI, reformador del monestir de Silos (Burgos), on va exercir com a abat. Famós pel Beat de Silos i els manuscrits il·luminats produïts al seu scriptorium."
+      },
+      {
+        "name": "Sant Uri de Lituània",
+        "type": "Màrtir",
+        "description": "Màrtir cristià del segle XIV a Lituània, mort juntament amb els seus germans Antoni i Joan per negar-se a abjurar del cristianisme davant el príncep pagà Algirdas."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la Solidaritat Humana",
+        "description": "Proclamat per l'ONU per celebrar la unitat en la diversitat i recordar que la solidaritat és un dels valors fonamentals de les relacions internacionals del segle XXI."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No hi ha estrangers al nostre món, només amics que encara no hem conegut.",
+      "author": "William Butler Yeats",
+      "context": "Poeta irlandès i Premi Nobel de Literatura el 1923, la visió humanista del qual sobre la solidaritat ressona en el Dia Internacional de la Solidaritat Humana."
+    },
+    "motivationalQuote": {
+      "text": "La solidaritat és el tendó del món.",
+      "author": "Albert Camus"
+    },
+    "births": [
+      {
+        "name": "Horaci",
+        "description": "Poeta llatí del segle I aC, considerat el major líric de la literatura romana, autor de les Odes i les Sàtires, la màxima del qual 'Carpe Diem' continua sent universalment coneguda.",
+        "year": -65
+      },
+      {
+        "name": "Harvey Firestone",
+        "description": "Empresari americà i fundador de la Firestone Tire and Rubber Company, un dels primers a subministrar pneumàtics per als automòbils de Henry Ford.",
+        "year": 1868
+      },
+      {
+        "name": "Uri Geller",
+        "description": "Il·lusionista i prestidigitador israelià famós pels seus suposats poders paranormals, especialment la capacitat de doblegar culleres amb la ment.",
+        "year": 1946
+      }
+    ],
+    "events": [
+      {
+        "title": "Signatura del Tractat de la Compra de Louisiana",
+        "description": "França i els Estats Units van signar el Tractat de la Compra de Louisiana, pel qual els EUA van adquirir 2,1 milions de km² de territori per 15 milions de dòlars, doblant la seva extensió.",
+        "year": 1803
+      },
+      {
+        "title": "Carolina del Sud se secciona",
+        "description": "Carolina del Sud es va convertir en el primer estat dels EUA a declarar la seva secessió de la Unió, precipitant la Guerra Civil Americana.",
+        "year": 1860
+      },
+      {
+        "title": "Invasió de Panamà pels EUA",
+        "description": "Els Estats Units van llançar l'Operació Causa Justa, envaint Panamà per enderrocar el general Manuel Noriega, acusat de narcotràfic i frau electoral.",
+        "year": 1989
+      }
+    ]
+  }
+}

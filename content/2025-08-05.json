@@ -1,0 +1,291 @@
+{
+  "date": "2025-08-05",
+  "es": {
+    "saints": [
+      {
+        "name": "Nuestra Señora de las Nieves",
+        "type": "Advocación mariana",
+        "description": "Advocación de la Virgen María ligada a la leyenda de la milagrosa nevada en el monte Esquilino de Roma en agosto del año 352, que indicó el lugar donde construir la Basílica de Santa María la Mayor."
+      },
+      {
+        "name": "San Abel",
+        "type": "Patriarca bíblico",
+        "description": "Segundo hijo de Adán y Eva según el Génesis, muerto por su hermano Caín. Considerado el primer mártir de la humanidad en la tradición cristiana y venerado en el santoral del 5 de agosto."
+      },
+      {
+        "name": "San Osvaldo de Northumbria",
+        "type": "Rey y Mártir",
+        "description": "Rey cristiano de Northumbria (siglo VII) que propagó el cristianismo en el norte de Inglaterra con la ayuda de San Aedán de Lindisfarne. Murió en batalla y fue venerado como mártir."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de Burkina Faso",
+        "description": "Burkina Faso (antes Alto Volta) proclamó su independencia de Francia el 5 de agosto de 1960. Es fiesta nacional en el país del África Occidental."
+      },
+      {
+        "name": "Día del Trabajo de Trinidad y Tobago",
+        "description": "Trinidad y Tobago celebra este día como parte de sus festividades nacionales previas al Día de la Independencia del 31 de agosto."
+      }
+    ],
+    "historicalQuote": {
+      "text": "He aprendido que el valor no es la ausencia del miedo, sino el triunfo sobre él.",
+      "author": "Nelson Mandela",
+      "context": "El líder sudafricano, nacido el 18 de julio de 1918, pasó 27 años en prisión antes de convertirse en el primer presidente negro de Sudáfrica. Esta cita refleja su experiencia de resistencia frente a la adversidad."
+    },
+    "motivationalQuote": {
+      "text": "Sé el cambio que quieres ver en el mundo.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Guy de Maupassant",
+        "description": "Novelista y cuentista francés del naturalismo, considerado uno de los maestros del cuento corto. Sus obras más conocidas incluyen Bola de sebo y El collar.",
+        "year": 1850
+      },
+      {
+        "name": "Neil Armstrong",
+        "description": "Astronauta y piloto estadounidense, el primer ser humano en pisar la Luna el 20 de julio de 1969 durante la misión Apolo 11.",
+        "year": 1930
+      },
+      {
+        "name": "Loni Anderson",
+        "description": "Actriz estadounidense conocida por su papel en la serie de televisión WKRP in Cincinnati (1978–1982), uno de los rostros más populares de la televisión americana de los años ochenta.",
+        "year": 1945
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer enlace telegráfico transatlántico",
+        "description": "El 5 de agosto de 1858 se completó el tendido del primer cable telegráfico transatlántico entre Europa y América, permitiendo la comunicación casi instantánea entre ambos continentes por primera vez en la historia.",
+        "year": 1858
+      },
+      {
+        "title": "Estados Unidos firma el Tratado de No Proliferación Nuclear",
+        "description": "El 5 de agosto de 1963, Estados Unidos, la Unión Soviética y el Reino Unido firmaron el Tratado de Prohibición Parcial de Ensayos Nucleares, el primero en limitar las pruebas atómicas.",
+        "year": 1963
+      },
+      {
+        "title": "Muerte de Marilyn Monroe",
+        "description": "La actriz y símbolo sexual más célebre del siglo XX, Marilyn Monroe, fue hallada muerta en su casa de Los Ángeles el 5 de agosto de 1962. Tenía 36 años.",
+        "year": 1962
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Our Lady of the Snows",
+        "type": "Marian title",
+        "description": "A Marian title linked to the legend of the miraculous snowfall on the Esquiline Hill in Rome in August 352, which indicated the site where the Basilica of Santa Maria Maggiore was to be built."
+      },
+      {
+        "name": "Saint Abel",
+        "type": "Biblical patriarch",
+        "description": "Second son of Adam and Eve according to Genesis, killed by his brother Cain. Regarded as the first martyr of humanity in the Christian tradition, venerated on 5 August."
+      },
+      {
+        "name": "Saint Oswald of Northumbria",
+        "type": "King and Martyr",
+        "description": "Christian king of Northumbria (7th century) who spread Christianity in northern England with the help of Saint Aidan of Lindisfarne. He died in battle and was venerated as a martyr."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Independence Day of Burkina Faso",
+        "description": "Burkina Faso (formerly Upper Volta) proclaimed its independence from France on 5 August 1960. It is a national holiday in the West African country."
+      },
+      {
+        "name": "Labour Day of Trinidad and Tobago",
+        "description": "Trinidad and Tobago observes this day as part of its national festivities ahead of Independence Day on 31 August."
+      }
+    ],
+    "historicalQuote": {
+      "text": "I learned that courage was not the absence of fear, but the triumph over it.",
+      "author": "Nelson Mandela",
+      "context": "The South African leader, born on 18 July 1918, spent 27 years in prison before becoming South Africa's first black president. This quote reflects his experience of resistance in the face of adversity."
+    },
+    "motivationalQuote": {
+      "text": "Be the change you wish to see in the world.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Guy de Maupassant",
+        "description": "French naturalist novelist and short story writer, considered one of the masters of the short story form. His best-known works include Ball of Fat and The Necklace.",
+        "year": 1850
+      },
+      {
+        "name": "Neil Armstrong",
+        "description": "American astronaut and test pilot, the first human being to walk on the Moon on 20 July 1969 during the Apollo 11 mission.",
+        "year": 1930
+      },
+      {
+        "name": "Loni Anderson",
+        "description": "American actress known for her role in the television series WKRP in Cincinnati (1978–1982), one of the most popular faces on American television in the 1980s.",
+        "year": 1945
+      }
+    ],
+    "events": [
+      {
+        "title": "First transatlantic telegraph cable completed",
+        "description": "On 5 August 1858, the laying of the first transatlantic telegraph cable between Europe and America was completed, enabling near-instant communication between the two continents for the first time in history.",
+        "year": 1858
+      },
+      {
+        "title": "Partial Nuclear Test Ban Treaty signed",
+        "description": "On 5 August 1963, the United States, the Soviet Union, and the United Kingdom signed the Partial Nuclear Test Ban Treaty, the first agreement to limit nuclear testing.",
+        "year": 1963
+      },
+      {
+        "title": "Death of Marilyn Monroe",
+        "description": "The most celebrated actress and sex symbol of the 20th century, Marilyn Monroe, was found dead at her home in Los Angeles on 5 August 1962. She was 36 years old.",
+        "year": 1962
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Nossa Senhora das Neves",
+        "type": "Invocação mariana",
+        "description": "Invocação da Virgem Maria ligada à lenda da nevada milagrosa no monte Esquilino de Roma em agosto de 352, que indicou o local onde construir a Basílica de Santa Maria Maior."
+      },
+      {
+        "name": "São Abel",
+        "type": "Patriarca bíblico",
+        "description": "Segundo filho de Adão e Eva segundo o Génesis, morto pelo seu irmão Caim. Considerado o primeiro mártir da humanidade na tradição cristã e venerado em 5 de agosto."
+      },
+      {
+        "name": "São Osvaldo da Nortúmbria",
+        "type": "Rei e Mártir",
+        "description": "Rei cristão da Nortúmbria (século VII) que difundiu o cristianismo no norte de Inglaterra com a ajuda de São Aidã de Lindisfarne. Morreu em batalha e foi venerado como mártir."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência de Burkina Faso",
+        "description": "Burkina Faso (antes Alto Volta) proclamou a sua independência da França em 5 de agosto de 1960. É feriado nacional no país da África Ocidental."
+      },
+      {
+        "name": "Dia do Trabalho de Trinidad e Tobago",
+        "description": "Trinidad e Tobago observa este dia como parte das suas festividades nacionais antes do Dia da Independência em 31 de agosto."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Aprendi que a coragem não é a ausência do medo, mas o triunfo sobre ele.",
+      "author": "Nelson Mandela",
+      "context": "O líder sul-africano, nascido em 18 de julho de 1918, passou 27 anos na prisão antes de se tornar o primeiro presidente negro da África do Sul. Esta citação reflete a sua experiência de resistência diante da adversidade."
+    },
+    "motivationalQuote": {
+      "text": "Seja a mudança que você deseja ver no mundo.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Guy de Maupassant",
+        "description": "Romancista e contista francês do naturalismo, considerado um dos mestres do conto curto. As suas obras mais conhecidas incluem Bola de Sebo e O Colar.",
+        "year": 1850
+      },
+      {
+        "name": "Neil Armstrong",
+        "description": "Astronauta e piloto americano, o primeiro ser humano a pisar na Lua em 20 de julho de 1969 durante a missão Apollo 11.",
+        "year": 1930
+      },
+      {
+        "name": "Loni Anderson",
+        "description": "Atriz americana conhecida pelo seu papel na série de televisão WKRP in Cincinnati (1978–1982), um dos rostos mais populares da televisão americana nos anos oitenta.",
+        "year": 1945
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeiro cabo telegráfico transatlântico concluído",
+        "description": "Em 5 de agosto de 1858, foi concluído o tendimento do primeiro cabo telegráfico transatlântico entre a Europa e a América, possibilitando a comunicação quase instantânea entre os dois continentes pela primeira vez na história.",
+        "year": 1858
+      },
+      {
+        "title": "Tratado de Proibição Parcial de Ensaios Nucleares assinado",
+        "description": "Em 5 de agosto de 1963, os Estados Unidos, a União Soviética e o Reino Unido assinaram o Tratado de Proibição Parcial de Ensaios Nucleares, o primeiro acordo a limitar os testes nucleares.",
+        "year": 1963
+      },
+      {
+        "title": "Morte de Marilyn Monroe",
+        "description": "A atriz e símbolo sexual mais célebre do século XX, Marilyn Monroe, foi encontrada morta em sua casa em Los Angeles em 5 de agosto de 1962. Ela tinha 36 anos.",
+        "year": 1962
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Mare de Déu de les Neus",
+        "type": "Advocació mariana",
+        "description": "Advocació de la Verge Maria lligada a la llegenda de la nevada miraculosa al mont Esquilí de Roma l'agost de l'any 352, que va indicar el lloc on construir la Basílica de Santa Maria la Major."
+      },
+      {
+        "name": "Sant Abel",
+        "type": "Patriarca bíblic",
+        "description": "Segon fill d'Adam i Eva segons el Gènesi, mort pel seu germà Caín. Considerat el primer màrtir de la humanitat en la tradició cristiana i venerat el 5 d'agost."
+      },
+      {
+        "name": "Sant Osvald de Northúmbria",
+        "type": "Rei i Màrtir",
+        "description": "Rei cristià de Northúmbria (segle VII) que va difondre el cristianisme al nord d'Anglaterra amb l'ajuda de Sant Aidà de Lindisfarne. Va morir en batalla i va ser venerat com a màrtir."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència de Burkina Faso",
+        "description": "Burkina Faso (abans Alt Volta) va proclamar la seva independència de França el 5 d'agost de 1960. És festa nacional al país de l'Àfrica Occidental."
+      },
+      {
+        "name": "Dia del Treball de Trinitat i Tobago",
+        "description": "Trinitat i Tobago observa aquest dia com a part de les seves festivitats nacionals prèvies al Dia de la Independència del 31 d'agost."
+      }
+    ],
+    "historicalQuote": {
+      "text": "He après que el valor no és l'absència de la por, sinó el triomf sobre ella.",
+      "author": "Nelson Mandela",
+      "context": "El líder sud-africà, nascut el 18 de juliol de 1918, va passar 27 anys a la presó abans de convertir-se en el primer president negre de Sud-àfrica. Aquesta cita reflecteix la seva experiència de resistència davant l'adversitat."
+    },
+    "motivationalQuote": {
+      "text": "Sigues el canvi que vols veure al món.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Guy de Maupassant",
+        "description": "Novel·lista i contista francès del naturalisme, considerat un dels mestres del conte curt. Les seves obres més conegudes inclouen Bola de greix i El collaret.",
+        "year": 1850
+      },
+      {
+        "name": "Neil Armstrong",
+        "description": "Astronauta i pilot americà, el primer ésser humà a trepitjar la Lluna el 20 de juliol de 1969 durant la missió Apollo 11.",
+        "year": 1930
+      },
+      {
+        "name": "Loni Anderson",
+        "description": "Actriu americana coneguda pel seu paper a la sèrie de televisió WKRP in Cincinnati (1978–1982), un dels rostres més populars de la televisió americana dels anys vuitanta.",
+        "year": 1945
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer cable telegràfic transatlàntic completat",
+        "description": "El 5 d'agost de 1858, es va completar el tendiment del primer cable telegràfic transatlàntic entre Europa i Amèrica, permetent la comunicació gairebé instantània entre tots dos continents per primera vegada a la història.",
+        "year": 1858
+      },
+      {
+        "title": "Tractat de Prohibició Parcial d'Assaigs Nuclears signat",
+        "description": "El 5 d'agost de 1963, els Estats Units, la Unió Soviètica i el Regne Unit van signar el Tractat de Prohibició Parcial d'Assaigs Nuclears, el primer acord per limitar les proves nuclears.",
+        "year": 1963
+      },
+      {
+        "title": "Mort de Marilyn Monroe",
+        "description": "L'actriu i símbol sexual més cèlebre del segle XX, Marilyn Monroe, va ser trobada morta a casa seva a Los Angeles el 5 d'agost de 1962. Tenia 36 anys.",
+        "year": 1962
+      }
+    ]
+  }
+}

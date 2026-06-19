@@ -1,0 +1,251 @@
+{
+  "date": "2025-06-24",
+  "es": {
+    "saints": [
+      {
+        "name": "San Juan Bautista",
+        "type": "Profeta y Precursor",
+        "description": "Figura central del Nuevo Testamento, primo de Jesucristo e hijo de Zacarías e Isabel. Bautizó a Jesús en el río Jordán y anunció la llegada del Mesías. Es el único santo, además de la Virgen María, cuyo nacimiento se celebra como fiesta litúrgica, a diferencia de los demás santos que se festejan en el día de su muerte."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de Sant Joan en Catalunya y las Islas Baleares",
+        "description": "La festividad de San Juan Bautista, celebrada el 24 de junio, es una de las más arraigadas en Cataluña. Las populares 'revetlles' incluyen hogueras, petardos, fuegos artificiales y la coca de Sant Joan, un dulce típico de esta noche festiva que da la bienvenida al verano."
+      },
+      {
+        "name": "Día Nacional de Quebec (Canadá)",
+        "description": "El 24 de junio es la Fête nationale du Québec, la fiesta nacional de la provincia francófona canadiense que celebra tanto la identidad cultural quebequesa como la festividad de San Juan Bautista, patrono de los canadienses francófonos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La voz del que clama en el desierto: Preparad el camino del Señor.",
+      "author": "Evangelio según San Marcos",
+      "context": "Estas palabras del profeta Isaías, citadas en los cuatro evangelios, describen la misión de Juan el Bautista como precursor de Cristo y son la base de su festividad el 24 de junio."
+    },
+    "motivationalQuote": {
+      "text": "Somos lo que hacemos repetidamente. La excelencia, entonces, no es un acto sino un hábito.",
+      "author": "Aristóteles"
+    },
+    "births": [
+      {
+        "name": "Juan Bautista",
+        "description": "Profeta y predicador hebreo del siglo I, considerado el precursor del Mesías en las tradiciones cristiana e islámica. Vivió en el desierto de Judea predicando la penitencia y el bautismo de conversión, y fue decapitado por orden del rey Herodes Antipas a petición de Salomé.",
+        "year": -6
+      },
+      {
+        "name": "Ambrose Bierce",
+        "description": "Escritor y periodista satírico estadounidense, autor del 'Diccionario del diablo', una colección de definiciones irónicas que sigue siendo un clásico del humor negro anglosajón. Desapareció misteriosamente en México en 1913 durante la Revolución Mexicana, sin que se encontrara jamás su cuerpo.",
+        "year": 1842
+      },
+      {
+        "name": "Lionel Messi",
+        "description": "Futbolista argentino, considerado por muchos el mejor jugador de la historia del fútbol. Ganador de ocho Balones de Oro y campeón del mundo con Argentina en Qatar 2022, desarrolló la mayor parte de su carrera en el FC Barcelona y actualmente milita en el Inter Miami.",
+        "year": 1987
+      }
+    ],
+    "events": [
+      {
+        "title": "Batalla de Bannockburn",
+        "description": "El 24 de junio de 1314, el ejército escocés de Roberto I de Escocia derrotó a las fuerzas inglesas de Eduardo II cerca de Stirling, asegurando la independencia de Escocia durante más de dos siglos. La batalla es un símbolo central de la identidad nacional escocesa.",
+        "year": 1314
+      },
+      {
+        "title": "Inicio del Bloqueo Soviético de Berlín",
+        "description": "El 24 de junio de 1948, la Unión Soviética bloqueó todos los accesos terrestres a Berlín occidental, en un intento de expulsar a las potencias aliadas de la ciudad. El puente aéreo aliado que duró casi un año salvó a la población y marcó uno de los primeros grandes pulsos de la Guerra Fría.",
+        "year": 1948
+      },
+      {
+        "title": "Venezuela proclama su independencia",
+        "description": "El 24 de junio de 1821, las fuerzas independentistas venezolanas lideradas por Simón Bolívar derrotaron al ejército español en la batalla de Carabobo, lo que significó de facto la independencia de Venezuela, aunque su proclama formal había sido el 5 de julio de 1811.",
+        "year": 1821
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint John the Baptist",
+        "type": "Prophet and Forerunner",
+        "description": "A central figure in the New Testament, cousin of Jesus Christ and son of Zechariah and Elizabeth. He baptized Jesus in the Jordan River and announced the coming of the Messiah. He is the only saint, besides the Virgin Mary, whose birth is celebrated as a liturgical feast, rather than the day of death as with other saints."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Feast of Sant Joan in Catalonia and the Balearic Islands",
+        "description": "The feast of Saint John the Baptist, celebrated on June 24, is one of the most deep-rooted festivities in Catalonia. The popular 'revetlles' include bonfires, firecrackers, fireworks, and 'coca de Sant Joan', a traditional sweet that marks this festive night welcoming summer."
+      },
+      {
+        "name": "Quebec National Day (Canada)",
+        "description": "June 24 is the Fête nationale du Québec, the national holiday of Canada's French-speaking province, celebrating both Quebec's cultural identity and the feast of Saint John the Baptist, patron of French Canadians."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The voice of one crying in the wilderness: Prepare the way of the Lord.",
+      "author": "Gospel of Mark",
+      "context": "These words from the prophet Isaiah, quoted in all four Gospels, describe the mission of John the Baptist as the forerunner of Christ and form the basis of his feast on June 24."
+    },
+    "motivationalQuote": {
+      "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "author": "Aristotle"
+    },
+    "births": [
+      {
+        "name": "John the Baptist",
+        "description": "Hebrew prophet and preacher of the 1st century, considered the forerunner of the Messiah in both Christian and Islamic traditions. He lived in the Judean desert preaching repentance and baptism of conversion, and was beheaded on the orders of King Herod Antipas at the request of Salome.",
+        "year": -6
+      },
+      {
+        "name": "Ambrose Bierce",
+        "description": "American satirical writer and journalist, author of 'The Devil's Dictionary', a collection of ironic definitions that remains a classic of Anglo-Saxon dark humor. He disappeared mysteriously in Mexico in 1913 during the Mexican Revolution, and his body was never found.",
+        "year": 1842
+      },
+      {
+        "name": "Lionel Messi",
+        "description": "Argentine footballer, considered by many the greatest player in football history. An eight-time Ballon d'Or winner and world champion with Argentina at Qatar 2022, he spent the majority of his career at FC Barcelona and currently plays for Inter Miami.",
+        "year": 1987
+      }
+    ],
+    "events": [
+      {
+        "title": "Battle of Bannockburn",
+        "description": "On June 24, 1314, the Scottish army of Robert I of Scotland defeated the English forces of Edward II near Stirling, securing Scotland's independence for more than two centuries. The battle is a central symbol of Scottish national identity.",
+        "year": 1314
+      },
+      {
+        "title": "Start of the Soviet Berlin Blockade",
+        "description": "On June 24, 1948, the Soviet Union blocked all land access to West Berlin in an attempt to force the Allied powers out of the city. The Allied airlift that lasted nearly a year saved the population and marked one of the first major confrontations of the Cold War.",
+        "year": 1948
+      },
+      {
+        "title": "Venezuela Secures Its Independence",
+        "description": "On June 24, 1821, Venezuelan independence forces led by Simón Bolívar defeated the Spanish army at the Battle of Carabobo, effectively securing Venezuela's independence, though its formal declaration had been on July 5, 1811.",
+        "year": 1821
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São João Batista",
+        "type": "Profeta e Precursor",
+        "description": "Figura central do Novo Testamento, primo de Jesus Cristo e filho de Zacarias e Isabel. Batizou Jesus no rio Jordão e anunciou a vinda do Messias. É o único santo, além da Virgem Maria, cujo nascimento é celebrado como festa litúrgica, ao contrário dos demais santos, que se festejam no dia de sua morte."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Festa de São João na Catalunha e nas Ilhas Baleares",
+        "description": "A festividade de São João Batista, celebrada em 24 de junho, é uma das mais arraigadas na Catalunha. As populares 'revetlles' incluem fogueiras, fogos de artifício e a 'coca de Sant Joan', um doce típico desta noite festiva que dá as boas-vindas ao verão."
+      },
+      {
+        "name": "Dia Nacional de Quebec (Canadá)",
+        "description": "O 24 de junho é a Fête nationale du Québec, o feriado nacional da província francófona canadense que celebra tanto a identidade cultural quebequense quanto a festividade de São João Batista, padroeiro dos canadenses francófonos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A voz do que clama no deserto: Preparai o caminho do Senhor.",
+      "author": "Evangelho de Marcos",
+      "context": "Estas palavras do profeta Isaías, citadas nos quatro evangelhos, descrevem a missão de João Batista como precursor de Cristo e são a base de sua festividade em 24 de junho."
+    },
+    "motivationalQuote": {
+      "text": "Somos o que fazemos repetidamente. A excelência, portanto, não é um ato, mas um hábito.",
+      "author": "Aristóteles"
+    },
+    "births": [
+      {
+        "name": "João Batista",
+        "description": "Profeta e pregador hebraico do século I, considerado o precursor do Messias nas tradições cristã e islâmica. Viveu no deserto da Judeia pregando a penitência e o batismo de conversão, e foi decapitado por ordem do rei Herodes Antipas a pedido de Salomé.",
+        "year": -6
+      },
+      {
+        "name": "Ambrose Bierce",
+        "description": "Escritor e jornalista satírico americano, autor do 'Dicionário do Diabo', uma coleção de definições irônicas que continua sendo um clássico do humor negro anglossaxão. Desapareceu misteriosamente no México em 1913 durante a Revolução Mexicana, sem que seu corpo jamais fosse encontrado.",
+        "year": 1842
+      },
+      {
+        "name": "Lionel Messi",
+        "description": "Futebolista argentino, considerado por muitos o maior jogador da história do futebol. Vencedor de oito Bolas de Ouro e campeão mundial com a Argentina no Qatar 2022, desenvolveu a maior parte de sua carreira no FC Barcelona e atualmente joga no Inter Miami.",
+        "year": 1987
+      }
+    ],
+    "events": [
+      {
+        "title": "Batalha de Bannockburn",
+        "description": "Em 24 de junho de 1314, o exército escocês de Roberto I da Escócia derrotou as forças inglesas de Eduardo II perto de Stirling, garantindo a independência da Escócia por mais de dois séculos. A batalha é um símbolo central da identidade nacional escocesa.",
+        "year": 1314
+      },
+      {
+        "title": "Início do Bloqueio Soviético de Berlim",
+        "description": "Em 24 de junho de 1948, a União Soviética bloqueou todos os acessos terrestres a Berlim Ocidental, numa tentativa de expulsar as potências aliadas da cidade. A ponte aérea aliada, que durou quase um ano, salvou a população e marcou um dos primeiros grandes confrontos da Guerra Fria.",
+        "year": 1948
+      },
+      {
+        "title": "Venezuela Assegura sua Independência",
+        "description": "Em 24 de junho de 1821, as forças independentistas venezuelanas lideradas por Simón Bolívar derrotaram o exército espanhol na Batalha de Carabobo, garantindo de fato a independência da Venezuela, embora sua proclamação formal tivesse sido em 5 de julho de 1811.",
+        "year": 1821
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Joan Baptista",
+        "type": "Profeta i Precursor",
+        "description": "Figura central del Nou Testament, cosí de Jesucrist i fill de Zacaries i Elisabet. Va batejar Jesús al riu Jordà i va anunciar la vinguda del Messies. És l'únic sant, a part de la Verge Maria, el naixement del qual se celebra com a festa litúrgica, a diferència dels altres sants que se celebren el dia de la seva mort."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Diada de Sant Joan a Catalunya i les Illes Balears",
+        "description": "La festivitat de Sant Joan Baptista, celebrada el 24 de juny, és una de les més arrelades a Catalunya. Les populars revetles inclouen fogueres, petards, focs artificials i la coca de Sant Joan, un dolç típic d'aquesta nit festiva que dóna la benvinguda a l'estiu."
+      },
+      {
+        "name": "Dia Nacional de Quebec (Canadà)",
+        "description": "El 24 de juny és la Fête nationale du Québec, la festa nacional de la província francòfona canadenca que celebra tant la identitat cultural quebequesa com la festivitat de Sant Joan Baptista, patró dels canadencs francòfons."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La veu del qui crida al desert: Prepareu el camí del Senyor.",
+      "author": "Evangeli de Marc",
+      "context": "Aquestes paraules del profeta Isaïes, citades als quatre evangelis, descriuen la missió de Joan Baptista com a precursor de Crist i són la base de la seva festivitat el 24 de juny."
+    },
+    "motivationalQuote": {
+      "text": "Som el que fem repetidament. L'excel·lència, doncs, no és un acte sinó un hàbit.",
+      "author": "Aristòtil"
+    },
+    "births": [
+      {
+        "name": "Joan Baptista",
+        "description": "Profeta i predicador hebreu del segle I, considerat el precursor del Messies en les tradicions cristiana i islàmica. Va viure al desert de Judea predicant la penitència i el baptisme de conversió, i va ser decapitat per ordre del rei Herodes Antipas a petició de Salomé.",
+        "year": -6
+      },
+      {
+        "name": "Ambrose Bierce",
+        "description": "Escriptor i periodista satíric americà, autor del 'Diccionari del Diable', una col·lecció de definicions irònicas que continua sent un clàssic de l'humor negre anglosaxó. Va desaparèixer misteriosament a Mèxic el 1913 durant la Revolució Mexicana, sense que el seu cos mai fos trobat.",
+        "year": 1842
+      },
+      {
+        "name": "Lionel Messi",
+        "description": "Futbolista argentí, considerat per molts el millor jugador de la història del futbol. Guanyador de vuit Pilotes d'Or i campió del món amb l'Argentina al Qatar 2022, va desenvolupar la major part de la seva carrera al FC Barcelona i actualment juga a l'Inter Miami.",
+        "year": 1987
+      }
+    ],
+    "events": [
+      {
+        "title": "Batalla de Bannockburn",
+        "description": "El 24 de juny de 1314, l'exèrcit escocès de Robert I d'Escòcia va derrotar les forces angleses d'Eduard II prop d'Stirling, assegurant la independència d'Escòcia durant més de dos segles. La batalla és un símbol central de la identitat nacional escocesa.",
+        "year": 1314
+      },
+      {
+        "title": "Inici del Bloqueig Soviètic de Berlín",
+        "description": "El 24 de juny de 1948, la Unió Soviètica va bloquejar tots els accessos terrestres a Berlín occidental, en un intent d'expulsar les potències aliades de la ciutat. El pont aeri aliat que va durar gairebé un any va salvar la població i va marcar un dels primers grans enfrontaments de la Guerra Freda.",
+        "year": 1948
+      },
+      {
+        "title": "Veneçuela Assegura la Seva Independència",
+        "description": "El 24 de juny de 1821, les forces independentistes veneçolanes liderades per Simón Bolívar van derrotar l'exèrcit espanyol a la batalla de Carabobo, el que significava de facto la independència de Veneçuela, tot i que la seva proclamació formal havia estat el 5 de juliol de 1811.",
+        "year": 1821
+      }
+    ]
+  }
+}

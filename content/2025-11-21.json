@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-21",
+  "es": {
+    "saints": [
+      {
+        "name": "Presentación de la Virgen María en el Templo",
+        "type": "Festividad",
+        "description": "Tradición que recuerda la presentación de María niña en el Templo de Jerusalén por sus padres Joaquín y Ana, según los evangelios apócrifos. Festividad presente en las Iglesias oriental y occidental desde el siglo VI."
+      },
+      {
+        "name": "San Gelasio I",
+        "type": "Papa",
+        "description": "Papa del siglo V (492–496), conocido por su firme defensa de la autoridad papal frente al poder imperial de Constantinopla, y por abolir la fiesta pagana de las Lupercales, instituyendo en su lugar la festividad de la Candelaria."
+      },
+      {
+        "name": "Beata María de Jesús López",
+        "type": "Virgen",
+        "description": "Religiosa colombiana del siglo XIX–XX, fundadora de las Hermanas de la Presentación de la Santísima Virgen. Beatificada en 2004."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Televisión",
+        "description": "Proclamado por la ONU en 1996 para conmemorar la Primera Cumbre Mundial de la Televisión, celebrada el 21 de noviembre de 1996, reconociendo el papel de la televisión en la comunicación global."
+      },
+      {
+        "name": "Día de Acción de Gracias (Canadá)",
+        "description": "En Canadá se celebra el Día de Acción de Gracias el segundo lunes de octubre, pero el 21 de noviembre es reconocido como el día histórico en que los peregrinos del Mayflower comenzaron a desembarcar en 1620."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La televisión podría ser un instrumento fabuloso de educación si no se hubiera convertido en el mayor agente de destrucción de la imaginación.",
+      "author": "Umberto Eco",
+      "context": "El semiótico y novelista italiano, autor de El nombre de la rosa, reflexionó a lo largo de su vida sobre el impacto de los medios de comunicación de masas en la cultura y el pensamiento crítico."
+    },
+    "motivationalQuote": {
+      "text": "Los grandes logros son posibles cuando no te importa quién se lleva el crédito.",
+      "author": "Harry S. Truman"
+    },
+    "births": [
+      {
+        "name": "Voltaire",
+        "description": "Escritor, filósofo e historiador francés de la Ilustración, defensor de la libertad de expresión, la tolerancia religiosa y la separación de Iglesia y Estado. Autor de Cándido.",
+        "year": 1694
+      },
+      {
+        "name": "René Magritte",
+        "description": "Pintor surrealista belga, famoso por sus imágenes enigmáticas que cuestionan la percepción de la realidad, como La traición de las imágenes (Ceci n'est pas une pipe).",
+        "year": 1898
+      },
+      {
+        "name": "Björk",
+        "description": "Cantante, compositora y actriz islandesa, una de las artistas más innovadoras y eclécticas de la música contemporánea, conocida por álbumes como Debut, Post y Homogenic.",
+        "year": 1965
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer vuelo en globo aerostático con pasajeros",
+        "description": "Jean-François Pilâtre de Rozier y el marqués d'Arlandes realizaron el primer vuelo tripulado en globo aerostático de la historia, surcando los cielos de París durante 25 minutos.",
+        "year": 1783
+      },
+      {
+        "title": "Firma del Armisticio de Compiègne (I GM)",
+        "description": "Alemania firmó el armisticio en el bosque de Compiègne, poniendo fin a los combates de la Primera Guerra Mundial en el frente occidental a las 11:00 horas.",
+        "year": 1918
+      },
+      {
+        "title": "Masacre de Múnich en los Juegos Olímpicos",
+        "description": "Terroristas palestinos del grupo Septiembre Negro tomaron como rehenes a once atletas israelíes en la Villa Olímpica de Múnich; todos murieron en el intento de rescate.",
+        "year": 1972
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Presentation of the Virgin Mary in the Temple",
+        "type": "Feast",
+        "description": "A tradition commemorating the presentation of the child Mary in the Temple of Jerusalem by her parents Joachim and Anne, according to the apocryphal gospels. Observed in both Eastern and Western Churches since the 6th century."
+      },
+      {
+        "name": "Saint Gelasius I",
+        "type": "Pope",
+        "description": "5th-century pope (492–496), known for his firm defence of papal authority against the imperial power of Constantinople, and for abolishing the pagan feast of Lupercalia, replacing it with Candlemas."
+      },
+      {
+        "name": "Blessed María de Jesús López",
+        "type": "Virgin",
+        "description": "19th–20th-century Colombian nun, founder of the Sisters of the Presentation of the Blessed Virgin. Beatified in 2004."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Television Day",
+        "description": "Proclaimed by the UN in 1996 to commemorate the First World Television Forum, held on 21 November 1996, recognising television's role in global communication."
+      },
+      {
+        "name": "Thanksgiving (Pilgrims landing)",
+        "description": "On this date in 1620, the Pilgrims from the Mayflower began to disembark near Plymouth, Massachusetts — the historical backdrop of the American Thanksgiving tradition."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Television could have been a fabulous instrument of education, had it not become the greatest agent of the destruction of imagination.",
+      "author": "Umberto Eco",
+      "context": "The Italian semiotician and novelist, author of The Name of the Rose, reflected throughout his life on the impact of mass media on culture and critical thinking."
+    },
+    "motivationalQuote": {
+      "text": "Great achievements are possible when you don't care who gets the credit.",
+      "author": "Harry S. Truman"
+    },
+    "births": [
+      {
+        "name": "Voltaire",
+        "description": "French Enlightenment writer, philosopher, and historian, champion of freedom of speech, religious tolerance, and the separation of Church and State. Author of Candide.",
+        "year": 1694
+      },
+      {
+        "name": "René Magritte",
+        "description": "Belgian Surrealist painter, famous for enigmatic images that challenge the perception of reality, such as The Treachery of Images (Ceci n'est pas une pipe).",
+        "year": 1898
+      },
+      {
+        "name": "Björk",
+        "description": "Icelandic singer, songwriter, and actress, one of the most innovative and eclectic artists in contemporary music, known for albums such as Debut, Post, and Homogenic.",
+        "year": 1965
+      }
+    ],
+    "events": [
+      {
+        "title": "First manned hot-air balloon flight",
+        "description": "Jean-François Pilâtre de Rozier and the Marquis d'Arlandes made the first manned hot-air balloon flight in history, sailing over the skies of Paris for 25 minutes.",
+        "year": 1783
+      },
+      {
+        "title": "Armistice of Compiègne signed (WWI)",
+        "description": "Germany signed the armistice in the Forest of Compiègne, ending the fighting of the First World War on the Western Front at 11:00 a.m.",
+        "year": 1918
+      },
+      {
+        "title": "Munich Olympic massacre",
+        "description": "Palestinian terrorists from the Black September group took eleven Israeli athletes hostage in the Munich Olympic Village; all were killed in the rescue attempt.",
+        "year": 1972
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Apresentação da Virgem Maria no Templo",
+        "type": "Festividade",
+        "description": "Tradição que recorda a apresentação da criança Maria no Templo de Jerusalém pelos seus pais Joaquim e Ana, segundo os evangelhos apócrifos. Festividade presente nas Igrejas oriental e ocidental desde o século VI."
+      },
+      {
+        "name": "São Gelásio I",
+        "type": "Papa",
+        "description": "Papa do século V (492–496), conhecido pela sua firme defesa da autoridade papal frente ao poder imperial de Constantinopla, e por abolir a festa pagã das Lupercálias, instituindo em seu lugar a Candelária."
+      },
+      {
+        "name": "Beata Maria de Jesus López",
+        "type": "Virgem",
+        "description": "Religiosa colombiana dos séculos XIX–XX, fundadora das Irmãs da Apresentação da Santíssima Virgem. Beatificada em 2004."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Televisão",
+        "description": "Proclamado pela ONU em 1996 para commemorar o Primeiro Fórum Mundial de Televisão, realizado a 21 de novembro de 1996, reconhecendo o papel da televisão na comunicação global."
+      },
+      {
+        "name": "Desembarque dos Peregrinos do Mayflower",
+        "description": "Nesta data em 1620, os Peregrinos do Mayflower começaram a desembarcar perto de Plymouth, Massachusetts — o pano de fundo histórico da tradição americana do Dia de Ação de Graças."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A televisão poderia ter sido um instrumento fabuloso de educação, caso não tivesse se tornado o maior agente de destruição da imaginação.",
+      "author": "Umberto Eco",
+      "context": "O semiótico e romancista italiano, autor de O Nome da Rosa, refletiu ao longo da sua vida sobre o impacto dos meios de comunicação de massa na cultura e no pensamento crítico."
+    },
+    "motivationalQuote": {
+      "text": "Grandes conquistas são possíveis quando não importa quem leva o crédito.",
+      "author": "Harry S. Truman"
+    },
+    "births": [
+      {
+        "name": "Voltaire",
+        "description": "Escritor, filósofo e historiador francês do Iluminismo, defensor da liberdade de expressão, da tolerância religiosa e da separação entre Igreja e Estado. Autor de Cândido.",
+        "year": 1694
+      },
+      {
+        "name": "René Magritte",
+        "description": "Pintor surrealista belga, famoso pelas suas imagens enigmáticas que questionam a percepção da realidade, como A Traição das Imagens (Ceci n'est pas une pipe).",
+        "year": 1898
+      },
+      {
+        "name": "Björk",
+        "description": "Cantora, compositora e atriz islandesa, uma das artistas mais inovadoras e eclécticas da música contemporânea, conhecida por álbuns como Debut, Post e Homogenic.",
+        "year": 1965
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeiro voo tripulado em balão de ar quente",
+        "description": "Jean-François Pilâtre de Rozier e o marquês d'Arlandes realizaram o primeiro voo tripulado em balão de ar quente da história, sobrevoando os céus de Paris durante 25 minutos.",
+        "year": 1783
+      },
+      {
+        "title": "Assinatura do Armistício de Compiègne (1.ª GM)",
+        "description": "A Alemanha assinou o armistício na Floresta de Compiègne, encerrando os combates da Primeira Guerra Mundial na Frente Ocidental às 11h00.",
+        "year": 1918
+      },
+      {
+        "title": "Massacre nos Jogos Olímpicos de Munique",
+        "description": "Terroristas palestinos do grupo Setembro Negro tomaram como reféns onze atletas israelenses na Vila Olímpica de Munique; todos morreram na tentativa de resgate.",
+        "year": 1972
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Presentació de la Verge Maria al Temple",
+        "type": "Festivitat",
+        "description": "Tradició que recorda la presentació de la nena Maria al Temple de Jerusalem pels seus pares Joaquim i Anna, segons els evangelis apòcrifs. Festivitat present a les Esglésies oriental i occidental des del segle VI."
+      },
+      {
+        "name": "Sant Gelasi I",
+        "type": "Papa",
+        "description": "Papa del segle V (492–496), conegut per la seva ferma defensa de l'autoritat papal davant el poder imperial de Constantinoble, i per abolir la festa pagana de les Lupercàlies, instituint-hi en el seu lloc la Candelera."
+      },
+      {
+        "name": "Beata Maria de Jesús López",
+        "type": "Verge",
+        "description": "Religiosa colombiana dels segles XIX–XX, fundadora de les Germanes de la Presentació de la Santíssima Verge. Beatificada el 2004."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Televisió",
+        "description": "Proclamat per l'ONU el 1996 per commemorar el Primer Fòrum Mundial de la Televisió, celebrat el 21 de novembre de 1996, reconeixent el paper de la televisió en la comunicació global."
+      },
+      {
+        "name": "Desembarcament dels Pelegrins del Mayflower",
+        "description": "En aquesta data el 1620, els pelegrins del Mayflower van comenzar a desembarcar prop de Plymouth, Massachusetts — el rerefons històric de la tradició americana del Dia d'Acció de Gràcies."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La televisió podria haver estat un instrument fabulós d'educació si no s'hagués convertit en el major agent de destrucció de la imaginació.",
+      "author": "Umberto Eco",
+      "context": "El semiòtic i novel·lista italià, autor d'El nom de la rosa, va reflexionar al llarg de la seva vida sobre l'impacte dels mitjans de comunicació de masses en la cultura i el pensament crític."
+    },
+    "motivationalQuote": {
+      "text": "Les grans fites són possibles quan no t'importa qui s'endú el mèrit.",
+      "author": "Harry S. Truman"
+    },
+    "births": [
+      {
+        "name": "Voltaire",
+        "description": "Escriptor, filòsof i historiador francès de la Il·lustració, defensor de la llibertat d'expressió, la tolerància religiosa i la separació d'Església i Estat. Autor de Càndid.",
+        "year": 1694
+      },
+      {
+        "name": "René Magritte",
+        "description": "Pintor surrealista belga, famós per les seves imatges enigmàtiques que qüestionen la percepció de la realitat, com La traïció de les imatges (Ceci n'est pas une pipe).",
+        "year": 1898
+      },
+      {
+        "name": "Björk",
+        "description": "Cantant, compositora i actriu islandesa, una de les artistes més innovadores i eclèctiques de la música contemporània, coneguda per àlbums com Debut, Post i Homogenic.",
+        "year": 1965
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer vol tripulat en globus d'aire calent",
+        "description": "Jean-François Pilâtre de Rozier i el marquès d'Arlandes van realitzar el primer vol tripulat en globus d'aire calent de la història, sobrevolant els cels de París durant 25 minuts.",
+        "year": 1783
+      },
+      {
+        "title": "Signatura de l'Armistici de Compiègne (1a GM)",
+        "description": "Alemanya va signar l'armistici al bosc de Compiègne, posant fi als combats de la Primera Guerra Mundial al front occidental a les 11:00 hores.",
+        "year": 1918
+      },
+      {
+        "title": "Massacre als Jocs Olímpics de Munic",
+        "description": "Terroristes palestins del grup Setembre Negre van prendre com a ostatges onze atletes israelians a la Vila Olímpica de Munic; tots van morir en l'intent de rescat.",
+        "year": 1972
+      }
+    ]
+  }
+}

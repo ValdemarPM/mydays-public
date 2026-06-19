@@ -1,0 +1,287 @@
+{
+  "date": "2026-06-02",
+  "es": {
+    "saints": [
+      {
+        "name": "San Marcelino y San Pedro",
+        "type": "Mártires",
+        "description": "Mártires romanos del siglo IV: Marcelino era sacerdote y Pedro exorcista, ambos ejecutados durante las persecuciones del emperador Diocleciano. Su culto fue muy extendido en la Iglesia antigua y sus nombres aparecen en el Canon Romano de la Misa."
+      },
+      {
+        "name": "San Erasmo de Formia (San Elmo)",
+        "type": "Obispo y Mártir",
+        "description": "Obispo y mártir del siglo IV, uno de los catorce santos auxiliadores y patrono de los marineros. La lluvia de chispas que acompaña a las tormentas eléctricas en el mástil de los barcos recibe el nombre de 'fuego de San Telmo' en su honor."
+      },
+      {
+        "name": "San Eugenio I",
+        "type": "Papa",
+        "description": "Papa del siglo VII que defendió la ortodoxia cristiana frente a las herejías cristológicas de su tiempo, en particular el monotelismo. Su pontificado estuvo marcado por conflictos con el Imperio Bizantino."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la República Italiana",
+        "description": "El 2 de junio de 1946, los italianos votaron en referéndum la abolición de la monarquía. Nació la República Italiana, cuya Constitución entraría en vigor el 1 de enero de 1948. Es el día nacional de Italia, celebrado con desfiles militares en Roma."
+      },
+      {
+        "name": "Coronación de la reina Isabel II (aniversario)",
+        "description": "El 2 de junio de 1953, Isabel II fue coronada reina del Reino Unido en la Abadía de Westminster. Fue la primera coronación televisada de la historia, seguida en directo por más de 20 millones de personas en el Reino Unido."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Donde el amor reina, no existe la voluntad de poder; y donde el poder predomina, ahí falta el amor.",
+      "author": "Carl Gustav Jung"
+    },
+    "motivationalQuote": {
+      "text": "No son los años en tu vida lo que cuenta, sino la vida en tus años.",
+      "author": "Abraham Lincoln"
+    },
+    "births": [
+      {
+        "name": "Thomas Hardy",
+        "description": "Novelista y poeta inglés del siglo XIX, autor de obras maestras como Tess of the d'Urbervilles y Lejos del mundanal ruido. Sus novelas retratan con realismo y emoción la vida rural inglesa y el peso del destino sobre sus personajes.",
+        "year": "1840"
+      },
+      {
+        "name": "Moritz Schlick",
+        "description": "Filósofo austríaco, fundador del Círculo de Viena y figura clave del positivismo lógico, movimiento filosófico que influyó profundamente en la filosofía de la ciencia del siglo XX.",
+        "year": "1882"
+      },
+      {
+        "name": "Stacy Keach",
+        "description": "Actor y director estadounidense, conocido por encarnar al detective Mike Hammer en la serie televisiva de los años 80 y por su extensa trayectoria en el teatro, cine y televisión.",
+        "year": "1941"
+      }
+    ],
+    "events": [
+      {
+        "title": "Referéndum republicano en Italia",
+        "description": "El pueblo italiano votó en referéndum a favor de la República, poniendo fin a la monarquía de la Casa de Saboya. El rey Humberto II partió al exilio y nació la República Italiana.",
+        "year": "1946"
+      },
+      {
+        "title": "Coronación de la reina Isabel II",
+        "description": "Isabel II de Inglaterra fue coronada en la Abadía de Westminster en una ceremonia televisada por primera vez en la historia. Reinó 70 años, convirtiéndose en la monarca más longeva de la historia del Reino Unido.",
+        "year": "1953"
+      },
+      {
+        "title": "Rendición de Breda a los tercios españoles",
+        "description": "La ciudad de Breda (Países Bajos) cayó ante las tropas españolas comandadas por el general Ambrosio Espínola tras casi un año de asedio. Este hecho fue inmortalizado por Velázquez en su célebre cuadro La rendición de Breda.",
+        "year": "1625"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saints Marcellinus and Peter",
+        "type": "Martyrs",
+        "description": "Roman martyrs of the 4th century: Marcellinus was a priest and Peter an exorcist, both executed during Emperor Diocletian's persecutions. Their cult was widespread in the early Church, and their names appear in the Roman Canon of the Mass."
+      },
+      {
+        "name": "Saint Erasmus of Formia (Saint Elmo)",
+        "type": "Bishop and Martyr",
+        "description": "4th-century bishop and martyr, one of the fourteen auxiliary saints and patron of sailors. The electrical discharge sometimes seen at the tips of ship masts during storms is named 'St. Elmo's fire' in his honour."
+      },
+      {
+        "name": "Saint Eugene I",
+        "type": "Pope",
+        "description": "7th-century pope who defended Christian orthodoxy against the Christological heresies of his time, particularly Monothelitism. His pontificate was marked by conflicts with the Byzantine Empire."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Italian Republic Day",
+        "description": "On June 2, 1946, Italians voted in a referendum to abolish the monarchy. The Italian Republic was born, and its Constitution would come into force on January 1, 1948. It is Italy's national day, celebrated with military parades in Rome."
+      },
+      {
+        "name": "Coronation of Queen Elizabeth II (anniversary)",
+        "description": "On June 2, 1953, Elizabeth II was crowned Queen of the United Kingdom at Westminster Abbey. It was the first televised coronation in history, watched live by over 20 million people in the UK."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Where love rules, there is no will to power; and where power predominates, there love is lacking.",
+      "author": "Carl Gustav Jung"
+    },
+    "motivationalQuote": {
+      "text": "In the end, it's not the years in your life that count. It's the life in your years.",
+      "author": "Abraham Lincoln"
+    },
+    "births": [
+      {
+        "name": "Thomas Hardy",
+        "description": "19th-century English novelist and poet, author of masterworks such as Tess of the d'Urbervilles and Far from the Madding Crowd. His novels portray with realism and emotion English rural life and the weight of fate on his characters.",
+        "year": "1840"
+      },
+      {
+        "name": "Moritz Schlick",
+        "description": "Austrian philosopher, founder of the Vienna Circle and a key figure of logical positivism, a philosophical movement that profoundly influenced the philosophy of science in the 20th century.",
+        "year": "1882"
+      },
+      {
+        "name": "Stacy Keach",
+        "description": "American actor and director, known for playing detective Mike Hammer in the 1980s TV series and for his extensive career in theatre, film, and television.",
+        "year": "1941"
+      }
+    ],
+    "events": [
+      {
+        "title": "Italian Republican Referendum",
+        "description": "The Italian people voted in a referendum in favour of the Republic, ending the monarchy of the House of Savoy. King Umberto II went into exile and the Italian Republic was born.",
+        "year": "1946"
+      },
+      {
+        "title": "Coronation of Queen Elizabeth II",
+        "description": "Elizabeth II of England was crowned at Westminster Abbey in a ceremony televised for the first time in history. She reigned for 70 years, becoming the longest-reigning monarch in British history.",
+        "year": "1953"
+      },
+      {
+        "title": "Surrender of Breda to Spanish tercio troops",
+        "description": "The city of Breda (Netherlands) fell to Spanish troops commanded by General Ambrosio Spinola after nearly a year of siege. This event was immortalized by Velázquez in his celebrated painting The Surrender of Breda.",
+        "year": "1625"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santos Marcelino e Pedro",
+        "type": "Mártires",
+        "description": "Mártires romanos do século IV: Marcelino era sacerdote e Pedro era exorcista, ambos executados durante as perseguições do imperador Diocleciano. Seu culto foi muito difundido na Igreja antiga e seus nomes aparecem no Cânon Romano da Missa."
+      },
+      {
+        "name": "São Erasmo de Fórmia (São Elmo)",
+        "type": "Bispo e Mártir",
+        "description": "Bispo e mártir do século IV, um dos quatorze santos auxiliadores e patrono dos marinheiros. A descarga elétrica vista às vezes nas pontas dos mastros de navios durante tempestades recebe o nome de 'fogo de São Elmo' em sua homenagem."
+      },
+      {
+        "name": "São Eugênio I",
+        "type": "Papa",
+        "description": "Papa do século VII que defendeu a ortodoxia cristã diante das heresias cristológicas de seu tempo, em particular o monotelismo. Seu pontificado foi marcado por conflitos com o Império Bizantino."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da República Italiana",
+        "description": "Em 2 de junho de 1946, os italianos votaram em referendo pela abolição da monarquia. Nasceu a República Italiana, cuja Constituição entraria em vigor em 1º de janeiro de 1948. É o dia nacional da Itália, celebrado com desfiles militares em Roma."
+      },
+      {
+        "name": "Coroação da rainha Isabel II (aniversário)",
+        "description": "Em 2 de junho de 1953, Isabel II foi coroada rainha do Reino Unido na Abadia de Westminster numa cerimônia televisionada pela primeira vez na história, assistida ao vivo por mais de 20 milhões de pessoas no Reino Unido."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Onde o amor reina, não existe vontade de poder; e onde o poder predomina, falta o amor.",
+      "author": "Carl Gustav Jung"
+    },
+    "motivationalQuote": {
+      "text": "No final, não são os anos em sua vida que contam. É a vida em seus anos.",
+      "author": "Abraham Lincoln"
+    },
+    "births": [
+      {
+        "name": "Thomas Hardy",
+        "description": "Romancista e poeta inglês do século XIX, autor de obras-primas como Tess dos d'Urbervilles e Longe do mundo cruel. Seus romances retratam com realismo e emoção a vida rural inglesa e o peso do destino sobre seus personagens.",
+        "year": "1840"
+      },
+      {
+        "name": "Moritz Schlick",
+        "description": "Filósofo austríaco, fundador do Círculo de Viena e figura-chave do positivismo lógico, movimento filosófico que influenciou profundamente a filosofia da ciência do século XX.",
+        "year": "1882"
+      },
+      {
+        "name": "Stacy Keach",
+        "description": "Ator e diretor americano, conhecido por interpretar o detetive Mike Hammer na série televisiva dos anos 80 e por sua extensa trajetória no teatro, cinema e televisão.",
+        "year": "1941"
+      }
+    ],
+    "events": [
+      {
+        "title": "Referendo republicano na Itália",
+        "description": "O povo italiano votou em referendo a favor da República, pondo fim à monarquia da Casa de Saboia. O rei Humberto II partiu para o exílio e nasceu a República Italiana.",
+        "year": "1946"
+      },
+      {
+        "title": "Coroação da rainha Isabel II",
+        "description": "Isabel II da Inglaterra foi coroada na Abadia de Westminster numa cerimônia televisionada pela primeira vez na história. Reinou 70 anos, tornando-se a monarca mais longeva da história do Reino Unido.",
+        "year": "1953"
+      },
+      {
+        "title": "Rendição de Breda às tropas espanholas",
+        "description": "A cidade de Breda (Países Baixos) caiu ante as tropas espanholas comandadas pelo general Ambrósio Espínola após quase um ano de cerco. Este fato foi imortalizado por Velázquez em seu célebre quadro A Rendição de Breda.",
+        "year": "1625"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sants Marcel·lí i Pere",
+        "type": "Màrtirs",
+        "description": "Màrtirs romans del segle IV: Marcel·lí era sacerdot i Pere exorcista, tots dos executats durant les persecucions de l'emperador Dioclecià. El seu culte va ser molt estès a l'Església antiga i els seus noms apareixen al Cànon Romà de la Missa."
+      },
+      {
+        "name": "Sant Erasme de Fòrmia (Sant Elm)",
+        "type": "Bisbe i Màrtir",
+        "description": "Bisbe i màrtir del segle IV, un dels catorze sants auxiliadors i patró dels mariners. La descàrrega elèctrica que de vegades s'observa a les puntes dels pals dels vaixells durant les tempestes rep el nom de 'foc de Sant Elm' en el seu honor."
+      },
+      {
+        "name": "Sant Eugeni I",
+        "type": "Papa",
+        "description": "Papa del segle VII que va defensar l'ortodòxia cristiana davant les heretgies cristològiques del seu temps, en particular el monotelisme. El seu pontificat va estar marcat per conflictes amb l'Imperi Bizantí."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la República Italiana",
+        "description": "El 2 de juny de 1946, els italians van votar en referèndum l'abolició de la monarquia. Va néixer la República Italiana, la Constitució de la qual entraria en vigor l'1 de gener de 1948. És el dia nacional d'Itàlia, celebrat amb desfilades militars a Roma."
+      },
+      {
+        "name": "Coronació de la reina Elisabet II (aniversari)",
+        "description": "El 2 de juny de 1953, Elisabet II va ser coronada reina del Regne Unit a l'Abadia de Westminster en una cerimònia televisada per primera vegada en la història, seguida en directe per més de 20 milions de persones al Regne Unit."
+      }
+    ],
+    "historicalQuote": {
+      "text": "On regna l'amor, no hi ha voluntat de poder; i on predomina el poder, hi falta l'amor.",
+      "author": "Carl Gustav Jung"
+    },
+    "motivationalQuote": {
+      "text": "Al final, no són els anys en la teva vida el que compta. És la vida en els teus anys.",
+      "author": "Abraham Lincoln"
+    },
+    "births": [
+      {
+        "name": "Thomas Hardy",
+        "description": "Novel·lista i poeta anglès del segle XIX, autor d'obres mestres com Tess dels d'Urbervilles i Lluny del mundanal soroll. Les seves novel·les retraten amb realisme i emoció la vida rural anglesa i el pes del destí sobre els seus personatges.",
+        "year": "1840"
+      },
+      {
+        "name": "Moritz Schlick",
+        "description": "Filòsof austríac, fundador del Cercle de Viena i figura clau del positivisme lògic, moviment filosòfic que va influir profundament en la filosofia de la ciència del segle XX.",
+        "year": "1882"
+      },
+      {
+        "name": "Stacy Keach",
+        "description": "Actor i director nord-americà, conegut per interpretar el detectiu Mike Hammer en la sèrie televisiva dels anys 80 i per la seva extensa trajectòria en el teatre, el cinema i la televisió.",
+        "year": "1941"
+      }
+    ],
+    "events": [
+      {
+        "title": "Referèndum republicà a Itàlia",
+        "description": "El poble italià va votar en referèndum a favor de la República, posant fi a la monarquia de la Casa de Savoia. El rei Humberto II va marxar a l'exili i va néixer la República Italiana.",
+        "year": "1946"
+      },
+      {
+        "title": "Coronació de la reina Elisabet II",
+        "description": "Elisabet II d'Anglaterra va ser coronada a l'Abadia de Westminster en una cerimònia televisada per primera vegada en la història. Va regnar 70 anys, convertint-se en la monarca més longeva de la història del Regne Unit.",
+        "year": "1953"
+      },
+      {
+        "title": "Rendició de Breda a les tropes espanyoles",
+        "description": "La ciutat de Breda (Països Baixos) va caure davant les tropes espanyoles comandades pel general Ambrosio Espínola després de gairebé un any de setge. Aquest fet va ser immortalitzat per Velázquez en el seu cèlebre quadre La rendició de Breda.",
+        "year": "1625"
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "date": "2025-07-07",
+  "es": {
+    "saints": [
+      {
+        "name": "San Fermín de Pamplona",
+        "type": "Obispo y Mártir",
+        "description": "Primer obispo y patrón de Pamplona, evangelizado por San Honesto y consagrado en Toulouse. Sufrió el martirio en el siglo III o IV. Su festividad el 7 de julio da nombre a los célebres Sanfermines y al encierro de toros."
+      },
+      {
+        "name": "Beatos Mártires de Gorcum",
+        "type": "Mártires",
+        "description": "Grupo de diecinueve sacerdotes y religiosos (franciscanos, dominicos y agustinos) ejecutados por calvinistas en Holanda el 9 de julio de 1572. Su memoria se anticipa al 7 de julio en algunos calendarios."
+      },
+      {
+        "name": "San Panteno de Alejandría",
+        "type": "Filósofo y teólogo",
+        "description": "Fundador de la Escuela Catequética de Alejandría en el siglo II, maestro de Clemente de Alejandría. Antiguo estoico convertido al cristianismo, llevó el Evangelio hasta la India según Eusebio de Cesarea."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Tanabata (Japón)",
+        "description": "Festividad japonesa que celebra el encuentro anual de las estrellas Vega (Orihime) y Altair (Hikoboshi), separadas por la Vía Láctea. Se celebra el séptimo día del séptimo mes lunar, que suele caer en julio."
+      },
+      {
+        "name": "Día Mundial del Chocolate",
+        "description": "Jornada informal que celebra el chocolate en todo el mundo, coincidiendo aproximadamente con la fecha en que el cacao llegó por primera vez a Europa desde México, en el siglo XVI."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Los libros son espejos: solo ves en ellos lo que ya llevas dentro.",
+      "author": "Carlos Ruiz Zafón",
+      "context": "El escritor barcelonés Carlos Ruiz Zafón (1964–2020), autor de La Sombra del Viento y El Juego del Ángel, es uno de los novelistas españoles más leídos del siglo XXI. Esta cita apareció en La Sombra del Viento."
+    },
+    "motivationalQuote": {
+      "text": "El talento gana partidos, pero el trabajo en equipo y la inteligencia ganan campeonatos.",
+      "author": "Michael Jordan"
+    },
+    "births": [
+      {
+        "name": "Marc Chagall",
+        "description": "Pintor bielorruso-francés, pionero del modernismo, cuya obra onírica e impregnada de folclore judío influyó en el surrealismo y el expresionismo. Autor de los murales del techo de la Ópera de París.",
+        "year": 1887
+      },
+      {
+        "name": "Ringo Starr",
+        "description": "Baterista de The Beatles, la banda más influyente de la historia del rock. Su estilo percusivo sencillo pero eficaz fue una pieza clave del sonido inconfundible del cuarteto de Liverpool.",
+        "year": 1940
+      },
+      {
+        "name": "Gustav Mahler",
+        "description": "Compositor y director de orquesta austro-bohemio, uno de los grandes del Romanticismo tardío. Sus nueve sinfonías son cumbres del repertorio sinfónico y puente entre el siglo XIX y el XX.",
+        "year": 1860
+      }
+    ],
+    "events": [
+      {
+        "title": "Inicio de los Sanfermines",
+        "description": "El 7 de julio se inician los Sanfermines en Pamplona con el chupinazo en la Plaza del Castillo. Los encierros de toros por las calles de la ciudad fueron inmortalizados por Ernest Hemingway en Fiesta (1926).",
+        "year": 1591
+      },
+      {
+        "title": "Atentados en el metro de Londres (7/7)",
+        "description": "El 7 de julio de 2005, cuatro bombas suicidas explotaron en el metro y en un autobús de Londres durante la hora punta, causando 56 muertos y más de 700 heridos en el mayor atentado terrorista de la historia del Reino Unido.",
+        "year": 2005
+      },
+      {
+        "title": "Hawaii se convierte en estado de EE. UU.",
+        "description": "El 7 de julio de 1898, el presidente McKinley firmó la resolución que anexionó Hawaii a los Estados Unidos, cincuenta años antes de que se convirtiera en el estado número 50 en 1959.",
+        "year": 1898
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Fermin of Pamplona",
+        "type": "Bishop and Martyr",
+        "description": "First bishop and patron of Pamplona, evangelised by Saint Honest and consecrated in Toulouse. He suffered martyrdom in the 3rd or 4th century. His feast on 7 July gives its name to the famous San Fermín festival and the Running of the Bulls."
+      },
+      {
+        "name": "Blessed Martyrs of Gorkum",
+        "type": "Martyrs",
+        "description": "A group of nineteen priests and religious (Franciscans, Dominicans, and Augustinians) executed by Calvinists in the Netherlands on 9 July 1572. Their memory is observed on 7 July in some calendars."
+      },
+      {
+        "name": "Saint Pantaenus of Alexandria",
+        "type": "Philosopher and Theologian",
+        "description": "Founder of the Catechetical School of Alexandria in the 2nd century, teacher of Clement of Alexandria. A former Stoic converted to Christianity, he carried the Gospel to India according to Eusebius of Caesarea."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Tanabata (Japan)",
+        "description": "A Japanese festival celebrating the annual meeting of the stars Vega (Orihime) and Altair (Hikoboshi), separated by the Milky Way. It is celebrated on the seventh day of the seventh lunar month, usually falling in July."
+      },
+      {
+        "name": "World Chocolate Day",
+        "description": "An informal day celebrating chocolate worldwide, roughly coinciding with the date cacao first arrived in Europe from Mexico in the 16th century."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Books are mirrors: you only see in them what you already carry inside you.",
+      "author": "Carlos Ruiz Zafón",
+      "context": "Barcelona-born writer Carlos Ruiz Zafón (1964–2020), author of The Shadow of the Wind and The Angel's Game, is one of the most widely read Spanish novelists of the 21st century. This quote appeared in The Shadow of the Wind."
+    },
+    "motivationalQuote": {
+      "text": "Talent wins games, but teamwork and intelligence win championships.",
+      "author": "Michael Jordan"
+    },
+    "births": [
+      {
+        "name": "Marc Chagall",
+        "description": "Belarusian-French painter and pioneer of modernism, whose dreamlike work, steeped in Jewish folklore, influenced Surrealism and Expressionism. He created the ceiling murals of the Paris Opéra.",
+        "year": 1887
+      },
+      {
+        "name": "Ringo Starr",
+        "description": "Drummer of The Beatles, the most influential band in the history of rock. His simple yet effective percussive style was a key element of the unmistakable sound of the Liverpool quartet.",
+        "year": 1940
+      },
+      {
+        "name": "Gustav Mahler",
+        "description": "Austro-Bohemian composer and orchestra conductor, one of the great figures of late Romanticism. His nine symphonies stand as peaks of the symphonic repertoire and a bridge between the 19th and 20th centuries.",
+        "year": 1860
+      }
+    ],
+    "events": [
+      {
+        "title": "San Fermín festival begins in Pamplona",
+        "description": "On 7 July the San Fermín festival opens in Pamplona with the chupinazo rocket in the Plaza del Castillo. The running of the bulls through the city streets was immortalised by Ernest Hemingway in The Sun Also Rises (1926).",
+        "year": 1591
+      },
+      {
+        "title": "7/7 London bombings",
+        "description": "On 7 July 2005, four suicide bombs exploded on the London Underground and a bus during the morning rush hour, killing 56 people and injuring over 700 in the deadliest terrorist attack in UK history.",
+        "year": 2005
+      },
+      {
+        "title": "Hawaii annexed by the United States",
+        "description": "On 7 July 1898, President McKinley signed the resolution annexing Hawaii to the United States, fifty years before it became the 50th state in 1959.",
+        "year": 1898
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Firmino de Pamplona",
+        "type": "Bispo e Mártir",
+        "description": "Primeiro bispo e padroeiro de Pamplona, evangelizado por São Honesto e consagrado em Toulouse. Sofreu o martírio no século III ou IV. A sua festividade em 7 de julho dá nome aos célebres Sanfermines e à corrida de touros."
+      },
+      {
+        "name": "Beatos Mártires de Gorcum",
+        "type": "Mártires",
+        "description": "Grupo de dezenove sacerdotes e religiosos (franciscanos, dominicanos e agostinhos) executados por calvinistas na Holanda em 9 de julho de 1572. A sua memória é antecipada para 7 de julho em alguns calendários."
+      },
+      {
+        "name": "São Panteno de Alexandria",
+        "type": "Filósofo e teólogo",
+        "description": "Fundador da Escola Catequética de Alexandria no século II, mestre de Clemente de Alexandria. Antigo estoico convertido ao cristianismo, levou o Evangelho até à Índia segundo Eusébio de Cesareia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Tanabata (Japão)",
+        "description": "Festividade japonesa que celebra o encontro anual das estrelas Vega (Orihime) e Altair (Hikoboshi), separadas pela Via Láctea. Celebra-se no sétimo dia do sétimo mês lunar, que geralmente cai em julho."
+      },
+      {
+        "name": "Dia Mundial do Chocolate",
+        "description": "Jornada informal que celebra o chocolate em todo o mundo, coincidindo aproximadamente com a data em que o cacau chegou pela primeira vez à Europa vindo do México, no século XVI."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Os livros são espelhos: só vês neles o que já carregas dentro de ti.",
+      "author": "Carlos Ruiz Zafón",
+      "context": "O escritor barcelonês Carlos Ruiz Zafón (1964–2020), autor de A Sombra do Vento e O Jogo do Anjo, é um dos romancistas espanhóis mais lidos do século XXI. Esta citação aparece em A Sombra do Vento."
+    },
+    "motivationalQuote": {
+      "text": "O talento ganha partidas, mas o trabalho em equipe e a inteligência ganham campeonatos.",
+      "author": "Michael Jordan"
+    },
+    "births": [
+      {
+        "name": "Marc Chagall",
+        "description": "Pintor bielorrusso-francês, pioneiro do modernismo, cuja obra onírica e impregnada de folclore judaico influenciou o surrealismo e o expressionismo. Criou os murais do teto da Ópera de Paris.",
+        "year": 1887
+      },
+      {
+        "name": "Ringo Starr",
+        "description": "Baterista dos The Beatles, a banda mais influente da história do rock. O seu estilo percussivo simples mas eficaz foi uma peça fundamental do som inconfundível do quarteto de Liverpool.",
+        "year": 1940
+      },
+      {
+        "name": "Gustav Mahler",
+        "description": "Compositor e regente austro-boêmio, um dos grandes do Romantismo tardio. As suas nove sinfonias são picos do repertório sinfônico e uma ponte entre os séculos XIX e XX.",
+        "year": 1860
+      }
+    ],
+    "events": [
+      {
+        "title": "Início dos Sanfermines em Pamplona",
+        "description": "Em 7 de julho, os Sanfermines abrem em Pamplona com o chupinazo na Plaza del Castillo. As corridas de touros pelas ruas da cidade foram imortalizadas por Ernest Hemingway em Fiesta (1926).",
+        "year": 1591
+      },
+      {
+        "title": "Atentados de 7/7 em Londres",
+        "description": "Em 7 de julho de 2005, quatro bombas-suicidas explodiram no metrô e num ônibus de Londres durante a hora de ponta matinal, causando 56 mortos e mais de 700 feridos no maior atentado terrorista da história do Reino Unido.",
+        "year": 2005
+      },
+      {
+        "title": "Havaí é anexado pelos Estados Unidos",
+        "description": "Em 7 de julho de 1898, o presidente McKinley assinou a resolução que anexou o Havaí aos Estados Unidos, cinquenta anos antes de se tornar o 50.º estado em 1959.",
+        "year": 1898
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Fermí de Pamplona",
+        "type": "Bisbe i Màrtir",
+        "description": "Primer bisbe i patró de Pamplona, evangelitzat per Sant Honest i consagrat a Tolosa. Va patir el martiri al segle III o IV. La seva festivitat el 7 de juliol dóna nom als cèlebres Sanfermines i a l'encerro de toros."
+      },
+      {
+        "name": "Beats Màrtirs de Gorcum",
+        "type": "Màrtirs",
+        "description": "Grup de dinou sacerdots i religiosos (franciscans, dominics i agustins) executats per calvinistes a Holanda el 9 de juliol de 1572. La seva memòria s'anticipa al 7 de juliol en alguns calendaris."
+      },
+      {
+        "name": "Sant Pantè d'Alexandria",
+        "type": "Filòsof i teòleg",
+        "description": "Fundador de l'Escola Catequètica d'Alexandria al segle II, mestre de Climent d'Alexandria. Antic estoic convertit al cristianisme, va portar l'Evangeli fins a l'Índia segons Eusebi de Cesarea."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Tanabata (Japó)",
+        "description": "Festivitat japonesa que celebra la trobada anual de les estrelles Vega (Orihime) i Altair (Hikoboshi), separades per la Via Làctia. Es celebra el setè dia del setè mes lunar, que sol caure al juliol."
+      },
+      {
+        "name": "Dia Mundial de la Xocolata",
+        "description": "Jornada informal que celebra la xocolata a tot el món, coincidint aproximadament amb la data en què el cacau va arribar per primera vegada a Europa des de Mèxic, al segle XVI."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Els llibres són miralls: només hi veus el que ja portes dins.",
+      "author": "Carlos Ruiz Zafón",
+      "context": "L'escriptor barceloní Carlos Ruiz Zafón (1964–2020), autor de La Sombra del Viento i El Juego del Ángel, és un dels novel·listes espanyols més llegits del segle XXI. Aquesta cita va aparèixer a La Sombra del Viento."
+    },
+    "motivationalQuote": {
+      "text": "El talent guanya partits, però el treball en equip i la intel·ligència guanyen campionats.",
+      "author": "Michael Jordan"
+    },
+    "births": [
+      {
+        "name": "Marc Chagall",
+        "description": "Pintor bielorús-francès, pioner del modernisme, la obra onírica del qual, impregnada de folklore jueu, va influir en el surrealisme i l'expressionisme. Va crear els murals del sostre de l'Òpera de París.",
+        "year": 1887
+      },
+      {
+        "name": "Ringo Starr",
+        "description": "Bateria dels The Beatles, la banda més influent de la història del rock. El seu estil percussiu senzill però eficaç va ser una peça clau del so inconfusible del quartet de Liverpool.",
+        "year": 1940
+      },
+      {
+        "name": "Gustav Mahler",
+        "description": "Compositor i director d'orquestra austro-bohemi, un dels grans del Romanticisme tardà. Les seves nou simfonies són cims del repertori simfònic i un pont entre els segles XIX i XX.",
+        "year": 1860
+      }
+    ],
+    "events": [
+      {
+        "title": "Inici dels Sanfermines a Pamplona",
+        "description": "El 7 de juliol, els Sanfermines s'obren a Pamplona amb el chupinazo a la Plaza del Castillo. Els encierros de toros pels carrers de la ciutat van ser immortalitzats per Ernest Hemingway a Fiesta (1926).",
+        "year": 1591
+      },
+      {
+        "title": "Atemptats del 7/7 a Londres",
+        "description": "El 7 de juliol de 2005, quatre bombes suïcides van explotar al metro i en un autobús de Londres durant l'hora punta matinal, causant 56 morts i més de 700 ferits en el major atemptat terrorista de la història del Regne Unit.",
+        "year": 2005
+      },
+      {
+        "title": "Hawaii annexada pels Estats Units",
+        "description": "El 7 de juliol de 1898, el president McKinley va signar la resolució que va annexar Hawaii als Estats Units, cinquanta anys abans de convertir-se en el 50è estat el 1959.",
+        "year": 1898
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "date": "2026-05-29",
+  "es": {
+    "saints": [
+      {
+        "name": "San Maximino de Tréveris",
+        "type": "Obispo",
+        "description": "Obispo de Tréveris (Alemania) del siglo IV, defensor del Concilio de Nicea y de San Atanasio en la controversia arriana. Dio asilo al propio Atanasio cuando fue exiliado por el emperador Constancio II. Es uno de los grandes defensores de la ortodoxia cristiana en el siglo IV."
+      },
+      {
+        "name": "San Cirilo de Cesarea",
+        "type": "Mártir",
+        "description": "Joven mártir del siglo IV que, siendo adolescente, denunció públicamente el paganismo ante el gobernador de Cesarea durante la persecución de Juliano el Apóstata y fue ejecutado. Su valentía fue celebrada por los Padres de la Iglesia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional del Personal de Paz de las Naciones Unidas (Cascos Azules)",
+        "description": "Establecido por la ONU en 2002, este día honra la memoria de los cascos azules caídos y reconoce la labor de los más de 90.000 efectivos que sirven en misiones de paz en los puntos de conflicto del planeta."
+      },
+      {
+        "name": "Día de la República de Turquía (aniversario de la caída de Constantinopla)",
+        "description": "El 29 de mayo de 1453 Mehmed II conquistó Constantinopla, poniendo fin al Imperio Bizantino de más de mil años. Este acontecimiento es considerado el inicio de la Edad Moderna y fue uno de los eventos más determinantes de la historia universal."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La paz no es la ausencia de guerra; es una virtud, un estado de ánimo, una disposición a la benevolencia, la confianza y la justicia.",
+      "author": "Baruch Spinoza"
+    },
+    "motivationalQuote": {
+      "text": "Actúa como si lo que hagas marcara la diferencia. Lo hace.",
+      "author": "William James"
+    },
+    "births": [
+      {
+        "name": "G. K. Chesterton",
+        "description": "Escritor, periodista y apologeta inglés del siglo XX, conocido por su serie del Padre Brown y su obra El hombre que fue Jueves. Convertido al catolicismo en 1922, sus ensayos filosóficos y religiosos siguen siendo influyentes. Fue amigo y antagonista intelectual de George Bernard Shaw y H. G. Wells.",
+        "year": "1874"
+      },
+      {
+        "name": "John F. Kennedy",
+        "description": "Trigésimo quinto presidente de los Estados Unidos (1961–1963), el más joven en ser elegido para el cargo. Lideró el país durante la Crisis de los Misiles de Cuba, la Bahía de Cochinos y el inicio del programa Apollo. Fue asesinado en Dallas el 22 de noviembre de 1963.",
+        "year": "1917"
+      },
+      {
+        "name": "Annette Bening",
+        "description": "Actriz americana, cuatro veces nominada al Oscar por su trabajo en películas como Los timadores, Belleza americana, Conoces a Joe Black y La mujer de la playa. Es considerada una de las grandes actrices de su generación.",
+        "year": "1958"
+      }
+    ],
+    "events": [
+      {
+        "title": "Caída de Constantinopla",
+        "description": "El sultán otomano Mehmed II conquistó Constantinopla tras 53 días de asedio, poniendo fin al Imperio Bizantino de más de 1.000 años. El último emperador, Constantino XI, murió combatiendo. Este hecho marca convencionalmente el fin de la Edad Media.",
+        "year": "1453"
+      },
+      {
+        "title": "Primer fútbol-tenis de la Copa del Mundo (inaugural)",
+        "description": "La FIFA celebró su primer Congreso en París, sentando las bases de la organización internacional del fútbol. Apenas doce años después se celebraría el primer Mundial de Fútbol en Uruguay (1930).",
+        "year": "1904"
+      },
+      {
+        "title": "Primera ascensión al Everest confirmada públicamente",
+        "description": "The Times de Londres publicó en portada la noticia de la primera ascensión al Everest por Hillary y Tenzing (ocurrida el 28 de mayo), coincidiendo con la coronación de Isabel II. La noticia dio la vuelta al mundo en horas.",
+        "year": "1953"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Maximinus of Trier",
+        "type": "Bishop",
+        "description": "4th-century Bishop of Trier (Germany), defender of the Council of Nicaea and of Saint Athanasius in the Arian controversy. He gave shelter to Athanasius himself when he was exiled by Emperor Constantius II. He is one of the great defenders of Christian orthodoxy in the 4th century."
+      },
+      {
+        "name": "Saint Cyril of Caesarea",
+        "type": "Martyr",
+        "description": "4th-century young martyr who, as a teenager, publicly denounced paganism before the governor of Caesarea during the persecution of Julian the Apostate and was executed. His courage was celebrated by the Church Fathers."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of United Nations Peacekeepers (Blue Helmets)",
+        "description": "Established by the UN in 2002, this day honours the memory of fallen peacekeepers and recognises the work of more than 90,000 personnel serving in peace missions in conflict zones around the planet."
+      },
+      {
+        "name": "Anniversary of the Fall of Constantinople",
+        "description": "On 29 May 1453, Mehmed II conquered Constantinople, ending the Byzantine Empire of more than a thousand years. This event is considered the beginning of the Modern Age and was one of the most defining moments in world history."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Peace is not the absence of war; it is a virtue, a state of mind, a disposition for benevolence, confidence, and justice.",
+      "author": "Baruch Spinoza"
+    },
+    "motivationalQuote": {
+      "text": "Act as if what you do makes a difference. It does.",
+      "author": "William James"
+    },
+    "births": [
+      {
+        "name": "G. K. Chesterton",
+        "description": "20th-century English writer, journalist, and apologist, known for his Father Brown series and The Man Who Was Thursday. Converted to Catholicism in 1922, his philosophical and religious essays remain influential. He was friend and intellectual antagonist of George Bernard Shaw and H. G. Wells.",
+        "year": "1874"
+      },
+      {
+        "name": "John F. Kennedy",
+        "description": "35th President of the United States (1961–1963), the youngest to be elected to the office. He led the country through the Cuban Missile Crisis, the Bay of Pigs Invasion, and the start of the Apollo programme. He was assassinated in Dallas on 22 November 1963.",
+        "year": "1917"
+      },
+      {
+        "name": "Annette Bening",
+        "description": "American actress, four-time Oscar nominee for her work in films including The Grifters, American Beauty, Being Julia, and The Kids Are All Right. She is considered one of the great actresses of her generation.",
+        "year": "1958"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fall of Constantinople",
+        "description": "Ottoman Sultan Mehmed II conquered Constantinople after a 53-day siege, ending the Byzantine Empire of more than 1,000 years. The last emperor, Constantine XI, died fighting. This event conventionally marks the end of the Middle Ages.",
+        "year": "1453"
+      },
+      {
+        "title": "FIFA Founded in Paris",
+        "description": "FIFA held its inaugural Congress in Paris, laying the foundations of the international organisation of football. Just twelve years later, the first Football World Cup would be held in Uruguay (1930).",
+        "year": "1904"
+      },
+      {
+        "title": "Everest Conquest Announced Publicly",
+        "description": "The Times of London published on its front page the news of the first ascent of Everest by Hillary and Tenzing (which occurred on 28 May), coinciding with the coronation of Elizabeth II. The news spread around the world within hours.",
+        "year": "1953"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Maximino de Tréveris",
+        "type": "Bispo",
+        "description": "Bispo de Tréveris (Alemanha) do século IV, defensor do Concílio de Niceia e de Santo Atanásio na controvérsia ariana. Deu abrigo ao próprio Atanásio quando foi exilado pelo imperador Constâncio II. É um dos grandes defensores da ortodoxia cristã no século IV."
+      },
+      {
+        "name": "São Cirilo de Cesareia",
+        "type": "Mártir",
+        "description": "Jovem mártir do século IV que, sendo adolescente, denunciou publicamente o paganismo perante o governador de Cesareia durante a perseguição de Juliano, o Apóstata, e foi executado. A sua coragem foi celebrada pelos Padres da Igreja."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional dos Capacetes Azuis das Nações Unidas",
+        "description": "Estabelecido pela ONU em 2002, este dia honra a memória dos capacetes azuis caídos e reconhece a labor dos mais de 90.000 efectivos que servem em missões de paz nos pontos de conflito do planeta."
+      },
+      {
+        "name": "Aniversário da Queda de Constantinopla",
+        "description": "A 29 de maio de 1453, Mehmed II conquistou Constantinopla, pondo fim ao Império Bizantino de mais de mil anos. Este acontecimento é considerado o início da Idade Moderna e foi um dos eventos mais determinantes da história universal."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A paz não é a ausência de guerra; é uma virtude, um estado de espírito, uma disposição para a benevolência, a confiança e a justiça.",
+      "author": "Baruch Spinoza"
+    },
+    "motivationalQuote": {
+      "text": "Age como se o que fazes fizesse a diferença. Faz.",
+      "author": "William James"
+    },
+    "births": [
+      {
+        "name": "G. K. Chesterton",
+        "description": "Escritor, jornalista e apologeta inglês do século XX, conhecido pela série do Padre Brown e pela obra O Homem que Era Quinta-feira. Convertido ao catolicismo em 1922, os seus ensaios filosóficos e religiosos continuam a ser influentes. Foi amigo e adversário intelectual de George Bernard Shaw e H. G. Wells.",
+        "year": "1874"
+      },
+      {
+        "name": "John F. Kennedy",
+        "description": "35.º presidente dos Estados Unidos (1961–1963), o mais jovem a ser eleito para o cargo. Liderou o país durante a Crise dos Mísseis de Cuba, a Baía dos Porcos e o início do programa Apollo. Foi assassinado em Dallas a 22 de novembro de 1963.",
+        "year": "1917"
+      },
+      {
+        "name": "Annette Bening",
+        "description": "Atriz americana, quatro vezes nomeada para o Oscar pelo seu trabalho em filmes como Os Aldrabões, Beleza Americana, Being Julia e Os Miúdos Estão Bem. É considerada uma das grandes atrizes da sua geração.",
+        "year": "1958"
+      }
+    ],
+    "events": [
+      {
+        "title": "Queda de Constantinopla",
+        "description": "O sultão otomano Mehmed II conquistou Constantinopla após 53 dias de cerco, pondo fim ao Império Bizantino de mais de 1.000 anos. O último imperador, Constantino XI, morreu combatendo. Este facto marca convencionalmente o fim da Idade Média.",
+        "year": "1453"
+      },
+      {
+        "title": "Fundação da FIFA em Paris",
+        "description": "A FIFA realizou o seu primeiro Congresso em Paris, lançando as bases da organização internacional do futebol. Apenas doze anos depois realizava-se a primeira Copa do Mundo no Uruguai (1930).",
+        "year": "1904"
+      },
+      {
+        "title": "Conquista do Evereste anunciada publicamente",
+        "description": "O The Times de Londres publicou na primeira página a notícia da primeira ascensão ao Evereste por Hillary e Tenzing (ocorrida a 28 de maio), coincidindo com a coroação de Isabel II. A notícia deu a volta ao mundo em poucas horas.",
+        "year": "1953"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Maximí de Trèveris",
+        "type": "Bisbe",
+        "description": "Bisbe de Trèveris (Alemanya) del segle IV, defensor del Concili de Nicea i de Sant Atanasi en la controvèrsia arriana. Va donar asil al propi Atanasi quan fou exiliat per l'emperador Constanci II. És un dels grans defensors de l'ortodòxia cristiana al segle IV."
+      },
+      {
+        "name": "Sant Ciril de Cesarea",
+        "type": "Màrtir",
+        "description": "Jove màrtir del segle IV que, essent adolescent, va denunciar públicament el paganisme davant el governador de Cesarea durant la persecució de Julià l'Apòstata i va ser executat. La seva valentia va ser celebrada pels Pares de l'Església."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional del Personal de Pau de les Nacions Unides (Cascos Blaus)",
+        "description": "Establert per l'ONU el 2002, aquest dia honra la memòria dels cascos blaus caiguts i reconeix la labor dels més de 90.000 efectius que serveixen en missions de pau als punts de conflicte del planeta."
+      },
+      {
+        "name": "Aniversari de la caiguda de Constantinoble",
+        "description": "El 29 de maig de 1453, Mehmed II va conquerir Constantinoble, posant fi a l'Imperi Bizantí de més de mil anys. Aquest fet és considerat l'inici de l'Edat Moderna i va ser un dels esdeveniments més determinants de la història universal."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La pau no és l'absència de guerra; és una virtut, un estat d'ànim, una disposició a la benevolència, la confiança i la justícia.",
+      "author": "Baruch Spinoza"
+    },
+    "motivationalQuote": {
+      "text": "Actua com si el que fas marqués la diferència. La marca.",
+      "author": "William James"
+    },
+    "births": [
+      {
+        "name": "G. K. Chesterton",
+        "description": "Escriptor, periodista i apologeta anglès del segle XX, conegut per la sèrie del Pare Brown i per l'obra L'home que era dijous. Convertit al catolicisme el 1922, els seus assajos filosòfics i religiosos continuen sent influents. Va ser amic i adversari intel·lectual de George Bernard Shaw i H. G. Wells.",
+        "year": "1874"
+      },
+      {
+        "name": "John F. Kennedy",
+        "description": "35è president dels Estats Units (1961–1963), el més jove a ser elegit per al càrrec. Va liderar el país durant la Crisi dels Míssils de Cuba, la Badia dels Porcs i l'inici del programa Apollo. Va ser assassinat a Dallas el 22 de novembre de 1963.",
+        "year": "1917"
+      },
+      {
+        "name": "Annette Bening",
+        "description": "Actriu americana, quatre vegades nominada a l'Oscar pel seu treball en pel·lícules com Els estafadors, Bellesa americana, Being Julia i Els nens estan bé. És considerada una de les grans actrius de la seva generació.",
+        "year": "1958"
+      }
+    ],
+    "events": [
+      {
+        "title": "Caiguda de Constantinoble",
+        "description": "El sultà otomà Mehmed II va conquerir Constantinoble després de 53 dies de setge, posant fi a l'Imperi Bizantí de més de 1.000 anys. L'últim emperador, Constantí XI, va morir combatent. Aquest fet marca convencionalment el final de l'Edat Mitjana.",
+        "year": "1453"
+      },
+      {
+        "title": "Fundació de la FIFA a París",
+        "description": "La FIFA va celebrar el seu primer Congrés a París, establint les bases de l'organització internacional del futbol. Tan sols dotze anys després se celebraria el primer Mundial de Futbol a l'Uruguai (1930).",
+        "year": "1904"
+      },
+      {
+        "title": "Conquesta de l'Everest anunciada públicament",
+        "description": "The Times de Londres va publicar en portada la notícia de la primera ascensió a l'Everest per Hillary i Tenzing (ocorreguda el 28 de maig), coincidint amb la coronació d'Elisabet II. La notícia va donar la volta al món en poques hores.",
+        "year": "1953"
+      }
+    ]
+  }
+}

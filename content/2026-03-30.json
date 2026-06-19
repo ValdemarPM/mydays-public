@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-30",
+  "es": {
+    "saints": [
+      { "name": "San Juan Clímaco", "type": "Monje y escritor espiritual", "description": "Monje del Sinaí del siglo VI-VII, autor de 'La escala del paraíso' (Clímax), tratado fundamental del ascetismo cristiano que describe los 30 peldaños de la vida espiritual; da nombre al cuarto domingo de Cuaresma." },
+      { "name": "Santa Walburga", "type": "Abadesa misionera", "description": "Abadesa anglosajona del siglo VIII que viajó a Alemania para evangelizar junto a San Bonifacio; patrona de los marineros, los agricultores y los viajeros; su festividad principal es el 25 de febrero." },
+      { "name": "San Régulo de Senlis", "type": "Obispo", "description": "Obispo de Senlis (Île-de-France) en el siglo III, uno de los primeros evangelizadores de la región del actual París, mártir durante las persecuciones romanas." }
+    ],
+    "observances": [
+      { "name": "Día del Médico (en varios países)", "description": "Jornada para reconocer la labor de los médicos y profesionales de la salud en varios países latinoamericanos; en México se celebra el 23 de octubre, pero en otros países corresponde al 30 de marzo." },
+      { "name": "Aniversario de la compra de Alaska", "description": "El 30 de marzo de 1867, Estados Unidos firmó el tratado por el que compró Alaska a Rusia por 7,2 millones de dólares, una adquisición que muchos llamaron 'la locura de Seward'." }
+    ],
+    "historicalQuote": {
+      "text": "La salud es la mayor posesión. La satisfacción es el mayor tesoro. La confianza es el mejor amigo.",
+      "author": "Lao-Tsé",
+      "context": "Lao-Tsé, filósofo chino del siglo VI a.C. y presunto autor del Tao Te Ching, uno de los textos fundamentales del taoísmo, formuló numerosas máximas sobre la virtud, la naturaleza y el bienestar humano que siguen siendo actuales."
+    },
+    "motivationalQuote": {
+      "text": "El optimismo es la fe que conduce al logro. Nada puede hacerse sin esperanza y confianza.",
+      "author": "Helen Keller"
+    },
+    "births": [
+      { "name": "Vincent van Gogh", "description": "Pintor holandés postimpresionista, uno de los artistas más influyentes de la historia del arte, autor de obras maestras como 'La noche estrellada', 'Los girasoles' y 'Los comedores de patatas', que vendió una sola pintura en vida.", "year": 1853 },
+      { "name": "Francisco Goya (mismo día en 1746 según algunos cómputos)", "description": "El nacimiento de Goya se registró el 30 de marzo de 1746 en Fuendetodos, Aragón, aunque su bautismo fue el 31.", "year": 1746 },
+      { "name": "Céline Dion", "description": "Cantante canadiense de Quebec, una de las artistas más vendidas de la historia de la música pop, conocida por su potente voz y éxitos como 'My Heart Will Go On' (tema de la película 'Titanic').", "year": 1968 }
+    ],
+    "events": [
+      { "title": "Estados Unidos compra Alaska a Rusia", "description": "El secretario de Estado William Seward firmó el tratado por el que Estados Unidos adquirió Alaska al Imperio Ruso por 7,2 millones de dólares, ridiculizado como 'la locura de Seward' y valorado hoy como una de las mejores compras de la historia.", "year": 1867 },
+      { "title": "Vincent van Gogh nace en Zundert, Países Bajos", "description": "Nació en Zundert (Brabante Septentrional) el que sería uno de los pintores más amados e incomprendidos de la historia, cuya obra tuvo un impacto decisivo en el arte del siglo XX.", "year": 1853 },
+      { "title": "Intento de asesinato de Ronald Reagan", "description": "John Hinckley Jr. disparó al presidente de Estados Unidos Ronald Reagan a las puertas del hotel Hilton de Washington D.C.; Reagan sobrevivió tras una operación de emergencia.", "year": 1981 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint John Climacus", "type": "Monk and spiritual writer", "description": "Sixth–seventh-century Sinai monk, author of 'The Ladder of Divine Ascent' (Klimax), a foundational treatise of Christian asceticism describing the 30 steps of spiritual life; he gives his name to the fourth Sunday of Lent." },
+      { "name": "Saint Walburga", "type": "Missionary abbess", "description": "Eighth-century Anglo-Saxon abbess who travelled to Germany to evangelise alongside Saint Boniface; patron of sailors, farmers and travellers; her principal feast is 25 February." },
+      { "name": "Saint Regulus of Senlis", "type": "Bishop", "description": "Third-century Bishop of Senlis (Île-de-France), one of the first evangelisers of the region around modern Paris, martyr during the Roman persecutions." }
+    ],
+    "observances": [
+      { "name": "Doctors' Day (several countries)", "description": "A day to recognise the work of doctors and health professionals in several Latin American countries; in Mexico it falls on 23 October, but in other countries it is celebrated on 30 March." },
+      { "name": "Alaska Purchase anniversary", "description": "On 30 March 1867, the United States signed the treaty purchasing Alaska from Russia for $7.2 million, an acquisition many called 'Seward's Folly'." }
+    ],
+    "historicalQuote": {
+      "text": "Health is the greatest possession. Contentment is the greatest treasure. Confidence is the greatest friend.",
+      "author": "Lao-Tzu",
+      "context": "Lao-Tzu, the Chinese philosopher of the sixth century BC and presumed author of the Tao Te Ching — one of the foundational texts of Taoism — formulated many maxims about virtue, nature and human well-being that remain relevant today."
+    },
+    "motivationalQuote": {
+      "text": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.",
+      "author": "Helen Keller"
+    },
+    "births": [
+      { "name": "Vincent van Gogh", "description": "Dutch Post-Impressionist painter, one of the most influential artists in the history of art, creator of masterpieces such as 'The Starry Night', 'Sunflowers' and 'The Potato Eaters', who sold only one painting in his lifetime.", "year": 1853 },
+      { "name": "Céline Dion", "description": "Canadian singer from Quebec, one of the best-selling music artists in history, known for her powerful voice and hits such as 'My Heart Will Go On' (theme of the film 'Titanic').", "year": 1968 },
+      { "name": "Warren Beatty", "description": "American actor, director and producer, known for films such as 'Bonnie and Clyde' (1967), 'Heaven Can Wait' (1978) and 'Reds' (1981), for which he won the Oscar for Best Director.", "year": 1937 }
+    ],
+    "events": [
+      { "title": "United States purchases Alaska from Russia", "description": "Secretary of State William Seward signed the treaty by which the United States acquired Alaska from the Russian Empire for $7.2 million, ridiculed as 'Seward's Folly' but now regarded as one of the best land deals in history.", "year": 1867 },
+      { "title": "Vincent van Gogh born in Zundert", "description": "Born in Zundert (North Brabant) was one of the most beloved and misunderstood painters in history, whose work had a decisive impact on twentieth-century art.", "year": 1853 },
+      { "title": "Assassination attempt on Ronald Reagan", "description": "John Hinckley Jr. shot US President Ronald Reagan outside the Washington Hilton Hotel; Reagan survived after emergency surgery.", "year": 1981 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São João Clímaco", "type": "Monge e escritor espiritual", "description": "Monge do Sinai dos séculos VI-VII, autor de 'A Escada do Paraíso' (Klímax), tratado fundamental do ascetismo cristão que descreve os 30 degraus da vida espiritual; dá nome ao quarto domingo da Quaresma." },
+      { "name": "Santa Valburga", "type": "Abadessa missionária", "description": "Abadessa anglo-saxônica do século VIII que viajou para a Alemanha para evangelizar junto a São Bonifácio; patrona dos marinheiros, agricultores e viajantes; a sua festividade principal é 25 de fevereiro." },
+      { "name": "São Régulo de Senlis", "type": "Bispo", "description": "Bispo de Senlis (Île-de-France) no século III, um dos primeiros evangelizadores da região da atual Paris, mártir durante as perseguições romanas." }
+    ],
+    "observances": [
+      { "name": "Dia do Médico (em vários países)", "description": "Jornada para reconhecer o trabalho dos médicos e profissionais de saúde em vários países latino-americanos; no México celebra-se a 23 de outubro, mas noutros países corresponde ao 30 de março." },
+      { "name": "Aniversário da Compra do Alasca", "description": "Em 30 de março de 1867, os Estados Unidos assinaram o tratado pelo qual compraram o Alasca à Rússia por 7,2 milhões de dólares, uma aquisição que muitos chamaram de 'a loucura de Seward'." }
+    ],
+    "historicalQuote": {
+      "text": "A saúde é a maior posse. A contentamento é o maior tesouro. A confiança é o melhor amigo.",
+      "author": "Lao-Tsé",
+      "context": "Lao-Tsé, filósofo chinês do século VI a.C. e presumido autor do Tao Te Ching, um dos textos fundadores do taoísmo, formulou numerosas máximas sobre a virtude, a natureza e o bem-estar humano que continuam sendo atuais."
+    },
+    "motivationalQuote": {
+      "text": "O otimismo é a fé que leva ao sucesso. Nada pode ser feito sem esperança e confiança.",
+      "author": "Helen Keller"
+    },
+    "births": [
+      { "name": "Vincent van Gogh", "description": "Pintor holandês pós-impressionista, um dos artistas mais influentes da história da arte, autor de obras-primas como 'A Noite Estrelada', 'Os Girassóis' e 'Os Comedores de Batatas', que vendeu apenas um quadro em vida.", "year": 1853 },
+      { "name": "Céline Dion", "description": "Cantora canadiana do Quebec, uma das artistas mais vendidas da história da música pop, conhecida pela sua voz poderosa e sucessos como 'My Heart Will Go On' (tema do filme 'Titanic').", "year": 1968 },
+      { "name": "Warren Beatty", "description": "Ator, diretor e produtor americano, conhecido por filmes como 'Bonnie e Clyde' (1967), 'O Céu Pode Esperar' (1978) e 'Vermelho' (1981), pelo qual ganhou o Oscar de Melhor Diretor.", "year": 1937 }
+    ],
+    "events": [
+      { "title": "Estados Unidos compram o Alasca à Rússia", "description": "O secretário de Estado William Seward assinou o tratado pelo qual os Estados Unidos adquiriram o Alasca ao Império Russo por 7,2 milhões de dólares, ridicularizado como 'a loucura de Seward' mas hoje considerado uma das melhores compras da história.", "year": 1867 },
+      { "title": "Vincent van Gogh nasce em Zundert", "description": "Em Zundert (Brabante Setentrional) nasceu aquele que seria um dos pintores mais amados e incompreendidos da história, cuja obra teve um impacto decisivo na arte do século XX.", "year": 1853 },
+      { "title": "Tentativa de assassinato de Ronald Reagan", "description": "John Hinckley Jr. disparou contra o presidente dos Estados Unidos Ronald Reagan à saída do hotel Hilton de Washington D.C.; Reagan sobreviveu após uma operação de emergência.", "year": 1981 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Joan Clímac", "type": "Monjo i escriptor espiritual", "description": "Monjo del Sinaí dels segles VI-VII, autor de 'L'Escala del Paradís' (Klímax), tractat fonamental de l'ascetisme cristià que descriu els 30 graons de la vida espiritual; dóna nom al quart diumenge de la Quaresma." },
+      { "name": "Santa Valburga", "type": "Abadessa missionera", "description": "Abadessa anglosaxona del segle VIII que va viatjar a Alemanya per evangelitzar juntament amb Sant Bonifaci; patrona dels mariners, els agricultors i els viatgers; la seva festivitat principal és el 25 de febrer." },
+      { "name": "Sant Règul de Senlis", "type": "Bisbe", "description": "Bisbe de Senlis (Île-de-France) al segle III, un dels primers evangelitzadors de la regió de l'actual París, màrtir durant les persecucions romanes." }
+    ],
+    "observances": [
+      { "name": "Dia del Metge (en diversos països)", "description": "Jornada per reconèixer la tasca dels metges i professionals de la salut en diversos països llatinoamericans; a Mèxic se celebra el 23 d'octubre, però en altres països correspon al 30 de març." },
+      { "name": "Aniversari de la Compra d'Alaska", "description": "El 30 de març de 1867, els Estats Units van signar el tractat pel qual van comprar Alaska a Rússia per 7,2 milions de dòlars, una adquisició que molts van anomenar 'la bogeria de Seward'." }
+    ],
+    "historicalQuote": {
+      "text": "La salut és la major possessió. El contentament és el major tresor. La confiança és el millor amic.",
+      "author": "Lao-Tsé",
+      "context": "Lao-Tsé, filòsof xinès del segle VI a.C. i presumit autor del Tao Te Ching, un dels textos fonamentals del taoisme, va formular nombroses màximes sobre la virtut, la natura i el benestar humà que continuen sent actuals."
+    },
+    "motivationalQuote": {
+      "text": "L'optimisme és la fe que condueix a l'assoliment. Res no pot fer-se sense esperança i confiança.",
+      "author": "Helen Keller"
+    },
+    "births": [
+      { "name": "Vincent van Gogh", "description": "Pintor holandès postimpressionista, un dels artistes més influents de la història de l'art, autor d'obres mestres com 'La nit estelada', 'Els girasols' i 'Els menjadors de patates', que va vendre un sol quadre en vida.", "year": 1853 },
+      { "name": "Céline Dion", "description": "Cantant canadenca del Quebec, una de les artistes més venudes de la història de la música pop, coneguda per la seva potent veu i èxits com 'My Heart Will Go On' (tema de la pel·lícula 'Titanic').", "year": 1968 },
+      { "name": "Warren Beatty", "description": "Actor, director i productor americà, conegut per pel·lícules com 'Bonnie i Clyde' (1967), 'El cel pot esperar' (1978) i 'Reds' (1981), pel qual va guanyar l'Oscar al millor director.", "year": 1937 }
+    ],
+    "events": [
+      { "title": "Els Estats Units compren Alaska a Rússia", "description": "El secretari d'Estat William Seward va signar el tractat pel qual els Estats Units van adquirir Alaska a l'Imperi Rus per 7,2 milions de dòlars, ridiculitzat com 'la bogeria de Seward' però valorat avui com una de les millors compres de la història.", "year": 1867 },
+      { "title": "Vincent van Gogh neix a Zundert", "description": "A Zundert (Brabant Septentrional) va néixer el que seria un dels pintors més estimats i incompresos de la història, la obra del qual va tenir un impacte decisiu en l'art del segle XX.", "year": 1853 },
+      { "title": "Intent d'assassinat de Ronald Reagan", "description": "John Hinckley Jr. va disparar contra el president dels Estats Units Ronald Reagan a les portes de l'hotel Hilton de Washington D.C.; Reagan va sobreviure després d'una operació d'emergència.", "year": 1981 }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-29",
+  "es": {
+    "saints": [
+      {
+        "name": "San Saturnino de Tolosa",
+        "type": "Obispo y Mártir",
+        "description": "Primer obispo de Toulouse en el siglo III, mártir cristiano que según la tradición fue atado a un toro que lo arrastró hasta su muerte por negarse a adorar a los dioses romanos. Su basílica en Toulouse es uno de los edificios románicos más importantes de Francia."
+      },
+      {
+        "name": "San Brendano de Birr",
+        "type": "Abad",
+        "description": "Abad irlandés del siglo VI, discípulo de San Finian de Clonard. No debe confundirse con San Brendano el Navegante. Fundó el monasterio de Birr y fue conocido por su sabiduría y su influencia en el monacato irlandés."
+      },
+      {
+        "name": "Beata María Teresa de Soubiran",
+        "type": "Virgen",
+        "description": "Religiosa francesa del siglo XIX, fundadora de la Sociedad de María Auxiliadora, una congregación dedicada a las jóvenes obreras. Beatificada en 1982 por Juan Pablo II."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Solidaridad con el Pueblo Palestino",
+        "description": "Proclamado por la ONU en 1977 para recordar el Plan de Partición de Palestina aprobado el 29 de noviembre de 1947 y expresar la solidaridad con el pueblo palestino."
+      },
+      {
+        "name": "Black Saturday (Argentina)",
+        "description": "En Argentina se conmemoran los fallecidos en accidentes de tráfico durante el fin de semana largo de Acción de Gracias, promoviendo la conducción responsable."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La paz es un proceso diario, semanal, mensual; un proceso que cambia gradualmente de opiniones, que erosiona lentamente las viejas barreras, que construye silenciosamente nuevas estructuras.",
+      "author": "John F. Kennedy",
+      "context": "El presidente americano, que sería asesinado apenas una semana después del Día Internacional de la Solidaridad con el Pueblo Palestino, fue un defensor del diálogo y la diplomacia multilateral."
+    },
+    "motivationalQuote": {
+      "text": "La paz no es la ausencia de conflicto; es la capacidad de manejarlo de forma pacífica.",
+      "author": "Ronald Reagan"
+    },
+    "births": [
+      {
+        "name": "Louisa May Alcott",
+        "description": "Novelista estadounidense, autora de Mujercitas (1868), una de las novelas más amadas de la literatura juvenil anglosajona. Fue también activista abolicionista y feminista.",
+        "year": 1832
+      },
+      {
+        "name": "C.S. Lewis",
+        "description": "Escritor y apologista cristiano irlandés-británico, autor de Las Crónicas de Narnia, Mero Cristianismo y El problema del dolor. Una de las mentes teológicas y literarias más influyentes del siglo XX.",
+        "year": 1898
+      },
+      {
+        "name": "Don Cheadle",
+        "description": "Actor estadounidense nominado al Oscar por Hotel Rwanda, conocido también por su papel del Coronel James Rhodes (War Machine) en el Universo Cinematográfico de Marvel.",
+        "year": 1964
+      }
+    ],
+    "events": [
+      {
+        "title": "La ONU aprueba el Plan de Partición de Palestina",
+        "description": "La Asamblea General de la ONU aprobó la Resolución 181 que proponía dividir el Mandato Británico de Palestina en un Estado judío y uno árabe, dando inicio al proceso que conduciría a la creación del Estado de Israel.",
+        "year": 1947
+      },
+      {
+        "title": "Yugoslavia proclama la república federal",
+        "description": "La Asamblea Nacional Constituyente de Yugoslavia proclamó la República Federal Popular de Yugoslavia, con Josip Broz Tito como primer ministro, distanciándose de los modelos soviéticos.",
+        "year": 1945
+      },
+      {
+        "title": "La sonda Mariner 4 se lanza hacia Marte",
+        "description": "La NASA lanzó la sonda Mariner 4, que realizaría el primer sobrevuelo exitoso de Marte en julio de 1965 y enviaría las primeras fotografías cercanas de su superficie.",
+        "year": 1964
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Saturninus of Toulouse",
+        "type": "Bishop and Martyr",
+        "description": "First bishop of Toulouse in the 3rd century, a Christian martyr who, according to tradition, was tied to a bull that dragged him to his death for refusing to worship the Roman gods. His basilica in Toulouse is one of the most important Romanesque buildings in France."
+      },
+      {
+        "name": "Saint Brendan of Birr",
+        "type": "Abbot",
+        "description": "6th-century Irish abbot and disciple of Saint Finnian of Clonard. Not to be confused with Saint Brendan the Navigator. He founded the monastery of Birr and was renowned for his wisdom and influence on Irish monasticism."
+      },
+      {
+        "name": "Blessed Mary Teresa of Soubiran",
+        "type": "Virgin",
+        "description": "19th-century French nun and founder of the Society of Mary Auxiliatrix, a congregation dedicated to young female workers. Beatified by John Paul II in 1982."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of Solidarity with the Palestinian People",
+        "description": "Proclaimed by the UN in 1977 to recall the Partition Plan for Palestine adopted on 29 November 1947 and to express solidarity with the Palestinian people."
+      },
+      {
+        "name": "Black Saturday (Argentina)",
+        "description": "In Argentina, those killed in road accidents during the long Thanksgiving weekend are commemorated, promoting responsible driving."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Peace is a daily, a weekly, a monthly process, gradually changing opinions, slowly eroding old barriers, quietly building new structures.",
+      "author": "John F. Kennedy",
+      "context": "The American president, who would be assassinated just a week before the International Day of Solidarity with the Palestinian People, was a champion of dialogue and multilateral diplomacy."
+    },
+    "motivationalQuote": {
+      "text": "Peace is not the absence of conflict; it is the ability to handle conflict by peaceful means.",
+      "author": "Ronald Reagan"
+    },
+    "births": [
+      {
+        "name": "Louisa May Alcott",
+        "description": "American novelist and author of Little Women (1868), one of the most beloved works in English-language children's literature. She was also an abolitionist and feminist activist.",
+        "year": 1832
+      },
+      {
+        "name": "C.S. Lewis",
+        "description": "Irish-British author and Christian apologist, creator of The Chronicles of Narnia and author of Mere Christianity and The Problem of Pain. One of the most influential theological and literary minds of the 20th century.",
+        "year": 1898
+      },
+      {
+        "name": "Don Cheadle",
+        "description": "American actor Oscar-nominated for Hotel Rwanda, also known for his role as Colonel James Rhodes (War Machine) in the Marvel Cinematic Universe.",
+        "year": 1964
+      }
+    ],
+    "events": [
+      {
+        "title": "UN approves the Partition Plan for Palestine",
+        "description": "The UN General Assembly adopted Resolution 181, proposing the partition of the British Mandate of Palestine into a Jewish state and an Arab state, setting in motion the process that would lead to the creation of the State of Israel.",
+        "year": 1947
+      },
+      {
+        "title": "Yugoslavia proclaims the federal republic",
+        "description": "Yugoslavia's Constituent National Assembly proclaimed the Federal People's Republic of Yugoslavia, with Josip Broz Tito as Prime Minister, distancing itself from Soviet models.",
+        "year": 1945
+      },
+      {
+        "title": "Mariner 4 probe launched towards Mars",
+        "description": "NASA launched the Mariner 4 probe, which would complete the first successful flyby of Mars in July 1965 and send back the first close-up photographs of its surface.",
+        "year": 1964
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Saturnino de Toulouse",
+        "type": "Bispo e Mártir",
+        "description": "Primeiro bispo de Toulouse no século III, mártir cristão que, segundo a tradição, foi amarrado a um touro que o arrastou até a morte por se recusar a adorar os deuses romanos. A sua basílica em Toulouse é um dos edifícios românicas mais importantes de França."
+      },
+      {
+        "name": "São Brendão de Birr",
+        "type": "Abade",
+        "description": "Abade irlandês do século VI e discípulo de São Finian de Clonard. Não deve ser confundido com São Brendão, o Navegante. Fundou o mosteiro de Birr e foi reconhecido pela sua sabedoria e influência no monasticismo irlandês."
+      },
+      {
+        "name": "Beata Maria Teresa de Soubiran",
+        "type": "Virgem",
+        "description": "Religiosa francesa do século XIX e fundadora da Sociedade de Maria Auxiliadora, uma congregação dedicada às jovens operárias. Beatificada por João Paulo II em 1982."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de Solidariedade com o Povo Palestino",
+        "description": "Proclamado pela ONU em 1977 para recordar o Plano de Partição da Palestina aprovado em 29 de novembro de 1947 e expressar solidariedade com o povo palestino."
+      },
+      {
+        "name": "Sábado Negro (Argentina)",
+        "description": "Na Argentina, são comemorados os falecidos em acidentes de trânsito durante o fim de semana prolongado, promovendo a condução responsável."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A paz é um processo diário, semanal, mensal; um processo que muda gradualmente opiniões, que corrói lentamente velhas barreiras, que constrói silenciosamente novas estruturas.",
+      "author": "John F. Kennedy",
+      "context": "O presidente americano, que seria assassinado poucos dias depois, foi um defensor do diálogo e da diplomacia multilateral."
+    },
+    "motivationalQuote": {
+      "text": "A paz não é a ausência de conflito; é a capacidade de lidar com ele de forma pacífica.",
+      "author": "Ronald Reagan"
+    },
+    "births": [
+      {
+        "name": "Louisa May Alcott",
+        "description": "Romancista americana e autora de Mulherzinhas (1868), uma das obras mais amadas da literatura juvenil anglófona. Foi também ativista abolicionista e feminista.",
+        "year": 1832
+      },
+      {
+        "name": "C.S. Lewis",
+        "description": "Escritor e apologista cristão irlandês-britânico, criador das Crônicas de Nárnia e autor de Cristianismo Puro e Simples e O Problema da Dor. Uma das mentes teológicas e literárias mais influentes do século XX.",
+        "year": 1898
+      },
+      {
+        "name": "Don Cheadle",
+        "description": "Ator americano indicado ao Oscar por Hotel Rwanda, também conhecido pelo seu papel do Coronel James Rhodes (Máquina de Combate) no Universo Cinematográfico Marvel.",
+        "year": 1964
+      }
+    ],
+    "events": [
+      {
+        "title": "A ONU aprova o Plano de Partição da Palestina",
+        "description": "A Assembleia Geral da ONU adotou a Resolução 181, propondo a divisão do Mandato Britânico da Palestina num estado judeu e num estado árabe, iniciando o processo que levaria à criação do Estado de Israel.",
+        "year": 1947
+      },
+      {
+        "title": "A Jugoslávia proclama a república federal",
+        "description": "A Assembleia Nacional Constituinte da Jugoslávia proclamou a República Federal Popular da Jugoslávia, com Josip Broz Tito como primeiro-ministro, distanciando-se dos modelos soviéticos.",
+        "year": 1945
+      },
+      {
+        "title": "Sonda Mariner 4 lançada em direção a Marte",
+        "description": "A NASA lançou a sonda Mariner 4, que realizaria o primeiro sobrevoo bem-sucedido de Marte em julho de 1965 e enviaria as primeiras fotografias de perto da sua superfície.",
+        "year": 1964
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Sadurní de Tolosa",
+        "type": "Bisbe i Màrtir",
+        "description": "Primer bisbe de Tolosa al segle III, màrtir cristià que, segons la tradició, va ser lligat a un brau que el va arrossegar fins a la mort per negar-se a adorar els déus romans. La seva basílica a Tolosa és un dels edificis romànics més importants de França."
+      },
+      {
+        "name": "Sant Brendà de Birr",
+        "type": "Abat",
+        "description": "Abat irlandès del segle VI i deixeble de Sant Finian de Clonard. No s'ha de confondre amb Sant Brendà, el Navegant. Va fundar el monestir de Birr i era conegut per la seva saviesa i influència en el monasticisme irlandès."
+      },
+      {
+        "name": "Beata Maria Teresa de Soubiran",
+        "type": "Verge",
+        "description": "Religiosa francesa del segle XIX i fundadora de la Societat de Maria Auxiliadora, una congregació dedicada a les joves obreres. Beatificada per Joan Pau II el 1982."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de Solidaritat amb el Poble Palestí",
+        "description": "Proclamat per l'ONU el 1977 per recordar el Pla de Partició de Palestina aprovat el 29 de novembre de 1947 i expressar la solidaritat amb el poble palestí."
+      },
+      {
+        "name": "Dissabte Negre (Argentina)",
+        "description": "A l'Argentina es commemoren els morts en accidents de trànsit durant el cap de setmana llarg, promovent la conducció responsable."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La pau és un procés diari, setmanal, mensual; un procés que canvia gradualment opinions, que erosiona lentament velles barreres, que construeix silenciosament noves estructures.",
+      "author": "John F. Kennedy",
+      "context": "El president americà, que seria assassinat pocs dies després, va ser un defensor del diàleg i la diplomàcia multilateral."
+    },
+    "motivationalQuote": {
+      "text": "La pau no és l'absència de conflicte; és la capacitat de gestionar-lo de manera pacífica.",
+      "author": "Ronald Reagan"
+    },
+    "births": [
+      {
+        "name": "Louisa May Alcott",
+        "description": "Novel·lista americana i autora de Dones Petites (1868), una de les obres més estimades de la literatura juvenil anglòfona. Va ser també activista abolicionista i feminista.",
+        "year": 1832
+      },
+      {
+        "name": "C.S. Lewis",
+        "description": "Escriptor i apologista cristià irlandès-britànic, creador de Les Cròniques de Nàrnia i autor d'El Mer Cristianisme i El Problema del Dolor. Una de les ments teològiques i literàries més influents del segle XX.",
+        "year": 1898
+      },
+      {
+        "name": "Don Cheadle",
+        "description": "Actor americà nominat a l'Oscar per Hotel Rwanda, també conegut pel seu paper del Coronel James Rhodes (War Machine) a l'Univers Cinematogràfic Marvel.",
+        "year": 1964
+      }
+    ],
+    "events": [
+      {
+        "title": "L'ONU aprova el Pla de Partició de Palestina",
+        "description": "L'Assemblea General de l'ONU va adoptar la Resolució 181, proposant la divisió del Mandat Britànic de Palestina en un estat jueu i un estat àrab, iniciant el procés que portaria a la creació de l'Estat d'Israel.",
+        "year": 1947
+      },
+      {
+        "title": "Iugoslàvia proclama la república federal",
+        "description": "L'Assemblea Nacional Constituent de Iugoslàvia va proclamar la República Federal Popular de Iugoslàvia, amb Josip Broz Tito com a primer ministre, allunyant-se dels models soviètics.",
+        "year": 1945
+      },
+      {
+        "title": "La sonda Mariner 4 és llançada cap a Mart",
+        "description": "La NASA va llançar la sonda Mariner 4, que realitzaria el primer sobrevol exitós de Mart el juliol de 1965 i enviaria les primeres fotografies de prop de la seva superfície.",
+        "year": 1964
+      }
+    ]
+  }
+}

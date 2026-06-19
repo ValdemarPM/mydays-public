@@ -1,0 +1,119 @@
+{
+  "date": "2026-02-20",
+  "es": {
+    "saints": [
+      { "name": "San Eleuterio de Tournai", "type": "Obispo", "description": "Primer obispo de Tournai (Bélgica), siglos V-VI, evangelizador de los francos y defensor de la ortodoxia frente a las herejías arrianas." },
+      { "name": "San Eucario de Tréveris", "type": "Obispo", "description": "Primer obispo de Tréveris (Alemania), discípulo según la tradición del apóstol Pedro; evangelizó las Galias." }
+    ],
+    "observances": [
+      { "name": "Día Mundial de la Justicia Social", "description": "Proclamado por la ONU en 2007, promueve la integración social, el pleno empleo y el trabajo decente para erradicar la pobreza y la exclusión." },
+      { "name": "Día del Presidente (EE. UU.)", "description": "Celebrado el tercer lunes de febrero, honra a todos los presidentes de los EE. UU. y es día festivo federal, conocido popularmente como Presidents' Day." }
+    ],
+    "historicalQuote": {
+      "text": "La injusticia en cualquier lugar es una amenaza para la justicia en todas partes.",
+      "author": "Martin Luther King Jr.",
+      "context": "Esta cita proviene de la Carta desde la Cárcel de Birmingham (1963), escrita mientras King estaba encarcelado por participar en una protesta no violenta. Es considerada uno de los textos más elocuentes sobre los derechos civiles."
+    },
+    "motivationalQuote": {
+      "text": "Nunca dejes que el miedo al fracaso sea excusa para no intentarlo.",
+      "author": "Michael Jordan"
+    },
+    "births": [
+      { "name": "Condoleezza Rice", "description": "Politóloga y diplomática estadounidense, primera mujer afroamericana en ocupar el cargo de Secretaria de Estado de EE. UU. (2005-2009).", "year": 1954 },
+      { "name": "Kurt Cobain", "description": "Músico estadounidense, fundador y vocalista de Nirvana; su álbum Nevermind (1991) redefinió el rock alternativo y la cultura grunge.", "year": 1967 },
+      { "name": "Rihanna", "description": "Cantante, empresaria y filántropa barbadense, una de las artistas musicales más vendidas de todos los tiempos con éxitos como Umbrella y Diamonds.", "year": 1988 }
+    ],
+    "events": [
+      { "title": "John Glenn orbita la Tierra", "description": "El astronauta John Glenn se convierte en el primer ciudadano estadounidense en orbitar la Tierra a bordo de la cápsula Friendship 7, completando tres órbitas en menos de 5 horas.", "year": 1962 },
+      { "title": "Primer vuelo del transbordador espacial Columbia", "description": "La NASA lanza el primer transbordador espacial de la historia, el Columbia, iniciando la era del vuelo espacial reutilizable.", "year": 1981 },
+      { "title": "Inauguración del Museo Guggenheim de Bilbao", "description": "El museo de arte contemporáneo diseñado por Frank Gehry abre sus puertas en Bilbao, convirtiéndose en icono arquitectónico y motor de la regeneración urbana.", "year": 1997 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Eleutherius of Tournai", "type": "Bishop", "description": "First Bishop of Tournai (Belgium), 5th–6th century, evangeliser of the Franks and defender of orthodoxy against Arian heresies." },
+      { "name": "Saint Eucharius of Trier", "type": "Bishop", "description": "First Bishop of Trier (Germany), a disciple of the Apostle Peter according to tradition; evangelised the Gauls." }
+    ],
+    "observances": [
+      { "name": "World Day of Social Justice", "description": "Proclaimed by the UN in 2007, it promotes social integration, full employment and decent work to eradicate poverty and exclusion." },
+      { "name": "Presidents' Day (USA)", "description": "Observed on the third Monday of February, it honours all US presidents and is a federal public holiday." }
+    ],
+    "historicalQuote": {
+      "text": "Injustice anywhere is a threat to justice everywhere.",
+      "author": "Martin Luther King Jr.",
+      "context": "This quote comes from the Letter from Birmingham Jail (1963), written while King was imprisoned for taking part in a non-violent protest. It is considered one of the most eloquent texts on civil rights."
+    },
+    "motivationalQuote": {
+      "text": "Never let the fear of failure be an excuse not to try.",
+      "author": "Michael Jordan"
+    },
+    "births": [
+      { "name": "Condoleezza Rice", "description": "American political scientist and diplomat, the first African-American woman to serve as US Secretary of State (2005–2009).", "year": 1954 },
+      { "name": "Kurt Cobain", "description": "American musician, founder and vocalist of Nirvana; his album Nevermind (1991) redefined alternative rock and grunge culture.", "year": 1967 },
+      { "name": "Rihanna", "description": "Barbadian singer, businesswoman and philanthropist, one of the best-selling musical artists of all time with hits such as Umbrella and Diamonds.", "year": 1988 }
+    ],
+    "events": [
+      { "title": "John Glenn orbits the Earth", "description": "Astronaut John Glenn becomes the first American citizen to orbit the Earth aboard the Friendship 7 capsule, completing three orbits in under 5 hours.", "year": 1962 },
+      { "title": "First flight of the Space Shuttle Columbia", "description": "NASA launches the world's first space shuttle, Columbia, inaugurating the era of reusable spaceflight.", "year": 1981 },
+      { "title": "Guggenheim Museum Bilbao opens", "description": "The contemporary art museum designed by Frank Gehry opens its doors in Bilbao, becoming an architectural icon and driver of urban regeneration.", "year": 1997 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Eleutério de Tournai", "type": "Bispo", "description": "Primeiro bispo de Tournai (Bélgica), séculos V-VI, evangelizador dos francos e defensor da ortodoxia frente às heresias arianas." },
+      { "name": "São Eucário de Tréveris", "type": "Bispo", "description": "Primeiro bispo de Tréveris (Alemanha), discípulo segundo a tradição do apóstolo Pedro; evangelizou as Gálias." }
+    ],
+    "observances": [
+      { "name": "Dia Mundial da Justiça Social", "description": "Proclamado pela ONU em 2007, promove a integração social, o pleno emprego e o trabalho decente para erradicar a pobreza e a exclusão." },
+      { "name": "Dia do Presidente (EUA)", "description": "Celebrado na terceira segunda-feira de fevereiro, homenageia todos os presidentes dos EUA e é feriado federal, conhecido popularmente como Presidents' Day." }
+    ],
+    "historicalQuote": {
+      "text": "A injustiça em qualquer lugar é uma ameaça à justiça em todos os lugares.",
+      "author": "Martin Luther King Jr.",
+      "context": "Esta citação vem da Carta da Cadeia de Birmingham (1963), escrita enquanto King estava preso por participar de um protesto não violento. É considerado um dos textos mais eloquentes sobre os direitos civis."
+    },
+    "motivationalQuote": {
+      "text": "Nunca deixe que o medo do fracasso seja uma desculpa para não tentar.",
+      "author": "Michael Jordan"
+    },
+    "births": [
+      { "name": "Condoleezza Rice", "description": "Cientista política e diplomata americana, primeira mulher afro-americana a ocupar o cargo de Secretária de Estado dos EUA (2005-2009).", "year": 1954 },
+      { "name": "Kurt Cobain", "description": "Músico americano, fundador e vocalista do Nirvana; seu álbum Nevermind (1991) redefiniu o rock alternativo e a cultura grunge.", "year": 1967 },
+      { "name": "Rihanna", "description": "Cantora, empresária e filantropa barbadense, uma das artistas musicais mais vendidas de todos os tempos com sucessos como Umbrella e Diamonds.", "year": 1988 }
+    ],
+    "events": [
+      { "title": "John Glenn orbita a Terra", "description": "O astronauta John Glenn torna-se o primeiro cidadão americano a orbitar a Terra a bordo da cápsula Friendship 7, completando três órbitas em menos de 5 horas.", "year": 1962 },
+      { "title": "Primeiro voo do ônibus espacial Columbia", "description": "A NASA lança o primeiro ônibus espacial da história, o Columbia, iniciando a era do voo espacial reutilizável.", "year": 1981 },
+      { "title": "Inauguração do Museu Guggenheim de Bilbao", "description": "O museu de arte contemporânea projetado por Frank Gehry abre suas portas em Bilbao, tornando-se ícone arquitetônico e motor da regeneração urbana.", "year": 1997 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Eleuteri de Tournai", "type": "Bisbe", "description": "Primer bisbe de Tournai (Bèlgica), segles V-VI, evangelitzador dels francs i defensor de l'ortodòxia davant les heretgies arianes." },
+      { "name": "Sant Eucari de Trèveris", "type": "Bisbe", "description": "Primer bisbe de Trèveris (Alemanya), deixeble segons la tradició de l'apòstol Pere; evangelitzà les Gàl·lies." }
+    ],
+    "observances": [
+      { "name": "Dia Mundial de la Justícia Social", "description": "Proclamat per l'ONU el 2007, promou la integració social, l'ocupació plena i el treball decent per erradicar la pobresa i l'exclusió." },
+      { "name": "Dia del President (EUA)", "description": "Celebrat el tercer dilluns de febrer, honra tots els presidents dels EUA i és dia festiu federal, conegut popularment com Presidents' Day." }
+    ],
+    "historicalQuote": {
+      "text": "La injustícia en qualsevol lloc és una amenaça per a la justícia a tot arreu.",
+      "author": "Martin Luther King Jr.",
+      "context": "Aquesta cita prové de la Carta des de la Presó de Birmingham (1963), escrita mentre King estava empresonat per participar en una protesta no violenta. Es considera un dels textos més eloqüents sobre els drets civils."
+    },
+    "motivationalQuote": {
+      "text": "Mai no deixis que la por al fracàs sigui una excusa per no intentar-ho.",
+      "author": "Michael Jordan"
+    },
+    "births": [
+      { "name": "Condoleezza Rice", "description": "Politòloga i diplomàtica nord-americana, primera dona afroamericana a ocupar el càrrec de Secretària d'Estat dels EUA (2005-2009).", "year": 1954 },
+      { "name": "Kurt Cobain", "description": "Músic americà, fundador i vocalista de Nirvana; el seu àlbum Nevermind (1991) va redefinir el rock alternatiu i la cultura grunge.", "year": 1967 },
+      { "name": "Rihanna", "description": "Cantant, empresària i filàntropa de Barbados, una de les artistes musicals més venudes de tots els temps amb èxits com Umbrella i Diamonds.", "year": 1988 }
+    ],
+    "events": [
+      { "title": "John Glenn orbita la Terra", "description": "L'astronauta John Glenn es converteix en el primer ciutadà americà a orbitar la Terra a bord de la càpsula Friendship 7, completant tres òrbites en menys de 5 hores.", "year": 1962 },
+      { "title": "Primer vol del transbordador espacial Columbia", "description": "La NASA llança el primer transbordador espacial de la història, el Columbia, iniciant l'era del vol espacial reutilitzable.", "year": 1981 },
+      { "title": "Inauguració del Museu Guggenheim de Bilbao", "description": "El museu d'art contemporani dissenyat per Frank Gehry obre les portes a Bilbao, convertint-se en icona arquitectònica i motor de la regeneració urbana.", "year": 1997 }
+    ]
+  }
+}

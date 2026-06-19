@@ -1,0 +1,291 @@
+{
+  "date": "2025-08-04",
+  "es": {
+    "saints": [
+      {
+        "name": "San Juan María Vianney",
+        "type": "Presbítero",
+        "description": "El Cura de Ars (1786–1859), párroco de Ars-sur-Formans (Francia) famoso por sus confesiones de hasta 18 horas diarias. Patrono universal de los párrocos, canonizado en 1925 por Pío XI."
+      },
+      {
+        "name": "Santo Domingo de Guzmán",
+        "type": "Sacerdote y Fundador",
+        "description": "Fundador de la Orden de Predicadores (Dominicos) en el siglo XIII. Su festividad principal es el 8 de agosto, pero en muchos calendarios se conmemora también hoy su tránsito en 1221."
+      },
+      {
+        "name": "San Tertulino",
+        "type": "Mártir",
+        "description": "Mártir de los primeros siglos venerado en Roma junto con otros compañeros. Los datos históricos son escasos, pero su culto está documentado en el martirologio romano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día del Guardabosques de los Estados Unidos",
+        "description": "Celebración del cuerpo de guardabosques del Servicio Forestal de los Estados Unidos, fundado en 1905, encargado de la protección y gestión de los bosques nacionales."
+      },
+      {
+        "name": "Día de la Independencia de Burkina Faso",
+        "description": "Burkina Faso (antes Alto Volta) celebra su independencia de Francia, proclamada el 5 de agosto de 1960. Los actos conmemorativos comienzan el 4 de agosto."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Dios no pide que tengamos éxito; nos pide que intentemos.",
+      "author": "Santa Teresa de Calcuta",
+      "context": "La misionera albanesa nacida el 26 de agosto de 1910 dedicó su vida a los más pobres de Calcuta. Esta cita sintetiza su espiritualidad de la entrega total sin esperar resultados visibles."
+    },
+    "motivationalQuote": {
+      "text": "El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el coraje para continuar.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Percy Bysshe Shelley",
+        "description": "Poeta romántico inglés, uno de los grandes líricos de la literatura universal, autor de Ode to the West Wind, Prometheus Unbound y el soneto Ozymandias.",
+        "year": 1792
+      },
+      {
+        "name": "Louis Armstrong",
+        "description": "Trompetista, cantante y compositor estadounidense, una de las figuras más influyentes de la historia del jazz. Su voz y su trompeta definieron el sonido del jazz del siglo XX.",
+        "year": 1901
+      },
+      {
+        "name": "Barack Obama",
+        "description": "44.º presidente de los Estados Unidos (2009–2017), primer afroamericano en alcanzar la presidencia. Premio Nobel de la Paz en 2009.",
+        "year": 1961
+      }
+    ],
+    "events": [
+      {
+        "title": "El Imperio Británico declara la guerra a Alemania — Primera Guerra Mundial",
+        "description": "El 4 de agosto de 1914, Gran Bretaña declaró la guerra a Alemania tras la invasión alemana de la neutral Bélgica, arrastrando al Imperio Británico y a sus colonias al conflicto.",
+        "year": 1914
+      },
+      {
+        "title": "Asesinato de Sharon Tate y otras víctimas por la familia Manson",
+        "description": "En la madrugada del 9 de agosto de 1969 (horas de California, aún 8-9 de agosto), miembros de la familia Manson asesinaron a Sharon Tate y cuatro personas más en Los Ángeles, conmocionando a la sociedad estadounidense.",
+        "year": 1969
+      },
+      {
+        "title": "Dimisión de Richard Nixon como presidente de EE. UU.",
+        "description": "El 8 de agosto de 1974, Richard Nixon anunció su dimisión por el escándalo Watergate; el 4 de agosto se conoció la grabación de la 'pistola humeante' que lo incriminaba definitivamente.",
+        "year": 1974
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint John Mary Vianney",
+        "type": "Priest",
+        "description": "The Curé of Ars (1786–1859), parish priest of Ars-sur-Formans, France, famous for spending up to 18 hours a day hearing confessions. Universal patron of parish priests, canonised in 1925 by Pius XI."
+      },
+      {
+        "name": "Saint Dominic of Guzmán",
+        "type": "Priest and Founder",
+        "description": "Founder of the Order of Preachers (Dominicans) in the 13th century. His main feast day is 8 August, but many calendars also commemorate today his death in 1221."
+      },
+      {
+        "name": "Saint Tertullinus",
+        "type": "Martyr",
+        "description": "An early Christian martyr venerated in Rome alongside other companions. Historical records are scarce, but his cult is documented in the Roman Martyrology."
+      }
+    ],
+    "observances": [
+      {
+        "name": "United States Forest Ranger Day",
+        "description": "A celebration of the US Forest Service ranger corps, founded in 1905, responsible for protecting and managing the national forests."
+      },
+      {
+        "name": "Independence Day of Burkina Faso",
+        "description": "Burkina Faso (formerly Upper Volta) celebrates its independence from France, proclaimed on 5 August 1960. Commemorative events begin on 4 August."
+      }
+    ],
+    "historicalQuote": {
+      "text": "God does not require that we be successful, only that we try.",
+      "author": "Saint Teresa of Calcutta",
+      "context": "The Albanian-born missionary, born on 26 August 1910, devoted her life to the poorest of Calcutta. This quote encapsulates her spirituality of total giving without expecting visible results."
+    },
+    "motivationalQuote": {
+      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Percy Bysshe Shelley",
+        "description": "English Romantic poet, one of the great lyricists of world literature, author of Ode to the West Wind, Prometheus Unbound, and the sonnet Ozymandias.",
+        "year": 1792
+      },
+      {
+        "name": "Louis Armstrong",
+        "description": "American trumpeter, singer, and composer, one of the most influential figures in the history of jazz. His voice and trumpet defined the sound of 20th-century jazz.",
+        "year": 1901
+      },
+      {
+        "name": "Barack Obama",
+        "description": "44th President of the United States (2009–2017), the first African American to reach the presidency. Nobel Peace Prize laureate in 2009.",
+        "year": 1961
+      }
+    ],
+    "events": [
+      {
+        "title": "The British Empire declares war on Germany — World War I",
+        "description": "On 4 August 1914, Britain declared war on Germany following the German invasion of neutral Belgium, drawing the British Empire and its colonies into the conflict.",
+        "year": 1914
+      },
+      {
+        "title": "The 'smoking gun' tape implicates Nixon in Watergate",
+        "description": "On 4 August 1974, the recording known as the 'smoking gun' tape was released, definitively implicating President Nixon in the Watergate cover-up and sealing his political fate.",
+        "year": 1974
+      },
+      {
+        "title": "Anne Frank and family discovered by Gestapo",
+        "description": "On 4 August 1944, the Gestapo raided the secret annex in Amsterdam where Anne Frank and her family had been hiding for two years, leading to their arrest and deportation.",
+        "year": 1944
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São João Maria Vianney",
+        "type": "Presbítero",
+        "description": "O Cura d'Ars (1786–1859), pároco de Ars-sur-Formans (França), famoso por passar até 18 horas por dia no confessionário. Patrono universal dos párocos, canonizado em 1925 por Pio XI."
+      },
+      {
+        "name": "Santo Domingo de Gusmão",
+        "type": "Sacerdote e Fundador",
+        "description": "Fundador da Ordem dos Pregadores (Dominicanos) no século XIII. A sua festa principal é 8 de agosto, mas muitos calendários também comemoram hoje a sua morte em 1221."
+      },
+      {
+        "name": "São Tertulino",
+        "type": "Mártir",
+        "description": "Mártir dos primeiros séculos venerado em Roma junto com outros companheiros. Os dados históricos são escassos, mas o seu culto está documentado no Martirológio Romano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia do Guardião Florestal dos Estados Unidos",
+        "description": "Celebração do corpo de guardas florestais do Serviço Florestal dos EUA, fundado em 1905, responsável pela proteção e gestão das florestas nacionais."
+      },
+      {
+        "name": "Dia da Independência de Burkina Faso",
+        "description": "Burkina Faso (antes Alto Volta) celebra a sua independência da França, proclamada em 5 de agosto de 1960. Os atos comemorativos têm início em 4 de agosto."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Deus não exige que tenhamos sucesso; apenas que tentemos.",
+      "author": "Santa Teresa de Calcutá",
+      "context": "A missionária albanesa nascida em 26 de agosto de 1910 dedicou a sua vida aos mais pobres de Calcutá. Esta citação sintetiza a sua espiritualidade de entrega total sem esperar resultados visíveis."
+    },
+    "motivationalQuote": {
+      "text": "O sucesso não é definitivo, o fracasso não é fatal: o que conta é a coragem de continuar.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Percy Bysshe Shelley",
+        "description": "Poeta romântico inglês, um dos grandes líricos da literatura universal, autor de Ode ao Vento Oeste, Prometeu Desacorrentado e o soneto Ozymandias.",
+        "year": 1792
+      },
+      {
+        "name": "Louis Armstrong",
+        "description": "Trompetista, cantor e compositor americano, uma das figuras mais influentes da história do jazz. A sua voz e trompete definiram o som do jazz do século XX.",
+        "year": 1901
+      },
+      {
+        "name": "Barack Obama",
+        "description": "44.º presidente dos Estados Unidos (2009–2017), primeiro afro-americano a alcançar a presidência. Prêmio Nobel da Paz em 2009.",
+        "year": 1961
+      }
+    ],
+    "events": [
+      {
+        "title": "O Império Britânico declara guerra à Alemanha — Primeira Guerra Mundial",
+        "description": "Em 4 de agosto de 1914, a Grã-Bretanha declarou guerra à Alemanha após a invasão alemã da neutra Bélgica, arrastando o Império Britânico e as suas colônias para o conflito.",
+        "year": 1914
+      },
+      {
+        "title": "A fita da 'arma fumegante' implica Nixon no Watergate",
+        "description": "Em 4 de agosto de 1974, foi divulgada a gravação conhecida como a fita da 'arma fumegante', implicando definitivamente o presidente Nixon no encobrimento do Watergate e selando o seu destino político.",
+        "year": 1974
+      },
+      {
+        "title": "Anne Frank e família descobertas pela Gestapo",
+        "description": "Em 4 de agosto de 1944, a Gestapo invadiu o esconderijo secreto em Amsterdã onde Anne Frank e sua família viviam há dois anos, levando à sua prisão e deportação.",
+        "year": 1944
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Joan Maria Vianney",
+        "type": "Prevere",
+        "description": "El Rector d'Ars (1786–1859), rector d'Ars-sur-Formans (França), famós per passar fins a 18 hores diàries al confessionari. Patró universal dels rectors, canonitzat el 1925 per Pius XI."
+      },
+      {
+        "name": "Sant Domingo de Guzmán",
+        "type": "Sacerdot i Fundador",
+        "description": "Fundador de l'Ordre dels Predicadors (Dominicans) al segle XIII. La seva festa principal és el 8 d'agost, però molts calendaris commemoren avui la seva mort el 1221."
+      },
+      {
+        "name": "Sant Tertul·lí",
+        "type": "Màrtir",
+        "description": "Màrtir dels primers segles venerat a Roma juntament amb altres companys. Les dades històriques són escasses, però el seu culte està documentat en el Martirologi Romà."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia del Guardaboscos dels Estats Units",
+        "description": "Celebració del cos de guardaboscos del Servei Forestal dels EUA, fundat el 1905, encarregat de la protecció i gestió dels boscos nacionals."
+      },
+      {
+        "name": "Dia de la Independència de Burkina Faso",
+        "description": "Burkina Faso (abans Alt Volta) celebra la seva independència de França, proclamada el 5 d'agost de 1960. Els actes commemoratius comencen el 4 d'agost."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Déu no demana que tinguem èxit; ens demana que ho intentem.",
+      "author": "Santa Teresa de Calcuta",
+      "context": "La missionera albanesa nascuda el 26 d'agost de 1910 va dedicar la seva vida als més pobres de Calcuta. Aquesta cita sintetitza la seva espiritualitat de l'entrega total sense esperar resultats visibles."
+    },
+    "motivationalQuote": {
+      "text": "L'èxit no és definitiu, el fracàs no és fatal: el que compta és el coratge per continuar.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Percy Bysshe Shelley",
+        "description": "Poeta romàntic anglès, un dels grans lírics de la literatura universal, autor de Oda al vent de l'oest, Prometeu desencadenat i el sonet Ozymandias.",
+        "year": 1792
+      },
+      {
+        "name": "Louis Armstrong",
+        "description": "Trompetista, cantant i compositor americà, una de les figures més influents de la història del jazz. La seva veu i la seva trompeta van definir el so del jazz del segle XX.",
+        "year": 1901
+      },
+      {
+        "name": "Barack Obama",
+        "description": "44è president dels Estats Units (2009–2017), el primer afroamericà a assolir la presidència. Premi Nobel de la Pau el 2009.",
+        "year": 1961
+      }
+    ],
+    "events": [
+      {
+        "title": "L'Imperi Britànic declara la guerra a Alemanya — Primera Guerra Mundial",
+        "description": "El 4 d'agost de 1914, la Gran Bretanya va declarar la guerra a Alemanya arran de la invasió alemanya de la neutral Bèlgica, arrossegant l'Imperi Britànic i les seves colònies al conflicte.",
+        "year": 1914
+      },
+      {
+        "title": "La gravació de la 'pistola fumejant' implica Nixon en el Watergate",
+        "description": "El 4 d'agost de 1974 es va publicar la gravació coneguda com la 'pistola fumejant', que implicava definitivament el president Nixon en l'encobrement del Watergate i segellava el seu destí polític.",
+        "year": 1974
+      },
+      {
+        "title": "Anne Frank i la seva família descobertes per la Gestapo",
+        "description": "El 4 d'agost de 1944, la Gestapo va assaltar l'annexe secret d'Amsterdam on Anne Frank i la seva família s'havien amagat durant dos anys, portant a la seva detenció i deportació.",
+        "year": 1944
+      }
+    ]
+  }
+}

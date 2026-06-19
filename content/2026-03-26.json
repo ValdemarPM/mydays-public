@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-26",
+  "es": {
+    "saints": [
+      { "name": "San Braulio de Zaragoza", "type": "Obispo y Doctor", "description": "Obispo de Zaragoza en el siglo VII, discípulo y continuador de la obra de San Isidoro de Sevilla; reunió y difundió las Etimologías isidorianas, conservando el saber de la Antigüedad en la España visigótica." },
+      { "name": "San Cástulo de Roma", "type": "Mártir", "description": "Funcionario palatino romano del siglo III que fue martirizado por su fe cristiana bajo el emperador Diocleciano; su tumba en la catacumba de Calixto fue lugar de culto." },
+      { "name": "San Ludger de Münster", "type": "Obispo misionero", "description": "Obispo frisón del siglo VIII-IX, discípulo de San Gregorio de Utrecht y de Alcuino de York, primer obispo de Münster y evangelizador de los sajones de Westfalia." }
+    ],
+    "observances": [
+      { "name": "Día del Libro Morado (Purple Day)", "description": "Jornada internacional de concienciación sobre la epilepsia, celebrada en color morado como símbolo de esta condición neurológica." },
+      { "name": "Día de la Independencia de Bangladesh", "description": "Bangladesh conmemora su declaración de independencia de Pakistán el 26 de marzo de 1971, inicio de la guerra de liberación que culminó ese mismo año con el reconocimiento internacional del nuevo estado." }
+    ],
+    "historicalQuote": {
+      "text": "La música puede cambiar el mundo, porque puede cambiar a las personas.",
+      "author": "Bono",
+      "context": "Bono, cantante y activista de la banda U2, ha combinado la música con el activismo social y político durante décadas. Esta frase refleja su convicción sobre el poder de la música como herramienta de transformación."
+    },
+    "motivationalQuote": {
+      "text": "Primero dicen que estás loco, luego que luchas contra molinos, finalmente celebran tu victoria.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      { "name": "Ludwig van Beethoven (bautismo)", "description": "Aunque la fecha exacta de nacimiento es incierta, Beethoven fue bautizado el 17 de diciembre de 1770. No obstante, el 26 de marzo de 1827 fue el día de su muerte en Viena, evento que transformó la historia de la música.", "year": 1827 },
+      { "name": "Tennessee Williams", "description": "Dramaturgo americano, autor de obras fundamentales del teatro del siglo XX como 'Un tranvía llamado deseo', 'La gata sobre el tejado de zinc caliente' y 'El zoo de cristal'.", "year": 1911 },
+      { "name": "Diana Ross", "description": "Cantante americana, líder de The Supremes y una de las artistas de soul y R&B más vendidas de la historia, con éxitos como 'Ain't No Mountain High Enough' y 'Endless Love'.", "year": 1944 }
+    ],
+    "events": [
+      { "title": "Muerte de Ludwig van Beethoven", "description": "El compositor alemán Ludwig van Beethoven falleció en Viena a los 56 años, sordo desde hacía años, dejando una obra que transformó la música occidental para siempre.", "year": 1827 },
+      { "title": "Acuerdos de Camp David entre Israel y Egipto", "description": "Israel y Egipto firmaron el Tratado de Paz de Camp David, el primer tratado de paz entre Israel y un estado árabe, con la mediación del presidente Jimmy Carter.", "year": 1979 },
+      { "title": "Bangladesh declara la independencia de Pakistán", "description": "La liga Awami de Bangladesh proclamó la independencia del país, desencadenando la guerra de liberación de Bangladesh que culminó con la victoria sobre Pakistán en diciembre de 1971.", "year": 1971 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Braulio of Zaragoza", "type": "Bishop and Doctor", "description": "Seventh-century Bishop of Zaragoza, disciple and successor of Saint Isidore of Seville; he compiled and disseminated the Isidoran Etymologiae, preserving the knowledge of antiquity in Visigothic Spain." },
+      { "name": "Saint Castulus of Rome", "type": "Martyr", "description": "Third-century Roman palace official martyred for his Christian faith under Emperor Diocletian; his tomb in the Catacomb of Callixtus was a place of worship." },
+      { "name": "Saint Ludger of Münster", "type": "Missionary bishop", "description": "Eighth–ninth-century Frisian bishop, disciple of Saint Gregory of Utrecht and Alcuin of York, first Bishop of Münster and evangeliser of the Saxons of Westphalia." }
+    ],
+    "observances": [
+      { "name": "Purple Day", "description": "An international day of epilepsy awareness, celebrated in purple as the symbol of this neurological condition." },
+      { "name": "Bangladesh Independence Day", "description": "Bangladesh commemorates its declaration of independence from Pakistan on 26 March 1971, the start of the liberation war that culminated that same year in international recognition of the new state." }
+    ],
+    "historicalQuote": {
+      "text": "Music can change the world because it can change people.",
+      "author": "Bono",
+      "context": "Bono, singer and activist of the band U2, has combined music with social and political activism for decades. This phrase reflects his conviction about the power of music as a tool for transformation."
+    },
+    "motivationalQuote": {
+      "text": "First they ignore you, then they laugh at you, then they fight you, then you win.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      { "name": "Tennessee Williams", "description": "American playwright, author of landmark twentieth-century theatre works such as 'A Streetcar Named Desire', 'Cat on a Hot Tin Roof' and 'The Glass Menagerie'.", "year": 1911 },
+      { "name": "Diana Ross", "description": "American singer, lead of The Supremes and one of the best-selling soul and R&B artists in history, with hits such as 'Ain't No Mountain High Enough' and 'Endless Love'.", "year": 1944 },
+      { "name": "Keira Knightley", "description": "British actress, known for the 'Pirates of the Caribbean' saga, 'Pride & Prejudice' (2005) and 'Atonement' (2007), nominated for an Oscar at the age of 20.", "year": 1985 }
+    ],
+    "events": [
+      { "title": "Death of Ludwig van Beethoven", "description": "German composer Ludwig van Beethoven died in Vienna at the age of 56, deaf for years, leaving a body of work that transformed Western music for ever.", "year": 1827 },
+      { "title": "Camp David Accords between Israel and Egypt", "description": "Israel and Egypt signed the Camp David Peace Treaty, the first peace treaty between Israel and an Arab state, brokered by President Jimmy Carter.", "year": 1979 },
+      { "title": "Bangladesh declares independence from Pakistan", "description": "The Awami League of Bangladesh proclaimed the country's independence, triggering the Bangladesh Liberation War, which ended with victory over Pakistan in December 1971.", "year": 1971 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Bráulio de Saragoça", "type": "Bispo e Doutor", "description": "Bispo de Saragoça no século VII, discípulo e continuador da obra de Santo Isidoro de Sevilha; compilou e divulgou as Etimologias isidorianas, conservando o saber da Antiguidade na Espanha visigótica." },
+      { "name": "São Cástulo de Roma", "type": "Mártir", "description": "Funcionário palatino romano do século III martirizado pela sua fé cristã sob o imperador Diocleciano; a sua tumba na catacumba de Calisto foi local de culto." },
+      { "name": "São Ludgero de Münster", "type": "Bispe missionário", "description": "Bispo frisão dos séculos VIII-IX, discípulo de São Gregório de Utrecht e Alcuíno de York, primeiro Bispo de Münster e evangelizador dos saxões da Vestfália." }
+    ],
+    "observances": [
+      { "name": "Dia Roxo (Purple Day)", "description": "Jornada internacional de consciencialização sobre a epilepsia, celebrada na cor roxa como símbolo desta condição neurológica." },
+      { "name": "Dia da Independência de Bangladesh", "description": "Bangladesh comemora a sua declaração de independência do Paquistão em 26 de março de 1971, início da guerra de libertação que culminou esse mesmo ano com o reconhecimento internacional do novo estado." }
+    ],
+    "historicalQuote": {
+      "text": "A música pode mudar o mundo porque pode mudar as pessoas.",
+      "author": "Bono",
+      "context": "Bono, cantor e ativista da banda U2, combinou a música com o ativismo social e político durante décadas. Esta frase reflete a sua convicção sobre o poder da música como ferramenta de transformação."
+    },
+    "motivationalQuote": {
+      "text": "Primeiro ignoram-te, depois riem de ti, depois lutam contra ti, depois vences.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      { "name": "Tennessee Williams", "description": "Dramaturgo americano, autor de obras fundamentais do teatro do século XX como 'Um Bonde Chamado Desejo', 'Gata em Telhado de Zinco Quente' e 'O Zoológico de Vidro'.", "year": 1911 },
+      { "name": "Diana Ross", "description": "Cantora americana, líder dos Supremes e uma das artistas de soul e R&B mais vendidas da história, com sucessos como 'Ain't No Mountain High Enough' e 'Endless Love'.", "year": 1944 },
+      { "name": "Keira Knightley", "description": "Atriz britânica, conhecida pela saga 'Piratas do Caribe', 'Orgulho e Preconceito' (2005) e 'Reparação' (2007), indicada ao Oscar com 20 anos.", "year": 1985 }
+    ],
+    "events": [
+      { "title": "Morte de Ludwig van Beethoven", "description": "O compositor alemão Ludwig van Beethoven faleceu em Viena aos 56 anos, surdo há anos, deixando uma obra que transformou a música ocidental para sempre.", "year": 1827 },
+      { "title": "Acordos de Camp David entre Israel e Egito", "description": "Israel e Egito assinaram o Tratado de Paz de Camp David, o primeiro tratado de paz entre Israel e um estado árabe, com a mediação do presidente Jimmy Carter.", "year": 1979 },
+      { "title": "Bangladesh declara a independência do Paquistão", "description": "A Liga Awami de Bangladesh proclamou a independência do país, desencadeando a guerra de libertação de Bangladesh que culminou com a vitória sobre o Paquistão em dezembro de 1971.", "year": 1971 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Braulí de Saragossa", "type": "Bisbe i Doctor", "description": "Bisbe de Saragossa al segle VII, deixeble i continuador de l'obra de Sant Isidor de Sevilla; va compilar i difondre les Etimologies isidorianes, conservant el saber de l'Antiguitat a l'Espanya visigòtica." },
+      { "name": "Sant Càstul de Roma", "type": "Màrtir", "description": "Funcionari palatí romà del segle III martiritzat per la seva fe cristiana sota l'emperador Dioclecià; la seva tomba a la catacumba de Cal·líxt va ser lloc de culte." },
+      { "name": "Sant Ludger de Münster", "type": "Bisbe missioner", "description": "Bisbe frisó dels segles VIII-IX, deixeble de Sant Gregori d'Utrecht i Alcuí de York, primer bisbe de Münster i evangelitzador dels saxons de Westfàlia." }
+    ],
+    "observances": [
+      { "name": "Dia Porpra (Purple Day)", "description": "Jornada internacional de conscienciació sobre l'epilèpsia, celebrada en color porpra com a símbol d'aquesta condició neurològica." },
+      { "name": "Dia de la Independència de Bangladesh", "description": "Bangladesh commemora la seva declaració d'independència del Pakistan el 26 de març de 1971, inici de la guerra de lliberació que va culminar aquell mateix any amb el reconeixement internacional del nou estat." }
+    ],
+    "historicalQuote": {
+      "text": "La música pot canviar el món perquè pot canviar les persones.",
+      "author": "Bono",
+      "context": "Bono, cantant i activista de la banda U2, ha combinat la música amb l'activisme social i polític durant dècades. Aquesta frase reflecteix la seva convicció sobre el poder de la música com a eina de transformació."
+    },
+    "motivationalQuote": {
+      "text": "Primer t'ignoren, després es riuen de tu, després lluiten contra tu, finalment guanyes.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      { "name": "Tennessee Williams", "description": "Dramaturg americà, autor d'obres fonamentals del teatre del segle XX com 'Un tramvia anomenat Desig', 'La gata sobre la teulada de zinc calent' i 'El zoo de vidre'.", "year": 1911 },
+      { "name": "Diana Ross", "description": "Cantant americana, líder dels Supremes i una de les artistes de soul i R&B més venudes de la història, amb èxits com 'Ain't No Mountain High Enough' i 'Endless Love'.", "year": 1944 },
+      { "name": "Keira Knightley", "description": "Actriu britànica, coneguda per la saga 'Pirates del Carib', 'Orgull i Prejudici' (2005) i 'Expiació' (2007), nominada a l'Oscar als 20 anys.", "year": 1985 }
+    ],
+    "events": [
+      { "title": "Mort de Ludwig van Beethoven", "description": "El compositor alemany Ludwig van Beethoven va morir a Viena als 56 anys, sord des de feia anys, deixant una obra que va transformar la música occidental per sempre.", "year": 1827 },
+      { "title": "Acords de Camp David entre Israel i Egipte", "description": "Israel i Egipte van signar el Tractat de Pau de Camp David, el primer tractat de pau entre Israel i un estat àrab, amb la mediació del president Jimmy Carter.", "year": 1979 },
+      { "title": "Bangladesh declara la independència del Pakistan", "description": "La Lliga Awami de Bangladesh va proclamar la independència del país, desencadenant la guerra d'alliberament de Bangladesh que va culminar amb la victòria sobre el Pakistan el desembre de 1971.", "year": 1971 }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "date": "2026-05-31",
+  "es": {
+    "saints": [
+      {
+        "name": "Visitación de la Virgen María",
+        "type": "Fiesta Mariana",
+        "description": "Fiesta que conmemora la visita de la Virgen María a su prima Santa Isabel, madre de Juan el Bautista, narrada en el Evangelio de Lucas. En ese encuentro, el niño Juan saltó de gozo en el vientre de Isabel y María pronunció el Magnificat, uno de los cánticos más bellos de la Escritura. La fiesta fue establecida para toda la Iglesia por el Papa Urbano VI en 1389."
+      },
+      {
+        "name": "Santa Petronila",
+        "type": "Virgen y Mártir",
+        "description": "Mártir romana del siglo I, venerada como hija espiritual del apóstol San Pedro, aunque no biológica. Su tumba en las catacumbas de Domitila fue objeto de gran devoción. Durante siglos fue considerada patrona de la alianza francopapal y patrona de Francia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial Sin Tabaco",
+        "description": "Establecido por la Organización Mundial de la Salud (OMS) en 1987, este día busca concienciar sobre los peligros del tabaquismo, que mata a más de 8 millones de personas al año. Cada año se escoge un tema diferente para guiar la campaña de sensibilización mundial."
+      },
+      {
+        "name": "Día de la Madre (último domingo de mayo, varios países)",
+        "description": "En España y varios países latinoamericanos, el primer domingo de mayo es el Día de la Madre. En algunos territorios hispanos se celebra también el último domingo de mayo, coincidiendo con el fin de mes mariano, dedicado a la Virgen María."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Engrandece mi alma al Señor, y mi espíritu se alegra en Dios mi Salvador.",
+      "author": "El Magnificat (Virgen María, según Lucas 1:46-47)"
+    },
+    "motivationalQuote": {
+      "text": "No es la montaña la que conquistamos, sino a nosotros mismos.",
+      "author": "Edmund Hillary"
+    },
+    "births": [
+      {
+        "name": "Walt Whitman",
+        "description": "Poeta americano del siglo XIX, considerado el padre de la poesía moderna en lengua inglesa. Su obra Hojas de hierba, publicada en 1855 y revisada a lo largo de su vida, es uno de los libros más influyentes de la literatura occidental. Su poema 'Oh, Capitán, mi Capitán' es un canto a Abraham Lincoln.",
+        "year": "1819"
+      },
+      {
+        "name": "Clint Eastwood",
+        "description": "Actor, director y productor americano, símbolo del cine del oeste y uno de los cineastas más respetados de Hollywood. Con cuatro Oscar (incluyendo Mejor Director por Sin perdón y Million Dollar Baby), su carrera abarca más de 60 años y continúa activa.",
+        "year": "1930"
+      },
+      {
+        "name": "Brooke Shields",
+        "description": "Actriz y modelo americana, que a los 12 años protagonizó La laguna azul convirtiéndose en uno de los iconos de belleza más reconocidos de los años 80. También fue conocida por sus polémicos anuncios de vaqueros Calvin Klein.",
+        "year": "1965"
+      }
+    ],
+    "events": [
+      {
+        "title": "Última batalla de la Guerra Civil Americana",
+        "description": "El general confederado Stand Watie fue el último general del Sur en rendirse, en Doaksville (territorio cherokee, actual Oklahoma), poniendo fin oficialmente a la Guerra Civil Americana meses después de la rendición de Lee.",
+        "year": "1865"
+      },
+      {
+        "title": "Creación de Sudáfrica como Dominion",
+        "description": "La Unión de Sudáfrica fue establecida como Dominion del Imperio Británico, unificando las colonias de El Cabo, Natal, Transvaal y el Estado Libre de Orange. Fue el primer paso hacia la futura independencia y el comienzo del sistema del apartheid.",
+        "year": "1910"
+      },
+      {
+        "title": "Primer Día Mundial Sin Tabaco",
+        "description": "La OMS celebró por primera vez el Día Mundial Sin Tabaco, iniciativa que desde 1987 moviliza a gobiernos, organizaciones y ciudadanos de todo el mundo en la lucha contra el tabaquismo, la principal causa de muerte prevenible.",
+        "year": "1987"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Visitation of the Virgin Mary",
+        "type": "Marian Feast",
+        "description": "A feast commemorating the visit of the Virgin Mary to her cousin Saint Elizabeth, mother of John the Baptist, as narrated in the Gospel of Luke. At that meeting, the infant John leapt for joy in Elizabeth's womb and Mary proclaimed the Magnificat, one of the most beautiful canticles in Scripture. The feast was established for the whole Church by Pope Urban VI in 1389."
+      },
+      {
+        "name": "Saint Petronilla",
+        "type": "Virgin and Martyr",
+        "description": "1st-century Roman martyr, venerated as the spiritual daughter of the Apostle Saint Peter, though not biological. Her tomb in the catacombs of Domitilla was the object of great devotion. For centuries she was considered the patron of the Franco-papal alliance and the patron saint of France."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World No Tobacco Day",
+        "description": "Established by the World Health Organization (WHO) in 1987, this day raises awareness of the dangers of tobacco use, which kills more than 8 million people a year. Each year a different theme is chosen to guide the global awareness campaign."
+      },
+      {
+        "name": "Mother's Day (last Sunday of May, some countries)",
+        "description": "In Spain and several Latin American countries, the first Sunday of May is Mother's Day. In some Hispanic territories it is also celebrated on the last Sunday of May, coinciding with the end of the Marian month dedicated to the Virgin Mary."
+      }
+    ],
+    "historicalQuote": {
+      "text": "My soul glorifies the Lord, and my spirit rejoices in God my Saviour.",
+      "author": "The Magnificat (Virgin Mary, Luke 1:46–47)"
+    },
+    "motivationalQuote": {
+      "text": "It is not the mountain we conquer, but ourselves.",
+      "author": "Edmund Hillary"
+    },
+    "births": [
+      {
+        "name": "Walt Whitman",
+        "description": "19th-century American poet, considered the father of modern poetry in the English language. His work Leaves of Grass, published in 1855 and revised throughout his life, is one of the most influential books in Western literature. His poem 'O Captain, My Captain' is an elegy for Abraham Lincoln.",
+        "year": "1819"
+      },
+      {
+        "name": "Clint Eastwood",
+        "description": "American actor, director, and producer, symbol of the Western genre and one of Hollywood's most respected filmmakers. With four Oscars (including Best Director for Unforgiven and Million Dollar Baby), his career spans more than 60 years and remains active.",
+        "year": "1930"
+      },
+      {
+        "name": "Brooke Shields",
+        "description": "American actress and model who, at age 12, starred in The Blue Lagoon, becoming one of the most recognised beauty icons of the 1980s. She was also known for her controversial Calvin Klein jeans advertisements.",
+        "year": "1965"
+      }
+    ],
+    "events": [
+      {
+        "title": "Last Battle of the American Civil War",
+        "description": "Confederate General Stand Watie became the last Southern general to surrender, at Doaksville (Cherokee territory, present-day Oklahoma), officially ending the American Civil War months after Lee's surrender.",
+        "year": "1865"
+      },
+      {
+        "title": "Creation of South Africa as a Dominion",
+        "description": "The Union of South Africa was established as a Dominion of the British Empire, unifying the colonies of the Cape, Natal, the Transvaal, and the Orange Free State. It was the first step towards eventual independence and the beginning of the apartheid system.",
+        "year": "1910"
+      },
+      {
+        "title": "First World No Tobacco Day",
+        "description": "The WHO celebrated World No Tobacco Day for the first time, an initiative that since 1987 has mobilised governments, organisations, and citizens worldwide in the fight against tobacco use, the leading preventable cause of death.",
+        "year": "1987"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Visitação da Virgem Maria",
+        "type": "Festa Mariana",
+        "description": "Festa que comemora a visita da Virgem Maria à sua prima Santa Isabel, mãe de João Batista, narrada no Evangelho de Lucas. Nesse encontro, o menino João saltou de alegria no ventre de Isabel e Maria proclamou o Magnificat, um dos cânticos mais belos da Escritura. A festa foi estabelecida para toda a Igreja pelo Papa Urbano VI em 1389."
+      },
+      {
+        "name": "Santa Petronila",
+        "type": "Virgem e Mártir",
+        "description": "Mártir romana do século I, venerada como filha espiritual do apóstolo São Pedro, embora não biológica. A sua tumba nas catacumbas de Domitila foi objeto de grande devoção. Durante séculos foi considerada patrona da aliança franco-papal e patrona de França."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial sem Tabaco",
+        "description": "Estabelecido pela Organização Mundial da Saúde (OMS) em 1987, este dia visa consciencializar sobre os perigos do tabagismo, que mata mais de 8 milhões de pessoas por ano. Cada ano escolhe-se um tema diferente para orientar a campanha de sensibilização mundial."
+      },
+      {
+        "name": "Dia da Mãe (último domingo de maio, alguns países)",
+        "description": "Em Espanha e vários países latino-americanos, o primeiro domingo de maio é o Dia da Mãe. Em alguns territórios hispânicos celebra-se também no último domingo de maio, coincidindo com o fim do mês mariano dedicado à Virgem Maria."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A minha alma glorifica ao Senhor, e o meu espírito se alegra em Deus, meu Salvador.",
+      "author": "O Magnificat (Virgem Maria, Lucas 1:46-47)"
+    },
+    "motivationalQuote": {
+      "text": "Não é a montanha que conquistamos, mas a nós mesmos.",
+      "author": "Edmund Hillary"
+    },
+    "births": [
+      {
+        "name": "Walt Whitman",
+        "description": "Poeta americano do século XIX, considerado o pai da poesia moderna em língua inglesa. A sua obra Folhas de Erva, publicada em 1855 e revista ao longo da sua vida, é um dos livros mais influentes da literatura ocidental. O seu poema 'Ó Capitão, meu Capitão' é um cântico a Abraham Lincoln.",
+        "year": "1819"
+      },
+      {
+        "name": "Clint Eastwood",
+        "description": "Ator, realizador e produtor americano, símbolo do cinema western e um dos cineastas mais respeitados de Hollywood. Com quatro Oscar (incluindo Melhor Realizador por Os Imperdoáveis e Menina de Ouro), a sua carreira abrange mais de 60 anos e continua ativa.",
+        "year": "1930"
+      },
+      {
+        "name": "Brooke Shields",
+        "description": "Atriz e modelo americana que, aos 12 anos, protagonizou A Lagoa Azul tornando-se um dos ícones de beleza mais reconhecidos dos anos 80. Também foi conhecida pelos seus polémicos anúncios de calças de ganga Calvin Klein.",
+        "year": "1965"
+      }
+    ],
+    "events": [
+      {
+        "title": "Última batalha da Guerra Civil Americana",
+        "description": "O general confederado Stand Watie foi o último general do Sul a render-se, em Doaksville (território cherokee, atual Oklahoma), pondo fim oficialmente à Guerra Civil Americana meses após a rendição de Lee.",
+        "year": "1865"
+      },
+      {
+        "title": "Criação da África do Sul como Domínio",
+        "description": "A União da África do Sul foi estabelecida como Domínio do Império Britânico, unificando as colónias do Cabo, Natal, Transvaal e o Estado Livre de Orange. Foi o primeiro passo para a futura independência e o início do sistema do apartheid.",
+        "year": "1910"
+      },
+      {
+        "title": "Primeiro Dia Mundial sem Tabaco",
+        "description": "A OMS celebrou pela primeira vez o Dia Mundial sem Tabaco, uma iniciativa que desde 1987 mobiliza governos, organizações e cidadãos de todo o mundo na luta contra o tabagismo, a principal causa de morte prevenível.",
+        "year": "1987"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Visitació de la Verge Maria",
+        "type": "Festa Mariana",
+        "description": "Festa que commemora la visita de la Verge Maria a la seva cosina Santa Elisabet, mare de Joan Baptista, narrada a l'Evangeli de Lluc. En aquella trobada, el nen Joan va saltar de goig al ventre d'Elisabet i Maria va proclamar el Magnificat, un dels càntics més bells de l'Escriptura. La festa va ser establerta per a tota l'Església pel Papa Urbà VI el 1389."
+      },
+      {
+        "name": "Santa Petronil·la",
+        "type": "Verge i Màrtir",
+        "description": "Màrtir romana del segle I, venerada com a filla espiritual de l'apòstol Sant Pere, tot i que no biològica. La seva tomba a les catacumbes de Domitil·la va ser objecte de gran devoció. Durant segles va ser considerada patrona de l'aliança francopàpal i patrona de França."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial sense Tabac",
+        "description": "Establert per l'Organització Mundial de la Salut (OMS) el 1987, aquest dia vol conscienciar sobre els perills del tabaquisme, que mata més de 8 milions de persones a l'any. Cada any s'escull un tema diferent per guiar la campanya de sensibilització mundial."
+      },
+      {
+        "name": "Dia de la Mare (darrer diumenge de maig, alguns països)",
+        "description": "A Espanya i diversos països llatinoamericans, el primer diumenge de maig és el Dia de la Mare. En alguns territoris hispans se celebra també el darrer diumenge de maig, coincidint amb el final del mes marià dedicat a la Verge Maria."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La meva ànima glorifica el Senyor, i el meu esperit s'alegra en Déu, el meu Salvador.",
+      "author": "El Magnificat (Verge Maria, Lluc 1:46-47)"
+    },
+    "motivationalQuote": {
+      "text": "No és la muntanya que conquerim, sinó a nosaltres mateixos.",
+      "author": "Edmund Hillary"
+    },
+    "births": [
+      {
+        "name": "Walt Whitman",
+        "description": "Poeta americà del segle XIX, considerat el pare de la poesia moderna en llengua anglesa. La seva obra Fulles d'herba, publicada el 1855 i revisada al llarg de la seva vida, és un dels llibres més influents de la literatura occidental. El seu poema 'Oh Capità, mon Capità' és un cant a Abraham Lincoln.",
+        "year": "1819"
+      },
+      {
+        "name": "Clint Eastwood",
+        "description": "Actor, director i productor americà, símbol del cinema western i un dels cineastes més respectats de Hollywood. Amb quatre Oscar (incloent Millor Director per Sense Perdó i Million Dollar Baby), la seva carrera abasta més de 60 anys i continua activa.",
+        "year": "1930"
+      },
+      {
+        "name": "Brooke Shields",
+        "description": "Actriu i model americana que, als 12 anys, va protagonitzar La llacuna blava convertint-se en un dels icones de bellesa més reconeguts dels anys 80. També va ser coneguda pels seus polèmics anuncis de texans Calvin Klein.",
+        "year": "1965"
+      }
+    ],
+    "events": [
+      {
+        "title": "Darrera batalla de la Guerra Civil Americana",
+        "description": "El general confederat Stand Watie va ser l'últim general del Sud a rendir-se, a Doaksville (territori cherokee, actual Oklahoma), posant fi oficialment a la Guerra Civil Americana mesos després de la rendició de Lee.",
+        "year": "1865"
+      },
+      {
+        "title": "Creació de Sud-àfrica com a Domini",
+        "description": "La Unió de Sud-àfrica va ser establerta com a Domini de l'Imperi Britànic, unificant les colònies del Cap, Natal, Transvaal i l'Estat Lliure de l'Orange. Va ser el primer pas cap a la futura independència i l'inici del sistema de l'apartheid.",
+        "year": "1910"
+      },
+      {
+        "title": "Primer Dia Mundial sense Tabac",
+        "description": "L'OMS va celebrar per primera vegada el Dia Mundial sense Tabac, una iniciativa que des de 1987 mobilitza governs, organitzacions i ciutadans de tot el món en la lluita contra el tabaquisme, la principal causa de mort prevenible.",
+        "year": "1987"
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "date": "2026-01-26",
+  "es": {
+    "saints": [
+      {
+        "name": "San Timoteo",
+        "type": "Obispo y Mártir",
+        "description": "Discípulo y colaborador de San Pablo, primer obispo de Éfeso. Destinatario de las dos epístolas paulinas que llevan su nombre. Martirizado en Éfeso hacia el año 97."
+      },
+      {
+        "name": "San Tito",
+        "type": "Obispo",
+        "description": "Discípulo de San Pablo y primer obispo de Creta. Destinatario de la epístola paulina que lleva su nombre y colaborador en las misiones paulinas por Grecia y Dalmacia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de Australia",
+        "description": "Festividad nacional australiana que conmemora el 26 de enero de 1788, fecha en que la Primera Flota británica fondéo en Sydney Cove. Es una fecha polémica para los pueblos aborígenes australianos."
+      },
+      {
+        "name": "Día de la República (India)",
+        "description": "India celebra la entrada en vigor de su Constitución el 26 de enero de 1950, que convirtió al país en una república soberana democrática independiente del Imperio Británico."
+      }
+    ],
+    "historicalQuote": {
+      "text": "En India, ninguna clase de persona ha de ser menospreciada; todos los hombres son nobles.",
+      "author": "Mahatma Gandhi",
+      "context": "Líder de la independencia de la India (nacido el 2 de octubre de 1869), cuya filosofía de no violencia y dignidad humana fue el fundamento de la lucha por la independencia que culminó con la creación de la República india."
+    },
+    "motivationalQuote": {
+      "text": "Primero te ignoran, luego se ríen de ti, luego luchan contra ti, luego ganas.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Douglas MacArthur",
+        "description": "General de cinco estrellas del ejército estadounidense, comandante del Teatro del Pacífico durante la Segunda Guerra Mundial y de las fuerzas de la ONU durante la Guerra de Corea.",
+        "year": 1880
+      },
+      {
+        "name": "Paul Newman",
+        "description": "Actor, director y activista estadounidense, ganador del Óscar por El color del dinero. Conocido también por sus labores humanitarias y su empresa de productos alimenticios benéficos Newman's Own.",
+        "year": 1925
+      },
+      {
+        "name": "Ellen DeGeneres",
+        "description": "Presentadora, comediante y actriz estadounidense, conocida por ser una de las primeras figuras públicas en declararse abiertamente lesbiana y por su programa El show de Ellen.",
+        "year": 1958
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera transmisión de televisión pública en Gran Bretaña",
+        "description": "John Logie Baird realizó la primera demostración pública de televisión en el Royal Institution de Londres, mostrando imágenes en movimiento de rostros humanos ante un público científico.",
+        "year": 1926
+      },
+      {
+        "title": "El Challenger: primer astronauta afroamericano en el espacio",
+        "description": "La misión STS-51-L del Challenger despegó con Christa McAuliffe, la primera civila en el espacio, antes de desintegrarse 73 segundos después del lanzamiento.",
+        "year": 1986
+      },
+      {
+        "title": "India adopta su Constitución y se convierte en República",
+        "description": "La Constitución de la India entró en vigor, convirtiendo al país en la mayor democracia del mundo y una república federal con sistema parlamentario.",
+        "year": 1950
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Timothy",
+        "type": "Bishop and Martyr",
+        "description": "Disciple and collaborator of Saint Paul, first bishop of Ephesus. Recipient of the two Pauline epistles bearing his name. Martyred in Ephesus around 97 AD."
+      },
+      {
+        "name": "Saint Titus",
+        "type": "Bishop",
+        "description": "Disciple of Saint Paul and first bishop of Crete. Recipient of the Pauline epistle bearing his name and a collaborator in Pauline missions throughout Greece and Dalmatia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Australia Day",
+        "description": "Australia's national day commemorating 26 January 1788, when the First Fleet of British ships anchored in Sydney Cove. It is a controversial date for Australia's Aboriginal peoples."
+      },
+      {
+        "name": "Republic Day (India)",
+        "description": "India celebrates the coming into force of its Constitution on 26 January 1950, which made the country a sovereign democratic republic independent of the British Empire."
+      }
+    ],
+    "historicalQuote": {
+      "text": "In India, no class of person shall be looked down upon; all men are noble.",
+      "author": "Mahatma Gandhi",
+      "context": "Leader of Indian independence (born 2 October 1869), whose philosophy of non-violence and human dignity was the foundation of the independence struggle that culminated in the creation of the Indian Republic."
+    },
+    "motivationalQuote": {
+      "text": "First they ignore you, then they laugh at you, then they fight you, then you win.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Douglas MacArthur",
+        "description": "Five-star US Army general, commander of the Pacific Theatre during World War II and of UN forces during the Korean War.",
+        "year": 1880
+      },
+      {
+        "name": "Paul Newman",
+        "description": "American actor, director and activist, Oscar winner for The Color of Money, also known for his humanitarian work and his charitable food company Newman's Own.",
+        "year": 1925
+      },
+      {
+        "name": "Ellen DeGeneres",
+        "description": "American TV host, comedian and actress, known for being one of the first public figures to come out openly as lesbian and for The Ellen DeGeneres Show.",
+        "year": 1958
+      }
+    ],
+    "events": [
+      {
+        "title": "First public television demonstration in Britain",
+        "description": "John Logie Baird gave the first public demonstration of television at the Royal Institution in London, showing moving images of human faces to a scientific audience.",
+        "year": 1926
+      },
+      {
+        "title": "Space Shuttle Challenger disaster",
+        "description": "The Challenger's STS-51-L mission launched with Christa McAuliffe, the first civilian in space, before disintegrating 73 seconds after lift-off.",
+        "year": 1986
+      },
+      {
+        "title": "India adopts its Constitution and becomes a Republic",
+        "description": "The Constitution of India came into force, making the country the world's largest democracy and a federal republic with a parliamentary system.",
+        "year": 1950
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Timóteo",
+        "type": "Bispo e Mártir",
+        "description": "Discípulo e colaborador de São Paulo, primeiro bispo de Éfeso. Destinatário das duas epístolas paulinas que levam seu nome. Martirizado em Éfeso por volta do ano 97."
+      },
+      {
+        "name": "São Tito",
+        "type": "Bispo",
+        "description": "Discípulo de São Paulo e primeiro bispo de Creta. Destinatário da epístola paulina que leva seu nome e colaborador nas missões paulinas pela Grécia e Dalmácia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Austrália",
+        "description": "Festividade nacional australiana que comemora 26 de janeiro de 1788, data em que a Primeira Frota britânica ancorou em Sydney Cove. É uma data polêmica para os povos aborígenes australianos."
+      },
+      {
+        "name": "Dia da República (Índia)",
+        "description": "A Índia celebra a entrada em vigor de sua Constituição em 26 de janeiro de 1950, que tornou o país uma república soberana democrática independente do Império Britânico."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Na Índia, nenhuma classe de pessoa deve ser desprezada; todos os homens são nobres.",
+      "author": "Mahatma Gandhi",
+      "context": "Líder da independência da Índia (nascido em 2 de outubro de 1869), cuja filosofia de não violência e dignidade humana foi o fundamento da luta pela independência que culminou na criação da República indiana."
+    },
+    "motivationalQuote": {
+      "text": "Primeiro te ignoram, depois riem de você, depois lutam contra você, depois você vence.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Douglas MacArthur",
+        "description": "General de cinco estrelas do exército americano, comandante do Teatro do Pacífico durante a Segunda Guerra Mundial e das forças da ONU durante a Guerra da Coreia.",
+        "year": 1880
+      },
+      {
+        "name": "Paul Newman",
+        "description": "Ator, diretor e ativista americano, vencedor do Oscar por A Cor do Dinheiro, conhecido também por seu trabalho humanitário e sua empresa de produtos alimentícios beneficentes Newman's Own.",
+        "year": 1925
+      },
+      {
+        "name": "Ellen DeGeneres",
+        "description": "Apresentadora, comediante e atriz americana, conhecida por ser uma das primeiras figuras públicas a se declarar abertamente lésbica e por seu programa The Ellen DeGeneres Show.",
+        "year": 1958
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeira demonstração pública de televisão na Grã-Bretanha",
+        "description": "John Logie Baird realizou a primeira demonstração pública de televisão na Royal Institution de Londres, mostrando imagens em movimento de rostos humanos a um público científico.",
+        "year": 1926
+      },
+      {
+        "title": "Desastre do ônibus espacial Challenger",
+        "description": "A missão STS-51-L do Challenger decolou com Christa McAuliffe, a primeira civil no espaço, antes de se desintegrar 73 segundos após o lançamento.",
+        "year": 1986
+      },
+      {
+        "title": "A Índia adota sua Constituição e se torna uma República",
+        "description": "A Constituição da Índia entrou em vigor, tornando o país a maior democracia do mundo e uma república federal com sistema parlamentar.",
+        "year": 1950
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Timoteu",
+        "type": "Bisbe i Màrtir",
+        "description": "Deixeble i col·laborador de Sant Pau, primer bisbe d'Efes. Destinatari de les dues epístoles paulines que porten el seu nom. Martiritzat a Efes cap a l'any 97."
+      },
+      {
+        "name": "Sant Tit",
+        "type": "Bisbe",
+        "description": "Deixeble de Sant Pau i primer bisbe de Creta. Destinatari de l'epístola paulina que porta el seu nom i col·laborador en les missions paulines per Grècia i Dalmàcia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia d'Austràlia",
+        "description": "Festivitat nacional australiana que commemora el 26 de gener de 1788, data en què la Primera Flota britànica va ancorar a Sydney Cove. És una data polèmica per als pobles aborígens australians."
+      },
+      {
+        "name": "Dia de la República (Índia)",
+        "description": "L'Índia celebra l'entrada en vigor de la seva Constitució el 26 de gener de 1950, que va convertir el país en una república sobirana democràtica independent de l'Imperi Britànic."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A l'Índia, cap classe de persona ha de ser menyspreada; tots els homes són nobles.",
+      "author": "Mahatma Gandhi",
+      "context": "Líder de la independència de l'Índia (nascut el 2 d'octubre de 1869), la filosofia de no violència i dignitat humana del qual va ser el fonament de la lluita per la independència que va culminar amb la creació de la República índia."
+    },
+    "motivationalQuote": {
+      "text": "Primer t'ignoren, després se'n riuen de tu, després lluiten contra tu, després guanyes.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Douglas MacArthur",
+        "description": "General de cinc estrelles de l'exèrcit nord-americà, comandant del Teatre del Pacífic durant la Segona Guerra Mundial i de les forces de l'ONU durant la Guerra de Corea.",
+        "year": 1880
+      },
+      {
+        "name": "Paul Newman",
+        "description": "Actor, director i activista nord-americà, guanyador de l'Oscar per El color dels diners, conegut també per la seva tasca humanitària i la seva empresa de productes alimentaris benèfics Newman's Own.",
+        "year": 1925
+      },
+      {
+        "name": "Ellen DeGeneres",
+        "description": "Presentadora, còmica i actriu nord-americana, coneguda per ser una de les primeres figures públiques a declarar-se obertament lesbiana i pel seu programa The Ellen DeGeneres Show.",
+        "year": 1958
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera demostració pública de televisió a la Gran Bretanya",
+        "description": "John Logie Baird va realitzar la primera demostració pública de televisió a la Royal Institution de Londres, mostrant imatges en moviment de rostres humans davant un públic científic.",
+        "year": 1926
+      },
+      {
+        "title": "Desastre del transbordador espacial Challenger",
+        "description": "La missió STS-51-L del Challenger va enlairar-se amb Christa McAuliffe, la primera civil a l'espai, abans de desintegrar-se 73 segons després del llançament.",
+        "year": 1986
+      },
+      {
+        "title": "L'Índia adopta la seva Constitució i es converteix en República",
+        "description": "La Constitució de l'Índia va entrar en vigor, convertint el país en la major democràcia del món i una república federal amb sistema parlamentari.",
+        "year": 1950
+      }
+    ]
+  }
+}

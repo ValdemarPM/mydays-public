@@ -1,0 +1,255 @@
+{
+  "date": "2026-01-10",
+  "es": {
+    "saints": [
+      {
+        "name": "San Agatón Papa",
+        "type": "Papa",
+        "description": "Papa del siglo VII (678–681) que presidió el III Concilio de Constantinopla, que condenó el monotelismo y defendió la doctrina de las dos voluntades de Cristo."
+      },
+      {
+        "name": "San Guillermo de Bourges",
+        "type": "Arzobispo",
+        "description": "Arzobispo francés del siglo XII-XIII, conocido por su austeridad y su cuidado de los pobres. Murió el mismo día de Navidad de 1209."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de las Comunicaciones",
+        "description": "Jornada promovida por la UIT (Unión Internacional de Telecomunicaciones) para reflexionar sobre el impacto de las comunicaciones en el desarrollo global."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nunca dejes que el miedo a fallar te impida jugar el juego.",
+      "author": "Babe Ruth",
+      "context": "Babe Ruth (nacido el 6 de febrero de 1895) es considerado el mayor bateador de la historia del béisbol. Esta cita refleja su filosofía de que el fracaso es parte del camino hacia el éxito."
+    },
+    "motivationalQuote": {
+      "text": "La vida se encoge o se expande en proporción a la valentía de cada uno.",
+      "author": "Anaïs Nin"
+    },
+    "births": [
+      {
+        "name": "Robinson Crusoe (publicación)",
+        "description": "Daniel Defoe publicó Robinson Crusoe el 25 de abril de 1719; sin embargo, hoy se recuerda que el protagonista ficticio llegó a su isla el 30 de septiembre.",
+        "year": 1719
+      },
+      {
+        "name": "Grigori Rasputín",
+        "description": "Místico y consejero ruso, personaje controvertido de la corte del zar Nicolás II y la zarina Alejandra, asesinado en 1916 en circunstancias que aún despiertan fascinación.",
+        "year": 1869
+      },
+      {
+        "name": "Rod Stewart",
+        "description": "Cantautor escocés, uno de los artistas de rock más exitosos de todos los tiempos con más de 250 millones de álbumes vendidos, conocido por éxitos como Sailing y Maggie May.",
+        "year": 1945
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera sesión de la Sociedad de Naciones",
+        "description": "La Sociedad de Naciones celebró su primera sesión oficial en Ginebra, siendo el primer organismo intergubernamental global de mantenimiento de la paz, precursor de la ONU.",
+        "year": 1920
+      },
+      {
+        "title": "El cometa Halley pasa por el perihelio",
+        "description": "El cometa Halley completó su paso más cercano al Sol en su órbita de 75-76 años, siendo visible a simple vista desde la Tierra.",
+        "year": 1986
+      },
+      {
+        "title": "Se estrena El Padrino",
+        "description": "La película El Padrino de Francis Ford Coppola se estrenó en Nueva York, convirtiéndose en un hito del cine mundial y ganando el Óscar a la mejor película.",
+        "year": 1972
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Agatho, Pope",
+        "type": "Pope",
+        "description": "Pope of the 7th century (678–681) who presided over the Third Council of Constantinople, which condemned Monothelitism and upheld the doctrine of Christ's two wills."
+      },
+      {
+        "name": "Saint William of Bourges",
+        "type": "Archbishop",
+        "description": "French archbishop of the 12th–13th century, known for his austerity and care for the poor. He died on Christmas Day 1209."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Communications Day",
+        "description": "A day promoted by the ITU (International Telecommunication Union) to reflect on the impact of communications on global development."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Never let the fear of striking out keep you from playing the game.",
+      "author": "Babe Ruth",
+      "context": "Babe Ruth (born 6 February 1895) is considered the greatest hitter in baseball history. This quote reflects his philosophy that failure is part of the path to success."
+    },
+    "motivationalQuote": {
+      "text": "Life shrinks or expands in proportion to one's courage.",
+      "author": "Anaïs Nin"
+    },
+    "births": [
+      {
+        "name": "Grigori Rasputin",
+        "description": "Russian mystic and advisor, controversial figure at the court of Tsar Nicholas II and Tsarina Alexandra, assassinated in 1916 in circumstances that still fascinate.",
+        "year": 1869
+      },
+      {
+        "name": "Rod Stewart",
+        "description": "Scottish singer-songwriter, one of the best-selling music artists of all time with over 250 million albums sold, known for hits such as Sailing and Maggie May.",
+        "year": 1945
+      },
+      {
+        "name": "Pat Benatar",
+        "description": "American rock singer and four-time Grammy winner, known for hits such as Hit Me with Your Best Shot and Love Is a Battlefield.",
+        "year": 1953
+      }
+    ],
+    "events": [
+      {
+        "title": "First session of the League of Nations",
+        "description": "The League of Nations held its first official session in Geneva, becoming the world's first intergovernmental global peacekeeping body and precursor to the United Nations.",
+        "year": 1920
+      },
+      {
+        "title": "Halley's Comet passes perihelion",
+        "description": "Halley's Comet completed its closest approach to the Sun on its 75–76 year orbit, visible to the naked eye from Earth.",
+        "year": 1986
+      },
+      {
+        "title": "The Godfather premieres",
+        "description": "Francis Ford Coppola's The Godfather premiered in New York, becoming a landmark of world cinema and winning the Academy Award for Best Picture.",
+        "year": 1972
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Agaton, Papa",
+        "type": "Papa",
+        "description": "Papa do século VII (678–681) que presidiu o III Concílio de Constantinopla, que condenou o monotelismo e defendeu a doutrina das duas vontades de Cristo."
+      },
+      {
+        "name": "São Guilherme de Bourges",
+        "type": "Arcebispo",
+        "description": "Arcebispo francês dos séculos XII–XIII, conhecido por sua austeridade e cuidado com os pobres. Morreu no próprio dia de Natal de 1209."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial das Comunicações",
+        "description": "Jornada promovida pela UIT (União Internacional de Telecomunicações) para refletir sobre o impacto das comunicações no desenvolvimento global."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nunca deixe o medo de errar impedi-lo de jogar o jogo.",
+      "author": "Babe Ruth",
+      "context": "Babe Ruth (nascido em 6 de fevereiro de 1895) é considerado o maior rebatedor da história do beisebol. Esta citação reflete sua filosofia de que o fracasso faz parte do caminho para o sucesso."
+    },
+    "motivationalQuote": {
+      "text": "A vida encolhe ou se expande em proporção à coragem de cada um.",
+      "author": "Anaïs Nin"
+    },
+    "births": [
+      {
+        "name": "Grigori Rasputin",
+        "description": "Místico e conselheiro russo, figura controversa na corte do czar Nicolau II e da czarina Alexandra, assassinado em 1916 em circunstâncias que ainda fascinam.",
+        "year": 1869
+      },
+      {
+        "name": "Rod Stewart",
+        "description": "Cantor e compositor escocês, um dos artistas mais vendidos de todos os tempos com mais de 250 milhões de álbuns vendidos, conhecido por sucessos como Sailing e Maggie May.",
+        "year": 1945
+      },
+      {
+        "name": "Pat Benatar",
+        "description": "Cantora de rock americana e quatro vezes vencedora do Grammy, conhecida por sucessos como Hit Me with Your Best Shot e Love Is a Battlefield.",
+        "year": 1953
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeira sessão da Liga das Nações",
+        "description": "A Liga das Nações realizou sua primeira sessão oficial em Genebra, tornando-se o primeiro organismo intergovernamental global de manutenção da paz e precursor da ONU.",
+        "year": 1920
+      },
+      {
+        "title": "Cometa Halley passa pelo periélio",
+        "description": "O Cometa Halley completou sua aproximação mais próxima ao Sol em sua órbita de 75–76 anos, visível a olho nu da Terra.",
+        "year": 1986
+      },
+      {
+        "title": "Estreia de O Poderoso Chefão",
+        "description": "O filme O Poderoso Chefão de Francis Ford Coppola estreou em Nova York, tornando-se um marco do cinema mundial e vencendo o Oscar de Melhor Filme.",
+        "year": 1972
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Agatò, Papa",
+        "type": "Papa",
+        "description": "Papa del segle VII (678–681) que va presidir el III Concili de Constantinoble, que va condemnar el monotelisme i va defensar la doctrina de les dues voluntats de Crist."
+      },
+      {
+        "name": "Sant Guillem de Bourges",
+        "type": "Arquebisbe",
+        "description": "Arquebisbe francès dels segles XII–XIII, conegut per la seva austeritat i cura dels pobres. Va morir el mateix dia de Nadal de 1209."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de les Comunicacions",
+        "description": "Jornada promoguda per la UIT (Unió Internacional de Telecomunicacions) per reflexionar sobre l'impacte de les comunicacions en el desenvolupament global."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Mai deixis que la por de fallar t'impedeixi jugar el joc.",
+      "author": "Babe Ruth",
+      "context": "Babe Ruth (nascut el 6 de febrer de 1895) és considerat el millor batedors de la història del beisbol. Aquesta cita reflecteix la seva filosofia que el fracàs és part del camí cap a l'èxit."
+    },
+    "motivationalQuote": {
+      "text": "La vida s'encongeix o s'expandeix en proporció a la valentia de cadascú.",
+      "author": "Anaïs Nin"
+    },
+    "births": [
+      {
+        "name": "Grigori Rasputin",
+        "description": "Místic i conseller rus, figura controvertida a la cort del tsar Nicolau II i la tsarina Alexandra, assassinat el 1916 en circumstàncies que encara fascinen.",
+        "year": 1869
+      },
+      {
+        "name": "Rod Stewart",
+        "description": "Cantautor escocès, un dels artistes més venuts de tots els temps amb més de 250 milions d'àlbums venuts, conegut per èxits com Sailing i Maggie May.",
+        "year": 1945
+      },
+      {
+        "name": "Pat Benatar",
+        "description": "Cantant de rock nord-americana i guanyadora de quatre Grammy, coneguda per èxits com Hit Me with Your Best Shot i Love Is a Battlefield.",
+        "year": 1953
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera sessió de la Societat de Nacions",
+        "description": "La Societat de Nacions va celebrar la seva primera sessió oficial a Ginebra, convertint-se en el primer organisme intergovernamental global de manteniment de la pau i precursor de l'ONU.",
+        "year": 1920
+      },
+      {
+        "title": "El cometa Halley passa pel perihelio",
+        "description": "El cometa Halley va completar el seu pas més proper al Sol en la seva òrbita de 75–76 anys, visible a simple vista des de la Terra.",
+        "year": 1986
+      },
+      {
+        "title": "S'estrena El Padrí",
+        "description": "La pel·lícula El Padrí de Francis Ford Coppola es va estrenar a Nova York, convertint-se en un referent del cinema mundial i guanyant l'Oscar a la millor pel·lícula.",
+        "year": 1972
+      }
+    ]
+  }
+}

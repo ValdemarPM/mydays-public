@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-08",
+  "es": {
+    "saints": [
+      {
+        "name": "San Víctor Maurus",
+        "type": "Mártir",
+        "description": "Soldado romano de origen mauritano que sufrió martirio en Milán durante las persecuciones del siglo III. Se negó a rendir culto a los ídolos y fue ejecutado. Sus reliquias se conservan en la basílica de Sant'Ambrogio, en Milán."
+      },
+      {
+        "name": "San Pedro de Tarantasia",
+        "type": "Arzobispo",
+        "description": "Monje cisterciense francés del siglo XII, arzobispo de Tarantasia (Alpes franceses). Fue conocido por su profunda humildad, su caridad con los pobres y por los hospitales que fundó en los pasos alpinos para socorrer a los peregrinos. Fue canonizado en 1191."
+      },
+      {
+        "name": "Beata Catalina de Bolonia",
+        "type": "Virgen",
+        "description": "Religiosa clarisa italiana del siglo XV, mística y escritora espiritual. Pintora, iluminadora de manuscritos y compositora, es patrona de los artistas. Sus escritos sobre las tentaciones espirituales y la oración contemplativa son apreciados aún hoy."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Cruz Roja y de la Media Luna Roja",
+        "description": "Celebrado cada 8 de mayo, aniversario del nacimiento de Henry Dunant, fundador de la Cruz Roja Internacional. Este día reconoce la labor humanitaria del Movimiento Internacional de la Cruz Roja en zonas de conflicto y catástrofe."
+      },
+      {
+        "name": "Día de la Victoria en Europa (VE Day)",
+        "description": "Conmemora la rendición de la Alemania nazi el 8 de mayo de 1945, que puso fin a la Segunda Guerra Mundial en Europa. Se celebra especialmente en el Reino Unido, Francia y otras naciones europeas."
+      }
+    ],
+    "historicalQuote": {
+      "text": "En la guerra no hay ganadores, solo perdedores.",
+      "author": "Neville Chamberlain"
+    },
+    "motivationalQuote": {
+      "text": "Sé el cambio que quieres ver en el mundo.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Harry S. Truman",
+        "description": "33.º presidente de los Estados Unidos (1945–1953). Asumió la presidencia tras la muerte de Franklin D. Roosevelt y tomó las decisiones más importantes del final de la Segunda Guerra Mundial, incluyendo el lanzamiento de las bombas atómicas sobre Japón y la creación del Plan Marshall.",
+        "year": "1884"
+      },
+      {
+        "name": "Gustave Flaubert",
+        "description": "Novelista francés del siglo XIX, maestro del realismo literario. Su obra Madame Bovary (1857) es considerada una de las primeras novelas modernas y un hito en la historia de la literatura mundial.",
+        "year": "1821"
+      },
+      {
+        "name": "Enrique Iglesias",
+        "description": "Cantante y compositor hispano-americano, el artista español con más éxito internacional de todos los tiempos. Sus canciones Bailamos, Hero, Rhythm Divine y Bailando batieron récords en las listas de ventas mundiales.",
+        "year": "1975"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fin de la Segunda Guerra Mundial en Europa (VE Day)",
+        "description": "La rendición incondicional de la Alemania nazi, firmada la víspera, entró en vigor el 8 de mayo a las 23:01 CET. Millones de personas celebraron el fin de seis años de guerra en las calles de toda Europa y América.",
+        "year": "1945"
+      },
+      {
+        "title": "Fundación de la Cruz Roja",
+        "description": "Henry Dunant, conmovido por el horror de la Batalla de Solferino (1859), publicó 'Un recuerdo de Solferino' que impulsó la creación del Comité Internacional de la Cruz Roja en Ginebra, institución que transformaría el derecho humanitario internacional.",
+        "year": "1863"
+      },
+      {
+        "title": "Coca-Cola se vende por primera vez",
+        "description": "El farmacéutico John Pemberton comenzó a vender Coca-Cola en la farmacia Jacobs de Atlanta (Georgia), como un jarabe medicinal con propiedades para el dolor de cabeza. La bebida, mezclada con agua carbonatada, se convirtió en la más popular del mundo.",
+        "year": "1886"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Victor Maurus",
+        "type": "Martyr",
+        "description": "Roman soldier of Mauretanian origin who suffered martyrdom in Milan during the persecutions of the 3rd century. He refused to worship idols and was executed. His relics are preserved in the Basilica of Sant'Ambrogio in Milan."
+      },
+      {
+        "name": "Saint Peter of Tarantaise",
+        "type": "Archbishop",
+        "description": "12th-century French Cistercian monk, Archbishop of Tarantaise (French Alps). He was known for his deep humility, his charity to the poor, and the hospitals he founded at Alpine passes to aid pilgrims. He was canonised in 1191."
+      },
+      {
+        "name": "Blessed Catherine of Bologna",
+        "type": "Virgin",
+        "description": "15th-century Italian Poor Clare nun, mystic, and spiritual writer. A painter, manuscript illuminator, and composer, she is the patron saint of artists. Her writings on spiritual temptations and contemplative prayer are still appreciated today."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Red Cross and Red Crescent Day",
+        "description": "Celebrated every May 8, the anniversary of the birth of Henry Dunant, founder of the International Red Cross. This day recognises the humanitarian work of the International Red Cross and Red Crescent Movement in conflict zones and disasters."
+      },
+      {
+        "name": "Victory in Europe Day (VE Day)",
+        "description": "Commemorates the surrender of Nazi Germany on 8 May 1945, which ended World War II in Europe. It is celebrated especially in the United Kingdom, France, and other European nations."
+      }
+    ],
+    "historicalQuote": {
+      "text": "In war, there are no winners, only losers.",
+      "author": "Neville Chamberlain"
+    },
+    "motivationalQuote": {
+      "text": "Be the change you wish to see in the world.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Harry S. Truman",
+        "description": "33rd President of the United States (1945–1953). He assumed the presidency following the death of Franklin D. Roosevelt and made the most important decisions at the end of World War II, including ordering the atomic bombings of Japan and establishing the Marshall Plan.",
+        "year": "1884"
+      },
+      {
+        "name": "Gustave Flaubert",
+        "description": "19th-century French novelist, master of literary realism. His novel Madame Bovary (1857) is considered one of the first modern novels and a milestone in the history of world literature.",
+        "year": "1821"
+      },
+      {
+        "name": "Enrique Iglesias",
+        "description": "Spanish-American singer and songwriter, the most internationally successful Spanish artist of all time. His songs Bailamos, Hero, Rhythm Divine, and Bailando broke records on global sales charts.",
+        "year": "1975"
+      }
+    ],
+    "events": [
+      {
+        "title": "End of World War II in Europe (VE Day)",
+        "description": "The unconditional surrender of Nazi Germany, signed the previous day, came into effect on May 8 at 23:01 CET. Millions of people celebrated the end of six years of war in the streets across Europe and the Americas.",
+        "year": "1945"
+      },
+      {
+        "title": "Founding of the Red Cross",
+        "description": "Henry Dunant, moved by the horror of the Battle of Solferino (1859), published 'A Memory of Solferino', which spurred the creation of the International Committee of the Red Cross in Geneva — an institution that would transform international humanitarian law.",
+        "year": "1863"
+      },
+      {
+        "title": "Coca-Cola First Sold",
+        "description": "Pharmacist John Pemberton began selling Coca-Cola at Jacob's Pharmacy in Atlanta, Georgia, as a medicinal syrup with properties for headache relief. Mixed with carbonated water, the drink went on to become the most popular beverage in the world.",
+        "year": "1886"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Vítor Mouro",
+        "type": "Mártir",
+        "description": "Soldado romano de origem mauritana que sofreu martírio em Milão durante as perseguições do século III. Recusou-se a adorar ídolos e foi executado. Suas relíquias são conservadas na basílica de Sant'Ambrogio, em Milão."
+      },
+      {
+        "name": "São Pedro de Tarantaise",
+        "type": "Arcebispo",
+        "description": "Monge cisterciense francês do século XII, arcebispo de Tarantaise (Alpes franceses). Era conhecido por sua profunda humildade, caridade com os pobres e pelos hospitais que fundou nas passagens alpinas para socorrer os peregrinos. Foi canonizado em 1191."
+      },
+      {
+        "name": "Beata Catarina de Bolonha",
+        "type": "Virgem",
+        "description": "Religiosa clarissa italiana do século XV, mística e escritora espiritual. Pintora, iluminadora de manuscritos e compositora, é padroeira dos artistas. Seus escritos sobre as tentações espirituais e a oração contemplativa são apreciados ainda hoje."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Cruz Vermelha e do Crescente Vermelho",
+        "description": "Celebrado a cada 8 de maio, aniversário do nascimento de Henry Dunant, fundador da Cruz Vermelha Internacional. Este dia reconhece o trabalho humanitário do Movimento Internacional da Cruz Vermelha em zonas de conflito e catástrofe."
+      },
+      {
+        "name": "Dia da Vitória na Europa (VE Day)",
+        "description": "Comemora a rendição da Alemanha nazista em 8 de maio de 1945, que pôs fim à Segunda Guerra Mundial na Europa. É celebrado especialmente no Reino Unido, França e outras nações europeias."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Na guerra não há vencedores, apenas perdedores.",
+      "author": "Neville Chamberlain"
+    },
+    "motivationalQuote": {
+      "text": "Seja a mudança que você quer ver no mundo.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Harry S. Truman",
+        "description": "33.º presidente dos Estados Unidos (1945–1953). Assumiu a presidência após a morte de Franklin D. Roosevelt e tomou as decisões mais importantes do final da Segunda Guerra Mundial, incluindo o lançamento das bombas atômicas sobre o Japão e a criação do Plano Marshall.",
+        "year": "1884"
+      },
+      {
+        "name": "Gustave Flaubert",
+        "description": "Romancista francês do século XIX, mestre do realismo literário. Sua obra Madame Bovary (1857) é considerada um dos primeiros romances modernos e um marco na história da literatura mundial.",
+        "year": "1821"
+      },
+      {
+        "name": "Enrique Iglesias",
+        "description": "Cantor e compositor hispano-americano, o artista espanhol de maior sucesso internacional de todos os tempos. Suas músicas Bailamos, Hero, Rhythm Divine e Bailando quebraram recordes nas paradas musicais mundiais.",
+        "year": "1975"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fim da Segunda Guerra Mundial na Europa (VE Day)",
+        "description": "A rendição incondicional da Alemanha nazista, assinada na véspera, entrou em vigor em 8 de maio às 23h01 CET. Milhões de pessoas celebraram o fim de seis anos de guerra nas ruas de toda a Europa e das Américas.",
+        "year": "1945"
+      },
+      {
+        "title": "Fundação da Cruz Vermelha",
+        "description": "Henry Dunant, comovido pelo horror da Batalha de Solferino (1859), publicou 'Uma lembrança de Solferino', que impulsionou a criação do Comitê Internacional da Cruz Vermelha em Genebra, instituição que transformaria o direito humanitário internacional.",
+        "year": "1863"
+      },
+      {
+        "title": "Coca-Cola é vendida pela primeira vez",
+        "description": "O farmacêutico John Pemberton começou a vender Coca-Cola na Farmácia Jacob em Atlanta (Geórgia), como um xarope medicinal com propriedades para a dor de cabeça. A bebida, misturada com água carbonatada, tornou-se a mais popular do mundo.",
+        "year": "1886"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Víctor Maur",
+        "type": "Màrtir",
+        "description": "Soldat romà d'origen mauritanà que va patir martiri a Milà durant les persecucions del segle III. Es va negar a adorar els ídols i va ser executat. Les seves relíquies es conserven a la basílica de Sant'Ambrogio, a Milà."
+      },
+      {
+        "name": "Sant Pere de Tarantaise",
+        "type": "Arquebisbe",
+        "description": "Monjo cistercenc francès del segle XII, arquebisbe de Tarantaise (Alps francesos). Era conegut per la seva profunda humilitat, la seva caritat amb els pobres i pels hospitals que va fundar als ports alpins per socórrer els pelegrins. Va ser canonitzat el 1191."
+      },
+      {
+        "name": "Beata Caterina de Bolonya",
+        "type": "Verge",
+        "description": "Religiosa clarissa italiana del segle XV, mística i escriptora espiritual. Pintora, il·luminadora de manuscrits i compositora, és patrona dels artistes. Els seus escrits sobre les temptacions espirituals i l'oració contemplativa s'aprecien encara avui."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Creu Roja i del Creixent Roig",
+        "description": "Celebrat cada 8 de maig, aniversari del naixement d'Henry Dunant, fundador de la Creu Roja Internacional. Aquest dia reconeix la labor humanitària del Moviment Internacional de la Creu Roja en zones de conflicte i catàstrofe."
+      },
+      {
+        "name": "Dia de la Victòria a Europa (VE Day)",
+        "description": "Commemora la rendició de l'Alemanya nazi el 8 de maig de 1945, que va posar fi a la Segona Guerra Mundial a Europa. Se celebra especialment al Regne Unit, França i altres nacions europees."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A la guerra no hi ha guanyadors, només perdedors.",
+      "author": "Neville Chamberlain"
+    },
+    "motivationalQuote": {
+      "text": "Sigues el canvi que vols veure al món.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Harry S. Truman",
+        "description": "33è president dels Estats Units (1945–1953). Va assumir la presidència després de la mort de Franklin D. Roosevelt i va prendre les decisions més importants del final de la Segona Guerra Mundial, incloent l'ordre de llançar les bombes atòmiques sobre el Japó i la creació del Pla Marshall.",
+        "year": "1884"
+      },
+      {
+        "name": "Gustave Flaubert",
+        "description": "Novel·lista francès del segle XIX, mestre del realisme literari. La seva obra Madame Bovary (1857) és considerada una de les primeres novel·les modernes i una fita en la història de la literatura mundial.",
+        "year": "1821"
+      },
+      {
+        "name": "Enrique Iglesias",
+        "description": "Cantant i compositor hispanoamericà, l'artista espanyol amb més èxit internacional de tots els temps. Les seves cançons Bailamos, Hero, Rhythm Divine i Bailando van batre rècords a les llistes de vendes mundials.",
+        "year": "1975"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fi de la Segona Guerra Mundial a Europa (VE Day)",
+        "description": "La rendició incondicional de l'Alemanya nazi, signada la vigília, va entrar en vigor el 8 de maig a les 23.01 CET. Milions de persones van celebrar el final de sis anys de guerra als carrers de tota Europa i les Amèriques.",
+        "year": "1945"
+      },
+      {
+        "title": "Fundació de la Creu Roja",
+        "description": "Henry Dunant, commogut per l'horror de la Batalla de Solferino (1859), va publicar 'Un record de Solferino', que va impulsar la creació del Comitè Internacional de la Creu Roja a Ginebra, institució que transformaria el dret humanitari internacional.",
+        "year": "1863"
+      },
+      {
+        "title": "La Coca-Cola es ven per primera vegada",
+        "description": "El farmacèutic John Pemberton va començar a vendre Coca-Cola a la farmàcia Jacob d'Atlanta (Geòrgia), com un xarop medicinal amb propietats per al mal de cap. La beguda, mesclada amb aigua carbonatada, es va convertir en la més popular del món.",
+        "year": "1886"
+      }
+    ]
+  }
+}

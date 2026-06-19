@@ -1,0 +1,267 @@
+{
+  "date": "2025-12-26",
+  "es": {
+    "saints": [
+      {
+        "name": "San Esteban, Protomártir",
+        "type": "Diácono y Mártir",
+        "description": "Primer mártir del cristianismo, diácono de la comunidad de Jerusalén, lapidado por sus acusadores tras su discurso ante el Sanedrín. Su martirio fue presenciado por Saulo de Tarso, futuro San Pablo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "San Esteban (fiesta nacional en Cataluña y otros territorios)",
+        "description": "Festividad oficial en Cataluña, Baleares, Comunidad Valenciana, Navarra, País Vasco y Andorra, donde el 26 de diciembre es día festivo (el 'Segon dia de Nadal' en catalán)."
+      },
+      {
+        "name": "Boxing Day (Reino Unido y Commonwealth)",
+        "description": "Festividad tradicional anglosajona en la que históricamente los señores daban a sus sirvientes una caja con regalos. Hoy es día no laborable en el Reino Unido, Canadá, Australia y Nueva Zelanda."
+      },
+      {
+        "name": "Kwanzaa (inicio)",
+        "description": "Comienzo de la celebración cultural afroamericana de Kwanzaa, que se extiende del 26 de diciembre al 1 de enero, celebrando los valores de la herencia africana."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No temas a quienes pueden matar el cuerpo, pero no pueden matar el alma.",
+      "author": "Evangelio de Mateo 10:28",
+      "context": "Palabras de Jesús que resuenan especialmente en el día de San Esteban, Protomártir, quien dio testimonio de su fe hasta la muerte."
+    },
+    "motivationalQuote": {
+      "text": "El valor no es la ausencia de miedo, sino el juicio de que algo más es más importante que el miedo.",
+      "author": "Ambrose Redmoon"
+    },
+    "births": [
+      {
+        "name": "Henry Miller",
+        "description": "Novelista y ensayista estadounidense, autor de Trópico de Cáncer y Trópico de Capricornio, obras que rompieron los tabúes sexuales y morales de su época y transformaron la narrativa del siglo XX.",
+        "year": 1891
+      },
+      {
+        "name": "Mao Zedong",
+        "description": "Líder comunista chino, fundador de la República Popular China en 1949, cuyo pensamiento (maoísmo) y cuya gestión del poder definieron la historia china del siglo XX.",
+        "year": 1893
+      },
+      {
+        "name": "Jared Leto",
+        "description": "Actor y músico estadounidense, ganador del Óscar al mejor actor de reparto por Dallas Buyers Club y líder de la banda de rock alternativo 30 Seconds to Mars.",
+        "year": 1971
+      }
+    ],
+    "events": [
+      {
+        "title": "Fin de la Gran Hambruna Irlandesa",
+        "description": "Tras años de hambruna devastadora (1845-1852), el gobierno británico declaró oficialmente el fin de la crisis, aunque la emigración masiva ya había reducido la población de Irlanda de 8 a 6 millones.",
+        "year": 1852
+      },
+      {
+        "title": "Terremoto del Océano Índico (tsunami de 2004)",
+        "description": "Un terremoto de magnitud 9,1 al suroeste de Sumatra (Indonesia) provocó una serie de tsunamis devastadores que mataron a más de 230.000 personas en 14 países, uno de los peores desastres naturales de la historia.",
+        "year": 2004
+      },
+      {
+        "title": "Rendición de los Países Bajos a la Francia napoleónica",
+        "description": "Napoleón Bonaparte derrotó al ejército austríaco en la batalla de Austerlitz (2 de diciembre) y el Tratado de Presburgo obligó a Austria a ceder enormes territorios, consolidando el dominio napoleónico en Europa.",
+        "year": 1805
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Stephen, Protomartyr",
+        "type": "Deacon and Martyr",
+        "description": "First martyr of Christianity, deacon of the Jerusalem community, stoned by his accusers after his speech before the Sanhedrin. His martyrdom was witnessed by Saul of Tarsus, the future Saint Paul."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Saint Stephen's Day (Catalonia and other territories)",
+        "description": "Official public holiday in Catalonia, the Balearic Islands, the Valencian Community, Navarre, the Basque Country, and Andorra, where 26 December is a public holiday ('Second Day of Christmas')."
+      },
+      {
+        "name": "Boxing Day (United Kingdom and Commonwealth)",
+        "description": "Traditional Anglo-Saxon holiday on which lords historically gave their servants a box of gifts. Today it is a public holiday in the United Kingdom, Canada, Australia, and New Zealand."
+      },
+      {
+        "name": "Kwanzaa (start)",
+        "description": "Beginning of the African-American cultural celebration of Kwanzaa, which runs from 26 December to 1 January, honouring the values of African heritage."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Do not be afraid of those who kill the body but cannot kill the soul.",
+      "author": "Gospel of Matthew 10:28",
+      "context": "Words of Jesus that resonate especially on Saint Stephen's Day, Protomartyr, who bore witness to his faith unto death."
+    },
+    "motivationalQuote": {
+      "text": "Courage is not the absence of fear, but the judgement that something else is more important than fear.",
+      "author": "Ambrose Redmoon"
+    },
+    "births": [
+      {
+        "name": "Henry Miller",
+        "description": "American novelist and essayist, author of Tropic of Cancer and Tropic of Capricorn, works that broke the sexual and moral taboos of their era and transformed 20th-century narrative.",
+        "year": 1891
+      },
+      {
+        "name": "Mao Zedong",
+        "description": "Chinese communist leader, founder of the People's Republic of China in 1949, whose thought (Maoism) and exercise of power defined 20th-century Chinese history.",
+        "year": 1893
+      },
+      {
+        "name": "Jared Leto",
+        "description": "American actor and musician, Academy Award winner for Best Supporting Actor for Dallas Buyers Club and lead vocalist of the alternative rock band 30 Seconds to Mars.",
+        "year": 1971
+      }
+    ],
+    "events": [
+      {
+        "title": "End of the Great Irish Famine",
+        "description": "After years of devastating famine (1845–1852), the British government officially declared the end of the crisis, though mass emigration had already reduced Ireland's population from 8 to 6 million.",
+        "year": 1852
+      },
+      {
+        "title": "Indian Ocean earthquake and tsunami",
+        "description": "A magnitude-9.1 earthquake off the southwest coast of Sumatra (Indonesia) triggered devastating tsunamis that killed over 230,000 people in 14 countries, one of the worst natural disasters in history.",
+        "year": 2004
+      },
+      {
+        "title": "Treaty of Pressburg",
+        "description": "Following Napoleon's victory at the Battle of Austerlitz (2 December), the Treaty of Pressburg forced Austria to cede vast territories, consolidating Napoleonic domination across Europe.",
+        "year": 1805
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Estêvão, Protomártir",
+        "type": "Diácono e Mártir",
+        "description": "Primeiro mártir do cristianismo, diácono da comunidade de Jerusalém, apedrejado pelos seus acusadores após o seu discurso perante o Sinédrio. O seu martírio foi testemunhado por Saulo de Tarso, o futuro São Paulo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Santo Estêvão (Catalunha e outros territórios)",
+        "description": "Feriado oficial na Catalunha, nas Ilhas Baleares, na Comunidade Valenciana, em Navarra, no País Basco e em Andorra, onde o dia 26 de dezembro é feriado ('Segundo Dia de Natal')."
+      },
+      {
+        "name": "Boxing Day (Reino Unido e Commonwealth)",
+        "description": "Festividade tradicional anglo-saxónica em que historicamente os senhores davam aos seus criados uma caixa com presentes. Hoje é feriado no Reino Unido, Canadá, Austrália e Nova Zelândia."
+      },
+      {
+        "name": "Kwanzaa (início)",
+        "description": "Início da celebração cultural afro-americana de Kwanzaa, que decorre de 26 de dezembro a 1 de janeiro, honrando os valores da herança africana."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Não temais aqueles que podem matar o corpo, mas não podem matar a alma.",
+      "author": "Evangelho de Mateus 10:28",
+      "context": "Palavras de Jesus que ressoam especialmente no dia de Santo Estêvão, Protomártir, que deu testemunho da sua fé até à morte."
+    },
+    "motivationalQuote": {
+      "text": "A coragem não é a ausência do medo, mas o julgamento de que algo mais é mais importante do que o medo.",
+      "author": "Ambrose Redmoon"
+    },
+    "births": [
+      {
+        "name": "Henry Miller",
+        "description": "Romancista e ensaísta americano, autor de Trópico de Câncer e Trópico de Capricórnio, obras que romperam os tabus sexuais e morais da sua época e transformaram a narrativa do século XX.",
+        "year": 1891
+      },
+      {
+        "name": "Mao Tsé-tung",
+        "description": "Líder comunista chinês, fundador da República Popular da China em 1949, cujo pensamento (maoísmo) e exercício do poder definiram a história chinesa do século XX.",
+        "year": 1893
+      },
+      {
+        "name": "Jared Leto",
+        "description": "Ator e músico americano, vencedor do Oscar de Melhor Ator Coadjuvante por Dallas Buyers Club e vocalista principal da banda de rock alternativo 30 Seconds to Mars.",
+        "year": 1971
+      }
+    ],
+    "events": [
+      {
+        "title": "Fim da Grande Fome Irlandesa",
+        "description": "Após anos de fome devastadora (1845–1852), o governo britânico declarou oficialmente o fim da crise, embora a emigração em massa já tivesse reduzido a população da Irlanda de 8 para 6 milhões.",
+        "year": 1852
+      },
+      {
+        "title": "Terramoto do Oceano Índico e tsunami",
+        "description": "Um sismo de magnitude 9,1 a sudoeste de Sumatra (Indonésia) provocou tsunamis devastadores que mataram mais de 230.000 pessoas em 14 países, um dos piores desastres naturais da história.",
+        "year": 2004
+      },
+      {
+        "title": "Tratado de Presburgo",
+        "description": "Na sequência da vitória de Napoleão na Batalha de Austerlitz (2 de dezembro), o Tratado de Presburgo obrigou a Áustria a ceder vastos territórios, consolidando o domínio napoleónico na Europa.",
+        "year": 1805
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Esteve, Protomàrtir",
+        "type": "Diaca i Màrtir",
+        "description": "Primer màrtir del cristianisme, diaca de la comunitat de Jerusalem, apedregat pels seus acusadors després del seu discurs davant el Sanedrí. El seu martiri va ser presenciat per Saul de Tars, el futur Sant Pau."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Sant Esteve (festa nacional a Catalunya i altres territoris)",
+        "description": "Festivitat oficial a Catalunya, les Illes Balears, la Comunitat Valenciana, Navarra, el País Basc i Andorra, on el 26 de desembre és dia festiu (el 'Segon dia de Nadal')."
+      },
+      {
+        "name": "Boxing Day (Regne Unit i Commonwealth)",
+        "description": "Festivitat tradicional anglosaxona en que històricament els senyors donaven als seus criats una caixa amb regals. Avui és dia festiu al Regne Unit, el Canadà, Austràlia i Nova Zelanda."
+      },
+      {
+        "name": "Kwanzaa (inici)",
+        "description": "Inici de la celebració cultural afroamericana de Kwanzaa, que s'estén del 26 de desembre al 1 de gener, celebrant els valors de l'herència africana."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No tingueu por d'aquells que poden matar el cos, però no poden matar l'ànima.",
+      "author": "Evangeli de Mateu 10:28",
+      "context": "Paraules de Jesús que ressonen especialment el dia de Sant Esteve, Protomàrtir, que va donar testimoni de la seva fe fins a la mort."
+    },
+    "motivationalQuote": {
+      "text": "El coratge no és l'absència de la por, sinó el judici que alguna cosa més és més important que la por.",
+      "author": "Ambrose Redmoon"
+    },
+    "births": [
+      {
+        "name": "Henry Miller",
+        "description": "Novel·lista i assagista nord-americà, autor de Tròpic de Càncer i Tròpic de Capricorn, obres que van trencar els tabús sexuals i morals de la seva època i van transformar la narrativa del segle XX.",
+        "year": 1891
+      },
+      {
+        "name": "Mao Zedong",
+        "description": "Líder comunista xinès, fundador de la República Popular de la Xina el 1949, el pensament del qual (maoisme) i l'exercici del poder van definir la història xinesa del segle XX.",
+        "year": 1893
+      },
+      {
+        "name": "Jared Leto",
+        "description": "Actor i músic nord-americà, guanyador de l'Oscar al millor actor de repartiment per Dallas Buyers Club i vocalista principal de la banda de rock alternatiu 30 Seconds to Mars.",
+        "year": 1971
+      }
+    ],
+    "events": [
+      {
+        "title": "Fi de la Gran Fam Irlandesa",
+        "description": "Després d'anys de fam devastadora (1845–1852), el govern britànic va declarar oficialment el fi de la crisi, tot i que l'emigració massiva ja havia reduït la població d'Irlanda de 8 a 6 milions.",
+        "year": 1852
+      },
+      {
+        "title": "Terratrèmol de l'Oceà Índic i tsunami",
+        "description": "Un sisme de magnitud 9,1 al sud-oest de Sumatra (Indonèsia) va provocar tsunamis devastadors que van matar més de 230.000 persones en 14 països, un dels pitjors desastres naturals de la història.",
+        "year": 2004
+      },
+      {
+        "title": "Tractat de Presburgo",
+        "description": "Arran de la victòria de Napoleó a la Batalla d'Austerlitz (2 de desembre), el Tractat de Presburgo va obligar Àustria a cedir vastos territoris, consolidant el domini napoleònic a Europa.",
+        "year": 1805
+      }
+    ]
+  }
+}

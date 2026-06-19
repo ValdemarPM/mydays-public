@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-11",
+  "es": {
+    "saints": [
+      {
+        "name": "San Juan Gabriel Perboyre",
+        "type": "Sacerdote y Mártir",
+        "description": "Lazarista francés que fue misionero en China y murió estrangulado en Wuhan en 1840 tras ser denunciado por un catequista. Canonizado por Juan Pablo II en 1996, es uno de los mártires de China más venerados."
+      },
+      {
+        "name": "San Jacinto de Polonia",
+        "type": "Sacerdote",
+        "description": "Dominico polaco del siglo XIII conocido como el «Apóstol de Polonia» por su intensa labor evangelizadora en Polonia, Lituania, Prusia y los países escandinavos. Canonizado en 1594."
+      },
+      {
+        "name": "San Proto y San Jacinto",
+        "type": "Mártires",
+        "description": "Hermanos romanos del siglo III que fueron martirizados en Roma durante la persecución de Valeriano. Sus reliquias se descubrieron en el cementerio de Basila en la Vía Salaria."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Aniversario del 11-S — Ataques terroristas en Estados Unidos",
+        "description": "Conmemoración de los atentados terroristas del 11 de septiembre de 2001, en los que diecinueve terroristas de Al-Qaeda secuestraron cuatro aviones comerciales, matando a casi 3.000 personas en Nueva York, el Pentágono y Pensilvania."
+      },
+      {
+        "name": "Día Nacional de Cataluña — Diada",
+        "description": "Festividad nacional de Cataluña que recuerda la caída de Barcelona ante las tropas borbónicas el 11 de septiembre de 1714, durante la Guerra de Sucesión española. Es el símbolo de la identidad nacional catalana."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El silencio en la cara del mal es en sí mismo un mal. Dios no nos tendrá por inocentes.",
+      "author": "Dietrich Bonhoeffer",
+      "context": "El teólogo luterano alemán, ejecutado por los nazis en 1945, expresó esta convicción que le llevó a resistir activamente el régimen de Hitler. Su pensamiento es especialmente evocador en el aniversario del 11-S."
+    },
+    "motivationalQuote": {
+      "text": "De las cenizas puede nacer algo nuevo y hermoso.",
+      "author": "Rhonda Byrne"
+    },
+    "births": [
+      {
+        "name": "O. Henry (William Sydney Porter)",
+        "description": "Escritor estadounidense maestro del cuento corto, famoso por sus finales inesperados. Su historia El regalo de los Reyes Magos es una de las más leídas en lengua inglesa.",
+        "year": 1862
+      },
+      {
+        "name": "D. H. Lawrence",
+        "description": "Novelista y poeta inglés, autor de El amante de Lady Chatterley (1928), novela censurada durante décadas por su contenido sexual explícito. Exploró la sexualidad y la modernidad industrial con controversia.",
+        "year": 1885
+      },
+      {
+        "name": "Moby (Richard Melville Hall)",
+        "description": "Músico, DJ y productor americano, uno de los pioneros de la música electrónica. Su álbum Play (1999) vendió más de 12 millones de copias y es uno de los más icónicos de la música electrónica.",
+        "year": 1965
+      }
+    ],
+    "events": [
+      {
+        "title": "Ataques terroristas del 11 de septiembre de 2001",
+        "description": "Diecinueve terroristas de Al-Qaeda secuestraron cuatro aviones y los estrellaron contra las Torres Gemelas de Nueva York, el Pentágono y un campo en Pensilvania, causando casi 3.000 muertes y cambiando el mundo para siempre.",
+        "year": 2001
+      },
+      {
+        "title": "Caída de Barcelona — Diada de Catalunya",
+        "description": "Las tropas borbónicas de Felipe V tomaron Barcelona tras un largo asedio, poniendo fin a la resistencia catalana en la Guerra de Sucesión española y aboliendo las instituciones catalanas con el Decreto de Nueva Planta.",
+        "year": 1714
+      },
+      {
+        "title": "Golpe de Estado en Chile",
+        "description": "Un golpe militar encabezado por el general Augusto Pinochet derrocó al presidente socialista Salvador Allende. Allende murió durante el bombardeo del Palacio de La Moneda. Comenzó una dictadura de 17 años.",
+        "year": 1973
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint John Gabriel Perboyre",
+        "type": "Priest and Martyr",
+        "description": "A French Lazarist who was a missionary in China and was strangled in Wuhan in 1840 after being denounced by a catechist. Canonised by John Paul II in 1996, he is one of the most venerated martyrs of China."
+      },
+      {
+        "name": "Saint Hyacinth of Poland",
+        "type": "Priest",
+        "description": "A 13th-century Polish Dominican known as the 'Apostle of Poland' for his intense missionary work in Poland, Lithuania, Prussia, and the Scandinavian countries. Canonised in 1594."
+      },
+      {
+        "name": "Saints Protus and Hyacinth",
+        "type": "Martyrs",
+        "description": "Roman brothers of the 3rd century who were martyred in Rome during the persecution of Valerian. Their relics were discovered in the Cemetery of Basilla on the Via Salaria."
+      }
+    ],
+    "observances": [
+      {
+        "name": "9/11 Anniversary — Terrorist attacks in the United States",
+        "description": "Commemoration of the terrorist attacks of 11 September 2001, in which nineteen al-Qaeda terrorists hijacked four commercial airliners, killing nearly 3,000 people in New York, the Pentagon, and Pennsylvania."
+      },
+      {
+        "name": "Catalan National Day — La Diada",
+        "description": "Catalonia's national holiday, recalling the fall of Barcelona to Bourbon troops on 11 September 1714, during the War of the Spanish Succession. It is the symbol of Catalan national identity."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Silence in the face of evil is itself evil. God will not hold us guiltless.",
+      "author": "Dietrich Bonhoeffer",
+      "context": "The German Lutheran theologian, executed by the Nazis in 1945, expressed this conviction that led him to actively resist Hitler's regime. His thinking is especially evocative on the anniversary of 9/11."
+    },
+    "motivationalQuote": {
+      "text": "From the ashes, something new and beautiful can be born.",
+      "author": "Rhonda Byrne"
+    },
+    "births": [
+      {
+        "name": "O. Henry (William Sydney Porter)",
+        "description": "American short story master famous for his surprise endings. His story The Gift of the Magi is one of the most widely read in the English language.",
+        "year": 1862
+      },
+      {
+        "name": "D. H. Lawrence",
+        "description": "English novelist and poet, author of Lady Chatterley's Lover (1928), a novel banned for decades for its explicit sexual content. He explored sexuality and industrial modernity with controversy.",
+        "year": 1885
+      },
+      {
+        "name": "Moby (Richard Melville Hall)",
+        "description": "American musician, DJ, and producer, one of the pioneers of electronic music. His album Play (1999) sold over 12 million copies and is one of the most iconic in electronic music.",
+        "year": 1965
+      }
+    ],
+    "events": [
+      {
+        "title": "September 11, 2001 terrorist attacks",
+        "description": "Nineteen al-Qaeda terrorists hijacked four airliners and crashed them into the Twin Towers in New York, the Pentagon, and a field in Pennsylvania, causing nearly 3,000 deaths and changing the world forever.",
+        "year": 2001
+      },
+      {
+        "title": "Fall of Barcelona — Catalan National Day",
+        "description": "The Bourbon troops of Philip V took Barcelona after a long siege, ending Catalan resistance in the War of the Spanish Succession and abolishing Catalan institutions through the Nueva Planta Decrees.",
+        "year": 1714
+      },
+      {
+        "title": "Military coup in Chile",
+        "description": "A military coup led by General Augusto Pinochet overthrew socialist president Salvador Allende. Allende died during the bombing of the La Moneda Palace. A 17-year dictatorship began.",
+        "year": 1973
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São João Gabriel Perboyre",
+        "type": "Sacerdote e Mártir",
+        "description": "Lazarista francês que foi missionário na China e foi estrangulado em Wuhan em 1840, após ser denunciado por um catequista. Canonizado por João Paulo II em 1996, é um dos mártires da China mais venerados."
+      },
+      {
+        "name": "São Jacinto da Polônia",
+        "type": "Sacerdote",
+        "description": "Dominicano polonês do século XIII conhecido como o 'Apóstolo da Polônia' pela sua intensa atividade missionária na Polônia, Lituânia, Prússia e países escandinavos. Canonizado em 1594."
+      },
+      {
+        "name": "Santos Proto e Jacinto",
+        "type": "Mártires",
+        "description": "Irmãos romanos do século III que foram martirizados em Roma durante a perseguição de Valeriano. As suas relíquias foram descobertas no cemitério de Basila na Via Salária."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Aniversário do 11 de Setembro — Ataques terroristas nos EUA",
+        "description": "Comemoração dos ataques terroristas de 11 de setembro de 2001, em que dezenove terroristas da Al-Qaeda sequestraram quatro aviões comerciais, matando quase 3.000 pessoas em Nova Iorque, no Pentágono e na Pensilvânia."
+      },
+      {
+        "name": "Dia Nacional da Catalunha — La Diada",
+        "description": "Festividade nacional da Catalunha que recorda a queda de Barcelona perante as tropas bourbon em 11 de setembro de 1714, durante a Guerra da Sucessão Espanhola. É o símbolo da identidade nacional catalã."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O silêncio diante do mal é, em si mesmo, um mal. Deus não nos considerará inocentes.",
+      "author": "Dietrich Bonhoeffer",
+      "context": "O teólogo luterano alemão, executado pelos nazis em 1945, expressou esta convicção que o levou a resistir ativamente ao regime de Hitler. O seu pensamento é especialmente evocador no aniversário do 11 de setembro."
+    },
+    "motivationalQuote": {
+      "text": "Das cinzas pode nascer algo novo e belo.",
+      "author": "Rhonda Byrne"
+    },
+    "births": [
+      {
+        "name": "O. Henry (William Sydney Porter)",
+        "description": "Escritor americano mestre do conto curto, famoso pelos seus finais inesperados. A sua história O Dom dos Reis Magos é uma das mais lidas em língua inglesa.",
+        "year": 1862
+      },
+      {
+        "name": "D. H. Lawrence",
+        "description": "Romancista e poeta inglês, autor de O Amante de Lady Chatterley (1928), romance censurado durante décadas pelo seu conteúdo sexual explícito. Explorou a sexualidade e a modernidade industrial com controvérsia.",
+        "year": 1885
+      },
+      {
+        "name": "Moby (Richard Melville Hall)",
+        "description": "Músico, DJ e produtor americano, um dos pioneiros da música eletrónica. O seu álbum Play (1999) vendeu mais de 12 milhões de cópias e é um dos mais icónicos da música eletrónica.",
+        "year": 1965
+      }
+    ],
+    "events": [
+      {
+        "title": "Ataques terroristas de 11 de setembro de 2001",
+        "description": "Dezenove terroristas da Al-Qaeda sequestraram quatro aviões e os fizeram colidir com as Torres Gémeas em Nova Iorque, o Pentágono e um campo na Pensilvânia, causando quase 3.000 mortes e mudando o mundo para sempre.",
+        "year": 2001
+      },
+      {
+        "title": "Queda de Barcelona — Dia Nacional da Catalunha",
+        "description": "As tropas bourbon de Filipe V tomaram Barcelona após um longo cerco, pondo fim à resistência catalã na Guerra da Sucessão Espanhola e abolindo as instituições catalãs com os Decretos de Nova Planta.",
+        "year": 1714
+      },
+      {
+        "title": "Golpe de Estado no Chile",
+        "description": "Um golpe militar liderado pelo general Augusto Pinochet derrubou o presidente socialista Salvador Allende. Allende morreu durante o bombardeio do Palácio La Moneda. Começou uma ditadura de 17 anos.",
+        "year": 1973
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Joan Gabriel Perboyre",
+        "type": "Sacerdot i Màrtir",
+        "description": "Lazarista francès que va ser missioner a la Xina i va morir estrangulat a Wuhan el 1840 després de ser denunciat per un catequista. Canonitzat per Joan Pau II el 1996, és un dels màrtirs de la Xina més venerats."
+      },
+      {
+        "name": "Sant Jacint de Polònia",
+        "type": "Sacerdot",
+        "description": "Dominicà polonès del segle XIII conegut com l''Apòstol de Polònia' per la seva intensa activitat evangelitzadora a Polònia, Lituània, Prússia i els països escandinaus. Canonitzat el 1594."
+      },
+      {
+        "name": "Sants Prot i Jacint",
+        "type": "Màrtirs",
+        "description": "Germans romans del segle III que van ser martiritzats a Roma durant la persecució de Valerià. Les seves relíquies van ser descobertes al cementiri de Basila a la Via Salària."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Aniversari de l'11-S — Atacs terroristes als Estats Units",
+        "description": "Commemoració dels atacs terroristes de l'11 de setembre de 2001, en els quals dinou terroristes d'Al-Qaeda van segrestar quatre avions comercials, matant gairebé 3.000 persones a Nova York, el Pentàgon i Pennsilvània."
+      },
+      {
+        "name": "Diada Nacional de Catalunya",
+        "description": "Festivitat nacional de Catalunya que recorda la caiguda de Barcelona davant les tropes borbòniques l'11 de setembre de 1714, durant la Guerra de Successió. És el símbol de la identitat nacional catalana."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El silenci davant del mal és, en si mateix, un mal. Déu no ens tindrà per innocents.",
+      "author": "Dietrich Bonhoeffer",
+      "context": "El teòleg luterà alemany, executat pels nazis el 1945, va expressar aquesta convicció que el va portar a resistir activament el règim de Hitler. El seu pensament és especialment evocador en l'aniversari de l'11-S."
+    },
+    "motivationalQuote": {
+      "text": "De les cendres pot néixer quelcom nou i bell.",
+      "author": "Rhonda Byrne"
+    },
+    "births": [
+      {
+        "name": "O. Henry (William Sydney Porter)",
+        "description": "Escriptor americà mestre del conte curt, famós pels seus finals inesperats. La seva història El regal dels Reis Mags és una de les més llegides en llengua anglesa.",
+        "year": 1862
+      },
+      {
+        "name": "D. H. Lawrence",
+        "description": "Novel·lista i poeta anglès, autor de L'amant de Lady Chatterley (1928), novel·la censurada durant dècades pel seu contingut sexual explícit. Va explorar la sexualitat i la modernitat industrial amb controvèrsia.",
+        "year": 1885
+      },
+      {
+        "name": "Moby (Richard Melville Hall)",
+        "description": "Músic, DJ i productor americà, un dels pioners de la música electrònica. El seu àlbum Play (1999) va vendre més de 12 milions de còpies i és un dels més icònics de la música electrònica.",
+        "year": 1965
+      }
+    ],
+    "events": [
+      {
+        "title": "Atacs terroristes de l'11 de setembre de 2001",
+        "description": "Dinou terroristes d'Al-Qaeda van segrestar quatre avions i els van estavellar contra les Torres Bessones a Nova York, el Pentàgon i un camp a Pennsilvània, causant gairebé 3.000 morts i canviant el món per sempre.",
+        "year": 2001
+      },
+      {
+        "title": "Caiguda de Barcelona — La Diada",
+        "description": "Les tropes borbòniques de Felip V van prendre Barcelona després d'un llarg setge, posant fi a la resistència catalana a la Guerra de Successió espanyola i abolint les institucions catalanes amb el Decret de Nova Planta.",
+        "year": 1714
+      },
+      {
+        "title": "Cop d'estat a Xile",
+        "description": "Un cop militar encapçalat pel general Augusto Pinochet va enderrocar el president socialista Salvador Allende. Allende va morir durant el bombardeig del Palau de La Moneda. Va començar una dictadura de 17 anys.",
+        "year": 1973
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "date": "2025-06-17",
+  "es": {
+    "saints": [
+      {
+        "name": "San Alberto Chmielowski",
+        "type": "Fraile y Artista",
+        "description": "Nacido Adam Chmielowski, fue un fraile franciscano polaco y un destacado pintor que abandonó su carrera artística para dedicarse por completo a servir a los más pobres y necesitados, fundando las congregaciones de los Hermanos y Hermanas de la Tercera Orden de San Francisco Siervos de los Pobres."
+      },
+      {
+        "name": "San Raniero de Pisa",
+        "type": "Ermitaño y Patrón",
+        "description": "Conocido como San Raniero Scacceri, fue un ermitaño del siglo XII venerado como el santo patrón de la ciudad de Pisa. Se dedicó a una vida de penitencia y caridad después de una juventud de frivolidades, inspirando a muchos con su ejemplo de conversión."
+      },
+      {
+        "name": "San Antidio de Besançon",
+        "type": "Obispo y Mártir",
+        "description": "Fue obispo de Besançon en el siglo V y es venerado como mártir. Sufrió persecución y fue decapitado durante las invasiones bárbaras, defendiendo la fe cristiana y su rebaño."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de Lucha contra la Desertificación y la Sequía",
+        "description": "Establecido por las Naciones Unidas, este día se observa anualmente para concienciar sobre la presencia de la desertificación y la sequía, destacando métodos para prevenir y recuperarse de la escasez de agua y la degradación del suelo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La música es incapaz, por su propia naturaleza, de expresar algo, sea un sentimiento, una actitud, un estado psicológico, un fenómeno de la naturaleza, etc. La expresión nunca ha sido una propiedad inmanente de la música, y esa no es la razón de su existencia.",
+      "author": "Igor Stravinsky",
+      "context": "Esta célebre frase sobre la autonomía y la naturaleza inexpresiva de la música fue pronunciada por el influyente compositor ruso Igor Stravinsky, quien nació el 17 de junio de 1882. Su enfoque revolucionario marcó una nueva era en la música clásica del siglo XX."
+    },
+    "motivationalQuote": {
+      "text": "Sé el cambio que quieres ver en el mundo.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Igor Stravinsky",
+        "description": "Compositor ruso-americano considerado una de las figuras más importantes e influyentes de la música del siglo XX. Sus obras, como 'La consagración de la primavera', revolucionaron el ballet y la música orquestal.",
+        "year": "1882"
+      },
+      {
+        "name": "Barry Manilow",
+        "description": "Cantautor, arreglista y productor estadounidense, conocido por una serie de éxitos populares en las décadas de 1970 y 1980, incluyendo 'Mandy' y 'Copacabana', y por sus espectáculos en vivo de gran éxito.",
+        "year": "1943"
+      },
+      {
+        "name": "Venus Williams",
+        "description": "Tenista profesional estadounidense, una de las atletas más dominantes en la historia del tenis femenino. Ha ganado siete títulos individuales de Grand Slam y varias medallas de oro olímpicas, inspirando a generaciones con su talento y longevidad.",
+        "year": "1980"
+      }
+    ],
+    "events": [
+      {
+        "title": "El Tercer Estado se declara Asamblea Nacional en Francia",
+        "description": "En un momento crucial previo a la Revolución Francesa, los representantes del Tercer Estado se reunieron y se proclamaron Asamblea Nacional, asumiendo la soberanía y marcando el inicio de un cambio radical en la gobernanza y la sociedad francesa.",
+        "year": "1789"
+      },
+      {
+        "title": "La Estatua de la Libertad llega a Nueva York",
+        "description": "Un símbolo universal de libertad y democracia, la Estatua de la Libertad, un regalo de Francia a los Estados Unidos, llegó desmantelada al puerto de Nueva York, donde sería ensamblada para inspirar a millones de inmigrantes y visitantes.",
+        "year": "1885"
+      },
+      {
+        "title": "Sudáfrica deroga el Acta de Registro de Población del Apartheid",
+        "description": "En un paso fundamental hacia el fin del apartheid, el parlamento sudafricano derogó el Acta de Registro de Población, eliminando la base legal de la segregación racial y marcando un avance significativo hacia la igualdad y la reconciliación en la nación.",
+        "year": "1991"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Albert Chmielowski",
+        "type": "Friar and Artist",
+        "description": "Born Adam Chmielowski, he was a Polish Franciscan friar and a prominent painter who gave up his artistic career to devote himself entirely to serving the poorest and most needy, founding the congregations of the Brothers and Sisters of the Third Order of Saint Francis, Servants of the Poor."
+      },
+      {
+        "name": "Saint Raniero of Pisa",
+        "type": "Hermit and Patron",
+        "description": "Known as Saint Raniero Scacceri, he was a 12th-century hermit venerated as the patron saint of the city of Pisa. He devoted himself to a life of penance and charity after a frivolous youth, inspiring many with his example of conversion."
+      },
+      {
+        "name": "Saint Antidius of Besançon",
+        "type": "Bishop and Martyr",
+        "description": "He was Bishop of Besançon in the 5th century and is venerated as a martyr. He suffered persecution and was beheaded during the barbarian invasions, defending the Christian faith and his flock."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Day to Combat Desertification and Drought",
+        "description": "Established by the United Nations, this day is observed annually to raise awareness of desertification and drought, highlighting methods to prevent and recover from water scarcity and land degradation."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Music is, by its very nature, essentially powerless to express anything at all, whether a feeling, an attitude, a psychological state, a phenomenon of nature, etc. Expression has never been an inherent property of music, and that is not its purpose.",
+      "author": "Igor Stravinsky",
+      "context": "This celebrated statement on the autonomy and inexpressive nature of music was made by the influential Russian composer Igor Stravinsky, who was born on June 17, 1882. His revolutionary approach marked a new era in 20th-century classical music."
+    },
+    "motivationalQuote": {
+      "text": "Be the change you wish to see in the world.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Igor Stravinsky",
+        "description": "Russian-American composer considered one of the most important and influential figures in 20th-century music. His works, such as 'The Rite of Spring', revolutionized ballet and orchestral music.",
+        "year": "1882"
+      },
+      {
+        "name": "Barry Manilow",
+        "description": "American singer-songwriter, arranger, and producer, known for a string of popular hits in the 1970s and 1980s, including 'Mandy' and 'Copacabana', and for his hugely successful live shows.",
+        "year": "1943"
+      },
+      {
+        "name": "Venus Williams",
+        "description": "American professional tennis player, one of the most dominant athletes in the history of women's tennis. She has won seven Grand Slam singles titles and multiple Olympic gold medals, inspiring generations with her talent and longevity.",
+        "year": "1980"
+      }
+    ],
+    "events": [
+      {
+        "title": "The Third Estate declares itself the National Assembly in France",
+        "description": "At a crucial moment before the French Revolution, representatives of the Third Estate convened and proclaimed themselves the National Assembly, assuming sovereignty and marking the beginning of a radical shift in French governance and society.",
+        "year": "1789"
+      },
+      {
+        "title": "The Statue of Liberty arrives in New York",
+        "description": "A universal symbol of freedom and democracy, the Statue of Liberty, a gift from France to the United States, arrived dismantled in the port of New York, where it would be assembled to inspire millions of immigrants and visitors.",
+        "year": "1885"
+      },
+      {
+        "title": "South Africa repeals the Apartheid Population Registration Act",
+        "description": "In a fundamental step toward the end of apartheid, the South African parliament repealed the Population Registration Act, removing the legal foundation of racial segregation and marking a significant advance toward equality and reconciliation in the nation.",
+        "year": "1991"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Alberto Chmielowski",
+        "type": "Frade e Artista",
+        "description": "Nascido Adam Chmielowski, foi um frade franciscano polonês e um destacado pintor que abandonou sua carreira artística para dedicar-se por completo ao serviço dos mais pobres e necessitados, fundando as congregações dos Irmãos e Irmãs da Terceira Ordem de São Francisco Servos dos Pobres."
+      },
+      {
+        "name": "São Raniero de Pisa",
+        "type": "Eremita e Patrono",
+        "description": "Conhecido como São Raniero Scacceri, foi um eremita do século XII venerado como o santo padroeiro da cidade de Pisa. Dedicou-se a uma vida de penitência e caridade após uma juventude de frivolidades, inspirando muitos com seu exemplo de conversão."
+      },
+      {
+        "name": "Santo Antídio de Besançon",
+        "type": "Bispo e Mártir",
+        "description": "Foi bispo de Besançon no século V e é venerado como mártir. Sofreu perseguição e foi decapitado durante as invasões bárbaras, defendendo a fé cristã e seu rebanho."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de Combate à Desertificação e à Seca",
+        "description": "Estabelecido pelas Nações Unidas, este dia é observado anualmente para conscientizar sobre a presença da desertificação e da seca, destacando métodos para prevenir e se recuperar da escassez de água e da degradação do solo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A música é, por sua própria natureza, incapaz de expressar qualquer coisa, seja um sentimento, uma atitude, um estado psicológico, um fenômeno da natureza, etc. A expressão nunca foi uma propriedade inerente à música, e esse não é o motivo de sua existência.",
+      "author": "Igor Stravinsky",
+      "context": "Esta célebre frase sobre a autonomia e a natureza inexpressiva da música foi proferida pelo influente compositor russo Igor Stravinsky, que nasceu em 17 de junho de 1882. Sua abordagem revolucionária marcou uma nova era na música clássica do século XX."
+    },
+    "motivationalQuote": {
+      "text": "Seja a mudança que você quer ver no mundo.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Igor Stravinsky",
+        "description": "Compositor russo-americano considerado uma das figuras mais importantes e influentes da música do século XX. Suas obras, como 'A Sagração da Primavera', revolucionaram o balé e a música orquestral.",
+        "year": "1882"
+      },
+      {
+        "name": "Barry Manilow",
+        "description": "Cantor, compositor, arranjador e produtor americano, conhecido por uma série de sucessos populares nas décadas de 1970 e 1980, incluindo 'Mandy' e 'Copacabana', e por seus espetáculos ao vivo de grande sucesso.",
+        "year": "1943"
+      },
+      {
+        "name": "Venus Williams",
+        "description": "Tenista profissional americana, uma das atletas mais dominantes na história do tênis feminino. Conquistou sete títulos individuais de Grand Slam e várias medalhas de ouro olímpicas, inspirando gerações com seu talento e longevidade.",
+        "year": "1980"
+      }
+    ],
+    "events": [
+      {
+        "title": "O Terceiro Estado se declara Assembleia Nacional na França",
+        "description": "Em um momento crucial anterior à Revolução Francesa, os representantes do Terceiro Estado se reuniram e se proclamaram Assembleia Nacional, assumindo a soberania e marcando o início de uma mudança radical na governança e na sociedade francesa.",
+        "year": "1789"
+      },
+      {
+        "title": "A Estátua da Liberdade chega a Nova York",
+        "description": "Um símbolo universal de liberdade e democracia, a Estátua da Liberdade, um presente da França aos Estados Unidos, chegou desmontada ao porto de Nova York, onde seria montada para inspirar milhões de imigrantes e visitantes.",
+        "year": "1885"
+      },
+      {
+        "title": "A África do Sul revoga a Lei de Registro Populacional do Apartheid",
+        "description": "Em um passo fundamental rumo ao fim do apartheid, o parlamento sul-africano revogou a Lei de Registro Populacional, eliminando a base legal da segregação racial e marcando um avanço significativo em direção à igualdade e à reconciliação na nação.",
+        "year": "1991"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Albert Chmielowski",
+        "type": "Frare i Artista",
+        "description": "Nascut Adam Chmielowski, fou un frare franciscà polonès i un destacat pintor que va abandonar la seva carrera artística per dedicar-se per complet a servir els més pobres i necessitats, fundant les congregacions dels Germans i Germanes de la Tercera Orde de Sant Francesc Servents dels Pobres."
+      },
+      {
+        "name": "Sant Raniero de Pisa",
+        "type": "Ermità i Patró",
+        "description": "Conegut com Sant Raniero Scacceri, fou un ermità del segle XII venerat com el sant patró de la ciutat de Pisa. Es va dedicar a una vida de penitència i caritat després d'una joventut de frivolitats, inspirant molts amb el seu exemple de conversió."
+      },
+      {
+        "name": "Sant Antidi de Besançon",
+        "type": "Bisbe i Màrtir",
+        "description": "Fou bisbe de Besançon al segle V i és venerat com a màrtir. Va patir persecució i va ser decapitat durant les invasions bàrbares, defensant la fe cristiana i el seu ramat."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de Lluita contra la Desertificació i la Sequera",
+        "description": "Establert per les Nacions Unides, aquest dia s'observa anualment per conscienciar sobre la presència de la desertificació i la sequera, destacant mètodes per prevenir i recuperar-se de l'escassetat d'aigua i la degradació del sòl."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La música és incapaç, per la seva pròpia naturalesa, d'expressar res, sigui un sentiment, una actitud, un estat psicològic, un fenomen de la natura, etc. L'expressió mai no ha estat una propietat inherent de la música, i aquesta no és la raó de la seva existència.",
+      "author": "Igor Stravinsky",
+      "context": "Aquesta cèlebre frase sobre l'autonomia i la naturalesa inexpressiva de la música fou pronunciada per l'influent compositor rus Igor Stravinsky, que va néixer el 17 de juny de 1882. El seu enfocament revolucionari va marcar una nova era en la música clàssica del segle XX."
+    },
+    "motivationalQuote": {
+      "text": "Sigues el canvi que vols veure al món.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Igor Stravinsky",
+        "description": "Compositor russo-americà considerat una de les figures més importants i influents de la música del segle XX. Les seves obres, com 'La consagració de la primavera', van revolucionar el ballet i la música orquestral.",
+        "year": "1882"
+      },
+      {
+        "name": "Barry Manilow",
+        "description": "Cantautor, arranjador i productor nord-americà, conegut per una sèrie d'èxits populars a les dècades de 1970 i 1980, incloent-hi 'Mandy' i 'Copacabana', i pels seus espectacles en directe d'enorme èxit.",
+        "year": "1943"
+      },
+      {
+        "name": "Venus Williams",
+        "description": "Tennista professional nord-americana, una de les atletes més dominants en la història del tennis femení. Ha guanyat set títols individuals de Grand Slam i diverses medalles d'or olímpiques, inspirant generacions amb el seu talent i la seva longevitat.",
+        "year": "1980"
+      }
+    ],
+    "events": [
+      {
+        "title": "El Tercer Estat es declara Assemblea Nacional a França",
+        "description": "En un moment crucial previ a la Revolució Francesa, els representants del Tercer Estat es van reunir i es van proclamar Assemblea Nacional, assumint la sobirania i marcant l'inici d'un canvi radical en la governança i la societat francesa.",
+        "year": "1789"
+      },
+      {
+        "title": "L'Estàtua de la Llibertat arriba a Nova York",
+        "description": "Un símbol universal de llibertat i democràcia, l'Estàtua de la Llibertat, un regal de França als Estats Units, va arribar desmuntada al port de Nova York, on seria assemblada per inspirar milions d'immigrants i visitants.",
+        "year": "1885"
+      },
+      {
+        "title": "Sud-àfrica deroga la Llei de Registre de Població de l'Apartheid",
+        "description": "En un pas fonamental cap al final de l'apartheid, el parlament sud-africà va derogar la Llei de Registre de Població, eliminant la base legal de la segregació racial i marcant un avanç significatiu cap a la igualtat i la reconciliació a la nació.",
+        "year": "1991"
+      }
+    ]
+  }
+}

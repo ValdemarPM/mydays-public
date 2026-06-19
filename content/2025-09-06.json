@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-06",
+  "es": {
+    "saints": [
+      {
+        "name": "San Eleuterio de Nicomedia",
+        "type": "Mártir",
+        "description": "Joven mártir del siglo III que fue ejecutado en Nicomedia junto con 200 soldados convertidos al cristianismo al presenciar sus milagros. Su martirio ocurrió durante la persecución de Diocleciano."
+      },
+      {
+        "name": "Santa Bega",
+        "type": "Virgen",
+        "description": "Princesa irlandesa del siglo VII que huyó de un matrimonio forzado para consagrar su vida a Dios. Se refugió en Cumberland (Inglaterra), donde fundó un monasterio y vivió como ermitaña."
+      },
+      {
+        "name": "San Zacarías el Profeta",
+        "type": "Profeta",
+        "description": "Profeta hebreo del Antiguo Testamento, undécimo de los doce profetas menores, cuyo libro recoge visiones sobre la restauración de Jerusalén y la llegada del Mesías."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de Swazilandia — Eswatini",
+        "description": "Eswatini (antiguo Swazilandia) celebra su Día de la Independencia, conmemorando la independencia del Reino de Swazilandia del Reino Unido el 6 de septiembre de 1968."
+      },
+      {
+        "name": "Día Nacional de Pakistán — Defensa de Pakistán",
+        "description": "Pakistán conmemora el Día de la Defensa, que recuerda la resistencia pakistaní durante la guerra indo-pakistaní de 1965, considerada un momento clave en la historia militar del país."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El conocimiento es poder.",
+      "author": "Francis Bacon",
+      "context": "El filósofo y estadista inglés, nacido el 22 de enero de 1561, formuló esta máxima en su obra Meditationes Sacrae (1597), que se convirtió en uno de los principios rectores de la ciencia moderna y la Ilustración."
+    },
+    "motivationalQuote": {
+      "text": "La vida no se mide por las veces que respiramos, sino por los momentos que nos quitan el aliento.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "John Dalton",
+        "description": "Químico y físico inglés que desarrolló la teoría atómica moderna (1808), base de toda la química contemporánea. También fue el primero en describir científicamente el daltonismo, del que él mismo era afectado.",
+        "year": 1766
+      },
+      {
+        "name": "Idris Elba",
+        "description": "Actor, músico y DJ británico de origen ghanés-sierra-leonés, conocido por sus papeles en The Wire (2002–2004), Luther (2010–2019) y Thor (2011). Considerado uno de los actores más versátiles de su generación.",
+        "year": 1972
+      },
+      {
+        "name": "Roger Waters",
+        "description": "Músico, compositor y letrista británico, co-fundador de Pink Floyd y cerebro creativo detrás de álbumes icónicos como The Dark Side of the Moon (1973), Wish You Were Here (1975) y The Wall (1979).",
+        "year": 1943
+      }
+    ],
+    "events": [
+      {
+        "title": "Assassinato do presidente de Estados Unidos William McKinley",
+        "description": "El presidente William McKinley fue herido de dos balazos en Buffalo (Nueva York) por el anarquista Leon Czolgosz. Murió ocho días después, el 14 de septiembre de 1901.",
+        "year": 1901
+      },
+      {
+        "title": "El Mayflower parte de Plymouth",
+        "description": "El barco Mayflower zarpó de Plymouth (Inglaterra) con 102 peregrinos puritanos rumbo al Nuevo Mundo, fundando la colonia de Plymouth en lo que hoy es Massachusetts.",
+        "year": 1620
+      },
+      {
+        "title": "Bulgaria declara su independencia del Imperio Otomano",
+        "description": "El Principado de Bulgaria proclamó su independencia total del Imperio Otomano, convirtiéndose en el Zariato de Bulgaria con Fernando I como soberano.",
+        "year": 1908
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Eleutherius of Nicomedia",
+        "type": "Martyr",
+        "description": "A young 3rd-century martyr who was executed in Nicomedia along with 200 soldiers converted to Christianity upon witnessing his miracles. His martyrdom occurred during the Diocletian persecution."
+      },
+      {
+        "name": "Saint Bega",
+        "type": "Virgin",
+        "description": "A 7th-century Irish princess who fled a forced marriage to consecrate her life to God. She took refuge in Cumberland (England), where she founded a monastery and lived as a hermit."
+      },
+      {
+        "name": "Saint Zechariah the Prophet",
+        "type": "Prophet",
+        "description": "A Hebrew prophet of the Old Testament, the eleventh of the twelve minor prophets, whose book contains visions about the restoration of Jerusalem and the coming of the Messiah."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Eswatini Independence Day",
+        "description": "Eswatini (formerly Swaziland) celebrates its Independence Day, commemorating the independence of the Kingdom of Swaziland from the United Kingdom on 6 September 1968."
+      },
+      {
+        "name": "Pakistan Defence Day",
+        "description": "Pakistan commemorates Defence Day, recalling the Pakistani resistance during the Indo-Pakistani War of 1965, considered a key moment in the country's military history."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Knowledge is power.",
+      "author": "Francis Bacon",
+      "context": "The English philosopher and statesman, born on 22 January 1561, formulated this maxim in his work Meditationes Sacrae (1597), which became one of the guiding principles of modern science and the Enlightenment."
+    },
+    "motivationalQuote": {
+      "text": "Life is not measured by the number of breaths we take, but by the moments that take our breath away.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "John Dalton",
+        "description": "English chemist and physicist who developed the modern atomic theory (1808), the basis of all contemporary chemistry. He was also the first to describe colour blindness scientifically — a condition he himself had.",
+        "year": 1766
+      },
+      {
+        "name": "Idris Elba",
+        "description": "British actor, musician, and DJ of Ghanaian-Sierra Leonean origin, known for his roles in The Wire (2002–2004), Luther (2010–2019), and Thor (2011). Considered one of the most versatile actors of his generation.",
+        "year": 1972
+      },
+      {
+        "name": "Roger Waters",
+        "description": "British musician, composer, and lyricist, co-founder of Pink Floyd and the creative mind behind iconic albums such as The Dark Side of the Moon (1973), Wish You Were Here (1975), and The Wall (1979).",
+        "year": 1943
+      }
+    ],
+    "events": [
+      {
+        "title": "Assassination of US President William McKinley",
+        "description": "President William McKinley was shot twice in Buffalo, New York, by anarchist Leon Czolgosz. He died eight days later, on 14 September 1901.",
+        "year": 1901
+      },
+      {
+        "title": "The Mayflower departs from Plymouth",
+        "description": "The ship Mayflower set sail from Plymouth, England, with 102 Puritan pilgrims bound for the New World, eventually founding Plymouth Colony in present-day Massachusetts.",
+        "year": 1620
+      },
+      {
+        "title": "Bulgaria declares independence from the Ottoman Empire",
+        "description": "The Principality of Bulgaria proclaimed full independence from the Ottoman Empire, becoming the Tsardom of Bulgaria with Ferdinand I as sovereign.",
+        "year": 1908
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Eleutério de Nicomédia",
+        "type": "Mártir",
+        "description": "Jovem mártir do século III que foi executado em Nicomédia juntamente com 200 soldados convertidos ao cristianismo ao presenciar os seus milagres. O seu martírio ocorreu durante a perseguição de Diocleciano."
+      },
+      {
+        "name": "Santa Bega",
+        "type": "Virgem",
+        "description": "Princesa irlandesa do século VII que fugiu de um casamento forçado para consagrar a sua vida a Deus. Refugiou-se em Cumberland (Inglaterra), onde fundou um mosteiro e viveu como eremita."
+      },
+      {
+        "name": "São Zacarias o Profeta",
+        "type": "Profeta",
+        "description": "Profeta hebreu do Antigo Testamento, décimo primeiro dos doze profetas menores, cujo livro contém visões sobre a restauração de Jerusalém e a vinda do Messias."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência do Eswatini",
+        "description": "O Eswatini (antigo Suazilândia) celebra o seu Dia da Independência, comemorando a independência do Reino da Suazilândia do Reino Unido em 6 de setembro de 1968."
+      },
+      {
+        "name": "Dia da Defesa do Paquistão",
+        "description": "O Paquistão comemora o Dia da Defesa, lembrando a resistência paquistanesa durante a guerra indo-paquistanesa de 1965, considerada um momento chave na história militar do país."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Conhecimento é poder.",
+      "author": "Francis Bacon",
+      "context": "O filósofo e estadista inglês, nascido a 22 de janeiro de 1561, formulou esta máxima na sua obra Meditationes Sacrae (1597), que se tornou um dos princípios norteadores da ciência moderna e do Iluminismo."
+    },
+    "motivationalQuote": {
+      "text": "A vida não se mede pelo número de respirações que damos, mas pelos momentos que nos tiram o fôlego.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "John Dalton",
+        "description": "Químico e físico inglês que desenvolveu a teoria atómica moderna (1808), base de toda a química contemporânea. Foi também o primeiro a descrever cientificamente o daltonismo, do qual ele próprio era portador.",
+        "year": 1766
+      },
+      {
+        "name": "Idris Elba",
+        "description": "Ator, músico e DJ britânico de origem ganesa-serra-leonesa, conhecido pelos seus papéis em The Wire (2002–2004), Luther (2010–2019) e Thor (2011). Considerado um dos atores mais versáteis da sua geração.",
+        "year": 1972
+      },
+      {
+        "name": "Roger Waters",
+        "description": "Músico, compositor e letrista britânico, co-fundador dos Pink Floyd e mente criativa por trás de álbuns icônicos como The Dark Side of the Moon (1973), Wish You Were Here (1975) e The Wall (1979).",
+        "year": 1943
+      }
+    ],
+    "events": [
+      {
+        "title": "Assassinato do presidente americano William McKinley",
+        "description": "O presidente William McKinley foi baleado duas vezes em Buffalo, Nova Iorque, pelo anarquista Leon Czolgosz. Morreu oito dias depois, em 14 de setembro de 1901.",
+        "year": 1901
+      },
+      {
+        "title": "O Mayflower parte de Plymouth",
+        "description": "O navio Mayflower partiu de Plymouth, em Inglaterra, com 102 peregrinos puritanos rumo ao Novo Mundo, fundando a colónia de Plymouth no atual Massachusetts.",
+        "year": 1620
+      },
+      {
+        "title": "A Bulgária declara independência do Império Otomano",
+        "description": "O Principado da Bulgária proclamou a independência total do Império Otomano, tornando-se o Czarado da Bulgária com Fernando I como soberano.",
+        "year": 1908
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Eleuteri de Nicomèdia",
+        "type": "Màrtir",
+        "description": "Jove màrtir del segle III que va ser executat a Nicomèdia juntament amb 200 soldats convertits al cristianisme en presenciar els seus miracles. El seu martiri va ocórrer durant la persecució de Dioclecià."
+      },
+      {
+        "name": "Santa Bega",
+        "type": "Verge",
+        "description": "Princesa irlandesa del segle VII que va fugir d'un matrimoni forçat per consagrar la seva vida a Déu. Es va refugiar a Cumberland (Anglaterra), on va fundar un monestir i va viure com a ermitana."
+      },
+      {
+        "name": "Sant Zacaries el Profeta",
+        "type": "Profeta",
+        "description": "Profeta hebreu de l'Antic Testament, onzè dels dotze profetes menors, el llibre del qual recull visions sobre la restauració de Jerusalem i la vinguda del Messies."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència d'Eswatini",
+        "description": "L'Eswatini (antic Swazilàndia) celebra el seu Dia de la Independència, commemorant la independència del Regne de Swazilàndia del Regne Unit el 6 de setembre de 1968."
+      },
+      {
+        "name": "Dia de la Defensa del Pakistan",
+        "description": "El Pakistan commemora el Dia de la Defensa, que recorda la resistència pakistanesa durant la guerra indo-pakistanesa de 1965, considerada un moment clau en la història militar del país."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El coneixement és poder.",
+      "author": "Francis Bacon",
+      "context": "El filòsof i estadista anglès, nascut el 22 de gener de 1561, va formular aquesta màxima a la seva obra Meditationes Sacrae (1597), que es va convertir en un dels principis rectors de la ciència moderna i la Il·lustració."
+    },
+    "motivationalQuote": {
+      "text": "La vida no es mesura pel nombre de vegades que respirem, sinó pels moments que ens deixen sense alè.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "John Dalton",
+        "description": "Químic i físic anglès que va desenvolupar la teoria atòmica moderna (1808), base de tota la química contemporània. També va ser el primer a descriure científicament el daltonisme, del qual ell mateix patia.",
+        "year": 1766
+      },
+      {
+        "name": "Idris Elba",
+        "description": "Actor, músic i DJ britànic d'origen ghanès-sierraleonès, conegut pels seus papers a The Wire (2002–2004), Luther (2010–2019) i Thor (2011). Considerat un dels actors més versàtils de la seva generació.",
+        "year": 1972
+      },
+      {
+        "name": "Roger Waters",
+        "description": "Músic, compositor i lletrista britànic, co-fundador de Pink Floyd i cervell creatiu darrere d'àlbums icònics com The Dark Side of the Moon (1973), Wish You Were Here (1975) i The Wall (1979).",
+        "year": 1943
+      }
+    ],
+    "events": [
+      {
+        "title": "Assassinat del president dels EUA William McKinley",
+        "description": "El president William McKinley va ser ferit de dos trets a Buffalo (Nova York) per l'anarquista Leon Czolgosz. Va morir vuit dies després, el 14 de setembre de 1901.",
+        "year": 1901
+      },
+      {
+        "title": "El Mayflower surt de Plymouth",
+        "description": "El vaixell Mayflower va partir de Plymouth (Anglaterra) amb 102 pelegrins puritans rumb al Nou Món, fundant la colònia de Plymouth a l'actual Massachusetts.",
+        "year": 1620
+      },
+      {
+        "title": "Bulgària declara la independència de l'Imperi Otomà",
+        "description": "El Principat de Bulgària va proclamar la independència total de l'Imperi Otomà, convertint-se en el Tsar de Bulgària amb Ferran I com a sobirà.",
+        "year": 1908
+      }
+    ]
+  }
+}

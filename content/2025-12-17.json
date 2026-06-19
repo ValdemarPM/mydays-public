@@ -1,0 +1,255 @@
+{
+  "date": "2025-12-17",
+  "es": {
+    "saints": [
+      {
+        "name": "San Lázaro de Betania",
+        "type": "Obispo",
+        "description": "Hermano de Marta y María de Betania, amigo entrañable de Jesús, quien lo resucitó según el Evangelio de Juan. Según la tradición, fue el primer obispo de Marsella (Francia)."
+      },
+      {
+        "name": "San Juan de Matha",
+        "type": "Presbítero y Fundador",
+        "description": "Sacerdote francés del siglo XII, cofundador de la Orden de la Santísima Trinidad (Trinitarios) para la redención de los cautivos cristianos en manos de los musulmanes."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional para Acabar con la Violencia contra las Trabajadoras Sexuales",
+        "description": "Jornada internacional que conmemora a las víctimas de violencia en el contexto del trabajo sexual y reclama derechos y protección para las personas más vulnerables."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Dime con quién andas y te diré quién eres.",
+      "author": "Miguel de Cervantes",
+      "context": "Escritor español, autor del Quijote, cuya sabiduría popular sobre la amistad y las relaciones humanas sigue siendo universalmente válida."
+    },
+    "motivationalQuote": {
+      "text": "Cada día es un nuevo comienzo. Tómalo con calma y empieza de nuevo.",
+      "author": "Murray Canfield"
+    },
+    "births": [
+      {
+        "name": "Simon Bolivar",
+        "description": "Estadista, militar y libertador venezolano, conocido como 'El Libertador', que lideró la independencia de Venezuela, Colombia, Ecuador, Perú y Bolivia del dominio español.",
+        "year": 1830
+      },
+      {
+        "name": "Milla Jovovich",
+        "description": "Actriz y modelo ucraniana-estadounidense, conocida internacionalmente por su papel de Alice en la saga de películas Resident Evil.",
+        "year": 1975
+      },
+      {
+        "name": "Pope Francis (Jorge Mario Bergoglio)",
+        "description": "Cardenal argentino elegido en 2013 como 266.º Papa de la Iglesia Católica con el nombre de Francisco, primer pontífice americano y jesuita de la historia.",
+        "year": 1936
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer vuelo a motor de los hermanos Wright",
+        "description": "Orville y Wilbur Wright realizaron en Kitty Hawk (Carolina del Norte) los primeros vuelos a motor de la historia, el más largo de los cuales duró 59 segundos y recorrió 260 metros.",
+        "year": 1903
+      },
+      {
+        "title": "EEUU y Cuba restablecen relaciones diplomáticas",
+        "description": "Los presidentes Barack Obama y Raúl Castro anunciaron el restablecimiento de las relaciones diplomáticas entre Estados Unidos y Cuba, suspendidas desde 1961.",
+        "year": 2014
+      },
+      {
+        "title": "Inicio del juicio de Sócrates",
+        "description": "El filósofo ateniense Sócrates fue juzgado en Atenas por impiedad y corrupción de la juventud, siendo condenado a muerte y bebiendo la cicuta.",
+        "year": -399
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Lazarus of Bethany",
+        "type": "Bishop",
+        "description": "Brother of Martha and Mary of Bethany, close friend of Jesus who raised him from the dead according to the Gospel of John. According to tradition, he was the first bishop of Marseille (France)."
+      },
+      {
+        "name": "Saint John of Matha",
+        "type": "Priest and Founder",
+        "description": "French priest of the 12th century, co-founder of the Order of the Most Holy Trinity (Trinitarians) for the ransom of Christian captives held by Muslims."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day to End Violence Against Sex Workers",
+        "description": "International day commemorating victims of violence in the context of sex work and calling for rights and protection for the most vulnerable people."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Tell me who your friends are, and I will tell you who you are.",
+      "author": "Miguel de Cervantes",
+      "context": "Spanish writer, author of Don Quixote, whose popular wisdom about friendship and human relationships remains universally valid."
+    },
+    "motivationalQuote": {
+      "text": "Every day is a fresh beginning. Take it easy and start again.",
+      "author": "Murray Canfield"
+    },
+    "births": [
+      {
+        "name": "Simón Bolívar",
+        "description": "Venezuelan statesman, military leader, and liberator, known as 'El Libertador', who led the independence of Venezuela, Colombia, Ecuador, Peru, and Bolivia from Spanish rule.",
+        "year": 1830
+      },
+      {
+        "name": "Milla Jovovich",
+        "description": "Ukrainian-American actress and model, known internationally for her role as Alice in the Resident Evil film series.",
+        "year": 1975
+      },
+      {
+        "name": "Pope Francis (Jorge Mario Bergoglio)",
+        "description": "Argentine cardinal elected in 2013 as the 266th Pope of the Catholic Church under the name Francis, the first American and Jesuit pontiff in history.",
+        "year": 1936
+      }
+    ],
+    "events": [
+      {
+        "title": "First powered flight by the Wright Brothers",
+        "description": "Orville and Wilbur Wright made the first powered flights in history at Kitty Hawk, North Carolina, the longest of which lasted 59 seconds and covered 260 metres.",
+        "year": 1903
+      },
+      {
+        "title": "US and Cuba restore diplomatic relations",
+        "description": "Presidents Barack Obama and Raúl Castro announced the restoration of diplomatic relations between the United States and Cuba, suspended since 1961.",
+        "year": 2014
+      },
+      {
+        "title": "Trial of Socrates begins",
+        "description": "The Athenian philosopher Socrates was tried in Athens for impiety and corruption of youth, and was sentenced to death by drinking hemlock.",
+        "year": -399
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Lázaro de Betânia",
+        "type": "Bispo",
+        "description": "Irmão de Marta e Maria de Betânia, amigo íntimo de Jesus que o ressuscitou segundo o Evangelho de João. Segundo a tradição, foi o primeiro bispo de Marselha (França)."
+      },
+      {
+        "name": "São João de Mata",
+        "type": "Presbítero e Fundador",
+        "description": "Sacerdote francês do século XII, cofundador da Ordem da Santíssima Trindade (Trinitários) para o resgate dos cativos cristãos em mãos dos muçulmanos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional para Acabar com a Violência contra Trabalhadoras Sexuais",
+        "description": "Jornada internacional que comemora as vítimas de violência no contexto do trabalho sexual e reclama direitos e proteção para as pessoas mais vulneráveis."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Diz-me com quem andas e dir-te-ei quem és.",
+      "author": "Miguel de Cervantes",
+      "context": "Escritor espanhol, autor de Dom Quixote, cuja sabedoria popular sobre a amizade e as relações humanas continua universalmente válida."
+    },
+    "motivationalQuote": {
+      "text": "Cada dia é um novo começo. Vai com calma e recomeça.",
+      "author": "Murray Canfield"
+    },
+    "births": [
+      {
+        "name": "Simón Bolívar",
+        "description": "Estadista, militar e libertador venezuelano, conhecido como 'O Libertador', que liderou a independência da Venezuela, Colômbia, Equador, Peru e Bolívia do domínio espanhol.",
+        "year": 1830
+      },
+      {
+        "name": "Milla Jovovich",
+        "description": "Atriz e modelo ucraniana-americana, conhecida internacionalmente pelo papel de Alice na saga de filmes Resident Evil.",
+        "year": 1975
+      },
+      {
+        "name": "Papa Francisco (Jorge Mario Bergoglio)",
+        "description": "Cardeal argentino eleito em 2013 como 266.º Papa da Igreja Católica com o nome de Francisco, o primeiro pontífice americano e jesuíta da história.",
+        "year": 1936
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeiro voo a motor dos irmãos Wright",
+        "description": "Orville e Wilbur Wright realizaram em Kitty Hawk (Carolina do Norte) os primeiros voos a motor da história, o mais longo dos quais durou 59 segundos e percorreu 260 metros.",
+        "year": 1903
+      },
+      {
+        "title": "EUA e Cuba restabelecem relações diplomáticas",
+        "description": "Os presidentes Barack Obama e Raúl Castro anunciaram o restabelecimento das relações diplomáticas entre os Estados Unidos e Cuba, suspensas desde 1961.",
+        "year": 2014
+      },
+      {
+        "title": "Julgamento de Sócrates",
+        "description": "O filósofo ateniense Sócrates foi julgado em Atenas por impiedade e corrupção da juventude, sendo condenado à morte e obrigado a beber cicuta.",
+        "year": -399
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Llàtzer de Betània",
+        "type": "Bisbe",
+        "description": "Germà de Marta i Maria de Betània, amic íntim de Jesús que el va ressuscitar segons l'Evangeli de Joan. Segons la tradició, va ser el primer bisbe de Marsella (França)."
+      },
+      {
+        "name": "Sant Joan de Mata",
+        "type": "Prevere i Fundador",
+        "description": "Sacerdot francès del segle XII, cofundador de l'Orde de la Santíssima Trinitat (Trinitaris) per al rescat dels captius cristians en mans dels musulmans."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional per Acabar amb la Violència contra les Treballadores Sexuals",
+        "description": "Jornada internacional que commemora les víctimes de violència en el context del treball sexual i reclama drets i protecció per a les persones més vulnerables."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Digues-me amb qui vas i et diré qui ets.",
+      "author": "Miguel de Cervantes",
+      "context": "Escriptor espanyol, autor del Quixot, la saviesa popular del qual sobre l'amistat i les relacions humanes continua essent universalment vàlida."
+    },
+    "motivationalQuote": {
+      "text": "Cada dia és un nou començament. Ves amb calma i torna a començar.",
+      "author": "Murray Canfield"
+    },
+    "births": [
+      {
+        "name": "Simón Bolívar",
+        "description": "Estadista, militar i lliberador veneçolà, conegut com 'El Libertador', que va liderar la independència de Veneçuela, Colòmbia, Equador, Perú i Bolívia del domini espanyol.",
+        "year": 1830
+      },
+      {
+        "name": "Milla Jovovich",
+        "description": "Actriu i model ucraïnesa-nord-americana, coneguda internacionalment pel paper d'Alice a la saga de pel·lícules Resident Evil.",
+        "year": 1975
+      },
+      {
+        "name": "Papa Francesc (Jorge Mario Bergoglio)",
+        "description": "Cardenal argentí elegit el 2013 com a 266è Papa de l'Església Catòlica amb el nom de Francesc, el primer pontífex americà i jesuïta de la història.",
+        "year": 1936
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer vol a motor dels germans Wright",
+        "description": "Orville i Wilbur Wright van realitzar a Kitty Hawk (Carolina del Nord) els primers vols a motor de la història, el més llarg dels quals va durar 59 segons i va recórrer 260 metres.",
+        "year": 1903
+      },
+      {
+        "title": "EUA i Cuba restableixen relacions diplomàtiques",
+        "description": "Els presidents Barack Obama i Raúl Castro van anunciar el restabliment de les relacions diplomàtiques entre els Estats Units i Cuba, suspeses des del 1961.",
+        "year": 2014
+      },
+      {
+        "title": "Judici de Sòcrates",
+        "description": "El filòsof atenenc Sòcrates va ser jutjat a Atenes per impietetat i corrupció de la joventut, essent condemnat a mort i obligat a beure la cicuta.",
+        "year": -399
+      }
+    ]
+  }
+}

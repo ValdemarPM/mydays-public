@@ -1,0 +1,291 @@
+{
+  "date": "2026-04-17",
+  "es": {
+    "saints": [
+      {
+        "name": "San Aniceto",
+        "type": "Papa y Mártir",
+        "description": "Papa sirio del siglo II, décimo sucesor de San Pedro. Durante su pontificado visitó Roma San Policarpo de Esmirna, con quien dialogó sobre la fecha de la Pascua. Fue venerado como mártir, aunque no hay certeza histórica de su martirio. Presidió la Iglesia de Roma en un período de florecimiento del pensamiento cristiano."
+      },
+      {
+        "name": "San Roberto de Molesme",
+        "type": "Abad",
+        "description": "Monje benedictino francés del siglo XI, fundador de la Abadía de Cîteaux (1098) junto a San Alberico y San Esteban Harding, dando origen a la Orden Cisterciense. Más conocida por su discípulo San Bernardo de Claraval, la reforma cisterciense fue uno de los movimientos monásticos más influyentes de la Edad Media."
+      },
+      {
+        "name": "Santa Catalina de Génova",
+        "type": "Penitente",
+        "description": "Mística genovesa del siglo XV, conocida por su intensa vida espiritual y su obra caritativa en los hospitales de Génova durante la epidemia de 1493. Sus escritos sobre el Purgatorio y el amor divino la convierten en una de las más profundas teólogas místicas del período medieval tardío."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Afiliación Sindical",
+        "description": "En varios países se conmemoran este día los derechos laborales y la importancia de la organización sindical como motor de conquistas sociales como el salario mínimo, las vacaciones pagadas y la jornada de ocho horas."
+      },
+      {
+        "name": "Día del Libro (Cataluña, Sant Jordi)",
+        "description": "Aunque Sant Jordi se celebra el 23 de abril, algunas comunidades comenzaban la semana del libro con actos especiales el 17. Esta semana es especialmente vibrante en Barcelona y toda Cataluña, con rosas y libros como símbolos del amor y la cultura."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Ningún hombre es una isla, entera en sí misma; cada hombre es un pedazo del continente.",
+      "author": "John Donne",
+      "context": "John Donne, poeta y sacerdote inglés del siglo XVII, nació alrededor de 1572 y murió el 31 de marzo de 1631. Esta célebre meditación procede de sus 'Devotions upon Emergent Occasions' (1624) y sigue siendo una de las reflexiones más citadas sobre la interdependencia humana."
+    },
+    "motivationalQuote": {
+      "text": "La diferencia entre lo posible y lo imposible se encuentra en la determinación de cada persona.",
+      "author": "Tommy Lasorda"
+    },
+    "births": [
+      {
+        "name": "Nikita Jruschov",
+        "description": "Político soviético que lideró la Unión Soviética tras la muerte de Stalin (1953-1964). Impulsó la desestalinización, el 'deshielo' cultural y la coexistencia pacífica con Occidente. Protagonizó la Crisis de los Misiles de Cuba (1962) y fue el primer dirigente soviético en visitar los Estados Unidos.",
+        "year": "1894"
+      },
+      {
+        "name": "Victoria Beckham",
+        "description": "Cantante y diseñadora de moda británica, conocida como 'Posh Spice' en el grupo Spice Girls (1994-2000). Casada con el futbolista David Beckham, ha construido una exitosa carrera como diseñadora de moda, con su propia marca homónima de alta costura reconocida internacionalmente.",
+        "year": "1974"
+      },
+      {
+        "name": "Thornton Wilder",
+        "description": "Novelista y dramaturgo estadounidense, ganador de tres Premios Pulitzer: por su novela 'El puente de San Luis Rey' (1928) y sus obras de teatro 'Our Town' (1938) y 'La piel de nuestros dientes' (1942). Exploró en su obra los temas del tiempo, la memoria y el significado de la existencia cotidiana.",
+        "year": "1897"
+      }
+    ],
+    "events": [
+      {
+        "title": "Invasión de Bahía de Cochinos (Cuba)",
+        "description": "Comenzó la invasión de Cuba por parte de exiliados cubanos entrenados y apoyados por la CIA, con la intención de derrocar al gobierno de Fidel Castro. La operación fracasó en tres días y supuso un grave revés para la administración Kennedy y para el prestigio internacional de EE.UU.",
+        "year": "1961"
+      },
+      {
+        "title": "Independencia de Siria",
+        "description": "Francia retiró sus tropas de Siria, que se convirtió en una república independiente tras años de mandato francés. El 17 de abril se celebra como Día de la Evacuación, la fecha de independencia nacional de Siria.",
+        "year": "1946"
+      },
+      {
+        "title": "Fundación de la Ciudad de Veracruz",
+        "description": "Hernán Cortés fundó Villa Rica de la Vera Cruz, el primer ayuntamiento español en el continente americano, en la costa del Golfo de México, iniciando la conquista del Imperio Azteca.",
+        "year": "1519"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Anicetus",
+        "type": "Pope and Martyr",
+        "description": "A 2nd-century Syrian pope, the tenth successor of Saint Peter. During his pontificate, Saint Polycarp of Smyrna visited Rome, with whom he discussed the date of Easter. He was venerated as a martyr, though there is no historical certainty of his martyrdom. He presided over the Church of Rome during a period of flourishing Christian thought."
+      },
+      {
+        "name": "Saint Robert of Molesme",
+        "type": "Abbot",
+        "description": "An 11th-century French Benedictine monk, founder of the Abbey of Cîteaux (1098) together with Saints Alberic and Stephen Harding, giving rise to the Cistercian Order. Better known through his disciple Saint Bernard of Clairvaux, the Cistercian reform was one of the most influential monastic movements of the Middle Ages."
+      },
+      {
+        "name": "Saint Catherine of Genoa",
+        "type": "Penitent",
+        "description": "A 15th-century Genoese mystic, known for her intense spiritual life and her charitable work in the hospitals of Genoa during the epidemic of 1493. Her writings on Purgatory and divine love make her one of the most profound mystical theologians of the late medieval period."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Trade Union Membership Day",
+        "description": "In several countries this day marks labour rights and the importance of trade union organisation as a driver of social gains such as the minimum wage, paid holidays, and the eight-hour working day."
+      },
+      {
+        "name": "Book Week (Catalonia, Sant Jordi season)",
+        "description": "Although Sant Jordi is celebrated on 23 April, some communities begin the week of the book with special events on the 17th. This week is particularly vibrant in Barcelona and throughout Catalonia, with roses and books as symbols of love and culture."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No man is an island, entire of itself; every man is a piece of the continent.",
+      "author": "John Donne",
+      "context": "John Donne, English poet and priest of the 17th century, was born around 1572 and died on 31 March 1631. This famous meditation comes from his 'Devotions upon Emergent Occasions' (1624) and remains one of the most quoted reflections on human interdependence."
+    },
+    "motivationalQuote": {
+      "text": "The difference between the possible and the impossible lies in a person's determination.",
+      "author": "Tommy Lasorda"
+    },
+    "births": [
+      {
+        "name": "Nikita Khrushchev",
+        "description": "Soviet politician who led the Soviet Union after Stalin's death (1953–1964). He spearheaded de-Stalinisation, the cultural 'Thaw', and peaceful coexistence with the West. He was a protagonist of the Cuban Missile Crisis (1962) and the first Soviet leader to visit the United States.",
+        "year": "1894"
+      },
+      {
+        "name": "Victoria Beckham",
+        "description": "British singer and fashion designer, known as 'Posh Spice' in the Spice Girls (1994–2000). Married to footballer David Beckham, she has built a successful career as a fashion designer, with her own internationally recognised haute couture brand.",
+        "year": "1974"
+      },
+      {
+        "name": "Thornton Wilder",
+        "description": "American novelist and playwright, winner of three Pulitzer Prizes: for his novel 'The Bridge of San Luis Rey' (1928) and his plays 'Our Town' (1938) and 'The Skin of Our Teeth' (1942). His work explored the themes of time, memory, and the meaning of everyday existence.",
+        "year": "1897"
+      }
+    ],
+    "events": [
+      {
+        "title": "Bay of Pigs Invasion (Cuba)",
+        "description": "The invasion of Cuba by CIA-trained and supported Cuban exiles began, with the aim of overthrowing Fidel Castro's government. The operation failed within three days and was a serious setback for the Kennedy administration and for US international prestige.",
+        "year": "1961"
+      },
+      {
+        "title": "Syrian Independence",
+        "description": "France withdrew its troops from Syria, which became an independent republic after years of French mandate. 17 April is celebrated as Evacuation Day, Syria's national day of independence.",
+        "year": "1946"
+      },
+      {
+        "title": "Foundation of Veracruz",
+        "description": "Hernán Cortés founded Villa Rica de la Vera Cruz, the first Spanish municipality in the American continent, on the Gulf of Mexico coast, beginning the conquest of the Aztec Empire.",
+        "year": "1519"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Aniceto",
+        "type": "Papa e Mártir",
+        "description": "Papa sírio do século II, décimo sucessor de São Pedro. Durante o seu pontificado visitou Roma São Policarpo de Esmirna, com quem dialogou sobre a data da Páscoa. Foi venerado como mártir, embora não haja certeza histórica do seu martírio. Presidiu a Igreja de Roma num período de florescimento do pensamento cristão."
+      },
+      {
+        "name": "São Roberto de Molesme",
+        "type": "Abade",
+        "description": "Monge beneditino francês do século XI, fundador da Abadia de Cîteaux (1098) juntamente com São Alberico e São Estêvão Harding, dando origem à Ordem Cisterciense. Mais conhecida pelo seu discípulo São Bernardo de Claraval, a reforma cisterciense foi um dos movimentos monásticos mais influentes da Idade Média."
+      },
+      {
+        "name": "Santa Catarina de Génova",
+        "type": "Penitente",
+        "description": "Mística genovesa do século XV, conhecida pela sua intensa vida espiritual e pela sua obra caritativa nos hospitais de Génova durante a epidemia de 1493. Os seus escritos sobre o Purgatório e o amor divino tornam-na uma das mais profundas teólogas místicas do período medieval tardio."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Filiação Sindical",
+        "description": "Em vários países comemora-se neste dia os direitos laborais e a importância da organização sindical como motor de conquistas sociais como o salário mínimo, as férias pagas e a jornada de oito horas."
+      },
+      {
+        "name": "Semana do Livro (Catalunha, época de Sant Jordi)",
+        "description": "Embora Sant Jordi se celebre a 23 de abril, algumas comunidades iniciam a semana do livro com atos especiais a partir do dia 17. Esta semana é especialmente vibrante em Barcelona e toda a Catalunha, com rosas e livros como símbolos do amor e da cultura."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nenhum homem é uma ilha, inteiro em si mesmo; cada homem é um pedaço do continente.",
+      "author": "John Donne",
+      "context": "John Donne, poeta e sacerdote inglês do século XVII, nasceu por volta de 1572 e morreu em 31 de março de 1631. Esta célebre meditação provém das suas 'Devotions upon Emergent Occasions' (1624) e continua a ser uma das reflexões mais citadas sobre a interdependência humana."
+    },
+    "motivationalQuote": {
+      "text": "A diferença entre o possível e o impossível encontra-se na determinação de cada pessoa.",
+      "author": "Tommy Lasorda"
+    },
+    "births": [
+      {
+        "name": "Nikita Khrushchev",
+        "description": "Político soviético que liderou a União Soviética após a morte de Estaline (1953-1964). Impulsionou a desestalinização, o 'degelo' cultural e a coexistência pacífica com o Ocidente. Foi protagonista da Crise dos Mísseis de Cuba (1962) e o primeiro dirigente soviético a visitar os Estados Unidos.",
+        "year": "1894"
+      },
+      {
+        "name": "Victoria Beckham",
+        "description": "Cantora e estilista britânica, conhecida como 'Posh Spice' nas Spice Girls (1994-2000). Casada com o futebolista David Beckham, construiu uma carreira de sucesso como estilista, com a sua própria marca homónima de alta costura reconhecida internacionalmente.",
+        "year": "1974"
+      },
+      {
+        "name": "Thornton Wilder",
+        "description": "Romancista e dramaturgo americano, vencedor de três Prémios Pulitzer: pelo seu romance 'A Ponte de San Luis Rey' (1928) e pelas suas peças 'Our Town' (1938) e 'A Pele dos Nossos Dentes' (1942). Explorou na sua obra os temas do tempo, da memória e do significado da existência quotidiana.",
+        "year": "1897"
+      }
+    ],
+    "events": [
+      {
+        "title": "Invasão da Baía dos Porcos (Cuba)",
+        "description": "Começou a invasão de Cuba por parte de exilados cubanos treinados e apoiados pela CIA, com a intenção de derrubar o governo de Fidel Castro. A operação falhou em três dias e representou um grave revés para a administração Kennedy e para o prestígio internacional dos EUA.",
+        "year": "1961"
+      },
+      {
+        "title": "Independência da Síria",
+        "description": "A França retirou as suas tropas da Síria, que se tornou uma república independente após anos de mandato francês. O 17 de abril é celebrado como Dia da Evacuação, a data de independência nacional da Síria.",
+        "year": "1946"
+      },
+      {
+        "title": "Fundação da cidade de Veracruz",
+        "description": "Hernán Cortés fundou Villa Rica de la Vera Cruz, o primeiro município espanhol no continente americano, na costa do Golfo do México, iniciando a conquista do Império Azteca.",
+        "year": "1519"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Anicet",
+        "type": "Papa i Màrtir",
+        "description": "Papa sirià del segle II, desè successor de Sant Pere. Durant el seu pontificat va visitar Roma Sant Policarp d'Esmirna, amb qui va dialogar sobre la data de la Pasqua. Va ser venerat com a màrtir, tot i que no hi ha certesa històrica del seu martiri. Va presidir l'Església de Roma en un període de floridura del pensament cristià."
+      },
+      {
+        "name": "Sant Robert de Molesme",
+        "type": "Abat",
+        "description": "Monjo benedictí francès del segle XI, fundador de l'Abadia de Cîteaux (1098) juntament amb Sant Alberic i Sant Esteve Harding, donant origen a l'Orde del Cister. Més coneguda pel seu deixeble Sant Bernat de Claravall, la reforma cistercenca va ser un dels moviments monàstics més influents de l'Edat Mitjana."
+      },
+      {
+        "name": "Santa Caterina de Gènova",
+        "type": "Penitent",
+        "description": "Mística genovesa del segle XV, coneguda per la seva intensa vida espiritual i la seva obra caritativa als hospitals de Gènova durant l'epidèmia de 1493. Els seus escrits sobre el Purgatori i l'amor diví la converteixen en una de les teòlogues místiques més profundes del període medieval tardà."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de l'Afiliació Sindical",
+        "description": "En diversos països es commemoren en aquest dia els drets laborals i la importància de l'organització sindical com a motor de conquestes socials com el salari mínim, les vacances pagades i la jornada de vuit hores."
+      },
+      {
+        "name": "Setmana del Llibre (Catalunya, temporada de Sant Jordi)",
+        "description": "Encara que Sant Jordi es celebra el 23 d'abril, algunes comunitats comencen la setmana del llibre amb actes especials a partir del dia 17. Aquesta setmana és especialment vibrant a Barcelona i a tota Catalunya, amb roses i llibres com a símbols de l'amor i la cultura."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Cap home no és una illa, sencera en si mateixa; cada home és un tros del continent.",
+      "author": "John Donne",
+      "context": "John Donne, poeta i sacerdot anglès del segle XVII, va néixer cap al 1572 i va morir el 31 de març de 1631. Aquesta cèlebre meditació prové de les seves 'Devotions upon Emergent Occasions' (1624) i continua sent una de les reflexions més citades sobre la interdependència humana."
+    },
+    "motivationalQuote": {
+      "text": "La diferència entre el possible i l'impossible es troba en la determinació de cadascú.",
+      "author": "Tommy Lasorda"
+    },
+    "births": [
+      {
+        "name": "Nikita Khrusxov",
+        "description": "Polític soviètic que va liderar la Unió Soviètica després de la mort d'Stalin (1953-1964). Va impulsar la desestalinització, el 'desgel' cultural i la coexistència pacífica amb Occident. Va ser protagonista de la Crisi dels Míssils de Cuba (1962) i el primer dirigent soviètic a visitar els Estats Units.",
+        "year": "1894"
+      },
+      {
+        "name": "Victoria Beckham",
+        "description": "Cantant i dissenyadora de moda britànica, coneguda com a 'Posh Spice' a les Spice Girls (1994-2000). Casada amb el futbolista David Beckham, ha construït una carrera reeixida com a dissenyadora de moda, amb la seva pròpia marca homònima d'alta costura reconeguda internacionalment.",
+        "year": "1974"
+      },
+      {
+        "name": "Thornton Wilder",
+        "description": "Novel·lista i dramaturg americà, guanyador de tres Premis Pulitzer: per la seva novel·la 'El pont de San Luis Rey' (1928) i les seves obres de teatre 'Our Town' (1938) i 'La pell dels nostres dents' (1942). Va explorar en la seva obra els temes del temps, la memòria i el significat de l'existència quotidiana.",
+        "year": "1897"
+      }
+    ],
+    "events": [
+      {
+        "title": "Invasió de la Badia dels Porcs (Cuba)",
+        "description": "Va començar la invasió de Cuba per part d'exiliats cubans entrenats i recolzats per la CIA, amb la intenció de derrocar el govern de Fidel Castro. L'operació va fracassar en tres dies i va suposar un greu revés per a l'administració Kennedy i per al prestigi internacional dels EUA.",
+        "year": "1961"
+      },
+      {
+        "title": "Independència de Síria",
+        "description": "França va retirar les seves tropes de Síria, que es va convertir en una república independent després d'anys de mandat francès. El 17 d'abril es celebra com a Dia de l'Evacuació, la data d'independència nacional de Síria.",
+        "year": "1946"
+      },
+      {
+        "title": "Fundació de la ciutat de Veracruz",
+        "description": "Hernán Cortés va fundar Villa Rica de la Vera Cruz, el primer ajuntament espanyol al continent americà, a la costa del Golf de Mèxic, iniciant la conquesta de l'Imperi Asteca.",
+        "year": "1519"
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "date": "2026-01-25",
+  "es": {
+    "saints": [
+      {
+        "name": "Conversión de San Pablo",
+        "type": "Festividad apostólica",
+        "description": "Celebración del momento en que Saulo de Tarso, perseguidor de los cristianos, fue derribado del caballo por una luz cegadora en el camino a Damasco y se convirtió en Pablo, el gran apóstol de los gentiles."
+      },
+      {
+        "name": "Santa Elvira",
+        "type": "Virgen y Mártir",
+        "description": "Mártir hispana de los siglos III-IV, patrona de la ciudad de Granada. Su fiesta se celebra en varias diócesis españolas."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de los Estudiantes (India)",
+        "description": "Varios estados de la India celebran el Día de los Estudiantes en honor a su impulso por el conocimiento, el debate y la participación cívica."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Solo sé que no sé nada.",
+      "author": "Sócrates",
+      "context": "Filósofo griego (469–399 a. C.), considerado uno de los padres de la filosofía occidental. Esta paradójica máxima socrática invita a la humildad intelectual y al cuestionamiento permanente del conocimiento."
+    },
+    "motivationalQuote": {
+      "text": "Hay dos grandes días en la vida de una persona: el día en que nace y el día en que descubre para qué.",
+      "author": "William Barclay"
+    },
+    "births": [
+      {
+        "name": "Robert Burns",
+        "description": "Poeta escocés del siglo XVIII, considerado el poeta nacional de Escocia. Autor de Auld Lang Syne, que se canta en todo el mundo el 31 de diciembre para despedir el año.",
+        "year": 1759
+      },
+      {
+        "name": "Virginia Woolf",
+        "description": "Escritora y ensayista británica, figura central del modernismo literario. Autora de Mrs. Dalloway, Al faro y Una habitación propia, pionera del feminismo en la literatura.",
+        "year": 1882
+      },
+      {
+        "name": "Alicia Keys",
+        "description": "Cantante, compositora y pianista estadounidense, una de las artistas más exitosas de su generación con 15 Grammy, conocida por temas como Fallin' y Empire State of Mind.",
+        "year": 1981
+      }
+    ],
+    "events": [
+      {
+        "title": "Se abre el primer vuelo comercial de Concorde (ruta transatlántica)",
+        "description": "Concorde completó su primer vuelo transatlántico de pasajeros entre Londres y Washington D.C., demostrando la viabilidad del transporte supersónico para viajeros de negocios.",
+        "year": 1976
+      },
+      {
+        "title": "Nace el servicio ferroviario internacional Eurostar",
+        "description": "El tren de alta velocidad Eurostar inauguró su servicio entre Londres y París/Bruselas a través del Túnel del Canal de la Mancha, uniendo Gran Bretaña con el continente europeo.",
+        "year": 1994
+      },
+      {
+        "title": "Accidente nuclear de Chernóbil (aniversario de la evacuación)",
+        "description": "Las autoridades soviéticas comenzaron la evacuación de la ciudad de Prípiat, de 50.000 habitantes, 36 horas después del accidente nuclear del reactor número 4 de la central de Chernóbil.",
+        "year": 1986
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Conversion of Saint Paul",
+        "type": "Apostolic Feast",
+        "description": "Celebration of the moment when Saul of Tarsus, a persecutor of Christians, was struck down by a blinding light on the road to Damascus and became Paul, the great apostle to the Gentiles."
+      },
+      {
+        "name": "Saint Elvira",
+        "type": "Virgin and Martyr",
+        "description": "Hispanic martyr of the 3rd–4th centuries, patron saint of the city of Granada. Her feast is celebrated in several Spanish dioceses."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Students' Day (India)",
+        "description": "Several Indian states celebrate Students' Day to honour the drive of young people for knowledge, debate and civic participation."
+      }
+    ],
+    "historicalQuote": {
+      "text": "I know that I know nothing.",
+      "author": "Socrates",
+      "context": "Greek philosopher (469–399 BC), considered one of the fathers of Western philosophy. This paradoxical Socratic maxim invites intellectual humility and the permanent questioning of knowledge."
+    },
+    "motivationalQuote": {
+      "text": "There are two great days in a person's life: the day we are born and the day we discover why.",
+      "author": "William Barclay"
+    },
+    "births": [
+      {
+        "name": "Robert Burns",
+        "description": "Scottish poet of the 18th century, considered the national poet of Scotland. Author of Auld Lang Syne, sung worldwide on 31 December to bid farewell to the year.",
+        "year": 1759
+      },
+      {
+        "name": "Virginia Woolf",
+        "description": "British writer and essayist, a central figure of literary modernism. Author of Mrs. Dalloway, To the Lighthouse and A Room of One's Own, a pioneer of feminism in literature.",
+        "year": 1882
+      },
+      {
+        "name": "Alicia Keys",
+        "description": "American singer, songwriter and pianist, one of the most successful artists of her generation with 15 Grammy Awards, known for Fallin' and Empire State of Mind.",
+        "year": 1981
+      }
+    ],
+    "events": [
+      {
+        "title": "Concorde's first transatlantic passenger flight",
+        "description": "Concorde completed its first transatlantic passenger flight between London and Washington D.C., demonstrating the viability of supersonic transport for business travellers.",
+        "year": 1976
+      },
+      {
+        "title": "Eurostar inaugurates its service",
+        "description": "The high-speed Eurostar train inaugurated its service between London and Paris/Brussels through the Channel Tunnel, linking Great Britain with continental Europe.",
+        "year": 1994
+      },
+      {
+        "title": "Chernobyl nuclear disaster (evacuation anniversary)",
+        "description": "Soviet authorities began the evacuation of the city of Pripyat, with 50,000 inhabitants, 36 hours after the nuclear accident at reactor number 4 of the Chernobyl power plant.",
+        "year": 1986
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Conversão de São Paulo",
+        "type": "Festividade Apostólica",
+        "description": "Celebração do momento em que Saulo de Tarso, perseguidor dos cristãos, foi derrubado do cavalo por uma luz cegante no caminho a Damasco e se converteu em Paulo, o grande apóstolo dos gentios."
+      },
+      {
+        "name": "Santa Elvira",
+        "type": "Virgem e Mártir",
+        "description": "Mártir hispânica dos séculos III–IV, padroeira da cidade de Granada. Sua festa é celebrada em várias dioceses espanholas."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia dos Estudantes (Índia)",
+        "description": "Vários estados da Índia celebram o Dia dos Estudantes para homenagear o impulso dos jovens pelo conhecimento, debate e participação cívica."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Só sei que nada sei.",
+      "author": "Sócrates",
+      "context": "Filósofo grego (469–399 a.C.), considerado um dos pais da filosofia ocidental. Esta paradoxal máxima socrática convida à humildade intelectual e ao questionamento permanente do conhecimento."
+    },
+    "motivationalQuote": {
+      "text": "Há dois grandes dias na vida de uma pessoa: o dia em que nascemos e o dia em que descobrimos para quê.",
+      "author": "William Barclay"
+    },
+    "births": [
+      {
+        "name": "Robert Burns",
+        "description": "Poeta escocês do século XVIII, considerado o poeta nacional da Escócia. Autor de Auld Lang Syne, cantada em todo o mundo em 31 de dezembro para despedir o ano.",
+        "year": 1759
+      },
+      {
+        "name": "Virginia Woolf",
+        "description": "Escritora e ensaísta britânica, figura central do modernismo literário. Autora de Mrs. Dalloway, Ao Farol e Um Quarto com Vista Própria, pioneira do feminismo na literatura.",
+        "year": 1882
+      },
+      {
+        "name": "Alicia Keys",
+        "description": "Cantora, compositora e pianista americana, uma das artistas mais bem-sucedidas de sua geração com 15 Grammy, conhecida por Fallin' e Empire State of Mind.",
+        "year": 1981
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeiro voo transatlântico de passageiros do Concorde",
+        "description": "O Concorde completou seu primeiro voo transatlântico de passageiros entre Londres e Washington D.C., demonstrando a viabilidade do transporte supersônico para viajantes de negócios.",
+        "year": 1976
+      },
+      {
+        "title": "Eurostar inaugura seu serviço",
+        "description": "O trem de alta velocidade Eurostar inaugurou seu serviço entre Londres e Paris/Bruxelas através do Túnel do Canal da Mancha, unindo a Grã-Bretanha ao continente europeu.",
+        "year": 1994
+      },
+      {
+        "title": "Desastre nuclear de Chernobyl (aniversário da evacuação)",
+        "description": "As autoridades soviéticas começaram a evacuação da cidade de Prypiat, com 50.000 habitantes, 36 horas após o acidente nuclear no reator número 4 da usina de Chernobyl.",
+        "year": 1986
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Conversió de Sant Pau",
+        "type": "Festivitat Apostòlica",
+        "description": "Celebració del moment en què Saule de Tars, perseguidor dels cristians, va ser abatat del cavall per una llum cegadora al camí de Damasc i es va convertir en Pau, el gran apòstol dels gentils."
+      },
+      {
+        "name": "Santa Elvira",
+        "type": "Verge i Màrtir",
+        "description": "Màrtir hispana dels segles III–IV, patrona de la ciutat de Granada. La seva festa se celebra en diverses diòcesis espanyoles."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia dels Estudiants (Índia)",
+        "description": "Diversos estats de l'Índia celebren el Dia dels Estudiants per honorar l'impuls dels joves pel coneixement, el debat i la participació cívica."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Només sé que no sé res.",
+      "author": "Sòcrates",
+      "context": "Filòsof grec (469–399 a. C.), considerat un dels pares de la filosofia occidental. Aquesta paradoxal màxima socràtica convida a la humilitat intel·lectual i al qüestionament permanent del coneixement."
+    },
+    "motivationalQuote": {
+      "text": "Hi ha dos grans dies en la vida d'una persona: el dia que neix i el dia que descobreix per a què.",
+      "author": "William Barclay"
+    },
+    "births": [
+      {
+        "name": "Robert Burns",
+        "description": "Poeta escocès del segle XVIII, considerat el poeta nacional d'Escòcia. Autor d'Auld Lang Syne, cantada arreu del món el 31 de desembre per acomiadar l'any.",
+        "year": 1759
+      },
+      {
+        "name": "Virginia Woolf",
+        "description": "Escriptora i assagista britànica, figura central del modernisme literari. Autora de La senyora Dalloway, Al far i Una habitació pròpia, pionera del feminisme en la literatura.",
+        "year": 1882
+      },
+      {
+        "name": "Alicia Keys",
+        "description": "Cantant, compositora i pianista nord-americana, una de les artistes més exitoses de la seva generació amb 15 Grammy, coneguda per Fallin' i Empire State of Mind.",
+        "year": 1981
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer vol transatlàntic de passatgers del Concorde",
+        "description": "El Concorde va completar el seu primer vol transatlàntic de passatgers entre Londres i Washington D.C., demostrant la viabilitat del transport supersònic per als viatgers de negocis.",
+        "year": 1976
+      },
+      {
+        "title": "L'Eurostar inaugura el seu servei",
+        "description": "El tren d'alta velocitat Eurostar va inaugurar el seu servei entre Londres i París/Brussel·les a través del Túnel del Canal de la Mànega, unint Gran Bretanya amb el continent europeu.",
+        "year": 1994
+      },
+      {
+        "title": "Accident nuclear de Txernòbil (aniversari de l'evacuació)",
+        "description": "Les autoritats soviètiques van iniciar l'evacuació de la ciutat de Prípiat, de 50.000 habitants, 36 hores després de l'accident nuclear al reactor número 4 de la central de Txernòbil.",
+        "year": 1986
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "date": "2026-04-12",
+  "es": {
+    "saints": [
+      {
+        "name": "San Zenón de Verona",
+        "type": "Obispo",
+        "description": "Obispo de Verona en el siglo IV, probablemente de origen africano, conocido por sus sermones catequéticos y su lucha contra el arrianismo. Fue un gran organizador de la iglesia local y un pastor preocupado por la formación moral de sus fieles. Su basílica en Verona es una de las joyas del arte románico italiano."
+      },
+      {
+        "name": "San Julio I",
+        "type": "Papa",
+        "description": "Papa del siglo IV que defendió la ortodoxia nicena frente al arrianismo y protegió a san Atanasio de Alejandría cuando fue depuesto injustamente. Convocó el Concilio de Sárdica (343) para restablecer la paz en la Iglesia. Construyó varias basílicas en Roma, entre ellas Santa María in Trastevere."
+      },
+      {
+        "name": "San Sabas el Godo",
+        "type": "Mártir",
+        "description": "Mártir cristiano godo del siglo IV, ejecutado en el río Musaeus (actual Rumanía) por orden del caudillo godo Atanarico durante una persecución anticristiana. Su martirio está bien documentado en una carta de la Iglesia de la Capadocia. Es patrono de Rumanía."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Cosmonautica (Rusia) / Día Mundial de la Aviación y la Cosmonautica",
+        "description": "Celebrado el 12 de abril en conmemoración del primer vuelo espacial humano, realizado por el cosmonauta soviético Yuri Gagarin en 1961. En 2011 la ONU proclamó el 12 de abril como Día Internacional de los Vuelos Espaciales Humanos."
+      },
+      {
+        "name": "Día de la Tierra (Canadá)",
+        "description": "Algunos países, incluido Canadá, celebran en esta fecha —antes del Día de la Tierra oficial del 22 de abril— actividades de sensibilización medioambiental y acciones de preservación del planeta."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La Tierra es azul. ¡Qué maravillosa! ¡Es asombrosa!",
+      "author": "Yuri Gagarin",
+      "context": "Palabras pronunciadas por el cosmonauta soviético Yuri Gagarin durante su vuelo orbital del 12 de abril de 1961 a bordo de la Vostok 1, convirtiéndose en el primer ser humano en ver la Tierra desde el espacio."
+    },
+    "motivationalQuote": {
+      "text": "El horizonte incita y la voluntad no conoce fronteras.",
+      "author": "Jules Verne"
+    },
+    "births": [
+      {
+        "name": "Herbie Hancock",
+        "description": "Pianista y compositor estadounidense de jazz, figura clave del jazz moderno y del jazz fusion. Colaboró con Miles Davis en el grupo quintet de 1964-1968 y desarrolló una carrera en solitario que fusionó jazz, funk y música electrónica. Ganó varios Grammy y es reconocido como uno de los mejores pianistas del siglo XX.",
+        "year": "1940"
+      },
+      {
+        "name": "David Letterman",
+        "description": "Presentador de televisión y comediante estadounidense, durante décadas el rey del 'late night' americano. Presentó 'Late Night with David Letterman' y 'Late Show with David Letterman' durante más de 33 años, siendo conocido por su humor irónico y sus entrevistas memorables.",
+        "year": "1947"
+      },
+      {
+        "name": "Claire Danes",
+        "description": "Actriz estadounidense, conocida por su papel en la serie de televisión 'Homeland' (Carrie Mathison), por el que ganó tres Emmy. Comenzó su carrera en la televisión con 'Mi llamada vida' (1994) y en el cine con 'Romeo + Juliet' (1996) de Baz Luhrmann.",
+        "year": "1979"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer vuelo espacial humano",
+        "description": "El cosmonauta soviético Yuri Gagarin se convirtió en el primer ser humano en viajar al espacio exterior a bordo de la nave Vostok 1. El vuelo duró 108 minutos y completó una órbita alrededor de la Tierra a una altitud máxima de 327 km. Fue un hito histórico en la carrera espacial.",
+        "year": "1961"
+      },
+      {
+        "title": "Primer vuelo del transbordador espacial Columbia",
+        "description": "El transbordador espacial Columbia realizó su primer vuelo orbital, con los astronautas John Young y Robert Crippen a bordo. Fue la primera misión del programa del transbordador espacial de la NASA, inaugurando una nueva era de vuelos espaciales reutilizables.",
+        "year": "1981"
+      },
+      {
+        "title": "Fin de la Guerra Civil Americana",
+        "description": "El general confederado Joseph E. Johnston firmó la rendición de las últimas fuerzas confederadas importantes ante el general unionista William T. Sherman en Carolina del Norte, poniendo fin definitivo a la Guerra Civil Americana.",
+        "year": "1865"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Zeno of Verona",
+        "type": "Bishop",
+        "description": "A 4th-century Bishop of Verona, probably of African origin, known for his catechetical sermons and his struggle against Arianism. He was a great organiser of the local church and a pastor concerned with the moral formation of his faithful. His basilica in Verona is one of the jewels of Italian Romanesque art."
+      },
+      {
+        "name": "Saint Julius I",
+        "type": "Pope",
+        "description": "A 4th-century pope who defended Nicene orthodoxy against Arianism and protected Saint Athanasius of Alexandria when he was unjustly deposed. He convened the Council of Sardica (343) to restore peace in the Church. He built several basilicas in Rome, including Santa Maria in Trastevere."
+      },
+      {
+        "name": "Saint Saba the Goth",
+        "type": "Martyr",
+        "description": "A 4th-century Gothic Christian martyr, executed in the river Musaeus (present-day Romania) on the orders of the Gothic chieftain Athanaric during an anti-Christian persecution. His martyrdom is well documented in a letter from the Church of Cappadocia. He is the patron saint of Romania."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Cosmonautics Day (Russia) / World Aviation and Cosmonautics Day",
+        "description": "Celebrated on 12 April in commemoration of the first human spaceflight, carried out by Soviet cosmonaut Yuri Gagarin in 1961. In 2011 the UN proclaimed 12 April as the International Day of Human Space Flight."
+      },
+      {
+        "name": "Earth Day (Canada)",
+        "description": "Some countries, including Canada, mark this date — before the official Earth Day on 22 April — with environmental awareness activities and actions to preserve the planet."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The Earth is blue. How wonderful! It is amazing!",
+      "author": "Yuri Gagarin",
+      "context": "Words spoken by Soviet cosmonaut Yuri Gagarin during his orbital flight on 12 April 1961 aboard Vostok 1, becoming the first human being to see the Earth from space."
+    },
+    "motivationalQuote": {
+      "text": "The horizon beckons and the will knows no boundaries.",
+      "author": "Jules Verne"
+    },
+    "births": [
+      {
+        "name": "Herbie Hancock",
+        "description": "American jazz pianist and composer, a key figure in modern jazz and jazz fusion. He collaborated with Miles Davis's 1964–1968 quintet and developed a solo career fusing jazz, funk, and electronic music. He has won multiple Grammys and is recognised as one of the finest pianists of the 20th century.",
+        "year": "1940"
+      },
+      {
+        "name": "David Letterman",
+        "description": "American television presenter and comedian, for decades the king of American late-night television. He hosted 'Late Night with David Letterman' and 'Late Show with David Letterman' for over 33 years, known for his dry wit and memorable interviews.",
+        "year": "1947"
+      },
+      {
+        "name": "Claire Danes",
+        "description": "American actress, best known for her role in the television series 'Homeland' (Carrie Mathison), for which she won three Emmy Awards. She began her career on TV with 'My So-Called Life' (1994) and in film with Baz Luhrmann's 'Romeo + Juliet' (1996).",
+        "year": "1979"
+      }
+    ],
+    "events": [
+      {
+        "title": "First Human Spaceflight",
+        "description": "Soviet cosmonaut Yuri Gagarin became the first human being to travel into outer space aboard the Vostok 1 spacecraft. The flight lasted 108 minutes and completed one orbit around the Earth at a maximum altitude of 327 km. It was a historic milestone in the space race.",
+        "year": "1961"
+      },
+      {
+        "title": "First Flight of the Space Shuttle Columbia",
+        "description": "The Space Shuttle Columbia carried out its first orbital flight, with astronauts John Young and Robert Crippen on board. It was the first mission of the NASA Space Shuttle programme, inaugurating a new era of reusable spaceflight.",
+        "year": "1981"
+      },
+      {
+        "title": "End of the American Civil War",
+        "description": "Confederate General Joseph E. Johnston signed the surrender of the last major Confederate forces to Union General William T. Sherman in North Carolina, bringing a definitive end to the American Civil War.",
+        "year": "1865"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Zenão de Verona",
+        "type": "Bispo",
+        "description": "Bispo de Verona no século IV, provavelmente de origem africana, conhecido pelos seus sermões catequéticos e a sua luta contra o arianismo. Foi um grande organizador da Igreja local e um pastor preocupado com a formação moral dos seus fiéis. A sua basílica em Verona é uma das joias da arte românica italiana."
+      },
+      {
+        "name": "São Júlio I",
+        "type": "Papa",
+        "description": "Papa do século IV que defendeu a ortodoxia nicena face ao arianismo e protegeu São Atanásio de Alexandria quando foi injustamente deposto. Convocou o Concílio de Sárdica (343) para restaurar a paz na Igreja. Construiu várias basílicas em Roma, entre elas Santa Maria em Trastevere."
+      },
+      {
+        "name": "São Sabas o Godo",
+        "type": "Mártir",
+        "description": "Mártir cristão godo do século IV, executado no rio Musaeus (atual Roménia) por ordem do chefe godo Atanarico durante uma perseguição anticristã. O seu martírio está bem documentado numa carta da Igreja da Capadócia. É patrono da Roménia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Cosmonautica (Rússia) / Dia Mundial da Aviação e Cosmonautica",
+        "description": "Celebrado em 12 de abril em comemoração do primeiro voo espacial humano, realizado pelo cosmonauta soviético Yuri Gagarin em 1961. Em 2011 a ONU proclamou o 12 de abril como Dia Internacional dos Voos Espaciais Humanos."
+      },
+      {
+        "name": "Dia da Terra (Canadá)",
+        "description": "Alguns países, incluindo o Canadá, celebram nesta data — antes do Dia da Terra oficial de 22 de abril — atividades de sensibilização ambiental e ações de preservação do planeta."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A Terra é azul. Que maravilha! É deslumbrante!",
+      "author": "Yuri Gagarin",
+      "context": "Palavras pronunciadas pelo cosmonauta soviético Yuri Gagarin durante o seu voo orbital de 12 de abril de 1961 a bordo da Vostok 1, tornando-se o primeiro ser humano a ver a Terra do espaço."
+    },
+    "motivationalQuote": {
+      "text": "O horizonte seduz e a vontade não conhece fronteiras.",
+      "author": "Jules Verne"
+    },
+    "births": [
+      {
+        "name": "Herbie Hancock",
+        "description": "Pianista e compositor americano de jazz, figura chave do jazz moderno e do jazz fusion. Colaborou com Miles Davis no quinteto de 1964-1968 e desenvolveu uma carreira a solo que fundiu jazz, funk e música eletrónica. Ganhou vários Grammy e é reconhecido como um dos melhores pianistas do século XX.",
+        "year": "1940"
+      },
+      {
+        "name": "David Letterman",
+        "description": "Apresentador de televisão e comediante americano, durante décadas o rei do 'late night' americano. Apresentou 'Late Night with David Letterman' e 'Late Show with David Letterman' durante mais de 33 anos, conhecido pelo seu humor irónico e pelas suas entrevistas memoráveis.",
+        "year": "1947"
+      },
+      {
+        "name": "Claire Danes",
+        "description": "Atriz americana, conhecida pelo seu papel na série de televisão 'Homeland' (Carrie Mathison), pelo qual ganhou três Emmy. Começou a sua carreira na televisão com 'A Minha Chamada Vida' (1994) e no cinema com 'Romeu + Julieta' (1996) de Baz Luhrmann.",
+        "year": "1979"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeiro voo espacial humano",
+        "description": "O cosmonauta soviético Yuri Gagarin tornou-se o primeiro ser humano a viajar para o espaço exterior a bordo da nave Vostok 1. O voo durou 108 minutos e completou uma órbita à volta da Terra a uma altitude máxima de 327 km. Foi um marco histórico na corrida espacial.",
+        "year": "1961"
+      },
+      {
+        "title": "Primeiro voo do vaivém espacial Columbia",
+        "description": "O vaivém espacial Columbia realizou o seu primeiro voo orbital, com os astronautas John Young e Robert Crippen a bordo. Foi a primeira missão do programa do vaivém espacial da NASA, inaugurando uma nova era de voos espaciais reutilizáveis.",
+        "year": "1981"
+      },
+      {
+        "title": "Fim da Guerra Civil Americana",
+        "description": "O general confederado Joseph E. Johnston assinou a rendição das últimas forças confederadas importantes perante o general unionista William T. Sherman na Carolina do Norte, pondo fim definitivo à Guerra Civil Americana.",
+        "year": "1865"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Zenó de Verona",
+        "type": "Bisbe",
+        "description": "Bisbe de Verona al segle IV, probablement d'origen africà, conegut pels seus sermons catequètics i la seva lluita contra l'arrianisme. Va ser un gran organitzador de l'Església local i un pastor preocupat per la formació moral dels seus fidels. La seva basílica a Verona és una de les joies de l'art romànic italià."
+      },
+      {
+        "name": "Sant Juli I",
+        "type": "Papa",
+        "description": "Papa del segle IV que va defensar l'ortodòxia nicena davant l'arrianisme i va protegir sant Atanasi d'Alexandria quan va ser destituït injustament. Va convocar el Concili de Sàrdica (343) per restaurar la pau a l'Església. Va construir diverses basíliques a Roma, entre elles Santa Maria in Trastevere."
+      },
+      {
+        "name": "Sant Saba el Got",
+        "type": "Màrtir",
+        "description": "Màrtir cristià got del segle IV, executat al riu Musaeus (actual Romania) per ordre del cabdill got Atanaric durant una persecució anticristiana. El seu martiri està ben documentat en una carta de l'Església de Capadòcia. És patró de Romania."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Cosmonautica (Rússia) / Dia Mundial de l'Aviació i la Cosmonautica",
+        "description": "Celebrat el 12 d'abril en commemoració del primer vol espacial humà, realitzat pel cosmonauta soviètic Iuri Gagarin el 1961. El 2011 l'ONU va proclamar el 12 d'abril com a Dia Internacional dels Vols Espacials Humans."
+      },
+      {
+        "name": "Dia de la Terra (Canadà)",
+        "description": "Alguns països, inclòs el Canadà, celebren en aquesta data —abans del Dia de la Terra oficial del 22 d'abril— activitats de sensibilització mediambiental i accions de preservació del planeta."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La Terra és blava. Quin espectacle! És fascinant!",
+      "author": "Iuri Gagarin",
+      "context": "Paraules pronunciades pel cosmonauta soviètic Iuri Gagarin durant el seu vol orbital del 12 d'abril de 1961 a bord de la Vostok 1, convertint-se en el primer ésser humà a veure la Terra des de l'espai."
+    },
+    "motivationalQuote": {
+      "text": "L'horitzó atrau i la voluntat no coneix fronteres.",
+      "author": "Jules Verne"
+    },
+    "births": [
+      {
+        "name": "Herbie Hancock",
+        "description": "Pianista i compositor americà de jazz, figura clau del jazz modern i del jazz fusion. Va col·laborar amb Miles Davis al quintet de 1964-1968 i va desenvolupar una carrera en solitari que va fusionar jazz, funk i música electrònica. Ha guanyat diversos Grammy i és reconegut com un dels millors pianistes del segle XX.",
+        "year": "1940"
+      },
+      {
+        "name": "David Letterman",
+        "description": "Presentador de televisió i comedian americà, durant dècades el rei del 'late night' americà. Va presentar 'Late Night with David Letterman' i 'Late Show with David Letterman' durant més de 33 anys, conegut pel seu humor irònic i les seves entrevistes memorables.",
+        "year": "1947"
+      },
+      {
+        "name": "Claire Danes",
+        "description": "Actriu americana, coneguda pel seu paper a la sèrie de televisió 'Homeland' (Carrie Mathison), per la qual va guanyar tres Emmy. Va iniciar la seva carrera a la televisió amb 'La meva vida és una bogeria' (1994) i al cinema amb 'Romeu + Julieta' (1996) de Baz Luhrmann.",
+        "year": "1979"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer vol espacial humà",
+        "description": "El cosmonauta soviètic Iuri Gagarin es va convertir en el primer ésser humà a viatjar a l'espai exterior a bord de la nau Vostok 1. El vol va durar 108 minuts i va completar una òrbita al voltant de la Terra a una altitud màxima de 327 km. Va ser una fita històrica en la cursa espacial.",
+        "year": "1961"
+      },
+      {
+        "title": "Primer vol del transbordador espacial Columbia",
+        "description": "El transbordador espacial Columbia va realitzar el seu primer vol orbital, amb els astronautes John Young i Robert Crippen a bord. Va ser la primera missió del programa del transbordador espacial de la NASA, inaugurant una nova era de vols espacials reutilitzables.",
+        "year": "1981"
+      },
+      {
+        "title": "Fi de la Guerra Civil Americana",
+        "description": "El general confederat Joseph E. Johnston va signar la rendició de les darreres forces confederades importants davant el general unionista William T. Sherman a Carolina del Nord, posant fi definitiu a la Guerra Civil Americana.",
+        "year": "1865"
+      }
+    ]
+  }
+}

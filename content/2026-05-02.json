@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-02",
+  "es": {
+    "saints": [
+      {
+        "name": "San Atanasio de Alejandría",
+        "type": "Obispo y Doctor de la Iglesia",
+        "description": "Obispo de Alejandría del siglo IV, defensor incansable de la divinidad de Cristo frente al arrianismo. Exiliado cinco veces por emperadores arrianos, su perseverancia le valió el título de 'Atanasio contra el mundo'. Es Doctor de la Iglesia y pilar del Concilio de Nicea."
+      },
+      {
+        "name": "San Félix de Borgoña",
+        "type": "Mártir",
+        "description": "Mártir cristiano del siglo III que sufrió martirio en la región de Borgoña durante las persecuciones del Imperio Romano. Su devoción fue especialmente importante en la Galia tardorromana."
+      },
+      {
+        "name": "Beata María Catalina Kasper",
+        "type": "Virgen y Fundadora",
+        "description": "Religiosa alemana del siglo XIX que fundó la Congregación de las Pobres Siervas de Jesucristo, dedicada al cuidado de enfermos y pobres en el hogar. Fue beatificada por Juan Pablo II en 1978."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Atún",
+        "description": "Proclamado por la ONU en 2016, este día conciencia sobre la importancia de la conservación del atún en los océanos, una especie clave para los ecosistemas marinos y fuente de sustento para millones de personas."
+      },
+      {
+        "name": "Día Internacional de las Comadronas",
+        "description": "Celebrado cada 5 de mayo por la Alianza Internacional de Comadronas, pero ampliamente conmemorado en torno a estas fechas, reconoce la labor fundamental de las matronas en la salud materna y neonatal en todo el mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La verdad es como el sol: puedes apagarla por un tiempo, pero no por siempre.",
+      "author": "Victor Hugo"
+    },
+    "motivationalQuote": {
+      "text": "Empieza donde estás. Usa lo que tienes. Haz lo que puedas.",
+      "author": "Arthur Ashe"
+    },
+    "births": [
+      {
+        "name": "Catherine the Great",
+        "description": "Emperatriz de Rusia de origen alemán, la gobernante femenina más longeva de la historia rusa. Su reinado (1762–1796) transformó Rusia en una potencia europea moderna, impulsando la ilustración, las artes y la expansión territorial.",
+        "year": "1729"
+      },
+      {
+        "name": "Bianca Jagger",
+        "description": "Activista nicaragüense de derechos humanos y ex esposa de Mick Jagger. Fue embajadora de buena voluntad del Consejo de Europa y defensora de causas medioambientales y contra la pena de muerte.",
+        "year": "1945"
+      },
+      {
+        "name": "Dwayne Johnson",
+        "description": "Actor y luchador profesional estadounidense-canadiense, conocido como 'The Rock'. Uno de los actores mejor pagados de Hollywood, protagonizó sagas como Fast & Furious y Jumanji.",
+        "year": "1972"
+      }
+    ],
+    "events": [
+      {
+        "title": "Muerte de Leonardo da Vinci",
+        "description": "Leonardo da Vinci falleció en el castillo de Clos Lucé, en Amboise (Francia), a los 67 años, bajo el patronazgo del rey Francisco I de Francia. Dejó un legado artístico y científico sin precedentes.",
+        "year": "1519"
+      },
+      {
+        "title": "El RMS Titanic llega a Nueva York (los supervivientes)",
+        "description": "El barco Carpathia llegó al puerto de Nueva York con los 710 supervivientes del naufragio del Titanic, ocurrido el 15 de abril de 1912. La ciudad los recibió entre el duelo y el alivio.",
+        "year": "1912"
+      },
+      {
+        "title": "Primera transmisión de radio en España",
+        "description": "Radio Ibérica realizó la primera transmisión radiofónica pública en España desde Madrid, iniciando una nueva era en la comunicación de masas en el país.",
+        "year": "1924"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Athanasius of Alexandria",
+        "type": "Bishop and Doctor of the Church",
+        "description": "4th-century Bishop of Alexandria, tireless defender of the divinity of Christ against Arianism. Exiled five times by Arian emperors, his perseverance earned him the title 'Athanasius against the world'. He is a Doctor of the Church and a pillar of the Council of Nicaea."
+      },
+      {
+        "name": "Saint Felix of Burgundy",
+        "type": "Martyr",
+        "description": "3rd-century Christian martyr who suffered martyrdom in the Burgundy region during the persecutions of the Roman Empire. His devotion was especially important in late Roman Gaul."
+      },
+      {
+        "name": "Blessed Maria Katharina Kasper",
+        "type": "Virgin and Foundress",
+        "description": "19th-century German nun who founded the Congregation of the Poor Handmaids of Jesus Christ, dedicated to caring for the sick and poor in their homes. She was beatified by John Paul II in 1978."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Tuna Day",
+        "description": "Proclaimed by the UN in 2016, this day raises awareness about the importance of conserving tuna in the oceans, a key species for marine ecosystems and a source of livelihood for millions of people."
+      },
+      {
+        "name": "International Day of the Midwife",
+        "description": "Celebrated on May 5 by the International Confederation of Midwives, but widely commemorated around this time, it recognises the fundamental work of midwives in maternal and neonatal health worldwide."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Truth is like the sun: you can shut it out for a time, but it ain't going away.",
+      "author": "Victor Hugo"
+    },
+    "motivationalQuote": {
+      "text": "Start where you are. Use what you have. Do what you can.",
+      "author": "Arthur Ashe"
+    },
+    "births": [
+      {
+        "name": "Catherine the Great",
+        "description": "Empress of Russia of German origin, the longest-reigning female ruler in Russian history. Her reign (1762–1796) transformed Russia into a modern European power, promoting the Enlightenment, the arts, and territorial expansion.",
+        "year": "1729"
+      },
+      {
+        "name": "Bianca Jagger",
+        "description": "Nicaraguan human rights activist and former wife of Mick Jagger. She served as Goodwill Ambassador for the Council of Europe and has been an advocate for environmental causes and against the death penalty.",
+        "year": "1945"
+      },
+      {
+        "name": "Dwayne Johnson",
+        "description": "American-Canadian actor and professional wrestler, known as 'The Rock'. One of Hollywood's highest-paid actors, he has starred in franchises such as Fast & Furious and Jumanji.",
+        "year": "1972"
+      }
+    ],
+    "events": [
+      {
+        "title": "Death of Leonardo da Vinci",
+        "description": "Leonardo da Vinci died at the Château du Clos Lucé in Amboise, France, at the age of 67, under the patronage of King Francis I of France. He left an unparalleled artistic and scientific legacy.",
+        "year": "1519"
+      },
+      {
+        "title": "RMS Titanic Survivors Arrive in New York",
+        "description": "The ship Carpathia arrived at the port of New York with the 710 survivors of the Titanic shipwreck, which had occurred on 15 April 1912. The city received them amid grief and relief.",
+        "year": "1912"
+      },
+      {
+        "title": "First Radio Broadcast in Spain",
+        "description": "Radio Ibérica made the first public radio broadcast in Spain from Madrid, ushering in a new era of mass communication in the country.",
+        "year": "1924"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Atanásio de Alexandria",
+        "type": "Bispo e Doutor da Igreja",
+        "description": "Bispo de Alexandria do século IV, defensor incansável da divindade de Cristo frente ao arianismo. Exilado cinco vezes por imperadores arianos, sua perseverança lhe valeu o título de 'Atanásio contra o mundo'. É Doutor da Igreja e pilar do Concílio de Niceia."
+      },
+      {
+        "name": "São Félix da Borgonha",
+        "type": "Mártir",
+        "description": "Mártir cristão do século III que sofreu martírio na região da Borgonha durante as perseguições do Império Romano. Sua devoção foi especialmente importante na Gália tardo-romana."
+      },
+      {
+        "name": "Beata Maria Catarina Kasper",
+        "type": "Virgem e Fundadora",
+        "description": "Religiosa alemã do século XIX que fundou a Congregação das Pobres Servas de Jesus Cristo, dedicada ao cuidado de doentes e pobres em suas casas. Foi beatificada por João Paulo II em 1978."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial do Atum",
+        "description": "Proclamado pela ONU em 2016, este dia conscientiza sobre a importância da conservação do atum nos oceanos, uma espécie-chave para os ecossistemas marinhos e fonte de sustento para milhões de pessoas."
+      },
+      {
+        "name": "Dia Internacional das Parteiras",
+        "description": "Celebrado a 5 de maio pela Confederação Internacional de Parteiras, mas amplamente comemorado nesta época, reconhece o trabalho fundamental das parteiras na saúde materna e neonatal em todo o mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A verdade é como o sol: você pode apagá-la por um tempo, mas ela não vai embora.",
+      "author": "Victor Hugo"
+    },
+    "motivationalQuote": {
+      "text": "Comece onde você está. Use o que você tem. Faça o que puder.",
+      "author": "Arthur Ashe"
+    },
+    "births": [
+      {
+        "name": "Catarina, a Grande",
+        "description": "Imperatriz da Rússia de origem alemã, a governante feminina mais longeva da história russa. Seu reinado (1762–1796) transformou a Rússia em uma potência europeia moderna, impulsionando o Iluminismo, as artes e a expansão territorial.",
+        "year": "1729"
+      },
+      {
+        "name": "Bianca Jagger",
+        "description": "Ativista nicaraguense de direitos humanos e ex-esposa de Mick Jagger. Foi embaixadora da boa vontade do Conselho da Europa e defensora de causas ambientais e contra a pena de morte.",
+        "year": "1945"
+      },
+      {
+        "name": "Dwayne Johnson",
+        "description": "Ator e lutador profissional americano-canadense, conhecido como 'The Rock'. Um dos atores mais bem pagos de Hollywood, protagonizou franquias como Velozes & Furiosos e Jumanji.",
+        "year": "1972"
+      }
+    ],
+    "events": [
+      {
+        "title": "Morte de Leonardo da Vinci",
+        "description": "Leonardo da Vinci faleceu no castelo de Clos Lucé, em Amboise (França), aos 67 anos, sob o mecenato do rei Francisco I da França. Deixou um legado artístico e científico sem precedentes.",
+        "year": "1519"
+      },
+      {
+        "title": "Sobreviventes do Titanic chegam a Nova York",
+        "description": "O navio Carpathia chegou ao porto de Nova York com os 710 sobreviventes do naufrágio do Titanic, ocorrido em 15 de abril de 1912. A cidade os recebeu entre o luto e o alívio.",
+        "year": "1912"
+      },
+      {
+        "title": "Primeira transmissão de rádio na Espanha",
+        "description": "A Rádio Ibérica realizou a primeira transmissão radiofônica pública na Espanha a partir de Madri, inaugurando uma nova era na comunicação de massa no país.",
+        "year": "1924"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Atanasi d'Alexandria",
+        "type": "Bisbe i Doctor de l'Església",
+        "description": "Bisbe d'Alexandria del segle IV, defensor incansable de la divinitat de Crist davant l'arrianisme. Exiliat cinc vegades per emperadors arrianistes, la seva perseverança li va valer el títol d''Atanasi contra el món'. És Doctor de l'Església i pilar del Concili de Nicea."
+      },
+      {
+        "name": "Sant Fèlix de Borgonya",
+        "type": "Màrtir",
+        "description": "Màrtir cristià del segle III que va patir martiri a la regió de Borgonya durant les persecucions de l'Imperi Romà. La seva devoció va ser especialment important a la Gàl·lia tardoromana."
+      },
+      {
+        "name": "Beata Maria Caterina Kasper",
+        "type": "Verge i Fundadora",
+        "description": "Religiosa alemanya del segle XIX que va fundar la Congregació de les Pobres Serventes de Jesucrist, dedicada a la cura de malalts i pobres a la llar. Va ser beatificada per Joan Pau II el 1978."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Tonyina",
+        "description": "Proclamat per l'ONU el 2016, aquest dia consciencia sobre la importància de la conservació de la tonyina als oceans, una espècie clau per als ecosistemes marins i font de sustent per a milions de persones."
+      },
+      {
+        "name": "Dia Internacional de les Llevadores",
+        "description": "Celebrat el 5 de maig per la Confederació Internacional de Llevadores, però àmpliament commemorat en aquestes dates, reconeix la labor fonamental de les llevadores en la salut materna i neonatal arreu del món."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La veritat és com el sol: pots apagar-la per un temps, però no per sempre.",
+      "author": "Victor Hugo"
+    },
+    "motivationalQuote": {
+      "text": "Comença on ets. Usa el que tens. Fes el que puguis.",
+      "author": "Arthur Ashe"
+    },
+    "births": [
+      {
+        "name": "Caterina la Gran",
+        "description": "Emperadriu de Rússia d'origen alemany, la governant femenina de més llarg regnat de la història russa. El seu regnat (1762–1796) va transformar Rússia en una potència europea moderna, impulsant la Il·lustració, les arts i l'expansió territorial.",
+        "year": "1729"
+      },
+      {
+        "name": "Bianca Jagger",
+        "description": "Activista nicaragüenca de drets humans i ex-esposa de Mick Jagger. Va ser ambaixadora de bona voluntat del Consell d'Europa i defensora de causes mediambientals i contra la pena de mort.",
+        "year": "1945"
+      },
+      {
+        "name": "Dwayne Johnson",
+        "description": "Actor i lluitador professional americà-canadenc, conegut com 'The Rock'. Un dels actors més ben pagats de Hollywood, va protagonitzar franquícies com Fast & Furious i Jumanji.",
+        "year": "1972"
+      }
+    ],
+    "events": [
+      {
+        "title": "Mort de Leonardo da Vinci",
+        "description": "Leonardo da Vinci va morir al castell de Clos Lucé, a Amboise (França), als 67 anys, sota el mecenatge del rei Francesc I de França. Va deixar un llegat artístic i científic sense precedents.",
+        "year": "1519"
+      },
+      {
+        "title": "Els supervivents del Titanic arriben a Nova York",
+        "description": "El vaixell Carpathia va arribar al port de Nova York amb els 710 supervivents del naufragi del Titanic, ocorregut el 15 d'abril de 1912. La ciutat els va rebre entre el dol i l'alleujament.",
+        "year": "1912"
+      },
+      {
+        "title": "Primera transmissió de ràdio a Espanya",
+        "description": "Ràdio Ibèrica va realitzar la primera transmissió radiofònica pública a Espanya des de Madrid, iniciant una nova era en la comunicació de masses al país.",
+        "year": "1924"
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-27",
+  "es": {
+    "saints": [
+      {
+        "name": "San Vicente de Paúl",
+        "type": "Sacerdote",
+        "description": "Sacerdote francés (1581–1660) fundador de la Congregación de la Misión (Lazaristas) y de las Hijas de la Caridad junto a Luisa de Marillac. Dedicó su vida a los pobres, enfermos y marginados. Canonizado en 1737, es patrono de todas las obras de caridad."
+      },
+      {
+        "name": "San Cosme de Palestina",
+        "type": "Obispo",
+        "description": "Obispo palestino del siglo IX amigo y colaborador de San Juan Damasceno, teólogo que combatió la iconoclasia. Compuso numerosos himnos litúrgicos para la Iglesia Oriental."
+      },
+      {
+        "name": "San Adolfo de Osnabrück",
+        "type": "Obispo",
+        "description": "Obispo de Osnabrück (Alemania) del siglo XIII conocido por su generosidad con los pobres y por su equilibrado gobierno de la diócesis en tiempos convulsos del Sacro Imperio Romano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Turismo",
+        "description": "Proclamado por la Organización Mundial del Turismo de la ONU en 1980, se celebra el 27 de septiembre para concienciar sobre el papel del turismo en el desarrollo económico y cultural de los países."
+      },
+      {
+        "name": "Día de la Independencia de Mozambique (izada de la bandera)",
+        "description": "Mozambique celebra actos conmemorativos de su independencia de Portugal, proclamada el 25 de junio de 1975. El 27 de septiembre se recuerda la fundación del FRELIMO (1962) y la lucha por la independencia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Somos juzgados por lo que hacemos, no por lo que pensamos hacer.",
+      "author": "San Vicente de Paúl",
+      "context": "El sacerdote francés, cuya festividad se celebra hoy, fundamentó toda su vida en la acción concreta en favor de los más necesitados. Para él, la caridad no era un sentimiento sino un compromiso diario de servicio."
+    },
+    "motivationalQuote": {
+      "text": "El mundo es un libro, y quienes no viajan solo leen una página.",
+      "author": "San Agustín de Hipona"
+    },
+    "births": [
+      {
+        "name": "Samuel Adams",
+        "description": "Político americano, uno de los Padres Fundadores de los Estados Unidos y líder de la resistencia colonial contra Gran Bretaña. Organizó el Motín del Té de Boston (1773) y firmó la Declaración de Independencia.",
+        "year": 1722
+      },
+      {
+        "name": "Meat Loaf (Marvin Lee Aday)",
+        "description": "Cantante y actor americano conocido por su álbum Bat Out of Hell (1977), uno de los más vendidos de la historia del rock con más de 40 millones de copias. Sus actuaciones teatrales eran legendarias.",
+        "year": 1947
+      },
+      {
+        "name": "Gwyneth Paltrow",
+        "description": "Actriz americana ganadora del Oscar por Shakespeare in Love (1998). También conocida por su papel de Pepper Potts en el Universo Cinematográfico de Marvel y por su marca de bienestar Goop.",
+        "year": 1972
+      }
+    ],
+    "events": [
+      {
+        "title": "Organización Mundial del Turismo celebra su primer Día Mundial",
+        "description": "La Organización Mundial del Turismo (OMT) de la ONU celebró el primer Día Mundial del Turismo, iniciativa que se convertiría en una de las conmemoraciones internacionales más reconocidas en el sector.",
+        "year": 1980
+      },
+      {
+        "title": "Apertura del canal de Suez",
+        "description": "El canal de Suez fue inaugurado oficialmente en presencia de la emperatriz Eugenia de Montijo y otros líderes europeos, creando una ruta marítima directa entre Europa y Asia que transformó el comercio mundial.",
+        "year": 1869
+      },
+      {
+        "title": "Muerte de Brigitte Bardot (nacimiento)",
+        "description": "Nació en París la actriz y modelo francesa Brigitte Bardot, quien se convertiría en el mayor símbolo sexual del cine europeo de los años cincuenta y sesenta y en destacada activista por los derechos de los animales.",
+        "year": 1934
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Vincent de Paul",
+        "type": "Priest",
+        "description": "French priest (1581–1660), founder of the Congregation of the Mission (Lazarists) and the Daughters of Charity, together with Louise de Marillac. He devoted his life to the poor, sick, and marginalised. Canonised in 1737, he is patron of all charitable works."
+      },
+      {
+        "name": "Saint Cosmas of Palestine",
+        "type": "Bishop",
+        "description": "A 9th-century Palestinian bishop, friend and collaborator of Saint John of Damascus, the theologian who combated iconoclasm. He composed numerous liturgical hymns for the Eastern Church."
+      },
+      {
+        "name": "Saint Adolph of Osnabrück",
+        "type": "Bishop",
+        "description": "A 13th-century Bishop of Osnabrück (Germany) known for his generosity with the poor and his balanced governance of the diocese during the turbulent times of the Holy Roman Empire."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Tourism Day",
+        "description": "Proclaimed by the UN World Tourism Organization in 1980, celebrated on 27 September to raise awareness of the role of tourism in the economic and cultural development of countries."
+      },
+      {
+        "name": "Mozambique FRELIMO Foundation Day",
+        "description": "Mozambique holds commemorative events recalling its independence from Portugal, proclaimed on 25 June 1975. The 27 September recalls the founding of FRELIMO (1962) and the independence struggle."
+      }
+    ],
+    "historicalQuote": {
+      "text": "We are judged by what we do, not by what we intend to do.",
+      "author": "Saint Vincent de Paul",
+      "context": "The French priest, whose feast is celebrated today, grounded his entire life in concrete action on behalf of those most in need. For him, charity was not a feeling but a daily commitment to service."
+    },
+    "motivationalQuote": {
+      "text": "The world is a book, and those who do not travel read only one page.",
+      "author": "Saint Augustine of Hippo"
+    },
+    "births": [
+      {
+        "name": "Samuel Adams",
+        "description": "American politician, one of the Founding Fathers of the United States and a leader of colonial resistance against Great Britain. He organised the Boston Tea Party (1773) and signed the Declaration of Independence.",
+        "year": 1722
+      },
+      {
+        "name": "Meat Loaf (Marvin Lee Aday)",
+        "description": "American singer and actor known for his album Bat Out of Hell (1977), one of the best-selling rock albums in history with more than 40 million copies sold. His theatrical performances were legendary.",
+        "year": 1947
+      },
+      {
+        "name": "Gwyneth Paltrow",
+        "description": "American actress and Oscar winner for Shakespeare in Love (1998). Also known for her role as Pepper Potts in the Marvel Cinematic Universe and for her wellness brand Goop.",
+        "year": 1972
+      }
+    ],
+    "events": [
+      {
+        "title": "World Tourism Organization celebrates first World Tourism Day",
+        "description": "The UN World Tourism Organization (UNWTO) celebrated the first World Tourism Day, an initiative that would become one of the most recognised international commemorations in the tourism sector.",
+        "year": 1980
+      },
+      {
+        "title": "Suez Canal opens",
+        "description": "The Suez Canal was officially inaugurated in the presence of Empress Eugénie de Montijo and other European leaders, creating a direct maritime route between Europe and Asia that transformed world trade.",
+        "year": 1869
+      },
+      {
+        "title": "Brigitte Bardot born",
+        "description": "French actress and model Brigitte Bardot was born in Paris. She would become the greatest sex symbol of European cinema in the 1950s and 1960s and a prominent animal rights activist.",
+        "year": 1934
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Vicente de Paulo",
+        "type": "Sacerdote",
+        "description": "Sacerdote francês (1581–1660), fundador da Congregação da Missão (Lazaristas) e das Filhas da Caridade, juntamente com Luísa de Marillac. Dedicou a sua vida aos pobres, doentes e marginalizados. Canonizado em 1737, é patrono de todas as obras de caridade."
+      },
+      {
+        "name": "São Cosme da Palestina",
+        "type": "Bispo",
+        "description": "Bispo palestino do século IX, amigo e colaborador de São João Damasceno, teólogo que combateu a iconoclastia. Compôs numerosos hinos litúrgicos para a Igreja Oriental."
+      },
+      {
+        "name": "São Adolfo de Osnabrück",
+        "type": "Bispo",
+        "description": "Bispo de Osnabrück (Alemanha) do século XIII, conhecido pela sua generosidade com os pobres e pelo equilíbrado governo da diocese em tempos conturbados do Sacro Império Romano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial do Turismo",
+        "description": "Proclamado pela Organização Mundial do Turismo da ONU em 1980, celebrado a 27 de setembro para consciencializar sobre o papel do turismo no desenvolvimento económico e cultural dos países."
+      },
+      {
+        "name": "Dia da Fundação da FRELIMO em Moçambique",
+        "description": "Moçambique realiza atos comemorativos da sua independência de Portugal, proclamada a 25 de junho de 1975. O 27 de setembro recorda a fundação da FRELIMO (1962) e a luta pela independência."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Somos julgados pelo que fazemos, não pelo que pretendemos fazer.",
+      "author": "São Vicente de Paulo",
+      "context": "O sacerdote francês, cuja festa se celebra hoje, fundou toda a sua vida na ação concreta a favor dos mais necessitados. Para ele, a caridade não era um sentimento mas um compromisso diário de serviço."
+    },
+    "motivationalQuote": {
+      "text": "O mundo é um livro, e quem não viaja lê apenas uma página.",
+      "author": "Santo Agostinho de Hipona"
+    },
+    "births": [
+      {
+        "name": "Samuel Adams",
+        "description": "Político americano, um dos Pais Fundadores dos Estados Unidos e líder da resistência colonial contra a Grã-Bretanha. Organizou o Motim do Chá de Boston (1773) e assinou a Declaração de Independência.",
+        "year": 1722
+      },
+      {
+        "name": "Meat Loaf (Marvin Lee Aday)",
+        "description": "Cantor e ator americano conhecido pelo álbum Bat Out of Hell (1977), um dos mais vendidos da história do rock com mais de 40 milhões de cópias. As suas atuações teatrais eram lendárias.",
+        "year": 1947
+      },
+      {
+        "name": "Gwyneth Paltrow",
+        "description": "Atriz americana vencedora do Oscar por Shakespeare Apaixonado (1998). Também conhecida pelo seu papel de Pepper Potts no Universo Cinematográfico da Marvel e pela sua marca de bem-estar Goop.",
+        "year": 1972
+      }
+    ],
+    "events": [
+      {
+        "title": "Organização Mundial do Turismo celebra o primeiro Dia Mundial do Turismo",
+        "description": "A Organização Mundial do Turismo (OMT) da ONU celebrou o primeiro Dia Mundial do Turismo, iniciativa que se tornaria uma das comemorações internacionais mais reconhecidas no setor.",
+        "year": 1980
+      },
+      {
+        "title": "Canal de Suez é inaugurado",
+        "description": "O canal de Suez foi inaugurado oficialmente na presença da imperatriz Eugénia de Montijo e outros líderes europeus, criando uma rota marítima direta entre a Europa e a Ásia que transformou o comércio mundial.",
+        "year": 1869
+      },
+      {
+        "title": "Brigitte Bardot nasce",
+        "description": "A atriz e modelo francesa Brigitte Bardot nasceu em Paris. Tornar-se-ia o maior símbolo sexual do cinema europeu dos anos cinquenta e sessenta e uma destacada ativista pelos direitos dos animais.",
+        "year": 1934
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Vicenç de Paül",
+        "type": "Sacerdot",
+        "description": "Sacerdot francès (1581–1660), fundador de la Congregació de la Missió (Latzaristes) i de les Filles de la Caritat, juntament amb Lluïsa de Marillac. Va dedicar la seva vida als pobres, malalts i marginats. Canonitzat el 1737, és patró de totes les obres de caritat."
+      },
+      {
+        "name": "Sant Cosme de Palestina",
+        "type": "Bisbe",
+        "description": "Bisbe palestí del segle IX, amic i col·laborador de Sant Joan Damascè, el teòleg que va combatre la iconoclàstia. Va compondre nombrosos himnes litúrgics per a l'Església Oriental."
+      },
+      {
+        "name": "Sant Adolfo d'Osnabrück",
+        "type": "Bisbe",
+        "description": "Bisbe d'Osnabrück (Alemanya) del segle XIII, conegut per la seva generositat amb els pobres i el seu equilibrat govern de la diòcesi en temps convulsos del Sacre Imperi Romà."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial del Turisme",
+        "description": "Proclamat per l'Organització Mundial del Turisme de l'ONU el 1980, celebrat el 27 de setembre per conscienciar sobre el paper del turisme en el desenvolupament econòmic i cultural dels països."
+      },
+      {
+        "name": "Dia de la Fundació del FRELIMO a Moçambic",
+        "description": "Moçambic realitza actes commemoratius de la seva independència de Portugal, proclamada el 25 de juny de 1975. El 27 de setembre recorda la fundació del FRELIMO (1962) i la lluita per la independència."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Som jutjats pel que fem, no pel que pretenem fer.",
+      "author": "Sant Vicenç de Paül",
+      "context": "El sacerdot francès, la festivitat del qual se celebra avui, va fonamentar tota la seva vida en l'acció concreta a favor dels més necessitats. Per a ell, la caritat no era un sentiment sinó un compromís diari de servei."
+    },
+    "motivationalQuote": {
+      "text": "El món és un llibre, i els qui no viatgen només llegeixen una pàgina.",
+      "author": "Sant Agustí d'Hipona"
+    },
+    "births": [
+      {
+        "name": "Samuel Adams",
+        "description": "Polític americà, un dels Pares Fundadors dels Estats Units i líder de la resistència colonial contra Gran Bretanya. Va organitzar el Motí del Te de Boston (1773) i va signar la Declaració d'Independència.",
+        "year": 1722
+      },
+      {
+        "name": "Meat Loaf (Marvin Lee Aday)",
+        "description": "Cantant i actor americà conegut pel seu àlbum Bat Out of Hell (1977), un dels més venuts de la història del rock amb més de 40 milions de còpies. Les seves actuacions teatrals eren llegendàries.",
+        "year": 1947
+      },
+      {
+        "name": "Gwyneth Paltrow",
+        "description": "Actriu americana guanyadora de l'Oscar per Shakespeare in Love (1998). Coneguda també pel seu paper de Pepper Potts a l'Univers Cinematogràfic Marvel i per la seva marca de benestar Goop.",
+        "year": 1972
+      }
+    ],
+    "events": [
+      {
+        "title": "L'Organització Mundial del Turisme celebra el primer Dia Mundial del Turisme",
+        "description": "L'Organització Mundial del Turisme (OMT) de l'ONU va celebrar el primer Dia Mundial del Turisme, iniciativa que es convertiria en una de les commemoracions internacionals més reconegudes del sector.",
+        "year": 1980
+      },
+      {
+        "title": "El canal de Suez s'inaugura",
+        "description": "El canal de Suez va ser inaugurat oficialment en presència de l'emperadriu Eugènia de Montijo i altres líders europeus, creant una ruta marítima directa entre Europa i Àsia que va transformar el comerç mundial.",
+        "year": 1869
+      },
+      {
+        "title": "Neix Brigitte Bardot",
+        "description": "L'actriu i model francesa Brigitte Bardot va néixer a París. Es convertiria en el major símbol sexual del cinema europeu dels anys cinquanta i seixanta i en una destacada activista pels drets dels animals.",
+        "year": 1934
+      }
+    ]
+  }
+}

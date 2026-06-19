@@ -1,0 +1,119 @@
+{
+  "date": "2026-02-02",
+  "es": {
+    "saints": [
+      { "name": "La Presentación del Señor (La Candelaria)", "type": "Fiesta del Señor", "description": "Cuarenta días después de Navidad, Jesús es presentado en el Templo de Jerusalén y la profetisa Ana lo proclama Mesías." },
+      { "name": "San Cornelio el Centurión", "type": "Confesor", "description": "Primer gentil bautizado por el apóstol Pedro según los Hechos de los Apóstoles, símbolo de la apertura del cristianismo a los no judíos." }
+    ],
+    "observances": [
+      { "name": "Día Mundial de los Humedales", "description": "Conmemora la firma del Convenio de Ramsar sobre humedales en 1971, promoviendo la conservación de estos ecosistemas vitales." },
+      { "name": "Día de la Marmota (Groundhog Day)", "description": "Tradición folclórica estadounidense y canadiense en que la marmota Phil de Punxsutawney predice si quedan seis semanas más de invierno." }
+    ],
+    "historicalQuote": {
+      "text": "La imaginación es más importante que el conocimiento.",
+      "author": "Albert Einstein",
+      "context": "Einstein nació el 14 de marzo de 1879. Esta cita, extraída de una entrevista de 1929, sigue siendo uno de sus aforismos más citados sobre ciencia y creatividad."
+    },
+    "motivationalQuote": {
+      "text": "No cuentes los días; haz que los días cuenten.",
+      "author": "Muhammad Ali"
+    },
+    "births": [
+      { "name": "James Joyce", "description": "Escritor irlandés, uno de los grandes modernistas del siglo XX, autor de Ulises y Dublineses.", "year": 1882 },
+      { "name": "Ayn Rand", "description": "Filósofa y novelista ruso-americana, fundadora del objetivismo y autora de La rebelión de Atlas y El manantial.", "year": 1905 },
+      { "name": "Shakira", "description": "Cantante y compositora colombiana, ganadora de múltiples Grammy Latinos, una de las artistas más vendidas a nivel mundial.", "year": 1977 }
+    ],
+    "events": [
+      { "title": "Capitulación del ejército alemán en Stalingrado", "description": "El mariscal de campo Friedrich Paulus se rinde ante el Ejército Rojo, marcando el punto de inflexión de la Segunda Guerra Mundial en el frente oriental.", "year": 1943 },
+      { "title": "Primera edición del periódico The Times de Londres", "description": "Se publica el primer número de The Daily Universal Register, que en 1788 adoptaría el nombre The Times, volviéndose uno de los periódicos más influyentes del mundo.", "year": 1785 },
+      { "title": "Creación del Departamento de Estado de Estados Unidos", "description": "El Congreso estadounidense establece el Departamento de Asuntos Exteriores, rebautizado Departamento de Estado meses después.", "year": 1781 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Presentation of the Lord (Candlemas)", "type": "Feast of the Lord", "description": "Forty days after Christmas, Jesus is presented in the Temple of Jerusalem and the prophetess Anna proclaims him the Messiah." },
+      { "name": "Saint Cornelius the Centurion", "type": "Confessor", "description": "The first Gentile baptised by the Apostle Peter according to the Acts of the Apostles, symbol of Christianity's opening to non-Jews." }
+    ],
+    "observances": [
+      { "name": "World Wetlands Day", "description": "Commemorates the signing of the Ramsar Convention on Wetlands in 1971, promoting the conservation of these vital ecosystems." },
+      { "name": "Groundhog Day", "description": "American and Canadian folk tradition in which Punxsutawney Phil the groundhog predicts whether there are six more weeks of winter." }
+    ],
+    "historicalQuote": {
+      "text": "Imagination is more important than knowledge.",
+      "author": "Albert Einstein",
+      "context": "Einstein was born on 14 March 1879. This quote, taken from a 1929 interview, remains one of his most cited aphorisms on science and creativity."
+    },
+    "motivationalQuote": {
+      "text": "Don't count the days; make the days count.",
+      "author": "Muhammad Ali"
+    },
+    "births": [
+      { "name": "James Joyce", "description": "Irish writer, one of the great modernists of the 20th century, author of Ulysses and Dubliners.", "year": 1882 },
+      { "name": "Ayn Rand", "description": "Russian-American philosopher and novelist, founder of Objectivism and author of Atlas Shrugged and The Fountainhead.", "year": 1905 },
+      { "name": "Shakira", "description": "Colombian singer-songwriter, multi-Grammy Latin Award winner, one of the best-selling artists in the world.", "year": 1977 }
+    ],
+    "events": [
+      { "title": "German Army surrenders at Stalingrad", "description": "Field Marshal Friedrich Paulus surrenders to the Red Army, marking the turning point of World War II on the Eastern Front.", "year": 1943 },
+      { "title": "First issue of The Times of London", "description": "The first number of The Daily Universal Register is published; renamed The Times in 1788, it became one of the world's most influential newspapers.", "year": 1785 },
+      { "title": "US Department of State established", "description": "The US Congress establishes the Department of Foreign Affairs, renamed the Department of State a few months later.", "year": 1781 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "Apresentação do Senhor (Candelária)", "type": "Festa do Senhor", "description": "Quarenta dias após o Natal, Jesus é apresentado no Templo de Jerusalém e a profetisa Ana o proclama Messias." },
+      { "name": "São Cornélio, o Centurião", "type": "Confessor", "description": "Primeiro gentio batizado pelo apóstolo Pedro segundo os Atos dos Apóstolos, símbolo da abertura do cristianismo aos não judeus." }
+    ],
+    "observances": [
+      { "name": "Dia Mundial das Zonas Úmidas", "description": "Comemora a assinatura da Convenção de Ramsar sobre Zonas Úmidas em 1971, promovendo a conservação desses ecossistemas vitais." },
+      { "name": "Dia da Marmota (Groundhog Day)", "description": "Tradição folclórica norte-americana e canadense em que a marmota Phil de Punxsutawney prevê se há mais seis semanas de inverno." }
+    ],
+    "historicalQuote": {
+      "text": "A imaginação é mais importante do que o conhecimento.",
+      "author": "Albert Einstein",
+      "context": "Einstein nasceu em 14 de março de 1879. Esta citação, retirada de uma entrevista de 1929, continua sendo um dos seus aforismos mais citados sobre ciência e criatividade."
+    },
+    "motivationalQuote": {
+      "text": "Não conte os dias; faça os dias contarem.",
+      "author": "Muhammad Ali"
+    },
+    "births": [
+      { "name": "James Joyce", "description": "Escritor irlandês, um dos grandes modernistas do século XX, autor de Ulisses e Dublinenses.", "year": 1882 },
+      { "name": "Ayn Rand", "description": "Filósofa e romancista russo-americana, fundadora do objetivismo e autora de A Revolta de Atlas e A Nascente.", "year": 1905 },
+      { "name": "Shakira", "description": "Cantora e compositora colombiana, vencedora de múltiplos Grammy Latinos, uma das artistas mais vendidas no mundo.", "year": 1977 }
+    ],
+    "events": [
+      { "title": "Capitulação do exército alemão em Stalingrado", "description": "O marechal-de-campo Friedrich Paulus se rende ao Exército Vermelho, marcando o ponto de inflexão da Segunda Guerra Mundial na Frente Oriental.", "year": 1943 },
+      { "title": "Primeira edição do jornal The Times de Londres", "description": "É publicado o primeiro número do The Daily Universal Register, que em 1788 adotaria o nome The Times, tornando-se um dos jornais mais influentes do mundo.", "year": 1785 },
+      { "title": "Criação do Departamento de Estado dos EUA", "description": "O Congresso americano estabelece o Departamento de Assuntos Estrangeiros, rebatizado Departamento de Estado meses depois.", "year": 1781 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Presentació del Senyor (la Candelera)", "type": "Festa del Senyor", "description": "Quaranta dies després de Nadal, Jesús és presentat al Temple de Jerusalem i la profetessa Anna el proclama Messies." },
+      { "name": "Sant Corneli el Centurió", "type": "Confessor", "description": "Primer gentil batejat per l'apòstol Pere segons els Fets dels Apòstols, símbol de l'obertura del cristianisme als no jueus." }
+    ],
+    "observances": [
+      { "name": "Dia Mundial dels Aiguamolls", "description": "Commemora la signatura del Conveni de Ramsar sobre aiguamolls el 1971, promovent la conservació d'aquests ecosistemes vitals." },
+      { "name": "Dia de la Marmota (Groundhog Day)", "description": "Tradició folklòrica als EUA i el Canadà en què la marmota Phil de Punxsutawney prediu si queden sis setmanes més d'hivern." }
+    ],
+    "historicalQuote": {
+      "text": "La imaginació és més important que el coneixement.",
+      "author": "Albert Einstein",
+      "context": "Einstein va néixer el 14 de març de 1879. Aquesta cita, extreta d'una entrevista de 1929, és un dels seus aforismes més citats sobre ciència i creativitat."
+    },
+    "motivationalQuote": {
+      "text": "No comptis els dies; fes que els dies comptin.",
+      "author": "Muhammad Ali"
+    },
+    "births": [
+      { "name": "James Joyce", "description": "Escriptor irlandès, un dels grans modernistes del segle XX, autor de l'Ulisses i els Dublinesos.", "year": 1882 },
+      { "name": "Ayn Rand", "description": "Filòsofa i novel·lista russo-americana, fundadora de l'objectivisme i autora de La rebel·lió d'Atles i La font viva.", "year": 1905 },
+      { "name": "Shakira", "description": "Cantautora colombiana, guanyadora de múltiples Grammy Llatins, una de les artistes més venudes al món.", "year": 1977 }
+    ],
+    "events": [
+      { "title": "Capitulació de l'exèrcit alemany a Stalingrad", "description": "El mariscal de camp Friedrich Paulus es rendeix davant l'Exèrcit Roig, marcant el punt d'inflexió de la Segona Guerra Mundial al front oriental.", "year": 1943 },
+      { "title": "Primera edició del diari The Times de Londres", "description": "Es publica el primer número del The Daily Universal Register, que el 1788 adoptaria el nom The Times, convertint-se en un dels diaris més influents del món.", "year": 1785 },
+      { "title": "Creació del Departament d'Estat dels EUA", "description": "El Congrés americà estableix el Departament d'Afers Exteriors, rebatejat Departament d'Estat uns mesos després.", "year": 1781 }
+    ]
+  }
+}

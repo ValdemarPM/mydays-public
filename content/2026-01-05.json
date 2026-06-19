@@ -1,0 +1,255 @@
+{
+  "date": "2026-01-05",
+  "es": {
+    "saints": [
+      {
+        "name": "San Juan Nepomuceno Neumann",
+        "type": "Obispo",
+        "description": "Obispo bohemio-americano del siglo XIX, cuarto obispo de Filadelfia y primer ciudadano estadounidense canonizado varón. Promovió la educación católica parroquial en Estados Unidos."
+      },
+      {
+        "name": "Santa Emiliana",
+        "type": "Virgen",
+        "description": "Tía materna del Papa Gregorio Magno, vivió en el siglo VI como consagrada en el hogar familiar y es venerada como ejemplo de vida contemplativa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Nacional del Pájaro (India)",
+        "description": "India celebra el natalicio del ornitólogo y naturalista Salim Ali (1896–1987), conocido como el «Señor de los Pájaros», con una jornada dedicada a la conservación de las aves."
+      }
+    ],
+    "historicalQuote": {
+      "text": "En ciencia no hay carreteras reales. Solo aquellos que no temen fatigarse en senderos empinados tienen la posibilidad de llegar a las cumbres luminosas.",
+      "author": "Karl Marx",
+      "context": "Filósofo y economista alemán (nacido el 5 de mayo de 1818), esta frase de su prólogo al Capital refleja la exigencia intelectual que él mismo aplicó a su obra económica."
+    },
+    "motivationalQuote": {
+      "text": "Las grandes obras son para los que tienen paciencia.",
+      "author": "Edmund Burke"
+    },
+    "births": [
+      {
+        "name": "Umberto Eco",
+        "description": "Escritor, filósofo y semiótico italiano, conocido mundialmente por su novela El nombre de la rosa y por sus ensayos sobre cultura y comunicación.",
+        "year": 1932
+      },
+      {
+        "name": "Diane Keaton",
+        "description": "Actriz y directora estadounidense, ganadora del Óscar por Annie Hall de Woody Allen, una de las grandes intérpretes del cine norteamericano contemporáneo.",
+        "year": 1946
+      },
+      {
+        "name": "Bradley Cooper",
+        "description": "Actor y director estadounidense, múltiple nominado al Óscar por películas como El lado bueno de las cosas y A Star Is Born.",
+        "year": 1975
+      }
+    ],
+    "events": [
+      {
+        "title": "Se descubre la radioactividad natural del uranio",
+        "description": "Henri Becquerel descubrió accidentalmente que el uranio emitía radiación sin necesidad de una fuente de energía externa, sentando las bases del estudio de la radioactividad.",
+        "year": 1896
+      },
+      {
+        "title": "Fundación de la NFL (National Football League)",
+        "description": "Se fundó la American Professional Football Association, que más tarde se convertiría en la NFL, la liga de fútbol americano más importante del mundo.",
+        "year": 1920
+      },
+      {
+        "title": "Primera conexión de internet entre universidades",
+        "description": "Se estableció el primer enlace de ARPANET entre la Universidad de California en Los Ángeles y el Stanford Research Institute, precursor de lo que sería internet.",
+        "year": 1969
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint John Neumann",
+        "type": "Bishop",
+        "description": "Bohemian-American bishop of the 19th century, fourth bishop of Philadelphia and the first male American citizen to be canonised. He promoted Catholic parochial education in the United States."
+      },
+      {
+        "name": "Saint Emiliana",
+        "type": "Virgin",
+        "description": "Maternal aunt of Pope Gregory the Great, she lived in the 6th century as a consecrated woman in her family home and is venerated as a model of contemplative life."
+      }
+    ],
+    "observances": [
+      {
+        "name": "National Bird Day (India)",
+        "description": "India marks the birthday of ornithologist and naturalist Salim Ali (1896–1987), known as the 'Birdman of India', with a day dedicated to bird conservation."
+      }
+    ],
+    "historicalQuote": {
+      "text": "In science there are no royal roads. Only those who do not dread the fatiguing climb of its steep paths have a chance of reaching its luminous summits.",
+      "author": "Karl Marx",
+      "context": "German philosopher and economist (born 5 May 1818); this phrase from the preface to Capital reflects the intellectual rigour he applied to his economic work."
+    },
+    "motivationalQuote": {
+      "text": "Great things are accomplished by those who have patience.",
+      "author": "Edmund Burke"
+    },
+    "births": [
+      {
+        "name": "Umberto Eco",
+        "description": "Italian writer, philosopher and semiotician, world-famous for his novel The Name of the Rose and his essays on culture and communication.",
+        "year": 1932
+      },
+      {
+        "name": "Diane Keaton",
+        "description": "American actress and director, Oscar winner for Woody Allen's Annie Hall, one of the great performers of contemporary American cinema.",
+        "year": 1946
+      },
+      {
+        "name": "Bradley Cooper",
+        "description": "American actor and director, multiple Oscar nominee for films such as Silver Linings Playbook and A Star Is Born.",
+        "year": 1975
+      }
+    ],
+    "events": [
+      {
+        "title": "Natural radioactivity of uranium discovered",
+        "description": "Henri Becquerel accidentally discovered that uranium emitted radiation without any external energy source, laying the foundations for the study of radioactivity.",
+        "year": 1896
+      },
+      {
+        "title": "NFL founded",
+        "description": "The American Professional Football Association was founded, which would later become the NFL, the world's most important American football league.",
+        "year": 1920
+      },
+      {
+        "title": "First inter-university internet connection",
+        "description": "The first ARPANET link was established between UCLA and the Stanford Research Institute, the precursor to what would become the internet.",
+        "year": 1969
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São João Neumann",
+        "type": "Bispo",
+        "description": "Bispo boêmio-americano do século XIX, quarto bispo da Filadélfia e primeiro cidadão americano do sexo masculino canonizado. Promoveu a educação católica paroquial nos Estados Unidos."
+      },
+      {
+        "name": "Santa Emiliana",
+        "type": "Virgem",
+        "description": "Tia materna do Papa Gregório Magno, viveu no século VI como consagrada no lar familiar e é venerada como exemplo de vida contemplativa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional dos Pássaros (Índia)",
+        "description": "A Índia celebra o aniversário do ornitólogo e naturalista Salim Ali (1896–1987), conhecido como o 'Homem dos Pássaros da Índia', com uma jornada dedicada à conservação das aves."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Na ciência não há estradas reais. Só aqueles que não temem se cansar em caminhos íngremes têm chance de chegar aos seus cumes luminosos.",
+      "author": "Karl Marx",
+      "context": "Filósofo e economista alemão (nascido em 5 de maio de 1818); esta frase do prefácio de O Capital reflete o rigor intelectual que ele mesmo aplicou à sua obra econômica."
+    },
+    "motivationalQuote": {
+      "text": "Grandes obras são para aqueles que têm paciência.",
+      "author": "Edmund Burke"
+    },
+    "births": [
+      {
+        "name": "Umberto Eco",
+        "description": "Escritor, filósofo e semiólogo italiano, mundialmente famoso por seu romance O Nome da Rosa e por seus ensaios sobre cultura e comunicação.",
+        "year": 1932
+      },
+      {
+        "name": "Diane Keaton",
+        "description": "Atriz e diretora americana, vencedora do Oscar por Annie Hall de Woody Allen, uma das grandes intérpretes do cinema americano contemporâneo.",
+        "year": 1946
+      },
+      {
+        "name": "Bradley Cooper",
+        "description": "Ator e diretor americano, múltiplo indicado ao Oscar por filmes como O Lado Bom da Vida e Nasce uma Estrela.",
+        "year": 1975
+      }
+    ],
+    "events": [
+      {
+        "title": "Radioatividade natural do urânio descoberta",
+        "description": "Henri Becquerel descobriu acidentalmente que o urânio emitia radiação sem nenhuma fonte de energia externa, lançando as bases para o estudo da radioatividade.",
+        "year": 1896
+      },
+      {
+        "title": "Fundação da NFL",
+        "description": "A American Professional Football Association foi fundada, tornando-se mais tarde a NFL, a liga de futebol americano mais importante do mundo.",
+        "year": 1920
+      },
+      {
+        "title": "Primeira conexão de internet entre universidades",
+        "description": "Foi estabelecido o primeiro link da ARPANET entre a UCLA e o Stanford Research Institute, precursor do que viria a ser a internet.",
+        "year": 1969
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Joan Neumann",
+        "type": "Bisbe",
+        "description": "Bisbe bohemi-americà del segle XIX, quart bisbe de Filadèlfia i primer ciutadà nord-americà masculí canonitzat. Va promoure l'educació catòlica parroquial als Estats Units."
+      },
+      {
+        "name": "Santa Emiliana",
+        "type": "Verge",
+        "description": "Tieta materna del Papa Gregori Magne, va viure al segle VI com a consagrada a la llar familiar i és venerada com a exemple de vida contemplativa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional dels Ocells (Índia)",
+        "description": "L'Índia commemora el naixement de l'ornitòleg i naturalista Salim Ali (1896–1987), conegut com l'«Home dels Ocells de l'Índia», amb una jornada dedicada a la conservació de les aus."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A la ciència no hi ha camins reials. Només els que no temen el cansament de les seves dures pujades tenen possibilitat d'arribar als seus cims lluminosos.",
+      "author": "Karl Marx",
+      "context": "Filòsof i economista alemany (nascut el 5 de maig de 1818); aquesta frase del pròleg de El Capital reflecteix el rigor intel·lectual que ell mateix va aplicar a la seva obra econòmica."
+    },
+    "motivationalQuote": {
+      "text": "Les grans obres són per als qui tenen paciència.",
+      "author": "Edmund Burke"
+    },
+    "births": [
+      {
+        "name": "Umberto Eco",
+        "description": "Escriptor, filòsof i semiòleg italià, famós arreu del món per la seva novel·la El nom de la rosa i pels seus assajos sobre cultura i comunicació.",
+        "year": 1932
+      },
+      {
+        "name": "Diane Keaton",
+        "description": "Actriu i directora nord-americana, guanyadora de l'Oscar per Annie Hall de Woody Allen, una de les grans intèrprets del cinema nord-americà contemporani.",
+        "year": 1946
+      },
+      {
+        "name": "Bradley Cooper",
+        "description": "Actor i director nord-americà, múltiple nominat a l'Oscar per pel·lícules com El costat bo de les coses i Ha nascut una estrella.",
+        "year": 1975
+      }
+    ],
+    "events": [
+      {
+        "title": "Es descobreix la radioactivitat natural de l'urani",
+        "description": "Henri Becquerel va descobrir accidentalment que l'urani emetia radiació sense cap font d'energia externa, establint les bases per a l'estudi de la radioactivitat.",
+        "year": 1896
+      },
+      {
+        "title": "Fundació de la NFL",
+        "description": "Es va fundar l'American Professional Football Association, que més tard es convertiria en la NFL, la lliga de futbol americà més important del món.",
+        "year": 1920
+      },
+      {
+        "title": "Primera connexió d'internet entre universitats",
+        "description": "Es va establir el primer enllaç d'ARPANET entre la UCLA i l'Stanford Research Institute, precursor del que seria internet.",
+        "year": 1969
+      }
+    ]
+  }
+}

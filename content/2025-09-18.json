@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-18",
+  "es": {
+    "saints": [
+      {
+        "name": "San José de Cupertino",
+        "type": "Sacerdote",
+        "description": "Fraile franciscano italiano del siglo XVII (1603–1663) famoso por sus levitaciones durante la oración y la misa. Fue canonizado en 1767 y es patrono de los aviadores, los astronautas y los estudiantes en época de exámenes."
+      },
+      {
+        "name": "Santa Sofía de Roma",
+        "type": "Mártir",
+        "description": "Mártir cristiana del siglo II venerada junto a sus tres hijas Fides (Fe), Spes (Esperanza) y Karitas (Caridad), quienes habrían sido martirizadas durante el reinado de Adriano en Roma."
+      },
+      {
+        "name": "San Ferreol de Besanzón",
+        "type": "Obispo",
+        "description": "Obispo de Besanzón (Francia) del siglo VI conocido por fundar monasterios en la región de la Borgoña y por su labor de evangelización entre los pueblos bárbaros que habitaban en las Galias."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de Chile",
+        "description": "Chile celebra el inicio de la Junta de Gobierno Nacional del 18 de septiembre de 1810, primer paso hacia la independencia definitiva del dominio español que se proclamó el 12 de febrero de 1818."
+      },
+      {
+        "name": "Día Internacional Igual Pago — Equal Pay Day (variable)",
+        "description": "Jornada que simboliza cuánto tiempo adicional deben trabajar las mujeres en promedio para ganar lo mismo que los hombres ganan en un año, recordando la brecha salarial de género."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La libertad no se mendiga, se conquista.",
+      "author": "Simón Bolívar",
+      "context": "El Libertador venezolano, nacido el 24 de julio de 1783, lideró la independencia de Venezuela, Colombia, Ecuador, Perú y Bolivia del dominio español. Esta frase resume la filosofía que guió toda su campaña militar y política."
+    },
+    "motivationalQuote": {
+      "text": "Cuida tus pensamientos porque se convertirán en palabras; cuida tus palabras porque se convertirán en actos.",
+      "author": "Margaret Thatcher"
+    },
+    "births": [
+      {
+        "name": "Samuel Johnson",
+        "description": "Escritor, lexicógrafo y crítico literario inglés del siglo XVIII, autor del primer gran diccionario de la lengua inglesa (1755). Su obra crítica y su vida están documentadas por su biógrafo James Boswell en uno de los retratos literarios más célebres.",
+        "year": 1709
+      },
+      {
+        "name": "Greta Garbo",
+        "description": "Actriz sueca de la Edad Dorada de Hollywood, una de las más grandes estrellas del cine mudo y sonoro. Protagonizó Anna Karenina (1935) y Ninotchka (1939). Conocida por su enigmática personalidad y su retiro prematuro del cine.",
+        "year": 1905
+      },
+      {
+        "name": "Jada Pinkett Smith",
+        "description": "Actriz y productora americana, conocida por su papel en la saga Matrix y por la serie Red Table Talk. Esposa del actor Will Smith.",
+        "year": 1971
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera Junta Nacional de Chile",
+        "description": "Se instaló en Santiago la Primera Junta Nacional de Gobierno de Chile, dando inicio al proceso de emancipación del dominio español que culminaría con la declaración de independencia en 1818.",
+        "year": 1810
+      },
+      {
+        "title": "Fundación de la CIA",
+        "description": "El presidente Harry S. Truman firmó el National Security Act, creando la Agencia Central de Inteligencia (CIA), que se convirtió en el principal servicio de inteligencia exterior de los Estados Unidos.",
+        "year": 1947
+      },
+      {
+        "title": "Jimi Hendrix es encontrado muerto",
+        "description": "El guitarrista Jimi Hendrix fue encontrado muerto en Londres, a los 27 años. Considerado el mejor guitarrista eléctrico de la historia, su muerte marcó el fin de una era en la música rock.",
+        "year": 1970
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Joseph of Cupertino",
+        "type": "Priest",
+        "description": "A 17th-century Italian Franciscan friar (1603–1663) famous for his levitations during prayer and Mass. Canonised in 1767, he is patron of aviators, astronauts, and students during examinations."
+      },
+      {
+        "name": "Saint Sophia of Rome",
+        "type": "Martyr",
+        "description": "A 2nd-century Christian martyr venerated together with her three daughters Faith (Fides), Hope (Spes), and Charity (Karitas), who are said to have been martyred during the reign of Hadrian in Rome."
+      },
+      {
+        "name": "Saint Ferreolus of Besançon",
+        "type": "Bishop",
+        "description": "A 6th-century Bishop of Besançon (France) known for founding monasteries in the Burgundy region and for his missionary work among the barbarian peoples living in Gaul."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Chilean Independence Day",
+        "description": "Chile celebrates the first National Government Junta of 18 September 1810, the first step toward final independence from Spanish rule, which was proclaimed on 12 February 1818."
+      },
+      {
+        "name": "International Equal Pay Day (variable)",
+        "description": "A day that symbolises how much extra time women must work on average to earn the same as men earn in a year, highlighting the gender pay gap."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Freedom is not begged for; it is conquered.",
+      "author": "Simón Bolívar",
+      "context": "The Venezuelan Liberator, born on 24 July 1783, led the independence of Venezuela, Colombia, Ecuador, Peru, and Bolivia from Spanish rule. This phrase encapsulates the philosophy behind his entire military and political campaign."
+    },
+    "motivationalQuote": {
+      "text": "Watch your thoughts, for they become words; watch your words, for they become actions.",
+      "author": "Margaret Thatcher"
+    },
+    "births": [
+      {
+        "name": "Samuel Johnson",
+        "description": "English 18th-century writer, lexicographer, and literary critic, author of the first great dictionary of the English language (1755). His critical work and life are documented by biographer James Boswell in one of the most celebrated literary portraits.",
+        "year": 1709
+      },
+      {
+        "name": "Greta Garbo",
+        "description": "Swedish actress of Hollywood's Golden Age, one of the greatest stars of both silent and sound cinema. She starred in Anna Karenina (1935) and Ninotchka (1939). Known for her enigmatic personality and early retirement from film.",
+        "year": 1905
+      },
+      {
+        "name": "Jada Pinkett Smith",
+        "description": "American actress and producer, known for her role in The Matrix franchise and for the talk show Red Table Talk. Wife of actor Will Smith.",
+        "year": 1971
+      }
+    ],
+    "events": [
+      {
+        "title": "First National Junta of Chile",
+        "description": "The First National Government Junta of Chile was installed in Santiago, beginning the emancipation process from Spanish rule that would culminate in the declaration of independence in 1818.",
+        "year": 1810
+      },
+      {
+        "title": "CIA founded",
+        "description": "President Harry S. Truman signed the National Security Act, creating the Central Intelligence Agency (CIA), which became the United States' primary foreign intelligence service.",
+        "year": 1947
+      },
+      {
+        "title": "Jimi Hendrix found dead",
+        "description": "Guitarist Jimi Hendrix was found dead in London at the age of 27. Considered the greatest electric guitarist in history, his death marked the end of an era in rock music.",
+        "year": 1970
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São José de Cupertino",
+        "type": "Sacerdote",
+        "description": "Frade franciscano italiano do século XVII (1603–1663) famoso pelas suas levitações durante a oração e a missa. Canonizado em 1767, é patrono dos aviadores, astronautas e estudantes em época de exames."
+      },
+      {
+        "name": "Santa Sofia de Roma",
+        "type": "Mártir",
+        "description": "Mártir cristã do século II venerada juntamente com as suas três filhas Fé (Fides), Esperança (Spes) e Caridade (Karitas), que teriam sido martirizadas durante o reinado de Adriano em Roma."
+      },
+      {
+        "name": "São Ferreol de Besançon",
+        "type": "Bispo",
+        "description": "Bispo de Besançon (França) do século VI conhecido por fundar mosteiros na região da Borgonha e pela sua atividade missionária entre os povos bárbaros que habitavam nas Gálias."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência do Chile",
+        "description": "O Chile celebra a primeira Junta Nacional de Governo de 18 de setembro de 1810, primeiro passo para a independência definitiva do domínio espanhol, proclamada a 12 de fevereiro de 1818."
+      },
+      {
+        "name": "Dia Internacional da Igualdade Salarial (variável)",
+        "description": "Jornada que simboliza quanto tempo adicional as mulheres têm de trabalhar em média para ganhar o mesmo que os homens ganham num ano, evidenciando a brecha salarial de género."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A liberdade não se mendiga; conquista-se.",
+      "author": "Simón Bolívar",
+      "context": "O Libertador venezuelano, nascido a 24 de julho de 1783, liderou a independência da Venezuela, Colômbia, Equador, Peru e Bolívia do domínio espanhol. Esta frase resume a filosofia que guiou toda a sua campanha militar e política."
+    },
+    "motivationalQuote": {
+      "text": "Cuida os teus pensamentos, pois tornar-se-ão palavras; cuida as tuas palavras, pois tornar-se-ão atos.",
+      "author": "Margaret Thatcher"
+    },
+    "births": [
+      {
+        "name": "Samuel Johnson",
+        "description": "Escritor, lexicógrafo e crítico literário inglês do século XVIII, autor do primeiro grande dicionário da língua inglesa (1755). A sua obra crítica e a sua vida estão documentadas pelo biógrafo James Boswell num dos retratos literários mais célebres.",
+        "year": 1709
+      },
+      {
+        "name": "Greta Garbo",
+        "description": "Atriz sueca da Idade de Ouro de Hollywood, uma das maiores estrelas do cinema mudo e sonoro. Protagonizou Ana Karenina (1935) e Ninotchka (1939). Conhecida pela sua enigmática personalidade e pela sua retirada prematura do cinema.",
+        "year": 1905
+      },
+      {
+        "name": "Jada Pinkett Smith",
+        "description": "Atriz e produtora americana, conhecida pelo seu papel na saga Matrix e pelo programa Red Table Talk. Esposa do ator Will Smith.",
+        "year": 1971
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeira Junta Nacional do Chile",
+        "description": "A Primeira Junta Nacional de Governo do Chile foi instalada em Santiago, iniciando o processo de emancipação do domínio espanhol que culminaria com a declaração de independência em 1818.",
+        "year": 1810
+      },
+      {
+        "title": "Fundação da CIA",
+        "description": "O presidente Harry S. Truman assinou a Lei de Segurança Nacional, criando a Agência Central de Inteligência (CIA), que se tornou o principal serviço de inteligência externo dos Estados Unidos.",
+        "year": 1947
+      },
+      {
+        "title": "Jimi Hendrix é encontrado morto",
+        "description": "O guitarrista Jimi Hendrix foi encontrado morto em Londres, aos 27 anos. Considerado o maior guitarrista elétrico da história, a sua morte marcou o fim de uma era na música rock.",
+        "year": 1970
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Josep de Cupertino",
+        "type": "Sacerdot",
+        "description": "Frare franciscà italià del segle XVII (1603–1663) famós per les seves levitacions durant l'oració i la missa. Canonitzat el 1767, és patró dels aviadors, els astronautes i els estudiants en època d'exàmens."
+      },
+      {
+        "name": "Santa Sofia de Roma",
+        "type": "Màrtir",
+        "description": "Màrtir cristiana del segle II venerada juntament amb les seves tres filles Fe (Fides), Esperança (Spes) i Caritat (Karitas), que haurien estat martiritzades durant el regnat d'Adrià a Roma."
+      },
+      {
+        "name": "Sant Ferreol de Besançon",
+        "type": "Bisbe",
+        "description": "Bisbe de Besançon (França) del segle VI conegut per fundar monestirs a la regió de Borgonya i per la seva activitat missionera entre els pobles bàrbars que habitaven a les Gàl·lies."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència de Xile",
+        "description": "Xile celebra la primera Junta Nacional de Govern del 18 de setembre de 1810, primer pas cap a la independència definitiva del domini espanyol, proclamada el 12 de febrer de 1818."
+      },
+      {
+        "name": "Dia Internacional de la Igualtat Salarial (variable)",
+        "description": "Jornada que simbolitza quant temps addicional han de treballar les dones de mitjana per guanyar el mateix que els homes guanyen en un any, recordant la bretxa salarial de gènere."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La llibertat no es demana; es conquesta.",
+      "author": "Simón Bolívar",
+      "context": "El Libertador veneçolà, nascut el 24 de juliol de 1783, va liderar la independència de Veneçuela, Colòmbia, l'Equador, el Perú i Bolívia del domini espanyol. Aquesta frase resumeix la filosofia que va guiar tota la seva campanya militar i política."
+    },
+    "motivationalQuote": {
+      "text": "Cuida els teus pensaments, perquè es convertiran en paraules; cuida les teves paraules, perquè es convertiran en actes.",
+      "author": "Margaret Thatcher"
+    },
+    "births": [
+      {
+        "name": "Samuel Johnson",
+        "description": "Escriptor, lexicògraf i crític literari anglès del segle XVIII, autor del primer gran diccionari de la llengua anglesa (1755). La seva obra crítica i la seva vida estan documentades pel biògraf James Boswell en un dels retrats literaris més cèlebres.",
+        "year": 1709
+      },
+      {
+        "name": "Greta Garbo",
+        "description": "Actriu sueca de l'Edat d'Or d'Hollywood, una de les grans estrelles del cinema mut i sonor. Va protagonitzar Anna Karenina (1935) i Ninotchka (1939). Coneguda per la seva enigmàtica personalitat i la seva retirada prematura del cinema.",
+        "year": 1905
+      },
+      {
+        "name": "Jada Pinkett Smith",
+        "description": "Actriu i productora americana, coneguda pel seu paper a la saga Matrix i pel programa Red Table Talk. Esposa de l'actor Will Smith.",
+        "year": 1971
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera Junta Nacional de Xile",
+        "description": "La Primera Junta Nacional de Govern de Xile va ser instal·lada a Santiago, iniciant el procés d'emancipació del domini espanyol que culminaria amb la declaració d'independència el 1818.",
+        "year": 1810
+      },
+      {
+        "title": "Fundació de la CIA",
+        "description": "El president Harry S. Truman va signar la Llei de Seguretat Nacional, creant l'Agència Central d'Intel·ligència (CIA), que es va convertir en el principal servei d'intel·ligència exterior dels Estats Units.",
+        "year": 1947
+      },
+      {
+        "title": "Jimi Hendrix és trobat mort",
+        "description": "El guitarrista Jimi Hendrix va ser trobat mort a Londres, als 27 anys. Considerat el millor guitarrista elèctric de la història, la seva mort va marcar el final d'una era en la música rock.",
+        "year": 1970
+      }
+    ]
+  }
+}

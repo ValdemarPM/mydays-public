@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-12",
+  "es": {
+    "saints": [
+      {
+        "name": "San Josafat Kuncevyč",
+        "type": "Obispo y Mártir",
+        "description": "Arzobispo greco-católico de Polotsk (actual Bielorrusia) del siglo XVII, defensor de la unión de la Iglesia católica con la ortodoxia. Fue asesinado por una multitud ortodoxa en 1623. Primer mártir del rito oriental canonizado por Roma (1867)."
+      },
+      {
+        "name": "San Livino",
+        "type": "Obispo y Mártir",
+        "description": "Misionero irlandés del siglo VII que evangelizó Flandes y fue martirizado cerca de Gante por negarse a adorar a los dioses germánicos. Patrón de Gante."
+      },
+      {
+        "name": "Beata Maria Fortunata Viti",
+        "type": "Virgen",
+        "description": "Religiosa benedictina italiana del siglo XIX–XX, conocida por su vida de humildad y oración en el monasterio de Vitorchiano. Beatificada por Juan Pablo II en 1967."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día del Médico (varios países hispanohablantes)",
+        "description": "En países como México, Colombia y El Salvador se celebra el Día del Médico en honor a los profesionales de la medicina y su labor al servicio de la salud pública."
+      },
+      {
+        "name": "Día Mundial de la Neumonía",
+        "description": "Jornada proclamada por la Global Coalition Against Child Pneumonia para concienciar sobre la neumonía, principal causa de muerte en niños menores de 5 años en el mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nadie puede ser llamado afortunado antes de su muerte.",
+      "author": "Heródoto",
+      "context": "El padre de la Historia griega, cuyas crónicas narraron las guerras Médicas y la fragilidad de los imperios, recordaba que el destino humano solo puede juzgarse en perspectiva."
+    },
+    "motivationalQuote": {
+      "text": "La sabiduría es hija de la experiencia.",
+      "author": "Leonardo da Vinci"
+    },
+    "births": [
+      {
+        "name": "Auguste Rodin",
+        "description": "Escultor francés considerado el padre de la escultura moderna, autor de obras inmortales como El pensador, El beso y Las puertas del infierno.",
+        "year": 1840
+      },
+      {
+        "name": "Grace Kelly",
+        "description": "Actriz estadounidense convertida en princesa de Mónaco al casarse con el príncipe Rainiero III en 1956, ganadora del Oscar por La angustia de vivir.",
+        "year": 1929
+      },
+      {
+        "name": "Anne Hathaway",
+        "description": "Actriz estadounidense ganadora del Oscar por Los miserables (2013), conocida también por El diablo viste de Prada, Interstellar y Batman: El caballero oscuro, la leyenda.",
+        "year": 1982
+      }
+    ],
+    "events": [
+      {
+        "title": "Muere Canute el Grande",
+        "description": "Falleció Canuto el Grande, rey de Inglaterra, Dinamarca y Noruega, uno de los monarcas más poderosos de la Europa medieval del siglo XI.",
+        "year": 1035
+      },
+      {
+        "title": "Primera emisión de TV Azteca (México)",
+        "description": "Televisión Azteca comenzó sus transmisiones en México como empresa privada, convirtiéndose en el segundo canal de televisión del país y rompiendo el monopolio de Televisa.",
+        "year": 1993
+      },
+      {
+        "title": "Naufragio del Titanic identificado definitivamente",
+        "description": "Una expedición liderada por Robert Ballard localizó definitivamente los restos del RMS Titanic en el fondo del Atlántico Norte, 73 años después de su hundimiento.",
+        "year": 1985
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Josaphat Kuntsevych",
+        "type": "Bishop and Martyr",
+        "description": "17th-century Greek Catholic Archbishop of Polotsk (present-day Belarus) and defender of the union of the Catholic Church with Orthodoxy. He was killed by an Orthodox mob in 1623 — the first martyr of the Eastern Rite canonised by Rome (1867)."
+      },
+      {
+        "name": "Saint Livinus",
+        "type": "Bishop and Martyr",
+        "description": "7th-century Irish missionary who evangelised Flanders and was martyred near Ghent for refusing to worship the Germanic gods. Patron of Ghent."
+      },
+      {
+        "name": "Blessed Maria Fortunata Viti",
+        "type": "Virgin",
+        "description": "19th–20th-century Italian Benedictine nun, known for her life of humility and prayer at the monastery of Vitorchiano. Beatified by John Paul II in 1967."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Doctors' Day (several Spanish-speaking countries)",
+        "description": "Countries such as Mexico, Colombia, and El Salvador celebrate Doctors' Day in honour of medical professionals and their service to public health."
+      },
+      {
+        "name": "World Pneumonia Day",
+        "description": "Proclaimed by the Global Coalition Against Child Pneumonia to raise awareness of pneumonia, the leading cause of death in children under five worldwide."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No man can be called fortunate before his death.",
+      "author": "Herodotus",
+      "context": "The father of Greek history, whose chronicles narrated the Persian Wars and the fragility of empires, reminded us that human destiny can only be judged in perspective."
+    },
+    "motivationalQuote": {
+      "text": "Wisdom is the daughter of experience.",
+      "author": "Leonardo da Vinci"
+    },
+    "births": [
+      {
+        "name": "Auguste Rodin",
+        "description": "French sculptor considered the father of modern sculpture, creator of immortal works such as The Thinker, The Kiss, and The Gates of Hell.",
+        "year": 1840
+      },
+      {
+        "name": "Grace Kelly",
+        "description": "American actress who became Princess of Monaco upon marrying Prince Rainier III in 1956, Academy Award winner for The Country Girl.",
+        "year": 1929
+      },
+      {
+        "name": "Anne Hathaway",
+        "description": "American actress and Oscar winner for Les Misérables (2013), also known for The Devil Wears Prada, Interstellar, and The Dark Knight Rises.",
+        "year": 1982
+      }
+    ],
+    "events": [
+      {
+        "title": "Death of Cnut the Great",
+        "description": "Cnut the Great, King of England, Denmark, and Norway, died — one of the most powerful monarchs of 11th-century medieval Europe.",
+        "year": 1035
+      },
+      {
+        "title": "First broadcast of TV Azteca (Mexico)",
+        "description": "Televisión Azteca began broadcasting in Mexico as a private company, becoming the country's second television channel and breaking Televisa's monopoly.",
+        "year": 1993
+      },
+      {
+        "title": "Titanic wreck definitively identified",
+        "description": "An expedition led by Robert Ballard definitively located the remains of the RMS Titanic on the floor of the North Atlantic, 73 years after its sinking.",
+        "year": 1985
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Josafá Kuncevyč",
+        "type": "Bispo e Mártir",
+        "description": "Arcebispo greco-católico de Polotsk (atual Bielorrússia) do século XVII e defensor da união da Igreja católica com a ortodoxia. Foi morto por uma multidão ortodoxa em 1623 — o primeiro mártir do rito oriental canonizado por Roma (1867)."
+      },
+      {
+        "name": "São Livino",
+        "type": "Bispo e Mártir",
+        "description": "Missionário irlandês do século VII que evangelizou Flandres e foi martirizado perto de Gante por se recusar a adorar os deuses germânicos. Padroeiro de Gante."
+      },
+      {
+        "name": "Beata Maria Fortunata Viti",
+        "type": "Virgem",
+        "description": "Religiosa beneditina italiana dos séculos XIX–XX, conhecida pela sua vida de humildade e oração no mosteiro de Vitorchiano. Beatificada por João Paulo II em 1967."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia do Médico (vários países hispano-americanos)",
+        "description": "Países como México, Colômbia e El Salvador celebram o Dia do Médico em honra aos profissionais da medicina e seu serviço à saúde pública."
+      },
+      {
+        "name": "Dia Mundial da Pneumonia",
+        "description": "Proclamado pela Coalizão Global Contra a Pneumonia Infantil para conscientizar sobre a pneumonia, principal causa de morte em crianças menores de 5 anos no mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nenhum homem pode ser chamado de afortunado antes da sua morte.",
+      "author": "Heródoto",
+      "context": "O pai da História grega, cujas crônicas narraram as Guerras Médicas e a fragilidade dos impérios, lembrava que o destino humano só pode ser julgado em perspectiva."
+    },
+    "motivationalQuote": {
+      "text": "A sabedoria é filha da experiência.",
+      "author": "Leonardo da Vinci"
+    },
+    "births": [
+      {
+        "name": "Auguste Rodin",
+        "description": "Escultor francês considerado o pai da escultura moderna, autor de obras imortais como O Pensador, O Beijo e As Portas do Inferno.",
+        "year": 1840
+      },
+      {
+        "name": "Grace Kelly",
+        "description": "Atriz americana que se tornou princesa de Mônaco ao casar-se com o príncipe Rainier III em 1956, vencedora do Oscar por Uma Menina do Interior.",
+        "year": 1929
+      },
+      {
+        "name": "Anne Hathaway",
+        "description": "Atriz americana e vencedora do Oscar por Os Miseráveis (2013), também conhecida por O Diabo Veste Prada, Interestelar e Batman: O Cavaleiro das Trevas Ressurge.",
+        "year": 1982
+      }
+    ],
+    "events": [
+      {
+        "title": "Morte de Canuto, o Grande",
+        "description": "Morreu Canuto, o Grande, rei da Inglaterra, Dinamarca e Noruega — um dos monarcas mais poderosos da Europa medieval do século XI.",
+        "year": 1035
+      },
+      {
+        "title": "Primeira transmissão da TV Azteca (México)",
+        "description": "A Televisión Azteca começou suas transmissões no México como empresa privada, tornando-se o segundo canal de televisão do país e quebrando o monopólio da Televisa.",
+        "year": 1993
+      },
+      {
+        "title": "Naufrágio do Titanic definitivamente identificado",
+        "description": "Uma expedição liderada por Robert Ballard localizou definitivamente os destroços do RMS Titanic no fundo do Atlântico Norte, 73 anos após o naufrágio.",
+        "year": 1985
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Jossafat Kuncevyč",
+        "type": "Bisbe i Màrtir",
+        "description": "Arquebisbe greco-catòlic de Polotsk (actual Bielorússia) del segle XVII i defensor de la unió de l'Església catòlica amb l'ortodòxia. Va ser assassinat per una multitud ortodoxa el 1623 — el primer màrtir del ritu oriental canonitzat per Roma (1867)."
+      },
+      {
+        "name": "Sant Lívinus",
+        "type": "Bisbe i Màrtir",
+        "description": "Missioner irlandès del segle VII que va evangelitzar Flandes i va ser martiritzat prop de Gant per negar-se a adorar els déus germànics. Patró de Gant."
+      },
+      {
+        "name": "Beata Maria Fortunata Viti",
+        "type": "Verge",
+        "description": "Religiosa benedictina italiana dels segles XIX–XX, coneguda per la seva vida d'humilitat i oració al monestir de Vitorchiano. Beatificada per Joan Pau II el 1967."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia del Metge (diversos països hispanòfons)",
+        "description": "Països com Mèxic, Colòmbia i El Salvador celebren el Dia del Metge en honor als professionals de la medicina i la seva tasca al servei de la salut pública."
+      },
+      {
+        "name": "Dia Mundial de la Pneumònia",
+        "description": "Proclamat per la Coalició Global Contra la Pneumònia Infantil per conscienciar sobre la pneumònia, principal causa de mort en nens menors de 5 anys al món."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Ningú no pot ser considerat afortunat abans de la seva mort.",
+      "author": "Heròdot",
+      "context": "El pare de la Història grega, les cròniques del qual van narrar les guerres Mèdiques i la fragilitat dels imperis, recordava que el destí humà només pot jutjar-se en perspectiva."
+    },
+    "motivationalQuote": {
+      "text": "La saviesa és filla de l'experiència.",
+      "author": "Leonardo da Vinci"
+    },
+    "births": [
+      {
+        "name": "Auguste Rodin",
+        "description": "Escultor francès considerat el pare de l'escultura moderna, autor d'obres immortals com El pensador, El petó i Les portes de l'infern.",
+        "year": 1840
+      },
+      {
+        "name": "Grace Kelly",
+        "description": "Actriu americana convertida en princesa de Mònaco en casar-se amb el príncep Rainier III el 1956, guanyadora de l'Oscar per La noia del camp.",
+        "year": 1929
+      },
+      {
+        "name": "Anne Hathaway",
+        "description": "Actriu americana i guanyadora de l'Oscar per Els miserables (2013), també coneguda per El diable vesteix de Prada, Interstellar i Batman: El cavaller fosc, la llegenda.",
+        "year": 1982
+      }
+    ],
+    "events": [
+      {
+        "title": "Mort de Canut el Gran",
+        "description": "Va morir Canut el Gran, rei d'Anglaterra, Dinamarca i Noruega — un dels monarques més poderosos de l'Europa medieval del segle XI.",
+        "year": 1035
+      },
+      {
+        "title": "Primera emissió de TV Azteca (Mèxic)",
+        "description": "Televisión Azteca va iniciar les seves emissions a Mèxic com a empresa privada, convertint-se en el segon canal de televisió del país i trencant el monopoli de Televisa.",
+        "year": 1993
+      },
+      {
+        "title": "Naufragio del Titànic definitivament identificat",
+        "description": "Una expedició liderada per Robert Ballard va localitzar definitivament les restes del RMS Titànic al fons de l'Atlàntic Nord, 73 anys després del seu enfonsament.",
+        "year": 1985
+      }
+    ]
+  }
+}

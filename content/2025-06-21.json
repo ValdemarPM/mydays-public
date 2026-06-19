@@ -1,0 +1,271 @@
+{
+  "date": "2025-06-21",
+  "es": {
+    "saints": [
+      {
+        "name": "San Luis Gonzaga",
+        "type": "Religioso",
+        "description": "Jesuita italiano del siglo XVI que renunció a sus derechos de primogenitura para entrar en la Compañía de Jesús. Murió a los 23 años mientras cuidaba a enfermos de peste en Roma. Es patrono de los jóvenes y de los estudiantes universitarios."
+      },
+      {
+        "name": "San Eusebio de Samósata",
+        "type": "Obispo y Mártir",
+        "description": "Obispo de Samósata en el siglo IV y firme defensor de la fe nicena frente al arrianismo. Fue desterrado varias veces por emperadores pro-arrianos y murió en el exilio, según la tradición, al recibir una teja lanzada por una mujer arriana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional del Yoga",
+        "description": "Proclamado por la Asamblea General de la ONU en 2014, este día celebra la práctica del yoga como disciplina holística para el bienestar físico, mental y espiritual. Se celebra el 21 de junio coincidiendo con el solsticio de verano."
+      },
+      {
+        "name": "Día de la Música (Fête de la Musique)",
+        "description": "Festividad originada en Francia en 1982 que celebra la música en la calle durante el solsticio de verano. Se ha extendido a decenas de países y ciudades de todo el mundo, con conciertos gratuitos y espontáneos en espacios públicos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La música es el taquígrafo de las emociones.",
+      "author": "León Tolstói",
+      "context": "El escritor ruso León Tolstói, autor de 'Guerra y paz' y 'Anna Karénina', otorgó a la música un papel central en su reflexión sobre las emociones humanas y la espiritualidad."
+    },
+    "motivationalQuote": {
+      "text": "Dondequiera que estés, sé el alma de ese lugar.",
+      "author": "Rumi"
+    },
+    "births": [
+      {
+        "name": "Jean-Paul Sartre",
+        "description": "Filósofo, escritor y dramaturgo francés, principal exponente del existencialismo del siglo XX. Autor de 'El ser y la nada', 'La náusea' y 'A puerta cerrada', rechazó el Premio Nobel de Literatura en 1964 para preservar su independencia intelectual.",
+        "year": 1905
+      },
+      {
+        "name": "Juliette Lewis",
+        "description": "Actriz y cantante estadounidense, reconocida por sus papeles en 'Cape Fear' (1991) y 'Natural Born Killers' (1994). Fue nominada al Óscar a los 17 años y ha desarrollado también una carrera musical como líder del grupo Juliette and the Licks.",
+        "year": 1973
+      },
+      {
+        "name": "Prince William",
+        "description": "Príncipe de Gales y heredero al trono del Reino Unido, primogénito del rey Carlos III y la difunta princesa Diana. Su boda con Catherine Middleton en 2011 fue seguida por más de dos mil millones de personas en todo el mundo.",
+        "year": 1982
+      }
+    ],
+    "events": [
+      {
+        "title": "Coronación del rey Felipe II de España",
+        "description": "El 21 de junio de 1527 nació Felipe II, quien se convertiría en el rey más poderoso de su época, gobernando el mayor imperio de la historia hasta entonces. Bajo su reinado se libraron batallas decisivas como Lepanto (1571) y fracasó la Gran Armada contra Inglaterra (1588).",
+        "year": 1527
+      },
+      {
+        "title": "El Titanic llega al fondo del océano Atlántico",
+        "description": "El 21 de junio de 1912, tras semanas de búsqueda, se confirmó oficialmente que el RMS Titanic yacía en el fondo del Atlántico norte. El naufragio del 15 de abril de 1912 causó la muerte de más de 1.500 personas y cambió las regulaciones marítimas internacionales.",
+        "year": 1912
+      },
+      {
+        "title": "Se estrena 'Star Wars: El Imperio Contraataca'",
+        "description": "El 21 de junio de 1980 se estrenó en Europa la segunda película de la saga Star Wars, dirigida por Irvin Kershner. 'El Imperio Contraataca' es considerada por la crítica y el público como la mejor entrega de la franquicia y una de las obras maestras del cine de ciencia ficción.",
+        "year": 1980
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Aloysius Gonzaga",
+        "type": "Religious",
+        "description": "A 16th-century Italian Jesuit who renounced his rights as firstborn to enter the Society of Jesus. He died at age 23 while caring for plague victims in Rome. He is the patron saint of youth and university students."
+      },
+      {
+        "name": "Saint Eusebius of Samosata",
+        "type": "Bishop and Martyr",
+        "description": "Bishop of Samosata in the 4th century and a staunch defender of the Nicene faith against Arianism. He was exiled several times by pro-Arian emperors and died in exile — according to tradition, struck by a tile thrown by an Arian woman."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of Yoga",
+        "description": "Proclaimed by the UN General Assembly in 2014, this day celebrates the practice of yoga as a holistic discipline for physical, mental, and spiritual well-being. It falls on June 21, coinciding with the summer solstice."
+      },
+      {
+        "name": "World Music Day (Fête de la Musique)",
+        "description": "A celebration that originated in France in 1982, honoring music in the streets on the summer solstice. It has spread to dozens of countries and cities worldwide, with free and spontaneous concerts in public spaces."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Music is the shorthand of emotion.",
+      "author": "Leo Tolstoy",
+      "context": "Russian writer Leo Tolstoy, author of 'War and Peace' and 'Anna Karenina', gave music a central role in his reflections on human emotions and spirituality."
+    },
+    "motivationalQuote": {
+      "text": "Wherever you are, be the soul of that place.",
+      "author": "Rumi"
+    },
+    "births": [
+      {
+        "name": "Jean-Paul Sartre",
+        "description": "French philosopher, writer, and playwright, the leading figure of 20th-century existentialism. Author of 'Being and Nothingness', 'Nausea', and 'No Exit', he declined the Nobel Prize in Literature in 1964 to preserve his intellectual independence.",
+        "year": 1905
+      },
+      {
+        "name": "Juliette Lewis",
+        "description": "American actress and singer, known for her roles in 'Cape Fear' (1991) and 'Natural Born Killers' (1994). She was nominated for an Oscar at age 17 and has also developed a music career as leader of the band Juliette and the Licks.",
+        "year": 1973
+      },
+      {
+        "name": "Prince William",
+        "description": "Prince of Wales and heir to the British throne, eldest son of King Charles III and the late Princess Diana. His 2011 wedding to Catherine Middleton was watched by more than two billion people around the world.",
+        "year": 1982
+      }
+    ],
+    "events": [
+      {
+        "title": "Birth of King Philip II of Spain",
+        "description": "On June 21, 1527, Philip II was born — he would become the most powerful king of his era, ruling the largest empire in history at that time. Under his reign, decisive battles were fought, including Lepanto (1571), and the Spanish Armada against England failed (1588).",
+        "year": 1527
+      },
+      {
+        "title": "Location of the Titanic Confirmed",
+        "description": "On June 21, 1912, after weeks of searching, it was officially confirmed that the RMS Titanic lay on the floor of the North Atlantic. The sinking on April 15, 1912 had claimed more than 1,500 lives and led to sweeping changes in international maritime regulations.",
+        "year": 1912
+      },
+      {
+        "title": "'The Empire Strikes Back' Opens in Europe",
+        "description": "On June 21, 1980, the second Star Wars film, directed by Irvin Kershner, was released in Europe. 'The Empire Strikes Back' is considered by critics and audiences alike the best entry in the franchise and one of the masterpieces of science fiction cinema.",
+        "year": 1980
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Luís Gonzaga",
+        "type": "Religioso",
+        "description": "Jesuíta italiano do século XVI que renunciou aos seus direitos de primogênito para entrar na Companhia de Jesus. Morreu aos 23 anos enquanto cuidava de doentes da peste em Roma. É padroeiro dos jovens e dos estudantes universitários."
+      },
+      {
+        "name": "São Eusébio de Samósata",
+        "type": "Bispo e Mártir",
+        "description": "Bispo de Samósata no século IV e firme defensor da fé nicena contra o arianismo. Foi exilado várias vezes por imperadores pró-arianos e morreu no exílio — segundo a tradição, atingido por uma telha lançada por uma mulher ariana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional do Yoga",
+        "description": "Proclamado pela Assembleia Geral da ONU em 2014, este dia celebra a prática do yoga como disciplina holística para o bem-estar físico, mental e espiritual. É celebrado em 21 de junho, coincidindo com o solstício de verão."
+      },
+      {
+        "name": "Dia Mundial da Música (Fête de la Musique)",
+        "description": "Festividade originada na França em 1982 que celebra a música nas ruas durante o solstício de verão. Espalhou-se por dezenas de países e cidades do mundo inteiro, com concertos gratuitos e espontâneos em espaços públicos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A música é a taquigrafia das emoções.",
+      "author": "Lev Tolstói",
+      "context": "O escritor russo Lev Tolstói, autor de 'Guerra e Paz' e 'Anna Karênina', deu à música um papel central em sua reflexão sobre as emoções humanas e a espiritualidade."
+    },
+    "motivationalQuote": {
+      "text": "Onde quer que você esteja, seja a alma daquele lugar.",
+      "author": "Rumi"
+    },
+    "births": [
+      {
+        "name": "Jean-Paul Sartre",
+        "description": "Filósofo, escritor e dramaturgo francês, principal expoente do existencialismo do século XX. Autor de 'O Ser e o Nada', 'A Náusea' e 'Entre Quatro Paredes', recusou o Prêmio Nobel de Literatura em 1964 para preservar sua independência intelectual.",
+        "year": 1905
+      },
+      {
+        "name": "Juliette Lewis",
+        "description": "Atriz e cantora americana, conhecida pelos papéis em 'Cabo do Medo' (1991) e 'Assassinos por Natureza' (1994). Foi indicada ao Oscar aos 17 anos e também desenvolveu uma carreira musical como líder da banda Juliette and the Licks.",
+        "year": 1973
+      },
+      {
+        "name": "Príncipe William",
+        "description": "Príncipe de Gales e herdeiro do trono britânico, filho primogênito do rei Carlos III e da falecida princesa Diana. Seu casamento com Catherine Middleton em 2011 foi assistido por mais de dois bilhões de pessoas em todo o mundo.",
+        "year": 1982
+      }
+    ],
+    "events": [
+      {
+        "title": "Nascimento do Rei Filipe II de Espanha",
+        "description": "Em 21 de junho de 1527, nasceu Filipe II, que se tornaria o rei mais poderoso de sua época, governando o maior império da história até então. Sob seu reinado foram travadas batalhas decisivas como Lepanto (1571) e fracassou a Grande Armada contra a Inglaterra (1588).",
+        "year": 1527
+      },
+      {
+        "title": "Localização do Titanic Confirmada",
+        "description": "Em 21 de junho de 1912, após semanas de buscas, foi confirmado oficialmente que o RMS Titanic jazia no fundo do Atlântico Norte. O naufrágio de 15 de abril de 1912 havia custado a vida de mais de 1.500 pessoas e levou a mudanças nas regulamentações marítimas internacionais.",
+        "year": 1912
+      },
+      {
+        "title": "'O Império Contra-Ataca' Estreia na Europa",
+        "description": "Em 21 de junho de 1980, o segundo filme de Star Wars, dirigido por Irvin Kershner, foi lançado na Europa. 'O Império Contra-Ataca' é considerado por críticos e público o melhor filme da franquia e uma das obras-primas do cinema de ficção científica.",
+        "year": 1980
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Lluís Gonzaga",
+        "type": "Religiós",
+        "description": "Jesuïta italià del segle XVI que va renunciar als seus drets de primogènit per entrar a la Companyia de Jesús. Va morir als 23 anys mentre cuidava malalts de pesta a Roma. És patró dels joves i dels estudiants universitaris."
+      },
+      {
+        "name": "Sant Eusebi de Samòsata",
+        "type": "Bisbe i Màrtir",
+        "description": "Bisbe de Samòsata al segle IV i ferm defensor de la fe nicena davant l'arianisme. Va ser exiliat diverses vegades per emperadors pro-arrians i va morir a l'exili — segons la tradició, colpejat per una teula llançada per una dona arriana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional del Ioga",
+        "description": "Proclamat per l'Assemblea General de l'ONU el 2014, aquest dia celebra la pràctica del ioga com a disciplina holística per al benestar físic, mental i espiritual. Se celebra el 21 de juny, coincidint amb el solstici d'estiu."
+      },
+      {
+        "name": "Dia Mundial de la Música (Fête de la Musique)",
+        "description": "Festivitat originada a França el 1982 que celebra la música al carrer durant el solstici d'estiu. S'ha estès a desenes de països i ciutats de tot el món, amb concerts gratuïts i espontanis en espais públics."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La música és la taquigrafia de les emocions.",
+      "author": "Lev Tolstoi",
+      "context": "L'escriptor rus Lev Tolstoi, autor de 'Guerra i Pau' i 'Anna Karènina', va atorgar a la música un paper central en la seva reflexió sobre les emocions humanes i l'espiritualitat."
+    },
+    "motivationalQuote": {
+      "text": "On siguis, sigues l'ànima d'aquell lloc.",
+      "author": "Rumi"
+    },
+    "births": [
+      {
+        "name": "Jean-Paul Sartre",
+        "description": "Filòsof, escriptor i dramaturg francès, principal exponent de l'existencialisme del segle XX. Autor de 'L'ésser i el no-res', 'La nàusea' i 'A porta tancada', va rebutjar el Premi Nobel de Literatura el 1964 per preservar la seva independència intel·lectual.",
+        "year": 1905
+      },
+      {
+        "name": "Juliette Lewis",
+        "description": "Actriu i cantant americana, coneguda pels papers a 'Cape Fear' (1991) i 'Natural Born Killers' (1994). Va ser nominada a l'Oscar als 17 anys i ha desenvolupat també una carrera musical com a líder del grup Juliette and the Licks.",
+        "year": 1973
+      },
+      {
+        "name": "Príncep William",
+        "description": "Príncep de Gal·les i hereu al tron britànic, fill gran del rei Carles III i la difunta princesa Diana. El seu casament amb Catherine Middleton el 2011 va ser seguit per més de dos mil milions de persones a tot el món.",
+        "year": 1982
+      }
+    ],
+    "events": [
+      {
+        "title": "Naixement del Rei Felip II d'Espanya",
+        "description": "El 21 de juny de 1527 va néixer Felip II, que es convertiria en el rei més poderós de la seva època, governant el major imperi de la història fins aleshores. Sota el seu regnat es van disputar batalles decisives com Lepant (1571) i va fracassar l'Armada Invencible contra Anglaterra (1588).",
+        "year": 1527
+      },
+      {
+        "title": "Localització del Titanic Confirmada",
+        "description": "El 21 de juny de 1912, després de setmanes de recerca, es va confirmar oficialment que el RMS Titanic jeia al fons de l'Atlàntic Nord. El naufragi del 15 d'abril de 1912 havia causat la mort de més de 1.500 persones i va comportar canvis en les regulacions marítimes internacionals.",
+        "year": 1912
+      },
+      {
+        "title": "'L'Imperi Contraataca' s'Estrena a Europa",
+        "description": "El 21 de juny de 1980, la segona pel·lícula de Star Wars, dirigida per Irvin Kershner, es va estrenar a Europa. 'L'Imperi Contraataca' és considerada per la crítica i el públic com la millor entrega de la franquícia i una de les obres mestres del cinema de ciència-ficció.",
+        "year": 1980
+      }
+    ]
+  }
+}

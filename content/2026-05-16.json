@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-16",
+  "es": {
+    "saints": [
+      {
+        "name": "San Juan Nepomuceno",
+        "type": "Mártir",
+        "description": "Sacerdote y mártir checo del siglo XIV, confesor de la reina Sofía de Bohemia. El rey Venceslao IV lo mandó arrojar al río Moldava (Praga) en 1393 al negarse a revelar el secreto de confesión. Es patrono de los confesores, los guardias de los puentes y protector contra las inundaciones."
+      },
+      {
+        "name": "Santa Margarita de Cortona",
+        "type": "Penitente",
+        "description": "Mística italiana del siglo XIII, conocida como la 'Magdalena de la Toscana'. Tras una juventud turbulenta, se convirtió en terciaria franciscana y vivió una vida de extrema penitencia y caridad. Sus visiones místicas fueron recogidas por su confesor."
+      },
+      {
+        "name": "San Simón Stock",
+        "type": "Fraile Carmelita",
+        "description": "Religioso carmelita inglés del siglo XIII, sexto prior general de la Orden del Carmelo. Según la tradición, en 1251 recibió de la Virgen María el Escapulario del Carmen, que se convirtió en un signo devocional de gran difusión en el mundo católico."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Luz",
+        "description": "Proclamado por la UNESCO en 2018 para celebrar el papel fundamental de la luz en la ciencia, la cultura y el arte. Se celebra el 16 de mayo en conmemoración del primer láser funcional, construido por Theodore Maiman en 1960."
+      },
+      {
+        "name": "Día Mundial del Movimiento",
+        "description": "Promovido por organizaciones de salud mundiales para concienciar sobre los beneficios del ejercicio físico diario y combatir el sedentarismo, uno de los principales problemas de salud del siglo XXI."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La luz que ilumina es la misma que ciega.",
+      "author": "Johann Wolfgang von Goethe"
+    },
+    "motivationalQuote": {
+      "text": "No importa lo despacio que vayas, siempre y cuando no te detengas.",
+      "author": "Confucio"
+    },
+    "births": [
+      {
+        "name": "Henry Fonda",
+        "description": "Actor americano, uno de los grandes del cine clásico de Hollywood. Protagonizó Doce hombres sin piedad, Las uvas de la ira y La diligencia. Su carrera abarcó más de cinco décadas y recibió el Óscar honorífico en 1981.",
+        "year": "1905"
+      },
+      {
+        "name": "Liberace",
+        "description": "Pianista y showman americano de origen polaco-italiano, famoso por su extravagante puesta en escena y sus trajes de pedrería. Fue el pianista mejor pagado del mundo durante las décadas de 1950 y 1960, y un pionero del espectáculo de variedades televisivo.",
+        "year": "1919"
+      },
+      {
+        "name": "Janet Jackson",
+        "description": "Cantante, compositora, actriz y bailarina americana, hermana de Michael Jackson. Con más de 100 millones de álbumes vendidos, es una de las artistas musicales más vendidas de todos los tiempos. Sus álbumes Control y Rhythm Nation 1814 marcaron hitos en el pop y el R&B.",
+        "year": "1966"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera ceremonia de los premios Óscar",
+        "description": "La Academia de Artes y Ciencias Cinematográficas celebró su primera gala de entrega de premios en el hotel Hollywood Roosevelt. La ceremonia duró apenas 15 minutos. Emil Jannings fue el primer ganador del Óscar al mejor actor.",
+        "year": "1929"
+      },
+      {
+        "title": "Primer láser funcional",
+        "description": "El físico Theodore Maiman hizo funcionar el primer láser de la historia en los laboratorios Hughes Research en Malibu (California), usando un rubí como medio activo. Este dispositivo cambiaría para siempre la medicina, las telecomunicaciones y la tecnología.",
+        "year": "1960"
+      },
+      {
+        "title": "Inauguración del Palacio de Versalles",
+        "description": "Luis XIV de Francia inauguró el Palacio de Versalles como residencia real oficial, convirtiéndolo en el mayor palacio del mundo y en el símbolo del absolutismo monárquico francés.",
+        "year": "1682"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint John of Nepomuk",
+        "type": "Martyr",
+        "description": "14th-century Czech priest and martyr, confessor to Queen Sophia of Bohemia. King Wenceslaus IV had him thrown from the Charles Bridge into the Vltava River in Prague in 1393 for refusing to reveal the secrets of the confessional. He is the patron saint of confessors, bridge guards, and protector against floods."
+      },
+      {
+        "name": "Saint Margaret of Cortona",
+        "type": "Penitent",
+        "description": "13th-century Italian mystic, known as the 'Magdalene of Tuscany'. After a turbulent youth, she became a Franciscan tertiary and lived a life of extreme penance and charity. Her mystical visions were recorded by her confessor."
+      },
+      {
+        "name": "Saint Simon Stock",
+        "type": "Carmelite Friar",
+        "description": "13th-century English Carmelite religious, sixth Prior General of the Order of Carmel. According to tradition, in 1251 he received the Brown Scapular of Our Lady of Mount Carmel, which became a widely-used devotional sign in the Catholic world."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of Light",
+        "description": "Proclaimed by UNESCO in 2018 to celebrate the fundamental role of light in science, culture, and art. It is held on May 16 to commemorate the first functional laser, built by Theodore Maiman in 1960."
+      },
+      {
+        "name": "World Movement Day",
+        "description": "Promoted by global health organisations to raise awareness of the benefits of daily physical exercise and combat sedentary behaviour, one of the main health problems of the 21st century."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The light that illuminates is the same that blinds.",
+      "author": "Johann Wolfgang von Goethe"
+    },
+    "motivationalQuote": {
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius"
+    },
+    "births": [
+      {
+        "name": "Henry Fonda",
+        "description": "American actor, one of the greats of classic Hollywood cinema. He starred in 12 Angry Men, The Grapes of Wrath, and Stagecoach. His career spanned more than five decades, and he received the Honorary Academy Award in 1981.",
+        "year": "1905"
+      },
+      {
+        "name": "Liberace",
+        "description": "American pianist and showman of Polish-Italian origin, famous for his extravagant performances and jewelled costumes. He was the world's highest-paid pianist during the 1950s and 1960s, and a pioneer of television variety entertainment.",
+        "year": "1919"
+      },
+      {
+        "name": "Janet Jackson",
+        "description": "American singer, songwriter, actress, and dancer, sister of Michael Jackson. With more than 100 million albums sold, she is one of the best-selling musical artists of all time. Her albums Control and Rhythm Nation 1814 were landmarks in pop and R&B.",
+        "year": "1966"
+      }
+    ],
+    "events": [
+      {
+        "title": "First Academy Awards Ceremony",
+        "description": "The Academy of Motion Picture Arts and Sciences held its first awards gala at the Hollywood Roosevelt Hotel. The ceremony lasted just 15 minutes. Emil Jannings was the first winner of the Academy Award for Best Actor.",
+        "year": "1929"
+      },
+      {
+        "title": "First Functional Laser",
+        "description": "Physicist Theodore Maiman operated the world's first laser at Hughes Research Laboratories in Malibu, California, using a ruby as the active medium. This device would forever change medicine, telecommunications, and technology.",
+        "year": "1960"
+      },
+      {
+        "title": "Opening of the Palace of Versailles",
+        "description": "Louis XIV of France inaugurated the Palace of Versailles as the official royal residence, making it the largest palace in the world and a symbol of French monarchical absolutism.",
+        "year": "1682"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São João Nepomuceno",
+        "type": "Mártir",
+        "description": "Sacerdote e mártir tcheco do século XIV, confessor da rainha Sofia da Boêmia. O rei Venceslau IV o mandou jogar no rio Moldava (Praga) em 1393 por se recusar a revelar o sigilo da confissão. É padroeiro dos confessores, dos guardas das pontes e protetor contra as inundações."
+      },
+      {
+        "name": "Santa Margarida de Cortona",
+        "type": "Penitente",
+        "description": "Mística italiana do século XIII, conhecida como a 'Madalena da Toscana'. Após uma juventude turbulenta, tornou-se terciária franciscana e viveu uma vida de extrema penitência e caridade. Suas visões místicas foram registradas pelo seu confessor."
+      },
+      {
+        "name": "São Simão Stock",
+        "type": "Frade Carmelita",
+        "description": "Religioso carmelita inglês do século XIII, sexto prior-geral da Ordem do Carmelo. Segundo a tradição, em 1251 recebeu da Virgem Maria o Escapulário do Carmo, que se tornou um sinal devocional de grande difusão no mundo católico."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Luz",
+        "description": "Proclamado pela UNESCO em 2018 para celebrar o papel fundamental da luz na ciência, na cultura e na arte. É celebrado em 16 de maio em comemoração ao primeiro laser funcional, construído por Theodore Maiman em 1960."
+      },
+      {
+        "name": "Dia Mundial do Movimento",
+        "description": "Promovido por organizações de saúde mundiais para conscientizar sobre os benefícios do exercício físico diário e combater o sedentarismo, um dos principais problemas de saúde do século XXI."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A luz que ilumina é a mesma que cega.",
+      "author": "Johann Wolfgang von Goethe"
+    },
+    "motivationalQuote": {
+      "text": "Não importa quão devagar você vá, desde que não pare.",
+      "author": "Confúcio"
+    },
+    "births": [
+      {
+        "name": "Henry Fonda",
+        "description": "Ator americano, um dos grandes do cinema clássico de Hollywood. Protagonizou Doze Homens e uma Sentença, As Vinhas da Ira e A Diligência. Sua carreira abrangeu mais de cinco décadas e recebeu o Oscar honorário em 1981.",
+        "year": "1905"
+      },
+      {
+        "name": "Liberace",
+        "description": "Pianista e showman americano de origem polono-italiana, famoso por suas apresentações extravagantes e trajes de pedras preciosas. Foi o pianista mais bem pago do mundo durante as décadas de 1950 e 1960, e um pioneiro do espetáculo de variedades televisivo.",
+        "year": "1919"
+      },
+      {
+        "name": "Janet Jackson",
+        "description": "Cantora, compositora, atriz e dançarina americana, irmã de Michael Jackson. Com mais de 100 milhões de álbuns vendidos, é uma das artistas musicais mais vendidas de todos os tempos. Seus álbuns Control e Rhythm Nation 1814 marcaram épocas no pop e no R&B.",
+        "year": "1966"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeira cerimônia do Oscar",
+        "description": "A Academia de Artes e Ciências Cinematográficas realizou sua primeira gala de premiação no hotel Hollywood Roosevelt. A cerimônia durou apenas 15 minutos. Emil Jannings foi o primeiro vencedor do Oscar de Melhor Ator.",
+        "year": "1929"
+      },
+      {
+        "title": "Primeiro laser funcional",
+        "description": "O físico Theodore Maiman fez funcionar o primeiro laser da história nos laboratórios Hughes Research em Malibu (Califórnia), usando um rubi como meio ativo. Este dispositivo mudaria para sempre a medicina, as telecomunicações e a tecnologia.",
+        "year": "1960"
+      },
+      {
+        "title": "Inauguração do Palácio de Versalhes",
+        "description": "Luís XIV da França inaugurou o Palácio de Versalhes como residência real oficial, tornando-o o maior palácio do mundo e símbolo do absolutismo monárquico francês.",
+        "year": "1682"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Joan Nepomucè",
+        "type": "Màrtir",
+        "description": "Sacerdot i màrtir txec del segle XIV, confessor de la reina Sofia de Bohèmia. El rei Venceslau IV el va fer llançar al riu Moldava (Praga) el 1393 per negar-se a revelar el secret de confessió. És patró dels confessors, els guardes dels ponts i protector contra les inundacions."
+      },
+      {
+        "name": "Santa Margarida de Cortona",
+        "type": "Penitent",
+        "description": "Mística italiana del segle XIII, coneguda com la 'Magdalena de la Toscana'. Després d'una joventut turbulenta, va esdevenir terciària franciscana i va viure una vida de extrema penitència i caritat. Les seves visions místiques van ser recollides pel seu confessor."
+      },
+      {
+        "name": "Sant Simó Stock",
+        "type": "Frare Carmelità",
+        "description": "Religiós carmelita anglès del segle XIII, sisè prior general de l'Orde del Carmel. Segons la tradició, el 1251 va rebre de la Verge Maria l'Escapulari del Carmel, que es va convertir en un signe devocional de gran difusió al món catòlic."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la Llum",
+        "description": "Proclamat per la UNESCO el 2018 per celebrar el paper fonamental de la llum en la ciència, la cultura i l'art. Se celebra el 16 de maig en commemoració del primer làser funcional, construït per Theodore Maiman el 1960."
+      },
+      {
+        "name": "Dia Mundial del Moviment",
+        "description": "Promogut per organitzacions de salut mundials per conscienciar sobre els beneficis de l'exercici físic diari i combatre el sedentarisme, un dels principals problemes de salut del segle XXI."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La llum que il·lumina és la mateixa que encega.",
+      "author": "Johann Wolfgang von Goethe"
+    },
+    "motivationalQuote": {
+      "text": "No importa el poc a poc que vagis, sempre que no t'aturis.",
+      "author": "Confuci"
+    },
+    "births": [
+      {
+        "name": "Henry Fonda",
+        "description": "Actor americà, un dels grans del cinema clàssic de Hollywood. Va protagonitzar Dotze homes sense pietat, Les raïms de la ira i La diligència. La seva carrera va abastar més de cinc dècades i va rebre l'Oscar honorari el 1981.",
+        "year": "1905"
+      },
+      {
+        "name": "Liberace",
+        "description": "Pianista i showman americà d'origen polonès-italià, famós per les seves actuacions extravagants i els vestits de pedreria. Va ser el pianista millor pagat del món durant les dècades de 1950 i 1960, i un pioner dels espectacles de varietats televisius.",
+        "year": "1919"
+      },
+      {
+        "name": "Janet Jackson",
+        "description": "Cantant, compositora, actriu i ballarina americana, germana de Michael Jackson. Amb més de 100 milions d'àlbums venuts, és una de les artistes musicals més venudes de tots els temps. Els seus àlbums Control i Rhythm Nation 1814 van marcar fites al pop i al R&B.",
+        "year": "1966"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera cerimònia dels premis Oscar",
+        "description": "L'Acadèmia de les Arts i les Ciències Cinematogràfiques va celebrar la seva primera gala de lliurament de premis a l'hotel Hollywood Roosevelt. La cerimònia va durar tan sols 15 minuts. Emil Jannings va ser el primer guanyador de l'Oscar al millor actor.",
+        "year": "1929"
+      },
+      {
+        "title": "Primer làser funcional",
+        "description": "El físic Theodore Maiman va fer funcionar el primer làser de la història als laboratoris Hughes Research a Malibu (Califòrnia), fent servir un robí com a medi actiu. Aquest dispositiu canviaria per sempre la medicina, les telecomunicacions i la tecnologia.",
+        "year": "1960"
+      },
+      {
+        "title": "Inauguració del Palau de Versalles",
+        "description": "Lluís XIV de França va inaugurar el Palau de Versalles com a residència reial oficial, convertint-lo en el palau més gran del món i en el símbol de l'absolutisme monàrquic francès.",
+        "year": "1682"
+      }
+    ]
+  }
+}

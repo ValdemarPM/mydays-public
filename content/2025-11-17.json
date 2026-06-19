@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-17",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Isabel de Hungría",
+        "type": "Reina",
+        "description": "Princesa de Hungría del siglo XIII, casada con el landgrave de Turingia. Reconocida por su radical caridad: distribuyó entre los pobres su propia comida y riquezas, fundó hospitales y sirvió personalmente a los enfermos. Canonizada solo 4 años después de su muerte (1231)."
+      },
+      {
+        "name": "San Gregorio el Taumaturgo",
+        "type": "Obispo",
+        "description": "Obispo de Neocesarea del siglo III, discípulo de Orígenes. Conocido como 'el Taumaturgo' (hacedor de milagros) por los numerosos prodigios atribuidos a su intercesión. Evangelizó la región del Ponto."
+      },
+      {
+        "name": "San Hugo de Lincoln",
+        "type": "Obispo",
+        "description": "Monje cartujo borgoñón del siglo XII que se convirtió en obispo de Lincoln, famoso por su independencia ante el poder real inglés y su defensa de los judíos ante los pogromos medievales."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional del Estudiante",
+        "description": "Conmemora la represión nazi contra los estudiantes checos el 17 de noviembre de 1939, cuando las SS fusilaron a nueve líderes estudiantiles y cerraron las universidades. Adoptado por la Unión Internacional de Estudiantes en 1946."
+      },
+      {
+        "name": "Día de la Lucha contra la Impunidad (varios países)",
+        "description": "Jornada que recuerda la necesidad de la justicia y la responsabilidad frente a las graves violaciones de los derechos humanos en el mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No podéis hacer nada bueno en el mundo sin entusiasmo.",
+      "author": "Ralph Waldo Emerson",
+      "context": "El filósofo y ensayista americano, padre del trascendentalismo, dedicó su obra a explorar la relación entre el individuo y la sociedad, el espíritu y la acción."
+    },
+    "motivationalQuote": {
+      "text": "No dejes que lo que no puedes hacer interfiera con lo que puedes hacer.",
+      "author": "John Wooden"
+    },
+    "births": [
+      {
+        "name": "Louis Daguerre",
+        "description": "Inventor y artista francés que perfeccionó el daguerrotipo (1839), el primer proceso fotográfico práctico de la historia, que revolucionó la forma de representar la realidad.",
+        "year": 1787
+      },
+      {
+        "name": "Martin Scorsese",
+        "description": "Director, productor y guionista estadounidense, uno de los más influyentes del cine moderno, conocido por Taxi Driver, Toro salvaje, Goodfellas y Infiltrados.",
+        "year": 1942
+      },
+      {
+        "name": "Sophie Turner",
+        "description": "Actriz británica conocida por interpretar a Sansa Stark en la serie Juego de Tronos y a Jean Grey/Fénix en la saga de X-Men.",
+        "year": 1996
+      }
+    ],
+    "events": [
+      {
+        "title": "Inauguración del Canal de Suez",
+        "description": "El Canal de Suez fue inaugurado en Egipto en una ceremonia presidida por la emperatriz Eugenia de Francia, conectando el Mediterráneo con el Mar Rojo y transformando el comercio mundial.",
+        "year": 1869
+      },
+      {
+        "title": "Represión nazi en las universidades checas",
+        "description": "Las SS irrumpieron en las universidades checas, ejecutando a nueve líderes estudiantiles y deportando a 1.200 a campos de concentración, en represalia por las protestas contra la ocupación.",
+        "year": 1939
+      },
+      {
+        "title": "Primera misión conjunta US-URSS en el espacio",
+        "description": "El programa Apolo-Soyuz realizó el primer acoplamiento entre naves espaciales de Estados Unidos y la Unión Soviética, símbolo de détente en plena Guerra Fría.",
+        "year": 1975
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Elizabeth of Hungary",
+        "type": "Queen",
+        "description": "13th-century Princess of Hungary, wife of the Landgrave of Thuringia. Renowned for her radical charity: she gave away her food and wealth to the poor, founded hospitals, and personally served the sick. Canonised only four years after her death (1231)."
+      },
+      {
+        "name": "Saint Gregory the Wonderworker",
+        "type": "Bishop",
+        "description": "3rd-century bishop of Neocaesarea and disciple of Origen. Known as 'the Wonderworker' (Thaumaturgos) for the many miracles attributed to his intercession. He evangelised the region of Pontus."
+      },
+      {
+        "name": "Saint Hugh of Lincoln",
+        "type": "Bishop",
+        "description": "12th-century Burgundian Carthusian monk who became Bishop of Lincoln, famous for his independence from royal English power and his defence of Jews against medieval pogroms."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Students' Day",
+        "description": "Commemorates the Nazi crackdown on Czech students on 17 November 1939, when the SS shot nine student leaders and closed the universities. Adopted by the International Union of Students in 1946."
+      },
+      {
+        "name": "Day Against Impunity (various countries)",
+        "description": "A day that recalls the necessity of justice and accountability in the face of serious human rights violations around the world."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nothing great was ever achieved without enthusiasm.",
+      "author": "Ralph Waldo Emerson",
+      "context": "The American philosopher and essayist, father of Transcendentalism, dedicated his work to exploring the relationship between the individual and society, spirit and action."
+    },
+    "motivationalQuote": {
+      "text": "Do not let what you cannot do interfere with what you can do.",
+      "author": "John Wooden"
+    },
+    "births": [
+      {
+        "name": "Louis Daguerre",
+        "description": "French inventor and artist who perfected the daguerreotype (1839), the first practical photographic process in history, which revolutionised the way reality is represented.",
+        "year": 1787
+      },
+      {
+        "name": "Martin Scorsese",
+        "description": "American director, producer, and screenwriter, one of the most influential figures in modern cinema, known for Taxi Driver, Raging Bull, Goodfellas, and The Departed.",
+        "year": 1942
+      },
+      {
+        "name": "Sophie Turner",
+        "description": "British actress known for playing Sansa Stark in Game of Thrones and Jean Grey/Phoenix in the X-Men film series.",
+        "year": 1996
+      }
+    ],
+    "events": [
+      {
+        "title": "Opening of the Suez Canal",
+        "description": "The Suez Canal was inaugurated in Egypt at a ceremony presided over by Empress Eugénie of France, connecting the Mediterranean with the Red Sea and transforming world trade.",
+        "year": 1869
+      },
+      {
+        "title": "Nazi crackdown on Czech universities",
+        "description": "The SS raided Czech universities, executing nine student leaders and deporting 1,200 to concentration camps in retaliation for protests against the occupation.",
+        "year": 1939
+      },
+      {
+        "title": "First US-USSR joint space mission",
+        "description": "The Apollo-Soyuz programme carried out the first docking between American and Soviet spacecraft, a symbol of détente during the Cold War.",
+        "year": 1975
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Isabel da Hungria",
+        "type": "Rainha",
+        "description": "Princesa da Hungria do século XIII, esposa do Landgrave da Turíngia. Conhecida pela sua caridade radical: distribuiu entre os pobres a sua própria comida e riquezas, fundou hospitais e serviu pessoalmente os doentes. Canonizada apenas quatro anos após a sua morte (1231)."
+      },
+      {
+        "name": "São Gregório, o Taumaturgo",
+        "type": "Bispo",
+        "description": "Bispo de Neocesareia do século III e discípulo de Orígenes. Conhecido como 'o Taumaturgo' (fazedor de milagres) pelos numerosos prodígios atribuídos à sua intercessão. Evangelizou a região do Ponto."
+      },
+      {
+        "name": "São Hugo de Lincoln",
+        "type": "Bispo",
+        "description": "Monge cartuxo borgonhão do século XII que se tornou bispo de Lincoln, famoso pela sua independência perante o poder real inglês e a sua defesa dos judeus contra os pogroms medievais."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional do Estudante",
+        "description": "Comemora a repressão nazi contra os estudantes checos em 17 de novembro de 1939, quando as SS fuzilaram nove líderes estudantis e fecharam as universidades. Adotado pela União Internacional de Estudantes em 1946."
+      },
+      {
+        "name": "Dia Contra a Impunidade (vários países)",
+        "description": "Jornada que recorda a necessidade de justiça e responsabilização perante as graves violações dos direitos humanos no mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nada de grande foi jamais alcançado sem entusiasmo.",
+      "author": "Ralph Waldo Emerson",
+      "context": "O filósofo e ensaísta americano, pai do Transcendentalismo, dedicou a sua obra a explorar a relação entre o indivíduo e a sociedade, o espírito e a ação."
+    },
+    "motivationalQuote": {
+      "text": "Não deixe que o que não pode fazer interfira com o que pode fazer.",
+      "author": "John Wooden"
+    },
+    "births": [
+      {
+        "name": "Louis Daguerre",
+        "description": "Inventor e artista francês que aperfeiçoou o daguerreótipo (1839), o primeiro processo fotográfico prático da história, que revolucionou a forma de representar a realidade.",
+        "year": 1787
+      },
+      {
+        "name": "Martin Scorsese",
+        "description": "Diretor, produtor e roteirista americano, um dos mais influentes do cinema moderno, conhecido por Taxi Driver, Touro Indomável, Goodfellas e Os Infiltrados.",
+        "year": 1942
+      },
+      {
+        "name": "Sophie Turner",
+        "description": "Atriz britânica conhecida por interpretar Sansa Stark em Game of Thrones e Jean Grey/Fênix na saga X-Men.",
+        "year": 1996
+      }
+    ],
+    "events": [
+      {
+        "title": "Inauguração do Canal de Suez",
+        "description": "O Canal de Suez foi inaugurado no Egito numa cerimônia presidida pela imperatriz Eugênia de França, conectando o Mediterrâneo com o Mar Vermelho e transformando o comércio mundial.",
+        "year": 1869
+      },
+      {
+        "title": "Repressão nazi nas universidades chekas",
+        "description": "As SS invadiram as universidades checas, executando nove líderes estudantis e deportando 1.200 para campos de concentração em retaliação pelas manifestações contra a ocupação.",
+        "year": 1939
+      },
+      {
+        "title": "Primeira missão conjunta EUA-URSS no espaço",
+        "description": "O programa Apollo-Soyuz realizou o primeiro acoplamento entre naves espaciais americanas e soviéticas, símbolo da détente durante a Guerra Fria.",
+        "year": 1975
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Isabel d'Hongria",
+        "type": "Reina",
+        "description": "Princesa d'Hongria del segle XIII, esposa del Landgrave de Turíngia. Reconeguda per la seva caritat radical: va distribuir als pobres la seva pròpia menjar i riqueses, va fundar hospitals i va servir personalment els malalts. Canonitzada només quatre anys després de la seva mort (1231)."
+      },
+      {
+        "name": "Sant Gregori el Taumaturg",
+        "type": "Bisbe",
+        "description": "Bisbe de Neocesàrea del segle III i deixeble d'Orígenes. Conegut com 'el Taumaturg' (fedor de miracles) pels nombrosos prodigis atribuïts a la seva intercessió. Va evangelitzar la regió del Pont."
+      },
+      {
+        "name": "Sant Hug de Lincoln",
+        "type": "Bisbe",
+        "description": "Monjo cartoixà borgonyó del segle XII que va esdevenir bisbe de Lincoln, famós per la seva independència enfront del poder reial anglès i la seva defensa dels jueus contra els pogroms medievals."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de l'Estudiant",
+        "description": "Commemora la repressió nazi contra els estudiants txecs el 17 de novembre de 1939, quan les SS van afusellar nou líders estudiantils i van tancar les universitats. Adoptat per la Unió Internacional d'Estudiants el 1946."
+      },
+      {
+        "name": "Dia Contra la Impunitat (diversos països)",
+        "description": "Jornada que recorda la necessitat de la justícia i la responsabilitat davant les greus violacions dels drets humans al món."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Res de gran no s'ha aconseguit mai sense entusiasme.",
+      "author": "Ralph Waldo Emerson",
+      "context": "El filòsof i assagista americà, pare del Transcendentalisme, va dedicar la seva obra a explorar la relació entre l'individu i la societat, l'esperit i l'acció."
+    },
+    "motivationalQuote": {
+      "text": "No deixis que el que no pots fer interfereixi amb el que pots fer.",
+      "author": "John Wooden"
+    },
+    "births": [
+      {
+        "name": "Louis Daguerre",
+        "description": "Inventor i artista francès que va perfeccionar el daguerreotip (1839), el primer procés fotogràfic pràctic de la història, que va revolucionar la manera de representar la realitat.",
+        "year": 1787
+      },
+      {
+        "name": "Martin Scorsese",
+        "description": "Director, productor i guionista americà, un dels més influents del cinema modern, conegut per Taxi Driver, Toro salvatge, Goodfellas i Els infiltrats.",
+        "year": 1942
+      },
+      {
+        "name": "Sophie Turner",
+        "description": "Actriu britànica coneguda per interpretar Sansa Stark a Joc de Trons i Jean Grey/Fènix a la saga X-Men.",
+        "year": 1996
+      }
+    ],
+    "events": [
+      {
+        "title": "Inauguració del Canal de Suez",
+        "description": "El Canal de Suez va ser inaugurat a Egipte en una cerimònia presidida per l'emperadriu Eugènia de França, connectant la Mediterrània amb el Mar Roig i transformant el comerç mundial.",
+        "year": 1869
+      },
+      {
+        "title": "Repressió nazi a les universitats txeques",
+        "description": "Les SS van irrompre a les universitats txeques, executant nou líders estudiantils i deportant 1.200 a camps de concentració en represàlia per les protestes contra l'ocupació.",
+        "year": 1939
+      },
+      {
+        "title": "Primera missió conjunta EUA-URSS a l'espai",
+        "description": "El programa Apollo-Soyuz va realitzar el primer acoblament entre naus espacials americanes i soviètiques, símbol de la distensió durant la Guerra Freda.",
+        "year": 1975
+      }
+    ]
+  }
+}

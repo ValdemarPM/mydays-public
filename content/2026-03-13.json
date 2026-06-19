@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-13",
+  "es": {
+    "saints": [
+      { "name": "San Rodrigo de Córdoba", "type": "Mártir", "description": "Sacerdote español del siglo IX decapitado en Córdoba durante la persecución árabe por confesar su fe cristiana; venerado junto con San Salomón." },
+      { "name": "San Nicéforo I de Constantinopla", "type": "Patriarca", "description": "Patriarca de Constantinopla a principios del siglo IX, defensor del culto a las imágenes sagradas frente a los emperadores iconoclastas, murió en el exilio." },
+      { "name": "San Leandro de Sevilla", "type": "Obispo y Doctor", "description": "Obispo de Sevilla en el siglo VI, hermano de San Isidoro, que contribuyó decisivamente a la conversión de los visigodos al catolicismo." }
+    ],
+    "observances": [
+      { "name": "Día del Beso (el 13 de marzo según algunas tradiciones)", "description": "Jornada informal que celebra el beso como expresión universal de afecto, amor y saludo en las distintas culturas del mundo." },
+      { "name": "Día de la Economía del Bien Común", "description": "Jornada para promover el modelo de empresa que mide el éxito no solo en términos de beneficio económico sino en su contribución al bien de la sociedad y el planeta." }
+    ],
+    "historicalQuote": {
+      "text": "El éxito es ir de fracaso en fracaso sin perder el entusiasmo.",
+      "author": "Winston Churchill",
+      "context": "Churchill es célebre por su tenacidad en los momentos más oscuros de la Segunda Guerra Mundial. Esta frase resume su carácter resiliente y su capacidad para transformar los fracasos en aprendizaje."
+    },
+    "motivationalQuote": {
+      "text": "Trabaja en silencio y deja que tu éxito haga el ruido.",
+      "author": "Frank Ocean"
+    },
+    "births": [
+      { "name": "Joseph Priestley", "description": "Químico y filósofo inglés, descubridor del oxígeno (1774) y el dióxido de carbono, además de inventor del agua carbonatada, figura central de la Ilustración científica.", "year": 1733 },
+      { "name": "L. Ron Hubbard", "description": "Escritor de ciencia ficción americano y fundador de la Iglesia de la Cienciología, una de las organizaciones religiosas más controvertidas del siglo XX.", "year": 1911 },
+      { "name": "Neil Sedaka", "description": "Cantautor y pianista americano, autor de éxitos como 'Oh! Carol', 'Calendar Girl' y 'Laughter in the Rain', figura del pop de los años 50-70.", "year": 1939 }
+    ],
+    "events": [
+      { "title": "William Herschel descubre Urano", "description": "El astrónomo William Herschel descubrió el planeta Urano desde su jardín en Bath, el primer planeta descubierto con telescopio y el séptimo del sistema solar.", "year": 1781 },
+      { "title": "Asesinato del zar Alejandro II de Rusia", "description": "El zar Alejandro II fue asesinado en San Petersburgo por una bomba del grupo revolucionario Naródnaya Volia (Voluntad del Pueblo), abriendo una fase de represión en Rusia.", "year": 1881 },
+      { "title": "El Papa Francisco es elegido pontífice", "description": "Jorge Mario Bergoglio, arzobispo de Buenos Aires, fue elegido Papa con el nombre de Francisco, convirtiéndose en el primer papa latinoamericano y el primer jesuita en ocupar el trono de Pedro.", "year": 2013 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Rodrigo of Córdoba", "type": "Martyr", "description": "Ninth-century Spanish priest beheaded in Córdoba during Arab persecution for professing his Christian faith; venerated alongside Saint Solomon." },
+      { "name": "Saint Nicephorus I of Constantinople", "type": "Patriarch", "description": "Patriarch of Constantinople in the early ninth century, defender of the veneration of sacred images against iconoclast emperors, who died in exile." },
+      { "name": "Saint Leander of Seville", "type": "Bishop and Doctor", "description": "Sixth-century Bishop of Seville, brother of Saint Isidore, who contributed decisively to the conversion of the Visigoths to Catholicism." }
+    ],
+    "observances": [
+      { "name": "Kiss Day (13 March in some traditions)", "description": "An informal day celebrating the kiss as a universal expression of affection, love and greeting across the world's cultures." },
+      { "name": "Common Good Economy Day", "description": "A day to promote the business model that measures success not only in economic terms but in its contribution to the well-being of society and the planet." }
+    ],
+    "historicalQuote": {
+      "text": "Success is walking from failure to failure with no loss of enthusiasm.",
+      "author": "Winston Churchill",
+      "context": "Churchill is celebrated for his tenacity during the darkest moments of World War II. This phrase encapsulates his resilient character and his ability to transform failures into learning."
+    },
+    "motivationalQuote": {
+      "text": "Work hard in silence; let your success be your noise.",
+      "author": "Frank Ocean"
+    },
+    "births": [
+      { "name": "Joseph Priestley", "description": "English chemist and philosopher, discoverer of oxygen (1774) and carbon dioxide, as well as inventor of carbonated water, a central figure of the scientific Enlightenment.", "year": 1733 },
+      { "name": "L. Ron Hubbard", "description": "American science fiction writer and founder of the Church of Scientology, one of the most controversial religious organisations of the twentieth century.", "year": 1911 },
+      { "name": "Neil Sedaka", "description": "American singer-songwriter and pianist, author of hits such as 'Oh! Carol', 'Calendar Girl' and 'Laughter in the Rain', a pop figure from the 1950s–70s.", "year": 1939 }
+    ],
+    "events": [
+      { "title": "William Herschel discovers Uranus", "description": "Astronomer William Herschel discovered the planet Uranus from his garden in Bath — the first planet discovered with a telescope and the seventh in the solar system.", "year": 1781 },
+      { "title": "Assassination of Tsar Alexander II of Russia", "description": "Tsar Alexander II was killed in Saint Petersburg by a bomb thrown by members of the revolutionary group Narodnaya Volya (People's Will), opening a period of repression in Russia.", "year": 1881 },
+      { "title": "Pope Francis elected", "description": "Jorge Mario Bergoglio, Archbishop of Buenos Aires, was elected Pope as Francis, becoming the first Latin American pope and the first Jesuit to occupy the throne of Peter.", "year": 2013 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Rodrigo de Córdoba", "type": "Mártir", "description": "Sacerdote espanhol do século IX decapitado em Córdoba durante a perseguição árabe por professar a sua fé cristã; venerado junto com São Salomão." },
+      { "name": "São Nicéforo I de Constantinopla", "type": "Patriarca", "description": "Patriarca de Constantinopla no início do século IX, defensor do culto às imagens sagradas frente aos imperadores iconoclastas, que morreu no exílio." },
+      { "name": "São Leandro de Sevilha", "type": "Bispo e Doutor", "description": "Bispo de Sevilha no século VI, irmão de Santo Isidoro, que contribuiu decisivamente para a conversão dos visigodos ao catolicismo." }
+    ],
+    "observances": [
+      { "name": "Dia do Beijo (13 de março em algumas tradições)", "description": "Jornada informal que celebra o beijo como expressão universal de afeto, amor e saudação nas diversas culturas do mundo." },
+      { "name": "Dia da Economia do Bem Comum", "description": "Jornada para promover o modelo de empresa que mede o sucesso não apenas em termos de lucro econômico, mas na sua contribuição para o bem da sociedade e do planeta." }
+    ],
+    "historicalQuote": {
+      "text": "O sucesso é ir de fracasso em fracasso sem perder o entusiasmo.",
+      "author": "Winston Churchill",
+      "context": "Churchill é célebre pela sua tenacidade nos momentos mais sombrios da Segunda Guerra Mundial. Esta frase resume o seu caráter resiliente e a sua capacidade de transformar os fracassos em aprendizado."
+    },
+    "motivationalQuote": {
+      "text": "Trabalhe em silêncio e deixe o seu sucesso fazer o barulho.",
+      "author": "Frank Ocean"
+    },
+    "births": [
+      { "name": "Joseph Priestley", "description": "Químico e filósofo inglês, descobridor do oxigênio (1774) e do dióxido de carbono, além de inventor da água gaseificada, figura central do Iluminismo científico.", "year": 1733 },
+      { "name": "L. Ron Hubbard", "description": "Escritor americano de ficção científica e fundador da Igreja da Cientologia, uma das organizações religiosas mais controversas do século XX.", "year": 1911 },
+      { "name": "Neil Sedaka", "description": "Cantor, compositor e pianista americano, autor de sucessos como 'Oh! Carol', 'Calendar Girl' e 'Laughter in the Rain', figura do pop dos anos 50-70.", "year": 1939 }
+    ],
+    "events": [
+      { "title": "William Herschel descobre Urano", "description": "O astrônomo William Herschel descobriu o planeta Urano a partir de seu jardim em Bath, o primeiro planeta descoberto com telescópio e o sétimo do sistema solar.", "year": 1781 },
+      { "title": "Assassinato do czar Alexandre II da Rússia", "description": "O czar Alexandre II foi assassinado em São Petersburgo por uma bomba do grupo revolucionário Narodnaya Volya (Vontade do Povo), abrindo uma fase de repressão na Rússia.", "year": 1881 },
+      { "title": "Papa Francisco é eleito pontífice", "description": "Jorge Mario Bergoglio, arcebispo de Buenos Aires, foi eleito Papa com o nome de Francisco, tornando-se o primeiro papa latino-americano e o primeiro jesuíta a ocupar o trono de Pedro.", "year": 2013 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Roderic de Còrdova", "type": "Màrtir", "description": "Sacerdot espanyol del segle IX decapitat a Còrdova durant la persecució àrab per professar la seva fe cristiana; venerat juntament amb Sant Salomó." },
+      { "name": "Sant Nicèfor I de Constantinoble", "type": "Patriarca", "description": "Patriarca de Constantinoble a principis del segle IX, defensor del culte a les imatges sagrades davant els emperadors iconoclastes, que va morir a l'exili." },
+      { "name": "Sant Leandre de Sevilla", "type": "Bisbe i Doctor", "description": "Bisbe de Sevilla al segle VI, germà de Sant Isidor, que va contribuir decisivament a la conversió dels visigots al catolicisme." }
+    ],
+    "observances": [
+      { "name": "Dia del Petó (13 de març en algunes tradicions)", "description": "Jornada informal que celebra el petó com a expressió universal d'afecte, amor i salutació en les diverses cultures del món." },
+      { "name": "Dia de l'Economia del Bé Comú", "description": "Jornada per promoure el model d'empresa que mesura l'èxit no només en termes de benefici econòmic sinó en la seva contribució al bé de la societat i el planeta." }
+    ],
+    "historicalQuote": {
+      "text": "L'èxit és anar de fracàs en fracàs sense perdre l'entusiasme.",
+      "author": "Winston Churchill",
+      "context": "Churchill és cèlebre per la seva tenacitat en els moments més foscos de la Segona Guerra Mundial. Aquesta frase resumeix el seu caràcter resilient i la seva capacitat per transformar els fracassos en aprenentatge."
+    },
+    "motivationalQuote": {
+      "text": "Treballa en silenci i deixa que el teu èxit faci el soroll.",
+      "author": "Frank Ocean"
+    },
+    "births": [
+      { "name": "Joseph Priestley", "description": "Químic i filòsof anglès, descobridor de l'oxigen (1774) i el diòxid de carboni, a més inventor de l'aigua carbonatada, figura central de la Il·lustració científica.", "year": 1733 },
+      { "name": "L. Ron Hubbard", "description": "Escriptor americà de ciència ficció i fundador de l'Església de la Cienciologia, una de les organitzacions religioses més controvertides del segle XX.", "year": 1911 },
+      { "name": "Neil Sedaka", "description": "Cantautor i pianista americà, autor d'èxits com 'Oh! Carol', 'Calendar Girl' i 'Laughter in the Rain', figura del pop dels anys 50-70.", "year": 1939 }
+    ],
+    "events": [
+      { "title": "William Herschel descobreix Urà", "description": "L'astrònom William Herschel va descobrir el planeta Urà des del seu jardí a Bath, el primer planeta descobert amb telescopi i el setè del sistema solar.", "year": 1781 },
+      { "title": "Assassinat del tsar Alexandre II de Rússia", "description": "El tsar Alexandre II va ser assassinat a Sant Petersburg per una bomba del grup revolucionari Narodnaya Volya (Voluntat del Poble), obrint una fase de repressió a Rússia.", "year": 1881 },
+      { "title": "El Papa Francesc és elegit pontífex", "description": "Jorge Mario Bergoglio, arquebisbe de Buenos Aires, va ser elegit Papa amb el nom de Francesc, convertint-se en el primer papa llatinoamericà i el primer jesuïta a ocupar el tron de Pere.", "year": 2013 }
+    ]
+  }
+}

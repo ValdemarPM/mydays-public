@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-07",
+  "es": {
+    "saints": [
+      {
+        "name": "San Ernesto de Zwiefalten",
+        "type": "Abad",
+        "description": "Abad benedictino del siglo XII del monasterio de Zwiefalten (Suabia), conocido por su santidad y espíritu de reforma monástica. Venerado en la tradición alemana."
+      },
+      {
+        "name": "San Herculano de Perugia",
+        "type": "Obispo y Mártir",
+        "description": "Obispo de Perugia martirizado en el año 549 durante la invasión ostrogoda del rey Totila, que conquistó la ciudad y ordenó su ejecución."
+      },
+      {
+        "name": "Santa Florencia de Roma",
+        "type": "Virgen",
+        "description": "Virgen romana del siglo IV que, según la tradición, vivió en oración y penitencia en Roma y fue sepultada en la Vía Latina."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Revolución de Octubre (Rusia/URSS)",
+        "description": "Antigua festividad soviética que conmemoraba la Revolución Bolchevique de 1917. Aunque Rusia ya no lo celebra oficialmente, sigue siendo recordada como uno de los eventos más influyentes del siglo XX."
+      },
+      {
+        "name": "Día Nacional de la Ingeniería (Argentina)",
+        "description": "Argentina conmemora en esta fecha a los ingenieros del país, celebrando el papel de la ingeniería en el desarrollo industrial y la infraestructura nacional."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La ciencia no tiene patria, porque el conocimiento es patrimonio de la humanidad.",
+      "author": "Marie Curie",
+      "context": "Marie Curie, que nació este día en 1867 en Varsovia, fue la primera mujer en ganar el Premio Nobel y la única persona en ganarlo en dos disciplinas científicas distintas (Física y Química)."
+    },
+    "motivationalQuote": {
+      "text": "Nada en la vida debe ser temido, solo comprendido. Ahora es el momento de comprender más para temer menos.",
+      "author": "Marie Curie"
+    },
+    "births": [
+      {
+        "name": "Marie Curie",
+        "description": "Física y química polaco-francesa, pionera en la investigación de la radiactividad. Primera mujer en ganar el Premio Nobel y única persona en recibirlo en dos ciencias diferentes: Física (1903) y Química (1911).",
+        "year": 1867
+      },
+      {
+        "name": "Albert Camus",
+        "description": "Escritor y filósofo francés, Premio Nobel de Literatura en 1957, autor de El extranjero, La peste y El mito de Sísifo, figuras clave del existencialismo y el absurdismo.",
+        "year": 1913
+      },
+      {
+        "name": "Joni Mitchell",
+        "description": "Cantautora y pintora canadiense, una de las voces más influyentes del folk y el rock de los años 70, conocida por álbumes como Blue y Big Yellow Taxi.",
+        "year": 1943
+      }
+    ],
+    "events": [
+      {
+        "title": "Revolución de Octubre en Rusia",
+        "description": "Los bolcheviques liderados por Lenin tomaron el poder en Petrogrado, derrocando al gobierno provisional y dando inicio al Estado soviético que duraría hasta 1991.",
+        "year": 1917
+      },
+      {
+        "title": "Marie Curie obtiene el Premio Nobel de Química",
+        "description": "Marie Curie recibió el Premio Nobel de Química por el descubrimiento de los elementos radio y polonio, convirtiéndose en la primera persona en ganar dos premios Nobel.",
+        "year": 1911
+      },
+      {
+        "title": "Muere León Trotski en México",
+        "description": "El revolucionario ruso León Trotski murió en Ciudad de México a consecuencia de las heridas del ataque con un piolet perpetrado el día anterior por el agente soviético Ramón Mercader.",
+        "year": 1940
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Ernest of Zwiefalten",
+        "type": "Abbot",
+        "description": "12th-century Benedictine abbot of Zwiefalten monastery in Swabia, renowned for his holiness and monastic reform spirit. Venerated in the German tradition."
+      },
+      {
+        "name": "Saint Herculanus of Perugia",
+        "type": "Bishop and Martyr",
+        "description": "Bishop of Perugia martyred in 549 during the Ostrogothic invasion of King Totila, who conquered the city and ordered his execution."
+      },
+      {
+        "name": "Saint Florence of Rome",
+        "type": "Virgin",
+        "description": "Roman virgin of the 4th century who, according to tradition, lived a life of prayer and penance in Rome and was buried on the Via Latina."
+      }
+    ],
+    "observances": [
+      {
+        "name": "October Revolution Day (Russia/USSR)",
+        "description": "Former Soviet holiday commemorating the 1917 Bolshevik Revolution. Though Russia no longer officially observes it, it is remembered as one of the most influential events of the 20th century."
+      },
+      {
+        "name": "National Engineering Day (Argentina)",
+        "description": "Argentina honours the nation's engineers on this day, celebrating the role of engineering in industrial development and national infrastructure."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Science knows no country, because knowledge belongs to humanity.",
+      "author": "Marie Curie",
+      "context": "Marie Curie, who was born on this day in 1867 in Warsaw, was the first woman to win the Nobel Prize and the only person ever to win it in two different scientific disciplines (Physics and Chemistry)."
+    },
+    "motivationalQuote": {
+      "text": "Nothing in life is to be feared, only to be understood. Now is the time to understand more, so that we may fear less.",
+      "author": "Marie Curie"
+    },
+    "births": [
+      {
+        "name": "Marie Curie",
+        "description": "Polish-French physicist and chemist, pioneer of radioactivity research. The first woman to win the Nobel Prize and the only person to win it in two different sciences: Physics (1903) and Chemistry (1911).",
+        "year": 1867
+      },
+      {
+        "name": "Albert Camus",
+        "description": "French writer and philosopher, Nobel Prize in Literature in 1957, author of The Stranger, The Plague, and The Myth of Sisyphus — key figures of existentialism and absurdism.",
+        "year": 1913
+      },
+      {
+        "name": "Joni Mitchell",
+        "description": "Canadian singer-songwriter and painter, one of the most influential voices in folk and rock of the 1970s, known for albums such as Blue and the song Big Yellow Taxi.",
+        "year": 1943
+      }
+    ],
+    "events": [
+      {
+        "title": "October Revolution in Russia",
+        "description": "The Bolsheviks led by Lenin seized power in Petrograd, overthrowing the Provisional Government and establishing the Soviet state that would last until 1991.",
+        "year": 1917
+      },
+      {
+        "title": "Marie Curie receives the Nobel Prize in Chemistry",
+        "description": "Marie Curie was awarded the Nobel Prize in Chemistry for the discovery of the elements radium and polonium, becoming the first person to win two Nobel Prizes.",
+        "year": 1911
+      },
+      {
+        "title": "Death of Leon Trotsky in Mexico",
+        "description": "Russian revolutionary Leon Trotsky died in Mexico City from wounds sustained in an ice-pick attack carried out the previous day by Soviet agent Ramón Mercader.",
+        "year": 1940
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Ernesto de Zwiefalten",
+        "type": "Abade",
+        "description": "Abade beneditino do século XII do mosteiro de Zwiefalten na Suábia, renomado por sua santidade e espírito de reforma monástica. Venerado na tradição alemã."
+      },
+      {
+        "name": "São Herculano de Perúgia",
+        "type": "Bispo e Mártir",
+        "description": "Bispo de Perúgia martirizado em 549 durante a invasão ostrogoda do rei Totila, que conquistou a cidade e ordenou sua execução."
+      },
+      {
+        "name": "Santa Florência de Roma",
+        "type": "Virgem",
+        "description": "Virgem romana do século IV que, segundo a tradição, viveu uma vida de oração e penitência em Roma e foi sepultada na Via Latina."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Revolução de Outubro (Rússia/URSS)",
+        "description": "Antiga festividade soviética que comemorava a Revolução Bolchevique de 1917. Embora a Rússia não a celebre mais oficialmente, é lembrada como um dos eventos mais influentes do século XX."
+      },
+      {
+        "name": "Dia Nacional da Engenharia (Argentina)",
+        "description": "A Argentina homenageia os engenheiros do país neste dia, celebrando o papel da engenharia no desenvolvimento industrial e na infraestrutura nacional."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A ciência não tem pátria, porque o conhecimento pertence à humanidade.",
+      "author": "Marie Curie",
+      "context": "Marie Curie, nascida neste dia em 1867 em Varsóvia, foi a primeira mulher a ganhar o Prêmio Nobel e a única pessoa a ganhá-lo em duas disciplinas científicas diferentes (Física e Química)."
+    },
+    "motivationalQuote": {
+      "text": "Nada na vida deve ser temido, apenas compreendido. Agora é o momento de compreender mais para temer menos.",
+      "author": "Marie Curie"
+    },
+    "births": [
+      {
+        "name": "Marie Curie",
+        "description": "Física e química polonesa-francesa, pioneira na pesquisa da radioatividade. A primeira mulher a ganhar o Prêmio Nobel e a única pessoa a ganhá-lo em duas ciências diferentes: Física (1903) e Química (1911).",
+        "year": 1867
+      },
+      {
+        "name": "Albert Camus",
+        "description": "Escritor e filósofo francês, Prêmio Nobel de Literatura em 1957, autor de O Estrangeiro, A Peste e O Mito de Sísifo — figuras-chave do existencialismo e do absurdismo.",
+        "year": 1913
+      },
+      {
+        "name": "Joni Mitchell",
+        "description": "Cantautora e pintora canadense, uma das vozes mais influentes do folk e do rock dos anos 70, conhecida por álbuns como Blue e pela canção Big Yellow Taxi.",
+        "year": 1943
+      }
+    ],
+    "events": [
+      {
+        "title": "Revolução de Outubro na Rússia",
+        "description": "Os bolcheviques liderados por Lênin tomaram o poder em Petrogrado, derrubando o Governo Provisório e estabelecendo o Estado soviético que duraria até 1991.",
+        "year": 1917
+      },
+      {
+        "title": "Marie Curie recebe o Prêmio Nobel de Química",
+        "description": "Marie Curie foi premiada com o Nobel de Química pela descoberta dos elementos rádio e polônio, tornando-se a primeira pessoa a ganhar dois prêmios Nobel.",
+        "year": 1911
+      },
+      {
+        "title": "Morte de Leon Trótski no México",
+        "description": "O revolucionário russo Leon Trótski morreu na Cidade do México em consequência dos ferimentos sofridos no ataque com um piolet perpetrado no dia anterior pelo agente soviético Ramón Mercader.",
+        "year": 1940
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Ernest de Zwiefalten",
+        "type": "Abat",
+        "description": "Abat benedictí del segle XII del monestir de Zwiefalten a Suàbia, conegut per la seva santedat i esperit de reforma monàstica. Venerat en la tradició alemanya."
+      },
+      {
+        "name": "Sant Herculà de Perúgia",
+        "type": "Bisbe i Màrtir",
+        "description": "Bisbe de Perúgia martiritzat l'any 549 durant la invasió ostrogoda del rei Tòtila, que va conquerir la ciutat i va ordenar la seva execució."
+      },
+      {
+        "name": "Santa Florència de Roma",
+        "type": "Verge",
+        "description": "Verge romana del segle IV que, segons la tradició, va viure una vida d'oració i penitència a Roma i va ser enterrada a la Via Latina."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Revolució d'Octubre (Rússia/URSS)",
+        "description": "Antiga festivitat soviètica que commemorava la Revolució Bolxevic de 1917. Tot i que Rússia ja no la celebra oficialment, és recordada com un dels esdeveniments més influents del segle XX."
+      },
+      {
+        "name": "Dia Nacional de l'Enginyeria (Argentina)",
+        "description": "L'Argentina honora els enginyers del país en aquest dia, celebrant el paper de l'enginyeria en el desenvolupament industrial i la infraestructura nacional."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La ciència no té pàtria, perquè el coneixement pertany a la humanitat.",
+      "author": "Marie Curie",
+      "context": "Marie Curie, nascuda aquest dia el 1867 a Varsòvia, va ser la primera dona a guanyar el Premi Nobel i l'única persona a guanyar-lo en dues disciplines científiques diferents (Física i Química)."
+    },
+    "motivationalQuote": {
+      "text": "Res a la vida ha de ser temut, només comprès. Ara és el moment de comprendre més per témer menys.",
+      "author": "Marie Curie"
+    },
+    "births": [
+      {
+        "name": "Marie Curie",
+        "description": "Física i química polonesa-francesa, pionera en la recerca de la radioactivitat. La primera dona a guanyar el Premi Nobel i l'única persona a guanyar-lo en dues ciències diferents: Física (1903) i Química (1911).",
+        "year": 1867
+      },
+      {
+        "name": "Albert Camus",
+        "description": "Escriptor i filòsof francès, Premi Nobel de Literatura el 1957, autor de L'estranger, La pesta i El mite de Sísif — figures clau de l'existencialisme i l'absurdisme.",
+        "year": 1913
+      },
+      {
+        "name": "Joni Mitchell",
+        "description": "Cantautora i pintora canadenca, una de les veus més influents del folk i el rock dels anys 70, coneguda per àlbums com Blue i la cançó Big Yellow Taxi.",
+        "year": 1943
+      }
+    ],
+    "events": [
+      {
+        "title": "Revolució d'Octubre a Rússia",
+        "description": "Els bolxevics liderats per Lenin van prendre el poder a Petrograd, derrocant el Govern Provisional i establint l'Estat soviètic que duraria fins al 1991.",
+        "year": 1917
+      },
+      {
+        "title": "Marie Curie rep el Premi Nobel de Química",
+        "description": "Marie Curie va rebre el Nobel de Química pel descobriment dels elements radi i poloni, convertint-se en la primera persona a guanyar dos premis Nobel.",
+        "year": 1911
+      },
+      {
+        "title": "Mort de Leon Trotski a Mèxic",
+        "description": "El revolucionari rus Leon Trotski va morir a la Ciutat de Mèxic a conseqüència de les ferides de l'atac amb un piolet perpetrat el dia anterior per l'agent soviètic Ramón Mercader.",
+        "year": 1940
+      }
+    ]
+  }
+}

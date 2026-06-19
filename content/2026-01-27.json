@@ -1,0 +1,255 @@
+{
+  "date": "2026-01-27",
+  "es": {
+    "saints": [
+      {
+        "name": "San Ángel de Furci",
+        "type": "Fraile dominico",
+        "description": "Fraile dominico napolitano del siglo XIII-XIV, conocido por sus milagros y su celo apostólico en la región de los Abruzos. Beatificado en 1888."
+      },
+      {
+        "name": "San Juan Crisóstomo (traslado de reliquias)",
+        "type": "Doctor de la Iglesia",
+        "description": "Arzobispo de Constantinopla del siglo IV-V, uno de los más grandes predicadores de la historia. Hoy se conmemora en algunas iglesias orientales el traslado de sus reliquias a Constantinopla."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de Conmemoración del Holocausto (ONU)",
+        "description": "Jornada proclamada por la ONU en 2005 para honrar la memoria de las víctimas del Holocausto. Se conmemora el 27 de enero, aniversario de la liberación del campo de exterminio de Auschwitz-Birkenau por el Ejército Rojo en 1945."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Quien no conoce la historia está condenado a repetirla.",
+      "author": "George Santayana",
+      "context": "Filósofo, ensayista y poeta español-estadounidense (nacido el 16 de diciembre de 1863). Esta célebre cita, especialmente pertinente en el Día del Holocausto, aparece en su obra La razón en el sentido común (1905)."
+    },
+    "motivationalQuote": {
+      "text": "No tengas miedo de las sombras; significa que hay una luz en alguna parte.",
+      "author": "Ruth E. Renkel"
+    },
+    "births": [
+      {
+        "name": "Wolfgang Amadeus Mozart",
+        "description": "Compositor austriaco, uno de los mayores genios de la música clásica. Compuso más de 600 obras entre sinfonías, óperas y música de cámara en apenas 35 años de vida.",
+        "year": 1756
+      },
+      {
+        "name": "Lewis Carroll",
+        "description": "Escritor, matemático y fotógrafo británico, autor de Alicia en el país de las maravillas y A través del espejo, dos obras maestras de la literatura fantástica y el humor absurdo.",
+        "year": 1832
+      },
+      {
+        "name": "Mikhail Baryshnikov",
+        "description": "Bailarín y coreógrafo letón-estadounidense, considerado uno de los mejores bailarines de ballet del siglo XX. Defectó de la URSS en 1974 y siguió su carrera en Occidente.",
+        "year": 1948
+      }
+    ],
+    "events": [
+      {
+        "title": "Liberación del campo de Auschwitz",
+        "description": "Las tropas del Ejército Rojo soviético liberaron el campo de exterminio nazi de Auschwitz-Birkenau en Polonia, donde habían sido asesinadas más de 1,1 millones de personas, principalmente judíos.",
+        "year": 1945
+      },
+      {
+        "title": "Tratado del Espacio Ultraterrestre",
+        "description": "Los Estados Unidos, la Unión Soviética y el Reino Unido firmaron el Tratado sobre los Principios que Deben Regir las Actividades de los Estados en la Exploración y Utilización del Espacio Ultraterrestre, prohibiendo las armas nucleares en el espacio.",
+        "year": 1967
+      },
+      {
+        "title": "Incendio del Apolo 1",
+        "description": "Un incendio durante una prueba en tierra destruyó la nave Apolo 1 en la rampa de lanzamiento de Cabo Kennedy, matando a los tres astronautas: Gus Grissom, Ed White y Roger Chaffee.",
+        "year": 1967
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Angelo of Furci",
+        "type": "Dominican Friar",
+        "description": "Neapolitan Dominican friar of the 13th–14th century, known for his miracles and apostolic zeal in the Abruzzo region. Beatified in 1888."
+      },
+      {
+        "name": "Saint John Chrysostom (translation of relics)",
+        "type": "Doctor of the Church",
+        "description": "Archbishop of Constantinople of the 4th–5th century, one of the greatest preachers in history. Today some Eastern churches commemorate the translation of his relics to Constantinople."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Holocaust Remembrance Day (UN)",
+        "description": "A day proclaimed by the UN in 2005 to honour the memory of the victims of the Holocaust. It is held on 27 January, the anniversary of the liberation of Auschwitz-Birkenau extermination camp by the Red Army in 1945."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Those who cannot remember the past are condemned to repeat it.",
+      "author": "George Santayana",
+      "context": "Spanish-American philosopher, essayist and poet (born 16 December 1863). This celebrated quote, especially pertinent on Holocaust Remembrance Day, appears in his work The Life of Reason (1905)."
+    },
+    "motivationalQuote": {
+      "text": "Don't be afraid of the shadows; it just means there is a light somewhere nearby.",
+      "author": "Ruth E. Renkel"
+    },
+    "births": [
+      {
+        "name": "Wolfgang Amadeus Mozart",
+        "description": "Austrian composer, one of the greatest geniuses in classical music. He composed more than 600 works including symphonies, operas and chamber music in just 35 years of life.",
+        "year": 1756
+      },
+      {
+        "name": "Lewis Carroll",
+        "description": "British writer, mathematician and photographer, author of Alice's Adventures in Wonderland and Through the Looking-Glass, two masterpieces of fantasy literature and absurdist humour.",
+        "year": 1832
+      },
+      {
+        "name": "Mikhail Baryshnikov",
+        "description": "Latvian-American dancer and choreographer, considered one of the finest ballet dancers of the 20th century. He defected from the USSR in 1974 and continued his career in the West.",
+        "year": 1948
+      }
+    ],
+    "events": [
+      {
+        "title": "Liberation of Auschwitz",
+        "description": "Soviet Red Army troops liberated the Nazi extermination camp of Auschwitz-Birkenau in Poland, where more than 1.1 million people, mainly Jews, had been murdered.",
+        "year": 1945
+      },
+      {
+        "title": "Outer Space Treaty",
+        "description": "The United States, the Soviet Union and the United Kingdom signed the Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, banning nuclear weapons in space.",
+        "year": 1967
+      },
+      {
+        "title": "Apollo 1 fire",
+        "description": "A fire during a ground test destroyed the Apollo 1 spacecraft on the launch pad at Cape Kennedy, killing all three astronauts: Gus Grissom, Ed White and Roger Chaffee.",
+        "year": 1967
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Ângelo de Furci",
+        "type": "Frade Dominicano",
+        "description": "Frade dominicano napolitano dos séculos XIII–XIV, conhecido por seus milagres e seu zelo apostólico na região dos Abruzos. Beatificado em 1888."
+      },
+      {
+        "name": "São João Crisóstomo (translação das relíquias)",
+        "type": "Doutor da Igreja",
+        "description": "Arcebispo de Constantinopla dos séculos IV–V, um dos maiores pregadores da história. Hoje algumas igrejas orientais comemoram a translação de suas relíquias para Constantinopla."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de Recordação do Holocausto (ONU)",
+        "description": "Jornada proclamada pela ONU em 2005 para honrar a memória das vítimas do Holocausto. Realiza-se em 27 de janeiro, aniversário da libertação do campo de extermínio de Auschwitz-Birkenau pelo Exército Vermelho em 1945."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Quem não conhece a história está condenado a repeti-la.",
+      "author": "George Santayana",
+      "context": "Filósofo, ensaísta e poeta hispano-americano (nascido em 16 de dezembro de 1863). Esta célebre citação, especialmente pertinente no Dia do Holocausto, aparece em sua obra A Vida da Razão (1905)."
+    },
+    "motivationalQuote": {
+      "text": "Não tenha medo das sombras; isso apenas significa que há uma luz em algum lugar perto.",
+      "author": "Ruth E. Renkel"
+    },
+    "births": [
+      {
+        "name": "Wolfgang Amadeus Mozart",
+        "description": "Compositor austríaco, um dos maiores gênios da música clássica. Compôs mais de 600 obras entre sinfonias, óperas e música de câmara em apenas 35 anos de vida.",
+        "year": 1756
+      },
+      {
+        "name": "Lewis Carroll",
+        "description": "Escritor, matemático e fotógrafo britânico, autor de Alice no País das Maravilhas e Através do Espelho, duas obras-primas da literatura fantástica e do humor absurdo.",
+        "year": 1832
+      },
+      {
+        "name": "Mikhail Baryshnikov",
+        "description": "Dançarino e coreógrafo letão-americano, considerado um dos melhores bailarinos de balé do século XX. Desertou da URSS em 1974 e continuou sua carreira no Ocidente.",
+        "year": 1948
+      }
+    ],
+    "events": [
+      {
+        "title": "Libertação do campo de Auschwitz",
+        "description": "As tropas do Exército Vermelho soviético libertaram o campo de extermínio nazista de Auschwitz-Birkenau na Polônia, onde mais de 1,1 milhão de pessoas, principalmente judeus, haviam sido assassinadas.",
+        "year": 1945
+      },
+      {
+        "title": "Tratado do Espaço Exterior",
+        "description": "Os Estados Unidos, a União Soviética e o Reino Unido assinaram o Tratado sobre os Princípios que Regem as Atividades dos Estados na Exploração e Uso do Espaço Exterior, proibindo armas nucleares no espaço.",
+        "year": 1967
+      },
+      {
+        "title": "Incêndio da Apollo 1",
+        "description": "Um incêndio durante um teste em solo destruiu a nave Apollo 1 na rampa de lançamento do Cabo Kennedy, matando os três astronautas: Gus Grissom, Ed White e Roger Chaffee.",
+        "year": 1967
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Àngel de Furci",
+        "type": "Frare Dominic",
+        "description": "Frare dominic napolità dels segles XIII–XIV, conegut pels seus miracles i el seu zel apostòlic a la regió dels Abruços. Beatificat el 1888."
+      },
+      {
+        "name": "Sant Joan Crisòstom (trasllat de relíquies)",
+        "type": "Doctor de l'Església",
+        "description": "Arquebisbe de Constantinoble dels segles IV–V, un dels grans predicadors de la història. Avui algunes esglésies orientals commemoren el trasllat de les seves relíquies a Constantinoble."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de Commemoració de l'Holocaust (ONU)",
+        "description": "Jornada proclamada per l'ONU el 2005 per honrar la memòria de les víctimes de l'Holocaust. Se celebra el 27 de gener, aniversari de l'alliberament del camp d'extermini d'Auschwitz-Birkenau per l'Exèrcit Roig el 1945."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Els qui no recorden el passat estan condemnats a repetir-lo.",
+      "author": "George Santayana",
+      "context": "Filòsof, assagista i poeta hispà-americà (nascut el 16 de desembre de 1863). Aquesta cèlebre cita, especialment pertinent en el Dia de l'Holocaust, apareix a la seva obra La vida de la raó (1905)."
+    },
+    "motivationalQuote": {
+      "text": "No tinguis por de les ombres; significa que hi ha una llum en algun lloc a prop.",
+      "author": "Ruth E. Renkel"
+    },
+    "births": [
+      {
+        "name": "Wolfgang Amadeus Mozart",
+        "description": "Compositor austriac, un dels grans genis de la música clàssica. Va compondre més de 600 obres entre simfonies, òperes i música de cambra en tan sols 35 anys de vida.",
+        "year": 1756
+      },
+      {
+        "name": "Lewis Carroll",
+        "description": "Escriptor, matemàtic i fotògraf britànic, autor d'Alícia al país de les meravelles i A través del mirall, dues obres mestres de la literatura fantàstica i l'humor absurd.",
+        "year": 1832
+      },
+      {
+        "name": "Mikhail Baryshnikov",
+        "description": "Ballarí i coreògraf letó-nord-americà, considerat un dels millors ballarins de ballet del segle XX. Va desertar de la URSS el 1974 i va continuar la seva carrera a Occident.",
+        "year": 1948
+      }
+    ],
+    "events": [
+      {
+        "title": "Alliberament del camp d'Auschwitz",
+        "description": "Les tropes de l'Exèrcit Roig soviètic van alliberar el camp d'extermini nazi d'Auschwitz-Birkenau a Polònia, on havien estat assassinades més d'1,1 milions de persones, principalment jueus.",
+        "year": 1945
+      },
+      {
+        "title": "Tractat de l'Espai Exterior",
+        "description": "Els Estats Units, la Unió Soviètica i el Regne Unit van signar el Tractat sobre els principis que regeixen les activitats dels estats en l'exploració i ús de l'espai exterior, prohibint les armes nuclears a l'espai.",
+        "year": 1967
+      },
+      {
+        "title": "Incendi de l'Apol·lo 1",
+        "description": "Un incendi durant una prova en terra va destruir la nau Apol·lo 1 a la rampa de llançament del Cap Kennedy, matant els tres astronautes: Gus Grissom, Ed White i Roger Chaffee.",
+        "year": 1967
+      }
+    ]
+  }
+}

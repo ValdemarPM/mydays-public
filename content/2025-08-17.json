@@ -1,0 +1,291 @@
+{
+  "date": "2025-08-17",
+  "es": {
+    "saints": [
+      {
+        "name": "San Jacinto de Polonia",
+        "type": "Presbítero",
+        "description": "Fraile dominico polaco (1185–1257) que evangelizó el norte y el este de Europa llevando el catolicismo hasta Escandinavia, el Báltico y Rusia. Conocido como el 'Apóstol del Norte'. Canonizado por Clemente VIII en 1594."
+      },
+      {
+        "name": "Santa Juana Francisca de Chantal",
+        "type": "Fundadora",
+        "description": "Algunos calendarios celebran hoy a la cofundadora de la Visitación junto a San Francisco de Sales. (Véase también el 12 de agosto.) Falleció el 13 de diciembre de 1641."
+      },
+      {
+        "name": "San Liberato de Ancona",
+        "type": "Mártir",
+        "description": "Monje del siglo V, mártir en África del Norte junto con otros seis compañeros durante las persecuciones de los vándalos arrianos. Su martirio está documentado en el martirologio romano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de Indonesia",
+        "description": "Indonesia celebra su independencia de los Países Bajos, proclamada el 17 de agosto de 1945 por Sukarno y Mohammad Hatta. Es la fiesta nacional del país más poblado del Sudeste Asiático."
+      },
+      {
+        "name": "Día Nacional de Gabon",
+        "description": "Gabón celebra su independencia de Francia, proclamada el 17 de agosto de 1960. Es la fiesta nacional de la república centroafricana."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La libertad no es dada sino conquistada.",
+      "author": "Sukarno",
+      "context": "El primer presidente de Indonesia, proclamó la independencia del país el 17 de agosto de 1945, apenas dos días después de la rendición de Japón al final de la Segunda Guerra Mundial. Su frase sintetiza la lucha anticolonial que definió el siglo XX."
+    },
+    "motivationalQuote": {
+      "text": "No esperes condiciones perfectas para comenzar. Empieza y las condiciones se irán perfeccionando.",
+      "author": "Alan Cohen"
+    },
+    "births": [
+      {
+        "name": "Davy Crockett",
+        "description": "Explorador, soldado y político americano (1786–1836), una de las figuras legendarias del Frente americano. Murió en la batalla del Álamo (Texas) y se convirtió en símbolo del espíritu pionero estadounidense.",
+        "year": 1786
+      },
+      {
+        "name": "Mae West",
+        "description": "Actriz, cantante y escritora americana (1893–1980), pionera en el uso del humor y la sensualidad como herramientas de empoderamiento femenino en el cine de los años treinta.",
+        "year": 1893
+      },
+      {
+        "name": "Robert De Niro",
+        "description": "Actor estadounidense ganador de dos premios Óscar por El Padrino II (1974) y Toro salvaje (1980). Considerado uno de los actores más versátiles e influyentes del cine americano.",
+        "year": 1943
+      }
+    ],
+    "events": [
+      {
+        "title": "Independencia de Indonesia",
+        "description": "El 17 de agosto de 1945, Sukarno y Mohammad Hatta proclamaron la independencia de Indonesia de los Países Bajos. El proceso de reconocimiento internacional duró hasta 1949.",
+        "year": 1945
+      },
+      {
+        "title": "Terremoto de Izmit (Turquía)",
+        "description": "El 17 de agosto de 1999, un terremoto de magnitud 7,6 sacudió la región de Mármara en Turquía, causando más de 17.000 muertes y destruyendo la ciudad industrial de Izmit.",
+        "year": 1999
+      },
+      {
+        "title": "Inauguración del Canal Rin-Main-Danubio",
+        "description": "El 17 de agosto de 1992, el canal que conecta el Mar del Norte con el Mar Negro a través de Alemania fue inaugurado, creando la primera vía navegable que atraviesa Europa de oeste a este.",
+        "year": 1992
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Hyacinth of Poland",
+        "type": "Priest",
+        "description": "Polish Dominican friar (1185–1257) who evangelised northern and eastern Europe, bringing Catholicism as far as Scandinavia, the Baltic and Russia. Known as the 'Apostle of the North'. Canonised by Clement VIII in 1594."
+      },
+      {
+        "name": "Saint Jane Frances de Chantal",
+        "type": "Foundress",
+        "description": "Some calendars celebrate today the co-foundress of the Visitation alongside Saint Francis de Sales. (See also 12 August.) She died on 13 December 1641."
+      },
+      {
+        "name": "Saint Liberatus of Ancona",
+        "type": "Martyr",
+        "description": "A 5th-century monk, martyred in North Africa together with six companions during the persecutions of the Arian Vandals. His martyrdom is documented in the Roman Martyrology."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Independence Day of Indonesia",
+        "description": "Indonesia celebrates its independence from the Netherlands, proclaimed on 17 August 1945 by Sukarno and Mohammad Hatta. It is the national holiday of Southeast Asia's most populous country."
+      },
+      {
+        "name": "National Day of Gabon",
+        "description": "Gabon celebrates its independence from France, proclaimed on 17 August 1960. It is the national holiday of the Central African republic."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Freedom is not given; it is taken.",
+      "author": "Sukarno",
+      "context": "Indonesia's first president proclaimed the country's independence on 17 August 1945, just two days after Japan's surrender at the end of World War II. His phrase encapsulates the anti-colonial struggle that defined the 20th century."
+    },
+    "motivationalQuote": {
+      "text": "Do not wait for perfect conditions to start. Start, and the conditions will gradually become perfect.",
+      "author": "Alan Cohen"
+    },
+    "births": [
+      {
+        "name": "Davy Crockett",
+        "description": "American frontiersman, soldier, and politician (1786–1836), one of the legendary figures of the American frontier. He died at the Battle of the Alamo in Texas and became a symbol of the American pioneering spirit.",
+        "year": 1786
+      },
+      {
+        "name": "Mae West",
+        "description": "American actress, singer, and writer (1893–1980), a pioneer in the use of humour and sensuality as tools of female empowerment in 1930s cinema.",
+        "year": 1893
+      },
+      {
+        "name": "Robert De Niro",
+        "description": "American actor and two-time Oscar winner for The Godfather Part II (1974) and Raging Bull (1980). Considered one of the most versatile and influential actors in American cinema.",
+        "year": 1943
+      }
+    ],
+    "events": [
+      {
+        "title": "Indonesia declares independence",
+        "description": "On 17 August 1945, Sukarno and Mohammad Hatta proclaimed Indonesia's independence from the Netherlands. The process of international recognition lasted until 1949.",
+        "year": 1945
+      },
+      {
+        "title": "Izmit earthquake in Turkey",
+        "description": "On 17 August 1999, a magnitude-7.6 earthquake struck the Marmara region of Turkey, killing more than 17,000 people and devastating the industrial city of Izmit.",
+        "year": 1999
+      },
+      {
+        "title": "Rhine-Main-Danube Canal inaugurated",
+        "description": "On 17 August 1992, the canal connecting the North Sea to the Black Sea across Germany was inaugurated, creating the first navigable waterway crossing Europe from west to east.",
+        "year": 1992
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Jacinto da Polônia",
+        "type": "Presbítero",
+        "description": "Frade dominicano polonês (1185–1257) que evangelizou o norte e o leste da Europa, levando o catolicismo até à Escandinávia, ao Báltico e à Rússia. Conhecido como o 'Apóstolo do Norte'. Canonizado por Clemente VIII em 1594."
+      },
+      {
+        "name": "Santa Joana Francisca de Chantal",
+        "type": "Fundadora",
+        "description": "Alguns calendários celebram hoje a cofundadora da Visitação juntamente com São Francisco de Sales. (Ver também 12 de agosto.) Faleceu em 13 de dezembro de 1641."
+      },
+      {
+        "name": "São Liberato de Ancona",
+        "type": "Mártir",
+        "description": "Monge do século V, martirizado no norte de África juntamente com seis companheiros durante as perseguições dos vândalos arrianos. O seu martírio está documentado no Martirológio Romano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência da Indonésia",
+        "description": "A Indonésia celebra a sua independência dos Países Baixos, proclamada em 17 de agosto de 1945 por Sukarno e Mohammad Hatta. É o feriado nacional do país mais populoso do Sudeste Asiático."
+      },
+      {
+        "name": "Dia Nacional do Gabão",
+        "description": "O Gabão celebra a sua independência da França, proclamada em 17 de agosto de 1960. É o feriado nacional da república centro-africana."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A liberdade não é dada; é conquistada.",
+      "author": "Sukarno",
+      "context": "O primeiro presidente da Indonésia proclamou a independência do país em 17 de agosto de 1945, apenas dois dias após a rendição do Japão no final da Segunda Guerra Mundial. A sua frase sintetiza a luta anticolonial que definiu o século XX."
+    },
+    "motivationalQuote": {
+      "text": "Não espere condições perfeitas para começar. Comece e as condições irão gradualmente melhorar.",
+      "author": "Alan Cohen"
+    },
+    "births": [
+      {
+        "name": "Davy Crockett",
+        "description": "Explorador, soldado e político americano (1786–1836), uma das figuras lendárias da fronteira americana. Morreu na batalha do Álamo, no Texas, e tornou-se símbolo do espírito pioneiro americano.",
+        "year": 1786
+      },
+      {
+        "name": "Mae West",
+        "description": "Atriz, cantora e escritora americana (1893–1980), pioneira no uso do humor e da sensualidade como ferramentas de empoderamento feminino no cinema dos anos trinta.",
+        "year": 1893
+      },
+      {
+        "name": "Robert De Niro",
+        "description": "Ator americano e duplo vencedor do Oscar por O Poderoso Chefão II (1974) e Touro Indomável (1980). Considerado um dos atores mais versáteis e influentes do cinema americano.",
+        "year": 1943
+      }
+    ],
+    "events": [
+      {
+        "title": "Indonésia declara independência",
+        "description": "Em 17 de agosto de 1945, Sukarno e Mohammad Hatta proclamaram a independência da Indonésia dos Países Baixos. O processo de reconhecimento internacional durou até 1949.",
+        "year": 1945
+      },
+      {
+        "title": "Terremoto de Izmit na Turquia",
+        "description": "Em 17 de agosto de 1999, um terremoto de magnitude 7,6 sacudiu a região de Mármara na Turquia, causando mais de 17.000 mortes e devastando a cidade industrial de Izmit.",
+        "year": 1999
+      },
+      {
+        "title": "Inauguração do Canal Reno-Meno-Danúbio",
+        "description": "Em 17 de agosto de 1992, o canal que liga o Mar do Norte ao Mar Negro através da Alemanha foi inaugurado, criando a primeira via navegável que atravessa a Europa de oeste a leste.",
+        "year": 1992
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Jacint de Polònia",
+        "type": "Prevere",
+        "description": "Frare dominic polonès (1185–1257) que va evangelitzar el nord i l'est d'Europa portant el catolicisme fins a Escandinàvia, el Bàltic i Rússia. Conegut com l''Apòstol del Nord'. Canonitzat per Climent VIII el 1594."
+      },
+      {
+        "name": "Santa Joana Francesca de Chantal",
+        "type": "Fundadora",
+        "description": "Alguns calendaris celebren avui la cofundadora de la Visitació juntament amb Sant Francesc de Sales. (Vegeu també el 12 d'agost.) Va morir el 13 de desembre de 1641."
+      },
+      {
+        "name": "Sant Liberat d'Ancona",
+        "type": "Màrtir",
+        "description": "Monjo del segle V, martiritzat al nord d'Àfrica juntament amb sis companys durant les persecucions dels vàndals arrians. El seu martiri està documentat en el Martirologi Romà."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència d'Indonèsia",
+        "description": "Indonèsia celebra la seva independència dels Països Baixos, proclamada el 17 d'agost de 1945 per Sukarno i Mohammad Hatta. És la festa nacional del país més poblat del Sud-est Asiàtic."
+      },
+      {
+        "name": "Dia Nacional del Gabon",
+        "description": "El Gabon celebra la seva independència de França, proclamada el 17 d'agost de 1960. És la festa nacional de la república centreafricana."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La llibertat no es dóna; es conquereix.",
+      "author": "Sukarno",
+      "context": "El primer president d'Indonèsia va proclamar la independència del país el 17 d'agost de 1945, tan sols dos dies després de la rendició del Japó al final de la Segona Guerra Mundial. La seva frase sintetitza la lluita anticolonial que va definir el segle XX."
+    },
+    "motivationalQuote": {
+      "text": "No esperis condicions perfectes per començar. Comença, i les condicions s'aniran perfeccionant.",
+      "author": "Alan Cohen"
+    },
+    "births": [
+      {
+        "name": "Davy Crockett",
+        "description": "Explorador, soldat i polític americà (1786–1836), una de les figures llegendàries de la frontera americana. Va morir a la batalla de l'Àlam (Texas) i es va convertir en símbol de l'esperit pioner americà.",
+        "year": 1786
+      },
+      {
+        "name": "Mae West",
+        "description": "Actriu, cantant i escriptora americana (1893–1980), pionera en l'ús de l'humor i la sensualitat com a eines d'empoderament femení en el cinema dels anys trenta.",
+        "year": 1893
+      },
+      {
+        "name": "Robert De Niro",
+        "description": "Actor americà i doble guanyador de l'Oscar per El Padrí II (1974) i Toro salvatge (1980). Considerat un dels actors més versàtils i influents del cinema americà.",
+        "year": 1943
+      }
+    ],
+    "events": [
+      {
+        "title": "Indonèsia declara la independència",
+        "description": "El 17 d'agost de 1945, Sukarno i Mohammad Hatta van proclamar la independència d'Indonèsia dels Països Baixos. El procés de reconeixement internacional va durar fins al 1949.",
+        "year": 1945
+      },
+      {
+        "title": "Terratrèmol d'Izmit a Turquia",
+        "description": "El 17 d'agost de 1999, un terratrèmol de magnitud 7,6 va sacsejar la regió de Màrmara a Turquia, causant més de 17.000 morts i devastant la ciutat industrial d'Izmit.",
+        "year": 1999
+      },
+      {
+        "title": "Inauguració del Canal Rin-Main-Danubi",
+        "description": "El 17 d'agost de 1992, el canal que connecta el Mar del Nord amb el Mar Negre a través d'Alemanya va ser inaugurat, creant la primera via navegable que travessa Europa d'oest a est.",
+        "year": 1992
+      }
+    ]
+  }
+}

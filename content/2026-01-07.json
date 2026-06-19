@@ -1,0 +1,255 @@
+{
+  "date": "2026-01-07",
+  "es": {
+    "saints": [
+      {
+        "name": "San Raimundo de Peñafort",
+        "type": "Sacerdote dominico",
+        "description": "Canonista catalán del siglo XIII, tercer maestro general de la Orden Dominica y compilador de las Decretales de Gregorio IX. Patrono de los canonistas y abogados."
+      },
+      {
+        "name": "San Luciano de Antioquía",
+        "type": "Sacerdote y Mártir",
+        "description": "Teólogo y mártir del siglo III-IV, fundador de la famosa Escuela Teológica de Antioquía y considerado precursor del arrianismo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Navidad Ortodoxa",
+        "description": "Celebración del nacimiento de Jesucristo según el calendario juliano, observada por las Iglesias Ortodoxas Rusa, Serbia, georgiana y otras que no han adoptado el calendario gregoriano."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El conocimiento que no se aplica no tiene valor.",
+      "author": "Anton Chéjov",
+      "context": "Escritor y dramaturgo ruso (nacido el 29 de enero de 1860), autor de obras maestras como El jardín de los cerezos y Las tres hermanas. Esta cita refleja su visión pragmática de la vida."
+    },
+    "motivationalQuote": {
+      "text": "Trata a los demás como quisieras que te trataran a ti.",
+      "author": "Regla de Oro (universal)"
+    },
+    "births": [
+      {
+        "name": "Nikola Tesla",
+        "description": "Inventor, ingeniero eléctrico y físico serbio-estadounidense, pionero de la corriente alterna y de la transmisión de energía eléctrica inalámbrica.",
+        "year": 1856
+      },
+      {
+        "name": "Nicolas Cage",
+        "description": "Actor estadounidense ganador del Óscar por Leaving Las Vegas, conocido por sus eclécticos papeles en películas de acción, drama y ciencia ficción.",
+        "year": 1964
+      },
+      {
+        "name": "Lewis Hamilton",
+        "description": "Piloto de Fórmula 1 británico, considerado el más laureado de la historia con siete títulos mundiales y el récord de victorias en la competición.",
+        "year": 1985
+      }
+    ],
+    "events": [
+      {
+        "title": "Atentado contra Charlie Hebdo en París",
+        "description": "Dos terroristas islamistas atacaron la redacción de la revista satírica Charlie Hebdo en París, matando a 12 personas incluidos varios de sus dibujantes más famosos.",
+        "year": 2015
+      },
+      {
+        "title": "La sonda Galileo entra en órbita alrededor de Júpiter",
+        "description": "La sonda espacial Galileo de la NASA entró en la órbita de Júpiter, iniciando una misión de ocho años de estudio del gigante gaseoso y sus lunas.",
+        "year": 1995
+      },
+      {
+        "title": "Se funda la ciudad de Filadelfia",
+        "description": "William Penn fundó la ciudad de Filadelfia (Pensilvania) como capital de su nueva colonia cuáquera, concebida como un experimento de tolerancia religiosa.",
+        "year": 1682
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Raymond of Peñafort",
+        "type": "Dominican Priest",
+        "description": "Catalan canon lawyer of the 13th century, third Master General of the Dominican Order and compiler of the Decretals of Gregory IX. Patron of canon lawyers and attorneys."
+      },
+      {
+        "name": "Saint Lucian of Antioch",
+        "type": "Priest and Martyr",
+        "description": "Theologian and martyr of the 3rd–4th century, founder of the famous Theological School of Antioch and considered a precursor of Arianism."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Orthodox Christmas",
+        "description": "Celebration of the birth of Jesus Christ according to the Julian calendar, observed by the Russian, Serbian, Georgian and other Orthodox Churches that have not adopted the Gregorian calendar."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Knowledge that is not applied has no value.",
+      "author": "Anton Chekhov",
+      "context": "Russian writer and playwright (born 29 January 1860), author of masterpieces such as The Cherry Orchard and Three Sisters. This quote reflects his pragmatic view of life."
+    },
+    "motivationalQuote": {
+      "text": "Treat others as you would like to be treated.",
+      "author": "The Golden Rule (universal)"
+    },
+    "births": [
+      {
+        "name": "Nikola Tesla",
+        "description": "Serbian-American inventor, electrical engineer and physicist, pioneer of alternating current and wireless electrical energy transmission.",
+        "year": 1856
+      },
+      {
+        "name": "Nicolas Cage",
+        "description": "American Oscar-winning actor for Leaving Las Vegas, known for his eclectic roles in action, drama and science-fiction films.",
+        "year": 1964
+      },
+      {
+        "name": "Lewis Hamilton",
+        "description": "British Formula 1 driver, considered the most decorated in history with seven world titles and the record for race victories.",
+        "year": 1985
+      }
+    ],
+    "events": [
+      {
+        "title": "Charlie Hebdo attack in Paris",
+        "description": "Two Islamist terrorists attacked the newsroom of satirical magazine Charlie Hebdo in Paris, killing 12 people including several of its most famous cartoonists.",
+        "year": 2015
+      },
+      {
+        "title": "Galileo probe enters orbit around Jupiter",
+        "description": "NASA's Galileo spacecraft entered orbit around Jupiter, beginning an eight-year mission studying the gas giant and its moons.",
+        "year": 1995
+      },
+      {
+        "title": "City of Philadelphia founded",
+        "description": "William Penn founded the city of Philadelphia (Pennsylvania) as the capital of his new Quaker colony, conceived as an experiment in religious tolerance.",
+        "year": 1682
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Raimundo de Penhafort",
+        "type": "Sacerdote Dominicano",
+        "description": "Canonista catalão do século XIII, terceiro Mestre Geral da Ordem Dominicana e compilador das Decretais de Gregório IX. Padroeiro dos canonistas e advogados."
+      },
+      {
+        "name": "São Luciano de Antioquia",
+        "type": "Sacerdote e Mártir",
+        "description": "Teólogo e mártir dos séculos III–IV, fundador da famosa Escola Teológica de Antioquia e considerado precursor do arianismo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Natal Ortodoxo",
+        "description": "Celebração do nascimento de Jesus Cristo segundo o calendário juliano, observada pelas Igrejas Ortodoxas Russa, Sérvia, Georgiana e outras que não adotaram o calendário gregoriano."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O conhecimento que não se aplica não tem valor.",
+      "author": "Anton Tchekhov",
+      "context": "Escritor e dramaturgo russo (nascido em 29 de janeiro de 1860), autor de obras-primas como O Jardim das Cerejeiras e As Três Irmãs. Esta citação reflete sua visão pragmática da vida."
+    },
+    "motivationalQuote": {
+      "text": "Trate os outros como gostaria de ser tratado.",
+      "author": "Regra de Ouro (universal)"
+    },
+    "births": [
+      {
+        "name": "Nikola Tesla",
+        "description": "Inventor, engenheiro eletricista e físico sérvio-americano, pioneiro da corrente alternada e da transmissão de energia elétrica sem fio.",
+        "year": 1856
+      },
+      {
+        "name": "Nicolas Cage",
+        "description": "Ator americano vencedor do Oscar por Deixando Las Vegas, conhecido por seus eclécticos papéis em filmes de ação, drama e ficção científica.",
+        "year": 1964
+      },
+      {
+        "name": "Lewis Hamilton",
+        "description": "Piloto de Fórmula 1 britânico, considerado o mais laureado da história com sete títulos mundiais e o recorde de vitórias na competição.",
+        "year": 1985
+      }
+    ],
+    "events": [
+      {
+        "title": "Atentado contra Charlie Hebdo em Paris",
+        "description": "Dois terroristas islamistas atacaram a redação da revista satírica Charlie Hebdo em Paris, matando 12 pessoas, incluindo vários de seus cartunistas mais famosos.",
+        "year": 2015
+      },
+      {
+        "title": "A sonda Galileu entra em órbita ao redor de Júpiter",
+        "description": "A sonda espacial Galileu da NASA entrou em órbita ao redor de Júpiter, iniciando uma missão de oito anos de estudo do gigante gasoso e suas luas.",
+        "year": 1995
+      },
+      {
+        "title": "Fundação da cidade da Filadélfia",
+        "description": "William Penn fundou a cidade da Filadélfia (Pensilvânia) como capital de sua nova colônia quaker, concebida como um experimento de tolerância religiosa.",
+        "year": 1682
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Ramon de Penyafort",
+        "type": "Sacerdot Dominic",
+        "description": "Canonista català del segle XIII, tercer mestre general de l'Orde Dominicana i compilador de les Decretals de Gregori IX. Patró dels canonistes i advocats."
+      },
+      {
+        "name": "Sant Llucià d'Antioquia",
+        "type": "Sacerdot i Màrtir",
+        "description": "Teòleg i màrtir dels segles III–IV, fundador de la famosa Escola Teològica d'Antioquia i considerat precursor de l'arrianisme."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Nadal Ortodox",
+        "description": "Celebració del naixement de Jesucrist segons el calendari julià, observada per les Esglésies Ortodoxes Russa, Sèrbia, Georgiana i altres que no han adoptat el calendari gregorià."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El coneixement que no s'aplica no té valor.",
+      "author": "Anton Txékhov",
+      "context": "Escriptor i dramaturg rus (nascut el 29 de gener de 1860), autor d'obres mestres com El jardí dels cirerers i Les tres germanes. Aquesta cita reflecteix la seva visió pragmàtica de la vida."
+    },
+    "motivationalQuote": {
+      "text": "Tracta els altres com t'agradaria que et tractessin a tu.",
+      "author": "Regla d'Or (universal)"
+    },
+    "births": [
+      {
+        "name": "Nikola Tesla",
+        "description": "Inventor, enginyer elèctric i físic serbi-americà, pioner del corrent altern i de la transmissió d'energia elèctrica sense fils.",
+        "year": 1856
+      },
+      {
+        "name": "Nicolas Cage",
+        "description": "Actor nord-americà guanyador de l'Oscar per Deixant Las Vegas, conegut pels seus eclèctics papers en pel·lícules d'acció, drama i ciència ficció.",
+        "year": 1964
+      },
+      {
+        "name": "Lewis Hamilton",
+        "description": "Pilot de Fórmula 1 britànic, considerat el més guardonat de la història amb set títols mundials i el rècord de victòries en la competició.",
+        "year": 1985
+      }
+    ],
+    "events": [
+      {
+        "title": "Atemptat contra Charlie Hebdo a París",
+        "description": "Dos terroristes islamistes van atacar la redacció de la revista satírica Charlie Hebdo a París, matant 12 persones inclosos diversos dels seus dibuixants més famosos.",
+        "year": 2015
+      },
+      {
+        "title": "La sonda Galileu entra en òrbita al voltant de Júpiter",
+        "description": "La sonda espacial Galileu de la NASA va entrar en òrbita al voltant de Júpiter, iniciant una missió de vuit anys d'estudi del gegant gasós i les seves llunes.",
+        "year": 1995
+      },
+      {
+        "title": "Es funda la ciutat de Filadèlfia",
+        "description": "William Penn va fundar la ciutat de Filadèlfia (Pennsilvània) com a capital de la seva nova colònia quàquera, concebuda com un experiment de tolerància religiosa.",
+        "year": 1682
+      }
+    ]
+  }
+}

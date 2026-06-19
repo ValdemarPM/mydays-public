@@ -1,0 +1,271 @@
+{
+  "date": "2025-12-21",
+  "es": {
+    "saints": [
+      {
+        "name": "Santo Tomás Apóstol",
+        "type": "Apóstol",
+        "description": "Uno de los doce apóstoles de Jesús, conocido por su duda ante la Resurrección ('el incrédulo Tomás'). Según la tradición, evangelizó Persia e India, donde sufrió martirio en el año 72 d.C."
+      },
+      {
+        "name": "San Pedro Canisio",
+        "type": "Presbítero y Doctor de la Iglesia",
+        "description": "Jesuita holandés del siglo XVI, apóstol de Alemania, conocido como el 'Segundo Apóstol de Alemania' por su labor en la Contrarreforma y sus famosos catecismos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Solsticio de invierno (hemisferio norte)",
+        "description": "El día más corto y la noche más larga del año en el hemisferio norte. Marca el inicio astronómico del invierno y ha sido celebrado por civilizaciones de todo el mundo durante milenios."
+      },
+      {
+        "name": "Yule (tradición pagana nórdica)",
+        "description": "Festividad pagana nórdica del solsticio de invierno que celebraba el renacimiento del sol y el inicio del nuevo ciclo anual, algunas de cuyas tradiciones se incorporaron a la Navidad cristiana."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Incluso la noche más oscura terminará, y el sol volverá a salir.",
+      "author": "Victor Hugo",
+      "context": "Escritor francés, autor de Los Miserables. Su frase sobre la oscuridad y la luz cobra especial significado en el solsticio de invierno."
+    },
+    "motivationalQuote": {
+      "text": "En medio del invierno, descubrí finalmente que había en mí un verano invencible.",
+      "author": "Albert Camus"
+    },
+    "births": [
+      {
+        "name": "Benjamin Disraeli",
+        "description": "Estadista y novelista británico, primer ministro del Reino Unido en dos ocasiones (1868 y 1874-1880), primer ministro de origen judío y gran favorito de la reina Victoria.",
+        "year": 1804
+      },
+      {
+        "name": "Joseph Stalin",
+        "description": "Político soviético, secretario general del Partido Comunista de la URSS (1922-1952), cuyo régimen totalitario transformó la Unión Soviética en una potencia industrial a costa de millones de vidas.",
+        "year": 1878
+      },
+      {
+        "name": "Samuel L. Jackson",
+        "description": "Actor y productor estadounidense, uno de los más prolíficos y taquilleros de Hollywood, conocido por Pulp Fiction, Kill Bill y la saga Marvel como Nick Fury.",
+        "year": 1948
+      }
+    ],
+    "events": [
+      {
+        "title": "Estreno de Blancanieves y los siete enanitos",
+        "description": "Walt Disney estrenó en Los Ángeles su primer largometraje de animación, Blancanieves y los siete enanitos, revolucionando la industria del cine de animación.",
+        "year": 1937
+      },
+      {
+        "title": "Catástrofe aérea de Lockerbie",
+        "description": "Un atentado terrorista hizo explotar el vuelo Pan Am 103 sobre la localidad escocesa de Lockerbie, matando a 270 personas entre pasajeros y habitantes del pueblo.",
+        "year": 1988
+      },
+      {
+        "title": "Crucero de la misión Apolo 8 alrededor de la Luna",
+        "description": "Los astronautas Frank Borman, James Lovell y William Anders a bordo del Apolo 8 se convirtieron en los primeros seres humanos en orbitar la Luna, tomando la famosa fotografía 'Amanecer de la Tierra'.",
+        "year": 1968
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Thomas the Apostle",
+        "type": "Apostle",
+        "description": "One of the twelve apostles of Jesus, known for his doubt about the Resurrection ('Doubting Thomas'). According to tradition, he evangelised Persia and India, where he was martyred in AD 72."
+      },
+      {
+        "name": "Saint Peter Canisius",
+        "type": "Priest and Doctor of the Church",
+        "description": "Dutch Jesuit of the 16th century, apostle of Germany, known as the 'Second Apostle of Germany' for his work in the Counter-Reformation and his famous catechisms."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Winter Solstice (Northern Hemisphere)",
+        "description": "The shortest day and longest night of the year in the Northern Hemisphere. It marks the astronomical beginning of winter and has been celebrated by civilisations worldwide for millennia."
+      },
+      {
+        "name": "Yule (Nordic pagan tradition)",
+        "description": "Nordic pagan feast of the winter solstice celebrating the rebirth of the sun and the beginning of a new annual cycle, some of whose traditions were incorporated into Christian Christmas."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Even the darkest night will end, and the sun will rise.",
+      "author": "Victor Hugo",
+      "context": "French writer, author of Les Misérables. His words about darkness and light take on special meaning on the winter solstice."
+    },
+    "motivationalQuote": {
+      "text": "In the depths of winter, I finally learned that within me there lay an invincible summer.",
+      "author": "Albert Camus"
+    },
+    "births": [
+      {
+        "name": "Benjamin Disraeli",
+        "description": "British statesman and novelist, Prime Minister of the United Kingdom on two occasions (1868 and 1874–1880), the first Jewish-origin PM and a great favourite of Queen Victoria.",
+        "year": 1804
+      },
+      {
+        "name": "Joseph Stalin",
+        "description": "Soviet politician, General Secretary of the Communist Party of the USSR (1922–1952), whose totalitarian regime transformed the Soviet Union into an industrial power at the cost of millions of lives.",
+        "year": 1878
+      },
+      {
+        "name": "Samuel L. Jackson",
+        "description": "American actor and producer, one of the most prolific and highest-grossing in Hollywood, known for Pulp Fiction, Kill Bill, and the Marvel saga as Nick Fury.",
+        "year": 1948
+      }
+    ],
+    "events": [
+      {
+        "title": "Premiere of Snow White and the Seven Dwarfs",
+        "description": "Walt Disney premiered his first feature-length animated film, Snow White and the Seven Dwarfs, in Los Angeles, revolutionising the animation film industry.",
+        "year": 1937
+      },
+      {
+        "title": "Lockerbie air disaster",
+        "description": "A terrorist bomb destroyed Pan Am Flight 103 over the Scottish town of Lockerbie, killing 270 people among passengers and town residents.",
+        "year": 1988
+      },
+      {
+        "title": "Apollo 8 orbits the Moon",
+        "description": "Astronauts Frank Borman, James Lovell, and William Anders aboard Apollo 8 became the first human beings to orbit the Moon, taking the famous 'Earthrise' photograph.",
+        "year": 1968
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Tomé Apóstolo",
+        "type": "Apóstolo",
+        "description": "Um dos doze apóstolos de Jesus, conhecido pela sua dúvida perante a Ressurreição ('o incrédulo Tomé'). Segundo a tradição, evangelizou a Pérsia e a Índia, onde sofreu martírio em 72 d.C."
+      },
+      {
+        "name": "São Pedro Canísio",
+        "type": "Presbítero e Doutor da Igreja",
+        "description": "Jesuíta holandês do século XVI, apóstolo da Alemanha, conhecido como o 'Segundo Apóstolo da Alemanha' pela sua obra na Contrarreforma e pelos seus famosos catecismos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Solstício de Inverno (hemisfério norte)",
+        "description": "O dia mais curto e a noite mais longa do ano no hemisfério norte. Marca o início astronômico do inverno e tem sido celebrado por civilizações de todo o mundo durante milénios."
+      },
+      {
+        "name": "Yule (tradição pagã nórdica)",
+        "description": "Festividade pagã nórdica do solstício de inverno que celebrava o renascimento do sol e o início do novo ciclo anual, algumas das cujas tradições foram incorporadas ao Natal cristão."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Mesmo a noite mais escura terminará, e o sol voltará a nascer.",
+      "author": "Victor Hugo",
+      "context": "Escritor francês, autor de Os Miseráveis. As suas palavras sobre a escuridão e a luz ganham especial significado no solstício de inverno."
+    },
+    "motivationalQuote": {
+      "text": "No meio do inverno, descobri finalmente que havia em mim um verão invencível.",
+      "author": "Albert Camus"
+    },
+    "births": [
+      {
+        "name": "Benjamin Disraeli",
+        "description": "Estadista e romancista britânico, primeiro-ministro do Reino Unido em duas ocasiões (1868 e 1874–1880), o primeiro PM de origem judaica e grande favorito da rainha Vitória.",
+        "year": 1804
+      },
+      {
+        "name": "Joseph Stalin",
+        "description": "Político soviético, secretário-geral do Partido Comunista da URSS (1922–1952), cujo regime totalitário transformou a União Soviética numa potência industrial à custa de milhões de vidas.",
+        "year": 1878
+      },
+      {
+        "name": "Samuel L. Jackson",
+        "description": "Ator e produtor americano, um dos mais prolíficos e rentáveis de Hollywood, conhecido por Pulp Fiction, Kill Bill e a saga Marvel como Nick Fury.",
+        "year": 1948
+      }
+    ],
+    "events": [
+      {
+        "title": "Estreia de Branca de Neve e os Sete Anões",
+        "description": "Walt Disney estreou em Los Angeles a sua primeira longa-metragem de animação, Branca de Neve e os Sete Anões, revolucionando a indústria do cinema de animação.",
+        "year": 1937
+      },
+      {
+        "title": "Catástrofe aérea de Lockerbie",
+        "description": "Um atentado terrorista fez explodir o voo Pan Am 103 sobre a localidade escocesa de Lockerbie, matando 270 pessoas entre passageiros e habitantes da cidade.",
+        "year": 1988
+      },
+      {
+        "title": "Apollo 8 orbita a Lua",
+        "description": "Os astronautas Frank Borman, James Lovell e William Anders a bordo do Apollo 8 tornaram-se os primeiros seres humanos a orbitar a Lua, tirando a famosa fotografia 'Nascer da Terra'.",
+        "year": 1968
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Tomàs Apòstol",
+        "type": "Apòstol",
+        "description": "Un dels dotze apòstols de Jesús, conegut pel seu dubte davant la Resurrecció ('el incrèdul Tomàs'). Segons la tradició, va evangelitzar Pèrsia i l'Índia, on va patir martiri l'any 72 dC."
+      },
+      {
+        "name": "Sant Pere Canisio",
+        "type": "Prevere i Doctor de l'Església",
+        "description": "Jesuïta holandès del segle XVI, apòstol d'Alemanya, conegut com el 'Segon Apòstol d'Alemanya' per la seva obra a la Contrareforma i els seus famosos catecismes."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Solstici d'hivern (hemisferi nord)",
+        "description": "El dia més curt i la nit més llarga de l'any a l'hemisferi nord. Marca l'inici astronòmic de l'hivern i ha estat celebrat per civilitzacions de tot el món durant mil·lennis."
+      },
+      {
+        "name": "Yule (tradició pagana nòrdica)",
+        "description": "Festivitat pagana nòrdica del solstici d'hivern que celebrava el renaixement del sol i l'inici del nou cicle anual, algunes de les tradicions de la qual van ser incorporades al Nadal cristià."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Fins i tot la nit més fosca acabarà, i el sol tornarà a sortir.",
+      "author": "Victor Hugo",
+      "context": "Escriptor francès, autor de Els Miserables. Les seves paraules sobre la foscor i la llum cobren especial significat en el solstici d'hivern."
+    },
+    "motivationalQuote": {
+      "text": "En el fons de l'hivern, vaig descobrir finalment que hi havia en mi un estiu invencible.",
+      "author": "Albert Camus"
+    },
+    "births": [
+      {
+        "name": "Benjamin Disraeli",
+        "description": "Estadista i novel·lista britànic, primer ministre del Regne Unit en dues ocasions (1868 i 1874–1880), el primer PM d'origen jueu i gran favorit de la reina Victòria.",
+        "year": 1804
+      },
+      {
+        "name": "Joseph Stalin",
+        "description": "Polític soviètic, secretari general del Partit Comunista de l'URSS (1922–1952), el règim totalitari del qual va transformar la Unió Soviètica en una potència industrial a costa de milions de vides.",
+        "year": 1878
+      },
+      {
+        "name": "Samuel L. Jackson",
+        "description": "Actor i productor nord-americà, un dels més prolífics i taquilleros de Hollywood, conegut per Pulp Fiction, Kill Bill i la saga Marvel com a Nick Fury.",
+        "year": 1948
+      }
+    ],
+    "events": [
+      {
+        "title": "Estrena de Blancaneus i els set nans",
+        "description": "Walt Disney va estrenar a Los Angeles el seu primer llargmetratge d'animació, Blancaneus i els set nans, revolucionant la indústria del cinema d'animació.",
+        "year": 1937
+      },
+      {
+        "title": "Catàstrofe aèria de Lockerbie",
+        "description": "Un atemptat terrorista va fer explotar el vol Pan Am 103 sobre la localitat escocesa de Lockerbie, matant 270 persones entre passatgers i habitants de la població.",
+        "year": 1988
+      },
+      {
+        "title": "Apollo 8 orbita la Lluna",
+        "description": "Els astronautes Frank Borman, James Lovell i William Anders a bord de l'Apollo 8 es van convertir en els primers éssers humans a orbitar la Lluna, prenent la famosa fotografia 'L'alba de la Terra'.",
+        "year": 1968
+      }
+    ]
+  }
+}

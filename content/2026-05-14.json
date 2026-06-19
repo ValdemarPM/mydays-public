@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-14",
+  "es": {
+    "saints": [
+      {
+        "name": "San Matías",
+        "type": "Apóstol",
+        "description": "El apóstol elegido para sustituir a Judas Iscariote tras su traición y suicidio (Hechos 1:15-26). Fue escogido por sorteo entre los discípulos que habían acompañado a Jesús desde su bautismo hasta su ascensión. Según la tradición, predicó en Judea y Etiopía, donde fue martirizado."
+      },
+      {
+        "name": "Santa María Mazzarello",
+        "type": "Virgen y cofundadora",
+        "description": "Religiosa italiana del siglo XIX, cofundadora junto a San Juan Bosco de las Hijas de María Auxiliadora (Salesianas). Dedicó su vida a la educación de las jóvenes más desfavorecidas. Fue canonizada en 1951 y es copatrona de los salesianos."
+      },
+      {
+        "name": "San Miguel Garicoïts",
+        "type": "Sacerdote y fundador",
+        "description": "Sacerdote vasco-francés del siglo XIX, fundador de la Congregación de los Sacerdotes del Sagrado Corazón de Jesús (Betharramitas). Fue un gran educador y director espiritual. Canonizado en 1947."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de Israel (Yom Ha'atzmaut)",
+        "description": "El 14 de mayo de 1948, David Ben-Gurión proclamó el Estado de Israel en Tel Aviv, dando lugar al primer estado judío moderno. En el calendario hebreo, Yom Ha'atzmaut se celebra el 5 de Iyar."
+      },
+      {
+        "name": "Día Mundial del Empanadista",
+        "description": "Fecha lúdica que celebra las empanadas y pasties como patrimonio culinario compartido por numerosas culturas de todo el mundo, desde Argentina hasta Cornualles."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si lo queréis, no será una leyenda. Si no lo queréis, una leyenda será y seguirá siendo.",
+      "author": "Theodor Herzl"
+    },
+    "motivationalQuote": {
+      "text": "La esperanza en sí misma es una especie de felicidad.",
+      "author": "Samuel Johnson"
+    },
+    "births": [
+      {
+        "name": "Gabriel Daniel Fahrenheit",
+        "description": "Físico e inventor alemán-holandés del siglo XVIII, inventor del termómetro de mercurio y creador de la escala de temperatura Fahrenheit (1724), que lleva su nombre y se sigue usando en Estados Unidos y algunos otros países.",
+        "year": "1686"
+      },
+      {
+        "name": "George Lucas",
+        "description": "Director y productor cinematográfico americano, creador de las franquicias Star Wars e Indiana Jones. Fundador de Lucasfilm y de Industrial Light & Magic, revolucionó los efectos especiales y la producción cinematográfica moderna.",
+        "year": "1944"
+      },
+      {
+        "name": "Cate Blanchett",
+        "description": "Actriz australiana, ganadora de dos premios Óscar (Aviador, 2004 y Blue Jasmine, 2013). Reconocida por su versatilidad y elegancia, ha protagonizado franquicias como El señor de los anillos y Thor: Ragnarok.",
+        "year": "1969"
+      }
+    ],
+    "events": [
+      {
+        "title": "Proclamación del Estado de Israel",
+        "description": "David Ben-Gurión proclamó el establecimiento del Estado de Israel en el Museo de Tel Aviv, pocas horas antes del vencimiento del Mandato Británico de Palestina. El nuevo estado fue reconocido de inmediato por EE. UU. y la URSS.",
+        "year": "1948"
+      },
+      {
+        "title": "Se abre el Canal de Suez",
+        "description": "El Canal de Suez, que une el Mar Mediterráneo con el Mar Rojo, fue inaugurado oficialmente, transformando el comercio marítimo mundial y reduciendo enormemente las distancias entre Europa y Asia.",
+        "year": "1869"
+      },
+      {
+        "title": "Primera vacuna contra la viruela",
+        "description": "Edward Jenner realizó la primera vacunación contra la viruela, inoculando a un niño de ocho años con la vacuna de viruela bovina (cowpox). Este experimento fundó la vacunología moderna y llevó a la erradicación de la viruela en 1980.",
+        "year": "1796"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Matthias",
+        "type": "Apostle",
+        "description": "The apostle chosen to replace Judas Iscariot after his betrayal and suicide (Acts 1:15–26). He was selected by lot from among the disciples who had accompanied Jesus from his baptism to his ascension. According to tradition, he preached in Judea and Ethiopia, where he was martyred."
+      },
+      {
+        "name": "Saint Mary Mazzarello",
+        "type": "Virgin and Co-foundress",
+        "description": "19th-century Italian nun, co-foundress alongside Saint John Bosco of the Daughters of Mary Help of Christians (Salesians). She dedicated her life to the education of the most disadvantaged girls. She was canonised in 1951 and is co-patron of the Salesians."
+      },
+      {
+        "name": "Saint Michael Garicoïts",
+        "type": "Priest and Founder",
+        "description": "19th-century Basque-French priest, founder of the Congregation of the Priests of the Sacred Heart of Jesus (Betharramites). He was a great educator and spiritual director. Canonised in 1947."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Israel Independence Day (Yom Ha'atzmaut)",
+        "description": "On 14 May 1948, David Ben-Gurion proclaimed the State of Israel in Tel Aviv, creating the first modern Jewish state. In the Hebrew calendar, Yom Ha'atzmaut is celebrated on the 5th of Iyar."
+      },
+      {
+        "name": "World Pasty Day",
+        "description": "A light-hearted date that celebrates pasties and empanadas as a culinary heritage shared by many cultures around the world, from Argentina to Cornwall."
+      }
+    ],
+    "historicalQuote": {
+      "text": "If you will it, it is no dream. If you will it not, it is a dream that will remain a dream.",
+      "author": "Theodor Herzl"
+    },
+    "motivationalQuote": {
+      "text": "Hope itself is a kind of happiness.",
+      "author": "Samuel Johnson"
+    },
+    "births": [
+      {
+        "name": "Gabriel Daniel Fahrenheit",
+        "description": "18th-century German-Dutch physicist and inventor, inventor of the mercury thermometer and creator of the Fahrenheit temperature scale (1724), which bears his name and is still used in the United States and some other countries.",
+        "year": "1686"
+      },
+      {
+        "name": "George Lucas",
+        "description": "American film director and producer, creator of the Star Wars and Indiana Jones franchises. Founder of Lucasfilm and Industrial Light & Magic, he revolutionised special effects and modern film production.",
+        "year": "1944"
+      },
+      {
+        "name": "Cate Blanchett",
+        "description": "Australian actress, winner of two Academy Awards (The Aviator, 2004, and Blue Jasmine, 2013). Recognised for her versatility and elegance, she has starred in franchises such as The Lord of the Rings and Thor: Ragnarok.",
+        "year": "1969"
+      }
+    ],
+    "events": [
+      {
+        "title": "Proclamation of the State of Israel",
+        "description": "David Ben-Gurion proclaimed the establishment of the State of Israel at the Tel Aviv Museum, hours before the expiry of the British Mandate for Palestine. The new state was immediately recognised by both the USA and the USSR.",
+        "year": "1948"
+      },
+      {
+        "title": "Opening of the Suez Canal",
+        "description": "The Suez Canal, linking the Mediterranean Sea with the Red Sea, was officially inaugurated, transforming global maritime trade and enormously shortening the distance between Europe and Asia.",
+        "year": "1869"
+      },
+      {
+        "title": "First Smallpox Vaccine",
+        "description": "Edward Jenner performed the first vaccination against smallpox, inoculating an eight-year-old boy with cowpox vaccine. This experiment founded modern vaccinology and ultimately led to the eradication of smallpox in 1980.",
+        "year": "1796"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Matias",
+        "type": "Apóstolo",
+        "description": "O apóstolo escolhido para substituir Judas Iscariotes após sua traição e suicídio (Atos 1:15–26). Foi selecionado por sorteio entre os discípulos que haviam acompanhado Jesus desde seu batismo até sua ascensão. Segundo a tradição, pregou na Judeia e na Etiópia, onde foi martirizados."
+      },
+      {
+        "name": "Santa Maria Mazzarello",
+        "type": "Virgem e Cofundadora",
+        "description": "Religiosa italiana do século XIX, cofundadora junto com São João Bosco das Filhas de Maria Auxiliadora (Salesianas). Dedicou sua vida à educação das jovens mais desfavorecidas. Foi canonizada em 1951 e é copadroeira dos salesianos."
+      },
+      {
+        "name": "São Miguel Garicoïts",
+        "type": "Sacerdote e Fundador",
+        "description": "Sacerdote basco-francês do século XIX, fundador da Congregação dos Sacerdotes do Sagrado Coração de Jesus (Betarramitas). Foi um grande educador e diretor espiritual. Canonizado em 1947."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência de Israel (Yom Ha'atzmaut)",
+        "description": "Em 14 de maio de 1948, David Ben-Gurion proclamou o Estado de Israel em Tel Aviv, criando o primeiro estado judeu moderno. No calendário hebraico, Yom Ha'atzmaut é celebrado no 5.º de Iyar."
+      },
+      {
+        "name": "Dia Mundial da Empanada",
+        "description": "Data lúdica que celebra as empanadas e pastéis como patrimônio culinário compartilhado por inúmeras culturas do mundo, da Argentina à Cornualha."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Se o quiserdes, não será um sonho. Se não o quiserdes, um sonho será e permanecerá.",
+      "author": "Theodor Herzl"
+    },
+    "motivationalQuote": {
+      "text": "A esperança em si mesma é uma espécie de felicidade.",
+      "author": "Samuel Johnson"
+    },
+    "births": [
+      {
+        "name": "Gabriel Daniel Fahrenheit",
+        "description": "Físico e inventor germano-holandês do século XVIII, inventor do termômetro de mercúrio e criador da escala de temperatura Fahrenheit (1724), que leva seu nome e ainda é usada nos Estados Unidos e em alguns outros países.",
+        "year": "1686"
+      },
+      {
+        "name": "George Lucas",
+        "description": "Diretor e produtor cinematográfico americano, criador das franquias Star Wars e Indiana Jones. Fundador da Lucasfilm e da Industrial Light & Magic, revolucionou os efeitos especiais e a produção cinematográfica moderna.",
+        "year": "1944"
+      },
+      {
+        "name": "Cate Blanchett",
+        "description": "Atriz australiana, vencedora de dois Oscars (O Aviador, 2004, e Blue Jasmine, 2013). Reconhecida por sua versatilidade e elegância, estrelou franquias como O Senhor dos Anéis e Thor: Ragnarok.",
+        "year": "1969"
+      }
+    ],
+    "events": [
+      {
+        "title": "Proclamação do Estado de Israel",
+        "description": "David Ben-Gurion proclamou o estabelecimento do Estado de Israel no Museu de Tel Aviv, horas antes do vencimento do Mandato Britânico da Palestina. O novo estado foi imediatamente reconhecido pelos EUA e pela URSS.",
+        "year": "1948"
+      },
+      {
+        "title": "Abertura do Canal de Suez",
+        "description": "O Canal de Suez, que une o Mar Mediterrâneo com o Mar Vermelho, foi inaugurado oficialmente, transformando o comércio marítimo mundial e reduzindo enormemente as distâncias entre a Europa e a Ásia.",
+        "year": "1869"
+      },
+      {
+        "title": "Primeira vacina contra a varíola",
+        "description": "Edward Jenner realizou a primeira vacinação contra a varíola, inoculando um menino de oito anos com a vacina de varíola bovina (cowpox). Este experimento fundou a vacinologia moderna e levou à erradicação da varíola em 1980.",
+        "year": "1796"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Maties",
+        "type": "Apòstol",
+        "description": "L'apòstol elegit per substituir Judes Iscariot després de la seva traïció i suïcidi (Fets 1:15–26). Va ser escollit per sorteig entre els deixebles que havien acompanyat Jesús des del seu baptisme fins a la seva ascensió. Segons la tradició, va predicar a Judea i Etiòpia, on va patir martiri."
+      },
+      {
+        "name": "Santa Maria Mazzarello",
+        "type": "Verge i Cofundadora",
+        "description": "Religiosa italiana del segle XIX, cofundadora juntament amb Sant Joan Bosco de les Filles de Maria Auxiliadora (Salesians). Va dedicar la seva vida a l'educació de les joves més desfavorides. Va ser canonitzada el 1951 i és copatrona dels salesians."
+      },
+      {
+        "name": "Sant Miquel Garicoïts",
+        "type": "Sacerdot i Fundador",
+        "description": "Sacerdot basc-francès del segle XIX, fundador de la Congregació dels Sacerdots del Sagrat Cor de Jesús (Betarramites). Va ser un gran educador i director espiritual. Canonitzat el 1947."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència d'Israel (Yom Ha'atzmaut)",
+        "description": "El 14 de maig de 1948, David Ben-Gurion va proclamar l'Estat d'Israel a Tel Aviv, creant el primer estat jueu modern. En el calendari hebreu, Yom Ha'atzmaut se celebra el 5 d'Iyar."
+      },
+      {
+        "name": "Dia Mundial de l'Empanada",
+        "description": "Data lúdica que celebra les empanades i els pastissets com a patrimoni culinari compartit per nombroses cultures d'arreu del món, de l'Argentina a Cornualla."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si ho voleu, no serà una llegenda. Si no ho voleu, una llegenda serà i continuarà essent-ho.",
+      "author": "Theodor Herzl"
+    },
+    "motivationalQuote": {
+      "text": "L'esperança en si mateixa és una mena de felicitat.",
+      "author": "Samuel Johnson"
+    },
+    "births": [
+      {
+        "name": "Gabriel Daniel Fahrenheit",
+        "description": "Físic i inventor germano-holandès del segle XVIII, inventor del termòmetre de mercuri i creador de l'escala de temperatura Fahrenheit (1724), que porta el seu nom i s'utilitza encara als Estats Units i alguns altres països.",
+        "year": "1686"
+      },
+      {
+        "name": "George Lucas",
+        "description": "Director i productor cinematogràfic americà, creador de les franquícies Star Wars i Indiana Jones. Fundador de Lucasfilm i Industrial Light & Magic, va revolucionar els efectes especials i la producció cinematogràfica moderna.",
+        "year": "1944"
+      },
+      {
+        "name": "Cate Blanchett",
+        "description": "Actriu australiana, guanyadora de dos premis Oscar (L'aviador, 2004, i Blue Jasmine, 2013). Reconeguda per la seva versatilitat i elegància, ha protagonitzat franquícies com El senyor dels anells i Thor: Ragnarok.",
+        "year": "1969"
+      }
+    ],
+    "events": [
+      {
+        "title": "Proclamació de l'Estat d'Israel",
+        "description": "David Ben-Gurion va proclamar l'establiment de l'Estat d'Israel al Museu de Tel Aviv, hores abans del venciment del Mandat Britànic de Palestina. El nou estat va ser reconegut de manera immediata pels EUA i l'URSS.",
+        "year": "1948"
+      },
+      {
+        "title": "Obertura del Canal de Suez",
+        "description": "El Canal de Suez, que uneix el Mar Mediterrani amb el Mar Roig, va ser inaugurat oficialment, transformant el comerç marítim mundial i reduint enormement les distàncies entre Europa i Àsia.",
+        "year": "1869"
+      },
+      {
+        "title": "Primera vacuna contra la verola",
+        "description": "Edward Jenner va realitzar la primera vacunació contra la verola, inoculant un nen de vuit anys amb la vacuna de verola bovina (cowpox). Aquest experiment va fundar la vacunologia moderna i va portar a l'eradicació de la verola el 1980.",
+        "year": "1796"
+      }
+    ]
+  }
+}

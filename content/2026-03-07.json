@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-07",
+  "es": {
+    "saints": [
+      { "name": "Santas Perpetua y Felicidad", "type": "Mártires", "description": "Joven noble cartaginesa y su esclava, ejecutadas en el anfiteatro de Cartago en el 203 d.C.; sus actas de martirio son uno de los documentos más antiguos escritos por una mujer cristiana." },
+      { "name": "San Pablo el Simple", "type": "Monje y eremita", "description": "Discípulo de San Antonio Abad en Egipto durante el siglo IV, conocido por su humildad y sencillez de corazón, virtudes que le valieron el sobrenombre de 'el Simple'." },
+      { "name": "San Gaudioso de Brescia", "type": "Obispo", "description": "Obispo de Brescia en el siglo V, que organizó la vida cristiana de su diócesis durante las invasiones bárbaras." }
+    ],
+    "observances": [
+      { "name": "Domingo de Selma (Bloody Sunday, aniversario)", "description": "El 7 de marzo de 1965, cientos de manifestantes por los derechos civiles fueron brutalmente atacados por la policía al cruzar el puente Edmund Pettus en Selma, Alabama. Este 'Domingo Sangriento' aceleró la aprobación de la Ley de Derecho al Voto de 1965." },
+      { "name": "Día Internacional de la Mujer con Discapacidad", "description": "Jornada paralela al Día Internacional de la Mujer que busca visibilizar la situación específica de las mujeres con discapacidad, a menudo doblemente excluidas." }
+    ],
+    "historicalQuote": {
+      "text": "Injusticia en cualquier lugar es una amenaza a la justicia en todo lugar.",
+      "author": "Martin Luther King Jr.",
+      "context": "Extraída de la célebre 'Carta desde la cárcel de Birmingham' (1963), esta frase resume la visión universalista de King sobre la justicia social y sigue siendo una referencia moral en todo el mundo."
+    },
+    "motivationalQuote": {
+      "text": "Nunca dejes que el miedo de fallar te impida intentar algo nuevo.",
+      "author": "Michael Jordan"
+    },
+    "births": [
+      { "name": "Alessandro Volta", "description": "Físico italiano, inventor de la pila eléctrica (1799), el primer dispositivo capaz de generar una corriente eléctrica continua; el voltio se nombró en su honor.", "year": 1745 },
+      { "name": "Maurice Ravel", "description": "Compositor francés, maestro del impresionismo musical, autor de obras como el 'Bolero', 'La Valse' y el 'Concierto para piano en sol mayor'.", "year": 1875 },
+      { "name": "Rachel Weisz", "description": "Actriz británica ganadora del Oscar por 'El jardinero fiel' (2005), con una carrera en Hollywood marcada por papeles en dramas exigentes y thrillers.", "year": 1970 }
+    ],
+    "events": [
+      { "title": "Patente del teléfono concedida a Alexander Graham Bell", "description": "La Oficina de Patentes de los Estados Unidos concedió a Alexander Graham Bell la patente n.º 174.465 para el teléfono, uno de los inventos más transformadores de la historia moderna.", "year": 1876 },
+      { "title": "Bloody Sunday en Selma, Alabama", "description": "Cientos de manifestantes pacíficos fueron atacados con porras y gas lacrimógeno al intentar cruzar el puente Edmund Pettus en Selma, en un momento clave del movimiento por los derechos civiles.", "year": 1965 },
+      { "title": "Alemania remilitariza Renania", "description": "La Alemania nazi violó el Tratado de Versalles al enviar tropas a la zona desmilitarizada de Renania, en una demostración de fuerza que las potencias occidentales no contestaron.", "year": 1936 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saints Perpetua and Felicity", "type": "Martyrs", "description": "A young Carthaginian noblewoman and her slave, executed in the amphitheatre of Carthage in 203 AD; their martyrdom acts are among the oldest surviving texts written by a Christian woman." },
+      { "name": "Saint Paul the Simple", "type": "Monk and hermit", "description": "Disciple of Saint Anthony the Great in fourth-century Egypt, renowned for his humility and simplicity of heart, virtues that earned him the nickname 'the Simple'." },
+      { "name": "Saint Gaudiosus of Brescia", "type": "Bishop", "description": "Fifth-century Bishop of Brescia, who organised Christian life in his diocese during the barbarian invasions." }
+    ],
+    "observances": [
+      { "name": "Bloody Sunday Anniversary (Selma)", "description": "On 7 March 1965, hundreds of civil rights marchers were brutally attacked by police while crossing the Edmund Pettus Bridge in Selma, Alabama. This 'Bloody Sunday' accelerated passage of the Voting Rights Act of 1965." },
+      { "name": "International Day of Women with Disabilities", "description": "A day alongside International Women's Day that seeks to highlight the specific situation of women with disabilities, who are often doubly excluded." }
+    ],
+    "historicalQuote": {
+      "text": "Injustice anywhere is a threat to justice everywhere.",
+      "author": "Martin Luther King Jr.",
+      "context": "Taken from the celebrated 'Letter from Birmingham Jail' (1963), this phrase encapsulates King's universalist vision of social justice and remains a moral reference worldwide."
+    },
+    "motivationalQuote": {
+      "text": "Never let the fear of striking out keep you from playing the game.",
+      "author": "Babe Ruth"
+    },
+    "births": [
+      { "name": "Alessandro Volta", "description": "Italian physicist, inventor of the electric battery (1799), the first device capable of generating a continuous electric current; the volt is named in his honour.", "year": 1745 },
+      { "name": "Maurice Ravel", "description": "French composer, master of musical Impressionism, author of works such as 'Boléro', 'La Valse' and the 'Piano Concerto in G major'.", "year": 1875 },
+      { "name": "Rachel Weisz", "description": "British Oscar-winning actress for 'The Constant Gardener' (2005), with a Hollywood career marked by roles in demanding dramas and thrillers.", "year": 1970 }
+    ],
+    "events": [
+      { "title": "Telephone patent granted to Alexander Graham Bell", "description": "The United States Patent Office granted Alexander Graham Bell patent No. 174,465 for the telephone, one of the most transformative inventions in modern history.", "year": 1876 },
+      { "title": "Bloody Sunday in Selma, Alabama", "description": "Hundreds of peaceful marchers were attacked with clubs and tear gas as they attempted to cross the Edmund Pettus Bridge in Selma, in a defining moment of the civil rights movement.", "year": 1965 },
+      { "title": "Germany remilitarises the Rhineland", "description": "Nazi Germany violated the Treaty of Versailles by sending troops into the demilitarised Rhineland zone, a show of force the Western powers did not challenge.", "year": 1936 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "Santas Perpétua e Felicidade", "type": "Mártires", "description": "Uma jovem nobre cartaginesa e sua escrava, executadas no anfiteatro de Cartago em 203 d.C.; seus atos de martírio são um dos textos mais antigos escritos por uma mulher cristã." },
+      { "name": "São Paulo o Simples", "type": "Monge e eremita", "description": "Discípulo de Santo Antônio Abade no Egito do século IV, conhecido pela sua humildade e simplicidade de coração, virtudes que lhe valeram o apelido de 'o Simples'." },
+      { "name": "São Gaudioso de Brescia", "type": "Bispo", "description": "Bispo de Brescia no século V, que organizou a vida cristã de sua diocese durante as invasões bárbaras." }
+    ],
+    "observances": [
+      { "name": "Aniversário do Domingo Sangrento de Selma", "description": "Em 7 de março de 1965, centenas de manifestantes pelos direitos civis foram brutalmente atacados pela polícia ao cruzar a ponte Edmund Pettus em Selma, Alabama. Este 'Domingo Sangrento' acelerou a aprovação da Lei do Direito ao Voto de 1965." },
+      { "name": "Dia Internacional das Mulheres com Deficiência", "description": "Jornada paralela ao Dia Internacional da Mulher que busca visibilizar a situação específica das mulheres com deficiência, muitas vezes duplamente excluídas." }
+    ],
+    "historicalQuote": {
+      "text": "A injustiça em qualquer lugar é uma ameaça à justiça em todo lugar.",
+      "author": "Martin Luther King Jr.",
+      "context": "Retirada da célebre 'Carta da Prisão de Birmingham' (1963), esta frase resume a visão universalista de King sobre a justiça social e continua sendo uma referência moral em todo o mundo."
+    },
+    "motivationalQuote": {
+      "text": "Nunca deixe o medo de errar impedir você de jogar.",
+      "author": "Babe Ruth"
+    },
+    "births": [
+      { "name": "Alessandro Volta", "description": "Físico italiano, inventor da pilha elétrica (1799), o primeiro dispositivo capaz de gerar uma corrente elétrica contínua; o volt foi nomeado em sua homenagem.", "year": 1745 },
+      { "name": "Maurice Ravel", "description": "Compositor francês, mestre do impressionismo musical, autor de obras como o 'Bolero', 'La Valse' e o 'Concerto para Piano em Sol Maior'.", "year": 1875 },
+      { "name": "Rachel Weisz", "description": "Atriz britânica vencedora do Oscar por 'O Jardineiro Fiel' (2005), com uma carreira em Hollywood marcada por papéis em dramas exigentes e thrillers.", "year": 1970 }
+    ],
+    "events": [
+      { "title": "Patente do telefone concedida a Alexander Graham Bell", "description": "O Escritório de Patentes dos Estados Unidos concedeu a Alexander Graham Bell a patente n.º 174.465 para o telefone, uma das invenções mais transformadoras da história moderna.", "year": 1876 },
+      { "title": "Domingo Sangrento em Selma, Alabama", "description": "Centenas de manifestantes pacíficos foram atacados com cassetetes e gás lacrimogêneo ao tentar cruzar a ponte Edmund Pettus em Selma, num momento decisivo do movimento pelos direitos civis.", "year": 1965 },
+      { "title": "Alemanha remilitariza a Renânia", "description": "A Alemanha nazista violou o Tratado de Versalhes ao enviar tropas para a zona desmilitarizada da Renânia, numa demonstração de força que as potências ocidentais não contestaram.", "year": 1936 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Santes Perpètua i Felicitat", "type": "Màrtirs", "description": "Una jove noble cartaginesa i la seva esclava, executades a l'amfiteatre de Cartago l'any 203 d.C.; els seus actes de martiri són un dels textos més antics escrits per una dona cristiana." },
+      { "name": "Sant Pau el Simple", "type": "Monjo i eremita", "description": "Deixeble de Sant Antoni Abat a l'Egipte del segle IV, conegut per la seva humilitat i senzillesa de cor, virtuts que li van valer el sobrenom de 'el Simple'." },
+      { "name": "Sant Gaudiosos de Brescia", "type": "Bisbe", "description": "Bisbe de Brescia al segle V, que va organitzar la vida cristiana de la seva diòcesi durant les invasions bàrbares." }
+    ],
+    "observances": [
+      { "name": "Aniversari del Diumenge Sagnant de Selma", "description": "El 7 de març de 1965, centenars de manifestants pels drets civils van ser brutalment atacats per la policia en creuar el pont Edmund Pettus a Selma, Alabama. Aquest 'Diumenge Sagnant' va accelerar l'aprovació de la Llei del Dret al Vot de 1965." },
+      { "name": "Dia Internacional de les Dones amb Discapacitat", "description": "Jornada paral·lela al Dia Internacional de la Dona que busca visibilitzar la situació específica de les dones amb discapacitat, sovint doblement excloses." }
+    ],
+    "historicalQuote": {
+      "text": "La injustícia en qualsevol lloc és una amenaça a la justícia a tot arreu.",
+      "author": "Martin Luther King Jr.",
+      "context": "Extreta de la cèlebre 'Carta des de la presó de Birmingham' (1963), aquesta frase resumeix la visió universalista de King sobre la justícia social i continua sent una referència moral arreu del món."
+    },
+    "motivationalQuote": {
+      "text": "Mai deixis que la por d'errar t'impedeixi de jugar.",
+      "author": "Babe Ruth"
+    },
+    "births": [
+      { "name": "Alessandro Volta", "description": "Físic italià, inventor de la pila elèctrica (1799), el primer dispositiu capaç de generar un corrent elèctric continu; el volt va ser batejat en el seu honor.", "year": 1745 },
+      { "name": "Maurice Ravel", "description": "Compositor francès, mestre de l'impressionisme musical, autor d'obres com el 'Bolero', 'La Valse' i el 'Concert per a piano en sol major'.", "year": 1875 },
+      { "name": "Rachel Weisz", "description": "Actriu britànica guanyadora de l'Oscar per 'El jardiner fidel' (2005), amb una carrera a Hollywood marcada per papers en drames exigents i thrillers.", "year": 1970 }
+    ],
+    "events": [
+      { "title": "Patent del telèfon concedida a Alexander Graham Bell", "description": "L'Oficina de Patents dels Estats Units va concedir a Alexander Graham Bell la patent n.º 174.465 per al telèfon, un dels invents més transformadors de la història moderna.", "year": 1876 },
+      { "title": "Diumenge Sagnant a Selma, Alabama", "description": "Centenars de manifestants pacífics van ser atacats amb porres i gas lacrimogen en intentar creuar el pont Edmund Pettus a Selma, en un moment decisiu del moviment pels drets civils.", "year": 1965 },
+      { "title": "Alemanya remilitaritza Renània", "description": "L'Alemanya nazi va violar el Tractat de Versalles enviant tropes a la zona desmilitaritzada de Renània, en una demostració de força que les potències occidentals no van contestar.", "year": 1936 }
+    ]
+  }
+}

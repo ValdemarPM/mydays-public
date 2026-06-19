@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-03",
+  "es": {
+    "saints": [
+      {
+        "name": "San Gregorio Magno",
+        "type": "Papa y Doctor de la Iglesia",
+        "description": "Papa entre 590 y 604, considerado uno de los cuatro grandes Padres de la Iglesia latina. Reorganizó la liturgia romana, promovió el canto gregoriano e impulsó la evangelización de Inglaterra enviando a San Agustín de Canterbury."
+      },
+      {
+        "name": "San Macario de Alejandría",
+        "type": "Presbítero",
+        "description": "Monje egipcio del siglo IV conocido por sus extremas penitencias y vida ascética en el desierto. Discípulo de San Antonio Abad, es considerado uno de los Padres del Desierto."
+      },
+      {
+        "name": "Santa Séfora",
+        "type": "Mártir",
+        "description": "Mártir venerada en la tradición cristiana occidental, cuya memoria se recoge en el martirologio romano para este día."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de San Marino — Fiesta Nacional",
+        "description": "San Marino, la república más antigua del mundo (fundada en 301 d.C. según la tradición), celebra su día nacional en honor a su fundador Marinus de Rab, un cantero cristiano que huyó de las persecuciones romanas."
+      },
+      {
+        "name": "Día Internacional contra el Racismo y la Discriminación",
+        "description": "Jornada que recuerda la importancia de luchar contra toda forma de discriminación racial y promover la igualdad y la dignidad de todos los seres humanos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Quien no recuerda el pasado está condenado a repetirlo.",
+      "author": "George Santayana",
+      "context": "El filósofo y escritor español nacido en Madrid en 1863 expresó esta idea en su obra La razón en el sentido común (1905), convertida en una de las frases más citadas de la filosofía occidental."
+    },
+    "motivationalQuote": {
+      "text": "La grandeza no consiste en recibir honores, sino en merecerlos.",
+      "author": "Aristóteles"
+    },
+    "births": [
+      {
+        "name": "Louis Sullivan",
+        "description": "Arquitecto estadounidense considerado el padre de los rascacielos modernos y de la arquitectura funcionalista. Acuñó el principio «la forma sigue a la función», que influiría decisivamente en la arquitectura del siglo XX.",
+        "year": 1856
+      },
+      {
+        "name": "Charlie Sheen",
+        "description": "Actor estadounidense de cine y televisión, conocido por sus papeles en Wall Street (1987) y en la serie Dos hombres y medio (2003–2011), y por su controvertida vida personal.",
+        "year": 1965
+      },
+      {
+        "name": "Ángel Di María",
+        "description": "Futbolista argentino campeón del mundo en Qatar 2022. Marcó el gol de la victoria en la final de la Copa del Mundo ante Francia, y fue también campeón de la Copa América y la Copa Confederaciones.",
+        "year": 1988
+      }
+    ],
+    "events": [
+      {
+        "title": "Tratado de París — independencia de EE.UU.",
+        "description": "Gran Bretaña reconoció formalmente la independencia de los Estados Unidos de América mediante el Tratado de París, poniendo fin a la Guerra de Independencia Americana.",
+        "year": 1783
+      },
+      {
+        "title": "Inicio de la Segunda Guerra Mundial en el frente occidental",
+        "description": "Francia y el Reino Unido declararon la guerra a Alemania en respuesta a la invasión de Polonia, extendiendo el conflicto al frente occidental europeo.",
+        "year": 1939
+      },
+      {
+        "title": "Primera retransmisión de la BBC",
+        "description": "La BBC realizó su primera retransmisión de televisión regular desde el Crystal Palace de Londres, inaugurando la era de la televisión pública en el Reino Unido.",
+        "year": 1936
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Gregory the Great",
+        "type": "Pope and Doctor of the Church",
+        "description": "Pope from 590 to 604, considered one of the four great Fathers of the Latin Church. He reorganised the Roman liturgy, promoted Gregorian chant, and spearheaded the evangelisation of England by sending Saint Augustine of Canterbury."
+      },
+      {
+        "name": "Saint Macarius of Alexandria",
+        "type": "Priest",
+        "description": "A 4th-century Egyptian monk known for his extreme penances and ascetic life in the desert. A disciple of Saint Anthony the Abbot, he is considered one of the Desert Fathers."
+      },
+      {
+        "name": "Saint Sephora",
+        "type": "Martyr",
+        "description": "A martyr venerated in the Western Christian tradition, whose memory is recorded in the Roman Martyrology for this day."
+      }
+    ],
+    "observances": [
+      {
+        "name": "San Marino National Day",
+        "description": "San Marino, the world's oldest republic (founded in 301 AD according to tradition), celebrates its national day in honour of its founder Marinus of Rab, a Christian stonecutter who fled Roman persecutions."
+      },
+      {
+        "name": "International Day against Racism and Discrimination",
+        "description": "A day that highlights the importance of fighting all forms of racial discrimination and promoting the equality and dignity of all human beings."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Those who cannot remember the past are condemned to repeat it.",
+      "author": "George Santayana",
+      "context": "The Spanish philosopher and writer, born in Madrid in 1863, expressed this idea in The Life of Reason (1905), which became one of the most quoted phrases in Western philosophy."
+    },
+    "motivationalQuote": {
+      "text": "Greatness lies not in receiving honours, but in deserving them.",
+      "author": "Aristotle"
+    },
+    "births": [
+      {
+        "name": "Louis Sullivan",
+        "description": "American architect considered the father of the modern skyscraper and functionalist architecture. He coined the principle 'form follows function', which would decisively influence 20th-century architecture.",
+        "year": 1856
+      },
+      {
+        "name": "Charlie Sheen",
+        "description": "American film and television actor, known for his roles in Wall Street (1987) and the sitcom Two and a Half Men (2003–2011), and for his controversial personal life.",
+        "year": 1965
+      },
+      {
+        "name": "Ángel Di María",
+        "description": "Argentine footballer and World Cup champion at Qatar 2022. He scored the winning goal in the World Cup final against France, and also won the Copa América and the FIFA Confederations Cup.",
+        "year": 1988
+      }
+    ],
+    "events": [
+      {
+        "title": "Treaty of Paris — US independence recognised",
+        "description": "Great Britain formally recognised the independence of the United States of America through the Treaty of Paris, ending the American War of Independence.",
+        "year": 1783
+      },
+      {
+        "title": "Start of World War II on the Western Front",
+        "description": "France and the United Kingdom declared war on Germany in response to the invasion of Poland, extending the conflict to the Western European front.",
+        "year": 1939
+      },
+      {
+        "title": "First BBC television broadcast",
+        "description": "The BBC made its first regular television broadcast from Crystal Palace in London, inaugurating the era of public television in the United Kingdom.",
+        "year": 1936
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Gregório Magno",
+        "type": "Papa e Doutor da Igreja",
+        "description": "Papa entre 590 e 604, considerado um dos quatro grandes Padres da Igreja latina. Reorganizou a liturgia romana, promoveu o canto gregoriano e impulsionou a evangelização da Inglaterra enviando Santo Agostinho de Cantuária."
+      },
+      {
+        "name": "São Macário de Alexandria",
+        "type": "Presbítero",
+        "description": "Monge egípcio do século IV conhecido pelas suas extremas penitências e vida ascética no deserto. Discípulo de Santo Antão Abade, é considerado um dos Padres do Deserto."
+      },
+      {
+        "name": "Santa Séfora",
+        "type": "Mártir",
+        "description": "Mártir venerada na tradição cristã ocidental, cuja memória está registada no Martirológio Romano para este dia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional de San Marino",
+        "description": "San Marino, a república mais antiga do mundo (fundada em 301 d.C. segundo a tradição), celebra o seu dia nacional em honra do seu fundador Marinus de Rab, um pedreiro cristão que fugiu das perseguições romanas."
+      },
+      {
+        "name": "Dia Internacional contra o Racismo e a Discriminação",
+        "description": "Jornada que destaca a importância de combater todas as formas de discriminação racial e promover a igualdade e a dignidade de todos os seres humanos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Aqueles que não conseguem lembrar o passado estão condenados a repeti-lo.",
+      "author": "George Santayana",
+      "context": "O filósofo e escritor espanhol, nascido em Madrid em 1863, expressou esta ideia em A Vida da Razão (1905), tornando-se uma das frases mais citadas da filosofia ocidental."
+    },
+    "motivationalQuote": {
+      "text": "A grandeza não está em receber honras, mas em merecê-las.",
+      "author": "Aristóteles"
+    },
+    "births": [
+      {
+        "name": "Louis Sullivan",
+        "description": "Arquiteto americano considerado o pai dos arranha-céus modernos e da arquitetura funcionalista. Cunhou o princípio 'a forma segue a função', que influenciaria decisivamente a arquitetura do século XX.",
+        "year": 1856
+      },
+      {
+        "name": "Charlie Sheen",
+        "description": "Ator americano de cinema e televisão, conhecido pelos seus papéis em Wall Street (1987) e na série Dois Homens e Meio (2003–2011), e pela sua controversa vida pessoal.",
+        "year": 1965
+      },
+      {
+        "name": "Ángel Di María",
+        "description": "Futebolista argentino campeão do mundo no Qatar 2022. Marcou o golo da vitória na final da Copa do Mundo contra a França, sendo também campeão da Copa América e da Copa das Confederações.",
+        "year": 1988
+      }
+    ],
+    "events": [
+      {
+        "title": "Tratado de Paris — independência dos EUA reconhecida",
+        "description": "A Grã-Bretanha reconheceu formalmente a independência dos Estados Unidos da América pelo Tratado de Paris, encerrando a Guerra da Independência Americana.",
+        "year": 1783
+      },
+      {
+        "title": "Início da Segunda Guerra Mundial na Frente Ocidental",
+        "description": "A França e o Reino Unido declararam guerra à Alemanha em resposta à invasão da Polônia, alargando o conflito à frente ocidental europeia.",
+        "year": 1939
+      },
+      {
+        "title": "Primeira transmissão televisiva da BBC",
+        "description": "A BBC realizou a sua primeira transmissão televisiva regular a partir do Crystal Palace em Londres, inaugurando a era da televisão pública no Reino Unido.",
+        "year": 1936
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Gregori el Gran",
+        "type": "Papa i Doctor de l'Església",
+        "description": "Papa entre 590 i 604, considerat un dels quatre grans Pares de l'Església llatina. Va reorganitzar la litúrgia romana, va promoure el cant gregorià i va impulsar l'evangelització d'Anglaterra enviant Sant Agustí de Canterbury."
+      },
+      {
+        "name": "Sant Macari d'Alexandria",
+        "type": "Prevere",
+        "description": "Monjo egipci del segle IV conegut per les seves extremes penitències i vida ascètica al desert. Deixeble de Sant Antoni Abat, és considerat un dels Pares del Desert."
+      },
+      {
+        "name": "Santa Séfora",
+        "type": "Màrtir",
+        "description": "Màrtir venerada en la tradició cristiana occidental, la memòria de la qual queda recollida en el Martirologi Romà per a aquest dia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional de San Marino",
+        "description": "San Marino, la república més antiga del món (fundada l'any 301 dC segons la tradició), celebra el seu dia nacional en honor del seu fundador Marinus de Rab, un picapedrer cristià que va fugir de les persecucions romanes."
+      },
+      {
+        "name": "Dia Internacional contra el Racisme i la Discriminació",
+        "description": "Jornada que posa de relleu la importància de combatre totes les formes de discriminació racial i promoure la igualtat i la dignitat de tots els éssers humans."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Els qui no recorden el passat estan condemnats a repetir-lo.",
+      "author": "George Santayana",
+      "context": "El filòsof i escriptor espanyol, nascut a Madrid el 1863, va expressar aquesta idea a La vida de la raó (1905), que es va convertir en una de les frases més citades de la filosofia occidental."
+    },
+    "motivationalQuote": {
+      "text": "La grandesa no consisteix a rebre honors, sinó a merèixer-los.",
+      "author": "Aristòtil"
+    },
+    "births": [
+      {
+        "name": "Louis Sullivan",
+        "description": "Arquitecte americà considerat el pare dels gratacels moderns i de l'arquitectura funcionalista. Va encunyar el principi «la forma segueix la funció», que influiria decisivament en l'arquitectura del segle XX.",
+        "year": 1856
+      },
+      {
+        "name": "Charlie Sheen",
+        "description": "Actor americà de cinema i televisió, conegut pels seus papers a Wall Street (1987) i a la sèrie Dos homes i mig (2003–2011), i per la seva controvertida vida personal.",
+        "year": 1965
+      },
+      {
+        "name": "Ángel Di María",
+        "description": "Futbolista argentí campió del món al Qatar 2022. Va marcar el gol de la victòria a la final del Mundial contra França, i també és campió de la Copa Amèrica i la Copa de les Confederacions.",
+        "year": 1988
+      }
+    ],
+    "events": [
+      {
+        "title": "Tractat de París — independència dels EUA reconeguda",
+        "description": "La Gran Bretanya va reconèixer formalment la independència dels Estats Units d'Amèrica mitjançant el Tractat de París, posant fi a la Guerra d'Independència Americana.",
+        "year": 1783
+      },
+      {
+        "title": "Inici de la Segona Guerra Mundial al front occidental",
+        "description": "França i el Regne Unit van declarar la guerra a Alemanya en resposta a la invasió de Polònia, estenent el conflicte al front occidental europeu.",
+        "year": 1939
+      },
+      {
+        "title": "Primera emissió televisiva de la BBC",
+        "description": "La BBC va fer la seva primera emissió televisiva regular des del Crystal Palace de Londres, inaugurant l'era de la televisió pública al Regne Unit.",
+        "year": 1936
+      }
+    ]
+  }
+}

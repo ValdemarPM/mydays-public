@@ -1,0 +1,291 @@
+{
+  "date": "2025-08-22",
+  "es": {
+    "saints": [
+      {
+        "name": "Inmaculado Corazón de María",
+        "type": "Memoria obligatoria",
+        "description": "Fiesta que celebra el amor y virtudes del corazón de la Virgen María, establecida como memoria obligatoria en el calendario romano para el sábado después del Sagrado Corazón de Jesús. Su devoción fue promovida por San Juan Eudes y difundida mundialmente por las apariciones de Fátima (1917)."
+      },
+      {
+        "name": "San Timoteo",
+        "type": "Mártir",
+        "description": "Mártir de los primeros siglos, diferente del discípulo de San Pablo. Fue lapidado en Roma por negarse a participar en una procesión pagana, según la tradición recogida en el martirologio."
+      },
+      {
+        "name": "San Felipe Benicio",
+        "type": "Presbítero",
+        "description": "Religioso italiano de la Orden de los Siervos de María (Servitas), siglo XIII. General de la orden y evangelizador de Europa central. Canonizado en 1671 por Clemente X."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Folklore",
+        "description": "Celebrado el 22 de agosto desde 1960 por decisión del Congreso Internacional de las Ciencias Etnológicas y Antropológicas, para preservar y promover el patrimonio cultural inmaterial de los pueblos."
+      },
+      {
+        "name": "Día Internacional Conmemorativo del Comercio de Esclavos y su Abolición (UNESCO)",
+        "description": "La UNESCO designó el 23 de agosto (conmemoración de la rebelión de Saint-Domingue de 1791) como día oficial; el 22 de agosto muchas comunidades organizan actos preparatorios."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El corazón tiene razones que la razón no conoce.",
+      "author": "Blaise Pascal",
+      "context": "El matemático y filósofo francés (1623–1662), cuya obra Pensées contiene algunas de las reflexiones más profundas sobre la fe, la razón y el corazón humano, escribió esta frase que se ha convertido en una de las más citadas de la literatura occidental."
+    },
+    "motivationalQuote": {
+      "text": "Actúa como si lo que haces marcara la diferencia. Lo marca.",
+      "author": "William James"
+    },
+    "births": [
+      {
+        "name": "Claude Debussy",
+        "description": "Compositor francés (1862–1918), fundador del impresionismo musical. Sus obras Clair de lune, La mer y Prélude à l'après-midi d'un faune cambiaron para siempre el lenguaje de la música occidental.",
+        "year": 1862
+      },
+      {
+        "name": "Ray Bradbury",
+        "description": "Escritor americano de ciencia ficción y fantasía (1920–2012), autor de Crónicas marcianas y Fahrenheit 451. Una de las figuras más influyentes de la literatura especulativa del siglo XX.",
+        "year": 1920
+      },
+      {
+        "name": "Tori Amos",
+        "description": "Cantautora y pianista americana conocida por su intensidad emocional y sus letras introspectivas. Autora de álbumes como Little Earthquakes y Under the Pink, referentes del rock alternativo femenino.",
+        "year": 1963
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera batalla de Bull Run — inicio de la Guerra de Secesión",
+        "description": "El 21 de julio de 1861 se libró la primera batalla de Bull Run, pero el 22 de agosto de 1862 Lincoln le comunicó a Horace Greeley su famosa carta anunciando que salvaría la Unión con o sin esclavitud.",
+        "year": 1862
+      },
+      {
+        "title": "La Cruz Roja Internacional es fundada",
+        "description": "El 22 de agosto de 1864, doce naciones firmaron el primer Convenio de Ginebra, creando el Comité Internacional de la Cruz Roja y estableciendo las normas internacionales de protección de heridos y prisioneros de guerra.",
+        "year": 1864
+      },
+      {
+        "title": "Irlanda del Norte — Acuerdo del Viernes Santo entra en vigor",
+        "description": "El 22 de agosto de 1998, la Asamblea de Irlanda del Norte se reunió por primera vez bajo el Acuerdo del Viernes Santo, dando inicio al proceso de paz que puso fin a décadas de conflicto.",
+        "year": 1998
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Immaculate Heart of Mary",
+        "type": "Obligatory Memorial",
+        "description": "A feast celebrating the love and virtues of the Virgin Mary's heart, established as an obligatory memorial in the Roman calendar for the Saturday after the Sacred Heart of Jesus. Promoted by Saint John Eudes and spread worldwide by the Fatima apparitions (1917)."
+      },
+      {
+        "name": "Saint Timothy",
+        "type": "Martyr",
+        "description": "An early Christian martyr, different from Saint Paul's disciple. He was stoned in Rome for refusing to participate in a pagan procession, according to the tradition recorded in the Martyrology."
+      },
+      {
+        "name": "Saint Philip Benizi",
+        "type": "Priest",
+        "description": "13th-century Italian member of the Order of Servants of Mary (Servites). Superior General of the order and evangeliser of central Europe. Canonised in 1671 by Clement X."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Folklore Day",
+        "description": "Celebrated on 22 August since 1960 by decision of the International Congress of Ethnological and Anthropological Sciences, to preserve and promote the intangible cultural heritage of peoples."
+      },
+      {
+        "name": "International Day for the Remembrance of the Slave Trade and its Abolition (UNESCO)",
+        "description": "UNESCO designated 23 August (commemorating the Saint-Domingue uprising of 1791) as the official day; on 22 August many communities organise preparatory events."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The heart has its reasons which reason does not know.",
+      "author": "Blaise Pascal",
+      "context": "The French mathematician and philosopher (1623–1662), whose Pensées contains some of the deepest reflections on faith, reason, and the human heart, wrote this phrase that has become one of the most quoted in Western literature."
+    },
+    "motivationalQuote": {
+      "text": "Act as if what you do makes a difference. It does.",
+      "author": "William James"
+    },
+    "births": [
+      {
+        "name": "Claude Debussy",
+        "description": "French composer (1862–1918), founder of musical impressionism. His works Clair de lune, La mer, and Prélude à l'après-midi d'un faune permanently changed the language of Western music.",
+        "year": 1862
+      },
+      {
+        "name": "Ray Bradbury",
+        "description": "American science fiction and fantasy writer (1920–2012), author of The Martian Chronicles and Fahrenheit 451. One of the most influential figures of 20th-century speculative literature.",
+        "year": 1920
+      },
+      {
+        "name": "Tori Amos",
+        "description": "American singer-songwriter and pianist known for emotional intensity and introspective lyrics. Author of albums such as Little Earthquakes and Under the Pink, touchstones of female alternative rock.",
+        "year": 1963
+      }
+    ],
+    "events": [
+      {
+        "title": "First Geneva Convention signed — founding of the Red Cross",
+        "description": "On 22 August 1864, twelve nations signed the first Geneva Convention, creating the International Committee of the Red Cross and establishing international standards for the protection of the wounded and prisoners of war.",
+        "year": 1864
+      },
+      {
+        "title": "Lincoln's letter to Horace Greeley on slavery",
+        "description": "On 22 August 1862, President Abraham Lincoln wrote his famous letter to journalist Horace Greeley, stating that his paramount object was to save the Union, whether or not slavery was preserved — a landmark in Civil War diplomacy.",
+        "year": 1862
+      },
+      {
+        "title": "Northern Ireland Assembly meets for the first time",
+        "description": "On 22 August 1998, the Northern Ireland Assembly convened for the first time under the Good Friday Agreement, launching the peace process that ended decades of conflict.",
+        "year": 1998
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Imaculado Coração de Maria",
+        "type": "Memória Obrigatória",
+        "description": "Festa que celebra o amor e as virtudes do coração da Virgem Maria, estabelecida como memória obrigatória no calendário romano para o sábado após o Sagrado Coração de Jesus. Promovida por São João Eudes e difundida mundialmente pelas aparições de Fátima (1917)."
+      },
+      {
+        "name": "São Timóteo",
+        "type": "Mártir",
+        "description": "Mártir dos primeiros séculos, diferente do discípulo de São Paulo. Foi apedrejado em Roma por se recusar a participar numa procissão pagã, segundo a tradição recolhida no Martirológio."
+      },
+      {
+        "name": "São Filipe Benício",
+        "type": "Presbítero",
+        "description": "Religioso italiano da Ordem dos Servos de Maria (Servitas) do século XIII. Superior-Geral da ordem e evangelizador da Europa central. Canonizado em 1671 por Clemente X."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial do Folclore",
+        "description": "Celebrado em 22 de agosto desde 1960 por decisão do Congresso Internacional de Ciências Etnológicas e Antropológicas, para preservar e promover o património cultural imaterial dos povos."
+      },
+      {
+        "name": "Dia Internacional em Memória do Comércio de Escravos e da sua Abolição (UNESCO)",
+        "description": "A UNESCO designou o 23 de agosto (comemorando a rebelião de Saint-Domingue de 1791) como dia oficial; em 22 de agosto muitas comunidades organizam atos preparatórios."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O coração tem razões que a razão desconhece.",
+      "author": "Blaise Pascal",
+      "context": "O matemático e filósofo francês (1623–1662), cujas Pensées contêm algumas das reflexões mais profundas sobre a fé, a razão e o coração humano, escreveu esta frase que se tornou uma das mais citadas da literatura ocidental."
+    },
+    "motivationalQuote": {
+      "text": "Aja como se o que você faz fizesse diferença. Faz.",
+      "author": "William James"
+    },
+    "births": [
+      {
+        "name": "Claude Debussy",
+        "description": "Compositor francês (1862–1918), fundador do impressionismo musical. As suas obras Clair de lune, La mer e Prélude à l'après-midi d'un faune mudaram para sempre a linguagem da música ocidental.",
+        "year": 1862
+      },
+      {
+        "name": "Ray Bradbury",
+        "description": "Escritor americano de ficção científica e fantasia (1920–2012), autor de Crônicas Marcianas e Fahrenheit 451. Uma das figuras mais influentes da literatura especulativa do século XX.",
+        "year": 1920
+      },
+      {
+        "name": "Tori Amos",
+        "description": "Cantautora e pianista americana conhecida pela sua intensidade emocional e letras introspectivas. Autora de álbuns como Little Earthquakes e Under the Pink, referências do rock alternativo feminino.",
+        "year": 1963
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeira Convenção de Genebra assinada — fundação da Cruz Vermelha",
+        "description": "Em 22 de agosto de 1864, doze nações assinaram a primeira Convenção de Genebra, criando o Comitê Internacional da Cruz Vermelha e estabelecendo normas internacionais de proteção dos feridos e prisioneiros de guerra.",
+        "year": 1864
+      },
+      {
+        "title": "Carta de Lincoln a Horace Greeley sobre a escravatura",
+        "description": "Em 22 de agosto de 1862, o presidente Abraham Lincoln escreveu a sua famosa carta ao jornalista Horace Greeley, afirmando que o seu objetivo principal era salvar a União, com ou sem escravatura — um marco na diplomacia da Guerra Civil.",
+        "year": 1862
+      },
+      {
+        "title": "Assembleia da Irlanda do Norte reúne-se pela primeira vez",
+        "description": "Em 22 de agosto de 1998, a Assembleia da Irlanda do Norte reuniu-se pela primeira vez ao abrigo do Acordo de Sexta-feira Santa, dando início ao processo de paz que pôs fim a décadas de conflito.",
+        "year": 1998
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Immaculat Cor de Maria",
+        "type": "Memòria Obligatòria",
+        "description": "Festa que celebra l'amor i les virtuts del cor de la Verge Maria, establerta com a memòria obligatòria en el calendari romà per al dissabte després del Sagrat Cor de Jesús. Promoguda per Sant Joan Eudes i difosa arreu del món per les aparicions de Fàtima (1917)."
+      },
+      {
+        "name": "Sant Timoteu",
+        "type": "Màrtir",
+        "description": "Màrtir dels primers segles, diferent del deixeble de Sant Pau. Va ser lapidat a Roma per negar-se a participar en una processó pagana, segons la tradició recollida en el Martirologi."
+      },
+      {
+        "name": "Sant Felip Benici",
+        "type": "Prevere",
+        "description": "Religiós italià de l'Orde dels Servents de Maria (Servites) del segle XIII. Superior General de l'orde i evangelitzador d'Europa central. Canonitzat el 1671 per Climent X."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial del Folklore",
+        "description": "Celebrat el 22 d'agost des de 1960 per decisió del Congrés Internacional de Ciències Etnològiques i Antropològiques, per preservar i promoure el patrimoni cultural immaterial dels pobles."
+      },
+      {
+        "name": "Dia Internacional en Memòria del Comerç d'Esclaus i la seva Abolició (UNESCO)",
+        "description": "La UNESCO va designar el 23 d'agost (en commemoració de la rebel·lió de Saint-Domingue de 1791) com a dia oficial; el 22 d'agost moltes comunitats organitzen actes preparatoris."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El cor té raons que la raó desconeix.",
+      "author": "Blaise Pascal",
+      "context": "El matemàtic i filòsof francès (1623–1662), les Pensées del qual contenen algunes de les reflexions més profundes sobre la fe, la raó i el cor humà, va escriure aquesta frase que s'ha convertit en una de les més citades de la literatura occidental."
+    },
+    "motivationalQuote": {
+      "text": "Actua com si el que fas importés. Importa.",
+      "author": "William James"
+    },
+    "births": [
+      {
+        "name": "Claude Debussy",
+        "description": "Compositor francès (1862–1918), fundador de l'impressionisme musical. Les seves obres Clair de lune, La mer i Prélude à l'après-midi d'un faune van canviar per sempre el llenguatge de la música occidental.",
+        "year": 1862
+      },
+      {
+        "name": "Ray Bradbury",
+        "description": "Escriptor americà de ciència-ficció i fantasia (1920–2012), autor de Cròniques Marcianes i Fahrenheit 451. Una de les figures més influents de la literatura especulativa del segle XX.",
+        "year": 1920
+      },
+      {
+        "name": "Tori Amos",
+        "description": "Cantautora i pianista americana coneguda per la seva intensitat emocional i les seves lletres introspectives. Autora d'àlbums com Little Earthquakes i Under the Pink, referents del rock alternatiu femení.",
+        "year": 1963
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera Convenció de Ginebra signada — fundació de la Creu Roja",
+        "description": "El 22 d'agost de 1864, dotze nacions van signar la primera Convenció de Ginebra, creant el Comitè Internacional de la Creu Roja i establint les normes internacionals de protecció dels ferits i presoners de guerra.",
+        "year": 1864
+      },
+      {
+        "title": "Carta de Lincoln a Horace Greeley sobre l'esclavitud",
+        "description": "El 22 d'agost de 1862, el president Abraham Lincoln va escriure la seva famosa carta al periodista Horace Greeley, afirmant que el seu objectiu primordial era salvar la Unió, amb o sense esclavitud — una fita en la diplomàcia de la Guerra Civil.",
+        "year": 1862
+      },
+      {
+        "title": "L'Assemblea d'Irlanda del Nord es reuneix per primera vegada",
+        "description": "El 22 d'agost de 1998, l'Assemblea d'Irlanda del Nord es va reunir per primera vegada a l'empara de l'Acord del Divendres Sant, donant inici al procés de pau que va posar fi a dècades de conflicte.",
+        "year": 1998
+      }
+    ]
+  }
+}

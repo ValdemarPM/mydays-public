@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-03",
+  "es": {
+    "saints": [
+      {
+        "name": "San Martín de Porres",
+        "type": "Religioso",
+        "description": "Fraile dominico peruano del siglo XVII, hijo de un noble español y una esclava liberada. Dedicó su vida a los pobres y enfermos de Lima; primer santo afroamericano canonizado, en 1962."
+      },
+      {
+        "name": "San Huberto de Lieja",
+        "type": "Obispo",
+        "description": "Obispo de Lieja en el siglo VIII, patrón de los cazadores y los perros. Según la leyenda, se convirtió al contemplar una visión de Cristo entre los cuernos de un ciervo."
+      },
+      {
+        "name": "San Winifrido",
+        "type": "Virgen y Mártir",
+        "description": "Santa galesa del siglo VII, patrona de Gales del Norte. Según la tradición, fue decapitada por rechazar el matrimonio con un príncipe pagano y resucitada por San Bueno."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de Panamá",
+        "description": "Panamá conmemora su separación de Colombia el 3 de noviembre de 1903, con el apoyo de Estados Unidos, que buscaba construir el canal interoceánico."
+      },
+      {
+        "name": "Día de los Hombres",
+        "description": "Celebrado en varios países latinoamericanos como contraparte del Día Internacional de la Mujer, para reflexionar sobre el papel de los hombres en la familia y la sociedad."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La caridad es el amor que supera todas las diferencias.",
+      "author": "San Martín de Porres",
+      "context": "El santo peruano del día, conocido por su misericordia sin distinción de raza ni condición, expresó con su vida la universalidad de la caridad cristiana."
+    },
+    "motivationalQuote": {
+      "text": "El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el coraje para continuar.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Karl Baedeker",
+        "description": "Editor alemán fundador de las famosas guías de viaje Baedeker, que revolucionaron el turismo moderno en el siglo XIX y cuyo nombre se convirtió en sinónimo de guía de viaje.",
+        "year": 1801
+      },
+      {
+        "name": "Charles Bronson",
+        "description": "Actor estadounidense de origen lituano, icono del cine de acción de los años setenta, conocido por la saga Deseo de matar y películas como Los siete magníficos.",
+        "year": 1921
+      },
+      {
+        "name": "Mónica Bellucci",
+        "description": "Actriz y modelo italiana considerada uno de los símbolos del cine europeo, conocida por películas como Malèna y El código Da Vinci.",
+        "year": 1964
+      }
+    ],
+    "events": [
+      {
+        "title": "Lanzamiento del Sputnik 2 con Laika",
+        "description": "La Unión Soviética lanzó el Sputnik 2 llevando a bordo a la perra Laika, primer ser vivo en orbitar la Tierra, demostrando que los animales podían sobrevivir en el espacio.",
+        "year": 1957
+      },
+      {
+        "title": "Independencia de Panamá de Colombia",
+        "description": "Panamá declaró su independencia de Colombia con el apoyo de Estados Unidos, que firmó inmediatamente el tratado para construir el Canal de Panamá.",
+        "year": 1903
+      },
+      {
+        "title": "Elección de Barack Obama",
+        "description": "Barack Obama fue elegido 44.º presidente de los Estados Unidos, convirtiéndose en el primer presidente afroamericano de la historia del país.",
+        "year": 2008
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Martin de Porres",
+        "type": "Religious",
+        "description": "17th-century Peruvian Dominican friar, son of a Spanish nobleman and a freed slave. He devoted his life to the poor and sick of Lima; the first Black saint canonised in the Americas, in 1962."
+      },
+      {
+        "name": "Saint Hubert of Liège",
+        "type": "Bishop",
+        "description": "8th-century bishop of Liège, patron of hunters and dogs. According to legend, he converted after seeing a vision of Christ between a stag's antlers."
+      },
+      {
+        "name": "Saint Winifred",
+        "type": "Virgin and Martyr",
+        "description": "7th-century Welsh saint, patroness of North Wales. Tradition holds she was beheaded for refusing marriage to a pagan prince and was restored to life by Saint Beuno."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Panama Independence Day",
+        "description": "Panama commemorates its separation from Colombia on 3 November 1903, backed by the United States, which sought to build the interoceanic canal."
+      },
+      {
+        "name": "Men's Day",
+        "description": "Observed in several Latin American countries as a counterpart to International Women's Day, to reflect on the role of men in family and society."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Charity is the love that transcends all differences.",
+      "author": "Saint Martin de Porres",
+      "context": "Today's saint, renowned for his mercy regardless of race or status, expressed through his life the universality of Christian charity."
+    },
+    "motivationalQuote": {
+      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Karl Baedeker",
+        "description": "German publisher and founder of the famous Baedeker travel guides, which revolutionised modern tourism in the 19th century and whose name became synonymous with guidebook.",
+        "year": 1801
+      },
+      {
+        "name": "Charles Bronson",
+        "description": "Lithuanian-American action film icon of the 1970s, known for the Death Wish franchise and films such as The Magnificent Seven.",
+        "year": 1921
+      },
+      {
+        "name": "Monica Bellucci",
+        "description": "Italian actress and model considered one of the icons of European cinema, known for films such as Malèna and The Da Vinci Code.",
+        "year": 1964
+      }
+    ],
+    "events": [
+      {
+        "title": "Launch of Sputnik 2 carrying Laika",
+        "description": "The Soviet Union launched Sputnik 2 carrying Laika the dog, the first living being to orbit the Earth, proving that animals could survive in space.",
+        "year": 1957
+      },
+      {
+        "title": "Panama's independence from Colombia",
+        "description": "Panama declared independence from Colombia with US backing; the United States immediately signed a treaty to build the Panama Canal.",
+        "year": 1903
+      },
+      {
+        "title": "Election of Barack Obama",
+        "description": "Barack Obama was elected 44th President of the United States, becoming the first African-American president in the nation's history.",
+        "year": 2008
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Martinho de Porres",
+        "type": "Religioso",
+        "description": "Frade dominicano peruano do século XVII, filho de um nobre espanhol e de uma escrava liberta. Dedicou a vida aos pobres e doentes de Lima; primeiro santo negro canonizado nas Américas, em 1962."
+      },
+      {
+        "name": "São Huberto de Liège",
+        "type": "Bispo",
+        "description": "Bispo de Liège do século VIII, padroeiro dos caçadores e dos cães. Segundo a lenda, converteu-se ao ver uma visão de Cristo entre os chifres de um cervo."
+      },
+      {
+        "name": "Santa Vunfrida",
+        "type": "Virgem e Mártir",
+        "description": "Santa galesa do século VII, padroeira do norte do País de Gales. A tradição conta que foi decapitada por recusar o casamento com um príncipe pagão e foi restaurada à vida por São Beuno."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência do Panamá",
+        "description": "O Panamá comemora a sua separação da Colômbia em 3 de novembro de 1903, com o apoio dos Estados Unidos, que buscavam construir o canal interoceânico."
+      },
+      {
+        "name": "Dia dos Homens",
+        "description": "Comemorado em vários países latino-americanos como contraparte do Dia Internacional da Mulher, para refletir sobre o papel dos homens na família e na sociedade."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A caridade é o amor que supera todas as diferenças.",
+      "author": "São Martinho de Porres",
+      "context": "O santo peruano do dia, conhecido pela sua misericórdia sem distinção de raça ou condição, expressou com a sua vida a universalidade da caridade cristã."
+    },
+    "motivationalQuote": {
+      "text": "O sucesso não é definitivo, o fracasso não é fatal: o que conta é a coragem de continuar.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Karl Baedeker",
+        "description": "Editor alemão fundador dos famosos guias de viagem Baedeker, que revolucionaram o turismo moderno no século XIX e cujo nome se tornou sinônimo de guia de viagem.",
+        "year": 1801
+      },
+      {
+        "name": "Charles Bronson",
+        "description": "Ator americano de origem lituana, ícone do cinema de ação dos anos setenta, conhecido pela saga Desejo de Matar e filmes como Os Sete Magníficos.",
+        "year": 1921
+      },
+      {
+        "name": "Monica Bellucci",
+        "description": "Atriz e modelo italiana considerada um dos ícones do cinema europeu, conhecida por filmes como Malèna e O Código Da Vinci.",
+        "year": 1964
+      }
+    ],
+    "events": [
+      {
+        "title": "Lançamento do Sputnik 2 com Laika",
+        "description": "A União Soviética lançou o Sputnik 2 levando a bordo a cadela Laika, primeiro ser vivo a orbitar a Terra, provando que os animais podiam sobreviver no espaço.",
+        "year": 1957
+      },
+      {
+        "title": "Independência do Panamá da Colômbia",
+        "description": "O Panamá declarou independência da Colômbia com o apoio dos Estados Unidos, que imediatamente assinou o tratado para construir o Canal do Panamá.",
+        "year": 1903
+      },
+      {
+        "title": "Eleição de Barack Obama",
+        "description": "Barack Obama foi eleito 44.º presidente dos Estados Unidos, tornando-se o primeiro presidente afro-americano da história do país.",
+        "year": 2008
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Martí de Porres",
+        "type": "Religiós",
+        "description": "Frare dominic peruà del segle XVII, fill d'un noble espanyol i d'una esclava alliberada. Va dedicar la vida als pobres i malalts de Lima; primer sant negre canonitzat a les Amèriques, el 1962."
+      },
+      {
+        "name": "Sant Huberto de Lieja",
+        "type": "Bisbe",
+        "description": "Bisbe de Lieja del segle VIII, patró dels caçadors i dels gossos. Segons la llegenda, es va convertir en contemplar una visió de Crist entre les banyes d'un cérvol."
+      },
+      {
+        "name": "Santa Vunfrede",
+        "type": "Verge i Màrtir",
+        "description": "Santa gal·lesa del segle VII, patrona del nord de Gal·les. La tradició explica que va ser decapitada per refusar el matrimoni amb un príncep pagà i va ser restituïda a la vida per Sant Beuno."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència de Panamà",
+        "description": "Panamà commemora la seva separació de Colòmbia el 3 de novembre de 1903, amb el suport dels Estats Units, que volien construir el canal interoceànic."
+      },
+      {
+        "name": "Dia dels Homes",
+        "description": "Celebrat en diversos països llatinoamericans com a contrapunt del Dia Internacional de la Dona, per reflexionar sobre el paper dels homes en la família i la societat."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La caritat és l'amor que supera totes les diferències.",
+      "author": "Sant Martí de Porres",
+      "context": "El sant peruà del dia, conegut per la seva misericòrdia sense distinció de raça ni condició, va expressar amb la seva vida la universalitat de la caritat cristiana."
+    },
+    "motivationalQuote": {
+      "text": "L'èxit no és definitiu, el fracàs no és fatal: el que compta és el coratge per continuar.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Karl Baedeker",
+        "description": "Editor alemany fundador de les famoses guies de viatge Baedeker, que van revolucionar el turisme modern al segle XIX i el nom del qual es va convertir en sinònim de guia de viatge.",
+        "year": 1801
+      },
+      {
+        "name": "Charles Bronson",
+        "description": "Actor americà d'origen lituà, icona del cinema d'acció dels anys setanta, conegut per la saga El desig de matar i pel·lícules com Els set magnífics.",
+        "year": 1921
+      },
+      {
+        "name": "Monica Bellucci",
+        "description": "Actriu i model italiana considerada un dels símbols del cinema europeu, coneguda per pel·lícules com Malèna i El codi Da Vinci.",
+        "year": 1964
+      }
+    ],
+    "events": [
+      {
+        "title": "Llançament del Sputnik 2 amb Laika",
+        "description": "La Unió Soviètica va llançar el Sputnik 2 portant a bord la gossa Laika, primer ésser viu a orbitar la Terra, demostrant que els animals podien sobreviure a l'espai.",
+        "year": 1957
+      },
+      {
+        "title": "Independència de Panamà de Colòmbia",
+        "description": "Panamà va declarar la independència de Colòmbia amb el suport dels Estats Units, que immediatament va signar el tractat per construir el Canal de Panamà.",
+        "year": 1903
+      },
+      {
+        "title": "Elecció de Barack Obama",
+        "description": "Barack Obama va ser elegit 44è president dels Estats Units, convertint-se en el primer president afroamericà de la història del país.",
+        "year": 2008
+      }
+    ]
+  }
+}

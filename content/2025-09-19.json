@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-19",
+  "es": {
+    "saints": [
+      {
+        "name": "San Jenaro de Nápoles",
+        "type": "Obispo y Mártir",
+        "description": "Obispo de Benevento martirizado en Pozzuoli durante la persecución de Diocleciano (304). Su sangre, conservada en una ampolla en la catedral de Nápoles, se licúa milagrosamente tres veces al año. Es el patrono principal de Nápoles."
+      },
+      {
+        "name": "San Teodoro de Canterbury",
+        "type": "Arzobispo",
+        "description": "Monje griego del siglo VII que fue nombrado arzobispo de Canterbury por el papa Vitaliano en 668. Reorganizó la Iglesia inglesa, fundó la escuela de Canterbury y fue el primer arzobispo reconocido por toda la Iglesia anglosajona."
+      },
+      {
+        "name": "Santa Constanza de Roma",
+        "type": "Virgen",
+        "description": "Hija del emperador Constantino I, venerada como santa en algunas tradiciones locales italianas por su devoción religiosa y los oratorios que mandó construir en Roma."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Piratería — Hablar como un Pirata",
+        "description": "Festividad informal creada en 1995 por dos americanos que celebra el folclore de los piratas del Caribe. La gente intercambia saludos en el argot pirata: ¡Argh!, Ahoy!, etc. Se popularizó globalmente gracias a Internet."
+      },
+      {
+        "name": "Aniversario del terremoto de México (1985)",
+        "description": "México conmemora el devastador terremoto del 19 de septiembre de 1985, que destruyó gran parte de Ciudad de México, causó más de 10.000 muertos y desencadenó un poderoso movimiento ciudadano de autoorganización."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El milagro es que cuanto más trabajo, más suerte tengo.",
+      "author": "Thomas Jefferson",
+      "context": "El tercer presidente de los Estados Unidos y autor de la Declaración de Independencia expresó en varias cartas esta convicción sobre el trabajo y la suerte, muy citada en contextos de innovación y emprendimiento."
+    },
+    "motivationalQuote": {
+      "text": "No importa lo despacio que vayas mientras no te detengas.",
+      "author": "Confucio"
+    },
+    "births": [
+      {
+        "name": "William Golding",
+        "description": "Novelista británico Premio Nobel de Literatura en 1983, autor de El señor de las moscas (1954), novela fundamental del siglo XX que explora la naturaleza humana y la civilización a través de niños abandonados en una isla.",
+        "year": 1911
+      },
+      {
+        "name": "Jeremy Irons",
+        "description": "Actor británico ganador del Oscar por Reversal of Fortune (1990), conocido por su voz profunda y sus papeles en El nombre de la rosa, Lolita y la serie Borgia.",
+        "year": 1948
+      },
+      {
+        "name": "Jimmy Fallon",
+        "description": "Comediante, actor, productor y presentador americano, conductor del Tonight Show with Jimmy Fallon en NBC desde 2014, conocido por sus populares segmentos musicales con celebridades.",
+        "year": 1974
+      }
+    ],
+    "events": [
+      {
+        "title": "Terremoto de México de 1985",
+        "description": "Un terremoto de magnitud 8,1 sacudió Ciudad de México, derrumbando centenares de edificios y matando entre 5.000 y 10.000 personas. El desastre movilizó a la sociedad civil y marcó el inicio de la democratización del país.",
+        "year": 1985
+      },
+      {
+        "title": "Primer emisión de la BBC World Service",
+        "description": "La BBC inició sus emisiones de radio internacionales en árabe, primera lengua extranjera que utilizó para llegar al mundo árabe en plena tensión de los años anteriores a la Segunda Guerra Mundial.",
+        "year": 1938
+      },
+      {
+        "title": "Fundación del diario Le Monde",
+        "description": "Se publicó por primera vez el diario francés Le Monde en París, fundado por Hubert Beuve-Méry con el apoyo del general De Gaulle. Hoy es uno de los periódicos de referencia más importantes de Europa.",
+        "year": 1944
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Januarius of Naples",
+        "type": "Bishop and Martyr",
+        "description": "Bishop of Benevento martyred in Pozzuoli during the Diocletian persecution (304). His blood, preserved in a vial in Naples Cathedral, miraculously liquefies three times a year. He is the principal patron of Naples."
+      },
+      {
+        "name": "Saint Theodore of Canterbury",
+        "type": "Archbishop",
+        "description": "A 7th-century Greek monk appointed Archbishop of Canterbury by Pope Vitalian in 668. He reorganised the English Church, founded the Canterbury school, and was the first archbishop recognised by the entire Anglo-Saxon Church."
+      },
+      {
+        "name": "Saint Constance of Rome",
+        "type": "Virgin",
+        "description": "Daughter of Emperor Constantine I, venerated as a saint in some local Italian traditions for her religious devotion and the oratories she had built in Rome."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Talk Like a Pirate Day",
+        "description": "An informal holiday created in 1995 by two Americans celebrating the folklore of Caribbean pirates. People exchange greetings in pirate slang: Arrr!, Ahoy!, etc. It was popularised globally by the internet."
+      },
+      {
+        "name": "Anniversary of the 1985 Mexico Earthquake",
+        "description": "Mexico commemorates the devastating earthquake of 19 September 1985, which destroyed much of Mexico City, caused more than 10,000 deaths, and triggered a powerful citizen movement of self-organisation."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The harder I work, the more luck I seem to have.",
+      "author": "Thomas Jefferson",
+      "context": "The third President of the United States and author of the Declaration of Independence expressed this conviction in several letters about work and luck, frequently quoted in innovation and entrepreneurship contexts."
+    },
+    "motivationalQuote": {
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius"
+    },
+    "births": [
+      {
+        "name": "William Golding",
+        "description": "British novelist and Nobel Prize in Literature winner in 1983, author of Lord of the Flies (1954), a fundamental 20th-century novel that explores human nature and civilisation through children stranded on an island.",
+        "year": 1911
+      },
+      {
+        "name": "Jeremy Irons",
+        "description": "British actor and Academy Award winner for Reversal of Fortune (1990), known for his deep voice and his roles in The Name of the Rose, Lolita, and the TV series Borgia.",
+        "year": 1948
+      },
+      {
+        "name": "Jimmy Fallon",
+        "description": "American comedian, actor, producer, and television host, host of The Tonight Show Starring Jimmy Fallon on NBC since 2014, known for his popular musical segments with celebrities.",
+        "year": 1974
+      }
+    ],
+    "events": [
+      {
+        "title": "1985 Mexico earthquake",
+        "description": "An 8.1-magnitude earthquake struck Mexico City, collapsing hundreds of buildings and killing between 5,000 and 10,000 people. The disaster mobilised civil society and marked the beginning of the country's democratisation.",
+        "year": 1985
+      },
+      {
+        "title": "First BBC World Service broadcast in Arabic",
+        "description": "The BBC began its international radio broadcasts in Arabic, the first foreign language it used to reach the Arab world amid the tensions of the years before World War II.",
+        "year": 1938
+      },
+      {
+        "title": "Le Monde founded",
+        "description": "The French newspaper Le Monde was published for the first time in Paris, founded by Hubert Beuve-Méry with the support of General De Gaulle. Today it is one of Europe's most important reference newspapers.",
+        "year": 1944
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Genaro de Nápoles",
+        "type": "Bispo e Mártir",
+        "description": "Bispo de Benevento martirizado em Pozzuoli durante a perseguição de Diocleciano (304). O seu sangue, conservado numa ampola na catedral de Nápoles, liquefaz-se milagrosamente três vezes por ano. É o patrono principal de Nápoles."
+      },
+      {
+        "name": "São Teodoro de Cantuária",
+        "type": "Arcebispo",
+        "description": "Monge grego do século VII nomeado arcebispo de Cantuária pelo papa Vitaliano em 668. Reorganizou a Igreja inglesa, fundou a escola de Cantuária e foi o primeiro arcebispo reconhecido por toda a Igreja anglo-saxã."
+      },
+      {
+        "name": "Santa Constança de Roma",
+        "type": "Virgem",
+        "description": "Filha do imperador Constantino I, venerada como santa em algumas tradições locais italianas pela sua devoção religiosa e pelos oratórios que mandou construir em Roma."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de Falar como um Pirata",
+        "description": "Festividade informal criada em 1995 por dois americanos que celebra o folclore dos piratas do Caribe. As pessoas trocam cumprimentos em gíria pirata: Arrr!, Ahoy!, etc. Popularizou-se globalmente graças à internet."
+      },
+      {
+        "name": "Aniversário do Terremoto do México (1985)",
+        "description": "O México comemora o devastador terremoto de 19 de setembro de 1985, que destruiu grande parte da Cidade do México, causou mais de 10.000 mortes e desencadeou um poderoso movimento cidadão de auto-organização."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Quanto mais trabalho, mais sorte parece que tenho.",
+      "author": "Thomas Jefferson",
+      "context": "O terceiro presidente dos Estados Unidos e autor da Declaração de Independência expressou esta convicção em várias cartas sobre o trabalho e a sorte, muito citada em contextos de inovação e empreendedorismo."
+    },
+    "motivationalQuote": {
+      "text": "Não importa quão devagar vás, desde que não pares.",
+      "author": "Confúcio"
+    },
+    "births": [
+      {
+        "name": "William Golding",
+        "description": "Romancista britânico e vencedor do Prêmio Nobel de Literatura em 1983, autor de O Senhor das Moscas (1954), romance fundamental do século XX que explora a natureza humana e a civilização através de crianças abandonadas numa ilha.",
+        "year": 1911
+      },
+      {
+        "name": "Jeremy Irons",
+        "description": "Ator britânico vencedor do Oscar por Reversal of Fortune (1990), conhecido pela sua voz profunda e pelos seus papéis em O Nome da Rosa, Lolita e a série Bórgia.",
+        "year": 1948
+      },
+      {
+        "name": "Jimmy Fallon",
+        "description": "Comediante, ator, produtor e apresentador americano, conductor do Tonight Show with Jimmy Fallon na NBC desde 2014, conhecido pelos seus populares segmentos musicais com celebridades.",
+        "year": 1974
+      }
+    ],
+    "events": [
+      {
+        "title": "Terremoto do México de 1985",
+        "description": "Um terremoto de magnitude 8,1 sacudiu a Cidade do México, derrubando centenas de edifícios e matando entre 5.000 e 10.000 pessoas. O desastre mobilizou a sociedade civil e marcou o início da democratização do país.",
+        "year": 1985
+      },
+      {
+        "title": "Primeira transmissão da BBC World Service em árabe",
+        "description": "A BBC iniciou as suas transmissões de rádio internacionais em árabe, a primeira língua estrangeira que utilizou para chegar ao mundo árabe em plena tensão dos anos anteriores à Segunda Guerra Mundial.",
+        "year": 1938
+      },
+      {
+        "title": "Fundação do Le Monde",
+        "description": "O jornal francês Le Monde foi publicado pela primeira vez em Paris, fundado por Hubert Beuve-Méry com o apoio do general De Gaulle. Hoje é um dos jornais de referência mais importantes da Europa.",
+        "year": 1944
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Genner de Nàpols",
+        "type": "Bisbe i Màrtir",
+        "description": "Bisbe de Benevent martiritzat a Pozzuoli durant la persecució de Dioclecià (304). La seva sang, conservada en una ampolla a la catedral de Nàpols, es liqua miraclosament tres vegades l'any. És el patró principal de Nàpols."
+      },
+      {
+        "name": "Sant Teodor de Canterbury",
+        "type": "Arquebisbe",
+        "description": "Monjo grec del segle VII nomenat arquebisbe de Canterbury pel papa Vitalià el 668. Va reorganitzar l'Església anglesa, va fundar l'escola de Canterbury i va ser el primer arquebisbe reconegut per tota l'Església anglosaxona."
+      },
+      {
+        "name": "Santa Constança de Roma",
+        "type": "Verge",
+        "description": "Filla de l'emperador Constantí I, venerada com a santa en algunes tradicions locals italianes per la seva devoció religiosa i els oratoris que va manar construir a Roma."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de Parlar com un Pirata",
+        "description": "Festivitat informal creada el 1995 per dos americans que celebra el folklore dels pirates del Carib. La gent intercanvia salutacions en argot pirata: Arrr!, Ahoy!, etc. Es va popularitzar globalment gràcies a internet."
+      },
+      {
+        "name": "Aniversari del terratrèmol de Mèxic (1985)",
+        "description": "Mèxic commemora el devastador terratrèmol del 19 de setembre de 1985, que va destruir gran part de la Ciutat de Mèxic, va causar més de 10.000 morts i va desencadenar un poderós moviment ciutadà d'autoorganització."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Com més treballo, més sort sembla que tinc.",
+      "author": "Thomas Jefferson",
+      "context": "El tercer president dels Estats Units i autor de la Declaració d'Independència va expressar aquesta convicció en diverses cartes sobre el treball i la sort, molt citada en contextos d'innovació i emprenedoria."
+    },
+    "motivationalQuote": {
+      "text": "No importa com d'a poc a poc vagis mentre no t'aturis.",
+      "author": "Confuci"
+    },
+    "births": [
+      {
+        "name": "William Golding",
+        "description": "Novel·lista britànic i Premi Nobel de Literatura el 1983, autor de El senyor de les mosques (1954), novel·la fonamental del segle XX que explora la naturalesa humana i la civilització a través de nens abandonats en una illa.",
+        "year": 1911
+      },
+      {
+        "name": "Jeremy Irons",
+        "description": "Actor britànic guanyador de l'Oscar per Reversal of Fortune (1990), conegut per la seva veu profunda i els seus papers a El nom de la rosa, Lolita i la sèrie Borja.",
+        "year": 1948
+      },
+      {
+        "name": "Jimmy Fallon",
+        "description": "Còmic, actor, productor i presentador americà, conductor del Tonight Show with Jimmy Fallon a la NBC des de 2014, conegut pels seus populars segments musicals amb celebrities.",
+        "year": 1974
+      }
+    ],
+    "events": [
+      {
+        "title": "Terratrèmol de Mèxic de 1985",
+        "description": "Un terratrèmol de magnitud 8,1 va sacsejar la Ciutat de Mèxic, ensorrant centenars d'edificis i matant entre 5.000 i 10.000 persones. El desastre va mobilitzar la societat civil i va marcar l'inici de la democratització del país.",
+        "year": 1985
+      },
+      {
+        "title": "Primera emissió de la BBC World Service en àrab",
+        "description": "La BBC va iniciar les seves emissions de ràdio internacionals en àrab, la primera llengua estrangera que va fer servir per arribar al món àrab en plena tensió dels anys anteriors a la Segona Guerra Mundial.",
+        "year": 1938
+      },
+      {
+        "title": "Fundació del Le Monde",
+        "description": "El diari francès Le Monde va ser publicat per primera vegada a París, fundat per Hubert Beuve-Méry amb el suport del general De Gaulle. Avui és un dels diaris de referència més importants d'Europa.",
+        "year": 1944
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "date": "2025-12-05",
+  "es": {
+    "saints": [
+      {
+        "name": "San Sabas el Santificado",
+        "type": "Abad",
+        "description": "Monje palestino del siglo V-VI, fundador de la Gran Laura (monasterio) cerca del Mar Muerto, uno de los monasterios habitados más antiguos del mundo."
+      },
+      {
+        "name": "San Geraldo de Braga",
+        "type": "Obispo",
+        "description": "Primer arzobispo de Braga (Portugal) tras la reconquista cristiana a finales del siglo XI, reorganizador de la Iglesia en la Península Ibérica."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Suelo",
+        "description": "Proclamado por la FAO y la ONU para concienciar sobre la importancia del suelo sano como base de la producción de alimentos y la vida en el planeta."
+      },
+      {
+        "name": "Día Internacional del Voluntariado",
+        "description": "Establecido por la ONU en 1985 para reconocer las contribuciones de los voluntarios al desarrollo económico y social en todo el mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El mayor bien que podemos hacer a los demás no es darles riquezas, sino despertar en ellos las suyas propias.",
+      "author": "Benjamin Disraeli",
+      "context": "Estadista y novelista británico, primer ministro del Reino Unido en dos ocasiones durante el reinado de la reina Victoria."
+    },
+    "motivationalQuote": {
+      "text": "Empieza donde estás. Usa lo que tienes. Haz lo que puedas.",
+      "author": "Arthur Ashe"
+    },
+    "births": [
+      {
+        "name": "Wolfgang Amadeus Mozart",
+        "description": "Compositor austriaco, uno de los más prolíficos y consumados de la era del clasicismo, autor de más de 600 obras entre sinfonías, óperas, música de cámara y conciertos.",
+        "year": 1791
+      },
+      {
+        "name": "Martin Van Buren",
+        "description": "Octavo presidente de los Estados Unidos (1837-1841), primer mandatario nacido en los EEUU tras la independencia y fundador del Partido Demócrata moderno.",
+        "year": 1782
+      },
+      {
+        "name": "Walt Disney",
+        "description": "Productor, director, guionista y empresario estadounidense, fundador de The Walt Disney Company y creador de personajes icónicos como Mickey Mouse.",
+        "year": 1901
+      }
+    ],
+    "events": [
+      {
+        "title": "Muerte de Mozart",
+        "description": "Wolfgang Amadeus Mozart falleció en Viena a los 35 años en circunstancias que aún hoy generan debate, dejando inconcluso su Réquiem en re menor.",
+        "year": 1791
+      },
+      {
+        "title": "Primer partido de hockey sobre hielo de la historia",
+        "description": "Se disputó en Montreal el primer partido de hockey sobre hielo en interiores formalmente registrado, sentando las bases de un deporte que se convertiría en símbolo de Canadá.",
+        "year": 1875
+      },
+      {
+        "title": "El Duque de Anjou proclamado Felipe V de España",
+        "description": "Felipe de Borbón, nieto de Luis XIV de Francia, fue proclamado rey de España como Felipe V, dando inicio a la dinastía borbónica en la Península Ibérica.",
+        "year": 1700
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Sabbas the Sanctified",
+        "type": "Abbot",
+        "description": "Palestinian monk of the 5th–6th century, founder of the Great Lavra (monastery) near the Dead Sea, one of the oldest inhabited monasteries in the world."
+      },
+      {
+        "name": "Saint Gerald of Braga",
+        "type": "Bishop",
+        "description": "First archbishop of Braga (Portugal) after the Christian reconquest in the late 11th century, reorganiser of the Church on the Iberian Peninsula."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Soil Day",
+        "description": "Proclaimed by the FAO and the UN to raise awareness of the importance of healthy soil as the foundation of food production and life on the planet."
+      },
+      {
+        "name": "International Volunteer Day",
+        "description": "Established by the UN in 1985 to recognise the contributions of volunteers to economic and social development around the world."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The greatest good we can do for others is not just to share our riches with them, but to reveal theirs.",
+      "author": "Benjamin Disraeli",
+      "context": "British statesman and novelist, Prime Minister of the United Kingdom on two occasions during the reign of Queen Victoria."
+    },
+    "motivationalQuote": {
+      "text": "Start where you are. Use what you have. Do what you can.",
+      "author": "Arthur Ashe"
+    },
+    "births": [
+      {
+        "name": "Wolfgang Amadeus Mozart",
+        "description": "Austrian composer, one of the most prolific and accomplished of the Classical era, author of over 600 works including symphonies, operas, chamber music, and concertos.",
+        "year": 1791
+      },
+      {
+        "name": "Martin Van Buren",
+        "description": "Eighth President of the United States (1837–1841), the first president born after independence and co-founder of the modern Democratic Party.",
+        "year": 1782
+      },
+      {
+        "name": "Walt Disney",
+        "description": "American producer, director, screenwriter, and entrepreneur, founder of The Walt Disney Company and creator of iconic characters such as Mickey Mouse.",
+        "year": 1901
+      }
+    ],
+    "events": [
+      {
+        "title": "Death of Mozart",
+        "description": "Wolfgang Amadeus Mozart died in Vienna at the age of 35 under circumstances still debated today, leaving his Requiem in D minor unfinished.",
+        "year": 1791
+      },
+      {
+        "title": "First indoor ice hockey game",
+        "description": "The first formally recorded indoor ice hockey game was played in Montreal, laying the foundations for a sport that would become a symbol of Canada.",
+        "year": 1875
+      },
+      {
+        "title": "Duke of Anjou proclaimed Philip V of Spain",
+        "description": "Philip of Bourbon, grandson of Louis XIV of France, was proclaimed King of Spain as Philip V, beginning the Bourbon dynasty on the Iberian Peninsula.",
+        "year": 1700
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Sabas, o Santificado",
+        "type": "Abade",
+        "description": "Monge palestino dos séculos V–VI, fundador da Grande Laura (mosteiro) perto do Mar Morto, um dos mosteiros habitados mais antigos do mundo."
+      },
+      {
+        "name": "São Geraldo de Braga",
+        "type": "Bispo",
+        "description": "Primeiro arcebispo de Braga (Portugal) após a reconquista cristã no final do século XI, reorganizador da Igreja na Península Ibérica."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial do Solo",
+        "description": "Proclamado pela FAO e pela ONU para conscientizar sobre a importância do solo saudável como base da produção de alimentos e da vida no planeta."
+      },
+      {
+        "name": "Dia Internacional do Voluntário",
+        "description": "Estabelecido pela ONU em 1985 para reconhecer as contribuições dos voluntários para o desenvolvimento económico e social em todo o mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O maior bem que podemos fazer aos outros não é dar-lhes riquezas, mas despertar as suas próprias.",
+      "author": "Benjamin Disraeli",
+      "context": "Estadista e romancista britânico, primeiro-ministro do Reino Unido em duas ocasiões durante o reinado da rainha Vitória."
+    },
+    "motivationalQuote": {
+      "text": "Comece onde você está. Use o que tem. Faça o que pode.",
+      "author": "Arthur Ashe"
+    },
+    "births": [
+      {
+        "name": "Wolfgang Amadeus Mozart",
+        "description": "Compositor austríaco, um dos mais prolíficos e consumados da era do classicismo, autor de mais de 600 obras entre sinfonias, óperas, música de câmara e concertos.",
+        "year": 1791
+      },
+      {
+        "name": "Martin Van Buren",
+        "description": "Oitavo presidente dos Estados Unidos (1837–1841), primeiro presidente nascido após a independência e cofundador do Partido Democrata moderno.",
+        "year": 1782
+      },
+      {
+        "name": "Walt Disney",
+        "description": "Produtor, diretor, roteirista e empresário americano, fundador da The Walt Disney Company e criador de personagens icônicos como Mickey Mouse.",
+        "year": 1901
+      }
+    ],
+    "events": [
+      {
+        "title": "Morte de Mozart",
+        "description": "Wolfgang Amadeus Mozart morreu em Viena aos 35 anos em circunstâncias ainda debatidas hoje, deixando inacabado o seu Réquiem em ré menor.",
+        "year": 1791
+      },
+      {
+        "title": "Primeiro jogo de hóquei no gelo em recinto coberto",
+        "description": "O primeiro jogo de hóquei no gelo em recinto coberto formalmente registado foi disputado em Montreal, lançando as bases de um desporto que se tornaria símbolo do Canadá.",
+        "year": 1875
+      },
+      {
+        "title": "Duque de Anjou proclamado Filipe V de Espanha",
+        "description": "Filipe de Bourbon, neto de Luís XIV de França, foi proclamado rei de Espanha como Filipe V, iniciando a dinastia borbônica na Península Ibérica.",
+        "year": 1700
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Saba el Santificat",
+        "type": "Abat",
+        "description": "Monjo palestí dels segles V–VI, fundador de la Gran Laura (monestir) prop del Mar Mort, un dels monestirs habitats més antics del món."
+      },
+      {
+        "name": "Sant Geraldo de Braga",
+        "type": "Bisbe",
+        "description": "Primer arquebisbe de Braga (Portugal) després de la reconquesta cristiana a finals del segle XI, reorganitzador de l'Església a la Península Ibèrica."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial del Sòl",
+        "description": "Proclamat per la FAO i l'ONU per conscienciar sobre la importància del sòl sa com a base de la producció d'aliments i la vida al planeta."
+      },
+      {
+        "name": "Dia Internacional del Voluntariat",
+        "description": "Establert per l'ONU el 1985 per reconèixer les contribucions dels voluntaris al desenvolupament econòmic i social arreu del món."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El major bé que podem fer als altres no és donar-los riqueses, sinó despertar les seves pròpies.",
+      "author": "Benjamin Disraeli",
+      "context": "Estadista i novel·lista britànic, primer ministre del Regne Unit en dues ocasions durant el regnat de la reina Victòria."
+    },
+    "motivationalQuote": {
+      "text": "Comença on ets. Fes servir el que tens. Fes el que puguis.",
+      "author": "Arthur Ashe"
+    },
+    "births": [
+      {
+        "name": "Wolfgang Amadeus Mozart",
+        "description": "Compositor austríac, un dels més prolífics i consumats de l'era del classicisme, autor de més de 600 obres entre simfonies, òperes, música de cambra i concerts.",
+        "year": 1791
+      },
+      {
+        "name": "Martin Van Buren",
+        "description": "Vuitè president dels Estats Units (1837–1841), primer president nascut després de la independència i cofundador del Partit Demòcrata modern.",
+        "year": 1782
+      },
+      {
+        "name": "Walt Disney",
+        "description": "Productor, director, guionista i empresari nord-americà, fundador de The Walt Disney Company i creador de personatges icònics com Mickey Mouse.",
+        "year": 1901
+      }
+    ],
+    "events": [
+      {
+        "title": "Mort de Mozart",
+        "description": "Wolfgang Amadeus Mozart va morir a Viena als 35 anys en circumstàncies que encara avui generen debat, deixant inacabat el seu Rèquiem en re menor.",
+        "year": 1791
+      },
+      {
+        "title": "Primer partit d'hoquei sobre gel en recinte cobert",
+        "description": "El primer partit d'hoquei sobre gel en recinte cobert formalment registrat es va disputar a Mont-real, establint les bases d'un esport que es convertiria en símbol del Canadà.",
+        "year": 1875
+      },
+      {
+        "title": "El Duc d'Anjou proclamat Felip V d'Espanya",
+        "description": "Felip de Borbó, nét de Lluís XIV de França, va ser proclamat rei d'Espanya com a Felip V, iniciant la dinastia borbònica a la Península Ibèrica.",
+        "year": 1700
+      }
+    ]
+  }
+}

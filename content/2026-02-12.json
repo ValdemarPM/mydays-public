@@ -1,0 +1,119 @@
+{
+  "date": "2026-02-12",
+  "es": {
+    "saints": [
+      { "name": "Santa Eulalia de Barcelona", "type": "Virgen y mártir", "description": "Patrona de Barcelona, martirizada a los 13 años bajo Diocleciano en el año 303. La catedral gótica de Barcelona lleva su nombre y guarda sus reliquias." },
+      { "name": "San Melecio de Antioquía", "type": "Obispo", "description": "Obispo de Antioquía del siglo IV, defendió la fe nicena en tiempos turbulentos del arrianismo; presidió el inicio del Primer Concilio de Constantinopla." }
+    ],
+    "observances": [
+      { "name": "Día de Darwin", "description": "Conmemora el nacimiento de Charles Darwin (1809) y celebra los avances en biología evolutiva y la defensa del pensamiento científico." },
+      { "name": "Día de Lincoln (EE. UU.)", "description": "En varios estados americanos se recuerda el nacimiento de Abraham Lincoln (1809), el presidente que abolió la esclavitud durante la guerra civil." }
+    ],
+    "historicalQuote": {
+      "text": "No es la especie más fuerte la que sobrevive, ni la más inteligente, sino la que mejor se adapta al cambio.",
+      "author": "Charles Darwin",
+      "context": "Darwin nació el 12 de febrero de 1809. Su obra El origen de las especies (1859) revolucionó la biología y la concepción del ser humano en el cosmos."
+    },
+    "motivationalQuote": {
+      "text": "Dar siempre lo mejor de ti mismo puede que no sea suficiente; pero da siempre lo mejor de ti mismo.",
+      "author": "Keith Relf"
+    },
+    "births": [
+      { "name": "Charles Darwin", "description": "Naturalista y biólogo británico, padre de la teoría de la evolución por selección natural, autor de El origen de las especies (1859).", "year": 1809 },
+      { "name": "Abraham Lincoln", "description": "16.º presidente de los EE. UU. (1861-1865), proclamó la Emancipación de los esclavos en 1862 y lideró la Unión en la guerra civil americana.", "year": 1809 },
+      { "name": "Christina Ricci", "description": "Actriz estadounidense, conocida desde niña por El club de los cinco y La familia Addams; consolidada en papeles de cine independiente.", "year": 1980 }
+    ],
+    "events": [
+      { "title": "Primera prueba del teléfono de Graham Bell ante testigos", "description": "Alexander Graham Bell realiza la primera demostración pública del teléfono en Boston, transmitiendo voz humana a distancia.", "year": 1877 },
+      { "title": "Galileo Galilei ante la Inquisición", "description": "El astrónomo Galileo Galilei comparece ante el Santo Oficio de Roma, que lo condena a arresto domiciliario por defender el heliocentrismo.", "year": 1633 },
+      { "title": "Se estrena la película Casablanca en España", "description": "El clásico de Michael Curtiz con Humphrey Bogart e Ingrid Bergman se estrena en España, convirtiéndose en uno de los filmes más queridos de la historia.", "year": 1946 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Eulalia of Barcelona", "type": "Virgin and Martyr", "description": "Patron of Barcelona, martyred at the age of 13 under Diocletian in AD 303. Barcelona's Gothic cathedral bears her name and houses her relics." },
+      { "name": "Saint Meletius of Antioch", "type": "Bishop", "description": "4th-century Bishop of Antioch who defended the Nicene faith during the turbulent period of Arianism; he presided at the opening of the First Council of Constantinople." }
+    ],
+    "observances": [
+      { "name": "Darwin Day", "description": "Commemorates the birth of Charles Darwin (1809) and celebrates advances in evolutionary biology and the defence of scientific thinking." },
+      { "name": "Lincoln Day (USA)", "description": "Several US states remember the birth of Abraham Lincoln (1809), the president who abolished slavery during the Civil War." }
+    ],
+    "historicalQuote": {
+      "text": "It is not the strongest of the species that survives, nor the most intelligent; it is the one most adaptable to change.",
+      "author": "Charles Darwin",
+      "context": "Darwin was born on 12 February 1809. His work On the Origin of Species (1859) revolutionised biology and humanity's understanding of its place in the cosmos."
+    },
+    "motivationalQuote": {
+      "text": "Always give your best; it may not be enough, but always give your best.",
+      "author": "Keith Relf"
+    },
+    "births": [
+      { "name": "Charles Darwin", "description": "British naturalist and biologist, father of the theory of evolution by natural selection, author of On the Origin of Species (1859).", "year": 1809 },
+      { "name": "Abraham Lincoln", "description": "16th President of the USA (1861–1865), proclaimed the Emancipation of slaves in 1862 and led the Union in the American Civil War.", "year": 1809 },
+      { "name": "Christina Ricci", "description": "American actress, known from childhood for The Addams Family and Mermaids; established in independent cinema roles.", "year": 1980 }
+    ],
+    "events": [
+      { "title": "First public demonstration of Bell's telephone", "description": "Alexander Graham Bell gives the first public demonstration of the telephone in Boston, transmitting the human voice over a distance.", "year": 1877 },
+      { "title": "Galileo before the Inquisition", "description": "Astronomer Galileo Galilei appears before the Holy Office in Rome, which sentences him to house arrest for defending heliocentrism.", "year": 1633 },
+      { "title": "Casablanca released in Spain", "description": "Michael Curtiz's classic with Humphrey Bogart and Ingrid Bergman opens in Spain, becoming one of the most beloved films in history.", "year": 1946 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "Santa Eulália de Barcelona", "type": "Virgem e mártir", "description": "Padroeira de Barcelona, martirizada aos 13 anos sob Diocleciano no ano 303. A catedral gótica de Barcelona leva o seu nome e guarda suas relíquias." },
+      { "name": "São Melécio de Antioquia", "type": "Bispo", "description": "Bispo de Antioquia do século IV que defendeu a fé nicena nos turbulentos tempos do arianismo; presidiu o início do Primeiro Concílio de Constantinopla." }
+    ],
+    "observances": [
+      { "name": "Dia de Darwin", "description": "Comemora o nascimento de Charles Darwin (1809) e celebra os avanços em biologia evolutiva e a defesa do pensamento científico." },
+      { "name": "Dia de Lincoln (EUA)", "description": "Vários estados americanos lembram o nascimento de Abraham Lincoln (1809), o presidente que aboliu a escravidão durante a guerra civil." }
+    ],
+    "historicalQuote": {
+      "text": "Não é a espécie mais forte que sobrevive, nem a mais inteligente, mas a que melhor se adapta à mudança.",
+      "author": "Charles Darwin",
+      "context": "Darwin nasceu em 12 de fevereiro de 1809. Sua obra A Origem das Espécies (1859) revolucionou a biologia e a concepção do ser humano no cosmos."
+    },
+    "motivationalQuote": {
+      "text": "Dê sempre o seu melhor; pode não ser suficiente, mas dê sempre o seu melhor.",
+      "author": "Keith Relf"
+    },
+    "births": [
+      { "name": "Charles Darwin", "description": "Naturalista e biólogo britânico, pai da teoria da evolução por seleção natural, autor de A Origem das Espécies (1859).", "year": 1809 },
+      { "name": "Abraham Lincoln", "description": "16.º presidente dos EUA (1861-1865), proclamou a Emancipação dos escravos em 1862 e liderou a União na guerra civil americana.", "year": 1809 },
+      { "name": "Christina Ricci", "description": "Atriz americana, conhecida desde criança por A Família Addams; consolidada em papéis de cinema independente.", "year": 1980 }
+    ],
+    "events": [
+      { "title": "Primeira demonstração pública do telefone de Bell", "description": "Alexander Graham Bell realiza a primeira demonstração pública do telefone em Boston, transmitindo a voz humana à distância.", "year": 1877 },
+      { "title": "Galileu perante a Inquisição", "description": "O astrônomo Galileu Galilei comparece perante o Santo Ofício em Roma, que o condena a prisão domiciliar por defender o heliocentrismo.", "year": 1633 },
+      { "title": "Casablanca estreia na Espanha", "description": "O clássico de Michael Curtiz com Humphrey Bogart e Ingrid Bergman estreia na Espanha, tornando-se um dos filmes mais queridos da história.", "year": 1946 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Santa Eulàlia de Barcelona", "type": "Verge i màrtir", "description": "Patrona de Barcelona, martiritzada als 13 anys sota Dioclecià l'any 303. La catedral gòtica de Barcelona porta el seu nom i guarda les seves relíquies." },
+      { "name": "Sant Meleci d'Antioquia", "type": "Bisbe", "description": "Bisbe d'Antioquia del segle IV que va defensar la fe nicena en els temps turbulents de l'arrianisme; va presidir l'inici del Primer Concili de Constantinoble." }
+    ],
+    "observances": [
+      { "name": "Dia de Darwin", "description": "Commemora el naixement de Charles Darwin (1809) i celebra els avenços en biologia evolutiva i la defensa del pensament científic." },
+      { "name": "Dia de Lincoln (EUA)", "description": "Diversos estats americans recorden el naixement d'Abraham Lincoln (1809), el president que va abolir l'esclavitud durant la guerra civil." }
+    ],
+    "historicalQuote": {
+      "text": "No és l'espècie més forta la que sobreviu, ni la més intel·ligent, sinó la que millor s'adapta al canvi.",
+      "author": "Charles Darwin",
+      "context": "Darwin va néixer el 12 de febrer de 1809. La seva obra L'origen de les espècies (1859) va revolucionar la biologia i la concepció de l'ésser humà en el cosmos."
+    },
+    "motivationalQuote": {
+      "text": "Dona sempre el millor de tu; pot no ser suficient, però dona sempre el millor de tu.",
+      "author": "Keith Relf"
+    },
+    "births": [
+      { "name": "Charles Darwin", "description": "Naturalista i biòleg britànic, pare de la teoria de l'evolució per selecció natural, autor de L'origen de les espècies (1859).", "year": 1809 },
+      { "name": "Abraham Lincoln", "description": "16è president dels EUA (1861-1865), va proclamar l'Emancipació dels esclaus el 1862 i va liderar la Unió en la guerra civil americana.", "year": 1809 },
+      { "name": "Christina Ricci", "description": "Actriu nord-americana, coneguda des de nena per La família Addams; consolidada en papers de cinema independent.", "year": 1980 }
+    ],
+    "events": [
+      { "title": "Primera demostració pública del telèfon de Bell", "description": "Alexander Graham Bell fa la primera demostració pública del telèfon a Boston, transmetent la veu humana a distància.", "year": 1877 },
+      { "title": "Galileu davant la Inquisició", "description": "L'astrònom Galileu Galilei compareix davant el Sant Ofici a Roma, que el condemna a arrest domiciliari per defensar l'heliocentrisme.", "year": 1633 },
+      { "title": "Casablanca s'estrena a Espanya", "description": "El clàssic de Michael Curtiz amb Humphrey Bogart i Ingrid Bergman s'estrena a Espanya, convertint-se en un dels films més estimats de la història.", "year": 1946 }
+    ]
+  }
+}

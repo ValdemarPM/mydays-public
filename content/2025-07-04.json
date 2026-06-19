@@ -1,0 +1,291 @@
+{
+  "date": "2025-07-04",
+  "es": {
+    "saints": [
+      {
+        "name": "San Ulrico de Augsburgo",
+        "type": "Obispo",
+        "description": "Primer santo canonizado formalmente por un papa (Juan XV, en el año 993). Obispo de Augsburgo durante cincuenta años, reorganizó la diócesis bávara y fortaleció la vida monástica en la región."
+      },
+      {
+        "name": "Santa Isabel de Portugal",
+        "type": "Reina",
+        "description": "Reina de Portugal, nieta de Jaime I de Aragón. Conocida por su caridad extrema y por mediar en conflictos entre su esposo y su hijo. Al enviudar, ingresó en la Orden Franciscana. Canonizada en 1625."
+      },
+      {
+        "name": "San Andrés de Creta",
+        "type": "Obispo y Doctor",
+        "description": "Arzobispo de Creta en el siglo VII-VIII, gran poeta litúrgico y teólogo. Compuso el Gran Canon, la obra poética más extensa de la liturgia griega, y fue defensor de la veneración de las imágenes."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de Estados Unidos",
+        "description": "EE. UU. celebra su Declaración de Independencia del Imperio Británico, aprobada por el Congreso Continental el 4 de julio de 1776. Es la fiesta nacional más importante del país."
+      },
+      {
+        "name": "Día de la Independencia de Filipinas",
+        "description": "Filipinas conmemora la proclamación de su independencia de Estados Unidos el 4 de julio de 1946, tras décadas de dominio colonial americano."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Sostenemos como evidentes estas verdades: que todos los hombres son creados iguales.",
+      "author": "Thomas Jefferson",
+      "context": "Palabras de la Declaración de Independencia de Estados Unidos, redactada principalmente por Thomas Jefferson y aprobada el 4 de julio de 1776, que se convirtieron en el fundamento filosófico de la democracia moderna."
+    },
+    "motivationalQuote": {
+      "text": "La libertad no es algo que se posee, sino algo que se ejerce.",
+      "author": "Albert Camus"
+    },
+    "births": [
+      {
+        "name": "Giuseppe Garibaldi",
+        "description": "General y patriota italiano, uno de los padres de la unificación italiana (el Risorgimento). Comandó los Mil de Sicilia en 1860, que permitieron la unificación del sur de Italia con el reino de Cerdeña.",
+        "year": 1807
+      },
+      {
+        "name": "Calvin Coolidge",
+        "description": "30.º presidente de Estados Unidos (1923–1929), conocido por su austeridad y liberalismo económico durante los «felices años 20». Fue el único presidente nacido el 4 de julio.",
+        "year": 1872
+      },
+      {
+        "name": "Nathaniel Hawthorne",
+        "description": "Novelista estadounidense del Romanticismo oscuro, autor de La letra escarlata (1850), una de las grandes obras de la literatura americana sobre la culpa, el pecado y la redención en la Nueva Inglaterra puritana.",
+        "year": 1804
+      }
+    ],
+    "events": [
+      {
+        "title": "Declaración de Independencia de EE. UU.",
+        "description": "El 4 de julio de 1776, el Congreso Continental aprobó la Declaración de Independencia, redactada principalmente por Thomas Jefferson, separando a las Trece Colonias americanas del Imperio Británico.",
+        "year": 1776
+      },
+      {
+        "title": "Muerte de Marie Curie",
+        "description": "El 4 de julio de 1934 falleció Marie Curie, dos veces Premio Nobel (Física 1903, Química 1911), pionera en el estudio de la radiactividad y primera mujer en ganar un Nobel.",
+        "year": 1934
+      },
+      {
+        "title": "Descubrimiento del bosón de Higgs",
+        "description": "El 4 de julio de 2012, el CERN anunció el descubrimiento de una partícula compatible con el bosón de Higgs, la última pieza del Modelo Estándar de la física de partículas.",
+        "year": 2012
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Ulrich of Augsburg",
+        "type": "Bishop",
+        "description": "The first saint formally canonised by a pope (John XV, in 993). Bishop of Augsburg for fifty years, he reorganised the Bavarian diocese and strengthened monastic life in the region."
+      },
+      {
+        "name": "Saint Elizabeth of Portugal",
+        "type": "Queen",
+        "description": "Queen of Portugal and granddaughter of James I of Aragon. Known for her extreme charity and for mediating conflicts between her husband and son. After being widowed, she joined the Franciscan Order. Canonised in 1625."
+      },
+      {
+        "name": "Saint Andrew of Crete",
+        "type": "Bishop and Doctor",
+        "description": "Archbishop of Crete in the 7th–8th centuries, a great liturgical poet and theologian. He composed the Great Canon, the most extensive poetic work in the Greek liturgy, and defended the veneration of images."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Independence Day of the United States",
+        "description": "The US celebrates the Declaration of Independence from the British Empire, adopted by the Continental Congress on 4 July 1776. It is the country's most important national holiday."
+      },
+      {
+        "name": "Philippine Republic Day",
+        "description": "The Philippines commemorates the proclamation of its independence from the United States on 4 July 1946, after decades of American colonial rule."
+      }
+    ],
+    "historicalQuote": {
+      "text": "We hold these truths to be self-evident, that all men are created equal.",
+      "author": "Thomas Jefferson",
+      "context": "Words from the US Declaration of Independence, drafted primarily by Thomas Jefferson and adopted on 4 July 1776 — they became the philosophical cornerstone of modern democracy."
+    },
+    "motivationalQuote": {
+      "text": "Freedom is not something one possesses, but something one exercises.",
+      "author": "Albert Camus"
+    },
+    "births": [
+      {
+        "name": "Giuseppe Garibaldi",
+        "description": "Italian general and patriot, one of the founding fathers of Italian unification (the Risorgimento). He led the Expedition of the Thousand in 1860, enabling the unification of southern Italy with the Kingdom of Sardinia.",
+        "year": 1807
+      },
+      {
+        "name": "Calvin Coolidge",
+        "description": "30th President of the United States (1923–1929), known for his austerity and economic liberalism during the 'Roaring Twenties'. He was the only president born on the 4th of July.",
+        "year": 1872
+      },
+      {
+        "name": "Nathaniel Hawthorne",
+        "description": "American dark Romantic novelist, author of The Scarlet Letter (1850), one of the great works of American literature about guilt, sin, and redemption in Puritan New England.",
+        "year": 1804
+      }
+    ],
+    "events": [
+      {
+        "title": "US Declaration of Independence",
+        "description": "On 4 July 1776, the Continental Congress adopted the Declaration of Independence, drafted primarily by Thomas Jefferson, separating the Thirteen American Colonies from the British Empire.",
+        "year": 1776
+      },
+      {
+        "title": "Death of Marie Curie",
+        "description": "On 4 July 1934, Marie Curie died — twice a Nobel laureate (Physics 1903, Chemistry 1911), pioneer in the study of radioactivity and the first woman to win a Nobel Prize.",
+        "year": 1934
+      },
+      {
+        "title": "Discovery of the Higgs boson",
+        "description": "On 4 July 2012, CERN announced the discovery of a particle consistent with the Higgs boson, the last missing piece of the Standard Model of particle physics.",
+        "year": 2012
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Ulrico de Augsburgo",
+        "type": "Bispo",
+        "description": "Primeiro santo formalmente canonizado por um papa (João XV, em 993). Bispo de Augsburgo durante cinquenta anos, reorganizou a diocese bávara e fortaleceu a vida monástica na região."
+      },
+      {
+        "name": "Santa Isabel de Portugal",
+        "type": "Rainha",
+        "description": "Rainha de Portugal e neta de Jaime I de Aragão. Conhecida pela sua caridade extrema e por mediar conflitos entre o marido e o filho. Após enviuvar, ingressou na Ordem Franciscana. Canonizada em 1625."
+      },
+      {
+        "name": "Santo André de Creta",
+        "type": "Bispo e Doutor",
+        "description": "Arcebispo de Creta nos séculos VII-VIII, grande poeta litúrgico e teólogo. Compôs o Grande Cânone, a obra poética mais extensa da liturgia grega, e defendeu a veneração das imagens."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência dos Estados Unidos",
+        "description": "Os EUA celebram a Declaração de Independência do Império Britânico, aprovada pelo Congresso Continental em 4 de julho de 1776. É o feriado nacional mais importante do país."
+      },
+      {
+        "name": "Dia da República das Filipinas",
+        "description": "As Filipinas comemoram a proclamação da sua independência dos Estados Unidos em 4 de julho de 1946, após décadas de domínio colonial americano."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Consideramos estas verdades como evidentes por si mesmas: que todos os homens são criados iguais.",
+      "author": "Thomas Jefferson",
+      "context": "Palavras da Declaração de Independência dos EUA, redigida principalmente por Thomas Jefferson e aprovada em 4 de julho de 1776 — tornaram-se a pedra angular filosófica da democracia moderna."
+    },
+    "motivationalQuote": {
+      "text": "A liberdade não é algo que se possui, mas algo que se exerce.",
+      "author": "Albert Camus"
+    },
+    "births": [
+      {
+        "name": "Giuseppe Garibaldi",
+        "description": "General e patriota italiano, um dos pais fundadores da unificação italiana (o Risorgimento). Liderou a Expedição dos Mil em 1860, possibilitando a unificação do sul da Itália com o Reino da Sardenha.",
+        "year": 1807
+      },
+      {
+        "name": "Calvin Coolidge",
+        "description": "30.º presidente dos Estados Unidos (1923–1929), conhecido pela sua austeridade e liberalismo econômico durante os 'loucos anos 20'. Foi o único presidente nascido em 4 de julho.",
+        "year": 1872
+      },
+      {
+        "name": "Nathaniel Hawthorne",
+        "description": "Romancista americano do Romantismo sombrio, autor de A Letra Escarlate (1850), uma das grandes obras da literatura americana sobre culpa, pecado e redenção na Nova Inglaterra puritana.",
+        "year": 1804
+      }
+    ],
+    "events": [
+      {
+        "title": "Declaração de Independência dos EUA",
+        "description": "Em 4 de julho de 1776, o Congresso Continental aprovou a Declaração de Independência, redigida principalmente por Thomas Jefferson, separando as Treze Colônias americanas do Império Britânico.",
+        "year": 1776
+      },
+      {
+        "title": "Morte de Marie Curie",
+        "description": "Em 4 de julho de 1934, morreu Marie Curie — duas vezes laureada com o Nobel (Física 1903, Química 1911), pioneira no estudo da radioatividade e primeira mulher a ganhar um Nobel.",
+        "year": 1934
+      },
+      {
+        "title": "Descoberta do bóson de Higgs",
+        "description": "Em 4 de julho de 2012, o CERN anunciou a descoberta de uma partícula compatível com o bóson de Higgs, a última peça em falta do Modelo Padrão da física de partículas.",
+        "year": 2012
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Ulric d'Augsburg",
+        "type": "Bisbe",
+        "description": "El primer sant canonitzat formalment per un papa (Joan XV, l'any 993). Bisbe d'Augsburg durant cinquanta anys, va reorganitzar la diòcesi bàvara i va enfortir la vida monàstica a la regió."
+      },
+      {
+        "name": "Santa Isabel de Portugal",
+        "type": "Reina",
+        "description": "Reina de Portugal i neta de Jaume I d'Aragó. Coneguda per la seva caritat extrema i per mediar en conflictes entre el seu marit i el seu fill. En enviudar, va ingressar a l'Orde Franciscana. Canonitzada el 1625."
+      },
+      {
+        "name": "Sant Andreu de Creta",
+        "type": "Bisbe i Doctor",
+        "description": "Arquebisbe de Creta als segles VII-VIII, gran poeta litúrgic i teòleg. Va compondre el Gran Cànon, l'obra poètica més extensa de la litúrgia grega, i va defensar la veneració de les imatges."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència dels Estats Units",
+        "description": "Els EUA celebren la Declaració d'Independència de l'Imperi Britànic, aprovada pel Congrés Continental el 4 de juliol de 1776. És la festa nacional més important del país."
+      },
+      {
+        "name": "Dia de la República de les Filipines",
+        "description": "Les Filipines commemoren la proclamació de la seva independència dels Estats Units el 4 de juliol de 1946, després de dècades de domini colonial americà."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Sostenim com a evidents aquestes veritats: que tots els homes són creats iguals.",
+      "author": "Thomas Jefferson",
+      "context": "Paraules de la Declaració d'Independència dels EUA, redactada principalment per Thomas Jefferson i aprovada el 4 de juliol de 1776 — es van convertir en la pedra angular filosòfica de la democràcia moderna."
+    },
+    "motivationalQuote": {
+      "text": "La llibertat no és quelcom que es posseeix, sinó quelcom que s'exerceix.",
+      "author": "Albert Camus"
+    },
+    "births": [
+      {
+        "name": "Giuseppe Garibaldi",
+        "description": "General i patriota italià, un dels pares de la unificació italiana (el Risorgimento). Va liderar l'Expedició dels Mil el 1860, que va permetre la unificació del sud d'Itàlia amb el Regne de Sardenya.",
+        "year": 1807
+      },
+      {
+        "name": "Calvin Coolidge",
+        "description": "30è president dels Estats Units (1923–1929), conegut per la seva austeritat i liberalisme econòmic durant els 'bojos anys 20'. Va ser l'únic president nascut el 4 de juliol.",
+        "year": 1872
+      },
+      {
+        "name": "Nathaniel Hawthorne",
+        "description": "Novel·lista americà del Romanticisme fosc, autor de La lletra escarlata (1850), una de les grans obres de la literatura americana sobre la culpa, el pecat i la redempció a la Nova Anglaterra puritana.",
+        "year": 1804
+      }
+    ],
+    "events": [
+      {
+        "title": "Declaració d'Independència dels EUA",
+        "description": "El 4 de juliol de 1776, el Congrés Continental va aprovar la Declaració d'Independència, redactada principalment per Thomas Jefferson, separant les Tretze Colònies americanes de l'Imperi Britànic.",
+        "year": 1776
+      },
+      {
+        "title": "Mort de Marie Curie",
+        "description": "El 4 de juliol de 1934, va morir Marie Curie — dues vegades premi Nobel (Física 1903, Química 1911), pionera en l'estudi de la radioactivitat i primera dona a guanyar un Nobel.",
+        "year": 1934
+      },
+      {
+        "title": "Descobriment del bosó de Higgs",
+        "description": "El 4 de juliol de 2012, el CERN va anunciar el descobriment d'una partícula compatible amb el bosó de Higgs, l'última peça que faltava del Model Estàndard de la física de partícules.",
+        "year": 2012
+      }
+    ]
+  }
+}

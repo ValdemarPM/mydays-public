@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-12",
+  "es": {
+    "saints": [
+      {
+        "name": "El Santísimo Nombre de María",
+        "type": "Fiesta",
+        "description": "Fiesta instituida por el papa Inocencio XI en 1683 para conmemorar la victoria cristiana en la Batalla de Viena (12 de septiembre de 1683), donde se detuvo el avance otomano sobre Europa central."
+      },
+      {
+        "name": "San Guido de Anderlecht",
+        "type": "Laico",
+        "description": "Laico belga del siglo XI conocido por su extrema pobreza voluntaria y su vida de peregrino. Trabajó como sacristán en Anderlecht y murió a su vuelta de una peregrinación a Roma y Tierra Santa."
+      },
+      {
+        "name": "San Silvino de Toulouse",
+        "type": "Obispo",
+        "description": "Obispo de Toulouse en el siglo V conocido por su labor evangelizadora en el norte de la Galia y por su celo en la conversión de los paganos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Batalla de Viena",
+        "description": "Conmemoración de la victoria de la Liga Santa sobre el ejército otomano el 12 de septiembre de 1683 en las afueras de Viena, que puso fin a la expansión turca en Europa central."
+      },
+      {
+        "name": "Día Nacional de Etiopía",
+        "description": "Etiopía celebra la fiesta del Meskel (Encuentro de la Verdadera Cruz) y en algunas regiones se celebran festividades relacionadas con la historia del Estado etíope."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Que libre es el hombre que no desea nada que no esté en su poder.",
+      "author": "Epicteto",
+      "context": "El filósofo estoico griego, nacido como esclavo en Hierápolis en el siglo I d.C., enseñó que la libertad interior es la única libertad verdadera y que el sabio controla únicamente sus propias reacciones ante el mundo."
+    },
+    "motivationalQuote": {
+      "text": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      {
+        "name": "Jesse Owens",
+        "description": "Atleta estadounidense de origen afroamericano que ganó cuatro medallas de oro en los Juegos Olímpicos de Berlín de 1936, desafiando la ideología racista nazi ante los propios ojos de Adolf Hitler.",
+        "year": 1913
+      },
+      {
+        "name": "H. L. Mencken",
+        "description": "Periodista, ensayista y crítico social estadounidense, conocido por su prosa mordaz y su crítica de la hipocresía americana en la primera mitad del siglo XX. Uno de los ensayistas más influyentes de su época.",
+        "year": 1880
+      },
+      {
+        "name": "Jennifer Hudson",
+        "description": "Cantante y actriz estadounidense, ganadora del Oscar por Dreamgirls (2006) y con una exitosa carrera musical. Es una de las pocas artistas en haber ganado el EGOT (Emmy, Grammy, Oscar y Tony).",
+        "year": 1981
+      }
+    ],
+    "events": [
+      {
+        "title": "Batalla de Viena",
+        "description": "La Liga Santa, liderada por el rey polaco Jan III Sobieski, derrotó al gran ejército otomano que asediaba Viena, salvando Europa central de la dominación turca y cambiando el equilibrio de poder en el continente.",
+        "year": 1683
+      },
+      {
+        "title": "El Apolo 12 parte hacia la Luna",
+        "description": "La NASA lanzó la misión Apolo 12, que llevaría a Pete Conrad y Alan Bean a la superficie lunar el 19 de noviembre de 1969, siendo la segunda misión en poner hombres en la Luna.",
+        "year": 1969
+      },
+      {
+        "title": "Primer vuelo transatlántico sin escalas",
+        "description": "Los pilotos británicos John Alcock y Arthur Brown completaron el primer vuelo transatlántico sin escalas de la historia, cruzando el Atlántico de Terranova a Irlanda en menos de 16 horas.",
+        "year": 1919
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "The Most Holy Name of Mary",
+        "type": "Feast",
+        "description": "Feast instituted by Pope Innocent XI in 1683 to commemorate the Christian victory at the Battle of Vienna (12 September 1683), which halted the Ottoman advance into Central Europe."
+      },
+      {
+        "name": "Saint Guido of Anderlecht",
+        "type": "Layman",
+        "description": "An 11th-century Belgian layman known for his voluntary extreme poverty and his life as a pilgrim. He worked as a sacristan in Anderlecht and died on his return from a pilgrimage to Rome and the Holy Land."
+      },
+      {
+        "name": "Saint Silvinus of Toulouse",
+        "type": "Bishop",
+        "description": "Bishop of Toulouse in the 5th century, known for his missionary work in northern Gaul and his zeal for the conversion of pagans."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Battle of Vienna Day",
+        "description": "Commemoration of the Holy League's victory over the Ottoman army on 12 September 1683 on the outskirts of Vienna, ending the Turkish expansion into Central Europe."
+      },
+      {
+        "name": "Ethiopian National Day",
+        "description": "Ethiopia celebrates the Meskel feast (Finding of the True Cross), and in some regions festivities related to the history of the Ethiopian state are observed."
+      }
+    ],
+    "historicalQuote": {
+      "text": "How free is the man who desires nothing that is not within his power.",
+      "author": "Epictetus",
+      "context": "The Greek Stoic philosopher, born a slave in Hierapolis in the 1st century AD, taught that inner freedom is the only true freedom and that the wise person controls only their own reactions to the world."
+    },
+    "motivationalQuote": {
+      "text": "Success is the sum of small efforts repeated day in and day out.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      {
+        "name": "Jesse Owens",
+        "description": "African-American track and field athlete who won four gold medals at the 1936 Berlin Olympics, defying Nazi racist ideology in front of Adolf Hitler himself.",
+        "year": 1913
+      },
+      {
+        "name": "H. L. Mencken",
+        "description": "American journalist, essayist, and social critic, known for his incisive prose and his critique of American hypocrisy in the first half of the 20th century. One of the most influential essayists of his era.",
+        "year": 1880
+      },
+      {
+        "name": "Jennifer Hudson",
+        "description": "American singer and actress, Oscar winner for Dreamgirls (2006) and with a successful music career. She is one of the rare artists to have won the EGOT (Emmy, Grammy, Oscar, and Tony).",
+        "year": 1981
+      }
+    ],
+    "events": [
+      {
+        "title": "Battle of Vienna",
+        "description": "The Holy League, led by Polish King Jan III Sobieski, defeated the great Ottoman army besieging Vienna, saving Central Europe from Turkish domination and shifting the balance of power on the continent.",
+        "year": 1683
+      },
+      {
+        "title": "Apollo 12 departs for the Moon",
+        "description": "NASA launched the Apollo 12 mission, which would take Pete Conrad and Alan Bean to the lunar surface on 19 November 1969, the second mission to land humans on the Moon.",
+        "year": 1969
+      },
+      {
+        "title": "First non-stop transatlantic flight",
+        "description": "British pilots John Alcock and Arthur Brown completed the first non-stop transatlantic flight in history, crossing the Atlantic from Newfoundland to Ireland in under 16 hours.",
+        "year": 1919
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "O Santíssimo Nome de Maria",
+        "type": "Festa",
+        "description": "Festa instituída pelo papa Inocêncio XI em 1683 para comemorar a vitória cristã na Batalha de Viena (12 de setembro de 1683), que deteve o avanço otomano para a Europa central."
+      },
+      {
+        "name": "São Guido de Anderlecht",
+        "type": "Leigo",
+        "description": "Leigo belga do século XI conhecido pela sua extrema pobreza voluntária e a sua vida de peregrino. Trabalhou como sacristão em Anderlecht e morreu no regresso de uma peregrinação a Roma e à Terra Santa."
+      },
+      {
+        "name": "São Silvino de Toulouse",
+        "type": "Bispo",
+        "description": "Bispo de Toulouse no século V, conhecido pela sua atividade missionária no norte da Gália e pelo seu zelo na conversão dos pagãos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Batalha de Viena",
+        "description": "Comemoração da vitória da Santa Liga sobre o exército otomano em 12 de setembro de 1683 nos arredores de Viena, pondo fim à expansão turca na Europa central."
+      },
+      {
+        "name": "Dia Nacional da Etiópia",
+        "description": "A Etiópia celebra a festa do Meskel (Encontro da Verdadeira Cruz), e em algumas regiões observam-se festividades relacionadas com a história do Estado etíope."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Quão livre é o homem que não deseja nada que não esteja em seu poder.",
+      "author": "Epicteto",
+      "context": "O filósofo estoico grego, nascido escravo em Hierápolis no século I d.C., ensinou que a liberdade interior é a única verdadeira liberdade e que o sábio controla apenas as suas próprias reações ao mundo."
+    },
+    "motivationalQuote": {
+      "text": "O sucesso é a soma de pequenos esforços repetidos dia após dia.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      {
+        "name": "Jesse Owens",
+        "description": "Atleta afro-americano que ganhou quatro medalhas de ouro nos Jogos Olímpicos de Berlim de 1936, desafiando a ideologia racista nazi perante os próprios olhos de Adolf Hitler.",
+        "year": 1913
+      },
+      {
+        "name": "H. L. Mencken",
+        "description": "Jornalista, ensaísta e crítico social americano, conhecido pela sua prosa mordaz e pela sua crítica da hipocrisia americana na primeira metade do século XX. Um dos ensaístas mais influentes da sua época.",
+        "year": 1880
+      },
+      {
+        "name": "Jennifer Hudson",
+        "description": "Cantora e atriz americana, vencedora do Oscar por Dreamgirls (2006) e com uma bem-sucedida carreira musical. É uma das raras artistas a ter ganho o EGOT (Emmy, Grammy, Oscar e Tony).",
+        "year": 1981
+      }
+    ],
+    "events": [
+      {
+        "title": "Batalha de Viena",
+        "description": "A Santa Liga, liderada pelo rei polaco Jan III Sobieski, derrotou o grande exército otomano que sitiava Viena, salvando a Europa central da dominação turca e alterando o equilíbrio de poder no continente.",
+        "year": 1683
+      },
+      {
+        "title": "Apolo 12 parte para a Lua",
+        "description": "A NASA lançou a missão Apolo 12, que levaria Pete Conrad e Alan Bean à superfície lunar a 19 de novembro de 1969, sendo a segunda missão a colocar humanos na Lua.",
+        "year": 1969
+      },
+      {
+        "title": "Primeiro voo transatlântico sem escalas",
+        "description": "Os pilotos britânicos John Alcock e Arthur Brown concluíram o primeiro voo transatlântico sem escalas da história, cruzando o Atlântico de Newfoundland à Irlanda em menos de 16 horas.",
+        "year": 1919
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "El Santíssim Nom de Maria",
+        "type": "Festa",
+        "description": "Festa instituïda pel papa Innocenci XI el 1683 per commemorar la victòria cristiana a la Batalla de Viena (12 de setembre de 1683), que va aturar l'avanç otomà cap a Europa central."
+      },
+      {
+        "name": "Sant Guido d'Anderlecht",
+        "type": "Laic",
+        "description": "Laic belga del segle XI conegut per la seva extrema pobresa voluntària i la seva vida de pelegrí. Va treballar com a sagristà a Anderlecht i va morir en tornar d'una peregrinació a Roma i Terra Santa."
+      },
+      {
+        "name": "Sant Silví de Tolosa",
+        "type": "Bisbe",
+        "description": "Bisbe de Tolosa al segle V, conegut per la seva activitat missionera al nord de la Gàl·lia i pel seu zel en la conversió dels pagans."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Batalla de Viena",
+        "description": "Commemoració de la victòria de la Santa Lliga sobre l'exèrcit otomà el 12 de setembre de 1683 als voltants de Viena, que va posar fi a l'expansió turca a Europa central."
+      },
+      {
+        "name": "Dia Nacional d'Etiòpia",
+        "description": "Etiòpia celebra la festa del Meskel (Trobada de la Vera Creu), i en algunes regions s'observen festivitats relacionades amb la història de l'Estat etíop."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Quant de lliure és l'home que no desitja res que no estigui en el seu poder.",
+      "author": "Epíctet",
+      "context": "El filòsof estoic grec, nascut esclau a Hieràpolis al segle I dC, va ensenyar que la llibertat interior és l'única llibertat veritable i que el savi controla únicament les seves pròpies reaccions davant el món."
+    },
+    "motivationalQuote": {
+      "text": "L'èxit és la suma de petits esforços repetits dia rere dia.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      {
+        "name": "Jesse Owens",
+        "description": "Atleta afroamericà que va guanyar quatre medalles d'or als Jocs Olímpics de Berlín de 1936, desafiant la ideologia racista nazi davant els propis ulls d'Adolf Hitler.",
+        "year": 1913
+      },
+      {
+        "name": "H. L. Mencken",
+        "description": "Periodista, assagista i crític social americà, conegut per la seva prosa mordaç i la seva crítica de la hipocresia americana a la primera meitat del segle XX. Un dels assagistes més influents de la seva època.",
+        "year": 1880
+      },
+      {
+        "name": "Jennifer Hudson",
+        "description": "Cantant i actriu americana, guanyadora de l'Oscar per Dreamgirls (2006) i amb una exitosa carrera musical. És una de les poques artistes que ha guanyat el EGOT (Emmy, Grammy, Oscar i Tony).",
+        "year": 1981
+      }
+    ],
+    "events": [
+      {
+        "title": "Batalla de Viena",
+        "description": "La Santa Lliga, liderada pel rei polonès Jan III Sobieski, va derrotar el gran exèrcit otomà que assetjava Viena, salvant Europa central de la dominació turca i canviant l'equilibri de poder al continent.",
+        "year": 1683
+      },
+      {
+        "title": "L'Apol·lo 12 part cap a la Lluna",
+        "description": "La NASA va llançar la missió Apol·lo 12, que portaria Pete Conrad i Alan Bean a la superfície lunar el 19 de novembre de 1969, essent la segona missió a posar éssers humans a la Lluna.",
+        "year": 1969
+      },
+      {
+        "title": "Primer vol transatlàntic sense escales",
+        "description": "Els pilots britànics John Alcock i Arthur Brown van completar el primer vol transatlàntic sense escales de la història, creuant l'Atlàntic de Terranova a Irlanda en menys de 16 hores.",
+        "year": 1919
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "date": "2026-06-11",
+  "es": {
+    "saints": [
+      {
+        "name": "San Bernabé Apóstol",
+        "type": "Apóstol",
+        "description": "Natural de Chipre, conocido originalmente como José, recibió el nombre de Bernabé que significa 'hijo de la consolación'. Aunque no pertenecía a los Doce, fue llamado y venerado como Apóstol. Fue él quien presentó a Pablo ante los demás apóstoles y lo animó a la misión."
+      },
+      {
+        "name": "Santa Paula Frassinetti",
+        "type": "Virgen y Fundadora",
+        "description": "Religiosa italiana del siglo XIX, fundadora de la Congregación de las Hermanas de Santa Dorotea, dedicada a la educación de niñas y jóvenes pobres. Canonizada por Juan Pablo II en 1984."
+      },
+      {
+        "name": "San Parisio",
+        "type": "Monje",
+        "description": "Monje benedictino italiano del siglo XIII, conocido por su vida de intensa oración y penitencia en el monasterio de San Zenón en Treviso, donde vivió más de setenta años en santidad."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Acreditación",
+        "description": "Promovido por la ILAC y el IAF, este día reconoce la labor de los organismos de acreditación en garantizar la competencia técnica y la confianza en los productos, servicios y sistemas que conforman la economía global."
+      },
+      {
+        "name": "Fundación de Buenos Aires",
+        "description": "El 11 de junio de 1580, Juan de Garay refundó la ciudad de la Santísima Trinidad (Buenos Aires) con sesenta voluntarios, estableciendo el asentamiento permanente que se convertiría en la capital de Argentina."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El mar, una vez que te lanza su hechizo, te tiene para siempre en su red de maravillas.",
+      "author": "Jacques Cousteau",
+      "context": "Jacques-Yves Cousteau nació el 11 de junio de 1910 en Saint-André-de-Cubzac, Francia. Oficial de la Marina francesa reconvertido en explorador oceánico, coinventó la escafandra autónoma en 1943 con Émile Gagnan. Su obra divulgativa transformó la percepción del mundo submarino para generaciones enteras."
+    },
+    "motivationalQuote": {
+      "text": "El único modo de hacer un gran trabajo es amar lo que haces.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Jacques Cousteau",
+        "description": "Oceanógrafo, explorador y cineasta francés, pionero de la exploración submarina. Coinventor de la escafandra autónoma, sus documentales sobre el mundo marino acercaron los océanos a millones de personas.",
+        "year": "1910"
+      },
+      {
+        "name": "Richard Strauss",
+        "description": "Compositor y director de orquesta alemán, maestro del poema sinfónico y la ópera tardorromántica. Autor de obras como Also sprach Zarathustra, Der Rosenkavalier y Salomé.",
+        "year": "1864"
+      },
+      {
+        "name": "Nicolás Guillén",
+        "description": "Poeta cubano, figura cumbre de la poesía afrocubana y comprometida. Fue poeta nacional de Cuba y su obra fusionó el ritmo afrocaribeño con la denuncia social.",
+        "year": "1902"
+      }
+    ],
+    "events": [
+      {
+        "title": "Enrique VIII se casa con Catalina de Aragón",
+        "description": "El rey Enrique VIII de Inglaterra contrajo matrimonio con Catalina de Aragón, hija de los Reyes Católicos. Fue el primero de sus seis matrimonios y su ruptura con Catalina desencadenaría el cisma anglicano y la Reforma en Inglaterra.",
+        "year": "1509"
+      },
+      {
+        "title": "Refundación de Buenos Aires",
+        "description": "Juan de Garay, al mando de sesenta voluntarios, refundó la ciudad de la Santísima Trinidad —hoy Buenos Aires— a orillas del Río de la Plata, estableciendo el asentamiento que sería capital del futuro virreinato y, más tarde, de Argentina.",
+        "year": "1580"
+      },
+      {
+        "title": "Estreno de La guerra de las galaxias",
+        "description": "Se estrenó en Estados Unidos Star Wars: Episodio IV - Una nueva esperanza, de George Lucas, película que revolucionó el cine de ciencia ficción y los efectos especiales, y se convirtió en una de las franquicias más exitosas de la historia.",
+        "year": "1977"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Barnabas the Apostle",
+        "type": "Apostle",
+        "description": "A native of Cyprus, originally known as Joseph, he received the name Barnabas meaning 'son of encouragement'. Though not one of the Twelve, he was called and venerated as an Apostle. He was the one who introduced Paul to the other apostles and encouraged him in his mission."
+      },
+      {
+        "name": "Saint Paula Frassinetti",
+        "type": "Virgin and Foundress",
+        "description": "Italian 19th-century religious, foundress of the Congregation of the Sisters of Saint Dorothy, dedicated to the education of poor girls and young women. Canonized by John Paul II in 1984."
+      },
+      {
+        "name": "Saint Parisio",
+        "type": "Monk",
+        "description": "Italian Benedictine monk of the 13th century, known for his life of intense prayer and penance at the monastery of San Zeno in Treviso, where he lived more than seventy years in holiness."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Accreditation Day",
+        "description": "Promoted by ILAC and IAF, this day recognizes the work of accreditation bodies in ensuring technical competence and trust in the products, services, and systems that make up the global economy."
+      },
+      {
+        "name": "Founding of Buenos Aires",
+        "description": "On June 11, 1580, Juan de Garay re-founded the city of the Holy Trinity (Buenos Aires) with sixty volunteers, establishing the permanent settlement that would become the capital of Argentina."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The sea, once it casts its spell, holds one in its net of wonder forever.",
+      "author": "Jacques Cousteau",
+      "context": "Jacques-Yves Cousteau was born on June 11, 1910 in Saint-André-de-Cubzac, France. A French Navy officer turned ocean explorer, he co-invented the aqualung in 1943 with Émile Gagnan. His documentary work transformed entire generations' perception of the underwater world."
+    },
+    "motivationalQuote": {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Jacques Cousteau",
+        "description": "French oceanographer, explorer, and filmmaker, pioneer of underwater exploration. Co-inventor of the aqualung, his documentaries about the marine world brought the oceans closer to millions of people.",
+        "year": "1910"
+      },
+      {
+        "name": "Richard Strauss",
+        "description": "German composer and conductor, master of the symphonic poem and late-Romantic opera. Author of works such as Also sprach Zarathustra, Der Rosenkavalier, and Salome.",
+        "year": "1864"
+      },
+      {
+        "name": "Nicolás Guillén",
+        "description": "Cuban poet, a leading figure of Afro-Cuban and politically committed poetry. He was Cuba's national poet, and his work fused Afro-Caribbean rhythm with social protest.",
+        "year": "1902"
+      }
+    ],
+    "events": [
+      {
+        "title": "Henry VIII marries Catherine of Aragon",
+        "description": "King Henry VIII of England married Catherine of Aragon, daughter of the Catholic Monarchs. It was the first of his six marriages, and his break with Catherine would trigger the Anglican schism and the Reformation in England.",
+        "year": "1509"
+      },
+      {
+        "title": "Re-founding of Buenos Aires",
+        "description": "Juan de Garay, leading sixty volunteers, re-founded the city of the Holy Trinity — today Buenos Aires — on the banks of the Río de la Plata, establishing the settlement that would become the capital of the future viceroyalty and, later, of Argentina.",
+        "year": "1580"
+      },
+      {
+        "title": "Premiere of Star Wars",
+        "description": "Star Wars: Episode IV - A New Hope, directed by George Lucas, premiered in the United States. The film revolutionized science fiction cinema and special effects, becoming one of the most successful franchises in history.",
+        "year": "1977"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Barnabé Apóstolo",
+        "type": "Apóstolo",
+        "description": "Natural de Chipre, originalmente conhecido como José, recebeu o nome de Barnabé, que significa 'filho do encorajamento'. Embora não fosse um dos Doze, foi chamado e venerado como Apóstolo. Foi ele quem apresentou Paulo aos demais apóstolos e o incentivou à missão."
+      },
+      {
+        "name": "Santa Paula Frassinetti",
+        "type": "Virgem e Fundadora",
+        "description": "Religiosa italiana do século XIX, fundadora da Congregação das Irmãs de Santa Doroteia, dedicada à educação de meninas e jovens pobres. Canonizada por João Paulo II em 1984."
+      },
+      {
+        "name": "São Parisio",
+        "type": "Monge",
+        "description": "Monge beneditino italiano do século XIII, conhecido por sua vida de intensa oração e penitência no mosteiro de São Zenão em Treviso, onde viveu mais de setenta anos em santidade."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Acreditação",
+        "description": "Promovido pelo ILAC e pelo IAF, este dia reconhece o trabalho dos organismos de acreditação para garantir a competência técnica e a confiança nos produtos, serviços e sistemas que compõem a economia global."
+      },
+      {
+        "name": "Refundação de Buenos Aires",
+        "description": "Em 11 de junho de 1580, Juan de Garay refundou a cidade da Santíssima Trindade (Buenos Aires) com sessenta voluntários, estabelecendo o assentamento permanente que se tornaria a capital da Argentina."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O mar, uma vez que lança seu feitiço, prende você para sempre em sua rede de maravilhas.",
+      "author": "Jacques Cousteau",
+      "context": "Jacques-Yves Cousteau nasceu em 11 de junho de 1910 em Saint-André-de-Cubzac, França. Oficial da Marinha francesa reconvertido em explorador oceânico, co-inventou o equipamento de mergulho autônomo em 1943 com Émile Gagnan. Sua obra divulgativa transformou a percepção do mundo submarino para gerações inteiras."
+    },
+    "motivationalQuote": {
+      "text": "A única forma de fazer um grande trabalho é amar o que você faz.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Jacques Cousteau",
+        "description": "Oceanógrafo, explorador e cineasta francês, pioneiro da exploração submarina. Co-inventor do equipamento de mergulho autônomo, seus documentários sobre o mundo marinho aproximaram os oceanos de milhões de pessoas.",
+        "year": "1910"
+      },
+      {
+        "name": "Richard Strauss",
+        "description": "Compositor e regente alemão, mestre do poema sinfônico e da ópera tardorromantica. Autor de obras como Also sprach Zarathustra, Der Rosenkavalier e Salomé.",
+        "year": "1864"
+      },
+      {
+        "name": "Nicolás Guillén",
+        "description": "Poeta cubano, figura de destaque da poesia afro-cubana e politicamente comprometida. Foi o poeta nacional de Cuba e sua obra fundiu o ritmo afro-caribenho com a denúncia social.",
+        "year": "1902"
+      }
+    ],
+    "events": [
+      {
+        "title": "Henrique VIII casa-se com Catarina de Aragão",
+        "description": "O rei Henrique VIII da Inglaterra se casou com Catarina de Aragão, filha dos Reis Católicos. Foi o primeiro de seus seis casamentos, e a ruptura com Catarina desencadearia o cisma anglicano e a Reforma na Inglaterra.",
+        "year": "1509"
+      },
+      {
+        "title": "Refundação de Buenos Aires",
+        "description": "Juan de Garay, liderando sessenta voluntários, refundou a cidade da Santíssima Trindade — hoje Buenos Aires — às margens do Rio da Prata, estabelecendo o assentamento que seria capital do futuro vice-reinado e, mais tarde, da Argentina.",
+        "year": "1580"
+      },
+      {
+        "title": "Estreia de Guerra nas Estrelas",
+        "description": "Star Wars: Episódio IV - Uma Nova Esperança, de George Lucas, estreou nos Estados Unidos. O filme revolucionou o cinema de ficção científica e os efeitos especiais, tornando-se uma das franquias mais bem-sucedidas da história.",
+        "year": "1977"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Barnabé Apòstol",
+        "type": "Apòstol",
+        "description": "Natural de Xipre, originàriament conegut com a Josep, va rebre el nom de Barnabé, que significa 'fill de l'encoratjament'. Malgrat no ser un dels Dotze, va ser cridat i venerat com a Apòstol. Va ser ell qui va presentar Pau als altres apòstols i el va animar a la missió."
+      },
+      {
+        "name": "Santa Paula Frassinetti",
+        "type": "Verge i Fundadora",
+        "description": "Religiosa italiana del segle XIX, fundadora de la Congregació de les Germanes de Santa Dorotea, dedicada a l'educació de nenes i joves pobres. Canonitzada per Joan Pau II el 1984."
+      },
+      {
+        "name": "Sant Parisi",
+        "type": "Monjo",
+        "description": "Monjo benedictí italià del segle XIII, conegut per la seva vida d'intensa pregària i penitència al monestir de Sant Zenó de Treviso, on va viure més de setanta anys en santedat."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de l'Acreditació",
+        "description": "Promogut per l'ILAC i l'IAF, aquest dia reconeix la feina dels organismes d'acreditació per garantir la competència tècnica i la confiança en els productes, serveis i sistemes que configuren l'economia global."
+      },
+      {
+        "name": "Refundació de Buenos Aires",
+        "description": "L'11 de juny de 1580, Juan de Garay va refundar la ciutat de la Santíssima Trinitat (Buenos Aires) amb seixanta voluntaris, establint l'assentament permanent que es convertiria en la capital de l'Argentina."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El mar, un cop t'ha llançat el seu encanteri, et té per sempre en la seva xarxa de meravelles.",
+      "author": "Jacques Cousteau",
+      "context": "Jacques-Yves Cousteau va néixer l'11 de juny de 1910 a Saint-André-de-Cubzac, França. Oficial de la Marina francesa reconvertit en explorador oceànic, va co-inventar l'escafandre autònom el 1943 amb Émile Gagnan. La seva obra divulgativa va transformar la percepció del món submarí per a generacions senceres."
+    },
+    "motivationalQuote": {
+      "text": "L'única manera de fer una gran feina és estimar el que fas.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Jacques Cousteau",
+        "description": "Oceanògraf, explorador i cineasta francès, pioner de l'exploració submarina. Co-inventor de l'escafandre autònom, els seus documentals sobre el món marí van apropar els oceans a milions de persones.",
+        "year": "1910"
+      },
+      {
+        "name": "Richard Strauss",
+        "description": "Compositor i director d'orquestra alemany, mestre del poema simfònic i l'òpera tardoromantica. Autor d'obres com Also sprach Zarathustra, Der Rosenkavalier i Salomé.",
+        "year": "1864"
+      },
+      {
+        "name": "Nicolás Guillén",
+        "description": "Poeta cubà, figura cabdal de la poesia afrocubana i compromesa. Va ser el poeta nacional de Cuba i la seva obra va fusionar el ritme afrocaribeeny amb la denúncia social.",
+        "year": "1902"
+      }
+    ],
+    "events": [
+      {
+        "title": "Enric VIII es casa amb Caterina d'Aragó",
+        "description": "El rei Enric VIII d'Anglaterra va contraure matrimoni amb Caterina d'Aragó, filla dels Reis Catòlics. Va ser el primer dels seus sis matrimonis, i la ruptura amb Caterina desencadenaria el cisma anglicà i la Reforma a Anglaterra.",
+        "year": "1509"
+      },
+      {
+        "title": "Refundació de Buenos Aires",
+        "description": "Juan de Garay, al capdavant de seixanta voluntaris, va refundar la ciutat de la Santíssima Trinitat —avui Buenos Aires— a les ribes del Riu de la Plata, establint l'assentament que seria capital del futur virregnat i, més tard, de l'Argentina.",
+        "year": "1580"
+      },
+      {
+        "title": "Estrena de La guerra de les galàxies",
+        "description": "Star Wars: Episodi IV - Una nova esperança, de George Lucas, es va estrenar als Estats Units. La pel·lícula va revolucionar el cinema de ciència-ficció i els efectes especials, i es va convertir en una de les franquícies més exitoses de la història.",
+        "year": "1977"
+      }
+    ]
+  }
+}

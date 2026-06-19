@@ -1,0 +1,119 @@
+{
+  "date": "2026-02-24",
+  "es": {
+    "saints": [
+      { "name": "San Matías Apóstol", "type": "Apóstol y mártir", "description": "Elegido por sorteo para sustituir a Judas Iscariote entre los Doce Apóstoles; predicó en Judea y fue martirizado, según la tradición, con un hacha." },
+      { "name": "San Sergio de Radonezh (traslado de reliquias)", "type": "Monje", "description": "Monje ortodoxo ruso del siglo XIV, uno de los santos más venerados de Rusia, fundador del Monasterio de la Trinidad y San Sergio." }
+    ],
+    "observances": [
+      { "name": "Día de la Bandera de Estonia", "description": "Estonia conmemora la adopción de su bandera tricolor (azul, negro y blanco) en 1884, símbolo de identidad nacional antes de la independencia." },
+      { "name": "Día de los Regalos (Día de la Gratitud, Hungría)", "description": "Tradición húngara en que familiares y amigos intercambian regalos como muestra de afecto a mediados de invierno." }
+    ],
+    "historicalQuote": {
+      "text": "La grandeza de un hombre no está en el dinero que posee, sino en la integridad que defiende y el amor que da.",
+      "author": "Martin Luther King Jr.",
+      "context": "King (1929-1968) predicó la ética de la dignidad humana a lo largo de toda su vida. Fue asesinado el 4 de abril de 1968, dejando un legado imborrable en la lucha por los derechos civiles."
+    },
+    "motivationalQuote": {
+      "text": "Tu tiempo es limitado, no lo malgastes viviendo la vida de otra persona.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      { "name": "Wilhelm Karl Grimm", "description": "Filólogo y folklorista alemán, junto a su hermano Jacob recopiló los cuentos populares que llevan su nombre: los Cuentos de los Hermanos Grimm.", "year": 1786 },
+      { "name": "Steve Jobs", "description": "Empresario e inventor estadounidense, cofundador de Apple; revolucionó la industria tecnológica con el iPhone, el iPad y el Macintosh.", "year": 1955 },
+      { "name": "Floyd Mayweather Jr.", "description": "Boxeador profesional estadounidense, invicto en 50 combates; considerado uno de los mejores defensores de la historia del boxeo.", "year": 1977 }
+    ],
+    "events": [
+      { "title": "Elección del papa Carlos V como Emperador", "description": "Carlos I de España es elegido Sacro Emperador Romano Germánico en Fráncfort, acumulando el mayor poder político de la Europa del siglo XVI.", "year": 1530 },
+      { "title": "Revolución Húngara de 1848", "description": "Los húngaros se levantan contra el dominio austriaco en Pest, marcando el inicio de la Revolución Húngara de 1848-1849.", "year": 1848 },
+      { "title": "Formación de la República Popular China", "description": "El Gobierno de la República Popular China firma sus primeros acuerdos comerciales internacionales con la URSS en Moscú.", "year": 1950 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Matthias the Apostle", "type": "Apostle and Martyr", "description": "Chosen by lot to replace Judas Iscariot among the Twelve Apostles; he preached in Judea and was martyred, according to tradition, with an axe." },
+      { "name": "Saint Sergius of Radonezh (Translation of relics)", "type": "Monk", "description": "14th-century Russian Orthodox monk, one of Russia's most venerated saints, founder of the Trinity-Sergius Lavra." }
+    ],
+    "observances": [
+      { "name": "Estonian Flag Day", "description": "Estonia commemorates the adoption of its tricolour flag (blue, black and white) in 1884, a symbol of national identity before independence." },
+      { "name": "Gift Day (Gratitude Day, Hungary)", "description": "Hungarian tradition in which family and friends exchange gifts as a sign of affection in mid-winter." }
+    ],
+    "historicalQuote": {
+      "text": "The greatness of a man is not in how much wealth he acquires, but in his integrity and his ability to affect those around him positively.",
+      "author": "Martin Luther King Jr.",
+      "context": "King (1929–1968) preached the ethics of human dignity throughout his life. He was assassinated on 4 April 1968, leaving an indelible legacy in the struggle for civil rights."
+    },
+    "motivationalQuote": {
+      "text": "Your time is limited, don't waste it living someone else's life.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      { "name": "Wilhelm Karl Grimm", "description": "German philologist and folklorist who, together with his brother Jacob, compiled the fairy tales that bear their name: Grimm's Fairy Tales.", "year": 1786 },
+      { "name": "Steve Jobs", "description": "American entrepreneur and inventor, co-founder of Apple; he revolutionised the technology industry with the iPhone, iPad and Macintosh.", "year": 1955 },
+      { "name": "Floyd Mayweather Jr.", "description": "American professional boxer, undefeated in 50 bouts; considered one of the greatest defensive boxers in history.", "year": 1977 }
+    ],
+    "events": [
+      { "title": "Charles V elected Holy Roman Emperor", "description": "Charles I of Spain is elected Holy Roman Emperor in Frankfurt, accumulating the greatest political power in 16th-century Europe.", "year": 1530 },
+      { "title": "Hungarian Revolution of 1848 begins", "description": "Hungarians rise up against Austrian rule in Pest, marking the start of the Hungarian Revolution of 1848–1849.", "year": 1848 },
+      { "title": "People's Republic of China's first international agreements", "description": "The Government of the People's Republic of China signs its first international trade agreements with the USSR in Moscow.", "year": 1950 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Matias Apóstolo", "type": "Apóstolo e mártir", "description": "Escolhido por sorteio para substituir Judas Iscariotes entre os Doze Apóstolos; pregou na Judeia e foi martirizado, segundo a tradição, com um machado." },
+      { "name": "São Sérgio de Radonej (Translação das relíquias)", "type": "Monge", "description": "Monge ortodoxo russo do século XIV, um dos santos mais venerados da Rússia, fundador do Mosteiro da Trindade e São Sérgio." }
+    ],
+    "observances": [
+      { "name": "Dia da Bandeira da Estônia", "description": "A Estônia comemora a adoção da sua bandeira tricolor (azul, preto e branco) em 1884, símbolo de identidade nacional antes da independência." },
+      { "name": "Dia dos Presentes (Dia da Gratidão, Hungria)", "description": "Tradição húngara em que familiares e amigos trocam presentes como sinal de afeto em meados do inverno." }
+    ],
+    "historicalQuote": {
+      "text": "A grandeza de um homem não está na riqueza que possui, mas na integridade que defende e no amor que dá.",
+      "author": "Martin Luther King Jr.",
+      "context": "King (1929-1968) pregou a ética da dignidade humana ao longo de toda a sua vida. Foi assassinado em 4 de abril de 1968, deixando um legado indelével na luta pelos direitos civis."
+    },
+    "motivationalQuote": {
+      "text": "Seu tempo é limitado, não o desperdice vivendo a vida de outra pessoa.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      { "name": "Wilhelm Karl Grimm", "description": "Filólogo e folclorista alemão que, junto com o seu irmão Jacob, compilou os contos populares que levam o seu nome: os Contos dos Irmãos Grimm.", "year": 1786 },
+      { "name": "Steve Jobs", "description": "Empresário e inventor americano, cofundador da Apple; revolucionou a indústria de tecnologia com o iPhone, o iPad e o Macintosh.", "year": 1955 },
+      { "name": "Floyd Mayweather Jr.", "description": "Boxeador profissional americano, invicto em 50 combates; considerado um dos maiores defensores da história do boxe.", "year": 1977 }
+    ],
+    "events": [
+      { "title": "Carlos V eleito Imperador Romano-Germânico", "description": "Carlos I da Espanha é eleito Sacro Imperador Romano-Germânico em Frankfurt, acumulando o maior poder político da Europa do século XVI.", "year": 1530 },
+      { "title": "Revolução Húngara de 1848 começa", "description": "Os húngaros se levantam contra o domínio austríaco em Pest, marcando o início da Revolução Húngara de 1848-1849.", "year": 1848 },
+      { "title": "Primeiros acordos internacionais da República Popular da China", "description": "O Governo da República Popular da China assina seus primeiros acordos comerciais internacionais com a URSS em Moscou.", "year": 1950 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Maties Apòstol", "type": "Apòstol i màrtir", "description": "Elegit per sorteig per substituir Judes Iscariot entre els Dotze Apòstols; predicà a Judea i va ser martiritzat, segons la tradició, amb una destral." },
+      { "name": "Sant Sergi de Radonej (Translació de relíquies)", "type": "Monjo", "description": "Monjo ortodox rus del segle XIV, un dels sants més venerats de Rússia, fundador del Monestir de la Trinitat i Sant Sergi." }
+    ],
+    "observances": [
+      { "name": "Dia de la Bandera d'Estònia", "description": "Estònia commemora l'adopció de la seva bandera tricolor (blau, negre i blanc) el 1884, símbol d'identitat nacional abans de la independència." },
+      { "name": "Dia dels Regals (Dia de la Gratitud, Hongria)", "description": "Tradició hongaresa en la qual familiars i amics s'intercanvien regals com a mostra d'afecte a mitjan hivern." }
+    ],
+    "historicalQuote": {
+      "text": "La grandesa d'un home no rau en els diners que té, sinó en la integritat que defensa i l'amor que dona.",
+      "author": "Martin Luther King Jr.",
+      "context": "King (1929-1968) va predicar l'ètica de la dignitat humana al llarg de tota la seva vida. Va ser assassinat el 4 d'abril de 1968, deixant un llegat inesborrable en la lluita pels drets civils."
+    },
+    "motivationalQuote": {
+      "text": "El teu temps és limitat, no el malgastis vivint la vida d'algú altre.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      { "name": "Wilhelm Karl Grimm", "description": "Filòleg i folklorista alemany que, juntament amb el seu germà Jacob, va recopilar els contes populars que porten el seu nom: els Contes dels Germans Grimm.", "year": 1786 },
+      { "name": "Steve Jobs", "description": "Empresari i inventor americà, cofundador d'Apple; va revolucionar la indústria tecnològica amb l'iPhone, l'iPad i el Macintosh.", "year": 1955 },
+      { "name": "Floyd Mayweather Jr.", "description": "Boxejador professional americà, invicte en 50 combats; considerat un dels millors defensors de la història del boxa.", "year": 1977 }
+    ],
+    "events": [
+      { "title": "Carles V elegit Emperador Romano-Germànic", "description": "Carles I d'Espanya és elegit Sacre Emperador Romano-Germànic a Frankfurt, acumulant el major poder polític de l'Europa del segle XVI.", "year": 1530 },
+      { "title": "Revolució Hongaresa de 1848 comença", "description": "Els hongaresos s'alcen contra el domini austríac a Pest, marcant l'inici de la Revolució Hongaresa de 1848-1849.", "year": 1848 },
+      { "title": "Primers acords internacionals de la República Popular de la Xina", "description": "El Govern de la República Popular de la Xina signa els seus primers acords comercials internacionals amb l'URSS a Moscou.", "year": 1950 }
+    ]
+  }
+}

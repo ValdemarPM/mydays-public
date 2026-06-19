@@ -1,0 +1,291 @@
+{
+  "date": "2026-04-06",
+  "es": {
+    "saints": [
+      {
+        "name": "San Sixto I",
+        "type": "Papa y Mártir",
+        "description": "Papa de la Iglesia en el siglo II, sexto sucesor de san Pedro según la tradición. Su pontificado se desarrolló durante el reinado del emperador Adriano. Introdujo importantes normas litúrgicas, entre ellas el canto del 'Sanctus' durante la misa. Fue venerado como mártir, aunque no existen pruebas históricas concluyentes de su martirio."
+      },
+      {
+        "name": "San Celestino I",
+        "type": "Papa",
+        "description": "Papa romano del siglo V que convocó el Concilio de Éfeso (431), donde se proclamó a María como Madre de Dios (Theotokos), frente a la herejía nestoriana. Envió a san Paladio como primer obispo de Irlanda y apoyó la misión de san Agustín de Hipona contra el pelagianismo."
+      },
+      {
+        "name": "San Marcelino de Cartago",
+        "type": "Mártir",
+        "description": "Tribuno romano del siglo V, amigo personal de San Agustín de Hipona, a quien este dedicó su obra 'La Ciudad de Dios'. Fue falsamente acusado de participar en una revuelta y ejecutado a pesar de su inocencia. Agustín defendió su memoria hasta la muerte."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional del Deporte para el Desarrollo y la Paz",
+        "description": "Proclamado por la ONU en 2013 y celebrado cada 6 de abril —fecha de inauguración de los primeros Juegos Olímpicos modernos en Atenas en 1896—, este día reconoce el poder del deporte para promover la paz, la tolerancia y la comprensión entre culturas."
+      },
+      {
+        "name": "Día del Estudiante en Colombia",
+        "description": "Colombia celebra el Día del Estudiante en memoria del 6 de abril de 1867, cuando se creó la Universidad Nacional de Colombia. Es una fecha de reconocimiento al estudiantado y a su papel en la construcción de la sociedad."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nuestro corazón está inquieto hasta que descanse en ti.",
+      "author": "San Agustín de Hipona",
+      "context": "Primera línea de las 'Confesiones' de San Agustín, dedicadas a su amigo Marcelino. Agustín de Hipona (nacido el 13 de noviembre de 354) es uno de los Padres de la Iglesia más influyentes del pensamiento occidental."
+    },
+    "motivationalQuote": {
+      "text": "El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el coraje de continuar.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Raphael (Rafael Sanzio)",
+        "description": "Pintor y arquitecto del Alto Renacimiento italiano, nacido en Urbino. Junto a Leonardo da Vinci y Miguel Ángel forma la tríada de maestros del Renacimiento. Sus Madonnas y los frescos de las Estancias del Vaticano —especialmente 'La Escuela de Atenas'— son obras cumbres de la historia del arte.",
+        "year": "1483"
+      },
+      {
+        "name": "James Watson",
+        "description": "Biólogo molecular estadounidense que, junto a Francis Crick, descubrió la estructura de doble hélice del ADN en 1953. Premio Nobel de Fisiología o Medicina en 1962 compartido con Crick y Rosalind Franklin. Su trabajo transformó la biología moderna y abrió la era de la genética molecular.",
+        "year": "1928"
+      },
+      {
+        "name": "Paul Rudd",
+        "description": "Actor y productor estadounidense, conocido por sus papeles en comedias como 'Clueless' y 'I Love You, Man', así como por interpretar a Scott Lang / Ant-Man en el Universo Cinematográfico de Marvel. Reconocido por su apariencia juvenil, fue elegido 'Hombre Más Sexy Vivo' por la revista People en 2021.",
+        "year": "1969"
+      }
+    ],
+    "events": [
+      {
+        "title": "Inauguración de los primeros Juegos Olímpicos modernos",
+        "description": "El rey Jorge I de Grecia inauguró en Atenas los primeros Juegos Olímpicos modernos, impulsados por Pierre de Coubertin. Participaron 241 atletas de 14 naciones. Grecia ganó el mayor número de medallas. Los Juegos fueron recuperados del mundo antiguo como símbolo de paz y competencia deportiva.",
+        "year": "1896"
+      },
+      {
+        "title": "Estados Unidos declara la guerra a Alemania en la Primera Guerra Mundial",
+        "description": "El Congreso de los Estados Unidos aprobó la declaración de guerra al Imperio Alemán, con el presidente Woodrow Wilson argumentando que el mundo debía ser 'seguro para la democracia'. La entrada de EE.UU. fue decisiva para el desenlace de la guerra.",
+        "year": "1917"
+      },
+      {
+        "title": "Inicio del genocidio de Ruanda",
+        "description": "Tras el derribo del avión del presidente Habyarimana, comenzó el genocidio tutsi en Ruanda. En los siguientes 100 días fueron asesinadas entre 500.000 y 800.000 personas, principalmente de etnia tutsi. La comunidad internacional fue ampliamente criticada por su inacción.",
+        "year": "1994"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Sixtus I",
+        "type": "Pope and Martyr",
+        "description": "A 2nd-century pope and the sixth successor of Saint Peter according to tradition. His pontificate unfolded during the reign of Emperor Hadrian. He introduced important liturgical rules, including the singing of the 'Sanctus' during Mass. He was venerated as a martyr, although no conclusive historical evidence of his martyrdom exists."
+      },
+      {
+        "name": "Saint Celestine I",
+        "type": "Pope",
+        "description": "A 5th-century Roman pope who convened the Council of Ephesus (431), where Mary was proclaimed Mother of God (Theotokos) in opposition to Nestorianism. He sent Saint Palladius as the first bishop of Ireland and supported the mission of Saint Augustine of Hippo against Pelagianism."
+      },
+      {
+        "name": "Saint Marcellinus of Carthage",
+        "type": "Martyr",
+        "description": "A 5th-century Roman tribune and personal friend of Saint Augustine of Hippo, to whom Augustine dedicated his work 'The City of God'. He was falsely accused of participating in a revolt and executed despite his innocence. Augustine defended his memory until death."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of Sport for Development and Peace",
+        "description": "Proclaimed by the UN in 2013 and observed every 6 April — the date of the opening of the first modern Olympic Games in Athens in 1896 — this day recognises the power of sport to promote peace, tolerance, and understanding between cultures."
+      },
+      {
+        "name": "Student's Day in Colombia",
+        "description": "Colombia marks this day in memory of 6 April 1867, when the National University of Colombia was founded. It is a date to honour students and their role in building society."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Our heart is restless, until it repose in Thee.",
+      "author": "Saint Augustine of Hippo",
+      "context": "Opening line of Saint Augustine's 'Confessions', dedicated to his friend Marcellinus. Augustine of Hippo (born 13 November 354) is one of the most influential Church Fathers in Western thought."
+    },
+    "motivationalQuote": {
+      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Raphael (Raffaello Sanzio)",
+        "description": "Italian High Renaissance painter and architect, born in Urbino. Together with Leonardo da Vinci and Michelangelo he forms the triad of Renaissance masters. His Madonnas and the Vatican Stanze frescoes — especially 'The School of Athens' — are pinnacle works in the history of art.",
+        "year": "1483"
+      },
+      {
+        "name": "James Watson",
+        "description": "American molecular biologist who, together with Francis Crick, discovered the double-helix structure of DNA in 1953. He shared the 1962 Nobel Prize in Physiology or Medicine with Crick and Rosalind Franklin. His work transformed modern biology and opened the era of molecular genetics.",
+        "year": "1928"
+      },
+      {
+        "name": "Paul Rudd",
+        "description": "American actor and producer, known for his roles in comedies such as 'Clueless' and 'I Love You, Man', as well as for portraying Scott Lang / Ant-Man in the Marvel Cinematic Universe. Renowned for his youthful appearance, he was named 'Sexiest Man Alive' by People magazine in 2021.",
+        "year": "1969"
+      }
+    ],
+    "events": [
+      {
+        "title": "Opening of the First Modern Olympic Games",
+        "description": "King George I of Greece inaugurated the first modern Olympic Games in Athens, driven by Pierre de Coubertin. A total of 241 athletes from 14 nations took part. Greece won the most medals. The Games were revived from the ancient world as a symbol of peace and sporting competition.",
+        "year": "1896"
+      },
+      {
+        "title": "United States Declares War on Germany in World War I",
+        "description": "The United States Congress approved the declaration of war against the German Empire, with President Woodrow Wilson arguing that the world must be made 'safe for democracy'. The US entry proved decisive for the outcome of the war.",
+        "year": "1917"
+      },
+      {
+        "title": "Start of the Rwandan Genocide",
+        "description": "Following the shooting down of President Habyarimana's plane, the Tutsi genocide began in Rwanda. Over the following 100 days, between 500,000 and 800,000 people — mainly Tutsi — were killed. The international community was widely criticised for its inaction.",
+        "year": "1994"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Sixto I",
+        "type": "Papa e Mártir",
+        "description": "Papa da Igreja no século II, sexto sucessor de São Pedro segundo a tradição. O seu pontificado decorreu durante o reinado do imperador Adriano. Introduziu importantes normas litúrgicas, entre elas o canto do 'Sanctus' durante a missa. Foi venerado como mártir, embora não existam provas históricas conclusivas do seu martírio."
+      },
+      {
+        "name": "São Celestino I",
+        "type": "Papa",
+        "description": "Papa romano do século V que convocou o Concílio de Éfeso (431), onde Maria foi proclamada Mãe de Deus (Theotokos), em oposição à heresia nestoriana. Enviou São Paládio como primeiro bispo da Irlanda e apoiou a missão de Santo Agostinho de Hipona contra o pelagianismo."
+      },
+      {
+        "name": "São Marcelino de Cartago",
+        "type": "Mártir",
+        "description": "Tribuno romano do século V, amigo pessoal de Santo Agostinho de Hipona, a quem este dedicou a sua obra 'A Cidade de Deus'. Foi falsamente acusado de participar numa revolta e executado apesar da sua inocência. Agostinho defendeu a sua memória até a morte."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional do Esporte para o Desenvolvimento e a Paz",
+        "description": "Proclamado pela ONU em 2013 e celebrado cada 6 de abril — data da inauguração dos primeiros Jogos Olímpicos modernos em Atenas em 1896 —, este dia reconhece o poder do esporte para promover a paz, a tolerância e a compreensão entre culturas."
+      },
+      {
+        "name": "Dia do Estudante na Colômbia",
+        "description": "A Colômbia celebra o Dia do Estudante em memória do 6 de abril de 1867, quando foi criada a Universidade Nacional da Colômbia. É uma data de reconhecimento ao estudantado e ao seu papel na construção da sociedade."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nosso coração está inquieto até que repouse em Ti.",
+      "author": "Santo Agostinho de Hipona",
+      "context": "Primeira linha das 'Confissões' de Santo Agostinho, dedicadas ao seu amigo Marcelino. Agostinho de Hipona (nascido em 13 de novembro de 354) é um dos Padres da Igreja mais influentes do pensamento ocidental."
+    },
+    "motivationalQuote": {
+      "text": "O sucesso não é definitivo, o fracasso não é fatal: o que conta é a coragem de continuar.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Rafael (Raffaello Sanzio)",
+        "description": "Pintor e arquiteto do Alto Renascimento italiano, nascido em Urbino. Juntamente com Leonardo da Vinci e Miguel Ângelo forma a tríade dos mestres do Renascimento. As suas Madonnas e os afrescos das Estâncias do Vaticano — especialmente 'A Escola de Atenas' — são obras-primas da história da arte.",
+        "year": "1483"
+      },
+      {
+        "name": "James Watson",
+        "description": "Biólogo molecular americano que, juntamente com Francis Crick, descobriu a estrutura de dupla hélice do ADN em 1953. Prémio Nobel de Fisiologia ou Medicina em 1962, partilhado com Crick e Rosalind Franklin. O seu trabalho transformou a biologia moderna e abriu a era da genética molecular.",
+        "year": "1928"
+      },
+      {
+        "name": "Paul Rudd",
+        "description": "Ator e produtor americano, conhecido pelos seus papéis em comédias como 'Clueless' e 'I Love You, Man', bem como por interpretar Scott Lang / Ant-Man no Universo Cinematográfico da Marvel. Reconhecido pela sua aparência jovial, foi eleito 'Homem Mais Sexy Vivo' pela revista People em 2021.",
+        "year": "1969"
+      }
+    ],
+    "events": [
+      {
+        "title": "Inauguração dos primeiros Jogos Olímpicos modernos",
+        "description": "O rei Jorge I da Grécia inaugurou em Atenas os primeiros Jogos Olímpicos modernos, impulsionados por Pierre de Coubertin. Participaram 241 atletas de 14 nações. A Grécia ganhou o maior número de medalhas. Os Jogos foram recuperados do mundo antigo como símbolo de paz e competição desportiva.",
+        "year": "1896"
+      },
+      {
+        "title": "Estados Unidos declaram guerra à Alemanha na Primeira Guerra Mundial",
+        "description": "O Congresso dos Estados Unidos aprovou a declaração de guerra ao Império Alemão, com o presidente Woodrow Wilson argumentando que o mundo deveria ser 'seguro para a democracia'. A entrada dos EUA foi decisiva para o desfecho da guerra.",
+        "year": "1917"
+      },
+      {
+        "title": "Início do genocídio de Ruanda",
+        "description": "Após o abate do avião do presidente Habyarimana, começou o genocídio tutsi em Ruanda. Nos 100 dias seguintes foram assassinadas entre 500.000 e 800.000 pessoas, principalmente de etnia tutsi. A comunidade internacional foi amplamente criticada pela sua inação.",
+        "year": "1994"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Sixte I",
+        "type": "Papa i Màrtir",
+        "description": "Papa de l'Església al segle II, sisè successor de sant Pere segons la tradició. El seu pontificat va transcórrer durant el regnat de l'emperador Adrià. Va introduir importants normes litúrgiques, entre elles el cant del 'Sanctus' durant la missa. Va ser venerat com a màrtir, tot i que no existeixen proves històriques concloents del seu martiri."
+      },
+      {
+        "name": "Sant Celestí I",
+        "type": "Papa",
+        "description": "Papa romà del segle V que va convocar el Concili d'Efes (431), on Maria va ser proclamada Mare de Déu (Theotokos), davant l'heretgia nestoriana. Va enviar sant Pal·ladi com a primer bisbe d'Irlanda i va donar suport a la missió de sant Agustí d'Hipona contra el pelagianisme."
+      },
+      {
+        "name": "Sant Marcelí de Cartago",
+        "type": "Màrtir",
+        "description": "Tribú romà del segle V, amic personal de Sant Agustí d'Hipona, a qui aquest va dedicar la seva obra 'La Ciutat de Déu'. Va ser falsament acusat de participar en una revolta i executat malgrat la seva innocència. Agustí va defensar la seva memòria fins a la mort."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de l'Esport per al Desenvolupament i la Pau",
+        "description": "Proclamat per l'ONU el 2013 i celebrat cada 6 d'abril — data de la inauguració dels primers Jocs Olímpics moderns a Atenes el 1896 —, aquest dia reconeix el poder de l'esport per promoure la pau, la tolerància i la comprensió entre cultures."
+      },
+      {
+        "name": "Dia de l'Estudiant a Colòmbia",
+        "description": "Colòmbia celebra el Dia de l'Estudiant en memòria del 6 d'abril de 1867, quan es va crear la Universitat Nacional de Colòmbia. És una data de reconeixement a l'estudiantat i al seu paper en la construcció de la societat."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El nostre cor és inquiet fins que reposi en Tu.",
+      "author": "Sant Agustí d'Hipona",
+      "context": "Primera línia de les 'Confessions' de Sant Agustí, dedicades al seu amic Marcelí. Agustí d'Hipona (nascut el 13 de novembre de 354) és un dels Pares de l'Església més influents del pensament occidental."
+    },
+    "motivationalQuote": {
+      "text": "L'èxit no és definitiu, el fracàs no és fatal: el que compta és el coratge de continuar.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Rafael (Raffaello Sanzio)",
+        "description": "Pintor i arquitecte de l'Alt Renaixement italià, nascut a Urbino. Juntament amb Leonardo da Vinci i Miquel Àngel forma la tríada dels mestres del Renaixement. Les seves Madonnes i els frescos de les Estances del Vaticà — especialment 'L'escola d'Atenes' — són obres capdavanteres de la història de l'art.",
+        "year": "1483"
+      },
+      {
+        "name": "James Watson",
+        "description": "Biòleg molecular americà que, juntament amb Francis Crick, va descobrir l'estructura de doble hèlix de l'ADN el 1953. Premi Nobel de Fisiologia o Medicina el 1962, compartit amb Crick i Rosalind Franklin. El seu treball va transformar la biologia moderna i va obrir l'era de la genètica molecular.",
+        "year": "1928"
+      },
+      {
+        "name": "Paul Rudd",
+        "description": "Actor i productor nord-americà, conegut pels seus papers en comèdies com 'Clueless' i 'I Love You, Man', així com per interpretar Scott Lang / Ant-Man a l'Univers Cinematogràfic de Marvel. Reconegut per la seva aparença juvenil, va ser elegit 'Home Més Sexy Viu' per la revista People el 2021.",
+        "year": "1969"
+      }
+    ],
+    "events": [
+      {
+        "title": "Inauguració dels primers Jocs Olímpics moderns",
+        "description": "El rei Jordi I de Grècia va inaugurar a Atenes els primers Jocs Olímpics moderns, impulsats per Pierre de Coubertin. Hi van participar 241 atletes de 14 nacions. Grècia va guanyar el major nombre de medalles. Els Jocs van ser recuperats del món antic com a símbol de pau i competència esportiva.",
+        "year": "1896"
+      },
+      {
+        "title": "Els Estats Units declaren la guerra a Alemanya a la Primera Guerra Mundial",
+        "description": "El Congrés dels Estats Units va aprovar la declaració de guerra a l'Imperi Alemany, amb el president Woodrow Wilson argumentant que el món havia de ser «segur per a la democràcia». L'entrada dels EUA va ser decisiva per al desenllaç de la guerra.",
+        "year": "1917"
+      },
+      {
+        "title": "Inici del genocidi de Ruanda",
+        "description": "Després de l'abatiment de l'avió del president Habyarimana, va començar el genocidi tutsi a Ruanda. En els 100 dies següents van ser assassinades entre 500.000 i 800.000 persones, principalment de l'ètnia tutsi. La comunitat internacional va ser àmpliament criticada per la seva inacció.",
+        "year": "1994"
+      }
+    ]
+  }
+}

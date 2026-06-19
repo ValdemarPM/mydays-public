@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-14",
+  "es": {
+    "saints": [
+      { "name": "Santa Matilde de Ringelheim", "type": "Reina", "description": "Reina de Alemania del siglo X, esposa del rey Enrique I el Pajarero, conocida por su caridad extrema con los pobres y los prisioneros; abuela del Sacro Emperador Romano Otón I." },
+      { "name": "San Eutiquio de Constantinopla", "type": "Patriarca", "description": "Patriarca de Constantinopla en el siglo VI, que sufrió dos exilios por defender la doctrina ortodoxa frente a la controversia apactarista promovida por el Justiniano I." },
+      { "name": "San Pedro de Verona", "type": "Mártir", "description": "Dominico del siglo XIII asesinado cerca de Milán por herejes cátaros mientras ejercía como inquisidor; canonizado tan solo un año después de su muerte, en 1253." }
+    ],
+    "observances": [
+      { "name": "Día Internacional de las Matemáticas (Pi Day)", "description": "El 14 de marzo (3/14 en formato americano) se celebra el número π (3,14159...) en todo el mundo, con divulgación matemática, concursos de decimales y pastel de 'Pi'. También es el día de nacimiento de Albert Einstein." },
+      { "name": "Día de la Acción contra las Presas", "description": "Jornada internacional para reflexionar sobre el impacto social y ambiental de las grandes presas y apoyar a las comunidades desplazadas por estos proyectos de infraestructura." }
+    ],
+    "historicalQuote": {
+      "text": "La imaginación es más importante que el conocimiento.",
+      "author": "Albert Einstein",
+      "context": "Albert Einstein nació el 14 de marzo de 1879 en Ulm, Alemania. Esta cita, extraída de una entrevista de 1929, resume su enfoque creativo hacia la ciencia y sigue inspirando a generaciones de científicos y artistas."
+    },
+    "motivationalQuote": {
+      "text": "La vida es como montar en bicicleta. Para mantener el equilibrio, debes seguir moviéndote.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      { "name": "Albert Einstein", "description": "Físico teórico alemán-americano, autor de la teoría de la relatividad especial y general y de la ecuación E=mc², ganador del Premio Nobel de Física en 1921 y considerado el científico más influyente del siglo XX.", "year": 1879 },
+      { "name": "Karl Marx", "description": "Filósofo, economista e historiador alemán, coautor del 'Manifiesto Comunista' (1848) y autor de 'El Capital', obra fundacional del pensamiento socialista y comunista moderno.", "year": 1818 },
+      { "name": "Michael Caine", "description": "Actor británico ganador de dos Oscar ('Hannah y sus hermanas', 1987; 'Las normas de la casa de la sidra', 2000), una de las figuras más duraderas del cine inglés del siglo XX.", "year": 1933 }
+    ],
+    "events": [
+      { "title": "Muerte de Karl Marx", "description": "Karl Marx falleció en Londres a los 64 años, dejando tras de sí una obra intelectual que transformó la política, la economía y la historia del siglo XX.", "year": 1883 },
+      { "title": "Stephen Hawking fallece", "description": "El físico teórico Stephen Hawking murió en Cambridge, dejando un legado científico y divulgativo extraordinario sobre los agujeros negros, el origen del universo y la cosmología.", "year": 2018 },
+      { "title": "Se adopta el estándar de hora de verano en EE. UU.", "description": "El Congreso de Estados Unidos adoptó formalmente el horario de verano (daylight saving time) para ahorrar energía durante la Primera Guerra Mundial.", "year": 1918 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Matilda of Ringelheim", "type": "Queen", "description": "Tenth-century Queen of Germany, wife of King Henry I the Fowler, renowned for her extreme charity toward the poor and prisoners; grandmother of Holy Roman Emperor Otto I." },
+      { "name": "Saint Eutychius of Constantinople", "type": "Patriarch", "description": "Sixth-century Patriarch of Constantinople who endured two exiles for defending orthodox doctrine against the Apactarist controversy promoted by Justinian I." },
+      { "name": "Saint Peter of Verona", "type": "Martyr", "description": "Thirteenth-century Dominican killed near Milan by Cathar heretics while serving as an inquisitor; canonised just one year after his death, in 1253." }
+    ],
+    "observances": [
+      { "name": "International Day of Mathematics (Pi Day)", "description": "On 14 March (3/14 in US date format), the number π (3.14159...) is celebrated worldwide with maths outreach, decimal recitation contests and 'pi' pies. It is also Albert Einstein's birthday." },
+      { "name": "International Day of Action Against Dams", "description": "An international day to reflect on the social and environmental impact of large dams and support communities displaced by these infrastructure projects." }
+    ],
+    "historicalQuote": {
+      "text": "Imagination is more important than knowledge.",
+      "author": "Albert Einstein",
+      "context": "Albert Einstein was born on 14 March 1879 in Ulm, Germany. This quote, taken from a 1929 interview, encapsulates his creative approach to science and continues to inspire generations of scientists and artists."
+    },
+    "motivationalQuote": {
+      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      { "name": "Albert Einstein", "description": "German-American theoretical physicist, author of the special and general theories of relativity and the equation E=mc², winner of the Nobel Prize in Physics in 1921 and considered the most influential scientist of the twentieth century.", "year": 1879 },
+      { "name": "Karl Marx", "description": "German philosopher, economist and historian, co-author of 'The Communist Manifesto' (1848) and author of 'Das Kapital', the foundational work of modern socialist and communist thought.", "year": 1818 },
+      { "name": "Michael Caine", "description": "British actor and two-time Oscar winner ('Hannah and Her Sisters', 1987; 'The Cider House Rules', 2000), one of the most enduring figures in twentieth-century English cinema.", "year": 1933 }
+    ],
+    "events": [
+      { "title": "Death of Karl Marx", "description": "Karl Marx died in London at the age of 64, leaving behind an intellectual body of work that transformed the politics, economics and history of the twentieth century.", "year": 1883 },
+      { "title": "Stephen Hawking dies", "description": "Theoretical physicist Stephen Hawking died in Cambridge, leaving an extraordinary scientific and popular legacy on black holes, the origin of the universe and cosmology.", "year": 2018 },
+      { "title": "Daylight saving time adopted in the USA", "description": "The United States Congress formally adopted daylight saving time to conserve energy during World War I.", "year": 1918 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "Santa Matilde de Ringelheim", "type": "Rainha", "description": "Rainha da Alemanha do século X, esposa do rei Henrique I, o Caçador, conhecida pela sua extrema caridade com os pobres e prisioneiros; avó do Sacro Imperador Romano Otão I." },
+      { "name": "São Eutíquio de Constantinopla", "type": "Patriarca", "description": "Patriarca de Constantinopla no século VI, que sofreu dois exílios por defender a doutrina ortodoxa contra a controvérsia apactarista promovida por Justiniano I." },
+      { "name": "São Pedro de Verona", "type": "Mártir", "description": "Dominicano do século XIII assassinado perto de Milão por hereges cátaros enquanto atuava como inquisidor; canonizado apenas um ano após a sua morte, em 1253." }
+    ],
+    "observances": [
+      { "name": "Dia Internacional da Matemática (Dia do Pi)", "description": "Em 14 de março (3/14 no formato americano), o número π (3,14159...) é celebrado em todo o mundo, com divulgação matemática, concursos de decimais e torta de 'Pi'. É também o aniversário de Albert Einstein." },
+      { "name": "Dia Internacional de Ação Contra as Barragens", "description": "Jornada internacional para refletir sobre o impacto social e ambiental das grandes barragens e apoiar as comunidades deslocadas por esses projetos de infraestrutura." }
+    ],
+    "historicalQuote": {
+      "text": "A imaginação é mais importante do que o conhecimento.",
+      "author": "Albert Einstein",
+      "context": "Albert Einstein nasceu em 14 de março de 1879 em Ulm, Alemanha. Esta citação, extraída de uma entrevista de 1929, resume sua abordagem criativa à ciência e continua inspirando gerações de cientistas e artistas."
+    },
+    "motivationalQuote": {
+      "text": "A vida é como andar de bicicleta. Para manter o equilíbrio, você deve continuar se movendo.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      { "name": "Albert Einstein", "description": "Físico teórico alemão-americano, autor da teoria da relatividade especial e geral e da equação E=mc², ganhador do Prêmio Nobel de Física em 1921 e considerado o cientista mais influente do século XX.", "year": 1879 },
+      { "name": "Karl Marx", "description": "Filósofo, economista e historiador alemão, coautor do 'Manifesto Comunista' (1848) e autor de 'O Capital', obra fundacional do pensamento socialista e comunista moderno.", "year": 1818 },
+      { "name": "Michael Caine", "description": "Ator britânico vencedor de dois Oscar ('Hannah e Suas Irmãs', 1987; 'As Regras da Vida', 2000), uma das figuras mais duradouras do cinema inglês do século XX.", "year": 1933 }
+    ],
+    "events": [
+      { "title": "Morte de Karl Marx", "description": "Karl Marx faleceu em Londres aos 64 anos, deixando uma obra intelectual que transformou a política, a economia e a história do século XX.", "year": 1883 },
+      { "title": "Stephen Hawking falece", "description": "O físico teórico Stephen Hawking morreu em Cambridge, deixando um extraordinário legado científico e de divulgação sobre os buracos negros, a origem do universo e a cosmologia.", "year": 2018 },
+      { "title": "Horário de verão adotado nos EUA", "description": "O Congresso dos Estados Unidos adotou formalmente o horário de verão (daylight saving time) para economizar energia durante a Primeira Guerra Mundial.", "year": 1918 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Santa Matilde de Ringelheim", "type": "Reina", "description": "Reina d'Alemanya del segle X, esposa del rei Enric I el Caçador, coneguda per la seva caritat extrema amb els pobres i els presoners; àvia del Sacre Emperador Romà Otó I." },
+      { "name": "Sant Eutiqui de Constantinoble", "type": "Patriarca", "description": "Patriarca de Constantinoble al segle VI, que va patir dos exilis per defensar la doctrina ortodoxa davant la controvèrsia apactarista promoguda per Justinià I." },
+      { "name": "Sant Pere de Verona", "type": "Màrtir", "description": "Dominicà del segle XIII assassinat prop de Milà per heretges càtars mentre exercia com a inquisidor; canonitzat tan sols un any després de la seva mort, el 1253." }
+    ],
+    "observances": [
+      { "name": "Dia Internacional de les Matemàtiques (Dia del Pi)", "description": "El 14 de març (3/14 en format americà), el número π (3,14159...) es celebra arreu del món, amb divulgació matemàtica, concursos de decimals i pastissos de 'Pi'. És també l'aniversari d'Albert Einstein." },
+      { "name": "Dia Internacional d'Acció contra les Preses", "description": "Jornada internacional per reflexionar sobre l'impacte social i ambiental de les grans preses i donar suport a les comunitats desplaçades per aquests projectes d'infraestructura." }
+    ],
+    "historicalQuote": {
+      "text": "La imaginació és més important que el coneixement.",
+      "author": "Albert Einstein",
+      "context": "Albert Einstein va néixer el 14 de març de 1879 a Ulm, Alemanya. Aquesta cita, extreta d'una entrevista del 1929, resumeix el seu enfocament creatiu vers la ciència i continua inspirant generacions de científics i artistes."
+    },
+    "motivationalQuote": {
+      "text": "La vida és com anar en bicicleta. Per mantenir l'equilibri, has de continuar movent-te.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      { "name": "Albert Einstein", "description": "Físic teòric alemany-americà, autor de la teoria de la relativitat especial i general i de l'equació E=mc², guanyador del Premi Nobel de Física el 1921 i considerat el científic més influent del segle XX.", "year": 1879 },
+      { "name": "Karl Marx", "description": "Filòsof, economista i historiador alemany, coautor del 'Manifest Comunista' (1848) i autor de 'El Capital', obra fundacional del pensament socialista i comunista modern.", "year": 1818 },
+      { "name": "Michael Caine", "description": "Actor britànic guanyador de dos Oscar ('Hannah i les seves germanes', 1987; 'Les normes de la casa del sidre', 2000), una de les figures més duradores del cinema anglès del segle XX.", "year": 1933 }
+    ],
+    "events": [
+      { "title": "Mort de Karl Marx", "description": "Karl Marx va morir a Londres als 64 anys, deixant una obra intel·lectual que va transformar la política, l'economia i la història del segle XX.", "year": 1883 },
+      { "title": "Stephen Hawking mor", "description": "El físic teòric Stephen Hawking va morir a Cambridge, deixant un extraordinari llegat científic i de divulgació sobre els forats negres, l'origen de l'univers i la cosmologia.", "year": 2018 },
+      { "title": "L'horari d'estiu s'adopta als EUA", "description": "El Congrés dels Estats Units va adoptar formalment l'horari d'estiu (daylight saving time) per estalviar energia durant la Primera Guerra Mundial.", "year": 1918 }
+    ]
+  }
+}

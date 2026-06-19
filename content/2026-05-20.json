@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-20",
+  "es": {
+    "saints": [
+      {
+        "name": "San Bernardino de Siena",
+        "type": "Fraile Franciscano y Predicador",
+        "description": "Predicador franciscano italiano del siglo XV, considerado el mayor orador sagrado de su tiempo. Conocido por divulgar el símbolo del Santo Nombre de Jesús (IHS) y por su actividad misionera por toda Italia. Fue canonizado en 1450. Es patrono de los publicitarios, los tejedores y las personas con enfermedades respiratorias."
+      },
+      {
+        "name": "Santa Liduina de Schiedam",
+        "type": "Virgen",
+        "description": "Mística holandesa del siglo XV que a los 15 años sufrió una grave caída patinando sobre hielo y pasó el resto de su vida postrada, ofreciendo sus sufrimientos. Sus visiones místicas y sus sufrimientos físicos la convirtieron en patrona de los patinadores y de los enfermos."
+      },
+      {
+        "name": "San Baudelio de Nîmes",
+        "type": "Mártir",
+        "description": "Mártir hispano-romano del siglo III, cuya devoción es especialmente importante en España, donde la ermita de San Baudelio de Berlanga (Soria) conserva magníficas pinturas románicas. Fue decapitado durante las persecuciones romanas."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de las Abejas",
+        "description": "Proclamado por la ONU en 2017, este día celebra el papel vital de las abejas y otros polinizadores en el ecosistema global. Más del 75% de los cultivos mundiales depende de la polinización por insectos, principalmente por abejas."
+      },
+      {
+        "name": "Día de las Telecomunicaciones (complementario)",
+        "description": "Numerosas organizaciones continúan durante esta semana actividades relacionadas con el Día Mundial de las Telecomunicaciones (17 de mayo) para extender su impacto social y educativo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La abeja extrae su miel de las flores más amargas.",
+      "author": "Kahlil Gibran"
+    },
+    "motivationalQuote": {
+      "text": "El optimismo es la fe que conduce al logro.",
+      "author": "Helen Keller"
+    },
+    "births": [
+      {
+        "name": "Honoré de Balzac",
+        "description": "Novelista francés del siglo XIX, uno de los fundadores del realismo literario europeo. Su monumental obra La Comedia Humana reúne más de 90 novelas y cuentos que retratan la sociedad francesa de la Restauración y la Monarquía de Julio.",
+        "year": "1799"
+      },
+      {
+        "name": "Cher",
+        "description": "Cantante y actriz americana, conocida como la 'Diosa del Pop'. Con más de 100 millones de discos vendidos y un Óscar por Embrujada (1987), es uno de los íconos más longevos de la cultura pop del siglo XX y XXI.",
+        "year": "1946"
+      },
+      {
+        "name": "Busta Rhymes",
+        "description": "Rapero, compositor y productor americano, conocido por su flow rápido y sus letras enérgicas. Con más de 15 millones de discos vendidos, es uno de los raperos más reconocidos de la escena del hip-hop.",
+        "year": "1972"
+      }
+    ],
+    "events": [
+      {
+        "title": "Charles Lindbergh cruza el Atlántico en solitario",
+        "description": "Charles Lindbergh despegó del aeropuerto Roosevelt Field de Nueva York a bordo del Spirit of St. Louis, completando al día siguiente el primer vuelo transoceánico en solitario sin escalas entre Nueva York y París, en 33 horas y 30 minutos.",
+        "year": "1927"
+      },
+      {
+        "title": "Fundación de la Unión Europea Occidental",
+        "description": "Los tratados de Bruselas modificados fundaron la Unión Europea Occidental (UEO), organización de defensa colectiva de los países de Europa Occidental que funcionó hasta 2011, cuando fue absorbida por la UE.",
+        "year": "1955"
+      },
+      {
+        "title": "Tiananmen: inicio de las protestas",
+        "description": "Las protestas pro-democracia en la Plaza de Tiananmen de Pekín alcanzaron su punto álgido cuando más de un millón de personas se concentraron en la plaza. El gobierno chino declararía la ley marcial días después.",
+        "year": "1989"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Bernardine of Siena",
+        "type": "Franciscan Friar and Preacher",
+        "description": "15th-century Italian Franciscan preacher, considered the greatest sacred orator of his time. Known for popularising the symbol of the Holy Name of Jesus (IHS) and for his missionary activity across Italy. He was canonised in 1450. He is the patron saint of advertisers, weavers, and people with respiratory illnesses."
+      },
+      {
+        "name": "Saint Lydwine of Schiedam",
+        "type": "Virgin",
+        "description": "15th-century Dutch mystic who at 15 suffered a serious fall while ice-skating and spent the rest of her life bedridden, offering her sufferings. Her mystical visions and physical sufferings made her the patron saint of skaters and the sick."
+      },
+      {
+        "name": "Saint Baudelius of Nîmes",
+        "type": "Martyr",
+        "description": "3rd-century Hispano-Roman martyr, whose devotion is especially important in Spain, where the hermitage of San Baudelio de Berlanga (Soria) preserves magnificent Romanesque paintings. He was beheaded during the Roman persecutions."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Bee Day",
+        "description": "Proclaimed by the UN in 2017, this day celebrates the vital role of bees and other pollinators in the global ecosystem. More than 75% of the world's crops depend on pollination by insects, primarily bees."
+      },
+      {
+        "name": "Telecommunications Day (complementary)",
+        "description": "Many organisations continue activities related to World Telecommunications Day (May 17) during this week to extend its social and educational impact."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The bee extracts its honey from the most bitter flowers.",
+      "author": "Kahlil Gibran"
+    },
+    "motivationalQuote": {
+      "text": "Optimism is the faith that leads to achievement.",
+      "author": "Helen Keller"
+    },
+    "births": [
+      {
+        "name": "Honoré de Balzac",
+        "description": "19th-century French novelist, one of the founders of European literary realism. His monumental work The Human Comedy gathers more than 90 novels and stories that portray French society during the Restoration and the July Monarchy.",
+        "year": "1799"
+      },
+      {
+        "name": "Cher",
+        "description": "American singer and actress, known as the 'Goddess of Pop'. With more than 100 million records sold and an Oscar for Moonstruck (1987), she is one of the most enduring icons of 20th and 21st century pop culture.",
+        "year": "1946"
+      },
+      {
+        "name": "Busta Rhymes",
+        "description": "American rapper, songwriter, and producer, known for his rapid flow and energetic lyrics. With more than 15 million records sold, he is one of the most recognised rappers in the hip-hop scene.",
+        "year": "1972"
+      }
+    ],
+    "events": [
+      {
+        "title": "Charles Lindbergh Crosses the Atlantic Solo",
+        "description": "Charles Lindbergh took off from Roosevelt Field, New York, aboard the Spirit of St. Louis, completing the following day the first non-stop solo transatlantic flight between New York and Paris in 33 hours and 30 minutes.",
+        "year": "1927"
+      },
+      {
+        "title": "Founding of the Western European Union",
+        "description": "The modified Brussels Treaties founded the Western European Union (WEU), a collective defence organisation for Western European countries that operated until 2011, when it was absorbed by the EU.",
+        "year": "1955"
+      },
+      {
+        "title": "Tiananmen: Peak of the Protests",
+        "description": "Pro-democracy protests at Tiananmen Square in Beijing reached their peak when more than one million people gathered in the square. The Chinese government would declare martial law days later.",
+        "year": "1989"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Bernardino de Siena",
+        "type": "Frade Franciscano e Pregador",
+        "description": "Pregador franciscano italiano do século XV, considerado o maior orador sagrado de seu tempo. Conhecido por difundir o símbolo do Santo Nome de Jesus (IHS) e por sua atividade missionária por toda a Itália. Foi canonizado em 1450. É padroeiro dos publicitários, tecelões e pessoas com doenças respiratórias."
+      },
+      {
+        "name": "Santa Lidvina de Schiedam",
+        "type": "Virgem",
+        "description": "Mística holandesa do século XV que aos 15 anos sofreu uma grave queda patinando no gelo e passou o resto da vida acamada, oferecendo seus sofrimentos. Suas visões místicas e sofrimentos físicos fizeram dela padroeira dos patinadores e dos doentes."
+      },
+      {
+        "name": "São Baudélio de Nîmes",
+        "type": "Mártir",
+        "description": "Mártir hispano-romano do século III, cuja devoção é especialmente importante na Espanha, onde a ermida de San Baudelio de Berlanga (Sória) conserva magníficas pinturas românicas. Foi decapitado durante as perseguições romanas."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial das Abelhas",
+        "description": "Proclamado pela ONU em 2017, este dia celebra o papel vital das abelhas e outros polinizadores no ecossistema global. Mais de 75% das culturas do mundo dependem da polinização por insetos, principalmente pelas abelhas."
+      },
+      {
+        "name": "Dia das Telecomunicações (complementar)",
+        "description": "Muitas organizações continuam durante esta semana atividades relacionadas ao Dia Mundial das Telecomunicações (17 de maio) para ampliar seu impacto social e educativo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A abelha extrai seu mel das flores mais amargas.",
+      "author": "Kahlil Gibran"
+    },
+    "motivationalQuote": {
+      "text": "O otimismo é a fé que leva à conquista.",
+      "author": "Helen Keller"
+    },
+    "births": [
+      {
+        "name": "Honoré de Balzac",
+        "description": "Romancista francês do século XIX, um dos fundadores do realismo literário europeu. Sua monumental obra A Comédia Humana reúne mais de 90 romances e contos que retratam a sociedade francesa da Restauração e da Monarquia de Julho.",
+        "year": "1799"
+      },
+      {
+        "name": "Cher",
+        "description": "Cantora e atriz americana, conhecida como a 'Deusa do Pop'. Com mais de 100 milhões de discos vendidos e um Oscar por Feitiço da Lua (1987), é um dos ícones mais longevos da cultura pop dos séculos XX e XXI.",
+        "year": "1946"
+      },
+      {
+        "name": "Busta Rhymes",
+        "description": "Rapper, compositor e produtor americano, conhecido pelo seu flow rápido e letras enérgicas. Com mais de 15 milhões de discos vendidos, é um dos rappers mais reconhecidos do cenário do hip-hop.",
+        "year": "1972"
+      }
+    ],
+    "events": [
+      {
+        "title": "Charles Lindbergh cruza o Atlântico em solitário",
+        "description": "Charles Lindbergh decolou do aeroporto Roosevelt Field de Nova York a bordo do Spirit of St. Louis, completando no dia seguinte o primeiro voo transatlântico em solitário sem escalas entre Nova York e Paris, em 33 horas e 30 minutos.",
+        "year": "1927"
+      },
+      {
+        "title": "Fundação da União da Europa Ocidental",
+        "description": "Os Tratados de Bruxelas modificados fundaram a União da Europa Ocidental (UEO), organização de defesa coletiva dos países da Europa Ocidental que funcionou até 2011, quando foi absorvida pela UE.",
+        "year": "1955"
+      },
+      {
+        "title": "Tiananmen: auge dos protestos",
+        "description": "Os protestos pró-democracia na Praça Tiananmen de Pequim atingiram seu auge quando mais de um milhão de pessoas se concentraram na praça. O governo chinês declararia a lei marcial dias depois.",
+        "year": "1989"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Bernardí de Siena",
+        "type": "Frare Franciscà i Predicador",
+        "description": "Predicador franciscà italià del segle XV, considerat el major orador sagrat del seu temps. Conegut per difondre el símbol del Sant Nom de Jesús (IHS) i per la seva activitat missionera per tota Itàlia. Va ser canonitzat el 1450. És patró dels publicitaris, els teixidors i les persones amb malalties respiratòries."
+      },
+      {
+        "name": "Santa Lidvina de Schiedam",
+        "type": "Verge",
+        "description": "Mística neerlandesa del segle XV que als 15 anys va patir una greu caiguda patinant sobre gel i va passar la resta de la seva vida ajaguda, oferint els seus sofriments. Les seves visions místiques i sofriments físics la van convertir en patrona dels patinadors i dels malalts."
+      },
+      {
+        "name": "Sant Baudeli de Nimes",
+        "type": "Màrtir",
+        "description": "Màrtir hispà-romà del segle III, la devoció del qual és especialment important a Espanya, on l'ermita de San Baudelio de Berlanga (Sòria) conserva magnífiques pintures romàniques. Va ser decapitat durant les persecucions romanes."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de les Abelles",
+        "description": "Proclamat per l'ONU el 2017, aquest dia celebra el paper vital de les abelles i altres pol·linitzadors en l'ecosistema global. Més del 75% dels cultius mundials depèn de la pol·linització per insectes, principalment abelles."
+      },
+      {
+        "name": "Dia de les Telecomunicacions (complementari)",
+        "description": "Nombroses organitzacions continuen durant aquesta setmana activitats relacionades amb el Dia Mundial de les Telecomunicacions (17 de maig) per ampliar el seu impacte social i educatiu."
+      }
+    ],
+    "historicalQuote": {
+      "text": "L'abella extreu la seva mel de les flors més amargues.",
+      "author": "Kahlil Gibran"
+    },
+    "motivationalQuote": {
+      "text": "L'optimisme és la fe que porta a l'assoliment.",
+      "author": "Helen Keller"
+    },
+    "births": [
+      {
+        "name": "Honoré de Balzac",
+        "description": "Novel·lista francès del segle XIX, un dels fundadors del realisme literari europeu. La seva monumental obra La Comèdia Humana aplega més de 90 novel·les i contes que retraten la societat francesa de la Restauració i la Monarquia de Juliol.",
+        "year": "1799"
+      },
+      {
+        "name": "Cher",
+        "description": "Cantant i actriu americana, coneguda com la 'Deessa del Pop'. Amb més de 100 milions de discos venuts i un Oscar per Embolicada amb tu (1987), és una de les icones més longevas de la cultura pop dels segles XX i XXI.",
+        "year": "1946"
+      },
+      {
+        "name": "Busta Rhymes",
+        "description": "Raper, compositor i productor americà, conegut pel seu flow ràpid i les seves lletres enèrgiques. Amb més de 15 milions de discos venuts, és un dels rapers més reconeguts de l'escena del hip-hop.",
+        "year": "1972"
+      }
+    ],
+    "events": [
+      {
+        "title": "Charles Lindbergh creua l'Atlàntic en solitari",
+        "description": "Charles Lindbergh va enlairar-se de l'aeròdrom Roosevelt Field de Nova York a bord de l'Spirit of St. Louis, completant l'endemà el primer vol transatlàntic en solitari sense escales entre Nova York i París, en 33 hores i 30 minuts.",
+        "year": "1927"
+      },
+      {
+        "title": "Fundació de la Unió Europea Occidental",
+        "description": "Els tractats de Brussel·les modificats van fundar la Unió Europea Occidental (UEO), organització de defensa col·lectiva dels països d'Europa Occidental que va funcionar fins al 2011, quan va ser absorbida per la UE.",
+        "year": "1955"
+      },
+      {
+        "title": "Tiananmen: apogeu de les protestes",
+        "description": "Les protestes prodemocracia a la Plaça de Tiananmen de Pequín van arribar al seu punt àlgid quan més d'un milió de persones es van concentrar a la plaça. El govern xinès declararia la llei marcial dies després.",
+        "year": "1989"
+      }
+    ]
+  }
+}

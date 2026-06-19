@@ -1,0 +1,271 @@
+{
+  "date": "2025-07-14",
+  "es": {
+    "saints": [
+      {
+        "name": "San Camilo de Lelis",
+        "type": "Sacerdote y fundador",
+        "description": "Sacerdote italiano del siglo XVI fundador de los Camilos (Ministerio de los Enfermos). Antiguo soldado y jugador convertido en enfermero y sacerdote, creó el primer cuerpo de enfermería organizado de la historia. Patrono de los enfermos, hospitales y enfermeros."
+      },
+      {
+        "name": "San Focas de Ancira",
+        "type": "Mártir",
+        "description": "Mártir cristiano del siglo III ejecutado durante la persecución de Diocleciano en Ancira (actual Ankara, Turquía). Considerado patrono de los marineros en el Mediterráneo oriental."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Nacional de Francia (Bastilla)",
+        "description": "Francia celebra la toma de la prisión de la Bastilla el 14 de julio de 1789, símbolo del inicio de la Revolución Francesa. La fiesta incluye el desfile militar más grande de Europa en los Campos Elíseos."
+      },
+      {
+        "name": "Día de la Independencia de Iraq",
+        "description": "Iraq conmemora el 14 de julio de 1958, cuando el rey Faisal II fue derrocado por un golpe militar dirigido por el general Qasim, que instauró la República iraquí."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Liberté, Égalité, Fraternité.",
+      "author": "Lema de la Revolución Francesa",
+      "context": "El 14 de julio de 1789, el pueblo de París asaltó la Bastilla, símbolo del absolutismo real. Este lema, que surgió durante la Revolución Francesa, se convirtió en el motto de la República francesa y en uno de los ideales más influyentes de la historia política moderna."
+    },
+    "motivationalQuote": {
+      "text": "Donde hay voluntad, hay un camino.",
+      "author": "William Hazlitt"
+    },
+    "births": [
+      {
+        "name": "Ingmar Bergman",
+        "description": "Director de cine sueco considerado uno de los más grandes de la historia del cine. Obras como El séptimo sello, Fresas salvajes y Gritos y susurros exploran la fe, la muerte y la psicología humana con una profundidad sin igual.",
+        "year": 1918
+      },
+      {
+        "name": "Gerald Ford",
+        "description": "38.º presidente de Estados Unidos (1974–1977), el único en no haber sido elegido ni como vicepresidente ni como presidente. Sucedió a Nixon tras su dimisión por el caso Watergate y le concedió el indulto presidencial.",
+        "year": 1913
+      },
+      {
+        "name": "Emmeline Pankhurst",
+        "description": "Activista política británica fundadora del movimiento sufragista Women's Social and Political Union (1903). Lideró la lucha por el derecho al voto de las mujeres en el Reino Unido, conseguido parcialmente en 1918.",
+        "year": 1858
+      }
+    ],
+    "events": [
+      {
+        "title": "Toma de la Bastilla",
+        "description": "El 14 de julio de 1789, el pueblo de París asaltó la prisión de la Bastilla, liberó a sus escasos presos y se apoderó de las armas almacenadas. El evento marcó el inicio de la Revolución Francesa.",
+        "year": 1789
+      },
+      {
+        "title": "Primer Tour de Francia",
+        "description": "El 14 de julio de 1903, el Tour de Francia comenzó su primera edición, cubriendo 2.428 km en seis etapas. Maurice Garin fue el primer ganador. Hoy es la prueba ciclista más prestigiosa del mundo.",
+        "year": 1903
+      },
+      {
+        "title": "Asesinato del archiduque Francisco Fernando (aniversario de declaración de guerra)",
+        "description": "El 14 de julio de 1914, Austria-Hungría envió el ultimátum a Serbia que desencadenaría la Primera Guerra Mundial, un mes después del asesinato del archiduque Francisco Fernando en Sarajevo.",
+        "year": 1914
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Camillus de Lellis",
+        "type": "Priest and Founder",
+        "description": "A 16th-century Italian priest who founded the Camillians (Ministers of the Sick). A former soldier and gambler converted into a nurse and priest, he created the first organised nursing corps in history. Patron of the sick, hospitals, and nurses."
+      },
+      {
+        "name": "Saint Phocas of Ancyra",
+        "type": "Martyr",
+        "description": "A 3rd-century Christian martyr executed during the persecution of Diocletian in Ancyra (modern Ankara, Turkey). Considered patron of sailors in the eastern Mediterranean."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Bastille Day — French National Day",
+        "description": "France celebrates the storming of the Bastille prison on 14 July 1789, symbol of the start of the French Revolution. The holiday includes the largest military parade in Europe on the Champs-Élysées."
+      },
+      {
+        "name": "Republic Day of Iraq",
+        "description": "Iraq commemorates 14 July 1958, when King Faisal II was overthrown in a military coup led by General Qasim, who established the Iraqi Republic."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Liberté, Égalité, Fraternité.",
+      "author": "Motto of the French Revolution",
+      "context": "On 14 July 1789, the people of Paris stormed the Bastille, symbol of royal absolutism. This motto, which emerged during the French Revolution, became the motto of the French Republic and one of the most influential ideals in modern political history."
+    },
+    "motivationalQuote": {
+      "text": "Where there is a will, there is a way.",
+      "author": "William Hazlitt"
+    },
+    "births": [
+      {
+        "name": "Ingmar Bergman",
+        "description": "Swedish film director considered one of the greatest in cinema history. Works such as The Seventh Seal, Wild Strawberries, and Cries and Whispers explore faith, death, and human psychology with unparalleled depth.",
+        "year": 1918
+      },
+      {
+        "name": "Gerald Ford",
+        "description": "38th President of the United States (1974–1977), the only one never elected as either vice president or president. He succeeded Nixon after his resignation over Watergate and granted him a presidential pardon.",
+        "year": 1913
+      },
+      {
+        "name": "Emmeline Pankhurst",
+        "description": "British political activist who founded the suffragist Women's Social and Political Union (1903). She led the fight for women's right to vote in the United Kingdom, partly achieved in 1918.",
+        "year": 1858
+      }
+    ],
+    "events": [
+      {
+        "title": "Storming of the Bastille",
+        "description": "On 14 July 1789, the people of Paris stormed the Bastille prison, freed its few prisoners, and seized the stored weapons. The event marked the beginning of the French Revolution.",
+        "year": 1789
+      },
+      {
+        "title": "First Tour de France",
+        "description": "On 14 July 1903, the Tour de France began its inaugural edition, covering 2,428 km in six stages. Maurice Garin was the first winner. Today it is the world's most prestigious cycling race.",
+        "year": 1903
+      },
+      {
+        "title": "Austria-Hungary sends ultimatum to Serbia",
+        "description": "On 14 July 1914, Austria-Hungary sent the ultimatum to Serbia that would trigger World War I, one month after the assassination of Archduke Franz Ferdinand in Sarajevo.",
+        "year": 1914
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Camilo de Lélis",
+        "type": "Sacerdote e fundador",
+        "description": "Sacerdote italiano do século XVI fundador dos Camilos (Ministério dos Doentes). Antigo soldado e jogador convertido em enfermeiro e sacerdote, criou o primeiro corpo de enfermagem organizado da história. Padroeiro dos doentes, hospitais e enfermeiros."
+      },
+      {
+        "name": "São Focas de Ancira",
+        "type": "Mártir",
+        "description": "Mártir cristão do século III executado durante a perseguição de Diocleciano em Ancira (atual Ankara, Turquia). Considerado padroeiro dos marinheiros no Mediterrâneo oriental."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Bastilha — Dia Nacional da França",
+        "description": "A França celebra a tomada da prisão da Bastilha em 14 de julho de 1789, símbolo do início da Revolução Francesa. O feriado inclui o maior desfile militar da Europa nos Campos Elísios."
+      },
+      {
+        "name": "Dia da República do Iraque",
+        "description": "O Iraque comemora o 14 de julho de 1958, quando o rei Faisal II foi deposto por um golpe militar liderado pelo general Qasim, que instaurou a República iraquiana."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Liberté, Égalité, Fraternité.",
+      "author": "Lema da Revolução Francesa",
+      "context": "Em 14 de julho de 1789, o povo de Paris assaltou a Bastilha, símbolo do absolutismo real. Este lema, que surgiu durante a Revolução Francesa, tornou-se o motto da República francesa e um dos ideais mais influentes da história política moderna."
+    },
+    "motivationalQuote": {
+      "text": "Onde há vontade, há um caminho.",
+      "author": "William Hazlitt"
+    },
+    "births": [
+      {
+        "name": "Ingmar Bergman",
+        "description": "Diretor de cinema sueco considerado um dos maiores da história do cinema. Obras como O Sétimo Selo, Morangos Silvestres e Gritos e Sussurros exploram a fé, a morte e a psicologia humana com uma profundidade sem igual.",
+        "year": 1918
+      },
+      {
+        "name": "Gerald Ford",
+        "description": "38.º presidente dos Estados Unidos (1974–1977), o único que nunca foi eleito nem como vice-presidente nem como presidente. Sucedeu Nixon após a sua demissão pelo caso Watergate e concedeu-lhe o indulto presidencial.",
+        "year": 1913
+      },
+      {
+        "name": "Emmeline Pankhurst",
+        "description": "Ativista política britânica fundadora do movimento sufragista Women's Social and Political Union (1903). Liderou a luta pelo direito ao voto das mulheres no Reino Unido, conseguido parcialmente em 1918.",
+        "year": 1858
+      }
+    ],
+    "events": [
+      {
+        "title": "Tomada da Bastilha",
+        "description": "Em 14 de julho de 1789, o povo de Paris assaltou a prisão da Bastilha, libertou os seus escassos presos e apoderou-se das armas armazenadas. O evento marcou o início da Revolução Francesa.",
+        "year": 1789
+      },
+      {
+        "title": "Primeira Tour de France",
+        "description": "Em 14 de julho de 1903, a Tour de France iniciou a sua primeira edição, cobrindo 2.428 km em seis etapas. Maurice Garin foi o primeiro vencedor. Hoje é a prova ciclista mais prestigiosa do mundo.",
+        "year": 1903
+      },
+      {
+        "title": "Áustria-Hungria envia ultimato à Sérvia",
+        "description": "Em 14 de julho de 1914, a Áustria-Hungria enviou o ultimato à Sérvia que desencadearia a Primeira Guerra Mundial, um mês após o assassinato do arquiduque Francisco Fernando em Sarajevo.",
+        "year": 1914
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Camil de Lel·lis",
+        "type": "Sacerdot i fundador",
+        "description": "Sacerdot italià del segle XVI fundador dels Camils (Ministeri dels Malalts). Antic soldat i jugador convertit en infermer i sacerdot, va crear el primer cos d'infermeria organitzat de la història. Patró dels malalts, hospitals i infermers."
+      },
+      {
+        "name": "Sant Focas d'Àncira",
+        "type": "Màrtir",
+        "description": "Màrtir cristià del segle III executat durant la persecució de Dioclecià a Àncira (actual Ankara, Turquia). Considerat patró dels mariners al Mediterrani oriental."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Bastilla — Festa Nacional de França",
+        "description": "França celebra la presa de la presó de la Bastilla el 14 de juliol de 1789, símbol de l'inici de la Revolució Francesa. La festa inclou el desfilament militar més gran d'Europa als Camps Elisis."
+      },
+      {
+        "name": "Dia de la República de l'Iraq",
+        "description": "L'Iraq commemora el 14 de juliol de 1958, quan el rei Faisal II va ser enderrocat per un cop militar liderat pel general Qasim, que va instaurar la República iraquiana."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Liberté, Égalité, Fraternité.",
+      "author": "Lema de la Revolució Francesa",
+      "context": "El 14 de juliol de 1789, el poble de París va assaltar la Bastilla, símbol de l'absolutisme reial. Aquest lema, sorgit durant la Revolució Francesa, es va convertir en el motto de la República francesa i en un dels ideals més influents de la història política moderna."
+    },
+    "motivationalQuote": {
+      "text": "On hi ha voluntat, hi ha un camí.",
+      "author": "William Hazlitt"
+    },
+    "births": [
+      {
+        "name": "Ingmar Bergman",
+        "description": "Director de cinema suec considerat un dels més grans de la història del cinema. Obres com El setè segell, Maduixes salvatges i Crits i murmuris exploren la fe, la mort i la psicologia humana amb una profunditat sense igual.",
+        "year": 1918
+      },
+      {
+        "name": "Gerald Ford",
+        "description": "38è president dels Estats Units (1974–1977), l'únic que mai va ser elegit ni com a vicepresident ni com a president. Va succeir Nixon després de la seva dimissió pel cas Watergate i li va concedir l'indult presidencial.",
+        "year": 1913
+      },
+      {
+        "name": "Emmeline Pankhurst",
+        "description": "Activista política britànica fundadora del moviment sufragista Women's Social and Political Union (1903). Va liderar la lluita pel dret al vot de les dones al Regne Unit, aconseguit parcialment el 1918.",
+        "year": 1858
+      }
+    ],
+    "events": [
+      {
+        "title": "Presa de la Bastilla",
+        "description": "El 14 de juliol de 1789, el poble de París va assaltar la presó de la Bastilla, va alliberar els seus escassos presos i es va apoderar de les armes emmagatzemades. L'esdeveniment va marcar l'inici de la Revolució Francesa.",
+        "year": 1789
+      },
+      {
+        "title": "Primera Tour de France",
+        "description": "El 14 de juliol de 1903, la Tour de France va iniciar la seva primera edició, cobrint 2.428 km en sis etapes. Maurice Garin va ser el primer guanyador. Avui és la prova ciclista més prestigiosa del món.",
+        "year": 1903
+      },
+      {
+        "title": "Àustria-Hongria envia un ultimàtum a Sèrbia",
+        "description": "El 14 de juliol de 1914, Àustria-Hongria va enviar l'ultimàtum a Sèrbia que desencadenaria la Primera Guerra Mundial, un mes després de l'assassinat de l'arxiduc Francesc Ferran a Sarajevo.",
+        "year": 1914
+      }
+    ]
+  }
+}

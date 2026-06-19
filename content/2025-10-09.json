@@ -1,0 +1,267 @@
+{
+  "date": "2025-10-09",
+  "es": {
+    "saints": [
+      {
+        "name": "San Dionisio Areopagita",
+        "type": "Obispo y Mártir",
+        "description": "Primer obispo de Atenas (siglo I), convertido al cristianismo por el apóstol Pablo según los Hechos de los Apóstoles (17:34). Mártir en el siglo I. Históricamente se confundió con el escritor cristiano seudodionisio del siglo V. Es uno de los primeros evangelizadores de Grecia."
+      },
+      {
+        "name": "San Denis de París",
+        "type": "Obispo y Mártir",
+        "description": "Primer obispo de París (siglo III), mártir decapitado en la colina de Montmartre hacia el año 250. Según la leyenda, tomó su cabeza y caminó varios kilómetros hasta el lugar donde quería ser enterrado. Es el patrono de Francia y del reino de Francia. La Basílica de Saint-Denis, donde reposan los reyes de Francia, lleva su nombre."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día del Correo",
+        "description": "El Día Mundial del Correo se celebra el 9 de octubre en conmemoración del aniversario de la creación de la Unión Postal Universal (UPU) en Berna (Suiza) en 1874. Reconoce la contribución del servicio postal al desarrollo social y económico de los países."
+      },
+      {
+        "name": "Día de la Independencia de Uganda",
+        "description": "Uganda celebra su independencia del Reino Unido, proclamada el 9 de octubre de 1962 bajo el primer ministro Milton Obote. La festividad, conocida como Independence Day, se celebra con desfiles militares y actos culturales en todo el país."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La paz no se puede mantener por la fuerza; solo puede lograrse mediante la comprensión.",
+      "author": "Albert Einstein"
+    },
+    "motivationalQuote": {
+      "text": "El optimismo es la fe que conduce al logro. Nada puede hacerse sin esperanza y confianza.",
+      "author": "Helen Keller"
+    },
+    "births": [
+      {
+        "name": "John Lennon",
+        "description": "Músico, cantante y compositor inglés (1940–1980), cofundador y líder creativo de The Beatles, el grupo que transformó la música popular del siglo XX. En solitario, creó clásicos como Imagine (1971). Asesinado en Nueva York por Mark David Chapman el 8 de diciembre de 1980.",
+        "year": 1940
+      },
+      {
+        "name": "Camille Saint-Saëns",
+        "description": "Compositor, pianista y organista francés (1835–1921), uno de los más prolíficos y versátiles de la historia de la música clásica. Autor de El carnaval de los animales (1886), la ópera Sansón y Dalila (1877) y la Sinfonía n.º 3 'con órgano' (1886). Fue pionero del cine mudo al componer la primera banda sonora de película.",
+        "year": 1835
+      },
+      {
+        "name": "Sharon Osbourne",
+        "description": "Ejecutiva musical y presentadora de televisión britano-americana (n. 1952), esposa y mánager del músico Ozzy Osbourne. Fue jurado del programa The X Factor en el Reino Unido y presentadora de The Talk en Estados Unidos. Conocida por su carácter directo y por salvar la carrera de su marido en los años ochenta.",
+        "year": 1952
+      }
+    ],
+    "events": [
+      {
+        "title": "Muerte del Che Guevara",
+        "description": "El guerrillero argentino-cubano Ernesto 'Che' Guevara fue ejecutado en La Higuera (Bolivia) por fuerzas del ejército boliviano apoyadas por la CIA, un día después de ser capturado. Su imagen, tomada por Alberto Korda en 1960, se convirtió en el icono político más reproducido del siglo XX.",
+        "year": 1967
+      },
+      {
+        "title": "Primer premio Nobel de Literatura",
+        "description": "El poeta y dramaturgo francés Sully Prudhomme fue galardonado con el primer Premio Nobel de Literatura de la historia, concedido por la Academia Sueca. La elección fue polémica, pues muchos esperaban que el galardón fuera para León Tolstói.",
+        "year": 1901
+      },
+      {
+        "title": "La ONU aprueba la Convención sobre los Derechos del Niño",
+        "description": "La Asamblea General de las Naciones Unidas aprobó por unanimidad la Convención sobre los Derechos del Niño, el tratado internacional de derechos humanos más ratificado de la historia, con 196 Estados parte. Establece los derechos civiles, políticos, económicos, sociales y culturales de todos los niños.",
+        "year": 1989
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Dionysius the Areopagite",
+        "type": "Bishop and Martyr",
+        "description": "First Bishop of Athens (1st century), converted to Christianity by the Apostle Paul according to the Acts of the Apostles (17:34). Martyred in the 1st century. He was historically confused with the Christian writer Pseudo-Dionysius of the 5th century. He is one of the first evangelisers of Greece."
+      },
+      {
+        "name": "Saint Denis of Paris",
+        "type": "Bishop and Martyr",
+        "description": "First Bishop of Paris (3rd century), martyred by beheading on the hill of Montmartre around the year 250. According to legend, he picked up his head and walked several kilometres to the place where he wished to be buried. He is the patron of France and of the Kingdom of France. The Basilica of Saint-Denis, where the kings of France rest, bears his name."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Post Day",
+        "description": "World Post Day is celebrated on 9 October to commemorate the anniversary of the creation of the Universal Postal Union (UPU) in Bern, Switzerland, in 1874. It recognises the contribution of postal services to the social and economic development of countries."
+      },
+      {
+        "name": "Uganda Independence Day",
+        "description": "Uganda celebrates its independence from the United Kingdom, proclaimed on 9 October 1962 under Prime Minister Milton Obote. The holiday, known as Independence Day, is celebrated with military parades and cultural events throughout the country."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Peace cannot be kept by force; it can only be achieved by understanding.",
+      "author": "Albert Einstein"
+    },
+    "motivationalQuote": {
+      "text": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.",
+      "author": "Helen Keller"
+    },
+    "births": [
+      {
+        "name": "John Lennon",
+        "description": "English musician, singer and songwriter (1940–1980), co-founder and creative leader of The Beatles, the group that transformed popular music in the 20th century. As a solo artist, he created classics such as Imagine (1971). He was assassinated in New York by Mark David Chapman on 8 December 1980.",
+        "year": 1940
+      },
+      {
+        "name": "Camille Saint-Saëns",
+        "description": "French composer, pianist and organist (1835–1921), one of the most prolific and versatile in the history of classical music. Author of The Carnival of the Animals (1886), the opera Samson and Delilah (1877) and Symphony No. 3 'Organ' (1886). He was a pioneer of silent cinema by composing the first film soundtrack.",
+        "year": 1835
+      },
+      {
+        "name": "Sharon Osbourne",
+        "description": "British-American music executive and television presenter (b. 1952), wife and manager of musician Ozzy Osbourne. She was a judge on The X Factor in the UK and co-host of The Talk in the United States. Known for her directness and for saving her husband's career in the 1980s.",
+        "year": 1952
+      }
+    ],
+    "events": [
+      {
+        "title": "Death of Che Guevara",
+        "description": "Argentine-Cuban guerrilla fighter Ernesto 'Che' Guevara was executed in La Higuera, Bolivia, by Bolivian army forces supported by the CIA, one day after being captured. His image, taken by Alberto Korda in 1960, became the most reproduced political icon of the 20th century.",
+        "year": 1967
+      },
+      {
+        "title": "First Nobel Prize in Literature",
+        "description": "French poet and playwright Sully Prudhomme was awarded the first Nobel Prize in Literature in history, granted by the Swedish Academy. The choice was controversial, as many had expected the prize to go to Leo Tolstoy.",
+        "year": 1901
+      },
+      {
+        "title": "UN adopts the Convention on the Rights of the Child",
+        "description": "The United Nations General Assembly unanimously adopted the Convention on the Rights of the Child, the most widely ratified international human rights treaty in history, with 196 States parties. It establishes the civil, political, economic, social and cultural rights of all children.",
+        "year": 1989
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Dionísio Areopagita",
+        "type": "Bispo e Mártir",
+        "description": "Primeiro bispo de Atenas (século I), convertido ao cristianismo pelo apóstolo Paulo segundo os Atos dos Apóstolos (17:34). Mártir no século I. Historicamente foi confundido com o escritor cristão pseudo-Dionísio do século V. É um dos primeiros evangelizadores da Grécia."
+      },
+      {
+        "name": "São Dinis de Paris",
+        "type": "Bispo e Mártir",
+        "description": "Primeiro bispo de Paris (século III), mártir decapitado na colina de Montmartre por volta do ano 250. Segundo a lenda, pegou na sua cabeça e caminhou vários quilómetros até ao local onde queria ser enterrado. É o patrono da França e do reino de França. A Basílica de Saint-Denis, onde repousam os reis de França, tem o seu nome."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial dos Correios",
+        "description": "O Dia Mundial dos Correios é celebrado a 9 de outubro para comemorar o aniversário da criação da União Postal Universal (UPU) em Berna (Suíça) em 1874. Reconhece a contribuição dos serviços postais para o desenvolvimento social e económico dos países."
+      },
+      {
+        "name": "Dia da Independência do Uganda",
+        "description": "O Uganda celebra a sua independência do Reino Unido, proclamada a 9 de outubro de 1962 sob o primeiro-ministro Milton Obote. O feriado, conhecido como Independence Day, é celebrado com desfiles militares e eventos culturais em todo o país."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A paz não pode ser mantida pela força; só pode ser alcançada pela compreensão.",
+      "author": "Albert Einstein"
+    },
+    "motivationalQuote": {
+      "text": "O otimismo é a fé que conduz ao êxito. Nada pode ser feito sem esperança e confiança.",
+      "author": "Helen Keller"
+    },
+    "births": [
+      {
+        "name": "John Lennon",
+        "description": "Músico, cantor e compositor inglês (1940–1980), cofundador e líder criativo dos Beatles, o grupo que transformou a música popular do século XX. A solo, criou clássicos como Imagine (1971). Foi assassinado em Nova Iorque por Mark David Chapman a 8 de dezembro de 1980.",
+        "year": 1940
+      },
+      {
+        "name": "Camille Saint-Saëns",
+        "description": "Compositor, pianista e organista francês (1835–1921), um dos mais prolíficos e versáteis da história da música clássica. Autor de O Carnaval dos Animais (1886), a ópera Sansão e Dalila (1877) e a Sinfonia n.º 3 'com órgão' (1886). Foi pioneiro do cinema mudo ao compor a primeira banda sonora de um filme.",
+        "year": 1835
+      },
+      {
+        "name": "Sharon Osbourne",
+        "description": "Executiva musical e apresentadora de televisão britânico-americana (n. 1952), esposa e mánager do músico Ozzy Osbourne. Foi jurada do programa The X Factor no Reino Unido e apresentadora de The Talk nos Estados Unidos. Conhecida pela sua frontalidade e por salvar a carreira do marido nos anos oitenta.",
+        "year": 1952
+      }
+    ],
+    "events": [
+      {
+        "title": "Morte do Che Guevara",
+        "description": "O guerrilheiro argentino-cubano Ernesto 'Che' Guevara foi executado em La Higuera (Bolívia) por forças do exército boliviano apoiadas pela CIA, um dia após ter sido capturado. A sua imagem, tirada por Alberto Korda em 1960, tornou-se no ícone político mais reproduzido do século XX.",
+        "year": 1967
+      },
+      {
+        "title": "Primeiro Prémio Nobel de Literatura",
+        "description": "O poeta e dramaturgo francês Sully Prudhomme foi galardoado com o primeiro Prémio Nobel de Literatura da história, concedido pela Academia Sueca. A escolha foi polémica, pois muitos esperavam que o galardão fosse para Leão Tolstói.",
+        "year": 1901
+      },
+      {
+        "title": "A ONU aprova a Convenção sobre os Direitos da Criança",
+        "description": "A Assembleia Geral das Nações Unidas aprovou por unanimidade a Convenção sobre os Direitos da Criança, o tratado internacional de direitos humanos mais ratificado da história, com 196 Estados parte. Estabelece os direitos civis, políticos, económicos, sociais e culturais de todas as crianças.",
+        "year": 1989
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Dionís Areopagita",
+        "type": "Bisbe i Màrtir",
+        "description": "Primer bisbe d'Atenes (segle I), convertit al cristianisme per l'apòstol Pau segons els Fets dels Apòstols (17:34). Màrtir al segle I. Històricament va ser confós amb l'escriptor cristià pseudo-Dionís del segle V. És un dels primers evangelitzadors de Grècia."
+      },
+      {
+        "name": "Sant Dionís de París",
+        "type": "Bisbe i Màrtir",
+        "description": "Primer bisbe de París (segle III), màrtir decapitat al turó de Montmartre cap a l'any 250. Segons la llegenda, va agafar el seu cap i va caminar diversos quilòmetres fins al lloc on volia ser enterrat. És el patró de França i del regne de França. La Basílica de Saint-Denis, on reposen els reis de França, porta el seu nom."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial dels Correus",
+        "description": "El Dia Mundial dels Correus se celebra el 9 d'octubre per commemorar l'aniversari de la creació de la Unió Postal Universal (UPU) a Berna (Suïssa) el 1874. Reconeix la contribució del servei postal al desenvolupament social i econòmic dels països."
+      },
+      {
+        "name": "Dia de la Independència d'Uganda",
+        "description": "Uganda celebra la seva independència del Regne Unit, proclamada el 9 d'octubre de 1962 sota el primer ministre Milton Obote. El festiu, conegut com a Independence Day, se celebra amb desfilades militars i actes culturals a tot el país."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La pau no es pot mantenir per la força; només es pot aconseguir mitjançant la comprensió.",
+      "author": "Albert Einstein"
+    },
+    "motivationalQuote": {
+      "text": "L'optimisme és la fe que condueix a l'assoliment. Res no es pot fer sense esperança i confiança.",
+      "author": "Helen Keller"
+    },
+    "births": [
+      {
+        "name": "John Lennon",
+        "description": "Músic, cantant i compositor anglès (1940–1980), cofundador i líder creatiu dels Beatles, el grup que va transformar la música popular del segle XX. En solitari, va crear clàssics com Imagine (1971). Va ser assassinat a Nova York per Mark David Chapman el 8 de desembre de 1980.",
+        "year": 1940
+      },
+      {
+        "name": "Camille Saint-Saëns",
+        "description": "Compositor, pianista i organista francès (1835–1921), un dels més prolífics i versàtils de la història de la música clàssica. Autor del Carnaval dels animals (1886), l'òpera Samsó i Dalila (1877) i la Simfonia núm. 3 'amb orgue' (1886). Va ser pioner del cinema mut en compondre la primera banda sonora de pel·lícula.",
+        "year": 1835
+      },
+      {
+        "name": "Sharon Osbourne",
+        "description": "Executiva musical i presentadora de televisió britanoamericana (n. 1952), esposa i mànager del músic Ozzy Osbourne. Va ser jurada del programa The X Factor al Regne Unit i presentadora de The Talk als Estats Units. Coneguda per la seva franquesa i per salvar la carrera del seu marit als anys vuitanta.",
+        "year": 1952
+      }
+    ],
+    "events": [
+      {
+        "title": "Mort del Che Guevara",
+        "description": "El guerriller argentí-cubà Ernesto 'Che' Guevara va ser executat a La Higuera (Bolívia) per forces de l'exèrcit bolivià recolzades per la CIA, un dia després de ser capturat. La seva imatge, presa per Alberto Korda el 1960, es va convertir en l'icona política més reproduïda del segle XX.",
+        "year": 1967
+      },
+      {
+        "title": "Primer Premi Nobel de Literatura",
+        "description": "El poeta i dramaturg francès Sully Prudhomme va ser guardonat amb el primer Premi Nobel de Literatura de la història, concedit per l'Acadèmia Sueca. L'elecció va ser polèmica, ja que molts esperaven que el premi anés a Lleó Tolstoi.",
+        "year": 1901
+      },
+      {
+        "title": "L'ONU aprova la Convenció sobre els Drets de l'Infant",
+        "description": "L'Assemblea General de les Nacions Unides va aprovar per unanimitat la Convenció sobre els Drets de l'Infant, el tractat internacional de drets humans més ratificat de la història, amb 196 estats part. Estableix els drets civils, polítics, econòmics, socials i culturals de tots els infants.",
+        "year": 1989
+      }
+    ]
+  }
+}

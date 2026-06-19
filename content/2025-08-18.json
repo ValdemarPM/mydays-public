@@ -1,0 +1,291 @@
+{
+  "date": "2025-08-18",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Elena de Roma",
+        "type": "Emperatriz",
+        "description": "Madre del emperador Constantino I (c. 248–330). Según la tradición, realizó una peregrinación a Tierra Santa donde encontró la Vera Cruz de Jesús. Impulsó la construcción de la iglesia del Santo Sepulcro en Jerusalén. Patrona de los arqueólogos."
+      },
+      {
+        "name": "Beato Ezequiel Moreno Díaz",
+        "type": "Obispo",
+        "description": "Obispo español agustino recoleto (1848–1906), misionero en Colombia y obispo de Pasto. Conocido por su labor pastoral y su lucha contra el liberalismo anticlerical colombiano de su época. Beatificado por Juan Pablo II en 1992."
+      },
+      {
+        "name": "San Fermín de Amiens",
+        "type": "Obispo y Mártir",
+        "description": "Según la tradición, primer obispo de Amiens (Francia) en el siglo III o IV, martirizado por su fe. Es el patrono de Navarra y de las fiestas de San Fermín en Pamplona, aunque su fiesta litúrgica es el 7 de julio."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Fotografía",
+        "description": "Celebrado el 19 de agosto para conmemorar el anuncio oficial del daguerreotipo en 1839. Las comunidades fotográficas del mundo organizan exposiciones y eventos el día 18 o el 19."
+      },
+      {
+        "name": "Día de la Independencia de Birmania / Myanmar",
+        "description": "Algunos calendarios conmemoran hoy eventos relacionados con los pasos hacia la independencia de Birmania, que se proclamó el 4 de enero de 1948."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El poder no corrompe al hombre. Los necios que pueden querer poder sí lo hacen.",
+      "author": "John Steinbeck",
+      "context": "El novelista americano nacido el 27 de febrero de 1902, ganador del Nobel de Literatura en 1962 y autor de Las uvas de la ira, reflexionó con frecuencia sobre la naturaleza del poder y la corrupción en la sociedad americana."
+    },
+    "motivationalQuote": {
+      "text": "Si puedes soñarlo, puedes lograrlo.",
+      "author": "Walt Disney"
+    },
+    "births": [
+      {
+        "name": "Virginia Dare",
+        "description": "Primera persona de origen europeo nacida en el suelo americano (1587), en la colonia de Roanoke (Carolina del Norte). El destino de la colonia —conocida como 'la colonia perdida'— sigue siendo uno de los grandes misterios de la historia americana.",
+        "year": 1587
+      },
+      {
+        "name": "Meriwether Lewis",
+        "description": "Explorador americano (1774–1809), caudillo junto a William Clark de la expedición Lewis y Clark (1804–1806), la primera exploración terrestre del oeste de los Estados Unidos hasta el océano Pacífico.",
+        "year": 1774
+      },
+      {
+        "name": "Roberto Clemente",
+        "description": "Beisbolista puertorriqueño (1934–1972), uno de los mejores jugadores de la historia de las Grandes Ligas. Murió en un accidente de avión mientras llevaba ayuda humanitaria a Nicaragua tras el terremoto de Managua.",
+        "year": 1934
+      }
+    ],
+    "events": [
+      {
+        "title": "Batalla de Fleurus — victoria francesa sobre los aliados",
+        "description": "El 26 de junio de 1794, Francia venció en Fleurus (Bélgica), pero el 18 de agosto de 1796 Napoleón logró su primera gran victoria italiana en la batalla de Castiglione, consolidando el control francés del norte de Italia.",
+        "year": 1796
+      },
+      {
+        "title": "Sufragio femenino en EE. UU. — Enmienda XIX ratificada",
+        "description": "El 18 de agosto de 1920 Tennessee ratificó la Decimonovena Enmienda a la Constitución de los Estados Unidos, que garantizaba el derecho al voto de las mujeres, completando la ratificación necesaria para su promulgación.",
+        "year": 1920
+      },
+      {
+        "title": "Se funda el Partido Nacional Socialista Obrero Alemán (NSDAP)",
+        "description": "El 24 de febrero de 1920 se fundó el NSDAP, pero el 18 de agosto de 1934, Adolf Hitler concentró todos los poderes del Estado alemán al asumir también el cargo de jefe del Estado tras la muerte de Hindenburg.",
+        "year": 1934
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Helena of Rome",
+        "type": "Empress",
+        "description": "Mother of Emperor Constantine I (c. 248–330). According to tradition, she undertook a pilgrimage to the Holy Land where she found the True Cross of Jesus. She promoted the construction of the Church of the Holy Sepulchre in Jerusalem. Patron of archaeologists."
+      },
+      {
+        "name": "Blessed Ezekiel Moreno Díaz",
+        "type": "Bishop",
+        "description": "Spanish Augustinian Recollect bishop (1848–1906), missionary in Colombia and Bishop of Pasto. Known for his pastoral work and his opposition to anticlerical liberalism in Colombia. Beatified by John Paul II in 1992."
+      },
+      {
+        "name": "Saint Firmin of Amiens",
+        "type": "Bishop and Martyr",
+        "description": "According to tradition, the first bishop of Amiens (France) in the 3rd or 4th century, martyred for his faith. He is the patron of Navarre and of the San Fermín festival in Pamplona, though his liturgical feast is 7 July."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Photography Day",
+        "description": "Celebrated on 19 August to commemorate the official announcement of the daguerreotype in 1839. Photography communities around the world organise exhibitions and events on the 18th or 19th."
+      },
+      {
+        "name": "Independence events in Burma / Myanmar",
+        "description": "Some calendars note today events related to the steps toward Burmese independence, which was officially proclaimed on 4 January 1948."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Power does not corrupt men; fools, however, if they get into a position of power, corrupt power.",
+      "author": "George Bernard Shaw",
+      "context": "The Irish playwright and Nobel Prize laureate in Literature, born on 26 July 1856, frequently wrote about the corrupting influence of social structures and power on individuals — a theme central to his plays Major Barbara and Heartbreak House."
+    },
+    "motivationalQuote": {
+      "text": "If you can dream it, you can do it.",
+      "author": "Walt Disney"
+    },
+    "births": [
+      {
+        "name": "Virginia Dare",
+        "description": "The first person of European descent born on American soil (1587), in the Roanoke Colony in present-day North Carolina. The fate of the colony — known as the 'Lost Colony' — remains one of the great mysteries of American history.",
+        "year": 1587
+      },
+      {
+        "name": "Meriwether Lewis",
+        "description": "American explorer (1774–1809), co-leader with William Clark of the Lewis and Clark Expedition (1804–1806), the first overland exploration of the western United States to the Pacific Ocean.",
+        "year": 1774
+      },
+      {
+        "name": "Roberto Clemente",
+        "description": "Puerto Rican baseball player (1934–1972), one of the greatest players in Major League history. He died in a plane crash while delivering humanitarian aid to Nicaragua after the Managua earthquake.",
+        "year": 1934
+      }
+    ],
+    "events": [
+      {
+        "title": "Women's suffrage in the US — 19th Amendment ratified",
+        "description": "On 18 August 1920, Tennessee ratified the Nineteenth Amendment to the United States Constitution, which guaranteed women's right to vote, completing the ratifications needed for it to take effect.",
+        "year": 1920
+      },
+      {
+        "title": "Hitler merges offices of President and Chancellor",
+        "description": "On 18 August 1934, Adolf Hitler consolidated all powers of the German state by also assuming the office of Head of State following the death of President Hindenburg, making himself absolute ruler of Germany.",
+        "year": 1934
+      },
+      {
+        "title": "Genghis Khan dies",
+        "description": "On 18 August 1227 (traditional date), Genghis Khan, founder of the Mongol Empire — the largest contiguous land empire in history — died, leaving an empire that stretched from the Pacific to the Caspian Sea.",
+        "year": 1227
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Helena de Roma",
+        "type": "Imperatriz",
+        "description": "Mãe do imperador Constantino I (c. 248–330). Segundo a tradição, realizou uma peregrinação à Terra Santa onde encontrou a Vera Cruz de Jesus. Promoveu a construção da Igreja do Santo Sepulcro em Jerusalém. Padroeira dos arqueólogos."
+      },
+      {
+        "name": "Beato Ezequiel Moreno Díaz",
+        "type": "Bispo",
+        "description": "Bispo espanhol agostinho recoleto (1848–1906), missionário na Colômbia e bispo de Pasto. Conhecido pela sua obra pastoral e pela sua luta contra o liberalismo anticlerical colombiano da sua época. Beatificado por João Paulo II em 1992."
+      },
+      {
+        "name": "São Firmino de Amiens",
+        "type": "Bispo e Mártir",
+        "description": "Segundo a tradição, o primeiro bispo de Amiens (França) no século III ou IV, martirizado pela sua fé. É o padroeiro da Navarra e das festas de San Fermín em Pamplona, embora a sua festa litúrgica seja a 7 de julho."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Fotografia",
+        "description": "Celebrado em 19 de agosto para comemorar o anúncio oficial do daguerreótipo em 1839. As comunidades fotográficas de todo o mundo organizam exposições e eventos no dia 18 ou 19."
+      },
+      {
+        "name": "Eventos de independência na Birmânia / Myanmar",
+        "description": "Alguns calendários assinalam hoje eventos relacionados com os passos em direção à independência birmanesa, que foi oficialmente proclamada em 4 de janeiro de 1948."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O poder não corrompe os homens; os tolos, no entanto, se chegarem ao poder, corrompem o poder.",
+      "author": "George Bernard Shaw",
+      "context": "O dramaturgo irlandês e Nobel de Literatura, nascido em 26 de julho de 1856, escreveu frequentemente sobre a influência corruptora das estruturas sociais e do poder nos indivíduos — tema central em peças como Major Barbara e Heartbreak House."
+    },
+    "motivationalQuote": {
+      "text": "Se você pode sonhar, pode realizá-lo.",
+      "author": "Walt Disney"
+    },
+    "births": [
+      {
+        "name": "Virginia Dare",
+        "description": "A primeira pessoa de ascendência europeia nascida em solo americano (1587), na Colônia de Roanoke, na atual Carolina do Norte. O destino da colônia — conhecida como a 'Colônia Perdida' — continua sendo um dos grandes mistérios da história americana.",
+        "year": 1587
+      },
+      {
+        "name": "Meriwether Lewis",
+        "description": "Explorador americano (1774–1809), colíder juntamente com William Clark da Expedição Lewis e Clark (1804–1806), a primeira exploração terrestre do oeste dos Estados Unidos até ao oceano Pacífico.",
+        "year": 1774
+      },
+      {
+        "name": "Roberto Clemente",
+        "description": "Jogador de beisebol porto-riquenho (1934–1972), um dos maiores jogadores da história das Grandes Ligas. Morreu num acidente de avião enquanto levava ajuda humanitária à Nicarágua após o terremoto de Manágua.",
+        "year": 1934
+      }
+    ],
+    "events": [
+      {
+        "title": "Sufrágio feminino nos EUA — 19.ª Emenda ratificada",
+        "description": "Em 18 de agosto de 1920, o Tennessee ratificou a Décima Nona Emenda à Constituição dos Estados Unidos, que garantia o direito de voto às mulheres, completando as ratificações necessárias para a sua promulgação.",
+        "year": 1920
+      },
+      {
+        "title": "Hitler une os cargos de presidente e chanceler",
+        "description": "Em 18 de agosto de 1934, Adolf Hitler concentrou todos os poderes do Estado alemão ao assumir também o cargo de chefe de Estado após a morte do presidente Hindenburg, tornando-se governante absoluto da Alemanha.",
+        "year": 1934
+      },
+      {
+        "title": "Morte de Gengis Khan",
+        "description": "Em 18 de agosto de 1227 (data tradicional), Gengis Khan, fundador do Império Mongol — o maior império terrestre contíguo da história — morreu, deixando um império que se estendia do Pacífico ao Mar Cáspio.",
+        "year": 1227
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Helena de Roma",
+        "type": "Emperadriu",
+        "description": "Mare de l'emperador Constantí I (c. 248–330). Segons la tradició, va realitzar una peregrinació a Terra Santa on va trobar la Vera Creu de Jesús. Va impulsar la construcció de l'Església del Sant Sepulcre a Jerusalem. Patrona dels arqueòlegs."
+      },
+      {
+        "name": "Beat Ezequiel Moreno Díaz",
+        "type": "Bisbe",
+        "description": "Bisbe espanyol agustí recollet (1848–1906), missioner a Colòmbia i bisbe de Pasto. Conegut per la seva obra pastoral i la seva lluita contra el liberalisme anticlerical colombià de la seva època. Beatificat per Joan Pau II el 1992."
+      },
+      {
+        "name": "Sant Fermí d'Amiens",
+        "type": "Bisbe i Màrtir",
+        "description": "Segons la tradició, el primer bisbe d'Amiens (França) al segle III o IV, martiritzat per la seva fe. És el patró de Navarra i de les festes de San Fermín a Pamplona, tot i que la seva festa litúrgica és el 7 de juliol."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Fotografia",
+        "description": "Celebrat el 19 d'agost per commemorar l'anunci oficial del daguerreotip el 1839. Les comunitats fotogràfiques de tot el món organitzen exposicions i esdeveniments el dia 18 o el 19."
+      },
+      {
+        "name": "Esdeveniments d'independència a Birmània / Myanmar",
+        "description": "Alguns calendaris assenyalen avui esdeveniments relacionats amb els passos cap a la independència birmana, que va ser proclamada oficialment el 4 de gener de 1948."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El poder no corromp els homes; els necis, en canvi, si arriben al poder, corrompen el poder.",
+      "author": "George Bernard Shaw",
+      "context": "El dramaturg irlandès i Nobel de Literatura, nascut el 26 de juliol de 1856, va escriure amb freqüència sobre la influència corruptora de les estructures socials i el poder sobre els individus — tema central a peces com Major Barbara i Heartbreak House."
+    },
+    "motivationalQuote": {
+      "text": "Si ho pots somiar, ho pots aconseguir.",
+      "author": "Walt Disney"
+    },
+    "births": [
+      {
+        "name": "Virginia Dare",
+        "description": "La primera persona d'ascendència europea nascuda en sòl americà (1587), a la colònia de Roanoke, a la Carolina del Nord actual. El destí de la colònia — coneguda com la 'colònia perduda' — continua sent un dels grans misteris de la història americana.",
+        "year": 1587
+      },
+      {
+        "name": "Meriwether Lewis",
+        "description": "Explorador americà (1774–1809), coliderat juntament amb William Clark de l'expedició Lewis i Clark (1804–1806), la primera exploració terrestre de l'oest dels Estats Units fins a l'oceà Pacífic.",
+        "year": 1774
+      },
+      {
+        "name": "Roberto Clemente",
+        "description": "Jugador de beisbol portoriqueny (1934–1972), un dels millors jugadors de la història de les Grans Lligues. Va morir en un accident d'avió mentre duia ajut humanitari a Nicaragua després del terratrèmol de Managua.",
+        "year": 1934
+      }
+    ],
+    "events": [
+      {
+        "title": "Sufragi femení als EUA — 19a Esmena ratificada",
+        "description": "El 18 d'agost de 1920, Tennessee va ratificar la Dinovena Esmena a la Constitució dels Estats Units, que garantia el dret de vot de les dones, completant les ratificacions necessàries per a la seva promulgació.",
+        "year": 1920
+      },
+      {
+        "title": "Hitler unifica els càrrecs de president i canceller",
+        "description": "El 18 d'agost de 1934, Adolf Hitler va concentrar tots els poders de l'Estat alemany en assumir també el càrrec de cap de l'Estat després de la mort del president Hindenburg, convertint-se en governant absolut d'Alemanya.",
+        "year": 1934
+      },
+      {
+        "title": "Mort de Gengis Khan",
+        "description": "El 18 d'agost de 1227 (data tradicional), Gengis Khan, fundador de l'Imperi Mongol — el major imperi terrestre contigu de la història — va morir, deixant un imperi que s'estenia del Pacífic al mar Caspi.",
+        "year": 1227
+      }
+    ]
+  }
+}

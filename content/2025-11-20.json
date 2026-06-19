@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-20",
+  "es": {
+    "saints": [
+      {
+        "name": "San Edmundo Rey de Inglaterra",
+        "type": "Rey y Mártir",
+        "description": "Rey de Anglia Oriental del siglo IX, capturado por los vikingos daneses en el año 869 y asesinado al negarse a renunciar a su fe cristiana. Fue canonizado y se convirtió en patrón de Inglaterra antes de ser sustituido por San Jorge."
+      },
+      {
+        "name": "San Félix de Valois",
+        "type": "Presbítero",
+        "description": "Cofundador de la Orden Trinitaria junto a San Juan de Mata a finales del siglo XII, dedicada a la redención de los cautivos cristianos en tierras sarracenas."
+      },
+      {
+        "name": "Santa Inés de Asís",
+        "type": "Virgen",
+        "description": "Hermana menor de Santa Clara de Asís, que la siguió en su vocación franciscana a los 15 años. Fundó y dirigió monasterios de clarisas en Florencia y Monticelli."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Universal del Niño",
+        "description": "Proclamado por la ONU en 1954 y elegido el 20 de noviembre para conmemorar la adopción de la Declaración de los Derechos del Niño (1959) y la Convención sobre los Derechos del Niño (1989)."
+      },
+      {
+        "name": "Día de la Industrialización de África",
+        "description": "Proclamado por la ONU en 1989 para destacar la importancia del desarrollo industrial del continente africano y sus desafíos económicos y sociales."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La infancia tiene sus propias formas de ver, pensar y sentir; y nada hay más insensato que pretender substituirlas por las nuestras.",
+      "author": "Jean-Jacques Rousseau",
+      "context": "El filósofo ginebrino, precursor de la pedagogía moderna con su obra Emilio o De la educación, defendió el respeto por la naturaleza propia del niño frente a las imposiciones adultas."
+    },
+    "motivationalQuote": {
+      "text": "Los niños son el mensaje viviente que enviamos a un tiempo que no veremos.",
+      "author": "Neil Postman"
+    },
+    "births": [
+      {
+        "name": "Selma Lagerlöf",
+        "description": "Escritora sueca, primera mujer en ganar el Premio Nobel de Literatura (1909), autora de El maravilloso viaje de Nils Holgersson y la saga de Gösta Berlings.",
+        "year": 1858
+      },
+      {
+        "name": "Robert F. Kennedy",
+        "description": "Político y senador estadounidense, hermano del presidente John F. Kennedy y fiscal general de EE.UU., asesinado en 1968 durante su candidatura presidencial.",
+        "year": 1925
+      },
+      {
+        "name": "Joe Biden",
+        "description": "Cuadragésimo sexto presidente de los Estados Unidos (2021–2025), anteriormente senador por Delaware durante 36 años y vicepresidente con Barack Obama.",
+        "year": 1942
+      }
+    ],
+    "events": [
+      {
+        "title": "Adopción de la Convención sobre los Derechos del Niño",
+        "description": "La Asamblea General de la ONU aprobó por unanimidad la Convención sobre los Derechos del Niño, el tratado de derechos humanos más ratificado de la historia.",
+        "year": 1989
+      },
+      {
+        "title": "Inicio del Proceso de Núremberg",
+        "description": "Comenzaron los Juicios de Núremberg, el primer tribunal internacional de la historia, que juzgó a 24 líderes nazis por crímenes de guerra y crímenes contra la humanidad.",
+        "year": 1945
+      },
+      {
+        "title": "Muere Francisco Franco",
+        "description": "El general Francisco Franco, dictador de España desde el final de la Guerra Civil en 1939, murió en Madrid a los 82 años tras una larga enfermedad, iniciándose la Transición a la democracia.",
+        "year": 1975
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Edmund, King of England",
+        "type": "King and Martyr",
+        "description": "9th-century King of East Anglia, captured by Danish Vikings in 869 and killed for refusing to renounce his Christian faith. Canonised, he became patron of England before being replaced by Saint George."
+      },
+      {
+        "name": "Saint Felix of Valois",
+        "type": "Presbyter",
+        "description": "Co-founder of the Trinitarian Order with Saint John of Matha in the late 12th century, dedicated to ransoming Christian captives from Saracen lands."
+      },
+      {
+        "name": "Saint Agnes of Assisi",
+        "type": "Virgin",
+        "description": "Younger sister of Saint Clare of Assisi, who followed her in her Franciscan vocation at the age of 15. She founded and led Poor Clare monasteries in Florence and Monticelli."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Universal Children's Day",
+        "description": "Proclaimed by the UN in 1954 and set on 20 November to commemorate the adoption of the Declaration of the Rights of the Child (1959) and the Convention on the Rights of the Child (1989)."
+      },
+      {
+        "name": "Africa Industrialisation Day",
+        "description": "Proclaimed by the UN in 1989 to highlight the importance of industrial development across the African continent and its economic and social challenges."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Childhood has its own ways of seeing, thinking, and feeling; nothing is more foolish than trying to substitute our own for them.",
+      "author": "Jean-Jacques Rousseau",
+      "context": "The Genevan philosopher, a forerunner of modern pedagogy through his work Émile, or On Education, advocated respecting the child's own nature rather than imposing adult ways."
+    },
+    "motivationalQuote": {
+      "text": "Children are the living messages we send to a time we will not see.",
+      "author": "Neil Postman"
+    },
+    "births": [
+      {
+        "name": "Selma Lagerlöf",
+        "description": "Swedish author and the first woman to win the Nobel Prize in Literature (1909), author of The Wonderful Adventures of Nils and the Gösta Berlings saga.",
+        "year": 1858
+      },
+      {
+        "name": "Robert F. Kennedy",
+        "description": "American politician and senator, brother of President John F. Kennedy and US Attorney General, assassinated in 1968 during his presidential campaign.",
+        "year": 1925
+      },
+      {
+        "name": "Joe Biden",
+        "description": "46th President of the United States (2021–2025), previously a senator for Delaware for 36 years and Vice President under Barack Obama.",
+        "year": 1942
+      }
+    ],
+    "events": [
+      {
+        "title": "Adoption of the Convention on the Rights of the Child",
+        "description": "The UN General Assembly unanimously adopted the Convention on the Rights of the Child, the most widely ratified human rights treaty in history.",
+        "year": 1989
+      },
+      {
+        "title": "Opening of the Nuremberg Trials",
+        "description": "The Nuremberg Trials began — the first international tribunal in history — trying 24 Nazi leaders for war crimes and crimes against humanity.",
+        "year": 1945
+      },
+      {
+        "title": "Death of Francisco Franco",
+        "description": "General Francisco Franco, Spain's dictator since the end of the Civil War in 1939, died in Madrid at the age of 82 after a long illness, marking the start of the Transition to democracy.",
+        "year": 1975
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Edmundo, Rei de Inglaterra",
+        "type": "Rei e Mártir",
+        "description": "Rei da Ânglia Oriental do século IX, capturado pelos vikings dinamarqueses em 869 e morto por se recusar a renunciar à sua fé cristã. Canonizado, tornou-se padroeiro de Inglaterra antes de ser substituído por São Jorge."
+      },
+      {
+        "name": "São Félix de Valois",
+        "type": "Presbítero",
+        "description": "Cofundador da Ordem Trinitária com São João de Mata no final do século XII, dedicada ao resgate de cativos cristãos nas terras sarracenas."
+      },
+      {
+        "name": "Santa Inês de Assis",
+        "type": "Virgem",
+        "description": "Irmã mais nova de Santa Clara de Assis, que a seguiu na sua vocação franciscana aos 15 anos. Fundou e dirigiu mosteiros de clarissas em Florença e Monticelli."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Universal da Criança",
+        "description": "Proclamado pela ONU em 1954 e fixado a 20 de novembro para commemorar a adoção da Declaração dos Direitos da Criança (1959) e a Convenção sobre os Direitos da Criança (1989)."
+      },
+      {
+        "name": "Dia da Industrialização de África",
+        "description": "Proclamado pela ONU em 1989 para destacar a importância do desenvolvimento industrial no continente africano e os seus desafios económicos e sociais."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A infância tem as suas próprias formas de ver, pensar e sentir; e nada é mais insensato do que tentar substituí-las pelas nossas.",
+      "author": "Jean-Jacques Rousseau",
+      "context": "O filósofo genebrino, precursor da pedagogia moderna com a sua obra Emílio ou Da Educação, defendeu o respeito pela natureza própria da criança em detrimento das imposições dos adultos."
+    },
+    "motivationalQuote": {
+      "text": "As crianças são as mensagens vivas que enviamos a um tempo que não veremos.",
+      "author": "Neil Postman"
+    },
+    "births": [
+      {
+        "name": "Selma Lagerlöf",
+        "description": "Escritora sueca, a primeira mulher a ganhar o Prêmio Nobel de Literatura (1909), autora de A Maravilhosa Viagem de Nils Holgersson e a saga de Gösta Berlings.",
+        "year": 1858
+      },
+      {
+        "name": "Robert F. Kennedy",
+        "description": "Político e senador americano, irmão do presidente John F. Kennedy e procurador-geral dos EUA, assassinado em 1968 durante a sua candidatura presidencial.",
+        "year": 1925
+      },
+      {
+        "name": "Joe Biden",
+        "description": "46.º presidente dos Estados Unidos (2021–2025), anteriormente senador pelo Delaware durante 36 anos e vice-presidente com Barack Obama.",
+        "year": 1942
+      }
+    ],
+    "events": [
+      {
+        "title": "Adoção da Convenção sobre os Direitos da Criança",
+        "description": "A Assembleia Geral da ONU aprovou por unanimidade a Convenção sobre os Direitos da Criança, o tratado de direitos humanos mais ratificado da história.",
+        "year": 1989
+      },
+      {
+        "title": "Início dos Julgamentos de Nuremberg",
+        "description": "Começaram os Julgamentos de Nuremberg — o primeiro tribunal internacional da história — julgando 24 líderes nazis por crimes de guerra e crimes contra a humanidade.",
+        "year": 1945
+      },
+      {
+        "title": "Morte de Francisco Franco",
+        "description": "O general Francisco Franco, ditador de Espanha desde o fim da Guerra Civil em 1939, morreu em Madrid aos 82 anos após uma longa doença, marcando o início da Transição para a democracia.",
+        "year": 1975
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Edmond, Rei d'Anglaterra",
+        "type": "Rei i Màrtir",
+        "description": "Rei d'Ànglia Oriental del segle IX, capturat pels víkings danesos el 869 i assassinat per negar-se a renunciar a la seva fe cristiana. Canonitzat, va ser patró d'Anglaterra abans de ser substituït per Sant Jordi."
+      },
+      {
+        "name": "Sant Fèlix de Valois",
+        "type": "Prevere",
+        "description": "Cofundador de l'Orde Trinitari amb Sant Joan de Mata a finals del segle XII, dedicada al rescat de captius cristians a les terres sarraïnes."
+      },
+      {
+        "name": "Santa Inès d'Assís",
+        "type": "Verge",
+        "description": "Germana menor de Santa Clara d'Assís, que la va seguir en la seva vocació franciscana als 15 anys. Va fundar i dirigir monestirs de clarisses a Florència i Monticelli."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Universal dels Infants",
+        "description": "Proclamat per l'ONU el 1954 i fixat el 20 de novembre per commemorar l'adopció de la Declaració dels Drets del Nen (1959) i la Convenció sobre els Drets del Nen (1989)."
+      },
+      {
+        "name": "Dia de la Industrialització d'Àfrica",
+        "description": "Proclamat per l'ONU el 1989 per destacar la importància del desenvolupament industrial al continent africà i els seus reptes econòmics i socials."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La infància té les seves pròpies formes de veure, pensar i sentir; i res no és més insensato que pretendre substituir-les per les nostres.",
+      "author": "Jean-Jacques Rousseau",
+      "context": "El filòsof ginebrí, precursor de la pedagogia moderna amb la seva obra Emili o De l'educació, va defensar el respecte per la naturalesa pròpia del nen enfront de les imposicions dels adults."
+    },
+    "motivationalQuote": {
+      "text": "Els nens són els missatges vius que enviem a un temps que no veurem.",
+      "author": "Neil Postman"
+    },
+    "births": [
+      {
+        "name": "Selma Lagerlöf",
+        "description": "Escriptora sueca, la primera dona a guanyar el Premi Nobel de Literatura (1909), autora del Meravellós viatge de Nils Holgersson i la saga de Gösta Berlings.",
+        "year": 1858
+      },
+      {
+        "name": "Robert F. Kennedy",
+        "description": "Polític i senador americà, germà del president John F. Kennedy i fiscal general dels EUA, assassinat el 1968 durant la seva candidatura presidencial.",
+        "year": 1925
+      },
+      {
+        "name": "Joe Biden",
+        "description": "46è president dels Estats Units (2021–2025), anteriorment senador per Delaware durant 36 anys i vicepresident amb Barack Obama.",
+        "year": 1942
+      }
+    ],
+    "events": [
+      {
+        "title": "Adopció de la Convenció sobre els Drets del Nen",
+        "description": "L'Assemblea General de l'ONU va aprovar per unanimitat la Convenció sobre els Drets del Nen, el tractat de drets humans més ratificat de la història.",
+        "year": 1989
+      },
+      {
+        "title": "Inici dels Judicis de Nuremberg",
+        "description": "Van comenzar els Judicis de Nuremberg — el primer tribunal internacional de la història — jutjant 24 líders nazis per crims de guerra i crims contra la humanitat.",
+        "year": 1945
+      },
+      {
+        "title": "Mort de Francisco Franco",
+        "description": "El general Francisco Franco, dictador d'Espanya des del final de la Guerra Civil el 1939, va morir a Madrid als 82 anys després d'una llarga malaltia, iniciant la Transició a la democràcia.",
+        "year": 1975
+      }
+    ]
+  }
+}

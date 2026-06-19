@@ -1,0 +1,267 @@
+{
+  "date": "2025-10-31",
+  "es": {
+    "saints": [
+      {
+        "name": "San Wolfgango de Ratisbona",
+        "type": "Obispo",
+        "description": "Obispo de Ratisbona (Regensburg, Alemania) desde el 972 hasta su muerte en el 994. Reformó el monacato benedictino en Bavaria y fundó la diócesis de Praga, contribuyendo decisivamente a la evangelización de Bohemia. Fue maestro del futuro emperador Enrique II. Su tumba en San Emmeran de Ratisbona es lugar de peregrinación hasta hoy."
+      },
+      {
+        "name": "Beato Tomás de Costello",
+        "type": "Presbítero",
+        "description": "Sacerdote dominico irlandés del siglo XV, venerado en Connacht (Irlanda occidental). Figura de la piedad popular irlandesa, asociado a la defensa de los pobres y los marginados durante los años convulsos de la Irlanda medieval tardía."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Víspera de Todos los Santos (Halloween)",
+        "description": "El 31 de octubre es la víspera de Todos los Santos, conocida popularmente como Halloween en el mundo anglosajón. Sus orígenes se remontan a la festividad celta de Samhain, que marcaba el fin del verano y el inicio del año oscuro, cuando se creía que el velo entre el mundo de los vivos y de los muertos se adelgazaba. El comercio global ha convertido Halloween en la segunda festividad más lucrativa del año tras la Navidad."
+      },
+      {
+        "name": "Día de la Reforma Protestante",
+        "description": "El 31 de octubre de 1517, Martín Lutero clavó sus 95 Tesis en la puerta de la iglesia del Castillo de Wittenberg, protestando contra las indulgencias y los abusos de la Iglesia católica. Este acto se considera el inicio de la Reforma Protestante, uno de los hechos que más ha marcado la historia de Occidente. Los países protestantes lo celebran como Día de la Reforma."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Aquí estoy; no puedo hacer otra cosa. Que Dios me ayude.",
+      "author": "Martín Lutero (Dieta de Worms, 1521)"
+    },
+    "motivationalQuote": {
+      "text": "El valor no es la ausencia del miedo, sino el juicio de que algo más es más importante que el miedo.",
+      "author": "Ambrose Redmoon"
+    },
+    "births": [
+      {
+        "name": "Jan Vermeer",
+        "description": "Pintor holandés del Barroco (1632–1675), uno de los maestros de la pintura de género del Siglo de Oro holandés. Sus obras, como La joven de la perla (c. 1665), La lechera (c. 1658) y Vista de Delf (c. 1661), destacan por su uso extraordinario de la luz y su intimismo cotidiano. Muy poco conocido en vida, hoy es uno de los pintores más admirados del mundo.",
+        "year": 1632
+      },
+      {
+        "name": "John Keats",
+        "description": "Poeta romántico inglés (1795–1821), una de las más brillantes figuras del Romanticismo británico. Sus grandes Odas —A un ruiseñor, A una urna griega, Al otoño— son cimas de la lírica en inglés. Murió de tuberculosis a los 25 años sin haber visto publicado su obra completa. Hoy es considerado uno de los mayores poetas en lengua inglesa.",
+        "year": 1795
+      },
+      {
+        "name": "Vanilla Ice",
+        "description": "Rapero y empresario americano (n. 1967), nombre artístico de Robert Van Winkle. Su tema Ice Ice Baby (1990) fue el primer single de rap en encabezar las listas de éxito pop en los Estados Unidos. Aunque su carrera musical fue breve, es un icono de la cultura popular de los años 90.",
+        "year": 1967
+      }
+    ],
+    "events": [
+      {
+        "title": "Clavo de las 95 Tesis de Lutero",
+        "description": "Martín Lutero, fraile agustino y teólogo de la Universidad de Wittenberg, publicó sus 95 Tesis cuestionando las indulgencias papales. Aunque la historia del clavo en la puerta es posiblemente legendaria, las Tesis se difundieron por toda Europa gracias a la imprenta, desencadenando la Reforma Protestante y fracturando la unidad religiosa de Occidente.",
+        "year": 1517
+      },
+      {
+        "title": "Fin de la Operación Overlord (Normanía)",
+        "description": "El crucero de batalla alemán Scharnhorst fue hundido en la batalla del Cabo Norte por la Royal Navy británica, el 26 de diciembre de 1943. Nota: El 31 de octubre de 1941 tuvo lugar el torpedeamiento y hundimiento del destructor USS Reuben James, el primer buque de guerra americano hundido en la Segunda Guerra Mundial, antes de la entrada oficial de EE.UU. en el conflicto.",
+        "year": 1941
+      },
+      {
+        "title": "Inauguración del Monumento del Monte Rushmore",
+        "description": "El escultor Gutzon Borglum terminó su trabajo en el Monte Rushmore (Dakota del Sur, EE.UU.), donde durante 14 años (1927–1941) talló en granito los rostros de 18 metros de los presidentes Washington, Jefferson, Roosevelt y Lincoln. La obra, símbolo del sueño americano, nunca fue completada en su proyecto original y Borglum murió ese mismo año.",
+        "year": 1941
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Wolfgang of Regensburg",
+        "type": "Bishop",
+        "description": "Bishop of Regensburg (Germany) from 972 until his death in 994. He reformed Benedictine monasticism in Bavaria and founded the Diocese of Prague, contributing decisively to the evangelisation of Bohemia. He was the teacher of the future Emperor Henry II. His tomb in Saint Emmeram's in Regensburg remains a place of pilgrimage to this day."
+      },
+      {
+        "name": "Blessed Thomas of Costello",
+        "type": "Priest",
+        "description": "Irish Dominican priest of the 15th century, venerated in Connacht (western Ireland). A figure of Irish popular piety, associated with the defence of the poor and marginalised during the turbulent years of late medieval Ireland."
+      }
+    ],
+    "observances": [
+      {
+        "name": "All Hallows' Eve (Halloween)",
+        "description": "31 October is All Hallows' Eve, popularly known as Halloween in the English-speaking world. Its origins trace back to the Celtic festival of Samhain, which marked the end of summer and the beginning of the dark year, when the veil between the world of the living and the dead was believed to thin. Global commerce has made Halloween the second most lucrative holiday of the year after Christmas."
+      },
+      {
+        "name": "Reformation Day",
+        "description": "On 31 October 1517, Martin Luther nailed his 95 Theses to the door of the Castle Church in Wittenberg, protesting against indulgences and abuses of the Catholic Church. This act is considered the beginning of the Protestant Reformation, one of the most consequential events in Western history. Protestant countries celebrate it as Reformation Day."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Here I stand; I can do no other. God help me.",
+      "author": "Martin Luther (Diet of Worms, 1521)"
+    },
+    "motivationalQuote": {
+      "text": "Courage is not the absence of fear, but the judgment that something else is more important than fear.",
+      "author": "Ambrose Redmoon"
+    },
+    "births": [
+      {
+        "name": "Johannes Vermeer",
+        "description": "Dutch Baroque painter (1632–1675), one of the masters of genre painting in the Dutch Golden Age. His works, such as Girl with a Pearl Earring (c. 1665), The Milkmaid (c. 1658) and View of Delft (c. 1661), are renowned for their extraordinary use of light and everyday intimacy. Little known in his lifetime, he is today one of the world's most admired painters.",
+        "year": 1632
+      },
+      {
+        "name": "John Keats",
+        "description": "English Romantic poet (1795–1821), one of the most brilliant figures of British Romanticism. His great Odes — To a Nightingale, On a Grecian Urn, To Autumn — are pinnacles of lyric poetry in English. He died of tuberculosis at 25 without seeing his complete work published. He is now considered one of the greatest poets in the English language.",
+        "year": 1795
+      },
+      {
+        "name": "Vanilla Ice",
+        "description": "American rapper and entrepreneur (b. 1967), stage name of Robert Van Winkle. His track Ice Ice Baby (1990) was the first rap single to top the pop charts in the United States. Although his music career was brief, he is an icon of 1990s popular culture.",
+        "year": 1967
+      }
+    ],
+    "events": [
+      {
+        "title": "Luther's 95 Theses",
+        "description": "Martin Luther, an Augustinian friar and theologian at the University of Wittenberg, published his 95 Theses questioning papal indulgences. Although the story of the nail on the church door is possibly legendary, the Theses spread across Europe thanks to the printing press, triggering the Protestant Reformation and fracturing the religious unity of the West.",
+        "year": 1517
+      },
+      {
+        "title": "USS Reuben James sunk",
+        "description": "The US Navy destroyer USS Reuben James was torpedoed and sunk by a German U-boat in the North Atlantic, becoming the first American warship sunk in the Second World War, before the United States officially entered the conflict following the Pearl Harbor attack.",
+        "year": 1941
+      },
+      {
+        "title": "Mount Rushmore completed",
+        "description": "Sculptor Gutzon Borglum finished his work on Mount Rushmore (South Dakota, USA), where over 14 years (1927–1941) he carved the 18-metre granite faces of Presidents Washington, Jefferson, Roosevelt and Lincoln. The work, a symbol of the American dream, was never completed to its original design and Borglum died that same year.",
+        "year": 1941
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Wolfgango de Regensburg",
+        "type": "Bispo",
+        "description": "Bispo de Regensburg (Alemanha) desde 972 até à sua morte em 994. Reformou o monacato beneditino na Baviera e fundou a diocese de Praga, contribuindo decisivamente para a evangelização da Boémia. Foi mestre do futuro imperador Henrique II. O seu túmulo em São Emmerano de Regensburg é local de peregrinação até hoje."
+      },
+      {
+        "name": "Beato Tomás de Costello",
+        "type": "Presbítero",
+        "description": "Sacerdote dominicano irlandês do século XV, venerado em Connacht (Irlanda ocidental). Figura da piedade popular irlandesa, associado à defesa dos pobres e marginalizados durante os anos conturbados da Irlanda medieval tardia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Véspera de Todos os Santos (Halloween)",
+        "description": "O 31 de outubro é a véspera de Todos os Santos, conhecida popularmente como Halloween no mundo anglossaxónico. As suas origens remontam à festividade celta de Samhain, que marcava o fim do verão e o início do ano escuro, quando se acreditava que o véu entre o mundo dos vivos e dos mortos se adelgaçava. O comércio global transformou o Halloween na segunda festividade mais lucrativa do ano a seguir ao Natal."
+      },
+      {
+        "name": "Dia da Reforma Protestante",
+        "description": "A 31 de outubro de 1517, Martinho Lutero cravou as suas 95 Teses na porta da Igreja do Castelo de Wittenberg, protestando contra as indulgências e os abusos da Igreja católica. Este ato é considerado o início da Reforma Protestante, um dos acontecimentos que mais marcou a história do Ocidente. Os países protestantes celebram-no como Dia da Reforma."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Aqui estou; não posso fazer de outra forma. Que Deus me ajude.",
+      "author": "Martinho Lutero (Dieta de Worms, 1521)"
+    },
+    "motivationalQuote": {
+      "text": "A coragem não é a ausência do medo, mas o julgamento de que algo mais é mais importante do que o medo.",
+      "author": "Ambrose Redmoon"
+    },
+    "births": [
+      {
+        "name": "Johannes Vermeer",
+        "description": "Pintor holandês do Barroco (1632–1675), um dos mestres da pintura de género do Século de Ouro holandês. As suas obras, como A Rapariga com o Brinco de Pérola (c. 1665), A Leiteira (c. 1658) e Vista de Delft (c. 1661), destacam-se pelo uso extraordinário da luz e pelo intimismo quotidiano. Pouco conhecido em vida, hoje é um dos pintores mais admirados do mundo.",
+        "year": 1632
+      },
+      {
+        "name": "John Keats",
+        "description": "Poeta romântico inglês (1795–1821), uma das figuras mais brilhantes do Romantismo britânico. As suas grandes Odes — A um Rouxinol, Sobre uma Urna Grega, Ao Outono — são cumes da lírica em inglês. Morreu de tuberculose aos 25 anos sem ter visto publicada a sua obra completa. É hoje considerado um dos maiores poetas em língua inglesa.",
+        "year": 1795
+      },
+      {
+        "name": "Vanilla Ice",
+        "description": "Rapper e empresário americano (n. 1967), nome artístico de Robert Van Winkle. A sua música Ice Ice Baby (1990) foi o primeiro single de rap a encabeçar as tabelas musicais pop nos Estados Unidos. Embora a sua carreira musical tenha sido breve, é um ícone da cultura popular dos anos 90.",
+        "year": 1967
+      }
+    ],
+    "events": [
+      {
+        "title": "As 95 Teses de Lutero",
+        "description": "Martinho Lutero, frade agostinho e teólogo da Universidade de Wittenberg, publicou as suas 95 Teses questionando as indulgências papais. Embora a história do prego na porta da igreja seja possivelmente lendária, as Teses difundiram-se por toda a Europa graças à imprensa, desencadeando a Reforma Protestante e fraturando a unidade religiosa do Ocidente.",
+        "year": 1517
+      },
+      {
+        "title": "Afundamento do USS Reuben James",
+        "description": "O destruidor da Marinha americana USS Reuben James foi torpedoado e afundado por um submarino alemão no Atlântico Norte, tornando-se o primeiro navio de guerra americano afundado na Segunda Guerra Mundial, antes da entrada oficial dos Estados Unidos no conflito após o ataque a Pearl Harbor.",
+        "year": 1941
+      },
+      {
+        "title": "Monte Rushmore concluído",
+        "description": "O escultor Gutzon Borglum terminou o seu trabalho no Monte Rushmore (Dakota do Sul, EUA), onde durante 14 anos (1927–1941) esculpiu em granito os rostos de 18 metros dos presidentes Washington, Jefferson, Roosevelt e Lincoln. A obra, símbolo do sonho americano, nunca foi concluída no seu projeto original e Borglum morreu esse mesmo ano.",
+        "year": 1941
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Wolfgango de Ratisbona",
+        "type": "Bisbe",
+        "description": "Bisbe de Ratisbona (Regensburg, Alemanya) des del 972 fins a la seva mort el 994. Va reformar el monacato benedictí a Baviera i va fundar la diòcesi de Praga, contribuint decisivament a l'evangelització de Bohèmia. Va ser mestre del futur emperador Enric II. El seu túmul a Sant Emmeran de Ratisbona és lloc de peregrinació fins avui."
+      },
+      {
+        "name": "Beato Tomàs de Costello",
+        "type": "Prevere",
+        "description": "Sacerdot dominic irlandès del segle XV, venerat a Connacht (Irlanda occidental). Figura de la pietat popular irlandesa, associat a la defensa dels pobres i els marginats durant els anys convulsos de la Irlanda medieval tardana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Vigília de Tots Sants (Halloween)",
+        "description": "El 31 d'octubre és la vigília de Tots Sants, coneguda popularment com a Halloween en el món anglosaxó. Els seus orígens es remunten a la festivitat celta de Samhain, que marcava el final de l'estiu i l'inici de l'any fosc, quan es creia que el vel entre el món dels vius i dels morts s'aprimava. El comerç global ha convertit Halloween en la segona festivitat més lucrativa de l'any després del Nadal."
+      },
+      {
+        "name": "Dia de la Reforma Protestant",
+        "description": "El 31 d'octubre de 1517, Martí Luter va clavar les seves 95 Tesis a la porta de l'església del Castell de Wittenberg, protestant contra les indulgències i els abusos de l'Església catòlica. Aquest acte es considera l'inici de la Reforma Protestant, un dels fets que més ha marcat la història d'Occident. Els països protestants el celebren com a Dia de la Reforma."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Aquí estic; no puc fer una altra cosa. Que Déu m'ajudi.",
+      "author": "Martí Luter (Dieta de Worms, 1521)"
+    },
+    "motivationalQuote": {
+      "text": "El valor no és l'absència de la por, sinó el judici que alguna cosa és més important que la por.",
+      "author": "Ambrose Redmoon"
+    },
+    "births": [
+      {
+        "name": "Johannes Vermeer",
+        "description": "Pintor holandès del Barroc (1632–1675), un dels mestres de la pintura de gènere del Segle d'Or holandès. Les seves obres, com La noia del arracada de perla (c. 1665), La lletera (c. 1658) i Vista de Delft (c. 1661), destaquen pel seu ús extraordinari de la llum i l'intimisme quotidià. Molt poc conegut en vida, avui és un dels pintors més admirats del món.",
+        "year": 1632
+      },
+      {
+        "name": "John Keats",
+        "description": "Poeta romàntic anglès (1795–1821), una de les figures més brillants del Romanticisme britànic. Les seves grans Odes —A un rossinyol, Sobre una urna grega, A la tardor— són cimes de la lírica en anglès. Va morir de tuberculosi als 25 anys sense haver vist publicada l'obra completa. Avui és considerat un dels majors poetes en llengua anglesa.",
+        "year": 1795
+      },
+      {
+        "name": "Vanilla Ice",
+        "description": "Raper i empresari americà (n. 1967), nom artístic de Robert Van Winkle. El seu tema Ice Ice Baby (1990) va ser el primer single de rap en encapçalar les llistes d'èxit pop als Estats Units. Tot i que la seva carrera musical va ser breu, és un icone de la cultura popular dels anys 90.",
+        "year": 1967
+      }
+    ],
+    "events": [
+      {
+        "title": "Les 95 Tesis de Luter",
+        "description": "Martí Luter, frare agustinià i teòleg de la Universitat de Wittenberg, va publicar les seves 95 Tesis qüestionant les indulgències papals. Tot i que la història del clau a la porta de l'església és possiblement llegendària, les Tesis es van difondre per tota Europa gràcies a la impremta, desencadenant la Reforma Protestant i fracturant la unitat religiosa d'Occident.",
+        "year": 1517
+      },
+      {
+        "title": "Enfonsament de l'USS Reuben James",
+        "description": "El destructor de la Marina americana USS Reuben James va ser torpedinat i enfonsat per un submarí alemany a l'Atlàntic Nord, convertint-se en el primer vaixell de guerra americà enfonsat a la Segona Guerra Mundial, abans de l'entrada oficial dels Estats Units al conflicte arran de l'atac a Pearl Harbor.",
+        "year": 1941
+      },
+      {
+        "title": "El Mont Rushmore queda acabat",
+        "description": "L'escultor Gutzon Borglum va acabar el seu treball al Mont Rushmore (Dakota del Sud, EUA), on durant 14 anys (1927–1941) va tallar en granit els rostres de 18 metres dels presidents Washington, Jefferson, Roosevelt i Lincoln. L'obra, símbol del somni americà, mai va ser completada en el seu projecte original i Borglum va morir aquell mateix any.",
+        "year": 1941
+      }
+    ]
+  }
+}

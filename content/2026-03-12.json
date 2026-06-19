@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-12",
+  "es": {
+    "saints": [
+      { "name": "San Inocencio I", "type": "Papa", "description": "Papa entre 401 y 417, que defendió la primacía del papado y excomulgó a Pelagio por su herejía sobre la gracia; su pontificado coincidió con el saqueo de Roma por Alarico en 410." },
+      { "name": "Santa Beatriz de Silva", "type": "Fundadora", "description": "Noble portuguesa del siglo XV que fundó la Orden de la Inmaculada Concepción (Concepcionistas) en Toledo; canonizada en 1976 por Pablo VI." },
+      { "name": "San Maximiliano de Numidia", "type": "Mártir", "description": "Joven cristiano de Numidia (actual Argelia) ejecutado en el 295 por negarse a servir en el ejército romano, considerado el primer objetor de conciencia de la historia." }
+    ],
+    "observances": [
+      { "name": "Día del Plantación de Árboles", "description": "Jornada ambiental celebrada en varios países para promover la reforestación y la conciencia sobre la importancia de los bosques para el equilibrio del ecosistema global." },
+      { "name": "Día de los Girl Scouts (en EE. UU.)", "description": "Se conmemora la fundación de las Girl Scouts of the USA por Juliette Gordon Low el 12 de marzo de 1912 en Savannah, Georgia, organización que promueve el liderazgo y la ciudadanía en las jóvenes." }
+    ],
+    "historicalQuote": {
+      "text": "Sé el cambio que deseas ver en el mundo.",
+      "author": "Mahatma Gandhi",
+      "context": "Gandhi inició el 12 de marzo de 1930 la célebre Marcha de la Sal (Dandi March), una de las principales acciones de desobediencia civil contra el dominio colonial británico en India. Esta frase resume su filosofía de transformación desde el individuo."
+    },
+    "motivationalQuote": {
+      "text": "No importa lo lento que vayas, siempre que no te detengas.",
+      "author": "Confucio"
+    },
+    "births": [
+      { "name": "Jack Kerouac", "description": "Escritor americano, figura central de la Generación Beat, autor de la novela autobiográfica 'En el camino' (1957), que influyó profundamente en la contracultura de los años 50 y 60.", "year": 1922 },
+      { "name": "Liza Minnelli", "description": "Actriz y cantante americana, ganadora del Oscar por 'Cabaret' (1972) e hija de la también legendaria Judy Garland, con una carrera que abarca más de seis décadas.", "year": 1946 },
+      { "name": "James Taylor", "description": "Cantautor americano, pionero del soft rock, famoso por canciones como 'Fire and Rain' y 'You've Got a Friend', cinco veces ganador del Grammy.", "year": 1948 }
+    ],
+    "events": [
+      { "title": "Gandhi inicia la Marcha de la Sal", "description": "Mahatma Gandhi partió de Sabarmati Ashram con 78 seguidores para caminar 385 kilómetros hasta Dandi, en un acto de desobediencia civil contra el monopolio británico sobre la sal en India.", "year": 1930 },
+      { "title": "Anschluss: Alemania anexiona Austria", "description": "Las tropas nazis entraron en Austria y la incorporaron al Reich alemán, en un acto de expansión territorial que los aliados occidentales no frenaron.", "year": 1938 },
+      { "title": "Las Girl Scouts son fundadas", "description": "Juliette Gordon Low fundó en Savannah, Georgia, la primera tropa de Girl Guides (luego Girl Scouts of the USA) del país, iniciando un movimiento que llegaría a millones de jóvenes.", "year": 1912 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Innocent I", "type": "Pope", "description": "Pope from 401 to 417, who defended papal primacy and excommunicated Pelagius for his heresy on grace; his pontificate coincided with Alaric's sack of Rome in 410." },
+      { "name": "Saint Beatrice of Silva", "type": "Founder", "description": "Fifteenth-century Portuguese noblewoman who founded the Order of the Immaculate Conception (Conceptionist Sisters) in Toledo; canonised in 1976 by Paul VI." },
+      { "name": "Saint Maximilian of Numidia", "type": "Martyr", "description": "Young Christian from Numidia (modern Algeria) executed in 295 for refusing to serve in the Roman army, considered the first conscientious objector in history." }
+    ],
+    "observances": [
+      { "name": "Tree Planting Day", "description": "An environmental day celebrated in several countries to promote reforestation and awareness of the importance of forests for global ecosystem balance." },
+      { "name": "Girl Scouts Day (USA)", "description": "The founding of the Girl Scouts of the USA by Juliette Gordon Low on 12 March 1912 in Savannah, Georgia, is commemorated — an organisation that promotes leadership and citizenship in young women." }
+    ],
+    "historicalQuote": {
+      "text": "Be the change you wish to see in the world.",
+      "author": "Mahatma Gandhi",
+      "context": "On 12 March 1930, Gandhi began the celebrated Salt March (Dandi March), one of the major acts of civil disobedience against British colonial rule in India. This phrase encapsulates his philosophy of transformation starting with the individual."
+    },
+    "motivationalQuote": {
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius"
+    },
+    "births": [
+      { "name": "Jack Kerouac", "description": "American writer, central figure of the Beat Generation, author of the autobiographical novel 'On the Road' (1957), which profoundly influenced the counterculture of the 1950s and 60s.", "year": 1922 },
+      { "name": "Liza Minnelli", "description": "American actress and singer, Oscar winner for 'Cabaret' (1972) and daughter of the legendary Judy Garland, with a career spanning more than six decades.", "year": 1946 },
+      { "name": "James Taylor", "description": "American singer-songwriter, pioneer of soft rock, famous for songs such as 'Fire and Rain' and 'You've Got a Friend', five-time Grammy winner.", "year": 1948 }
+    ],
+    "events": [
+      { "title": "Gandhi begins the Salt March", "description": "Mahatma Gandhi set out from Sabarmati Ashram with 78 followers to walk 385 kilometres to Dandi, in an act of civil disobedience against the British salt monopoly in India.", "year": 1930 },
+      { "title": "Anschluss: Germany annexes Austria", "description": "Nazi troops entered Austria and incorporated it into the German Reich, an act of territorial expansion the Western Allies did not stop.", "year": 1938 },
+      { "title": "Girl Scouts founded", "description": "Juliette Gordon Low founded the first Girl Guides (later Girl Scouts of the USA) troop in Savannah, Georgia, starting a movement that would reach millions of young women.", "year": 1912 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Inocêncio I", "type": "Papa", "description": "Papa entre 401 e 417, que defendeu a primazia do papado e excomungou Pelágio por sua heresia sobre a graça; seu pontificado coincidiu com o saque de Roma por Alarico em 410." },
+      { "name": "Santa Beatriz da Silva", "type": "Fundadora", "description": "Nobre portuguesa do século XV que fundou a Ordem da Imaculada Conceição (Concepcionistas) em Toledo; canonizada em 1976 por Paulo VI." },
+      { "name": "São Maximiliano da Numídia", "type": "Mártir", "description": "Jovem cristão da Numídia (atual Argélia) executado em 295 por se recusar a servir no exército romano, considerado o primeiro objetor de consciência da história." }
+    ],
+    "observances": [
+      { "name": "Dia do Plantio de Árvores", "description": "Jornada ambiental celebrada em vários países para promover o reflorestamento e a consciência sobre a importância das florestas para o equilíbrio do ecossistema global." },
+      { "name": "Dia das Girl Scouts (EUA)", "description": "Comemora-se a fundação das Girl Scouts dos EUA por Juliette Gordon Low em 12 de março de 1912 em Savannah, Geórgia, organização que promove a liderança e a cidadania nas jovens." }
+    ],
+    "historicalQuote": {
+      "text": "Seja a mudança que você deseja ver no mundo.",
+      "author": "Mahatma Gandhi",
+      "context": "Em 12 de março de 1930, Gandhi iniciou a célebre Marcha do Sal (Dandi March), um dos principais atos de desobediência civil contra o domínio colonial britânico na Índia. Esta frase resume sua filosofia de transformação a partir do indivíduo."
+    },
+    "motivationalQuote": {
+      "text": "Não importa o quão devagar você vá, contanto que não pare.",
+      "author": "Confúcio"
+    },
+    "births": [
+      { "name": "Jack Kerouac", "description": "Escritor americano, figura central da Geração Beat, autor do romance autobiográfico 'Na Estrada' (1957), que influenciou profundamente a contracultura dos anos 50 e 60.", "year": 1922 },
+      { "name": "Liza Minnelli", "description": "Atriz e cantora americana, vencedora do Oscar por 'Cabaret' (1972) e filha da lendária Judy Garland, com uma carreira que abrange mais de seis décadas.", "year": 1946 },
+      { "name": "James Taylor", "description": "Cantor e compositor americano, pioneiro do soft rock, famoso por canções como 'Fire and Rain' e 'You've Got a Friend', cinco vezes vencedor do Grammy.", "year": 1948 }
+    ],
+    "events": [
+      { "title": "Gandhi inicia a Marcha do Sal", "description": "Mahatma Gandhi partiu do Ashram de Sabarmati com 78 seguidores para percorrer 385 quilômetros até Dandi, num ato de desobediência civil contra o monopólio britânico sobre o sal na Índia.", "year": 1930 },
+      { "title": "Anschluss: Alemanha anexa a Áustria", "description": "Tropas nazistas entraram na Áustria e a incorporaram ao Reich alemão, num ato de expansão territorial que os Aliados ocidentais não impediram.", "year": 1938 },
+      { "title": "Girl Scouts são fundadas", "description": "Juliette Gordon Low fundou em Savannah, Geórgia, a primeira tropa de Girl Guides (depois Girl Scouts dos EUA) do país, iniciando um movimento que chegaria a milhões de jovens.", "year": 1912 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Innocenci I", "type": "Papa", "description": "Papa entre 401 i 417, que va defensar la primacia del papat i va excomunicar Pelagi per la seva heretgia sobre la gràcia; el seu pontificat va coincidir amb el saqueig de Roma per Alaric el 410." },
+      { "name": "Santa Beatriu de Silva", "type": "Fundadora", "description": "Noble portuguesa del segle XV que va fundar l'Orde de la Immaculada Concepció (Concepcionistes) a Toledo; canonitzada el 1976 per Pau VI." },
+      { "name": "Sant Maximil·lià de Numídia", "type": "Màrtir", "description": "Jove cristià de Numídia (actual Algèria) executat el 295 per negar-se a servir a l'exèrcit romà, considerat el primer objector de consciència de la història." }
+    ],
+    "observances": [
+      { "name": "Dia de la Plantació d'Arbres", "description": "Jornada ambiental celebrada en diversos països per promoure la reforestació i la consciència sobre la importància dels boscos per a l'equilibri de l'ecosistema global." },
+      { "name": "Dia de les Girl Scouts (EUA)", "description": "Es commemora la fundació de les Girl Scouts dels EUA per Juliette Gordon Low el 12 de març de 1912 a Savannah, Geòrgia, organització que promou el lideratge i la ciutadania en les joves." }
+    ],
+    "historicalQuote": {
+      "text": "Sigues el canvi que desitges veure en el món.",
+      "author": "Mahatma Gandhi",
+      "context": "El 12 de març de 1930, Gandhi va iniciar la cèlebre Marxa de la Sal (Dandi March), un dels principals actes de desobediència civil contra el domini colonial britànic a l'Índia. Aquesta frase resumeix la seva filosofia de transformació des de l'individu."
+    },
+    "motivationalQuote": {
+      "text": "No importa com de lentament vagis, sempre que no t'aturis.",
+      "author": "Confuci"
+    },
+    "births": [
+      { "name": "Jack Kerouac", "description": "Escriptor americà, figura central de la Generació Beat, autor de la novel·la autobiogràfica 'En el camí' (1957), que va influir profundament en la contracultura dels anys 50 i 60.", "year": 1922 },
+      { "name": "Liza Minnelli", "description": "Actriu i cantant americana, guanyadora de l'Oscar per 'Cabaret' (1972) i filla de la llegendària Judy Garland, amb una carrera que abasta més de sis dècades.", "year": 1946 },
+      { "name": "James Taylor", "description": "Cantautor americà, pioner del soft rock, famós per cançons com 'Fire and Rain' i 'You've Got a Friend', cinc vegades guanyador del Grammy.", "year": 1948 }
+    ],
+    "events": [
+      { "title": "Gandhi inicia la Marxa de la Sal", "description": "Mahatma Gandhi va sortir de l'Ashram de Sabarmati amb 78 seguidors per caminar 385 quilòmetres fins a Dandi, en un acte de desobediència civil contra el monopoli britànic sobre la sal a l'Índia.", "year": 1930 },
+      { "title": "Anschluss: Alemanya annexa Àustria", "description": "Tropes nazis van entrar a Àustria i la van incorporar al Reich alemany, en un acte d'expansió territorial que les potències occidentals no van aturar.", "year": 1938 },
+      { "title": "Les Girl Scouts són fundades", "description": "Juliette Gordon Low va fundar a Savannah, Geòrgia, la primera tropa de Girl Guides (després Girl Scouts dels EUA) del país, iniciant un moviment que arribaria a milions de joves.", "year": 1912 }
+    ]
+  }
+}

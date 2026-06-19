@@ -1,0 +1,119 @@
+{
+  "date": "2026-02-22",
+  "es": {
+    "saints": [
+      { "name": "Cátedra de San Pedro en Antioquía", "type": "Fiesta apostólica", "description": "Conmemora el primado espiritual de Pedro como pastor de la Iglesia universal, con referencia a su actividad en Antioquía antes de llegar a Roma." },
+      { "name": "Santa Margarita de Cortona", "type": "Penitente", "description": "Tertiana franciscana italiana del siglo XIII que, tras una vida turbulenta, se convirtió en modelo de conversión y penitencia." }
+    ],
+    "observances": [
+      { "name": "Día del Escultismo Mundial", "description": "Conmemora el nacimiento de Robert Baden-Powell (1857), fundador del movimiento Scout, que hoy agrupa a más de 50 millones de jóvenes en el mundo." },
+      { "name": "Día de Pensar el Mundo (EE. UU.)", "description": "Jornada internacional de las Girl Guides y Girl Scouts para reflexionar sobre culturas y comunidades de todo el planeta." }
+    ],
+    "historicalQuote": {
+      "text": "Sé el cambio que quieres ver en el mundo.",
+      "author": "Mahatma Gandhi",
+      "context": "Gandhi (1869-1948) sintetizó en esta frase atribuida a él la idea de que la transformación social comienza en la conducta personal. Es uno de los aforismos más citados del pensamiento humanista moderno."
+    },
+    "motivationalQuote": {
+      "text": "El éxito es aprender a ir de fracaso en fracaso sin desesperarse.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      { "name": "George Washington", "description": "Primer presidente de los EE. UU. (1789-1797), comandante en jefe del Ejército Continental durante la Revolución Americana; Padre Fundador de la nación.", "year": 1732 },
+      { "name": "Arthur Schopenhauer", "description": "Filósofo alemán del siglo XIX, conocido por su pesimismo metafísico y su obra El mundo como voluntad y representación.", "year": 1788 },
+      { "name": "Drew Barrymore (nacimiento confirmado el 22)", "description": "Actriz y productora estadounidense conocida por E.T. y Charlies Angels. Nota: varias fuentes confirman el 22 de febrero como fecha oficial.", "year": 1975 }
+    ],
+    "events": [
+      { "title": "Washington cruza el Potomac", "description": "Las tropas de George Washington cruzan el río Potomac en plena noche hacia Trenton (New Jersey), en una maniobra sorpresa que revirtió el curso de la Revolución Americana.", "year": 1777 },
+      { "title": "Fundación de la República de Texas", "description": "El Congreso de Texas declara la independencia de México proclamando la República de Texas.", "year": 1836 },
+      { "title": "Primer paseo espacial de un estadounidense", "description": "El astronauta Ed White realiza el primer paseo espacial de un ciudadano estadounidense durante la misión Gemini 4, permaneciendo fuera de la cápsula 23 minutos.", "year": 1965 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Chair of Saint Peter", "type": "Apostolic feast", "description": "Commemorates Peter's spiritual primacy as shepherd of the universal Church, with reference to his activity in Antioch before his arrival in Rome." },
+      { "name": "Saint Margaret of Cortona", "type": "Penitent", "description": "Italian Franciscan tertiary of the 13th century who, after a turbulent life, became a model of conversion and penance." }
+    ],
+    "observances": [
+      { "name": "World Scout Day", "description": "Commemorates the birth of Robert Baden-Powell (1857), founder of the Scout movement, which today unites more than 50 million young people worldwide." },
+      { "name": "Thinking Day (USA)", "description": "International day of the Girl Guides and Girl Scouts for reflection on cultures and communities across the globe." }
+    ],
+    "historicalQuote": {
+      "text": "Be the change you wish to see in the world.",
+      "author": "Mahatma Gandhi",
+      "context": "Gandhi (1869–1948) distilled in this phrase, attributed to him, the idea that social transformation begins with personal conduct. It is one of the most cited aphorisms of modern humanist thought."
+    },
+    "motivationalQuote": {
+      "text": "Success is learning to go from failure to failure without losing enthusiasm.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      { "name": "George Washington", "description": "First President of the USA (1789–1797), Commander-in-Chief of the Continental Army during the American Revolution; Founding Father of the nation.", "year": 1732 },
+      { "name": "Arthur Schopenhauer", "description": "19th-century German philosopher, known for his metaphysical pessimism and his work The World as Will and Representation.", "year": 1788 },
+      { "name": "Robert Baden-Powell", "description": "British army officer and founder of the Scout movement (1907), one of the most enduring youth organisations in history.", "year": 1857 }
+    ],
+    "events": [
+      { "title": "Washington crosses the Potomac", "description": "George Washington's troops cross the Potomac River in the dead of night towards Trenton, New Jersey, in a surprise manoeuvre that reversed the course of the American Revolution.", "year": 1777 },
+      { "title": "Republic of Texas founded", "description": "The Texas Congress declares independence from Mexico, proclaiming the Republic of Texas.", "year": 1836 },
+      { "title": "First American spacewalk", "description": "Astronaut Ed White performs the first spacewalk by an American citizen during the Gemini 4 mission, remaining outside the capsule for 23 minutes.", "year": 1965 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "Cátedra de São Pedro", "type": "Festa apostólica", "description": "Comemora o primado espiritual de Pedro como pastor da Igreja universal, com referência à sua atividade em Antioquia antes de chegar a Roma." },
+      { "name": "Santa Margarida de Córtona", "type": "Penitente", "description": "Terciária franciscana italiana do século XIII que, após uma vida turbulenta, tornou-se modelo de conversão e penitência." }
+    ],
+    "observances": [
+      { "name": "Dia Mundial do Escotismo", "description": "Comemora o nascimento de Robert Baden-Powell (1857), fundador do movimento Escoteiro, que hoje reúne mais de 50 milhões de jovens no mundo." },
+      { "name": "Thinking Day (EUA)", "description": "Dia internacional das Girl Guides e Girl Scouts para refletir sobre culturas e comunidades de todo o planeta." }
+    ],
+    "historicalQuote": {
+      "text": "Seja a mudança que você quer ver no mundo.",
+      "author": "Mahatma Gandhi",
+      "context": "Gandhi (1869-1948) sintetizou nesta frase, atribuída a ele, a ideia de que a transformação social começa na conduta pessoal. É um dos aforismos mais citados do pensamento humanista moderno."
+    },
+    "motivationalQuote": {
+      "text": "O sucesso é aprender a ir de fracasso em fracasso sem perder o entusiasmo.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      { "name": "George Washington", "description": "Primeiro presidente dos EUA (1789-1797), comandante-em-chefe do Exército Continental durante a Revolução Americana; Pai Fundador da nação.", "year": 1732 },
+      { "name": "Arthur Schopenhauer", "description": "Filósofo alemão do século XIX, conhecido pelo seu pessimismo metafísico e pela obra O Mundo como Vontade e Representação.", "year": 1788 },
+      { "name": "Robert Baden-Powell", "description": "Oficial do exército britânico e fundador do movimento Escoteiro (1907), uma das organizações juvenis mais duradouras da história.", "year": 1857 }
+    ],
+    "events": [
+      { "title": "Washington atravessa o Potomac", "description": "As tropas de George Washington atravessam o rio Potomac em plena noite em direção a Trenton (New Jersey), numa manobra de surpresa que reverteu o curso da Revolução Americana.", "year": 1777 },
+      { "title": "Fundação da República do Texas", "description": "O Congresso do Texas declara a independência do México proclamando a República do Texas.", "year": 1836 },
+      { "title": "Primeira caminhada espacial americana", "description": "O astronauta Ed White realiza a primeira caminhada espacial de um cidadão americano durante a missão Gêmini 4, permanecendo fora da cápsula por 23 minutos.", "year": 1965 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Càtedra de Sant Pere", "type": "Festa apostòlica", "description": "Commemora el primat espiritual de Pere com a pastor de l'Església universal, amb referència a la seva activitat a Antioquia abans d'arribar a Roma." },
+      { "name": "Santa Margarida de Cortona", "type": "Penitent", "description": "Terciària franciscana italiana del segle XIII que, després d'una vida turbulenta, es va convertir en model de conversió i penitència." }
+    ],
+    "observances": [
+      { "name": "Dia Mundial de l'Escoltisme", "description": "Commemora el naixement de Robert Baden-Powell (1857), fundador del moviment Escolta, que avui aplega més de 50 milions de joves al món." },
+      { "name": "Dia del Pensament (EUA)", "description": "Dia internacional de les Girl Guides i Girl Scouts per reflexionar sobre cultures i comunitats de tot el planeta." }
+    ],
+    "historicalQuote": {
+      "text": "Sigues el canvi que vols veure al món.",
+      "author": "Mahatma Gandhi",
+      "context": "Gandhi (1869-1948) va sintetitzar en aquesta frase, atribuïda a ell, la idea que la transformació social comença en la conducta personal. És un dels aforismes més citats del pensament humanista modern."
+    },
+    "motivationalQuote": {
+      "text": "L'èxit és aprendre a anar de fracàs en fracàs sense perdre l'entusiasme.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      { "name": "George Washington", "description": "Primer president dels EUA (1789-1797), comandant en cap de l'Exèrcit Continental durant la Revolució Americana; Pare Fundador de la nació.", "year": 1732 },
+      { "name": "Arthur Schopenhauer", "description": "Filòsof alemany del segle XIX, conegut pel seu pessimisme metafísic i la seva obra El món com a voluntat i representació.", "year": 1788 },
+      { "name": "Robert Baden-Powell", "description": "Oficial de l'exèrcit britànic i fundador del moviment Escolta (1907), una de les organitzacions juvenils més duradores de la història.", "year": 1857 }
+    ],
+    "events": [
+      { "title": "Washington travessa el Potomac", "description": "Les tropes de George Washington travessen el riu Potomac en plena nit cap a Trenton (New Jersey), en una maniobra de sorpresa que va revertir el curs de la Revolució Americana.", "year": 1777 },
+      { "title": "Fundació de la República de Texas", "description": "El Congrés de Texas declara la independència de Mèxic proclamant la República de Texas.", "year": 1836 },
+      { "title": "Primera passejada espacial americana", "description": "L'astronauta Ed White realitza la primera sortida a l'espai d'un ciutadà americà durant la missió Gèmini 4, romanent fora de la càpsula 23 minuts.", "year": 1965 }
+    ]
+  }
+}

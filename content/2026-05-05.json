@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-05",
+  "es": {
+    "saints": [
+      {
+        "name": "San Godardo de Hildesheim",
+        "type": "Obispo",
+        "description": "Obispo de Hildesheim (Alemania) del siglo XI, reformador benedictino y evangelizador de los países escandinavos. Fundó numerosos monasterios y escuelas. Es patrón de los resfriados y las enfermedades respiratorias. El paso alpino Gotardo lleva su nombre."
+      },
+      {
+        "name": "San Hilario de Arles",
+        "type": "Obispo",
+        "description": "Obispo de Arles (Francia) del siglo V, discípulo de San Honorato de Lérins. Hombre de gran cultura y ascetismo, presidió varios sínodos galos y fue uno de los principales líderes de la Iglesia gálica en la Antigüedad tardía."
+      },
+      {
+        "name": "San Ángelo de Palermo",
+        "type": "Mártir",
+        "description": "Sacerdote carmelita siciliano del siglo XIII, misionero en Sicilia que fue asesinado por un noble local a quien había reprendido públicamente por su vida escandalosa. Es venerado como mártir y patrón de Licata."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de Europa",
+        "description": "Celebrado el 5 de mayo, conmemora la fundación del Consejo de Europa en 1949 y promueve los valores de la paz, la democracia y los derechos humanos en el continente. No debe confundirse con el Día de Europa del 9 de mayo (UE)."
+      },
+      {
+        "name": "Día Internacional de la Matrona (Partera)",
+        "description": "La Confederación Internacional de Matronas celebra cada año el 5 de mayo el trabajo de las matronas y parteras en todo el mundo, destacando su papel esencial en la salud materna y neonatal."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No hay camino para la paz; la paz es el camino.",
+      "author": "Mahatma Gandhi"
+    },
+    "motivationalQuote": {
+      "text": "La perseverancia es la virtud de los que no se rinden.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Karl Marx",
+        "description": "Filósofo, economista e historiador alemán, cofundador junto con Friedrich Engels del marxismo y del socialismo científico. Sus obras El Manifiesto Comunista (1848) y El Capital (1867) transformaron el pensamiento político y social del mundo moderno.",
+        "year": "1818"
+      },
+      {
+        "name": "Søren Kierkegaard",
+        "description": "Filósofo y teólogo danés del siglo XIX, considerado el padre del existencialismo. Sus obras abordaron temas como la angustia, la desesperación y la búsqueda de sentido individual frente a la existencia.",
+        "year": "1813"
+      },
+      {
+        "name": "Adele",
+        "description": "Cantante y compositora británica, una de las artistas más vendidas del siglo XXI. Sus álbumes 19, 21 y 25 la convirtieron en un fenómeno global, y sus baladas como Someone Like You y Hello batieron récords de ventas mundiales.",
+        "year": "1988"
+      }
+    ],
+    "events": [
+      {
+        "title": "Napoleón muere en Santa Elena",
+        "description": "Napoleón Bonaparte falleció en la isla de Santa Elena, donde vivía exiliado desde 1815 tras su derrota en Waterloo. Tenía 51 años. Su legado legal, militar y político transformó Europa y el mundo.",
+        "year": "1821"
+      },
+      {
+        "title": "Fundación del Consejo de Europa",
+        "description": "En Londres se firmó el Estatuto del Consejo de Europa, la primera gran organización de integración europea de la posguerra. Sus objetivos fundacionales fueron la defensa de los derechos humanos, la democracia y el Estado de Derecho.",
+        "year": "1949"
+      },
+      {
+        "title": "Alan Shepard, primer americano en el espacio",
+        "description": "El astronauta Alan Shepard se convirtió en el primer ciudadano americano en volar al espacio a bordo de la cápsula Freedom 7 (misión Mercury-Redstone 3), alcanzando una altitud de 187 km durante un vuelo de 15 minutos.",
+        "year": "1961"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Godehard of Hildesheim",
+        "type": "Bishop",
+        "description": "11th-century Bishop of Hildesheim (Germany), Benedictine reformer and evangeliser of Scandinavian countries. He founded numerous monasteries and schools. He is the patron saint of colds and respiratory illnesses. The Alpine pass of Gotthard takes its name from him."
+      },
+      {
+        "name": "Saint Hilary of Arles",
+        "type": "Bishop",
+        "description": "5th-century Bishop of Arles (France), disciple of Saint Honoratus of Lérins. A man of great culture and asceticism, he presided over several Gallic synods and was one of the principal leaders of the Gallic Church in late antiquity."
+      },
+      {
+        "name": "Saint Angelo of Palermo",
+        "type": "Martyr",
+        "description": "13th-century Sicilian Carmelite priest and missionary in Sicily, who was killed by a local nobleman he had publicly rebuked for his scandalous lifestyle. He is venerated as a martyr and patron of Licata."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Europe Day",
+        "description": "Celebrated on May 5, it commemorates the founding of the Council of Europe in 1949 and promotes the values of peace, democracy, and human rights across the continent. It should not be confused with the EU's Europe Day on May 9."
+      },
+      {
+        "name": "International Day of the Midwife",
+        "description": "The International Confederation of Midwives celebrates on May 5 each year the work of midwives around the world, highlighting their essential role in maternal and neonatal health."
+      }
+    ],
+    "historicalQuote": {
+      "text": "There is no way to peace; peace is the way.",
+      "author": "Mahatma Gandhi"
+    },
+    "motivationalQuote": {
+      "text": "Perseverance is the virtue of those who do not give up.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Karl Marx",
+        "description": "German philosopher, economist, and historian, co-founder along with Friedrich Engels of Marxism and scientific socialism. His works The Communist Manifesto (1848) and Capital (1867) transformed the political and social thinking of the modern world.",
+        "year": "1818"
+      },
+      {
+        "name": "Søren Kierkegaard",
+        "description": "19th-century Danish philosopher and theologian, considered the father of existentialism. His works addressed themes such as anxiety, despair, and the search for individual meaning in the face of existence.",
+        "year": "1813"
+      },
+      {
+        "name": "Adele",
+        "description": "British singer and songwriter, one of the best-selling artists of the 21st century. Her albums 19, 21, and 25 made her a global phenomenon, and her ballads such as Someone Like You and Hello broke worldwide sales records.",
+        "year": "1988"
+      }
+    ],
+    "events": [
+      {
+        "title": "Napoleon Dies on Saint Helena",
+        "description": "Napoleon Bonaparte died on the island of Saint Helena, where he had lived in exile since 1815 following his defeat at Waterloo. He was 51 years old. His legal, military, and political legacy transformed Europe and the world.",
+        "year": "1821"
+      },
+      {
+        "title": "Founding of the Council of Europe",
+        "description": "The Statute of the Council of Europe was signed in London, the first major post-war European integration organisation. Its founding objectives were the defence of human rights, democracy, and the rule of law.",
+        "year": "1949"
+      },
+      {
+        "title": "Alan Shepard, First American in Space",
+        "description": "Astronaut Alan Shepard became the first American to fly into space aboard the Freedom 7 capsule (Mercury-Redstone 3 mission), reaching an altitude of 187 km during a 15-minute flight.",
+        "year": "1961"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Godardo de Hildesheim",
+        "type": "Bispo",
+        "description": "Bispo de Hildesheim (Alemanha) do século XI, reformador beneditino e evangelizador dos países escandinavos. Fundou numerosos mosteiros e escolas. É padroeiro dos resfriados e doenças respiratórias. A passagem alpina do Gottardo leva seu nome."
+      },
+      {
+        "name": "São Hilário de Arles",
+        "type": "Bispo",
+        "description": "Bispo de Arles (França) do século V, discípulo de São Honorato de Lérins. Homem de grande cultura e ascetismo, presidiu vários sínodos gauleses e foi um dos principais líderes da Igreja gálica na Antiguidade Tardia."
+      },
+      {
+        "name": "São Ângelo de Palermo",
+        "type": "Mártir",
+        "description": "Sacerdote carmelita siciliano do século XIII, missionário na Sicília que foi assassinado por um nobre local a quem havia repreendido publicamente por sua vida escandalosa. É venerado como mártir e padroeiro de Licata."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Europa",
+        "description": "Celebrado em 5 de maio, comemora a fundação do Conselho da Europa em 1949 e promove os valores da paz, da democracia e dos direitos humanos no continente. Não deve ser confundido com o Dia da Europa da UE, em 9 de maio."
+      },
+      {
+        "name": "Dia Internacional da Parteira",
+        "description": "A Confederação Internacional de Parteiras celebra a cada ano em 5 de maio o trabalho das parteiras em todo o mundo, destacando seu papel essencial na saúde materna e neonatal."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Não há caminho para a paz; a paz é o caminho.",
+      "author": "Mahatma Gandhi"
+    },
+    "motivationalQuote": {
+      "text": "A perseverança é a virtude dos que não desistem.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Karl Marx",
+        "description": "Filósofo, economista e historiador alemão, cofundador junto com Friedrich Engels do marxismo e do socialismo científico. Suas obras O Manifesto Comunista (1848) e O Capital (1867) transformaram o pensamento político e social do mundo moderno.",
+        "year": "1818"
+      },
+      {
+        "name": "Søren Kierkegaard",
+        "description": "Filósofo e teólogo dinamarquês do século XIX, considerado o pai do existencialismo. Suas obras abordaram temas como a angústia, o desespero e a busca de sentido individual diante da existência.",
+        "year": "1813"
+      },
+      {
+        "name": "Adele",
+        "description": "Cantora e compositora britânica, uma das artistas mais vendidas do século XXI. Seus álbuns 19, 21 e 25 fizeram dela um fenômeno global, e suas baladas como Someone Like You e Hello quebraram recordes de vendas mundiais.",
+        "year": "1988"
+      }
+    ],
+    "events": [
+      {
+        "title": "Napoleão morre em Santa Helena",
+        "description": "Napoleão Bonaparte faleceu na ilha de Santa Helena, onde vivia exilado desde 1815 após sua derrota em Waterloo. Tinha 51 anos. Seu legado jurídico, militar e político transformou a Europa e o mundo.",
+        "year": "1821"
+      },
+      {
+        "title": "Fundação do Conselho da Europa",
+        "description": "Em Londres foi assinado o Estatuto do Conselho da Europa, a primeira grande organização de integração europeia do pós-guerra. Seus objetivos fundacionais foram a defesa dos direitos humanos, da democracia e do Estado de Direito.",
+        "year": "1949"
+      },
+      {
+        "title": "Alan Shepard, primeiro americano no espaço",
+        "description": "O astronauta Alan Shepard tornou-se o primeiro cidadão americano a voar ao espaço a bordo da cápsula Freedom 7 (missão Mercury-Redstone 3), atingindo uma altitude de 187 km durante um voo de 15 minutos.",
+        "year": "1961"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Godard d'Hildesheim",
+        "type": "Bisbe",
+        "description": "Bisbe d'Hildesheim (Alemanya) del segle XI, reformador benedictí i evangelitzador dels països escandinaus. Va fundar nombrosos monestirs i escoles. És patró dels refredats i les malalties respiratòries. El pas alpí del Gotard porta el seu nom."
+      },
+      {
+        "name": "Sant Hilari d'Arles",
+        "type": "Bisbe",
+        "description": "Bisbe d'Arles (França) del segle V, deixeble de Sant Honorat de Lérins. Home de gran cultura i ascetisme, va presidir diversos sínodes gàl·lics i va ser un dels principals líders de l'Església gàl·lica a l'Antiguitat tardana."
+      },
+      {
+        "name": "Sant Àngel de Palerm",
+        "type": "Màrtir",
+        "description": "Sacerdot carmelità sicilià del segle XIII, missioner a Sicília que va ser assassinat per un noble local a qui havia reprès públicament per la seva vida escandalosa. És venerat com a màrtir i patró de Licata."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia d'Europa",
+        "description": "Celebrat el 5 de maig, commemora la fundació del Consell d'Europa el 1949 i promou els valors de la pau, la democràcia i els drets humans al continent. No s'ha de confondre amb el Dia d'Europa de la UE, el 9 de maig."
+      },
+      {
+        "name": "Dia Internacional de la Llevadora",
+        "description": "La Confederació Internacional de Llevadores celebra cada any el 5 de maig la feina de les llevadores arreu del món, destacant el seu paper essencial en la salut materna i neonatal."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No hi ha camí per a la pau; la pau és el camí.",
+      "author": "Mahatma Gandhi"
+    },
+    "motivationalQuote": {
+      "text": "La perseverança és la virtut dels qui no es rendeixen.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Karl Marx",
+        "description": "Filòsof, economista i historiador alemany, cofundador juntament amb Friedrich Engels del marxisme i del socialisme científic. Les seves obres El manifest comunista (1848) i El capital (1867) van transformar el pensament polític i social del món modern.",
+        "year": "1818"
+      },
+      {
+        "name": "Søren Kierkegaard",
+        "description": "Filòsof i teòleg danès del segle XIX, considerat el pare de l'existencialisme. Les seves obres abordaven temes com l'angoixa, la desesperació i la recerca de sentit individual davant l'existència.",
+        "year": "1813"
+      },
+      {
+        "name": "Adele",
+        "description": "Cantant i compositora britànica, una de les artistes més venudes del segle XXI. Els seus àlbums 19, 21 i 25 la van convertir en un fenomen global, i les seves balades com Someone Like You i Hello van batre rècords de vendes mundials.",
+        "year": "1988"
+      }
+    ],
+    "events": [
+      {
+        "title": "Napoleó mor a Santa Helena",
+        "description": "Napoleó Bonaparte va morir a l'illa de Santa Helena, on vivia exiliat des del 1815 després de la seva derrota a Waterloo. Tenia 51 anys. El seu llegat jurídic, militar i polític va transformar Europa i el món.",
+        "year": "1821"
+      },
+      {
+        "title": "Fundació del Consell d'Europa",
+        "description": "A Londres es va signar l'Estatut del Consell d'Europa, la primera gran organització d'integració europea de la postguerra. Els seus objectius fundacionals van ser la defensa dels drets humans, la democràcia i l'Estat de Dret.",
+        "year": "1949"
+      },
+      {
+        "title": "Alan Shepard, primer americà a l'espai",
+        "description": "L'astronauta Alan Shepard es va convertir en el primer ciutadà americà a volar a l'espai a bord de la càpsula Freedom 7 (missió Mercury-Redstone 3), assolint una altitud de 187 km durant un vol de 15 minuts.",
+        "year": "1961"
+      }
+    ]
+  }
+}

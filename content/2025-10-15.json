@@ -1,0 +1,255 @@
+{
+  "date": "2025-10-15",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Teresa de Jesús",
+        "type": "Virgen y Doctora de la Iglesia",
+        "description": "Religiosa carmelita española (1515–1582), mística y reformadora. Fundó la Orden de los Carmelitas Descalzos junto con San Juan de la Cruz. Autora de obras místicas fundamentales como Camino de perfección, Las moradas y su autobiografía Libro de la vida. Declarada Doctora de la Iglesia en 1970, primera mujer en recibir ese título."
+      },
+      {
+        "name": "San Leoncio de Cesarea",
+        "type": "Obispo",
+        "description": "Obispo de Cesarea de Capadocia (siglo III), padre espiritual de San Gregorio el Taumaturgo. Fue uno de los grandes pastores de la Iglesia en el período preniceno y participó activamente en la organización del episcopado oriental."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Mujer Rural",
+        "description": "Proclamado por la Asamblea General de la ONU en 2007 (resolución 62/136), se celebra el 15 de octubre para reconocer el papel crucial de las mujeres rurales en el desarrollo agrícola, la seguridad alimentaria y el bienestar rural. Las mujeres representan más del 40 % de la fuerza laboral agrícola mundial."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El alma que está determinada a amar no puede sino amar.",
+      "author": "Santa Teresa de Jesús",
+      "context": "La Doctora de la Iglesia cuya festividad se celebra hoy entregó su vida a la contemplación del amor divino y a la reforma de la vida religiosa. Esta frase resume su certeza de que el amor verdadero no puede contenerse, sino que se vuelca sobre cuanto le rodea."
+    },
+    "motivationalQuote": {
+      "text": "Los que dicen que algo es imposible no deberían interrumpir a los que lo están haciendo.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Virgilio",
+        "description": "Poeta romano (70 a.C.–19 a.C.), considerado el mayor poeta latino. Autor de las Églogas, las Geórgicas y la Eneida, epopeya fundacional de Roma que narra el viaje de Eneas desde Troya hasta Italia. Su obra influyó en toda la literatura occidental posterior, desde Dante hasta T. S. Eliot.",
+        "year": -70
+      },
+      {
+        "name": "Friedrich Nietzsche",
+        "description": "Filósofo alemán (1844–1900), uno de los más influyentes e iconoclastas de la historia de la filosofía occidental. Desarrolló conceptos como el superhombre (Übermensch), la voluntad de poder y el eterno retorno. Sus obras Así habló Zaratustra y Más allá del bien y del mal siguen siendo referencias filosóficas ineludibles.",
+        "year": 1844
+      },
+      {
+        "name": "Emeril Lagasse",
+        "description": "Chef y presentador de televisión americano (n. 1959), pionero del celebrity chef en Estados Unidos. Famoso por su exclamación «Bam!» y por sus programas de cocina en la cadena Food Network. Ha abierto restaurantes en varias ciudades americanas y ha publicado más de una docena de libros de cocina.",
+        "year": 1959
+      }
+    ],
+    "events": [
+      {
+        "title": "Muerte del Che Guevara (confirmación pública)",
+        "description": "Aunque la muerte del Che Guevara ocurrió el 9 de octubre de 1967, el 15 de octubre el gobierno boliviano confirmó públicamente su muerte y mostró el cadáver a la prensa internacional. Las fotografías del cuerpo del guerrillero dieron la vuelta al mundo y alimentaron su leyenda.",
+        "year": 1967
+      },
+      {
+        "title": "Primer vuelo del Concorde",
+        "description": "El avión supersónico franco-británico Concorde realizó su primer vuelo de prueba desde Toulouse. El Concorde, que volaba a Mach 2 (2.170 km/h) y cruzaba el Atlántico en menos de cuatro horas, fue el avión comercial más rápido de la historia hasta su retirada en 2003.",
+        "year": 1969
+      },
+      {
+        "title": "Se descubre la estructura del ADN",
+        "description": "Aunque la descripción de la doble hélice del ADN fue publicada en 1953 por Watson y Crick, el 15 de octubre de 1962 James Watson, Francis Crick y Maurice Wilkins recibieron el Premio Nobel de Fisiología o Medicina por ese descubrimiento. Rosalind Franklin, cuyos datos fueron cruciales, no fue reconocida al haber fallecido en 1958.",
+        "year": 1962
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Teresa of Ávila",
+        "type": "Virgin and Doctor of the Church",
+        "description": "Spanish Carmelite nun (1515–1582), mystic and reformer. She founded the Order of Discalced Carmelites together with Saint John of the Cross. Author of fundamental mystical works such as The Way of Perfection, The Interior Castle and her autobiography The Book of Her Life. Declared a Doctor of the Church in 1970, the first woman to receive that title."
+      },
+      {
+        "name": "Saint Leontius of Caesarea",
+        "type": "Bishop",
+        "description": "Bishop of Caesarea in Cappadocia (3rd century), spiritual father of Saint Gregory the Wonderworker. He was one of the great pastors of the Church in the pre-Nicene period and participated actively in the organisation of the Eastern episcopate."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of Rural Women",
+        "description": "Proclaimed by the UN General Assembly in 2007 (resolution 62/136), it is celebrated on 15 October to recognise the crucial role of rural women in agricultural development, food security and rural wellbeing. Women represent more than 40% of the world's agricultural labour force."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The soul that is determined to love cannot but love.",
+      "author": "Saint Teresa of Ávila",
+      "context": "The Doctor of the Church whose feast is celebrated today devoted her life to the contemplation of divine love and the reform of religious life. This phrase encapsulates her certainty that true love cannot be contained, but pours out over all that surrounds it."
+    },
+    "motivationalQuote": {
+      "text": "Those who say it is impossible should not interrupt those who are doing it.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Virgil",
+        "description": "Roman poet (70 BC–19 BC), considered the greatest Latin poet. Author of the Eclogues, the Georgics and the Aeneid, the founding epic of Rome that recounts the journey of Aeneas from Troy to Italy. His work influenced all subsequent western literature, from Dante to T. S. Eliot.",
+        "year": -70
+      },
+      {
+        "name": "Friedrich Nietzsche",
+        "description": "German philosopher (1844–1900), one of the most influential and iconoclastic in the history of western philosophy. He developed concepts such as the Übermensch (Superman), the will to power and the eternal return. His works Thus Spoke Zarathustra and Beyond Good and Evil remain unavoidable philosophical references.",
+        "year": 1844
+      },
+      {
+        "name": "Emeril Lagasse",
+        "description": "American chef and television presenter (b. 1959), a pioneer of the celebrity chef in the United States. Famous for his exclamation 'Bam!' and his cooking programmes on the Food Network. He has opened restaurants in several American cities and has published more than a dozen cookbooks.",
+        "year": 1959
+      }
+    ],
+    "events": [
+      {
+        "title": "Che Guevara's death publicly confirmed",
+        "description": "Although Che Guevara died on 9 October 1967, on 15 October the Bolivian government publicly confirmed his death and displayed the body to the international press. Photographs of the guerrilla's body spread around the world and fuelled his legend.",
+        "year": 1967
+      },
+      {
+        "title": "First flight of Concorde",
+        "description": "The Franco-British supersonic aircraft Concorde made its first test flight from Toulouse. The Concorde, which flew at Mach 2 (1,350 mph) and crossed the Atlantic in less than four hours, was the fastest commercial aircraft in history until its retirement in 2003.",
+        "year": 1969
+      },
+      {
+        "title": "Structure of DNA discovered",
+        "description": "Although the description of the double helix of DNA was published in 1953 by Watson and Crick, on 15 October 1962 James Watson, Francis Crick and Maurice Wilkins received the Nobel Prize in Physiology or Medicine for that discovery. Rosalind Franklin, whose data were crucial, was not recognised as she had died in 1958.",
+        "year": 1962
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Teresa de Ávila",
+        "type": "Virgem e Doutora da Igreja",
+        "description": "Religiosa carmelita espanhola (1515–1582), mística e reformadora. Fundou a Ordem dos Carmelitas Descalços juntamente com São João da Cruz. Autora de obras místicas fundamentais como Caminho de Perfeição, As Moradas e a sua autobiografia O Livro da Vida. Declarada Doutora da Igreja em 1970, a primeira mulher a receber esse título."
+      },
+      {
+        "name": "São Leôncio de Cesareia",
+        "type": "Bispo",
+        "description": "Bispo de Cesareia da Capadócia (século III), pai espiritual de São Gregório o Taumaturgo. Foi um dos grandes pastores da Igreja no período pré-niceno e participou ativamente na organização do episcopado oriental."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Mulher Rural",
+        "description": "Proclamado pela Assembleia Geral da ONU em 2007 (resolução 62/136), é celebrado a 15 de outubro para reconhecer o papel crucial das mulheres rurais no desenvolvimento agrícola, na segurança alimentar e no bem-estar rural. As mulheres representam mais de 40% da força de trabalho agrícola mundial."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A alma que está determinada a amar não pode senão amar.",
+      "author": "Santa Teresa de Ávila",
+      "context": "A Doutora da Igreja cuja festividade se celebra hoje entregou a sua vida à contemplação do amor divino e à reforma da vida religiosa. Esta frase resume a sua certeza de que o amor verdadeiro não pode ser contido, mas derrama-se sobre tudo o que o rodeia."
+    },
+    "motivationalQuote": {
+      "text": "Os que dizem que algo é impossível não deveriam interromper os que estão a fazê-lo.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Virgílio",
+        "description": "Poeta romano (70 a.C.–19 a.C.), considerado o maior poeta latino. Autor das Éclogas, das Geórgicas e da Eneida, epopeia fundacional de Roma que narra a viagem de Eneias desde Troia até à Itália. A sua obra influenciou toda a literatura ocidental posterior, de Dante a T. S. Eliot.",
+        "year": -70
+      },
+      {
+        "name": "Friedrich Nietzsche",
+        "description": "Filósofo alemão (1844–1900), um dos mais influentes e iconoclastas da história da filosofia ocidental. Desenvolveu conceitos como o super-homem (Übermensch), a vontade de poder e o eterno retorno. As suas obras Assim Falou Zaratustra e Para Além do Bem e do Mal continuam a ser referências filosóficas incontornáveis.",
+        "year": 1844
+      },
+      {
+        "name": "Emeril Lagasse",
+        "description": "Chef e apresentador de televisão americano (n. 1959), pioneiro do celebrity chef nos Estados Unidos. Famoso pela sua exclamação «Bam!» e pelos seus programas de culinária na Food Network. Abriu restaurantes em várias cidades americanas e publicou mais de uma dúzia de livros de culinária.",
+        "year": 1959
+      }
+    ],
+    "events": [
+      {
+        "title": "Morte do Che Guevara confirmada publicamente",
+        "description": "Embora a morte do Che Guevara tenha ocorrido a 9 de outubro de 1967, a 15 de outubro o governo boliviano confirmou publicamente a sua morte e mostrou o cadáver à imprensa internacional. As fotografias do corpo do guerrilheiro deram a volta ao mundo e alimentaram a sua lenda.",
+        "year": 1967
+      },
+      {
+        "title": "Primeiro voo do Concorde",
+        "description": "O avião supersónico franco-britânico Concorde realizou o seu primeiro voo de teste a partir de Toulouse. O Concorde, que voava a Mach 2 (2.170 km/h) e cruzava o Atlântico em menos de quatro horas, foi o avião comercial mais rápido da história até à sua retirada em 2003.",
+        "year": 1969
+      },
+      {
+        "title": "Estrutura do ADN descoberta",
+        "description": "Embora a descrição da dupla hélice do ADN tivesse sido publicada em 1953 por Watson e Crick, a 15 de outubro de 1962 James Watson, Francis Crick e Maurice Wilkins receberam o Prémio Nobel de Fisiologia ou Medicina por essa descoberta. Rosalind Franklin, cujos dados foram cruciais, não foi reconhecida por ter falecido em 1958.",
+        "year": 1962
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Teresa de Jesús",
+        "type": "Verge i Doctora de l'Església",
+        "description": "Religiosa carmelita espanyola (1515–1582), mística i reformadora. Va fundar l'Orde dels Carmelites Descalços juntament amb Sant Joan de la Creu. Autora d'obres místiques fonamentals com Camí de perfecció, Les morades i la seva autobiografia Llibre de la vida. Declarada Doctora de l'Església el 1970, la primera dona a rebre aquest títol."
+      },
+      {
+        "name": "Sant Leoci de Cesàrea",
+        "type": "Bisbe",
+        "description": "Bisbe de Cesàrea de Capadòcia (segle III), pare espiritual de Sant Gregori el Taumaturg. Va ser un dels grans pastors de l'Església en el període prenicè i va participar activament en l'organització de l'episcopat oriental."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la Dona Rural",
+        "description": "Proclamat per l'Assemblea General de l'ONU el 2007 (resolució 62/136), se celebra el 15 d'octubre per reconèixer el paper crucial de les dones rurals en el desenvolupament agrícola, la seguretat alimentària i el benestar rural. Les dones representen més del 40% de la força laboral agrícola mundial."
+      }
+    ],
+    "historicalQuote": {
+      "text": "L'ànima que està determinada a estimar no pot sinó estimar.",
+      "author": "Santa Teresa de Jesús",
+      "context": "La Doctora de l'Església la festivitat de la qual se celebra avui va lliurar la seva vida a la contemplació de l'amor diví i a la reforma de la vida religiosa. Aquesta frase resumeix la seva certesa que l'amor vertader no pot contenir-se, sinó que es vessa sobre tot el que l'envolta."
+    },
+    "motivationalQuote": {
+      "text": "Els qui diuen que alguna cosa és impossible no haurien d'interrompre els qui ho estan fent.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Virgili",
+        "description": "Poeta romà (70 a.C.–19 a.C.), considerat el major poeta llatí. Autor de les Bucòliques, les Geòrgiques i l'Eneida, epopeia fundacional de Roma que narra el viatge d'Enees des de Troia fins a Itàlia. La seva obra va influir en tota la literatura occidental posterior, de Dante a T. S. Eliot.",
+        "year": -70
+      },
+      {
+        "name": "Friedrich Nietzsche",
+        "description": "Filòsof alemany (1844–1900), un dels més influents i iconoclastes de la història de la filosofia occidental. Va desenvolupar conceptes com el superhome (Übermensch), la voluntat de poder i l'etern retorn. Les seves obres Així parlà Zaratustra i Més enllà del bé i del mal continuen sent referències filosòfiques incontournables.",
+        "year": 1844
+      },
+      {
+        "name": "Emeril Lagasse",
+        "description": "Xef i presentador de televisió americà (n. 1959), pioner del celebrity chef als Estats Units. Famós per la seva exclamació «Bam!» i pels seus programes de cuina a la cadena Food Network. Ha obert restaurants a diverses ciutats americanes i ha publicat més d'una dotzena de llibres de cuina.",
+        "year": 1959
+      }
+    ],
+    "events": [
+      {
+        "title": "Mort del Che Guevara confirmada públicament",
+        "description": "Tot i que la mort del Che Guevara va ocórrer el 9 d'octubre de 1967, el 15 d'octubre el govern bolivià va confirmar públicament la seva mort i va mostrar el cadàver a la premsa internacional. Les fotografies del cos del guerriller van donar la volta al món i van alimentar la seva llegenda.",
+        "year": 1967
+      },
+      {
+        "title": "Primer vol del Concorde",
+        "description": "L'avió supersònic franco-britànic Concorde va realitzar el seu primer vol de prova des de Tolosa. El Concorde, que volava a Mach 2 (2.170 km/h) i creuava l'Atlàntic en menys de quatre hores, va ser l'avió comercial més ràpid de la història fins a la seva retirada el 2003.",
+        "year": 1969
+      },
+      {
+        "title": "Estructura de l'ADN descoberta",
+        "description": "Tot i que la descripció de la doble hèlix de l'ADN va ser publicada el 1953 per Watson i Crick, el 15 d'octubre de 1962 James Watson, Francis Crick i Maurice Wilkins van rebre el Premi Nobel de Fisiologia o Medicina per aquell descobriment. Rosalind Franklin, les dades de la qual van ser crucials, no va ser reconeguda per haver mort el 1958.",
+        "year": 1962
+      }
+    ]
+  }
+}

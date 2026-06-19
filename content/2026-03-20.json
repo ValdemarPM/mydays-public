@@ -1,0 +1,127 @@
+{
+  "date": "2026-03-20",
+  "es": {
+    "saints": [
+      { "name": "San Cuthberto de Lindisfarne", "type": "Obispo y eremita", "description": "Monje y obispo de Lindisfarne en el siglo VII, uno de los santos más venerados de la Iglesia inglesa, conocido por su humildad, su vida eremítica y su amor por la naturaleza." },
+      { "name": "San Martín de Braga", "type": "Obispo", "description": "Prelado del siglo VI nacido en Panonia (actual Hungría), que evangelizó a los suevos de Galecia (actual Galicia) y fue obispo de Braga; escribió importantes obras morales y eclesiásticas." },
+      { "name": "San Wulfrano de Sens", "type": "Obispo misionero", "description": "Obispo de Sens del siglo VII que abandonó su sede para evangelizar a los frisones en la actual Holanda, misionero incansable en el norte de Europa." }
+    ],
+    "observances": [
+      { "name": "Equinoccio de primavera (hemisferio norte)", "description": "El equinoccio de primavera marca el momento en que el Sol cruza el ecuador celeste, igualando duración de día y noche. En el hemisferio norte señala el inicio astronómico de la primavera." },
+      { "name": "Día Internacional de la Felicidad", "description": "Jornada proclamada por la ONU en 2012 para reconocer que la felicidad y el bienestar son metas universales y fundamentales de la humanidad, más allá del crecimiento económico." },
+      { "name": "Día Mundial del Gorrión", "description": "Jornada para concienciar sobre la disminución de las poblaciones de gorrión común en entornos urbanos y la importancia de proteger estas aves en las ciudades." }
+    ],
+    "historicalQuote": {
+      "text": "La primavera es la estación en que se siente que la vida es una posibilidad que merece la pena.",
+      "author": "Edwin Way Teale",
+      "context": "Edwin Way Teale fue un naturalista y escritor americano célebre por su obra sobre la naturaleza y las estaciones. Esta cita, escrita en el contexto de su libro 'North with the Spring', refleja el poder renovador de la primavera."
+    },
+    "motivationalQuote": {
+      "text": "No puedes evitar que los pájaros de la tristeza vuelen sobre tu cabeza, pero sí puedes evitar que aniden en tu cabello.",
+      "author": "Proverbio chino"
+    },
+    "births": [
+      { "name": "Ovid (Publio Ovidio Nasón)", "description": "Poeta romano del siglo I a.C. – I d.C., autor de las 'Metamorfosis', las 'Heroidas' y el 'Arte de amar', considerado uno de los grandes maestros de la poesía latina clásica.", "year": -43 },
+      { "name": "Spike Lee", "description": "Director, guionista y productor americano, voz esencial del cine afroamericano, autor de películas como 'Do the Right Thing' (1989) y 'Malcolm X' (1992).", "year": 1957 },
+      { "name": "Fernando Torres", "description": "Futbolista español, 'El Niño', delantero campeón del mundo en 2010 y de Europa en 2008 y 2012 con España, e ídolo histórico del Atlético de Madrid y el Liverpool.", "year": 1984 }
+    ],
+    "events": [
+      { "title": "El suburbano de Londres, primer metro del mundo, abre sus puertas", "description": "La línea Metropolitan de Londres, el primer ferrocarril subterráneo de la historia, inauguró su servicio transportando a los primeros pasajeros entre Paddington y Farringdon Street.", "year": 1863 },
+      { "title": "Ataque con gas sarín en el metro de Tokio", "description": "Miembros de la secta Aum Shinrikyo liberaron gas sarín en cinco trenes del metro de Tokio, matando a 13 personas e hiriendo a miles, en uno de los peores atentados terroristas de Japón.", "year": 1995 },
+      { "title": "La OTAN bombardea Yugoslavia", "description": "La Organización del Tratado del Atlántico Norte inició una campaña de bombardeos aéreos contra la República Federativa de Yugoslavia en respuesta a la crisis de Kosovo, sin mandato expreso del Consejo de Seguridad de la ONU.", "year": 1999 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Cuthbert of Lindisfarne", "type": "Bishop and hermit", "description": "Seventh-century monk and Bishop of Lindisfarne, one of the most venerated saints of the English Church, known for his humility, hermitic life and love of nature." },
+      { "name": "Saint Martin of Braga", "type": "Bishop", "description": "Sixth-century prelate born in Pannonia (modern Hungary), who evangelised the Suevi of Gallaecia (modern Galicia) and became Bishop of Braga; author of important moral and ecclesiastical works." },
+      { "name": "Saint Wulfram of Sens", "type": "Missionary bishop", "description": "Seventh-century Bishop of Sens who left his see to evangelise the Frisians in the modern Netherlands, a tireless missionary in northern Europe." }
+    ],
+    "observances": [
+      { "name": "Spring Equinox (Northern Hemisphere)", "description": "The spring equinox marks the moment when the Sun crosses the celestial equator, making day and night equal in length. In the Northern Hemisphere it marks the astronomical start of spring." },
+      { "name": "International Day of Happiness", "description": "A day proclaimed by the UN in 2012 to recognise that happiness and well-being are universal and fundamental goals of humanity, beyond economic growth." },
+      { "name": "World Sparrow Day", "description": "A day to raise awareness of the decline of the common sparrow in urban environments and the importance of protecting these birds in cities." }
+    ],
+    "historicalQuote": {
+      "text": "Spring is when life's alive in everything.",
+      "author": "Christina Rossetti",
+      "context": "Christina Rossetti was a British Victorian poet of Italian descent, one of the great voices of nineteenth-century English literature. This line, from one of her poems, captures the regenerating spirit of the spring season."
+    },
+    "motivationalQuote": {
+      "text": "You cannot prevent the birds of sorrow from flying over your head, but you can prevent them from building nests in your hair.",
+      "author": "Chinese proverb"
+    },
+    "births": [
+      { "name": "Ovid (Publius Ovidius Naso)", "description": "Roman poet of the first century BC – first century AD, author of the 'Metamorphoses', the 'Heroides' and the 'Ars Amatoria', considered one of the great masters of classical Latin poetry.", "year": -43 },
+      { "name": "Spike Lee", "description": "American director, screenwriter and producer, an essential voice in African-American cinema, maker of films such as 'Do the Right Thing' (1989) and 'Malcolm X' (1992).", "year": 1957 },
+      { "name": "Fernando Torres", "description": "Spanish footballer, 'El Niño', striker who won the World Cup in 2010 and the European Championship in 2008 and 2012 with Spain, a historic idol of Atlético de Madrid and Liverpool.", "year": 1984 }
+    ],
+    "events": [
+      { "title": "London Underground, world's first metro, opens", "description": "The Metropolitan Line in London, the first underground railway in history, opened its service transporting the first passengers between Paddington and Farringdon Street.", "year": 1863 },
+      { "title": "Sarin gas attack on the Tokyo Metro", "description": "Members of the Aum Shinrikyo cult released sarin gas on five Tokyo Metro trains, killing 13 people and injuring thousands, in one of the worst terrorist attacks in Japan's history.", "year": 1995 },
+      { "title": "NATO begins bombing of Yugoslavia", "description": "The North Atlantic Treaty Organisation launched an air campaign against the Federal Republic of Yugoslavia in response to the Kosovo crisis, without an explicit mandate from the UN Security Council.", "year": 1999 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Cutberto de Lindisfarne", "type": "Bispo e eremita", "description": "Monge e Bispo de Lindisfarne no século VII, um dos santos mais venerados da Igreja inglesa, conhecido pela sua humildade, vida eremítica e amor pela natureza." },
+      { "name": "São Martinho de Braga", "type": "Bispo", "description": "Prelado do século VI nascido na Panônia (atual Hungria), que evangelizou os suevos da Galécia (atual Galiza) e foi Bispo de Braga; autor de importantes obras morais e eclesiásticas." },
+      { "name": "São Gulfrado de Sens", "type": "Bispo missionário", "description": "Bispo de Sens do século VII que abandonou a sua sede para evangelizar os frísios na atual Holanda, missionário incansável no norte da Europa." }
+    ],
+    "observances": [
+      { "name": "Equinócio de primavera (hemisfério norte)", "description": "O equinócio de primavera marca o momento em que o Sol cruza o equador celeste, igualando a duração do dia e da noite. No hemisfério norte, assinala o início astronômico da primavera." },
+      { "name": "Dia Internacional da Felicidade", "description": "Jornada proclamada pela ONU em 2012 para reconhecer que a felicidade e o bem-estar são metas universais e fundamentais da humanidade, além do crescimento econômico." },
+      { "name": "Dia Mundial do Pardal", "description": "Jornada para conscientizar sobre a diminuição das populações de pardal comum em ambientes urbanos e a importância de proteger essas aves nas cidades." }
+    ],
+    "historicalQuote": {
+      "text": "A primavera é quando a vida está viva em tudo.",
+      "author": "Christina Rossetti",
+      "context": "Christina Rossetti foi uma poetisa vitoriana britânica de descendência italiana, uma das grandes vozes da literatura inglesa do século XIX. Este verso, de um dos seus poemas, capta o espírito regenerador da estação primaveril."
+    },
+    "motivationalQuote": {
+      "text": "Não é possível evitar que os pássaros da tristeza voem sobre a sua cabeça, mas pode evitar que façam ninho no seu cabelo.",
+      "author": "Provérbio chinês"
+    },
+    "births": [
+      { "name": "Ovídio (Públio Ovídio Nasão)", "description": "Poeta romano do século I a.C. – I d.C., autor das 'Metamorfoses', das 'Heroides' e da 'Arte de Amar', considerado um dos grandes mestres da poesia latina clássica.", "year": -43 },
+      { "name": "Spike Lee", "description": "Diretor, roteirista e produtor americano, voz essencial do cinema afro-americano, autor de filmes como 'Faça a Coisa Certa' (1989) e 'Malcolm X' (1992).", "year": 1957 },
+      { "name": "Fernando Torres", "description": "Futebolista espanhol, 'El Niño', atacante campeão do mundo em 2010 e da Europa em 2008 e 2012 com a Espanha, ídolo histórico do Atlético de Madrid e do Liverpool.", "year": 1984 }
+    ],
+    "events": [
+      { "title": "O Metro de Londres, o primeiro do mundo, abre as portas", "description": "A Linha Metropolitan de Londres, o primeiro ferroviário subterrâneo da história, inaugurou o seu serviço transportando os primeiros passageiros entre Paddington e Farringdon Street.", "year": 1863 },
+      { "title": "Ataque com gás sarin no metrô de Tóquio", "description": "Membros da seita Aum Shinrikyo liberaram gás sarin em cinco trens do metrô de Tóquio, matando 13 pessoas e ferindo milhares, num dos piores atentados terroristas da história do Japão.", "year": 1995 },
+      { "title": "A OTAN começa o bombardeio da Jugoslávia", "description": "A Organização do Tratado do Atlântico Norte iniciou uma campanha de bombardeios aéreos contra a República Federal da Jugoslávia em resposta à crise do Kosovo, sem mandato expresso do Conselho de Segurança da ONU.", "year": 1999 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Cutbert de Lindisfarne", "type": "Bisbe i eremita", "description": "Monjo i Bisbe de Lindisfarne al segle VII, un dels sants més venerats de l'Església anglesa, conegut per la seva humilitat, vida eremítica i amor per la natura." },
+      { "name": "Sant Martí de Braga", "type": "Bisbe", "description": "Prelat del segle VI nascut a Panònia (actual Hongria), que va evangelitzar els sueus de Galècia (actual Galícia) i va ser Bisbe de Braga; va escriure importants obres morals i eclesiàstiques." },
+      { "name": "Sant Gulfrand de Sens", "type": "Bisbe missioner", "description": "Bisbe de Sens del segle VII que va abandonar la seva seu per evangelitzar els frisons a l'actual Holanda, missioner incansable al nord d'Europa." }
+    ],
+    "observances": [
+      { "name": "Equinocci de primavera (hemisferi nord)", "description": "L'equinocci de primavera marca el moment en que el Sol creua l'equador celeste, igualant la durada del dia i la nit. A l'hemisferi nord assenyala l'inici astronòmic de la primavera." },
+      { "name": "Dia Internacional de la Felicitat", "description": "Jornada proclamada per l'ONU el 2012 per reconèixer que la felicitat i el benestar són metes universals i fonamentals de la humanitat, més enllà del creixement econòmic." },
+      { "name": "Dia Mundial del Teuladí", "description": "Jornada per conscienciar sobre la disminució de les poblacions de teuladí comú en entorns urbans i la importància de protegir aquests ocells a les ciutats." }
+    ],
+    "historicalQuote": {
+      "text": "La primavera és quan la vida és viva en totes les coses.",
+      "author": "Christina Rossetti",
+      "context": "Christina Rossetti va ser una poetessa victoriana britànica de descendència italiana, una de les grans veus de la literatura anglesa del segle XIX. Aquest vers, d'un dels seus poemes, capta l'esperit regenerador de la primavera."
+    },
+    "motivationalQuote": {
+      "text": "No pots evitar que els ocells de la tristesa volin sobre el teu cap, però sí pots evitar que hi facin niu.",
+      "author": "Proverbi xinès"
+    },
+    "births": [
+      { "name": "Ovidi (Publi Ovidi Nasó)", "description": "Poeta romà del segle I a.C. – I d.C., autor de les 'Metamorfosis', les 'Heroïdes' i l'Art d'Estimar, considerat un dels grans mestres de la poesia llatina clàssica.", "year": -43 },
+      { "name": "Spike Lee", "description": "Director, guionista i productor americà, veu essencial del cinema afroamericà, autor de pel·lícules com 'Fes el que cal' (1989) i 'Malcolm X' (1992).", "year": 1957 },
+      { "name": "Fernando Torres", "description": "Futbolista espanyol, 'El Niño', davanter campió del món el 2010 i d'Europa el 2008 i 2012 amb Espanya, ídol històric de l'Atlètic de Madrid i el Liverpool.", "year": 1984 }
+    ],
+    "events": [
+      { "title": "El metro de Londres, el primer del món, obre les portes", "description": "La línia Metropolitan de Londres, el primer ferrocarril subterrani de la història, va inaugurar el seu servei transportant els primers passatgers entre Paddington i Farringdon Street.", "year": 1863 },
+      { "title": "Atac amb gas sarin al metro de Tòquio", "description": "Membres de la secta Aum Shinrikyo van alliberar gas sarin a cinc trens del metro de Tòquio, matant 13 persones i ferint milers, en un dels pitjors atemptats terroristes de la història del Japó.", "year": 1995 },
+      { "title": "L'OTAN comença el bombardeig de Iugoslàvia", "description": "L'Organització del Tractat de l'Atlàntic Nord va iniciar una campanya de bombardejos aeris contra la República Federal de Iugoslàvia en resposta a la crisi de Kosovo, sense mandat exprés del Consell de Seguretat de l'ONU.", "year": 1999 }
+    ]
+  }
+}

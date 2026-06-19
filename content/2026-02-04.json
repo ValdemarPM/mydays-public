@@ -1,0 +1,119 @@
+{
+  "date": "2026-02-04",
+  "es": {
+    "saints": [
+      { "name": "San Andrés Corsini", "type": "Obispo", "description": "Carmelita florentino del siglo XIV, obispo de Fiesole, conocido por su conversión radical y su vida de penitencia." },
+      { "name": "San José de Leonisa", "type": "Sacerdote", "description": "Fraile capuchino italiano del siglo XVII que evangelizó en Turquía y rescató a esclavos cristianos en Constantinopla." }
+    ],
+    "observances": [
+      { "name": "Día Mundial contra el Cáncer", "description": "Iniciativa de la Unión Internacional Contra el Cáncer (UICC) para aumentar la conciencia sobre la prevención y el tratamiento del cáncer a escala global." },
+      { "name": "Día Internacional de los Derechos Humanos de la Mujer y la Paz Internacional", "description": "Jornada de reflexión sobre la situación de los derechos de las mujeres en contextos de conflicto armado." }
+    ],
+    "historicalQuote": {
+      "text": "Nunca sabrás lo que eres capaz de hacer hasta que lo intentas.",
+      "author": "Charles Dickens",
+      "context": "Dickens nació el 7 de febrero de 1812. Esta reflexión se atribuye a su vasta obra literaria sobre la superación humana ante la adversidad."
+    },
+    "motivationalQuote": {
+      "text": "La vida es lo que sucede mientras estás ocupado haciendo otros planes.",
+      "author": "John Lennon"
+    },
+    "births": [
+      { "name": "Fernand Léger", "description": "Pintor y escultor francés, pionero del cubismo y del arte mecánico, con influencia en el diseño gráfico y la publicidad del siglo XX.", "year": 1881 },
+      { "name": "Rosa Parks", "description": "Activista afroamericana de los derechos civiles cuya negativa a ceder su asiento en un autobús en 1955 desencadenó el movimiento por los derechos civiles.", "year": 1913 },
+      { "name": "Natalie Imbruglia", "description": "Cantante y actriz australiana, conocida mundialmente por su sencillo 'Torn' (1997).", "year": 1975 }
+    ],
+    "events": [
+      { "title": "Fundación de Facebook", "description": "Mark Zuckerberg lanza Facebook desde su dormitorio en Harvard, iniciando la red social que transformaría la comunicación global.", "year": 2004 },
+      { "title": "Apertura de los Juegos Olímpicos de Invierno de Sarajevo", "description": "Yugoslavia inaugura los XIV Juegos Olímpicos de Invierno en Sarajevo, primera vez que los Juegos de Invierno se celebran en un país comunista.", "year": 1984 },
+      { "title": "George Washington, primer presidente de EE. UU.", "description": "El Colegio Electoral vota por unanimidad a George Washington como primer presidente de los Estados Unidos.", "year": 1789 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Andrew Corsini", "type": "Bishop", "description": "Florentine Carmelite of the 14th century, Bishop of Fiesole, renowned for his radical conversion and life of penance." },
+      { "name": "Saint Joseph of Leonessa", "type": "Priest", "description": "Italian Capuchin friar of the 17th century who evangelised in Turkey and rescued Christian slaves in Constantinople." }
+    ],
+    "observances": [
+      { "name": "World Cancer Day", "description": "An initiative of the Union for International Cancer Control (UICC) to raise global awareness about cancer prevention and treatment." },
+      { "name": "International Day for Human Rights of Women and International Peace", "description": "A day of reflection on the situation of women's rights in contexts of armed conflict." }
+    ],
+    "historicalQuote": {
+      "text": "You never know what you are capable of until you try.",
+      "author": "Charles Dickens",
+      "context": "Dickens was born on 7 February 1812. This reflection is attributed to his vast literary work on human perseverance in the face of adversity."
+    },
+    "motivationalQuote": {
+      "text": "Life is what happens while you are busy making other plans.",
+      "author": "John Lennon"
+    },
+    "births": [
+      { "name": "Fernand Léger", "description": "French painter and sculptor, pioneer of Cubism and mechanical art, influential in 20th-century graphic design and advertising.", "year": 1881 },
+      { "name": "Rosa Parks", "description": "African-American civil rights activist whose refusal to give up her bus seat in 1955 sparked the civil rights movement.", "year": 1913 },
+      { "name": "Natalie Imbruglia", "description": "Australian singer and actress, known worldwide for her single 'Torn' (1997).", "year": 1975 }
+    ],
+    "events": [
+      { "title": "Facebook founded", "description": "Mark Zuckerberg launches Facebook from his Harvard dormitory, starting the social network that would transform global communication.", "year": 2004 },
+      { "title": "Opening of the Sarajevo Winter Olympics", "description": "Yugoslavia inaugurates the XIV Winter Olympic Games in Sarajevo, the first Winter Games held in a communist country.", "year": 1984 },
+      { "title": "George Washington elected first US President", "description": "The Electoral College votes unanimously for George Washington as the first President of the United States.", "year": 1789 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São André Corsini", "type": "Bispo", "description": "Carmelita florentino do século XIV, bispo de Fiesole, conhecido por sua conversão radical e vida de penitência." },
+      { "name": "São José de Leonessa", "type": "Sacerdote", "description": "Frade capuchinho italiano do século XVII que evangelizou na Turquia e resgatou escravos cristãos em Constantinopla." }
+    ],
+    "observances": [
+      { "name": "Dia Mundial contra o Câncer", "description": "Iniciativa da União Internacional contra o Câncer (UICC) para aumentar a conscientização sobre a prevenção e o tratamento do câncer em escala global." },
+      { "name": "Dia Internacional dos Direitos Humanos da Mulher e da Paz Internacional", "description": "Jornada de reflexão sobre a situação dos direitos das mulheres em contextos de conflito armado." }
+    ],
+    "historicalQuote": {
+      "text": "Você nunca saberá do que é capaz até tentar.",
+      "author": "Charles Dickens",
+      "context": "Dickens nasceu em 7 de fevereiro de 1812. Esta reflexão é atribuída à sua vasta obra literária sobre a superação humana diante da adversidade."
+    },
+    "motivationalQuote": {
+      "text": "A vida é o que acontece enquanto você está ocupado fazendo outros planos.",
+      "author": "John Lennon"
+    },
+    "births": [
+      { "name": "Fernand Léger", "description": "Pintor e escultor francês, pioneiro do cubismo e da arte mecânica, influente no design gráfico e na publicidade do século XX.", "year": 1881 },
+      { "name": "Rosa Parks", "description": "Ativista afro-americana dos direitos civis cuja recusa em ceder seu assento num ônibus em 1955 desencadeou o movimento pelos direitos civis.", "year": 1913 },
+      { "name": "Natalie Imbruglia", "description": "Cantora e atriz australiana, conhecida mundialmente pelo single 'Torn' (1997).", "year": 1975 }
+    ],
+    "events": [
+      { "title": "Fundação do Facebook", "description": "Mark Zuckerberg lança o Facebook de seu dormitório em Harvard, iniciando a rede social que transformaria a comunicação global.", "year": 2004 },
+      { "title": "Abertura dos Jogos Olímpicos de Inverno de Sarajevo", "description": "A Iugoslávia inaugura os XIV Jogos Olímpicos de Inverno em Sarajevo, a primeira vez que os Jogos de Inverno foram realizados em um país comunista.", "year": 1984 },
+      { "title": "George Washington eleito primeiro presidente dos EUA", "description": "O Colégio Eleitoral vota por unanimidade em George Washington como primeiro presidente dos Estados Unidos.", "year": 1789 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Andreu Corsini", "type": "Bisbe", "description": "Carmelita florentí del segle XIV, bisbe de Fiesole, conegut per la seva conversió radical i vida de penitència." },
+      { "name": "Sant Josep de Leonessa", "type": "Sacerdot", "description": "Frare caputxí italià del segle XVII que evangelitzà a Turquia i rescatà esclaus cristians a Constantinoble." }
+    ],
+    "observances": [
+      { "name": "Dia Mundial contra el Càncer", "description": "Iniciativa de la Unió Internacional Contra el Càncer (UICC) per augmentar la consciència sobre la prevenció i el tractament del càncer a escala global." },
+      { "name": "Dia Internacional dels Drets Humans de la Dona i la Pau Internacional", "description": "Jornada de reflexió sobre la situació dels drets de les dones en contextos de conflicte armat." }
+    ],
+    "historicalQuote": {
+      "text": "Mai sabràs de què ets capaç fins que ho intentes.",
+      "author": "Charles Dickens",
+      "context": "Dickens va néixer el 7 de febrer de 1812. Aquesta reflexió s'atribueix a la seva vasta obra literària sobre la superació humana davant l'adversitat."
+    },
+    "motivationalQuote": {
+      "text": "La vida és el que passa mentre estàs ocupat fent altres plans.",
+      "author": "John Lennon"
+    },
+    "births": [
+      { "name": "Fernand Léger", "description": "Pintor i escultor francès, pioner del cubisme i l'art mecànic, influent en el disseny gràfic i la publicitat del segle XX.", "year": 1881 },
+      { "name": "Rosa Parks", "description": "Activista afroamericana dels drets civils la negativa de la qual a cedir el seu seient en un autobús el 1955 va desencadenar el moviment pels drets civils.", "year": 1913 },
+      { "name": "Natalie Imbruglia", "description": "Cantant i actriu australiana, coneguda mundialment pel seu senzill 'Torn' (1997).", "year": 1975 }
+    ],
+    "events": [
+      { "title": "Fundació de Facebook", "description": "Mark Zuckerberg llança Facebook des de la seva residència a Harvard, iniciant la xarxa social que transformaria la comunicació global.", "year": 2004 },
+      { "title": "Obertura dels Jocs Olímpics d'Hivern de Sarajevo", "description": "Iugoslàvia inaugura els XIV Jocs Olímpics d'Hivern a Sarajevo, la primera vegada que els Jocs d'Hivern se celebren en un país comunista.", "year": 1984 },
+      { "title": "George Washington elegit primer president dels EUA", "description": "El Col·legi Electoral vota per unanimitat George Washington com a primer president dels Estats Units.", "year": 1789 }
+    ]
+  }
+}

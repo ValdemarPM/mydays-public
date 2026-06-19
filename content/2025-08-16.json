@@ -1,0 +1,291 @@
+{
+  "date": "2025-08-16",
+  "es": {
+    "saints": [
+      {
+        "name": "San Roque de Montpellier",
+        "type": "Peregrino y Confesor",
+        "description": "Peregrino francés del siglo XIV (c. 1348–1379) que dedicó su vida a cuidar a los apestados en Italia. Enfermó él mismo de peste, se retiró a un bosque y fue curado milagrosamente. Patrono de los enfermos de peste, de los peregrinos y de los falsamente acusados."
+      },
+      {
+        "name": "Santo Esteban de Hungría",
+        "type": "Rey",
+        "description": "Fundador del Estado húngaro, coronado el año 1000. En algunos calendarios su fiesta principal se celebra el 16 de agosto, aunque oficialmente es el 20 de agosto. Canonizado en 1083 por Gregorio VII."
+      },
+      {
+        "name": "Santa Beatriz de Silva",
+        "type": "Virgen y Fundadora",
+        "description": "Noble portuguesa del siglo XV (1424–1490), fundadora de la Orden de la Inmaculada Concepción (Concepcionistas). Canonizada por Juan Pablo II en 1976. Patrona de Portugal."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Fotografía",
+        "description": "Se celebra el 19 de agosto en conmemoración del anuncio del daguerrotipo (1839). El 16 de agosto muchas comunidades fotográficas organizan exposiciones y concursos de fotografía mundiales."
+      },
+      {
+        "name": "Día Nacional de la Aviación de Bélgica",
+        "description": "Bélgica conmemora el 16 de agosto los logros de la aviación belga desde los pioneros del vuelo hasta los pilotos modernos de la Fuerza Aérea belga."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La cámara es un instrumento que enseña a las personas cómo ver sin una cámara.",
+      "author": "Dorothea Lange",
+      "context": "La fotógrafa documental americana (1895–1965), famosa por su retrato La madre migrante durante la Gran Depresión, reflexionó sobre cómo la fotografía cambia la percepción visual del mundo incluso fuera del encuadre."
+    },
+    "motivationalQuote": {
+      "text": "La creatividad es la inteligencia divirtiéndose.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Menno Simons",
+        "description": "Sacerdote y reformador religioso frisón del siglo XVI (1496–1561), fundador del movimiento menonita. Sus enseñanzas sobre el pacifismo, la no violencia y la separación de la Iglesia del Estado influyen hasta hoy.",
+        "year": 1496
+      },
+      {
+        "name": "T. E. Lawrence",
+        "description": "Oficial militar y escritor británico (1888–1935), conocido como Lawrence de Arabia por su papel en la Revuelta Árabe durante la Primera Guerra Mundial. Su autobiografía Los siete pilares de la sabiduría es un clásico.",
+        "year": 1888
+      },
+      {
+        "name": "Madonna",
+        "description": "Cantante, compositora y actriz estadounidense, una de las artistas con más discos vendidos de la historia. Conocida como la 'Reina del Pop', ha reinventado su imagen y sonido en cada década desde los años ochenta.",
+        "year": 1958
+      }
+    ],
+    "events": [
+      {
+        "title": "Muerte de Elvis Presley",
+        "description": "El 16 de agosto de 1977, Elvis Presley, conocido como el 'Rey del Rock and Roll', fue hallado muerto en su mansión Graceland de Memphis (Tennessee) a los 42 años, dejando un legado musical inigualable.",
+        "year": 1977
+      },
+      {
+        "title": "Primera transmisión de radio de larga distancia",
+        "description": "El 16 de agosto de 1906, Reginald Fessenden realizó en Massachusetts la primera transmisión de voz por radio de larga distancia de la historia, revolucionando las comunicaciones.",
+        "year": 1906
+      },
+      {
+        "title": "Bering cruza el estrecho que lleva su nombre",
+        "description": "El 16 de agosto de 1728, el explorador danés Vitus Bering completó el primer cruce documentado del estrecho entre Asia y América, que hoy lleva su nombre, demostrando que los dos continentes no estaban unidos.",
+        "year": 1728
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Roch of Montpellier",
+        "type": "Pilgrim and Confessor",
+        "description": "14th-century French pilgrim (c. 1348–1379) who devoted his life to caring for plague victims in Italy. He contracted the plague himself, withdrew to a forest, and was miraculously healed. Patron of plague sufferers, pilgrims, and the falsely accused."
+      },
+      {
+        "name": "Saint Stephen of Hungary",
+        "type": "King",
+        "description": "Founder of the Hungarian state, crowned in the year 1000. In some calendars his principal feast is celebrated on 16 August, though officially it falls on 20 August. Canonised in 1083 by Gregory VII."
+      },
+      {
+        "name": "Saint Beatrice of Silva",
+        "type": "Virgin and Foundress",
+        "description": "15th-century Portuguese noblewoman (1424–1490), foundress of the Order of the Immaculate Conception (Conceptionist Sisters). Canonised by John Paul II in 1976. Patron of Portugal."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Photography Day",
+        "description": "Celebrated on 19 August to mark the announcement of the daguerreotype (1839). On 16 August many photography communities organise global exhibitions and photography contests."
+      },
+      {
+        "name": "Belgian National Aviation Day",
+        "description": "Belgium commemorates on 16 August the achievements of Belgian aviation from the pioneers of flight to the modern pilots of the Belgian Air Component."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The camera is an instrument that teaches people how to see without a camera.",
+      "author": "Dorothea Lange",
+      "context": "The American documentary photographer (1895–1965), famous for her portrait Migrant Mother during the Great Depression, reflected on how photography changes visual perception of the world even outside the viewfinder."
+    },
+    "motivationalQuote": {
+      "text": "Creativity is intelligence having fun.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Menno Simons",
+        "description": "Frisian priest and religious reformer of the 16th century (1496–1561), founder of the Mennonite movement. His teachings on pacifism, non-violence, and the separation of Church and state continue to influence communities today.",
+        "year": 1496
+      },
+      {
+        "name": "T. E. Lawrence",
+        "description": "British military officer and writer (1888–1935), known as Lawrence of Arabia for his role in the Arab Revolt during World War I. His autobiography Seven Pillars of Wisdom is a classic.",
+        "year": 1888
+      },
+      {
+        "name": "Madonna",
+        "description": "American singer, songwriter, and actress, one of the best-selling music artists of all time. Known as the 'Queen of Pop', she has reinvented her image and sound in every decade since the 1980s.",
+        "year": 1958
+      }
+    ],
+    "events": [
+      {
+        "title": "Death of Elvis Presley",
+        "description": "On 16 August 1977, Elvis Presley, known as the 'King of Rock and Roll', was found dead at his Graceland mansion in Memphis, Tennessee, at the age of 42, leaving behind an unparalleled musical legacy.",
+        "year": 1977
+      },
+      {
+        "title": "First long-distance radio voice transmission",
+        "description": "On 16 August 1906, Reginald Fessenden made the first long-distance radio voice transmission in history from Massachusetts, revolutionising communications.",
+        "year": 1906
+      },
+      {
+        "title": "Bering crosses the strait bearing his name",
+        "description": "On 16 August 1728, Danish explorer Vitus Bering completed the first documented crossing of the strait between Asia and America, now bearing his name, proving that the two continents were not connected.",
+        "year": 1728
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Roque de Montpellier",
+        "type": "Peregrino e Confessor",
+        "description": "Peregrino francês do século XIV (c. 1348–1379) que dedicou a sua vida a cuidar dos pestíferos em Itália. Contraiu ele próprio a peste, retirou-se para um bosque e foi curado milagrosamente. Padroeiro dos doentes de peste, dos peregrinos e dos falsamente acusados."
+      },
+      {
+        "name": "Santo Estêvão da Hungria",
+        "type": "Rei",
+        "description": "Fundador do Estado húngaro, coroado no ano 1000. Em alguns calendários a sua festa principal celebra-se a 16 de agosto, embora oficialmente caia a 20 de agosto. Canonizado em 1083 por Gregório VII."
+      },
+      {
+        "name": "Santa Beatriz de Silva",
+        "type": "Virgem e Fundadora",
+        "description": "Nobre portuguesa do século XV (1424–1490), fundadora da Ordem da Imaculada Conceição (Concepcionistas). Canonizada por João Paulo II em 1976. Padroeira de Portugal."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Fotografia",
+        "description": "Celebrado em 19 de agosto para assinalar o anúncio do daguerreótipo (1839). Em 16 de agosto muitas comunidades fotográficas organizam exposições e concursos de fotografia mundiais."
+      },
+      {
+        "name": "Dia Nacional da Aviação da Bélgica",
+        "description": "A Bélgica comemora em 16 de agosto as conquistas da aviação belga desde os pioneiros do voo até aos modernos pilotos da Componente Aérea Belga."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A câmera é um instrumento que ensina as pessoas a ver sem uma câmera.",
+      "author": "Dorothea Lange",
+      "context": "A fotógrafa documental americana (1895–1965), famosa pelo retrato A Mãe Migrante durante a Grande Depressão, refletiu sobre como a fotografia muda a percepção visual do mundo mesmo fora do enquadramento."
+    },
+    "motivationalQuote": {
+      "text": "A criatividade é a inteligência se divertindo.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Menno Simons",
+        "description": "Sacerdote e reformador religioso frisão do século XVI (1496–1561), fundador do movimento menonita. Os seus ensinamentos sobre o pacifismo, a não violência e a separação da Igreja do Estado influenciam comunidades até hoje.",
+        "year": 1496
+      },
+      {
+        "name": "T. E. Lawrence",
+        "description": "Oficial militar e escritor britânico (1888–1935), conhecido como Lawrence da Arábia pelo seu papel na Revolta Árabe durante a Primeira Guerra Mundial. A sua autobiografia Os Sete Pilares da Sabedoria é um clássico.",
+        "year": 1888
+      },
+      {
+        "name": "Madonna",
+        "description": "Cantora, compositora e atriz americana, uma das artistas com mais discos vendidos de todos os tempos. Conhecida como a 'Rainha do Pop', tem reinventado a sua imagem e som em cada década desde os anos oitenta.",
+        "year": 1958
+      }
+    ],
+    "events": [
+      {
+        "title": "Morte de Elvis Presley",
+        "description": "Em 16 de agosto de 1977, Elvis Presley, conhecido como o 'Rei do Rock and Roll', foi encontrado morto na sua mansão Graceland em Memphis, Tennessee, com 42 anos, deixando um legado musical incomparável.",
+        "year": 1977
+      },
+      {
+        "title": "Primeira transmissão de voz por rádio de longa distância",
+        "description": "Em 16 de agosto de 1906, Reginald Fessenden realizou no Massachusetts a primeira transmissão de voz por rádio de longa distância da história, revolucionando as comunicações.",
+        "year": 1906
+      },
+      {
+        "title": "Bering atravessa o estreito que leva o seu nome",
+        "description": "Em 16 de agosto de 1728, o explorador dinamarquês Vitus Bering completou a primeira travessia documentada do estreito entre a Ásia e a América, que hoje leva o seu nome, provando que os dois continentes não estavam unidos.",
+        "year": 1728
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Roc de Montpeller",
+        "type": "Pelegrí i Confessor",
+        "description": "Pelegrí francès del segle XIV (c. 1348–1379) que va dedicar la seva vida a atendre els apestats a Itàlia. Ell mateix va contraure la pesta, es va retirar a un bosc i va ser curat miraculosament. Patró dels malalts de pesta, els pelegrins i els injustament acusats."
+      },
+      {
+        "name": "Sant Esteve d'Hongria",
+        "type": "Rei",
+        "description": "Fundador de l'Estat hongarès, coronat l'any 1000. En alguns calendaris la seva festa principal es celebra el 16 d'agost, tot i que oficialment cau el 20 d'agost. Canonitzat el 1083 per Gregori VII."
+      },
+      {
+        "name": "Santa Beatriu de Silva",
+        "type": "Verge i Fundadora",
+        "description": "Noble portuguesa del segle XV (1424–1490), fundadora de l'Orde de la Immaculada Concepció (Concepcionistes). Canonitzada per Joan Pau II el 1976. Patrona de Portugal."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Fotografia",
+        "description": "Celebrat el 19 d'agost per commemorar l'anunci del daguerreotip (1839). El 16 d'agost moltes comunitats fotogràfiques organitzen exposicions i concursos de fotografia mundials."
+      },
+      {
+        "name": "Dia Nacional de l'Aviació de Bèlgica",
+        "description": "Bèlgica commemora el 16 d'agost els assoliments de l'aviació belga des dels pioners del vol fins als pilots moderns de la Component Aèria Belga."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La càmera és un instrument que ensenya les persones a veure sense càmera.",
+      "author": "Dorothea Lange",
+      "context": "La fotògrafa documental americana (1895–1965), famosa pel retrat La mare migrant durant la Gran Depressió, va reflexionar sobre com la fotografia canvia la percepció visual del món fins i tot fora del marc."
+    },
+    "motivationalQuote": {
+      "text": "La creativitat és la intel·ligència divertint-se.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Menno Simons",
+        "description": "Sacerdot i reformador religiós frisó del segle XVI (1496–1561), fundador del moviment menonita. Els seus ensenyaments sobre el pacifisme, la no violència i la separació de l'Església de l'Estat continuen influint comunitats avui dia.",
+        "year": 1496
+      },
+      {
+        "name": "T. E. Lawrence",
+        "description": "Oficial militar i escriptor britànic (1888–1935), conegut com Lawrence d'Aràbia pel seu paper en la Revolta Àrab durant la Primera Guerra Mundial. La seva autobiografia Els set pilars de la saviesa és un clàssic.",
+        "year": 1888
+      },
+      {
+        "name": "Madonna",
+        "description": "Cantant, compositora i actriu americana, una de les artistes amb més discos venuts de la història. Coneguda com la 'Reina del Pop', ha reinventat la seva imatge i el seu so cada dècada des dels anys vuitanta.",
+        "year": 1958
+      }
+    ],
+    "events": [
+      {
+        "title": "Mort d'Elvis Presley",
+        "description": "El 16 d'agost de 1977, Elvis Presley, conegut com el 'Rei del Rock and Roll', va ser trobat mort a la seva mansió Graceland a Memphis (Tennessee) als 42 anys, deixant un llegat musical incomparable.",
+        "year": 1977
+      },
+      {
+        "title": "Primera transmissió de veu per ràdio de llarga distància",
+        "description": "El 16 d'agost de 1906, Reginald Fessenden va fer a Massachusetts la primera transmissió de veu per ràdio de llarga distància de la història, revolucionant les comunicacions.",
+        "year": 1906
+      },
+      {
+        "title": "Bering travessa l'estret que porta el seu nom",
+        "description": "El 16 d'agost de 1728, l'explorador danès Vitus Bering va completar la primera travessia documentada de l'estret entre Àsia i Amèrica, que avui porta el seu nom, demostrant que els dos continents no estaven units.",
+        "year": 1728
+      }
+    ]
+  }
+}

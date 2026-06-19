@@ -1,0 +1,271 @@
+{
+  "date": "2025-07-22",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa María Magdalena",
+        "type": "Discípula de Jesús",
+        "description": "Mujer galileea que fue discípula de Jesús y fue la primera en ver al Cristo resucitado según los cuatro Evangelios. Proclamada 'Apóstola de los Apóstoles' por la tradición cristiana. Juan Pablo II elevó su memoria al rango de fiesta litúrgica en 2016."
+      },
+      {
+        "name": "San José de Palestina",
+        "type": "Convertido del judaísmo",
+        "description": "Judío del siglo IV que se convirtió al cristianismo y recibió del emperador Constantino el permiso para construir iglesias en Galilea. Fue obispo de Tiberíades y amigo del historiador Epifanio de Salamina."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día del Pi (22/7)",
+        "description": "El 22 de julio es el Día del Pi en notación europea (22/7 ≈ 3,14159…), la fracción que mejor aproxima el número π (pi) con denominador menor que 100. Los matemáticos lo celebran con charlas y actividades divulgativas."
+      },
+      {
+        "name": "Día Mundial del Cerebro",
+        "description": "Establecido por la Federación Mundial de Neurología, se celebra el 22 de julio para concienciar sobre la importancia de la salud cerebral y las enfermedades neurológicas que afectan a millones de personas."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No me toques, porque aún no he subido a mi Padre.",
+      "author": "Jesús (según el Evangelio de Juan)",
+      "context": "Palabras que Jesús dirigió a María Magdalena, cuya fiesta se celebra hoy, cuando ella lo reconoció resucitado en el jardín del sepulcro (Juan 20:17). María Magdalena fue la primera testigo de la Resurrección."
+    },
+    "motivationalQuote": {
+      "text": "La vida no se mide por el número de respiraciones que tomamos, sino por los momentos que nos dejan sin aliento.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Gregor Mendel",
+        "description": "Monje agustino y botánico checo-austríaco (1822–1884), padre de la genética moderna. Sus experimentos con guisantes en el jardín de su monasterio establecieron las leyes de la herencia genética, redescubiertas en 1900.",
+        "year": 1822
+      },
+      {
+        "name": "Edward Hopper",
+        "description": "Pintor estadounidense cuya obra captura la soledad y el aislamiento de la vida urbana americana. Su cuadro más famoso, Nighthawks (1942), es una de las imágenes más reconocibles del arte del siglo XX.",
+        "year": 1882
+      },
+      {
+        "name": "Willem Dafoe",
+        "description": "Actor estadounidense conocido por sus personajes complejos y perturbadores. Nominado cuatro veces al Oscar, interpretó a Jesucristo en La última tentación de Cristo y al Duende Verde en Spider-Man.",
+        "year": 1955
+      }
+    ],
+    "events": [
+      {
+        "title": "Masacre de Utøya (Noruega)",
+        "description": "El 22 de julio de 2011, el extremista Anders Behring Breivik detonó una bomba en Oslo y luego disparó contra un campamento juvenil en la isla de Utøya, causando 77 muertos en el peor atentado de la historia de Noruega.",
+        "year": 2011
+      },
+      {
+        "title": "Nace el príncipe Jorge de Cambridge",
+        "description": "El 22 de julio de 2013, nació el príncipe Jorge, primogénito del príncipe Guillermo y Kate Middleton, y tercer en la línea de sucesión al trono del Reino Unido.",
+        "year": 2013
+      },
+      {
+        "title": "Longitud del metro definida oficialmente",
+        "description": "El 22 de julio de 1799, el metro fue definido oficialmente en Francia como la diezmillonésima parte del cuadrante del meridiano terrestre, estableciendo el sistema métrico decimal como base de la metrología moderna.",
+        "year": 1799
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Mary Magdalene",
+        "type": "Disciple of Jesus",
+        "description": "A Galilean woman who was a disciple of Jesus and, according to all four Gospels, was the first to see the Risen Christ. Proclaimed 'Apostle to the Apostles' by Christian tradition. Pope John Paul II elevated her memory to the rank of liturgical feast in 2016."
+      },
+      {
+        "name": "Saint Joseph of Palestine",
+        "type": "Convert from Judaism",
+        "description": "A 4th-century Jew who converted to Christianity and received permission from Emperor Constantine to build churches in Galilee. He was a bishop of Tiberias and a friend of the historian Epiphanius of Salamis."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Pi Approximation Day (22/7)",
+        "description": "22 July is Pi Approximation Day in European notation (22/7 ≈ 3.14159…), the fraction that best approximates the number π with a denominator less than 100. Mathematicians celebrate with talks and outreach activities."
+      },
+      {
+        "name": "World Brain Day",
+        "description": "Established by the World Federation of Neurology, observed on 22 July to raise awareness of the importance of brain health and neurological diseases affecting millions worldwide."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Do not hold on to me, for I have not yet ascended to my Father.",
+      "author": "Jesus (according to the Gospel of John)",
+      "context": "Words Jesus spoke to Mary Magdalene — whose feast is celebrated today — when she recognised him as the Risen Christ in the garden of the tomb (John 20:17). Mary Magdalene was the first witness of the Resurrection."
+    },
+    "motivationalQuote": {
+      "text": "Life is not measured by the number of breaths we take, but by the moments that take our breath away.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Gregor Mendel",
+        "description": "Augustinian friar and Czech-Austrian botanist (1822–1884), father of modern genetics. His pea experiments in his monastery garden established the laws of genetic inheritance, rediscovered in 1900.",
+        "year": 1822
+      },
+      {
+        "name": "Edward Hopper",
+        "description": "American painter whose work captures the loneliness and isolation of American urban life. His most famous painting, Nighthawks (1942), is one of the most recognisable images in 20th-century art.",
+        "year": 1882
+      },
+      {
+        "name": "Willem Dafoe",
+        "description": "American actor known for his complex and disturbing characters. Nominated four times for the Academy Award, he portrayed Jesus Christ in The Last Temptation of Christ and the Green Goblin in Spider-Man.",
+        "year": 1955
+      }
+    ],
+    "events": [
+      {
+        "title": "Utøya massacre (Norway)",
+        "description": "On 22 July 2011, extremist Anders Behring Breivik detonated a bomb in Oslo and then opened fire at a youth camp on the island of Utøya, killing 77 people in the deadliest attack in Norwegian history.",
+        "year": 2011
+      },
+      {
+        "title": "Prince George of Cambridge born",
+        "description": "On 22 July 2013, Prince George was born, the first child of Prince William and Kate Middleton, and third in the line of succession to the British throne.",
+        "year": 2013
+      },
+      {
+        "title": "The metre officially defined",
+        "description": "On 22 July 1799, the metre was officially defined in France as one ten-millionth of a quadrant of the Earth's meridian, establishing the decimal metric system as the basis of modern metrology.",
+        "year": 1799
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Maria Madalena",
+        "type": "Discípula de Jesus",
+        "description": "Mulher galileia que foi discípula de Jesus e foi a primeira a ver o Cristo ressuscitado, segundo os quatro Evangelhos. Proclamada 'Apóstola dos Apóstolos' pela tradição cristã. O Papa João Paulo II elevou a sua memória ao grau de festa litúrgica em 2016."
+      },
+      {
+        "name": "São José da Palestina",
+        "type": "Convertido do judaísmo",
+        "description": "Judeu do século IV que se converteu ao cristianismo e recebeu do imperador Constantino permissão para construir igrejas na Galileia. Foi bispo de Tiberíades e amigo do historiador Epifânio de Salamina."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Aproximação de Pi (22/7)",
+        "description": "O 22 de julho é o Dia da Aproximação de Pi na notação europeia (22/7 ≈ 3,14159…), a fração que melhor aproxima o número π com denominador menor que 100. Os matemáticos celebram com palestras e atividades divulgativas."
+      },
+      {
+        "name": "Dia Mundial do Cérebro",
+        "description": "Estabelecido pela Federação Mundial de Neurologia, celebrado em 22 de julho para sensibilizar sobre a importância da saúde cerebral e as doenças neurológicas que afetam milhões de pessoas em todo o mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Não me toque, porque ainda não subi ao meu Pai.",
+      "author": "Jesus (segundo o Evangelho de João)",
+      "context": "Palavras que Jesus dirigiu a Maria Madalena — cuja festa se celebra hoje — quando ela o reconheceu ressuscitado no jardim do sepulcro (João 20:17). Maria Madalena foi a primeira testemunha da Ressurreição."
+    },
+    "motivationalQuote": {
+      "text": "A vida não se mede pelo número de respirações que damos, mas pelos momentos que nos tiram o fôlego.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Gregor Mendel",
+        "description": "Frade agostiniano e botânico austro-tcheco (1822–1884), pai da genética moderna. Os seus experimentos com ervilhas no jardim do seu mosteiro estabeleceram as leis da hereditariedade genética, redescobertas em 1900.",
+        "year": 1822
+      },
+      {
+        "name": "Edward Hopper",
+        "description": "Pintor americano cuja obra captura a solidão e o isolamento da vida urbana americana. O seu quadro mais famoso, Nighthawks (1942), é uma das imagens mais reconhecíveis da arte do século XX.",
+        "year": 1882
+      },
+      {
+        "name": "Willem Dafoe",
+        "description": "Ator americano conhecido pelos seus personagens complexos e perturbadores. Nomeado quatro vezes para o Oscar, interpretou Jesus Cristo em A Última Tentação de Cristo e o Duende Verde em Homem-Aranha.",
+        "year": 1955
+      }
+    ],
+    "events": [
+      {
+        "title": "Massacre de Utøya (Noruega)",
+        "description": "Em 22 de julho de 2011, o extremista Anders Behring Breivik detonou uma bomba em Oslo e depois disparou contra um acampamento juvenil na ilha de Utøya, causando 77 mortos no pior atentado da história da Noruega.",
+        "year": 2011
+      },
+      {
+        "title": "Nasce o príncipe Jorge de Cambridge",
+        "description": "Em 22 de julho de 2013, nasceu o príncipe Jorge, primogênito do príncipe Guilherme e Kate Middleton, e terceiro na linha de sucessão ao trono do Reino Unido.",
+        "year": 2013
+      },
+      {
+        "title": "O metro definido oficialmente",
+        "description": "Em 22 de julho de 1799, o metro foi oficialmente definido em França como a décima milionésima parte de um quadrante do meridiano terrestre, estabelecendo o sistema métrico decimal como base da metrologia moderna.",
+        "year": 1799
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Maria Magdalena",
+        "type": "Deixebla de Jesús",
+        "description": "Dona galileia que va ser deixebla de Jesús i va ser la primera a veure el Crist ressuscitat, segons els quatre Evangelis. Proclamada 'Apòstola dels Apòstols' per la tradició cristiana. Joan Pau II va elevar la seva memòria al rang de festa litúrgica el 2016."
+      },
+      {
+        "name": "Sant Josep de Palestina",
+        "type": "Convertit del judaisme",
+        "description": "Jueu del segle IV que es va convertir al cristianisme i va rebre de l'emperador Constantí permís per construir esglésies a Galilea. Va ser bisbe de Tibèries i amic de l'historiador Epifani de Salamina."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de l'Aproximació de Pi (22/7)",
+        "description": "El 22 de juliol és el Dia de l'Aproximació de Pi en notació europea (22/7 ≈ 3,14159…), la fracció que millor aproxima el nombre π amb denominador menor que 100. Els matemàtics ho celebren amb xerrades i activitats divulgatives."
+      },
+      {
+        "name": "Dia Mundial del Cervell",
+        "description": "Establert per la Federació Mundial de Neurologia, se celebra el 22 de juliol per sensibilitzar sobre la importància de la salut cerebral i les malalties neurològiques que afecten milions de persones."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No em toquis, perquè encara no he pujat al meu Pare.",
+      "author": "Jesús (segons l'Evangeli de Joan)",
+      "context": "Paraules que Jesús va dirigir a Maria Magdalena — la festivitat de la qual se celebra avui — quan ella el va reconèixer ressuscitat al jardí del sepulcre (Joan 20:17). Maria Magdalena va ser la primera testimoni de la Resurrecció."
+    },
+    "motivationalQuote": {
+      "text": "La vida no es mesura pel nombre de respiracions que prenem, sinó pels moments que ens deixen sense alè.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Gregor Mendel",
+        "description": "Frare agustí i botànic txec-austríac (1822–1884), pare de la genètica moderna. Els seus experiments amb pèsols al jardí del seu monestir van establir les lleis de l'herència genètica, redescobertes el 1900.",
+        "year": 1822
+      },
+      {
+        "name": "Edward Hopper",
+        "description": "Pintor americà la obra del qual captura la solitud i l'aïllament de la vida urbana americana. El seu quadre més famós, Nighthawks (1942), és una de les imatges més reconeixibles de l'art del segle XX.",
+        "year": 1882
+      },
+      {
+        "name": "Willem Dafoe",
+        "description": "Actor americà conegut pels seus personatges complexos i pertorbadors. Nominat quatre vegades a l'Oscar, va interpretar Jesucrist a L'última temptació de Crist i el Follet Verd a Spider-Man.",
+        "year": 1955
+      }
+    ],
+    "events": [
+      {
+        "title": "Massacre d'Utøya (Noruega)",
+        "description": "El 22 de juliol de 2011, l'extremista Anders Behring Breivik va detonar una bomba a Oslo i després va disparar contra un campament juvenil a l'illa d'Utøya, causant 77 morts en el pitjor atemptat de la història de Noruega.",
+        "year": 2011
+      },
+      {
+        "title": "Neix el príncep Jordi de Cambridge",
+        "description": "El 22 de juliol de 2013, va néixer el príncep Jordi, primogènit del príncep Guillem i Kate Middleton, i tercer en la línia de successió al tron del Regne Unit.",
+        "year": 2013
+      },
+      {
+        "title": "El metre definit oficialment",
+        "description": "El 22 de juliol de 1799, el metre va ser definit oficialment a França com la deu milionèsima part d'un quadrant del meridià terrestre, establint el sistema mètric decimal com a base de la metrologia moderna.",
+        "year": 1799
+      }
+    ]
+  }
+}

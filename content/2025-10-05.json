@@ -1,0 +1,275 @@
+{
+  "date": "2025-10-05",
+  "es": {
+    "saints": [
+      {
+        "name": "San Plácido",
+        "type": "Mártir",
+        "description": "Discípulo de San Benito de Nursia del siglo VI, que según la tradición fue enviado a Sicilia para fundar un monasterio y fue martirizado junto a otros compañeros por piratas sarracenos. Es patrono de los escolares y su festividad fue muy popular en la Europa medieval."
+      },
+      {
+        "name": "San Froilán de León",
+        "type": "Obispo",
+        "description": "Monje eremita leonés del siglo IX (ca. 832–905), fundador del monasterio de Moreruela en Zamora y posteriormente obispo de León. Evangelizó las tierras repobladas del reino de León y es hoy uno de los patronos de la ciudad de León y de la diócesis leonesa."
+      },
+      {
+        "name": "San Apolinar Claudio",
+        "type": "Mártir",
+        "description": "Sacerdote mártir del siglo II en Lyon (Galia), discípulo del obispo San Potino. Murió durante las persecuciones del emperador Marco Aurelio. Su martirio junto con el de otros compañeros está relatado en la carta de la comunidad de Lyon a las iglesias de Asia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de los Docentes",
+        "description": "Proclamado por la UNESCO en 1994, se celebra el 5 de octubre para conmemorar la firma de la Recomendación de la OIT/UNESCO relativa a la situación del personal docente en 1966. Reconoce el papel esencial de los educadores en el desarrollo humano y social."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La educación es el arma más poderosa que puedes usar para cambiar el mundo.",
+      "author": "Nelson Mandela",
+      "context": "En el Día Mundial de los Docentes, esta cita del líder sudafricano Nelson Mandela resume su convicción de que la educación es la clave de la transformación social. Mandela pasó 27 años encarcelado y al salir promovió la reconciliación y la educación como pilares de una nueva Sudáfrica."
+    },
+    "motivationalQuote": {
+      "text": "Dime y lo olvido, enséñame y lo recuerdo, involúcrame y lo aprendo.",
+      "author": "Benjamin Franklin"
+    },
+    "births": [
+      {
+        "name": "Denis Diderot",
+        "description": "Filósofo, escritor y enciclopedista francés (1713–1784), director de la Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers, obra monumental de la Ilustración que reunió el saber de la época en 28 volúmenes. Fue un defensor del ateísmo y del materialismo en plena Europa cristiana.",
+        "year": 1713
+      },
+      {
+        "name": "Chester A. Arthur",
+        "description": "Veintiún presidente de los Estados Unidos (1830–1886), que gobernó tras el asesinato del presidente Garfield. Impulsó la Ley Pendleton de Servicio Civil (1883), que estableció el sistema de méritos en la administración federal, combatiendo la corrupción del spoils system.",
+        "year": 1830
+      },
+      {
+        "name": "Kate Winslet",
+        "description": "Actriz inglesa (n. 1975), una de las más aclamadas de su generación. Ganó el Oscar a la mejor actriz por El lector (2008) y el Emmy y el Globo de Oro por Mildred Pierce. Su papel en Titanic (1997) la convirtió en una estrella internacional a los 22 años.",
+        "year": 1975
+      }
+    ],
+    "events": [
+      {
+        "title": "Se proclama la República portuguesa",
+        "description": "Tras la revolución del 4 y 5 de octubre, la monarquía portuguesa fue abolida y se proclamó la Primera República de Portugal. El rey Manuel II huyó a Gran Bretaña y se inició un período republicano que duró hasta el golpe de Estado de 1926.",
+        "year": 1910
+      },
+      {
+        "title": "Primer satélite de comunicaciones comercial en órbita geoestacionaria",
+        "description": "El Intelsat I (conocido como Early Bird) fue el primer satélite de comunicaciones comerciales colocado en una órbita geoestacionaria, permitiendo la retransmisión de señales de televisión entre Europa y América del Norte en tiempo real. Fue el precursor de la comunicación satelital global.",
+        "year": 1965
+      },
+      {
+        "title": "Primer concierto de los Rolling Stones",
+        "description": "Los Rolling Stones ofrecieron su primer concierto como grupo en el Marquee Club de Londres. La banda, formada por Mick Jagger, Keith Richards y Brian Jones, interpretó principalmente blues americano. Comenzaba la trayectoria de una de las bandas de rock más longevas e influyentes de la historia.",
+        "year": 1962
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Placidus",
+        "type": "Martyr",
+        "description": "A 6th-century disciple of Saint Benedict of Nursia, who according to tradition was sent to Sicily to found a monastery and was martyred along with other companions by Saracen pirates. He is the patron of schoolchildren and his feast was very popular in medieval Europe."
+      },
+      {
+        "name": "Saint Froilan of León",
+        "type": "Bishop",
+        "description": "A Leonese hermit monk of the 9th century (ca. 832–905), founder of the monastery of Moreruela in Zamora and later bishop of León. He evangelised the repopulated lands of the Kingdom of León and is today one of the patrons of the city of León and its diocese."
+      },
+      {
+        "name": "Saint Apollinaris Claude",
+        "type": "Martyr",
+        "description": "A 2nd-century priest martyred in Lyon (Gaul), disciple of Bishop Saint Pothinus. He died during the persecutions of Emperor Marcus Aurelius. His martyrdom, along with that of other companions, is recounted in the letter from the community of Lyon to the churches of Asia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Teachers' Day",
+        "description": "Proclaimed by UNESCO in 1994, it is celebrated on 5 October to commemorate the signing of the ILO/UNESCO Recommendation concerning the Status of Teachers in 1966. It recognises the essential role of educators in human and social development."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Education is the most powerful weapon which you can use to change the world.",
+      "author": "Nelson Mandela",
+      "context": "On World Teachers' Day, this quote from South African leader Nelson Mandela encapsulates his conviction that education is the key to social transformation. Mandela spent 27 years in prison and upon his release promoted reconciliation and education as pillars of a new South Africa."
+    },
+    "motivationalQuote": {
+      "text": "Tell me and I forget, teach me and I may remember, involve me and I learn.",
+      "author": "Benjamin Franklin"
+    },
+    "births": [
+      {
+        "name": "Denis Diderot",
+        "description": "French philosopher, writer and encyclopaedist (1713–1784), editor of the Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers, the monumental Enlightenment work that gathered the knowledge of the era in 28 volumes. He was a defender of atheism and materialism in a predominantly Christian Europe.",
+        "year": 1713
+      },
+      {
+        "name": "Chester A. Arthur",
+        "description": "Twenty-first President of the United States (1830–1886), who governed after the assassination of President Garfield. He promoted the Pendleton Civil Service Act (1883), which established a merit-based system in the federal administration, combating the corruption of the spoils system.",
+        "year": 1830
+      },
+      {
+        "name": "Kate Winslet",
+        "description": "English actress (b. 1975), one of the most acclaimed of her generation. She won the Oscar for Best Actress for The Reader (2008) and Emmy and Golden Globe awards for Mildred Pierce. Her role in Titanic (1997) made her an international star at the age of 22.",
+        "year": 1975
+      }
+    ],
+    "events": [
+      {
+        "title": "The Portuguese Republic is proclaimed",
+        "description": "Following the revolution of 4 and 5 October, the Portuguese monarchy was abolished and the First Republic of Portugal was proclaimed. King Manuel II fled to Great Britain and a republican period began that lasted until the 1926 coup d'état.",
+        "year": 1910
+      },
+      {
+        "title": "First commercial communications satellite in geostationary orbit",
+        "description": "Intelsat I (known as Early Bird) was the first commercial communications satellite placed in geostationary orbit, allowing the retransmission of television signals between Europe and North America in real time. It was the precursor of global satellite communication.",
+        "year": 1965
+      },
+      {
+        "title": "First Rolling Stones concert",
+        "description": "The Rolling Stones gave their first concert as a group at the Marquee Club in London. The band, formed by Mick Jagger, Keith Richards and Brian Jones, performed mainly American blues. It was the beginning of the career of one of the longest-lived and most influential rock bands in history.",
+        "year": 1962
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Plácido",
+        "type": "Mártir",
+        "description": "Discípulo de São Bento de Núrsia do século VI, que segundo a tradição foi enviado à Sicília para fundar um mosteiro e foi martirizado juntamente com outros companheiros por piratas sarracenos. É patrono dos escolares e a sua festividade foi muito popular na Europa medieval."
+      },
+      {
+        "name": "São Froilão de Leão",
+        "type": "Bispo",
+        "description": "Monge eremita leonês do século IX (ca. 832–905), fundador do mosteiro de Moreruela em Zamora e posteriormente bispo de Leão. Evangelizou as terras repovoadas do reino de Leão e é hoje um dos patronos da cidade de Leão e da sua diocese."
+      },
+      {
+        "name": "São Apolinário Cláudio",
+        "type": "Mártir",
+        "description": "Sacerdote mártir do século II em Lyon (Gália), discípulo do bispo São Potino. Morreu durante as perseguições do imperador Marco Aurélio. O seu martírio, juntamente com o de outros companheiros, está relatado na carta da comunidade de Lyon às igrejas da Ásia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial dos Professores",
+        "description": "Proclamado pela UNESCO em 1994, é celebrado a 5 de outubro para comemorar a assinatura da Recomendação da OIT/UNESCO relativa ao Estatuto dos Professores em 1966. Reconhece o papel essencial dos educadores no desenvolvimento humano e social."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A educação é a arma mais poderosa que você pode usar para mudar o mundo.",
+      "author": "Nelson Mandela",
+      "context": "No Dia Mundial dos Professores, esta citação do líder sul-africano Nelson Mandela resume a sua convicção de que a educação é a chave da transformação social. Mandela passou 27 anos na prisão e ao sair promoveu a reconciliação e a educação como pilares de uma nova África do Sul."
+    },
+    "motivationalQuote": {
+      "text": "Diz-me e eu esqueço, ensina-me e eu recordo, envolve-me e eu aprendo.",
+      "author": "Benjamin Franklin"
+    },
+    "births": [
+      {
+        "name": "Denis Diderot",
+        "description": "Filósofo, escritor e enciclopedista francês (1713–1784), diretor da Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers, obra monumental do Iluminismo que reuniu o saber da época em 28 volumes. Foi um defensor do ateísmo e do materialismo na Europa cristã.",
+        "year": 1713
+      },
+      {
+        "name": "Chester A. Arthur",
+        "description": "Vigésimo primeiro presidente dos Estados Unidos (1830–1886), que governou após o assassinato do presidente Garfield. Impulsionou a Lei Pendleton do Serviço Civil (1883), que estabeleceu o sistema de mérito na administração federal, combatendo a corrupção do spoils system.",
+        "year": 1830
+      },
+      {
+        "name": "Kate Winslet",
+        "description": "Atriz inglesa (n. 1975), uma das mais aclamadas da sua geração. Ganhou o Oscar de Melhor Atriz por O Leitor (2008) e o Emmy e o Globo de Ouro por Mildred Pierce. O seu papel em Titanic (1997) tornou-a uma estrela internacional aos 22 anos.",
+        "year": 1975
+      }
+    ],
+    "events": [
+      {
+        "title": "Proclamação da República Portuguesa",
+        "description": "Após a revolução de 4 e 5 de outubro, a monarquia portuguesa foi abolida e foi proclamada a Primeira República de Portugal. O rei Manuel II fugiu para a Grã-Bretanha e iniciou-se um período republicano que durou até ao golpe de Estado de 1926.",
+        "year": 1910
+      },
+      {
+        "title": "Primeiro satélite de comunicações comercial em órbita geoestacionária",
+        "description": "O Intelsat I (conhecido como Early Bird) foi o primeiro satélite de comunicações comerciais colocado em órbita geoestacionária, permitindo a retransmissão de sinais de televisão entre a Europa e a América do Norte em tempo real. Foi o precursor da comunicação por satélite global.",
+        "year": 1965
+      },
+      {
+        "title": "Primeiro concerto dos Rolling Stones",
+        "description": "Os Rolling Stones deram o seu primeiro concerto como grupo no Marquee Club de Londres. A banda, formada por Mick Jagger, Keith Richards e Brian Jones, interpretou principalmente blues americano. Começava a trajetória de uma das bandas de rock mais longevas e influentes da história.",
+        "year": 1962
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Plàcid",
+        "type": "Màrtir",
+        "description": "Deixeble de Sant Benet de Núrsia del segle VI, que segons la tradició va ser enviat a Sicília per fundar un monestir i va ser martiritzat juntament amb altres companys per pirates sarraïns. És patró dels escolars i la seva festivitat va ser molt popular a l'Europa medieval."
+      },
+      {
+        "name": "Sant Froilà de Lleó",
+        "type": "Bisbe",
+        "description": "Monjo eremita lleonès del segle IX (ca. 832–905), fundador del monestir de Moreruela a Zamora i posteriorment bisbe de Lleó. Va evangelitzar les terres repoblades del regne de Lleó i avui és un dels patrons de la ciutat de Lleó i la seva diòcesi."
+      },
+      {
+        "name": "Sant Apol·linar Claudi",
+        "type": "Màrtir",
+        "description": "Sacerdot màrtir del segle II a Lió (Gàl·lia), deixeble del bisbe Sant Potí. Va morir durant les persecucions de l'emperador Marc Aureli. El seu martiri, juntament amb el d'altres companys, està relatat a la carta de la comunitat de Lió a les esglésies d'Àsia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial dels Docents",
+        "description": "Proclamat per la UNESCO el 1994, se celebra el 5 d'octubre per commemorar la signatura de la Recomanació de l'OIT/UNESCO relativa a la situació del personal docent el 1966. Reconeix el paper essencial dels educadors en el desenvolupament humà i social."
+      }
+    ],
+    "historicalQuote": {
+      "text": "L'educació és l'arma més poderosa que pots fer servir per canviar el món.",
+      "author": "Nelson Mandela",
+      "context": "En el Dia Mundial dels Docents, aquesta citació del líder sud-africà Nelson Mandela resumeix la seva convicció que l'educació és la clau de la transformació social. Mandela va passar 27 anys empresonat i en sortir va promoure la reconciliació i l'educació com a pilars d'una nova Sud-àfrica."
+    },
+    "motivationalQuote": {
+      "text": "Digues-m'ho i ho oblido, ensenya'm-ho i potser ho recordo, implica'm-hi i ho aprenc.",
+      "author": "Benjamin Franklin"
+    },
+    "births": [
+      {
+        "name": "Denis Diderot",
+        "description": "Filòsof, escriptor i enciclopedista francès (1713–1784), director de l'Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers, obra monumental de la Il·lustració que va reunir el saber de l'època en 28 volums. Va ser un defensor de l'ateisme i el materialisme a l'Europa cristiana.",
+        "year": 1713
+      },
+      {
+        "name": "Chester A. Arthur",
+        "description": "Vint-i-unè president dels Estats Units (1830–1886), que va governar després de l'assassinat del president Garfield. Va impulsar la Llei Pendleton del Servei Civil (1883), que va establir el sistema de mèrits a l'administració federal, combatre la corrupció del spoils system.",
+        "year": 1830
+      },
+      {
+        "name": "Kate Winslet",
+        "description": "Actriu anglesa (n. 1975), una de les més aclamades de la seva generació. Va guanyar l'Oscar a la millor actriu per El lector (2008) i l'Emmy i el Globus d'Or per Mildred Pierce. El seu paper a Titanic (1997) la va convertir en una estrella internacional als 22 anys.",
+        "year": 1975
+      }
+    ],
+    "events": [
+      {
+        "title": "Es proclama la República Portuguesa",
+        "description": "Després de la revolució del 4 i 5 d'octubre, la monarquia portuguesa va ser abolida i es va proclamar la Primera República de Portugal. El rei Manuel II va fugir a la Gran Bretanya i va començar un període republicà que va durar fins al cop d'estat de 1926.",
+        "year": 1910
+      },
+      {
+        "title": "Primer satèl·lit de comunicacions comercial en òrbita geoestacionària",
+        "description": "L'Intelsat I (conegut com Early Bird) va ser el primer satèl·lit de comunicacions comercials col·locat en una òrbita geoestacionària, permetent la retransmissió de senyals de televisió entre Europa i Amèrica del Nord en temps real. Va ser el precursor de la comunicació per satèl·lit global.",
+        "year": 1965
+      },
+      {
+        "title": "Primer concert dels Rolling Stones",
+        "description": "Els Rolling Stones van oferir el seu primer concert com a grup al Marquee Club de Londres. La banda, formada per Mick Jagger, Keith Richards i Brian Jones, va interpretar principalment blues americà. Començava la trajectòria d'una de les bandes de rock més longeves i influents de la història.",
+        "year": 1962
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "date": "2025-06-25",
+  "es": {
+    "saints": [
+      {
+        "name": "San Guillermo de Vercelli",
+        "type": "Abad",
+        "description": "Monje italiano del siglo XII que fundó la congregación de Montevergine en los Apeninos campanos. Peregrinó hasta Santiago de Compostela y Jerusalem antes de retirarse a la vida eremítica. Su vida austera y contemplativa atrajo a numerosos discípulos que formaron una comunidad religiosa bajo su guía."
+      },
+      {
+        "name": "Beato Meinwerk de Paderborn",
+        "type": "Obispo",
+        "description": "Obispo alemán del siglo XI conocido por su labor constructora: edificó numerosas iglesias, el palacio episcopal de Paderborn y fue uno de los grandes promotores del arte románico en el Sacro Imperio Romano Germánico. Fue amigo personal del emperador Enrique II."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día del Orgullo LGBTQ+ (en muchas ciudades del mundo)",
+        "description": "Aunque el Día Internacional del Orgullo se celebra el 28 de junio, muchas ciudades concentran sus desfiles y celebraciones durante el último fin de semana de junio. Conmemora los disturbios de Stonewall de 1969 y reivindica la igualdad de derechos para las personas LGBTQ+."
+      },
+      {
+        "name": "Día de la Independencia de Mozambique",
+        "description": "Mozambique conmemora el 25 de junio de 1975, cuando se independizó de Portugal tras una larga guerra de liberación liderada por el FRELIMO. Es fiesta nacional en el país africano."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nuestras vidas comienzan a terminar el día en que guardamos silencio sobre las cosas que importan.",
+      "author": "Martin Luther King Jr.",
+      "context": "Palabras del líder del movimiento por los derechos civiles, cuya lucha pacífica inspiró directamente la reivindicación de derechos de otros colectivos oprimidos, incluyendo el movimiento LGBTQ+ de Stonewall."
+    },
+    "motivationalQuote": {
+      "text": "Sé tú mismo; todos los demás puestos ya están ocupados.",
+      "author": "Oscar Wilde"
+    },
+    "births": [
+      {
+        "name": "George Orwell",
+        "description": "Escritor y periodista británico, autor de 'Rebelión en la granja' y '1984', dos de las obras más influyentes del siglo XX. Sus novelas son una crítica devastadora al totalitarismo y la propaganda, y conceptos como 'Gran Hermano' o 'doblepensar' forman ya parte del vocabulario político universal.",
+        "year": 1903
+      },
+      {
+        "name": "Antoni Gaudí",
+        "description": "Arquitecto catalán considerado el máximo exponente del modernismo arquitectónico. Sus obras más célebres, como la Sagrada Família, el Parque Güell y la Casa Batlló, concentradas en Barcelona, son Patrimonio de la Humanidad de la UNESCO y símbolos de la arquitectura orgánica y espiritual.",
+        "year": 1852
+      },
+      {
+        "name": "Ricky Gervais",
+        "description": "Comediante, actor, escritor y director británico, creador de la versión original de 'The Office'. Sus comedias y monólogos, marcados por el humor ácido y la reflexión sobre la existencia, lo han convertido en uno de los cómicos más influyentes del mundo anglosajón.",
+        "year": 1961
+      }
+    ],
+    "events": [
+      {
+        "title": "Inicio de la Guerra de Corea",
+        "description": "El 25 de junio de 1950, Corea del Norte invadió Corea del Sur cruzando el paralelo 38, iniciando un conflicto que duraría tres años y costaría más de tres millones de vidas. La guerra terminó en 1953 con un armisticio que divide la península hasta hoy.",
+        "year": 1950
+      },
+      {
+        "title": "Independencia de Mozambique",
+        "description": "El 25 de junio de 1975, Mozambique proclamó su independencia de Portugal, convirtiéndose en república popular tras diez años de guerra de liberación. Samora Machel se convirtió en el primer presidente del nuevo estado.",
+        "year": 1975
+      },
+      {
+        "title": "Michael Jackson fallece en Los Ángeles",
+        "description": "El 25 de junio de 2009, el Rey del Pop Michael Jackson murió en su residencia de Los Ángeles a los 50 años, víctima de una sobredosis de propofol administrada por su médico personal. Su muerte fue noticia global y su legado musical sigue siendo inmenso.",
+        "year": 2009
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint William of Vercelli",
+        "type": "Abbot",
+        "description": "A 12th-century Italian monk who founded the Congregation of Montevergine in the Campanian Apennines. He made pilgrimages to Santiago de Compostela and Jerusalem before retiring to an eremitic life. His austere and contemplative life attracted many disciples who formed a religious community under his guidance."
+      },
+      {
+        "name": "Blessed Meinwerk of Paderborn",
+        "type": "Bishop",
+        "description": "An 11th-century German bishop known for his building projects: he erected numerous churches, the episcopal palace of Paderborn, and was one of the great patrons of Romanesque art in the Holy Roman Empire. He was a personal friend of Emperor Henry II."
+      }
+    ],
+    "observances": [
+      {
+        "name": "LGBTQ+ Pride (in many cities worldwide)",
+        "description": "While the International Day of Pride is June 28, many cities hold their parades and celebrations during the last weekend of June. It commemorates the Stonewall riots of 1969 and advocates for equal rights for LGBTQ+ people."
+      },
+      {
+        "name": "Independence Day of Mozambique",
+        "description": "Mozambique commemorates June 25, 1975, when it gained independence from Portugal after a long liberation war led by FRELIMO. It is a national holiday in the African country."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Our lives begin to end the day we become silent about things that matter.",
+      "author": "Martin Luther King Jr.",
+      "context": "Words from the civil rights leader, whose peaceful struggle directly inspired the rights advocacy of other oppressed communities, including the LGBTQ+ movement at Stonewall."
+    },
+    "motivationalQuote": {
+      "text": "Be yourself; everyone else is already taken.",
+      "author": "Oscar Wilde"
+    },
+    "births": [
+      {
+        "name": "George Orwell",
+        "description": "British writer and journalist, author of 'Animal Farm' and 'Nineteen Eighty-Four', two of the most influential works of the 20th century. His novels are a devastating critique of totalitarianism and propaganda, and concepts such as 'Big Brother' and 'doublethink' have become part of universal political vocabulary.",
+        "year": 1903
+      },
+      {
+        "name": "Antoni Gaudí",
+        "description": "Catalan architect considered the foremost exponent of architectural Modernisme. His most celebrated works, including the Sagrada Família, Park Güell, and Casa Batlló — all in Barcelona — are UNESCO World Heritage Sites and symbols of organic and spiritual architecture.",
+        "year": 1852
+      },
+      {
+        "name": "Ricky Gervais",
+        "description": "British comedian, actor, writer and director, creator of the original version of 'The Office'. His comedies and stand-up shows, marked by sharp wit and existential reflection, have made him one of the most influential comics in the English-speaking world.",
+        "year": 1961
+      }
+    ],
+    "events": [
+      {
+        "title": "Start of the Korean War",
+        "description": "On June 25, 1950, North Korea invaded South Korea by crossing the 38th parallel, starting a conflict that would last three years and claim more than three million lives. The war ended in 1953 with an armistice that still divides the peninsula today.",
+        "year": 1950
+      },
+      {
+        "title": "Independence of Mozambique",
+        "description": "On June 25, 1975, Mozambique proclaimed its independence from Portugal, becoming a people's republic after ten years of liberation war. Samora Machel became the first president of the new state.",
+        "year": 1975
+      },
+      {
+        "title": "Michael Jackson Dies in Los Angeles",
+        "description": "On June 25, 2009, the King of Pop Michael Jackson died at his Los Angeles home at the age of 50, the victim of a propofol overdose administered by his personal physician. His death was global news and his musical legacy remains immense.",
+        "year": 2009
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Guilherme de Vercelli",
+        "type": "Abade",
+        "description": "Monge italiano do século XII que fundou a Congregação de Montevergine nos Apeninos campanos. Peregriou até Santiago de Compostela e Jerusalém antes de se retirar à vida eremítica. Sua vida austera e contemplativa atraiu numerosos discípulos que formaram uma comunidade religiosa sob sua orientação."
+      },
+      {
+        "name": "Beato Meinwerk de Paderborn",
+        "type": "Bispo",
+        "description": "Bispo alemão do século XI conhecido por sua obra construtora: ergueu numerosas igrejas, o palácio episcopal de Paderborn e foi um dos grandes promotores da arte românica no Sacro Império Romano Germânico. Foi amigo pessoal do imperador Henrique II."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Orgulho LGBTQ+ (em muitas cidades do mundo)",
+        "description": "Embora o Dia Internacional do Orgulho seja 28 de junho, muitas cidades concentram suas paradas e celebrações no último fim de semana de junho. Comemora os distúrbios de Stonewall de 1969 e reivindica a igualdade de direitos para as pessoas LGBTQ+."
+      },
+      {
+        "name": "Dia da Independência de Moçambique",
+        "description": "Moçambique comemora o 25 de junho de 1975, quando se tornou independente de Portugal após uma longa guerra de libertação liderada pela FRELIMO. É feriado nacional no país africano."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nossas vidas começam a terminar no dia em que ficamos em silêncio sobre as coisas que importam.",
+      "author": "Martin Luther King Jr.",
+      "context": "Palavras do líder do movimento pelos direitos civis, cuja luta pacífica inspirou diretamente a reivindicação de direitos de outras comunidades oprimidas, incluindo o movimento LGBTQ+ de Stonewall."
+    },
+    "motivationalQuote": {
+      "text": "Seja você mesmo; todos os outros lugares já estão ocupados.",
+      "author": "Oscar Wilde"
+    },
+    "births": [
+      {
+        "name": "George Orwell",
+        "description": "Escritor e jornalista britânico, autor de 'A Revolução dos Bichos' e '1984', duas das obras mais influentes do século XX. Seus romances são uma crítica devastadora ao totalitarismo e à propaganda, e conceitos como 'Grande Irmão' e 'duplipensar' já fazem parte do vocabulário político universal.",
+        "year": 1903
+      },
+      {
+        "name": "Antoni Gaudí",
+        "description": "Arquiteto catalão considerado o maior expoente do modernismo arquitetônico. Suas obras mais célebres, como a Sagrada Família, o Parque Güell e a Casa Batlló — todas em Barcelona —, são Patrimônio da Humanidade da UNESCO e símbolos da arquitetura orgânica e espiritual.",
+        "year": 1852
+      },
+      {
+        "name": "Ricky Gervais",
+        "description": "Comediante, ator, escritor e diretor britânico, criador da versão original de 'The Office'. Suas comédias e monólogos, marcados pelo humor ácido e pela reflexão existencial, tornaram-no um dos comediantes mais influentes do mundo anglofônico.",
+        "year": 1961
+      }
+    ],
+    "events": [
+      {
+        "title": "Início da Guerra da Coreia",
+        "description": "Em 25 de junho de 1950, a Coreia do Norte invadiu a Coreia do Sul cruzando o paralelo 38, dando início a um conflito que duraria três anos e custaria mais de três milhões de vidas. A guerra terminou em 1953 com um armistício que divide a península até hoje.",
+        "year": 1950
+      },
+      {
+        "title": "Independência de Moçambique",
+        "description": "Em 25 de junho de 1975, Moçambique proclamou sua independência de Portugal, tornando-se uma república popular após dez anos de guerra de libertação. Samora Machel tornou-se o primeiro presidente do novo estado.",
+        "year": 1975
+      },
+      {
+        "title": "Michael Jackson Morre em Los Angeles",
+        "description": "Em 25 de junho de 2009, o Rei do Pop Michael Jackson morreu em sua residência em Los Angeles aos 50 anos, vítima de uma overdose de propofol administrada por seu médico pessoal. Sua morte foi notícia mundial e seu legado musical continua imenso.",
+        "year": 2009
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Guillem de Vercelli",
+        "type": "Abat",
+        "description": "Monjo italià del segle XII que va fundar la Congregació de Montevergine als Apenins campanians. Va peregrinar fins a Santiago de Compostel·la i Jerusalem abans de retirar-se a la vida eremítica. La seva vida austera i contemplativa va atreure nombrosos deixebles que van formar una comunitat religiosa sota la seva guia."
+      },
+      {
+        "name": "Beat Meinwerk de Paderborn",
+        "type": "Bisbe",
+        "description": "Bisbe alemany del segle XI conegut per la seva obra constructora: va edificar nombroses esglésies, el palau episcopal de Paderborn i va ser un dels grans promotors de l'art romànic al Sacre Imperi Romanogermànic. Va ser amic personal de l'emperador Enric II."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Orgull LGBTQ+ (en moltes ciutats del món)",
+        "description": "Encara que el Dia Internacional de l'Orgull és el 28 de juny, moltes ciutats concentren les seves desfilades i celebracions durant el darrer cap de setmana de juny. Commemora els disturbis de Stonewall de 1969 i reivindica la igualtat de drets per a les persones LGBTQ+."
+      },
+      {
+        "name": "Dia de la Independència de Moçambic",
+        "description": "Moçambic commemora el 25 de juny de 1975, quan es va independitzar de Portugal després d'una llarga guerra d'alliberament liderada pel FRELIMO. És festa nacional al país africà."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Les nostres vides comencen a acabar el dia en què guardem silenci sobre les coses que importen.",
+      "author": "Martin Luther King Jr.",
+      "context": "Paraules del líder del moviment pels drets civils, la lluita pacífica del qual va inspirar directament la reivindicació de drets d'altres col·lectius oprimits, inclòs el moviment LGBTQ+ de Stonewall."
+    },
+    "motivationalQuote": {
+      "text": "Sigues tu mateix; tots els altres llocs ja estan ocupats.",
+      "author": "Oscar Wilde"
+    },
+    "births": [
+      {
+        "name": "George Orwell",
+        "description": "Escriptor i periodista britànic, autor de 'La Revolta dels Animals' i '1984', dues de les obres més influents del segle XX. Les seves novel·les són una crítica devastadora al totalitarisme i la propaganda, i conceptes com 'Gran Germà' o 'doblepensar' ja formen part del vocabulari polític universal.",
+        "year": 1903
+      },
+      {
+        "name": "Antoni Gaudí",
+        "description": "Arquitecte català considerat el màxim exponent del modernisme arquitectònic. Les seves obres més cèlebres, com la Sagrada Família, el Parc Güell i la Casa Batlló — totes a Barcelona —, són Patrimoni de la Humanitat de la UNESCO i símbols de l'arquitectura orgànica i espiritual.",
+        "year": 1852
+      },
+      {
+        "name": "Ricky Gervais",
+        "description": "Comediant, actor, escriptor i director britànic, creador de la versió original de 'The Office'. Les seves comèdies i monòlegs, marcats per l'humor àcid i la reflexió existencial, l'han convertit en un dels còmics més influents del món anglosaxó.",
+        "year": 1961
+      }
+    ],
+    "events": [
+      {
+        "title": "Inici de la Guerra de Corea",
+        "description": "El 25 de juny de 1950, Corea del Nord va envair Corea del Sud creuant el paral·lel 38, iniciant un conflicte que duraria tres anys i costaria més de tres milions de vides. La guerra va acabar el 1953 amb un armistici que divideix la península fins avui.",
+        "year": 1950
+      },
+      {
+        "title": "Independència de Moçambic",
+        "description": "El 25 de juny de 1975, Moçambic va proclamar la seva independència de Portugal, convertint-se en una república popular després de deu anys de guerra d'alliberament. Samora Machel va esdevenir el primer president del nou estat.",
+        "year": 1975
+      },
+      {
+        "title": "Michael Jackson Mor a Los Angeles",
+        "description": "El 25 de juny de 2009, el Rei del Pop Michael Jackson va morir a la seva residència de Los Angeles als 50 anys, víctima d'una sobredosi de propofol administrada pel seu metge personal. La seva mort va ser notícia mundial i el seu llegat musical continua sent immens.",
+        "year": 2009
+      }
+    ]
+  }
+}

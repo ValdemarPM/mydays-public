@@ -1,0 +1,119 @@
+{
+  "date": "2026-02-23",
+  "es": {
+    "saints": [
+      { "name": "San Policarpo de Esmirna", "type": "Obispo y mártir", "description": "Discípulo del apóstol Juan, obispo de Esmirna en el siglo II; murió quemado en la hoguera a los 86 años sin renegar de su fe." },
+      { "name": "Santa Romana", "type": "Virgen y mártir", "description": "Mártir romana del siglo IV, venerada especialmente en el Lacio." }
+    ],
+    "observances": [
+      { "name": "Día Mundial de la Paz y la Comprensión", "description": "Conmemoración vinculada al aniversario de la fundación del Rotary Club (1905), que promueve la paz internacional y la cooperación intercultural." },
+      { "name": "Día Nacional de Brunéi (Brunei Darussalam)", "description": "El sultanato de Brunéi en el Sudeste Asiático celebra su independencia del Reino Unido, declarada el 23 de febrero de 1984." }
+    ],
+    "historicalQuote": {
+      "text": "Un hombre que renuncia a la libertad por la seguridad no merece ni la una ni la otra.",
+      "author": "Benjamin Franklin",
+      "context": "Franklin (1706-1790), estadista y científico estadounidense, uno de los Padres Fundadores de EE. UU. Esta frase anticipa el debate eterno entre libertad civil y seguridad del Estado."
+    },
+    "motivationalQuote": {
+      "text": "Cada experto fue en su día un principiante.",
+      "author": "Helen Hayes"
+    },
+    "births": [
+      { "name": "George Frideric Handel", "description": "Compositor alemán-británico del Barroco, autor del oratorio El Mesías (1741), una de las obras más interpretadas de la música clásica occidental.", "year": 1685 },
+      { "name": "W.E.B. Du Bois", "description": "Sociólogo, historiador y activista afroamericano, cofundador de la NAACP y autor de Las almas del pueblo negro, obra fundacional de los estudios afroamericanos.", "year": 1868 },
+      { "name": "Dakota Fanning", "description": "Actriz estadounidense que debutó a los 6 años en I Am Sam (2001) junto a Sean Penn; consolidada en papeles adultos de drama y thriller.", "year": 1994 }
+    ],
+    "events": [
+      { "title": "Primera edición de la Biblia de Gutenberg", "description": "Johannes Gutenberg completa la impresión de su Biblia de 42 líneas en Maguncia (Alemania), el primer libro de la historia producido con tipos móviles de metal.", "year": 1455 },
+      { "title": "Proclamación de la Primera República Española", "description": "Las Cortes españolas proclaman la Primera República, que durará apenas un año ante la inestabilidad política y el cantonalismo.", "year": 1873 },
+      { "title": "Jimi Hendrix debuta en la televisión americana", "description": "El guitarrista Jimi Hendrix aparece por primera vez en la televisión de EE. UU. en el programa American Bandstand, que le pide que no repita su estilo extravagante.", "year": 1967 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Polycarp of Smyrna", "type": "Bishop and Martyr", "description": "Disciple of the Apostle John, Bishop of Smyrna in the 2nd century; burned at the stake at the age of 86 without renouncing his faith." },
+      { "name": "Saint Romana", "type": "Virgin and Martyr", "description": "4th-century Roman martyr, venerated especially in Lazio." }
+    ],
+    "observances": [
+      { "name": "World Day of Peace and Understanding", "description": "Commemoration linked to the anniversary of the founding of Rotary International (1905), which promotes international peace and cross-cultural cooperation." },
+      { "name": "Brunei National Day", "description": "The sultanate of Brunei in Southeast Asia celebrates its independence from the United Kingdom, declared on 23 February 1984." }
+    ],
+    "historicalQuote": {
+      "text": "A man who gives up his freedom for security deserves neither.",
+      "author": "Benjamin Franklin",
+      "context": "Franklin (1706–1790), American statesman and scientist, one of the Founding Fathers of the USA. This phrase anticipates the eternal debate between civil liberty and state security."
+    },
+    "motivationalQuote": {
+      "text": "Every expert was once a beginner.",
+      "author": "Helen Hayes"
+    },
+    "births": [
+      { "name": "George Frideric Handel", "description": "German-British Baroque composer, author of the oratorio Messiah (1741), one of the most performed works in Western classical music.", "year": 1685 },
+      { "name": "W.E.B. Du Bois", "description": "African-American sociologist, historian and activist, co-founder of the NAACP and author of The Souls of Black Folk, a foundational work of African-American studies.", "year": 1868 },
+      { "name": "Dakota Fanning", "description": "American actress who debuted at age 6 in I Am Sam (2001) with Sean Penn; established in adult drama and thriller roles.", "year": 1994 }
+    ],
+    "events": [
+      { "title": "First edition of the Gutenberg Bible", "description": "Johannes Gutenberg completes printing his 42-line Bible in Mainz, Germany — the first book in history produced with movable metal type.", "year": 1455 },
+      { "title": "First Spanish Republic proclaimed", "description": "The Spanish Cortes proclaims the First Republic, which would last barely a year amid political instability and cantonal revolts.", "year": 1873 },
+      { "title": "Jimi Hendrix debuts on US television", "description": "Guitarist Jimi Hendrix appears for the first time on US television on American Bandstand, which asks him not to repeat his flamboyant style.", "year": 1967 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Policarpo de Esmirna", "type": "Bispo e mártir", "description": "Discípulo do apóstolo João, bispo de Esmirna no século II; morreu queimado na fogueira aos 86 anos sem renegar a sua fé." },
+      { "name": "Santa Romana", "type": "Virgem e mártir", "description": "Mártir romana do século IV, venerada especialmente no Lácio." }
+    ],
+    "observances": [
+      { "name": "Dia Mundial da Paz e da Compreensão", "description": "Comemoração vinculada ao aniversário da fundação do Rotary International (1905), que promove a paz internacional e a cooperação intercultural." },
+      { "name": "Dia Nacional de Brunei", "description": "O sultanato de Brunei no Sudeste Asiático celebra sua independência do Reino Unido, declarada em 23 de fevereiro de 1984." }
+    ],
+    "historicalQuote": {
+      "text": "Um homem que abre mão de sua liberdade pela segurança não merece nenhuma das duas.",
+      "author": "Benjamin Franklin",
+      "context": "Franklin (1706-1790), estadista e cientista americano, um dos Pais Fundadores dos EUA. Esta frase antecipa o eterno debate entre liberdade civil e segurança do Estado."
+    },
+    "motivationalQuote": {
+      "text": "Todo especialista já foi um dia um iniciante.",
+      "author": "Helen Hayes"
+    },
+    "births": [
+      { "name": "George Frideric Handel", "description": "Compositor alemão-britânico do Barroco, autor do oratório Messias (1741), uma das obras mais interpretadas da música clássica ocidental.", "year": 1685 },
+      { "name": "W.E.B. Du Bois", "description": "Sociólogo, historiador e ativista afro-americano, cofundador da NAACP e autor de As Almas do Povo Negro, obra fundacional dos estudos afro-americanos.", "year": 1868 },
+      { "name": "Dakota Fanning", "description": "Atriz americana que estreou aos 6 anos em Eu Sou Sam (2001) ao lado de Sean Penn; consolidada em papéis adultos de drama e thriller.", "year": 1994 }
+    ],
+    "events": [
+      { "title": "Primeira edição da Bíblia de Gutenberg", "description": "Johannes Gutenberg conclui a impressão de sua Bíblia de 42 linhas em Mainz (Alemanha) — o primeiro livro da história produzido com tipos móveis de metal.", "year": 1455 },
+      { "title": "Proclamação da Primeira República Espanhola", "description": "As Cortes espanholas proclamam a Primeira República, que duraria apenas um ano diante da instabilidade política e dos movimentos cantonalistas.", "year": 1873 },
+      { "title": "Jimi Hendrix estreia na televisão americana", "description": "O guitarrista Jimi Hendrix aparece pela primeira vez na televisão dos EUA no programa American Bandstand, que lhe pede para não repetir o estilo extravagante.", "year": 1967 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Policarp d'Esmirna", "type": "Bisbe i màrtir", "description": "Deixeble de l'apòstol Joan, bisbe d'Esmirna al segle II; va morir cremat a la foguera als 86 anys sense renegar de la seva fe." },
+      { "name": "Santa Romana", "type": "Verge i màrtir", "description": "Màrtir romana del segle IV, venerada especialment al Laci." }
+    ],
+    "observances": [
+      { "name": "Dia Mundial de la Pau i la Comprensió", "description": "Commemoració vinculada a l'aniversari de la fundació del Rotary International (1905), que promou la pau internacional i la cooperació intercultural." },
+      { "name": "Dia Nacional de Brunei", "description": "El sultanat de Brunei al Sud-est Asiàtic celebra la seva independència del Regne Unit, declarada el 23 de febrer de 1984." }
+    ],
+    "historicalQuote": {
+      "text": "Un home que renuncia a la llibertat per la seguretat no es mereix ni l'una ni l'altra.",
+      "author": "Benjamin Franklin",
+      "context": "Franklin (1706-1790), estadista i científic americà, un dels Pares Fundadors dels EUA. Aquesta frase anticipa el debat etern entre llibertat civil i seguretat de l'Estat."
+    },
+    "motivationalQuote": {
+      "text": "Tot expert va ser en el seu dia un principiant.",
+      "author": "Helen Hayes"
+    },
+    "births": [
+      { "name": "George Frideric Handel", "description": "Compositor alemany-britànic del Barroc, autor de l'oratori El Messies (1741), una de les obres més interpretades de la música clàssica occidental.", "year": 1685 },
+      { "name": "W.E.B. Du Bois", "description": "Sociòleg, historiador i activista afroamericà, cofundador de la NAACP i autor de Les ànimes del poble negre, obra fundacional dels estudis afroamericans.", "year": 1868 },
+      { "name": "Dakota Fanning", "description": "Actriu nord-americana que va debutar als 6 anys a Jo soc en Sam (2001) amb Sean Penn; consolidada en papers adults de drama i thriller.", "year": 1994 }
+    ],
+    "events": [
+      { "title": "Primera edició de la Bíblia de Gutenberg", "description": "Johannes Gutenberg completa la impressió de la seva Bíblia de 42 línies a Magúncia (Alemanya) — el primer llibre de la història produït amb tipus mòbils de metall.", "year": 1455 },
+      { "title": "Proclamació de la Primera República Espanyola", "description": "Les Corts espanyoles proclamen la Primera República, que duraria amb prou feines un any davant la inestabilitat política i el cantonalisme.", "year": 1873 },
+      { "title": "Jimi Hendrix debuta a la televisió americana", "description": "El guitarrista Jimi Hendrix apareix per primera vegada a la televisió dels EUA al programa American Bandstand, que li demana que no repeteixi el seu estil extravagant.", "year": 1967 }
+    ]
+  }
+}

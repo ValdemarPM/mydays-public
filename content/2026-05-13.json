@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-13",
+  "es": {
+    "saints": [
+      {
+        "name": "Nuestra Señora de Fátima",
+        "type": "Advocación mariana",
+        "description": "El 13 de mayo de 1917, la Virgen María se apareció por primera vez a tres pastorcillos portugueses —Lucía, Francisco y Jacinta— en la Cova da Iria, cerca de Fátima (Portugal). Las apariciones se repitieron hasta el 13 de octubre del mismo año. El santuario de Fátima es uno de los más visitados del mundo."
+      },
+      {
+        "name": "San Servacio",
+        "type": "Obispo",
+        "description": "Obispo de Tongres (actual Bélgica) del siglo IV, el último de los Santos de Hielo (junto a Mamerto y Pancracio). Combatió el arrianismo y asistió al Concilio de Sárdica (347). Es patrono de Maastricht y de los viajeros."
+      },
+      {
+        "name": "San Pedro Regalado",
+        "type": "Presbítero",
+        "description": "Fraile franciscano español del siglo XV, natural de Valladolid. Reformador de la Orden Franciscana en España, conocido por su vida de extrema pobreza y penitencia. Es patrono de Valladolid y de los toreros. Fue canonizado en 1746."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de Fátima en Portugal",
+        "description": "El 13 de mayo es fiesta nacional en Portugal, día en que el país celebra la primera aparición de la Virgen de Fátima. Miles de peregrinos acuden al Santuario de Fátima para participar en los actos religiosos."
+      },
+      {
+        "name": "Día Mundial del Comercio Justo",
+        "description": "Promovido por la Organización Mundial del Comercio Justo (WFTO), este día celebra las prácticas comerciales que garantizan condiciones justas para productores y trabajadores en países en desarrollo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La fe es creer en lo que no ves; la recompensa de la fe es ver lo que crees.",
+      "author": "San Agustín de Hipona"
+    },
+    "motivationalQuote": {
+      "text": "Cuida tus pensamientos, porque se convierten en palabras. Cuida tus palabras, porque se convierten en acciones.",
+      "author": "Lao Tsé"
+    },
+    "births": [
+      {
+        "name": "María Gaetana Agnesi",
+        "description": "Matemática y filósofa italiana del siglo XVIII, la primera mujer en escribir un libro de matemáticas. Su obra Instituzioni Analitiche (1748) fue una referencia fundamental en el análisis matemático durante generaciones. La curva algebraica 'bruja de Agnesi' lleva su nombre.",
+        "year": "1718"
+      },
+      {
+        "name": "Stevie Wonder",
+        "description": "Músico, cantante y compositor americano, uno de los artistas más influyentes del siglo XX. Con 25 Grammys, es uno de los músicos más premiados de la historia. Sus álbumes Innervisions, Songs in the Key of Life y Talking Book son considerados obras maestras.",
+        "year": "1950"
+      },
+      {
+        "name": "Harvey Keitel",
+        "description": "Actor americano, conocido por sus papeles en películas de Martin Scorsese y Quentin Tarantino, como Taxi Driver, Reservoir Dogs y Pulp Fiction. Es una de las figuras más respetadas del cine independiente americano.",
+        "year": "1939"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera aparición de la Virgen de Fátima",
+        "description": "Los pastorcillos Lucía Santos, Francisco Marto y Jacinta Marto aseguraron haber visto a la Virgen María en la Cova da Iria, cerca de Fátima, Portugal. Fue la primera de seis apariciones que se produjeron entre mayo y octubre de 1917.",
+        "year": "1917"
+      },
+      {
+        "title": "Atentado contra el papa Juan Pablo II",
+        "description": "El Papa Juan Pablo II fue herido de gravedad en la Plaza de San Pedro de Roma por disparos del terrorista turco Mehmet Ali Ağca. Juan Pablo II atribuyó su supervivencia a la intercesión de la Virgen de Fátima, cuya festividad coincide con la fecha del atentado.",
+        "year": "1981"
+      },
+      {
+        "title": "Inauguración del Templo Expiatorio de la Sagrada Familia",
+        "description": "Gaudí puso la primera piedra de las criptas de la Sagrada Familia en Barcelona, iniciando una de las obras arquitectónicas más emblemáticas de la historia moderna, aún en construcción hoy.",
+        "year": "1882"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Our Lady of Fátima",
+        "type": "Marian apparition",
+        "description": "On 13 May 1917, the Virgin Mary appeared for the first time to three young Portuguese shepherds — Lúcia, Francisco, and Jacinta — at the Cova da Iria, near Fátima, Portugal. The apparitions were repeated until 13 October of the same year. The Fátima Shrine is one of the most visited in the world."
+      },
+      {
+        "name": "Saint Servatius",
+        "type": "Bishop",
+        "description": "4th-century Bishop of Tongres (present-day Belgium), the last of the Ice Saints (along with Mamertus and Pancras). He fought Arianism and attended the Council of Sardica (347). He is the patron saint of Maastricht and of travellers."
+      },
+      {
+        "name": "Saint Peter Regalado",
+        "type": "Presbyter",
+        "description": "15th-century Spanish Franciscan friar from Valladolid. A reformer of the Franciscan Order in Spain, known for his life of extreme poverty and penance. He is the patron saint of Valladolid and of bullfighters. He was canonised in 1746."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Day of Fátima in Portugal",
+        "description": "May 13 is a national holiday in Portugal, when the country celebrates the first apparition of Our Lady of Fátima. Thousands of pilgrims travel to the Fátima Shrine to take part in religious ceremonies."
+      },
+      {
+        "name": "World Fair Trade Day",
+        "description": "Promoted by the World Fair Trade Organization (WFTO), this day celebrates trading practices that ensure fair conditions for producers and workers in developing countries."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Faith is to believe what you do not see; the reward of faith is to see what you believe.",
+      "author": "Saint Augustine of Hippo"
+    },
+    "motivationalQuote": {
+      "text": "Watch your thoughts, for they become words. Watch your words, for they become actions.",
+      "author": "Lao Tzu"
+    },
+    "births": [
+      {
+        "name": "Maria Gaetana Agnesi",
+        "description": "18th-century Italian mathematician and philosopher, the first woman to write a book on mathematics. Her work Instituzioni Analitiche (1748) was a fundamental reference in mathematical analysis for generations. The algebraic curve 'witch of Agnesi' bears her name.",
+        "year": "1718"
+      },
+      {
+        "name": "Stevie Wonder",
+        "description": "American musician, singer, and songwriter, one of the most influential artists of the 20th century. With 25 Grammy Awards, he is one of the most decorated musicians in history. His albums Innervisions, Songs in the Key of Life, and Talking Book are considered masterpieces.",
+        "year": "1950"
+      },
+      {
+        "name": "Harvey Keitel",
+        "description": "American actor, known for his roles in films by Martin Scorsese and Quentin Tarantino, such as Taxi Driver, Reservoir Dogs, and Pulp Fiction. He is one of the most respected figures in American independent cinema.",
+        "year": "1939"
+      }
+    ],
+    "events": [
+      {
+        "title": "First Apparition of Our Lady of Fátima",
+        "description": "The young shepherds Lúcia Santos, Francisco Marto, and Jacinta Marto reported seeing the Virgin Mary at the Cova da Iria, near Fátima, Portugal. It was the first of six apparitions that took place between May and October 1917.",
+        "year": "1917"
+      },
+      {
+        "title": "Assassination Attempt on Pope John Paul II",
+        "description": "Pope John Paul II was gravely wounded in St Peter's Square in Rome by shots fired by Turkish terrorist Mehmet Ali Ağca. John Paul II attributed his survival to the intercession of Our Lady of Fátima, whose feast day coincides with the date of the attack.",
+        "year": "1981"
+      },
+      {
+        "title": "Laying of the First Stone of the Sagrada Família",
+        "description": "Gaudí laid the first stone of the Sagrada Família's crypt in Barcelona, beginning one of the most iconic architectural works in modern history — still under construction today.",
+        "year": "1882"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Nossa Senhora de Fátima",
+        "type": "Aparição mariana",
+        "description": "Em 13 de maio de 1917, a Virgem Maria apareceu pela primeira vez a três jovens pastores portugueses — Lúcia, Francisco e Jacinta — na Cova da Iria, perto de Fátima (Portugal). As aparições repetiram-se até 13 de outubro do mesmo ano. O Santuário de Fátima é um dos mais visitados do mundo."
+      },
+      {
+        "name": "São Servácio",
+        "type": "Bispo",
+        "description": "Bispo de Tongres (atual Bélgica) do século IV, o último dos Santos de Gelo (junto com Mamerto e Pancrácio). Combateu o arianismo e participou do Concílio de Sárdica (347). É padroeiro de Maastricht e dos viajantes."
+      },
+      {
+        "name": "São Pedro Regalado",
+        "type": "Presbítero",
+        "description": "Frade franciscano espanhol do século XV, natural de Valladolid. Reformador da Ordem Franciscana em Espanha, conhecido por sua vida de extrema pobreza e penitência. É padroeiro de Valladolid e dos toureiros. Foi canonizado em 1746."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Fátima em Portugal",
+        "description": "O 13 de maio é feriado nacional em Portugal, quando o país celebra a primeira aparição de Nossa Senhora de Fátima. Milhares de peregrinos vão ao Santuário de Fátima para participar das cerimônias religiosas."
+      },
+      {
+        "name": "Dia Mundial do Comércio Justo",
+        "description": "Promovido pela Organização Mundial do Comércio Justo (WFTO), este dia celebra as práticas comerciais que garantem condições justas para produtores e trabalhadores em países em desenvolvimento."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A fé é crer no que não se vê; a recompensa da fé é ver o que se crê.",
+      "author": "Santo Agostinho de Hipona"
+    },
+    "motivationalQuote": {
+      "text": "Cuide dos seus pensamentos, pois eles se tornam palavras. Cuide das suas palavras, pois elas se tornam ações.",
+      "author": "Lao Tsé"
+    },
+    "births": [
+      {
+        "name": "Maria Gaetana Agnesi",
+        "description": "Matemática e filósofa italiana do século XVIII, a primeira mulher a escrever um livro de matemática. Sua obra Instituzioni Analitiche (1748) foi uma referência fundamental na análise matemática por gerações. A curva algébrica 'bruxa de Agnesi' leva seu nome.",
+        "year": "1718"
+      },
+      {
+        "name": "Stevie Wonder",
+        "description": "Músico, cantor e compositor americano, um dos artistas mais influentes do século XX. Com 25 Grammys, é um dos músicos mais premiados da história. Seus álbuns Innervisions, Songs in the Key of Life e Talking Book são considerados obras-primas.",
+        "year": "1950"
+      },
+      {
+        "name": "Harvey Keitel",
+        "description": "Ator americano, conhecido por seus papéis em filmes de Martin Scorsese e Quentin Tarantino, como Taxi Driver, Cães de Aluguel e Pulp Fiction. É uma das figuras mais respeitadas do cinema independente americano.",
+        "year": "1939"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeira aparição de Nossa Senhora de Fátima",
+        "description": "Os pastorzinhos Lúcia Santos, Francisco Marto e Jacinta Marto afirmaram ter visto a Virgem Maria na Cova da Iria, perto de Fátima, Portugal. Foi a primeira de seis aparições ocorridas entre maio e outubro de 1917.",
+        "year": "1917"
+      },
+      {
+        "title": "Atentado contra o papa João Paulo II",
+        "description": "O papa João Paulo II foi gravemente ferido na Praça de São Pedro em Roma por tiros do terrorista turco Mehmet Ali Ağca. João Paulo II atribuiu sua sobrevivência à intercessão de Nossa Senhora de Fátima, cuja festividade coincide com a data do atentado.",
+        "year": "1981"
+      },
+      {
+        "title": "Assentamento da primeira pedra da Sagrada Família",
+        "description": "Gaudí assentou a primeira pedra das criptas da Sagrada Família em Barcelona, iniciando uma das obras arquitetônicas mais emblemáticas da história moderna, ainda em construção hoje.",
+        "year": "1882"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Mare de Déu de Fàtima",
+        "type": "Advocació mariana",
+        "description": "El 13 de maig de 1917, la Verge Maria es va aparèixer per primera vegada a tres pastorets portuguesos —Llúcia, Francesc i Jacinta— a la Cova da Iria, prop de Fàtima (Portugal). Les aparicions es van repetir fins al 13 d'octubre del mateix any. El santuari de Fàtima és un dels més visitats del món."
+      },
+      {
+        "name": "Sant Servaci",
+        "type": "Bisbe",
+        "description": "Bisbe de Tongres (actual Bèlgica) del segle IV, l'últim dels Sants de Gel (juntament amb Mamert i Pancraç). Va combatre l'arrianisme i va assistir al Concili de Sàrdica (347). És patró de Maastricht i dels viatgers."
+      },
+      {
+        "name": "Sant Pere Regalat",
+        "type": "Prevere",
+        "description": "Frare franciscà espanyol del segle XV, natural de Valladolid. Reformador de l'Orde Franciscana a Espanya, conegut per la seva vida de extrema pobresa i penitència. És patró de Valladolid i dels toreros. Va ser canonitzat el 1746."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Fàtima a Portugal",
+        "description": "El 13 de maig és festiu nacional a Portugal, dia en què el país celebra la primera aparició de la Mare de Déu de Fàtima. Milers de pelegrins acudeixen al Santuari de Fàtima per participar en els actes religiosos."
+      },
+      {
+        "name": "Dia Mundial del Comerç Just",
+        "description": "Promogut per l'Organització Mundial del Comerç Just (WFTO), aquest dia celebra les pràctiques comercials que garanteixen condicions justes per als productors i treballadors de països en desenvolupament."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La fe és creure el que no veus; la recompensa de la fe és veure el que creus.",
+      "author": "Sant Agustí d'Hipona"
+    },
+    "motivationalQuote": {
+      "text": "Vigila els teus pensaments, perquè es converteixen en paraules. Vigila les teves paraules, perquè es converteixen en accions.",
+      "author": "Lao Tsé"
+    },
+    "births": [
+      {
+        "name": "Maria Gaetana Agnesi",
+        "description": "Matemàtica i filòsofa italiana del segle XVIII, la primera dona a escriure un llibre de matemàtiques. La seva obra Instituzioni Analitiche (1748) va ser una referència fonamental en l'anàlisi matemàtica durant generacions. La corba algebraica 'bruixa d'Agnesi' porta el seu nom.",
+        "year": "1718"
+      },
+      {
+        "name": "Stevie Wonder",
+        "description": "Músic, cantant i compositor americà, una de les figures més influents del segle XX. Amb 25 premis Grammy, és un dels músics més premiats de la història. Els seus àlbums Innervisions, Songs in the Key of Life i Talking Book són considerats obres mestres.",
+        "year": "1950"
+      },
+      {
+        "name": "Harvey Keitel",
+        "description": "Actor americà, conegut pels seus papers en pel·lícules de Martin Scorsese i Quentin Tarantino, com Taxi Driver, Reservoir Dogs i Pulp Fiction. És una de les figures més respectades del cinema independent americà.",
+        "year": "1939"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera aparició de la Mare de Déu de Fàtima",
+        "description": "Els pastorets Llúcia Santos, Francesc Marto i Jacinta Marto van afirmar haver vist la Verge Maria a la Cova da Iria, prop de Fàtima, Portugal. Va ser la primera de sis aparicions que es van produir entre maig i octubre de 1917.",
+        "year": "1917"
+      },
+      {
+        "title": "Atemptat contra el papa Joan Pau II",
+        "description": "El papa Joan Pau II va ser ferit de gravetat a la Plaça de Sant Pere de Roma pels trets del terrorista turc Mehmet Ali Ağca. Joan Pau II va atribuir la seva supervivència a la intercessió de la Mare de Déu de Fàtima, la festivitat de la qual coincideix amb la data de l'atemptat.",
+        "year": "1981"
+      },
+      {
+        "title": "Col·locació de la primera pedra de la Sagrada Família",
+        "description": "Gaudí va col·locar la primera pedra de les criptes de la Sagrada Família a Barcelona, iniciant una de les obres arquitectòniques més emblemàtiques de la història moderna, encara en construcció avui.",
+        "year": "1882"
+      }
+    ]
+  }
+}

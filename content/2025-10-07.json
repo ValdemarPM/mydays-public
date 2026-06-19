@@ -1,0 +1,251 @@
+{
+  "date": "2025-10-07",
+  "es": {
+    "saints": [
+      {
+        "name": "Nuestra Señora del Rosario",
+        "type": "Festividad mariana",
+        "description": "Celebración instituida por el papa Pío V para conmemorar la victoria cristiana en la batalla de Lepanto (7 de octubre de 1571), que se atribuyó a la intercesión de la Virgen. El rezo del Rosario, práctica popular mariana extendida por Santo Domingo de Guzmán en el siglo XIII, sigue siendo una de las devociones más extendidas del catolicismo."
+      },
+      {
+        "name": "San Marcos Papa",
+        "type": "Papa",
+        "description": "Trigésimo quinto papa (fallecido en 336), que gobernó la Iglesia apenas ocho meses. Fundó dos basílicas en Roma y definió que sería el obispo de Roma quien consagraría al obispo de Ostia, prerrogativa que se mantuvo durante siglos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional contra la Pena de Muerte",
+        "description": "Establecido por la Coalición Mundial contra la Pena de Muerte, se celebra el 10 de octubre. Sin embargo, el 7 de octubre es la fecha de acción de Amnistía Internacional por la abolición de la pena capital en todo el mundo. Actualmente más de 100 países han abolido la pena de muerte."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La victoria más grande no es nunca caer, sino levantarse cada vez que caemos.",
+      "author": "Nelson Mandela"
+    },
+    "motivationalQuote": {
+      "text": "Cuando el viento no sopla a tu favor, coge los remos.",
+      "author": "Proverbio latino"
+    },
+    "births": [
+      {
+        "name": "Niels Bohr",
+        "description": "Físico danés (1885–1962), Premio Nobel de Física en 1922 por sus contribuciones a la mecánica cuántica y al modelo atómico. Su modelo del átomo de hidrógeno, con electrones en órbitas cuantizadas, fue una revolución en la física del siglo XX. Jugó un papel crucial en el Proyecto Manhattan y abogó por el uso pacífico de la energía nuclear.",
+        "year": 1885
+      },
+      {
+        "name": "Yo-Yo Ma",
+        "description": "Violonchelista franco-americano de origen chino (n. 1955), considerado uno de los mayores intérpretes de su instrumento de todos los tiempos. Ha grabado más de 90 álbumes y ganado 18 Premios Grammy. Ha colaborado con músicos de jazz, flamenco y bluegrass, y es embajador de paz de la ONU.",
+        "year": 1955
+      },
+      {
+        "name": "Simon Cowell",
+        "description": "Productor musical y empresario televisivo británico (n. 1959), creador de programas de talentos como The X Factor, Pop Idol y Got Talent, que se han emitido en más de 60 países. Ha lanzado la carrera de artistas como Susan Boyle, One Direction y Leona Lewis.",
+        "year": 1959
+      }
+    ],
+    "events": [
+      {
+        "title": "Batalla de Lepanto",
+        "description": "La flota de la Liga Santa, formada por España, Venecia y los Estados Pontificios, derrotó a la flota otomana en el golfo de Lepanto (actual Grecia), deteniendo el avance turco por el Mediterráneo occidental. Fue la mayor batalla naval de la era moderna y participó en ella Miguel de Cervantes.",
+        "year": 1571
+      },
+      {
+        "title": "Fundación de la República Democrática Alemana",
+        "description": "Bajo la tutela de la Unión Soviética se proclamó la República Democrática Alemana (RDA) en la zona de ocupación soviética de Alemania, mientras que en el oeste ya existía la República Federal. Comenzaban así 41 años de división del pueblo alemán.",
+        "year": 1949
+      },
+      {
+        "title": "Google registra su dominio",
+        "description": "Google LLC fue formalmente incorporada como empresa, aunque el dominio google.com había sido registrado por Larry Page y Sergey Brin el 15 de septiembre de 1997. La empresa, nacida en un garaje de Menlo Park (California), se convertiría en la mayor compañía tecnológica del mundo.",
+        "year": 1998
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Our Lady of the Rosary",
+        "type": "Marian feast",
+        "description": "A celebration instituted by Pope Pius V to commemorate the Christian victory at the Battle of Lepanto (7 October 1571), which was attributed to the intercession of the Virgin. The recitation of the Rosary, a popular Marian practice spread by Saint Dominic de Guzmán in the 13th century, remains one of the most widespread devotions in Catholicism."
+      },
+      {
+        "name": "Saint Mark, Pope",
+        "type": "Pope",
+        "description": "Thirty-fifth pope (died 336), who governed the Church for barely eight months. He founded two basilicas in Rome and defined that the Bishop of Rome would consecrate the Bishop of Ostia, a prerogative maintained for centuries."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Day Against the Death Penalty",
+        "description": "Established by the World Coalition Against the Death Penalty, it is celebrated on 10 October. However, 7 October is the date of Amnesty International's action for the abolition of capital punishment worldwide. Currently more than 100 countries have abolished the death penalty."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    "motivationalQuote": {
+      "text": "When the wind does not blow in your favour, take the oars.",
+      "author": "Latin proverb"
+    },
+    "births": [
+      {
+        "name": "Niels Bohr",
+        "description": "Danish physicist (1885–1962), Nobel Prize in Physics in 1922 for his contributions to quantum mechanics and the atomic model. His model of the hydrogen atom, with electrons in quantised orbits, was a revolution in 20th-century physics. He played a crucial role in the Manhattan Project and advocated for the peaceful use of nuclear energy.",
+        "year": 1885
+      },
+      {
+        "name": "Yo-Yo Ma",
+        "description": "Franco-American cellist of Chinese origin (b. 1955), considered one of the greatest performers of his instrument of all time. He has recorded more than 90 albums and won 18 Grammy Awards. He has collaborated with jazz, flamenco and bluegrass musicians, and is a UN Messenger of Peace.",
+        "year": 1955
+      },
+      {
+        "name": "Simon Cowell",
+        "description": "British music producer and television entrepreneur (b. 1959), creator of talent shows such as The X Factor, Pop Idol and Got Talent, which have been broadcast in more than 60 countries. He has launched the careers of artists such as Susan Boyle, One Direction and Leona Lewis.",
+        "year": 1959
+      }
+    ],
+    "events": [
+      {
+        "title": "Battle of Lepanto",
+        "description": "The fleet of the Holy League, formed by Spain, Venice and the Papal States, defeated the Ottoman fleet in the Gulf of Lepanto (modern-day Greece), halting the Turkish advance in the western Mediterranean. It was the largest naval battle of the modern era and Miguel de Cervantes took part in it.",
+        "year": 1571
+      },
+      {
+        "title": "Founding of the German Democratic Republic",
+        "description": "Under Soviet tutelage, the German Democratic Republic (GDR) was proclaimed in the Soviet occupation zone of Germany, while the Federal Republic already existed in the west. Thus began 41 years of division of the German people.",
+        "year": 1949
+      },
+      {
+        "title": "Google incorporated as a company",
+        "description": "Google LLC was formally incorporated as a company, although the domain google.com had been registered by Larry Page and Sergey Brin on 15 September 1997. The company, born in a garage in Menlo Park, California, would become the world's largest technology company.",
+        "year": 1998
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Nossa Senhora do Rosário",
+        "type": "Festividade mariana",
+        "description": "Celebração instituída pelo papa Pio V para comemorar a vitória cristã na Batalha de Lepanto (7 de outubro de 1571), atribuída à intercessão da Virgem. A recitação do Rosário, prática mariana popular difundida por Santo Domingo de Gusmão no século XIII, continua a ser uma das devoções mais difundidas do catolicismo."
+      },
+      {
+        "name": "São Marcos Papa",
+        "type": "Papa",
+        "description": "Trigésimo quinto papa (falecido em 336), que governou a Igreja durante apenas oito meses. Fundou duas basílicas em Roma e definiu que seria o bispo de Roma a consagrar o bispo de Óstia, prerrogativa mantida durante séculos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial contra a Pena de Morte",
+        "description": "Estabelecido pela Coligação Mundial contra a Pena de Morte, é celebrado a 10 de outubro. No entanto, o 7 de outubro é a data de ação da Amnistia Internacional pela abolição da pena capital em todo o mundo. Atualmente mais de 100 países aboliram a pena de morte."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A maior glória de viver não está em nunca cair, mas em nos levantarmos cada vez que caímos.",
+      "author": "Nelson Mandela"
+    },
+    "motivationalQuote": {
+      "text": "Quando o vento não sopra a teu favor, pega nos remos.",
+      "author": "Provérbio latino"
+    },
+    "births": [
+      {
+        "name": "Niels Bohr",
+        "description": "Físico dinamarquês (1885–1962), Prêmio Nobel de Física em 1922 pelas suas contribuições à mecânica quântica e ao modelo atómico. O seu modelo do átomo de hidrogénio, com eletrões em órbitas quantizadas, foi uma revolução na física do século XX. Desempenhou um papel crucial no Projeto Manhattan e defendeu o uso pacífico da energia nuclear.",
+        "year": 1885
+      },
+      {
+        "name": "Yo-Yo Ma",
+        "description": "Violoncelista franco-americano de origem chinesa (n. 1955), considerado um dos maiores intérpretes do seu instrumento de todos os tempos. Gravou mais de 90 álbuns e ganhou 18 Prémios Grammy. Colaborou com músicos de jazz, flamenco e bluegrass, e é Mensageiro da Paz da ONU.",
+        "year": 1955
+      },
+      {
+        "name": "Simon Cowell",
+        "description": "Produtor musical e empresário televisivo britânico (n. 1959), criador de programas de talentos como The X Factor, Pop Idol e Got Talent, que foram emitidos em mais de 60 países. Lançou a carreira de artistas como Susan Boyle, One Direction e Leona Lewis.",
+        "year": 1959
+      }
+    ],
+    "events": [
+      {
+        "title": "Batalha de Lepanto",
+        "description": "A frota da Liga Santa, formada por Espanha, Veneza e os Estados Pontificais, derrotou a frota otomana no golfo de Lepanto (atual Grécia), detendo o avanço turco pelo Mediterrâneo ocidental. Foi a maior batalha naval da era moderna e Miguel de Cervantes nela participou.",
+        "year": 1571
+      },
+      {
+        "title": "Fundação da República Democrática Alemã",
+        "description": "Sob a tutela da União Soviética foi proclamada a República Democrática Alemã (RDA) na zona de ocupação soviética da Alemanha, enquanto no ocidente já existia a República Federal. Começavam assim 41 anos de divisão do povo alemão.",
+        "year": 1949
+      },
+      {
+        "title": "O Google é formalmente constituído como empresa",
+        "description": "A Google LLC foi formalmente incorporada como empresa, embora o domínio google.com tivesse sido registado por Larry Page e Sergey Brin a 15 de setembro de 1997. A empresa, nascida numa garagem em Menlo Park (Califórnia), tornaria-se na maior empresa tecnológica do mundo.",
+        "year": 1998
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Nostra Senyora del Rosari",
+        "type": "Festivitat mariana",
+        "description": "Celebració instituïda pel papa Pius V per commemorar la victòria cristiana a la batalla de Lepant (7 d'octubre de 1571), atribuïda a la intercessió de la Verge. El resa del Rosari, pràctica mariana popular difosa per Sant Domènec de Guzmán al segle XIII, continua sent una de les devocions més esteses del catolicisme."
+      },
+      {
+        "name": "Sant Marc Papa",
+        "type": "Papa",
+        "description": "Trenta-cinquè papa (mort el 336), que va governar l'Església tan sols vuit mesos. Va fundar dues basíliques a Roma i va definir que seria el bisbe de Roma qui consagraria el bisbe d'Òstia, prerrogativa mantinguda durant segles."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial contra la Pena de Mort",
+        "description": "Establert per la Coalició Mundial contra la Pena de Mort, se celebra el 10 d'octubre. No obstant, el 7 d'octubre és la data d'acció d'Amnistia Internacional per l'abolició de la pena capital a tot el món. Actualment més de 100 països han abolit la pena de mort."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La glòria més gran de viure no és mai caure, sinó aixecar-se cada vegada que caiem.",
+      "author": "Nelson Mandela"
+    },
+    "motivationalQuote": {
+      "text": "Quan el vent no bufa al teu favor, agafa els rems.",
+      "author": "Proverbi llatí"
+    },
+    "births": [
+      {
+        "name": "Niels Bohr",
+        "description": "Físic danès (1885–1962), Premi Nobel de Física el 1922 per les seves contribucions a la mecànica quàntica i al model atòmic. El seu model de l'àtom d'hidrogen, amb electrons en òrbites quantitzades, va ser una revolució en la física del segle XX. Va tenir un paper crucial en el Projecte Manhattan i va advocar per l'ús pacífic de l'energia nuclear.",
+        "year": 1885
+      },
+      {
+        "name": "Yo-Yo Ma",
+        "description": "Violoncel·lista francoamericà d'origen xinès (n. 1955), considerat un dels majors intèrprets del seu instrument de tots els temps. Ha gravat més de 90 àlbums i guanyat 18 Premis Grammy. Ha col·laborat amb músics de jazz, flamenc i bluegrass, i és ambaixador de pau de l'ONU.",
+        "year": 1955
+      },
+      {
+        "name": "Simon Cowell",
+        "description": "Productor musical i empresari televisiu britànic (n. 1959), creador de programes de talents com The X Factor, Pop Idol i Got Talent, que s'han emès en més de 60 països. Ha llançat la carrera d'artistes com Susan Boyle, One Direction i Leona Lewis.",
+        "year": 1959
+      }
+    ],
+    "events": [
+      {
+        "title": "Batalla de Lepant",
+        "description": "La flota de la Lliga Santa, formada per Espanya, Venècia i els Estats Pontificis, va derrotar la flota otomana al golf de Lepant (actual Grècia), detenint l'avanç turc pel Mediterrani occidental. Va ser la major batalla naval de l'era moderna i hi va participar Miguel de Cervantes.",
+        "year": 1571
+      },
+      {
+        "title": "Fundació de la República Democràtica Alemanya",
+        "description": "Sota la tutela de la Unió Soviètica es va proclamar la República Democràtica Alemanya (RDA) a la zona d'ocupació soviètica d'Alemanya, mentre que a l'oest ja existia la República Federal. Comenzaven així 41 anys de divisió del poble alemany.",
+        "year": 1949
+      },
+      {
+        "title": "Google és formalment constituïda com a empresa",
+        "description": "Google LLC va ser formalment incorporada com a empresa, tot i que el domini google.com havia estat registrat per Larry Page i Sergey Brin el 15 de setembre de 1997. L'empresa, nascuda en un garatge de Menlo Park (Califòrnia), es convertiria en la major companyia tecnològica del món.",
+        "year": 1998
+      }
+    ]
+  }
+}

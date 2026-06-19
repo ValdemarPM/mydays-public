@@ -1,0 +1,255 @@
+{
+  "date": "2025-12-23",
+  "es": {
+    "saints": [
+      {
+        "name": "San Juan de Kanti",
+        "type": "Presbítero",
+        "description": "Sacerdote y teólogo polaco del siglo XV, profesor de la Universidad de Cracovia, patrono de Polonia y Lituania. Conocido por su caridad extrema hacia los pobres y los estudiantes."
+      },
+      {
+        "name": "San Servulo de Roma",
+        "type": "Confesor",
+        "description": "Mendigo y paralítico romano del siglo VI, mencionado por San Gregorio Magno en sus Diálogos como modelo de virtud y paciencia en el sufrimiento."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Nochebuena de Navidad (vigilia)",
+        "description": "En muchas tradiciones, el 23 de diciembre marca el inicio de la celebración navideña en Japón (día oficial de 'Navidad'), donde hasta 2019 era día festivo por el cumpleaños del Emperador Akihito."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La bondad es el idioma que el sordo puede oír y el ciego puede ver.",
+      "author": "Mark Twain",
+      "context": "Escritor estadounidense, autor de Las aventuras de Tom Sawyer y Huckleberry Finn, cuya humanidad y humor marcaron la literatura americana del siglo XIX."
+    },
+    "motivationalQuote": {
+      "text": "La mejor manera de encontrarte a ti mismo es perderte en el servicio a los demás.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Joseph Smith",
+        "description": "Fundador del movimiento de los Santos de los Últimos Días (mormonismo) en 1830, una de las religiones de origen americano de mayor crecimiento en el mundo.",
+        "year": 1805
+      },
+      {
+        "name": "Chet Baker",
+        "description": "Trompetista y cantante estadounidense de jazz, figura central del jazz cool de la Costa Oeste en los años 50, conocido por su tono melancólico y su turbulenta vida personal.",
+        "year": 1929
+      },
+      {
+        "name": "Cobie Smulders",
+        "description": "Actriz canadiense conocida por su papel de Robin Scherbatsky en la serie How I Met Your Mother y por interpretar a la agente María Hill en el Universo Cinematográfico de Marvel.",
+        "year": 1982
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer transistor funcional de la historia",
+        "description": "Los físicos John Bardeen, Walter Brattain y William Shockley de los Laboratorios Bell demostraron el primer transistor funcional, invento que revolucionó la electrónica y la computación del siglo XX.",
+        "year": 1947
+      },
+      {
+        "title": "Llegada del Mayflower a Plymouth",
+        "description": "El barco Mayflower con los Peregrinos Padres a bordo llegó a Plymouth Rock (Massachusetts), fundando uno de los primeros asentamientos ingleses permanentes en América del Norte.",
+        "year": 1620
+      },
+      {
+        "title": "Muerte de Alexandre Gustave Eiffel",
+        "description": "Falleció en París el ingeniero Alexandre Gustave Eiffel a los 91 años, cuyo legado más conocido es la Torre Eiffel, construida en 1889.",
+        "year": 1923
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint John of Kanty",
+        "type": "Priest",
+        "description": "Polish priest and theologian of the 15th century, professor at the University of Cracow, patron saint of Poland and Lithuania. Known for his extreme charity towards the poor and students."
+      },
+      {
+        "name": "Saint Servulus of Rome",
+        "type": "Confessor",
+        "description": "Roman beggar and paralytic of the 6th century, mentioned by Saint Gregory the Great in his Dialogues as a model of virtue and patience in suffering."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Christmas Eve vigil",
+        "description": "In many traditions, 23 December marks the beginning of the Christmas celebration in Japan (official 'Christmas Day'), where until 2019 it was a public holiday for Emperor Akihito's birthday."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Kindness is the language which the deaf can hear and the blind can see.",
+      "author": "Mark Twain",
+      "context": "American writer, author of The Adventures of Tom Sawyer and Huckleberry Finn, whose humanity and humour shaped 19th-century American literature."
+    },
+    "motivationalQuote": {
+      "text": "The best way to find yourself is to lose yourself in the service of others.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Joseph Smith",
+        "description": "Founder of the Latter Day Saint movement (Mormonism) in 1830, one of the fastest-growing religions of American origin in the world.",
+        "year": 1805
+      },
+      {
+        "name": "Chet Baker",
+        "description": "American jazz trumpeter and singer, a central figure of West Coast cool jazz in the 1950s, known for his melancholic tone and turbulent personal life.",
+        "year": 1929
+      },
+      {
+        "name": "Cobie Smulders",
+        "description": "Canadian actress known for her role as Robin Scherbatsky in the TV series How I Met Your Mother and for playing Agent Maria Hill in the Marvel Cinematic Universe.",
+        "year": 1982
+      }
+    ],
+    "events": [
+      {
+        "title": "First functional transistor demonstrated",
+        "description": "Physicists John Bardeen, Walter Brattain, and William Shockley of Bell Laboratories demonstrated the first functional transistor, an invention that revolutionised 20th-century electronics and computing.",
+        "year": 1947
+      },
+      {
+        "title": "Mayflower arrives at Plymouth",
+        "description": "The Mayflower carrying the Pilgrim Fathers arrived at Plymouth Rock (Massachusetts), establishing one of the first permanent English settlements in North America.",
+        "year": 1620
+      },
+      {
+        "title": "Death of Alexandre Gustave Eiffel",
+        "description": "Engineer Alexandre Gustave Eiffel died in Paris at the age of 91, whose most famous legacy is the Eiffel Tower, built in 1889.",
+        "year": 1923
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São João de Kanti",
+        "type": "Presbítero",
+        "description": "Sacerdote e teólogo polonês do século XV, professor da Universidade de Cracóvia, padroeiro da Polónia e da Lituânia. Conhecido pela sua extrema caridade para com os pobres e os estudantes."
+      },
+      {
+        "name": "São Sérvulo de Roma",
+        "type": "Confessor",
+        "description": "Mendigo e paralítico romano do século VI, mencionado por São Gregório Magno nos seus Diálogos como modelo de virtude e paciência no sofrimento."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Véspera de Natal",
+        "description": "Em muitas tradições, o dia 23 de dezembro marca o início da celebração natalícia no Japão (dia oficial do 'Natal'), onde até 2019 era feriado pelo aniversário do Imperador Akihito."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A bondade é a língua que o surdo pode ouvir e o cego pode ver.",
+      "author": "Mark Twain",
+      "context": "Escritor americano, autor de As Aventuras de Tom Sawyer e Huckleberry Finn, cuja humanidade e humor moldaram a literatura americana do século XIX."
+    },
+    "motivationalQuote": {
+      "text": "A melhor maneira de encontrar-se a si mesmo é perder-se no serviço aos outros.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Joseph Smith",
+        "description": "Fundador do movimento dos Santos dos Últimos Dias (mormonismo) em 1830, uma das religiões de origem americana de maior crescimento no mundo.",
+        "year": 1805
+      },
+      {
+        "name": "Chet Baker",
+        "description": "Trompetista e cantor americano de jazz, figura central do cool jazz da Costa Oeste nos anos 50, conhecido pelo seu tom melancólico e a sua turbulenta vida pessoal.",
+        "year": 1929
+      },
+      {
+        "name": "Cobie Smulders",
+        "description": "Atriz canadiana conhecida pelo papel de Robin Scherbatsky na série How I Met Your Mother e por interpretar a agente Maria Hill no Universo Cinematográfico da Marvel.",
+        "year": 1982
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeiro transistor funcional da história",
+        "description": "Os físicos John Bardeen, Walter Brattain e William Shockley dos Laboratórios Bell demonstraram o primeiro transistor funcional, invenção que revolucionou a eletrónica e a computação do século XX.",
+        "year": 1947
+      },
+      {
+        "title": "Chegada do Mayflower a Plymouth",
+        "description": "O navio Mayflower com os Pais Peregrinos a bordo chegou a Plymouth Rock (Massachusetts), fundando um dos primeiros assentamentos ingleses permanentes na América do Norte.",
+        "year": 1620
+      },
+      {
+        "title": "Morte de Alexandre Gustave Eiffel",
+        "description": "Morreu em Paris o engenheiro Alexandre Gustave Eiffel aos 91 anos, cujo legado mais conhecido é a Torre Eiffel, construída em 1889.",
+        "year": 1923
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Joan de Kanti",
+        "type": "Prevere",
+        "description": "Sacerdot i teòleg polonès del segle XV, professor de la Universitat de Cracòvia, patró de Polònia i Lituània. Conegut per la seva extrema caritat envers els pobres i els estudiants."
+      },
+      {
+        "name": "Sant Sèrvul de Roma",
+        "type": "Confessor",
+        "description": "Mendic i paralític romà del segle VI, esmentat per Sant Gregori el Gran en els seus Diàlegs com a model de virtut i paciència en el sofriment."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Vigília de Nadal",
+        "description": "En moltes tradicions, el 23 de desembre marca l'inici de la celebració nadalenca al Japó (dia oficial del 'Nadal'), on fins al 2019 era festa pel compleanys de l'Emperador Akihito."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La bondat és la llengua que el sord pot sentir i el cec pot veure.",
+      "author": "Mark Twain",
+      "context": "Escriptor nord-americà, autor de Les aventures de Tom Sawyer i Huckleberry Finn, la humanitat i l'humor del qual van marcar la literatura americana del segle XIX."
+    },
+    "motivationalQuote": {
+      "text": "La millor manera de trobar-te a tu mateix és perdre't al servei dels altres.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Joseph Smith",
+        "description": "Fundador del moviment dels Sants dels Últims Dies (mormonisme) el 1830, una de les religions d'origen americà de major creixement al món.",
+        "year": 1805
+      },
+      {
+        "name": "Chet Baker",
+        "description": "Trompetista i cantant nord-americà de jazz, figura central del cool jazz de la Costa Oest als anys 50, conegut pel seu to melancòlic i la seva turbulenta vida personal.",
+        "year": 1929
+      },
+      {
+        "name": "Cobie Smulders",
+        "description": "Actriu canadenca coneguda pel paper de Robin Scherbatsky a la sèrie How I Met Your Mother i per interpretar l'agent Maria Hill a l'Univers Cinematogràfic de Marvel.",
+        "year": 1982
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer transistor funcional de la història",
+        "description": "Els físics John Bardeen, Walter Brattain i William Shockley dels Laboratoris Bell van demostrar el primer transistor funcional, invent que va revolucionar l'electrònica i la computació del segle XX.",
+        "year": 1947
+      },
+      {
+        "title": "Arribada del Mayflower a Plymouth",
+        "description": "El vaixell Mayflower amb els Pares Pelegrins a bord va arribar a Plymouth Rock (Massachusetts), fundant un dels primers assentaments anglesos permanents a Amèrica del Nord.",
+        "year": 1620
+      },
+      {
+        "title": "Mort d'Alexandre Gustave Eiffel",
+        "description": "Va morir a París l'enginyer Alexandre Gustave Eiffel als 91 anys, el llegat més conegut del qual és la Torre Eiffel, construïda el 1889.",
+        "year": 1923
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "date": "2025-06-18",
+  "es": {
+    "saints": [
+      {
+        "name": "San Marcos y Marcelino",
+        "type": "Mártires",
+        "description": "Dos hermanos romanos que sufrieron el martirio durante la persecución del emperador Diocleciano en el siglo III. Su entereza ante la muerte impresionó a sus carceleros y a sus propios familiares, varios de los cuales se convirtieron al cristianismo al ver su fortaleza."
+      },
+      {
+        "name": "San Amando de Burdeos",
+        "type": "Obispo",
+        "description": "Obispo de Burdeos en el siglo IV, conocido por su celo apostólico y su defensa de la fe frente a las herejías de su tiempo. Es venerado como uno de los primeros evangelizadores de la región de Aquitania."
+      },
+      {
+        "name": "Santa Isabel de Schönau",
+        "type": "Mística",
+        "description": "Monja benedictina alemana del siglo XII famosa por sus visiones y revelaciones místicas. Correspondió con Santa Hildegarda de Bingen y sus escritos contribuyeron a la espiritualidad contemplativa medieval."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Refugiado",
+        "description": "Jornada proclamada por la ONU en 2000 para honrar la fuerza y el coraje de las personas que se han visto obligadas a huir de sus países de origen. Se celebra en recuerdo de la Convención sobre el Estatuto de los Refugiados de 1951."
+      },
+      {
+        "name": "Día Nacional de Gales (comunidades galesas de EE.UU.)",
+        "description": "Fecha en que las comunidades de descendientes galeses en Estados Unidos conmemoran su herencia cultural con festivales de música, poesía y lengua galesa, especialmente en Pensilvania."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La gloria no reside en no caer nunca, sino en levantarse cada vez que se cae.",
+      "author": "Napoleón Bonaparte",
+      "context": "Frase atribuida a Napoleón y evocada con especial fuerza en el aniversario de la batalla de Waterloo, el 18 de junio de 1815, en la que fue derrotado definitivamente."
+    },
+    "motivationalQuote": {
+      "text": "Trata a los demás como quisieras ser tratado. No hay principio más necesario para que los hombres puedan vivir en paz.",
+      "author": "Blaise Pascal"
+    },
+    "births": [
+      {
+        "name": "Édouard Daladier",
+        "description": "Político y estadista francés, presidente del Consejo de Francia en tres ocasiones durante los años treinta. Firmó los Acuerdos de Múnich en 1938 en un intento de evitar la guerra con Hitler y lideró Francia al inicio de la Segunda Guerra Mundial antes de ser arrestado por el régimen de Vichy.",
+        "year": 1884
+      },
+      {
+        "name": "Isabella Rossellini",
+        "description": "Actriz y modelo italiana, hija del director Roberto Rossellini e Ingrid Bergman. Reconocida internacionalmente por su trabajo en la película 'Terciopelo azul' de David Lynch y por ser imagen de la marca Lancôme durante más de catorce años.",
+        "year": 1952
+      },
+      {
+        "name": "Roger Ebert",
+        "description": "Crítico de cine estadounidense y primer periodista cultural en ganar el Premio Pulitzer. Su programa televisivo de debates cinematográficos junto a Gene Siskel popularizó la crítica de cine entre el gran público durante décadas.",
+        "year": 1942
+      }
+    ],
+    "events": [
+      {
+        "title": "Batalla de Waterloo",
+        "description": "El 18 de junio de 1815, las fuerzas aliadas lideradas por el duque de Wellington y el mariscal prusiano Blücher derrotaron definitivamente al ejército de Napoleón Bonaparte cerca de Bruselas. La batalla puso fin al Imperio napoleónico y reconfiguró el mapa político de Europa.",
+        "year": 1815
+      },
+      {
+        "title": "Primera vuelta al mundo por vía aérea completada",
+        "description": "El 18 de junio de 1924, el primer avión en circunnavegar el globo aterrizó en Seattle. La expedición del Ejército del Aire estadounidense tardó 175 días usando cuatro biplanos Douglas World Cruiser, marcando un hito fundamental en la historia de la aviación.",
+        "year": 1924
+      },
+      {
+        "title": "Discurso del general De Gaulle desde Londres",
+        "description": "El 18 de junio de 1940, el general Charles de Gaulle pronunció desde la BBC en Londres su célebre llamada a la resistencia francesa contra la ocupación nazi. Ese discurso marcó el nacimiento de la Francia Libre y se convirtió en uno de los momentos fundacionales de la resistencia europea.",
+        "year": 1940
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saints Mark and Marcellian",
+        "type": "Martyrs",
+        "description": "Two Roman brothers who suffered martyrdom during Emperor Diocletian's persecution in the 3rd century. Their steadfastness in the face of death impressed their jailers and even their own family members, several of whom converted to Christianity upon witnessing their courage."
+      },
+      {
+        "name": "Saint Amand of Bordeaux",
+        "type": "Bishop",
+        "description": "Bishop of Bordeaux in the 4th century, renowned for his apostolic zeal and his defense of the faith against the heresies of his time. He is venerated as one of the first evangelizers of the Aquitaine region."
+      },
+      {
+        "name": "Saint Elizabeth of Schönau",
+        "type": "Mystic",
+        "description": "A 12th-century German Benedictine nun famous for her visions and mystical revelations. She corresponded with Saint Hildegard of Bingen, and her writings contributed significantly to medieval contemplative spirituality."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Refugee Day",
+        "description": "A day proclaimed by the UN in 2000 to honor the strength and courage of people who have been forced to flee their home countries. It is observed in memory of the 1951 Convention Relating to the Status of Refugees."
+      },
+      {
+        "name": "Welsh American Day",
+        "description": "A date when communities of Welsh descendants in the United States commemorate their cultural heritage with festivals of music, poetry, and the Welsh language, particularly in Pennsylvania."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Glory lies not in never falling, but in rising every time we fall.",
+      "author": "Napoleon Bonaparte",
+      "context": "A phrase attributed to Napoleon, evoked with particular force on the anniversary of the Battle of Waterloo, June 18, 1815, in which he was definitively defeated."
+    },
+    "motivationalQuote": {
+      "text": "Treat others as you would wish to be treated. There is no principle more necessary for men to live in peace.",
+      "author": "Blaise Pascal"
+    },
+    "births": [
+      {
+        "name": "Édouard Daladier",
+        "description": "French politician and statesman, President of the Council of France three times during the 1930s. He signed the Munich Agreement in 1938 in an attempt to prevent war with Hitler, and led France at the start of World War II before being arrested by the Vichy regime.",
+        "year": 1884
+      },
+      {
+        "name": "Isabella Rossellini",
+        "description": "Italian actress and model, daughter of director Roberto Rossellini and Ingrid Bergman. Internationally recognized for her work in David Lynch's 'Blue Velvet' and for being the face of the Lancôme brand for over fourteen years.",
+        "year": 1952
+      },
+      {
+        "name": "Roger Ebert",
+        "description": "American film critic and the first cultural journalist to win a Pulitzer Prize. His television debate program alongside Gene Siskel popularized film criticism among the general public for decades.",
+        "year": 1942
+      }
+    ],
+    "events": [
+      {
+        "title": "Battle of Waterloo",
+        "description": "On June 18, 1815, allied forces led by the Duke of Wellington and Prussian Field Marshal Blücher decisively defeated Napoleon Bonaparte's army near Brussels. The battle ended the Napoleonic Empire and reshaped the political map of Europe.",
+        "year": 1815
+      },
+      {
+        "title": "First Around-the-World Flight Completed",
+        "description": "On June 18, 1924, the first aircraft to circumnavigate the globe landed in Seattle. The U.S. Army Air Service expedition took 175 days using four Douglas World Cruiser biplanes, marking a milestone in aviation history.",
+        "year": 1924
+      },
+      {
+        "title": "General De Gaulle's Appeal from London",
+        "description": "On June 18, 1940, General Charles de Gaulle delivered his famous call to French resistance against Nazi occupation from BBC Radio in London. That speech marked the birth of Free France and became one of the founding moments of European resistance.",
+        "year": 1940
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santos Marcos e Marcelino",
+        "type": "Mártires",
+        "description": "Dois irmãos romanos que sofreram o martírio durante a perseguição do imperador Diocleciano no século III. Sua firmeza diante da morte impressionou seus carcereiros e até mesmo seus próprios familiares, vários dos quais se converteram ao cristianismo ao presenciar sua coragem."
+      },
+      {
+        "name": "Santo Amando de Bordéus",
+        "type": "Bispo",
+        "description": "Bispo de Bordéus no século IV, conhecido por seu zelo apostólico e sua defesa da fé contra as heresias de seu tempo. É venerado como um dos primeiros evangelizadores da região da Aquitânia."
+      },
+      {
+        "name": "Santa Isabel de Schönau",
+        "type": "Mística",
+        "description": "Monja beneditina alemã do século XII famosa por suas visões e revelações místicas. Correspondeu-se com Santa Hildegarda de Bingen e seus escritos contribuíram para a espiritualidade contemplativa medieval."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial do Refugiado",
+        "description": "Dia proclamado pela ONU em 2000 para homenagear a força e a coragem das pessoas que foram forçadas a fugir de seus países de origem. É celebrado em memória da Convenção sobre o Estatuto dos Refugiados de 1951."
+      },
+      {
+        "name": "Dia Americano Galês",
+        "description": "Data em que as comunidades de descendentes galeses nos Estados Unidos comemoram sua herança cultural com festivais de música, poesia e língua galesa, especialmente na Pensilvânia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A glória não reside em nunca cair, mas em se levantar cada vez que caímos.",
+      "author": "Napoleão Bonaparte",
+      "context": "Frase atribuída a Napoleão, evocada com especial força no aniversário da Batalha de Waterloo, 18 de junho de 1815, em que foi definitivamente derrotado."
+    },
+    "motivationalQuote": {
+      "text": "Trate os outros como gostaria de ser tratado. Não há princípio mais necessário para que os homens possam viver em paz.",
+      "author": "Blaise Pascal"
+    },
+    "births": [
+      {
+        "name": "Édouard Daladier",
+        "description": "Político e estadista francês, presidente do Conselho da França três vezes durante a década de 1930. Assinou o Acordo de Munique em 1938 numa tentativa de evitar a guerra com Hitler e liderou a França no início da Segunda Guerra Mundial antes de ser preso pelo regime de Vichy.",
+        "year": 1884
+      },
+      {
+        "name": "Isabella Rossellini",
+        "description": "Atriz e modelo italiana, filha do diretor Roberto Rossellini e Ingrid Bergman. Reconhecida internacionalmente por seu trabalho em 'Veludo Azul' de David Lynch e por ser a imagem da marca Lancôme por mais de catorze anos.",
+        "year": 1952
+      },
+      {
+        "name": "Roger Ebert",
+        "description": "Crítico de cinema americano e o primeiro jornalista cultural a ganhar o Prêmio Pulitzer. Seu programa televisivo de debate ao lado de Gene Siskel popularizou a crítica cinematográfica entre o grande público por décadas.",
+        "year": 1942
+      }
+    ],
+    "events": [
+      {
+        "title": "Batalha de Waterloo",
+        "description": "Em 18 de junho de 1815, as forças aliadas lideradas pelo Duque de Wellington e pelo marechal prussiano Blücher derrotaram definitivamente o exército de Napoleão Bonaparte perto de Bruxelas. A batalha encerrou o Império Napoleônico e reconfigurou o mapa político da Europa.",
+        "year": 1815
+      },
+      {
+        "title": "Primeira Volta ao Mundo por Via Aérea Concluída",
+        "description": "Em 18 de junho de 1924, o primeiro avião a circunavegar o globo pousou em Seattle. A expedição do Exército do Ar dos EUA levou 175 dias usando quatro biplanos Douglas World Cruiser, marcando um marco fundamental na história da aviação.",
+        "year": 1924
+      },
+      {
+        "title": "Apelo do General De Gaulle de Londres",
+        "description": "Em 18 de junho de 1940, o general Charles de Gaulle pronunciou seu famoso apelo à resistência francesa contra a ocupação nazista pelo rádio da BBC em Londres. Esse discurso marcou o nascimento da França Livre e tornou-se um dos momentos fundadores da resistência europeia.",
+        "year": 1940
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sants Marc i Marcel·lià",
+        "type": "Màrtirs",
+        "description": "Dos germans romans que van patir el martiri durant la persecució de l'emperador Dioclecià al segle III. La seva fermesa davant la mort va impressionar els seus carcellers i fins i tot els seus propis familiars, diversos dels quals es van convertir al cristianisme en veure la seva valentia."
+      },
+      {
+        "name": "Sant Amand de Bordeus",
+        "type": "Bisbe",
+        "description": "Bisbe de Bordeus al segle IV, conegut pel seu zel apostòlic i la seva defensa de la fe davant les heretgies del seu temps. És venerat com un dels primers evangelitzadors de la regió d'Aquitània."
+      },
+      {
+        "name": "Santa Elisabet de Schönau",
+        "type": "Mística",
+        "description": "Monja benedictina alemanya del segle XII famosa per les seves visions i revelacions místiques. Va correspondre amb Santa Hildegarda de Bingen i els seus escrits van contribuir a l'espiritualitat contemplativa medieval."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial del Refugiat",
+        "description": "Jornada proclamada per l'ONU l'any 2000 per honorar la força i el coratge de les persones que s'han vist obligades a fugir dels seus països d'origen. Se celebra en memòria de la Convenció sobre l'Estatut dels Refugiats de 1951."
+      },
+      {
+        "name": "Dia Americà Gal·lès",
+        "description": "Data en què les comunitats de descendents gal·lesos als Estats Units commemoren la seva herència cultural amb festivals de música, poesia i llengua gal·lesa, especialment a Pennsilvània."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La glòria no resideix a no caure mai, sinó a aixecar-se cada vegada que caiem.",
+      "author": "Napoleó Bonaparte",
+      "context": "Frase atribuïda a Napoleó, evocada amb especial força en l'aniversari de la batalla de Waterloo, el 18 de juny de 1815, en la qual va ser definitivament derrotat."
+    },
+    "motivationalQuote": {
+      "text": "Tracta els altres com voldries ser tractat. No hi ha principi més necessari perquè els homes puguin viure en pau.",
+      "author": "Blaise Pascal"
+    },
+    "births": [
+      {
+        "name": "Édouard Daladier",
+        "description": "Polític i estadista francès, president del Consell de França en tres ocasions durant la dècada de 1930. Va signar els Acords de Munic el 1938 en un intent d'evitar la guerra amb Hitler i va liderar França a l'inici de la Segona Guerra Mundial abans de ser arrestat pel règim de Vichy.",
+        "year": 1884
+      },
+      {
+        "name": "Isabella Rossellini",
+        "description": "Actriu i model italiana, filla del director Roberto Rossellini i Ingrid Bergman. Reconeguda internacionalment pel seu treball a 'Vellut blau' de David Lynch i per ser la imatge de la marca Lancôme durant més de catorze anys.",
+        "year": 1952
+      },
+      {
+        "name": "Roger Ebert",
+        "description": "Crític de cinema nord-americà i el primer periodista cultural a guanyar el Premi Pulitzer. El seu programa televisiu de debat al costat de Gene Siskel va popularitzar la crítica cinematogràfica entre el gran públic durant dècades.",
+        "year": 1942
+      }
+    ],
+    "events": [
+      {
+        "title": "Batalla de Waterloo",
+        "description": "El 18 de juny de 1815, les forces aliades liderades pel duc de Wellington i el mariscal prussià Blücher van derrotar definitivament l'exèrcit de Napoleó Bonaparte prop de Brussel·les. La batalla va posar fi a l'Imperi Napoleònic i va reconfigurar el mapa polític d'Europa.",
+        "year": 1815
+      },
+      {
+        "title": "Primera Volta al Món per Via Aèria Completada",
+        "description": "El 18 de juny de 1924, el primer avió a circumnavegar el globus va aterrar a Seattle. L'expedició de l'Exèrcit de l'Aire dels EUA va trigar 175 dies amb quatre biplans Douglas World Cruiser, marcant una fita fonamental en la història de l'aviació.",
+        "year": 1924
+      },
+      {
+        "title": "Crida del General De Gaulle des de Londres",
+        "description": "El 18 de juny de 1940, el general Charles de Gaulle va pronunciar des de la BBC a Londres la seva famosa crida a la resistència francesa contra l'ocupació nazi. Aquest discurs va marcar el naixement de la França Lliure i es va convertir en un dels moments fundadors de la resistència europea.",
+        "year": 1940
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "date": "2026-05-26",
+  "es": {
+    "saints": [
+      {
+        "name": "San Felipe Neri",
+        "type": "Sacerdote",
+        "description": "Sacerdote florentino del siglo XVI, fundador de la Congregación del Oratorio, conocida como los Oratorianos o Filipenses. Conocido como el 'apóstol de Roma', transformó la ciudad mediante el humor, la música y la alegría espiritual. Es patrono de Roma y de los humoristas. Canonizado en 1622 junto con Ignacio de Loyola."
+      },
+      {
+        "name": "San Marcelino y Pedro",
+        "type": "Mártires",
+        "description": "Sacerdote y exorcista romanos del siglo III martirizados durante la persecución de Diocleciano. Constantino I mandó construir una basílica sobre su tumba en la Vía Labicana de Roma. Sus nombres figuran en el canon romano de la misa desde el siglo IV."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Esclerosis Múltiple",
+        "description": "Celebrado el último miércoles de mayo por la Federación Internacional de Esclerosis Múltiple (MSIF), este día conciencia sobre esta enfermedad autoinmune que afecta al sistema nervioso central y a más de 2,8 millones de personas en todo el mundo."
+      },
+      {
+        "name": "Día del Señor de la Misericordia (peregrinaciones populares)",
+        "description": "En muchos pueblos de España, especialmente en Cataluña y el Levante, se celebran romerías y procesiones en honor de diversas advocaciones marianas y cristológicas locales durante esta semana de finales de mayo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La alegría es la señal más infalible de la presencia de Dios.",
+      "author": "Teilhard de Chardin"
+    },
+    "motivationalQuote": {
+      "text": "Ríe y el mundo reirá contigo; llora y llorarás solo.",
+      "author": "Ella Wheeler Wilcox"
+    },
+    "births": [
+      {
+        "name": "Isadora Duncan",
+        "description": "Bailarina y coreógrafa americana, pionera de la danza moderna. Rechazando el ballet clásico, desarrolló un estilo libre e inspirado en la Grecia antigua, la naturaleza y la música clásica. Su vida fue tan intensa como trágica, marcada por la pérdida de sus hijos y su muerte accidental en Niza en 1927.",
+        "year": "1877"
+      },
+      {
+        "name": "John Wayne",
+        "description": "Actor americano, símbolo del cine del oeste americano y de la masculinidad heroica del siglo XX. Con más de 150 películas y un Oscar por Valor de ley (1970), es uno de los actores más taquilleros de la historia de Hollywood.",
+        "year": "1907"
+      },
+      {
+        "name": "Lenny Kravitz",
+        "description": "Músico, cantante, compositor y productor americano, conocido por su estilo ecléctico que mezcla rock, funk, soul y R&B. Con cuatro premios Grammy consecutivos (1999–2002), batió el récord de más premios Grammy al mismo artista en la categoría de Mejor Interpretación de Rock.",
+        "year": "1964"
+      }
+    ],
+    "events": [
+      {
+        "title": "Coronación de Napoleón como rey de Italia",
+        "description": "Napoleón Bonaparte fue coronado rey de Italia en la Catedral de Milán, colocándose él mismo la Corona de Hierro de los reyes lombardos con las palabras: 'Dios me la ha dado, ¡ay de quien la toque!'",
+        "year": "1805"
+      },
+      {
+        "title": "Dunkerque: inicio de la Operación Dínamo",
+        "description": "Comenzó la Operación Dínamo, la evacuación de más de 338.000 soldados aliados atrapados en las playas de Dunkerque (Francia) por el ejército alemán. Fue una de las mayores operaciones navales de rescate de la historia.",
+        "year": "1940"
+      },
+      {
+        "title": "Primer vuelo comercial del Concorde",
+        "description": "El avión supersónico Concorde realizó su primer vuelo comercial regular de pasajeros entre París y Río de Janeiro, inaugurando una nueva era de los viajes aéreos de alta velocidad para pasajeros de élite.",
+        "year": "1976"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Philip Neri",
+        "type": "Priest",
+        "description": "16th-century Florentine priest, founder of the Congregation of the Oratory, known as the Oratorians or Philippians. Known as the 'Apostle of Rome', he transformed the city through humour, music, and spiritual joy. He is the patron of Rome and of comedians. Canonised in 1622 alongside Ignatius of Loyola."
+      },
+      {
+        "name": "Saints Marcellinus and Peter",
+        "type": "Martyrs",
+        "description": "3rd-century Roman priest and exorcist martyred during the persecution of Diocletian. Constantine I ordered a basilica to be built over their tomb on the Via Labicana in Rome. Their names have appeared in the Roman Canon of the Mass since the 4th century."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World MS Day",
+        "description": "Celebrated on the last Wednesday of May by the Multiple Sclerosis International Federation (MSIF), this day raises awareness of this autoimmune disease that affects the central nervous system and more than 2.8 million people worldwide."
+      },
+      {
+        "name": "Popular Pilgrimages and Processions",
+        "description": "In many towns in Spain, especially in Catalonia and the Levante, pilgrimages and processions take place in honour of various local Marian and Christological devotions during this final week of May."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Joy is the most infallible sign of the presence of God.",
+      "author": "Teilhard de Chardin"
+    },
+    "motivationalQuote": {
+      "text": "Laugh, and the world laughs with you; weep, and you weep alone.",
+      "author": "Ella Wheeler Wilcox"
+    },
+    "births": [
+      {
+        "name": "Isadora Duncan",
+        "description": "American dancer and choreographer, pioneer of modern dance. Rejecting classical ballet, she developed a free style inspired by ancient Greece, nature, and classical music. Her life was as intense as it was tragic, marked by the loss of her children and her accidental death in Nice in 1927.",
+        "year": "1877"
+      },
+      {
+        "name": "John Wayne",
+        "description": "American actor, symbol of the American Western genre and heroic masculinity of the 20th century. With more than 150 films and an Oscar for True Grit (1970), he is one of the highest-grossing actors in Hollywood history.",
+        "year": "1907"
+      },
+      {
+        "name": "Lenny Kravitz",
+        "description": "American musician, singer, songwriter and producer, known for his eclectic style blending rock, funk, soul, and R&B. With four consecutive Grammy Awards (1999–2002), he broke the record for most Grammy Awards to the same artist in the Best Rock Performance category.",
+        "year": "1964"
+      }
+    ],
+    "events": [
+      {
+        "title": "Napoleon Crowned King of Italy",
+        "description": "Napoleon Bonaparte was crowned King of Italy in Milan Cathedral, placing on his own head the Iron Crown of the Lombard kings with the words: 'God has given it to me; woe to him who touches it!'",
+        "year": "1805"
+      },
+      {
+        "title": "Dunkirk: Beginning of Operation Dynamo",
+        "description": "Operation Dynamo began: the evacuation of more than 338,000 Allied soldiers trapped on the beaches of Dunkirk (France) by the German army. It was one of the greatest naval rescue operations in history.",
+        "year": "1940"
+      },
+      {
+        "title": "Concorde's First Commercial Flight",
+        "description": "The supersonic Concorde aircraft made its first regular commercial passenger flight between Paris and Rio de Janeiro, inaugurating a new era of high-speed air travel for elite passengers.",
+        "year": "1976"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Filipe Néri",
+        "type": "Sacerdote",
+        "description": "Sacerdote florentino do século XVI, fundador da Congregação do Oratório, conhecida como os Oratorianos ou Filipenses. Conhecido como o 'apóstolo de Roma', transformou a cidade através do humor, da música e da alegria espiritual. É patrono de Roma e dos humoristas. Canonizado em 1622 juntamente com Inácio de Loyola."
+      },
+      {
+        "name": "Santos Marcelino e Pedro",
+        "type": "Mártires",
+        "description": "Sacerdote e exorcista romanos do século III martirizados durante a perseguição de Diocleciano. Constantino I mandou construir uma basílica sobre a sua tumba na Via Labicana de Roma. Os seus nomes figuram no cânone romano da missa desde o século IV."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Esclerose Múltipla",
+        "description": "Celebrado na última quarta-feira de maio pela Federação Internacional de Esclerose Múltipla (MSIF), este dia consciencializa sobre esta doença autoimune que afeta o sistema nervoso central e mais de 2,8 milhões de pessoas em todo o mundo."
+      },
+      {
+        "name": "Peregrinações e procissões populares",
+        "description": "Em muitas localidades de Espanha, especialmente na Catalunha e no Levante, realizam-se romarias e procissões em honra de diversas devoções marianas e cristológicas locais durante esta última semana de maio."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A alegria é o sinal mais infalível da presença de Deus.",
+      "author": "Teilhard de Chardin"
+    },
+    "motivationalQuote": {
+      "text": "Ri e o mundo ri contigo; chora e chorarás sozinho.",
+      "author": "Ella Wheeler Wilcox"
+    },
+    "births": [
+      {
+        "name": "Isadora Duncan",
+        "description": "Bailarina e coreógrafa americana, pioneira da dança moderna. Rejeitando o ballet clássico, desenvolveu um estilo livre inspirado na Grécia antiga, na natureza e na música clássica. A sua vida foi tão intensa quanto trágica, marcada pela perda dos seus filhos e pela morte acidental em Nice em 1927.",
+        "year": "1877"
+      },
+      {
+        "name": "John Wayne",
+        "description": "Ator americano, símbolo do cinema western americano e da masculinidade heróica do século XX. Com mais de 150 filmes e um Oscar por Coragem sem Glória (1970), é um dos atores mais rentáveis da história de Hollywood.",
+        "year": "1907"
+      },
+      {
+        "name": "Lenny Kravitz",
+        "description": "Músico, cantor, compositor e produtor americano, conhecido pelo seu estilo eclético que mistura rock, funk, soul e R&B. Com quatro Grammy consecutivos (1999–2002), bateu o recorde de mais Grammy ao mesmo artista na categoria de Melhor Performance de Rock.",
+        "year": "1964"
+      }
+    ],
+    "events": [
+      {
+        "title": "Napoleão coroado rei de Itália",
+        "description": "Napoleão Bonaparte foi coroado rei de Itália na Catedral de Milão, colocando ele próprio a Coroa de Ferro dos reis lombardos com as palavras: 'Deus ma deu; ai de quem a tocar!'",
+        "year": "1805"
+      },
+      {
+        "title": "Dunquerque: início da Operação Dínamo",
+        "description": "Começou a Operação Dínamo, a evacuação de mais de 338.000 soldados aliados encurralados nas praias de Dunquerque (França) pelo exército alemão. Foi uma das maiores operações navais de resgate da história.",
+        "year": "1940"
+      },
+      {
+        "title": "Primeiro voo comercial do Concorde",
+        "description": "O avião supersónico Concorde realizou o seu primeiro voo comercial regular de passageiros entre Paris e o Rio de Janeiro, inaugurando uma nova era de viagens aéreas de alta velocidade para passageiros de elite.",
+        "year": "1976"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Felip Neri",
+        "type": "Sacerdot",
+        "description": "Sacerdot florentí del segle XVI, fundador de la Congregació de l'Oratori, coneguda com els Oratorians o Filipencs. Conegut com l''apòstol de Roma', va transformar la ciutat a través de l'humor, la música i l'alegria espiritual. És patró de Roma i dels humoristes. Canonitzat el 1622 juntament amb Ignasi de Loiola."
+      },
+      {
+        "name": "Sants Marcel·lí i Pere",
+        "type": "Màrtirs",
+        "description": "Sacerdot i exorcista romans del segle III martiritzats durant la persecució de Dioclecià. Constantí I va ordenar construir una basílica sobre la seva tomba a la Via Labicana de Roma. Els seus noms figuren en el cànon romà de la missa des del segle IV."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de l'Esclerosi Múltiple",
+        "description": "Celebrat el darrer dimecres de maig per la Federació Internacional d'Esclerosi Múltiple (MSIF), aquest dia consciencia sobre aquesta malaltia autoimmune que afecta el sistema nerviós central i més de 2,8 milions de persones a tot el món."
+      },
+      {
+        "name": "Aplecs i processons populars",
+        "description": "En molts pobles d'Espanya, especialment a Catalunya i al Llevant, es fan aplecs i processons en honor de diverses advocacions marianes i cristològiques locals durant aquesta darrera setmana de maig."
+      }
+    ],
+    "historicalQuote": {
+      "text": "L'alegria és el signe més infal·lible de la presència de Déu.",
+      "author": "Teilhard de Chardin"
+    },
+    "motivationalQuote": {
+      "text": "Riu i el món rirà amb tu; plora i ploraràs sol.",
+      "author": "Ella Wheeler Wilcox"
+    },
+    "births": [
+      {
+        "name": "Isadora Duncan",
+        "description": "Ballarina i coreògrafa americana, pionera de la dansa moderna. Rebutjant el ballet clàssic, va desenvolupar un estil lliure inspirat en la Grècia antiga, la natura i la música clàssica. La seva vida va ser tan intensa com tràgica, marcada per la pèrdua dels seus fills i la seva mort accidental a Niça el 1927.",
+        "year": "1877"
+      },
+      {
+        "name": "John Wayne",
+        "description": "Actor americà, símbol del cinema western americà i de la masculinitat heroica del segle XX. Amb més de 150 pel·lícules i un Oscar per Valor de llei (1970), és un dels actors amb majors recaptacions de la història de Hollywood.",
+        "year": "1907"
+      },
+      {
+        "name": "Lenny Kravitz",
+        "description": "Músic, cantant, compositor i productor americà, conegut pel seu estil eclèctic que barreja rock, funk, soul i R&B. Amb quatre Grammy consecutius (1999–2002), va batre el rècord de més Grammy al mateix artista a la categoria de Millor Interpretació de Rock.",
+        "year": "1964"
+      }
+    ],
+    "events": [
+      {
+        "title": "Napoleó coronat rei d'Itàlia",
+        "description": "Napoleó Bonaparte va ser coronat rei d'Itàlia a la Catedral de Milà, col·locant-se ell mateix la Corona de Ferro dels reis llombards amb les paraules: 'Déu me l'ha donada; ai d'aquell qui la toqui!'",
+        "year": "1805"
+      },
+      {
+        "title": "Dunkerque: inici de l'Operació Dínamo",
+        "description": "Va começar l'Operació Dínamo, l'evacuació de més de 338.000 soldats aliats atrapats a les platges de Dunkerque (França) per l'exèrcit alemany. Va ser una de les majors operacions navals de rescat de la història.",
+        "year": "1940"
+      },
+      {
+        "title": "Primer vol comercial del Concorde",
+        "description": "L'avió supersònic Concorde va realitzar el seu primer vol comercial regular de passatgers entre París i Rio de Janeiro, inaugurant una nova era dels viatges aeris d'alta velocitat per a passatgers d'elit.",
+        "year": "1976"
+      }
+    ]
+  }
+}

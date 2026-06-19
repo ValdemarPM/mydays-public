@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-25",
+  "es": {
+    "saints": [
+      {
+        "name": "San Gregorio VII",
+        "type": "Papa",
+        "description": "Papa entre 1073 y 1085, uno de los grandes reformadores de la Iglesia medieval. Impulsó la Reforma Gregoriana para eliminar la simonía y el nicolaísmo, y protagonizó la Querella de las Investiduras con el emperador Enrique IV. Obligó al emperador a la famosa penitencia de Canossa (1077). Murió en el exilio en Salerno."
+      },
+      {
+        "name": "Santa María Magdalena de Pazzi",
+        "type": "Virgen",
+        "description": "Mística carmelita florentina del siglo XVI, conocida por sus éxtasis y visiones. Sus escritos espirituales han sido fuente de devoción en la Iglesia durante siglos. Canonizada en 1669 por el Papa Clemente IX. Es patrona de Florencia y de las enfermas."
+      },
+      {
+        "name": "San Beda el Venerable",
+        "type": "Doctor de la Iglesia",
+        "description": "Monje benedictino anglosajón del siglo VII-VIII, considerado el padre de la historia inglesa. Su obra más célebre, la Historia eclesiástica del pueblo inglés, es la fuente principal sobre los orígenes del Cristianismo en Inglaterra. Es el único inglés Doctor de la Iglesia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de África",
+        "description": "Celebrado el 25 de mayo desde 1963, conmemora la fundación de la Organización para la Unidad Africana (hoy Unión Africana). Es el día más importante del calendario de la diplomacia africana y simboliza la unidad, la independencia y la solidaridad del continente."
+      },
+      {
+        "name": "Día del Orgullo Geek (Geek Pride Day)",
+        "description": "Celebrado el 25 de mayo coincidiendo con el estreno del primer Star Wars en 1977 y con el Día de la Toalla del universo de Douglas Adams, esta fecha reivindica con humor y orgullo la identidad friki y la cultura popular geek."
+      }
+    ],
+    "historicalQuote": {
+      "text": "África para los africanos, en el hogar y en el extranjero.",
+      "author": "Marcus Garvey"
+    },
+    "motivationalQuote": {
+      "text": "El conocimiento es poder.",
+      "author": "Francis Bacon"
+    },
+    "births": [
+      {
+        "name": "Ralph Waldo Emerson",
+        "description": "Filósofo, ensayista y poeta estadounidense del siglo XIX, figura central del movimiento trascendentalista americano. Sus ensayos Confianza en uno mismo y La naturaleza influyeron profundamente en la filosofía y la literatura de los Estados Unidos. Fue mentor de Henry David Thoreau.",
+        "year": "1803"
+      },
+      {
+        "name": "Igor Sikorsky",
+        "description": "Ingeniero aeronáutico ruso-americano, pionero en el diseño de helicópteros y de hidroaviones. Su VS-300, primer helicóptero de un solo rotor exitoso, revolucionó la aviación. Sus diseños sentaron las bases de todos los helicópteros modernos.",
+        "year": "1889"
+      },
+      {
+        "name": "Anne Heche",
+        "description": "Actriz americana conocida por su versatilidad en películas como Donnie Brasco, Volcano, y Six Days Seven Nights. También destacó en televisión y fue conocida por su relación con Ellen DeGeneres, que contribuyó a normalizar las relaciones LGBTQ en los medios de comunicación.",
+        "year": "1969"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundación de la OUA (Organización para la Unidad Africana)",
+        "description": "Representantes de 32 estados africanos fundaron en Adís Abeba la Organización para la Unidad Africana (OUA), precursora de la actual Unión Africana. Su objetivo era promover la solidaridad, la cooperación y la descolonización del continente.",
+        "year": "1963"
+      },
+      {
+        "title": "JFK propone llegar a la Luna",
+        "description": "El presidente John F. Kennedy anunció ante el Congreso de los Estados Unidos el objetivo de llevar a un hombre a la Luna antes de que terminase la década, lanzando el programa Apollo y la carrera espacial entre EE. UU. y la URSS.",
+        "year": "1961"
+      },
+      {
+        "title": "Argentina recupera la democracia",
+        "description": "Raúl Alfonsín asumió la presidencia de Argentina, poniendo fin a la dictadura militar iniciada en 1976. Fue la primera transición democrática pacífica argentina tras años de terrorismo de Estado, tortura y desapariciones.",
+        "year": "1983"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Gregory VII",
+        "type": "Pope",
+        "description": "Pope from 1073 to 1085, one of the great reformers of the medieval Church. He drove the Gregorian Reform to eliminate simony and nicolaitism, and was the central figure of the Investiture Controversy with Emperor Henry IV. He forced the emperor to the famous penance at Canossa (1077). He died in exile in Salerno."
+      },
+      {
+        "name": "Saint Mary Magdalene de' Pazzi",
+        "type": "Virgin",
+        "description": "16th-century Florentine Carmelite mystic, known for her ecstasies and visions. Her spiritual writings have been a source of devotion in the Church for centuries. Canonised in 1669 by Pope Clement IX. She is the patron of Florence and of the sick."
+      },
+      {
+        "name": "Saint Bede the Venerable",
+        "type": "Doctor of the Church",
+        "description": "7th–8th-century Anglo-Saxon Benedictine monk, considered the father of English history. His most celebrated work, the Ecclesiastical History of the English People, is the primary source on the origins of Christianity in England. He is the only English Doctor of the Church."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Africa Day",
+        "description": "Celebrated on 25 May since 1963, it commemorates the founding of the Organisation of African Unity (today the African Union). It is the most important day in the African diplomatic calendar and symbolises the unity, independence, and solidarity of the continent."
+      },
+      {
+        "name": "Geek Pride Day",
+        "description": "Celebrated on 25 May to coincide with the premiere of the first Star Wars in 1977 and the Towel Day from Douglas Adams's universe, this date reclaims with humour and pride the geek identity and popular geek culture."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Africa for Africans, at home and abroad.",
+      "author": "Marcus Garvey"
+    },
+    "motivationalQuote": {
+      "text": "Knowledge is power.",
+      "author": "Francis Bacon"
+    },
+    "births": [
+      {
+        "name": "Ralph Waldo Emerson",
+        "description": "19th-century American philosopher, essayist, and poet, central figure of the American Transcendentalist movement. His essays Self-Reliance and Nature profoundly influenced the philosophy and literature of the United States. He was mentor to Henry David Thoreau.",
+        "year": "1803"
+      },
+      {
+        "name": "Igor Sikorsky",
+        "description": "Russian-American aeronautical engineer, pioneer in helicopter and flying boat design. His VS-300, the first successful single-rotor helicopter, revolutionised aviation. His designs laid the foundations for all modern helicopters.",
+        "year": "1889"
+      },
+      {
+        "name": "Anne Heche",
+        "description": "American actress known for her versatility in films such as Donnie Brasco, Volcano, and Six Days Seven Nights. She also excelled in television and was known for her relationship with Ellen DeGeneres, which helped normalise LGBTQ relationships in the media.",
+        "year": "1969"
+      }
+    ],
+    "events": [
+      {
+        "title": "Founding of the OAU (Organisation of African Unity)",
+        "description": "Representatives of 32 African states founded the Organisation of African Unity (OAU) in Addis Ababa, the forerunner of today's African Union. Its aim was to promote solidarity, cooperation, and the decolonisation of the continent.",
+        "year": "1963"
+      },
+      {
+        "title": "JFK Proposes Landing on the Moon",
+        "description": "President John F. Kennedy announced before the US Congress the goal of landing a man on the Moon before the end of the decade, launching the Apollo programme and the space race between the USA and the USSR.",
+        "year": "1961"
+      },
+      {
+        "title": "Argentina Returns to Democracy",
+        "description": "Raúl Alfonsín assumed the presidency of Argentina, ending the military dictatorship that began in 1976. It was Argentina's first peaceful democratic transition after years of state terrorism, torture, and disappearances.",
+        "year": "1983"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Gregório VII",
+        "type": "Papa",
+        "description": "Papa entre 1073 e 1085, um dos grandes reformadores da Igreja medieval. Impulsionou a Reforma Gregoriana para eliminar a simonia e o nicolaísmo, e foi o protagonista da Querela das Investiduras com o imperador Henrique IV. Obrigou o imperador à famosa penitência de Canossa (1077). Morreu no exílio em Salerno."
+      },
+      {
+        "name": "Santa Maria Madalena de Pazzis",
+        "type": "Virgem",
+        "description": "Mística carmelita florentina do século XVI, conhecida pelos seus êxtases e visões. Os seus escritos espirituais têm sido fonte de devoção na Igreja durante séculos. Canonizada em 1669 pelo Papa Clemente IX. É padroeira de Florença e das enfermas."
+      },
+      {
+        "name": "São Beda, o Venerável",
+        "type": "Doutor da Igreja",
+        "description": "Monge beneditino anglo-saxão dos séculos VII-VIII, considerado o pai da história inglesa. A sua obra mais célebre, a História Eclesiástica do Povo Inglês, é a fonte principal sobre as origens do Cristianismo na Inglaterra. É o único inglês Doutor da Igreja."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de África",
+        "description": "Celebrado a 25 de maio desde 1963, comemora a fundação da Organização para a Unidade Africana (hoje União Africana). É o dia mais importante do calendário da diplomacia africana e simboliza a unidade, a independência e a solidariedade do continente."
+      },
+      {
+        "name": "Dia do Orgulho Geek",
+        "description": "Celebrado a 25 de maio coincidindo com a estreia de Star Wars em 1977 e com o Dia da Toalha do universo de Douglas Adams, esta data reivindica com humor e orgulho a identidade geek e a cultura pop nerd."
+      }
+    ],
+    "historicalQuote": {
+      "text": "África para os africanos, em casa e no exterior.",
+      "author": "Marcus Garvey"
+    },
+    "motivationalQuote": {
+      "text": "Conhecimento é poder.",
+      "author": "Francis Bacon"
+    },
+    "births": [
+      {
+        "name": "Ralph Waldo Emerson",
+        "description": "Filósofo, ensaísta e poeta americano do século XIX, figura central do movimento transcendentalista americano. Os seus ensaios Confiança em Si Mesmo e A Natureza influenciaram profundamente a filosofia e a literatura dos Estados Unidos. Foi mentor de Henry David Thoreau.",
+        "year": "1803"
+      },
+      {
+        "name": "Igor Sikorsky",
+        "description": "Engenheiro aeronáutico russo-americano, pioneiro no design de helicópteros e de hidroaviões. O seu VS-300, primeiro helicóptero de rotor único bem-sucedido, revolucionou a aviação. Os seus projetos lançaram as bases de todos os helicópteros modernos.",
+        "year": "1889"
+      },
+      {
+        "name": "Anne Heche",
+        "description": "Atriz americana conhecida pela sua versatilidade em filmes como Donnie Brasco, Volcano e Six Days Seven Nights. Também se destacou na televisão e ficou conhecida pelo seu relacionamento com Ellen DeGeneres, que ajudou a normalizar os relacionamentos LGBTQ nos media.",
+        "year": "1969"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundação da OUA (Organização para a Unidade Africana)",
+        "description": "Representantes de 32 estados africanos fundaram em Adis Abeba a Organização para a Unidade Africana (OUA), precursora da atual União Africana. O seu objetivo era promover a solidariedade, a cooperação e a descolonização do continente.",
+        "year": "1963"
+      },
+      {
+        "title": "JFK propõe chegar à Lua",
+        "description": "O presidente John F. Kennedy anunciou perante o Congresso dos Estados Unidos o objetivo de levar um homem à Lua antes do final da década, lançando o programa Apollo e a corrida espacial entre os EUA e a URSS.",
+        "year": "1961"
+      },
+      {
+        "title": "Argentina recupera a democracia",
+        "description": "Raúl Alfonsín assumiu a presidência da Argentina, pondo fim à ditadura militar iniciada em 1976. Foi a primeira transição democrática pacífica argentina após anos de terrorismo de Estado, tortura e desaparecimentos.",
+        "year": "1983"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Gregori VII",
+        "type": "Papa",
+        "description": "Papa entre 1073 i 1085, un dels grans reformadors de l'Església medieval. Va impulsar la Reforma Gregoriana per eliminar la simonia i el nicolaisme, i va protagonitzar la Querella de les Investidures amb l'emperador Enric IV. Va obligar l'emperador a la famosa penitència de Canossa (1077). Va morir a l'exili a Salern."
+      },
+      {
+        "name": "Santa Maria Magdalena de Pazzi",
+        "type": "Verge",
+        "description": "Mística carmelita florentina del segle XVI, coneguda pels seus èxtasis i visions. Els seus escrits espirituals han estat font de devoció a l'Església durant segles. Canonitzada el 1669 pel Papa Climent IX. És patrona de Florència i de les malaltes."
+      },
+      {
+        "name": "Sant Beda el Venerable",
+        "type": "Doctor de l'Església",
+        "description": "Monjo benedictí anglosaxó dels segles VII-VIII, considerat el pare de la història anglesa. La seva obra més cèlebre, la Història Eclesiàstica del Poble Anglès, és la font principal sobre els orígens del Cristianisme a Anglaterra. És l'únic anglès Doctor de l'Església."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia d'Àfrica",
+        "description": "Celebrat el 25 de maig des de 1963, commemora la fundació de l'Organització per a la Unitat Africana (avui Unió Africana). És el dia més important del calendari de la diplomàcia africana i simbolitza la unitat, la independència i la solidaritat del continent."
+      },
+      {
+        "name": "Dia de l'Orgull Geek",
+        "description": "Celebrat el 25 de maig coincidint amb l'estrena de Star Wars el 1977 i amb el Dia de la Tovallola de l'univers de Douglas Adams, aquesta data reivindica amb humor i orgull la identitat friqui i la cultura popular geek."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Àfrica per als africans, a casa i a l'estranger.",
+      "author": "Marcus Garvey"
+    },
+    "motivationalQuote": {
+      "text": "El coneixement és poder.",
+      "author": "Francis Bacon"
+    },
+    "births": [
+      {
+        "name": "Ralph Waldo Emerson",
+        "description": "Filòsof, assagista i poeta americà del segle XIX, figura central del moviment transcendentalista americà. Els seus assaigs Confiança en un mateix i La natura van influir profundament en la filosofia i la literatura dels Estats Units. Va ser mentor de Henry David Thoreau.",
+        "year": "1803"
+      },
+      {
+        "name": "Igor Sikorsky",
+        "description": "Enginyer aeronàutic russo-americà, pioner en el disseny d'helicòpters i d'hidroavions. El seu VS-300, primer helicòpter de rotor únic exitós, va revolucionar l'aviació. Els seus dissenys van establir les bases de tots els helicòpters moderns.",
+        "year": "1889"
+      },
+      {
+        "name": "Anne Heche",
+        "description": "Actriu americana coneguda per la seva versatilitat en pel·lícules com Donnie Brasco, Volcano i Six Days Seven Nights. També va destacar a la televisió i va ser coneguda per la seva relació amb Ellen DeGeneres, que va contribuir a normalitzar les relacions LGBTQ als mitjans.",
+        "year": "1969"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundació de l'OUA (Organització per a la Unitat Africana)",
+        "description": "Representants de 32 estats africans van fundar a Addis Abeba l'Organització per a la Unitat Africana (OUA), predecessora de l'actual Unió Africana. El seu objectiu era promoure la solidaritat, la cooperació i la descolonització del continent.",
+        "year": "1963"
+      },
+      {
+        "title": "JFK proposa arribar a la Lluna",
+        "description": "El president John F. Kennedy va anunciar davant el Congrés dels Estats Units l'objectiu de portar un home a la Lluna abans que acabés la dècada, llançant el programa Apollo i la cursa espacial entre els EUA i l'URSS.",
+        "year": "1961"
+      },
+      {
+        "title": "Argentina recupera la democràcia",
+        "description": "Raúl Alfonsín va assumir la presidència de l'Argentina, posant fi a la dictadura militar iniciada el 1976. Va ser la primera transició democràtica pacífica argentina després d'anys de terrorisme d'estat, tortura i desaparicions.",
+        "year": "1983"
+      }
+    ]
+  }
+}

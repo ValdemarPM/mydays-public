@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-11",
+  "es": {
+    "saints": [
+      {
+        "name": "Santos Nereo y Aquileo",
+        "type": "Mártires",
+        "description": "Soldados romanos del siglo I que, según la tradición, sirvieron a Flavia Domitila, sobrina del emperador Domiciano. Convertidos al cristianismo, se negaron a continuar el servicio militar y fueron martirizados. Sus cuerpos reposan en la basílica de los Santos Nereo y Aquileo en Roma."
+      },
+      {
+        "name": "Santa Gengulfo",
+        "type": "Mártir",
+        "description": "Noble caballero borgoñón del siglo VIII, venerado como mártir por morir en circunstancias vinculadas a su fidelidad cristiana y matrimonial. Es patrono de los maridos en matrimonios difíciles en algunas tradiciones."
+      },
+      {
+        "name": "Beata Catalina de San Agustín",
+        "type": "Virgen",
+        "description": "Religiosa hospitalaria francesa del siglo XVII, misionera en la Nueva Francia (Canadá). Fundó hospitales en Quebec para atender a los enfermos y a los indígenas. Fue beatificada en 1989 por Juan Pablo II."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Nacional de la Tecnología (varios países)",
+        "description": "Diferentes países celebran este día para reconocer el impacto de la tecnología y la innovación en la sociedad moderna, fomentando la alfabetización digital y el acceso igualitario a la tecnología."
+      },
+      {
+        "name": "Día de la Madre en algunos países nórdicos",
+        "description": "En países como Finlandia y Suecia, el Día de la Madre se celebra el segundo domingo de mayo, que en 2026 cae alrededor de esta fecha."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La ciencia sin religión está coja; la religión sin ciencia está ciega.",
+      "author": "Albert Einstein"
+    },
+    "motivationalQuote": {
+      "text": "Cae siete veces, levántate ocho.",
+      "author": "Proverbio japonés"
+    },
+    "births": [
+      {
+        "name": "Salvador Dalí",
+        "description": "Pintor surrealista español, una de las figuras más excéntricas e influyentes del arte del siglo XX. Sus obras La persistencia de la memoria, El gran masturbador y Cristo de San Juan de la Cruz son iconos del arte universal. También fue escultor, grabador y diseñador.",
+        "year": "1904"
+      },
+      {
+        "name": "Irving Berlin",
+        "description": "Compositor y letrista americano nacido en Rusia, autor de más de 1.500 canciones y considerado uno de los más grandes compositores de la historia de la música popular. Entre sus creaciones más famosas están White Christmas y God Bless America.",
+        "year": "1888"
+      },
+      {
+        "name": "Natasha Richardson",
+        "description": "Actriz británica, ganadora del Tony y el Oscar por su papel en Cabaret en Broadway. Hija de la actriz Vanessa Redgrave y esposa del actor Liam Neeson, formaba parte de una de las familias más ilustres del teatro y el cine británico.",
+        "year": "1963"
+      }
+    ],
+    "events": [
+      {
+        "title": "IBM lanza el primer ordenador personal (PC)",
+        "description": "IBM presentó el IBM Personal Computer (modelo 5150), el primer ordenador personal de la empresa, revolucionando la informática doméstica y de negocios. Utilizaba el sistema operativo MS-DOS de Microsoft.",
+        "year": "1981"
+      },
+      {
+        "title": "Deep Blue vence a Kasparov",
+        "description": "El superordenador Deep Blue de IBM derrotó al campeón mundial de ajedrez Garry Kasparov en la última partida de su encuentro, siendo la primera vez que una máquina venció a un campeón mundial en condiciones de torneo.",
+        "year": "1997"
+      },
+      {
+        "title": "Fundación de Minneapolis",
+        "description": "Minneapolis fue oficialmente incorporada como ciudad del estado de Minnesota (EE. UU.), convirtiéndose en la ciudad más grande del estado y en un centro cultural y económico del Medio Oeste americano.",
+        "year": "1867"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saints Nereus and Achilleus",
+        "type": "Martyrs",
+        "description": "1st-century Roman soldiers who, according to tradition, served Flavia Domitilla, niece of Emperor Domitian. Having converted to Christianity, they refused to continue their military service and were martyred. Their bodies rest in the Basilica of Saints Nereus and Achilleus in Rome."
+      },
+      {
+        "name": "Saint Gangulphus",
+        "type": "Martyr",
+        "description": "8th-century Burgundian noble knight, venerated as a martyr for dying in circumstances related to his Christian and marital fidelity. He is the patron saint of husbands in difficult marriages in some traditions."
+      },
+      {
+        "name": "Blessed Catherine of Saint Augustine",
+        "type": "Virgin",
+        "description": "17th-century French nursing nun and missionary in New France (Canada). She founded hospitals in Quebec to care for the sick and indigenous peoples. She was beatified in 1989 by John Paul II."
+      }
+    ],
+    "observances": [
+      {
+        "name": "National Technology Day (various countries)",
+        "description": "Different countries celebrate this day to recognise the impact of technology and innovation on modern society, promoting digital literacy and equal access to technology."
+      },
+      {
+        "name": "Mother's Day in Nordic countries",
+        "description": "In countries such as Finland and Sweden, Mother's Day is celebrated on the second Sunday of May, which in 2026 falls around this date."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Science without religion is lame; religion without science is blind.",
+      "author": "Albert Einstein"
+    },
+    "motivationalQuote": {
+      "text": "Fall seven times, stand up eight.",
+      "author": "Japanese proverb"
+    },
+    "births": [
+      {
+        "name": "Salvador Dalí",
+        "description": "Spanish Surrealist painter, one of the most eccentric and influential figures in 20th-century art. His works The Persistence of Memory, The Great Masturbator, and Christ of Saint John of the Cross are icons of universal art. He was also a sculptor, printmaker, and designer.",
+        "year": "1904"
+      },
+      {
+        "name": "Irving Berlin",
+        "description": "Russian-born American composer and lyricist, author of more than 1,500 songs and considered one of the greatest composers in the history of popular music. Among his most famous creations are White Christmas and God Bless America.",
+        "year": "1888"
+      },
+      {
+        "name": "Natasha Richardson",
+        "description": "British actress, winner of the Tony and the Oscar for her role in Cabaret on Broadway. Daughter of actress Vanessa Redgrave and wife of actor Liam Neeson, she was part of one of the most illustrious families in British theatre and cinema.",
+        "year": "1963"
+      }
+    ],
+    "events": [
+      {
+        "title": "IBM Launches the First Personal Computer (PC)",
+        "description": "IBM introduced the IBM Personal Computer (Model 5150), the company's first personal computer, revolutionising home and business computing. It used Microsoft's MS-DOS operating system.",
+        "year": "1981"
+      },
+      {
+        "title": "Deep Blue Defeats Kasparov",
+        "description": "IBM's supercomputer Deep Blue defeated world chess champion Garry Kasparov in the final game of their match, the first time a machine had beaten a world champion under tournament conditions.",
+        "year": "1997"
+      },
+      {
+        "title": "Founding of Minneapolis",
+        "description": "Minneapolis was officially incorporated as a city in the state of Minnesota (USA), going on to become the state's largest city and a cultural and economic hub of the American Midwest.",
+        "year": "1867"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santos Nereu e Aquileu",
+        "type": "Mártires",
+        "description": "Soldados romanos do século I que, segundo a tradição, serviram a Flávia Domitila, sobrinha do imperador Domiciano. Convertidos ao cristianismo, recusaram-se a continuar o serviço militar e foram martirizados. Seus corpos repousam na basílica dos Santos Nereu e Aquileu em Roma."
+      },
+      {
+        "name": "São Gangulfo",
+        "type": "Mártir",
+        "description": "Nobre cavaleiro borgonhês do século VIII, venerado como mártir por ter morrido em circunstâncias ligadas à sua fidelidade cristã e matrimonial. É padroeiro dos maridos em casamentos difíceis em algumas tradições."
+      },
+      {
+        "name": "Beata Catarina de Santo Agostinho",
+        "type": "Virgem",
+        "description": "Religiosa hospitalar francesa do século XVII, missionária na Nova França (Canadá). Fundou hospitais em Quebec para atender doentes e indígenas. Foi beatificada em 1989 por João Paulo II."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional da Tecnologia (vários países)",
+        "description": "Diferentes países celebram este dia para reconhecer o impacto da tecnologia e da inovação na sociedade moderna, promovendo a alfabetização digital e o acesso igualitário à tecnologia."
+      },
+      {
+        "name": "Dia das Mães em países nórdicos",
+        "description": "Em países como Finlândia e Suécia, o Dia das Mães é celebrado no segundo domingo de maio, que em 2026 cai por volta desta data."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A ciência sem religião é manca; a religião sem ciência é cega.",
+      "author": "Albert Einstein"
+    },
+    "motivationalQuote": {
+      "text": "Caia sete vezes, levante-se oito.",
+      "author": "Provérbio japonês"
+    },
+    "births": [
+      {
+        "name": "Salvador Dalí",
+        "description": "Pintor surrealista espanhol, uma das figuras mais excêntricas e influentes da arte do século XX. Suas obras A Persistência da Memória, O Grande Masturbador e Cristo de São João da Cruz são ícones da arte universal. Também foi escultor, gravador e designer.",
+        "year": "1904"
+      },
+      {
+        "name": "Irving Berlin",
+        "description": "Compositor e letrista americano nascido na Rússia, autor de mais de 1.500 canções e considerado um dos maiores compositores da história da música popular. Entre suas criações mais famosas estão White Christmas e God Bless America.",
+        "year": "1888"
+      },
+      {
+        "name": "Natasha Richardson",
+        "description": "Atriz britânica, vencedora do Tony e do Oscar por seu papel em Cabaret na Broadway. Filha da atriz Vanessa Redgrave e esposa do ator Liam Neeson, fazia parte de uma das famílias mais ilustres do teatro e cinema britânico.",
+        "year": "1963"
+      }
+    ],
+    "events": [
+      {
+        "title": "IBM lança o primeiro computador pessoal (PC)",
+        "description": "A IBM apresentou o IBM Personal Computer (modelo 5150), o primeiro computador pessoal da empresa, revolucionando a informática doméstica e empresarial. Usava o sistema operacional MS-DOS da Microsoft.",
+        "year": "1981"
+      },
+      {
+        "title": "Deep Blue vence Kasparov",
+        "description": "O supercomputador Deep Blue da IBM derrotou o campeão mundial de xadrez Garry Kasparov na última partida de seu encontro, sendo a primeira vez que uma máquina venceu um campeão mundial em condições de torneio.",
+        "year": "1997"
+      },
+      {
+        "title": "Fundação de Minneapolis",
+        "description": "Minneapolis foi oficialmente incorporada como cidade do estado de Minnesota (EUA), tornando-se a maior cidade do estado e um centro cultural e econômico do Meio-Oeste americano.",
+        "year": "1867"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sants Nereu i Aquileu",
+        "type": "Màrtirs",
+        "description": "Soldats romans del segle I que, segons la tradició, servien Flàvia Domitil·la, neboda de l'emperador Domicià. Convertits al cristianisme, es van negar a continuar el servei militar i van ser martirizats. Els seus cossos reposen a la basílica dels Sants Nereu i Aquileu a Roma."
+      },
+      {
+        "name": "Sant Gangulf",
+        "type": "Màrtir",
+        "description": "Noble cavaller borgonyès del segle VIII, venerat com a màrtir per haver mort en circumstàncies lligades a la seva fidelitat cristiana i matrimonial. És patró dels marits en matrimonis difícils en algunes tradicions."
+      },
+      {
+        "name": "Beata Caterina de Sant Agustí",
+        "type": "Verge",
+        "description": "Religiosa hospitalària francesa del segle XVII, missionera a la Nova França (Canadà). Va fundar hospitals a Quebec per atendre malalts i indígenes. Va ser beatificada el 1989 per Joan Pau II."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional de la Tecnologia (diversos països)",
+        "description": "Diferents països celebren aquest dia per reconèixer l'impacte de la tecnologia i la innovació en la societat moderna, fomentant l'alfabetització digital i l'accés igualitari a la tecnologia."
+      },
+      {
+        "name": "Dia de la Mare en països nòrdics",
+        "description": "A països com Finlàndia i Suècia, el Dia de la Mare se celebra el segon diumenge de maig, que el 2026 cau al voltant d'aquesta data."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La ciència sense religió és coixa; la religió sense ciència és cega.",
+      "author": "Albert Einstein"
+    },
+    "motivationalQuote": {
+      "text": "Cau set vegades, aixeca't vuit.",
+      "author": "Proverbi japonès"
+    },
+    "births": [
+      {
+        "name": "Salvador Dalí",
+        "description": "Pintor surrealista espanyol, una de les figures més excèntriques i influents de l'art del segle XX. Les seves obres La persistència de la memòria, El gran masturbador i Crist de Sant Joan de la Creu són icones de l'art universal. També va ser escultor, gravador i dissenyador.",
+        "year": "1904"
+      },
+      {
+        "name": "Irving Berlin",
+        "description": "Compositor i lletrista americà nascut a Rússia, autor de més de 1.500 cançons i considerat un dels grans compositors de la història de la música popular. Entre les seves creacions més famoses hi ha White Christmas i God Bless America.",
+        "year": "1888"
+      },
+      {
+        "name": "Natasha Richardson",
+        "description": "Actriu britànica, guanyadora del Tony i de l'Oscar pel seu paper a Cabaret a Broadway. Filla de l'actriu Vanessa Redgrave i esposa de l'actor Liam Neeson, formava part d'una de les famílies més il·lustres del teatre i el cinema britànic.",
+        "year": "1963"
+      }
+    ],
+    "events": [
+      {
+        "title": "IBM llança el primer ordinador personal (PC)",
+        "description": "IBM va presentar l'IBM Personal Computer (model 5150), el primer ordinador personal de l'empresa, revolucionant la informàtica domèstica i empresarial. Feia servir el sistema operatiu MS-DOS de Microsoft.",
+        "year": "1981"
+      },
+      {
+        "title": "Deep Blue venç Kasparov",
+        "description": "El superordinador Deep Blue d'IBM va derrotar el campió mundial d'escacs Garry Kasparov en l'última partida del seu encontre, essent la primera vegada que una màquina vencia un campió mundial en condicions de torneig.",
+        "year": "1997"
+      },
+      {
+        "title": "Fundació de Minneapolis",
+        "description": "Minneapolis va ser incorporada oficialment com a ciutat de l'estat de Minnesota (EUA), convertint-se en la ciutat més gran de l'estat i en un centre cultural i econòmic del Mig Oest americà.",
+        "year": "1867"
+      }
+    ]
+  }
+}

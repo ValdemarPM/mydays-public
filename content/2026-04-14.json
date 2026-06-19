@@ -1,0 +1,291 @@
+{
+  "date": "2026-04-14",
+  "es": {
+    "saints": [
+      {
+        "name": "San Tiburcio y San Valeriano",
+        "type": "Mártires",
+        "description": "Mártires romanos del siglo III, cuñados de Santa Cecilia según la tradición. Tiburcio era hermano de Valeriano, el esposo de Cecilia. Tras convertirse al cristianismo por influencia de la familia de Cecilia, fueron arrestados y ejecutados durante la persecución de Marco Aurelio. Su culto es antiquísimo en Roma."
+      },
+      {
+        "name": "San Justino Mártir",
+        "type": "Mártir y Filósofo",
+        "description": "Filósofo cristiano del siglo II, nacido en Palestina de familia pagana. Se convirtió al cristianismo tras años de estudio filosófico y escribió las primeras 'Apologías' dirigidas al emperador para defender a los cristianos de las acusaciones paganas. Fue decapitado en Roma hacia el año 165. Es uno de los primeros pensadores que intentó sintetizar la filosofía griega con la fe cristiana."
+      },
+      {
+        "name": "Beata Lydwine de Schiedam",
+        "type": "Virgen",
+        "description": "Mística holandesa del siglo XIV-XV que, tras sufrir un accidente de patinaje sobre hielo a los 15 años, quedó paralítica y enferma el resto de su vida. Ofreció sus sufrimientos como ofrenda espiritual y fue reconocida por sus visiones y estigmas. Es patrona de los enfermos y de los patinadores."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de las Américas",
+        "description": "Celebrado el 14 de abril por los países de la Organización de los Estados Americanos (OEA), esta fecha conmemora la Primera Conferencia Internacional Americana celebrada en Washington en 1890, que sentó las bases de la cooperación interamericana."
+      },
+      {
+        "name": "Día Nacional de la República (España, histórico)",
+        "description": "El 14 de abril de 1931 se proclamó la Segunda República Española, coincidiendo con las elecciones municipales que evidenciaron el rechazo popular a la monarquía. Aunque no es festividad oficial en la actualidad, es recordado por los republicanos españoles."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La razón es el guía del sabio, pero no es la razón la que gobierna al hombre ordinario; lo gobiernan sus pasiones.",
+      "author": "David Hume",
+      "context": "David Hume, nacido el 7 de mayo de 1711, fue uno de los filósofos más influyentes del empirismo escocés. Esta reflexión sobre la naturaleza humana anticipa los desarrollos posteriores de la psicología y la economía conductual."
+    },
+    "motivationalQuote": {
+      "text": "Cree que puedes y ya estás a medio camino.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Christian Huygens",
+        "description": "Matemático, astrónomo y físico holandés del siglo XVII, uno de los científicos más importantes de la Revolución Científica. Descubrió el satélite Titán de Saturno, explicó los anillos de Saturno e inventó el reloj de péndulo. Sus aportaciones a la óptica y la teoría ondulatoria de la luz fueron fundamentales.",
+        "year": "1629"
+      },
+      {
+        "name": "John Gielgud",
+        "description": "Actor teatral y cinematográfico inglés considerado uno de los grandes del siglo XX. Experto en Shakespeare, ganó un Óscar como Actor de Reparto por 'Arthur' (1981). Su voz profunda y su dicción perfecta lo convirtieron en un símbolo del teatro en lengua inglesa.",
+        "year": "1904"
+      },
+      {
+        "name": "Sarah Michelle Gellar",
+        "description": "Actriz estadounidense, conocida mundialmente por su papel de Buffy Summers en la serie de televisión 'Buffy, cazavampiros' (1997-2003). También protagonizó la película 'Yo Sé Lo Que Hicisteis el Último Verano' (1997) y se convirtió en icono de la cultura pop de los años 90.",
+        "year": "1977"
+      }
+    ],
+    "events": [
+      {
+        "title": "Colisión del RMS Titanic con el iceberg",
+        "description": "A las 23:40 horas, el transatlántico RMS Titanic chocó con un iceberg en el Atlántico Norte durante su viaje inaugural. Menos de tres horas después, el barco se hundió causando la muerte de más de 1.500 personas, en uno de los mayores desastres marítimos de la historia.",
+        "year": "1912"
+      },
+      {
+        "title": "Proclamación de la Segunda República Española",
+        "description": "Tras las elecciones municipales del 12 de abril que evidenciaron un fuerte voto antimonárquico en las grandes ciudades, el rey Alfonso XIII abandonó España y se proclamó la Segunda República. El pueblo se lanzó a las calles para celebrarlo en un ambiente de júbilo general.",
+        "year": "1931"
+      },
+      {
+        "title": "Asesinato de Abraham Lincoln",
+        "description": "El presidente estadounidense Abraham Lincoln fue disparado por el actor y simpatizante confederado John Wilkes Booth mientras asistía a una función en el Teatro Ford de Washington. Lincoln murió a la mañana siguiente. Fue el primer presidente de EE.UU. asesinado en la historia.",
+        "year": "1865"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saints Tiburtius and Valerian",
+        "type": "Martyrs",
+        "description": "3rd-century Roman martyrs and brothers-in-law of Saint Cecilia according to tradition. Tiburtius was the brother of Valerian, Cecilia's husband. After converting to Christianity through the influence of Cecilia's family, they were arrested and executed during the Marcian persecution. Their cult is one of the oldest in Rome."
+      },
+      {
+        "name": "Saint Justin Martyr",
+        "type": "Martyr and Philosopher",
+        "description": "A 2nd-century Christian philosopher, born in Palestine to a pagan family. He converted to Christianity after years of philosophical study and wrote the first 'Apologies' addressed to the emperor to defend Christians from pagan accusations. He was beheaded in Rome around the year 165. He is one of the first thinkers to attempt a synthesis of Greek philosophy and Christian faith."
+      },
+      {
+        "name": "Blessed Lydwine of Schiedam",
+        "type": "Virgin",
+        "description": "A 14th–15th century Dutch mystic who, after suffering a skating accident at the age of 15, was paralysed and ill for the rest of her life. She offered her sufferings as a spiritual oblation and was recognised for her visions and stigmata. She is the patron saint of the sick and of ice skaters."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Day of the Americas",
+        "description": "Celebrated on 14 April by the countries of the Organization of American States (OAS), this date commemorates the First International Conference of American States held in Washington in 1890, which laid the foundations of inter-American cooperation."
+      },
+      {
+        "name": "National Day of the Republic (Spain, historical)",
+        "description": "On 14 April 1931, the Spanish Second Republic was proclaimed, coinciding with municipal elections that revealed widespread popular rejection of the monarchy. Though not an official holiday today, it is remembered by Spanish republicans."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Reason is the slave of the passions, and can never pretend to any other office than to serve and obey them.",
+      "author": "David Hume",
+      "context": "David Hume, born on 7 May 1711, was one of the most influential philosophers of Scottish empiricism. This reflection on human nature anticipated later developments in psychology and behavioural economics."
+    },
+    "motivationalQuote": {
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Christiaan Huygens",
+        "description": "17th-century Dutch mathematician, astronomer, and physicist, one of the most important scientists of the Scientific Revolution. He discovered Saturn's moon Titan, explained Saturn's rings, and invented the pendulum clock. His contributions to optics and the wave theory of light were fundamental.",
+        "year": "1629"
+      },
+      {
+        "name": "John Gielgud",
+        "description": "English stage and screen actor considered one of the greats of the 20th century. A Shakespeare specialist, he won an Academy Award for Best Supporting Actor for 'Arthur' (1981). His deep voice and perfect diction made him a symbol of English-language theatre.",
+        "year": "1904"
+      },
+      {
+        "name": "Sarah Michelle Gellar",
+        "description": "American actress, globally known for her role as Buffy Summers in the television series 'Buffy the Vampire Slayer' (1997–2003). She also starred in 'I Know What You Did Last Summer' (1997) and became a pop culture icon of the 1990s.",
+        "year": "1977"
+      }
+    ],
+    "events": [
+      {
+        "title": "RMS Titanic Strikes the Iceberg",
+        "description": "At 11:40 pm, the ocean liner RMS Titanic struck an iceberg in the North Atlantic during its maiden voyage. Less than three hours later, the ship sank, causing the deaths of more than 1,500 people, in one of the greatest maritime disasters in history.",
+        "year": "1912"
+      },
+      {
+        "title": "Proclamation of the Spanish Second Republic",
+        "description": "Following the municipal elections of 12 April, which revealed strong anti-monarchist feeling in the major cities, King Alfonso XIII left Spain and the Second Republic was proclaimed. People took to the streets to celebrate in a general atmosphere of jubilation.",
+        "year": "1931"
+      },
+      {
+        "title": "Assassination of Abraham Lincoln",
+        "description": "US President Abraham Lincoln was shot by actor and Confederate sympathiser John Wilkes Booth while attending a performance at Ford's Theatre in Washington. Lincoln died the following morning. He was the first US president to be assassinated in history.",
+        "year": "1865"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santos Tibúrcio e Valeriano",
+        "type": "Mártires",
+        "description": "Mártires romanos do século III, cunhados de Santa Cecília segundo a tradição. Tibúrcio era irmão de Valeriano, o marido de Cecília. Após converterem-se ao cristianismo por influência da família de Cecília, foram presos e executados durante a perseguição marciniana. O seu culto é um dos mais antigos de Roma."
+      },
+      {
+        "name": "São Justino Mártir",
+        "type": "Mártir e Filósofo",
+        "description": "Filósofo cristão do século II, nascido na Palestina em família pagã. Converteu-se ao cristianismo após anos de estudo filosófico e escreveu as primeiras 'Apologias' dirigidas ao imperador para defender os cristãos das acusações pagãs. Foi decapitado em Roma por volta do ano 165. É um dos primeiros pensadores a tentar sintetizar a filosofia grega com a fé cristã."
+      },
+      {
+        "name": "Beata Lidvina de Schiedam",
+        "type": "Virgem",
+        "description": "Mística holandesa dos séculos XIV-XV que, após sofrer um acidente de patinagem no gelo aos 15 anos, ficou paralisada e doente pelo resto da vida. Ofereceu os seus sofrimentos como oblação espiritual e foi reconhecida pelas suas visões e estigmas. É patrona dos doentes e dos patinadores."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia das Américas",
+        "description": "Celebrado em 14 de abril pelos países da Organização dos Estados Americanos (OEA), esta data comemora a Primeira Conferência Internacional Americana realizada em Washington em 1890, que lançou as bases da cooperação inter-americana."
+      },
+      {
+        "name": "Dia Nacional da República (Espanha, histórico)",
+        "description": "Em 14 de abril de 1931, foi proclamada a Segunda República Espanhola, coincidindo com as eleições municipais que evidenciaram a rejeição popular à monarquia. Embora não seja feriado oficial atualmente, é recordado pelos republicanos espanhóis."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A razão é a escrava das paixões, e nunca pode pretender outro papel senão o de servir e obedecer-lhes.",
+      "author": "David Hume",
+      "context": "David Hume, nascido em 7 de maio de 1711, foi um dos filósofos mais influentes do empirismo escocês. Esta reflexão sobre a natureza humana antecipou os desenvolvimentos posteriores da psicologia e da economia comportamental."
+    },
+    "motivationalQuote": {
+      "text": "Acredite que pode e já está a meio caminho.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Christiaan Huygens",
+        "description": "Matemático, astrónomo e físico holandês do século XVII, um dos mais importantes da Revolução Científica. Descobriu o satélite Titã de Saturno, explicou os anéis de Saturno e inventou o relógio de pêndulo. As suas contribuições para a ótica e a teoria ondulatória da luz foram fundamentais.",
+        "year": "1629"
+      },
+      {
+        "name": "John Gielgud",
+        "description": "Ator teatral e cinematográfico inglês considerado um dos grandes do século XX. Especialista em Shakespeare, ganhou um Oscar de Melhor Ator Coadjuvante por 'Arthur' (1981). A sua voz profunda e a sua dicção perfeita tornaram-no num símbolo do teatro em língua inglesa.",
+        "year": "1904"
+      },
+      {
+        "name": "Sarah Michelle Gellar",
+        "description": "Atriz americana, mundialmente conhecida pelo seu papel de Buffy Summers na série de televisão 'Buffy, a caçadora de vampiros' (1997-2003). Também protagonizou o filme 'Eu Sei o Que Vocês Fizeram no Verão Passado' (1997) e tornou-se ícone da cultura pop dos anos 90.",
+        "year": "1977"
+      }
+    ],
+    "events": [
+      {
+        "title": "Colisão do RMS Titanic com o iceberg",
+        "description": "Às 23h40, o transatlântico RMS Titanic colidiu com um iceberg no Atlântico Norte durante a sua viagem inaugural. Menos de três horas depois, o navio afundou causando a morte de mais de 1.500 pessoas, num dos maiores desastres marítimos da história.",
+        "year": "1912"
+      },
+      {
+        "title": "Proclamação da Segunda República Espanhola",
+        "description": "Após as eleições municipais de 12 de abril que evidenciaram uma forte rejeição à monarquia nas grandes cidades, o rei Afonso XIII abandonou Espanha e foi proclamada a Segunda República. O povo saiu às ruas para celebrar em clima de júbilo geral.",
+        "year": "1931"
+      },
+      {
+        "title": "Assassinato de Abraham Lincoln",
+        "description": "O presidente americano Abraham Lincoln foi baleado pelo ator e simpatizante confederado John Wilkes Booth enquanto assistia a um espetáculo no Teatro Ford em Washington. Lincoln morreu na manhã seguinte. Foi o primeiro presidente dos EUA assassinado na história.",
+        "year": "1865"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sants Tiburi i Valerià",
+        "type": "Màrtirs",
+        "description": "Màrtirs romans del segle III, cunyats de Santa Cecília segons la tradició. Tiburi era germà de Valerià, el marit de Cecília. Després de convertir-se al cristianisme per influència de la família de Cecília, van ser arrestats i executats durant la persecució marciniana. El seu culte és un dels més antics de Roma."
+      },
+      {
+        "name": "Sant Justí Màrtir",
+        "type": "Màrtir i Filòsof",
+        "description": "Filòsof cristià del segle II, nascut a Palestina en família pagana. Es va convertir al cristianisme després d'anys d'estudi filosòfic i va escriure les primeres 'Apologies' adreçades a l'emperador per defensar els cristians de les acusacions paganes. Va ser decapitat a Roma cap a l'any 165. És un dels primers pensadors que va intentar sintetitzar la filosofia grega amb la fe cristiana."
+      },
+      {
+        "name": "Beata Lidvina de Schiedam",
+        "type": "Verge",
+        "description": "Mística holandesa dels segles XIV-XV que, després de patir un accident de patinatge sobre gel als 15 anys, va quedar paralítica i malalta la resta de la seva vida. Va oferir els seus sofriments com a oblació espiritual i va ser reconeguda per les seves visions i estigmes. És patrona dels malalts i dels patinadors."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de les Amèriques",
+        "description": "Celebrat el 14 d'abril pels països de l'Organització dels Estats Americans (OEA), aquesta data commemora la Primera Conferència Internacional Americana celebrada a Washington el 1890, que va establir les bases de la cooperació interamericana."
+      },
+      {
+        "name": "Dia Nacional de la República (Espanya, històric)",
+        "description": "El 14 d'abril de 1931 es va proclamar la Segona República Espanyola, coincidint amb les eleccions municipals que van evidenciar el rebuig popular a la monarquia. Encara que no és festivitat oficial avui, és recordat pels republicans espanyols."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La raó és l'esclava de les passions, i mai no pot pretendre cap altre ofici que servir-les i obeir-les.",
+      "author": "David Hume",
+      "context": "David Hume, nascut el 7 de maig de 1711, va ser un dels filòsofs més influents de l'empirisme escocès. Aquesta reflexió sobre la naturalesa humana va anticipar els desenvolupaments posteriors de la psicologia i l'economia conductual."
+    },
+    "motivationalQuote": {
+      "text": "Creu que pots i ja ets a mig camí.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Christiaan Huygens",
+        "description": "Matemàtic, astrònom i físic holandès del segle XVII, un dels més importants de la Revolució Científica. Va descobrir el satèl·lit Tità de Saturn, va explicar els anells de Saturn i va inventar el rellotge de pèndol. Les seves aportacions a l'òptica i la teoria ondulatòria de la llum van ser fonamentals.",
+        "year": "1629"
+      },
+      {
+        "name": "John Gielgud",
+        "description": "Actor teatral i cinematogràfic anglès considerat un dels grans del segle XX. Especialista en Shakespeare, va guanyar un Oscar al Millor Actor de Repartiment per 'Arthur' (1981). La seva veu profunda i la seva dicció perfecta el van convertir en un símbol del teatre en llengua anglesa.",
+        "year": "1904"
+      },
+      {
+        "name": "Sarah Michelle Gellar",
+        "description": "Actriu americana, coneguda mundialment pel seu paper de Buffy Summers a la sèrie de televisió 'Buffy, caçadora de vampirs' (1997-2003). També va protagonitzar la pel·lícula 'Sé el que vàreu fer l'estiu passat' (1997) i es va convertir en icona de la cultura pop dels anys 90.",
+        "year": "1977"
+      }
+    ],
+    "events": [
+      {
+        "title": "Col·lisió del RMS Titànic amb l'iceberg",
+        "description": "A les 23:40 hores, el transatlàntic RMS Titànic va xocar amb un iceberg a l'Atlàntic Nord durant el seu viatge inaugural. Menys de tres hores després, el vaixell va enfonsar-se causant la mort de més de 1.500 persones, en un dels majors desastres marítims de la història.",
+        "year": "1912"
+      },
+      {
+        "title": "Proclamació de la Segona República Espanyola",
+        "description": "Després de les eleccions municipals del 12 d'abril que van evidenciar un fort vot antimonàrquic a les grans ciutats, el rei Alfons XIII va abandonar Espanya i es va proclamar la Segona República. El poble va sortir als carrers per celebrar-ho en un ambient de joia general.",
+        "year": "1931"
+      },
+      {
+        "title": "Assassinat d'Abraham Lincoln",
+        "description": "El president americà Abraham Lincoln va ser disparat per l'actor i simpatitzant confederat John Wilkes Booth mentre assistia a una funció al Teatre Ford de Washington. Lincoln va morir l'endemà al matí. Va ser el primer president dels EUA assassinat en la història.",
+        "year": "1865"
+      }
+    ]
+  }
+}

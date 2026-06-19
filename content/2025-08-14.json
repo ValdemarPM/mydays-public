@@ -1,0 +1,291 @@
+{
+  "date": "2025-08-14",
+  "es": {
+    "saints": [
+      {
+        "name": "San Eusebio de Roma",
+        "type": "Presbítero",
+        "description": "Sacerdote romano del siglo IV defensor de la ortodoxia nicena. Fue encarcelado en su propia casa por orden del papa Liberio, quien bajo presión imperial había aceptado el arrianismo. Murió en su domicilio convertido en prisión."
+      },
+      {
+        "name": "Beato Tito Brandsma",
+        "type": "Presbítero y Mártir",
+        "description": "Fraile carmelita holandés (1881–1942), periodista y filósofo. Se opuso públicamente al nazismo y fue enviado a Dachau, donde murió a causa de experimentos médicos. Canonizado por Francisco en 2022."
+      },
+      {
+        "name": "San Marcelo",
+        "type": "Mártir",
+        "description": "Centurión romano del siglo III que, durante una celebración militar, arrojó su cinturón y sus armas declarándose cristiano. Fue decapitado por traición y venerado como mártir militar."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de Pakistán",
+        "description": "Pakistán celebra su independencia del dominio británico, proclamada el 14 de agosto de 1947 con la partición de la India. Es la fiesta nacional del país."
+      },
+      {
+        "name": "Vigilia de la Asunción de la Virgen María",
+        "description": "Día anterior a la solemne festividad de la Asunción de la Virgen María (15 de agosto), el dogma católico que afirma que María fue llevada en cuerpo y alma al cielo al final de su vida terrena."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No hay carga más pesada que el gran potencial.",
+      "author": "Charles M. Schulz",
+      "context": "El caricaturista y creador de Peanuts (Charlie Brown y Snoopy), nacido el 26 de noviembre de 1922, ponía con frecuencia en boca de sus personajes reflexiones filosóficas sobre las expectativas y la presión del éxito."
+    },
+    "motivationalQuote": {
+      "text": "Haz de cada día tu obra maestra.",
+      "author": "John Wooden"
+    },
+    "births": [
+      {
+        "name": "Víctor Hugo",
+        "description": "Novelista, dramaturgo y poeta francés (1802–1885), una de las grandes figuras del romanticismo. Autor de Los Miserables y Nuestra Señora de París, obras que definen la conciencia social de la literatura europea.",
+        "year": 1802
+      },
+      {
+        "name": "Steve Martin",
+        "description": "Actor, comediante y escritor estadounidense conocido por películas como El hombre de dos cerebros, Roxanne y la serie Only Murders in the Building. También músico de banjo y dramaturgo galardonado.",
+        "year": 1945
+      },
+      {
+        "name": "Halle Berry",
+        "description": "Actriz estadounidense, primera mujer afroamericana en ganar el Óscar a la mejor actriz por Monster's Ball (2001). Ha interpretado a la mutante Tormenta en la saga X-Men.",
+        "year": 1966
+      }
+    ],
+    "events": [
+      {
+        "title": "Japón anuncia la rendición — fin de la Segunda Guerra Mundial en el Pacífico",
+        "description": "El 14 de agosto de 1945, el emperador Hirohito anunció por radio la rendición incondicional de Japón a los aliados, poniendo fin efectivo a la Segunda Guerra Mundial en el Teatro del Pacífico.",
+        "year": 1945
+      },
+      {
+        "title": "Independencia de Pakistán",
+        "description": "El 14 de agosto de 1947, el Dominio de Pakistán se proclamó independiente del Imperio Británico al producirse la partición de la India. Muhammad Ali Jinnah se convirtió en su primer gobernador general.",
+        "year": 1947
+      },
+      {
+        "title": "Primera emisión de televisión en color en EE. UU.",
+        "description": "El 25 de junio de 1951, CBS realizó la primera emisión de televisión en color de la historia en Estados Unidos; pero el 14 de agosto de 1951 el sistema fue suspendido por la Comisión Federal de Comunicaciones durante la guerra de Corea.",
+        "year": 1951
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Eusebius of Rome",
+        "type": "Priest",
+        "description": "4th-century Roman priest and defender of Nicene orthodoxy. He was imprisoned in his own home on the orders of Pope Liberius, who under imperial pressure had accepted Arianism. He died in his house-turned-prison."
+      },
+      {
+        "name": "Blessed Titus Brandsma",
+        "type": "Priest and Martyr",
+        "description": "Dutch Carmelite friar (1881–1942), journalist, and philosopher. He publicly opposed Nazism and was sent to Dachau, where he died as a result of medical experiments. Canonised by Francis in 2022."
+      },
+      {
+        "name": "Saint Marcellus",
+        "type": "Martyr",
+        "description": "A 3rd-century Roman centurion who, during a military celebration, threw down his belt and weapons declaring himself a Christian. He was executed for treason and venerated as a military martyr."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Independence Day of Pakistan",
+        "description": "Pakistan celebrates its independence from British rule, proclaimed on 14 August 1947 with the partition of India. It is the country's national holiday."
+      },
+      {
+        "name": "Vigil of the Assumption of the Virgin Mary",
+        "description": "The day before the solemn feast of the Assumption of the Virgin Mary (15 August), the Catholic dogma affirming that Mary was taken body and soul into heaven at the end of her earthly life."
+      }
+    ],
+    "historicalQuote": {
+      "text": "There is no heavier burden than a great potential.",
+      "author": "Charles M. Schulz",
+      "context": "The cartoonist and creator of Peanuts (Charlie Brown and Snoopy), born on 26 November 1922, frequently put philosophical reflections on expectations and the pressure of success into the mouths of his characters."
+    },
+    "motivationalQuote": {
+      "text": "Make each day your masterpiece.",
+      "author": "John Wooden"
+    },
+    "births": [
+      {
+        "name": "Victor Hugo",
+        "description": "French novelist, playwright, and poet (1802–1885), one of the great figures of Romanticism. Author of Les Misérables and The Hunchback of Notre-Dame, works that define the social conscience of European literature.",
+        "year": 1802
+      },
+      {
+        "name": "Steve Martin",
+        "description": "American actor, comedian, and writer known for films such as The Man with Two Brains, Roxanne, and the series Only Murders in the Building. Also an award-winning banjo player and playwright.",
+        "year": 1945
+      },
+      {
+        "name": "Halle Berry",
+        "description": "American actress, the first African American woman to win the Academy Award for Best Actress for Monster's Ball (2001). She has also played the mutant Storm in the X-Men franchise.",
+        "year": 1966
+      }
+    ],
+    "events": [
+      {
+        "title": "Japan announces surrender — end of World War II in the Pacific",
+        "description": "On 14 August 1945, Emperor Hirohito announced by radio Japan's unconditional surrender to the Allies, effectively ending World War II in the Pacific Theatre.",
+        "year": 1945
+      },
+      {
+        "title": "Pakistan's independence",
+        "description": "On 14 August 1947, the Dominion of Pakistan declared independence from the British Empire with the partition of India. Muhammad Ali Jinnah became its first Governor-General.",
+        "year": 1947
+      },
+      {
+        "title": "Woodstock festival opens",
+        "description": "On 14 August 1969, the Woodstock Music and Art Fair opened in Bethel, New York, becoming a defining cultural event of the 1960s counterculture movement, with more than 400,000 attendees.",
+        "year": 1969
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Eusébio de Roma",
+        "type": "Presbítero",
+        "description": "Sacerdote romano do século IV e defensor da ortodoxia nicena. Foi encarcerado na própria casa por ordem do papa Libério, que sob pressão imperial havia aceitado o arianismo. Morreu na sua casa convertida em prisão."
+      },
+      {
+        "name": "Beato Tito Brandsma",
+        "type": "Presbítero e Mártir",
+        "description": "Frade carmelita holandês (1881–1942), jornalista e filósofo. Opôs-se publicamente ao nazismo e foi enviado para Dachau, onde morreu em consequência de experimentos médicos. Canonizado por Francisco em 2022."
+      },
+      {
+        "name": "São Marcelo",
+        "type": "Mártir",
+        "description": "Centurião romano do século III que, durante uma celebração militar, atirou ao chão o seu cinto e as suas armas declarando-se cristão. Foi executado por traição e venerado como mártir militar."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência do Paquistão",
+        "description": "O Paquistão celebra a sua independência do domínio britânico, proclamada em 14 de agosto de 1947 com a partição da Índia. É o feriado nacional do país."
+      },
+      {
+        "name": "Vigília da Assunção da Virgem Maria",
+        "description": "Dia anterior à solene festividade da Assunção da Virgem Maria (15 de agosto), o dogma católico que afirma que Maria foi levada em corpo e alma ao céu no fim da sua vida terrena."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Não há fardo mais pesado do que um grande potencial.",
+      "author": "Charles M. Schulz",
+      "context": "O cartunista e criador dos Peanuts (Charlie Brown e Snoopy), nascido em 26 de novembro de 1922, colocava frequentemente na boca dos seus personagens reflexões filosóficas sobre as expectativas e a pressão do sucesso."
+    },
+    "motivationalQuote": {
+      "text": "Faça de cada dia a sua obra-prima.",
+      "author": "John Wooden"
+    },
+    "births": [
+      {
+        "name": "Victor Hugo",
+        "description": "Romancista, dramaturgo e poeta francês (1802–1885), uma das grandes figuras do romantismo. Autor de Os Miseráveis e O Corcunda de Notre-Dame, obras que definem a consciência social da literatura europeia.",
+        "year": 1802
+      },
+      {
+        "name": "Steve Martin",
+        "description": "Ator, comediante e escritor americano conhecido por filmes como O Homem de Dois Cérebros, Roxanne e a série Only Murders in the Building. Também músico de banjo premiado e dramaturgo.",
+        "year": 1945
+      },
+      {
+        "name": "Halle Berry",
+        "description": "Atriz americana, a primeira mulher afro-americana a ganhar o Oscar de Melhor Atriz por Monster's Ball (2001). Também interpretou a mutante Tempestade na franquia X-Men.",
+        "year": 1966
+      }
+    ],
+    "events": [
+      {
+        "title": "Japão anuncia a rendição — fim da Segunda Guerra Mundial no Pacífico",
+        "description": "Em 14 de agosto de 1945, o imperador Hirohito anunciou pelo rádio a rendição incondicional do Japão aos aliados, pondo fim efetivo à Segunda Guerra Mundial no Teatro do Pacífico.",
+        "year": 1945
+      },
+      {
+        "title": "Independência do Paquistão",
+        "description": "Em 14 de agosto de 1947, o Domínio do Paquistão declarou independência do Império Britânico com a partição da Índia. Muhammad Ali Jinnah tornou-se o seu primeiro governador-geral.",
+        "year": 1947
+      },
+      {
+        "title": "Festival de Woodstock tem início",
+        "description": "Em 14 de agosto de 1969, o Festival de Música e Arte de Woodstock abriu em Bethel, Nova Iorque, tornando-se um evento cultural definidor do movimento contracultural dos anos sessenta, com mais de 400.000 participantes.",
+        "year": 1969
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Eusebi de Roma",
+        "type": "Prevere",
+        "description": "Sacerdot romà del segle IV i defensor de l'ortodòxia nicena. Va ser empresonat a la seva pròpia casa per ordre del papa Liberi, que sota pressió imperial havia acceptat l'arianisme. Va morir al seu domicili convertit en presó."
+      },
+      {
+        "name": "Beat Titus Brandsma",
+        "type": "Prevere i Màrtir",
+        "description": "Frare carmelità holandès (1881–1942), periodista i filòsof. Va oposar-se públicament al nazisme i va ser enviat a Dachau, on va morir a causa d'experiments mèdics. Canonitzat per Francesc el 2022."
+      },
+      {
+        "name": "Sant Marcel·lí",
+        "type": "Màrtir",
+        "description": "Centurió romà del segle III que, durant una celebració militar, va llançar el seu cinturó i les seves armes declarant-se cristià. Va ser executat per traïció i venerat com a màrtir militar."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència del Pakistan",
+        "description": "El Pakistan celebra la seva independència del domini britànic, proclamada el 14 d'agost de 1947 amb la partició de l'Índia. És la festa nacional del país."
+      },
+      {
+        "name": "Vigília de l'Assumpció de la Verge Maria",
+        "description": "Dia anterior a la solemne festivitat de l'Assumpció de la Verge Maria (15 d'agost), el dogma catòlic que afirma que Maria va ser portada en cos i ànima al cel al final de la seva vida terrena."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No hi ha càrrega més pesant que un gran potencial.",
+      "author": "Charles M. Schulz",
+      "context": "El dibuixant i creador dels Peanuts (Charlie Brown i Snoopy), nascut el 26 de novembre de 1922, posava sovint en boca dels seus personatges reflexions filosòfiques sobre les expectatives i la pressió de l'èxit."
+    },
+    "motivationalQuote": {
+      "text": "Fes de cada dia la teva obra mestra.",
+      "author": "John Wooden"
+    },
+    "births": [
+      {
+        "name": "Víctor Hugo",
+        "description": "Novel·lista, dramaturg i poeta francès (1802–1885), una de les grans figures del romanticisme. Autor de Els Miserables i El geperut de Notre-Dame, obres que defineixen la consciència social de la literatura europea.",
+        "year": 1802
+      },
+      {
+        "name": "Steve Martin",
+        "description": "Actor, comediant i escriptor americà conegut per pel·lícules com L'home de dos cervells, Roxanne i la sèrie Only Murders in the Building. També músic de banjo premiat i dramaturg.",
+        "year": 1945
+      },
+      {
+        "name": "Halle Berry",
+        "description": "Actriu americana, la primera dona afroamericana a guanyar l'Oscar a la millor actriu per Monster's Ball (2001). Ha interpretat la mutant Tempesta a la saga X-Men.",
+        "year": 1966
+      }
+    ],
+    "events": [
+      {
+        "title": "El Japó anuncia la rendició — fi de la Segona Guerra Mundial al Pacífic",
+        "description": "El 14 d'agost de 1945, l'emperador Hirohito va anunciar per ràdio la rendició incondicional del Japó als aliats, posant fi efectiu a la Segona Guerra Mundial al teatre del Pacífic.",
+        "year": 1945
+      },
+      {
+        "title": "Independència del Pakistan",
+        "description": "El 14 d'agost de 1947, el Dominat del Pakistan va declarar la independència de l'Imperi Britànic amb la partició de l'Índia. Muhammad Ali Jinnah es va convertir en el seu primer governador general.",
+        "year": 1947
+      },
+      {
+        "title": "El festival de Woodstock obre les portes",
+        "description": "El 14 d'agost de 1969, el Festival de Música i Art de Woodstock va obrir a Bethel, Nova York, convertint-se en un esdeveniment cultural definidor del moviment contracultural dels anys seixanta, amb més de 400.000 assistents.",
+        "year": 1969
+      }
+    ]
+  }
+}

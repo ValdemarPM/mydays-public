@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-14",
+  "es": {
+    "saints": [
+      {
+        "name": "San Serapión de Argel",
+        "type": "Mártir",
+        "description": "Fraile mercedario inglés que se ofreció como rehén para liberar a prisioneros cristianos en Argel y fue torturado y muerto en 1240 al no llegar el rescate. Canonizado en 1728."
+      },
+      {
+        "name": "San Lorenzo O'Toole",
+        "type": "Obispo",
+        "description": "Arzobispo de Dublín del siglo XII y reformador de la Iglesia de Irlanda, que murió en 1180 en Normandía mientras negociaba la paz entre el rey inglés y los reyes irlandeses."
+      },
+      {
+        "name": "Beato Juan Liccio",
+        "type": "Presbítero",
+        "description": "Fraile dominico siciliano del siglo XV, fundador de numerosos conventos y hospitales en Sicilia. Beatificado en 1753 por el papa Benedicto XIV."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Diabetes",
+        "description": "Proclamado por la OMS y la Federación Internacional de Diabetes para concienciar sobre una enfermedad que afecta a más de 500 millones de personas en el mundo. Se celebra en el aniversario del nacimiento de Frederick Banting, codescubridor de la insulina."
+      },
+      {
+        "name": "Día de los Niños (India)",
+        "description": "India celebra el Día de los Niños el 14 de noviembre, coincidiendo con el cumpleaños de Jawaharlal Nehru, primer primer ministro del país y gran defensor de los derechos infantiles."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La ciencia sin religión está coja; la religión sin ciencia está ciega.",
+      "author": "Albert Einstein",
+      "context": "Einstein nació el 14 de marzo, pero el 14 de noviembre de 1922 recibió el Nobel de Física. Su reflexión sobre la relación entre ciencia y espiritualidad sigue siendo uno de los textos más citados de la historia intelectual del siglo XX."
+    },
+    "motivationalQuote": {
+      "text": "La juventud no es una época de la vida; es un estado mental.",
+      "author": "Samuel Ullman"
+    },
+    "births": [
+      {
+        "name": "Claude Monet",
+        "description": "Pintor francés fundador del Impresionismo, creador de las series de Las Nenúfares y la Catedral de Ruán, cuya obsesión por capturar la luz transformó el arte moderno.",
+        "year": 1840
+      },
+      {
+        "name": "Jawaharlal Nehru",
+        "description": "Primer primer ministro de la India independiente (1947–1964), arquitecto del estado indio moderno, defensor del no alineamiento y promotor de los derechos de la infancia.",
+        "year": 1889
+      },
+      {
+        "name": "Prince Charles (Carlos III)",
+        "description": "Actual rey del Reino Unido (desde 2022), conocido durante décadas como el Príncipe de Gales y defensor pionero del medioambiente y la arquitectura tradicional.",
+        "year": 1948
+      }
+    ],
+    "events": [
+      {
+        "title": "Coronación de Carlos III como rey de España",
+        "description": "Carlos III fue coronado rey de España en Madrid, iniciando un reinado ilustrado que transformó el país: reformó la administración, expulsó a los jesuitas y promovió la ciencia y las artes.",
+        "year": 1759
+      },
+      {
+        "title": "Primera llamada de radio desde un avión en vuelo",
+        "description": "Por primera vez en la historia, se realizó una llamada de radio desde un avión en vuelo en Ohio, un hito en la historia de las telecomunicaciones aeronáuticas.",
+        "year": 1910
+      },
+      {
+        "title": "Se publica Moby Dick",
+        "description": "Herman Melville publicó en Nueva York su novela Moby Dick o la Ballena, una de las obras más grandes de la literatura americana, ignorada por la crítica en su momento.",
+        "year": 1851
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Serapion of Algiers",
+        "type": "Martyr",
+        "description": "English Mercedarian friar who offered himself as a hostage to free Christian prisoners in Algiers and was tortured and killed in 1240 when the ransom did not arrive. Canonised in 1728."
+      },
+      {
+        "name": "Saint Laurence O'Toole",
+        "type": "Bishop",
+        "description": "12th-century Archbishop of Dublin and reformer of the Irish Church, who died in 1180 in Normandy while negotiating peace between the English king and the Irish kings."
+      },
+      {
+        "name": "Blessed John Liccio",
+        "type": "Presbyter",
+        "description": "15th-century Sicilian Dominican friar and founder of numerous convents and hospitals in Sicily. Beatified in 1753 by Pope Benedict XIV."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Diabetes Day",
+        "description": "Proclaimed by the WHO and the International Diabetes Federation to raise awareness of a disease affecting more than 500 million people worldwide. Celebrated on the birthday of Frederick Banting, co-discoverer of insulin."
+      },
+      {
+        "name": "Children's Day (India)",
+        "description": "India celebrates Children's Day on 14 November, coinciding with the birthday of Jawaharlal Nehru, the country's first Prime Minister and a great champion of children's rights."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Science without religion is lame; religion without science is blind.",
+      "author": "Albert Einstein",
+      "context": "Einstein was born on 14 March, but on 14 November 1922 he received the Nobel Prize in Physics. His reflection on the relationship between science and spirituality remains one of the most quoted texts in 20th-century intellectual history."
+    },
+    "motivationalQuote": {
+      "text": "Youth is not a time of life; it is a state of mind.",
+      "author": "Samuel Ullman"
+    },
+    "births": [
+      {
+        "name": "Claude Monet",
+        "description": "French painter and founder of Impressionism, creator of the Water Lilies and Rouen Cathedral series, whose obsession with capturing light transformed modern art.",
+        "year": 1840
+      },
+      {
+        "name": "Jawaharlal Nehru",
+        "description": "First Prime Minister of independent India (1947–1964), architect of the modern Indian state, champion of non-alignment, and promoter of children's rights.",
+        "year": 1889
+      },
+      {
+        "name": "Prince Charles (King Charles III)",
+        "description": "Current King of the United Kingdom (since 2022), known for decades as the Prince of Wales and a pioneering advocate for the environment and traditional architecture.",
+        "year": 1948
+      }
+    ],
+    "events": [
+      {
+        "title": "Coronation of Charles III as King of Spain",
+        "description": "Charles III was crowned King of Spain in Madrid, beginning an enlightened reign that transformed the country: he reformed the administration, expelled the Jesuits, and promoted science and the arts.",
+        "year": 1759
+      },
+      {
+        "title": "First radio call from an aircraft in flight",
+        "description": "For the first time in history, a radio call was made from an aircraft in flight over Ohio — a milestone in the history of aeronautical telecommunications.",
+        "year": 1910
+      },
+      {
+        "title": "Publication of Moby Dick",
+        "description": "Herman Melville published Moby-Dick; or, The Whale in New York, one of the greatest works of American literature, initially ignored by critics.",
+        "year": 1851
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Serapião de Argel",
+        "type": "Mártir",
+        "description": "Frade mercedário inglês que se ofereceu como refém para libertar prisioneiros cristãos em Argel e foi torturado e morto em 1240 quando o resgate não chegou. Canonizado em 1728."
+      },
+      {
+        "name": "São Lourenço O'Toole",
+        "type": "Bispo",
+        "description": "Arcebispo de Dublin do século XII e reformador da Igreja da Irlanda, que morreu em 1180 na Normandia enquanto negociava a paz entre o rei inglês e os reis irlandeses."
+      },
+      {
+        "name": "Beato João Liccio",
+        "type": "Presbítero",
+        "description": "Frade dominicano siciliano do século XV e fundador de inúmeros conventos e hospitais na Sicília. Beatificado em 1753 pelo papa Bento XIV."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial do Diabetes",
+        "description": "Proclamado pela OMS e pela Federação Internacional de Diabetes para conscientizar sobre uma doença que afeta mais de 500 milhões de pessoas no mundo. Celebrado no aniversário de Frederick Banting, codescoberto da insulina."
+      },
+      {
+        "name": "Dia das Crianças (Índia)",
+        "description": "A Índia celebra o Dia das Crianças em 14 de novembro, coincidindo com o aniversário de Jawaharlal Nehru, primeiro-ministro do país e grande defensor dos direitos da infância."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A ciência sem religião é manca; a religião sem ciência é cega.",
+      "author": "Albert Einstein",
+      "context": "Einstein nasceu a 14 de março, mas em 14 de novembro de 1922 recebeu o Nobel de Física. A sua reflexão sobre a relação entre ciência e espiritualidade continua sendo um dos textos mais citados da história intelectual do século XX."
+    },
+    "motivationalQuote": {
+      "text": "A juventude não é uma época da vida; é um estado mental.",
+      "author": "Samuel Ullman"
+    },
+    "births": [
+      {
+        "name": "Claude Monet",
+        "description": "Pintor francês e fundador do Impressionismo, criador das séries dos Nenúfares e da Catedral de Ruão, cuja obsessão por capturar a luz transformou a arte moderna.",
+        "year": 1840
+      },
+      {
+        "name": "Jawaharlal Nehru",
+        "description": "Primeiro primeiro-ministro da Índia independente (1947–1964), arquiteto do estado indiano moderno, defensor do não alinhamento e promotor dos direitos da infância.",
+        "year": 1889
+      },
+      {
+        "name": "Príncipe Carlos (Rei Carlos III)",
+        "description": "Atual rei do Reino Unido (desde 2022), conhecido durante décadas como Príncipe de Gales e defensor pioneiro do meio ambiente e da arquitetura tradicional.",
+        "year": 1948
+      }
+    ],
+    "events": [
+      {
+        "title": "Coroação de Carlos III como rei de Espanha",
+        "description": "Carlos III foi coroado rei de Espanha em Madri, iniciando um reinado iluminado que transformou o país: reformou a administração, expulsou os jesuítas e promoveu a ciência e as artes.",
+        "year": 1759
+      },
+      {
+        "title": "Primeira chamada de rádio de uma aeronave em voo",
+        "description": "Pela primeira vez na história, foi realizada uma chamada de rádio de uma aeronave em voo sobre Ohio — um marco na história das telecomunicações aeronáuticas.",
+        "year": 1910
+      },
+      {
+        "title": "Publicação de Moby Dick",
+        "description": "Herman Melville publicou em Nova York o seu romance Moby Dick ou A Baleia, uma das maiores obras da literatura americana, ignorada pela crítica no seu momento.",
+        "year": 1851
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Serapió d'Alger",
+        "type": "Màrtir",
+        "description": "Frare mercedari anglès que es va oferir com a ostatge per alliberar presoners cristians a Alger i va ser torturat i mort el 1240 en no arribar el rescat. Canonitzat el 1728."
+      },
+      {
+        "name": "Sant Llorenç O'Toole",
+        "type": "Bisbe",
+        "description": "Arquebisbe de Dublín del segle XII i reformador de l'Església d'Irlanda, que va morir el 1180 a Normandia mentre negociava la pau entre el rei anglès i els reis irlandesos."
+      },
+      {
+        "name": "Beat Joan Liccio",
+        "type": "Prevere",
+        "description": "Frare dominic sicilià del segle XV i fundador de nombrosos convents i hospitals a Sicília. Beatificat el 1753 pel papa Benet XIV."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Diabetis",
+        "description": "Proclamat per l'OMS i la Federació Internacional de Diabetis per conscienciar sobre una malaltia que afecta més de 500 milions de persones al món. Es celebra en l'aniversari de Frederick Banting, codescubridor de la insulina."
+      },
+      {
+        "name": "Dia dels Infants (Índia)",
+        "description": "L'Índia celebra el Dia dels Infants el 14 de novembre, coincidint amb el natalici de Jawaharlal Nehru, primer primer ministre del país i gran defensor dels drets infantils."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La ciència sense religió és coixa; la religió sense ciència és cega.",
+      "author": "Albert Einstein",
+      "context": "Einstein va néixer el 14 de març, però el 14 de novembre de 1922 va rebre el Nobel de Física. La seva reflexió sobre la relació entre ciència i espiritualitat continua essent un dels textos més citats de la història intel·lectual del segle XX."
+    },
+    "motivationalQuote": {
+      "text": "La joventut no és una època de la vida; és un estat mental.",
+      "author": "Samuel Ullman"
+    },
+    "births": [
+      {
+        "name": "Claude Monet",
+        "description": "Pintor francès i fundador de l'Impressionisme, creador de les sèries dels Nenúfars i la Catedral de Rouen, l'obsessió del qual per capturar la llum va transformar l'art modern.",
+        "year": 1840
+      },
+      {
+        "name": "Jawaharlal Nehru",
+        "description": "Primer primer ministre de l'Índia independent (1947–1964), arquitecte de l'estat indi modern, defensor del no alineament i promotor dels drets de la infància.",
+        "year": 1889
+      },
+      {
+        "name": "Príncep Carles (Rei Carles III)",
+        "description": "Actual rei del Regne Unit (des de 2022), conegut durant dècades com a Príncep de Gal·les i defensor pioner del medi ambient i l'arquitectura tradicional.",
+        "year": 1948
+      }
+    ],
+    "events": [
+      {
+        "title": "Coronació de Carles III com a rei d'Espanya",
+        "description": "Carles III va ser coronat rei d'Espanya a Madrid, iniciant un regnat il·lustrat que va transformar el país: va reformar l'administració, va expulsar els jesuïtes i va promoure la ciència i les arts.",
+        "year": 1759
+      },
+      {
+        "title": "Primera trucada de ràdio des d'un avió en vol",
+        "description": "Per primera vegada a la història, es va realitzar una trucada de ràdio des d'un avió en vol sobre Ohio — una fita en la història de les telecomunicacions aeronàutiques.",
+        "year": 1910
+      },
+      {
+        "title": "Publicació de Moby Dick",
+        "description": "Herman Melville va publicar a Nova York la seva novel·la Moby Dick o la Balena, una de les obres més grans de la literatura americana, ignorada per la crítica en el seu moment.",
+        "year": 1851
+      }
+    ]
+  }
+}

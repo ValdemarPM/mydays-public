@@ -1,0 +1,255 @@
+{
+  "date": "2025-10-12",
+  "es": {
+    "saints": [
+      {
+        "name": "Nuestra Señora del Pilar",
+        "type": "Festividad mariana",
+        "description": "La Virgen del Pilar es la patrona de Aragón, de la Guardia Civil y de toda la Hispanidad. Según la tradición, la Virgen María se apareció al apóstol Santiago el Mayor en Zaragoza en el año 40 d.C., sobre un pilar de mármol, convirtiéndola en el primer santuario mariano de la historia. Es la festividad nacional de España."
+      },
+      {
+        "name": "San Serafín de Montegranaro",
+        "type": "Religioso",
+        "description": "Fraile capuchino italiano (1540–1604), conocido por su humildad, su amor a los pobres y sus dones místicos. Pasó toda su vida como hermano lego realizando las tareas más humildes del convento. Canonizado en 1767."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Hispanidad (España) / Día de la Raza",
+        "description": "El 12 de octubre conmemora la llegada de Cristóbal Colón a América el 12 de octubre de 1492. En España es la Fiesta Nacional. En muchos países latinoamericanos se celebra como Día de la Raza, Día de la Diversidad Cultural o Día del Descubrimiento, con visiones muy distintas sobre el significado histórico del hecho."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La tierra que pisamos es sagrada; ella misma nos la dio y nosotros la dimos a luz.",
+      "author": "Rigoberta Menchú",
+      "context": "Rigoberta Menchú, líder indígena guatemalteca y Premio Nobel de la Paz (1992), ha dedicado su vida a reivindicar los derechos de los pueblos originarios de América. En el día que se conmemora la llegada de Colón, su voz representa la perspectiva de quienes ya estaban aquí."
+    },
+    "motivationalQuote": {
+      "text": "El coraje es resistencia al miedo, dominio del miedo, no ausencia del miedo.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Luciano Pavarotti",
+        "description": "Tenor italiano (1935–2007), considerado uno de los cantantes de ópera más grandes del siglo XX. Sus interpretaciones de Nessun Dorma y otras arias verdianas y puccinianas llegaron a millones de personas ajenas a la ópera clásica. Actuó en el célebre concierto de Los Tres Tenores en Roma en 1990.",
+        "year": 1935
+      },
+      {
+        "name": "Ralph Lauren",
+        "description": "Diseñador de moda y empresario americano (n. 1939), fundador del emporio Ralph Lauren. Creó el estilo Polo como icono de la elegancia americana preppy. Su marca abarca ropa, complementos, fragancias y decoración del hogar, y es una de las más valiosas del mundo de la moda.",
+        "year": 1939
+      },
+      {
+        "name": "Hugh Jackman",
+        "description": "Actor y cantante australiano (n. 1968), conocido mundialmente por su papel de Wolverine en la saga X-Men (2000–2017). También ha triunfado en Broadway y en musicales de Hollywood, como Les Misérables (2012). Considerado uno de los actores más versátiles de su generación.",
+        "year": 1968
+      }
+    ],
+    "events": [
+      {
+        "title": "Colón llega a América",
+        "description": "La expedición de Cristóbal Colón llegó a la isla de Guanahani (Bahamas), que bautizó como San Salvador, poniendo en contacto por primera vez el Viejo y el Nuevo Mundo de forma sostenida. El hecho transformó para siempre la historia de la humanidad, con consecuencias incalculables para los pueblos amerindios.",
+        "year": 1492
+      },
+      {
+        "title": "Atentados terroristas en Bali",
+        "description": "Una serie de explosiones bomba en Kuta (Bali, Indonesia) mató a 202 personas, en su mayoría turistas australianos, en la discoteca Sari Club. El atentado fue reivindicado por Jemaah Islamiyah, una organización vinculada a Al-Qaeda. Fue el ataque terrorista más mortífero en territorio indonesio.",
+        "year": 2002
+      },
+      {
+        "title": "Primer vuelo de Boeing 747",
+        "description": "El avión de pasajeros Boeing 747, conocido como 'Jumbo Jet', realizó su primer vuelo comercial de la historia en la ruta de Pan American World Airways entre Nueva York y Londres. El 747 democratizó el transporte aéreo al permitir vuelos transatlánticos masivos a bajo coste.",
+        "year": 1970
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Our Lady of the Pillar",
+        "type": "Marian feast",
+        "description": "The Virgin of the Pillar is the patron of Aragon, of the Civil Guard and of all Hispanic peoples. According to tradition, the Virgin Mary appeared to the Apostle James the Greater in Zaragoza in 40 AD, standing on a marble pillar, making it the first Marian shrine in history. It is Spain's national holiday."
+      },
+      {
+        "name": "Saint Seraphim of Montegranaro",
+        "type": "Religious",
+        "description": "Italian Capuchin friar (1540–1604), known for his humility, love of the poor and mystical gifts. He spent his entire life as a lay brother performing the most humble tasks of the convent. Canonised in 1767."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Hispanic Heritage Day (Spain) / Columbus Day",
+        "description": "12 October commemorates the arrival of Christopher Columbus in the Americas on 12 October 1492. In Spain it is the National Day. In many Latin American countries it is celebrated as Día de la Raza, Day of Cultural Diversity or Discovery Day, with very different views on the historical significance of the event."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The land that we walk on is sacred; she herself gave it to us, and we gave birth to her.",
+      "author": "Rigoberta Menchú",
+      "context": "Rigoberta Menchú, Guatemalan indigenous leader and Nobel Peace Prize laureate (1992), has dedicated her life to championing the rights of the native peoples of the Americas. On the day commemorating Columbus's arrival, her voice represents the perspective of those who were already here."
+    },
+    "motivationalQuote": {
+      "text": "Courage is resistance to fear, mastery of fear — not absence of fear.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Luciano Pavarotti",
+        "description": "Italian tenor (1935–2007), considered one of the greatest opera singers of the 20th century. His performances of Nessun Dorma and other Verdi and Puccini arias reached millions of people unfamiliar with classical opera. He performed at the celebrated Three Tenors concert in Rome in 1990.",
+        "year": 1935
+      },
+      {
+        "name": "Ralph Lauren",
+        "description": "American fashion designer and businessman (b. 1939), founder of the Ralph Lauren empire. He created the Polo style as an icon of American preppy elegance. His brand encompasses clothing, accessories, fragrances and home décor, and is one of the most valuable in the fashion world.",
+        "year": 1939
+      },
+      {
+        "name": "Hugh Jackman",
+        "description": "Australian actor and singer (b. 1968), known worldwide for his role as Wolverine in the X-Men franchise (2000–2017). He has also excelled on Broadway and in Hollywood musicals, such as Les Misérables (2012). Considered one of the most versatile actors of his generation.",
+        "year": 1968
+      }
+    ],
+    "events": [
+      {
+        "title": "Columbus reaches the Americas",
+        "description": "Christopher Columbus's expedition reached the island of Guanahani (Bahamas), which he named San Salvador, putting the Old and New Worlds in sustained contact for the first time. The event forever transformed the history of humanity, with incalculable consequences for the Amerindian peoples.",
+        "year": 1492
+      },
+      {
+        "title": "Bali terrorist bombings",
+        "description": "A series of bomb explosions in Kuta, Bali, Indonesia, killed 202 people, mostly Australian tourists, at the Sari Club nightclub. The attack was claimed by Jemaah Islamiyah, an organisation linked to Al-Qaeda. It was the deadliest terrorist attack on Indonesian soil.",
+        "year": 2002
+      },
+      {
+        "title": "First Boeing 747 commercial flight",
+        "description": "The Boeing 747 passenger aircraft, known as the 'Jumbo Jet', made its first commercial flight in history on Pan American World Airways's route between New York and London. The 747 democratised air travel by enabling mass transatlantic flights at low cost.",
+        "year": 1970
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Nossa Senhora do Pilar",
+        "type": "Festividade mariana",
+        "description": "A Virgem do Pilar é a patrona de Aragão, da Guardia Civil e de toda a Hispanidade. Segundo a tradição, a Virgem Maria apareceu ao apóstolo Tiago o Maior em Saragoça no ano 40 d.C., sobre um pilar de mármore, tornando-o no primeiro santuário mariano da história. É a festividade nacional de Espanha."
+      },
+      {
+        "name": "São Serafim de Montegranaro",
+        "type": "Religioso",
+        "description": "Frade capuchinho italiano (1540–1604), conhecido pela sua humildade, amor aos pobres e dons místicos. Passou toda a sua vida como irmão leigo realizando as tarefas mais humildes do convento. Canonizado em 1767."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Hispanidade (Espanha) / Dia da Raça",
+        "description": "O 12 de outubro comemora a chegada de Cristóvão Colombo à América a 12 de outubro de 1492. Em Espanha é o Dia Nacional. Em muitos países latino-americanos é celebrado como Día de la Raza, Dia da Diversidade Cultural ou Dia do Descobrimento, com visões muito diferentes sobre o significado histórico do facto."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A terra que pisamos é sagrada; ela própria no-la deu e nós lhe demos vida.",
+      "author": "Rigoberta Menchú",
+      "context": "Rigoberta Menchú, líder indígena guatemalteca e Prémio Nobel da Paz (1992), dedicou a sua vida a reivindicar os direitos dos povos originários da América. No dia que se comemora a chegada de Colombo, a sua voz representa a perspetiva dos que já cá estavam."
+    },
+    "motivationalQuote": {
+      "text": "A coragem é resistência ao medo, domínio do medo — não ausência do medo.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Luciano Pavarotti",
+        "description": "Tenor italiano (1935–2007), considerado um dos maiores cantores de ópera do século XX. As suas interpretações de Nessun Dorma e outras árias verdianas e puccinianas chegaram a milhões de pessoas alheias à ópera clássica. Atuou no célebre concerto dos Três Tenores em Roma em 1990.",
+        "year": 1935
+      },
+      {
+        "name": "Ralph Lauren",
+        "description": "Designer de moda e empresário americano (n. 1939), fundador do império Ralph Lauren. Criou o estilo Polo como ícone da elegância americana preppy. A sua marca abrange roupa, acessórios, fragrâncias e decoração de interiores, e é uma das mais valiosas do mundo da moda.",
+        "year": 1939
+      },
+      {
+        "name": "Hugh Jackman",
+        "description": "Ator e cantor australiano (n. 1968), conhecido mundialmente pelo papel de Wolverine na saga X-Men (2000–2017). Também triunfou na Broadway e em musicais de Hollywood, como Os Miseráveis (2012). Considerado um dos atores mais versáteis da sua geração.",
+        "year": 1968
+      }
+    ],
+    "events": [
+      {
+        "title": "Colombo chega à América",
+        "description": "A expedição de Cristóvão Colombo chegou à ilha de Guanahani (Bahamas), que batizou de San Salvador, colocando pela primeira vez o Velho e o Novo Mundo em contacto sustentado. O facto transformou para sempre a história da humanidade, com consequências incalculáveis para os povos ameríndios.",
+        "year": 1492
+      },
+      {
+        "title": "Atentados terroristas em Bali",
+        "description": "Uma série de explosões de bombas em Kuta (Bali, Indonésia) matou 202 pessoas, na sua maioria turistas australianos, na discoteca Sari Club. O atentado foi reivindicado pela Jemaah Islamiyah, uma organização ligada à Al-Qaeda. Foi o ataque terrorista mais mortífero em território indonésio.",
+        "year": 2002
+      },
+      {
+        "title": "Primeiro voo comercial do Boeing 747",
+        "description": "O avião de passageiros Boeing 747, conhecido como 'Jumbo Jet', realizou o seu primeiro voo comercial na rota da Pan American World Airways entre Nova Iorque e Londres. O 747 democratizou o transporte aéreo ao permitir voos transatlânticos massivos a baixo custo.",
+        "year": 1970
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Nostra Senyora del Pilar",
+        "type": "Festivitat mariana",
+        "description": "La Verge del Pilar és la patrona d'Aragó, de la Guàrdia Civil i de tota la Hispanitat. Segons la tradició, la Verge Maria es va aparèixer a l'apòstol Jaume el Major a Saragossa l'any 40 d.C., sobre un pilar de marbre, convertint-lo en el primer santuari marià de la història. És la festivitat nacional d'Espanya."
+      },
+      {
+        "name": "Sant Serafí de Montegranaro",
+        "type": "Religiós",
+        "description": "Frare caputxí italià (1540–1604), conegut per la seva humilitat, amor als pobres i dons místics. Va passar tota la vida com a germà llec realitzant les tasques més humils del convent. Canonitzat el 1767."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Hispanitat (Espanya) / Dia de la Raça",
+        "description": "El 12 d'octubre commemora l'arribada de Cristòfor Colom a Amèrica el 12 d'octubre de 1492. A Espanya és la Festa Nacional. En molts països llatinoamericans se celebra com a Día de la Raza, Dia de la Diversitat Cultural o Dia del Descobriment, amb visions molt diferents sobre el significat històric del fet."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La terra que trepitgem és sagrada; ella mateixa ens la va donar i nosaltres li vam donar vida.",
+      "author": "Rigoberta Menchú",
+      "context": "Rigoberta Menchú, líder indígena guatemalenca i Premi Nobel de la Pau (1992), ha dedicat la seva vida a reivindicar els drets dels pobles originaris d'Amèrica. En el dia que es commemora l'arribada de Colom, la seva veu representa la perspectiva dels que ja hi eren."
+    },
+    "motivationalQuote": {
+      "text": "El coratge és resistència a la por, domini de la por — no absència de la por.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Luciano Pavarotti",
+        "description": "Tenor italià (1935–2007), considerat un dels cantants d'òpera més grans del segle XX. Les seves interpretacions de Nessun Dorma i altres àries verdianes i puccinianes van arribar a milions de persones alienes a l'òpera clàssica. Va actuar al cèlebre concert dels Tres Tenors a Roma el 1990.",
+        "year": 1935
+      },
+      {
+        "name": "Ralph Lauren",
+        "description": "Dissenyador de moda i empresari americà (n. 1939), fundador de l'imperi Ralph Lauren. Va crear l'estil Polo com a icona de l'elegància americana preppy. La seva marca abasta roba, complements, fragàncies i decoració de la llar, i és una de les més valuoses del món de la moda.",
+        "year": 1939
+      },
+      {
+        "name": "Hugh Jackman",
+        "description": "Actor i cantant australià (n. 1968), conegut mundialment pel paper de Wolverine a la saga X-Men (2000–2017). També ha triomfat a Broadway i en musicals de Hollywood, com Els Miserables (2012). Considerat un dels actors més versàtils de la seva generació.",
+        "year": 1968
+      }
+    ],
+    "events": [
+      {
+        "title": "Colom arriba a Amèrica",
+        "description": "L'expedició de Cristòfor Colom va arribar a l'illa de Guanahani (Bahames), que va batejar com a San Salvador, posant en contacte per primer cop el Vell i el Nou Món de forma sostinguda. El fet va transformar per sempre la història de la humanitat, amb conseqüències incalculables per als pobles amerindis.",
+        "year": 1492
+      },
+      {
+        "title": "Atemptats terroristes a Bali",
+        "description": "Una sèrie d'explosions de bombes a Kuta (Bali, Indonèsia) va matar 202 persones, en la seva majoria turistes australians, a la discoteca Sari Club. L'atemptat va ser reivindicat per Jemaah Islamiyah, una organització vinculada a Al-Qaeda. Va ser l'atac terrorista més mortífer en territori indonesi.",
+        "year": 2002
+      },
+      {
+        "title": "Primer vol comercial del Boeing 747",
+        "description": "L'avió de passatgers Boeing 747, conegut com a 'Jumbo Jet', va realitzar el seu primer vol comercial de la història a la ruta de Pan American World Airways entre Nova York i Londres. El 747 va democratitzar el transport aeri en permetre vols transatlàntics massius a baix cost.",
+        "year": 1970
+      }
+    ]
+  }
+}

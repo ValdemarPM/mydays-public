@@ -1,0 +1,251 @@
+{
+  "date": "2025-10-30",
+  "es": {
+    "saints": [
+      {
+        "name": "San Alonso Rodríguez",
+        "type": "Hermano Coadjutor",
+        "description": "Jesuita español (1531–1617), portero del Colegio de Montesión en Palma de Mallorca durante 46 años. Comerciante arruinado que ingresó en la Compañía de Jesús a los 40 años, vivió una profunda vida mística. Inspiró y animó al joven Pedro Claver (misionero de los esclavos en Colombia). Canonizado en 1888 por León XIII."
+      },
+      {
+        "name": "San Marcelo el Centurión",
+        "type": "Mártir",
+        "description": "Centurión romano cristiano martirizado en Tingis (actual Tánger, Marruecos) en el año 298. Arrojó sus armas y renunció a la milicia durante una celebración del cumpleaños del emperador Maximiano, declarando que sólo serviría a Jesucristo. Fue ejecutado por desobediencia y es patrón de los oficiales del ejército."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Frugalidad",
+        "description": "El Día Mundial de la Frugalidad (World Savings Day / Weltspartag) se celebra el 31 de octubre en muchos países, pero en España y algunos países de habla hispana la tradición lo ubica el 30. Fundado en 1924 en el Primer Congreso Internacional de Ahorro en Milán, promueve la cultura del ahorro y la gestión responsable de los recursos económicos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La imaginación es más importante que el conocimiento.",
+      "author": "Albert Einstein"
+    },
+    "motivationalQuote": {
+      "text": "Quien tiene un porqué para vivir puede soportar casi cualquier cómo.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "Fyodor Dostoievski",
+        "description": "Escritor ruso (1821–1881), uno de los novelistas más importantes de la literatura universal. Sus obras, como Crimen y castigo (1866), El idiota (1869), Los hermanos Karamázov (1880) y El jugador (1867), exploran la psicología humana, el sufrimiento, la moralidad y la fe con una profundidad sin precedentes. Influyó en Freud, Nietzsche, Kafka y Sartre.",
+        "year": 1821
+      },
+      {
+        "name": "Diego Maradona",
+        "description": "Futbolista argentino (1960–2020), considerado junto a Pelé el mejor jugador de la historia del fútbol. Llevó a Argentina al título del Mundial de 1986 en México, torneo en el que marcó el «Gol del Siglo» y la «Mano de Dios». Con el Nápoles ganó dos Scudettos (1987, 1990) y revolucionó el calcio italiano. Ídolo planetario.",
+        "year": 1960
+      },
+      {
+        "name": "Henry Winkler",
+        "description": "Actor y director americano (n. 1945), famoso por su papel de Arthur «Fonzie» Fonzarelli en la serie Happy Days (1974–1984), uno de los personajes más icónicos de la televisión americana de los años 70. En la etapa madura de su carrera ganó el Emmy por la serie Barry (2018). Escritor de libros infantiles sobre la dislexia, de la que él mismo padece.",
+        "year": 1945
+      }
+    ],
+    "events": [
+      {
+        "title": "La guerra de los mundos: pánico radiofónico",
+        "description": "La emisión radiofónica de La guerra de los mundos de H. G. Wells, dirigida y narrada por Orson Welles para la CBS, causó pánico en miles de oyentes americanos que creyeron que se estaba produciendo una invasión alienígena real. Aunque el alcance del pánico fue exagerado por la prensa posterior, se convirtió en uno de los eventos mediáticos más estudiados del siglo XX.",
+        "year": 1938
+      },
+      {
+        "title": "Inauguración del Puente de Brooklyn",
+        "description": "Se inauguró el Puente de Brooklyn en Nueva York, obra maestra de la ingeniería de John Augustus Roebling y su hijo Washington. Con sus 1.825 metros de longitud y sus torres de 84 metros, fue el puente colgante más largo del mundo durante 20 años. Conecta Manhattan con Brooklyn y sigue siendo uno de los iconos arquitectónicos más reconocidos del mundo.",
+        "year": 1883
+      },
+      {
+        "title": "Explosión del cohete Antares",
+        "description": "El cohete Antares de Orbital Sciences Corporation explotó segundos después del lanzamiento en la base de Wallops (Virginia, EE.UU.), destruyendo una cápsula Cygnus con carga de suministros para la Estación Espacial Internacional (ISS). Nadie resultó herido, pero fue uno de los mayores fracasos del programa de abastecimiento comercial a la ISS.",
+        "year": 2014
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Alphonsus Rodriguez",
+        "type": "Brother",
+        "description": "Spanish Jesuit (1531–1617), doorkeeper of the College of Montesión in Palma de Mallorca for 46 years. A ruined merchant who entered the Society of Jesus at 40, he lived a deep mystical life. He inspired and encouraged the young Peter Claver (missionary to the enslaved in Colombia). Canonised in 1888 by Leo XIII."
+      },
+      {
+        "name": "Saint Marcellus the Centurion",
+        "type": "Martyr",
+        "description": "Christian Roman centurion martyred in Tingis (present-day Tangier, Morocco) in 298. He threw down his arms and renounced military service during a celebration of Emperor Maximian's birthday, declaring that he would serve only Jesus Christ. He was executed for insubordination and is patron of army officers."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Savings Day",
+        "description": "World Savings Day (Weltspartag) is celebrated on 31 October in many countries, though in Spain and some Spanish-speaking countries the tradition places it on 30 October. Founded in 1924 at the First International Savings Congress in Milan, it promotes a culture of saving and responsible management of economic resources."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Imagination is more important than knowledge.",
+      "author": "Albert Einstein"
+    },
+    "motivationalQuote": {
+      "text": "He who has a why to live can bear almost any how.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "Fyodor Dostoyevsky",
+        "description": "Russian writer (1821–1881), one of the most important novelists in world literature. His works, including Crime and Punishment (1866), The Idiot (1869), The Brothers Karamazov (1880) and The Gambler (1867), explore human psychology, suffering, morality and faith with unprecedented depth. He influenced Freud, Nietzsche, Kafka and Sartre.",
+        "year": 1821
+      },
+      {
+        "name": "Diego Maradona",
+        "description": "Argentine footballer (1960–2020), considered alongside Pelé as the greatest footballer in the history of the sport. He led Argentina to the 1986 World Cup title in Mexico, the tournament in which he scored the 'Goal of the Century' and the 'Hand of God'. With Napoli he won two Scudetti (1987, 1990) and revolutionised Italian football. A global icon.",
+        "year": 1960
+      },
+      {
+        "name": "Henry Winkler",
+        "description": "American actor and director (b. 1945), famous for his role as Arthur 'Fonzie' Fonzarelli in the series Happy Days (1974–1984), one of the most iconic characters in 1970s American television. In the later stage of his career he won the Emmy for the series Barry (2018). A writer of children's books about dyslexia, from which he himself suffers.",
+        "year": 1945
+      }
+    ],
+    "events": [
+      {
+        "title": "The War of the Worlds: radio panic",
+        "description": "The radio broadcast of H.G. Wells's The War of the Worlds, directed and narrated by Orson Welles for CBS, caused panic among thousands of American listeners who believed a real alien invasion was underway. Although the extent of the panic was exaggerated by subsequent press coverage, it became one of the most studied media events of the 20th century.",
+        "year": 1938
+      },
+      {
+        "title": "Inauguration of Brooklyn Bridge",
+        "description": "The Brooklyn Bridge in New York opened, a masterpiece of engineering by John Augustus Roebling and his son Washington. With its 1,825 metres of length and 84-metre towers, it was the world's longest suspension bridge for 20 years. It connects Manhattan with Brooklyn and remains one of the world's most recognisable architectural icons.",
+        "year": 1883
+      },
+      {
+        "title": "Antares rocket explosion",
+        "description": "The Antares rocket of Orbital Sciences Corporation exploded seconds after launch at Wallops Flight Facility (Virginia, USA), destroying a Cygnus cargo capsule bound for the International Space Station (ISS). No one was injured, but it was one of the biggest failures of the commercial ISS resupply programme.",
+        "year": 2014
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Afonso Rodrigues",
+        "type": "Irmão Coadjutor",
+        "description": "Jesuíta espanhol (1531–1617), porteiro do Colégio de Montesión em Palma de Maiorca durante 46 anos. Comerciante arruinado que entrou na Companhia de Jesus aos 40 anos, viveu uma profunda vida mística. Inspirou e animou o jovem Pedro Claver (missionário dos escravos na Colômbia). Canonizado em 1888 por Leão XIII."
+      },
+      {
+        "name": "São Marcelino Centurião",
+        "type": "Mártir",
+        "description": "Centurião romano cristão martirizado em Tingis (atual Tânger, Marrocos) no ano 298. Atirou as suas armas e renunciou ao serviço militar durante uma celebração do aniversário do imperador Maximiano, declarando que só serviria Jesus Cristo. Foi executado por desobediência e é patrono dos oficiais do exército."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Poupança",
+        "description": "O Dia Mundial da Poupança (World Savings Day / Weltpartag) é celebrado a 31 de outubro em muitos países, mas em Espanha e alguns países de língua hispânica a tradição coloca-o a 30. Fundado em 1924 no Primeiro Congresso Internacional de Poupança em Milão, promove a cultura da poupança e a gestão responsável dos recursos económicos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A imaginação é mais importante que o conhecimento.",
+      "author": "Albert Einstein"
+    },
+    "motivationalQuote": {
+      "text": "Quem tem um porquê para viver pode suportar quase qualquer como.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "Fiódor Dostoiévski",
+        "description": "Escritor russo (1821–1881), um dos romancistas mais importantes da literatura universal. As suas obras, como Crime e Castigo (1866), O Idiota (1869), Os Irmãos Karamázov (1880) e O Jogador (1867), exploram a psicologia humana, o sofrimento, a moralidade e a fé com uma profundidade sem precedentes. Influenciou Freud, Nietzsche, Kafka e Sartre.",
+        "year": 1821
+      },
+      {
+        "name": "Diego Maradona",
+        "description": "Futebolista argentino (1960–2020), considerado junto com Pelé o melhor jogador da história do futebol. Levou a Argentina ao título do Mundial de 1986 no México, torneio em que marcou o «Golo do Século» e a «Mão de Deus». Com o Nápoles ganhou dois Scudettos (1987, 1990) e revolucionou o futebol italiano. Ídolo planetário.",
+        "year": 1960
+      },
+      {
+        "name": "Henry Winkler",
+        "description": "Ator e realizador americano (n. 1945), famoso pelo papel de Arthur «Fonzie» Fonzarelli na série Happy Days (1974–1984), uma das personagens mais icónicas da televisão americana dos anos 70. Na fase madura da sua carreira ganhou o Emmy pela série Barry (2018). Escritor de livros infantis sobre a dislexia, da qual ele próprio padece.",
+        "year": 1945
+      }
+    ],
+    "events": [
+      {
+        "title": "A guerra dos mundos: pânico radiofónico",
+        "description": "A emissão radiofónica de A guerra dos mundos de H. G. Wells, dirigida e narrada por Orson Welles para a CBS, causou pânico em milhares de ouvintes americanos que acreditaram que estava a ocorrer uma invasão alienígena real. Embora a extensão do pânico tenha sido exagerada pela imprensa posterior, tornou-se num dos eventos mediáticos mais estudados do século XX.",
+        "year": 1938
+      },
+      {
+        "title": "Inauguração da Ponte de Brooklyn",
+        "description": "Foi inaugurada a Ponte de Brooklyn em Nova Iorque, obra-prima da engenharia de John Augustus Roebling e o seu filho Washington. Com os seus 1.825 metros de comprimento e as suas torres de 84 metros, foi a ponte suspensa mais longa do mundo durante 20 anos. Liga Manhattan ao Brooklyn e continua a ser um dos ícones arquitetónicos mais reconhecidos do mundo.",
+        "year": 1883
+      },
+      {
+        "title": "Explosão do foguetão Antares",
+        "description": "O foguetão Antares da Orbital Sciences Corporation explodiu segundos após o lançamento na base de Wallops (Virgínia, EUA), destruindo uma cápsula Cygnus com carga de abastecimento para a Estação Espacial Internacional (ISS). Ninguém ficou ferido, mas foi um dos maiores fracassos do programa de abastecimento comercial à ISS.",
+        "year": 2014
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Alfons Rodríguez",
+        "type": "Germà Coadjutor",
+        "description": "Jesuïta espanyol (1531–1617), porter del Col·legi de Montesió a Palma de Mallorca durant 46 anys. Comerciant arruïnat que va ingressar a la Companyia de Jesús als 40 anys, va viure una profunda vida mística. Va inspirar i animar el jove Pere Claver (missioner dels esclaus a Colòmbia). Canonitzat el 1888 per Lleó XIII."
+      },
+      {
+        "name": "Sant Marcel·lí el Centurió",
+        "type": "Màrtir",
+        "description": "Centurió romà cristià martiritzat a Tingis (actual Tànger, el Marroc) l'any 298. Va llançar les seves armes i va renunciar al servei militar durant una celebració de l'aniversari de l'emperador Maximià, declarant que només serviria Jesucrist. Va ser executat per desobediència i és patró dels oficials de l'exèrcit."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de l'Estalvi",
+        "description": "El Dia Mundial de l'Estalvi (World Savings Day / Weltpartag) se celebra el 31 d'octubre en molts països, però a Espanya i alguns països de parla hispana la tradició el situa el 30. Fundat el 1924 al Primer Congrés Internacional d'Estalvi a Milà, promou la cultura de l'estalvi i la gestió responsable dels recursos econòmics."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La imaginació és més important que el coneixement.",
+      "author": "Albert Einstein"
+    },
+    "motivationalQuote": {
+      "text": "Qui té un perquè per viure pot suportar gairebé qualsevol com.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "Fiódor Dostoievski",
+        "description": "Escriptor rus (1821–1881), un dels novel·listes més importants de la literatura universal. Les seves obres, com Crim i Càstig (1866), L'Idiota (1869), Els Germans Karamàzov (1880) i El Jugador (1867), exploren la psicologia humana, el sofriment, la moralitat i la fe amb una profunditat sense precedents. Va influir en Freud, Nietzsche, Kafka i Sartre.",
+        "year": 1821
+      },
+      {
+        "name": "Diego Maradona",
+        "description": "Futbolista argentí (1960–2020), considerat juntament amb Pelé el millor jugador de la història del futbol. Va portar l'Argentina al títol del Mundial de 1986 a Mèxic, torneig en el qual va marcar el «Gol del Segle» i la «Mà de Déu». Amb el Nàpols va guanyar dos Scudettos (1987, 1990) i va revolucionar el calcio italià. Ídol planetari.",
+        "year": 1960
+      },
+      {
+        "name": "Henry Winkler",
+        "description": "Actor i director americà (n. 1945), famós pel paper d'Arthur «Fonzie» Fonzarelli a la sèrie Happy Days (1974–1984), un dels personatges més icònics de la televisió americana dels anys 70. A l'etapa madura de la seva carrera va guanyar l'Emmy per la sèrie Barry (2018). Escriptor de llibres infantils sobre la dislèxia, de la qual ell mateix pateix.",
+        "year": 1945
+      }
+    ],
+    "events": [
+      {
+        "title": "La guerra dels mons: pànic radiofònic",
+        "description": "L'emissió radiofònica de La guerra dels mons de H. G. Wells, dirigida i narrada per Orson Welles per a la CBS, va causar pànic entre milers d'oients americans que van creure que s'estava produint una invasió alienígena real. Tot i que l'abast del pànic va ser exagerat per la premsa posterior, es va convertir en un dels esdeveniments mediàtics més estudiats del segle XX.",
+        "year": 1938
+      },
+      {
+        "title": "Inauguració del Pont de Brooklyn",
+        "description": "Es va inaugurar el Pont de Brooklyn a Nova York, obra mestra de l'enginyeria de John Augustus Roebling i el seu fill Washington. Amb els seus 1.825 metres de longitud i les seves torres de 84 metres, va ser el pont penjant més llarg del món durant 20 anys. Connecta Manhattan amb Brooklyn i continua sent un dels icones arquitectònics més reconeguts del món.",
+        "year": 1883
+      },
+      {
+        "title": "Explosió del coet Antares",
+        "description": "El coet Antares de l'Orbital Sciences Corporation va explotar pocs segons després del llançament a la base de Wallops (Virgínia, EUA), destruint una càpsula Cygnus amb càrrega de subministraments per a l'Estació Espacial Internacional (ISS). Ningú va resultar ferit, però va ser un dels majors fracassos del programa de subministrament comercial a l'ISS.",
+        "year": 2014
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-08",
+  "es": {
+    "saints": [
+      { "name": "San Juan de Dios", "type": "Fundador", "description": "Portugués del siglo XVI fundador de la Orden Hospitalaria de San Juan de Dios, dedicada al cuidado de los enfermos y los más pobres; patrón de los hospitales, los enfermeros y los moribundos." },
+      { "name": "San Apolonio el Apologista", "type": "Mártir", "description": "Senador romano convertido al cristianismo en el siglo II, que escribió una brillante defensa de la fe ante el Senado antes de ser ejecutado." },
+      { "name": "San Senan de Scattery", "type": "Abad", "description": "Monje irlandés del siglo VI fundador del monasterio de la isla de Scattery (Inis Cathaigh) en el estuario del Shanon, uno de los primeros centros monásticos de Irlanda." }
+    ],
+    "observances": [
+      { "name": "Día Internacional de la Mujer", "description": "Jornada proclamada por la ONU para celebrar los logros de las mujeres en el mundo, exigir la igualdad de derechos y recordar las luchas históricas del movimiento feminista." },
+      { "name": "Día Internacional del Pianista", "description": "Jornada que celebra el arte del piano y homenajea a los grandes pianistas de la historia; coincide con el natalicio de Clara Schumann (1819)." }
+    ],
+    "historicalQuote": {
+      "text": "No me pidan que me quede quieta cuando hay injusticia.",
+      "author": "Malala Yousafzai",
+      "context": "La activista paquistaní Malala Yousafzai, la persona más joven en recibir el Premio Nobel de la Paz (2014), defendió el derecho de las niñas a la educación desde muy joven, incluso tras sobrevivir un atentado talibán."
+    },
+    "motivationalQuote": {
+      "text": "Bien portada sola, una mujer es doblemente mujer.",
+      "author": "Clara Schumann"
+    },
+    "births": [
+      { "name": "Clara Schumann", "description": "Pianista y compositora alemana del siglo XIX, una de las intérpretes más virtuosas de su época y figura decisiva en la carrera de su marido Robert Schumann y de Johannes Brahms.", "year": 1819 },
+      { "name": "Arantxa Sánchez Vicario", "description": "Tenista española, cuatro veces ganadora de Grand Slams (Roland Garros 1989, 1994, 1998; US Open 1994) y una de las mejores jugadoras de la historia del tenis femenino.", "year": 1971 },
+      { "name": "Micky Dolenz", "description": "Músico y actor estadounidense, integrante del grupo The Monkees, uno de los grupos de pop de mayor éxito en los años 60.", "year": 1945 }
+    ],
+    "events": [
+      { "title": "Primer Día Internacional de la Mujer celebrado por la ONU", "description": "Las Naciones Unidas celebraron oficialmente por primera vez el Día Internacional de la Mujer, tras haber sido proclamado como jornada internacional en 1977, con el objetivo de promover la igualdad de género.", "year": 1975 },
+      { "title": "Estados Unidos entra en la Segunda Guerra Mundial en el Pacífico", "description": "Tras el ataque japonés a Pearl Harbor, el Congreso americano declaró formalmente la guerra a Japón, dando inicio a la participación activa de EE. UU. en el conflicto del Pacífico.", "year": 1942 },
+      { "title": "Inauguración del Canal de Corinto", "description": "Se inauguró el Canal de Corinto en Grecia, que conecta el golfo de Corinto con el mar Egeo y reduce significativamente la ruta marítima entre el Adriático y el Pireo.", "year": 1893 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint John of God", "type": "Founder", "description": "Sixteenth-century Portuguese founder of the Hospitaller Order of Saint John of God, dedicated to the care of the sick and the poorest; patron of hospitals, nurses and the dying." },
+      { "name": "Saint Apollonius the Apologist", "type": "Martyr", "description": "Second-century Roman senator converted to Christianity who wrote a brilliant defence of the faith before the Senate before being executed." },
+      { "name": "Saint Senan of Scattery", "type": "Abbot", "description": "Sixth-century Irish monk who founded the monastery on Scattery Island (Inis Cathaigh) in the Shannon estuary, one of Ireland's earliest monastic centres." }
+    ],
+    "observances": [
+      { "name": "International Women's Day", "description": "A UN-proclaimed day to celebrate women's achievements worldwide, demand equal rights and commemorate the historic struggles of the feminist movement." },
+      { "name": "International Pianist Day", "description": "A day celebrating the art of the piano and honouring great pianists throughout history; it coincides with the birth of Clara Schumann (1819)." }
+    ],
+    "historicalQuote": {
+      "text": "Don't ask me to stay quiet when there is injustice.",
+      "author": "Malala Yousafzai",
+      "context": "Pakistani activist Malala Yousafzai, the youngest person to receive the Nobel Peace Prize (2014), championed girls' right to education from a very young age, even after surviving a Taliban assassination attempt."
+    },
+    "motivationalQuote": {
+      "text": "Alone, a well-behaved woman is doubly a woman.",
+      "author": "Clara Schumann"
+    },
+    "births": [
+      { "name": "Clara Schumann", "description": "Nineteenth-century German pianist and composer, one of the most virtuosic performers of her era and a decisive figure in the careers of her husband Robert Schumann and Johannes Brahms.", "year": 1819 },
+      { "name": "Arantxa Sánchez Vicario", "description": "Spanish tennis player, four-time Grand Slam winner (Roland Garros 1989, 1994, 1998; US Open 1994) and one of the greatest players in the history of women's tennis.", "year": 1971 },
+      { "name": "Micky Dolenz", "description": "American musician and actor, member of The Monkees, one of the most successful pop groups of the 1960s.", "year": 1945 }
+    ],
+    "events": [
+      { "title": "First UN International Women's Day celebrated", "description": "The United Nations officially celebrated International Women's Day for the first time, after it had been proclaimed an international day in 1977, with the aim of promoting gender equality.", "year": 1975 },
+      { "title": "United States enters World War II in the Pacific", "description": "Following Japan's attack on Pearl Harbor, the US Congress formally declared war on Japan, beginning America's active participation in the Pacific conflict.", "year": 1942 },
+      { "title": "Corinth Canal inaugurated", "description": "The Corinth Canal in Greece was inaugurated, linking the Gulf of Corinth with the Aegean Sea and significantly shortening the sea route between the Adriatic and Piraeus.", "year": 1893 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São João de Deus", "type": "Fundador", "description": "Português do século XVI fundador da Ordem Hospitalar de São João de Deus, dedicada ao cuidado dos doentes e dos mais pobres; padroeiro dos hospitais, enfermeiros e moribundos." },
+      { "name": "São Apolônio, o Apologista", "type": "Mártir", "description": "Senador romano convertido ao cristianismo no século II, que escreveu uma brilhante defesa da fé perante o Senado antes de ser executado." },
+      { "name": "São Senão de Scattery", "type": "Abade", "description": "Monge irlandês do século VI fundador do mosteiro da ilha de Scattery (Inis Cathaigh) no estuário do Shanon, um dos primeiros centros monásticos da Irlanda." }
+    ],
+    "observances": [
+      { "name": "Dia Internacional da Mulher", "description": "Jornada proclamada pela ONU para celebrar as conquistas das mulheres no mundo, exigir a igualdade de direitos e recordar as lutas históricas do movimento feminista." },
+      { "name": "Dia Internacional do Pianista", "description": "Jornada que celebra a arte do piano e homenageia os grandes pianistas da história; coincide com o nascimento de Clara Schumann (1819)." }
+    ],
+    "historicalQuote": {
+      "text": "Não me peçam para ficar quieta quando há injustiça.",
+      "author": "Malala Yousafzai",
+      "context": "A ativista paquistanesa Malala Yousafzai, a pessoa mais jovem a receber o Prêmio Nobel da Paz (2014), defendeu o direito das meninas à educação desde muito nova, mesmo após sobreviver a um atentado talibã."
+    },
+    "motivationalQuote": {
+      "text": "Bem comportada sozinha, uma mulher é duplamente mulher.",
+      "author": "Clara Schumann"
+    },
+    "births": [
+      { "name": "Clara Schumann", "description": "Pianista e compositora alemã do século XIX, uma das intérpretes mais virtuosas de sua época e figura decisiva na carreira de seu marido Robert Schumann e de Johannes Brahms.", "year": 1819 },
+      { "name": "Arantxa Sánchez Vicario", "description": "Tenista espanhola, quatro vezes vencedora de Grand Slams (Roland Garros 1989, 1994, 1998; US Open 1994) e uma das melhores jogadoras da história do tênis feminino.", "year": 1971 },
+      { "name": "Micky Dolenz", "description": "Músico e ator americano, integrante do grupo The Monkees, um dos grupos de pop de maior sucesso nos anos 60.", "year": 1945 }
+    ],
+    "events": [
+      { "title": "Primeiro Dia Internacional da Mulher celebrado pela ONU", "description": "As Nações Unidas celebraram oficialmente pela primeira vez o Dia Internacional da Mulher, após ser proclamado jornada internacional em 1977, com o objetivo de promover a igualdade de gênero.", "year": 1975 },
+      { "title": "Estados Unidos entram na Segunda Guerra Mundial no Pacífico", "description": "Após o ataque japonês a Pearl Harbor, o Congresso americano declarou formalmente guerra ao Japão, dando início à participação ativa dos EUA no conflito do Pacífico.", "year": 1942 },
+      { "title": "Inauguração do Canal de Corinto", "description": "Foi inaugurado o Canal de Corinto na Grécia, que conecta o Golfo de Corinto com o mar Egeu e reduz significativamente a rota marítima entre o Adriático e o Pireu.", "year": 1893 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Joan de Déu", "type": "Fundador", "description": "Portuguès del segle XVI fundador de l'Orde Hospitalària de Sant Joan de Déu, dedicada a la cura dels malalts i els més pobres; patró dels hospitals, els infermers i els moribunds." },
+      { "name": "Sant Apol·loni l'Apologista", "type": "Màrtir", "description": "Senador romà convertit al cristianisme al segle II, que va escriure una brillant defensa de la fe davant el Senat abans de ser executat." },
+      { "name": "Sant Senà de Scattery", "type": "Abat", "description": "Monjo irlandès del segle VI fundador del monestir de l'illa de Scattery (Inis Cathaigh) a l'estuari del Shannon, un dels primers centres monàstics d'Irlanda." }
+    ],
+    "observances": [
+      { "name": "Dia Internacional de la Dona", "description": "Jornada proclamada per l'ONU per celebrar els assoliments de les dones al món, exigir la igualtat de drets i recordar les lluites històriques del moviment feminista." },
+      { "name": "Dia Internacional del Pianista", "description": "Jornada que celebra l'art del piano i homenatja els grans pianistes de la història; coincideix amb el naixement de Clara Schumann (1819)." }
+    ],
+    "historicalQuote": {
+      "text": "No em demaneu que em quedi quieta quan hi ha injustícia.",
+      "author": "Malala Yousafzai",
+      "context": "L'activista pakistanesa Malala Yousafzai, la persona més jove a rebre el Premi Nobel de la Pau (2014), va defensar el dret de les nenes a l'educació des de molt jove, fins i tot després de sobreviure un atemptat talibà."
+    },
+    "motivationalQuote": {
+      "text": "Ben comportada sola, una dona és doblement dona.",
+      "author": "Clara Schumann"
+    },
+    "births": [
+      { "name": "Clara Schumann", "description": "Pianista i compositora alemanya del segle XIX, una de les intèrprets més virtuoses de la seva època i figura decisiva en la carrera del seu marit Robert Schumann i de Johannes Brahms.", "year": 1819 },
+      { "name": "Arantxa Sánchez Vicario", "description": "Tennista espanyola, quatre vegades guanyadora de Grands Slams (Roland Garros 1989, 1994, 1998; US Open 1994) i una de les millors jugadores de la història del tennis femení.", "year": 1971 },
+      { "name": "Micky Dolenz", "description": "Músic i actor americà, integrant del grup The Monkees, un dels grups de pop de més èxit als anys 60.", "year": 1945 }
+    ],
+    "events": [
+      { "title": "Primer Dia Internacional de la Dona celebrat per l'ONU", "description": "Les Nacions Unides van celebrar oficialment per primera vegada el Dia Internacional de la Dona, després de ser proclamat jornada internacional el 1977, amb l'objectiu de promoure la igualtat de gènere.", "year": 1975 },
+      { "title": "Els Estats Units entren a la Segona Guerra Mundial al Pacífic", "description": "Després de l'atac japonès a Pearl Harbor, el Congrés americà va declarar formalment la guerra al Japó, donant inici a la participació activa dels EUA al conflicte del Pacífic.", "year": 1942 },
+      { "title": "Inauguració del Canal de Corint", "description": "Es va inaugurar el Canal de Corint a Grècia, que connecta el golf de Corint amb la mar Egea i redueix significativament la ruta marítima entre l'Adriàtic i el Pireu.", "year": 1893 }
+    ]
+  }
+}

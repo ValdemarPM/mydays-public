@@ -1,0 +1,255 @@
+{
+  "date": "2025-12-04",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Bárbara",
+        "type": "Virgen y Mártir",
+        "description": "Mártir cristiana del siglo III o IV, patrona de los artilleros, mineros, arquitectos y de los que trabajan con explosivos. Según la tradición fue decapitada por su propio padre."
+      },
+      {
+        "name": "San Juan Damasceno",
+        "type": "Presbítero y Doctor de la Iglesia",
+        "description": "Teólogo y escritor sirio del siglo VIII, último de los Padres de la Iglesia griega, defensor de la veneración de las imágenes sagradas contra el iconoclasmo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de los Bancos",
+        "description": "Fecha adoptada por la ONU para reconocer el papel de los bancos multilaterales de desarrollo en la financiación del desarrollo sostenible y la reducción de la pobreza."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El conocimiento es el ojo del deseo y puede convertirse en el piloto del alma.",
+      "author": "Juan Damasceno",
+      "context": "Teólogo y Doctor de la Iglesia cuya festividad se celebra hoy, conocido por su monumental obra De fide orthodoxa que sintetizó la teología cristiana oriental."
+    },
+    "motivationalQuote": {
+      "text": "Quien no arriesga nada no gana nada.",
+      "author": "Proverbio francés"
+    },
+    "births": [
+      {
+        "name": "Thomas Carlyle",
+        "description": "Historiador y ensayista escocés del siglo XIX, conocido por sus obras sobre la Revolución Francesa y su influyente ensayo Sartor Resartus.",
+        "year": 1795
+      },
+      {
+        "name": "Rainer Maria Rilke",
+        "description": "Poeta austro-alemán considerado uno de los más importantes líricos de lengua alemana, autor de las Elegías de Duino y los Sonetos a Orfeo.",
+        "year": 1875
+      },
+      {
+        "name": "Jeff Bridges",
+        "description": "Actor estadounidense ganador del Óscar por Crazy Heart, conocido por papeles icónicos en El Gran Lebowski y Tron.",
+        "year": 1949
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundación de la Orden de los Caballeros de Malta",
+        "description": "La Orden de los Caballeros Hospitalarios de San Juan de Jerusalén, posterior Orden de Malta, fue reconocida oficialmente por el Papa Pascual II, convirtiéndose en una de las órdenes militares más antiguas del mundo.",
+        "year": 1113
+      },
+      {
+        "title": "Inauguración de la Scala de Milán",
+        "description": "El Teatro alla Scala de Milán abrió sus puertas con la ópera Europa riconosciuta de Antonio Salieri, convirtiéndose en el templo de la ópera italiana.",
+        "year": 1778
+      },
+      {
+        "title": "Asesinato de Fred Hampton",
+        "description": "Fred Hampton, líder de las Panteras Negras de Chicago, fue abatido por la policía en una redada planificada por el FBI mientras dormía, a los 21 años.",
+        "year": 1969
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Barbara",
+        "type": "Virgin and Martyr",
+        "description": "Christian martyr of the 3rd or 4th century, patron saint of artillerymen, miners, architects, and those who work with explosives. According to tradition, she was beheaded by her own father."
+      },
+      {
+        "name": "Saint John of Damascus",
+        "type": "Priest and Doctor of the Church",
+        "description": "Syrian theologian and writer of the 8th century, the last of the Greek Fathers of the Church, and defender of the veneration of sacred images against iconoclasm."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of Banks",
+        "description": "Date adopted by the UN to recognise the role of multilateral development banks in financing sustainable development and poverty reduction."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Knowledge is the eye of desire and can become the pilot of the soul.",
+      "author": "John of Damascus",
+      "context": "Theologian and Doctor of the Church whose feast is celebrated today, known for his monumental De fide orthodoxa which synthesised Eastern Christian theology."
+    },
+    "motivationalQuote": {
+      "text": "Nothing ventured, nothing gained.",
+      "author": "French proverb"
+    },
+    "births": [
+      {
+        "name": "Thomas Carlyle",
+        "description": "Scottish historian and essayist of the 19th century, known for his works on the French Revolution and his influential essay Sartor Resartus.",
+        "year": 1795
+      },
+      {
+        "name": "Rainer Maria Rilke",
+        "description": "Austro-German poet considered one of the most important lyric poets in the German language, author of the Duino Elegies and the Sonnets to Orpheus.",
+        "year": 1875
+      },
+      {
+        "name": "Jeff Bridges",
+        "description": "American actor who won the Academy Award for Crazy Heart, known for iconic roles in The Big Lebowski and Tron.",
+        "year": 1949
+      }
+    ],
+    "events": [
+      {
+        "title": "Foundation of the Knights of Malta",
+        "description": "The Order of the Knights Hospitaller of Saint John of Jerusalem, later the Order of Malta, was officially recognised by Pope Paschal II, becoming one of the oldest military orders in the world.",
+        "year": 1113
+      },
+      {
+        "title": "La Scala inaugurated in Milan",
+        "description": "Milan's Teatro alla Scala opened its doors with Antonio Salieri's opera Europa riconosciuta, becoming the temple of Italian opera.",
+        "year": 1778
+      },
+      {
+        "title": "Assassination of Fred Hampton",
+        "description": "Fred Hampton, leader of the Chicago Black Panthers, was shot dead by police in an FBI-planned raid while asleep, aged 21.",
+        "year": 1969
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Bárbara",
+        "type": "Virgem e Mártir",
+        "description": "Mártir cristã do século III ou IV, padroeira dos artilheiros, mineiros, arquitetos e dos que trabalham com explosivos. Segundo a tradição, foi decapitada pelo próprio pai."
+      },
+      {
+        "name": "São João Damasceno",
+        "type": "Presbítero e Doutor da Igreja",
+        "description": "Teólogo e escritor sírio do século VIII, último dos Padres da Igreja grega, defensor da veneração das imagens sagradas contra o iconoclasmo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional dos Bancos",
+        "description": "Data adotada pela ONU para reconhecer o papel dos bancos multilaterais de desenvolvimento no financiamento do desenvolvimento sustentável e na redução da pobreza."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O conhecimento é o olho do desejo e pode tornar-se o piloto da alma.",
+      "author": "João Damasceno",
+      "context": "Teólogo e Doutor da Igreja cuja festa se celebra hoje, conhecido pela sua monumental obra De fide orthodoxa que sintetizou a teologia cristã oriental."
+    },
+    "motivationalQuote": {
+      "text": "Quem não arrisca não petisca.",
+      "author": "Provérbio popular"
+    },
+    "births": [
+      {
+        "name": "Thomas Carlyle",
+        "description": "Historiador e ensaísta escocês do século XIX, conhecido pelas suas obras sobre a Revolução Francesa e pelo influente ensaio Sartor Resartus.",
+        "year": 1795
+      },
+      {
+        "name": "Rainer Maria Rilke",
+        "description": "Poeta austro-alemão considerado um dos mais importantes líricos em língua alemã, autor das Elegias de Duíno e dos Sonetos a Orfeu.",
+        "year": 1875
+      },
+      {
+        "name": "Jeff Bridges",
+        "description": "Ator americano que ganhou o Oscar por Crazy Heart, conhecido por papéis icônicos em O Grande Lebowski e Tron.",
+        "year": 1949
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundação da Ordem dos Cavaleiros de Malta",
+        "description": "A Ordem dos Cavaleiros Hospitaleiros de São João de Jerusalém, posterior Ordem de Malta, foi oficialmente reconhecida pelo Papa Pascoal II, tornando-se uma das ordens militares mais antigas do mundo.",
+        "year": 1113
+      },
+      {
+        "title": "Inauguração do La Scala em Milão",
+        "description": "O Teatro alla Scala de Milão abriu as suas portas com a ópera Europa riconosciuta de Antonio Salieri, tornando-se o templo da ópera italiana.",
+        "year": 1778
+      },
+      {
+        "title": "Assassinato de Fred Hampton",
+        "description": "Fred Hampton, líder dos Panteras Negras de Chicago, foi abatido pela polícia numa operação planejada pelo FBI enquanto dormia, aos 21 anos.",
+        "year": 1969
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Bàrbara",
+        "type": "Verge i Màrtir",
+        "description": "Màrtir cristiana del segle III o IV, patrona dels artillers, miners, arquitectes i dels que treballen amb explosius. Segons la tradició, va ser decapitada pel seu propi pare."
+      },
+      {
+        "name": "Sant Joan Damascè",
+        "type": "Prevere i Doctor de l'Església",
+        "description": "Teòleg i escriptor sirià del segle VIII, darrer dels Pares de l'Església grega, defensor de la veneració de les imatges sagrades contra l'iconoclasme."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional dels Bancs",
+        "description": "Data adoptada per l'ONU per reconèixer el paper dels bancs multilaterals de desenvolupament en el finançament del desenvolupament sostenible i la reducció de la pobresa."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El coneixement és l'ull del desig i pot convertir-se en el pilot de l'ànima.",
+      "author": "Joan Damascè",
+      "context": "Teòleg i Doctor de l'Església la festivitat del qual se celebra avui, conegut per la seva monumental obra De fide orthodoxa que va sintetitzar la teologia cristiana oriental."
+    },
+    "motivationalQuote": {
+      "text": "Qui no s'arrisca no pisca.",
+      "author": "Proverbi popular"
+    },
+    "births": [
+      {
+        "name": "Thomas Carlyle",
+        "description": "Historiador i assagista escocès del segle XIX, conegut per les seves obres sobre la Revolució Francesa i el seu influent assaig Sartor Resartus.",
+        "year": 1795
+      },
+      {
+        "name": "Rainer Maria Rilke",
+        "description": "Poeta austroalemany considerat un dels més importants lírics en llengua alemanya, autor de les Elegies de Duino i els Sonets a Orfeu.",
+        "year": 1875
+      },
+      {
+        "name": "Jeff Bridges",
+        "description": "Actor nord-americà guanyador de l'Oscar per Crazy Heart, conegut pels papers icònics a El gran Lebowski i Tron.",
+        "year": 1949
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundació de l'Orde dels Cavallers de Malta",
+        "description": "L'Orde dels Cavallers Hospitalers de Sant Joan de Jerusalem, posterior Orde de Malta, va ser reconeguda oficialment pel Papa Pascual II, convertint-se en una de les ordes militars més antigues del món.",
+        "year": 1113
+      },
+      {
+        "title": "Inauguració del La Scala de Milà",
+        "description": "El Teatro alla Scala de Milà va obrir les seves portes amb l'òpera Europa riconosciuta d'Antonio Salieri, convertint-se en el temple de l'òpera italiana.",
+        "year": 1778
+      },
+      {
+        "title": "Assassinat de Fred Hampton",
+        "description": "Fred Hampton, líder de les Panteres Negres de Chicago, va ser abatut per la policia en una operació planificada pel FBI mentre dormia, als 21 anys.",
+        "year": 1969
+      }
+    ]
+  }
+}

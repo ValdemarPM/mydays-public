@@ -1,0 +1,271 @@
+{
+  "date": "2025-10-10",
+  "es": {
+    "saints": [
+      {
+        "name": "San Francisco de Borja",
+        "type": "Presbítero",
+        "description": "Véase 3 de octubre. Hoy en algunas comunidades se celebra la octava o traslado de su fiesta. En el santoral catalán tradicional se venera hoy a San Paulino de York, obispo y mártir del siglo VII en la iglesia anglosajona."
+      },
+      {
+        "name": "San Daniel el Estilita",
+        "type": "Monje",
+        "description": "Monje sirio del siglo V (409–493), discípulo de San Simeón Estilita. Vivió durante 33 años sobre una columna a las afueras de Constantinopla, expuesto a las inclemencias del tiempo, como forma extrema de ascesis. Fue consejero espiritual de emperadores y patriarcas."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Salud Mental",
+        "description": "Establecido por la Federación Mundial de Salud Mental en 1992, se celebra el 10 de octubre para sensibilizar sobre los problemas de salud mental en todo el mundo. En 2025 el lema elegido por la OMS es 'Es hora de priorizar la salud mental en el trabajo', visibilizando el impacto del entorno laboral."
+      },
+      {
+        "name": "Día Mundial contra la Pena de Muerte",
+        "description": "Promovido por la Coalición Mundial contra la Pena de Muerte desde 2003, busca sensibilizar a la opinión pública mundial sobre los problemas del sistema de pena capital. Más de dos tercios de los países del mundo han abolido la pena de muerte en la ley o en la práctica."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La salud mental no es la ausencia de enfermedad mental, sino la presencia de bienestar.",
+      "author": "Corey Keyes",
+      "context": "El sociólogo americano Corey Keyes acuñó el concepto de 'florecimiento' como estado de salud mental positiva, en contraposición al modelo médico tradicional que define la salud como ausencia de enfermedad. En el Día Mundial de la Salud Mental, su definición invita a repensar el bienestar."
+    },
+    "motivationalQuote": {
+      "text": "Cuidar de ti mismo no es un lujo; es una necesidad.",
+      "author": "Audre Lorde"
+    },
+    "births": [
+      {
+        "name": "Giuseppe Verdi",
+        "description": "Compositor italiano de ópera (1813–1901), el más influyente del siglo XIX en el género. Sus óperas Rigoletto (1851), La Traviata (1853), Aida (1871) y Otello (1887) son obras maestras del repertorio lírico mundial. Fue también un símbolo del Risorgimento italiano y su nombre se convirtió en acrónimo de «Vittorio Emanuele Re D'Italia».",
+        "year": 1813
+      },
+      {
+        "name": "Nansen Fridtjof",
+        "description": "Explorador, científico y diplomático noruego (1861–1930), pionero de la exploración ártica. En 1895 alcanzó la latitud más alta jamás registrada hasta entonces (86° 14' N). Premio Nobel de la Paz en 1922 por su labor humanitaria con los refugiados tras la Primera Guerra Mundial. Creó el «pasaporte Nansen» para los apátridas.",
+        "year": 1861
+      },
+      {
+        "name": "David Lee Roth",
+        "description": "Cantante y artista de rock americano (n. 1954), líder y vocalista de Van Halen, uno de los grupos de hard rock más exitosos de los años setenta y ochenta. Conocido por su carisma sobre el escenario y sus extravagantes actuaciones en directo. Tuvo también una exitosa carrera en solitario.",
+        "year": 1954
+      }
+    ],
+    "events": [
+      {
+        "title": "Se celebra el primer aniversario del Día de la Hispanidad en España",
+        "description": "El 12 de octubre es el Día de la Hispanidad en España, pero el 10 de octubre de 1913 se registró la primera gran conmemoración institucional de ese día como fiesta de la raza (Día de la Raza). La festividad, originada en América Latina, fue adoptada en España y cambió varias veces de nombre a lo largo del siglo XX.",
+        "year": 1913
+      },
+      {
+        "title": "Se anuncia el Premio Nobel de la Paz a la Unión Europea",
+        "description": "El Comité Nobel Noruego otorgó el Premio Nobel de la Paz a la Unión Europea 'por más de seis décadas de contribución al avance de la paz, la reconciliación, la democracia y los derechos humanos en Europa'. Fue recibido con elogios y críticas por igual en los países miembros.",
+        "year": 2012
+      },
+      {
+        "title": "Primer tren de alta velocidad en el mundo",
+        "description": "Japón inauguró el Shinkansen (bala), el primer tren de alta velocidad del mundo, para la línea Tokio-Osaka, coincidiendo con los Juegos Olímpicos de Tokio de 1964. El tren, que circulaba a 210 km/h, revolucionó el transporte ferroviario mundial.",
+        "year": 1964
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Francis Borgia",
+        "type": "Priest",
+        "description": "See 3 October. Today some communities celebrate the octave or translation of his feast. In the traditional Catalan calendar, Saint Paulinus of York, bishop and martyr of the 7th century in the Anglo-Saxon church, is venerated today."
+      },
+      {
+        "name": "Saint Daniel the Stylite",
+        "type": "Monk",
+        "description": "A 5th-century Syrian monk (409–493), disciple of Saint Simeon Stylites. He lived for 33 years on top of a column on the outskirts of Constantinople, exposed to the elements, as an extreme form of asceticism. He was the spiritual adviser of emperors and patriarchs."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Mental Health Day",
+        "description": "Established by the World Federation for Mental Health in 1992, it is celebrated on 10 October to raise awareness of mental health issues worldwide. In 2025 the slogan chosen by the WHO is 'It's time to prioritise mental health in the workplace', highlighting the impact of the work environment."
+      },
+      {
+        "name": "World Day Against the Death Penalty",
+        "description": "Promoted by the World Coalition Against the Death Penalty since 2003, it seeks to raise awareness of the problems of the capital punishment system. More than two thirds of the world's countries have abolished the death penalty in law or in practice."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Mental health is not merely the absence of mental illness but the presence of wellbeing.",
+      "author": "Corey Keyes",
+      "context": "American sociologist Corey Keyes coined the concept of 'flourishing' as a state of positive mental health, in contrast to the traditional medical model that defines health as the absence of disease. On World Mental Health Day, his definition invites us to rethink wellbeing."
+    },
+    "motivationalQuote": {
+      "text": "Caring for yourself is not a luxury; it is a necessity.",
+      "author": "Audre Lorde"
+    },
+    "births": [
+      {
+        "name": "Giuseppe Verdi",
+        "description": "Italian opera composer (1813–1901), the most influential of the 19th century in the genre. His operas Rigoletto (1851), La Traviata (1853), Aida (1871) and Otello (1887) are masterpieces of the world's operatic repertoire. He was also a symbol of the Italian Risorgimento and his name became an acronym for 'Vittorio Emanuele Re D'Italia'.",
+        "year": 1813
+      },
+      {
+        "name": "Fridtjof Nansen",
+        "description": "Norwegian explorer, scientist and diplomat (1861–1930), pioneer of Arctic exploration. In 1895 he reached the highest latitude ever recorded at that time (86° 14' N). Nobel Peace Prize in 1922 for his humanitarian work with refugees after the First World War. He created the 'Nansen passport' for stateless persons.",
+        "year": 1861
+      },
+      {
+        "name": "David Lee Roth",
+        "description": "American rock singer and performer (b. 1954), frontman and vocalist of Van Halen, one of the most successful hard rock bands of the 1970s and 1980s. Known for his stage charisma and extravagant live performances. He also had a successful solo career.",
+        "year": 1954
+      }
+    ],
+    "events": [
+      {
+        "title": "First institutional commemoration of Hispanic Heritage Day in Spain",
+        "description": "12 October is Hispanic Heritage Day in Spain, but on 10 October 1913 the first major institutional commemoration of that day as Día de la Raza (Day of the Race) was recorded. The holiday, originating in Latin America, was adopted in Spain and changed its name several times throughout the 20th century.",
+        "year": 1913
+      },
+      {
+        "title": "Nobel Peace Prize awarded to the European Union",
+        "description": "The Norwegian Nobel Committee awarded the Nobel Peace Prize to the European Union 'for over six decades of contributions to the advancement of peace, reconciliation, democracy and human rights in Europe'. It was received with both praise and criticism in member countries.",
+        "year": 2012
+      },
+      {
+        "title": "First high-speed train in the world",
+        "description": "Japan inaugurated the Shinkansen (bullet train), the world's first high-speed train, for the Tokyo-Osaka line, coinciding with the 1964 Tokyo Olympics. The train, which travelled at 210 km/h, revolutionised world railway transport.",
+        "year": 1964
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Francisco de Borja",
+        "type": "Presbítero",
+        "description": "Ver 3 de outubro. Hoje algumas comunidades celebram a oitava ou trasladação da sua festa. No calendário catalão tradicional, venera-se hoje São Paulino de York, bispo e mártir do século VII na Igreja anglo-saxônica."
+      },
+      {
+        "name": "São Daniel o Estilita",
+        "type": "Monge",
+        "description": "Monge sírio do século V (409–493), discípulo de São Simeão Estilita. Viveu durante 33 anos em cima de uma coluna nos arredores de Constantinopla, exposto às intempéries, como forma extrema de ascese. Foi conselheiro espiritual de imperadores e patriarcas."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Saúde Mental",
+        "description": "Estabelecido pela Federação Mundial de Saúde Mental em 1992, é celebrado a 10 de outubro para sensibilizar sobre os problemas de saúde mental em todo o mundo. Em 2025 o lema escolhido pela OMS é 'É hora de priorizar a saúde mental no trabalho', visibilizando o impacto do ambiente laboral."
+      },
+      {
+        "name": "Dia Mundial contra a Pena de Morte",
+        "description": "Promovido pela Coligação Mundial contra a Pena de Morte desde 2003, procura sensibilizar a opinião pública mundial sobre os problemas do sistema de pena capital. Mais de dois terços dos países do mundo aboliram a pena de morte na lei ou na prática."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A saúde mental não é apenas a ausência de doença mental, mas a presença de bem-estar.",
+      "author": "Corey Keyes",
+      "context": "O sociólogo americano Corey Keyes cunhou o conceito de 'florescimento' como estado de saúde mental positiva, em contraste com o modelo médico tradicional que define a saúde como ausência de doença. No Dia Mundial da Saúde Mental, a sua definição convida a repensar o bem-estar."
+    },
+    "motivationalQuote": {
+      "text": "Cuidar de si mesmo não é um luxo; é uma necessidade.",
+      "author": "Audre Lorde"
+    },
+    "births": [
+      {
+        "name": "Giuseppe Verdi",
+        "description": "Compositor italiano de ópera (1813–1901), o mais influente do século XIX no género. As suas óperas Rigoletto (1851), La Traviata (1853), Aida (1871) e Otello (1887) são obras-primas do repertório lírico mundial. Foi também um símbolo do Risorgimento italiano e o seu nome tornou-se acrónimo de «Vittorio Emanuele Re D'Italia».",
+        "year": 1813
+      },
+      {
+        "name": "Fridtjof Nansen",
+        "description": "Explorador, cientista e diplomata norueguês (1861–1930), pioneiro da exploração ártica. Em 1895 alcançou a latitude mais alta jamais registada até então (86° 14' N). Prémio Nobel da Paz em 1922 pela sua obra humanitária com os refugiados após a Primeira Guerra Mundial. Criou o 'passaporte Nansen' para os apátridas.",
+        "year": 1861
+      },
+      {
+        "name": "David Lee Roth",
+        "description": "Cantor e artista de rock americano (n. 1954), líder e vocalista dos Van Halen, um dos grupos de hard rock mais bem-sucedidos dos anos setenta e oitenta. Conhecido pelo seu carisma em palco e pelas suas extravagantes atuações ao vivo. Teve também uma bem-sucedida carreira a solo.",
+        "year": 1954
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeira grande comemoração institucional do Dia da Hispanidade em Espanha",
+        "description": "O 12 de outubro é o Dia da Hispanidade em Espanha, mas a 10 de outubro de 1913 registou-se a primeira grande comemoração institucional desse dia como Día de la Raza. O feriado, originado na América Latina, foi adotado em Espanha e mudou várias vezes de nome ao longo do século XX.",
+        "year": 1913
+      },
+      {
+        "title": "Prémio Nobel da Paz atribuído à União Europeia",
+        "description": "O Comité Nobel Norueguês atribuiu o Prémio Nobel da Paz à União Europeia 'por mais de seis décadas de contribuição para o avanço da paz, da reconciliação, da democracia e dos direitos humanos na Europa'. Foi recebido com elogios e críticas nos países membros.",
+        "year": 2012
+      },
+      {
+        "title": "Primeiro comboio de alta velocidade do mundo",
+        "description": "O Japão inaugurou o Shinkansen (comboio-bala), o primeiro comboio de alta velocidade do mundo, para a linha Tóquio-Osaka, coincidindo com os Jogos Olímpicos de Tóquio de 1964. O comboio, que circulava a 210 km/h, revolucionou o transporte ferroviário mundial.",
+        "year": 1964
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Francesc de Borja",
+        "type": "Prevere",
+        "description": "Vegeu el 3 d'octubre. Avui algunes comunitats celebren l'octava o trasllat de la seva festa. En el santoral català tradicional es venera avui Sant Paulí de York, bisbe i màrtir del segle VII a l'Església anglosaxona."
+      },
+      {
+        "name": "Sant Daniel l'Estilita",
+        "type": "Monjo",
+        "description": "Monjo sirià del segle V (409–493), deixeble de Sant Simeó Estilita. Va viure durant 33 anys sobre una columna als afores de Constantinoble, exposat a les inclemències del temps, com a forma extrema d'ascesi. Va ser conseller espiritual d'emperadors i patriarques."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Salut Mental",
+        "description": "Establert per la Federació Mundial de Salut Mental el 1992, se celebra el 10 d'octubre per sensibilitzar sobre els problemes de salut mental a tot el món. El 2025 el lema triat per l'OMS és 'És hora de prioritzar la salut mental a la feina', visibilitzant l'impacte de l'entorn laboral."
+      },
+      {
+        "name": "Dia Mundial contra la Pena de Mort",
+        "description": "Promogut per la Coalició Mundial contra la Pena de Mort des del 2003, busca sensibilitzar l'opinió pública mundial sobre els problemes del sistema de pena capital. Més de dos terços dels països del món han abolit la pena de mort en la llei o en la pràctica."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La salut mental no és simplement l'absència de malaltia mental, sinó la presència de benestar.",
+      "author": "Corey Keyes",
+      "context": "El sociòleg americà Corey Keyes va encunyar el concepte de 'floriment' com a estat de salut mental positiva, en contrast amb el model mèdic tradicional que defineix la salut com a absència de malaltia. En el Dia Mundial de la Salut Mental, la seva definició convida a repensar el benestar."
+    },
+    "motivationalQuote": {
+      "text": "Cuidar-te no és un luxe; és una necessitat.",
+      "author": "Audre Lorde"
+    },
+    "births": [
+      {
+        "name": "Giuseppe Verdi",
+        "description": "Compositor italià d'òpera (1813–1901), el més influent del segle XIX en el gènere. Les seves òperes Rigoletto (1851), La Traviata (1853), Aida (1871) i Otello (1887) són obres mestres del repertori líric mundial. Va ser també un símbol del Risorgimento italià i el seu nom es va convertir en acrònim de «Vittorio Emanuele Re D'Italia».",
+        "year": 1813
+      },
+      {
+        "name": "Fridtjof Nansen",
+        "description": "Explorador, científic i diplomàtic noruec (1861–1930), pioner de l'exploració àrtica. El 1895 va assolir la latitud més alta mai registrada fins aleshores (86° 14' N). Premi Nobel de la Pau el 1922 per la seva tasca humanitària amb els refugiats després de la Primera Guerra Mundial. Va crear el 'passaport Nansen' per als apàtrides.",
+        "year": 1861
+      },
+      {
+        "name": "David Lee Roth",
+        "description": "Cantant i artista de rock americà (n. 1954), líder i vocalista de Van Halen, un dels grups de hard rock més exitosos dels anys setanta i vuitanta. Conegut pel seu carisma a l'escenari i les seves extravagants actuacions en directe. Va tenir també una exitosa carrera en solitari.",
+        "year": 1954
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera gran commemoració institucional del Dia de la Hispanitat a Espanya",
+        "description": "El 12 d'octubre és el Dia de la Hispanitat a Espanya, però el 10 d'octubre de 1913 es va registrar la primera gran commemoració institucional d'aquell dia com a Día de la Raza. El festiu, originat a l'Amèrica Llatina, va ser adoptat a Espanya i va canviar diverses vegades de nom al llarg del segle XX.",
+        "year": 1913
+      },
+      {
+        "title": "Premi Nobel de la Pau atorgat a la Unió Europea",
+        "description": "El Comitè Nobel Noruec va atorgar el Premi Nobel de la Pau a la Unió Europea 'per més de sis dècades de contribució a l'avanç de la pau, la reconciliació, la democràcia i els drets humans a Europa'. Va ser rebut amb elogis i crítiques als països membres.",
+        "year": 2012
+      },
+      {
+        "title": "Primer tren d'alta velocitat del món",
+        "description": "El Japó va inaugurar el Shinkansen (tren bala), el primer tren d'alta velocitat del món, per a la línia Tòquio-Osaka, coincidint amb els Jocs Olímpics de Tòquio de 1964. El tren, que circulava a 210 km/h, va revolucionar el transport ferroviari mundial.",
+        "year": 1964
+      }
+    ]
+  }
+}

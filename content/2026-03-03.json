@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-03",
+  "es": {
+    "saints": [
+      { "name": "San Marino", "type": "Diácono y ermitaño", "description": "Cantero dálmata del siglo III que, según la tradición, fundó el monasterio en el monte Titano que daría origen al pequeño estado de San Marino." },
+      { "name": "Santa Cunegunda", "type": "Emperatriz", "description": "Esposa del emperador Enrique II del Sacro Imperio Romano, canonizada en 1200 por su vida de piedad y su entrega al servicio de los pobres." },
+      { "name": "San Asterio de Capadocia", "type": "Obispo", "description": "Obispo de Amasia en Capadocia a finales del siglo IV, conocido por sus homilías que describen escenas de arte paleocristiano." }
+    ],
+    "observances": [
+      { "name": "Día Mundial de la Vida Silvestre", "description": "Jornada proclamada por la ONU para celebrar la fauna y flora del planeta y concienciar sobre la urgencia de preservar la biodiversidad frente a la extinción de especies." },
+      { "name": "Día de la Independencia de Bulgaria", "description": "Bulgaria celebra la liberación del Imperio Otomano gracias al Tratado de San Estéfano firmado en 1878, que estableció el moderno estado búlgaro." }
+    ],
+    "historicalQuote": {
+      "text": "La naturaleza no conoce pausas en el progreso y castiga toda la inercia.",
+      "author": "Johann Wolfgang von Goethe",
+      "context": "El gran escritor alemán Johann Wolfgang von Goethe nació el 28 de agosto de 1749. Esta reflexión sobre la naturaleza y el avance continuo sigue siendo profundamente actual."
+    },
+    "motivationalQuote": {
+      "text": "Haz lo que puedas, con lo que tienes, donde estás.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      { "name": "Alexander Graham Bell", "description": "Inventor escocés-estadounidense, pionero del teléfono y fundador de la compañía que se convertiría en AT&T, revolucionando las comunicaciones a distancia.", "year": 1847 },
+      { "name": "Jean Harlow", "description": "Actriz estadounidense icono del Hollywood de los años 30, conocida como la 'Bomba Rubia', protagonista de clásicos del cine negro y la comedia.", "year": 1911 },
+      { "name": "Camille Pissarro", "description": "Pintor impresionista francocubano, uno de los fundadores del movimiento impresionista, célebre por sus paisajes urbanos y rurales.", "year": 1830 }
+    ],
+    "events": [
+      { "title": "Se firma el himno nacional de EE. UU.", "description": "El Congreso de los Estados Unidos adoptó oficialmente 'The Star-Spangled Banner' como himno nacional del país, basado en el poema de Francis Scott Key de 1814.", "year": 1931 },
+      { "title": "Primera película en Technicolor exhibida al público", "description": "Se proyectó 'Becky Sharp', la primera película de larga duración rodada en Technicolor de tres colores, marcando un hito en la historia del cine.", "year": 1935 },
+      { "title": "Tratado de San Estéfano y liberación de Bulgaria", "description": "El Imperio Ruso y el Otomano firmaron el Tratado de San Estéfano, que reconoció la autonomía de Bulgaria tras siglos de dominio otomano.", "year": 1878 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Marinus", "type": "Deacon and hermit", "description": "Dalmatian stonemason of the third century who, according to tradition, founded a monastery on Mount Titano, which became the origin of the tiny state of San Marino." },
+      { "name": "Saint Cunigunde", "type": "Empress", "description": "Wife of Holy Roman Emperor Henry II, canonised in 1200 for her life of piety and service to the poor." },
+      { "name": "Saint Asterius of Cappadocia", "type": "Bishop", "description": "Bishop of Amasea in Cappadocia in the late fourth century, known for his homilies describing early Christian artwork." }
+    ],
+    "observances": [
+      { "name": "World Wildlife Day", "description": "A UN-proclaimed day to celebrate the world's wild fauna and flora, and raise awareness of the urgency of preserving biodiversity against species extinction." },
+      { "name": "Bulgaria Liberation Day", "description": "Bulgaria celebrates its liberation from the Ottoman Empire through the Treaty of San Stefano signed in 1878, which established the modern Bulgarian state." }
+    ],
+    "historicalQuote": {
+      "text": "Nature knows no pause in progress and development, and attaches her curse on all inaction.",
+      "author": "Johann Wolfgang von Goethe",
+      "context": "The great German writer Johann Wolfgang von Goethe was born on 28 August 1749. This reflection on nature and continuous progress remains deeply relevant today."
+    },
+    "motivationalQuote": {
+      "text": "Do what you can, with what you have, where you are.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      { "name": "Alexander Graham Bell", "description": "Scottish-American inventor, pioneer of the telephone and founder of the company that became AT&T, revolutionising long-distance communication.", "year": 1847 },
+      { "name": "Jean Harlow", "description": "American actress and 1930s Hollywood icon, known as the 'Blonde Bombshell', star of classic film noir and comedies.", "year": 1911 },
+      { "name": "Camille Pissarro", "description": "Franco-Cuban Impressionist painter, one of the founders of the Impressionist movement, celebrated for his urban and rural landscapes.", "year": 1830 }
+    ],
+    "events": [
+      { "title": "US national anthem officially adopted", "description": "The United States Congress officially adopted 'The Star-Spangled Banner' as the national anthem, based on Francis Scott Key's 1814 poem.", "year": 1931 },
+      { "title": "First Technicolor feature film screened", "description": "'Becky Sharp' was screened, the first full-length film shot in three-strip Technicolor, marking a milestone in cinema history.", "year": 1935 },
+      { "title": "Treaty of San Stefano and Bulgarian liberation", "description": "The Russian and Ottoman Empires signed the Treaty of San Stefano, recognising Bulgarian autonomy after centuries of Ottoman rule.", "year": 1878 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Marino", "type": "Diácono e eremita", "description": "Pedreiro dálmata do século III que, segundo a tradição, fundou o mosteiro no monte Titano, origem do pequeno estado de São Marino." },
+      { "name": "Santa Cunegunda", "type": "Imperatriz", "description": "Esposa do imperador Henrique II do Sacro Império Romano, canonizada em 1200 pela sua vida de piedade e dedicação ao serviço dos pobres." },
+      { "name": "São Astério da Capadócia", "type": "Bispo", "description": "Bispo de Amásia na Capadócia no final do século IV, conhecido pelas suas homilias que descrevem cenas da arte paleocristã." }
+    ],
+    "observances": [
+      { "name": "Dia Mundial da Vida Selvagem", "description": "Jornada proclamada pela ONU para celebrar a fauna e a flora do planeta e conscientizar sobre a urgência de preservar a biodiversidade face à extinção de espécies." },
+      { "name": "Dia da Libertação da Bulgária", "description": "A Bulgária celebra a sua libertação do Império Otomano pelo Tratado de San Stefano de 1878, que estabeleceu o moderno estado búlgaro." }
+    ],
+    "historicalQuote": {
+      "text": "A natureza não conhece pausas no progresso e castiga toda a inércia.",
+      "author": "Johann Wolfgang von Goethe",
+      "context": "O grande escritor alemão Johann Wolfgang von Goethe nasceu em 28 de agosto de 1749. Esta reflexão sobre a natureza e o avanço contínuo permanece profundamente atual."
+    },
+    "motivationalQuote": {
+      "text": "Faça o que puder, com o que tiver, onde estiver.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      { "name": "Alexander Graham Bell", "description": "Inventor escocês-americano, pioneiro do telefone e fundador da empresa que se tornaria a AT&T, revolucionando as comunicações à distância.", "year": 1847 },
+      { "name": "Jean Harlow", "description": "Atriz americana ícone do Hollywood dos anos 30, conhecida como a 'Bomba Loira', protagonista de clássicos do cinema noir e da comédia.", "year": 1911 },
+      { "name": "Camille Pissarro", "description": "Pintor impressionista franco-cubano, um dos fundadores do movimento impressionista, célebre por suas paisagens urbanas e rurais.", "year": 1830 }
+    ],
+    "events": [
+      { "title": "Hino nacional dos EUA oficialmente adotado", "description": "O Congresso dos Estados Unidos adotou oficialmente 'The Star-Spangled Banner' como hino nacional, baseado no poema de Francis Scott Key de 1814.", "year": 1931 },
+      { "title": "Primeiro filme em Technicolor exibido ao público", "description": "'Becky Sharp' foi exibido, o primeiro longa-metragem filmado em Technicolor de três cores, marcando um marco na história do cinema.", "year": 1935 },
+      { "title": "Tratado de San Stefano e libertação da Bulgária", "description": "Os Impérios Russo e Otomano assinaram o Tratado de San Stefano, reconhecendo a autonomia da Bulgária após séculos de domínio otomano.", "year": 1878 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Marí", "type": "Diaca i ermità", "description": "Picapedrer dàlmata del segle III que, segons la tradició, va fundar el monestir al mont Titano, origen del petit estat de San Marino." },
+      { "name": "Santa Cunegunda", "type": "Emperadriu", "description": "Esposa de l'emperador Enric II del Sacre Imperi Romà, canonitzada l'any 1200 per la seva vida de pietat i servei als pobres." },
+      { "name": "Sant Asteri de Capadòcia", "type": "Bisbe", "description": "Bisbe d'Amàsia a Capadòcia a finals del segle IV, conegut per les seves homilies que descriuen escenes de l'art paleocristià." }
+    ],
+    "observances": [
+      { "name": "Dia Mundial de la Vida Silvestre", "description": "Jornada proclamada per l'ONU per celebrar la fauna i la flora del planeta i conscienciar sobre la urgència de preservar la biodiversitat davant l'extinció d'espècies." },
+      { "name": "Dia de l'Alliberament de Bulgària", "description": "Bulgària celebra la seva alliberació de l'Imperi Otomà gràcies al Tractat de San Stefano de 1878, que va establir el modern estat búlgar." }
+    ],
+    "historicalQuote": {
+      "text": "La natura no coneix pauses en el progrés i castiga tota la inèrcia.",
+      "author": "Johann Wolfgang von Goethe",
+      "context": "El gran escriptor alemany Johann Wolfgang von Goethe va néixer el 28 d'agost de 1749. Aquesta reflexió sobre la natura i l'avanç continu continua sent profundament actual."
+    },
+    "motivationalQuote": {
+      "text": "Fes el que puguis, amb el que tinguis, on siguis.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      { "name": "Alexander Graham Bell", "description": "Inventor escocès-americà, pioner del telèfon i fundador de la companyia que es convertiria en AT&T, revolucionant les comunicacions a distància.", "year": 1847 },
+      { "name": "Jean Harlow", "description": "Actriu americana icona del Hollywood dels anys 30, coneguda com la 'Bomba Rossa', protagonista de clàssics del cinema negre i la comèdia.", "year": 1911 },
+      { "name": "Camille Pissarro", "description": "Pintor impressionista francocubà, un dels fundadors del moviment impressionista, cèlebre pels seus paisatges urbans i rurals.", "year": 1830 }
+    ],
+    "events": [
+      { "title": "Himne nacional dels EUA adoptat oficialment", "description": "El Congrés dels Estats Units va adoptar oficialment 'The Star-Spangled Banner' com a himne nacional, basat en el poema de Francis Scott Key de 1814.", "year": 1931 },
+      { "title": "Primera pel·lícula en Technicolor exhibida al públic", "description": "'Becky Sharp' va ser projectada, la primera pel·lícula de llarg metratge rodada en Technicolor de tres colors, marcant una fita en la història del cinema.", "year": 1935 },
+      { "title": "Tractat de San Stefano i alliberació de Bulgària", "description": "Els Imperis Rus i Otomà van signar el Tractat de San Stefano, que va reconèixer l'autonomia de Bulgària després de segles de domini otomà.", "year": 1878 }
+    ]
+  }
+}

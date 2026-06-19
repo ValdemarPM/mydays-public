@@ -1,0 +1,291 @@
+{
+  "date": "2026-06-08",
+  "es": {
+    "saints": [
+      {
+        "name": "San Medardo",
+        "type": "Obispo",
+        "description": "Obispo de Noyon y Tournai en la Galia del siglo V-VI, conocido desde joven por su generosidad y cercanía a los necesitados. Es patrono de campesinos, leñadores y camareros. En la tradición francesa, se dice que si llueve el día de San Medardo, lloverá cuarenta días."
+      },
+      {
+        "name": "Beata María del Divino Corazón de Jesús",
+        "type": "Religiosa",
+        "description": "Religiosa alemana del siglo XIX (Droste zu Vischering), cuya influencia espiritual fue decisiva para que el papa León XIII consagrara el mundo al Sagrado Corazón de Jesús en 1899. Murió en Portugal y fue beatificada por la Iglesia en 1975."
+      },
+      {
+        "name": "San Guillermo de York",
+        "type": "Arzobispo",
+        "description": "Arzobispo de York en el siglo XII, cuya elección fue disputada durante años. Depuesto y luego restituido, murió poco después de su segunda instalación en la sede. Fue canonizado en 1226."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de los Océanos",
+        "description": "Proclamado por la ONU, este día celebra los océanos como pulmón del planeta y fuente de vida, y conciencia sobre la urgencia de protegerlos de la contaminación plástica, el cambio climático y la sobreexplotación."
+      },
+      {
+        "name": "Día Mundial del Cerebro",
+        "description": "Impulsado por la Federación Mundial de Neurología, este día sensibiliza sobre las enfermedades neurológicas —como el ictus, la epilepsia o el Alzheimer— y la importancia de la investigación cerebral para la salud global."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La libertad es el derecho de decirle a la gente lo que no quiere oír.",
+      "author": "George Orwell",
+      "context": "El 8 de junio de 1949 se publicó 1984, la novela distópica de Eric Arthur Blair (George Orwell), su obra más célebre. Escrita mientras enfermaba de tuberculosis en la isla de Jura, Escocia, la novela advirtió al mundo sobre el totalitarismo, la vigilancia del Estado y la manipulación del lenguaje. Orwell fallecería siete meses después de su publicación."
+    },
+    "motivationalQuote": {
+      "text": "El coraje no es la ausencia de miedo, sino el juicio de que algo más es más importante que el miedo.",
+      "author": "Ambrose Redmoon"
+    },
+    "births": [
+      {
+        "name": "Frank Lloyd Wright",
+        "description": "Arquitecto estadounidense, considerado el más importante de la historia de Norteamérica. Creador de la 'arquitectura orgánica', diseñó más de 1.000 obras, entre ellas la Casa de la Cascada (Fallingwater) y el Museo Guggenheim de Nueva York.",
+        "year": "1867"
+      },
+      {
+        "name": "Robert Schumann",
+        "description": "Compositor y pianista alemán del Romanticismo, autor de célebres obras para piano como Carnaval y Kinderszenen, así como cuatro sinfonías y un concierto para piano. Uno de los grandes maestros de la canción de arte (Lied) alemana.",
+        "year": "1810"
+      },
+      {
+        "name": "Joan Rivers",
+        "description": "Comediante, actriz y presentadora estadounidense, pionera del humor femenino en la televisión americana. Rompió barreras en una industria dominada por hombres y fue referente para generaciones de cómicas.",
+        "year": "1933"
+      }
+    ],
+    "events": [
+      {
+        "title": "Publicación de 1984 de George Orwell",
+        "description": "La editorial Secker & Warburg publicó en Londres 1984 (Nineteen Eighty-Four), la novela distópica de George Orwell que describía un régimen totalitario de vigilancia omnipresente. Se convertiría en una de las obras más influyentes del siglo XX.",
+        "year": "1949"
+      },
+      {
+        "title": "Incidente del USS Liberty",
+        "description": "Durante la Guerra de los Seis Días, aviones y torpederos israelíes atacaron el buque de inteligencia de la Marina estadounidense USS Liberty en aguas internacionales, matando a 34 marineros e hiriendo a 171. El incidente sigue siendo uno de los más controvertidos de la historia militar.",
+        "year": "1967"
+      },
+      {
+        "title": "Primer Día Mundial de los Océanos reconocido por la ONU",
+        "description": "La Asamblea General de la ONU designó oficialmente el 8 de junio como Día Mundial de los Océanos, consolidando una celebración que comenzó en la Cumbre de la Tierra de 1992 en Río de Janeiro.",
+        "year": "2008"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Medard",
+        "type": "Bishop",
+        "description": "Bishop of Noyon and Tournai in 5th-6th century Gaul, known from youth for his generosity and closeness to those in need. He is the patron of farmers, woodcutters, and waiters. French tradition holds that if it rains on Saint Medard's day, it will rain for forty days."
+      },
+      {
+        "name": "Blessed Mary of the Divine Heart",
+        "type": "Religious",
+        "description": "19th-century German religious (Droste zu Vischering) whose spiritual influence was decisive in persuading Pope Leo XIII to consecrate the world to the Sacred Heart of Jesus in 1899. She died in Portugal and was beatified by the Church in 1975."
+      },
+      {
+        "name": "Saint William of York",
+        "type": "Archbishop",
+        "description": "Archbishop of York in the 12th century whose election was disputed for years. Deposed and later reinstated, he died shortly after his second installation in the see. He was canonized in 1226."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Oceans Day",
+        "description": "Proclaimed by the United Nations, this day celebrates the oceans as the planet's lungs and source of life, and raises awareness of the urgent need to protect them from plastic pollution, climate change, and overexploitation."
+      },
+      {
+        "name": "World Brain Day",
+        "description": "Promoted by the World Federation of Neurology, this day raises awareness of neurological diseases — such as stroke, epilepsy, and Alzheimer's — and the importance of brain research for global health."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Freedom is the right to tell people what they do not want to hear.",
+      "author": "George Orwell",
+      "context": "On June 8, 1949, 1984 (Nineteen Eighty-Four), the dystopian novel by Eric Arthur Blair (George Orwell), was published — his most celebrated work. Written while he was ill with tuberculosis on the Isle of Jura, Scotland, the novel warned the world about totalitarianism, state surveillance, and the manipulation of language. Orwell would die seven months after its publication."
+    },
+    "motivationalQuote": {
+      "text": "Courage is not the absence of fear, but rather the judgment that something else is more important than fear.",
+      "author": "Ambrose Redmoon"
+    },
+    "births": [
+      {
+        "name": "Frank Lloyd Wright",
+        "description": "American architect, considered the most important in North American history. Creator of 'organic architecture', he designed over 1,000 works, including Fallingwater and the Guggenheim Museum in New York.",
+        "year": "1867"
+      },
+      {
+        "name": "Robert Schumann",
+        "description": "German Romantic composer and pianist, author of celebrated piano works such as Carnaval and Kinderszenen, as well as four symphonies and a piano concerto. One of the great masters of the German art song (Lied).",
+        "year": "1810"
+      },
+      {
+        "name": "Joan Rivers",
+        "description": "American comedian, actress, and television host, pioneer of female humour on American television. She broke barriers in a male-dominated industry and was a role model for generations of female comedians.",
+        "year": "1933"
+      }
+    ],
+    "events": [
+      {
+        "title": "Publication of George Orwell's 1984",
+        "description": "Publisher Secker & Warburg published in London 1984 (Nineteen Eighty-Four), George Orwell's dystopian novel depicting a totalitarian regime of omnipresent surveillance. It would become one of the most influential works of the 20th century.",
+        "year": "1949"
+      },
+      {
+        "title": "USS Liberty incident",
+        "description": "During the Six-Day War, Israeli aircraft and torpedo boats attacked the American Navy intelligence ship USS Liberty in international waters, killing 34 sailors and wounding 171. The incident remains one of the most controversial in military history.",
+        "year": "1967"
+      },
+      {
+        "title": "First UN-recognized World Oceans Day",
+        "description": "The UN General Assembly officially designated June 8 as World Oceans Day, consolidating a celebration that had begun at the 1992 Earth Summit in Rio de Janeiro.",
+        "year": "2008"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Medardo",
+        "type": "Bispo",
+        "description": "Bispo de Noyon e Tournai na Gália dos séculos V-VI, conhecido desde jovem pela sua generosidade e proximidade aos necessitados. É padroeiro de agricultores, lenhadores e garçons. A tradição francesa diz que se chover no dia de São Medardo, choverá por quarenta dias."
+      },
+      {
+        "name": "Beata Maria do Divino Coração de Jesus",
+        "type": "Religiosa",
+        "description": "Religiosa alemã do século XIX (Droste zu Vischering), cuja influência espiritual foi decisiva para que o papa Leão XIII consagrasse o mundo ao Sagrado Coração de Jesus em 1899. Morreu em Portugal e foi beatificada pela Igreja em 1975."
+      },
+      {
+        "name": "São Guilherme de York",
+        "type": "Arcebispo",
+        "description": "Arcebispo de York no século XII, cuja eleição foi disputada durante anos. Deposto e depois restituído, morreu pouco depois de sua segunda instalação na sé. Foi canonizado em 1226."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial dos Oceanos",
+        "description": "Proclamado pela ONU, este dia celebra os oceanos como pulmão do planeta e fonte de vida, e conscientiza sobre a urgência de protegê-los da poluição plástica, das mudanças climáticas e da superexploração."
+      },
+      {
+        "name": "Dia Mundial do Cérebro",
+        "description": "Impulsionado pela Federação Mundial de Neurologia, este dia sensibiliza sobre as doenças neurológicas — como o AVC, a epilepsia e o Alzheimer — e a importância da pesquisa cerebral para a saúde global."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A liberdade é o direito de dizer às pessoas o que elas não querem ouvir.",
+      "author": "George Orwell",
+      "context": "Em 8 de junho de 1949 foi publicado 1984 (Nineteen Eighty-Four), o romance distópico de Eric Arthur Blair (George Orwell), sua obra mais célebre. Escrito enquanto adoecia de tuberculose na ilha de Jura, Escócia, o romance alertou o mundo sobre o totalitarismo, a vigilância do Estado e a manipulação da linguagem. Orwell morreria sete meses após sua publicação."
+    },
+    "motivationalQuote": {
+      "text": "A coragem não é a ausência do medo, mas o julgamento de que outra coisa é mais importante do que o medo.",
+      "author": "Ambrose Redmoon"
+    },
+    "births": [
+      {
+        "name": "Frank Lloyd Wright",
+        "description": "Arquiteto americano, considerado o mais importante da história da América do Norte. Criador da 'arquitetura orgânica', projetou mais de 1.000 obras, entre elas a Casa da Cascata (Fallingwater) e o Museu Guggenheim de Nova York.",
+        "year": "1867"
+      },
+      {
+        "name": "Robert Schumann",
+        "description": "Compositor e pianista alemão do Romantismo, autor de célebres obras para piano como Carnaval e Kinderszenen, além de quatro sinfonias e um concerto para piano. Um dos grandes mestres do Lied alemão.",
+        "year": "1810"
+      },
+      {
+        "name": "Joan Rivers",
+        "description": "Comediante, atriz e apresentadora americana, pioneira do humor feminino na televisão americana. Quebrou barreiras em uma indústria dominada por homens e foi referência para gerações de comediantes.",
+        "year": "1933"
+      }
+    ],
+    "events": [
+      {
+        "title": "Publicação de 1984 de George Orwell",
+        "description": "A editora Secker & Warburg publicou em Londres 1984 (Nineteen Eighty-Four), o romance distópico de George Orwell que descrevia um regime totalitário de vigilância onipresente. Tornaria-se uma das obras mais influentes do século XX.",
+        "year": "1949"
+      },
+      {
+        "title": "Incidente do USS Liberty",
+        "description": "Durante a Guerra dos Seis Dias, aviões e torpedeiros israelenses atacaram o navio de inteligência da Marinha americana USS Liberty em águas internacionais, matando 34 marinheiros e ferindo 171. O incidente continua sendo um dos mais controversos da história militar.",
+        "year": "1967"
+      },
+      {
+        "title": "Primeiro Dia Mundial dos Oceanos reconhecido pela ONU",
+        "description": "A Assembleia Geral da ONU designou oficialmente o 8 de junho como Dia Mundial dos Oceanos, consolidando uma celebração que começou na Cúpula da Terra de 1992 no Rio de Janeiro.",
+        "year": "2008"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Medard",
+        "type": "Bisbe",
+        "description": "Bisbe de Noyon i Tournai a la Gàl·lia dels segles V-VI, conegut des de jove per la seva generositat i proximitat als necessitats. És patró de llauradors, llenyataires i cambrers. La tradició francesa diu que si plou el dia de Sant Medard, plourà quaranta dies."
+      },
+      {
+        "name": "Beata Maria del Diví Cor de Jesús",
+        "type": "Religiosa",
+        "description": "Religiosa alemanya del segle XIX (Droste zu Vischering), la influència espiritual de la qual va ser decisiva perquè el papa Lleó XIII consagrés el món al Sagrat Cor de Jesús el 1899. Va morir a Portugal i va ser beatificada per l'Església el 1975."
+      },
+      {
+        "name": "Sant Guillem de York",
+        "type": "Arquebisbe",
+        "description": "Arquebisbe de York al segle XII, l'elecció del qual va ser disputada durant anys. Deposat i posteriorment reposat, va morir poc després de la seva segona instal·lació a la seu. Va ser canonitzat el 1226."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial dels Oceans",
+        "description": "Proclamat per l'ONU, aquest dia celebra els oceans com a pulmó del planeta i font de vida, i consciencia sobre la urgència de protegir-los de la contaminació plàstica, el canvi climàtic i la sobreexplotació."
+      },
+      {
+        "name": "Dia Mundial del Cervell",
+        "description": "Impulsat per la Federació Mundial de Neurologia, aquest dia sensibilitza sobre les malalties neurològiques —com l'ictus, l'epilèpsia o l'Alzheimer— i la importància de la recerca cerebral per a la salut global."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La llibertat és el dret de dir a la gent el que no vol sentir.",
+      "author": "George Orwell",
+      "context": "El 8 de juny de 1949 es va publicar 1984 (Nineteen Eighty-Four), la novel·la distòpica d'Eric Arthur Blair (George Orwell), la seva obra més cèlebre. Escrita mentre emmalaltia de tuberculosi a l'illa de Jura, Escòcia, la novel·la va advertir el món sobre el totalitarisme, la vigilància de l'Estat i la manipulació del llenguatge. Orwell moriria set mesos després de la seva publicació."
+    },
+    "motivationalQuote": {
+      "text": "El coratge no és l'absència de la por, sinó el judici que alguna cosa més és més important que la por.",
+      "author": "Ambrose Redmoon"
+    },
+    "births": [
+      {
+        "name": "Frank Lloyd Wright",
+        "description": "Arquitecte nord-americà, considerat el més important de la història de l'Amèrica del Nord. Creador de l''arquitectura orgànica', va dissenyar més de 1.000 obres, entre elles la Casa de la Cascada (Fallingwater) i el Museu Guggenheim de Nova York.",
+        "year": "1867"
+      },
+      {
+        "name": "Robert Schumann",
+        "description": "Compositor i pianista alemany del Romanticisme, autor de cèlebres obres per a piano com Carnaval i Kinderszenen, a més de quatre simfonies i un concert per a piano. Un dels grans mestres del Lied alemany.",
+        "year": "1810"
+      },
+      {
+        "name": "Joan Rivers",
+        "description": "Còmica, actriu i presentadora nord-americana, pionera de l'humor femení a la televisió americana. Va trencar barreres en una indústria dominada per homes i va ser referent per a generacions de còmiques.",
+        "year": "1933"
+      }
+    ],
+    "events": [
+      {
+        "title": "Publicació de 1984 de George Orwell",
+        "description": "L'editorial Secker & Warburg va publicar a Londres 1984 (Nineteen Eighty-Four), la novel·la distòpica de George Orwell que descrivia un règim totalitari de vigilància omnipresent. Es convertiria en una de les obres més influents del segle XX.",
+        "year": "1949"
+      },
+      {
+        "title": "Incident de l'USS Liberty",
+        "description": "Durant la Guerra dels Sis Dies, avions i torpediners israelians van atacar el vaixell d'intel·ligència de la Marina americana USS Liberty en aigües internacionals, matant 34 mariners i ferint 171. L'incident continua sent un dels més controvertits de la història militar.",
+        "year": "1967"
+      },
+      {
+        "title": "Primer Dia Mundial dels Oceans reconegut per l'ONU",
+        "description": "L'Assemblea General de l'ONU va designar oficialment el 8 de juny com a Dia Mundial dels Oceans, consolidant una celebració que havia començat a la Cimera de la Terra de 1992 a Rio de Janeiro.",
+        "year": "2008"
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-25",
+  "es": {
+    "saints": [
+      { "name": "Anunciación del Señor", "type": "Solemnidad", "description": "Solemnidad que conmemora la visita del arcángel Gabriel a la Virgen María para anunciarle que concebirá y dará a luz al Hijo de Dios; celebrada nueve meses antes de la Navidad." },
+      { "name": "San Ireneo de Sirmio", "type": "Mártir", "description": "Obispo de Sirmio (actual Sremska Mitrovica, Serbia) martirizado durante las persecuciones de Diocleciano en el año 304 por negarse a sacrificar a los dioses paganos." },
+      { "name": "San Dimas", "type": "El Buen Ladrón", "description": "Según el Evangelio de Lucas, el ladrón crucificado junto a Jesús que le pidió ser recordado en su reino; la tradición lo llama Dimas y lo venera como patrón de los ladrones arrepentidos y los condenados a muerte." }
+    ],
+    "observances": [
+      { "name": "Día de la Independencia de Grecia", "description": "Grecia celebra el inicio de su guerra de independencia contra el Imperio Otomano, proclamada el 25 de marzo de 1821 en el monasterio de Agía Lávra por el obispo Germanos de Patras." },
+      { "name": "Día Internacional de la Solidaridad con el Personal Detenido y Desaparecido", "description": "Jornada de la ONU para recordar a los periodistas, trabajadores humanitarios y otros profesionales detenidos o desaparecidos en el ejercicio de sus funciones." }
+    ],
+    "historicalQuote": {
+      "text": "La libertad no es un regalo del cielo; hay que conquistarla cada día.",
+      "author": "Simón Bolívar",
+      "context": "El Libertador Simón Bolívar dedicó su vida a la emancipación de América del Sur del dominio español. Esta reflexión sobre la libertad sigue siendo una guía para las democracias latinoamericanas."
+    },
+    "motivationalQuote": {
+      "text": "La gratitud es la memoria del corazón.",
+      "author": "Lao-Tsé"
+    },
+    "births": [
+      { "name": "Béla Bartók", "description": "Compositor y pianista húngaro del siglo XX, pionero de la etnomusicología, que recopiló miles de melodías populares de Europa del Este e integró estos elementos en obras originales de gran complejidad.", "year": 1881 },
+      { "name": "Elton John", "description": "Músico, cantante y pianista británico, uno de los artistas más exitosos de la historia del pop, con éxitos como 'Rocket Man', 'Tiny Dancer' y 'Crocodile Rock'; dos veces ganador del Oscar.", "year": 1947 },
+      { "name": "Sarah Jessica Parker", "description": "Actriz americana, icono de la moda y la cultura pop, célebre por su papel de Carrie Bradshaw en la serie 'Sexo en Nueva York' (1998-2004).", "year": 1965 }
+    ],
+    "events": [
+      { "title": "Grecia proclama su independencia del Imperio Otomano", "description": "El obispo Germanos de Patras bendijo la bandera griega en el monasterio de Agía Lávra en el Peloponeso, iniciando formalmente la guerra de independencia que llevaría al reconocimiento del Estado griego en 1830.", "year": 1821 },
+      { "title": "Incendio de la fábrica Triangle Shirtwaist", "description": "Un devastador incendio en la fábrica Triangle Shirtwaist de Nueva York mató a 146 trabajadoras textiles, en su mayoría inmigrantes jóvenes, en un desastre que impulsó la legislación laboral y el movimiento sindical americano.", "year": 1911 },
+      { "title": "La ONU adopta la Convención sobre los Derechos del Niño", "description": "La Asamblea General de las Naciones Unidas aprobó la Convención sobre los Derechos del Niño, el tratado internacional de derechos humanos más ratificado de la historia.", "year": 1989 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Annunciation of the Lord", "type": "Solemnity", "description": "Solemnity commemorating the Archangel Gabriel's visit to the Virgin Mary to announce that she would conceive and bear the Son of God; celebrated nine months before Christmas." },
+      { "name": "Saint Irenaeus of Sirmium", "type": "Martyr", "description": "Bishop of Sirmium (modern Sremska Mitrovica, Serbia), martyred during the Diocletianic persecutions in 304 for refusing to sacrifice to pagan gods." },
+      { "name": "Saint Dismas", "type": "The Good Thief", "description": "According to the Gospel of Luke, the thief crucified beside Jesus who asked to be remembered in his kingdom; tradition calls him Dismas and venerates him as patron of repentant thieves and those condemned to death." }
+    ],
+    "observances": [
+      { "name": "Greek Independence Day", "description": "Greece celebrates the start of its war of independence against the Ottoman Empire, proclaimed on 25 March 1821 at the Agía Lávra monastery by Bishop Germanos of Patras." },
+      { "name": "International Day of Solidarity with Detained and Missing Staff Members", "description": "A UN day to remember journalists, humanitarian workers and other professionals detained or missing in the course of their duties." }
+    ],
+    "historicalQuote": {
+      "text": "Freedom is not a gift from heaven; it must be conquered every day.",
+      "author": "Simón Bolívar",
+      "context": "The Liberator Simón Bolívar devoted his life to the emancipation of South America from Spanish rule. This reflection on freedom remains a guiding principle for Latin American democracies."
+    },
+    "motivationalQuote": {
+      "text": "Gratitude is the memory of the heart.",
+      "author": "Lao-Tzu"
+    },
+    "births": [
+      { "name": "Béla Bartók", "description": "Twentieth-century Hungarian composer and pianist, pioneer of ethnomusicology, who collected thousands of folk melodies from Eastern Europe and integrated these elements into original works of great complexity.", "year": 1881 },
+      { "name": "Elton John", "description": "British musician, singer and pianist, one of the most successful artists in pop history, with hits such as 'Rocket Man', 'Tiny Dancer' and 'Crocodile Rock'; two-time Oscar winner.", "year": 1947 },
+      { "name": "Sarah Jessica Parker", "description": "American actress, fashion and pop culture icon, celebrated for her role as Carrie Bradshaw in the series 'Sex and the City' (1998–2004).", "year": 1965 }
+    ],
+    "events": [
+      { "title": "Greece proclaims independence from the Ottoman Empire", "description": "Bishop Germanos of Patras blessed the Greek flag at the Agía Lávra monastery in the Peloponnese, formally beginning the war of independence that would lead to the recognition of the Greek state in 1830.", "year": 1821 },
+      { "title": "Triangle Shirtwaist Factory fire", "description": "A devastating fire at the Triangle Shirtwaist Factory in New York killed 146 garment workers, most of them young immigrant women, in a disaster that drove labour legislation and the American union movement.", "year": 1911 },
+      { "title": "UN adopts the Convention on the Rights of the Child", "description": "The UN General Assembly approved the Convention on the Rights of the Child, the most widely ratified international human rights treaty in history.", "year": 1989 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "Anunciação do Senhor", "type": "Solenidade", "description": "Solenidade que comemora a visita do arcanjo Gabriel à Virgem Maria para anunciar-lhe que conceberá e dará à luz o Filho de Deus; celebrada nove meses antes do Natal." },
+      { "name": "São Ireneu de Sírmio", "type": "Mártir", "description": "Bispo de Sirmium (atual Sremska Mitrovica, Sérvia), martirizado durante as perseguições de Diocleciano em 304 por se recusar a sacrificar aos deuses pagãos." },
+      { "name": "São Dimas", "type": "O Bom Ladrão", "description": "Segundo o Evangelho de Lucas, o ladrão crucificado ao lado de Jesus que lhe pediu para ser lembrado em seu reino; a tradição o chama Dimas e o venera como patrono dos ladrões arrependidos e dos condenados à morte." }
+    ],
+    "observances": [
+      { "name": "Dia da Independência da Grécia", "description": "A Grécia celebra o início da sua guerra de independência contra o Império Otomano, proclamada em 25 de março de 1821 no mosteiro de Agía Lávra pelo bispo Germanos de Patras." },
+      { "name": "Dia Internacional de Solidariedade com os Funcionários Detidos e Desaparecidos", "description": "Jornada da ONU para lembrar jornalistas, trabalhadores humanitários e outros profissionais detidos ou desaparecidos no exercício das suas funções." }
+    ],
+    "historicalQuote": {
+      "text": "A liberdade não é um presente do céu; deve ser conquistada todos os dias.",
+      "author": "Simón Bolívar",
+      "context": "O Libertador Simón Bolívar dedicou a vida à emancipação da América do Sul do domínio espanhol. Esta reflexão sobre a liberdade continua sendo um guia para as democracias latino-americanas."
+    },
+    "motivationalQuote": {
+      "text": "A gratidão é a memória do coração.",
+      "author": "Lao-Tsé"
+    },
+    "births": [
+      { "name": "Béla Bartók", "description": "Compositor e pianista húngaro do século XX, pioneiro da etnomusicologia, que recolheu milhares de melodias folclóricas da Europa Oriental e integrou esses elementos em obras originais de grande complexidade.", "year": 1881 },
+      { "name": "Elton John", "description": "Músico, cantor e pianista britânico, um dos artistas mais bem-sucedidos da história do pop, com sucessos como 'Rocket Man', 'Tiny Dancer' e 'Crocodile Rock'; duas vezes vencedor do Oscar.", "year": 1947 },
+      { "name": "Sarah Jessica Parker", "description": "Atriz americana, ícone da moda e da cultura pop, célebre pelo papel de Carrie Bradshaw na série 'Sex and the City' (1998-2004).", "year": 1965 }
+    ],
+    "events": [
+      { "title": "A Grécia proclama a independência do Império Otomano", "description": "O bispo Germanos de Patras abençoou a bandeira grega no mosteiro de Agía Lávra no Peloponeso, iniciando formalmente a guerra de independência que levaria ao reconhecimento do Estado grego em 1830.", "year": 1821 },
+      { "title": "Incêndio na fábrica Triangle Shirtwaist", "description": "Um devastador incêndio na fábrica Triangle Shirtwaist de Nova York matou 146 operárias têxteis, na sua maioria jovens imigrantes, num desastre que impulsionou a legislação laboral e o movimento sindical americano.", "year": 1911 },
+      { "title": "A ONU adota a Convenção sobre os Direitos da Criança", "description": "A Assembleia Geral das Nações Unidas aprovou a Convenção sobre os Direitos da Criança, o tratado internacional de direitos humanos mais ratificado da história.", "year": 1989 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Anunciació del Senyor", "type": "Solemnitat", "description": "Solemnitat que commemora la visita de l'arcàngel Gabriel a la Verge Maria per anunciar-li que concebrà i donarà a llum el Fill de Déu; celebrada nou mesos abans de Nadal." },
+      { "name": "Sant Ireneu de Sírmium", "type": "Màrtir", "description": "Bisbe de Sirmium (actual Sremska Mitrovica, Sèrbia), martiritzat durant les persecucions de Dioclecià l'any 304 per negar-se a sacrificar als déus pagans." },
+      { "name": "Sant Dimes", "type": "El Bon Lladre", "description": "Segons l'Evangeli de Lluc, el lladre crucificat al costat de Jesús que li va demanar que el recordés en el seu regne; la tradició el crida Dimes i el venera com a patró dels lladres penedits i dels condemnats a mort." }
+    ],
+    "observances": [
+      { "name": "Dia de la Independència de Grècia", "description": "Grècia celebra l'inici de la seva guerra d'independència contra l'Imperi Otomà, proclamada el 25 de març de 1821 al monestir d'Agía Lávra pel bisbe Germanos de Patras." },
+      { "name": "Dia Internacional de Solidaritat amb el Personal Detingut i Desaparegut", "description": "Jornada de l'ONU per recordar periodistes, treballadors humanitaris i altres professionals detinguts o desapareguts en l'exercici de les seves funcions." }
+    ],
+    "historicalQuote": {
+      "text": "La llibertat no és un regal del cel; s'ha de conquerir cada dia.",
+      "author": "Simón Bolívar",
+      "context": "El Libertador Simón Bolívar va dedicar la vida a l'emancipació de l'Amèrica del Sud del domini espanyol. Aquesta reflexió sobre la llibertat continua sent una guia per a les democràcies llatinoamericanes."
+    },
+    "motivationalQuote": {
+      "text": "La gratitud és la memòria del cor.",
+      "author": "Lao-Tsé"
+    },
+    "births": [
+      { "name": "Béla Bartók", "description": "Compositor i pianista hongarès del segle XX, pioner de l'etnomusicologia, que va recopilar milers de melodies populars d'Europa de l'Est i va integrar aquests elements en obres originals de gran complexitat.", "year": 1881 },
+      { "name": "Elton John", "description": "Músic, cantant i pianista britànic, un dels artistes amb més èxit de la història del pop, amb èxits com 'Rocket Man', 'Tiny Dancer' i 'Crocodile Rock'; dues vegades guanyador de l'Oscar.", "year": 1947 },
+      { "name": "Sarah Jessica Parker", "description": "Actriu americana, icona de la moda i la cultura pop, cèlebre pel paper de Carrie Bradshaw a la sèrie 'Sexe a Nova York' (1998-2004).", "year": 1965 }
+    ],
+    "events": [
+      { "title": "Grècia proclama la independència de l'Imperi Otomà", "description": "El bisbe Germanos de Patras va beneir la bandera grega al monestir d'Agía Lávra al Peloponès, iniciant formalment la guerra d'independència que portaria al reconeixement de l'Estat grec el 1830.", "year": 1821 },
+      { "title": "Incendi a la fàbrica Triangle Shirtwaist", "description": "Un devastador incendi a la fàbrica Triangle Shirtwaist de Nova York va matar 146 treballadores tèxtils, la majoria joves immigrants, en un desastre que va impulsar la legislació laboral i el moviment sindical americà.", "year": 1911 },
+      { "title": "L'ONU adopta la Convenció sobre els Drets de l'Infant", "description": "L'Assemblea General de les Nacions Unides va aprovar la Convenció sobre els Drets de l'Infant, el tractat internacional de drets humans més ratificat de la història.", "year": 1989 }
+    ]
+  }
+}

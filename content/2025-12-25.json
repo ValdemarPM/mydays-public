@@ -1,0 +1,255 @@
+{
+  "date": "2025-12-25",
+  "es": {
+    "saints": [
+      {
+        "name": "Natividad de Nuestro Señor Jesucristo",
+        "type": "Solemnidad",
+        "description": "La gran fiesta del Nacimiento de Jesucristo, celebrada el 25 de diciembre por la mayoría de las iglesias cristianas. Una de las cuatro mayores solemnidades del calendario litúrgico católico."
+      },
+      {
+        "name": "Santa Anastasia de Sirmio",
+        "type": "Mártir",
+        "description": "Mártir del siglo IV, venerada especialmente en Roma donde existe una misa propia en su honor. Fue quemada viva en Sirmio (actual Serbia) durante la persecución de Diocleciano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Navidad",
+        "description": "Fiesta cristiana que celebra el nacimiento de Jesucristo, celebrada el 25 de diciembre en la mayoría de los países del mundo. Es la festividad más extendida en el planeta, con tradiciones que mezclan lo religioso y lo popular: árboles de Navidad, regalos, comidas en familia y villancicos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El amor vino a la tierra, y el amor es la estrella que guía a quienes lo buscan.",
+      "author": "San Agustín de Hipona",
+      "context": "Padre y Doctor de la Iglesia del siglo IV-V, cuya teología del amor marcó el pensamiento cristiano occidental. Esta reflexión sobre la Navidad como fiesta del amor es especialmente pertinente hoy."
+    },
+    "motivationalQuote": {
+      "text": "La Navidad es el tiempo de dar: dar alegría, dar amor y dar esperanza.",
+      "author": "Anónimo"
+    },
+    "births": [
+      {
+        "name": "Isaac Newton",
+        "description": "Físico, matemático y astrónomo inglés, uno de los mayores científicos de la historia: formuló las leyes del movimiento y de la gravitación universal, y desarrolló el cálculo diferencial e integral.",
+        "year": 1643
+      },
+      {
+        "name": "Clara Barton",
+        "description": "Enfermera y humanitaria estadounidense, fundadora de la Cruz Roja Americana en 1881 y pionera en la atención a los heridos de guerra durante la Guerra Civil.",
+        "year": 1821
+      },
+      {
+        "name": "Humphrey Bogart",
+        "description": "Actor estadounidense, icono del cine negro de Hollywood, conocido por sus papeles en Casablanca, El halcón maltés y El tesoro de la Sierra Madre.",
+        "year": 1899
+      }
+    ],
+    "events": [
+      {
+        "title": "Coronación de Guillermo el Conquistador",
+        "description": "Guillermo el Conquistador fue coronado rey de Inglaterra en la Abadía de Westminster, consolidando la conquista normanda de 1066 y transformando para siempre la cultura, el idioma y las instituciones inglesas.",
+        "year": 1066
+      },
+      {
+        "title": "Disolución de la Unión Soviética",
+        "description": "El presidente soviético Mijaíl Gorbachov anunció su dimisión y la disolución formal de la Unión Soviética, poniendo fin a la Guerra Fría y al bloque comunista.",
+        "year": 1991
+      },
+      {
+        "title": "Nacimiento de Jesucristo (fecha conmemorada)",
+        "description": "Fecha en que la tradición cristiana conmemora el nacimiento de Jesús de Nazaret en Belén de Judá, aunque los historiadores sitúan el nacimiento histórico entre el 7 y el 2 a.C.",
+        "year": 1
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Nativity of Our Lord Jesus Christ",
+        "type": "Solemnity",
+        "description": "The great feast of the Birth of Jesus Christ, celebrated on 25 December by most Christian churches. One of the four greatest solemnities of the Catholic liturgical calendar."
+      },
+      {
+        "name": "Saint Anastasia of Sirmium",
+        "type": "Martyr",
+        "description": "Martyr of the 4th century, venerated especially in Rome where a separate Mass exists in her honour. She was burned alive in Sirmium (modern Serbia) during the Diocletian persecution."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Christmas Day",
+        "description": "Christian feast celebrating the birth of Jesus Christ, observed on 25 December in most countries worldwide. It is the most widely celebrated holiday on the planet, combining religious and popular traditions: Christmas trees, gifts, family meals, and carols."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Love came to earth, and love is the star that guides those who seek it.",
+      "author": "Saint Augustine of Hippo",
+      "context": "Father and Doctor of the Church of the 4th–5th century, whose theology of love shaped Western Christian thought. This reflection on Christmas as the feast of love is especially fitting today."
+    },
+    "motivationalQuote": {
+      "text": "Christmas is the season of giving: giving joy, giving love, and giving hope.",
+      "author": "Anonymous"
+    },
+    "births": [
+      {
+        "name": "Isaac Newton",
+        "description": "English physicist, mathematician, and astronomer, one of the greatest scientists in history: he formulated the laws of motion and universal gravitation, and developed differential and integral calculus.",
+        "year": 1643
+      },
+      {
+        "name": "Clara Barton",
+        "description": "American nurse and humanitarian, founder of the American Red Cross in 1881 and pioneer in caring for the war-wounded during the Civil War.",
+        "year": 1821
+      },
+      {
+        "name": "Humphrey Bogart",
+        "description": "American actor and Hollywood film noir icon, known for his roles in Casablanca, The Maltese Falcon, and The Treasure of the Sierra Madre.",
+        "year": 1899
+      }
+    ],
+    "events": [
+      {
+        "title": "Coronation of William the Conqueror",
+        "description": "William the Conqueror was crowned King of England at Westminster Abbey, consolidating the Norman Conquest of 1066 and permanently transforming English culture, language, and institutions.",
+        "year": 1066
+      },
+      {
+        "title": "Dissolution of the Soviet Union",
+        "description": "Soviet President Mikhail Gorbachev announced his resignation and the formal dissolution of the Soviet Union, ending the Cold War and the communist bloc.",
+        "year": 1991
+      },
+      {
+        "title": "Birth of Jesus Christ (date commemorated)",
+        "description": "The date on which Christian tradition commemorates the birth of Jesus of Nazareth in Bethlehem, Judaea, although historians place the historical birth between 7 and 2 BC.",
+        "year": 1
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Natividade de Nosso Senhor Jesus Cristo",
+        "type": "Solenidade",
+        "description": "A grande festa do Nascimento de Jesus Cristo, celebrada no dia 25 de dezembro pela maioria das igrejas cristãs. Uma das quatro maiores solenidades do calendário litúrgico católico."
+      },
+      {
+        "name": "Santa Anastácia de Sirmio",
+        "type": "Mártir",
+        "description": "Mártir do século IV, venerada especialmente em Roma onde existe uma missa própria em sua honra. Foi queimada viva em Sirmio (atual Sérvia) durante a perseguição de Diocleciano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Natal",
+        "description": "Festa cristã que celebra o nascimento de Jesus Cristo, comemorada no dia 25 de dezembro na maioria dos países do mundo. É a festividade mais difundida no planeta, com tradições que misturam o religioso e o popular: árvores de Natal, presentes, refeições em família e canções natalícias."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O amor veio à terra, e o amor é a estrela que guia quem o procura.",
+      "author": "Santo Agostinho de Hipona",
+      "context": "Padre e Doutor da Igreja do século IV-V, cuja teologia do amor marcou o pensamento cristão ocidental. Esta reflexão sobre o Natal como festa do amor é especialmente pertinente hoje."
+    },
+    "motivationalQuote": {
+      "text": "O Natal é a época de dar: dar alegria, dar amor e dar esperança.",
+      "author": "Anônimo"
+    },
+    "births": [
+      {
+        "name": "Isaac Newton",
+        "description": "Físico, matemático e astrônomo inglês, um dos maiores cientistas da história: formulou as leis do movimento e da gravitação universal, e desenvolveu o cálculo diferencial e integral.",
+        "year": 1643
+      },
+      {
+        "name": "Clara Barton",
+        "description": "Enfermeira e humanitária americana, fundadora da Cruz Vermelha Americana em 1881 e pioneira no atendimento aos feridos de guerra durante a Guerra Civil.",
+        "year": 1821
+      },
+      {
+        "name": "Humphrey Bogart",
+        "description": "Ator americano, ícone do cinema negro de Hollywood, conhecido pelos seus papéis em Casablanca, O Falcão Maltês e O Tesouro da Serra Madre.",
+        "year": 1899
+      }
+    ],
+    "events": [
+      {
+        "title": "Coroação de Guilherme o Conquistador",
+        "description": "Guilherme o Conquistador foi coroado rei de Inglaterra na Abadia de Westminster, consolidando a conquista normanda de 1066 e transformando para sempre a cultura, a língua e as instituições inglesas.",
+        "year": 1066
+      },
+      {
+        "title": "Dissolução da União Soviética",
+        "description": "O presidente soviético Mikhail Gorbachev anunciou a sua demissão e a dissolução formal da União Soviética, pondo fim à Guerra Fria e ao bloco comunista.",
+        "year": 1991
+      },
+      {
+        "title": "Nascimento de Jesus Cristo (data comemorada)",
+        "description": "Data em que a tradição cristã comemora o nascimento de Jesus de Nazaré em Belém da Judeia, embora os historiadores situem o nascimento histórico entre 7 e 2 a.C.",
+        "year": 1
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Nativitat del Nostre Senyor Jesucrist",
+        "type": "Solemnitat",
+        "description": "La gran festa del Naixement de Jesucrist, celebrada el 25 de desembre per la majoria de les esglésies cristianes. Una de les quatre grans solemnitats del calendari litúrgic catòlic."
+      },
+      {
+        "name": "Santa Anastàsia de Sirmio",
+        "type": "Màrtir",
+        "description": "Màrtir del segle IV, venerada especialment a Roma on existeix una missa pròpia en el seu honor. Va ser cremada viva a Sirmio (actual Sèrbia) durant la persecució de Dioclecià."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Nadal",
+        "description": "Festa cristiana que celebra el naixement de Jesucrist, celebrada el 25 de desembre a la majoria dels països del món. És la festivitat més estesa al planeta, amb tradicions que barregen el religiós i el popular: arbres de Nadal, regals, dinars en família i cançons de Nadal."
+      }
+    ],
+    "historicalQuote": {
+      "text": "L'amor va venir a la terra, i l'amor és l'estrella que guia els qui el busquen.",
+      "author": "Sant Agustí d'Hipona",
+      "context": "Pare i Doctor de l'Església del segle IV-V, la teologia de l'amor del qual va marcar el pensament cristià occidental. Aquesta reflexió sobre el Nadal com a festa de l'amor és especialment pertinent avui."
+    },
+    "motivationalQuote": {
+      "text": "El Nadal és el temps de donar: donar alegria, donar amor i donar esperança.",
+      "author": "Anònim"
+    },
+    "births": [
+      {
+        "name": "Isaac Newton",
+        "description": "Físic, matemàtic i astrònom anglès, un dels majors científics de la història: va formular les lleis del moviment i de la gravitació universal, i va desenvolupar el càlcul diferencial i integral.",
+        "year": 1643
+      },
+      {
+        "name": "Clara Barton",
+        "description": "Infermera i humanitària nord-americana, fundadora de la Creu Roja Americana el 1881 i pionera en l'atenció als ferits de guerra durant la Guerra Civil.",
+        "year": 1821
+      },
+      {
+        "name": "Humphrey Bogart",
+        "description": "Actor nord-americà, icona del cinema negre de Hollywood, conegut pels seus papers a Casablanca, El falcó maltès i El tresor de la Sierra Madre.",
+        "year": 1899
+      }
+    ],
+    "events": [
+      {
+        "title": "Coronació de Guillem el Conqueridor",
+        "description": "Guillem el Conqueridor va ser coronat rei d'Anglaterra a l'Abadia de Westminster, consolidant la conquesta normanda de 1066 i transformant per sempre la cultura, la llengua i les institucions angleses.",
+        "year": 1066
+      },
+      {
+        "title": "Dissolució de la Unió Soviètica",
+        "description": "El president soviètic Mikhail Gorbachev va anunciar la seva dimissió i la dissolució formal de la Unió Soviètica, posant fi a la Guerra Freda i al bloc comunista.",
+        "year": 1991
+      },
+      {
+        "title": "Naixement de Jesucrist (data commemorada)",
+        "description": "Data en que la tradició cristiana commemora el naixement de Jesús de Natzaret a Betlem de Judea, tot i que els historiadors situen el naixement històric entre el 7 i el 2 aC.",
+        "year": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-30",
+  "es": {
+    "saints": [
+      {
+        "name": "San Andrés Apóstol",
+        "type": "Apóstol y Mártir",
+        "description": "Hermano de Simón Pedro y uno de los primeros discípulos llamados por Jesús a orillas del mar de Galilea. Fue crucificado en Patrás (Grecia) hacia el año 60 d.C. en una cruz en forma de X (crux decussata), conocida como 'cruz de San Andrés'. Patrón de Escocia, Rusia, Grecia, Ucrania y Rumanía."
+      },
+      {
+        "name": "San Cástulo",
+        "type": "Mártir",
+        "description": "Funcionario de la corte imperial romana del siglo III que se convirtió al cristianismo y fue martirizado durante la persecución de Diocleciano. Según la tradición, escondía a los cristianos en el palacio imperial."
+      },
+      {
+        "name": "Santa Maura de Troyes",
+        "type": "Virgen",
+        "description": "Joven cristiana del siglo IX en la región francesa de Champagne, conocida por su virtud y piedad. Patrona de Troyes."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de San Andrés (Escocia)",
+        "description": "Fiesta nacional de Escocia en honor a su patrón San Andrés, celebrada con kilts, gaitas, cenas de haggis y la bandera escocesa (la Saltire o Cruz de San Andrés), uno de los símbolos nacionales más antiguos de Europa."
+      },
+      {
+        "name": "Día Mundial del Sida",
+        "description": "Conmemorado el 1 de diciembre (víspera celebrada el 30 de noviembre en muchas comunidades), el Día Mundial del Sida fue establecido en 1988 para sensibilizar sobre el VIH/sida y honrar a quienes han fallecido a causa de la enfermedad."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El primer paso hacia la sabiduría es llamar a las cosas por su nombre correcto.",
+      "author": "Confucio",
+      "context": "El filósofo chino, cuyas enseñanzas fundaron el confucianismo, hizo de la rectificación de los nombres un principio filosófico fundamental: solo nombrando correctamente la realidad podemos actuar sobre ella con justicia."
+    },
+    "motivationalQuote": {
+      "text": "El fin de noviembre trae consigo el comienzo de diciembre y, con él, la promesa del año que llega.",
+      "author": "Proverbio popular"
+    },
+    "births": [
+      {
+        "name": "Mark Twain",
+        "description": "Escritor y humorista estadounidense, autor de Las aventuras de Tom Sawyer (1876) y Las aventuras de Huckleberry Finn (1884), considerado el padre de la literatura americana moderna. Su obra mezcló humor, crítica social y aventura de forma inimitable.",
+        "year": 1835
+      },
+      {
+        "name": "Winston Churchill",
+        "description": "Estadista, militar y escritor británico, primer ministro del Reino Unido durante la Segunda Guerra Mundial (1940–1945 y 1951–1955). Premio Nobel de Literatura en 1953 por sus memorias históricas. Su liderazgo fue decisivo en la victoria aliada contra el nazismo.",
+        "year": 1874
+      },
+      {
+        "name": "Ridley Scott",
+        "description": "Director de cine británico, uno de los más influyentes de las últimas décadas, autor de obras maestras como Blade Runner (1982), Gladiator (2000) y El marciano (2015).",
+        "year": 1937
+      }
+    ],
+    "events": [
+      {
+        "title": "Se firma el Tratado de París entre EE.UU. y Gran Bretaña",
+        "description": "Se firmaron los artículos preliminares del Tratado de París, poniendo fin oficialmente a la Guerra de Independencia americana y reconociendo la soberanía de los Estados Unidos. El tratado definitivo se firmaría el 3 de septiembre de 1783.",
+        "year": 1782
+      },
+      {
+        "title": "Irlanda del Norte vota en el primer referéndum sobre la frontera",
+        "description": "Irlanda del Norte celebró un referéndum sobre la reunificación con Irlanda, en el que el 57,5% optó por permanecer en el Reino Unido, en el primer referéndum fronterizo desde la partición de 1921.",
+        "year": 1973
+      },
+      {
+        "title": "La ONU adopta la Resolución 242 sobre Oriente Medio",
+        "description": "El Consejo de Seguridad de la ONU adoptó la Resolución 242 tras la Guerra de los Seis Días de 1967, pidiendo la retirada de Israel de los territorios ocupados y el reconocimiento de todos los estados de la región.",
+        "year": 1967
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Andrew the Apostle",
+        "type": "Apostle and Martyr",
+        "description": "Brother of Simon Peter and one of the first disciples called by Jesus on the shores of the Sea of Galilee. He was crucified in Patras, Greece, around AD 60 on an X-shaped cross (crux decussata), known as the 'Cross of Saint Andrew'. Patron saint of Scotland, Russia, Greece, Ukraine, and Romania."
+      },
+      {
+        "name": "Saint Castulus",
+        "type": "Martyr",
+        "description": "3rd-century official of the imperial Roman court who converted to Christianity and was martyred during the Diocletianic Persecution. According to tradition, he sheltered Christians inside the imperial palace."
+      },
+      {
+        "name": "Saint Maura of Troyes",
+        "type": "Virgin",
+        "description": "9th-century young Christian in the French region of Champagne, known for her virtue and piety. Patron saint of Troyes."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Saint Andrew's Day (Scotland)",
+        "description": "Scotland's national day in honour of its patron saint Andrew, celebrated with kilts, bagpipes, haggis dinners, and the Scottish flag (the Saltire or Cross of Saint Andrew), one of the oldest national symbols in Europe."
+      },
+      {
+        "name": "World AIDS Day (Eve)",
+        "description": "Observed on 1 December (with many communities marking the eve on 30 November), World AIDS Day was established in 1988 to raise awareness of HIV/AIDS and to honour those who have died from the disease."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The beginning of wisdom is to call things by their proper name.",
+      "author": "Confucius",
+      "context": "The Chinese philosopher, whose teachings founded Confucianism, made the 'rectification of names' a core philosophical principle: only by naming reality correctly can we act upon it with justice."
+    },
+    "motivationalQuote": {
+      "text": "The end of November brings the beginning of December and, with it, the promise of the year to come.",
+      "author": "Popular saying"
+    },
+    "births": [
+      {
+        "name": "Mark Twain",
+        "description": "American author and humorist, creator of The Adventures of Tom Sawyer (1876) and Adventures of Huckleberry Finn (1884), considered the father of modern American literature. His work blended humour, social criticism, and adventure in an inimitable way.",
+        "year": 1835
+      },
+      {
+        "name": "Winston Churchill",
+        "description": "British statesman, military officer, and writer, Prime Minister of the United Kingdom during the Second World War (1940–1945 and 1951–1955). Nobel Prize in Literature in 1953 for his historical memoirs. His leadership was decisive in the Allied victory over Nazism.",
+        "year": 1874
+      },
+      {
+        "name": "Ridley Scott",
+        "description": "British film director, one of the most influential of recent decades, known for masterworks such as Blade Runner (1982), Gladiator (2000), and The Martian (2015).",
+        "year": 1937
+      }
+    ],
+    "events": [
+      {
+        "title": "Preliminary Treaty of Paris signed between the USA and Britain",
+        "description": "The preliminary articles of the Treaty of Paris were signed, officially ending the American War of Independence and recognising the sovereignty of the United States. The definitive treaty would be signed on 3 September 1783.",
+        "year": 1782
+      },
+      {
+        "title": "Northern Ireland holds first border poll",
+        "description": "Northern Ireland held a referendum on reunification with Ireland, in which 57.5% voted to remain in the United Kingdom — the first border poll since the partition of 1921.",
+        "year": 1973
+      },
+      {
+        "title": "UN adopts Resolution 242 on the Middle East",
+        "description": "The UN Security Council adopted Resolution 242 following the 1967 Six-Day War, calling for Israel's withdrawal from occupied territories and recognition of all states in the region.",
+        "year": 1967
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo André Apóstolo",
+        "type": "Apóstolo e Mártir",
+        "description": "Irmão de Simão Pedro e um dos primeiros discípulos chamados por Jesus às margens do Mar da Galileia. Foi crucificado em Patras, Grécia, por volta do ano 60 d.C. numa cruz em forma de X (crux decussata), conhecida como 'Cruz de Santo André'. Padroeiro da Escócia, Rússia, Grécia, Ucrânia e Roménia."
+      },
+      {
+        "name": "São Castulo",
+        "type": "Mártir",
+        "description": "Funcionário da corte imperial romana do século III que se converteu ao cristianismo e foi martirizado durante a perseguição de Diocleciano. Segundo a tradição, escondia cristãos dentro do palácio imperial."
+      },
+      {
+        "name": "Santa Maura de Troyes",
+        "type": "Virgem",
+        "description": "Jovem cristã do século IX na região francesa de Champagne, conhecida pela sua virtude e piedade. Padroeira de Troyes."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Santo André (Escócia)",
+        "description": "Festa nacional da Escócia em honra ao seu padroeiro Santo André, celebrada com kilts, gaitas de foles, jantares de haggis e a bandeira escocesa (o Saltire ou Cruz de Santo André), um dos símbolos nacionais mais antigos da Europa."
+      },
+      {
+        "name": "Dia Mundial da Sida (Véspera)",
+        "description": "Observado a 1 de dezembro (com muitas comunidades a marcar a véspera a 30 de novembro), o Dia Mundial da Sida foi estabelecido em 1988 para sensibilizar sobre o VIH/sida e homenagear aqueles que morreram devido à doença."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O começo da sabedoria é chamar as coisas pelo seu nome correto.",
+      "author": "Confúcio",
+      "context": "O filósofo chinês, cujos ensinamentos fundaram o confucionismo, fez da 'retificação dos nomes' um princípio filosófico central: só nomeando corretamente a realidade podemos agir sobre ela com justiça."
+    },
+    "motivationalQuote": {
+      "text": "O fim de novembro traz o começo de dezembro e, com ele, a promessa do ano que chega.",
+      "author": "Provérbio popular"
+    },
+    "births": [
+      {
+        "name": "Mark Twain",
+        "description": "Escritor e humorista americano, autor de As Aventuras de Tom Sawyer (1876) e As Aventuras de Huckleberry Finn (1884), considerado o pai da literatura americana moderna. A sua obra combinou humor, crítica social e aventura de forma inimitável.",
+        "year": 1835
+      },
+      {
+        "name": "Winston Churchill",
+        "description": "Estadista, militar e escritor britânico, primeiro-ministro do Reino Unido durante a Segunda Guerra Mundial (1940–1945 e 1951–1955). Prémio Nobel de Literatura em 1953 pelas suas memórias históricas. A sua liderança foi decisiva na vitória aliada contra o nazismo.",
+        "year": 1874
+      },
+      {
+        "name": "Ridley Scott",
+        "description": "Realizador britânico, um dos mais influentes das últimas décadas, conhecido por obras-primas como Blade Runner (1982), Gladiador (2000) e O Marciano (2015).",
+        "year": 1937
+      }
+    ],
+    "events": [
+      {
+        "title": "Tratado de Paris preliminar assinado entre os EUA e a Grã-Bretanha",
+        "description": "Foram assinados os artigos preliminares do Tratado de Paris, encerrando oficialmente a Guerra da Independência Americana e reconhecendo a soberania dos Estados Unidos. O tratado definitivo seria assinado a 3 de setembro de 1783.",
+        "year": 1782
+      },
+      {
+        "title": "Irlanda do Norte realiza o primeiro referendo fronteiriço",
+        "description": "A Irlanda do Norte realizou um referendo sobre a reunificação com a Irlanda, em que 57,5% votou permanecer no Reino Unido — o primeiro referendo fronteiriço desde a partição de 1921.",
+        "year": 1973
+      },
+      {
+        "title": "A ONU adota a Resolução 242 sobre o Médio Oriente",
+        "description": "O Conselho de Segurança da ONU adotou a Resolução 242 após a Guerra dos Seis Dias de 1967, pedindo a retirada de Israel dos territórios ocupados e o reconhecimento de todos os estados da região.",
+        "year": 1967
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Andreu Apòstol",
+        "type": "Apòstol i Màrtir",
+        "description": "Germà de Simó Pere i un dels primers deixebles cridats per Jesús a les vores del Mar de Galilea. Va ser crucificat a Patras, Grècia, cap a l'any 60 dC en una creu en forma de X (crux decussata), coneguda com la 'Creu de Sant Andreu'. Patró d'Escòcia, Rússia, Grècia, Ucraïna i Romania."
+      },
+      {
+        "name": "Sant Càstul",
+        "type": "Màrtir",
+        "description": "Funcionari de la cort imperial romana del segle III que es va convertir al cristianisme i va ser martiritzat durant la persecució de Dioclecià. Segons la tradició, amagava cristians dins el palau imperial."
+      },
+      {
+        "name": "Santa Maura de Troyes",
+        "type": "Verge",
+        "description": "Jove cristiana del segle IX a la regió francesa de Xampanya, coneguda per la seva virtut i pietat. Patrona de Troyes."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Sant Andreu (Escòcia)",
+        "description": "Festa nacional d'Escòcia en honor al seu patró Sant Andreu, celebrada amb kilts, gaites, sopars de haggis i la bandera escocesa (el Saltire o Creu de Sant Andreu), un dels símbols nacionals més antics d'Europa."
+      },
+      {
+        "name": "Dia Mundial de la Sida (Vigília)",
+        "description": "Observat l'1 de desembre (amb moltes comunitats que marquen la vigília el 30 de novembre), el Dia Mundial de la Sida va ser establert el 1988 per conscienciar sobre el VIH/sida i homenatjar les persones que han mort a causa de la malaltia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El principi de la saviesa és anomenar les coses pel seu nom correcte.",
+      "author": "Confuci",
+      "context": "El filòsof xinès, els ensenyaments del qual van fundar el confucianisme, va fer de la 'rectificació dels noms' un principi filosòfic central: només anomenant correctament la realitat podem actuar sobre ella amb justícia."
+    },
+    "motivationalQuote": {
+      "text": "La fi de novembre porta el principi de desembre i, amb ell, la promesa de l'any que arriba.",
+      "author": "Proverbi popular"
+    },
+    "births": [
+      {
+        "name": "Mark Twain",
+        "description": "Escriptor i humorista americà, autor de Les aventures de Tom Sawyer (1876) i Les aventures de Huckleberry Finn (1884), considerat el pare de la literatura americana moderna. La seva obra combinà humor, crítica social i aventura de manera inimitable.",
+        "year": 1835
+      },
+      {
+        "name": "Winston Churchill",
+        "description": "Estadista, militar i escriptor britànic, primer ministre del Regne Unit durant la Segona Guerra Mundial (1940–1945 i 1951–1955). Premi Nobel de Literatura el 1953 per les seves memòries històriques. El seu lideratge va ser decisiu en la victòria aliada contra el nazisme.",
+        "year": 1874
+      },
+      {
+        "name": "Ridley Scott",
+        "description": "Director de cinema britànic, un dels més influents de les darreres dècades, conegut per obres mestres com Blade Runner (1982), Gladiador (2000) i El marcià (2015).",
+        "year": 1937
+      }
+    ],
+    "events": [
+      {
+        "title": "Tractat de París preliminar signat entre els EUA i Gran Bretanya",
+        "description": "Es van signar els articles preliminars del Tractat de París, posant fi oficialment a la Guerra d'Independència Americana i reconeixent la sobirania dels Estats Units. El tractat definitiu es signaria el 3 de setembre de 1783.",
+        "year": 1782
+      },
+      {
+        "title": "Irlanda del Nord celebra el primer referèndum fronterer",
+        "description": "Irlanda del Nord va celebrar un referèndum sobre la reunificació amb Irlanda, en el qual el 57,5% va votar romandre al Regne Unit — el primer referèndum fronterer des de la partició de 1921.",
+        "year": 1973
+      },
+      {
+        "title": "L'ONU adopta la Resolució 242 sobre el Pròxim Orient",
+        "description": "El Consell de Seguretat de l'ONU va adoptar la Resolució 242 arran de la Guerra dels Sis Dies de 1967, demanant la retirada d'Israel dels territoris ocupats i el reconeixement de tots els estats de la regió.",
+        "year": 1967
+      }
+    ]
+  }
+}

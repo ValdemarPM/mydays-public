@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-13",
+  "es": {
+    "saints": [
+      {
+        "name": "San Nicolás I",
+        "type": "Papa",
+        "description": "Papa del siglo IX (858–867), conocido como Nicolás el Grande por su firmeza doctrinal. Defendió la supremacía papal frente a los emperadores carolingios y el patriarca de Constantinopla, y apoyó la misión de los santos Cirilo y Metodio en Moravia."
+      },
+      {
+        "name": "San Diego de Alcalá",
+        "type": "Fraile",
+        "description": "Fraile franciscano lego español del siglo XV, nacido en Sevilla. Misionó en las Islas Canarias y trabajó en Roma durante el Jubileo de 1450. Fue el primer Santo de la Orden Franciscana canonizado tras el Concilio de Trento (1588)."
+      },
+      {
+        "name": "Santa Homobonus de Cremona",
+        "type": "Laico",
+        "description": "Comerciante de Cremona del siglo XII, patrono de los comerciantes y los sastres. Murió en 1197 durante la misa, conocido por su extraordinaria generosidad con los pobres. Canonizado dos años después de su muerte."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Bondad",
+        "description": "Jornada promovida por el World Kindness Movement desde 1998 para fomentar actos de bondad desinteresada entre personas de todas las culturas y naciones."
+      },
+      {
+        "name": "Día Nacional de la Panceta (Estados Unidos)",
+        "description": "Celebración gastronómica informal en Estados Unidos que rinde homenaje a la panceta, ingrediente omnipresente en la cultura culinaria americana."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Un pequeño acto de bondad vale más que grandes intenciones.",
+      "author": "Mary Baker Eddy",
+      "context": "La fundadora de la Ciencia Cristiana, que nació el 16 de julio de 1821, dedicó su vida a la sanación espiritual y a promover el amor compasivo como fuerza transformadora."
+    },
+    "motivationalQuote": {
+      "text": "No hay ejercicio mejor para el corazón que estirarse para levantar a la gente.",
+      "author": "John Holmes"
+    },
+    "births": [
+      {
+        "name": "Robert Louis Stevenson",
+        "description": "Escritor escocés autor de La isla del tesoro, El extraño caso del Dr. Jekyll y Mr. Hyde y Kidnapped, obras fundamentales de la literatura de aventuras y el gótico victoriano.",
+        "year": 1850
+      },
+      {
+        "name": "Whoopi Goldberg",
+        "description": "Actriz y presentadora estadounidense, una de las pocas personas en ganar los cuatro premios EGOT (Emmy, Grammy, Oscar y Tony). Conocida por Ghost, El color púrpura y Sister Act.",
+        "year": 1955
+      },
+      {
+        "name": "Gerard Butler",
+        "description": "Actor escocés conocido por interpretar al rey Leónidas en 300, así como por sus papeles en la saga de suspense con Gerard Butler y películas de acción de Hollywood.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "Atentados de París de 2015",
+        "description": "Coordinados ataques terroristas del Estado Islámico sacudieron París: la sala Bataclan, terrazas de bares y el estadio de Francia fueron atacados simultáneamente, causando 130 muertos y 415 heridos.",
+        "year": 2015
+      },
+      {
+        "title": "Se inaugura el Lincoln Memorial",
+        "description": "El Memorial Lincoln en Washington D.C. fue dedicado oficialmente, convirtiéndose en uno de los monumentos más icónicos de Estados Unidos y escenario de discursos históricos.",
+        "year": 1922
+      },
+      {
+        "title": "Primera lección de Braille",
+        "description": "Louis Braille impartió su primera lección oficial del sistema de escritura táctil para ciegos que lleva su nombre en el Institut National des Jeunes Aveugles de París.",
+        "year": 1828
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Nicholas I",
+        "type": "Pope",
+        "description": "9th-century pope (858–867), known as Nicholas the Great for his doctrinal firmness. He defended papal supremacy against Carolingian emperors and the Patriarch of Constantinople, and supported the mission of Saints Cyril and Methodius in Moravia."
+      },
+      {
+        "name": "Saint Didacus of Alcalá",
+        "type": "Friar",
+        "description": "15th-century Spanish Franciscan lay brother, born in Seville. He served as a missionary in the Canary Islands and worked in Rome during the 1450 Jubilee. He was the first Franciscan saint canonised after the Council of Trent (1588)."
+      },
+      {
+        "name": "Saint Homobonus of Cremona",
+        "type": "Layman",
+        "description": "12th-century merchant of Cremona, patron of merchants and tailors. He died in 1197 during Mass, known for his extraordinary generosity towards the poor. Canonised just two years after his death."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Kindness Day",
+        "description": "A day promoted by the World Kindness Movement since 1998 to encourage selfless acts of kindness among people of all cultures and nations."
+      },
+      {
+        "name": "National Bacon Day (United States)",
+        "description": "An informal gastronomic celebration in the United States paying homage to bacon, the ubiquitous ingredient in American culinary culture."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A small act of kindness is worth more than great intentions.",
+      "author": "Mary Baker Eddy",
+      "context": "The founder of Christian Science dedicated her life to spiritual healing and promoting compassionate love as a transformative force."
+    },
+    "motivationalQuote": {
+      "text": "There is no exercise better for the heart than reaching down and lifting people up.",
+      "author": "John Holmes"
+    },
+    "births": [
+      {
+        "name": "Robert Louis Stevenson",
+        "description": "Scottish author of Treasure Island, The Strange Case of Dr Jekyll and Mr Hyde, and Kidnapped — essential works of adventure literature and Victorian Gothic.",
+        "year": 1850
+      },
+      {
+        "name": "Whoopi Goldberg",
+        "description": "American actress and presenter, one of the rare EGOT winners (Emmy, Grammy, Oscar, and Tony). Known for Ghost, The Color Purple, and Sister Act.",
+        "year": 1955
+      },
+      {
+        "name": "Gerard Butler",
+        "description": "Scottish actor known for playing King Leonidas in 300, as well as his roles in action-thriller franchises and Hollywood blockbusters.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "2015 Paris attacks",
+        "description": "Coordinated Islamic State terrorist attacks struck Paris: the Bataclan concert hall, café terraces, and the Stade de France were attacked simultaneously, killing 130 and wounding 415.",
+        "year": 2015
+      },
+      {
+        "title": "Lincoln Memorial dedicated",
+        "description": "The Lincoln Memorial in Washington D.C. was officially dedicated, becoming one of the most iconic monuments in the United States and the stage for historic speeches.",
+        "year": 1922
+      },
+      {
+        "title": "First Braille lesson",
+        "description": "Louis Braille gave his first official lesson in the tactile writing system for the blind that bears his name at the Institut National des Jeunes Aveugles in Paris.",
+        "year": 1828
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Nicolau I",
+        "type": "Papa",
+        "description": "Papa do século IX (858–867), conhecido como Nicolau, o Grande, pela sua firmeza doutrinária. Defendeu a supremacia papal frente aos imperadores carolíngios e ao Patriarca de Constantinopla, e apoiou a missão dos santos Cirilo e Metódio na Morávia."
+      },
+      {
+        "name": "São Diogo de Alcalá",
+        "type": "Frade",
+        "description": "Irmão franciscano leigo espanhol do século XV, nascido em Sevilha. Foi missionário nas Ilhas Canárias e trabalhou em Roma durante o Jubileu de 1450. Foi o primeiro santo franciscano canonizado após o Concílio de Trento (1588)."
+      },
+      {
+        "name": "São Homobono de Cremona",
+        "type": "Leigo",
+        "description": "Comerciante de Cremona do século XII, padroeiro dos comerciantes e alfaiates. Morreu em 1197 durante a missa, conhecido pela sua extraordinária generosidade com os pobres. Canonizado dois anos após a morte."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Bondade",
+        "description": "Jornada promovida pelo Movimento Mundial da Bondade desde 1998 para fomentar atos de bondade desinteressada entre pessoas de todas as culturas e nações."
+      },
+      {
+        "name": "Dia Nacional do Bacon (Estados Unidos)",
+        "description": "Uma celebração gastronômica informal nos Estados Unidos em homenagem ao bacon, ingrediente onipresente na cultura culinária americana."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Um pequeno ato de bondade vale mais do que grandes intenções.",
+      "author": "Mary Baker Eddy",
+      "context": "A fundadora da Ciência Cristã dedicou a sua vida à cura espiritual e à promoção do amor compassivo como força transformadora."
+    },
+    "motivationalQuote": {
+      "text": "Não há exercício melhor para o coração do que se esticar para levantar as pessoas.",
+      "author": "John Holmes"
+    },
+    "births": [
+      {
+        "name": "Robert Louis Stevenson",
+        "description": "Escritor escocês autor de A Ilha do Tesouro, O Estranho Caso do Dr. Jekyll e Mr. Hyde e Sequestrado — obras essenciais da literatura de aventura e do gótico vitoriano.",
+        "year": 1850
+      },
+      {
+        "name": "Whoopi Goldberg",
+        "description": "Atriz e apresentadora americana, uma das raras vencedoras do EGOT (Emmy, Grammy, Oscar e Tony). Conhecida por Ghost, A Cor Púrpura e As Irmãs em Apuros.",
+        "year": 1955
+      },
+      {
+        "name": "Gerard Butler",
+        "description": "Ator escocês conhecido por interpretar o rei Leônidas em 300, bem como pelos seus papéis em franquias de suspense e blockbusters de Hollywood.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "Atentados de Paris de 2015",
+        "description": "Ataques terroristas coordenados do Estado Islâmico sacudiram Paris: a sala Bataclan, terraços de bares e o Stade de France foram atacados simultaneamente, causando 130 mortos e 415 feridos.",
+        "year": 2015
+      },
+      {
+        "title": "Dedicação do Memorial Lincoln",
+        "description": "O Memorial Lincoln em Washington D.C. foi oficialmente dedicado, tornando-se um dos monumentos mais icônicos dos Estados Unidos e palco de discursos históricos.",
+        "year": 1922
+      },
+      {
+        "title": "Primeira aula de Braille",
+        "description": "Louis Braille ministrou sua primeira aula oficial do sistema de escrita tátil para cegos que leva seu nome no Institut National des Jeunes Aveugles em Paris.",
+        "year": 1828
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Nicolau I",
+        "type": "Papa",
+        "description": "Papa del segle IX (858–867), conegut com Nicolau el Gran per la seva fermesa doctrinal. Va defensar la supremacia papal davant dels emperadors carolingis i el Patriarca de Constantinoble, i va donar suport a la missió dels sants Ciril i Metodi a Moràvia."
+      },
+      {
+        "name": "Sant Dídac d'Alcalà",
+        "type": "Frare",
+        "description": "Germà franciscà laic espanyol del segle XV, nascut a Sevilla. Va ser missioner a les Illes Canàries i va treballar a Roma durant el Jubileu de 1450. Va ser el primer sant franciscà canonitzat després del Concili de Trento (1588)."
+      },
+      {
+        "name": "Sant Omobono de Cremona",
+        "type": "Laic",
+        "description": "Comerciant de Cremona del segle XII, patró dels comerciants i dels sastres. Va morir el 1197 durant la missa, conegut per la seva extraordinària generositat amb els pobres. Canonitzat dos anys després de la seva mort."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Bondat",
+        "description": "Jornada promoguda pel Moviment Mundial de la Bondat des de 1998 per fomentar actes de bondat desinteressada entre persones de totes les cultures i nacions."
+      },
+      {
+        "name": "Dia Nacional del Bacon (Estats Units)",
+        "description": "Una celebració gastronòmica informal als Estats Units en homenatge al bacon, ingredient omnipresent en la cultura culinària americana."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Un petit acte de bondat val més que les grans intencions.",
+      "author": "Mary Baker Eddy",
+      "context": "La fundadora de la Ciència Cristiana va dedicar la seva vida a la curació espiritual i a promoure l'amor compassiu com a força transformadora."
+    },
+    "motivationalQuote": {
+      "text": "No hi ha exercici millor per al cor que estirar-se per aixecar la gent.",
+      "author": "John Holmes"
+    },
+    "births": [
+      {
+        "name": "Robert Louis Stevenson",
+        "description": "Escriptor escocès autor de L'illa del tresor, L'estrany cas del Dr. Jekyll i Mr. Hyde i Segrestats — obres fonamentals de la literatura d'aventures i el gòtic victorià.",
+        "year": 1850
+      },
+      {
+        "name": "Whoopi Goldberg",
+        "description": "Actriu i presentadora americana, una de les poques persones en guanyar els quatre premis EGOT (Emmy, Grammy, Oscar i Tony). Coneguda per Ghost, El color porpra i Sister Act.",
+        "year": 1955
+      },
+      {
+        "name": "Gerard Butler",
+        "description": "Actor escocès conegut per interpretar el rei Leònides a 300, així com pels seus papers en franquícies de suspens i blockbusters de Hollywood.",
+        "year": 1969
+      }
+    ],
+    "events": [
+      {
+        "title": "Atemptats de París de 2015",
+        "description": "Atacs terroristes coordinats de l'Estat Islàmic van sacsejar París: la sala Bataclan, terrasses de bars i l'Stade de France van ser atacats simultàniament, causant 130 morts i 415 ferits.",
+        "year": 2015
+      },
+      {
+        "title": "Dedicació del Memorial Lincoln",
+        "description": "El Memorial Lincoln a Washington D.C. va ser oficialmente dedicat, convertint-se en un dels monuments més icònics dels Estats Units i escenari de discursos històrics.",
+        "year": 1922
+      },
+      {
+        "title": "Primera lliçó de Braille",
+        "description": "Louis Braille va impartir la seva primera lliçó oficial del sistema d'escriptura tàctil per a cecs que porta el seu nom a l'Institut National des Jeunes Aveugles de París.",
+        "year": 1828
+      }
+    ]
+  }
+}

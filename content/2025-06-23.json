@@ -1,0 +1,271 @@
+{
+  "date": "2025-06-23",
+  "es": {
+    "saints": [
+      {
+        "name": "San José Cafasso",
+        "type": "Sacerdote",
+        "description": "Sacerdote y teólogo italiano del siglo XIX, conocido por su trabajo pastoral con los presos en Turín y por ser el mentor espiritual de San Juan Bosco. Su devoción a los condenados a muerte, a quienes acompañaba en sus últimas horas, le valió el sobrenombre de 'el cura de los ahorcados'."
+      },
+      {
+        "name": "Beato Inocencio V",
+        "type": "Papa",
+        "description": "Primer papa dominico de la historia, elegido en 1276. Fue un destacado teólogo y discípulo de Santo Tomás de Aquino. Aunque su pontificado duró solo cinco meses, dejó escritos filosóficos y teológicos de importancia que influyeron en el pensamiento cristiano medieval."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Olímpico",
+        "description": "El Comité Olímpico Internacional celebra anualmente el 23 de junio en conmemoración de la fundación del COI por Pierre de Coubertin en 1894. El día promueve la participación deportiva, la salud y los valores olímpicos de excelencia, respeto y amistad."
+      },
+      {
+        "name": "Noche de San Juan",
+        "description": "Vigilia de la festividad de San Juan Bautista que se celebra la noche del 23 de junio. En toda la costa mediterránea, especialmente en España y Portugal, se encienden hogueras, se salta sobre el fuego y se lanzan castillos de fuegos artificiales en una de las noches más festivas del año."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El deporte es el espejo del alma de los pueblos.",
+      "author": "Pierre de Coubertin",
+      "context": "El barón Pierre de Coubertin fundó el Comité Olímpico Internacional el 23 de junio de 1894 en París, reviviendo los Juegos Olímpicos de la Antigüedad como símbolo de paz y fraternidad entre las naciones."
+    },
+    "motivationalQuote": {
+      "text": "Lo más importante en los Juegos Olímpicos no es ganar, sino participar.",
+      "author": "Pierre de Coubertin"
+    },
+    "births": [
+      {
+        "name": "Alan Turing",
+        "description": "Matemático e informático británico, padre de la computación teórica y la inteligencia artificial. Durante la Segunda Guerra Mundial descifró los códigos de la máquina Enigma nazi, contribuyendo decisivamente al triunfo aliado. Fue perseguido y condenado por su homosexualidad en 1952 y murió en circunstancias que aún se debaten.",
+        "year": 1912
+      },
+      {
+        "name": "Zinedine Zidane",
+        "description": "Futbolista francés de origen argelino, considerado uno de los mejores jugadores de la historia del fútbol. Ganó la Copa del Mundo con Francia en 1998, el Balón de Oro en 1998 y tres Ligas de Campeones como entrenador del Real Madrid.",
+        "year": 1972
+      },
+      {
+        "name": "Frances McDormand",
+        "description": "Actriz estadounidense, ganadora de tres premios Óscar a la mejor actriz por 'Fargo' (1996), 'Tres anuncios en las afueras' (2017) y 'Nomadland' (2020). Es reconocida por su versatilidad y por elegir proyectos de gran densidad dramática.",
+        "year": 1957
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundación del Comité Olímpico Internacional",
+        "description": "El 23 de junio de 1894, el barón Pierre de Coubertin fundó el Comité Olímpico Internacional en el Congreso Olímpico de París. Los primeros Juegos Olímpicos modernos se celebraron dos años después, en Atenas en 1896, reviviendo una tradición de la Antigüedad clásica.",
+        "year": 1894
+      },
+      {
+        "title": "Primer vuelo de los hermanos Wright a motor",
+        "description": "El 23 de junio de 1905, los hermanos Wright realizaron el primer vuelo sostenido en un avión de motor a gasolina, aunque el hito más conocido fue el de 1903. En 1905 completaron un vuelo de 38 minutos, demostrando que el avión podía ser una herramienta práctica de transporte.",
+        "year": 1905
+      },
+      {
+        "title": "Brexit: el Reino Unido vota abandonar la Unión Europea",
+        "description": "El 23 de junio de 2016, el Reino Unido celebró un referéndum sobre su permanencia en la Unión Europea. El 51,9% votó a favor de abandonar la UE en un resultado que sacudió los mercados globales y reconfiguraría la política europea durante años.",
+        "year": 2016
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Joseph Cafasso",
+        "type": "Priest",
+        "description": "A 19th-century Italian priest and theologian, known for his pastoral work with prisoners in Turin and for being the spiritual mentor of Saint John Bosco. His devotion to those condemned to death, whom he accompanied in their final hours, earned him the nickname 'the priest of the gallows'."
+      },
+      {
+        "name": "Blessed Innocent V",
+        "type": "Pope",
+        "description": "The first Dominican pope in history, elected in 1276. He was a notable theologian and disciple of Saint Thomas Aquinas. Though his pontificate lasted only five months, he left philosophical and theological writings that influenced medieval Christian thought."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Olympic Day",
+        "description": "The International Olympic Committee celebrates June 23 each year to commemorate the founding of the IOC by Pierre de Coubertin in 1894. The day promotes sports participation, health, and Olympic values of excellence, respect, and friendship."
+      },
+      {
+        "name": "St. John's Eve",
+        "description": "The vigil of the feast of Saint John the Baptist, celebrated on the night of June 23. Throughout the Mediterranean coast, especially in Spain and Portugal, bonfires are lit, people jump over the flames, and fireworks are launched in one of the most festive nights of the year."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Sport is the mirror of a nation's soul.",
+      "author": "Pierre de Coubertin",
+      "context": "Baron Pierre de Coubertin founded the International Olympic Committee on June 23, 1894 in Paris, reviving the ancient Olympic Games as a symbol of peace and fraternity between nations."
+    },
+    "motivationalQuote": {
+      "text": "The most important thing in the Olympic Games is not to win but to take part.",
+      "author": "Pierre de Coubertin"
+    },
+    "births": [
+      {
+        "name": "Alan Turing",
+        "description": "British mathematician and computer scientist, father of theoretical computing and artificial intelligence. During World War II he cracked the Nazi Enigma machine codes, making a decisive contribution to the Allied victory. He was prosecuted and convicted for his homosexuality in 1952 and died in circumstances still debated.",
+        "year": 1912
+      },
+      {
+        "name": "Zinedine Zidane",
+        "description": "French footballer of Algerian origin, considered one of the greatest players in football history. He won the World Cup with France in 1998, the Ballon d'Or in 1998, and three UEFA Champions League titles as manager of Real Madrid.",
+        "year": 1972
+      },
+      {
+        "name": "Frances McDormand",
+        "description": "American actress, three-time Academy Award winner for Best Actress for 'Fargo' (1996), 'Three Billboards Outside Ebbing, Missouri' (2017), and 'Nomadland' (2020). She is known for her versatility and for choosing projects of great dramatic depth.",
+        "year": 1957
+      }
+    ],
+    "events": [
+      {
+        "title": "Founding of the International Olympic Committee",
+        "description": "On June 23, 1894, Baron Pierre de Coubertin founded the International Olympic Committee at the Olympic Congress in Paris. The first modern Olympic Games were held two years later, in Athens in 1896, reviving a tradition from classical antiquity.",
+        "year": 1894
+      },
+      {
+        "title": "Wright Brothers' First Sustained Powered Flight",
+        "description": "On June 23, 1905, the Wright Brothers completed a sustained 38-minute flight, demonstrating that the airplane could be a practical means of transport. Their most famous flight had occurred in 1903, but 1905 proved the technology's real-world potential.",
+        "year": 1905
+      },
+      {
+        "title": "Brexit: The United Kingdom Votes to Leave the European Union",
+        "description": "On June 23, 2016, the United Kingdom held a referendum on its membership in the European Union. With 51.9% voting to leave, the result shook global markets and would reshape European politics for years to come.",
+        "year": 2016
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São José Cafasso",
+        "type": "Sacerdote",
+        "description": "Sacerdote e teólogo italiano do século XIX, conhecido por seu trabalho pastoral com os presos em Turim e por ser o mentor espiritual de São João Bosco. Sua devoção aos condenados à morte, aos quais acompanhava em suas últimas horas, valeu-lhe o apelido de 'o padre dos enforcados'."
+      },
+      {
+        "name": "Beato Inocêncio V",
+        "type": "Papa",
+        "description": "Primeiro papa dominicano da história, eleito em 1276. Foi um destacado teólogo e discípulo de Santo Tomás de Aquino. Embora seu pontificado tenha durado apenas cinco meses, deixou escritos filosóficos e teológicos que influenciaram o pensamento cristão medieval."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Olímpico",
+        "description": "O Comitê Olímpico Internacional celebra anualmente o 23 de junho em comemoração à fundação do COI por Pierre de Coubertin em 1894. O dia promove a participação esportiva, a saúde e os valores olímpicos de excelência, respeito e amizade."
+      },
+      {
+        "name": "Véspera de São João",
+        "description": "Véspera da festa de São João Batista, celebrada na noite de 23 de junho. Em toda a costa mediterrânea, especialmente na Espanha e em Portugal, acendem-se fogueiras, pula-se sobre o fogo e lançam-se fogos de artifício numa das noites mais festivas do ano."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O esporte é o espelho da alma dos povos.",
+      "author": "Pierre de Coubertin",
+      "context": "O barão Pierre de Coubertin fundou o Comitê Olímpico Internacional em 23 de junho de 1894, em Paris, revivendo os Jogos Olímpicos da Antiguidade como símbolo de paz e fraternidade entre as nações."
+    },
+    "motivationalQuote": {
+      "text": "O mais importante nos Jogos Olímpicos não é vencer, mas participar.",
+      "author": "Pierre de Coubertin"
+    },
+    "births": [
+      {
+        "name": "Alan Turing",
+        "description": "Matemático e cientista da computação britânico, pai da computação teórica e da inteligência artificial. Durante a Segunda Guerra Mundial decifrou os códigos da máquina Enigma nazista, contribuindo decisivamente para a vitória aliada. Foi processado e condenado por sua homossexualidade em 1952 e morreu em circunstâncias ainda debatidas.",
+        "year": 1912
+      },
+      {
+        "name": "Zinedine Zidane",
+        "description": "Futebolista francês de origem argelina, considerado um dos maiores jogadores da história do futebol. Ganhou a Copa do Mundo com a França em 1998, a Bola de Ouro em 1998 e três Ligas dos Campeões como treinador do Real Madrid.",
+        "year": 1972
+      },
+      {
+        "name": "Frances McDormand",
+        "description": "Atriz americana, vencedora de três prêmios Oscar de Melhor Atriz por 'Fargo' (1996), 'Três Anúncios para um Crime' (2017) e 'Nomadland' (2020). É reconhecida pela sua versatilidade e por escolher projetos de grande densidade dramática.",
+        "year": 1957
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundação do Comitê Olímpico Internacional",
+        "description": "Em 23 de junho de 1894, o barão Pierre de Coubertin fundou o Comitê Olímpico Internacional no Congresso Olímpico de Paris. Os primeiros Jogos Olímpicos modernos foram realizados dois anos depois, em Atenas em 1896, revivendo uma tradição da Antiguidade clássica.",
+        "year": 1894
+      },
+      {
+        "title": "Primeiro Voo Sustentado dos Irmãos Wright",
+        "description": "Em 23 de junho de 1905, os irmãos Wright completaram um voo sustentado de 38 minutos, demonstrando que o avião poderia ser um meio de transporte prático. O voo mais famoso havia ocorrido em 1903, mas 1905 comprovou o potencial real da tecnologia.",
+        "year": 1905
+      },
+      {
+        "title": "Brexit: O Reino Unido Vota para Sair da União Europeia",
+        "description": "Em 23 de junho de 2016, o Reino Unido realizou um referendo sobre sua permanência na União Europeia. Com 51,9% votando pela saída, o resultado abalou os mercados globais e redefiniria a política europeia por anos.",
+        "year": 2016
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Josep Cafasso",
+        "type": "Sacerdot",
+        "description": "Sacerdot i teòleg italià del segle XIX, conegut pel seu treball pastoral amb els presos a Torí i per ser el mentor espiritual de Sant Joan Bosco. La seva devoció als condemnats a mort, als quals acompanyava en les seves darreres hores, li va valer el sobrenom de 'el capellà dels penjats'."
+      },
+      {
+        "name": "Beat Innocenci V",
+        "type": "Papa",
+        "description": "Primer papa dominic de la història, elegit el 1276. Va ser un destacat teòleg i deixeble de Sant Tomàs d'Aquino. Encara que el seu pontificat va durar només cinc mesos, va deixar escrits filosòfics i teològics que van influir en el pensament cristià medieval."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Olímpic",
+        "description": "El Comitè Olímpic Internacional celebra anualment el 23 de juny en commemoració de la fundació del COI per Pierre de Coubertin el 1894. El dia promou la participació esportiva, la salut i els valors olímpics d'excel·lència, respecte i amistat."
+      },
+      {
+        "name": "Revetlla de Sant Joan",
+        "description": "Vigília de la festivitat de Sant Joan Baptista que se celebra la nit del 23 de juny. A tota la costa mediterrània, especialment a Catalunya i a la resta d'Espanya, s'encenen fogueres, es salta sobre el foc i es llancen castells de focs artificials en una de les nits més festives de l'any."
+      }
+    ],
+    "historicalQuote": {
+      "text": "L'esport és el mirall de l'ànima dels pobles.",
+      "author": "Pierre de Coubertin",
+      "context": "El baró Pierre de Coubertin va fundar el Comitè Olímpic Internacional el 23 de juny de 1894, a París, revivint els Jocs Olímpics de l'Antiguitat com a símbol de pau i fraternitat entre les nacions."
+    },
+    "motivationalQuote": {
+      "text": "El més important en els Jocs Olímpics no és guanyar, sinó participar.",
+      "author": "Pierre de Coubertin"
+    },
+    "births": [
+      {
+        "name": "Alan Turing",
+        "description": "Matemàtic i informàtic britànic, pare de la computació teòrica i la intel·ligència artificial. Durant la Segona Guerra Mundial va desxifrar els codis de la màquina Enigma nazi, contribuint decisivament a la victòria aliada. Va ser processat i condemnat per la seva homosexualitat el 1952 i va morir en circumstàncies encara debatudes.",
+        "year": 1912
+      },
+      {
+        "name": "Zinedine Zidane",
+        "description": "Futbolista francès d'origen algerià, considerat un dels millors jugadors de la història del futbol. Va guanyar la Copa del Món amb França el 1998, la Pilota d'Or el 1998 i tres Lligues de Campions com a entrenador del Reial Madrid.",
+        "year": 1972
+      },
+      {
+        "name": "Frances McDormand",
+        "description": "Actriu americana, guanyadora de tres premis Oscar a la millor actriu per 'Fargo' (1996), 'Tres anuncis als afores d'Ebbing, Missouri' (2017) i 'Nomadland' (2020). És reconeguda per la seva versatilitat i per triar projectes de gran densitat dramàtica.",
+        "year": 1957
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundació del Comitè Olímpic Internacional",
+        "description": "El 23 de juny de 1894, el baró Pierre de Coubertin va fundar el Comitè Olímpic Internacional al Congrés Olímpic de París. Els primers Jocs Olímpics moderns es van celebrar dos anys després, a Atenes el 1896, revivint una tradició de l'antiguitat clàssica.",
+        "year": 1894
+      },
+      {
+        "title": "Primer Vol Sostingut dels Germans Wright",
+        "description": "El 23 de juny de 1905, els germans Wright van completar un vol sostingut de 38 minuts, demostrant que l'avió podia ser un mitjà de transport pràctic. El vol més famós havia tingut lloc el 1903, però el 1905 va demostrar el potencial real de la tecnologia.",
+        "year": 1905
+      },
+      {
+        "title": "Brexit: El Regne Unit Vota per Abandonar la Unió Europea",
+        "description": "El 23 de juny de 2016, el Regne Unit va celebrar un referèndum sobre la seva permanència a la Unió Europea. Amb el 51,9% votant per sortir, el resultat va sacsejar els mercats globals i reconfigurava la política europea durant anys.",
+        "year": 2016
+      }
+    ]
+  }
+}

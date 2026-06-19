@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-21",
+  "es": {
+    "saints": [
+      {
+        "name": "San Cristóbal Magallanes",
+        "type": "Sacerdote y Mártir",
+        "description": "Sacerdote mexicano del siglo XX, mártir de la Revolución Cristera (1926–1929) en México. Fue fusilado sin juicio en Jalisco el 25 de mayo de 1927. Canonizado junto a 24 compañeros mártires por Juan Pablo II en 2000. Es uno de los santos mexicanos más recientes."
+      },
+      {
+        "name": "San Godric de Finchale",
+        "type": "Ermitaño",
+        "description": "Comerciante y marino inglés del siglo XII que, tras una vida de aventuras y peregrinaciones (Roma, Compostela, Jerusalén), se convirtió en ermitaño en Finchale (Durham). Vivió como penitente durante 60 años y compuso algunos de los primeros himnos en inglés medio conocidos."
+      },
+      {
+        "name": "San Secundino",
+        "type": "Obispo",
+        "description": "Obispo y misionero del siglo V, colaborador de San Patricio en la evangelización de Irlanda. Es venerado como uno de los primeros obispos de la Iglesia irlandesa y autor de un himno en latín en honor a San Patricio."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Diversidad Cultural para el Diálogo y el Desarrollo",
+        "description": "Proclamado por la UNESCO en 2001 y adoptado por la ONU en 2002, este día reconoce la riqueza de las culturas del mundo y celebra la necesidad del diálogo intercultural para construir una paz sostenible."
+      },
+      {
+        "name": "Día de la Independencia (Cuba, 1902; Montenegro, 2006)",
+        "description": "Cuba celebra el aniversario de su independencia formal de España (aunque condicionada por la Enmienda Platt). Montenegro celebra también su independencia de Serbia, votada en referéndum el 21 de mayo de 2006."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La diversidad de opiniones no divide; al contrario, enriquece.",
+      "author": "Paulo Coelho"
+    },
+    "motivationalQuote": {
+      "text": "Si quieres ir rápido, ve solo. Si quieres llegar lejos, ve acompañado.",
+      "author": "Proverbio africano"
+    },
+    "births": [
+      {
+        "name": "Albrecht Dürer",
+        "description": "Pintor, grabador y teórico del arte alemán del Renacimiento, considerado el mayor artista alemán de todos los tiempos. Sus grabados, acuarelas y óleos combinan la tradición gótica con el humanismo italiano. Su obra Liebre joven es una de las acuarelas más famosas del arte occidental.",
+        "year": "1471"
+      },
+      {
+        "name": "Mr. T",
+        "description": "Actor americano, famoso por su papel de B.A. Baracus en la serie El Equipo A (1983–1987) y por su actuación junto a Sylvester Stallone en Rocky III. Conocido por sus cadenas de oro y su carismática personalidad.",
+        "year": "1952"
+      },
+      {
+        "name": "Gotye",
+        "description": "Músico y artista belga-australiano, ganador de tres premios Grammy en 2013 por su sencillo Somebody That I Used to Know, que se convirtió en uno de los éxitos más descargados de la historia de la música digital.",
+        "year": "1980"
+      }
+    ],
+    "events": [
+      {
+        "title": "Amelia Earhart cruza el Atlántico en solitario",
+        "description": "Amelia Earhart completó el primer vuelo en solitario de una mujer a través del Océano Atlántico, partiendo de Harbour Grace (Terranova) y llegando a Culmore (Irlanda del Norte) en aproximadamente 15 horas. Se convirtió en un símbolo del empoderamiento femenino.",
+        "year": "1932"
+      },
+      {
+        "title": "Proclamación de la República de Montenegro",
+        "description": "Montenegro declaró su independencia de Serbia tras un referéndum celebrado el mismo día, convirtiéndose en el estado más joven de Europa en ese momento y en el 192.º miembro de la ONU.",
+        "year": "2006"
+      },
+      {
+        "title": "Tratado de Nantes",
+        "description": "El rey Enrique IV de Francia firmó el Edicto de Nantes, que concedió libertad de culto a los hugonotes (protestantes franceses), poniendo fin a las cruentas guerras de religión que habían devastado Francia durante décadas.",
+        "year": "1598"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Christopher Magallanes",
+        "type": "Priest and Martyr",
+        "description": "20th-century Mexican priest, martyr of the Cristero War (1926–1929) in Mexico. He was shot without trial in Jalisco on 25 May 1927. He was canonised together with 24 fellow martyrs by John Paul II in 2000. He is one of the most recent Mexican saints."
+      },
+      {
+        "name": "Saint Godric of Finchale",
+        "type": "Hermit",
+        "description": "12th-century English merchant and sailor who, after a life of adventures and pilgrimages (Rome, Santiago, Jerusalem), became a hermit at Finchale (Durham). He lived as a penitent for 60 years and composed some of the first known hymns in Middle English."
+      },
+      {
+        "name": "Saint Secundinus",
+        "type": "Bishop",
+        "description": "5th-century bishop and missionary, collaborator of Saint Patrick in the evangelisation of Ireland. He is venerated as one of the first bishops of the Irish Church and author of a Latin hymn in honour of Saint Patrick."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Day for Cultural Diversity for Dialogue and Development",
+        "description": "Proclaimed by UNESCO in 2001 and adopted by the UN in 2002, this day recognises the richness of the world's cultures and celebrates the need for intercultural dialogue to build lasting peace."
+      },
+      {
+        "name": "Independence Day (Cuba, 1902; Montenegro, 2006)",
+        "description": "Cuba marks the anniversary of its formal independence from Spain (albeit constrained by the Platt Amendment). Montenegro also celebrates its independence from Serbia, voted in a referendum on 21 May 2006."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The diversity of opinions does not divide; on the contrary, it enriches.",
+      "author": "Paulo Coelho"
+    },
+    "motivationalQuote": {
+      "text": "If you want to go fast, go alone. If you want to go far, go together.",
+      "author": "African proverb"
+    },
+    "births": [
+      {
+        "name": "Albrecht Dürer",
+        "description": "German Renaissance painter, printmaker, and art theorist, considered the greatest German artist of all time. His engravings, watercolours, and oils combine the Gothic tradition with Italian humanism. His watercolour Young Hare is one of the most famous in Western art.",
+        "year": "1471"
+      },
+      {
+        "name": "Mr. T",
+        "description": "American actor, famous for his role as B.A. Baracus in the TV series The A-Team (1983–1987) and for his performance alongside Sylvester Stallone in Rocky III. Known for his gold chains and charismatic personality.",
+        "year": "1952"
+      },
+      {
+        "name": "Gotye",
+        "description": "Belgian-Australian musician and artist, winner of three Grammy Awards in 2013 for his single Somebody That I Used to Know, which became one of the most downloaded hits in the history of digital music.",
+        "year": "1980"
+      }
+    ],
+    "events": [
+      {
+        "title": "Amelia Earhart Crosses the Atlantic Solo",
+        "description": "Amelia Earhart completed the first solo transatlantic flight by a woman, departing from Harbour Grace (Newfoundland) and arriving at Culmore (Northern Ireland) in approximately 15 hours. She became a symbol of women's empowerment.",
+        "year": "1932"
+      },
+      {
+        "title": "Proclamation of the Republic of Montenegro",
+        "description": "Montenegro declared independence from Serbia following a referendum held on the same day, becoming the youngest state in Europe at that time and the 192nd member of the UN.",
+        "year": "2006"
+      },
+      {
+        "title": "Edict of Nantes",
+        "description": "King Henry IV of France signed the Edict of Nantes, granting freedom of worship to the Huguenots (French Protestants), putting an end to the bloody Wars of Religion that had devastated France for decades.",
+        "year": "1598"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Cristóvão Magalhães",
+        "type": "Sacerdote e Mártir",
+        "description": "Sacerdote mexicano do século XX, mártir da Guerra dos Cristeros (1926–1929) no México. Foi fuzilado sem julgamento em Jalisco em 25 de maio de 1927. Canonizado junto a 24 companheiros mártires por João Paulo II em 2000. É um dos santos mexicanos mais recentes."
+      },
+      {
+        "name": "São Godric de Finchale",
+        "type": "Eremita",
+        "description": "Comerciante e marinheiro inglês do século XII que, após uma vida de aventuras e peregrinações (Roma, Compostela, Jerusalém), tornou-se eremita em Finchale (Durham). Viveu como penitente por 60 anos e compôs alguns dos primeiros hinos em inglês médio conhecidos."
+      },
+      {
+        "name": "São Secundino",
+        "type": "Bispo",
+        "description": "Bispo e missionário do século V, colaborador de São Patrício na evangelização da Irlanda. É venerado como um dos primeiros bispos da Igreja irlandesa e autor de um hino em latim em honra de São Patrício."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Diversidade Cultural para o Diálogo e o Desenvolvimento",
+        "description": "Proclamado pela UNESCO em 2001 e adotado pela ONU em 2002, este dia reconhece a riqueza das culturas do mundo e celebra a necessidade do diálogo intercultural para construir uma paz duradoura."
+      },
+      {
+        "name": "Dia da Independência (Cuba, 1902; Montenegro, 2006)",
+        "description": "Cuba comemora o aniversário de sua independência formal da Espanha (embora condicionada pela Emenda Platt). Montenegro também celebra sua independência da Sérvia, votada em referendo em 21 de maio de 2006."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A diversidade de opiniões não divide; ao contrário, enriquece.",
+      "author": "Paulo Coelho"
+    },
+    "motivationalQuote": {
+      "text": "Se você quer ir rápido, vá sozinho. Se você quer ir longe, vá acompanhado.",
+      "author": "Provérbio africano"
+    },
+    "births": [
+      {
+        "name": "Albrecht Dürer",
+        "description": "Pintor, gravador e teórico da arte alemão do Renascimento, considerado o maior artista alemão de todos os tempos. Seus gravados, aquarelas e óleos combinam a tradição gótica com o humanismo italiano. Sua aquarela Lebre Jovem é uma das mais famosas da arte ocidental.",
+        "year": "1471"
+      },
+      {
+        "name": "Mr. T",
+        "description": "Ator americano, famoso por seu papel de B.A. Baracus na série Esquadrão Classe A (1983–1987) e por sua atuação ao lado de Sylvester Stallone em Rocky III. Conhecido pelas correntes de ouro e personalidade carismática.",
+        "year": "1952"
+      },
+      {
+        "name": "Gotye",
+        "description": "Músico e artista belga-australiano, vencedor de três prêmios Grammy em 2013 pelo single Somebody That I Used to Know, que se tornou um dos maiores sucessos da história da música digital.",
+        "year": "1980"
+      }
+    ],
+    "events": [
+      {
+        "title": "Amelia Earhart cruza o Atlântico em solitário",
+        "description": "Amelia Earhart completou o primeiro voo transatlântico em solitário de uma mulher, partindo de Harbour Grace (Terra Nova) e chegando a Culmore (Irlanda do Norte) em aproximadamente 15 horas. Tornou-se símbolo do empoderamento feminino.",
+        "year": "1932"
+      },
+      {
+        "title": "Proclamação da República de Montenegro",
+        "description": "Montenegro declarou independência da Sérvia após um referendo realizado no mesmo dia, tornando-se o estado mais jovem da Europa naquele momento e o 192.º membro da ONU.",
+        "year": "2006"
+      },
+      {
+        "title": "Edito de Nantes",
+        "description": "O rei Henrique IV da França assinou o Edito de Nantes, concedendo liberdade de culto aos huguenotes (protestantes franceses), pondo fim às sangrentas Guerras de Religião que devastaram a França por décadas.",
+        "year": "1598"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Cristòfor Magallanes",
+        "type": "Sacerdot i Màrtir",
+        "description": "Sacerdot mexicà del segle XX, màrtir de la Guerra dels Cristeros (1926–1929) al Mèxic. Va ser afusellat sense judici a Jalisco el 25 de maig de 1927. Va ser canonitzat juntament amb 24 companys màrtirs per Joan Pau II el 2000. És un dels sants mexicans més recents."
+      },
+      {
+        "name": "Sant Godric de Finchale",
+        "type": "Ermità",
+        "description": "Comerciant i mariner anglès del segle XII que, després d'una vida d'aventures i peregrinacions (Roma, Compostel·la, Jerusalem), es va fer ermità a Finchale (Durham). Va viure com a penitent durant 60 anys i va compondre alguns dels primers himnes coneguts en anglès mitjà."
+      },
+      {
+        "name": "Sant Secundí",
+        "type": "Bisbe",
+        "description": "Bisbe i missioner del segle V, col·laborador de Sant Patrici en l'evangelització d'Irlanda. És venerat com un dels primers bisbes de l'Església irlandesa i autor d'un himne en llatí en honor de Sant Patrici."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Diversitat Cultural per al Diàleg i el Desenvolupament",
+        "description": "Proclamat per la UNESCO el 2001 i adoptat per l'ONU el 2002, aquest dia reconeix la riquesa de les cultures del món i celebra la necessitat del diàleg intercultural per construir una pau sostenible."
+      },
+      {
+        "name": "Dia de la Independència (Cuba, 1902; Montenegro, 2006)",
+        "description": "Cuba commemora l'aniversari de la seva independència formal d'Espanya (tot i que condicionada per l'Esmena Platt). Montenegro també celebra la seva independència de Sèrbia, votada en referèndum el 21 de maig de 2006."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La diversitat d'opinions no divideix; al contrari, enriqueix.",
+      "author": "Paulo Coelho"
+    },
+    "motivationalQuote": {
+      "text": "Si vols anar ràpid, vés sol. Si vols arribar lluny, vés acompanyat.",
+      "author": "Proverbi africà"
+    },
+    "births": [
+      {
+        "name": "Albrecht Dürer",
+        "description": "Pintor, gravador i teòric de l'art alemany del Renaixement, considerat el major artista alemany de tots els temps. Els seus gravats, aquarel·les i olis combinen la tradició gòtica amb l'humanisme italià. La seva aquarel·la Llebre jove és una de les més famoses de l'art occidental.",
+        "year": "1471"
+      },
+      {
+        "name": "Mr. T",
+        "description": "Actor americà, famós pel seu paper de B.A. Baracus a la sèrie L'Equip A (1983–1987) i per la seva actuació al costat de Sylvester Stallone a Rocky III. Conegut per les seves cadenes d'or i la seva personalitat carismàtica.",
+        "year": "1952"
+      },
+      {
+        "name": "Gotye",
+        "description": "Músic i artista belga-australià, guanyador de tres premis Grammy el 2013 pel senzill Somebody That I Used to Know, que es va convertir en un dels èxits més descarregats de la història de la música digital.",
+        "year": "1980"
+      }
+    ],
+    "events": [
+      {
+        "title": "Amelia Earhart creua l'Atlàntic en solitari",
+        "description": "Amelia Earhart va completar el primer vol transatlàntic en solitari d'una dona, partint de Harbour Grace (Terranova) i arribant a Culmore (Irlanda del Nord) en aproximadament 15 hores. Es va convertir en un símbol de l'empoderament femení.",
+        "year": "1932"
+      },
+      {
+        "title": "Proclamació de la República de Montenegro",
+        "description": "Montenegro va declarar la independència de Sèrbia després d'un referèndum celebrat el mateix dia, convertint-se en l'estat més jove d'Europa en aquell moment i el 192è membre de l'ONU.",
+        "year": "2006"
+      },
+      {
+        "title": "Edicte de Nantes",
+        "description": "El rei Enric IV de França va signar l'Edicte de Nantes, que va concedir llibertat de culte als hugonots (protestants francesos), posant fi a les sagnants Guerres de Religió que havien devastat França durant dècades.",
+        "year": "1598"
+      }
+    ]
+  }
+}

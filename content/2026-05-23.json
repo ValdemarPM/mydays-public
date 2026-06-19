@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-23",
+  "es": {
+    "saints": [
+      {
+        "name": "San Desiderio de Vienne",
+        "type": "Obispo y Mártir",
+        "description": "Obispo de Vienne (actual Francia) del siglo VII, conocido por su defensa de los pobres y su valentía frente a los poderosos. Fue martirizado por orden de la reina Brunegilda, que quería silenciar sus críticas. Es considerado uno de los últimos mártires de la Galia merovingia."
+      },
+      {
+        "name": "Santa Eufrosina de Alejandría",
+        "type": "Virgen",
+        "description": "Santa del siglo V que, según la tradición, se disfrazó de monje para vivir en un monasterio de hombres y evitar un matrimonio no deseado. Vivió así durante 38 años sin ser reconocida. Su historia es un relato clásico del ideal de virginidad en la hagiografía antigua."
+      },
+      {
+        "name": "Beato Nicolás Hermansson",
+        "type": "Obispo",
+        "description": "Obispo sueco del siglo XIV, poeta y humanista, conocido como el 'obispo poeta' de Suecia. Escribió himnos en honor de Santa Brígida de Suecia y es considerado uno de los primeros poetas cultos de la literatura sueca medieval."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Tortuga",
+        "description": "Celebrado cada 23 de mayo desde el año 2000 por iniciativa de la organización American Tortoise Rescue, este día busca concienciar sobre la crisis de las tortugas en el mundo: más de la mitad de las 356 especies conocidas están en peligro de extinción."
+      },
+      {
+        "name": "Día Europeo de las Lenguas de Signos",
+        "description": "Jornada celebrada en varios países europeos para visibilizar la importancia y la riqueza de las lenguas de signos como lenguas naturales y para promover los derechos de las personas sordas."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La paciencia y el tiempo hacen más que la fuerza o la pasión.",
+      "author": "Jean de La Fontaine"
+    },
+    "motivationalQuote": {
+      "text": "Cada gran viaje comienza con un solo paso.",
+      "author": "Lao Tse"
+    },
+    "births": [
+      {
+        "name": "Joan Miró",
+        "description": "Pintor, escultor y ceramista español, nacido en Barcelona en 1893. Uno de los representantes más destacados del surrealismo, sus obras se caracterizan por colores primarios vibrantes, formas abstractas y un universo onírico inconfundible. Fundó la Fundació Joan Miró en Barcelona.",
+        "year": "1893"
+      },
+      {
+        "name": "Franz Anton Mesmer",
+        "description": "Médico alemán del siglo XVIII, fundador del mesmerismo o magnetismo animal, precursor de la hipnosis moderna. Sus teorías, aunque luego desacreditadas científicamente, influyeron en el desarrollo de la psicología y la medicina alternativa.",
+        "year": "1734"
+      },
+      {
+        "name": "Drew Carey",
+        "description": "Comediante y actor estadounidense, conocido como conductor de The Price Is Right desde 2007 y por la sitcom The Drew Carey Show. Es también un conocido activista por los derechos de las personas con discapacidad.",
+        "year": "1958"
+      }
+    ],
+    "events": [
+      {
+        "title": "Ejecución de Savonarola",
+        "description": "El fraile dominico Girolamo Savonarola, líder teocrático de Florencia y reformador radical que organizó la 'Hoguera de las Vanidades', fue ejecutado en la hoguera en la Piazza della Signoria de Florencia, junto con dos compañeros.",
+        "year": "1498"
+      },
+      {
+        "title": "La Unión Soviética lanza el Sputnik 3",
+        "description": "La Unión Soviética lanzó el Sputnik 3, el satélite científico más ambicioso de la era espacial temprana, diseñado para el estudio del espacio exterior y la ionosfera. Pesaba más de 1.300 kilogramos.",
+        "year": "1958"
+      },
+      {
+        "title": "Inauguración del Estadio Olímpico de Barcelona",
+        "description": "El Estadio Olímpico de Montjuïc, originalmente construido para los Juegos Olímpicos de 1936 (que no llegaron a celebrarse en Barcelona), fue remodelado e inaugurado oficialmente para los Juegos Olímpicos de 1992.",
+        "year": "1989"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Desiderius of Vienne",
+        "type": "Bishop and Martyr",
+        "description": "7th-century Bishop of Vienne (present-day France), known for his defence of the poor and his courage in the face of the powerful. He was martyred on the orders of Queen Brunhilda, who wanted to silence his criticisms. He is considered one of the last martyrs of Merovingian Gaul."
+      },
+      {
+        "name": "Saint Euphrosyne of Alexandria",
+        "type": "Virgin",
+        "description": "5th-century saint who, according to tradition, disguised herself as a monk to live in a male monastery and avoid an unwanted marriage. She lived thus for 38 years without being recognised. Her story is a classic tale of the ideal of virginity in ancient hagiography."
+      },
+      {
+        "name": "Blessed Nicholas Hermansson",
+        "type": "Bishop",
+        "description": "14th-century Swedish bishop, poet and humanist, known as the 'poet bishop' of Sweden. He wrote hymns in honour of Saint Bridget of Sweden and is considered one of the first learned poets of medieval Swedish literature."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Turtle Day",
+        "description": "Celebrated every May 23 since 2000 on the initiative of the American Tortoise Rescue organisation, this day seeks to raise awareness of the crisis facing turtles and tortoises worldwide: more than half of the 356 known species are endangered."
+      },
+      {
+        "name": "European Day of Sign Languages",
+        "description": "A day observed in several European countries to highlight the importance and richness of sign languages as natural languages and to promote the rights of deaf people."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Patience and time do more than strength or passion.",
+      "author": "Jean de La Fontaine"
+    },
+    "motivationalQuote": {
+      "text": "A journey of a thousand miles begins with a single step.",
+      "author": "Lao Tzu"
+    },
+    "births": [
+      {
+        "name": "Joan Miró",
+        "description": "Spanish painter, sculptor and ceramicist, born in Barcelona in 1893. One of the most prominent representatives of Surrealism, his works are characterised by vibrant primary colours, abstract forms, and an unmistakable dreamlike universe. He founded the Joan Miró Foundation in Barcelona.",
+        "year": "1893"
+      },
+      {
+        "name": "Franz Anton Mesmer",
+        "description": "18th-century German physician, founder of mesmerism or animal magnetism, a precursor of modern hypnosis. His theories, though later scientifically discredited, influenced the development of psychology and alternative medicine.",
+        "year": "1734"
+      },
+      {
+        "name": "Drew Carey",
+        "description": "American comedian and actor, known as the host of The Price Is Right since 2007 and for The Drew Carey Show. He is also a well-known activist for the rights of people with disabilities.",
+        "year": "1958"
+      }
+    ],
+    "events": [
+      {
+        "title": "Execution of Savonarola",
+        "description": "The Dominican friar Girolamo Savonarola, theocratic leader of Florence and radical reformer who organised the 'Bonfire of the Vanities', was executed at the stake in the Piazza della Signoria in Florence, along with two companions.",
+        "year": "1498"
+      },
+      {
+        "title": "Soviet Union Launches Sputnik 3",
+        "description": "The Soviet Union launched Sputnik 3, the most ambitious scientific satellite of the early space age, designed for the study of outer space and the ionosphere. It weighed more than 1,300 kilograms.",
+        "year": "1958"
+      },
+      {
+        "title": "Inauguration of Barcelona Olympic Stadium",
+        "description": "The Montjuïc Olympic Stadium, originally built for the 1936 Olympic Games (which ultimately were not held in Barcelona), was renovated and officially inaugurated for the 1992 Olympic Games.",
+        "year": "1989"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Desidério de Viena",
+        "type": "Bispo e Mártir",
+        "description": "Bispo de Viena (atual França) do século VII, conhecido pela sua defesa dos pobres e coragem perante os poderosos. Foi martirizado por ordem da rainha Brunequilda, que queria silenciar as suas críticas. É considerado um dos últimos mártires da Gália merovíngia."
+      },
+      {
+        "name": "Santa Eufrosina de Alexandria",
+        "type": "Virgem",
+        "description": "Santa do século V que, segundo a tradição, disfarçou-se de monge para viver num mosteiro masculino e evitar um casamento indesejado. Viveu assim durante 38 anos sem ser reconhecida. A sua história é um relato clássico do ideal de virgindade na hagiografia antiga."
+      },
+      {
+        "name": "Beato Nicolau Hermansson",
+        "type": "Bispo",
+        "description": "Bispo sueco do século XIV, poeta e humanista, conhecido como o 'bispo poeta' da Suécia. Escreveu hinos em honra de Santa Brígida da Suécia e é considerado um dos primeiros poetas cultos da literatura sueca medieval."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Tartaruga",
+        "description": "Celebrado todo dia 23 de maio desde 2000 por iniciativa da organização American Tortoise Rescue, este dia busca conscientizar sobre a crise das tartarugas no mundo: mais da metade das 356 espécies conhecidas está em perigo de extinção."
+      },
+      {
+        "name": "Dia Europeu das Línguas Gestuais",
+        "description": "Jornada celebrada em vários países europeus para dar visibilidade à importância e riqueza das línguas gestuais como línguas naturais e para promover os direitos das pessoas surdas."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A paciência e o tempo fazem mais do que a força ou a paixão.",
+      "author": "Jean de La Fontaine"
+    },
+    "motivationalQuote": {
+      "text": "Uma longa jornada começa com um único passo.",
+      "author": "Lao Tsé"
+    },
+    "births": [
+      {
+        "name": "Joan Miró",
+        "description": "Pintor, escultor e ceramista espanhol, nascido em Barcelona em 1893. Um dos representantes mais destacados do surrealismo, suas obras caracterizam-se por cores primárias vibrantes, formas abstratas e um universo onírico inconfundível. Fundou a Fundação Joan Miró em Barcelona.",
+        "year": "1893"
+      },
+      {
+        "name": "Franz Anton Mesmer",
+        "description": "Médico alemão do século XVIII, fundador do mesmerismo ou magnetismo animal, precursor da hipnose moderna. Suas teorias, embora depois desacreditadas cientificamente, influenciaram o desenvolvimento da psicologia e da medicina alternativa.",
+        "year": "1734"
+      },
+      {
+        "name": "Drew Carey",
+        "description": "Comediante e ator americano, conhecido como apresentador de The Price Is Right desde 2007 e pela sitcom The Drew Carey Show. É também um ativista pelos direitos das pessoas com deficiência.",
+        "year": "1958"
+      }
+    ],
+    "events": [
+      {
+        "title": "Execução de Savonarola",
+        "description": "O frade dominicano Girolamo Savonarola, líder teocrático de Florença e reformador radical que organizou a 'Fogueira das Vaidades', foi executado na fogueira na Piazza della Signoria de Florença, junto com dois companheiros.",
+        "year": "1498"
+      },
+      {
+        "title": "União Soviética lança o Sputnik 3",
+        "description": "A União Soviética lançou o Sputnik 3, o satélite científico mais ambicioso da era espacial inicial, concebido para o estudo do espaço exterior e da ionosfera. Pesava mais de 1.300 quilogramas.",
+        "year": "1958"
+      },
+      {
+        "title": "Inauguração do Estádio Olímpico de Barcelona",
+        "description": "O Estádio Olímpico de Montjuïc, originalmente construído para os Jogos Olímpicos de 1936 (que não chegaram a ser realizados em Barcelona), foi remodelado e inaugurado oficialmente para os Jogos Olímpicos de 1992.",
+        "year": "1989"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Desideri de Viena",
+        "type": "Bisbe i Màrtir",
+        "description": "Bisbe de Viena (actual França) del segle VII, conegut per la seva defensa dels pobres i la seva valentia davant els poderosos. Va ser martiritzat per ordre de la reina Brunegilda, que volia silenciar les seves crítiques. És considerat un dels últims màrtirs de la Gàl·lia merovíngia."
+      },
+      {
+        "name": "Santa Eufrosina d'Alexandria",
+        "type": "Verge",
+        "description": "Santa del segle V que, segons la tradició, es va disfressar de monjo per viure en un monestir masculí i evitar un matrimoni no desitjat. Va viure així durant 38 anys sense ser reconeguda. La seva història és un relat clàssic de l'ideal de virginitat en l'hagiografia antiga."
+      },
+      {
+        "name": "Beat Nicolau Hermansson",
+        "type": "Bisbe",
+        "description": "Bisbe suec del segle XIV, poeta i humanista, conegut com el 'bisbe poeta' de Suècia. Va escriure himnes en honor de Santa Brígida de Suècia i és considerat un dels primers poetes cultes de la literatura sueca medieval."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Tortuga",
+        "description": "Celebrat cada 23 de maig des de l'any 2000 per iniciativa de l'organització American Tortoise Rescue, aquest dia vol conscienciar sobre la crisi de les tortugues al món: més de la meitat de les 356 espècies conegudes estan en perill d'extinció."
+      },
+      {
+        "name": "Dia Europeu de les Llengües de Signes",
+        "description": "Jornada celebrada a diversos països europeus per visibilitzar la importància i la riquesa de les llengües de signes com a llengües naturals i per promoure els drets de les persones sordes."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La paciència i el temps fan més que la força o la passió.",
+      "author": "Jean de La Fontaine"
+    },
+    "motivationalQuote": {
+      "text": "Un viatge de mil milles comença amb un sol pas.",
+      "author": "Lao Tsé"
+    },
+    "births": [
+      {
+        "name": "Joan Miró",
+        "description": "Pintor, escultor i ceramista espanyol, nascut a Barcelona el 1893. Un dels representants més destacats del surrealisme, les seves obres es caracteritzen per colors primaris vibrants, formes abstractes i un univers oníric inconfusible. Va fundar la Fundació Joan Miró a Barcelona.",
+        "year": "1893"
+      },
+      {
+        "name": "Franz Anton Mesmer",
+        "description": "Metge alemany del segle XVIII, fundador del mesmerisme o magnetisme animal, precursor de la hipnosi moderna. Les seves teories, tot i ser posteriorment desacreditades científicament, van influir en el desenvolupament de la psicologia i la medicina alternativa.",
+        "year": "1734"
+      },
+      {
+        "name": "Drew Carey",
+        "description": "Còmic i actor americà, conegut com a presentador de The Price Is Right des del 2007 i per la sitcom The Drew Carey Show. També és un activista conegut pels drets de les persones amb discapacitat.",
+        "year": "1958"
+      }
+    ],
+    "events": [
+      {
+        "title": "Execució de Savonarola",
+        "description": "El frare dominicà Girolamo Savonarola, líder teocràtic de Florència i reformador radical que va organitzar la 'Foguera de les Vanitats', va ser executat a la foguera a la Piazza della Signoria de Florència, juntament amb dos companys.",
+        "year": "1498"
+      },
+      {
+        "title": "La Unió Soviètica llança el Sputnik 3",
+        "description": "La Unió Soviètica va llançar el Sputnik 3, el satèl·lit científic més ambiciós de la primera era espacial, dissenyat per a l'estudi de l'espai exterior i la ionosfera. Pesava més de 1.300 quilograms.",
+        "year": "1958"
+      },
+      {
+        "title": "Inauguració de l'Estadi Olímpic de Barcelona",
+        "description": "L'Estadi Olímpic de Montjuïc, originàriament construït per als Jocs Olímpics de 1936 (que no van arribar a celebrar-se a Barcelona), va ser remodelat i inaugurat oficialment per als Jocs Olímpics de 1992.",
+        "year": "1989"
+      }
+    ]
+  }
+}

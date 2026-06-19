@@ -1,0 +1,251 @@
+{
+  "date": "2025-12-31",
+  "es": {
+    "saints": [
+      {
+        "name": "San Silvestre I",
+        "type": "Papa",
+        "description": "Papa romano (314-335), cuyo pontificado coincidió con el reinado del Emperador Constantino y la plena legalización del cristianismo en el Imperio Romano. Bajo su papado se celebró el Concilio de Nicea (325). Su nombre popularizó la celebración de 'Nochevieja' como 'noche de San Silvestre' en muchos países."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Nochevieja",
+        "description": "La última noche del año se celebra en todo el mundo con reuniones familiares y de amigos, fuegos artificiales y las tradiciones locales: las doce uvas en España, el Times Square Ball Drop en Nueva York o los festejos en la Ópera de Sídney."
+      },
+      {
+        "name": "Día de San Silvestre",
+        "description": "En Suiza, Austria, Alemania e Italia el 31 de diciembre se conoce como la 'noche de San Silvestre' (Silvesternacht / Notte di Silvestro). En Suiza se corre la famosa Carrera de San Silvestre."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No es que tengamos poco tiempo, es que perdemos mucho.",
+      "author": "Séneca",
+      "context": "Filósofo estoico hispano-romano del siglo I, autor del tratado Sobre la brevedad de la vida, cuya reflexión sobre el tiempo es especialmente pertinente en la última noche del año."
+    },
+    "motivationalQuote": {
+      "text": "¡Que el año nuevo te encuentre más sabio, más valiente y más generoso que el año que termina!",
+      "author": "Anónimo"
+    },
+    "births": [
+      {
+        "name": "Jacques Cartier",
+        "description": "Explorador y navegante bretón del siglo XVI, primer europeo en describir y cartografiar el Golfo de San Lorenzo y el río San Lorenzo, reclamando para Francia el territorio que hoy es Canadá.",
+        "year": 1491
+      },
+      {
+        "name": "Henri Matisse",
+        "description": "Pintor y escultor francés, uno de los grandes maestros del arte del siglo XX, líder del fauvismo y conocido por su uso audaz del color en obras como La danza y La alegría de vivir.",
+        "year": 1869
+      },
+      {
+        "name": "Anthony Hopkins",
+        "description": "Actor galés, ganador de dos premios Óscar (por El silencio de los corderos y The Father), considerado uno de los mejores actores de todos los tiempos.",
+        "year": 1937
+      }
+    ],
+    "events": [
+      {
+        "title": "Fin del año gregoriano",
+        "description": "El último día del año según el calendario gregoriano, adoptado en 1582 por el Papa Gregorio XIII y hoy utilizado como calendario civil en la mayor parte del mundo.",
+        "year": 1600
+      },
+      {
+        "title": "Inauguración de la Torre Eiffel (preparativos)",
+        "description": "Se completaron las obras de construcción de la Torre Eiffel en París, que se inauguraría el 31 de marzo de 1889 para la Exposición Universal, convirtiéndose en el símbolo de Francia.",
+        "year": 1889
+      },
+      {
+        "title": "Disolución del Imperio Austro-Húngaro",
+        "description": "El Imperio Austro-Húngaro se disolvió formalmente a final de 1918 tras la derrota en la Primera Guerra Mundial, dando lugar a numerosos estados independientes en Europa Central y del Este.",
+        "year": 1918
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Sylvester I",
+        "type": "Pope",
+        "description": "Roman pope (314–335), whose pontificate coincided with the reign of Emperor Constantine and the full legalisation of Christianity in the Roman Empire. The Council of Nicaea (325) was held during his papacy. His name gave rise to the celebration of New Year's Eve as 'Saint Sylvester's Night' in many countries."
+      }
+    ],
+    "observances": [
+      {
+        "name": "New Year's Eve",
+        "description": "The last night of the year is celebrated worldwide with gatherings of family and friends, fireworks, and local traditions: the twelve grapes in Spain, the Times Square Ball Drop in New York, or the Sydney Opera House festivities."
+      },
+      {
+        "name": "Saint Sylvester's Day",
+        "description": "In Switzerland, Austria, Germany, and Italy, 31 December is known as 'Sylvester Night' (Silvesternacht / Notte di Silvestro). In Switzerland, the famous San Silvester Run is held."
+      }
+    ],
+    "historicalQuote": {
+      "text": "It is not that we have a short time to live, but that we waste a good deal of it.",
+      "author": "Seneca",
+      "context": "Hispano-Roman Stoic philosopher of the 1st century, author of the treatise On the Shortness of Life, whose reflection on time is especially apt on the last night of the year."
+    },
+    "motivationalQuote": {
+      "text": "May the new year find you wiser, braver, and more generous than the year that ends!",
+      "author": "Anonymous"
+    },
+    "births": [
+      {
+        "name": "Jacques Cartier",
+        "description": "Breton explorer and navigator of the 16th century, the first European to describe and chart the Gulf of St Lawrence and the St Lawrence River, claiming for France the territory now known as Canada.",
+        "year": 1491
+      },
+      {
+        "name": "Henri Matisse",
+        "description": "French painter and sculptor, one of the great masters of 20th-century art, leader of Fauvism and known for his bold use of colour in works such as The Dance and Joy of Life.",
+        "year": 1869
+      },
+      {
+        "name": "Anthony Hopkins",
+        "description": "Welsh actor, two-time Academy Award winner (for The Silence of the Lambs and The Father), considered one of the greatest actors of all time.",
+        "year": 1937
+      }
+    ],
+    "events": [
+      {
+        "title": "End of the Gregorian year",
+        "description": "The last day of the year according to the Gregorian calendar, adopted in 1582 by Pope Gregory XIII and today used as the civil calendar in most of the world.",
+        "year": 1600
+      },
+      {
+        "title": "Eiffel Tower construction completed",
+        "description": "Construction of the Eiffel Tower in Paris was completed; it would be inaugurated on 31 March 1889 for the Universal Exhibition, becoming the symbol of France.",
+        "year": 1889
+      },
+      {
+        "title": "Dissolution of the Austro-Hungarian Empire",
+        "description": "The Austro-Hungarian Empire formally dissolved at the end of 1918 following defeat in World War I, giving rise to numerous independent states in Central and Eastern Europe.",
+        "year": 1918
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Silvestre I",
+        "type": "Papa",
+        "description": "Papa romano (314–335), cujo pontificado coincidiu com o reinado do Imperador Constantino e a plena legalização do cristianismo no Império Romano. O Concílio de Niceia (325) realizou-se durante o seu pontificado. O seu nome popularizou a celebração da véspera de Ano Novo como 'noite de São Silvestre' em muitos países."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Véspera de Ano Novo (Réveillon)",
+        "description": "A última noite do ano é celebrada em todo o mundo com reuniões de família e amigos, fogos de artifício e tradições locais: as doze uvas em Espanha, a queda da bola na Times Square em Nova Iorque ou as festividades na Ópera de Sydney."
+      },
+      {
+        "name": "Dia de São Silvestre",
+        "description": "Na Suíça, Áustria, Alemanha e Itália, o dia 31 de dezembro é conhecido como a 'noite de Silvestre' (Silvesternacht / Notte di Silvestro). Na Suíça realiza-se a famosa Corrida de São Silvestre."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Não é que tenhamos pouco tempo, é que desperdiçamos muito.",
+      "author": "Séneca",
+      "context": "Filósofo estoico hispano-romano do século I, autor do tratado Sobre a Brevidade da Vida, cuja reflexão sobre o tempo é especialmente pertinente na última noite do ano."
+    },
+    "motivationalQuote": {
+      "text": "Que o Ano Novo te encontre mais sábio, mais corajoso e mais generoso do que o ano que termina!",
+      "author": "Anônimo"
+    },
+    "births": [
+      {
+        "name": "Jacques Cartier",
+        "description": "Explorador e navegador bretão do século XVI, o primeiro europeu a descrever e cartografar o Golfo de São Lourenço e o Rio São Lourenço, reclamando para França o território que hoje é o Canadá.",
+        "year": 1491
+      },
+      {
+        "name": "Henri Matisse",
+        "description": "Pintor e escultor francês, um dos grandes mestres da arte do século XX, líder do fauvismo e conhecido pelo seu uso audacioso da cor em obras como A Dança e A Alegria de Viver.",
+        "year": 1869
+      },
+      {
+        "name": "Anthony Hopkins",
+        "description": "Ator galês, vencedor de dois Oscars (por O Silêncio dos Inocentes e The Father), considerado um dos melhores atores de todos os tempos.",
+        "year": 1937
+      }
+    ],
+    "events": [
+      {
+        "title": "Fim do ano gregoriano",
+        "description": "O último dia do ano segundo o calendário gregoriano, adotado em 1582 pelo Papa Gregório XIII e hoje utilizado como calendário civil na maior parte do mundo.",
+        "year": 1600
+      },
+      {
+        "title": "Construção da Torre Eiffel concluída",
+        "description": "A construção da Torre Eiffel em Paris foi concluída; seria inaugurada a 31 de março de 1889 para a Exposição Universal, tornando-se o símbolo de França.",
+        "year": 1889
+      },
+      {
+        "title": "Dissolução do Império Austro-Húngaro",
+        "description": "O Império Austro-Húngaro dissolveu-se formalmente no final de 1918 após a derrota na Primeira Guerra Mundial, dando origem a numerosos estados independentes na Europa Central e de Leste.",
+        "year": 1918
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Silvestre I",
+        "type": "Papa",
+        "description": "Papa romà (314–335), el pontificat del qual va coincidir amb el regnat de l'Emperador Constantí i la plena legalització del cristianisme a l'Imperi Romà. El Concili de Nicea (325) es va celebrar durant el seu papat. El seu nom va popularitzar la celebració de la fi d'any com la 'nit de Sant Silvestre' en molts països."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Cap d'Any (Nochevieja)",
+        "description": "L'última nit de l'any es celebra arreu del món amb reunions de família i amics, focs artificials i tradicions locals: els dotze raïms a Espanya, la caiguda de la bola a Times Square a Nova York o les festivitats a l'Òpera de Sidney."
+      },
+      {
+        "name": "Dia de Sant Silvestre",
+        "description": "A Suïssa, Àustria, Alemanya i Itàlia, el 31 de desembre es coneix com la 'nit de Silvestre' (Silvesternacht / Notte di Silvestro). A Suïssa se celebra la famosa Cursa de Sant Silvestre."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No és que tinguem poc temps, és que n'esmercem molt.",
+      "author": "Sèneca",
+      "context": "Filòsof estoic hispanoromà del segle I, autor del tractat Sobre la brevetat de la vida, la reflexió del qual sobre el temps és especialment pertinent en l'última nit de l'any."
+    },
+    "motivationalQuote": {
+      "text": "Que l'any nou et trobi més savi, més valent i més generós que l'any que acaba!",
+      "author": "Anònim"
+    },
+    "births": [
+      {
+        "name": "Jacques Cartier",
+        "description": "Explorador i navegant bretó del segle XVI, primer europeu a descriure i cartografiar el Golf de Sant Llorenç i el riu Sant Llorenç, reclamant per a França el territori que avui és el Canadà.",
+        "year": 1491
+      },
+      {
+        "name": "Henri Matisse",
+        "description": "Pintor i escultor francès, un dels grans mestres de l'art del segle XX, líder del fauvisme i conegut pel seu ús audaç del color en obres com La dansa i L'alegria de viure.",
+        "year": 1869
+      },
+      {
+        "name": "Anthony Hopkins",
+        "description": "Actor gal·lès, guanyador de dos Oscar (per El silenci dels anyells i The Father), considerat un dels millors actors de tots els temps.",
+        "year": 1937
+      }
+    ],
+    "events": [
+      {
+        "title": "Fi de l'any gregorià",
+        "description": "L'últim dia de l'any segons el calendari gregorià, adoptat el 1582 pel Papa Gregori XIII i avui utilitzat com a calendari civil a la major part del món.",
+        "year": 1600
+      },
+      {
+        "title": "Construcció de la Torre Eiffel completada",
+        "description": "La construcció de la Torre Eiffel a París va ser completada; seria inaugurada el 31 de març de 1889 per a l'Exposició Universal, convertint-se en el símbol de França.",
+        "year": 1889
+      },
+      {
+        "title": "Dissolució de l'Imperi Austrohongarès",
+        "description": "L'Imperi Austrohongarès es va dissoldre formalment a finals de 1918 després de la derrota a la Primera Guerra Mundial, donant lloc a nombrosos estats independents a l'Europa Central i de l'Est.",
+        "year": 1918
+      }
+    ]
+  }
+}

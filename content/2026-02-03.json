@@ -1,0 +1,119 @@
+{
+  "date": "2026-02-03",
+  "es": {
+    "saints": [
+      { "name": "San Blas", "type": "Mártir y obispo", "description": "Obispo de Sebaste (Armenia) martirizado en el siglo IV; patrono de los enfermos de garganta, cuya festividad se celebra con la bendición de gargantas." },
+      { "name": "Santa Ágata de Catania", "type": "Virgen y mártir", "description": "Joven siciliana martirizada en el siglo III bajo el emperador Decio; patrona de Catania y de las víctimas de desastres naturales." }
+    ],
+    "observances": [
+      { "name": "Día Internacional de las Lenguas Maternas (preparación)", "description": "Próximo al 21 de febrero, esta semana se promueve la diversidad lingüística y la enseñanza en lengua materna a nivel global." },
+      { "name": "Día de la Tortuga en EE. UU.", "description": "Jornada de sensibilización sobre la conservación de las tortugas marinas y terrestres en peligro de extinción." }
+    ],
+    "historicalQuote": {
+      "text": "No hay camino para la paz; la paz es el camino.",
+      "author": "Mahatma Gandhi",
+      "context": "Gandhi fue asesinado el 30 de enero de 1948. Esta frase, atribuida a él, resume su filosofía de la no violencia practicada a lo largo de toda su vida."
+    },
+    "motivationalQuote": {
+      "text": "El éxito no es definitivo, el fracaso no es fatal; lo que cuenta es el coraje de continuar.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      { "name": "Gertrude Stein", "description": "Escritora y mecenas estadounidense afincada en París, figura central de la Generación Perdida y promotora de artistas como Picasso y Hemingway.", "year": 1874 },
+      { "name": "Norman Rockwell", "description": "Ilustrador y pintor estadounidense, célebre por sus portadas de The Saturday Evening Post que retratan la vida cotidiana americana.", "year": 1894 },
+      { "name": "Warrick Thompson (Daddy Yankee)", "description": "Rapero y cantante puertorriqueño, conocido como el «Rey del Reguetón», impulsor global del género urbano latino.", "year": 1977 }
+    ],
+    "events": [
+      { "title": "El 'día en que murió la música'", "description": "Buddy Holly, Ritchie Valens y The Big Bopper fallecen en un accidente aéreo cerca de Clear Lake (Iowa), trágico momento inmortalizado por Don McLean en American Pie.", "year": 1959 },
+      { "title": "Creación del Territorio de California", "description": "El Congreso de los Estados Unidos organiza el Territorio de California como entidad administrativa tras la guerra México-Americana.", "year": 1848 },
+      { "title": "Apertura de la primera lonja de valores de Nueva York", "description": "Se inaugura la Bolsa de Nueva York en su ubicación original de Wall Street, dando inicio a la era moderna de los mercados financieros estadounidenses.", "year": 1817 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Blaise", "type": "Martyr and Bishop", "description": "Bishop of Sebaste (Armenia) martyred in the 4th century; patron of throat ailments, whose feast is celebrated with the blessing of throats." },
+      { "name": "Saint Agatha of Catania", "type": "Virgin and Martyr", "description": "Young Sicilian woman martyred in the 3rd century under Emperor Decius; patron of Catania and victims of natural disasters." }
+    ],
+    "observances": [
+      { "name": "Mother Language Day (lead-up)", "description": "In the run-up to 21 February, this week promotes linguistic diversity and mother-tongue education worldwide." },
+      { "name": "Turtle Day (USA)", "description": "Awareness day for the conservation of endangered sea and land turtles." }
+    ],
+    "historicalQuote": {
+      "text": "There is no path to peace; peace is the path.",
+      "author": "Mahatma Gandhi",
+      "context": "Gandhi was assassinated on 30 January 1948. This phrase, attributed to him, encapsulates his lifelong philosophy of non-violence."
+    },
+    "motivationalQuote": {
+      "text": "Success is not final, failure is not fatal; it is the courage to continue that counts.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      { "name": "Gertrude Stein", "description": "American writer and art patron based in Paris, central figure of the Lost Generation and promoter of artists such as Picasso and Hemingway.", "year": 1874 },
+      { "name": "Norman Rockwell", "description": "American illustrator and painter, celebrated for his Saturday Evening Post covers depicting everyday American life.", "year": 1894 },
+      { "name": "Daddy Yankee", "description": "Puerto Rican rapper and singer, known as the 'King of Reggaeton', global driver of the Latin urban genre.", "year": 1977 }
+    ],
+    "events": [
+      { "title": "The Day the Music Died", "description": "Buddy Holly, Ritchie Valens and The Big Bopper die in a plane crash near Clear Lake, Iowa — a tragic moment immortalised by Don McLean in American Pie.", "year": 1959 },
+      { "title": "Creation of the Territory of California", "description": "The US Congress organises the Territory of California as an administrative entity following the Mexican-American War.", "year": 1848 },
+      { "title": "Opening of the first New York Stock Exchange building", "description": "The New York Stock Exchange opens at its original Wall Street location, launching the modern era of American financial markets.", "year": 1817 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Brás", "type": "Mártir e bispo", "description": "Bispo de Sebaste (Armênia) martirizado no século IV; patrono dos doentes da garganta, cuja festividade é celebrada com a bênção das gargantas." },
+      { "name": "Santa Ágata de Catânia", "type": "Virgem e mártir", "description": "Jovem siciliana martirizada no século III sob o imperador Décio; padroeira de Catânia e das vítimas de desastres naturais." }
+    ],
+    "observances": [
+      { "name": "Dia Internacional da Língua Materna (preparação)", "description": "Às vésperas do dia 21 de fevereiro, esta semana promove a diversidade linguística e o ensino na língua materna em todo o mundo." },
+      { "name": "Dia da Tartaruga nos EUA", "description": "Jornada de conscientização sobre a conservação de tartarugas marinhas e terrestres em extinção." }
+    ],
+    "historicalQuote": {
+      "text": "Não há caminho para a paz; a paz é o caminho.",
+      "author": "Mahatma Gandhi",
+      "context": "Gandhi foi assassinado em 30 de janeiro de 1948. Esta frase, atribuída a ele, resume sua filosofia de não violência praticada ao longo de toda a vida."
+    },
+    "motivationalQuote": {
+      "text": "O sucesso não é definitivo, o fracasso não é fatal; o que conta é a coragem de continuar.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      { "name": "Gertrude Stein", "description": "Escritora e mecenas americana radicada em Paris, figura central da Geração Perdida e promotora de artistas como Picasso e Hemingway.", "year": 1874 },
+      { "name": "Norman Rockwell", "description": "Ilustrador e pintor americano, célebre pelas capas do The Saturday Evening Post que retratam o cotidiano americano.", "year": 1894 },
+      { "name": "Daddy Yankee", "description": "Rapper e cantor porto-riquenho, conhecido como o 'Rei do Reggaeton', impulsionador global do gênero urbano latino.", "year": 1977 }
+    ],
+    "events": [
+      { "title": "O 'dia em que a música morreu'", "description": "Buddy Holly, Ritchie Valens e The Big Bopper morrem num acidente aéreo perto de Clear Lake (Iowa), trágico momento imortalizado por Don McLean em American Pie.", "year": 1959 },
+      { "title": "Criação do Território da Califórnia", "description": "O Congresso dos EUA organiza o Território da Califórnia como entidade administrativa após a guerra México-Americana.", "year": 1848 },
+      { "title": "Abertura da primeira sede da Bolsa de Nova York", "description": "A Bolsa de Nova York é inaugurada em sua localização original em Wall Street, dando início à era moderna dos mercados financeiros americanos.", "year": 1817 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Blai", "type": "Màrtir i bisbe", "description": "Bisbe de Sebaste (Armènia) martiritzat al segle IV; patró dels malalts de gola, la festivitat del qual se celebra amb la benedicció de gorges." },
+      { "name": "Santa Àgata de Catània", "type": "Verge i màrtir", "description": "Jove siciliana martiritzada al segle III sota l'emperador Deci; patrona de Catània i de les víctimes de desastres naturals." }
+    ],
+    "observances": [
+      { "name": "Dia Internacional de la Llengua Materna (preparació)", "description": "Properament al 21 de febrer, aquesta setmana promou la diversitat lingüística i l'ensenyament en llengua materna arreu del món." },
+      { "name": "Dia de la Tortuga als EUA", "description": "Jornada de sensibilització sobre la conservació de les tortugues marines i terrestres en perill d'extinció." }
+    ],
+    "historicalQuote": {
+      "text": "No hi ha camí per a la pau; la pau és el camí.",
+      "author": "Mahatma Gandhi",
+      "context": "Gandhi va ser assassinat el 30 de gener de 1948. Aquesta frase, atribuïda a ell, resumeix la seva filosofia de la no violència practicada al llarg de tota la vida."
+    },
+    "motivationalQuote": {
+      "text": "L'èxit no és definitiu, el fracàs no és fatal; el que compta és el coratge de continuar.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      { "name": "Gertrude Stein", "description": "Escriptora i mecenes nord-americana establerta a París, figura central de la Generació Perduda i promotora d'artistes com Picasso i Hemingway.", "year": 1874 },
+      { "name": "Norman Rockwell", "description": "Il·lustrador i pintor nord-americà, cèlebre per les portades del The Saturday Evening Post que retraten la vida quotidiana americana.", "year": 1894 },
+      { "name": "Daddy Yankee", "description": "Rapper i cantant porto-riqueny, conegut com el 'Rei del Reggaeton', impulsor global del gènere urbà llatí.", "year": 1977 }
+    ],
+    "events": [
+      { "title": "El 'dia en què la música va morir'", "description": "Buddy Holly, Ritchie Valens i The Big Bopper moren en un accident aeri prop de Clear Lake (Iowa), moment tràgic immortalitzat per Don McLean a American Pie.", "year": 1959 },
+      { "title": "Creació del Territori de Califòrnia", "description": "El Congrés dels EUA organitza el Territori de Califòrnia com a entitat administrativa després de la guerra de Mèxic.", "year": 1848 },
+      { "title": "Obertura del primer edifici de la Borsa de Nova York", "description": "La Borsa de Nova York s'inaugura a la seva ubicació original a Wall Street, donant inici a l'era moderna dels mercats financers americans.", "year": 1817 }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-03",
+  "es": {
+    "saints": [
+      {
+        "name": "San Felipe Apóstol",
+        "type": "Apóstol",
+        "description": "Uno de los doce apóstoles de Jesús, natural de Betsaida (Galilea). Fue el apóstol que llevó a Natanael (Bartolomé) a Cristo. Según la tradición, predicó el Evangelio en Frigia (actual Turquía) y sufrió martirio en Hierápolis."
+      },
+      {
+        "name": "Santiago el Menor",
+        "type": "Apóstol y Mártir",
+        "description": "Apóstol e hijo de Alfeo, conocido como 'el Menor' para distinguirlo de Santiago el Mayor. Fue el primer obispo de Jerusalén y autor de la Epístola de Santiago. Según el historiador Josefo, fue apedreado en el año 62 d.C."
+      },
+      {
+        "name": "Beato Eduardo Jones",
+        "type": "Mártir",
+        "description": "Sacerdote galés del siglo XVI, mártir de la fe católica bajo el reinado de la reina Isabel I de Inglaterra. Fue ahorcado, descuartizado y ejecutado en Fleet Street, Londres, en 1590."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Libertad de Prensa",
+        "description": "Proclamado por la UNESCO y la ONU, el 3 de mayo se conmemora la Declaración de Windhoek de 1991, que afirmó los principios de una prensa libre, independiente y pluralista. Se premia a periodistas valientes con el Premio UNESCO/Guillermo Cano."
+      },
+      {
+        "name": "Día Internacional del Sol",
+        "description": "Celebrado para fomentar el conocimiento y uso de la energía solar como alternativa limpia y renovable a los combustibles fósiles, promoviendo la transición energética global."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La libertad de prensa es una de las garantías más grandes de la libertad y el bienestar.",
+      "author": "Immanuel Kant"
+    },
+    "motivationalQuote": {
+      "text": "La única forma de hacer un gran trabajo es amar lo que haces.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Niccolò Machiavelli",
+        "description": "Filósofo, escritor y diplomático florentino del Renacimiento, padre de la ciencia política moderna. Su obra El príncipe (1532) describió de manera pragmática el ejercicio del poder político y ha influido en el pensamiento político occidental durante siglos.",
+        "year": "1469"
+      },
+      {
+        "name": "Golda Meir",
+        "description": "Política israelí nacida en Kiev (Ucrania), cuarta primera ministra de Israel (1969–1974) y la tercera mujer en la historia en ocupar ese cargo. Dirigió el país durante la Guerra del Yom Kipur de 1973.",
+        "year": "1898"
+      },
+      {
+        "name": "James Brown",
+        "description": "Cantante, compositor y músico afroamericano apodado 'el Padrino del Soul'. Pionero del funk y del soul, sus éxitos como I Feel Good y Sex Machine le convirtieron en una de las figuras más influyentes de la música popular del siglo XX.",
+        "year": "1933"
+      }
+    ],
+    "events": [
+      {
+        "title": "Apertura del Palacio de Cristal de Londres",
+        "description": "La Gran Exposición Universal de Londres abrió sus puertas en el Palacio de Cristal de Hyde Park, la primera exposición internacional de la era industrial. Presentó los adelantos tecnológicos e industriales de más de 25 países.",
+        "year": "1851"
+      },
+      {
+        "title": "Primer vuelo en helicóptero certificado",
+        "description": "Igor Sikorsky realizó el primer vuelo oficial en su helicóptero VS-300, que sentó las bases del diseño moderno de helicópteros de rotor principal y rotor de cola, revolucionando la aviación.",
+        "year": "1941"
+      },
+      {
+        "title": "Inauguración del Musée d'Orsay en París",
+        "description": "El presidente François Mitterrand inauguró el Musée d'Orsay en París, instalado en una antigua estación de ferrocarril y dedicado al arte del período 1848–1914, con una de las mayores colecciones impresionistas del mundo.",
+        "year": "1986"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Philip the Apostle",
+        "type": "Apostle",
+        "description": "One of the twelve apostles of Jesus, a native of Bethsaida in Galilee. He was the apostle who brought Nathanael (Bartholomew) to Christ. According to tradition, he preached the Gospel in Phrygia (present-day Turkey) and suffered martyrdom in Hierapolis."
+      },
+      {
+        "name": "Saint James the Less",
+        "type": "Apostle and Martyr",
+        "description": "Apostle and son of Alphaeus, known as 'the Less' to distinguish him from James the Greater. He was the first Bishop of Jerusalem and author of the Epistle of James. According to the historian Josephus, he was stoned to death in 62 AD."
+      },
+      {
+        "name": "Blessed Edward Jones",
+        "type": "Martyr",
+        "description": "Welsh priest of the 16th century, martyr of the Catholic faith under the reign of Queen Elizabeth I of England. He was hanged, drawn, and quartered at Fleet Street, London, in 1590."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Press Freedom Day",
+        "description": "Proclaimed by UNESCO and the UN, May 3 commemorates the 1991 Windhoek Declaration, which affirmed the principles of a free, independent, and pluralistic press. Courageous journalists are honoured with the UNESCO/Guillermo Cano Prize."
+      },
+      {
+        "name": "International Sun Day",
+        "description": "Celebrated to promote awareness and use of solar energy as a clean and renewable alternative to fossil fuels, encouraging a global energy transition."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Freedom of the press is one of the greatest guarantees of freedom and well-being.",
+      "author": "Immanuel Kant"
+    },
+    "motivationalQuote": {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Niccolò Machiavelli",
+        "description": "Florentine philosopher, writer, and diplomat of the Renaissance, father of modern political science. His work The Prince (1532) pragmatically described the exercise of political power and has influenced Western political thought for centuries.",
+        "year": "1469"
+      },
+      {
+        "name": "Golda Meir",
+        "description": "Israeli politician born in Kyiv (Ukraine), fourth Prime Minister of Israel (1969–1974) and the third woman in history to hold that office. She led the country during the 1973 Yom Kippur War.",
+        "year": "1898"
+      },
+      {
+        "name": "James Brown",
+        "description": "African-American singer, songwriter, and musician nicknamed 'the Godfather of Soul'. A pioneer of funk and soul, his hits such as I Feel Good and Sex Machine made him one of the most influential figures in 20th-century popular music.",
+        "year": "1933"
+      }
+    ],
+    "events": [
+      {
+        "title": "Opening of the Crystal Palace in London",
+        "description": "The Great Exhibition of the Works of Industry of All Nations opened at the Crystal Palace in Hyde Park, the first international exhibition of the industrial era. It showcased technological and industrial advances from more than 25 countries.",
+        "year": "1851"
+      },
+      {
+        "title": "First Certified Helicopter Flight",
+        "description": "Igor Sikorsky made the first official flight in his VS-300 helicopter, which laid the foundations for the modern design of main-rotor and tail-rotor helicopters, revolutionising aviation.",
+        "year": "1941"
+      },
+      {
+        "title": "Opening of the Musée d'Orsay in Paris",
+        "description": "President François Mitterrand inaugurated the Musée d'Orsay in Paris, housed in a former railway station and dedicated to art from the period 1848–1914, with one of the world's largest Impressionist collections.",
+        "year": "1986"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Filipe Apóstolo",
+        "type": "Apóstolo",
+        "description": "Um dos doze apóstolos de Jesus, natural de Betsaida (Galileia). Foi o apóstolo que trouxe Natanael (Bartolomeu) a Cristo. Segundo a tradição, pregou o Evangelho na Frígia (atual Turquia) e sofreu martírio em Hierápolis."
+      },
+      {
+        "name": "São Tiago Menor",
+        "type": "Apóstolo e Mártir",
+        "description": "Apóstolo e filho de Alfeu, conhecido como 'o Menor' para distingui-lo de Tiago Maior. Foi o primeiro bispo de Jerusalém e autor da Epístola de Tiago. Segundo o historiador Josefo, foi apedrejado no ano 62 d.C."
+      },
+      {
+        "name": "Beato Eduardo Jones",
+        "type": "Mártir",
+        "description": "Sacerdote galês do século XVI, mártir da fé católica sob o reinado da rainha Isabel I da Inglaterra. Foi enforcado, esquartejado e executado na Fleet Street, em Londres, em 1590."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Liberdade de Imprensa",
+        "description": "Proclamado pela UNESCO e pela ONU, o 3 de maio comemora a Declaração de Windhoek de 1991, que afirmou os princípios de uma imprensa livre, independente e pluralista. Jornalistas corajosos são premiados com o Prêmio UNESCO/Guillermo Cano."
+      },
+      {
+        "name": "Dia Internacional do Sol",
+        "description": "Celebrado para promover o conhecimento e o uso da energia solar como alternativa limpa e renovável aos combustíveis fósseis, incentivando a transição energética global."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A liberdade de imprensa é uma das maiores garantias da liberdade e do bem-estar.",
+      "author": "Immanuel Kant"
+    },
+    "motivationalQuote": {
+      "text": "A única maneira de fazer um ótimo trabalho é amar o que você faz.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Nicolau Maquiavel",
+        "description": "Filósofo, escritor e diplomata florentino do Renascimento, pai da ciência política moderna. Sua obra O Príncipe (1532) descreveu pragmaticamente o exercício do poder político e influenciou o pensamento político ocidental por séculos.",
+        "year": "1469"
+      },
+      {
+        "name": "Golda Meir",
+        "description": "Política israelense nascida em Kyiv (Ucrânia), quarta primeira-ministra de Israel (1969–1974) e a terceira mulher na história a ocupar esse cargo. Liderou o país durante a Guerra do Yom Kippur de 1973.",
+        "year": "1898"
+      },
+      {
+        "name": "James Brown",
+        "description": "Cantor, compositor e músico afro-americano apelidado de 'Padrinho do Soul'. Pioneiro do funk e do soul, seus sucessos como I Feel Good e Sex Machine fizeram dele uma das figuras mais influentes da música popular do século XX.",
+        "year": "1933"
+      }
+    ],
+    "events": [
+      {
+        "title": "Abertura do Palácio de Cristal em Londres",
+        "description": "A Grande Exposição Universal de Londres abriu as portas no Palácio de Cristal no Hyde Park, a primeira exposição internacional da era industrial. Apresentou avanços tecnológicos e industriais de mais de 25 países.",
+        "year": "1851"
+      },
+      {
+        "title": "Primeiro voo certificado em helicóptero",
+        "description": "Igor Sikorsky realizou o primeiro voo oficial em seu helicóptero VS-300, que lançou as bases do design moderno de helicópteros com rotor principal e rotor de cauda, revolucionando a aviação.",
+        "year": "1941"
+      },
+      {
+        "title": "Inauguração do Musée d'Orsay em Paris",
+        "description": "O presidente François Mitterrand inaugurou o Musée d'Orsay em Paris, instalado em uma antiga estação ferroviária e dedicado à arte do período 1848–1914, com uma das maiores coleções impressionistas do mundo.",
+        "year": "1986"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Felip Apòstol",
+        "type": "Apòstol",
+        "description": "Un dels dotze apòstols de Jesús, natural de Betsaida (Galilea). Va ser l'apòstol que va portar Natanael (Bartomeu) a Crist. Segons la tradició, va predicar l'Evangeli a Frígia (actual Turquia) i va patir martiri a Hieràpolis."
+      },
+      {
+        "name": "Sant Jaume el Menor",
+        "type": "Apòstol i Màrtir",
+        "description": "Apòstol i fill d'Alfeu, conegut com 'el Menor' per distingir-lo de Jaume el Major. Va ser el primer bisbe de Jerusalem i autor de l'Epístola de Jaume. Segons l'historiador Flavi Josep, va ser lapidat l'any 62 dC."
+      },
+      {
+        "name": "Beat Eduard Jones",
+        "type": "Màrtir",
+        "description": "Sacerdot gal·lès del segle XVI, màrtir de la fe catòlica sota el regnat de la reina Elisabet I d'Anglaterra. Va ser penjat, esquarterat i executat a Fleet Street, Londres, el 1590."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Llibertat de Premsa",
+        "description": "Proclamat per la UNESCO i l'ONU, el 3 de maig commemora la Declaració de Windhoek de 1991, que va afirmar els principis d'una premsa lliure, independent i pluralista. Els periodistes valents són guardonats amb el Premi UNESCO/Guillermo Cano."
+      },
+      {
+        "name": "Dia Internacional del Sol",
+        "description": "Celebrat per fomentar el coneixement i l'ús de l'energia solar com a alternativa neta i renovable als combustibles fòssils, promovent la transició energètica global."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La llibertat de premsa és una de les garanties més grans de la llibertat i el benestar.",
+      "author": "Immanuel Kant"
+    },
+    "motivationalQuote": {
+      "text": "L'única manera de fer una gran feina és estimar el que fas.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Nicolau Maquiavel",
+        "description": "Filòsof, escriptor i diplomàtic florentí del Renaixement, pare de la ciència política moderna. La seva obra El príncep (1532) va descriure de manera pragmàtica l'exercici del poder polític i ha influït en el pensament polític occidental durant segles.",
+        "year": "1469"
+      },
+      {
+        "name": "Golda Meir",
+        "description": "Política israeliana nascuda a Kíev (Ucraïna), quarta primera ministra d'Israel (1969–1974) i la tercera dona a la història a ocupar aquest càrrec. Va dirigir el país durant la Guerra del Yom Kippur de 1973.",
+        "year": "1898"
+      },
+      {
+        "name": "James Brown",
+        "description": "Cantant, compositor i músic afroamericà apodiat 'el Padrí del Soul'. Pioner del funk i del soul, els seus èxits com I Feel Good i Sex Machine el van convertir en una de les figures més influents de la música popular del segle XX.",
+        "year": "1933"
+      }
+    ],
+    "events": [
+      {
+        "title": "Obertura del Palau de Cristall de Londres",
+        "description": "La Gran Exposició Universal de Londres va obrir les portes al Palau de Cristall del Hyde Park, la primera exposició internacional de l'era industrial. Va presentar els avenços tecnològics i industrials de més de 25 països.",
+        "year": "1851"
+      },
+      {
+        "title": "Primer vol certificat en helicòpter",
+        "description": "Igor Sikorsky va realitzar el primer vol oficial en el seu helicòpter VS-300, que va establir les bases del disseny modern d'helicòpters amb rotor principal i rotor de cua, revolucionant l'aviació.",
+        "year": "1941"
+      },
+      {
+        "title": "Inauguració del Musée d'Orsay a París",
+        "description": "El president François Mitterrand va inaugurar el Musée d'Orsay a París, instal·lat en una antiga estació de ferrocarril i dedicat a l'art del període 1848–1914, amb una de les col·leccions impressionistes més grans del món.",
+        "year": "1986"
+      }
+    ]
+  }
+}

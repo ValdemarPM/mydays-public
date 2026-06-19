@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-18",
+  "es": {
+    "saints": [
+      { "name": "San Cirilo de Jerusalén", "type": "Obispo y Doctor", "description": "Obispo de Jerusalén en el siglo IV, famoso por sus Catequesis, instrucciones detalladas para los catecúmenos que son fuente esencial para la liturgia y la teología primitiva." },
+      { "name": "San Eduardo el Mártir", "type": "Rey y mártir", "description": "Rey de Inglaterra en el siglo X, asesinado a los 18 años probablemente a instigación de su madrastra, para que su hermanastro Etelredo (el Indeciso) pudiera ocupar el trono." },
+      { "name": "San Anselmo de Lucca", "type": "Obispo", "description": "Obispo de Lucca en el siglo XI, reformador gregoriano y ferviente defensor del papa Gregorio VII; sus escritos sobre el derecho canónico influyeron decisivamente en la Reforma de la Iglesia." }
+    ],
+    "observances": [
+      { "name": "Día Nacional de la Recuperación de las Adicciones (Alemania)", "description": "Jornada que en Alemania reconoce el trabajo de las personas que superan las adicciones y el apoyo de los servicios de salud mental." },
+      { "name": "Día Internacional de la Lucha Contra la Esclavitud", "description": "Jornada de memoria y denuncia de las formas modernas de esclavitud y explotación humana, que incluyen la trata de personas, el trabajo forzado y los matrimonios forzados." }
+    ],
+    "historicalQuote": {
+      "text": "La educación es el arma más poderosa que puedes usar para cambiar el mundo.",
+      "author": "Nelson Mandela",
+      "context": "Nelson Mandela pronunció estas palabras en el lanzamiento de la Fundación Mindset Network en 2003, en Johannesburgo. Reflejan su convicción de que la educación fue clave para superar el apartheid y construir una nueva Sudáfrica."
+    },
+    "motivationalQuote": {
+      "text": "El talento gana partidos, pero el trabajo en equipo gana campeonatos.",
+      "author": "Michael Jordan"
+    },
+    "births": [
+      { "name": "Nicolás Copérnico", "description": "Astrónomo polaco del Renacimiento que formuló el modelo heliocéntrico del sistema solar, situando al Sol en el centro y a la Tierra en órbita; su obra 'De revolutionibus' marcó el inicio de la revolución científica.", "year": 1473 },
+      { "name": "Stéphane Mallarmé", "description": "Poeta y crítico francés, figura central del simbolismo literario del siglo XIX, conocido por sus poemas herméticos y su célebre poema 'Un golpe de dados nunca abolirá el azar'.", "year": 1842 },
+      { "name": "Queen Latifah (Dana Owens)", "description": "Rapera, actriz y productora americana, pionera del hip-hop femenino y ganadora de un Grammy, conocida también por sus papeles en 'Chicago' (2002) y 'Barbershop 2'.", "year": 1970 }
+    ],
+    "events": [
+      { "title": "Primera caminata espacial de la historia", "description": "El cosmonauta soviético Alekséi Leónov salió de la cápsula espacial Voskhod 2 y pasó 12 minutos en el espacio exterior, realizando la primera actividad extravehicular de la historia.", "year": 1965 },
+      { "title": "La Comuna de París proclama su control de la ciudad", "description": "Los comunards parisinos tomaron el control de la ciudad, iniciando el periodo de la Comuna de París, el primer gobierno obrero de la historia moderna, que duraría 72 días.", "year": 1871 },
+      { "title": "El primer avión aterriza en el Polo Sur", "description": "Un avión militar americano LC-130 Hercules aterrizó en la base McMurdo del Polo Sur, la primera aeronave de ala fija en lograr esta hazaña en la Antártida.", "year": 1960 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Cyril of Jerusalem", "type": "Bishop and Doctor", "description": "Fourth-century Bishop of Jerusalem, famous for his Catecheses, detailed instructions for catechumens that are an essential source for early liturgy and theology." },
+      { "name": "Saint Edward the Martyr", "type": "King and martyr", "description": "Tenth-century King of England, murdered at 18, probably at the instigation of his stepmother so that his half-brother Ethelred (the Unready) could take the throne." },
+      { "name": "Saint Anselm of Lucca", "type": "Bishop", "description": "Eleventh-century Bishop of Lucca, Gregorian reformer and fervent defender of Pope Gregory VII; his writings on canon law had a decisive influence on Church reform." }
+    ],
+    "observances": [
+      { "name": "National Addiction Recovery Day (Germany)", "description": "A day in Germany recognising the work of people overcoming addictions and the support of mental health services." },
+      { "name": "International Day of the Fight Against Slavery", "description": "A day of remembrance and denunciation of modern forms of slavery and human exploitation, including human trafficking, forced labour and forced marriage." }
+    ],
+    "historicalQuote": {
+      "text": "Education is the most powerful weapon which you can use to change the world.",
+      "author": "Nelson Mandela",
+      "context": "Nelson Mandela spoke these words at the launch of the Mindset Network Foundation in Johannesburg in 2003. They reflect his conviction that education was key to overcoming apartheid and building a new South Africa."
+    },
+    "motivationalQuote": {
+      "text": "Talent wins games, but teamwork wins championships.",
+      "author": "Michael Jordan"
+    },
+    "births": [
+      { "name": "Nicolaus Copernicus", "description": "Renaissance Polish astronomer who formulated the heliocentric model of the solar system, placing the Sun at the centre and the Earth in orbit; his work 'De revolutionibus' marked the beginning of the scientific revolution.", "year": 1473 },
+      { "name": "Stéphane Mallarmé", "description": "French poet and critic, central figure of nineteenth-century literary symbolism, known for his hermetic poems and his celebrated poem 'A Throw of the Dice Will Never Abolish Chance'.", "year": 1842 },
+      { "name": "Queen Latifah (Dana Owens)", "description": "American rapper, actress and producer, pioneer of female hip-hop and Grammy winner, also known for her roles in 'Chicago' (2002) and 'Barbershop 2'.", "year": 1970 }
+    ],
+    "events": [
+      { "title": "First spacewalk in history", "description": "Soviet cosmonaut Alexei Leonov exited the Voskhod 2 spacecraft and spent 12 minutes in outer space, performing the first extravehicular activity in history.", "year": 1965 },
+      { "title": "Paris Commune proclaims control of the city", "description": "The Parisian communards took control of the city, beginning the period of the Paris Commune, the first workers' government of modern history, which would last 72 days.", "year": 1871 },
+      { "title": "First aeroplane lands at the South Pole", "description": "An American military LC-130 Hercules landed at McMurdo Station at the South Pole, the first fixed-wing aircraft to achieve this feat in Antarctica.", "year": 1960 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Cirilo de Jerusalém", "type": "Bispo e Doutor", "description": "Bispo de Jerusalém no século IV, famoso pelas suas Catequeses, instruções detalhadas para os catecúmenos que são fonte essencial para a liturgia e a teologia primitiva." },
+      { "name": "São Eduardo, o Mártir", "type": "Rei e mártir", "description": "Rei de Inglaterra no século X, assassinado aos 18 anos provavelmente a instigação da sua madrasta, para que o seu meio-irmão Etelredo (o Mau-Conselhado) pudesse ocupar o trono." },
+      { "name": "São Anselmo de Lucca", "type": "Bispo", "description": "Bispo de Lucca no século XI, reformador gregoriano e fervoroso defensor do papa Gregório VII; os seus escritos sobre o direito canônico influenciaram decisivamente a Reforma da Igreja." }
+    ],
+    "observances": [
+      { "name": "Dia Nacional da Recuperação das Dependências (Alemanha)", "description": "Jornada que na Alemanha reconhece o trabalho das pessoas que superam as dependências e o apoio dos serviços de saúde mental." },
+      { "name": "Dia Internacional da Luta Contra a Escravidão", "description": "Jornada de memória e denúncia das formas modernas de escravidão e exploração humana, incluindo o tráfico de pessoas, o trabalho forçado e os casamentos forçados." }
+    ],
+    "historicalQuote": {
+      "text": "A educação é a arma mais poderosa que você pode usar para mudar o mundo.",
+      "author": "Nelson Mandela",
+      "context": "Nelson Mandela pronunciou estas palavras no lançamento da Fundação Mindset Network em Johannesburgo em 2003. Refletem a sua convicção de que a educação foi fundamental para superar o apartheid e construir uma nova África do Sul."
+    },
+    "motivationalQuote": {
+      "text": "O talento vence jogos, mas o trabalho em equipe vence campeonatos.",
+      "author": "Michael Jordan"
+    },
+    "births": [
+      { "name": "Nicolau Copérnico", "description": "Astrônomo polonês do Renascimento que formulou o modelo heliocêntrico do sistema solar, colocando o Sol no centro e a Terra em órbita; sua obra 'De revolutionibus' marcou o início da revolução científica.", "year": 1473 },
+      { "name": "Stéphane Mallarmé", "description": "Poeta e crítico francês, figura central do simbolismo literário do século XIX, conhecido pelos seus poemas herméticos e o célebre poema 'Um Lance de Dados Jamais Abolirá o Acaso'.", "year": 1842 },
+      { "name": "Queen Latifah (Dana Owens)", "description": "Rapper, atriz e produtora americana, pioneira do hip-hop feminino e vencedora do Grammy, conhecida também pelos papéis em 'Chicago' (2002) e 'Barbershop 2'.", "year": 1970 }
+    ],
+    "events": [
+      { "title": "Primeira caminhada espacial da história", "description": "O cosmonauta soviético Aleksei Leonov saiu da cápsula espacial Voskhod 2 e passou 12 minutos no espaço exterior, realizando a primeira atividade extravehicular da história.", "year": 1965 },
+      { "title": "A Comuna de Paris proclama o controle da cidade", "description": "Os comunardos parisienses tomaram o controle da cidade, iniciando o período da Comuna de Paris, o primeiro governo operário da história moderna, que duraria 72 dias.", "year": 1871 },
+      { "title": "O primeiro avião pousa no Polo Sul", "description": "Um avião militar americano LC-130 Hercules pousou na base McMurdo do Polo Sul, a primeira aeronave de asa fixa a conseguir essa façanha na Antártida.", "year": 1960 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Ciril de Jerusalem", "type": "Bisbe i Doctor", "description": "Bisbe de Jerusalem al segle IV, famós per les seves Catequesis, instruccions detallades per als catecúmens que són una font essencial per a la litúrgia i la teologia primitiva." },
+      { "name": "Sant Eduard el Màrtir", "type": "Rei i màrtir", "description": "Rei d'Anglaterra al segle X, assassinat als 18 anys probablement a instigació de la seva madrastra, perquè el seu germanastre Ethelred (el Indecís) pogués ocupar el tron." },
+      { "name": "Sant Anselm de Lucca", "type": "Bisbe", "description": "Bisbe de Lucca al segle XI, reformador gregorià i fervorós defensor del papa Gregori VII; els seus escrits sobre el dret canònic van influir decisivament en la Reforma de l'Església." }
+    ],
+    "observances": [
+      { "name": "Dia Nacional de la Recuperació de les Addiccions (Alemanya)", "description": "Jornada que a Alemanya reconeix el treball de les persones que superen les addiccions i el suport dels serveis de salut mental." },
+      { "name": "Dia Internacional de la Lluita Contra l'Esclavitud", "description": "Jornada de memòria i denúncia de les formes modernes d'esclavitud i explotació humana, incloent el tràfic de persones, el treball forçat i els matrimonis forçats." }
+    ],
+    "historicalQuote": {
+      "text": "L'educació és l'arma més poderosa que pots usar per canviar el món.",
+      "author": "Nelson Mandela",
+      "context": "Nelson Mandela va pronunciar aquestes paraules en el llançament de la Fundació Mindset Network a Johannesburg el 2003. Reflecteixen la seva convicció que l'educació va ser clau per superar l'apartheid i construir una nova Sud-àfrica."
+    },
+    "motivationalQuote": {
+      "text": "El talent guanya partits, però el treball en equip guanya campionats.",
+      "author": "Michael Jordan"
+    },
+    "births": [
+      { "name": "Nicolau Copèrnic", "description": "Astrònom polonès del Renaixement que va formular el model heliocèntric del sistema solar, situant el Sol al centre i la Terra en òrbita; la seva obra 'De revolutionibus' va marcar l'inici de la revolució científica.", "year": 1473 },
+      { "name": "Stéphane Mallarmé", "description": "Poeta i crític francès, figura central del simbolisme literari del segle XIX, conegut pels seus poemes hermètics i el cèlebre poema 'Un cop de daus mai no abolirà l'atzar'.", "year": 1842 },
+      { "name": "Queen Latifah (Dana Owens)", "description": "Rapera, actriu i productora americana, pionera del hip-hop femení i guanyadora d'un Grammy, coneguda també pels papers a 'Chicago' (2002) i 'Barbershop 2'.", "year": 1970 }
+    ],
+    "events": [
+      { "title": "Primera caminada espacial de la història", "description": "El cosmonauta soviètic Aleksei Leonov va sortir de la càpsula espacial Voskhod 2 i va passar 12 minuts a l'espai exterior, realitzant la primera activitat extravehicular de la història.", "year": 1965 },
+      { "title": "La Comuna de París proclama el control de la ciutat", "description": "Els comunards parisencs van prendre el control de la ciutat, iniciant el període de la Comuna de París, el primer govern obrer de la història moderna, que duraria 72 dies.", "year": 1871 },
+      { "title": "El primer avió aterra al Pol Sud", "description": "Un avió militar americà LC-130 Hercules va aterrar a la base McMurdo del Pol Sud, la primera aeronau d'ala fixa a aconseguir aquesta fita a l'Antàrtida.", "year": 1960 }
+    ]
+  }
+}

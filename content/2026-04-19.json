@@ -1,0 +1,291 @@
+{
+  "date": "2026-04-19",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Emma de Lesum",
+        "type": "Viuda y Fundadora",
+        "description": "Condesa sajona del siglo XI, viuda del conde Reginbodo. Fundó la abadía benedictina de San Pablo en Bremen y el convento de Lesum, y era conocida por su generosidad con los pobres y los peregrinos. Fue canonizada en 1038 por el papa Benedicto IX, siendo una de las santas nobles del Sacro Imperio Romano Germánico."
+      },
+      {
+        "name": "Beato Bernardo el Penitente",
+        "type": "Confesor",
+        "description": "Peregrino y penitente de origen noble en el siglo XII que, arrepentido de sus pecados juveniles, recorrió los principales santuarios de Europa como expiación. Murió en Trento en 1227 y fue beatificado. Es venerado como modelo de conversión y penitencia."
+      },
+      {
+        "name": "San León IX",
+        "type": "Papa",
+        "description": "Papa alsaciano del siglo XI, primo del emperador Enrique III. Fue el papa que inició la Reforma Gregoriana de la Iglesia y presidió el Cisma de Oriente de 1054 que separó definitivamente las Iglesias Católica y Ortodoxa. Combatió personalmente contra los normandos en el sur de Italia y fue capturado en batalla."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Constitución (Venezuela)",
+        "description": "Venezuela conmemora el 19 de abril de 1810, fecha en que la Junta Suprema de Caracas depuso al capitán general español Vicente Emparan, dando inicio al proceso de independencia venezolano. Es considerado el primer paso hacia la independencia de Venezuela."
+      },
+      {
+        "name": "Día del Patriota (Massachusetts, EE.UU.)",
+        "description": "En Massachusetts y Maine se celebra el tercer lunes de abril como Patriots' Day, en conmemoración de las batallas de Lexington y Concord (1775), el inicio de la Guerra de Independencia americana. Ese mismo día se corre la maratón de Boston."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El arma más poderosa en manos de un opresor es la mente del oprimido.",
+      "author": "Steve Biko",
+      "context": "Steve Biko (1946-1977), activista sudafricano y fundador del Movimiento de Conciencia Negra, fue torturado y asesinado por la policía del apartheid. Esta cita resume la esencia de su filosofía sobre la liberación psicológica como condición previa a la liberación política."
+    },
+    "motivationalQuote": {
+      "text": "Ser valiente no significa no tener miedo, sino decidir que hay algo más importante que el miedo.",
+      "author": "Ambrose Redmoon"
+    },
+    "births": [
+      {
+        "name": "Charles Darwin",
+        "description": "Naturalista y biólogo británico, padre de la teoría de la evolución por selección natural. Su obra 'El origen de las especies' (1859) revolucionó la biología y el pensamiento occidental. Su viaje en el HMS Beagle (1831-1836) fue la fuente de las observaciones que sustentaron su teoría.",
+        "year": "1809"
+      },
+      {
+        "name": "Jayne Mansfield",
+        "description": "Actriz y modelo estadounidense, una de las mayores 'sex symbols' de Hollywood en los años 50 y 60. Conocida por sus papeles cómicos y sus actuaciones en 'The Girl Can't Help It' (1956) y 'Will Success Spoil Rock Hunter?' (1957). Murió trágicamente en un accidente de tráfico en 1967.",
+        "year": "1933"
+      },
+      {
+        "name": "Tim Curry",
+        "description": "Actor y cantante británico, conocido por su versatilidad para interpretar personajes extravagantes e icónicos. Su papel de Pennywise en la miniserie 'It' (1990), Frank-N-Furter en 'The Rocky Horror Picture Show' (1975) y el Capitán Garfio son sus papeles más recordados.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Atentado de Oklahoma City",
+        "description": "Una bomba de fabricación casera estalló en el edificio federal Alfred P. Murrah de Oklahoma City, causando la muerte de 168 personas, entre ellas 19 niños. Fue el atentado terrorista más mortífero en suelo americano hasta el 11 de septiembre de 2001. El responsable fue el extremista Timothy McVeigh.",
+        "year": "1995"
+      },
+      {
+        "title": "Levantamiento del gueto de Varsovia",
+        "description": "Comenzó el levantamiento del gueto de Varsovia, la mayor revuelta armada judía contra los nazis durante el Holocausto. Unos 750 combatientes del gueto resistieron durante casi un mes contra el ejército alemán antes de ser vencidos. El levantamiento se ha convertido en símbolo de la resistencia ante el genocidio.",
+        "year": "1943"
+      },
+      {
+        "title": "Elección del papa Francisco",
+        "description": "El cardenal Jorge Mario Bergoglio fue elegido papa de la Iglesia Católica con el nombre de Francisco, convirtiéndose en el primer papa latinoamericano, el primer jesuita y el primero en elegir el nombre de Francisco en honor a San Francisco de Asís. Su elección marcó un cambio histórico en la Iglesia.",
+        "year": "2013"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Emma of Lesum",
+        "type": "Widow and Founder",
+        "description": "An 11th-century Saxon countess, widow of Count Reginbodo. She founded the Benedictine abbey of Saint Paul in Bremen and the convent of Lesum, and was known for her generosity towards the poor and pilgrims. She was canonised in 1038 by Pope Benedict IX, and is one of the noble saints of the Holy Roman Empire."
+      },
+      {
+        "name": "Blessed Bernard the Penitent",
+        "type": "Confessor",
+        "description": "A 12th-century pilgrim and penitent of noble origin who, repentant of his youthful sins, visited the main shrines of Europe as atonement. He died in Trento in 1227 and was beatified. He is venerated as a model of conversion and penance."
+      },
+      {
+        "name": "Saint Leo IX",
+        "type": "Pope",
+        "description": "An 11th-century Alsatian pope, cousin of Emperor Henry III. He was the pope who initiated the Gregorian Reform of the Church and presided over the Great Schism of 1054 that definitively separated the Catholic and Orthodox Churches. He personally fought against the Normans in southern Italy and was captured in battle."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Constitution Day (Venezuela)",
+        "description": "Venezuela commemorates 19 April 1810, the date on which the Supreme Junta of Caracas deposed the Spanish captain-general Vicente Emparan, beginning the Venezuelan independence process. It is considered the first step towards Venezuelan independence."
+      },
+      {
+        "name": "Patriots' Day (Massachusetts, USA)",
+        "description": "Massachusetts and Maine celebrate the third Monday of April as Patriots' Day, in commemoration of the Battles of Lexington and Concord (1775), the start of the American War of Independence. The Boston Marathon is run on the same day."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The most potent weapon in the hands of the oppressor is the mind of the oppressed.",
+      "author": "Steve Biko",
+      "context": "Steve Biko (1946–1977), South African activist and founder of the Black Consciousness Movement, was tortured and killed by the apartheid police. This quote encapsulates the essence of his philosophy on psychological liberation as a prerequisite for political liberation."
+    },
+    "motivationalQuote": {
+      "text": "Courage is not the absence of fear, but the decision that something is more important than fear.",
+      "author": "Ambrose Redmoon"
+    },
+    "births": [
+      {
+        "name": "Charles Darwin",
+        "description": "British naturalist and biologist, father of the theory of evolution by natural selection. His work 'On the Origin of Species' (1859) revolutionised biology and Western thought. His voyage on HMS Beagle (1831–1836) was the source of the observations that underpinned his theory.",
+        "year": "1809"
+      },
+      {
+        "name": "Jayne Mansfield",
+        "description": "American actress and model, one of Hollywood's greatest sex symbols of the 1950s and 60s. Known for her comic roles in 'The Girl Can't Help It' (1956) and 'Will Success Spoil Rock Hunter?' (1957). She died tragically in a car accident in 1967.",
+        "year": "1933"
+      },
+      {
+        "name": "Tim Curry",
+        "description": "British actor and singer, known for his versatility in portraying flamboyant and iconic characters. His role as Pennywise in the TV miniseries 'It' (1990), Frank-N-Furter in 'The Rocky Horror Picture Show' (1975), and Captain Hook are his most memorable roles.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Oklahoma City Bombing",
+        "description": "A homemade bomb exploded at the Alfred P. Murrah Federal Building in Oklahoma City, killing 168 people, including 19 children. It was the deadliest terrorist attack on American soil until 11 September 2001. The perpetrator was extremist Timothy McVeigh.",
+        "year": "1995"
+      },
+      {
+        "title": "Warsaw Ghetto Uprising",
+        "description": "The Warsaw Ghetto Uprising began — the largest armed Jewish revolt against the Nazis during the Holocaust. Some 750 ghetto fighters held out for nearly a month against the German army before being defeated. The uprising has become a symbol of resistance in the face of genocide.",
+        "year": "1943"
+      },
+      {
+        "title": "Election of Pope Francis",
+        "description": "Cardinal Jorge Mario Bergoglio was elected pope of the Catholic Church under the name Francis, becoming the first Latin American pope, the first Jesuit, and the first to take the name Francis in honour of Saint Francis of Assisi. His election marked a historic change in the Church.",
+        "year": "2013"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Emma de Lesum",
+        "type": "Viúva e Fundadora",
+        "description": "Condessa saxã do século XI, viúva do conde Reginbodo. Fundou a abadia beneditina de São Paulo em Bremen e o convento de Lesum, e era conhecida pela sua generosidade para com os pobres e peregrinos. Foi canonizada em 1038 pelo papa Bento IX, sendo uma das santas nobres do Sacro Império Romano-Germânico."
+      },
+      {
+        "name": "Beato Bernardo o Penitente",
+        "type": "Confessor",
+        "description": "Peregrino e penitente de origem nobre no século XII que, arrependido dos seus pecados juvenis, percorreu os principais santuários da Europa como expiação. Morreu em Trento em 1227 e foi beatificado. É venerado como modelo de conversão e penitência."
+      },
+      {
+        "name": "São Leão IX",
+        "type": "Papa",
+        "description": "Papa alsaciano do século XI, primo do imperador Henrique III. Foi o papa que iniciou a Reforma Gregoriana da Igreja e presidiu o Cisma do Oriente de 1054, que separou definitivamente as Igrejas Católica e Ortodoxa. Combateu pessoalmente contra os normandos no sul de Itália e foi capturado em batalha."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Constituição (Venezuela)",
+        "description": "A Venezuela comemora o 19 de abril de 1810, data em que a Junta Suprema de Caracas depôs o capitão-general espanhol Vicente Emparan, dando início ao processo de independência venezuelano. É considerado o primeiro passo para a independência da Venezuela."
+      },
+      {
+        "name": "Dia dos Patriotas (Massachusetts, EUA)",
+        "description": "Massachusetts e Maine celebram o terceiro domingo de abril como Patriots' Day, em comemoração das batalhas de Lexington e Concord (1775), o início da Guerra da Independência americana. Nesse mesmo dia é realizada a Maratona de Boston."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A arma mais poderosa nas mãos de um opressor é a mente do oprimido.",
+      "author": "Steve Biko",
+      "context": "Steve Biko (1946-1977), ativista sul-africano e fundador do Movimento de Consciência Negra, foi torturado e assassinado pela polícia do apartheid. Esta citação resume a essência da sua filosofia sobre a libertação psicológica como condição prévia à libertação política."
+    },
+    "motivationalQuote": {
+      "text": "Ser corajoso não significa não ter medo, mas decidir que há algo mais importante do que o medo.",
+      "author": "Ambrose Redmoon"
+    },
+    "births": [
+      {
+        "name": "Charles Darwin",
+        "description": "Naturalista e biólogo britânico, pai da teoria da evolução por seleção natural. A sua obra 'A Origem das Espécies' (1859) revolucionou a biologia e o pensamento ocidental. A sua viagem no HMS Beagle (1831-1836) foi a fonte das observações que sustentaram a sua teoria.",
+        "year": "1809"
+      },
+      {
+        "name": "Jayne Mansfield",
+        "description": "Atriz e modelo americana, uma das maiores 'sex symbols' de Hollywood nos anos 50 e 60. Conhecida pelos seus papéis cómicos em 'The Girl Can't Help It' (1956) e 'Will Success Spoil Rock Hunter?' (1957). Morreu tragicamente num acidente de viação em 1967.",
+        "year": "1933"
+      },
+      {
+        "name": "Tim Curry",
+        "description": "Ator e cantor britânico, conhecido pela sua versatilidade para interpretar personagens extravagantes e icónicas. O seu papel de Pennywise na minissérie 'It' (1990), Frank-N-Furter em 'The Rocky Horror Picture Show' (1975) e o Capitão Gancho são os seus papéis mais lembrados.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Atentado de Oklahoma City",
+        "description": "Uma bomba artesanal explodiu no edifício federal Alfred P. Murrah de Oklahoma City, causando a morte de 168 pessoas, entre elas 19 crianças. Foi o atentado terrorista mais mortífero em solo americano até ao 11 de setembro de 2001. O responsável foi o extremista Timothy McVeigh.",
+        "year": "1995"
+      },
+      {
+        "title": "Levantamento do Gueto de Varsóvia",
+        "description": "Começou o levantamento do gueto de Varsóvia, a maior revolta armada judaica contra os nazis durante o Holocausto. Cerca de 750 combatentes do gueto resistiram durante quase um mês contra o exército alemão antes de serem vencidos. O levantamento tornou-se símbolo da resistência perante o genocídio.",
+        "year": "1943"
+      },
+      {
+        "title": "Eleição do papa Francisco",
+        "description": "O cardeal Jorge Mario Bergoglio foi eleito papa da Igreja Católica com o nome de Francisco, tornando-se o primeiro papa latino-americano, o primeiro jesuíta e o primeiro a escolher o nome Francisco em honra de São Francisco de Assis. A sua eleição marcou uma mudança histórica na Igreja.",
+        "year": "2013"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Emma de Lesum",
+        "type": "Vídua i Fundadora",
+        "description": "Comtessa saxona del segle XI, vídua del comte Reginbodo. Va fundar l'abadia benedictina de Sant Pau a Bremen i el convent de Lesum, i era coneguda per la seva generositat envers els pobres i els pelegrins. Va ser canonitzada el 1038 pel papa Benet IX, essent una de les santes nobles del Sacre Imperi Romanogermànic."
+      },
+      {
+        "name": "Beat Bernat el Penitent",
+        "type": "Confessor",
+        "description": "Pelegrí i penitent d'origen noble al segle XII que, penedit dels seus pecats juvenils, va recórrer els principals santuaris d'Europa com a expiació. Va morir a Trento el 1227 i va ser beatificat. És venerat com a model de conversió i penitència."
+      },
+      {
+        "name": "Sant Lleó IX",
+        "type": "Papa",
+        "description": "Papa alsacià del segle XI, cosí de l'emperador Enric III. Va ser el papa que va iniciar la Reforma Gregoriana de l'Església i va presidir el Cisma d'Orient de 1054 que va separar definitivament les Esglésies Catòlica i Ortodoxa. Va combatre personalment contra els normands al sud d'Itàlia i va ser capturat en batalla."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Constitució (Veneçuela)",
+        "description": "Veneçuela commemora el 19 d'abril de 1810, data en la qual la Junta Suprema de Caracas va deposar el capità general espanyol Vicente Emparan, donant inici al procés d'independència veneçolà. És considerat el primer pas cap a la independència de Veneçuela."
+      },
+      {
+        "name": "Dia del Patriota (Massachusetts, EUA)",
+        "description": "Massachusetts i Maine celebren el tercer dilluns d'abril com a Patriots' Day, en commemoració de les batalles de Lexington i Concord (1775), l'inici de la Guerra d'Independència americana. Aquell mateix dia es corre el Marató de Boston."
+      }
+    ],
+    "historicalQuote": {
+      "text": "L'arma més poderosa en mans d'un opressor és la ment de l'oprimit.",
+      "author": "Steve Biko",
+      "context": "Steve Biko (1946-1977), activista sud-africà i fundador del Moviment de Consciència Negra, va ser torturat i assassinat per la policia de l'apartheid. Aquesta cita resumeix l'essència de la seva filosofia sobre l'alliberament psicològic com a condició prèvia a l'alliberament polític."
+    },
+    "motivationalQuote": {
+      "text": "Ser valent no significa no tenir por, sinó decidir que hi ha alguna cosa més important que la por.",
+      "author": "Ambrose Redmoon"
+    },
+    "births": [
+      {
+        "name": "Charles Darwin",
+        "description": "Naturalista i biòleg britànic, pare de la teoria de l'evolució per selecció natural. La seva obra 'L'origen de les espècies' (1859) va revolucionar la biologia i el pensament occidental. El seu viatge al HMS Beagle (1831-1836) va ser la font de les observacions que van fonamentar la seva teoria.",
+        "year": "1809"
+      },
+      {
+        "name": "Jayne Mansfield",
+        "description": "Actriu i model americana, una de les majors 'sex symbols' de Hollywood als anys 50 i 60. Coneguda pels seus papers còmics a 'The Girl Can't Help It' (1956) i 'Will Success Spoil Rock Hunter?' (1957). Va morir tràgicament en un accident de trànsit el 1967.",
+        "year": "1933"
+      },
+      {
+        "name": "Tim Curry",
+        "description": "Actor i cantant britànic, conegut per la seva versatilitat per interpretar personatges extravagants i icònics. El seu paper de Pennywise a la minisèrie 'It' (1990), Frank-N-Furter a 'The Rocky Horror Picture Show' (1975) i el Capità Garfi són els seus papers més recordats.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Atemptat d'Oklahoma City",
+        "description": "Una bomba casolana va explotar a l'edifici federal Alfred P. Murrah d'Oklahoma City, causant la mort de 168 persones, entre elles 19 nens. Va ser l'atemptat terrorista més mortífer en sòl americà fins a l'11 de setembre de 2001. El responsable va ser l'extremista Timothy McVeigh.",
+        "year": "1995"
+      },
+      {
+        "title": "Aixecament del gueto de Varsòvia",
+        "description": "Va començar l'aixecament del gueto de Varsòvia, la major revolta armada jueva contra els nazis durant l'Holocaust. Uns 750 combatents del gueto van resistir durant gairebé un mes contra l'exèrcit alemany abans de ser vençuts. L'aixecament s'ha convertit en símbol de la resistència davant el genocidi.",
+        "year": "1943"
+      },
+      {
+        "title": "Elecció del papa Francesc",
+        "description": "El cardenal Jorge Mario Bergoglio va ser elegit papa de l'Església Catòlica amb el nom de Francesc, convertint-se en el primer papa llatinoamericà, el primer jesuïta i el primer a triar el nom de Francesc en honor a Sant Francesc d'Assís. La seva elecció va marcar un canvi històric a l'Església.",
+        "year": "2013"
+      }
+    ]
+  }
+}

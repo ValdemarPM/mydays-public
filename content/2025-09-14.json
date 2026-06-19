@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-14",
+  "es": {
+    "saints": [
+      {
+        "name": "Exaltación de la Santa Cruz",
+        "type": "Fiesta",
+        "description": "Fiesta que conmemora la dedicación de la basílica del Santo Sepulcro en Jerusalén (335) y el hallazgo de la vera Cruz por santa Elena (madre del emperador Constantino) en el monte Calvario hacia el año 320. Es una de las fiestas más antiguas del calendario litúrgico."
+      },
+      {
+        "name": "San Cipriano de Cartago",
+        "type": "Obispo y Mártir",
+        "description": "Obispo de Cartago (248–258) y escritor cristiano, decapitado durante la persecución de Valeriano. Sus escritos sobre la unidad de la Iglesia y el bautismo son fundamentales en la patrística latina."
+      },
+      {
+        "name": "San Cornelio",
+        "type": "Papa y Mártir",
+        "description": "Papa entre 251 y 253, defensor de la readmisión de los lapsi (cristianos que habían apostatado bajo la presión de la persecución). Murió en el exilio como consecuencia de la persecución."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de Exaltación de la Cruz — Día de la Cruz",
+        "description": "Fiesta cristiana que recuerda el descubrimiento de la Cruz de Cristo y su exposición pública en Jerusalén. Celebrada en toda la Iglesia Católica y en las Iglesias Ortodoxas, es una de las fiestas litúrgicas más antiguas."
+      },
+      {
+        "name": "Día de la Independencia de Nicaragua",
+        "description": "Nicaragua, junto con Guatemala, El Salvador, Honduras y Costa Rica, conmemora el 15 de septiembre como su Día de la Independencia. El 14 es el día previo a los actos centrales de celebración."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El sufrimiento es el origen de la conciencia.",
+      "author": "Fiódor Dostoievski",
+      "context": "El escritor ruso, nacido el 11 de noviembre de 1821, exploró en novelas como Crimen y castigo (1866) y Los hermanos Karamázov (1880) la relación entre el sufrimiento, la redención y la conciencia moral."
+    },
+    "motivationalQuote": {
+      "text": "Quien tiene un por qué para vivir puede soportar casi cualquier cómo.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "Alexander von Humboldt",
+        "description": "Naturalista y explorador prusiano considerado el padre de la geografía moderna. Su expedición a América (1799–1804) produjo una de las obras científicas más completas de su tiempo, con más de 60.000 especies catalogadas.",
+        "year": 1769
+      },
+      {
+        "name": "Ivan Pavlov",
+        "description": "Fisiólogo ruso, Premio Nobel de Fisiología en 1904, famoso por sus experimentos sobre el reflejo condicionado en perros, que sentaron las bases del conductismo y la psicología experimental moderna.",
+        "year": 1849
+      },
+      {
+        "name": "Sam Neill",
+        "description": "Actor neozelandés internacionalmente conocido por su papel del Dr. Alan Grant en la saga Parque Jurásico (1993, 2022), y por su trabajo en El Piano (1993) y la serie Peaky Blinders.",
+        "year": 1947
+      }
+    ],
+    "events": [
+      {
+        "title": "Muere el presidente de los EE.UU. William McKinley",
+        "description": "El presidente William McKinley falleció a consecuencia de las heridas de bala recibidas el 6 de septiembre, siendo sucedido por Theodore Roosevelt, el presidente más joven en asumir el cargo hasta ese momento.",
+        "year": 1901
+      },
+      {
+        "title": "Primera transmisión de televisión en color",
+        "description": "CBS realizó la primera transmisión comercial de televisión en color de la historia de los Estados Unidos, aunque la FCC la suspendió pocos meses después por las dificultades técnicas de la época.",
+        "year": 1950
+      },
+      {
+        "title": "Inauguración del canal de navegación Main-Danubio",
+        "description": "Se inauguró el canal Main-Danubio en Alemania, que conecta el Mar del Norte con el Mar Negro a través de Europa, creando una vía navegable interior de más de 3.500 kilómetros.",
+        "year": 1992
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Exaltation of the Holy Cross",
+        "type": "Feast",
+        "description": "Feast commemorating the dedication of the Basilica of the Holy Sepulchre in Jerusalem (335) and the finding of the True Cross by Saint Helena (mother of Emperor Constantine) on Mount Calvary around 320. One of the oldest feasts in the liturgical calendar."
+      },
+      {
+        "name": "Saint Cyprian of Carthage",
+        "type": "Bishop and Martyr",
+        "description": "Bishop of Carthage (248–258) and Christian writer, beheaded during the persecution of Valerian. His writings on the unity of the Church and baptism are foundational in Latin patristics."
+      },
+      {
+        "name": "Saint Cornelius",
+        "type": "Pope and Martyr",
+        "description": "Pope from 251 to 253, defender of the readmission of the lapsi (Christians who had apostatised under persecution). He died in exile as a consequence of the persecution."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Feast of the Exaltation of the Cross",
+        "description": "Christian feast recalling the discovery of the Cross of Christ and its public display in Jerusalem. Celebrated throughout the Catholic Church and Orthodox Churches, it is one of the oldest liturgical feasts."
+      },
+      {
+        "name": "Central American Independence Day — Pre-celebration",
+        "description": "Nicaragua, Guatemala, El Salvador, Honduras, and Costa Rica commemorate 15 September as their Independence Day. The 14th marks the eve of the central celebrations."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Suffering is the origin of consciousness.",
+      "author": "Fyodor Dostoevsky",
+      "context": "The Russian writer, born on 11 November 1821, explored in novels such as Crime and Punishment (1866) and The Brothers Karamazov (1880) the relationship between suffering, redemption, and moral conscience."
+    },
+    "motivationalQuote": {
+      "text": "He who has a why to live can bear almost any how.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "Alexander von Humboldt",
+        "description": "Prussian naturalist and explorer considered the father of modern geography. His expedition to the Americas (1799–1804) produced one of the most comprehensive scientific works of its time, cataloguing over 60,000 species.",
+        "year": 1769
+      },
+      {
+        "name": "Ivan Pavlov",
+        "description": "Russian physiologist and Nobel Prize in Physiology winner in 1904, famous for his experiments on the conditioned reflex in dogs, which laid the foundations of behaviourism and modern experimental psychology.",
+        "year": 1849
+      },
+      {
+        "name": "Sam Neill",
+        "description": "New Zealand actor internationally known for his role as Dr Alan Grant in the Jurassic Park franchise (1993, 2022), and for his work in The Piano (1993) and the series Peaky Blinders.",
+        "year": 1947
+      }
+    ],
+    "events": [
+      {
+        "title": "US President William McKinley dies",
+        "description": "President William McKinley died of gunshot wounds received on 6 September, and was succeeded by Theodore Roosevelt, the youngest person to assume the presidency at that time.",
+        "year": 1901
+      },
+      {
+        "title": "First colour television broadcast",
+        "description": "CBS made the first commercial colour television broadcast in United States history, although the FCC suspended it a few months later due to the technical difficulties of the era.",
+        "year": 1950
+      },
+      {
+        "title": "Main-Danube Canal inaugurated",
+        "description": "The Main-Danube Canal was inaugurated in Germany, connecting the North Sea with the Black Sea through Europe and creating an inland waterway of more than 3,500 kilometres.",
+        "year": 1992
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Exaltação da Santa Cruz",
+        "type": "Festa",
+        "description": "Festa que comemora a dedicação da Basílica do Santo Sepulcro em Jerusalém (335) e o achado da Vera Cruz por santa Helena (mãe do imperador Constantino) no monte Calvário por volta do ano 320. Uma das festas mais antigas do calendário litúrgico."
+      },
+      {
+        "name": "São Cipriano de Cartago",
+        "type": "Bispo e Mártir",
+        "description": "Bispo de Cartago (248–258) e escritor cristão, decapitado durante a perseguição de Valeriano. Os seus escritos sobre a unidade da Igreja e o batismo são fundamentais na patrística latina."
+      },
+      {
+        "name": "São Cornélio",
+        "type": "Papa e Mártir",
+        "description": "Papa entre 251 e 253, defensor da readmissão dos lapsi (cristãos que tinham apostatado sob pressão da perseguição). Morreu no exílio em consequência da perseguição."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Festa da Exaltação da Santa Cruz",
+        "description": "Festa cristã que recorda o descobrimento da Cruz de Cristo e a sua exposição pública em Jerusalém. Celebrada em toda a Igreja Católica e nas Igrejas Ortodoxas, é uma das festas litúrgicas mais antigas."
+      },
+      {
+        "name": "Véspera do Dia da Independência Centro-Americana",
+        "description": "A Nicarágua, Guatemala, El Salvador, Honduras e Costa Rica comemoram o 15 de setembro como o seu Dia da Independência. O dia 14 marca a véspera das celebrações centrais."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O sofrimento é a origem da consciência.",
+      "author": "Fiódor Dostoiévski",
+      "context": "O escritor russo, nascido a 11 de novembro de 1821, explorou em romances como Crime e Castigo (1866) e Os Irmãos Karamázov (1880) a relação entre o sofrimento, a redenção e a consciência moral."
+    },
+    "motivationalQuote": {
+      "text": "Quem tem um porquê para viver pode suportar quase qualquer como.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "Alexander von Humboldt",
+        "description": "Naturalista e explorador prussiano considerado o pai da geografia moderna. A sua expedição às Américas (1799–1804) produziu uma das obras científicas mais completas do seu tempo, com mais de 60.000 espécies catalogadas.",
+        "year": 1769
+      },
+      {
+        "name": "Ivan Pavlov",
+        "description": "Fisiologista russo e vencedor do Prêmio Nobel de Fisiologia em 1904, famoso pelos seus experimentos sobre o reflexo condicionado em cães, que estabeleceram as bases do behaviorismo e da psicologia experimental moderna.",
+        "year": 1849
+      },
+      {
+        "name": "Sam Neill",
+        "description": "Ator neozelandês internacionalmente conhecido pelo seu papel do Dr. Alan Grant na saga Parque Jurássico (1993, 2022), e pelo seu trabalho em O Piano (1993) e na série Peaky Blinders.",
+        "year": 1947
+      }
+    ],
+    "events": [
+      {
+        "title": "Morre o presidente americano William McKinley",
+        "description": "O presidente William McKinley morreu em consequência dos ferimentos de bala recebidos a 6 de setembro, sendo sucedido por Theodore Roosevelt, o presidente mais jovem a assumir o cargo até esse momento.",
+        "year": 1901
+      },
+      {
+        "title": "Primeira transmissão de televisão a cores",
+        "description": "A CBS realizou a primeira transmissão comercial de televisão a cores na história dos Estados Unidos, embora a FCC a tenha suspendido alguns meses depois pelas dificuldades técnicas da época.",
+        "year": 1950
+      },
+      {
+        "title": "Inauguração do Canal Main-Danúbio",
+        "description": "Foi inaugurado o Canal Main-Danúbio na Alemanha, que conecta o Mar do Norte com o Mar Negro através da Europa, criando uma via navegável interior de mais de 3.500 quilômetros.",
+        "year": 1992
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Exaltació de la Santa Creu",
+        "type": "Festa",
+        "description": "Festa que commemora la dedicació de la basílica del Sant Sepulcre a Jerusalem (335) i la troballa de la Vera Creu per santa Elena (mare de l'emperador Constantí) al mont Calvari cap a l'any 320. Una de les festes més antigues del calendari litúrgic."
+      },
+      {
+        "name": "Sant Cebrià de Cartago",
+        "type": "Bisbe i Màrtir",
+        "description": "Bisbe de Cartago (248–258) i escriptor cristià, decapitat durant la persecució de Valerià. Els seus escrits sobre la unitat de l'Església i el baptisme són fonamentals en la patrística llatina."
+      },
+      {
+        "name": "Sant Corneli",
+        "type": "Papa i Màrtir",
+        "description": "Papa entre 251 i 253, defensor de la readmissió dels lapsi (cristians que havien apostatado sota la pressió de la persecució). Va morir a l'exili com a conseqüència de la persecució."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Festa de l'Exaltació de la Santa Creu",
+        "description": "Festa cristiana que recorda el descobriment de la Creu de Crist i la seva exposició pública a Jerusalem. Celebrada a tota l'Església Catòlica i a les Esglésies Ortodoxes, és una de les festes litúrgiques més antigues."
+      },
+      {
+        "name": "Vigília del Dia de la Independència Centreamericana",
+        "description": "Nicaragua, Guatemala, El Salvador, Hondures i Costa Rica commemoren el 15 de setembre com el seu Dia de la Independència. El dia 14 marca la vigília de les celebracions centrals."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El sofriment és l'origen de la consciència.",
+      "author": "Fiódor Dostoievski",
+      "context": "L'escriptor rus, nascut l'11 de novembre de 1821, va explorar en novel·les com Crim i càstig (1866) i Els germans Karamàzov (1880) la relació entre el sofriment, la redempció i la consciència moral."
+    },
+    "motivationalQuote": {
+      "text": "Qui té un perquè per viure pot suportar gairebé qualsevol com.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "Alexander von Humboldt",
+        "description": "Naturalista i explorador prussià considerat el pare de la geografia moderna. La seva expedició a Amèrica (1799–1804) va produir una de les obres científiques més completes del seu temps, amb més de 60.000 espècies catalogades.",
+        "year": 1769
+      },
+      {
+        "name": "Ivan Pavlov",
+        "description": "Fisiòleg rus i Premi Nobel de Fisiologia el 1904, famós pels seus experiments sobre el reflex condicionat en gossos, que van establir les bases del conductisme i la psicologia experimental moderna.",
+        "year": 1849
+      },
+      {
+        "name": "Sam Neill",
+        "description": "Actor neozelandès internacionalment conegut pel seu paper del Dr. Alan Grant a la saga Parc Juràssic (1993, 2022), i per la seva feina a El piano (1993) i la sèrie Peaky Blinders.",
+        "year": 1947
+      }
+    ],
+    "events": [
+      {
+        "title": "Mor el president dels EUA William McKinley",
+        "description": "El president William McKinley va morir a conseqüència de les ferides de bala rebudes el 6 de setembre, essent succeït per Theodore Roosevelt, el president més jove a assumir el càrrec fins aleshores.",
+        "year": 1901
+      },
+      {
+        "title": "Primera emissió de televisió en color",
+        "description": "CBS va realitzar la primera transmissió comercial de televisió en color de la història dels Estats Units, tot i que la FCC la va suspendre uns mesos després per les dificultats tècniques de l'època.",
+        "year": 1950
+      },
+      {
+        "title": "Inauguració del canal Main-Danubi",
+        "description": "Es va inaugurar el canal Main-Danubi a Alemanya, que connecta el Mar del Nord amb el Mar Negre a través d'Europa, creant una via navegable interior de més de 3.500 quilòmetres.",
+        "year": 1992
+      }
+    ]
+  }
+}

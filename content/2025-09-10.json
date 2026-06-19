@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-10",
+  "es": {
+    "saints": [
+      {
+        "name": "San Nicolás de Tolentino",
+        "type": "Sacerdote",
+        "description": "Agustino italiano del siglo XIII conocido por su vida de penitencia, su predicación y sus milagros. Patrono de las almas del purgatorio y de los niños, fue canonizado en 1446."
+      },
+      {
+        "name": "Santa Pulqueria",
+        "type": "Emperatriz",
+        "description": "Emperatriz de Bizancio (414–453) que gobernó con sabiduría y defendió la ortodoxia cristiana en el Concilio de Calcedonia (451). Venerada como santa en la Iglesia Ortodoxa y la Iglesia Católica."
+      },
+      {
+        "name": "San Nemesiano",
+        "type": "Obispo y Mártir",
+        "description": "Obispo africano del siglo III que fue condenado a trabajos forzados en las minas durante la persecución de Valeriano por no renegar de su fe cristiana. Murió de agotamiento en cautiverio."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial para la Prevención del Suicidio",
+        "description": "Iniciativa de la International Association for Suicide Prevention y respaldada por la OMS, celebrada el 10 de septiembre para concienciar sobre la prevención del suicidio y apoyar a quienes lo han considerado."
+      },
+      {
+        "name": "Día de los Maestros — Australia y Corea del Sur",
+        "description": "Celebración del día dedicado a honrar a los educadores en Australia y Corea del Sur, reconociendo su papel fundamental en el desarrollo de la sociedad."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El coraje no es la ausencia de miedo, sino el juicio de que algo más es importante.",
+      "author": "Ambrose Redmoon",
+      "context": "Escritor americano, cuya cita sobre el coraje ha sido frecuentemente atribuida a otras figuras históricas, pero fue redactada originalmente por él en su ensayo No Peaceful Warriors (1991)."
+    },
+    "motivationalQuote": {
+      "text": "Siembra un pensamiento, cosecha una acción; siembra una acción, cosecha un hábito.",
+      "author": "Charles Reade"
+    },
+    "births": [
+      {
+        "name": "Hilda of Whitby",
+        "description": "Abadesa anglosajona del siglo VII que fundó el monasterio doble de Whitby, uno de los centros culturales y religiosos más importantes de la Northumbria anglosajona. Presidió el Sínodo de Whitby (664).",
+        "year": 614
+      },
+      {
+        "name": "Franz Werfel",
+        "description": "Escritor austriaco de origen judío, autor de Los cuarenta días del Musa Dagh (1933), novela sobre el genocidio armenio, y de La canción de Bernadette (1941). Sobrevivió a los nazis huyendo a Los Ángeles.",
+        "year": 1890
+      },
+      {
+        "name": "Colin Firth",
+        "description": "Actor británico ganador del Oscar por El discurso del rey (2010). Conocido por su papel como el señor Darcy en la adaptación de la BBC de Orgullo y prejuicio (1995).",
+        "year": 1960
+      }
+    ],
+    "events": [
+      {
+        "title": "Tratado de París de 1783 — independencia de EE.UU. ratificada",
+        "description": "El Congreso Continental de los Estados Unidos ratificó el Tratado de París, confirmando la independencia americana y el reconocimiento de los nuevos territorios nacionales.",
+        "year": 1783
+      },
+      {
+        "title": "Primer Grand Prix de Monza",
+        "description": "Se celebró el primer Gran Premio de Italia en el Autódromo Nacional de Monza, inaugurando una de las carreras de automovilismo más antiguas e icónicas del mundo.",
+        "year": 1922
+      },
+      {
+        "title": "Inauguración del CERN",
+        "description": "Se inauguró oficialmente el CERN (Organización Europea para la Investigación Nuclear) en Ginebra, que se convertiría en el mayor laboratorio de física de partículas del mundo.",
+        "year": 1954
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Nicholas of Tolentino",
+        "type": "Priest",
+        "description": "A 13th-century Italian Augustinian known for his life of penance, preaching, and miracles. Patron of the souls in purgatory and of children, he was canonised in 1446."
+      },
+      {
+        "name": "Saint Pulcheria",
+        "type": "Empress",
+        "description": "Empress of Byzantium (414–453), who ruled with wisdom and defended Christian orthodoxy at the Council of Chalcedon (451). Venerated as a saint in both the Orthodox Church and the Catholic Church."
+      },
+      {
+        "name": "Saint Nemesianus",
+        "type": "Bishop and Martyr",
+        "description": "A 3rd-century African bishop condemned to hard labour in the mines during the persecution of Valerian for refusing to renounce his Christian faith. He died of exhaustion in captivity."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Suicide Prevention Day",
+        "description": "An initiative of the International Association for Suicide Prevention and endorsed by the WHO, held on 10 September to raise awareness about suicide prevention and support those who have considered it."
+      },
+      {
+        "name": "Teachers' Day — Australia and South Korea",
+        "description": "Celebration of the day dedicated to honouring educators in Australia and South Korea, recognising their fundamental role in the development of society."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Courage is not the absence of fear, but the judgement that something else is more important.",
+      "author": "Ambrose Redmoon",
+      "context": "American writer, whose quote about courage has often been attributed to other historical figures, but was originally written by him in his essay No Peaceful Warriors (1991)."
+    },
+    "motivationalQuote": {
+      "text": "Sow a thought, reap an action; sow an action, reap a habit.",
+      "author": "Charles Reade"
+    },
+    "births": [
+      {
+        "name": "Hilda of Whitby",
+        "description": "Anglo-Saxon abbess of the 7th century who founded the double monastery of Whitby, one of the most important cultural and religious centres of Anglo-Saxon Northumbria. She presided over the Synod of Whitby (664).",
+        "year": 614
+      },
+      {
+        "name": "Franz Werfel",
+        "description": "Austrian writer of Jewish origin, author of The Forty Days of Musa Dagh (1933), a novel about the Armenian Genocide, and The Song of Bernadette (1941). He survived the Nazis by fleeing to Los Angeles.",
+        "year": 1890
+      },
+      {
+        "name": "Colin Firth",
+        "description": "British actor and Oscar winner for The King's Speech (2010). Known for his role as Mr Darcy in the BBC adaptation of Pride and Prejudice (1995).",
+        "year": 1960
+      }
+    ],
+    "events": [
+      {
+        "title": "Treaty of Paris 1783 — US independence ratified",
+        "description": "The Continental Congress of the United States ratified the Treaty of Paris, confirming American independence and recognition of the new national territories.",
+        "year": 1783
+      },
+      {
+        "title": "First Grand Prix at Monza",
+        "description": "The first Italian Grand Prix was held at the Autodromo Nazionale di Monza, inaugurating one of the oldest and most iconic motor races in the world.",
+        "year": 1922
+      },
+      {
+        "title": "CERN inaugurated",
+        "description": "CERN (the European Organisation for Nuclear Research) was officially inaugurated in Geneva, which would become the world's largest particle physics laboratory.",
+        "year": 1954
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Nicolau de Tolentino",
+        "type": "Sacerdote",
+        "description": "Agostiniano italiano do século XIII conhecido pela sua vida de penitência, pregação e milagres. Patrono das almas do purgatório e das crianças, foi canonizado em 1446."
+      },
+      {
+        "name": "Santa Pulquéria",
+        "type": "Imperatriz",
+        "description": "Imperatriz de Bizâncio (414–453) que governou com sabedoria e defendeu a ortodoxia cristã no Concílio de Calcedônia (451). Venerada como santa tanto na Igreja Ortodoxa como na Igreja Católica."
+      },
+      {
+        "name": "São Nemesiano",
+        "type": "Bispo e Mártir",
+        "description": "Bispo africano do século III condenado a trabalhos forçados nas minas durante a perseguição de Valeriano por se recusar a renegar a sua fé cristã. Morreu de exaustão em cativeiro."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de Prevenção do Suicídio",
+        "description": "Iniciativa da Associação Internacional para a Prevenção do Suicídio e apoiada pela OMS, celebrada a 10 de setembro para sensibilizar sobre a prevenção do suicídio e apoiar quem o considerou."
+      },
+      {
+        "name": "Dia dos Professores — Austrália e Coreia do Sul",
+        "description": "Celebração do dia dedicado a homenagear os educadores na Austrália e na Coreia do Sul, reconhecendo o seu papel fundamental no desenvolvimento da sociedade."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A coragem não é a ausência do medo, mas o julgamento de que algo mais é importante.",
+      "author": "Ambrose Redmoon",
+      "context": "Escritor americano, cuja citação sobre a coragem tem sido frequentemente atribuída a outras figuras históricas, mas foi originalmente redigida por ele no seu ensaio No Peaceful Warriors (1991)."
+    },
+    "motivationalQuote": {
+      "text": "Semeia um pensamento, colhe uma ação; semeia uma ação, colhe um hábito.",
+      "author": "Charles Reade"
+    },
+    "births": [
+      {
+        "name": "Hilda de Whitby",
+        "description": "Abadessa anglo-saxã do século VII que fundou o mosteiro duplo de Whitby, um dos centros culturais e religiosos mais importantes da Nortúmbria anglo-saxã. Presidiu o Sínodo de Whitby (664).",
+        "year": 614
+      },
+      {
+        "name": "Franz Werfel",
+        "description": "Escritor austríaco de origem judaica, autor de Os Quarenta Dias do Musa Dagh (1933), romance sobre o genocídio arménio, e A Canção de Bernadette (1941). Sobreviveu aos nazis fugindo para Los Angeles.",
+        "year": 1890
+      },
+      {
+        "name": "Colin Firth",
+        "description": "Ator britânico vencedor do Oscar por O Discurso do Rei (2010). Conhecido pelo seu papel como o Sr. Darcy na adaptação da BBC de Orgulho e Preconceito (1995).",
+        "year": 1960
+      }
+    ],
+    "events": [
+      {
+        "title": "Tratado de Paris de 1783 — independência dos EUA ratificada",
+        "description": "O Congresso Continental dos Estados Unidos ratificou o Tratado de Paris, confirmando a independência americana e o reconhecimento dos novos territórios nacionais.",
+        "year": 1783
+      },
+      {
+        "title": "Primeiro Grande Prêmio de Monza",
+        "description": "Realizou-se o primeiro Grande Prêmio da Itália no Autódromo Nacional de Monza, inaugurando uma das corridas automobilísticas mais antigas e icónicas do mundo.",
+        "year": 1922
+      },
+      {
+        "title": "Inauguração do CERN",
+        "description": "O CERN (Organização Europeia para a Investigação Nuclear) foi inaugurado oficialmente em Genebra, tornando-se o maior laboratório de física de partículas do mundo.",
+        "year": 1954
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Nicolau de Tolentí",
+        "type": "Sacerdot",
+        "description": "Agustí italià del segle XIII conegut per la seva vida de penitència, la seva predicació i els seus miracles. Patró de les ànimes del purgatori i dels nens, va ser canonitzat el 1446."
+      },
+      {
+        "name": "Santa Pulquèria",
+        "type": "Emperadriu",
+        "description": "Emperadriu de Bizanci (414–453) que va governar amb saviesa i va defensar l'ortodòxia cristiana al Concili de Calcedònia (451). Venerada com a santa tant a l'Església Ortodoxa com a la Catòlica."
+      },
+      {
+        "name": "Sant Nemesià",
+        "type": "Bisbe i Màrtir",
+        "description": "Bisbe africà del segle III condemnat a treballs forçats a les mines durant la persecució de Valerià per no renegar de la seva fe cristiana. Va morir d'esgotament en captivitat."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial per a la Prevenció del Suïcidi",
+        "description": "Iniciativa de l'Associació Internacional per a la Prevenció del Suïcidi i avalada per l'OMS, celebrada el 10 de setembre per conscienciar sobre la prevenció del suïcidi i donar suport als qui ho han considerat."
+      },
+      {
+        "name": "Dia dels Mestres — Austràlia i Corea del Sud",
+        "description": "Celebració del dia dedicat a honorar els educadors a Austràlia i Corea del Sud, reconeixent el seu paper fonamental en el desenvolupament de la societat."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El coratge no és l'absència de la por, sinó el judici que quelcom altre és més important.",
+      "author": "Ambrose Redmoon",
+      "context": "Escriptor americà, la cita del qual sobre el coratge ha estat sovint atribuïda a d'altres figures històriques, però va ser redactada originalment per ell al seu assaig No Peaceful Warriors (1991)."
+    },
+    "motivationalQuote": {
+      "text": "Sembra un pensament, colliu una acció; sembra una acció, colliu un hàbit.",
+      "author": "Charles Reade"
+    },
+    "births": [
+      {
+        "name": "Hilda de Whitby",
+        "description": "Abadessa anglosaxona del segle VII que va fundar el monestir doble de Whitby, un dels centres culturals i religiosos més importants de la Northúmbria anglosaxona. Va presidir el Sínode de Whitby (664).",
+        "year": 614
+      },
+      {
+        "name": "Franz Werfel",
+        "description": "Escriptor austríac d'origen jueu, autor dels Quaranta dies del Musa Dagh (1933), novel·la sobre el genocidi armeni, i de La cançó de Bernadette (1941). Va sobreviure als nazis fugint a Los Angeles.",
+        "year": 1890
+      },
+      {
+        "name": "Colin Firth",
+        "description": "Actor britànic guanyador de l'Oscar per El discurs del rei (2010). Conegut pel seu paper com el senyor Darcy a l'adaptació de la BBC d'Orgull i prejudici (1995).",
+        "year": 1960
+      }
+    ],
+    "events": [
+      {
+        "title": "Tractat de París de 1783 — independència dels EUA ratificada",
+        "description": "El Congrés Continental dels Estats Units va ratificar el Tractat de París, confirmant la independència americana i el reconeixement dels nous territoris nacionals.",
+        "year": 1783
+      },
+      {
+        "title": "Primer Gran Premi de Monza",
+        "description": "Es va celebrar el primer Gran Premi d'Itàlia a l'Autòdrom Nacional de Monza, inaugurant una de les curses de motor més antigues i icòniques del món.",
+        "year": 1922
+      },
+      {
+        "title": "Inauguració del CERN",
+        "description": "El CERN (Organització Europea per a la Recerca Nuclear) va ser inaugurat oficialment a Ginebra, que es convertiria en el major laboratori de física de partícules del món.",
+        "year": 1954
+      }
+    ]
+  }
+}

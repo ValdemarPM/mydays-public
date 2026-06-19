@@ -1,0 +1,255 @@
+{
+  "date": "2026-01-30",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Martina de Roma",
+        "type": "Virgen y Mártir",
+        "description": "Mártir romana del siglo III, cuyas reliquias se descubrieron en 1634 en el Foro Romano. Es copatrona de Roma junto a San Pedro y San Pablo."
+      },
+      {
+        "name": "San Adelgundo",
+        "type": "Virgen y Abadesa",
+        "description": "Abadesa belga del siglo VII, fundadora del monasterio de Maubeuge en la actual Bélgica. Venerada como patrona de las enfermedades de cabeza."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Escolar de la No Violencia y la Paz (DENIP)",
+        "description": "Jornada pedagógica fundada en 1964 por el poeta español Llorenç Vidal, que se celebra el 30 de enero coincidiendo con el aniversario del asesinato de Mahatma Gandhi, símbolo mundial de la no violencia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La no violencia es la mayor fuerza a disposición de la humanidad.",
+      "author": "Mahatma Gandhi",
+      "context": "Mahatma Gandhi fue asesinado el 30 de enero de 1948 en Nueva Delhi por el fanático hindú Nathuram Godse. Su legado de no violencia y resistencia pacífica sigue inspirando movimientos de derechos civiles en todo el mundo."
+    },
+    "motivationalQuote": {
+      "text": "Sé el cambio que deseas ver en el mundo.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Franklin D. Roosevelt",
+        "description": "32.º presidente de los Estados Unidos, el único en ser elegido cuatro veces consecutivas. Lideró al país durante la Gran Depresión y la Segunda Guerra Mundial, impulsando el New Deal como programa de recuperación económica.",
+        "year": 1882
+      },
+      {
+        "name": "Phil Collins",
+        "description": "Músico, cantante y compositor inglés, baterista y vocalista de Genesis, con una exitosa carrera en solitario que incluye éxitos como In the Air Tonight y Sussudio.",
+        "year": 1951
+      },
+      {
+        "name": "Christian Bale",
+        "description": "Actor galés ganador del Óscar por The Fighter, conocido por su dedicación extrema a los papeles y por interpretar a Batman en la trilogía de Christopher Nolan.",
+        "year": 1974
+      }
+    ],
+    "events": [
+      {
+        "title": "Asesinato de Mahatma Gandhi",
+        "description": "El líder espiritual y político Mahatma Gandhi fue asesinado en Nueva Delhi mientras se dirigía a la oración vespertina, víctima de tres disparos. El asesino fue Nathuram Godse, un extremista hindú.",
+        "year": 1948
+      },
+      {
+        "title": "El último concierto de los Beatles en el tejado",
+        "description": "Los Beatles ofrecieron su último concierto en directo en el tejado del edificio Apple Corps de la calle Savile Row en Londres. La actuación fue interrumpida por la policía.",
+        "year": 1969
+      },
+      {
+        "title": "Bombardeo de Rotterdam",
+        "description": "La Luftwaffe alemana bombardeó la ciudad holandesa de Rotterdam durante la invasión de los Países Bajos, destruyendo el centro histórico y causando más de 800 muertos.",
+        "year": 1940
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Martina of Rome",
+        "type": "Virgin and Martyr",
+        "description": "Roman martyr of the 3rd century, whose relics were discovered in 1634 in the Roman Forum. She is co-patron of Rome alongside Saints Peter and Paul."
+      },
+      {
+        "name": "Saint Aldegonde",
+        "type": "Virgin and Abbess",
+        "description": "Belgian abbess of the 7th century, foundress of the monastery of Maubeuge in present-day Belgium. Venerated as patron of those suffering from head ailments."
+      }
+    ],
+    "observances": [
+      {
+        "name": "School Day of Non-Violence and Peace (DENIP)",
+        "description": "An educational day founded in 1964 by Spanish poet Llorenç Vidal, held on 30 January to coincide with the anniversary of the assassination of Mahatma Gandhi, a worldwide symbol of non-violence."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Non-violence is the greatest force at the disposal of mankind.",
+      "author": "Mahatma Gandhi",
+      "context": "Mahatma Gandhi was assassinated on 30 January 1948 in New Delhi by Hindu fanatic Nathuram Godse. His legacy of non-violence and peaceful resistance continues to inspire civil rights movements around the world."
+    },
+    "motivationalQuote": {
+      "text": "Be the change you wish to see in the world.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Franklin D. Roosevelt",
+        "description": "32nd President of the United States, the only one elected four consecutive times. He led the country through the Great Depression and World War II, championing the New Deal as an economic recovery programme.",
+        "year": 1882
+      },
+      {
+        "name": "Phil Collins",
+        "description": "English musician, singer and songwriter, drummer and vocalist of Genesis, with a successful solo career including hits such as In the Air Tonight and Sussudio.",
+        "year": 1951
+      },
+      {
+        "name": "Christian Bale",
+        "description": "Welsh actor, Oscar winner for The Fighter, known for his extreme dedication to roles and for playing Batman in Christopher Nolan's trilogy.",
+        "year": 1974
+      }
+    ],
+    "events": [
+      {
+        "title": "Assassination of Mahatma Gandhi",
+        "description": "Spiritual and political leader Mahatma Gandhi was assassinated in New Delhi while walking to evening prayers, shot three times. The assassin was Nathuram Godse, a Hindu extremist.",
+        "year": 1948
+      },
+      {
+        "title": "The Beatles' rooftop concert",
+        "description": "The Beatles gave their last live concert on the rooftop of the Apple Corps building on Savile Row in London. The performance was interrupted by police.",
+        "year": 1969
+      },
+      {
+        "title": "Bombing of Rotterdam",
+        "description": "The German Luftwaffe bombed the Dutch city of Rotterdam during the invasion of the Netherlands, destroying the historic city centre and causing more than 800 deaths.",
+        "year": 1940
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Martina de Roma",
+        "type": "Virgem e Mártir",
+        "description": "Mártir romana do século III, cujas relíquias foram descobertas em 1634 no Fórum Romano. É co-padroeira de Roma ao lado dos Santos Pedro e Paulo."
+      },
+      {
+        "name": "Santa Aldegonda",
+        "type": "Virgem e Abadessa",
+        "description": "Abadessa belga do século VII, fundadora do mosteiro de Maubeuge na atual Bélgica. Venerada como padroeira de quem sofre de doenças de cabeça."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Escolar da Não Violência e da Paz (DENIP)",
+        "description": "Jornada pedagógica fundada em 1964 pelo poeta espanhol Llorenç Vidal, realizada em 30 de janeiro coincidindo com o aniversário do assassinato de Mahatma Gandhi, símbolo mundial da não violência."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A não violência é a maior força à disposição da humanidade.",
+      "author": "Mahatma Gandhi",
+      "context": "Mahatma Gandhi foi assassinado em 30 de janeiro de 1948 em Nova Deli pelo fanático hindu Nathuram Godse. Seu legado de não violência e resistência pacífica continua a inspirar movimentos de direitos civis em todo o mundo."
+    },
+    "motivationalQuote": {
+      "text": "Seja a mudança que você deseja ver no mundo.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Franklin D. Roosevelt",
+        "description": "32.º presidente dos Estados Unidos, o único eleito quatro vezes consecutivas. Liderou o país durante a Grande Depressão e a Segunda Guerra Mundial, impulsionando o New Deal como programa de recuperação econômica.",
+        "year": 1882
+      },
+      {
+        "name": "Phil Collins",
+        "description": "Músico, cantor e compositor inglês, baterista e vocalista do Genesis, com uma bem-sucedida carreira solo que inclui sucessos como In the Air Tonight e Sussudio.",
+        "year": 1951
+      },
+      {
+        "name": "Christian Bale",
+        "description": "Ator galês vencedor do Oscar por O Vencedor, conhecido por sua dedicação extrema aos papéis e por interpretar o Batman na trilogia de Christopher Nolan.",
+        "year": 1974
+      }
+    ],
+    "events": [
+      {
+        "title": "Assassinato de Mahatma Gandhi",
+        "description": "O líder espiritual e político Mahatma Gandhi foi assassinado em Nova Deli enquanto se dirigia à oração vespertina, atingido por três tiros. O assassino foi Nathuram Godse, um extremista hindu.",
+        "year": 1948
+      },
+      {
+        "title": "O concerto no telhado dos Beatles",
+        "description": "Os Beatles deram seu último concerto ao vivo no telhado do edifício da Apple Corps na Savile Row em Londres. A apresentação foi interrompida pela polícia.",
+        "year": 1969
+      },
+      {
+        "title": "Bombardeio de Roterdã",
+        "description": "A Luftwaffe alemã bombardeou a cidade holandesa de Roterdã durante a invasão dos Países Baixos, destruindo o centro histórico e causando mais de 800 mortos.",
+        "year": 1940
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Martina de Roma",
+        "type": "Verge i Màrtir",
+        "description": "Màrtir romana del segle III, les relíquies de la qual van ser descobertes el 1634 al Fòrum Romà. És copatrona de Roma juntament amb els sants Pere i Pau."
+      },
+      {
+        "name": "Santa Aldegonda",
+        "type": "Verge i Abadessa",
+        "description": "Abadessa belga del segle VII, fundadora del monestir de Maubeuge a l'actual Bèlgica. Venerada com a patrona de les malalties de cap."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Escolar de la No Violència i la Pau (DENIP)",
+        "description": "Jornada pedagògica fundada el 1964 pel poeta espanyol Llorenç Vidal, celebrada el 30 de gener coincidint amb l'aniversari de l'assassinat de Mahatma Gandhi, símbol mundial de la no violència."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La no violència és la major força a disposició de la humanitat.",
+      "author": "Mahatma Gandhi",
+      "context": "Mahatma Gandhi va ser assassinat el 30 de gener de 1948 a Nova Delhi pel fanàtic hindú Nathuram Godse. El seu llegat de no violència i resistència pacífica continua inspirant moviments de drets civils arreu del món."
+    },
+    "motivationalQuote": {
+      "text": "Sigues el canvi que vols veure en el món.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Franklin D. Roosevelt",
+        "description": "32è president dels Estats Units, l'únic elegit quatre vegades consecutives. Va liderar el país durant la Gran Depressió i la Segona Guerra Mundial, impulsant el New Deal com a programa de recuperació econòmica.",
+        "year": 1882
+      },
+      {
+        "name": "Phil Collins",
+        "description": "Músic, cantant i compositor anglès, bateria i vocalista de Genesis, amb una exitosa carrera en solitari que inclou èxits com In the Air Tonight i Sussudio.",
+        "year": 1951
+      },
+      {
+        "name": "Christian Bale",
+        "description": "Actor gal·lès guanyador de l'Oscar per The Fighter, conegut per la seva dedicació extrema als papers i per interpretar Batman a la trilogia de Christopher Nolan.",
+        "year": 1974
+      }
+    ],
+    "events": [
+      {
+        "title": "Assassinat de Mahatma Gandhi",
+        "description": "El líder espiritual i polític Mahatma Gandhi va ser assassinat a Nova Delhi mentre es dirigia a la pregària vespertina, víctima de tres trets. L'assassí va ser Nathuram Godse, un extremista hindú.",
+        "year": 1948
+      },
+      {
+        "title": "El concert al terrat dels Beatles",
+        "description": "Els Beatles van oferir el seu últim concert en directe al terrat de l'edifici d'Apple Corps al carrer Savile Row de Londres. L'actuació va ser interrompuda per la policia.",
+        "year": 1969
+      },
+      {
+        "title": "Bombardeig de Rotterdam",
+        "description": "La Luftwaffe alemanya va bombardejar la ciutat holandesa de Rotterdam durant la invasió dels Països Baixos, destruint el centre històric i causant més de 800 morts.",
+        "year": 1940
+      }
+    ]
+  }
+}

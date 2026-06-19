@@ -1,0 +1,291 @@
+{
+  "date": "2026-04-03",
+  "es": {
+    "saints": [
+      {
+        "name": "San Benigno de Dijon",
+        "type": "Mártir",
+        "description": "Misionero cristiano del siglo II enviado desde Lyon a evangelizar la Borgoña. Predicó en Dijon (actual Francia) y fue martirizado durante las persecuciones del emperador Marco Aurelio. Su tumba se convirtió en un importante centro de peregrinación y sobre ella se construyó una de las primeras grandes abadías de Borgoña."
+      },
+      {
+        "name": "San Ricardo de Chichester",
+        "type": "Obispo",
+        "description": "Obispo inglés del siglo XIII, conocido por su austeridad, defensa de los pobres y valentía ante el poder real. Fue elegido obispo de Chichester contra la voluntad del rey Enrique III, quien le negó sus bienes episcopales durante dos años. Es invocado por los agricultores ingleses."
+      },
+      {
+        "name": "Santa Agape de Tesalónica",
+        "type": "Mártir",
+        "description": "Mártir griega del siglo IV, junto con sus hermanas Irene y Quionia. Las tres fueron arrestadas por conservar copias de las Escrituras durante la persecución de Diocleciano. Agape e Irene fueron quemadas vivas en el año 304; Irene fue ejecutada posteriormente."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Partido",
+        "description": "Jornada informal de celebración del juego y la diversión como parte esencial del bienestar humano. Diversas iniciativas promueven el juego libre en niños y adultos como herramienta de creatividad, socialización y salud mental."
+      },
+      {
+        "name": "Día Internacional del Deporte para el Desarrollo y la Paz",
+        "description": "Proclamado por la ONU en 2013 y celebrado el 6 de abril, esta jornada —adelantada en algunos calendarios al 3 de abril— reconoce el papel del deporte como promotor de valores como la cooperación, el respeto y la solidaridad entre los pueblos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La guerra es un asunto demasiado serio para dejarlo en manos de los militares.",
+      "author": "Georges Clemenceau",
+      "context": "Clemenceau, llamado 'El Tigre', fue el primer ministro francés que lideró a Francia hasta la victoria en la Primera Guerra Mundial. Murió el 24 de noviembre de 1929 y fue sepultado junto a su padre en Vendée."
+    },
+    "motivationalQuote": {
+      "text": "El secreto del éxito es constancia en el propósito.",
+      "author": "Benjamin Disraeli"
+    },
+    "births": [
+      {
+        "name": "Marlon Brando",
+        "description": "Actor estadounidense considerado uno de los más influyentes del siglo XX. Revolucionó la interpretación con el método Stanislavski aplicado al cine. Ganó dos Óscar, por 'Un tranvía llamado deseo' y 'El Padrino', y es símbolo de la nueva generación de actores de Hollywood de los años 50.",
+        "year": "1924"
+      },
+      {
+        "name": "Doris Day",
+        "description": "Actriz y cantante estadounidense, símbolo del cine clásico de Hollywood de los años 50 y 60. Conocida por comedias románticas como 'Pillow Talk' y 'Lover Come Back', también fue una defensora apasionada de los derechos de los animales.",
+        "year": "1922"
+      },
+      {
+        "name": "Washington Irving",
+        "description": "Escritor estadounidense del siglo XIX, considerado el primer autor norteamericano en alcanzar reconocimiento internacional. Autor de leyendas como 'Rip Van Winkle' y 'La leyenda de Sleepy Hollow', que contribuyeron a forjar el imaginario del folclore norteamericano.",
+        "year": "1783"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundación de la OTAN",
+        "description": "Representantes de doce naciones firmaron el Tratado del Atlántico Norte en Washington D.C., creando la Organización del Tratado del Atlántico Norte (OTAN). La alianza militar occidental nació como respuesta a la amenaza soviética en plena Guerra Fría.",
+        "year": "1949"
+      },
+      {
+        "title": "Primera llamada telefónica móvil de la historia",
+        "description": "Martin Cooper, ingeniero de Motorola, realizó la primera llamada desde un teléfono móvil portátil desde las calles de Nueva York, llamando a su rival en Bell Labs, Joel Engel. El prototipo pesaba 1,1 kg y tenía una autonomía de 20 minutos.",
+        "year": "1973"
+      },
+      {
+        "title": "Inauguración del Coliseo de Roma",
+        "description": "El emperador Tito inauguró oficialmente el Anfiteatro Flavio —conocido como el Coliseo— con cien días de espectáculos. Capaz de albergar entre 50.000 y 80.000 espectadores, es el anfiteatro romano más grande jamás construido.",
+        "year": "80"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Benignus of Dijon",
+        "type": "Martyr",
+        "description": "A 2nd-century Christian missionary sent from Lyon to evangelise Burgundy. He preached in Dijon (present-day France) and was martyred during the persecutions of Emperor Marcus Aurelius. His tomb became an important pilgrimage site, and one of the first great abbeys of Burgundy was built over it."
+      },
+      {
+        "name": "Saint Richard of Chichester",
+        "type": "Bishop",
+        "description": "A 13th-century English bishop known for his austerity, defence of the poor, and courage in the face of royal power. He was elected Bishop of Chichester against the will of King Henry III, who withheld his episcopal properties for two years. He is invoked by English farmers."
+      },
+      {
+        "name": "Saint Agape of Thessalonica",
+        "type": "Martyr",
+        "description": "A 4th-century Greek martyr, together with her sisters Irene and Chionia. The three were arrested for keeping copies of the Scriptures during the Diocletian persecution. Agape and Chionia were burned alive in 304; Irene was executed shortly afterwards."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Play Day",
+        "description": "An informal day celebrating play and fun as an essential part of human well-being. Various initiatives promote free play for children and adults as a tool for creativity, socialisation, and mental health."
+      },
+      {
+        "name": "International Day of Sport for Development and Peace",
+        "description": "Proclaimed by the UN in 2013 and observed on 6 April, this day — brought forward in some calendars to 3 April — recognises the role of sport in promoting values such as cooperation, respect, and solidarity among peoples."
+      }
+    ],
+    "historicalQuote": {
+      "text": "War is too serious a matter to be left to the generals.",
+      "author": "Georges Clemenceau",
+      "context": "Clemenceau, known as 'The Tiger', was the French Prime Minister who led France to victory in the First World War. He died on 24 November 1929 and was buried alongside his father in Vendée."
+    },
+    "motivationalQuote": {
+      "text": "The secret of success is constancy of purpose.",
+      "author": "Benjamin Disraeli"
+    },
+    "births": [
+      {
+        "name": "Marlon Brando",
+        "description": "American actor considered one of the most influential of the 20th century. He revolutionised performance with the Stanislavski method applied to film. He won two Academy Awards, for 'A Streetcar Named Desire' and 'The Godfather', and is a symbol of Hollywood's new generation of actors in the 1950s.",
+        "year": "1924"
+      },
+      {
+        "name": "Doris Day",
+        "description": "American actress and singer, a symbol of classic Hollywood cinema of the 1950s and 60s. Known for romantic comedies such as 'Pillow Talk' and 'Lover Come Back', she was also a passionate advocate for animal rights.",
+        "year": "1922"
+      },
+      {
+        "name": "Washington Irving",
+        "description": "19th-century American writer, considered the first North American author to achieve international recognition. Author of legends such as 'Rip Van Winkle' and 'The Legend of Sleepy Hollow', which helped forge the imaginary world of North American folklore.",
+        "year": "1783"
+      }
+    ],
+    "events": [
+      {
+        "title": "Founding of NATO",
+        "description": "Representatives of twelve nations signed the North Atlantic Treaty in Washington D.C., creating the North Atlantic Treaty Organization (NATO). The Western military alliance was born in response to the Soviet threat during the Cold War.",
+        "year": "1949"
+      },
+      {
+        "title": "First Mobile Phone Call in History",
+        "description": "Martin Cooper, an engineer at Motorola, made the first call from a portable mobile phone on the streets of New York, calling his rival at Bell Labs, Joel Engel. The prototype weighed 1.1 kg and had a battery life of 20 minutes.",
+        "year": "1973"
+      },
+      {
+        "title": "Inauguration of the Colosseum in Rome",
+        "description": "Emperor Titus officially inaugurated the Flavian Amphitheatre — known as the Colosseum — with a hundred days of spectacles. Capable of holding between 50,000 and 80,000 spectators, it is the largest Roman amphitheatre ever built.",
+        "year": "80"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Benigno de Dijon",
+        "type": "Mártir",
+        "description": "Missionário cristão do século II enviado de Lyon para evangelizar a Borgonha. Pregou em Dijon (atual França) e foi martirizado durante as perseguições do imperador Marco Aurélio. Seu túmulo tornou-se um importante centro de peregrinação e sobre ele foi construída uma das primeiras grandes abadias da Borgonha."
+      },
+      {
+        "name": "São Ricardo de Chichester",
+        "type": "Bispo",
+        "description": "Bispo inglês do século XIII, conhecido por sua austeridade, defesa dos pobres e coragem diante do poder real. Foi eleito bispo de Chichester contra a vontade do rei Henrique III, que lhe negou seus bens episcopais durante dois anos. É invocado pelos agricultores ingleses."
+      },
+      {
+        "name": "Santa Ágape de Tessalônica",
+        "type": "Mártir",
+        "description": "Mártir grega do século IV, juntamente com suas irmãs Irene e Quiônia. As três foram presas por guardar cópias das Escrituras durante a perseguição de Diocleciano. Ágape e Quiônia foram queimadas vivas no ano 304; Irene foi executada posteriormente."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial do Brincar",
+        "description": "Jornada informal de celebração do jogo e da diversão como parte essencial do bem-estar humano. Diversas iniciativas promovem o jogo livre em crianças e adultos como ferramenta de criatividade, socialização e saúde mental."
+      },
+      {
+        "name": "Dia Internacional do Esporte para o Desenvolvimento e a Paz",
+        "description": "Proclamado pela ONU em 2013 e celebrado em 6 de abril, esta jornada — antecipada em alguns calendários para 3 de abril — reconhece o papel do esporte como promotor de valores como a cooperação, o respeito e a solidariedade entre os povos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A guerra é um assunto sério demais para ser deixado nas mãos dos militares.",
+      "author": "Georges Clemenceau",
+      "context": "Clemenceau, chamado de 'O Tigre', foi o primeiro-ministro francês que liderou a França até a vitória na Primeira Guerra Mundial. Morreu em 24 de novembro de 1929 e foi sepultado ao lado de seu pai na Vendeia."
+    },
+    "motivationalQuote": {
+      "text": "O segredo do sucesso é a constância no propósito.",
+      "author": "Benjamin Disraeli"
+    },
+    "births": [
+      {
+        "name": "Marlon Brando",
+        "description": "Ator americano considerado um dos mais influentes do século XX. Revolucionou a interpretação com o método Stanislavski aplicado ao cinema. Ganhou dois Óscares, por 'Uma Rua Chamada Pecado' e 'O Poderoso Chefão', e é símbolo da nova geração de atores de Hollywood dos anos 50.",
+        "year": "1924"
+      },
+      {
+        "name": "Doris Day",
+        "description": "Atriz e cantora americana, símbolo do cinema clássico de Hollywood dos anos 50 e 60. Conhecida por comédias românticas como 'Pillow Talk' e 'Lover Come Back', também foi uma apaixonada defensora dos direitos dos animais.",
+        "year": "1922"
+      },
+      {
+        "name": "Washington Irving",
+        "description": "Escritor americano do século XIX, considerado o primeiro autor norte-americano a alcançar reconhecimento internacional. Autor de lendas como 'Rip Van Winkle' e 'A Lenda do Cavaleiro sem Cabeça', que ajudaram a forjar o imaginário do folclore norte-americano.",
+        "year": "1783"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundação da OTAN",
+        "description": "Representantes de doze nações assinaram o Tratado do Atlântico Norte em Washington D.C., criando a Organização do Tratado do Atlântico Norte (OTAN). A aliança militar ocidental nasceu como resposta à ameaça soviética em plena Guerra Fria.",
+        "year": "1949"
+      },
+      {
+        "title": "Primeira chamada de telefone celular da história",
+        "description": "Martin Cooper, engenheiro da Motorola, realizou a primeira ligação a partir de um telefone celular portátil nas ruas de Nova York, ligando para o seu rival na Bell Labs, Joel Engel. O protótipo pesava 1,1 kg e tinha autonomia de 20 minutos.",
+        "year": "1973"
+      },
+      {
+        "title": "Inauguração do Coliseu de Roma",
+        "description": "O imperador Tito inaugurou oficialmente o Anfiteatro Flávio — conhecido como o Coliseu — com cem dias de espetáculos. Com capacidade para entre 50.000 e 80.000 espectadores, é o maior anfiteatro romano já construído.",
+        "year": "80"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Benigna de Dijon",
+        "type": "Màrtir",
+        "description": "Missioner cristià del segle II enviat des de Lió per evangelitzar la Borgonya. Va predicar a Dijon (actual França) i va ser martiritzat durant les persecucions de l'emperador Marc Aureli. El seu sepulcre es va convertir en un important centre de pelegrinatge i sobre ell es va construir una de les primeres grans abadies de la Borgonya."
+      },
+      {
+        "name": "Sant Ricard de Chichester",
+        "type": "Bisbe",
+        "description": "Bisbe anglès del segle XIII, conegut per la seva austeritat, defensa dels pobres i valentia davant el poder reial. Va ser elegit bisbe de Chichester contra la voluntat del rei Enric III, que li va negar els seus béns episcopals durant dos anys. És invocat pels agricultors anglesos."
+      },
+      {
+        "name": "Santa Àgape de Tessalònica",
+        "type": "Màrtir",
+        "description": "Màrtir grega del segle IV, juntament amb les seves germanes Irene i Quiònia. Les tres van ser arrestades per conservar còpies de les Escriptures durant la persecució de Dioclecià. Àgape i Quiònia van ser cremades vives l'any 304; Irene va ser executada posteriorment."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial del Joc",
+        "description": "Jornada informal de celebració del joc i la diversió com a part essencial del benestar humà. Diverses iniciatives promouen el joc lliure en nens i adults com a eina de creativitat, socialització i salut mental."
+      },
+      {
+        "name": "Dia Internacional de l'Esport per al Desenvolupament i la Pau",
+        "description": "Proclamat per l'ONU el 2013 i celebrat el 6 d'abril, aquesta jornada — avançada en alguns calendaris al 3 d'abril — reconeix el paper de l'esport com a promotor de valors com la cooperació, el respecte i la solidaritat entre els pobles."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La guerra és un assumpte massa seriós per deixar-lo en mans dels militars.",
+      "author": "Georges Clemenceau",
+      "context": "Clemenceau, anomenat 'El Tigre', va ser el primer ministre francès que va liderar França fins a la victòria a la Primera Guerra Mundial. Va morir el 24 de novembre de 1929 i va ser enterrat al costat del seu pare a la Vendée."
+    },
+    "motivationalQuote": {
+      "text": "El secret de l'èxit és la constància en el propòsit.",
+      "author": "Benjamin Disraeli"
+    },
+    "births": [
+      {
+        "name": "Marlon Brando",
+        "description": "Actor nord-americà considerat un dels més influents del segle XX. Va revolucionar la interpretació amb el mètode Stanislavski aplicat al cinema. Va guanyar dos Òscars, per 'Un tramvia anomenat desig' i 'El Padrí', i és símbol de la nova generació d'actors de Hollywood dels anys 50.",
+        "year": "1924"
+      },
+      {
+        "name": "Doris Day",
+        "description": "Actriu i cantant americana, símbol del cinema clàssic de Hollywood dels anys 50 i 60. Coneguda per comèdies romàntiques com 'Pillow Talk' i 'Lover Come Back', també va ser una apassionada defensora dels drets dels animals.",
+        "year": "1922"
+      },
+      {
+        "name": "Washington Irving",
+        "description": "Escriptor americà del segle XIX, considerat el primer autor nord-americà a assolir reconeixement internacional. Autor de llegendes com 'Rip Van Winkle' i 'La llegenda de Sleepy Hollow', que van contribuir a forjar l'imaginari del folklore nord-americà.",
+        "year": "1783"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundació de l'OTAN",
+        "description": "Representants de dotze nacions van signar el Tractat de l'Atlàntic Nord a Washington D.C., creant l'Organització del Tractat de l'Atlàntic Nord (OTAN). L'aliança militar occidental va néixer com a resposta a l'amenaça soviètica en plena Guerra Freda.",
+        "year": "1949"
+      },
+      {
+        "title": "Primera trucada de telèfon mòbil de la història",
+        "description": "Martin Cooper, enginyer de Motorola, va realitzar la primera trucada des d'un telèfon mòbil portàtil pels carrers de Nova York, trucant al seu rival a Bell Labs, Joel Engel. El prototip pesava 1,1 kg i tenia una autonomia de 20 minuts.",
+        "year": "1973"
+      },
+      {
+        "title": "Inauguració del Colosseu de Roma",
+        "description": "L'emperador Tit va inaugurar oficialment l'Amfiteatre Flavi — conegut com el Colosseu — amb cent dies d'espectacles. Amb capacitat per entre 50.000 i 80.000 espectadors, és el major amfiteatre romà mai construït.",
+        "year": "80"
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "date": "2026-06-10",
+  "es": {
+    "saints": [
+      {
+        "name": "San Asterio de Petra",
+        "type": "Obispo",
+        "description": "Obispo de Petra en Arabia del siglo IV que participó en las controversias arriana y nicena. Inicialmente próximo al arrianismo, en el Concilio de Sárdica (347) se puso del lado de la ortodoxia nicena."
+      },
+      {
+        "name": "San Landerico de París",
+        "type": "Obispo",
+        "description": "Vigésimo octavo obispo de París del siglo VII, conocido por su celo apostólico al servicio de los pobres. Llegó a vender ornamentos sagrados para alimentar a los necesitados, y fundó un hospital junto a la catedral que fue precursor del actual Hôtel-Dieu."
+      },
+      {
+        "name": "Beato Juan Dominici",
+        "type": "Cardenal",
+        "description": "Dominico florentino nacido en 1376, llegó a ser arzobispo de Ragusa y cardenal. Falleció el 10 de junio de 1419 en Buda, durante una misión de unidad de la Iglesia. Fue beatificado por Gregorio XVI en 1832."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de Portugal, de Camões y de las Comunidades Portuguesas",
+        "description": "Portugal celebra su día nacional en conmemoración de la muerte del poeta Luís de Camões en 1580, autor de Os Lusíadas. Es también un día de homenaje a las comunidades portuguesas repartidas por todo el mundo."
+      },
+      {
+        "name": "Día Mundial de la Visión",
+        "description": "Promovido por la OMS y la IAPB, esta jornada sensibiliza sobre la prevención de la ceguera y los trastornos de la visión, que afectan a más de 2.200 millones de personas en el mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "En algún lugar, algo increíble espera ser descubierto.",
+      "author": "Carl Sagan"
+    },
+    "motivationalQuote": {
+      "text": "No esperes que las circunstancias sean perfectas. Las circunstancias nunca son perfectas.",
+      "author": "Samuel Johnson"
+    },
+    "births": [
+      {
+        "name": "Judy Garland",
+        "description": "Actriz y cantante estadounidense, ídolo de varias generaciones. Protagonizó El mago de Oz (1939), donde interpretó a Dorothy, y fue símbolo del glamour dorado de Hollywood.",
+        "year": "1922"
+      },
+      {
+        "name": "Maurice Sendak",
+        "description": "Escritor e ilustrador estadounidense, autor de Donde viven los monstruos (Where the Wild Things Are), uno de los álbumes ilustrados más influyentes y queridos de la literatura infantil.",
+        "year": "1928"
+      },
+      {
+        "name": "João Gilberto",
+        "description": "Cantante, guitarrista y compositor brasileño, considerado el padre de la bossa nova. Su particular estilo vocal y guitarrístico revolucionó la música popular brasileña e influyó en la música mundial.",
+        "year": "1931"
+      }
+    ],
+    "events": [
+      {
+        "title": "Inauguración del Jardin des Plantes y primer zoológico público",
+        "description": "Se inaugura en París el Jardin des Plantes, que al año siguiente incorporaría su menagerie, convirtiéndose en el primer zoológico público de la historia, abierto a todos los ciudadanos.",
+        "year": "1793"
+      },
+      {
+        "title": "Auguste Lumière presenta la fotografía en color",
+        "description": "El inventor francés Auguste Lumière presentó públicamente por primera vez su proceso de fotografía en color (Autochrome) ante 600 personas en París, abriendo una nueva era en la imagen.",
+        "year": "1907"
+      },
+      {
+        "title": "Muerte de Antonio Gaudí",
+        "description": "El arquitecto catalán Antonio Gaudí fue atropellado por un tranvía en Barcelona tres días antes y falleció este día sin ser reconocido inicialmente. Máximo representante del modernismo catalán, dejó obras como la Sagrada Família y el Park Güell.",
+        "year": "1926"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Asterius of Petra",
+        "type": "Bishop",
+        "description": "Bishop of Petra in Arabia in the 4th century who took part in the Arian and Nicene controversies. Initially close to Arianism, at the Council of Sardica (347) he sided with Nicene orthodoxy."
+      },
+      {
+        "name": "Saint Landry of Paris",
+        "type": "Bishop",
+        "description": "28th Bishop of Paris in the 7th century, known for his apostolic zeal in service of the poor. He went so far as to sell sacred ornaments to feed the needy, and founded a hospital next to the cathedral that was the forerunner of the present-day Hôtel-Dieu."
+      },
+      {
+        "name": "Blessed Giovanni Dominici",
+        "type": "Cardinal",
+        "description": "Florentine Dominican born in 1376, he became Archbishop of Ragusa and cardinal. He died on June 10, 1419 in Buda, while on a mission for Church unity. He was beatified by Gregory XVI in 1832."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Day of Portugal, Camões and the Portuguese Communities",
+        "description": "Portugal celebrates its national day to commemorate the death of the poet Luís de Camões in 1580, author of Os Lusíadas. It is also a day of tribute to Portuguese communities spread around the world."
+      },
+      {
+        "name": "World Vision Day",
+        "description": "Promoted by the WHO and IAPB, this day raises awareness about the prevention of blindness and vision disorders, which affect more than 2.2 billion people worldwide."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Somewhere, something incredible is waiting to be known.",
+      "author": "Carl Sagan"
+    },
+    "motivationalQuote": {
+      "text": "Do not wait for circumstances to be perfect. Circumstances are never perfect.",
+      "author": "Samuel Johnson"
+    },
+    "births": [
+      {
+        "name": "Judy Garland",
+        "description": "American actress and singer, idol of several generations. She starred in The Wizard of Oz (1939), where she played Dorothy, and was a symbol of Hollywood's golden glamour.",
+        "year": "1922"
+      },
+      {
+        "name": "Maurice Sendak",
+        "description": "American writer and illustrator, author of Where the Wild Things Are, one of the most influential and beloved picture books in children's literature.",
+        "year": "1928"
+      },
+      {
+        "name": "João Gilberto",
+        "description": "Brazilian singer, guitarist, and composer, considered the father of bossa nova. His distinctive vocal and guitar style revolutionized Brazilian popular music and influenced music worldwide.",
+        "year": "1931"
+      }
+    ],
+    "events": [
+      {
+        "title": "Opening of the Jardin des Plantes and first public zoo",
+        "description": "The Jardin des Plantes opened in Paris, and the following year it incorporated its menagerie, making it the first public zoo in history, open to all citizens.",
+        "year": "1793"
+      },
+      {
+        "title": "Auguste Lumière presents colour photography",
+        "description": "French inventor Auguste Lumière publicly presented his colour photography process (Autochrome) for the first time to 600 people in Paris, opening a new era in imaging.",
+        "year": "1907"
+      },
+      {
+        "title": "Death of Antoni Gaudí",
+        "description": "Catalan architect Antoni Gaudí was struck by a tram in Barcelona three days earlier and died this day without initially being recognized. The leading exponent of Catalan Modernisme, he left works such as the Sagrada Família and Park Güell.",
+        "year": "1926"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Astério de Petra",
+        "type": "Bispo",
+        "description": "Bispo de Petra na Arábia do século IV que participou das controvérsias ariana e nicena. Inicialmente próximo ao arianismo, no Concílio de Sárdica (347) colocou-se ao lado da ortodoxia nicena."
+      },
+      {
+        "name": "São Landry de Paris",
+        "type": "Bispo",
+        "description": "Vigésimo oitavo bispo de Paris no século VII, conhecido por seu zelo apostólico ao serviço dos pobres. Chegou a vender ornamentos sagrados para alimentar os necessitados e fundou um hospital junto à catedral, precursor do atual Hôtel-Dieu."
+      },
+      {
+        "name": "Beato João Dominici",
+        "type": "Cardeal",
+        "description": "Dominicano florentino nascido em 1376, chegou a ser arcebispo de Ragusa e cardeal. Faleceu em 10 de junho de 1419 em Buda, durante uma missão de unidade da Igreja. Foi beatificado por Gregório XVI em 1832."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Portugal, de Camões e das Comunidades Portuguesas",
+        "description": "Portugal celebra seu dia nacional em comemoração à morte do poeta Luís de Camões em 1580, autor d'Os Lusíadas. É também um dia de homenagem às comunidades portuguesas espalhadas pelo mundo."
+      },
+      {
+        "name": "Dia Mundial da Visão",
+        "description": "Promovido pela OMS e pela IAPB, este dia sensibiliza sobre a prevenção da cegueira e dos distúrbios visuais, que afetam mais de 2,2 bilhões de pessoas no mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Em algum lugar, algo incrível está esperando para ser descoberto.",
+      "author": "Carl Sagan"
+    },
+    "motivationalQuote": {
+      "text": "Não espere que as circunstâncias sejam perfeitas. As circunstâncias nunca são perfeitas.",
+      "author": "Samuel Johnson"
+    },
+    "births": [
+      {
+        "name": "Judy Garland",
+        "description": "Atriz e cantora americana, ídolo de várias gerações. Estrelou O Mágico de Oz (1939), onde interpretou Dorothy, e foi símbolo do glamour dourado de Hollywood.",
+        "year": "1922"
+      },
+      {
+        "name": "Maurice Sendak",
+        "description": "Escritor e ilustrador americano, autor de Onde Vivem os Monstros (Where the Wild Things Are), um dos álbuns ilustrados mais influentes e queridos da literatura infantil.",
+        "year": "1928"
+      },
+      {
+        "name": "João Gilberto",
+        "description": "Cantor, violonista e compositor brasileiro, considerado o pai da bossa nova. Seu estilo vocal e guitarrístico único revolucionou a música popular brasileira e influenciou a música mundial.",
+        "year": "1931"
+      }
+    ],
+    "events": [
+      {
+        "title": "Inauguração do Jardin des Plantes e primeiro zoológico público",
+        "description": "Inaugurou-se em Paris o Jardin des Plantes, que no ano seguinte incorporaria sua ménagerie, tornando-se o primeiro zoológico público da história, aberto a todos os cidadãos.",
+        "year": "1793"
+      },
+      {
+        "title": "Auguste Lumière apresenta a fotografia colorida",
+        "description": "O inventor francês Auguste Lumière apresentou publicamente pela primeira vez seu processo de fotografia colorida (Autocromo) para 600 pessoas em Paris, abrindo uma nova era na imagem.",
+        "year": "1907"
+      },
+      {
+        "title": "Morte de Antoni Gaudí",
+        "description": "O arquiteto catalão Antoni Gaudí foi atropelado por um bonde em Barcelona três dias antes e faleceu neste dia sem ser inicialmente reconhecido. Principal representante do modernismo catalão, deixou obras como a Sagrada Família e o Park Güell.",
+        "year": "1926"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Asteri de Petra",
+        "type": "Bisbe",
+        "description": "Bisbe de Petra a Aràbia del segle IV que va participar en les controvèrsies arriana i nicena. Inicialment proper a l'arrianisme, al Concili de Sàrdica (347) es va posar del costat de l'ortodòxia nicena."
+      },
+      {
+        "name": "Sant Landeric de París",
+        "type": "Bisbe",
+        "description": "Vint-i-vuitè bisbe de París al segle VII, conegut pel seu zel apostòlic al servei dels pobres. Va arribar a vendre ornaments sagrats per alimentar els necessitats i va fundar un hospital prop de la catedral, precursor de l'actual Hôtel-Dieu."
+      },
+      {
+        "name": "Beat Joan Dominici",
+        "type": "Cardenal",
+        "description": "Dominic florentí nascut el 1376, va arribar a ser arquebisbe de Ragusa i cardenal. Va morir el 10 de juny de 1419 a Buda, durant una missió d'unitat de l'Església. Va ser beatificat per Gregori XVI el 1832."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Portugal, de Camões i de les Comunitats Portugueses",
+        "description": "Portugal celebra el seu dia nacional en commemoració de la mort del poeta Luís de Camões el 1580, autor d'Os Lusíadas. És també un dia d'homenatge a les comunitats portugueses escampades arreu del món."
+      },
+      {
+        "name": "Dia Mundial de la Visió",
+        "description": "Promogut per l'OMS i l'IAPB, aquest dia sensibilitza sobre la prevenció de la ceguesa i els trastorns de la visió, que afecten més de 2.200 milions de persones al món."
+      }
+    ],
+    "historicalQuote": {
+      "text": "En algun lloc, alguna cosa increïble espera ser descoberta.",
+      "author": "Carl Sagan"
+    },
+    "motivationalQuote": {
+      "text": "No esperis que les circumstàncies siguin perfectes. Les circumstàncies mai no són perfectes.",
+      "author": "Samuel Johnson"
+    },
+    "births": [
+      {
+        "name": "Judy Garland",
+        "description": "Actriu i cantant nord-americana, ídol de diverses generacions. Va protagonitzar El màgic d'Oz (1939), on va interpretar Dorothy, i va ser símbol del glamur daurat de Hollywood.",
+        "year": "1922"
+      },
+      {
+        "name": "Maurice Sendak",
+        "description": "Escriptor i il·lustrador nord-americà, autor d'On viuen els monstres (Where the Wild Things Are), un dels àlbums il·lustrats més influents i estimats de la literatura infantil.",
+        "year": "1928"
+      },
+      {
+        "name": "João Gilberto",
+        "description": "Cantant, guitarrista i compositor brasiler, considerat el pare de la bossa nova. El seu estil vocal i guitarrístic particular va revolucionar la música popular brasilera i va influir en la música mundial.",
+        "year": "1931"
+      }
+    ],
+    "events": [
+      {
+        "title": "Inauguració del Jardin des Plantes i primer zoològic públic",
+        "description": "Es va inaugurar a París el Jardin des Plantes, que l'any següent incorporaria la seva menajeria, convertint-se en el primer zoològic públic de la història, obert a tots els ciutadans.",
+        "year": "1793"
+      },
+      {
+        "title": "Auguste Lumière presenta la fotografia en color",
+        "description": "L'inventor francès Auguste Lumière va presentar públicament per primera vegada el seu procés de fotografia en color (Autochrom) davant 600 persones a París, obrint una nova era en la imatge.",
+        "year": "1907"
+      },
+      {
+        "title": "Mort d'Antoni Gaudí",
+        "description": "L'arquitecte català Antoni Gaudí va ser atropellat per un tramvia a Barcelona tres dies abans i va morir aquest dia sense ser reconegut inicialment. Màxim representant del modernisme català, va deixar obres com la Sagrada Família i el Park Güell.",
+        "year": "1926"
+      }
+    ]
+  }
+}

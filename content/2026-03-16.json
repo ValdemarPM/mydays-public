@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-16",
+  "es": {
+    "saints": [
+      { "name": "San Heriberto de Colonia", "type": "Obispo", "description": "Arzobispo de Colonia a principios del siglo XI, canciller del Sacro Imperio Romano bajo Otón III, conocido por su ascetismo y su fundación de la abadía de Deutz." },
+      { "name": "San Julián de Cilicia", "type": "Mártir", "description": "Joven mártir del siglo IV, ejecutado por su fe cristiana en Cilicia (actual Turquía) tras una prolongada tortura; sus reliquias fueron llevadas a Antioquía." },
+      { "name": "San Abraham Kidunaia", "type": "Ermitaño", "description": "Ermitaño mesopotámico del siglo IV, venerado en Oriente por su vida de austeridad y su labor de evangelización en la región de Lidda." }
+    ],
+    "observances": [
+      { "name": "Día Nacional de las Artes y Oficios (varios países)", "description": "Jornada que celebra la artesanía y los oficios tradicionales, su valor cultural y su importancia para la identidad y economía de las comunidades locales." },
+      { "name": "Día del Sueño (Sleep Day)", "description": "Jornada anual promovida por la World Sleep Society antes del cambio de hora de primavera para concienciar sobre la importancia del sueño saludable." }
+    ],
+    "historicalQuote": {
+      "text": "Una nación que destruye su suelo se destruye a sí misma. Los bosques son los pulmones de nuestra tierra.",
+      "author": "Franklin D. Roosevelt",
+      "context": "El presidente Franklin D. Roosevelt, gran impulsor de la conservación medioambiental en EE. UU., formuló esta reflexión sobre la relación entre los recursos naturales y el destino de las naciones."
+    },
+    "motivationalQuote": {
+      "text": "La gratitud transforma lo que tenemos en suficiente.",
+      "author": "Melody Beattie"
+    },
+    "births": [
+      { "name": "James Madison", "description": "Cuarto presidente de los Estados Unidos (1809-1817), principal arquitecto de la Constitución americana y de la Carta de Derechos (Bill of Rights); apodado 'el Padre de la Constitución'.", "year": 1751 },
+      { "name": "Jerry Lewis", "description": "Comediante, actor, director y productor americano, ídolo del cine cómico de los años 50 y 60 y figura enormemente popular en Francia.", "year": 1926 },
+      { "name": "Alan Tudyk", "description": "Actor americano conocido por sus roles en 'Firefly', 'Rogue One: A Star Wars Story' y como actor de voz en numerosas películas de animación de Disney.", "year": 1971 }
+    ],
+    "events": [
+      { "title": "Masacre de My Lai en Vietnam", "description": "Soldados americanos masacraron entre 347 y 504 civiles desarmados, principalmente mujeres, niños y ancianos, en la aldea de My Lai (Vietnam del Sur), en uno de los crímenes de guerra más documentados del siglo XX.", "year": 1968 },
+      { "title": "Crisis de los rehenes de Irán: fracasa la Operación Eagle Claw", "description": "Un intento militar americano de rescatar a los rehenes retenidos en la embajada de EE. UU. en Teherán terminó en desastre con la colisión de aeronaves en el desierto iraní, causando ocho muertos.", "year": 1980 },
+      { "title": "Napoleón proclama el Imperio de los Cien Días", "description": "Napoleón Bonaparte regresó a París tras escapar de la isla de Elba y fue recibido triunfalmente, iniciando el período conocido como los Cien Días que terminaría en Waterloo.", "year": 1815 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Heribert of Cologne", "type": "Bishop", "description": "Archbishop of Cologne in the early eleventh century, Chancellor of the Holy Roman Empire under Otto III, known for his asceticism and his foundation of Deutz Abbey." },
+      { "name": "Saint Julian of Cilicia", "type": "Martyr", "description": "Young fourth-century martyr executed for his Christian faith in Cilicia (modern Turkey) after prolonged torture; his relics were taken to Antioch." },
+      { "name": "Saint Abraham Kidunaia", "type": "Hermit", "description": "Fourth-century Mesopotamian hermit, venerated in the East for his life of austerity and his evangelisation work in the region of Lydda." }
+    ],
+    "observances": [
+      { "name": "National Crafts and Trades Day (various countries)", "description": "A day celebrating craftsmanship and traditional trades, their cultural value and their importance for the identity and economy of local communities." },
+      { "name": "World Sleep Day", "description": "An annual day promoted by the World Sleep Society before the spring clock change to raise awareness of the importance of healthy sleep." }
+    ],
+    "historicalQuote": {
+      "text": "A nation that destroys its soils destroys itself. Forests are the lungs of our land.",
+      "author": "Franklin D. Roosevelt",
+      "context": "President Franklin D. Roosevelt, a great champion of environmental conservation in the USA, formulated this reflection on the relationship between natural resources and the destiny of nations."
+    },
+    "motivationalQuote": {
+      "text": "Gratitude turns what we have into enough.",
+      "author": "Melody Beattie"
+    },
+    "births": [
+      { "name": "James Madison", "description": "Fourth President of the United States (1809–1817), principal architect of the American Constitution and the Bill of Rights; nicknamed 'Father of the Constitution'.", "year": 1751 },
+      { "name": "Jerry Lewis", "description": "American comedian, actor, director and producer, idol of comic cinema in the 1950s and 60s and enormously popular in France.", "year": 1926 },
+      { "name": "Alan Tudyk", "description": "American actor known for his roles in 'Firefly', 'Rogue One: A Star Wars Story' and as a voice actor in numerous Disney animated films.", "year": 1971 }
+    ],
+    "events": [
+      { "title": "My Lai massacre in Vietnam", "description": "American soldiers massacred between 347 and 504 unarmed civilians, mostly women, children and elderly, in the village of My Lai (South Vietnam), one of the most documented war crimes of the twentieth century.", "year": 1968 },
+      { "title": "Iran hostage crisis: Operation Eagle Claw fails", "description": "An American military attempt to rescue hostages held at the US Embassy in Tehran ended in disaster with aircraft colliding in the Iranian desert, killing eight.", "year": 1980 },
+      { "title": "Napoleon proclaims the Hundred Days Empire", "description": "Napoleon Bonaparte returned to Paris after escaping from Elba and was welcomed triumphantly, beginning the period known as the Hundred Days, which would end at Waterloo.", "year": 1815 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Heriberto de Colônia", "type": "Bispo", "description": "Arcebispo de Colônia no início do século XI, chanceler do Sacro Império Romano sob Otão III, conhecido pelo seu ascetismo e pela fundação da abadia de Deutz." },
+      { "name": "São Juliano da Cilícia", "type": "Mártir", "description": "Jovem mártir do século IV, executado pela sua fé cristã na Cilícia (atual Turquia) após prolongada tortura; as suas relíquias foram levadas para Antioquia." },
+      { "name": "São Abraão Kidunaia", "type": "Eremita", "description": "Eremita mesopotâmico do século IV, venerado no Oriente pela sua vida de austeridade e o seu trabalho de evangelização na região de Lida." }
+    ],
+    "observances": [
+      { "name": "Dia Nacional das Artes e Ofícios (vários países)", "description": "Jornada que celebra o artesanato e os ofícios tradicionais, o seu valor cultural e a sua importância para a identidade e economia das comunidades locais." },
+      { "name": "Dia Mundial do Sono (Sleep Day)", "description": "Jornada anual promovida pela World Sleep Society antes da mudança de horário de primavera para conscientizar sobre a importância do sono saudável." }
+    ],
+    "historicalQuote": {
+      "text": "Uma nação que destrói o seu solo destrói a si mesma. As florestas são os pulmões da nossa terra.",
+      "author": "Franklin D. Roosevelt",
+      "context": "O presidente Franklin D. Roosevelt, grande impulsionador da conservação ambiental nos EUA, formulou esta reflexão sobre a relação entre os recursos naturais e o destino das nações."
+    },
+    "motivationalQuote": {
+      "text": "A gratidão transforma o que temos em suficiente.",
+      "author": "Melody Beattie"
+    },
+    "births": [
+      { "name": "James Madison", "description": "Quarto presidente dos Estados Unidos (1809-1817), principal arquiteto da Constituição americana e da Declaração de Direitos (Bill of Rights); apelidado de 'Pai da Constituição'.", "year": 1751 },
+      { "name": "Jerry Lewis", "description": "Comediante, ator, diretor e produtor americano, ídolo do cinema cômico dos anos 50 e 60 e figura enormemente popular na França.", "year": 1926 },
+      { "name": "Alan Tudyk", "description": "Ator americano conhecido pelos papéis em 'Firefly', 'Rogue One: A Star Wars Story' e como ator de voz em numerosos filmes de animação da Disney.", "year": 1971 }
+    ],
+    "events": [
+      { "title": "Massacre de My Lai no Vietnã", "description": "Soldados americanos massacraram entre 347 e 504 civis desarmados, principalmente mulheres, crianças e idosos, na aldeia de My Lai (Vietnã do Sul), num dos crimes de guerra mais documentados do século XX.", "year": 1968 },
+      { "title": "Crise dos reféns no Irã: Operação Eagle Claw fracassa", "description": "Uma tentativa militar americana de resgatar os reféns retidos na embaixada dos EUA em Teerã terminou em desastre com a colisão de aeronaves no deserto iraniano, causando oito mortos.", "year": 1980 },
+      { "title": "Napoleão proclama o Império dos Cem Dias", "description": "Napoleão Bonaparte retornou a Paris após escapar da ilha de Elba e foi recebido triunfalmente, iniciando o período conhecido como os Cem Dias, que terminaria em Waterloo.", "year": 1815 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Heribert de Colònia", "type": "Bisbe", "description": "Arquebisbe de Colònia a principis del segle XI, canceller del Sacre Imperi Romà sota Otó III, conegut pel seu ascetisme i la seva fundació de l'abadia de Deutz." },
+      { "name": "Sant Julià de Cilícia", "type": "Màrtir", "description": "Jove màrtir del segle IV, executat per la seva fe cristiana a Cilícia (actual Turquia) després d'una prolongada tortura; les seves relíquies van ser portades a Antioquia." },
+      { "name": "Sant Abraham Kidunaia", "type": "Eremita", "description": "Eremita mesopotàmic del segle IV, venerat a l'Orient per la seva vida d'austeritat i la seva tasca d'evangelització a la regió de Lidda." }
+    ],
+    "observances": [
+      { "name": "Dia Nacional de les Arts i Oficis (diversos països)", "description": "Jornada que celebra l'artesania i els oficis tradicionals, el seu valor cultural i la seva importància per a la identitat i l'economia de les comunitats locals." },
+      { "name": "Dia Mundial del Somni (Sleep Day)", "description": "Jornada anual promoguda per la World Sleep Society abans del canvi d'hora de primavera per conscienciar sobre la importància del son saludable." }
+    ],
+    "historicalQuote": {
+      "text": "Una nació que destrueix el seu sòl es destrueix a si mateixa. Els boscos són els pulmons de la nostra terra.",
+      "author": "Franklin D. Roosevelt",
+      "context": "El president Franklin D. Roosevelt, gran impulsor de la conservació mediambiental als EUA, va formular aquesta reflexió sobre la relació entre els recursos naturals i el destí de les nacions."
+    },
+    "motivationalQuote": {
+      "text": "La gratitud transforma el que tenim en suficient.",
+      "author": "Melody Beattie"
+    },
+    "births": [
+      { "name": "James Madison", "description": "Quart president dels Estats Units (1809-1817), principal arquitecte de la Constitució americana i de la Carta de Drets (Bill of Rights); apoderat 'el Pare de la Constitució'.", "year": 1751 },
+      { "name": "Jerry Lewis", "description": "Comediant, actor, director i productor americà, ídol del cinema còmic dels anys 50 i 60 i figura enormement popular a França.", "year": 1926 },
+      { "name": "Alan Tudyk", "description": "Actor americà conegut pels papers a 'Firefly', 'Rogue One: A Star Wars Story' i com a actor de veu en nombroses pel·lícules d'animació de Disney.", "year": 1971 }
+    ],
+    "events": [
+      { "title": "Massacre de My Lai al Vietnam", "description": "Soldats americans van massacrar entre 347 i 504 civils desarmats, principalment dones, nens i ancians, a l'aldea de My Lai (Vietnam del Sud), en un dels crims de guerra més documentats del segle XX.", "year": 1968 },
+      { "title": "Crisi dels ostatges a l'Iran: fracassa l'Operació Eagle Claw", "description": "Un intent militar americà de rescatar els ostatges retinguts a l'ambaixada dels EUA a Teheran va acabar en desastre amb la col·lisió d'aeronaus al desert iranià, causant vuit morts.", "year": 1980 },
+      { "title": "Napoleó proclama l'Imperi dels Cent Dies", "description": "Napoleó Bonaparte va tornar a París després d'escapar de l'illa d'Elba i va ser rebut triomfalment, iniciant el període conegut com els Cent Dies, que acabaria a Waterloo.", "year": 1815 }
+    ]
+  }
+}

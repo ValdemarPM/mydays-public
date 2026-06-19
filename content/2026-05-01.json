@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-01",
+  "es": {
+    "saints": [
+      {
+        "name": "San José Obrero",
+        "type": "Esposo de la Virgen María",
+        "description": "El 1 de mayo la Iglesia celebra a San José bajo el título de Obrero, en honor a su oficio de carpintero en Nazaret. Pío XII instituyó esta festividad en 1955 para ofrecer una alternativa cristiana al Día Internacional del Trabajo, destacando la dignidad del trabajo manual."
+      },
+      {
+        "name": "San Segismundo de Borgoña",
+        "type": "Rey y Mártir",
+        "description": "Rey de Borgoña del siglo VI, converso del arrianismo al catolicismo. Fundó el monasterio de Agaune (actual Saint-Maurice, Suiza) y fue asesinado por su cuñado Clodomiro, siendo venerado como mártir por la Iglesia."
+      },
+      {
+        "name": "Beata Peregrina de Auxerre",
+        "type": "Virgen y Mártir",
+        "description": "Mártir cristiana del siglo III, cuyo nombre significa 'peregrina' o 'viajera'. La tradición la presenta como una joven que sufrió martirio en Auxerre (actual Francia) durante las persecuciones romanas."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de los Trabajadores",
+        "description": "Conocido también como Día del Trabajo o Primero de Mayo, conmemora la lucha del movimiento obrero por los derechos laborales, especialmente la jornada de ocho horas. Tiene su origen en los sucesos de Chicago de 1886."
+      },
+      {
+        "name": "Día Mundial de la Libertad de Prensa",
+        "description": "Proclamado por la ONU en 1993, este día recuerda los principios fundamentales de la libertad de prensa y evalúa su estado en el mundo, rindiendo homenaje a los periodistas que han perdido la vida en el ejercicio de su profesión."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El trabajo aleja de nosotros tres grandes males: el aburrimiento, el vicio y la necesidad.",
+      "author": "Voltaire"
+    },
+    "motivationalQuote": {
+      "text": "No cuentes los días; haz que los días cuenten.",
+      "author": "Muhammad Ali"
+    },
+    "births": [
+      {
+        "name": "Leonardo da Vinci",
+        "description": "Artista, científico e inventor italiano del Renacimiento, considerado uno de los mayores genios de la historia. Autor de La Gioconda y La Última Cena, también destacó como anatomista, ingeniero e inventor adelantado a su tiempo.",
+        "year": "1452"
+      },
+      {
+        "name": "Glenn Ford",
+        "description": "Actor canadiense-estadounidense, estrella del cine negro y del wéstern durante las décadas de 1940 y 1950. Protagonizó filmes como Gilda (1946) junto a Rita Hayworth y El pistolero (1953).",
+        "year": "1916"
+      },
+      {
+        "name": "Wes Anderson",
+        "description": "Director y guionista de cine estadounidense, conocido por su estética visual meticulosa y su humor excéntrico. Autor de películas como The Royal Tenenbaums, El gran hotel Budapest y Asteroid City.",
+        "year": "1969"
+      }
+    ],
+    "events": [
+      {
+        "title": "Inauguración de la Exposición Universal de Nueva York",
+        "description": "Abrió sus puertas la Exposición Universal de Nueva York bajo el lema 'El mundo del mañana'. Recibió más de 44 millones de visitantes y presentó al público novedades como la televisión, el nailon y los automóviles del futuro.",
+        "year": "1939"
+      },
+      {
+        "title": "Muerte de Bin Laden",
+        "description": "Fuerzas especiales de la Marina de los EE. UU. (SEAL Team 6) abatieron a Osama bin Laden, fundador de Al-Qaeda y responsable de los atentados del 11 de septiembre de 2001, en su refugio de Abbottabad, Pakistán.",
+        "year": "2011"
+      },
+      {
+        "title": "Cuba promulga su primera constitución",
+        "description": "Cuba aprobó su primera constitución republicana, estableciendo formalmente la República de Cuba tras años de lucha por la independencia de España. Sin embargo, la Enmienda Platt limitaba su soberanía en favor de Estados Unidos.",
+        "year": "1902"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Joseph the Worker",
+        "type": "Husband of the Virgin Mary",
+        "description": "On May 1, the Church celebrates Saint Joseph under the title of the Worker, honouring his trade as a carpenter in Nazareth. Pope Pius XII instituted this feast in 1955 to offer a Christian alternative to International Workers' Day, highlighting the dignity of manual labour."
+      },
+      {
+        "name": "Saint Sigismund of Burgundy",
+        "type": "King and Martyr",
+        "description": "6th-century King of Burgundy, who converted from Arianism to Catholicism. He founded the monastery of Agaune (present-day Saint-Maurice, Switzerland) and was killed by his brother-in-law Chlodomer, being venerated as a martyr by the Church."
+      },
+      {
+        "name": "Blessed Peregrine of Auxerre",
+        "type": "Virgin and Martyr",
+        "description": "3rd-century Christian martyr whose name means 'pilgrim' or 'traveller'. Tradition presents her as a young woman who suffered martyrdom in Auxerre (present-day France) during the Roman persecutions."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Workers' Day",
+        "description": "Also known as Labour Day or May Day, this date commemorates the labour movement's struggle for workers' rights, especially the eight-hour workday. It originates from the events in Chicago in 1886."
+      },
+      {
+        "name": "World Press Freedom Day",
+        "description": "Proclaimed by the UN in 1993, this day recalls the fundamental principles of press freedom and assesses its state worldwide, paying tribute to journalists who have lost their lives in the exercise of their profession."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Work banishes those three great evils: boredom, vice, and poverty.",
+      "author": "Voltaire"
+    },
+    "motivationalQuote": {
+      "text": "Don't count the days; make the days count.",
+      "author": "Muhammad Ali"
+    },
+    "births": [
+      {
+        "name": "Leonardo da Vinci",
+        "description": "Italian Renaissance artist, scientist, and inventor, considered one of the greatest geniuses in history. Author of the Mona Lisa and The Last Supper, he also excelled as an anatomist, engineer, and ahead-of-his-time inventor.",
+        "year": "1452"
+      },
+      {
+        "name": "Glenn Ford",
+        "description": "Canadian-American actor and star of film noir and Westerns during the 1940s and 1950s. He starred in films such as Gilda (1946) alongside Rita Hayworth and The Big Heat (1953).",
+        "year": "1916"
+      },
+      {
+        "name": "Wes Anderson",
+        "description": "American film director and screenwriter, known for his meticulous visual aesthetics and eccentric humour. Director of The Royal Tenenbaums, The Grand Budapest Hotel, and Asteroid City.",
+        "year": "1969"
+      }
+    ],
+    "events": [
+      {
+        "title": "Opening of the New York World's Fair",
+        "description": "The New York World's Fair opened under the motto 'The World of Tomorrow'. It received over 44 million visitors and introduced the public to novelties such as television, nylon, and cars of the future.",
+        "year": "1939"
+      },
+      {
+        "title": "Death of Bin Laden",
+        "description": "US Navy special forces (SEAL Team 6) killed Osama bin Laden, founder of Al-Qaeda and mastermind of the September 11, 2001 attacks, at his compound in Abbottabad, Pakistan.",
+        "year": "2011"
+      },
+      {
+        "title": "Cuba Enacts Its First Constitution",
+        "description": "Cuba approved its first republican constitution, formally establishing the Republic of Cuba after years of struggle for independence from Spain. However, the Platt Amendment limited its sovereignty in favour of the United States.",
+        "year": "1902"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São José Operário",
+        "type": "Esposo da Virgem Maria",
+        "description": "Em 1º de maio, a Igreja celebra São José sob o título de Operário, em homenagem ao seu ofício de carpinteiro em Nazaré. Pio XII instituiu esta festividade em 1955 para oferecer uma alternativa cristã ao Dia Internacional do Trabalho, destacando a dignidade do trabalho manual."
+      },
+      {
+        "name": "São Segismundo da Borgonha",
+        "type": "Rei e Mártir",
+        "description": "Rei da Borgonha do século VI, convertido do arianismo ao catolicismo. Fundou o mosteiro de Agaune (atual Saint-Maurice, Suíça) e foi assassinado pelo cunhado Clodômero, sendo venerado como mártir pela Igreja."
+      },
+      {
+        "name": "Beata Peregrina de Auxerre",
+        "type": "Virgem e Mártir",
+        "description": "Mártir cristã do século III, cujo nome significa 'peregrina' ou 'viajante'. A tradição a apresenta como uma jovem que sofreu martírio em Auxerre (atual França) durante as perseguições romanas."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional dos Trabalhadores",
+        "description": "Conhecido também como Dia do Trabalho ou Primeiro de Maio, comemora a luta do movimento operário pelos direitos trabalhistas, especialmente a jornada de oito horas. Tem origem nos eventos de Chicago de 1886."
+      },
+      {
+        "name": "Dia Mundial da Liberdade de Imprensa",
+        "description": "Proclamado pela ONU em 1993, este dia recorda os princípios fundamentais da liberdade de imprensa e avalia seu estado no mundo, prestando homenagem aos jornalistas que perderam a vida no exercício de sua profissão."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O trabalho afasta de nós três grandes males: o tédio, o vício e a necessidade.",
+      "author": "Voltaire"
+    },
+    "motivationalQuote": {
+      "text": "Não conte os dias; faça os dias contarem.",
+      "author": "Muhammad Ali"
+    },
+    "births": [
+      {
+        "name": "Leonardo da Vinci",
+        "description": "Artista, cientista e inventor italiano do Renascimento, considerado um dos maiores gênios da história. Autor de Mona Lisa e A Última Ceia, também se destacou como anatomista, engenheiro e inventor à frente de seu tempo.",
+        "year": "1452"
+      },
+      {
+        "name": "Glenn Ford",
+        "description": "Ator canadense-americano, estrela do cinema noir e do western nas décadas de 1940 e 1950. Protagonizou filmes como Gilda (1946) ao lado de Rita Hayworth e Delinquente do Amor (1953).",
+        "year": "1916"
+      },
+      {
+        "name": "Wes Anderson",
+        "description": "Diretor e roteirista de cinema americano, conhecido pela sua estética visual meticulosa e humor excêntrico. Diretor de Os Excêntricos Tenenbaums, O Grande Hotel Budapeste e Cidade Asteroide.",
+        "year": "1969"
+      }
+    ],
+    "events": [
+      {
+        "title": "Inauguração da Feira Mundial de Nova York",
+        "description": "Abriu a Feira Mundial de Nova York com o lema 'O Mundo do Amanhã'. Recebeu mais de 44 milhões de visitantes e apresentou ao público novidades como a televisão, o náilon e os carros do futuro.",
+        "year": "1939"
+      },
+      {
+        "title": "Morte de Bin Laden",
+        "description": "Forças especiais da Marinha dos EUA (SEAL Team 6) eliminaram Osama bin Laden, fundador da Al-Qaeda e responsável pelos atentados de 11 de setembro de 2001, em seu esconderijo em Abbottabad, Paquistão.",
+        "year": "2011"
+      },
+      {
+        "title": "Cuba promulga sua primeira constituição",
+        "description": "Cuba aprovou sua primeira constituição republicana, estabelecendo formalmente a República de Cuba após anos de luta pela independência da Espanha. No entanto, a Emenda Platt limitava sua soberania em favor dos Estados Unidos.",
+        "year": "1902"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Josep Obrer",
+        "type": "Espòs de la Verge Maria",
+        "description": "L'1 de maig, l'Església celebra Sant Josep sota el títol d'Obrer, en honor al seu ofici de fuster a Natzaret. Pius XII va instituir aquesta festivitat el 1955 per oferir una alternativa cristiana al Dia Internacional del Treball, destacant la dignitat del treball manual."
+      },
+      {
+        "name": "Sant Segismund de Borgonya",
+        "type": "Rei i Màrtir",
+        "description": "Rei de Borgonya del segle VI, convertit de l'arrianisme al catolicisme. Va fundar el monestir d'Agaune (actual Saint-Maurice, Suïssa) i va ser assassinat pel seu cunyat Clodomer, essent venerat com a màrtir per l'Església."
+      },
+      {
+        "name": "Beata Peregrina d'Auxerre",
+        "type": "Verge i Màrtir",
+        "description": "Màrtir cristiana del segle III, el nom de la qual significa 'pellegrina' o 'viatgera'. La tradició la presenta com una jove que va patir martiri a Auxerre (actual França) durant les persecucions romanes."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional dels Treballadors",
+        "description": "Conegut també com Dia del Treball o Primer de Maig, commemora la lluita del moviment obrer pels drets laborals, especialment la jornada de vuit hores. Té l'origen en els fets de Chicago de 1886."
+      },
+      {
+        "name": "Dia Mundial de la Llibertat de Premsa",
+        "description": "Proclamat per l'ONU el 1993, aquest dia recorda els principis fonamentals de la llibertat de premsa i avalua el seu estat al món, rendint homenatge als periodistes que han perdut la vida en l'exercici de la seva professió."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El treball allunya de nosaltres tres grans mals: l'avorriment, el vici i la necessitat.",
+      "author": "Voltaire"
+    },
+    "motivationalQuote": {
+      "text": "No comptis els dies; fes que els dies comptin.",
+      "author": "Muhammad Ali"
+    },
+    "births": [
+      {
+        "name": "Leonardo da Vinci",
+        "description": "Artista, científic i inventor italià del Renaixement, considerat un dels majors genis de la història. Autor de La Gioconda i L'Última Cena, també va destacar com a anatomista, enginyer i inventor avançat al seu temps.",
+        "year": "1452"
+      },
+      {
+        "name": "Glenn Ford",
+        "description": "Actor canadenc-americà, estrella del cinema negre i del western durant les dècades de 1940 i 1950. Va protagonitzar pel·lícules com Gilda (1946) al costat de Rita Hayworth i La bestia humana (1953).",
+        "year": "1916"
+      },
+      {
+        "name": "Wes Anderson",
+        "description": "Director i guionista de cinema americà, conegut per la seva estètica visual meticulosa i el seu humor excèntric. Autor de The Royal Tenenbaums, El gran hotel Budapest i Asteroid City.",
+        "year": "1969"
+      }
+    ],
+    "events": [
+      {
+        "title": "Inauguració de l'Exposició Universal de Nova York",
+        "description": "Va obrir les portes l'Exposició Universal de Nova York sota el lema 'El món del demà'. Va rebre més de 44 milions de visitants i va presentar al públic novetats com la televisió, el niló i els automòbils del futur.",
+        "year": "1939"
+      },
+      {
+        "title": "Mort de Bin Laden",
+        "description": "Forces especials de la Marina dels EUA (SEAL Team 6) van abattre Osama bin Laden, fundador d'Al-Qaeda i responsable dels atemptats de l'11 de setembre de 2001, al seu refugi d'Abbottabad, Pakistan.",
+        "year": "2011"
+      },
+      {
+        "title": "Cuba promulga la seva primera constitució",
+        "description": "Cuba va aprovar la seva primera constitució republicana, establint formalment la República de Cuba després d'anys de lluita per la independència d'Espanya. Tanmateix, l'Esmena Platt limitava la seva sobirania en favor dels Estats Units.",
+        "year": "1902"
+      }
+    ]
+  }
+}

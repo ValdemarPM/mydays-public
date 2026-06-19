@@ -1,0 +1,287 @@
+{
+  "date": "2026-06-01",
+  "es": {
+    "saints": [
+      {
+        "name": "San Justino Mártir",
+        "type": "Mártir y Filósofo",
+        "description": "Filósofo pagano nacido en Flavia Neápolis (actual Nablús) en el siglo II, que se convirtió al cristianismo tras una profunda búsqueda intelectual. Fundó en Roma la primera escuela cristiana de filosofía y escribió importantes apologías en defensa de la fe. Fue decapitado hacia el año 165."
+      },
+      {
+        "name": "Beato Juan Storey",
+        "type": "Mártir",
+        "description": "Jurista inglés del siglo XVI, defensor leal de la Iglesia de Roma en tiempos de la Reforma anglicana. Fue encarcelado y exiliado por su fe católica y finalmente condenado a muerte y ejecutado en Tyburn."
+      },
+      {
+        "name": "Beato Juan Bautista Scalabrini",
+        "type": "Obispo",
+        "description": "Obispo de Piacenza (Italia) del siglo XIX, fundador de los Misioneros de San Carlos Borromeo, dedicados a la pastoral de los emigrantes italianos. Pionero de la atención pastoral a los migrantes, fue beatificado en 1997."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Infancia",
+        "description": "Celebrado el 1 de junio en numerosos países (especialmente en Europa y Latinoamérica), este día reafirma el compromiso con los derechos de los niños y niñas: educación, salud, juego y protección frente a cualquier forma de explotación."
+      },
+      {
+        "name": "Día Mundial de la Leche",
+        "description": "Proclamado por la FAO en 2001, este día celebra la importancia nutricional de la leche y los productos lácteos y reconoce el papel de los productores y ganaderos en la alimentación global."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si puedes imaginarla, puedes crearla. Si puedes soñarla, puedes convertirte en ella.",
+      "author": "William Arthur Ward"
+    },
+    "motivationalQuote": {
+      "text": "Cada día es una nueva oportunidad para cambiar tu vida.",
+      "author": "Anonimo"
+    },
+    "births": [
+      {
+        "name": "Marilyn Monroe",
+        "description": "Actriz, modelo y cantante estadounidense, símbolo sexual del siglo XX y una de las estrellas de Hollywood más icónicas de todos los tiempos. Protagonizó films como Con faldas y a lo loco, Los caballeros las prefieren rubias y Cómo casarse con un millonario.",
+        "year": "1926"
+      },
+      {
+        "name": "Morgan Freeman",
+        "description": "Actor estadounidense, ganador del Óscar al mejor actor de reparto por Million Dollar Baby (2004). Con una carrera de más de cinco décadas, es reconocido por su voz inconfundible y por papeles en Se7en, The Shawshank Redemption y Bruce Almighty.",
+        "year": "1937"
+      },
+      {
+        "name": "Brigham Young",
+        "description": "Líder religioso y colonizador americano del siglo XIX, segundo presidente de la Iglesia de Jesucristo de los Santos de los Últimos Días. Dirigió la gran migración mormona al territorio de Utah y fundó Salt Lake City.",
+        "year": "1801"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundación de Cartagena de Indias",
+        "description": "El conquistador español Pedro de Heredia fundó la ciudad de Cartagena de Indias en la costa caribeña de la actual Colombia. La ciudad se convertiría en uno de los puertos más importantes del Imperio español en América.",
+        "year": "1533"
+      },
+      {
+        "title": "Desaparición del vuelo 447 de Air France",
+        "description": "El vuelo AF447 de Air France, que cubría la ruta Río de Janeiro-París, desapareció sobre el Atlántico con 228 personas a bordo. El avión fue localizado en el fondo del océano días después, en uno de los peores accidentes de la aviación.",
+        "year": "2009"
+      },
+      {
+        "title": "Inauguración del Empire State Building",
+        "description": "El presidente Herbert Hoover encendió las luces del Empire State Building desde Washington por telégrafo, inaugurando el que fue durante 40 años el edificio más alto del mundo, con 443 metros de altura.",
+        "year": "1931"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Justin Martyr",
+        "type": "Martyr and Philosopher",
+        "description": "Pagan philosopher born in Flavia Neapolis (present-day Nablus) in the 2nd century, who converted to Christianity after a profound intellectual search. He founded the first Christian school of philosophy in Rome and wrote important apologies in defence of the faith. He was beheaded around 165 AD."
+      },
+      {
+        "name": "Blessed John Storey",
+        "type": "Martyr",
+        "description": "16th-century English lawyer and loyal defender of the Church of Rome during the Anglican Reformation. He was imprisoned and exiled for his Catholic faith and ultimately sentenced to death and executed at Tyburn."
+      },
+      {
+        "name": "Blessed John Baptist Scalabrini",
+        "type": "Bishop",
+        "description": "19th-century Bishop of Piacenza (Italy), founder of the Missionaries of Saint Charles Borromeo, devoted to the pastoral care of Italian emigrants. A pioneer of pastoral outreach to migrants, he was beatified in 1997."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Children's Day",
+        "description": "Celebrated on June 1 in many countries (especially in Europe and Latin America), this day reaffirms the commitment to children's rights: education, health, play, and protection from all forms of exploitation."
+      },
+      {
+        "name": "World Milk Day",
+        "description": "Proclaimed by the FAO in 2001, this day celebrates the nutritional importance of milk and dairy products and recognizes the role of producers and farmers in global food supply."
+      }
+    ],
+    "historicalQuote": {
+      "text": "If you can imagine it, you can achieve it. If you can dream it, you can become it.",
+      "author": "William Arthur Ward"
+    },
+    "motivationalQuote": {
+      "text": "Every day is a new opportunity to change your life.",
+      "author": "Anonymous"
+    },
+    "births": [
+      {
+        "name": "Marilyn Monroe",
+        "description": "American actress, model, and singer, the 20th century's sex symbol and one of the most iconic Hollywood stars of all time. She starred in films like Some Like It Hot, Gentlemen Prefer Blondes, and How to Marry a Millionaire.",
+        "year": "1926"
+      },
+      {
+        "name": "Morgan Freeman",
+        "description": "American actor, Academy Award winner for Best Supporting Actor for Million Dollar Baby (2004). With a career spanning more than five decades, he is recognized for his unmistakable voice and roles in Se7en, The Shawshank Redemption, and Bruce Almighty.",
+        "year": "1937"
+      },
+      {
+        "name": "Brigham Young",
+        "description": "19th-century American religious leader and colonizer, second president of the Church of Jesus Christ of Latter-day Saints. He led the great Mormon migration to the Utah Territory and founded Salt Lake City.",
+        "year": "1801"
+      }
+    ],
+    "events": [
+      {
+        "title": "Founding of Cartagena de Indias",
+        "description": "Spanish conquistador Pedro de Heredia founded the city of Cartagena de Indias on the Caribbean coast of present-day Colombia. The city would become one of the most important ports of the Spanish Empire in the Americas.",
+        "year": "1533"
+      },
+      {
+        "title": "Disappearance of Air France Flight 447",
+        "description": "Air France flight AF447, operating the Rio de Janeiro-Paris route, disappeared over the Atlantic with 228 people on board. The aircraft was found on the ocean floor days later, in one of aviation's worst disasters.",
+        "year": "2009"
+      },
+      {
+        "title": "Opening of the Empire State Building",
+        "description": "President Herbert Hoover lit the Empire State Building's lights from Washington via telegraph, inaugurating what was for 40 years the world's tallest building, standing 443 metres high.",
+        "year": "1931"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Justino Mártir",
+        "type": "Mártir e Filósofo",
+        "description": "Filósofo pagão nascido em Flavia Neápolis (atual Nablus) no século II, que se converteu ao cristianismo após uma profunda busca intelectual. Fundou em Roma a primeira escola cristã de filosofia e escreveu importantes apologias em defesa da fé. Foi decapitado por volta do ano 165."
+      },
+      {
+        "name": "Beato João Storey",
+        "type": "Mártir",
+        "description": "Jurista inglês do século XVI, defensor leal da Igreja de Roma em tempos da Reforma anglicana. Foi encarcerado e exilado por sua fé católica e finalmente condenado à morte e executado em Tyburn."
+      },
+      {
+        "name": "Beato João Batista Scalabrini",
+        "type": "Bispo",
+        "description": "Bispo de Piacenza (Itália) do século XIX, fundador dos Missionários de São Carlos Borromeu, dedicados à pastoral dos emigrantes italianos. Pioneiro na atenção pastoral aos migrantes, foi beatificado em 1997."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Criança",
+        "description": "Celebrado em 1º de junho em numerosos países (especialmente na Europa e na América Latina), este dia reafirma o compromisso com os direitos das crianças: educação, saúde, brincadeira e proteção contra qualquer forma de exploração."
+      },
+      {
+        "name": "Dia Mundial do Leite",
+        "description": "Proclamado pela FAO em 2001, este dia celebra a importância nutricional do leite e dos produtos lácteos e reconhece o papel dos produtores e pecuaristas na alimentação global."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Se você pode imaginá-lo, pode alcançá-lo. Se pode sonhá-lo, pode se tornar isso.",
+      "author": "William Arthur Ward"
+    },
+    "motivationalQuote": {
+      "text": "Cada dia é uma nova oportunidade de mudar sua vida.",
+      "author": "Anônimo"
+    },
+    "births": [
+      {
+        "name": "Marilyn Monroe",
+        "description": "Atriz, modelo e cantora americana, símbolo sexual do século XX e uma das estrelas de Hollywood mais icônicas de todos os tempos. Protagonizou filmes como Quanto mais quente melhor, Os homens preferem as loiras e Como se casar com um milionário.",
+        "year": "1926"
+      },
+      {
+        "name": "Morgan Freeman",
+        "description": "Ator americano, vencedor do Oscar de Melhor Ator Coadjuvante por Million Dollar Baby (2004). Com uma carreira de mais de cinco décadas, é reconhecido por sua voz inconfundível e por papéis em Se7en, Um Sonho de Liberdade e Todo-Poderoso.",
+        "year": "1937"
+      },
+      {
+        "name": "Brigham Young",
+        "description": "Líder religioso e colonizador americano do século XIX, segundo presidente da Igreja de Jesus Cristo dos Santos dos Últimos Dias. Liderou a grande migração mórmon ao território de Utah e fundou Salt Lake City.",
+        "year": "1801"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundação de Cartagena das Índias",
+        "description": "O conquistador espanhol Pedro de Heredia fundou a cidade de Cartagena das Índias na costa caribenha da atual Colômbia. A cidade se tornaria um dos portos mais importantes do Império Espanhol nas Américas.",
+        "year": "1533"
+      },
+      {
+        "title": "Desaparecimento do voo 447 da Air France",
+        "description": "O voo AF447 da Air France, que operava a rota Rio de Janeiro-Paris, desapareceu sobre o Atlântico com 228 pessoas a bordo. O avião foi encontrado no fundo do oceano dias depois, em um dos piores acidentes da aviação.",
+        "year": "2009"
+      },
+      {
+        "title": "Inauguração do Empire State Building",
+        "description": "O presidente Herbert Hoover acendeu as luzes do Empire State Building a partir de Washington por telégrafo, inaugurando o que foi durante 40 anos o edifício mais alto do mundo, com 443 metros de altura.",
+        "year": "1931"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Justí Màrtir",
+        "type": "Màrtir i Filòsof",
+        "description": "Filòsof pagà nascut a Flavia Neàpolis (actual Nablus) al segle II, que es va convertir al cristianisme després d'una profunda recerca intel·lectual. Va fundar a Roma la primera escola cristiana de filosofia i va escriure importants apologies en defensa de la fe. Va ser decapitat cap a l'any 165."
+      },
+      {
+        "name": "Beat Joan Storey",
+        "type": "Màrtir",
+        "description": "Jurista anglès del segle XVI, defensor lleial de l'Església de Roma en temps de la Reforma anglicana. Va ser empresonat i exiliat per la seva fe catòlica i finalment condemnat a mort i executat a Tyburn."
+      },
+      {
+        "name": "Beat Joan Baptista Scalabrini",
+        "type": "Bisbe",
+        "description": "Bisbe de Piacenza (Itàlia) del segle XIX, fundador dels Missioners de Sant Carles Borromeu, dedicats a la pastoral dels emigrants italians. Pioner de l'atenció pastoral als migrants, va ser beatificat el 1997."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la Infància",
+        "description": "Celebrat l'1 de juny en nombrosos països (especialment a Europa i Llatinoamèrica), aquest dia reafirma el compromís amb els drets dels nens i nenes: educació, salut, joc i protecció davant qualsevol forma d'explotació."
+      },
+      {
+        "name": "Dia Mundial de la Llet",
+        "description": "Proclamat per la FAO el 2001, aquest dia celebra la importància nutricional de la llet i els productes lactis i reconeix el paper dels productors i ramaders en l'alimentació global."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si pots imaginar-ho, pots aconseguir-ho. Si pots somiar-ho, pots convertir-te en allò.",
+      "author": "William Arthur Ward"
+    },
+    "motivationalQuote": {
+      "text": "Cada dia és una nova oportunitat per canviar la teva vida.",
+      "author": "Anònim"
+    },
+    "births": [
+      {
+        "name": "Marilyn Monroe",
+        "description": "Actriu, model i cantant nord-americana, símbol sexual del segle XX i una de les estrelles de Hollywood més icòniques de tots els temps. Va protagonitzar films com Amb faldilles i a la bona de Déu, Els homes prefereixen les rosses i Com casar-se amb un milionari.",
+        "year": "1926"
+      },
+      {
+        "name": "Morgan Freeman",
+        "description": "Actor nord-americà, guanyador de l'Oscar al millor actor de repartiment per Million Dollar Baby (2004). Amb una carrera de més de cinc dècades, és reconegut per la seva veu inconfusible i pels seus papers a Se7en, Els evadits i La llei de Déu.",
+        "year": "1937"
+      },
+      {
+        "name": "Brigham Young",
+        "description": "Líder religiós i colonitzador americà del segle XIX, segon president de l'Església de Jesucrist dels Sants dels Últims Dies. Va liderar la gran migració mormona al territori d'Utah i va fundar Salt Lake City.",
+        "year": "1801"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundació de Cartagena d'Índies",
+        "description": "El conquistador espanyol Pedro de Heredia va fundar la ciutat de Cartagena d'Índies a la costa caribenya de l'actual Colòmbia. La ciutat es convertiria en un dels ports més importants de l'Imperi Espanyol a les Amèriques.",
+        "year": "1533"
+      },
+      {
+        "title": "Desaparició del vol 447 d'Air France",
+        "description": "El vol AF447 d'Air France, que operava la ruta Rio de Janeiro-París, va desaparèixer sobre l'Atlàntic amb 228 persones a bord. L'avió va ser localitzat al fons de l'oceà dies després, en un dels pitjors accidents de l'aviació.",
+        "year": "2009"
+      },
+      {
+        "title": "Inauguració de l'Empire State Building",
+        "description": "El president Herbert Hoover va encendre els llums de l'Empire State Building des de Washington per telègraf, inaugurant el que va ser durant 40 anys l'edifici més alt del món, amb 443 metres d'alçada.",
+        "year": "1931"
+      }
+    ]
+  }
+}

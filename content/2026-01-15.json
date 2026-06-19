@@ -1,0 +1,255 @@
+{
+  "date": "2026-01-15",
+  "es": {
+    "saints": [
+      {
+        "name": "San Pablo, primer ermitaño",
+        "type": "Ermitaño",
+        "description": "Considerado el primer ermitaño cristiano, se retiró al desierto de Tebaida (Egipto) a los 16 años y vivió allí más de noventa años, siendo visitado por San Antonio Abad poco antes de morir."
+      },
+      {
+        "name": "San Mauro de Tours",
+        "type": "Abad",
+        "description": "Discípulo de San Benito de Nursia en el siglo VI, considerado el primer propagador de la Regla Benedictina en la Galia. Patrón de los enfermos de gota y los carboneros."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de Martin Luther King Jr. (EE. UU.)",
+        "description": "Festividad federal estadounidense que honra la memoria del reverendo Martin Luther King Jr. (nacido el 15 de enero de 1929), líder del movimiento por los derechos civiles y Premio Nobel de la Paz de 1964."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Tengo un sueño de que un día esta nación se levantará y vivirá el verdadero significado de su credo: todos los hombres son creados iguales.",
+      "author": "Martin Luther King Jr.",
+      "context": "Pronunciado el 28 de agosto de 1963 durante la Marcha en Washington por el Trabajo y la Libertad, este discurso es uno de los más importantes de la historia de los derechos civiles. Martin Luther King Jr. nació el 15 de enero de 1929."
+    },
+    "motivationalQuote": {
+      "text": "Si no puedes volar, corre. Si no puedes correr, camina. Si no puedes caminar, gatea. Pero pase lo que pase, sigue moviéndote.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Martin Luther King Jr.",
+        "description": "Pastor bautista y activista estadounidense de los derechos civiles, Premio Nobel de la Paz en 1964. Lideró el movimiento pacífico de los afroamericanos por la igualdad y fue asesinado en 1968.",
+        "year": 1929
+      },
+      {
+        "name": "Edward Teller",
+        "description": "Físico húngaro-estadounidense conocido como el «padre de la bomba de hidrógeno», uno de los científicos más controvertidos de la Guerra Fría.",
+        "year": 1908
+      },
+      {
+        "name": "Pitbull (Armando Christian Pérez)",
+        "description": "Rapero y empresario cubano-estadounidense, conocido por su estilo de hip-hop y reguetón y por éxitos como Give Me Everything y Timber.",
+        "year": 1981
+      }
+    ],
+    "events": [
+      {
+        "title": "Wikipedia cumple su primer aniversario",
+        "description": "La enciclopedia colaborativa Wikipedia fue lanzada el 15 de enero de 2001, convirtiéndose en la mayor enciclopedia de la historia con más de 60 millones de artículos en 300 idiomas.",
+        "year": 2001
+      },
+      {
+        "title": "Aterrizaje milagroso en el río Hudson",
+        "description": "El vuelo 1549 de US Airways aterrizó de emergencia en el río Hudson de Nueva York después de que ambos motores fueran apagados por una bandada de gansos; los 155 ocupantes sobrevivieron.",
+        "year": 2009
+      },
+      {
+        "title": "Fin de la Guerra de los Seis Días",
+        "description": "Israel y Egipto firmaron el acuerdo de alto el fuego que puso fin a la Guerra de los Seis Días, en la que Israel capturó la Península del Sinaí, la franja de Gaza, Cisjordania y los Altos del Golán.",
+        "year": 1967
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Paul the First Hermit",
+        "type": "Hermit",
+        "description": "Considered the first Christian hermit, he withdrew to the desert of the Thebaid (Egypt) at age 16 and lived there for more than ninety years, visited by Saint Anthony the Abbot shortly before his death."
+      },
+      {
+        "name": "Saint Maurus of Tours",
+        "type": "Abbot",
+        "description": "Disciple of Saint Benedict of Nursia in the 6th century, considered the first propagator of the Benedictine Rule in Gaul. Patron of the sick with gout and charcoal burners."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Martin Luther King Jr. Day (USA)",
+        "description": "US federal holiday honouring the memory of Reverend Martin Luther King Jr. (born 15 January 1929), leader of the civil rights movement and 1964 Nobel Peace Prize laureate."
+      }
+    ],
+    "historicalQuote": {
+      "text": "I have a dream that one day this nation will rise up and live out the true meaning of its creed: all men are created equal.",
+      "author": "Martin Luther King Jr.",
+      "context": "Delivered on 28 August 1963 during the March on Washington for Jobs and Freedom, this speech is one of the most important in civil rights history. Martin Luther King Jr. was born on 15 January 1929."
+    },
+    "motivationalQuote": {
+      "text": "If you can't fly, then run. If you can't run, then walk. If you can't walk, then crawl. But whatever you do, you have to keep moving forward.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Martin Luther King Jr.",
+        "description": "American Baptist minister and civil rights activist, Nobel Peace Prize laureate in 1964. He led the peaceful movement of African Americans for equality and was assassinated in 1968.",
+        "year": 1929
+      },
+      {
+        "name": "Edward Teller",
+        "description": "Hungarian-American physicist known as the 'father of the hydrogen bomb', one of the most controversial scientists of the Cold War.",
+        "year": 1908
+      },
+      {
+        "name": "Pitbull (Armando Christian Pérez)",
+        "description": "Cuban-American rapper and entrepreneur, known for his hip-hop and reggaeton style and for hits such as Give Me Everything and Timber.",
+        "year": 1981
+      }
+    ],
+    "events": [
+      {
+        "title": "Wikipedia celebrates its first anniversary",
+        "description": "The collaborative encyclopaedia Wikipedia was launched on 15 January 2001, becoming the largest encyclopaedia in history with more than 60 million articles in 300 languages.",
+        "year": 2001
+      },
+      {
+        "title": "Miracle on the Hudson",
+        "description": "US Airways Flight 1549 made an emergency water landing on the Hudson River in New York after both engines were shut down by a bird strike; all 155 occupants survived.",
+        "year": 2009
+      },
+      {
+        "title": "End of the Six-Day War",
+        "description": "Israel and Egypt signed a ceasefire agreement ending the Six-Day War, in which Israel captured the Sinai Peninsula, the Gaza Strip, the West Bank and the Golan Heights.",
+        "year": 1967
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Paulo, Primeiro Eremita",
+        "type": "Eremita",
+        "description": "Considerado o primeiro eremita cristão, retirou-se para o deserto da Tebaida (Egito) aos 16 anos e viveu lá por mais de noventa anos, sendo visitado por Santo Antão Abade pouco antes de morrer."
+      },
+      {
+        "name": "São Mauro de Tours",
+        "type": "Abade",
+        "description": "Discípulo de São Bento de Núrsia no século VI, considerado o primeiro propagador da Regra Beneditina na Gália. Padroeiro dos doentes de gota e dos carvoeiros."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Martin Luther King Jr. (EUA)",
+        "description": "Feriado federal americano que homenageia a memória do reverendo Martin Luther King Jr. (nascido em 15 de janeiro de 1929), líder do movimento pelos direitos civis e laureado com o Nobel da Paz em 1964."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Tenho um sonho de que um dia esta nação se levantará e viverá o verdadeiro significado de seu credo: todos os homens são criados iguais.",
+      "author": "Martin Luther King Jr.",
+      "context": "Proferido em 28 de agosto de 1963 durante a Marcha em Washington por Empregos e Liberdade, este discurso é um dos mais importantes da história dos direitos civis. Martin Luther King Jr. nasceu em 15 de janeiro de 1929."
+    },
+    "motivationalQuote": {
+      "text": "Se você não pode voar, corra. Se não pode correr, caminhe. Se não pode caminhar, engatinhe. Mas seja o que for, continue se movendo.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Martin Luther King Jr.",
+        "description": "Pastor batista americano e ativista dos direitos civis, laureado com o Nobel da Paz em 1964. Liderou o movimento pacífico dos afro-americanos pela igualdade e foi assassinado em 1968.",
+        "year": 1929
+      },
+      {
+        "name": "Edward Teller",
+        "description": "Físico húngaro-americano conhecido como o «pai da bomba de hidrogênio», um dos cientistas mais controvertidos da Guerra Fria.",
+        "year": 1908
+      },
+      {
+        "name": "Pitbull (Armando Christian Pérez)",
+        "description": "Rapper e empresário cubano-americano, conhecido por seu estilo de hip-hop e reggaeton e por sucessos como Give Me Everything e Timber.",
+        "year": 1981
+      }
+    ],
+    "events": [
+      {
+        "title": "Wikipedia celebra seu primeiro aniversário",
+        "description": "A enciclopédia colaborativa Wikipedia foi lançada em 15 de janeiro de 2001, tornando-se a maior enciclopédia da história com mais de 60 milhões de artigos em 300 idiomas.",
+        "year": 2001
+      },
+      {
+        "title": "Milagre no Hudson",
+        "description": "O voo 1549 da US Airways fez um pouso de emergência no Rio Hudson em Nova York após ambos os motores serem desligados por uma revoada de pássaros; todos os 155 ocupantes sobreviveram.",
+        "year": 2009
+      },
+      {
+        "title": "Fim da Guerra dos Seis Dias",
+        "description": "Israel e Egito assinaram um acordo de cessar-fogo encerrando a Guerra dos Seis Dias, na qual Israel capturou a Península do Sinai, a Faixa de Gaza, a Cisjordânia e as Colinas de Golã.",
+        "year": 1967
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Pau, Primer Eremita",
+        "type": "Eremita",
+        "description": "Considerat el primer eremita cristià, es va retirar al desert de la Tebaida (Egipte) als 16 anys i hi va viure més de noranta anys, sent visitat per Sant Antoni Abat poc abans de morir."
+      },
+      {
+        "name": "Sant Maur de Tours",
+        "type": "Abat",
+        "description": "Deixeble de Sant Benet de Núrsia al segle VI, considerat el primer propagador de la Regla Benedictina a la Gàl·lia. Patró dels malalts de gota i els carboners."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Martin Luther King Jr. (EUA)",
+        "description": "Festivitat federal nord-americana que honra la memòria del reverend Martin Luther King Jr. (nascut el 15 de gener de 1929), líder del moviment pels drets civils i Premi Nobel de la Pau de 1964."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Tinc un somni que un dia aquesta nació s'aixecarà i viurà el vertader significat del seu credo: tots els homes han estat creats iguals.",
+      "author": "Martin Luther King Jr.",
+      "context": "Pronunciat el 28 d'agost de 1963 durant la Marxa a Washington per la Feina i la Llibertat, aquest discurs és un dels més importants de la història dels drets civils. Martin Luther King Jr. va néixer el 15 de gener de 1929."
+    },
+    "motivationalQuote": {
+      "text": "Si no pots volar, corre. Si no pots córrer, camina. Si no pots caminar, grega. Però passi el que passi, continua movent-te.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Martin Luther King Jr.",
+        "description": "Pastor baptista i activista nord-americà dels drets civils, Premi Nobel de la Pau el 1964. Va liderar el moviment pacífic dels afroamericans per la igualtat i va ser assassinat el 1968.",
+        "year": 1929
+      },
+      {
+        "name": "Edward Teller",
+        "description": "Físic hongarès-nord-americà conegut com el «pare de la bomba d'hidrogen», un dels científics més controvertits de la Guerra Freda.",
+        "year": 1908
+      },
+      {
+        "name": "Pitbull (Armando Christian Pérez)",
+        "description": "Rapper i empresari cubanès-nord-americà, conegut pel seu estil de hip-hop i reggaeton i per èxits com Give Me Everything i Timber.",
+        "year": 1981
+      }
+    ],
+    "events": [
+      {
+        "title": "La Viquipèdia celebra el seu primer aniversari",
+        "description": "L'enciclopèdia col·laborativa Wikipedia va ser llançada el 15 de gener de 2001, convertint-se en la major enciclopèdia de la història amb més de 60 milions d'articles en 300 idiomes.",
+        "year": 2001
+      },
+      {
+        "title": "Miracle a l'Hudson",
+        "description": "El vol 1549 de US Airways va fer un aterratge d'emergència al riu Hudson de Nova York després que tots dos motors fossin apagats per una bandada de gansols; els 155 ocupants van sobreviure.",
+        "year": 2009
+      },
+      {
+        "title": "Fi de la Guerra dels Sis Dies",
+        "description": "Israel i Egipte van signar l'acord d'alto el foc que va posar fi a la Guerra dels Sis Dies, en la qual Israel va capturar la Península del Sinaí, la franja de Gaza, Cisjordània i els Alts del Golan.",
+        "year": 1967
+      }
+    ]
+  }
+}

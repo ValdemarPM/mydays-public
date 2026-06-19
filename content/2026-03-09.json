@@ -1,0 +1,119 @@
+{
+  "date": "2026-03-09",
+  "es": {
+    "saints": [
+      { "name": "Santa Francisca Romana", "type": "Fundadora", "description": "Noble romana del siglo XV, esposa y madre ejemplar, fundadora de las Oblatas de Santa María; patrón de los conductores y de las viudas." },
+      { "name": "San Paciano de Barcelona", "type": "Obispo", "description": "Obispo de Barcelona en el siglo IV, escritor y defensor de la unidad de la Iglesia; sus obras son fuente importante para conocer el cristianismo hispano primitivo." },
+      { "name": "San Gregorio de Nisa", "type": "Obispo y Doctor", "description": "Teólogo capadocio del siglo IV, hermano de San Basilio el Grande, uno de los Padres Capadocios, gran defensor del Concilio de Nicea y la teología trinitaria." }
+    ],
+    "observances": [
+      { "name": "Día de la Barbie", "description": "El 9 de marzo de 1959, la muñeca Barbie fue presentada en la Feria del Juguete de Nueva York por la empresa Mattel, convirtiéndose en el juguete de moda más vendido de la historia." },
+      { "name": "Día del Commonwealth (histórico)", "description": "Jornada para recordar el fundamento del Commonwealth of Nations, la asociación voluntaria de estados soberanos mayoritariamente pertenecientes al antiguo Imperio Británico." }
+    ],
+    "historicalQuote": {
+      "text": "Todo lo que somos es el resultado de lo que hemos pensado.",
+      "author": "Buda"
+    },
+    "motivationalQuote": {
+      "text": "La vida es 10% lo que nos ocurre y 90% cómo reaccionamos.",
+      "author": "Charles R. Swindoll"
+    },
+    "births": [
+      { "name": "Américo Vespucio", "description": "Explorador y cartógrafo italiano cuyo nombre latinizado, 'America', fue dado al continente americano en su honor tras sus expediciones al Nuevo Mundo.", "year": 1454 },
+      { "name": "Yuri Gagarin", "description": "Cosmonauta soviético, primer ser humano en viajar al espacio exterior (Vostok 1, 12 de abril de 1961), convertido en símbolo de la exploración espacial.", "year": 1934 },
+      { "name": "Emmanuel Lewis", "description": "Actor estadounidense célebre por el papel del niño Webster en la serie de televisión 'Webster' (1983-1989), uno de los niños actores más populares de los años 80.", "year": 1971 }
+    ],
+    "events": [
+      { "title": "Presentación de la muñeca Barbie", "description": "La muñeca Barbie fue presentada al mundo en la Feria del Juguete de Nueva York por Ruth Handler de Mattel, inaugurando una nueva era en la industria del juguete.", "year": 1959 },
+      { "title": "Napoleón se casa con Josefina", "description": "Napoleón Bonaparte contrajo matrimonio civil con Rose de Beauharnais, conocida como Josefina, en París, en una unión que marcó el ascenso político del futuro emperador.", "year": 1796 },
+      { "title": "El USS Monitor y el CSS Virginia se enfrentan en Hampton Roads", "description": "El primer combate naval entre buques de guerra acorazados tuvo lugar durante la Guerra Civil americana, marcando el fin de los barcos de guerra de madera y el inicio de la era de los acorazados.", "year": 1862 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Frances of Rome", "type": "Founder", "description": "Fifteenth-century Roman noblewoman, exemplary wife and mother, founder of the Oblates of Saint Mary; patron of drivers and widows." },
+      { "name": "Saint Pacianus of Barcelona", "type": "Bishop", "description": "Fourth-century Bishop of Barcelona, writer and defender of Church unity; his works are an important source for understanding early Hispanic Christianity." },
+      { "name": "Saint Gregory of Nyssa", "type": "Bishop and Doctor", "description": "Fourth-century Cappadocian theologian, brother of Saint Basil the Great, one of the Cappadocian Fathers, great defender of the Council of Nicaea and Trinitarian theology." }
+    ],
+    "observances": [
+      { "name": "Barbie Day", "description": "On 9 March 1959, the Barbie doll was introduced at the New York Toy Fair by Mattel, becoming the best-selling fashion doll in history." },
+      { "name": "Commonwealth Day (historical)", "description": "A day to recall the foundation of the Commonwealth of Nations, the voluntary association of sovereign states mostly belonging to the former British Empire." }
+    ],
+    "historicalQuote": {
+      "text": "All that we are is the result of what we have thought.",
+      "author": "Buddha"
+    },
+    "motivationalQuote": {
+      "text": "Life is 10% what happens to us and 90% how we react to it.",
+      "author": "Charles R. Swindoll"
+    },
+    "births": [
+      { "name": "Amerigo Vespucci", "description": "Italian explorer and cartographer whose Latinised name, 'America', was given to the American continent in his honour after his expeditions to the New World.", "year": 1454 },
+      { "name": "Yuri Gagarin", "description": "Soviet cosmonaut, the first human to travel to outer space (Vostok 1, 12 April 1961), becoming a symbol of space exploration.", "year": 1934 },
+      { "name": "Emmanuel Lewis", "description": "American actor celebrated for the role of the child Webster in the television series 'Webster' (1983–1989), one of the most popular child actors of the 1980s.", "year": 1971 }
+    ],
+    "events": [
+      { "title": "Barbie doll launched", "description": "The Barbie doll was introduced to the world at the New York Toy Fair by Ruth Handler of Mattel, inaugurating a new era in the toy industry.", "year": 1959 },
+      { "title": "Napoleon marries Joséphine", "description": "Napoleon Bonaparte married Rose de Beauharnais, known as Joséphine, in a civil ceremony in Paris, a union that marked the political rise of the future emperor.", "year": 1796 },
+      { "title": "USS Monitor vs CSS Virginia at Hampton Roads", "description": "The first naval battle between ironclad warships took place during the American Civil War, marking the end of wooden warships and the beginning of the ironclad age.", "year": 1862 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "Santa Francisca Romana", "type": "Fundadora", "description": "Nobre romana do século XV, esposa e mãe exemplar, fundadora das Oblatas de Santa Maria; padroeira dos motoristas e das viúvas." },
+      { "name": "São Paciano de Barcelona", "type": "Bispo", "description": "Bispo de Barcelona no século IV, escritor e defensor da unidade da Igreja; suas obras são fonte importante para conhecer o cristianismo hispano primitivo." },
+      { "name": "São Gregório de Nissa", "type": "Bispo e Doutor", "description": "Teólogo capadócio do século IV, irmão de São Basílio Magno, um dos Padres Capadócios, grande defensor do Concílio de Niceia e da teologia trinitária." }
+    ],
+    "observances": [
+      { "name": "Dia da Barbie", "description": "Em 9 de março de 1959, a boneca Barbie foi apresentada na Feira de Brinquedos de Nova York pela Mattel, tornando-se o brinquedo de moda mais vendido da história." },
+      { "name": "Dia da Commonwealth (histórico)", "description": "Jornada para recordar a fundação da Commonwealth of Nations, a associação voluntária de estados soberanos pertencentes principalmente ao antigo Império Britânico." }
+    ],
+    "historicalQuote": {
+      "text": "Tudo o que somos é resultado do que pensamos.",
+      "author": "Buda"
+    },
+    "motivationalQuote": {
+      "text": "A vida é 10% o que nos acontece e 90% como reagimos.",
+      "author": "Charles R. Swindoll"
+    },
+    "births": [
+      { "name": "Américo Vespúcio", "description": "Explorador e cartógrafo italiano cujo nome latinizado, 'América', foi dado ao continente americano em sua homenagem após suas expedições ao Novo Mundo.", "year": 1454 },
+      { "name": "Yuri Gagarin", "description": "Cosmonauta soviético, o primeiro ser humano a viajar ao espaço exterior (Vostok 1, 12 de abril de 1961), convertido em símbolo da exploração espacial.", "year": 1934 },
+      { "name": "Emmanuel Lewis", "description": "Ator americano célebre pelo papel do menino Webster na série de televisão 'Webster' (1983-1989), um dos atores mirins mais populares dos anos 80.", "year": 1971 }
+    ],
+    "events": [
+      { "title": "Apresentação da boneca Barbie", "description": "A boneca Barbie foi apresentada ao mundo na Feira de Brinquedos de Nova York por Ruth Handler da Mattel, inaugurando uma nova era na indústria do brinquedo.", "year": 1959 },
+      { "title": "Napoleão se casa com Josefina", "description": "Napoleão Bonaparte contraiu matrimônio civil com Rose de Beauharnais, conhecida como Josefina, em Paris, numa união que marcou a ascensão política do futuro imperador.", "year": 1796 },
+      { "title": "USS Monitor vs CSS Virginia em Hampton Roads", "description": "O primeiro combate naval entre navios de guerra blindados ocorreu durante a Guerra Civil americana, marcando o fim dos navios de guerra de madeira e o início da era dos couraçados.", "year": 1862 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Santa Francesca de Roma", "type": "Fundadora", "description": "Noble romana del segle XV, esposa i mare exemplar, fundadora de les Oblates de Santa Maria; patrona dels conductors i de les vídues." },
+      { "name": "Sant Pacià de Barcelona", "type": "Bisbe", "description": "Bisbe de Barcelona al segle IV, escriptor i defensor de la unitat de l'Església; les seves obres són una font important per conèixer el cristianisme hispà primitiu." },
+      { "name": "Sant Gregori de Nissa", "type": "Bisbe i Doctor", "description": "Teòleg capadoci del segle IV, germà de Sant Basili el Gran, un dels Pares Capadocis, gran defensor del Concili de Nicea i la teologia trinitària." }
+    ],
+    "observances": [
+      { "name": "Dia de la Barbie", "description": "El 9 de març de 1959, la nina Barbie va ser presentada a la Fira de Joguines de Nova York per Mattel, convertint-se en el joguet de moda més venut de la història." },
+      { "name": "Dia de la Commonwealth (històric)", "description": "Jornada per recordar la fundació de la Commonwealth of Nations, l'associació voluntària d'estats sobirans pertanyents principalment a l'antic Imperi Britànic." }
+    ],
+    "historicalQuote": {
+      "text": "Tot el que som és el resultat del que hem pensat.",
+      "author": "Buda"
+    },
+    "motivationalQuote": {
+      "text": "La vida és un 10% el que ens passa i un 90% com reaccionem.",
+      "author": "Charles R. Swindoll"
+    },
+    "births": [
+      { "name": "Amerigo Vespucci", "description": "Explorador i cartògraf italià el nom llatinitzat del qual, 'Amèrica', va ser donat al continent americà en el seu honor després de les seves expedicions al Nou Món.", "year": 1454 },
+      { "name": "Iuri Gagarin", "description": "Cosmonauta soviètic, el primer ésser humà a viatjar a l'espai exterior (Vostok 1, 12 d'abril de 1961), convertit en símbol de l'exploració espacial.", "year": 1934 },
+      { "name": "Emmanuel Lewis", "description": "Actor americà cèlebre pel paper del nen Webster a la sèrie de televisió 'Webster' (1983-1989), un dels actors infantils més populars dels anys 80.", "year": 1971 }
+    ],
+    "events": [
+      { "title": "Presentació de la nina Barbie", "description": "La nina Barbie va ser presentada al món a la Fira de Joguines de Nova York per Ruth Handler de Mattel, inaugurant una nova era en la indústria del joguet.", "year": 1959 },
+      { "title": "Napoleó es casa amb Josefina", "description": "Napoleó Bonaparte va contreure matrimoni civil amb Rose de Beauharnais, coneguda com a Josefina, a París, en una unió que va marcar l'ascens polític del futur emperador.", "year": 1796 },
+      { "title": "USS Monitor vs CSS Virginia a Hampton Roads", "description": "El primer combat naval entre vaixells de guerra cuirassats va tenir lloc durant la Guerra Civil americana, marcant el final dels vaixells de guerra de fusta i l'inici de l'era dels cuirassats.", "year": 1862 }
+    ]
+  }
+}

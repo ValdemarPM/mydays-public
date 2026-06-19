@@ -1,0 +1,287 @@
+{
+  "date": "2026-05-22",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Rita de Casia",
+        "type": "Viuda y Religiosa",
+        "description": "Mística italiana del siglo XV, conocida como la 'Abogada de los imposibles'. Vivió como esposa, madre, viuda y finalmente monja agustina. Según la tradición, pidió participar de los sufrimientos de Cristo y una espina de la corona apareció en su frente. Es patrona de las causas imposibles y de las mujeres maltratadas. Canonizada en 1900."
+      },
+      {
+        "name": "San Marciano",
+        "type": "Mártir",
+        "description": "Mártir cristiano del siglo I, uno de los primeros convertidos en Roma por el apóstol Pablo. Su martirio tuvo lugar durante las persecuciones del emperador Nerón. Es venerado especialmente en la Iglesia oriental."
+      },
+      {
+        "name": "Beato Juan de Parma",
+        "type": "Fraile Franciscano",
+        "description": "Fraile franciscano italiano del siglo XIII, séptimo ministro general de la Orden Franciscana. Amigo de Santo Tomás de Aquino y de San Buenaventura, fue uno de los grandes teólogos de su tiempo. Beatificado en 1777."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Diversidad Biológica",
+        "description": "Proclamado por la ONU, se celebra el 22 de mayo para concienciar sobre los problemas relacionados con la diversidad biológica en el planeta. Esta fecha conmemora la aprobación del Convenio sobre la Diversidad Biológica en 1992."
+      },
+      {
+        "name": "Día de Santa Rita de Casia (patrona de los imposibles)",
+        "description": "Santa Rita de Casia es invocada como intercesora en las causas y situaciones que parecen imposibles o sin solución. Su fiesta se celebra con especial devoción en Italia, España y América Latina."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Con Dios, todo es posible.",
+      "author": "Santa Rita de Casia"
+    },
+    "motivationalQuote": {
+      "text": "Nunca digas nunca.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Arthur Conan Doyle",
+        "description": "Escritor y médico escocés, creador del detective Sherlock Holmes y de su compañero el doctor Watson. Sus relatos de detectives son considerados los fundamentos del género policial moderno. También escribió novelas históricas, de ciencia ficción y relatos paranormales.",
+        "year": "1859"
+      },
+      {
+        "name": "Naomi Campbell",
+        "description": "Supermodelo británica de origen jamaicano, una de las primeras modelos negras en aparecer en la portada de la revista Vogue. Ícono de la moda de los años 80 y 90, también es conocida por su activismo social y solidario.",
+        "year": "1970"
+      },
+      {
+        "name": "Richard Wagner",
+        "description": "Compositor alemán del Romanticismo, uno de los más influyentes de la historia de la ópera y la música orquestal. Sus obras El anillo del nibelungo, Tristán e Isolda y Los maestros cantores de Núremberg revolucionaron la dramaturgia musical.",
+        "year": "1813"
+      }
+    ],
+    "events": [
+      {
+        "title": "Convenio sobre la Diversidad Biológica",
+        "description": "Se abrió a la firma el Convenio sobre la Diversidad Biológica durante la Cumbre de la Tierra de Río de Janeiro, el primer acuerdo global vinculante en materia de biodiversidad, que sentó las bases de las políticas de conservación modernas.",
+        "year": "1992"
+      },
+      {
+        "title": "Primera travesía del Canal de la Mancha a nado",
+        "description": "El capitán Matthew Webb se convirtió en la primera persona en cruzar el Canal de la Mancha a nado, cubriendo los 34 kilómetros entre Dover y Calais en 21 horas y 45 minutos.",
+        "year": "1875"
+      },
+      {
+        "title": "Estreno de Star Wars",
+        "description": "La primera película de Star Wars, dirigida por George Lucas, se estrenó en los cines de EE. UU., iniciando una de las franquicias cinematográficas más exitosas de la historia y revolucionando los efectos especiales del cine.",
+        "year": "1977"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Rita of Cascia",
+        "type": "Widow and Nun",
+        "description": "15th-century Italian mystic, known as the 'Advocate of Impossible Causes'. She lived as a wife, mother, widow, and finally an Augustinian nun. According to tradition, she asked to share Christ's sufferings and a thorn from the crown appeared on her forehead. She is the patron saint of impossible causes and abused women. Canonised in 1900."
+      },
+      {
+        "name": "Saint Marcian",
+        "type": "Martyr",
+        "description": "1st-century Christian martyr, one of the first converts in Rome by the Apostle Paul. His martyrdom took place during the persecutions of Emperor Nero. He is venerated especially in the Eastern Church."
+      },
+      {
+        "name": "Blessed John of Parma",
+        "type": "Franciscan Friar",
+        "description": "13th-century Italian Franciscan friar, seventh Minister General of the Franciscan Order. A friend of Saint Thomas Aquinas and Saint Bonaventure, he was one of the great theologians of his time. Beatified in 1777."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day for Biological Diversity",
+        "description": "Proclaimed by the UN, it is celebrated on May 22 to raise awareness of biodiversity-related issues on the planet. This date commemorates the adoption of the Convention on Biological Diversity in 1992."
+      },
+      {
+        "name": "Feast of Saint Rita of Cascia (patron of impossible causes)",
+        "description": "Saint Rita of Cascia is invoked as an intercessor in causes and situations that seem impossible or without solution. Her feast is celebrated with special devotion in Italy, Spain, and Latin America."
+      }
+    ],
+    "historicalQuote": {
+      "text": "With God, all things are possible.",
+      "author": "Saint Rita of Cascia"
+    },
+    "motivationalQuote": {
+      "text": "Never say never.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Arthur Conan Doyle",
+        "description": "Scottish writer and physician, creator of the detective Sherlock Holmes and his companion Dr Watson. His detective stories are considered the foundations of the modern detective genre. He also wrote historical novels, science fiction, and paranormal stories.",
+        "year": "1859"
+      },
+      {
+        "name": "Naomi Campbell",
+        "description": "British supermodel of Jamaican origin, one of the first Black models to appear on the cover of Vogue magazine. An icon of 1980s and 1990s fashion, she is also known for her social and charitable activism.",
+        "year": "1970"
+      },
+      {
+        "name": "Richard Wagner",
+        "description": "German Romantic composer, one of the most influential in the history of opera and orchestral music. His works The Ring of the Nibelung, Tristan und Isolde, and The Mastersingers of Nuremberg revolutionised musical dramaturgy.",
+        "year": "1813"
+      }
+    ],
+    "events": [
+      {
+        "title": "Convention on Biological Diversity",
+        "description": "The Convention on Biological Diversity was opened for signature at the Earth Summit in Rio de Janeiro, the first globally binding agreement on biodiversity, laying the foundations of modern conservation policies.",
+        "year": "1992"
+      },
+      {
+        "title": "First Cross-Channel Swim",
+        "description": "Captain Matthew Webb became the first person to swim the English Channel, covering the 34 kilometres between Dover and Calais in 21 hours and 45 minutes.",
+        "year": "1875"
+      },
+      {
+        "title": "Premiere of Star Wars",
+        "description": "The first Star Wars film, directed by George Lucas, premiered in US cinemas, launching one of the most successful film franchises in history and revolutionising cinema's special effects.",
+        "year": "1977"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Rita de Cássia",
+        "type": "Viúva e Religiosa",
+        "description": "Mística italiana do século XV, conhecida como a 'Advogada dos Impossíveis'. Viveu como esposa, mãe, viúva e finalmente monja agostiniana. Segundo a tradição, pediu para participar dos sofrimentos de Cristo e um espinho da coroa apareceu em sua testa. É padroeira das causas impossíveis e das mulheres maltratadas. Canonizada em 1900."
+      },
+      {
+        "name": "São Marciano",
+        "type": "Mártir",
+        "description": "Mártir cristão do século I, um dos primeiros convertidos em Roma pelo apóstolo Paulo. Seu martírio ocorreu durante as perseguições do imperador Nero. É venerado especialmente na Igreja Oriental."
+      },
+      {
+        "name": "Beato João de Parma",
+        "type": "Frade Franciscano",
+        "description": "Frade franciscano italiano do século XIII, sétimo ministro geral da Ordem Franciscana. Amigo de Santo Tomás de Aquino e São Boaventura, foi um dos grandes teólogos de seu tempo. Beatificado em 1777."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Diversidade Biológica",
+        "description": "Proclamado pela ONU, é celebrado em 22 de maio para conscientizar sobre os problemas relacionados à biodiversidade no planeta. Esta data comemora a aprovação da Convenção sobre Diversidade Biológica em 1992."
+      },
+      {
+        "name": "Festa de Santa Rita de Cássia (padroeira dos impossíveis)",
+        "description": "Santa Rita de Cássia é invocada como intercessora em causas e situações que parecem impossíveis ou sem solução. Sua festa é celebrada com especial devoção na Itália, Espanha e América Latina."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Com Deus, tudo é possível.",
+      "author": "Santa Rita de Cássia"
+    },
+    "motivationalQuote": {
+      "text": "Nunca diga nunca.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Arthur Conan Doyle",
+        "description": "Escritor e médico escocês, criador do detetive Sherlock Holmes e de seu companheiro o doutor Watson. Seus relatos de detetive são considerados os fundamentos do gênero policial moderno. Também escreveu romances históricos, ficção científica e histórias paranormais.",
+        "year": "1859"
+      },
+      {
+        "name": "Naomi Campbell",
+        "description": "Supermodelo britânica de origem jamaicana, uma das primeiras modelos negras a aparecer na capa da revista Vogue. Ícone da moda dos anos 80 e 90, também é conhecida pelo seu ativismo social e solidário.",
+        "year": "1970"
+      },
+      {
+        "name": "Richard Wagner",
+        "description": "Compositor alemão do Romantismo, um dos mais influentes da história da ópera e da música orquestral. Suas obras O Anel do Nibelungo, Tristão e Isolda e Os Mestres Cantores de Nuremberg revolucionaram a dramaturgia musical.",
+        "year": "1813"
+      }
+    ],
+    "events": [
+      {
+        "title": "Convenção sobre Diversidade Biológica",
+        "description": "A Convenção sobre Diversidade Biológica foi aberta para assinatura na Cúpula da Terra do Rio de Janeiro, o primeiro acordo global vinculante em matéria de biodiversidade, que lançou as bases das políticas modernas de conservação.",
+        "year": "1992"
+      },
+      {
+        "title": "Primeira travessia do Canal da Mancha a nado",
+        "description": "O capitão Matthew Webb tornou-se a primeira pessoa a nadar o Canal da Mancha, percorrendo os 34 quilômetros entre Dover e Calais em 21 horas e 45 minutos.",
+        "year": "1875"
+      },
+      {
+        "title": "Estreia de Star Wars",
+        "description": "O primeiro filme de Star Wars, dirigido por George Lucas, estreou nos cinemas dos EUA, iniciando uma das franquias cinematográficas mais bem-sucedidas da história e revolucionando os efeitos especiais do cinema.",
+        "year": "1977"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Rita de Càssia",
+        "type": "Vídua i Religiosa",
+        "description": "Mística italiana del segle XV, coneguda com l''Advocada dels Impossibles'. Va viure com a esposa, mare, vídua i finalment monja agustiniana. Segons la tradició, va demanar participar dels sofriments de Crist i una espina de la corona va aparèixer al seu front. És patrona de les causes impossibles i de les dones maltractades. Canonitzada el 1900."
+      },
+      {
+        "name": "Sant Marcià",
+        "type": "Màrtir",
+        "description": "Màrtir cristià del segle I, un dels primers convertits a Roma per l'apòstol Pau. El seu martiri va tenir lloc durant les persecucions de l'emperador Neró. És venerat especialment a l'Església oriental."
+      },
+      {
+        "name": "Beat Joan de Parma",
+        "type": "Frare Franciscà",
+        "description": "Frare franciscà italià del segle XIII, setè ministre general de l'Orde Franciscana. Amic de Sant Tomàs d'Aquino i de Sant Bonaventura, va ser un dels grans teòlegs del seu temps. Beatificat el 1777."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la Diversitat Biològica",
+        "description": "Proclamat per l'ONU, se celebra el 22 de maig per conscienciar sobre els problemes relacionats amb la biodiversitat al planeta. Aquesta data commemora l'aprovació del Conveni sobre la Diversitat Biològica el 1992."
+      },
+      {
+        "name": "Festa de Santa Rita de Càssia (patrona dels impossibles)",
+        "description": "Santa Rita de Càssia és invocada com a intercessora en causes i situacions que semblen impossibles o sense solució. La seva festa se celebra amb especial devoció a Itàlia, Espanya i Amèrica Llatina."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Amb Déu, tot és possible.",
+      "author": "Santa Rita de Càssia"
+    },
+    "motivationalQuote": {
+      "text": "Mai diguis mai.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Arthur Conan Doyle",
+        "description": "Escriptor i metge escocès, creador del detectiu Sherlock Holmes i del seu company el doctor Watson. Els seus relats de detectius són considerats els fonaments del gènere policíac modern. També va escriure novel·les històriques, de ciència-ficció i relats paranormals.",
+        "year": "1859"
+      },
+      {
+        "name": "Naomi Campbell",
+        "description": "Supermodel britànica d'origen jamaicà, una de les primeres models negres a aparèixer a la portada de la revista Vogue. Icona de la moda dels anys 80 i 90, també és coneguda pel seu activisme social i solidari.",
+        "year": "1970"
+      },
+      {
+        "name": "Richard Wagner",
+        "description": "Compositor alemany del Romanticisme, un dels més influents de la història de l'òpera i la música orquestral. Les seves obres L'anell del nibelung, Tristany i Isolda i Els mestres cantors de Nuremberg van revolucionar la dramaturgia musical.",
+        "year": "1813"
+      }
+    ],
+    "events": [
+      {
+        "title": "Conveni sobre la Diversitat Biològica",
+        "description": "El Conveni sobre la Diversitat Biològica va ser obert a la signatura a la Cimera de la Terra de Rio de Janeiro, el primer acord global vinculant en matèria de biodiversitat, que va establir les bases de les polítiques modernes de conservació.",
+        "year": "1992"
+      },
+      {
+        "title": "Primera travessia del Canal de la Mànega a natació",
+        "description": "El capità Matthew Webb es va convertir en la primera persona a creuar el Canal de la Mànega a natació, cobrint els 34 quilòmetres entre Dover i Calais en 21 hores i 45 minuts.",
+        "year": "1875"
+      },
+      {
+        "title": "Estrena de Star Wars",
+        "description": "La primera pel·lícula de Star Wars, dirigida per George Lucas, es va estrenar als cinemes dels EUA, iniciant una de les franquícies cinematogràfiques més exitoses de la història i revolucionant els efectes especials del cinema.",
+        "year": "1977"
+      }
+    ]
+  }
+}

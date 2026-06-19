@@ -1,0 +1,255 @@
+{
+  "date": "2026-01-04",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Isabel Ana Seton",
+        "type": "Religiosa",
+        "description": "Primera ciudadana estadounidense nacida en América canonizada por la Iglesia Católica. Fundó las Hermanas de la Caridad y promovió la educación católica en Estados Unidos."
+      },
+      {
+        "name": "San Ángelo de Acri",
+        "type": "Sacerdote y misionero",
+        "description": "Fraile capuchino italiano del siglo XVII-XVIII, célebre predicador popular en Calabria y beatificado en el siglo XIX."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Braille",
+        "description": "Conmemoración del nacimiento de Louis Braille (1809), inventor del sistema de escritura en relieve que permite a las personas ciegas o con discapacidad visual leer y escribir."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Lo que el hombre puede imaginar, puede lograrlo.",
+      "author": "Jules Verne",
+      "context": "Escritor francés considerado padre de la ciencia ficción moderna. Nacido el 8 de febrero de 1828, sus novelas anticiparon submarinos, viajes a la Luna y la vuelta al mundo en barco."
+    },
+    "motivationalQuote": {
+      "text": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      {
+        "name": "Louis Braille",
+        "description": "Educador e inventor francés que, habiendo perdido la vista en la infancia, creó el sistema de escritura en relieve que lleva su nombre y que sigue siendo el estándar mundial para personas ciegas.",
+        "year": 1809
+      },
+      {
+        "name": "Isaac Newton",
+        "description": "Matemático, físico y astrónomo inglés, uno de los científicos más influyentes de la historia, formulador de las leyes del movimiento y la gravitación universal (fecha según calendario juliano).",
+        "year": 1643
+      },
+      {
+        "name": "Michael Stipe",
+        "description": "Cantante y letrista estadounidense, vocalista principal de R.E.M., una de las bandas de rock alternativo más influyentes de los años 80 y 90.",
+        "year": 1960
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera transmisión de radio de entretenimiento",
+        "description": "Reginald Fessenden realizó la primera transmisión de radio de voz y música destinada a un público general desde Brant Rock, Massachusetts, marcando el inicio de la radio como medio de comunicación masiva.",
+        "year": 1906
+      },
+      {
+        "title": "Myanmar (Birmania) obtiene su independencia",
+        "description": "Birmania se independizó del Imperio Británico, convirtiéndose en la República de la Unión de Birmania bajo el liderazgo de U Nu.",
+        "year": 1948
+      },
+      {
+        "title": "El rover Opportunity de la NASA aterriza en Marte",
+        "description": "El rover Opportunity de la NASA aterrizó con éxito en la superficie de Marte en la zona del Meridiani Planum, comenzando una misión que duraría casi 15 años.",
+        "year": 2004
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Elizabeth Ann Seton",
+        "type": "Religious",
+        "description": "The first American-born citizen canonised by the Catholic Church. She founded the Sisters of Charity and promoted Catholic education in the United States."
+      },
+      {
+        "name": "Saint Angelo of Acri",
+        "type": "Priest and Missionary",
+        "description": "Italian Capuchin friar of the 17th–18th century, famous popular preacher in Calabria and beatified in the 19th century."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Braille Day",
+        "description": "Commemoration of the birth of Louis Braille (1809), inventor of the raised-dot writing system that allows blind or visually impaired people to read and write."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Whatever man can imagine, he can achieve.",
+      "author": "Jules Verne",
+      "context": "French writer considered the father of modern science fiction. Born 8 February 1828, his novels anticipated submarines, trips to the Moon, and circumnavigation of the globe."
+    },
+    "motivationalQuote": {
+      "text": "Success is the sum of small efforts repeated day in and day out.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      {
+        "name": "Louis Braille",
+        "description": "French educator and inventor who, having lost his sight in childhood, created the raised-dot writing system bearing his name, still the worldwide standard for the blind.",
+        "year": 1809
+      },
+      {
+        "name": "Isaac Newton",
+        "description": "English mathematician, physicist, and astronomer, one of the most influential scientists in history, who formulated the laws of motion and universal gravitation (Julian calendar date).",
+        "year": 1643
+      },
+      {
+        "name": "Michael Stipe",
+        "description": "American singer and lyricist, lead vocalist of R.E.M., one of the most influential alternative rock bands of the 1980s and 1990s.",
+        "year": 1960
+      }
+    ],
+    "events": [
+      {
+        "title": "First entertainment radio broadcast",
+        "description": "Reginald Fessenden made the first voice and music radio transmission aimed at a general audience from Brant Rock, Massachusetts, marking the birth of radio as a mass-communication medium.",
+        "year": 1906
+      },
+      {
+        "title": "Myanmar (Burma) gains independence",
+        "description": "Burma became independent from the British Empire, establishing the Republic of the Union of Burma under the leadership of U Nu.",
+        "year": 1948
+      },
+      {
+        "title": "NASA's Opportunity rover lands on Mars",
+        "description": "NASA's Opportunity rover successfully landed on the Martian surface at Meridiani Planum, beginning a mission that would last nearly 15 years.",
+        "year": 2004
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Isabel Ana Seton",
+        "type": "Religiosa",
+        "description": "Primeira cidadã americana nata canonizada pela Igreja Católica. Fundou as Irmãs da Caridade e promoveu a educação católica nos Estados Unidos."
+      },
+      {
+        "name": "São Ângelo de Acri",
+        "type": "Sacerdote e Missionário",
+        "description": "Frade capuchinho italiano dos séculos XVII–XVIII, célebre pregador popular na Calábria e beatificado no século XIX."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial do Braille",
+        "description": "Comemoração do nascimento de Louis Braille (1809), inventor do sistema de escrita em relevo que permite às pessoas cegas ou com deficiência visual ler e escrever."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O que o homem pode imaginar, pode realizar.",
+      "author": "Júlio Verne",
+      "context": "Escritor francês considerado pai da ficção científica moderna. Nascido em 8 de fevereiro de 1828, seus romances anteciparam submarinos, viagens à Lua e a volta ao mundo de navio."
+    },
+    "motivationalQuote": {
+      "text": "O sucesso é a soma de pequenos esforços repetidos dia após dia.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      {
+        "name": "Louis Braille",
+        "description": "Educador e inventor francês que, tendo perdido a visão na infância, criou o sistema de escrita em relevo que leva seu nome e que continua sendo o padrão mundial para cegos.",
+        "year": 1809
+      },
+      {
+        "name": "Isaac Newton",
+        "description": "Matemático, físico e astrônomo inglês, um dos cientistas mais influentes da história, formulador das leis do movimento e da gravitação universal (data pelo calendário juliano).",
+        "year": 1643
+      },
+      {
+        "name": "Michael Stipe",
+        "description": "Cantor e letrista americano, vocalista principal do R.E.M., uma das bandas de rock alternativo mais influentes dos anos 80 e 90.",
+        "year": 1960
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeira transmissão de rádio de entretenimento",
+        "description": "Reginald Fessenden realizou a primeira transmissão de rádio com voz e música destinada ao público geral em Brant Rock, Massachusetts, marcando o início do rádio como meio de comunicação de massa.",
+        "year": 1906
+      },
+      {
+        "title": "Mianmar (Birmânia) conquista a independência",
+        "description": "A Birmânia tornou-se independente do Império Britânico, estabelecendo a República da União da Birmânia sob a liderança de U Nu.",
+        "year": 1948
+      },
+      {
+        "title": "Rover Opportunity da NASA pousa em Marte",
+        "description": "O rover Opportunity da NASA pousou com sucesso na superfície de Marte na região de Meridiani Planum, iniciando uma missão que duraria quase 15 anos.",
+        "year": 2004
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Isabel Ana Seton",
+        "type": "Religiosa",
+        "description": "Primera ciutadana nord-americana nascuda a Amèrica canonitzada per l'Església Catòlica. Va fundar les Germanes de la Caritat i va promoure l'educació catòlica als Estats Units."
+      },
+      {
+        "name": "Sant Àngel d'Acri",
+        "type": "Sacerdot i Missioner",
+        "description": "Frare caputxí italià dels segles XVII–XVIII, cèlebre predicador popular a Calàbria i beatificat al segle XIX."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial del Braille",
+        "description": "Commemoració del naixement de Louis Braille (1809), inventor del sistema d'escriptura en relleu que permet a les persones cegues o amb discapacitat visual llegir i escriure."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El que l'home pot imaginar, pot aconseguir-ho.",
+      "author": "Jules Verne",
+      "context": "Escriptor francès considerat pare de la ciència ficció moderna. Nascut el 8 de febrer de 1828, les seves novel·les van anticipar submarins, viatges a la Lluna i la volta al món en vaixell."
+    },
+    "motivationalQuote": {
+      "text": "L'èxit és la suma de petits esforços repetits dia rere dia.",
+      "author": "Robert Collier"
+    },
+    "births": [
+      {
+        "name": "Louis Braille",
+        "description": "Educador i inventor francès que, havent perdut la vista en la infància, va crear el sistema d'escriptura en relleu que porta el seu nom i que continua sent l'estàndard mundial per a persones cegues.",
+        "year": 1809
+      },
+      {
+        "name": "Isaac Newton",
+        "description": "Matemàtic, físic i astrònom anglès, un dels científics més influents de la història, formulador de les lleis del moviment i la gravitació universal (data en calendari julià).",
+        "year": 1643
+      },
+      {
+        "name": "Michael Stipe",
+        "description": "Cantant i lletrista nord-americà, vocalista principal de R.E.M., una de les bandes de rock alternatiu més influents dels anys 80 i 90.",
+        "year": 1960
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera transmissió de ràdio d'entreteniment",
+        "description": "Reginald Fessenden va realitzar la primera transmissió de ràdio amb veu i música destinada al públic general des de Brant Rock, Massachusetts, marcant l'inici de la ràdio com a mitjà de comunicació de masses.",
+        "year": 1906
+      },
+      {
+        "title": "Myanmar (Birmània) aconsegueix la independència",
+        "description": "Birmània es va independitzar de l'Imperi Britànic, establint la República de la Unió de Birmània sota el lideratge d'U Nu.",
+        "year": 1948
+      },
+      {
+        "title": "El rover Opportunity de la NASA aterra a Mart",
+        "description": "El rover Opportunity de la NASA va aterrar amb èxit a la superfície de Mart a la zona de Meridiani Planum, iniciant una missió que duraria gairebé 15 anys.",
+        "year": 2004
+      }
+    ]
+  }
+}

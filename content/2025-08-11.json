@@ -1,0 +1,291 @@
+{
+  "date": "2025-08-11",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Clara de Asís",
+        "type": "Virgen y Fundadora",
+        "description": "Fundadora de la Orden de las Damas Pobres (las Clarisas) en el siglo XIII, discípula y amiga íntima de San Francisco de Asís. La primera mujer en escribir una Regla de vida religiosa aprobada por la Santa Sede. Patrona de la televisión y las telecomunicaciones."
+      },
+      {
+        "name": "San Tiberio",
+        "type": "Mártir",
+        "description": "Mártir de los primeros siglos cuya memoria se celebra en la tradición romana. Los detalles de su vida son escasos, pero su culto está presente en el martirologio desde la antigüedad."
+      },
+      {
+        "name": "San Alejandro el Carbonero",
+        "type": "Obispo y Mártir",
+        "description": "Obispo de Comana (Asia Menor, siglo III), elegido como prelado por la comunidad cristiana a pesar de ser un humilde vendedor de carbón. Murió mártir durante la persecución de Decio."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de los Elefantes",
+        "description": "Creado en 2012 para concienciar sobre la situación crítica de los elefantes africanos y asiáticos, amenazados por el tráfico de marfil, la pérdida de hábitat y el conflicto con las poblaciones humanas."
+      },
+      {
+        "name": "Día Nacional de la Independencia de Chad",
+        "description": "Chad celebra su independencia de Francia, proclamada el 11 de agosto de 1960. Es la fiesta nacional del país centroafricano."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La pobreza no es elegida; se impone. Pero la sencillez es una opción.",
+      "author": "Santa Clara de Asís",
+      "context": "La fundadora de las Clarisas (1194–1253) sintetizó en esta reflexión el núcleo de su espiritualidad franciscana: la voluntad de desprenderse de los bienes materiales como camino hacia Dios, distinta de la pobreza involuntaria."
+    },
+    "motivationalQuote": {
+      "text": "El único modo de hacer un buen trabajo es amar lo que haces.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Enid Blyton",
+        "description": "Escritora británica de literatura infantil (1897–1968), autora de más de 700 libros entre los que destacan Los Cinco, Los Siete Secretos y Noddy. Una de las autoras más vendidas de la historia.",
+        "year": 1897
+      },
+      {
+        "name": "Alex Haley",
+        "description": "Escritor estadounidense autor de Raíces: La saga de una familia americana (1976), obra que trazaba la historia de sus ancestros africanos hasta la esclavitud en Estados Unidos. Ganó el Premio Pulitzer.",
+        "year": 1921
+      },
+      {
+        "name": "Hulk Hogan",
+        "description": "Luchador y actor estadounidense, una de las figuras más icónicas de la historia de la lucha libre profesional (WWE/WWF), símbolo popular de la cultura americana de los años ochenta.",
+        "year": 1953
+      }
+    ],
+    "events": [
+      {
+        "title": "Construcción del Muro de Berlín",
+        "description": "El 13 de agosto de 1961 comenzó la construcción del Muro de Berlín, pero el 11 de agosto la RDA cerró las fronteras entre los dos Berlín, impidiendo la huida masiva de ciudadanos alemanes al Oeste.",
+        "year": 1961
+      },
+      {
+        "title": "Independencia de Chad",
+        "description": "El 11 de agosto de 1960, la República del Chad proclamó su independencia de la República Francesa, con François Tombalbaye como su primer presidente.",
+        "year": 1960
+      },
+      {
+        "title": "Muere Jackson Pollock",
+        "description": "El 11 de agosto de 1956, el pintor abstracto expresionista estadounidense Jackson Pollock falleció en un accidente de tráfico en Long Island (Nueva York) a los 44 años.",
+        "year": 1956
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Clare of Assisi",
+        "type": "Virgin and Foundress",
+        "description": "Founder of the Order of Poor Ladies (the Poor Clares) in the 13th century, disciple and close friend of Saint Francis of Assisi. The first woman to write a Rule of religious life approved by the Holy See. Patron of television and telecommunications."
+      },
+      {
+        "name": "Saint Tiberius",
+        "type": "Martyr",
+        "description": "An early Christian martyr whose memory is celebrated in the Roman tradition. Details of his life are scarce, but his cult has been present in the martyrology since antiquity."
+      },
+      {
+        "name": "Saint Alexander the Charcoal Burner",
+        "type": "Bishop and Martyr",
+        "description": "Bishop of Comana in Asia Minor (3rd century), chosen as bishop by the Christian community despite being a humble charcoal seller. He died as a martyr during the Decian persecution."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Elephant Day",
+        "description": "Created in 2012 to raise awareness about the critical situation of African and Asian elephants, threatened by the ivory trade, habitat loss, and conflict with human populations."
+      },
+      {
+        "name": "Independence Day of Chad",
+        "description": "Chad celebrates its independence from France, proclaimed on 11 August 1960. It is the national holiday of the Central African country."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Poverty is not chosen; it is imposed. But simplicity is a choice.",
+      "author": "Saint Clare of Assisi",
+      "context": "The foundress of the Poor Clares (1194–1253) encapsulated in this reflection the core of her Franciscan spirituality: the voluntary renunciation of material goods as a path to God, distinct from involuntary poverty."
+    },
+    "motivationalQuote": {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Enid Blyton",
+        "description": "British children's author (1897–1968), writer of more than 700 books including the Famous Five, Secret Seven, and Noddy series. One of the best-selling authors in history.",
+        "year": 1897
+      },
+      {
+        "name": "Alex Haley",
+        "description": "American writer, author of Roots: The Saga of an American Family (1976), which traced his African ancestors down to slavery in the United States. He was awarded the Pulitzer Prize.",
+        "year": 1921
+      },
+      {
+        "name": "Hulk Hogan",
+        "description": "American wrestler and actor, one of the most iconic figures in the history of professional wrestling (WWE/WWF), a popular symbol of American culture in the 1980s.",
+        "year": 1953
+      }
+    ],
+    "events": [
+      {
+        "title": "East Germany closes the Berlin border",
+        "description": "On 11 August 1961, the GDR closed the borders between the two Berlins, stopping the mass flight of German citizens to the West — two days before the Berlin Wall began to be built.",
+        "year": 1961
+      },
+      {
+        "title": "Chad gains independence",
+        "description": "On 11 August 1960, the Republic of Chad proclaimed its independence from the French Republic, with François Tombalbaye as its first president.",
+        "year": 1960
+      },
+      {
+        "title": "Death of Jackson Pollock",
+        "description": "On 11 August 1956, American abstract expressionist painter Jackson Pollock died in a car accident in Long Island, New York, at the age of 44.",
+        "year": 1956
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Clara de Assis",
+        "type": "Virgem e Fundadora",
+        "description": "Fundadora da Ordem das Damas Pobres (as Clarissas) no século XIII, discípula e amiga íntima de São Francisco de Assis. A primeira mulher a escrever uma Regra de vida religiosa aprovada pela Santa Sé. Padroeira da televisão e das telecomunicações."
+      },
+      {
+        "name": "São Tibério",
+        "type": "Mártir",
+        "description": "Mártir dos primeiros séculos cuja memória é celebrada na tradição romana. Os detalhes da sua vida são escassos, mas o seu culto está presente no martirológio desde a Antiguidade."
+      },
+      {
+        "name": "São Alexandre, o Carboneiro",
+        "type": "Bispo e Mártir",
+        "description": "Bispo de Comana na Ásia Menor (século III), escolhido como bispo pela comunidade cristã apesar de ser um humilde vendedor de carvão. Morreu mártir durante a perseguição de Décio."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial dos Elefantes",
+        "description": "Criado em 2012 para sensibilizar sobre a situação crítica dos elefantes africanos e asiáticos, ameaçados pelo comércio de marfim, a perda de habitat e o conflito com as populações humanas."
+      },
+      {
+        "name": "Dia da Independência do Chade",
+        "description": "O Chade celebra a sua independência da França, proclamada em 11 de agosto de 1960. É o feriado nacional do país centro-africano."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A pobreza não é escolhida; é imposta. Mas a simplicidade é uma escolha.",
+      "author": "Santa Clara de Assis",
+      "context": "A fundadora das Clarissas (1194–1253) sintetizou nesta reflexão o núcleo da sua espiritualidade franciscana: a renúncia voluntária aos bens materiais como caminho para Deus, distinta da pobreza involuntária."
+    },
+    "motivationalQuote": {
+      "text": "A única forma de fazer um grande trabalho é amar o que você faz.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Enid Blyton",
+        "description": "Escritora britânica de literatura infantil (1897–1968), autora de mais de 700 livros, entre eles as séries Os Cinco, Os Sete e Noddy. Uma das autoras mais vendidas da história.",
+        "year": 1897
+      },
+      {
+        "name": "Alex Haley",
+        "description": "Escritor americano, autor de Raízes: A Saga de uma Família Americana (1976), obra que traçava a história dos seus ancestrais africanos até a escravidão nos Estados Unidos. Venceu o Prêmio Pulitzer.",
+        "year": 1921
+      },
+      {
+        "name": "Hulk Hogan",
+        "description": "Lutador e ator americano, uma das figuras mais icônicas da história da luta livre profissional (WWE/WWF), símbolo popular da cultura americana dos anos oitenta.",
+        "year": 1953
+      }
+    ],
+    "events": [
+      {
+        "title": "Alemanha Oriental fecha a fronteira de Berlim",
+        "description": "Em 11 de agosto de 1961, a RDA fechou as fronteiras entre os dois Berlins, impedindo a fuga em massa de cidadãos alemães para o Ocidente — dois dias antes de começar a construção do Muro de Berlim.",
+        "year": 1961
+      },
+      {
+        "title": "Chade obtém independência",
+        "description": "Em 11 de agosto de 1960, a República do Chade proclamou a sua independência da República Francesa, com François Tombalbaye como seu primeiro presidente.",
+        "year": 1960
+      },
+      {
+        "title": "Morte de Jackson Pollock",
+        "description": "Em 11 de agosto de 1956, o pintor expressionista abstrato americano Jackson Pollock faleceu num acidente de automóvel em Long Island, Nova Iorque, com 44 anos.",
+        "year": 1956
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Clara d'Assís",
+        "type": "Verge i Fundadora",
+        "description": "Fundadora de l'Orde de les Dames Pobres (les Clarisses) al segle XIII, deixebla i amiga íntima de Sant Francesc d'Assís. La primera dona a escriure una Regla de vida religiosa aprovada per la Santa Seu. Patrona de la televisió i les telecomunicacions."
+      },
+      {
+        "name": "Sant Tiberi",
+        "type": "Màrtir",
+        "description": "Màrtir dels primers segles la memòria del qual es celebra en la tradició romana. Els detalls de la seva vida són escassos, però el seu culte és present en el martirologi des de l'Antiguitat."
+      },
+      {
+        "name": "Sant Alexandre el Carboner",
+        "type": "Bisbe i Màrtir",
+        "description": "Bisbe de Comana a l'Àsia Menor (segle III), elegit com a bisbe per la comunitat cristiana tot i ser un humil venedor de carbó. Va morir màrtir durant la persecució de Deci."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial dels Elefants",
+        "description": "Creat el 2012 per conscienciar sobre la situació crítica dels elefants africans i asiàtics, amenaçats pel tràfic de marfil, la pèrdua d'hàbitat i el conflicte amb les poblacions humanes."
+      },
+      {
+        "name": "Dia de la Independència del Txad",
+        "description": "El Txad celebra la seva independència de França, proclamada l'11 d'agost de 1960. És la festa nacional del país centreafricà."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La pobresa no s'elegeix; s'imposa. Però la senzillesa és una opció.",
+      "author": "Santa Clara d'Assís",
+      "context": "La fundadora de les Clarisses (1194–1253) va sintetitzar en aquesta reflexió el nucli de la seva espiritualitat franciscana: la voluntat de desprendre's dels béns materials com a camí cap a Déu, distinta de la pobresa involuntària."
+    },
+    "motivationalQuote": {
+      "text": "L'única manera de fer una gran feina és estimar el que fas.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Enid Blyton",
+        "description": "Escriptora britànica de literatura infantil (1897–1968), autora de més de 700 llibres entre els quals destaquen Els Cinc, Els Set i Noddy. Una de les autores més venudes de la història.",
+        "year": 1897
+      },
+      {
+        "name": "Alex Haley",
+        "description": "Escriptor americà, autor de Arrels: La saga d'una família americana (1976), obra que traçava la història dels seus avantpassats africans fins a l'esclavitud als Estats Units. Va guanyar el Premi Pulitzer.",
+        "year": 1921
+      },
+      {
+        "name": "Hulk Hogan",
+        "description": "Lluitador i actor americà, una de les figures més icòniques de la història de la lluita lliure professional (WWE/WWF), símbol popular de la cultura americana dels anys vuitanta.",
+        "year": 1953
+      }
+    ],
+    "events": [
+      {
+        "title": "Alemanya de l'Est tanca la frontera de Berlín",
+        "description": "L'11 d'agost de 1961, la RDA va tancar les fronteres entre els dos Berlins, impedint la fugida massiva de ciutadans alemanys cap a l'Oest — dos dies abans que comencés a construir-se el Mur de Berlín.",
+        "year": 1961
+      },
+      {
+        "title": "El Txad obté la independència",
+        "description": "L'11 d'agost de 1960, la República del Txad va proclamar la seva independència de la República Francesa, amb François Tombalbaye com a primer president.",
+        "year": 1960
+      },
+      {
+        "title": "Mort de Jackson Pollock",
+        "description": "L'11 d'agost de 1956, el pintor expressionista abstracte americà Jackson Pollock va morir en un accident de trànsit a Long Island (Nova York) als 44 anys.",
+        "year": 1956
+      }
+    ]
+  }
+}

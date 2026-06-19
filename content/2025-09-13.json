@@ -1,0 +1,291 @@
+{
+  "date": "2025-09-13",
+  "es": {
+    "saints": [
+      {
+        "name": "San Juan Crisóstomo",
+        "type": "Obispo y Doctor de la Iglesia",
+        "description": "Arzobispo de Constantinopla (398–407), uno de los cuatro grandes Padres de la Iglesia griega. Célebre predicador — «Crisóstomo» significa «boca de oro» — que combatió la corrupción imperial y murió en el exilio."
+      },
+      {
+        "name": "San Maurilio de Angers",
+        "type": "Obispo",
+        "description": "Obispo de Angers (Anjou, Francia) en el siglo V, conocido por sus milagros y por su celo en la evangelización de su diócesis. Según la leyenda, realizó la conversión del rey franco Clovis."
+      },
+      {
+        "name": "Santa Eutropia de Orange",
+        "type": "Mártir",
+        "description": "Mártir cristiana venerada en el sur de Francia cuya memoria se recoge en el martirologio romano para este día."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día del Programador — Día 256",
+        "description": "Celebrado el día 256 del año (el 13 de septiembre en años no bisiestos), que corresponde al valor máximo de un byte (2⁸ = 256). Es una festividad informal muy popular entre desarrolladores de software de todo el mundo."
+      },
+      {
+        "name": "Día de la Independencia de Etiopía",
+        "description": "Etiopía celebra el Enkutatash, el Año Nuevo etíope (según el calendario etíope), que coincide aproximadamente con el 11 o 12 de septiembre del calendario gregoriano."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La gloria de las grandes almas se reconoce en sus palabras.",
+      "author": "San Juan Crisóstomo",
+      "context": "El Padre de la Iglesia griega, cuya festividad se celebra hoy, fue famoso por su elocuencia en la predicación. Sus homilías sobre el Evangelio de Mateo y las cartas de Pablo son clásicos de la literatura patrística."
+    },
+    "motivationalQuote": {
+      "text": "El hombre que mueve montañas empieza cargando piedras pequeñas.",
+      "author": "Confucio"
+    },
+    "births": [
+      {
+        "name": "Roald Dahl",
+        "description": "Escritor y novelista británico-noruego, autor de cuentos para niños como Charlie y la fábrica de chocolate, Matilda y James y el melocotón gigante, y de relatos cortos de suspenso para adultos.",
+        "year": 1916
+      },
+      {
+        "name": "Claudette Colbert",
+        "description": "Actriz francesa-americana ganadora del Oscar por Sucedió una noche (1934), una de las grandes estrellas de la Edad Dorada de Hollywood, conocida por su elegancia y su versatilidad cómica.",
+        "year": 1903
+      },
+      {
+        "name": "Fiona Apple",
+        "description": "Cantante y compositora americana de indie pop y rock alternativo, conocida por su álbum debut Tidal (1996) y por su compleja y aclamada discografía, incluyendo Fetch the Bolt Cutters (2020).",
+        "year": 1977
+      }
+    ],
+    "events": [
+      {
+        "title": "Firma de los Acuerdos de Oslo entre Israel y la OLP",
+        "description": "Israel y la Organización para la Liberación de Palestina (OLP) firmaron los Acuerdos de Oslo en la Casa Blanca, iniciando un proceso de paz histórico que incluyó el reconocimiento mutuo de ambas partes.",
+        "year": 1993
+      },
+      {
+        "title": "Primer vuelo del bombardero Concorde",
+        "description": "El avión supersónico Concorde realizó su primer vuelo de prueba en Bristol, marcando un hito en la historia de la aviación comercial al superar la barrera del sonido.",
+        "year": 1968
+      },
+      {
+        "title": "Muere Tupac Shakur",
+        "description": "El rapero Tupac Shakur fallecía en Las Vegas a los 25 años, seis días después de recibir varios disparos al salir de un combate de boxeo de Mike Tyson. Su muerte marcó el fin de una de las carreras más influyentes del hip-hop.",
+        "year": 1996
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint John Chrysostom",
+        "type": "Bishop and Doctor of the Church",
+        "description": "Archbishop of Constantinople (398–407), one of the four great Fathers of the Greek Church. A celebrated preacher — 'Chrysostom' means 'golden mouth' — who fought against imperial corruption and died in exile."
+      },
+      {
+        "name": "Saint Maurilius of Angers",
+        "type": "Bishop",
+        "description": "Bishop of Angers (Anjou, France) in the 5th century, known for his miracles and his zeal in evangelising his diocese. According to legend, he brought about the conversion of the Frankish king Clovis."
+      },
+      {
+        "name": "Saint Eutropia of Orange",
+        "type": "Martyr",
+        "description": "A Christian martyr venerated in southern France whose memory is recorded in the Roman Martyrology for this day."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Programmers' Day — Day 256",
+        "description": "Celebrated on day 256 of the year (13 September in non-leap years), which corresponds to the maximum value of a byte (2⁸ = 256). An informal holiday very popular among software developers worldwide."
+      },
+      {
+        "name": "Ethiopian New Year — Enkutatash",
+        "description": "Ethiopia celebrates Enkutatash, the Ethiopian New Year (according to the Ethiopian calendar), which falls approximately on 11 or 12 September of the Gregorian calendar."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The glory of great souls is revealed in their words.",
+      "author": "Saint John Chrysostom",
+      "context": "The Father of the Greek Church, whose feast is celebrated today, was renowned for his eloquent preaching. His homilies on the Gospel of Matthew and the letters of Paul are classics of patristic literature."
+    },
+    "motivationalQuote": {
+      "text": "The man who moves a mountain begins by carrying away small stones.",
+      "author": "Confucius"
+    },
+    "births": [
+      {
+        "name": "Roald Dahl",
+        "description": "British-Norwegian writer and novelist, author of children's books such as Charlie and the Chocolate Factory, Matilda, and James and the Giant Peach, as well as suspenseful short stories for adults.",
+        "year": 1916
+      },
+      {
+        "name": "Claudette Colbert",
+        "description": "French-American actress and Oscar winner for It Happened One Night (1934), one of the great stars of Hollywood's Golden Age, known for her elegance and comedic versatility.",
+        "year": 1903
+      },
+      {
+        "name": "Fiona Apple",
+        "description": "American indie pop and alternative rock singer-songwriter, known for her debut album Tidal (1996) and her complex, acclaimed discography, including Fetch the Bolt Cutters (2020).",
+        "year": 1977
+      }
+    ],
+    "events": [
+      {
+        "title": "Oslo Accords signed between Israel and the PLO",
+        "description": "Israel and the Palestine Liberation Organisation (PLO) signed the Oslo Accords at the White House, initiating a historic peace process that included mutual recognition by both parties.",
+        "year": 1993
+      },
+      {
+        "title": "First flight of the Concorde",
+        "description": "The supersonic Concorde aircraft made its first test flight in Bristol, marking a milestone in the history of commercial aviation by breaking the sound barrier.",
+        "year": 1968
+      },
+      {
+        "title": "Tupac Shakur dies",
+        "description": "Rapper Tupac Shakur died in Las Vegas at the age of 25, six days after being shot multiple times leaving a Mike Tyson boxing match. His death marked the end of one of hip-hop's most influential careers.",
+        "year": 1996
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São João Crisóstomo",
+        "type": "Bispo e Doutor da Igreja",
+        "description": "Arcebispo de Constantinopla (398–407), um dos quatro grandes Padres da Igreja grega. Célebre pregador — 'Crisóstomo' significa 'boca de ouro' — que combateu a corrupção imperial e morreu no exílio."
+      },
+      {
+        "name": "São Maurílio de Angers",
+        "type": "Bispo",
+        "description": "Bispo de Angers (Anjou, França) no século V, conhecido pelos seus milagres e pelo seu zelo na evangelização da sua diocese. Segundo a lenda, realizou a conversão do rei franco Clóvis."
+      },
+      {
+        "name": "Santa Eutrópia de Orange",
+        "type": "Mártir",
+        "description": "Mártir cristã venerada no sul de França cuja memória está registada no Martirológio Romano para este dia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia do Programador — Dia 256",
+        "description": "Celebrado no dia 256 do ano (13 de setembro em anos não bissextos), que corresponde ao valor máximo de um byte (2⁸ = 256). É uma festividade informal muito popular entre desenvolvedores de software em todo o mundo."
+      },
+      {
+        "name": "Ano Novo Etíope — Enkutatash",
+        "description": "A Etiópia celebra o Enkutatash, o Ano Novo etíope (segundo o calendário etíope), que coincide aproximadamente com o dia 11 ou 12 de setembro do calendário gregoriano."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A glória das grandes almas revela-se nas suas palavras.",
+      "author": "São João Crisóstomo",
+      "context": "O Padre da Igreja grega, cuja festa se celebra hoje, era famoso pela sua eloquência na pregação. As suas homilias sobre o Evangelho de Mateus e as cartas de Paulo são clássicos da literatura patrística."
+    },
+    "motivationalQuote": {
+      "text": "O homem que move montanhas começa carregando pedras pequenas.",
+      "author": "Confúcio"
+    },
+    "births": [
+      {
+        "name": "Roald Dahl",
+        "description": "Escritor e romancista britânico-norueguês, autor de livros infantis como Charlie e a Fábrica de Chocolate, Matilda e James e o Pêssego Gigante, bem como contos de suspense para adultos.",
+        "year": 1916
+      },
+      {
+        "name": "Claudette Colbert",
+        "description": "Atriz francesa-americana vencedora do Oscar por Aconteceu Naquela Noite (1934), uma das grandes estrelas da Idade de Ouro de Hollywood, conhecida pela sua elegância e versatilidade cómica.",
+        "year": 1903
+      },
+      {
+        "name": "Fiona Apple",
+        "description": "Cantora e compositora americana de indie pop e rock alternativo, conhecida pelo seu álbum de estreia Tidal (1996) e pela sua complexa e aclamada discografia, incluindo Fetch the Bolt Cutters (2020).",
+        "year": 1977
+      }
+    ],
+    "events": [
+      {
+        "title": "Acordos de Oslo assinados entre Israel e a OLP",
+        "description": "Israel e a Organização para a Libertação da Palestina (OLP) assinaram os Acordos de Oslo na Casa Branca, iniciando um histórico processo de paz que incluiu o reconhecimento mútuo de ambas as partes.",
+        "year": 1993
+      },
+      {
+        "title": "Primeiro voo do Concorde",
+        "description": "O avião supersónico Concorde realizou o seu primeiro voo de teste em Bristol, marcando um marco na história da aviação comercial ao ultrapassar a barreira do som.",
+        "year": 1968
+      },
+      {
+        "title": "Tupac Shakur morre",
+        "description": "O rapper Tupac Shakur morreu em Las Vegas com 25 anos, seis dias após ter sido baleado várias vezes à saída de um combate de boxe de Mike Tyson. A sua morte marcou o fim de uma das carreiras mais influentes do hip-hop.",
+        "year": 1996
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Joan Crisòstom",
+        "type": "Bisbe i Doctor de l'Església",
+        "description": "Arquebisbe de Constantinoble (398–407), un dels quatre grans Pares de l'Església grega. Cèlebre predicador — 'Crisòstom' significa 'boca d'or' — que va combatre la corrupció imperial i va morir en l'exili."
+      },
+      {
+        "name": "Sant Maurili d'Angers",
+        "type": "Bisbe",
+        "description": "Bisbe d'Angers (Anjou, França) al segle V, conegut pels seus miracles i pel seu zel en l'evangelització de la seva diòcesi. Segons la llegenda, va aconseguir la conversió del rei franc Clodoveu."
+      },
+      {
+        "name": "Santa Eutròpia d'Orange",
+        "type": "Màrtir",
+        "description": "Màrtir cristiana venerada al sud de França la memòria de la qual queda recollida al Martirologi Romà per a aquest dia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia del Programador — Dia 256",
+        "description": "Celebrat el dia 256 de l'any (el 13 de setembre en anys no bisextils), que correspon al valor màxim d'un byte (2⁸ = 256). És una festivitat informal molt popular entre els desenvolupadors de programari de tot el món."
+      },
+      {
+        "name": "Any Nou Etíop — Enkutatash",
+        "description": "Etiòpia celebra l'Enkutatash, l'Any Nou etíop (segons el calendari etíop), que coincideix aproximadament amb l'11 o el 12 de setembre del calendari gregorià."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La glòria de les grans ànimes es reconeix en les seves paraules.",
+      "author": "Sant Joan Crisòstom",
+      "context": "El Pare de l'Església grega, la festivitat del qual se celebra avui, era famós per la seva eloqüència en la predicació. Les seves homilies sobre l'Evangeli de Mateu i les cartes de Pau són clàssics de la literatura patrística."
+    },
+    "motivationalQuote": {
+      "text": "L'home que mou muntanyes comença carregant pedres petites.",
+      "author": "Confuci"
+    },
+    "births": [
+      {
+        "name": "Roald Dahl",
+        "description": "Escriptor i novel·lista britànic-noruec, autor de contes infantils com Charlie i la fàbrica de xocolata, Matilda i James i el préssec gegant, a més de relats de suspens per a adults.",
+        "year": 1916
+      },
+      {
+        "name": "Claudette Colbert",
+        "description": "Actriu francesa-americana guanyadora de l'Oscar per Succeí una nit (1934), una de les grans estrelles de l'Edat d'Or d'Hollywood, coneguda per la seva elegància i versatilitat còmica.",
+        "year": 1903
+      },
+      {
+        "name": "Fiona Apple",
+        "description": "Cantant i compositora americana d'indie pop i rock alternatiu, coneguda pel seu àlbum de debut Tidal (1996) i per la seva complexa i aclamada discografia, incloent-hi Fetch the Bolt Cutters (2020).",
+        "year": 1977
+      }
+    ],
+    "events": [
+      {
+        "title": "Acords d'Oslo signats entre Israel i l'OAP",
+        "description": "Israel i l'Organització per a l'Alliberament de Palestina (OAP) van signar els Acords d'Oslo a la Casa Blanca, iniciant un procés de pau històric que incloïa el reconeixement mutu de les dues parts.",
+        "year": 1993
+      },
+      {
+        "title": "Primer vol del Concorde",
+        "description": "L'avió supersònic Concorde va realitzar el seu primer vol de proves a Bristol, marcant una fita en la història de l'aviació comercial en superar la barrera del so.",
+        "year": 1968
+      },
+      {
+        "title": "Mor Tupac Shakur",
+        "description": "El rapper Tupac Shakur moria a Las Vegas als 25 anys, sis dies després de rebre diversos trets a la sortida d'un combat de boxa de Mike Tyson. La seva mort va marcar el final d'una de les carreres més influents del hip-hop.",
+        "year": 1996
+      }
+    ]
+  }
+}

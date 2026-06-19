@@ -1,0 +1,291 @@
+{
+  "date": "2025-11-27",
+  "es": {
+    "saints": [
+      {
+        "name": "San Virgilio de Salzburgo",
+        "type": "Obispo",
+        "description": "Monje irlandés del siglo VIII que fue obispo de Salzburgo y misionero de Carintia y Estiria. Fue el primero en proponer la existencia de antípodas (personas en el hemisferio sur), lo que le valió una disputa teológica con San Bonifacio."
+      },
+      {
+        "name": "San Máximo de Alejandría",
+        "type": "Obispo",
+        "description": "Filósofo cínico del siglo IV convertido al cristianismo que fue elegido obispo de Constantinopla, aunque su elección fue cuestionada. Máximo fue también un poeta y escritor prolífico."
+      },
+      {
+        "name": "Beata María Ana Sala",
+        "type": "Virgen",
+        "description": "Religiosa italiana de la Orden de Nuestra Señora del siglo XIX, conocida por su amor a la juventud y a los enfermos. Beatificada por Juan Pablo II en 1980."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día del Médico (España)",
+        "description": "España celebra el Día del Médico en honor a la figura de San Lucas, patrón de los médicos, aunque en algunos países se celebra hoy en honor a la fundación de las primeras escuelas de medicina medievales."
+      },
+      {
+        "name": "Black Friday (tradicional en EE.UU.)",
+        "description": "El viernes después de Acción de Gracias marca el inicio de la temporada de compras navideñas en Estados Unidos, conocido por sus grandes descuentos y afluencia masiva a tiendas y plataformas online."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El verdadero precio de todo, lo que cuesta todo para quien quiere adquirirlo, es el trabajo y la molestia de adquirirlo.",
+      "author": "Adam Smith",
+      "context": "El padre de la economía moderna publicó La riqueza de las naciones en 1776, año en que también se proclamó la independencia americana. Su teoría del valor-trabajo sigue siendo uno de los pilares del pensamiento económico."
+    },
+    "motivationalQuote": {
+      "text": "Un árbol que ha crecido lentamente tiene raíces más profundas.",
+      "author": "Proverbio chino"
+    },
+    "births": [
+      {
+        "name": "Anders Celsius",
+        "description": "Astrónomo y científico sueco del siglo XVIII, inventor de la escala de temperatura centígrada (Celsius) que lleva su nombre y que es el estándar internacional de medición de temperatura.",
+        "year": 1701
+      },
+      {
+        "name": "Bruce Lee",
+        "description": "Actor, artista marcial, filósofo y director estadounidense-hongkonés, el mayor ícono del cine de artes marciales y una de las figuras más influyentes de la cultura popular del siglo XX.",
+        "year": 1940
+      },
+      {
+        "name": "Jimi Hendrix",
+        "description": "Guitarrista, cantante y compositor estadounidense, considerado el mejor guitarrista de la historia del rock. Revolucionó la música eléctrica con álbumes como Are You Experienced? y su interpretación del Star-Spangled Banner en Woodstock.",
+        "year": 1942
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer Premio Nobel de la Paz concedido",
+        "description": "El Comité Noruego del Nobel otorgó el primer Premio Nobel de la Paz al suizo Henry Dunant (fundador de la Cruz Roja) y al francés Frédéric Passy.",
+        "year": 1901
+      },
+      {
+        "title": "El vuelo 447 de Air France se pierde sobre el Atlántico",
+        "description": "El vuelo Air France 447, que viajaba de Río de Janeiro a París, desapareció sobre el Atlántico Sur causando la muerte de 228 personas, en el peor accidente de aviación de la historia de Air France.",
+        "year": 2009
+      },
+      {
+        "title": "Primer contacto con Voyager 1 a la mayor distancia de la historia",
+        "description": "La NASA confirmó que la sonda Voyager 1, lanzada en 1977, había cruzado la heliopausa y entrado en el espacio interestelar, convirtiéndose en el objeto de fabricación humana más alejado de la Tierra.",
+        "year": 2012
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Virgilius of Salzburg",
+        "type": "Bishop",
+        "description": "8th-century Irish monk who became Bishop of Salzburg and missionary to Carinthia and Styria. He was the first to propose the existence of antipodes (people in the southern hemisphere), which led to a theological dispute with Saint Boniface."
+      },
+      {
+        "name": "Saint Maximus of Alexandria",
+        "type": "Bishop",
+        "description": "4th-century Cynic philosopher turned Christian who was elected Bishop of Constantinople, though his election was contested. Maximus was also a prolific poet and writer."
+      },
+      {
+        "name": "Blessed Mary Anne Sala",
+        "type": "Virgin",
+        "description": "19th-century Italian nun of the Order of Our Lady, known for her love of youth and the sick. Beatified by John Paul II in 1980."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Doctors' Day (Spain)",
+        "description": "Spain celebrates Doctors' Day in honour of Saint Luke, patron of physicians, though in some countries it is observed today in reference to the founding of the first medieval medical schools."
+      },
+      {
+        "name": "Black Friday (traditional in the USA)",
+        "description": "The Friday after Thanksgiving marks the start of the Christmas shopping season in the United States, known for major discounts and massive crowds in stores and online platforms."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The real price of everything, what everything really costs to the man who wants to acquire it, is the toil and trouble of acquiring it.",
+      "author": "Adam Smith",
+      "context": "The father of modern economics published The Wealth of Nations in 1776 — the same year American independence was declared. His labour theory of value remains one of the pillars of economic thought."
+    },
+    "motivationalQuote": {
+      "text": "A tree grown slowly has deeper roots.",
+      "author": "Chinese proverb"
+    },
+    "births": [
+      {
+        "name": "Anders Celsius",
+        "description": "18th-century Swedish astronomer and scientist, inventor of the centigrade temperature scale (Celsius) that bears his name and is the international standard for temperature measurement.",
+        "year": 1701
+      },
+      {
+        "name": "Bruce Lee",
+        "description": "American-Hong Kong actor, martial artist, philosopher, and filmmaker — the greatest icon of martial arts cinema and one of the most influential figures in 20th-century popular culture.",
+        "year": 1940
+      },
+      {
+        "name": "Jimi Hendrix",
+        "description": "American guitarist, singer, and songwriter, considered the greatest guitarist in rock history. He revolutionised electric music with albums such as Are You Experienced? and his performance of the Star-Spangled Banner at Woodstock.",
+        "year": 1942
+      }
+    ],
+    "events": [
+      {
+        "title": "First Nobel Peace Prize awarded",
+        "description": "The Norwegian Nobel Committee awarded the first Nobel Peace Prize to Swiss Henry Dunant (founder of the Red Cross) and Frenchman Frédéric Passy.",
+        "year": 1901
+      },
+      {
+        "title": "Air France Flight 447 lost over the Atlantic",
+        "description": "Air France Flight 447, travelling from Rio de Janeiro to Paris, disappeared over the South Atlantic, killing 228 people in the worst aviation disaster in Air France history.",
+        "year": 2009
+      },
+      {
+        "title": "Voyager 1 confirmed in interstellar space",
+        "description": "NASA confirmed that the Voyager 1 probe, launched in 1977, had crossed the heliopause and entered interstellar space, becoming the most distant human-made object from Earth.",
+        "year": 2012
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Virgílio de Salzburgo",
+        "type": "Bispo",
+        "description": "Monge irlandês do século VIII que se tornou bispo de Salzburgo e missionário da Caríntia e Estíria. Foi o primeiro a propor a existência de antípodas (pessoas no hemisfério sul), o que gerou uma disputa teológica com São Bonifácio."
+      },
+      {
+        "name": "São Máximo de Alexandria",
+        "type": "Bispo",
+        "description": "Filósofo cínico do século IV convertido ao cristianismo que foi eleito bispo de Constantinopla, embora a sua eleição tenha sido contestada. Máximo foi também um poeta e escritor prolífico."
+      },
+      {
+        "name": "Beata Maria Ana Sala",
+        "type": "Virgem",
+        "description": "Religiosa italiana da Ordem de Nossa Senhora do século XIX, conhecida pelo seu amor à juventude e aos doentes. Beatificada por João Paulo II em 1980."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia do Médico (Espanha)",
+        "description": "A Espanha celebra o Dia do Médico em honra a São Lucas, padroeiro dos médicos, embora em alguns países seja observado hoje em referência à fundação das primeiras escolas de medicina medievais."
+      },
+      {
+        "name": "Black Friday (tradicional nos EUA)",
+        "description": "A sexta-feira após o Dia de Ação de Graças marca o início da temporada de compras natalinas nos Estados Unidos, conhecida pelos grandes descontos e afluência massiva a lojas e plataformas online."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O verdadeiro preço de tudo, o que tudo custa para quem quer adquiri-lo, é o trabalho e o esforço de adquiri-lo.",
+      "author": "Adam Smith",
+      "context": "O pai da economia moderna publicou A Riqueza das Nações em 1776 — o mesmo ano em que a independência americana foi proclamada. A sua teoria do valor-trabalho continua sendo um dos pilares do pensamento económico."
+    },
+    "motivationalQuote": {
+      "text": "Uma árvore que cresceu lentamente tem raízes mais profundas.",
+      "author": "Provérbio chinês"
+    },
+    "births": [
+      {
+        "name": "Anders Celsius",
+        "description": "Astrônomo e cientista sueco do século XVIII, inventor da escala de temperatura centígrada (Celsius) que leva o seu nome e que é o padrão internacional de medição de temperatura.",
+        "year": 1701
+      },
+      {
+        "name": "Bruce Lee",
+        "description": "Ator, artista marcial, filósofo e cineasta americano-hongkonguês — o maior ícone do cinema de artes marciais e uma das figuras mais influentes da cultura popular do século XX.",
+        "year": 1940
+      },
+      {
+        "name": "Jimi Hendrix",
+        "description": "Guitarrista, cantor e compositor americano, considerado o maior guitarrista da história do rock. Revolucionou a música elétrica com álbuns como Are You Experienced? e a sua interpretação do Star-Spangled Banner no Woodstock.",
+        "year": 1942
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeiro Prêmio Nobel da Paz concedido",
+        "description": "O Comitê Norueguês do Nobel concedeu o primeiro Prêmio Nobel da Paz ao suíço Henry Dunant (fundador da Cruz Vermelha) e ao francês Frédéric Passy.",
+        "year": 1901
+      },
+      {
+        "title": "Voo 447 da Air France desaparece sobre o Atlântico",
+        "description": "O voo Air France 447, a caminho do Rio de Janeiro para Paris, desapareceu sobre o Atlântico Sul, causando a morte de 228 pessoas no pior acidente da história da Air France.",
+        "year": 2009
+      },
+      {
+        "title": "Voyager 1 confirmada no espaço interestelar",
+        "description": "A NASA confirmou que a sonda Voyager 1, lançada em 1977, havia cruzado a heliopausa e entrado no espaço interestelar, tornando-se o objeto de fabricação humana mais distante da Terra.",
+        "year": 2012
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Virgili de Salzburg",
+        "type": "Bisbe",
+        "description": "Monjo irlandès del segle VIII que va ser bisbe de Salzburg i missioner de Caríntia i Estíria. Va ser el primer a proposar l'existència d'antípodes (persones a l'hemisferi sud), cosa que li va valer una disputa teològica amb Sant Bonifaci."
+      },
+      {
+        "name": "Sant Màxim d'Alexandria",
+        "type": "Bisbe",
+        "description": "Filòsof cínic del segle IV convertit al cristianisme que va ser elegit bisbe de Constantinoble, tot i que la seva elecció va ser qüestionada. Màxim va ser també un poeta i escriptor prolífic."
+      },
+      {
+        "name": "Beata Maria Anna Sala",
+        "type": "Verge",
+        "description": "Religiosa italiana de l'Orde de Nostra Senyora del segle XIX, coneguda pel seu amor a la joventut i als malalts. Beatificada per Joan Pau II el 1980."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia del Metge (Espanya)",
+        "description": "Espanya celebra el Dia del Metge en honor a Sant Lluc, patró dels metges, tot i que en alguns països s'observa avui en referència a la fundació de les primeres escoles de medicina medievals."
+      },
+      {
+        "name": "Black Friday (tradicional als EUA)",
+        "description": "El divendres après el Dia d'Acció de Gràcies marca l'inici de la temporada de compres nadalenques als Estats Units, conegut pels grans descomptes i l'afluència massiva a botigues i plataformes online."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El veritable preu de tot, el que tot costa per a qui vol adquirir-ho, és el treball i l'esforç d'adquirir-ho.",
+      "author": "Adam Smith",
+      "context": "El pare de l'economia moderna va publicar La riquesa de les nacions el 1776 — el mateix any en que es va proclamar la independència americana. La seva teoria del valor-treball continua essent un dels pilars del pensament econòmic."
+    },
+    "motivationalQuote": {
+      "text": "Un arbre que ha crescut lentament té arrels més profundes.",
+      "author": "Proverbi xinès"
+    },
+    "births": [
+      {
+        "name": "Anders Celsius",
+        "description": "Astrònom i científic suec del segle XVIII, inventor de l'escala de temperatura centígrada (Celsius) que porta el seu nom i que és l'estàndard internacional de mesura de temperatura.",
+        "year": 1701
+      },
+      {
+        "name": "Bruce Lee",
+        "description": "Actor, artista marcial, filòsof i cineasta americà-hongkonguès — la major icona del cinema d'arts marcials i una de les figures més influents de la cultura popular del segle XX.",
+        "year": 1940
+      },
+      {
+        "name": "Jimi Hendrix",
+        "description": "Guitarrista, cantant i compositor americà, considerat el millor guitarrista de la història del rock. Va revolucionar la música elèctrica amb àlbums com Are You Experienced? i la seva interpretació del Star-Spangled Banner a Woodstock.",
+        "year": 1942
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer Premi Nobel de la Pau concedit",
+        "description": "El Comitè Noruec del Nobel va atorgar el primer Premi Nobel de la Pau al suís Henry Dunant (fundador de la Creu Roja) i al francès Frédéric Passy.",
+        "year": 1901
+      },
+      {
+        "title": "Vol 447 d'Air France desapareix sobre l'Atlàntic",
+        "description": "El vol Air France 447, en ruta de Rio de Janeiro a París, va desaparèixer sobre l'Atlàntic Sud, causant la mort de 228 persones en el pitjor accident de la història d'Air France.",
+        "year": 2009
+      },
+      {
+        "title": "Voyager 1 confirmada a l'espai interestel·lar",
+        "description": "La NASA va confirmar que la sonda Voyager 1, llançada el 1977, havia creuat l'heliopausa i entrat a l'espai interestel·lar, convertint-se en l'objecte de fabricació humana més llunyà de la Terra.",
+        "year": 2012
+      }
+    ]
+  }
+}

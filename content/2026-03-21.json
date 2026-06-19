@@ -1,0 +1,127 @@
+{
+  "date": "2026-03-21",
+  "es": {
+    "saints": [
+      { "name": "San Benito de Nursia (traslado de reliquias)", "type": "Abad y patriarca", "description": "En algunas tradiciones se celebra el 21 de marzo como la fecha de la 'dormición' de San Benito (su fallecimiento en 547), fundador de la orden benedictina y patrono de Europa." },
+      { "name": "San Lupicino", "type": "Abad", "description": "Abad galo del siglo V, hermano de San Romano, cofundador de los monasterios de Condado de Jura en los Alpes franceses, promotor de la vida monástica en la Galia." },
+      { "name": "Santa Serapia de Antioquía", "type": "Mártir", "description": "Mártir del siglo II en Antioquía, sirvienta de Santa Sabina, a quien convirtió al cristianismo; sufrió el martirio por negarse a renunciar a su fe." }
+    ],
+    "observances": [
+      { "name": "Día Internacional para la Eliminación de la Discriminación Racial", "description": "Jornada proclamada por la ONU en memoria de la Masacre de Sharpeville (1960, Sudáfrica), donde la policía del apartheid mató a 69 manifestantes negros que protestaban pacíficamente." },
+      { "name": "Día Mundial de la Poesía", "description": "Jornada proclamada por la UNESCO en 1999 para promover la lectura, la escritura y la enseñanza de la poesía como forma de expresión artística universal." },
+      { "name": "Día Internacional del Síndrome de Down", "description": "Celebración global de las personas con síndrome de Down y concienciación sobre sus derechos e inclusión, elegida el 21/3 por los 3 cromosomas del par 21 que caracterizan la condición." }
+    ],
+    "historicalQuote": {
+      "text": "La poesía es el eco de la melodía del universo en el corazón humano.",
+      "author": "Khalil Gibran",
+      "context": "Khalil Gibran, poeta y filósofo libanés-americano, es autor de 'El Profeta' (1923), una de las obras más vendidas del siglo XX. Esta reflexión sobre la poesía encapsula su visión de la espiritualidad y la belleza."
+    },
+    "motivationalQuote": {
+      "text": "No juzgues a cada día por la cosecha que recoges, sino por las semillas que plantas.",
+      "author": "Robert Louis Stevenson"
+    },
+    "births": [
+      { "name": "Johann Sebastian Bach", "description": "Compositor y músico alemán del Barroco tardío, considerado uno de los más grandes compositores de la historia de la música occidental; autor de las Pasiones, los Preludios y Fugas y las Suites para orquesta.", "year": 1685 },
+      { "name": "Ayrton Senna", "description": "Piloto de Fórmula 1 brasileño, tricampeón mundial en 1988, 1990 y 1991, considerado por muchos el más grande de todos los tiempos; falleció en el Gran Premio de San Marino de 1994.", "year": 1960 },
+      { "name": "Ronaldinho", "description": "Futbolista brasileño, Balón de Oro en 2005, recordado por su técnica desbordante, su alegría y su paso por el FC Barcelona, donde fue protagonista de la era más dorada del club.", "year": 1980 }
+    ],
+    "events": [
+      { "title": "Masacre de Sharpeville", "description": "La policía sudafricana del apartheid abrió fuego contra una manifestación pacífica de población negra en Sharpeville, matando a 69 personas y hiriendo a más de 180, en un punto de inflexión de la lucha contra el apartheid.", "year": 1960 },
+      { "title": "Twitter se lanza al público", "description": "El servicio de microblogging Twitter fue presentado por primera vez al público en el festival SXSW de Austin, Texas, marcando el inicio de una nueva era en la comunicación en redes sociales.", "year": 2006 },
+      { "title": "Abolición de la esclavitud en Puerto Rico", "description": "El rey Alfonso XII de España firmó el decreto que abolía la esclavitud en Puerto Rico, la última colonia española donde se practicaba la institución.", "year": 1873 }
+    ]
+  },
+  "en": {
+    "saints": [
+      { "name": "Saint Benedict of Nursia (translation of relics)", "type": "Abbot and patriarch", "description": "In some traditions, 21 March is celebrated as the date of Saint Benedict's 'dormition' (his death in 547), founder of the Benedictine Order and patron of Europe." },
+      { "name": "Saint Lupicinus", "type": "Abbot", "description": "Fifth-century Gallic abbot, brother of Saint Romanus, co-founder of the Jura monasteries in the French Alps, promoter of monastic life in Gaul." },
+      { "name": "Saint Serapia of Antioch", "type": "Martyr", "description": "Second-century martyr in Antioch, servant of Saint Sabina, whom she converted to Christianity; she suffered martyrdom for refusing to renounce her faith." }
+    ],
+    "observances": [
+      { "name": "International Day for the Elimination of Racial Discrimination", "description": "A UN day of remembrance for the Sharpeville Massacre (1960, South Africa), where apartheid police killed 69 Black protesters peacefully demonstrating against pass laws." },
+      { "name": "World Poetry Day", "description": "A day proclaimed by UNESCO in 1999 to promote the reading, writing and teaching of poetry as a universal form of artistic expression." },
+      { "name": "World Down Syndrome Day", "description": "A global celebration of people with Down syndrome and awareness of their rights and inclusion, chosen on 21/3 to represent the 3 copies of chromosome 21 that characterise the condition." }
+    ],
+    "historicalQuote": {
+      "text": "Poetry is the echo of the melody of the universe in the human heart.",
+      "author": "Khalil Gibran",
+      "context": "Khalil Gibran, Lebanese-American poet and philosopher, is the author of 'The Prophet' (1923), one of the best-selling books of the twentieth century. This reflection on poetry encapsulates his vision of spirituality and beauty."
+    },
+    "motivationalQuote": {
+      "text": "Don't judge each day by the harvest you reap, but by the seeds you plant.",
+      "author": "Robert Louis Stevenson"
+    },
+    "births": [
+      { "name": "Johann Sebastian Bach", "description": "Late Baroque German composer and musician, considered one of the greatest composers in the history of Western music; author of the Passions, Preludes and Fugues, and orchestral suites.", "year": 1685 },
+      { "name": "Ayrton Senna", "description": "Brazilian Formula 1 driver, three-time world champion in 1988, 1990 and 1991, considered by many the greatest of all time; he died at the 1994 San Marino Grand Prix.", "year": 1960 },
+      { "name": "Ronaldinho", "description": "Brazilian footballer, Ballon d'Or in 2005, remembered for his exuberant technique, joy and time at FC Barcelona, where he was the protagonist of the club's most golden era.", "year": 1980 }
+    ],
+    "events": [
+      { "title": "Sharpeville Massacre", "description": "South African apartheid police opened fire on a peaceful demonstration by Black residents in Sharpeville, killing 69 people and injuring more than 180, a turning point in the struggle against apartheid.", "year": 1960 },
+      { "title": "Twitter launches to the public", "description": "The microblogging service Twitter was introduced to the public at the SXSW festival in Austin, Texas, marking the beginning of a new era in social media communication.", "year": 2006 },
+      { "title": "Abolition of slavery in Puerto Rico", "description": "King Alfonso XII of Spain signed the decree abolishing slavery in Puerto Rico, the last Spanish colony where the institution was practised.", "year": 1873 }
+    ]
+  },
+  "pt": {
+    "saints": [
+      { "name": "São Bento de Núrsia (translação das relíquias)", "type": "Abade e patriarca", "description": "Em algumas tradições, o 21 de março é celebrado como a data da 'dormição' de São Bento (seu falecimento em 547), fundador da ordem beneditina e patrono da Europa." },
+      { "name": "São Lupicino", "type": "Abade", "description": "Abade galo do século V, irmão de São Romano, cofundador dos mosteiros do Jura nos Alpes franceses, promotor da vida monástica na Gália." },
+      { "name": "Santa Serapia de Antioquia", "type": "Mártir", "description": "Mártir do século II em Antioquia, serva de Santa Sabina, a quem converteu ao cristianismo; sofreu o martírio por se recusar a renunciar à sua fé." }
+    ],
+    "observances": [
+      { "name": "Dia Internacional para a Eliminação da Discriminação Racial", "description": "Jornada proclamada pela ONU em memória do Massacre de Sharpeville (1960, África do Sul), onde a polícia do apartheid matou 69 manifestantes negros que protestavam pacificamente." },
+      { "name": "Dia Mundial da Poesia", "description": "Jornada proclamada pela UNESCO em 1999 para promover a leitura, a escrita e o ensino da poesia como forma de expressão artística universal." },
+      { "name": "Dia Mundial da Síndrome de Down", "description": "Celebração global das pessoas com síndrome de Down e conscientização sobre seus direitos e inclusão, escolhida no 21/3 para representar os 3 cromossomos do par 21 que caracterizam a condição." }
+    ],
+    "historicalQuote": {
+      "text": "A poesia é o eco da melodia do universo no coração humano.",
+      "author": "Khalil Gibran",
+      "context": "Khalil Gibran, poeta e filósofo libanês-americano, é autor de 'O Profeta' (1923), uma das obras mais vendidas do século XX. Esta reflexão sobre a poesia encapsula a sua visão de espiritualidade e beleza."
+    },
+    "motivationalQuote": {
+      "text": "Não julgue cada dia pela colheita que recolhe, mas pelas sementes que planta.",
+      "author": "Robert Louis Stevenson"
+    },
+    "births": [
+      { "name": "Johann Sebastian Bach", "description": "Compositor e músico alemão do Barroco tardio, considerado um dos maiores compositores da história da música ocidental; autor das Paixões, dos Prelúdios e Fugas e das Suítes para orquestra.", "year": 1685 },
+      { "name": "Ayrton Senna", "description": "Piloto de Fórmula 1 brasileiro, tricampeão mundial em 1988, 1990 e 1991, considerado por muitos o maior de todos os tempos; faleceu no Grande Prêmio de San Marino de 1994.", "year": 1960 },
+      { "name": "Ronaldinho", "description": "Futebolista brasileiro, Bola de Ouro em 2005, lembrado pela sua técnica transbordante, alegria e passagem pelo FC Barcelona, onde foi protagonista da era mais dourada do clube.", "year": 1980 }
+    ],
+    "events": [
+      { "title": "Massacre de Sharpeville", "description": "A polícia sul-africana do apartheid abriu fogo contra uma manifestação pacífica da população negra em Sharpeville, matando 69 pessoas e ferindo mais de 180, um ponto de inflexão na luta contra o apartheid.", "year": 1960 },
+      { "title": "Twitter lançado ao público", "description": "O serviço de microblogging Twitter foi apresentado pela primeira vez ao público no festival SXSW em Austin, Texas, marcando o início de uma nova era na comunicação em redes sociais.", "year": 2006 },
+      { "title": "Abolição da escravidão em Porto Rico", "description": "O rei Afonso XII da Espanha assinou o decreto que aboliu a escravidão em Porto Rico, a última colônia espanhola onde a instituição era praticada.", "year": 1873 }
+    ]
+  },
+  "ca": {
+    "saints": [
+      { "name": "Sant Benet de Núrsia (translació de relíquies)", "type": "Abat i patriarca", "description": "En algunes tradicions, el 21 de març es celebra com la data de la 'dormició' de Sant Benet (el seu decés el 547), fundador de l'orde benedictí i patró d'Europa." },
+      { "name": "Sant Lupicí", "type": "Abat", "description": "Abat gal del segle V, germà de Sant Romà, cofundador dels monestirs del Jura als Alps francesos, promotor de la vida monàstica a la Gàl·lia." },
+      { "name": "Santa Seràpia d'Antioquia", "type": "Màrtir", "description": "Màrtir del segle II a Antioquia, serventa de Santa Sabina, a qui va convertir al cristianisme; va sofrir el martiri per negar-se a renunciar a la seva fe." }
+    ],
+    "observances": [
+      { "name": "Dia Internacional per a l'Eliminació de la Discriminació Racial", "description": "Jornada proclamada per l'ONU en memòria del Massacre de Sharpeville (1960, Sud-àfrica), on la policia de l'apartheid va matar 69 manifestants negres que protestaven pacíficament." },
+      { "name": "Dia Mundial de la Poesia", "description": "Jornada proclamada per la UNESCO el 1999 per promoure la lectura, l'escriptura i l'ensenyament de la poesia com a forma d'expressió artística universal." },
+      { "name": "Dia Mundial de la Síndrome de Down", "description": "Celebració global de les persones amb síndrome de Down i conscienciació sobre els seus drets i inclusió, elegida el 21/3 per representar els 3 cromosomes del parell 21 que caracteritzen la condició." }
+    ],
+    "historicalQuote": {
+      "text": "La poesia és l'eco de la melodia de l'univers en el cor humà.",
+      "author": "Khalil Gibran",
+      "context": "Khalil Gibran, poeta i filòsof libanès-americà, és autor de 'El Profeta' (1923), una de les obres més venudes del segle XX. Aquesta reflexió sobre la poesia encapsula la seva visió de l'espiritualitat i la bellesa."
+    },
+    "motivationalQuote": {
+      "text": "No jutgis cada dia per la collita que reculls, sinó per les llavors que plantes.",
+      "author": "Robert Louis Stevenson"
+    },
+    "births": [
+      { "name": "Johann Sebastian Bach", "description": "Compositor i músic alemany del Barroc tardà, considerat un dels més grans compositors de la història de la música occidental; autor de les Passions, els Preludis i Fugues i les Suites per a orquestra.", "year": 1685 },
+      { "name": "Ayrton Senna", "description": "Pilot de Fórmula 1 brasiler, tricampió mundial el 1988, 1990 i 1991, considerat per molts el millor de tots els temps; va morir al Gran Premi de San Marino de 1994.", "year": 1960 },
+      { "name": "Ronaldinho", "description": "Futbolista brasiler, Pilota d'Or el 2005, recordat per la seva tècnica desbordant, la seva alegria i el seu pas pel FC Barcelona, on va ser protagonista de l'era més daurada del club.", "year": 1980 }
+    ],
+    "events": [
+      { "title": "Massacre de Sharpeville", "description": "La policia sud-africana de l'apartheid va obrir foc contra una manifestació pacífica de població negra a Sharpeville, matant 69 persones i ferint més de 180, un punt d'inflexió en la lluita contra l'apartheid.", "year": 1960 },
+      { "title": "Twitter es llança al públic", "description": "El servei de microblogging Twitter va ser presentat per primera vegada al públic al festival SXSW d'Austin, Texas, marcant l'inici d'una nova era en la comunicació a les xarxes socials.", "year": 2006 },
+      { "title": "Abolició de l'esclavitud a Puerto Rico", "description": "El rei Alfons XII d'Espanya va signar el decret que abolia l'esclavitud a Puerto Rico, l'última colònia espanyola on es practicava la institució.", "year": 1873 }
+    ]
+  }
+}

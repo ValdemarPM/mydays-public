@@ -1,0 +1,291 @@
+{
+  "date": "2025-07-02",
+  "es": {
+    "saints": [
+      {
+        "name": "San Bernardino Realino",
+        "type": "Sacerdote jesuita",
+        "description": "Jurista italiano del siglo XVI convertido en jesuita. Fue vicario de la ciudad de Lecce durante cuarenta años, donde se convirtió en figura de santidad reconocida por todos. Canonizado en 1947."
+      },
+      {
+        "name": "San Ottón de Bamberg",
+        "type": "Obispo y misionero",
+        "description": "Obispo de Bamberg (Baviera) en el siglo XII conocido como el Apóstol de Pomerania por su intensa labor evangelizadora en las tierras eslavas del norte de Europa."
+      },
+      {
+        "name": "Beata Ángela de Foligno",
+        "type": "Mística",
+        "description": "Mística umbra del siglo XIII cuya vida pasó de la frivolidad mundana a una profunda conversión espiritual. Sus revelaciones, recogidas en el Libro de las visiones, la convirtieron en referencia del misticismo cristiano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la UFO",
+        "description": "Conmemoración informal creada para recordar el supuesto incidente de Roswell de 1947 y promover la apertura de archivos gubernamentales sobre fenómenos aéreos no identificados."
+      },
+      {
+        "name": "Día de la Independencia de las Islas Marshall",
+        "description": "Las Islas Marshall celebran su constitución como Estado libremente asociado con Estados Unidos, firmada el 21 de octubre de 1986, pero el Día de la Constitución se celebra el 1 de mayo. El 2 de julio se celebra la Aprobación de la Constitución."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La ciencia no conoce fronteras porque el conocimiento pertenece a la humanidad y es la antorcha que ilumina el mundo.",
+      "author": "Louis Pasteur",
+      "context": "El 2 de julio de 1881, Pasteur presentó los resultados de su experimento sobre la vacuna contra el ántrax en Pouilly-le-Fort, demostrando que la vacunación funcionaba en animales de granja y abriendo el camino a la inmunología moderna."
+    },
+    "motivationalQuote": {
+      "text": "La perseverancia es el trabajo duro que haces después de cansarte del trabajo duro que ya hiciste.",
+      "author": "Newt Gingrich"
+    },
+    "births": [
+      {
+        "name": "Jean-Jacques Rousseau",
+        "description": "Filósofo, escritor y músico ginebrino cuyas ideas sobre el contrato social, la libertad natural y la educación influyeron profundamente en la Ilustración y en las revoluciones americana y francesa.",
+        "year": 1712
+      },
+      {
+        "name": "Thurgood Marshall",
+        "description": "Abogado y juez estadounidense que ganó el histórico caso Brown contra la Junta de Educación ante el Tribunal Supremo en 1954 y fue el primer afroamericano en ser juez del Tribunal Supremo de EE. UU.",
+        "year": 1908
+      },
+      {
+        "name": "Hermann Hesse",
+        "description": "Novelista y poeta suizo-alemán, Premio Nobel de Literatura en 1946, autor de Siddhartha, El lobo estepario y El juego de abalorios, obras que exploran la espiritualidad y la búsqueda del yo.",
+        "year": 1877
+      }
+    ],
+    "events": [
+      {
+        "title": "Asesinato de James Garfield",
+        "description": "El 2 de julio de 1881, el presidente de Estados Unidos James A. Garfield fue baleado en Washington D.C. por Charles J. Guiteau. Garfield sobrevivió dos meses hasta morir de las heridas y la mala praxis médica.",
+        "year": 1881
+      },
+      {
+        "title": "Amelia Earhart desaparece sobre el Pacífico",
+        "description": "El 2 de julio de 1937, la aviadora Amelia Earhart y su navegante Fred Noonan desaparecieron sobre el océano Pacífico durante su intento de circunnavegación del globo. Nunca fueron encontrados.",
+        "year": 1937
+      },
+      {
+        "title": "Ley de Derechos Civiles de EE. UU.",
+        "description": "El 2 de julio de 1964, el presidente Lyndon B. Johnson firmó la Ley de Derechos Civiles, que prohibía la discriminación por raza, color, religión, sexo u origen nacional en Estados Unidos.",
+        "year": 1964
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Bernardine Realino",
+        "type": "Jesuit Priest",
+        "description": "An Italian jurist of the 16th century who became a Jesuit. He served as vicar of Lecce for forty years, where he became universally recognised as a figure of holiness. Canonised in 1947."
+      },
+      {
+        "name": "Saint Otto of Bamberg",
+        "type": "Bishop and Missionary",
+        "description": "Bishop of Bamberg (Bavaria) in the 12th century, known as the Apostle of Pomerania for his intensive missionary work among the Slavic peoples of northern Europe."
+      },
+      {
+        "name": "Blessed Angela of Foligno",
+        "type": "Mystic",
+        "description": "An Umbrian mystic of the 13th century whose life moved from worldly frivolity to profound spiritual conversion. Her revelations, recorded in the Book of Visions, made her a key reference in Christian mysticism."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World UFO Day",
+        "description": "An informal commemoration created to mark the alleged 1947 Roswell incident and promote the opening of government files on unidentified aerial phenomena."
+      },
+      {
+        "name": "Constitution Day (Marshall Islands region)",
+        "description": "Commemorates the approval of the Constitution of the Marshall Islands as part of the process leading to free association with the United States."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world.",
+      "author": "Louis Pasteur",
+      "context": "On 2 July 1881, Pasteur presented the results of his anthrax vaccine experiment at Pouilly-le-Fort, proving that vaccination worked in farm animals and opening the way for modern immunology."
+    },
+    "motivationalQuote": {
+      "text": "Perseverance is the hard work you do after you get tired of doing the hard work you already did.",
+      "author": "Newt Gingrich"
+    },
+    "births": [
+      {
+        "name": "Jean-Jacques Rousseau",
+        "description": "Genevan philosopher, writer, and musician whose ideas on the social contract, natural freedom, and education deeply influenced the Enlightenment and the American and French Revolutions.",
+        "year": 1712
+      },
+      {
+        "name": "Thurgood Marshall",
+        "description": "American lawyer and judge who won the landmark Brown v. Board of Education case before the Supreme Court in 1954, and became the first African American Supreme Court Justice.",
+        "year": 1908
+      },
+      {
+        "name": "Hermann Hesse",
+        "description": "Swiss-German novelist and poet, Nobel Prize in Literature 1946, author of Siddhartha, Steppenwolf, and The Glass Bead Game, works exploring spirituality and the search for the self.",
+        "year": 1877
+      }
+    ],
+    "events": [
+      {
+        "title": "Shooting of President James Garfield",
+        "description": "On 2 July 1881, US President James A. Garfield was shot in Washington D.C. by Charles J. Guiteau. Garfield survived two months before dying from his wounds and medical malpractice.",
+        "year": 1881
+      },
+      {
+        "title": "Amelia Earhart disappears over the Pacific",
+        "description": "On 2 July 1937, aviator Amelia Earhart and her navigator Fred Noonan disappeared over the Pacific Ocean during their attempt to circumnavigate the globe. They were never found.",
+        "year": 1937
+      },
+      {
+        "title": "US Civil Rights Act signed into law",
+        "description": "On 2 July 1964, President Lyndon B. Johnson signed the Civil Rights Act, which prohibited discrimination based on race, colour, religion, sex, or national origin in the United States.",
+        "year": 1964
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Bernardino Realino",
+        "type": "Sacerdote jesuíta",
+        "description": "Jurista italiano do século XVI convertido em jesuíta. Foi vigário da cidade de Lecce durante quarenta anos, onde se tornou uma figura de santidade reconhecida por todos. Canonizado em 1947."
+      },
+      {
+        "name": "São Oto de Bamberg",
+        "type": "Bispo e missionário",
+        "description": "Bispo de Bamberg (Baviera) no século XII, conhecido como Apóstolo da Pomerânia pela sua intensa atividade missionária entre os povos eslavos do norte da Europa."
+      },
+      {
+        "name": "Beata Ângela de Foligno",
+        "type": "Mística",
+        "description": "Mística úmbria do século XIII cuja vida passou da frivolidade mundana a uma profunda conversão espiritual. As suas revelações, recolhidas no Livro das Visões, tornaram-na referência do misticismo cristão."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial do OVNI",
+        "description": "Comemoração informal criada para recordar o suposto incidente de Roswell de 1947 e promover a abertura de arquivos governamentais sobre fenômenos aéreos não identificados."
+      },
+      {
+        "name": "Dia da Constituição (Ilhas Marshall)",
+        "description": "Comemora a aprovação da Constituição das Ilhas Marshall como parte do processo que levou à livre associação com os Estados Unidos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A ciência não conhece fronteiras porque o conhecimento pertence à humanidade e é a tocha que ilumina o mundo.",
+      "author": "Louis Pasteur",
+      "context": "Em 2 de julho de 1881, Pasteur apresentou os resultados do seu experimento com a vacina contra o antraz em Pouilly-le-Fort, provando que a vacinação funcionava em animais de fazenda e abrindo o caminho para a imunologia moderna."
+    },
+    "motivationalQuote": {
+      "text": "A perseverança é o trabalho duro que você faz depois de se cansar do trabalho duro que já fez.",
+      "author": "Newt Gingrich"
+    },
+    "births": [
+      {
+        "name": "Jean-Jacques Rousseau",
+        "description": "Filósofo, escritor e músico genebrino cujas ideias sobre o contrato social, a liberdade natural e a educação influenciaram profundamente o Iluminismo e as revoluções americana e francesa.",
+        "year": 1712
+      },
+      {
+        "name": "Thurgood Marshall",
+        "description": "Advogado e juiz americano que ganhou o histórico caso Brown v. Conselho de Educação no Tribunal Supremo em 1954 e tornou-se o primeiro afro-americano a ser juiz do Supremo Tribunal dos EUA.",
+        "year": 1908
+      },
+      {
+        "name": "Hermann Hesse",
+        "description": "Romancista e poeta suíço-alemão, Prêmio Nobel de Literatura em 1946, autor de Sidarta, O Lobo da Estepe e O Jogo das Contas de Vidro, obras que exploram a espiritualidade e a busca do eu.",
+        "year": 1877
+      }
+    ],
+    "events": [
+      {
+        "title": "Atentado contra o presidente James Garfield",
+        "description": "Em 2 de julho de 1881, o presidente dos EUA James A. Garfield foi baleado em Washington D.C. por Charles J. Guiteau. Garfield sobreviveu dois meses antes de morrer em consequência dos ferimentos e de má prática médica.",
+        "year": 1881
+      },
+      {
+        "title": "Amelia Earhart desaparece sobre o Pacífico",
+        "description": "Em 2 de julho de 1937, a aviadora Amelia Earhart e seu navegador Fred Noonan desapareceram sobre o oceano Pacífico durante a tentativa de dar a volta ao mundo. Jamais foram encontrados.",
+        "year": 1937
+      },
+      {
+        "title": "Lei dos Direitos Civis dos EUA",
+        "description": "Em 2 de julho de 1964, o presidente Lyndon B. Johnson assinou a Lei dos Direitos Civis, que proibia a discriminação por raça, cor, religião, sexo ou origem nacional nos Estados Unidos.",
+        "year": 1964
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Bernardí Realino",
+        "type": "Sacerdot jesuïta",
+        "description": "Jurista italià del segle XVI convertit en jesuïta. Va ser vicari de la ciutat de Lecce durant quaranta anys, on es va convertir en una figura de santedat reconeguda per tothom. Canonitzat el 1947."
+      },
+      {
+        "name": "Sant Otó de Bamberg",
+        "type": "Bisbe i missioner",
+        "description": "Bisbe de Bamberg (Baviera) al segle XII, conegut com l'Apòstol de Pomerània per la seva intensa activitat missionera entre els pobles eslaus del nord d'Europa."
+      },
+      {
+        "name": "Beata Àngela de Foligno",
+        "type": "Mística",
+        "description": "Mística úmbria del segle XIII la vida de la qual va passar de la frivolitat mundana a una profunda conversió espiritual. Les seves revelacions, recollides en el Llibre de les visions, la van convertir en referència del misticisme cristià."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de l'OVNI",
+        "description": "Commemoració informal creada per recordar el suposat incident de Roswell de 1947 i promoure l'obertura d'arxius governamentals sobre fenòmens aeris no identificats."
+      },
+      {
+        "name": "Dia de la Constitució (Illes Marshall)",
+        "description": "Commemora l'aprovació de la Constitució de les Illes Marshall com a part del procés que va portar a la lliure associació amb els Estats Units."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La ciència no coneix fronteres perquè el coneixement pertany a la humanitat i és la torxa que il·lumina el món.",
+      "author": "Louis Pasteur",
+      "context": "El 2 de juliol de 1881, Pasteur va presentar els resultats del seu experiment sobre la vacuna contra l'àntrax a Pouilly-le-Fort, demostrant que la vacunació funcionava en animals de granja i obrint el camí a la immunologia moderna."
+    },
+    "motivationalQuote": {
+      "text": "La perseverança és el treball dur que fas després de cansar-te del treball dur que ja havies fet.",
+      "author": "Newt Gingrich"
+    },
+    "births": [
+      {
+        "name": "Jean-Jacques Rousseau",
+        "description": "Filòsof, escriptor i músic ginebrí les idees del qual sobre el contracte social, la llibertat natural i l'educació van influir profundament en la Il·lustració i en les revolucions americana i francesa.",
+        "year": 1712
+      },
+      {
+        "name": "Thurgood Marshall",
+        "description": "Advocat i jutge americà que va guanyar el cas històric Brown contra la Junta d'Educació davant el Tribunal Suprem el 1954 i va ser el primer afroamericà a ser jutge del Tribunal Suprem dels EUA.",
+        "year": 1908
+      },
+      {
+        "name": "Hermann Hesse",
+        "description": "Novel·lista i poeta suís-alemany, Premi Nobel de Literatura el 1946, autor de Siddharta, El llop estepari i El joc dels botons de vidre, obres que exploren l'espiritualitat i la recerca del jo.",
+        "year": 1877
+      }
+    ],
+    "events": [
+      {
+        "title": "Atemptat contra el president James Garfield",
+        "description": "El 2 de juliol de 1881, el president dels EUA James A. Garfield va ser baleado a Washington D.C. per Charles J. Guiteau. Garfield va sobreviure dos mesos abans de morir a causa de les ferides i la mala praxi mèdica.",
+        "year": 1881
+      },
+      {
+        "title": "Amelia Earhart desapareix sobre el Pacífic",
+        "description": "El 2 de juliol de 1937, l'aviadora Amelia Earhart i el seu navegant Fred Noonan van desaparèixer sobre l'oceà Pacífic durant el seu intent de circumnavegar el globus. Mai van ser trobats.",
+        "year": 1937
+      },
+      {
+        "title": "Llei de Drets Civils dels EUA",
+        "description": "El 2 de juliol de 1964, el president Lyndon B. Johnson va signar la Llei de Drets Civils, que prohibia la discriminació per raça, color, religió, sexe o origen nacional als Estats Units.",
+        "year": 1964
+      }
+    ]
+  }
+}

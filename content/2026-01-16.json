@@ -1,0 +1,255 @@
+{
+  "date": "2026-01-16",
+  "es": {
+    "saints": [
+      {
+        "name": "San Marcelo I Papa",
+        "type": "Papa y Mártir",
+        "description": "Papa del siglo IV, elegido en 308 después de una sede vacante de cuatro años. Sufrió numerosas controversias internas en la Iglesia durante las persecuciones de Diocleciano."
+      },
+      {
+        "name": "San Berardo y compañeros mártires",
+        "type": "Mártires franciscanos",
+        "description": "Cinco frailes franciscanos enviados por San Francisco de Asís a evangelizar Marruecos, martirizados por el sultán Abu Yacub en Marrakech el 16 de enero de 1220."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día del Maestro (Tailandia)",
+        "description": "Tailandia celebra el Día del Maestro (Wai Kru) para honrar a los profesores y educadores, parte de la tradición budista de respeto a los que transmiten el conocimiento."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si buscas resultados distintos, no hagas siempre lo mismo.",
+      "author": "Albert Einstein",
+      "context": "Atribuida al físico alemán Albert Einstein, esta cita es uno de los principios fundamentales del pensamiento creativo e innovador, a menudo interpretada como la definición de la locura."
+    },
+    "motivationalQuote": {
+      "text": "Cada experto fue una vez un principiante.",
+      "author": "Helen Hayes"
+    },
+    "births": [
+      {
+        "name": "Moisés",
+        "description": "Figura religiosa central del judaísmo, el cristianismo y el islam. Según el relato bíblico, fue el profeta que liberó al pueblo de Israel de la esclavitud en Egipto y recibió los Diez Mandamientos.",
+        "year": -1300
+      },
+      {
+        "name": "John Carpenter",
+        "description": "Director y compositor de cine estadounidense, autor de obras maestras del cine de terror como Halloween, La cosa y Escape de Nueva York.",
+        "year": 1948
+      },
+      {
+        "name": "Kate Moss",
+        "description": "Supermodelo británica, icono del movimiento «heroin chic» de los años 90 y una de las modelos más influyentes de la historia de la moda.",
+        "year": 1974
+      }
+    ],
+    "events": [
+      {
+        "title": "Ratificación de la Prohibición en Estados Unidos",
+        "description": "La Decimoctava Enmienda a la Constitución de los Estados Unidos, que prohibía la fabricación y venta de alcohol, entró en vigor, iniciando la era de la Prohibición.",
+        "year": 1920
+      },
+      {
+        "title": "Primera Guerra del Golfo: inicio de la Operación Tormenta del Desierto",
+        "description": "Las fuerzas de la coalición internacional liderada por Estados Unidos lanzaron la Operación Tormenta del Desierto contra Iraq, en respuesta a la invasión de Kuwait.",
+        "year": 1991
+      },
+      {
+        "title": "Coronación de Carlos I de España (futuro Carlos V del Sacro Imperio)",
+        "description": "Carlos I fue coronado rey de España en Valladolid, convirtiéndose en el soberano de uno de los mayores imperios de la historia.",
+        "year": 1516
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Marcellus I, Pope",
+        "type": "Pope and Martyr",
+        "description": "Pope of the 4th century, elected in 308 after a four-year vacancy. He faced numerous internal controversies in the Church during the persecutions of Diocletian."
+      },
+      {
+        "name": "Saints Berard and Companions, Martyrs",
+        "type": "Franciscan Martyrs",
+        "description": "Five Franciscan friars sent by Saint Francis of Assisi to evangelise Morocco, martyred by Sultan Abu Yaqub in Marrakech on 16 January 1220."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Teacher's Day (Thailand)",
+        "description": "Thailand celebrates Teacher's Day (Wai Kru) to honour teachers and educators, part of the Buddhist tradition of respect for those who transmit knowledge."
+      }
+    ],
+    "historicalQuote": {
+      "text": "If you want different results, do not do the same things.",
+      "author": "Albert Einstein",
+      "context": "Attributed to German physicist Albert Einstein, this quote is one of the fundamental principles of creative and innovative thinking, often interpreted as the definition of insanity."
+    },
+    "motivationalQuote": {
+      "text": "Every expert was once a beginner.",
+      "author": "Helen Hayes"
+    },
+    "births": [
+      {
+        "name": "John Carpenter",
+        "description": "American film director and composer, creator of horror masterpieces such as Halloween, The Thing and Escape from New York.",
+        "year": 1948
+      },
+      {
+        "name": "Kate Moss",
+        "description": "British supermodel, icon of the 1990s 'heroin chic' movement and one of the most influential models in fashion history.",
+        "year": 1974
+      },
+      {
+        "name": "Lin-Manuel Miranda",
+        "description": "American playwright, composer and actor, creator of the Broadway musicals In the Heights and Hamilton, winner of the Pulitzer Prize, Tony and Grammy.",
+        "year": 1980
+      }
+    ],
+    "events": [
+      {
+        "title": "US Prohibition ratified",
+        "description": "The Eighteenth Amendment to the United States Constitution, prohibiting the manufacture and sale of alcohol, came into force, beginning the Prohibition era.",
+        "year": 1920
+      },
+      {
+        "title": "Gulf War: Operation Desert Storm begins",
+        "description": "Coalition forces led by the United States launched Operation Desert Storm against Iraq in response to Iraq's invasion of Kuwait.",
+        "year": 1991
+      },
+      {
+        "title": "Charles I crowned King of Spain",
+        "description": "Charles I was crowned King of Spain in Valladolid, becoming the sovereign of one of the largest empires in history (later Holy Roman Emperor Charles V).",
+        "year": 1516
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Marcelo I, Papa",
+        "type": "Papa e Mártir",
+        "description": "Papa do século IV, eleito em 308 após uma sede vacante de quatro anos. Enfrentou numerosas controvérsias internas na Igreja durante as perseguições de Diocleciano."
+      },
+      {
+        "name": "Santos Berardo e Companheiros Mártires",
+        "type": "Mártires Franciscanos",
+        "description": "Cinco frades franciscanos enviados por São Francisco de Assis para evangelizar Marrocos, martirizados pelo sultão Abu Yaqub em Marrakech em 16 de janeiro de 1220."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia do Professor (Tailândia)",
+        "description": "A Tailândia celebra o Dia do Professor (Wai Kru) para homenagear professores e educadores, parte da tradição budista de respeito àqueles que transmitem o conhecimento."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Se você quer resultados diferentes, não faça sempre a mesma coisa.",
+      "author": "Albert Einstein",
+      "context": "Atribuída ao físico alemão Albert Einstein, esta citação é um dos princípios fundamentais do pensamento criativo e inovador, muitas vezes interpretada como a definição de loucura."
+    },
+    "motivationalQuote": {
+      "text": "Todo especialista já foi um dia um principiante.",
+      "author": "Helen Hayes"
+    },
+    "births": [
+      {
+        "name": "John Carpenter",
+        "description": "Diretor e compositor de cinema americano, autor de obras-primas do cinema de terror como Halloween, A Coisa e Fuga de Nova York.",
+        "year": 1948
+      },
+      {
+        "name": "Kate Moss",
+        "description": "Supermodelo britânica, ícone do movimento «heroin chic» dos anos 90 e uma das modelos mais influentes da história da moda.",
+        "year": 1974
+      },
+      {
+        "name": "Lin-Manuel Miranda",
+        "description": "Dramaturgo, compositor e ator americano, criador dos musicais da Broadway In the Heights e Hamilton, vencedor do Prêmio Pulitzer, Tony e Grammy.",
+        "year": 1980
+      }
+    ],
+    "events": [
+      {
+        "title": "Proibição nos EUA ratificada",
+        "description": "A Décima Oitava Emenda à Constituição dos Estados Unidos, que proibia a fabricação e venda de álcool, entrou em vigor, iniciando a era da Proibição.",
+        "year": 1920
+      },
+      {
+        "title": "Guerra do Golfo: início da Operação Tempestade no Deserto",
+        "description": "As forças da coalizão lideradas pelos Estados Unidos lançaram a Operação Tempestade no Deserto contra o Iraque, em resposta à invasão do Kuwait pelo Iraque.",
+        "year": 1991
+      },
+      {
+        "title": "Carlos I coroado Rei da Espanha",
+        "description": "Carlos I foi coroado Rei da Espanha em Valladolid, tornando-se o soberano de um dos maiores impérios da história (mais tarde Imperador do Sacro Império Romano Carlos V).",
+        "year": 1516
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Marcel·lí I, Papa",
+        "type": "Papa i Màrtir",
+        "description": "Papa del segle IV, elegit el 308 després d'una seu vacant de quatre anys. Va afrontar nombroses controvèrsies internes a l'Església durant les persecucions de Dioclecià."
+      },
+      {
+        "name": "Sants Berard i Companys Màrtirs",
+        "type": "Màrtirs franciscans",
+        "description": "Cinc frares franciscans enviats per Sant Francesc d'Assís a evangelitzar el Marroc, martiritzats pel sultà Abu Yaqub a Marràkeix el 16 de gener de 1220."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia del Mestre (Tailàndia)",
+        "description": "Tailàndia celebra el Dia del Mestre (Wai Kru) per honorar els professors i educadors, part de la tradició budista de respecte envers els qui transmeten el coneixement."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si vols resultats diferents, no facis sempre el mateix.",
+      "author": "Albert Einstein",
+      "context": "Atribuïda al físic alemany Albert Einstein, aquesta cita és un dels principis fonamentals del pensament creatiu i innovador, sovint interpretada com la definició de la bogeria."
+    },
+    "motivationalQuote": {
+      "text": "Tot expert va ser una vegada un principiant.",
+      "author": "Helen Hayes"
+    },
+    "births": [
+      {
+        "name": "John Carpenter",
+        "description": "Director i compositor de cinema nord-americà, autor d'obres mestres del cinema de terror com Halloween, La cosa i Fugida de Nova York.",
+        "year": 1948
+      },
+      {
+        "name": "Kate Moss",
+        "description": "Supermodel britànica, icona del moviment «heroin chic» dels anys 90 i una de les models més influents de la història de la moda.",
+        "year": 1974
+      },
+      {
+        "name": "Lin-Manuel Miranda",
+        "description": "Dramaturg, compositor i actor nord-americà, creador dels musicals de Broadway In the Heights i Hamilton, guanyador del Premi Pulitzer, el Tony i el Grammy.",
+        "year": 1980
+      }
+    ],
+    "events": [
+      {
+        "title": "La Prohibició als EUA és ratificada",
+        "description": "La Divuitena Esmena a la Constitució dels Estats Units, que prohibia la fabricació i venda d'alcohol, va entrar en vigor, iniciant l'era de la Prohibició.",
+        "year": 1920
+      },
+      {
+        "title": "Guerra del Golf: inici de l'Operació Tempesta del Desert",
+        "description": "Les forces de la coalició liderada pels Estats Units van llançar l'Operació Tempesta del Desert contra l'Iraq, en resposta a la invasió de Kuwait per part de l'Iraq.",
+        "year": 1991
+      },
+      {
+        "title": "Carles I coronat Rei d'Espanya",
+        "description": "Carles I va ser coronat Rei d'Espanya a Valladolid, convertint-se en el sobirà d'un dels grans imperis de la història (més tard Emperador del Sacre Imperi Romà Carles V).",
+        "year": 1516
+      }
+    ]
+  }
+}

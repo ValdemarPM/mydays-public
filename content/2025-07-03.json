@@ -1,0 +1,271 @@
+{
+  "date": "2025-07-03",
+  "es": {
+    "saints": [
+      {
+        "name": "Santo Tomás Apóstol",
+        "type": "Apóstol",
+        "description": "Uno de los doce apóstoles de Jesús, conocido por su incredulidad ante la Resurrección hasta que vio al Resucitado. Según la tradición, evangelizó la India y murió mártir en Madrás. Patrón de los arquitectos y de la India."
+      },
+      {
+        "name": "San Heliodoro de Altino",
+        "type": "Obispo",
+        "description": "Amigo íntimo de San Jerónimo y obispo de Altino (norte de Italia) en el siglo IV. Participó activamente en los debates teológicos de la época y apoyó a Jerónimo en su traducción de la Biblia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de Bielorrusia",
+        "description": "Bielorrusia celebra su independencia de la Unión Soviética, proclamada el 25 de agosto de 1991, pero la fiesta nacional oficial se celebra el 3 de julio en memoria de la liberación de Minsk de la ocupación nazi en 1944."
+      },
+      {
+        "name": "Día Internacional sin Bolsas de Plástico",
+        "description": "Jornada de concienciación promovida por organizaciones medioambientales para reducir el uso de bolsas de plástico de un solo uso y fomentar alternativas sostenibles."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La duda es el origen de la sabiduría.",
+      "author": "René Descartes",
+      "context": "La festividad de Santo Tomás, el apóstol que dudó de la Resurrección, invita a reflexionar sobre el valor de la duda como motor del pensamiento crítico, que Descartes convirtió en fundamento de su filosofía."
+    },
+    "motivationalQuote": {
+      "text": "No esperes el momento perfecto. Coge el momento y hazlo perfecto.",
+      "author": "Zoey Sayward"
+    },
+    "births": [
+      {
+        "name": "Franz Kafka",
+        "description": "Escritor checo de lengua alemana, uno de los más influyentes de la literatura del siglo XX. Autor de La metamorfosis, El proceso y El castillo, obras que exploran la alienación, la burocracia y la angustia existencial.",
+        "year": 1883
+      },
+      {
+        "name": "Ken Russell",
+        "description": "Director de cine británico conocido por películas de vanguardia como Tommy, Mujeres enamoradas y Lisztomania, que combinaban lo visual con la música clásica de forma transgresora.",
+        "year": 1927
+      },
+      {
+        "name": "Tom Stoppard",
+        "description": "Dramaturgo y guionista británico-checo, autor de Rosencrantz y Guildenstern han muerto y de los guiones de Brazil y Shakespeare in Love (ganador del Oscar al mejor guion original en 1999).",
+        "year": 1937
+      }
+    ],
+    "events": [
+      {
+        "title": "Batalla de Gettysburg (tercer día)",
+        "description": "El 3 de julio de 1863 tuvo lugar la famosa «Carga de Pickett», el desesperado asalto confederado a las líneas de la Unión que selló la derrota sudista en Gettysburg, punto de inflexión de la Guerra Civil Americana.",
+        "year": 1863
+      },
+      {
+        "title": "El Ejército Rojo libera Minsk",
+        "description": "El 3 de julio de 1944, las tropas soviéticas liberaron Minsk (Bielorrusia) de la ocupación alemana durante la Operación Bagration, uno de los mayores éxitos militares soviéticos de la Segunda Guerra Mundial.",
+        "year": 1944
+      },
+      {
+        "title": "Derribo del vuelo 655 de Iran Air",
+        "description": "El 3 de julio de 1988, el crucero estadounidense USS Vincennes derribó por error el vuelo de pasajeros 655 de Iran Air sobre el golfo Pérsico, causando la muerte de 290 personas.",
+        "year": 1988
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Thomas the Apostle",
+        "type": "Apostle",
+        "description": "One of the twelve apostles of Jesus, known for his disbelief in the Resurrection until he saw the Risen Christ. According to tradition, he evangelised India and died a martyr in Madras. Patron of architects and India."
+      },
+      {
+        "name": "Saint Heliodorus of Altino",
+        "type": "Bishop",
+        "description": "Close friend of Saint Jerome and bishop of Altino (northern Italy) in the 4th century. He actively participated in the theological debates of the era and supported Jerome in his translation of the Bible."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Independence Day of Belarus",
+        "description": "Belarus celebrates its independence from the Soviet Union, proclaimed on 25 August 1991, but the official national holiday falls on 3 July to commemorate the liberation of Minsk from Nazi occupation in 1944."
+      },
+      {
+        "name": "International Plastic Bag Free Day",
+        "description": "An awareness day promoted by environmental organisations to reduce the use of single-use plastic bags and encourage sustainable alternatives."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Doubt is the origin of wisdom.",
+      "author": "René Descartes",
+      "context": "The feast of Saint Thomas, the apostle who doubted the Resurrection, invites reflection on the value of doubt as a driver of critical thinking — a concept Descartes made the foundation of his philosophy."
+    },
+    "motivationalQuote": {
+      "text": "Don't wait for the perfect moment. Take the moment and make it perfect.",
+      "author": "Zoey Sayward"
+    },
+    "births": [
+      {
+        "name": "Franz Kafka",
+        "description": "Czech-born German-language writer, one of the most influential of the 20th century. Author of The Metamorphosis, The Trial, and The Castle — works exploring alienation, bureaucracy, and existential anguish.",
+        "year": 1883
+      },
+      {
+        "name": "Ken Russell",
+        "description": "British film director known for avant-garde films such as Tommy, Women in Love, and Lisztomania, which combined visuals with classical music in a transgressive way.",
+        "year": 1927
+      },
+      {
+        "name": "Tom Stoppard",
+        "description": "British-Czech playwright and screenwriter, author of Rosencrantz and Guildenstern Are Dead and screenplays for Brazil and Shakespeare in Love (Academy Award for Best Original Screenplay, 1999).",
+        "year": 1937
+      }
+    ],
+    "events": [
+      {
+        "title": "Battle of Gettysburg — Pickett's Charge",
+        "description": "On 3 July 1863, the famous 'Pickett's Charge' took place — the desperate Confederate assault on Union lines that sealed the Southern defeat at Gettysburg, a turning point of the American Civil War.",
+        "year": 1863
+      },
+      {
+        "title": "Red Army liberates Minsk",
+        "description": "On 3 July 1944, Soviet troops liberated Minsk (Belarus) from German occupation during Operation Bagration, one of the greatest Soviet military successes of World War II.",
+        "year": 1944
+      },
+      {
+        "title": "Iran Air Flight 655 shot down",
+        "description": "On 3 July 1988, the US cruiser USS Vincennes mistakenly shot down Iran Air passenger Flight 655 over the Persian Gulf, killing all 290 people on board.",
+        "year": 1988
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Tomé Apóstolo",
+        "type": "Apóstolo",
+        "description": "Um dos doze apóstolos de Jesus, conhecido pela sua incredulidade diante da Ressurreição até ver o Ressuscitado. Segundo a tradição, evangelizou a Índia e morreu mártir em Madras. Padroeiro dos arquitetos e da Índia."
+      },
+      {
+        "name": "São Heliodoro de Altino",
+        "type": "Bispo",
+        "description": "Amigo íntimo de São Jerônimo e bispo de Altino (norte da Itália) no século IV. Participou ativamente nos debates teológicos da época e apoiou Jerônimo na sua tradução da Bíblia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência da Bielorrússia",
+        "description": "A Bielorrússia celebra a sua independência da União Soviética, proclamada em 25 de agosto de 1991, mas o feriado nacional oficial cai em 3 de julho em memória da libertação de Minsk da ocupação nazista em 1944."
+      },
+      {
+        "name": "Dia Internacional Sem Sacolas Plásticas",
+        "description": "Jornada de conscientização promovida por organizações ambientais para reduzir o uso de sacolas plásticas descartáveis e incentivar alternativas sustentáveis."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A dúvida é a origem da sabedoria.",
+      "author": "René Descartes",
+      "context": "A festa de São Tomé, o apóstolo que duvidou da Ressurreição, convida a refletir sobre o valor da dúvida como motor do pensamento crítico, que Descartes tornou o fundamento da sua filosofia."
+    },
+    "motivationalQuote": {
+      "text": "Não espere pelo momento perfeito. Pegue o momento e torne-o perfeito.",
+      "author": "Zoey Sayward"
+    },
+    "births": [
+      {
+        "name": "Franz Kafka",
+        "description": "Escritor tcheco de língua alemã, um dos mais influentes do século XX. Autor de A Metamorfose, O Processo e O Castelo — obras que exploram a alienação, a burocracia e a angústia existencial.",
+        "year": 1883
+      },
+      {
+        "name": "Ken Russell",
+        "description": "Diretor de cinema britânico conhecido por filmes de vanguarda como Tommy, Mulheres Apaixonadas e Lisztomania, que combinavam o visual com a música clássica de forma transgressive.",
+        "year": 1927
+      },
+      {
+        "name": "Tom Stoppard",
+        "description": "Dramaturgo e roteirista britânico-tcheco, autor de Rosencrantz e Guildenstern Estão Mortos e dos roteiros de Brazil e Shakespeare Apaixonado (Oscar de Melhor Roteiro Original em 1999).",
+        "year": 1937
+      }
+    ],
+    "events": [
+      {
+        "title": "Batalha de Gettysburg — Carga de Pickett",
+        "description": "Em 3 de julho de 1863, ocorreu a famosa 'Carga de Pickett' — o desesperado ataque confederado às linhas da União que selou a derrota sulista em Gettysburg, ponto de viragem da Guerra Civil Americana.",
+        "year": 1863
+      },
+      {
+        "title": "Exército Vermelho liberta Minsk",
+        "description": "Em 3 de julho de 1944, as tropas soviéticas libertaram Minsk (Bielorrússia) da ocupação alemã durante a Operação Bagration, um dos maiores sucessos militares soviéticos da Segunda Guerra Mundial.",
+        "year": 1944
+      },
+      {
+        "title": "Voo 655 da Iran Air abatido",
+        "description": "Em 3 de julho de 1988, o cruzador americano USS Vincennes abateu por engano o voo de passageiros 655 da Iran Air sobre o golfo Pérsico, matando todas as 290 pessoas a bordo.",
+        "year": 1988
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Tomàs Apòstol",
+        "type": "Apòstol",
+        "description": "Un dels dotze apòstols de Jesús, conegut per la seva incredulitat davant la Resurrecció fins que va veure el Ressuscitat. Segons la tradició, va evangelitzar l'Índia i va morir màrtir a Madràs. Patró dels arquitectes i de l'Índia."
+      },
+      {
+        "name": "Sant Heliodor d'Altino",
+        "type": "Bisbe",
+        "description": "Amic íntim de Sant Jeroni i bisbe d'Altino (nord d'Itàlia) al segle IV. Va participar activament en els debats teològics de l'època i va donar suport a Jeroni en la seva traducció de la Bíblia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència de Bielorússia",
+        "description": "Bielorússia celebra la seva independència de la Unió Soviètica, proclamada el 25 d'agost de 1991, però la festa nacional oficial cau el 3 de juliol en record de l'alliberament de Minsk de l'ocupació nazi el 1944."
+      },
+      {
+        "name": "Dia Internacional sense Bosses de Plàstic",
+        "description": "Jornada de sensibilització promoguda per organitzacions mediambientals per reduir l'ús de bosses de plàstic d'un sol ús i fomentar alternatives sostenibles."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El dubte és l'origen de la saviesa.",
+      "author": "René Descartes",
+      "context": "La festa de Sant Tomàs, l'apòstol que va dubtar de la Resurrecció, convida a reflexionar sobre el valor del dubte com a motor del pensament crític, que Descartes va convertir en fonament de la seva filosofia."
+    },
+    "motivationalQuote": {
+      "text": "No esperis el moment perfecte. Agafa el moment i fes-lo perfecte.",
+      "author": "Zoey Sayward"
+    },
+    "births": [
+      {
+        "name": "Franz Kafka",
+        "description": "Escriptor txec de llengua alemanya, un dels més influents del segle XX. Autor de La metamorfosi, El procés i El castell — obres que exploren l'alienació, la burocràcia i l'angoixa existencial.",
+        "year": 1883
+      },
+      {
+        "name": "Ken Russell",
+        "description": "Director de cinema britànic conegut per pel·lícules d'avantguarda com Tommy, Dones enamorades i Lisztomania, que combinaven el visual amb la música clàssica de forma transgressive.",
+        "year": 1927
+      },
+      {
+        "name": "Tom Stoppard",
+        "description": "Dramaturg i guionista britànic-txec, autor de Rosencrantz i Guildenstern han mort i dels guions de Brazil i Shakespeare in Love (Oscar al millor guió original el 1999).",
+        "year": 1937
+      }
+    ],
+    "events": [
+      {
+        "title": "Batalla de Gettysburg — Càrrega de Pickett",
+        "description": "El 3 de juliol de 1863 va tenir lloc la famosa 'Càrrega de Pickett' — l'assalt confederat desesperant a les línies de la Unió que va segellar la derrota sudista a Gettysburg, punt d'inflexió de la Guerra Civil Americana.",
+        "year": 1863
+      },
+      {
+        "title": "L'Exèrcit Roig allibera Minsk",
+        "description": "El 3 de juliol de 1944, les tropes soviètiques van alliberar Minsk (Bielorússia) de l'ocupació alemanya durant l'Operació Bagration, un dels majors èxits militars soviètics de la Segona Guerra Mundial.",
+        "year": 1944
+      },
+      {
+        "title": "Vol 655 d'Iran Air abatut",
+        "description": "El 3 de juliol de 1988, el creuer americà USS Vincennes va abattre per error el vol de passatgers 655 d'Iran Air sobre el golf Pèrsic, causant la mort de les 290 persones a bord.",
+        "year": 1988
+      }
+    ]
+  }
+}

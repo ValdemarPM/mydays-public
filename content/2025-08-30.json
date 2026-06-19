@@ -1,0 +1,291 @@
+{
+  "date": "2025-08-30",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Margarita de Cortona",
+        "type": "Penitente terciaria",
+        "description": "Terciaria franciscana italiana (1247–1297). Tras una vida mundana, su conversión la llevó a una intensa vida de penitencia y servicio a los pobres en Cortona. Canonizada en 1728 por Benedicto XIII. Patrona de las mujeres solteras y las que buscan reconciliación."
+      },
+      {
+        "name": "San Félix y San Adauto",
+        "type": "Mártires",
+        "description": "Sacerdote y laico romanos martirizados durante las persecuciones del siglo IV. Su memoria se conserva en el martirologio romano sin mayores detalles biográficos, lo que les convierte en testimonios anónimos de la fe primitiva."
+      },
+      {
+        "name": "Beata Bronislawa de Polonia",
+        "type": "Virgen",
+        "description": "Religiosa de la Orden Premostratense del siglo XIII (1203–1259), prima de San Jacinto. Conocida por sus visiones y su vida de profunda contemplación en el monasterio de Zwierzyniec, cerca de Cracovia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de las Víctimas de Desapariciones Forzadas",
+        "description": "Establecido por la ONU para el 30 de agosto. Recuerda a las víctimas de desapariciones forzadas cometidas por Estados y grupos armados en todo el mundo, y exige la rendición de cuentas de los responsables."
+      },
+      {
+        "name": "Día de la Independencia de Kazajistán",
+        "description": "Kazajistán celebra el 30 de agosto como Día de la Constitución, fecha en que en 1995 fue adoptada la actual Constitución de la República de Kazajistán."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La vida es breve, el arte es largo, la ocasión fugaz.",
+      "author": "Hipócrates",
+      "context": "Aforismo del padre de la medicina occidental (460–370 a.C.), interpretado como una exhortación a aprovechar el tiempo y dominar el oficio antes de que la vida llegue a su fin. Ha resonado a través de los siglos en disciplinas tan diversas como la medicina, la filosofía y las artes."
+    },
+    "motivationalQuote": {
+      "text": "El secreto para salir adelante es simplemente empezar.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Mary Shelley",
+        "description": "Escritora inglesa (1797–1851), autora de Frankenstein, o el moderno Prometeo (1818), considerada la primera novela de ciencia ficción de la historia. Esposa del poeta Percy Bysshe Shelley.",
+        "year": 1797
+      },
+      {
+        "name": "Ernest Rutherford",
+        "description": "Físico neozelandés (1871–1937), padre de la física nuclear. Descubrió la estructura del átomo y la desintegración radiactiva; ganó el Premio Nobel de Química en 1908.",
+        "year": 1871
+      },
+      {
+        "name": "Cameron Diaz",
+        "description": "Actriz estadounidense conocida por su energía y versatilidad en películas como The Mask, Algo pasa con Mary, Vanilla Sky y Gangs of New York. Una de las actrices más taquilleras de los años 90 y 2000.",
+        "year": 1972
+      }
+    ],
+    "events": [
+      {
+        "title": "Rendición de Japón — fin oficial de la Segunda Guerra Mundial",
+        "description": "El 2 de septiembre de 1945 se firmó la rendición formal de Japón a bordo del USS Missouri, pero el 30 de agosto de 1945 el general MacArthur desembarcó en el aeropuerto de Atsugi, Japón, marcando el inicio de la ocupación aliada.",
+        "year": 1945
+      },
+      {
+        "title": "Timor Oriental vota la independencia",
+        "description": "El 30 de agosto de 1999, en un referéndum supervisado por la ONU, el 78,5% de la población de Timor Oriental votó a favor de la independencia de Indonesia, en un proceso que desembocó en una grave crisis humanitaria y en la independencia formal en 2002.",
+        "year": 1999
+      },
+      {
+        "title": "Asesinato de León Trotsky (muerte)",
+        "description": "Aunque el ataque fue el 20 de agosto de 1940, Trotsky murió el 21. El 30 de agosto de 1967, el Che Guevara fue capturado en Bolivia, siendo ejecutado el 9 de octubre de ese año, cerrando otro capítulo de la historia revolucionaria latinoamericana.",
+        "year": 1967
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Margaret of Cortona",
+        "type": "Penitent tertiary",
+        "description": "Italian Franciscan tertiary (1247–1297). After a worldly life, her conversion led her to an intense life of penance and service to the poor in Cortona. Canonised in 1728 by Benedict XIII. Patron of single women and those seeking reconciliation."
+      },
+      {
+        "name": "Saints Felix and Adauctus",
+        "type": "Martyrs",
+        "description": "Roman priest and layman martyred during the persecutions of the 4th century. Their memory is preserved in the Roman Martyrology without detailed biographies, making them anonymous witnesses of the primitive faith."
+      },
+      {
+        "name": "Blessed Bronislava of Poland",
+        "type": "Virgin",
+        "description": "13th-century Norbertine nun (1203–1259), cousin of Saint Hyacinth. Known for her visions and life of profound contemplation at the monastery of Zwierzyniec near Kraków."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of the Victims of Enforced Disappearances",
+        "description": "Established by the UN for 30 August. It remembers the victims of enforced disappearances committed by states and armed groups worldwide, and demands accountability from those responsible."
+      },
+      {
+        "name": "Constitution Day of Kazakhstan",
+        "description": "Kazakhstan celebrates 30 August as Constitution Day, the date on which the current Constitution of the Republic of Kazakhstan was adopted in 1995."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Life is short, art is long, opportunity fleeting.",
+      "author": "Hippocrates",
+      "context": "An aphorism by the father of Western medicine (460–370 BC), interpreted as an exhortation to make use of time and master one's craft before life reaches its end. It has resonated through the centuries across disciplines as diverse as medicine, philosophy, and the arts."
+    },
+    "motivationalQuote": {
+      "text": "The secret of getting ahead is getting started.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Mary Shelley",
+        "description": "English writer (1797–1851), author of Frankenstein, or The Modern Prometheus (1818), considered the first science fiction novel in history. Wife of the poet Percy Bysshe Shelley.",
+        "year": 1797
+      },
+      {
+        "name": "Ernest Rutherford",
+        "description": "New Zealand physicist (1871–1937), father of nuclear physics. He discovered the structure of the atom and radioactive disintegration; he won the Nobel Prize in Chemistry in 1908.",
+        "year": 1871
+      },
+      {
+        "name": "Cameron Diaz",
+        "description": "American actress known for her energy and versatility in films such as The Mask, There's Something About Mary, Vanilla Sky, and Gangs of New York. One of the highest-grossing actresses of the 1990s and 2000s.",
+        "year": 1972
+      }
+    ],
+    "events": [
+      {
+        "title": "General MacArthur lands in Japan — Allied occupation begins",
+        "description": "On 30 August 1945, General Douglas MacArthur landed at Atsugi airfield in Japan, marking the beginning of the Allied occupation and the final chapter of the Second World War in the Pacific.",
+        "year": 1945
+      },
+      {
+        "title": "East Timor votes for independence",
+        "description": "On 30 August 1999, in a UN-supervised referendum, 78.5% of the East Timorese population voted in favour of independence from Indonesia, a process that led to a serious humanitarian crisis and formal independence in 2002.",
+        "year": 1999
+      },
+      {
+        "title": "Che Guevara captured in Bolivia",
+        "description": "On 30 August 1967, Ernesto 'Che' Guevara was captured by Bolivian forces, and executed on 9 October 1967, closing another chapter in Latin American revolutionary history.",
+        "year": 1967
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Margarida de Cortona",
+        "type": "Penitente terciária",
+        "description": "Terciária franciscana italiana (1247–1297). Após uma vida mundana, a sua conversão levou-a a uma intensa vida de penitência e serviço aos pobres em Cortona. Canonizada em 1728 por Bento XIII. Padroeira das mulheres solteiras e das que buscam reconciliação."
+      },
+      {
+        "name": "Santos Félix e Adauto",
+        "type": "Mártires",
+        "description": "Sacerdote e leigo romanos martirizados durante as perseguições do século IV. A sua memória é preservada no Martirológio Romano sem detalhes biográficos, tornando-os testemunhas anônimas da fé primitiva."
+      },
+      {
+        "name": "Beata Bronislava da Polónia",
+        "type": "Virgem",
+        "description": "Religiosa Norbertina do século XIII (1203–1259), prima de São Jacinto. Conhecida pelas suas visões e vida de profunda contemplação no mosteiro de Zwierzyniec, perto de Cracóvia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional das Vítimas de Desaparecimentos Forçados",
+        "description": "Estabelecido pela ONU para o 30 de agosto. Recorda as vítimas de desaparecimentos forçados cometidos por Estados e grupos armados em todo o mundo, e exige responsabilização dos responsáveis."
+      },
+      {
+        "name": "Dia da Constituição do Cazaquistão",
+        "description": "O Cazaquistão celebra o 30 de agosto como Dia da Constituição, data em que em 1995 foi adotada a atual Constituição da República do Cazaquistão."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A vida é breve, a arte é longa, a oportunidade fugaz.",
+      "author": "Hipócrates",
+      "context": "Aforismo do pai da medicina ocidental (460–370 a.C.), interpretado como uma exortação a aproveitar o tempo e dominar o ofício antes que a vida chegue ao fim. Tem ressoado através dos séculos em disciplinas tão diversas como a medicina, a filosofia e as artes."
+    },
+    "motivationalQuote": {
+      "text": "O segredo para avançar é simplesmente começar.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Mary Shelley",
+        "description": "Escritora inglesa (1797–1851), autora de Frankenstein, ou o Moderno Prometeu (1818), considerada o primeiro romance de ficção científica da história. Esposa do poeta Percy Bysshe Shelley.",
+        "year": 1797
+      },
+      {
+        "name": "Ernest Rutherford",
+        "description": "Físico neozelandês (1871–1937), pai da física nuclear. Descobriu a estrutura do átomo e a desintegração radioativa; ganhou o Prêmio Nobel de Química em 1908.",
+        "year": 1871
+      },
+      {
+        "name": "Cameron Diaz",
+        "description": "Atriz americana conhecida pela sua energia e versatilidade em filmes como The Mask, Algo sobre Mary, Vanilla Sky e Gangues de Nova Iorque. Uma das atrizes com maior bilheteira dos anos 90 e 2000.",
+        "year": 1972
+      }
+    ],
+    "events": [
+      {
+        "title": "General MacArthur desembarca no Japão — início da ocupação aliada",
+        "description": "Em 30 de agosto de 1945, o general Douglas MacArthur desembarcou no aeroporto de Atsugi no Japão, marcando o início da ocupação aliada e o capítulo final da Segunda Guerra Mundial no Pacífico.",
+        "year": 1945
+      },
+      {
+        "title": "Timor-Leste vota a independência",
+        "description": "Em 30 de agosto de 1999, num referendo supervisionado pela ONU, 78,5% da população de Timor-Leste votou a favor da independência da Indonésia, processo que levou a uma grave crise humanitária e à independência formal em 2002.",
+        "year": 1999
+      },
+      {
+        "title": "Che Guevara capturado na Bolívia",
+        "description": "Em 30 de agosto de 1967, Ernesto 'Che' Guevara foi capturado pelas forças bolivianas, sendo executado em 9 de outubro de 1967, encerrando mais um capítulo da história revolucionária latino-americana.",
+        "year": 1967
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Margarida de Cortona",
+        "type": "Penitent terciària",
+        "description": "Terciària franciscana italiana (1247–1297). Després d'una vida mundana, la seva conversió la va portar a una intensa vida de penitència i servei als pobres a Cortona. Canonitzada el 1728 per Benet XIII. Patrona de les dones solteres i les que busquen reconciliació."
+      },
+      {
+        "name": "Sants Fèlix i Adaute",
+        "type": "Màrtirs",
+        "description": "Sacerdot i laic romans martiritzats durant les persecucions del segle IV. La seva memòria es conserva en el Martirologi Romà sense detalls biogràfics, fent-los testimonis anònims de la fe primitiva."
+      },
+      {
+        "name": "Beata Bronislava de Polònia",
+        "type": "Verge",
+        "description": "Religiosa Norbertina del segle XIII (1203–1259), cosina de Sant Jacint. Coneguda per les seves visions i vida de profunda contemplació al monestir de Zwierzyniec, prop de Cracòvia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de les Víctimes de Desaparicions Forçades",
+        "description": "Establert per l'ONU per al 30 d'agost. Recorda les víctimes de desaparicions forçades comeses per estats i grups armats a tot el món, i exigeix la responsabilitat dels responsables."
+      },
+      {
+        "name": "Dia de la Constitució de Kazakhstan",
+        "description": "Kazakhstan celebra el 30 d'agost com a Dia de la Constitució, data en la qual el 1995 va ser adoptada l'actual Constitució de la República de Kazakhstan."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La vida és breu, l'art és llarg, l'ocasió fugaç.",
+      "author": "Hipòcrates",
+      "context": "Aforisme del pare de la medicina occidental (460–370 a.C.), interpretat com una exhortació a aprofitar el temps i dominar l'ofici abans que la vida arribi a la seva fi. Ha ressonat a través dels segles en disciplines tan diverses com la medicina, la filosofia i les arts."
+    },
+    "motivationalQuote": {
+      "text": "El secret per avançar és simplement començar.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Mary Shelley",
+        "description": "Escriptora anglesa (1797–1851), autora de Frankenstein, o el modern Prometeu (1818), considerada la primera novel·la de ciència-ficció de la història. Esposa del poeta Percy Bysshe Shelley.",
+        "year": 1797
+      },
+      {
+        "name": "Ernest Rutherford",
+        "description": "Físic neozelandès (1871–1937), pare de la física nuclear. Va descobrir l'estructura de l'àtom i la desintegració radioactiva; va guanyar el Premi Nobel de Química el 1908.",
+        "year": 1871
+      },
+      {
+        "name": "Cameron Diaz",
+        "description": "Actriu americana coneguda per la seva energia i versatilitat en pel·lícules com The Mask, Hi ha quelcom de Mary, Vanilla Sky i Gangs of New York. Una de les actrius amb major recaptació dels anys 90 i 2000.",
+        "year": 1972
+      }
+    ],
+    "events": [
+      {
+        "title": "El general MacArthur desembarca al Japó — inici de l'ocupació aliada",
+        "description": "El 30 d'agost de 1945, el general Douglas MacArthur va desembarcar a l'aeroport d'Atsugi al Japó, marcant l'inici de l'ocupació aliada i el capítol final de la Segona Guerra Mundial al Pacífic.",
+        "year": 1945
+      },
+      {
+        "title": "Timor Oriental vota la independència",
+        "description": "El 30 d'agost de 1999, en un referèndum supervisat per l'ONU, el 78,5% de la població de Timor Oriental va votar a favor de la independència d'Indonèsia, procés que va portar a una greu crisi humanitària i a la independència formal el 2002.",
+        "year": 1999
+      },
+      {
+        "title": "El Che Guevara és capturat a Bolívia",
+        "description": "El 30 d'agost de 1967, Ernesto 'Che' Guevara va ser capturat per les forces bolivianes, sent executat el 9 d'octubre de 1967, tancant un altre capítol de la història revolucionària llatinoamericana.",
+        "year": 1967
+      }
+    ]
+  }
+}
