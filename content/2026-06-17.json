@@ -3,127 +3,288 @@
   "es": {
     "saints": [
       {
-        "name": "San Gregorio Barbarigo",
-        "type": "Cardenal y Obispo",
-        "description": "Fue un cardenal y obispo italiano del siglo XVII, conocido por sus profundas reformas pastorales en la diócesis de Padua, su compromiso con la educación y su promoción de la vida religiosa."
+        "name": "Santos Mártires Manuel, Sabel e Ismael",
+        "type": "Mártires",
+        "description": "Estos tres hermanos de Persia fueron enviados como embajadores al emperador Juliano el Apóstata, pero fueron martirizados en Constantinopla en el año 362 d.C. por negarse a sacrificar a ídolos paganos."
       },
       {
-        "name": "San Alberto Chmielowski",
-        "type": "Religioso y Fundador",
-        "description": "Un destacado pintor polaco que abandonó su prometedora carrera artística para dedicar su vida al servicio de los más pobres y marginados, fundando la Congregación de los Hermanos Albertinos."
+        "name": "San Botolfo de Ikanhoe",
+        "type": "Abad",
+        "description": "San Botolfo fue un abad inglés que fundó el monasterio de Ikanhoe en Anglia Oriental en el siglo VII, conocido por difundir el monasticismo."
       },
       {
-        "name": "San Raniero de Pisa",
-        "type": "Ermitaño",
-        "description": "Patrón de Pisa, fue un mercader italiano del siglo XII que, tras una profunda conversión, renunció a sus bienes para vivir una vida de pobreza y penitencia como ermitaño y peregrino."
+        "name": "Mártir Isauro y Compañeros (Basilio, Inocencio, Félix, Hermias, Peregrino)",
+        "type": "Mártires",
+        "description": "Isauro, un diácono, y sus compañeros Basilio, Inocencio, Félix, Hermias y Peregrino fueron martirizados en Apolonia, Macedonia, por su fe cristiana alrededor del año 284 d.C. durante las persecuciones bajo Diocleciano."
       }
     ],
     "observances": [
       {
         "name": "Día Mundial de Lucha contra la Desertificación y la Sequía",
-        "description": "Este día internacional, establecido por las Naciones Unidas, busca concienciar sobre la importancia de prevenir la desertificación y mitigar los efectos de la sequía para un futuro sostenible."
+        "description": "Esta observancia de las Naciones Unidas busca concientizar sobre la desertificación, la degradación de la tierra y la sequía, destacando soluciones y esfuerzos para la gestión sostenible de la tierra."
+      },
+      {
+        "name": "Día de la Independencia de Islandia",
+        "description": "Islandia conmemora su plena independencia de Dinamarca en este día de 1944, una fecha elegida para coincidir con el cumpleaños de Jón Sigurðsson, un líder del movimiento independentista del siglo XIX."
+      },
+      {
+        "name": "Día Mundial del Recolector de Basura",
+        "description": "Este día rinde homenaje a los trabajadores de saneamiento, recolectores de residuos y profesionales del reciclaje por su labor esencial en mantener las comunidades limpias y saludables."
       }
     ],
     "historicalQuote": {
-      "text": "La música es incapaz de expresar absolutamente nada por sí misma.",
-      "author": "Igor Stravinsky",
-      "context": "Igor Stravinsky, uno de los compositores más influyentes del siglo XX, nació el 17 de junio de 1882. Esta cita refleja su visión de la música como una forma de arte autónoma, que no necesita un significado extramusical para justificar su existencia, un principio clave en su estética neoclásica."
+      "text": "Debemos abandonar la noción inviable de que es moralmente reprensible que algunos países busquen armas de destrucción masiva, pero moralmente aceptable que otros dependan de ellas para su seguridad —y de hecho, que sigan refinando sus capacidades y postulando planes para su uso.",
+      "author": "Mohamed ElBaradei",
+      "context": "Mohamed ElBaradei, un diplomático egipcio y premio Nobel de la Paz, nació el 17 de junio de 1942. Su trabajo como Director General del Organismo Internacional de Energía Atómica se centró en la no proliferación nuclear y los usos pacíficos de la energía nuclear."
     },
     "births": [
       {
+        "name": "Eduardo I",
+        "description": "Eduardo I fue un rey de Inglaterra que reinó de 1272 a 1307, conocido por sus reformas administrativas y campañas militares, particularmente en Gales y Escocia.",
+        "year": "1239"
+      },
+      {
         "name": "Igor Stravinsky",
-        "description": "Compositor ruso-estadounidense considerado una de las figuras más importantes de la música del siglo XX, conocido por su innovación rítmica y armónica en obras como 'La consagración de la primavera'.",
+        "description": "Igor Stravinsky fue un compositor de origen ruso, ampliamente considerado uno de los compositores más importantes e influyentes del siglo XX, famoso por obras como 'La consagración de la primavera'.",
         "year": "1882"
       },
       {
-        "name": "M. C. Escher",
-        "description": "Artista gráfico holandés famoso por sus litografías, grabados y mezzotintas que exploran la perspectiva, la ilusión óptica y las transformaciones geométricas, creando mundos visuales únicos e imposibles.",
-        "year": "1898"
-      },
-      {
         "name": "Venus Williams",
-        "description": "Leyenda del tenis estadounidense, múltiple campeona de Grand Slam y medallista olímpica, reconocida por su poderosa presencia en la cancha y su impacto en el deporte.",
+        "description": "Venus Williams es una tenista profesional estadounidense, ex número 1 del mundo tanto en individuales como en dobles, y una de las mejores tenistas de todos los tiempos, con múltiples títulos de Grand Slam.",
         "year": "1980"
       }
     ],
     "events": [
       {
-        "title": "El Tercer Estado se declara Asamblea Nacional",
-        "description": "En un acto histórico que marcó el inicio de la Revolución Francesa, los representantes del Tercer Estado en Francia se declararon como la Asamblea Nacional, asumiendo la autoridad legislativa del país.",
-        "year": "1789"
-      },
-      {
-        "title": "La Estatua de la Libertad llega a Nueva York",
-        "description": "El icónico monumento 'La Libertad iluminando el Mundo', un regalo del pueblo de Francia a los Estados Unidos, llegó al puerto de Nueva York, convirtiéndose en un símbolo universal de libertad y democracia.",
+        "title": "La Estatua de la Libertad llega al puerto de Nueva York",
+        "description": "La Estatua de la Libertad, un regalo del pueblo de Francia a los Estados Unidos, llegó al puerto de Nueva York el 17 de junio de 1885, convirtiéndose en un símbolo duradero de libertad y democracia.",
         "year": "1885"
       },
       {
-        "title": "La Corte Suprema de EE. UU. prohíbe la oración obligatoria en escuelas públicas",
-        "description": "En un fallo histórico, la Corte Suprema de Estados Unidos declaró inconstitucionales las leyes estatales que exigían la lectura de la Biblia y la recitación del Padrenuestro en las escuelas públicas, reafirmando la separación entre iglesia y estado.",
-        "year": "1963"
+        "title": "Amelia Earhart se convierte en la primera mujer en cruzar el Atlántico en avión",
+        "description": "En 1928, Amelia Earhart se convirtió en la primera mujer en volar a través del Océano Atlántico como pasajera a bordo del Fokker F.VIIb/3m, consolidando su lugar como pionera en la aviación.",
+        "year": "1928"
+      },
+      {
+        "title": "Islandia declara su independencia y se convierte en república",
+        "description": "El 17 de junio de 1944, durante la Segunda Guerra Mundial, Islandia declaró formalmente su plena independencia de Dinamarca y se estableció como república, marcando un hito significativo en su soberanía nacional.",
+        "year": "1944"
       }
     ]
   },
   "en": {
     "saints": [
       {
-        "name": "St. Albert Chmielowski",
-        "type": "Religious Brother / Priest",
-        "description": "Born Adam Chmielowski, he was a Polish nobleman, painter, and veteran of the January Uprising. He founded the Congregation of the Brothers and Sisters of the Third Order of St. Francis, Servants of the Poor (Albertine Brothers and Sisters) to care for the homeless and destitute."
+        "name": "Holy Martyrs Manuel, Sabel, and Ishmael",
+        "type": "Martyrs",
+        "description": "These three brothers from Persia were sent as ambassadors to Emperor Julian the Apostate but were martyred in Constantinople in 362 A.D. for refusing to sacrifice to pagan idols."
       },
       {
-        "name": "St. Botolph",
+        "name": "Saint Botolph of Ikanhoe",
         "type": "Abbot",
-        "description": "A 7th-century English abbot who founded the monastery of Iken in Suffolk, England. He is venerated as one of the most important early English saints, known for his monastic piety and work."
+        "description": "Saint Botolph was an English abbot who founded the monastery of Ikanhoe in East Anglia in the 7th century, known for spreading monasticism."
+      },
+      {
+        "name": "Martyr Isaurus and Companions (Basil, Innocent, Felix, Hermias, Peregrinos)",
+        "type": "Martyrs",
+        "description": "Isaurus, a deacon, and his companions Basil, Innocent, Felix, Hermias, and Peregrinos were martyred in Apollonia, Macedonia, for their Christian faith around 284 A.D. during the persecutions under Diocletian."
       }
     ],
     "observances": [
       {
         "name": "World Day to Combat Desertification and Drought",
-        "description": "An international observance designated by the United Nations to raise awareness of the presence of desertification and drought, highlighting methods of preventing desertification and recovering from drought."
+        "description": "This United Nations observance raises awareness about desertification, land degradation, and drought, highlighting solutions and efforts for sustainable land management."
       },
       {
-        "name": "Icelandic National Day",
-        "description": "Commemorates the foundation of the Republic of Iceland on this day in 1944 and also the birthday of Jón Sigurðsson, a key figure in the Icelandic independence movement."
+        "name": "Iceland Independence Day",
+        "description": "Iceland commemorates its full independence from Denmark on this day in 1944, a date chosen to coincide with the birthday of Jón Sigurðsson, a leader of the 19th-century independence movement."
+      },
+      {
+        "name": "Global Garbage Man Day",
+        "description": "This day honors sanitation workers, waste collectors, and recycling professionals for their essential work in keeping communities clean and healthy."
       }
     ],
     "historicalQuote": {
-      "text": "My freedom will be so much the greater and more meaningful the more narrowly I limit my field of action and the more I surround myself with obstacles.",
-      "author": "Igor Stravinsky",
-      "context": "Igor Stravinsky, the influential Russian-born composer, was born on June 17, 1882. This quote reflects his artistic philosophy, where self-imposed limitations and challenges are seen as catalysts for greater creative freedom and innovation."
+      "text": "We must abandon the unworkable notion that it is morally reprehensible for some countries to pursue weapons of mass destruction, yet morally acceptable for others to rely on them for security — and indeed to continue to refine their capacities and postulate plans for their use.",
+      "author": "Mohamed ElBaradei",
+      "context": "Mohamed ElBaradei, an Egyptian diplomat and Nobel Peace Prize laureate, was born on June 17, 1942. His work as Director General of the International Atomic Energy Agency focused on nuclear non-proliferation and peaceful uses of nuclear energy."
     },
     "births": [
       {
+        "name": "Edward I",
+        "description": "Edward I was a King of England who reigned from 1272 to 1307, known for his administrative reforms and military campaigns, particularly in Wales and Scotland.",
+        "year": "1239"
+      },
+      {
         "name": "Igor Stravinsky",
-        "description": "A highly influential Russian-born composer, pianist, and conductor who revolutionized 20th-century music with his innovative rhythms and harmonies in works like 'The Rite of Spring' and 'The Firebird'.",
+        "description": "Igor Stravinsky was a Russian-born composer, widely considered one of the most important and influential composers of the 20th century, famous for works like 'The Rite of Spring'.",
         "year": "1882"
       },
       {
-        "name": "M.C. Escher",
-        "description": "A Dutch graphic artist known for his woodcuts, lithographs, and mezzotints that feature impossible constructions, explorations of infinity, architecture, and tessellations.",
-        "year": "1898"
-      },
-      {
-        "name": "Jón Sigurðsson",
-        "description": "An Icelandic statesman who was a leading figure in the 19th-century Icelandic independence movement, widely regarded as the national hero of Iceland. His birthday is celebrated as Iceland's National Day.",
-        "year": "1811"
+        "name": "Venus Williams",
+        "description": "Venus Williams is an American professional tennis player, a former world No. 1 in both singles and doubles, and one of the greatest tennis players of all time, with multiple Grand Slam titles.",
+        "year": "1980"
       }
     ],
     "events": [
       {
         "title": "Statue of Liberty Arrives in New York Harbor",
-        "description": "The disassembled Statue of Liberty, a gift of friendship from the people of France to the United States, arrived in New York Harbor, marking a significant moment in its journey to becoming an iconic symbol of freedom and democracy.",
+        "description": "The Statue of Liberty, a gift from the people of France to the United States, arrived in New York Harbor on June 17, 1885, becoming an enduring symbol of freedom and democracy.",
         "year": "1885"
       },
       {
-        "title": "Iceland Becomes a Republic",
-        "description": "On the birthday of its national hero Jón Sigurðsson, Iceland officially declared full independence from Danish rule, establishing itself as a sovereign republic and solidifying its national identity.",
-        "year": "1944"
+        "title": "Amelia Earhart Becomes First Woman to Fly Across the Atlantic",
+        "description": "In 1928, Amelia Earhart became the first woman to fly across the Atlantic Ocean as a passenger aboard the Fokker F.VIIb/3m, cementing her place as a pioneer in aviation.",
+        "year": "1928"
       },
       {
-        "title": "South Africa Abolishes Key Apartheid Law",
-        "description": "The South African Parliament abolished the Population Registration Act, a cornerstone of apartheid that classified people by race. This pivotal move dismantled the legal framework of racial segregation and oppression, paving the way for a democratic society.",
-        "year": "1991"
+        "title": "Iceland Declares Independence and Becomes a Republic",
+        "description": "On June 17, 1944, during World War II, Iceland formally declared its full independence from Denmark and established itself as a republic, marking a significant milestone in its national sovereignty.",
+        "year": "1944"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santos Mártires Manuel, Sabel e Ismael",
+        "type": "Mártires",
+        "description": "Estes três irmãos da Pérsia foram enviados como embaixadores ao Imperador Juliano, o Apóstata, mas foram martirizados em Constantinopla em 362 d.C. por se recusarem a sacrificar a ídolos pagãos."
+      },
+      {
+        "name": "São Botolfo de Ikanhoe",
+        "type": "Abade",
+        "description": "São Botolfo foi um abade inglês que fundou o mosteiro de Ikanhoe na Ânglia Oriental no século VII, conhecido por difundir o monasticismo."
+      },
+      {
+        "name": "Mártir Isauro e Companheiros (Basílio, Inocêncio, Félix, Hermias, Peregrino)",
+        "type": "Mártires",
+        "description": "Isauro, um diácono, e seus companheiros Basílio, Inocêncio, Félix, Hermias e Peregrino foram martirizados em Apolônia, Macedônia, por sua fé cristã por volta de 284 d.C., durante as perseguições sob Diocleciano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de Combate à Desertificação e à Seca",
+        "description": "Esta observância das Nações Unidas aumenta a conscientização sobre a desertificação, a degradação da terra e a seca, destacando soluções e esforços para a gestão sustentável da terra."
+      },
+      {
+        "name": "Dia da Independência da Islândia",
+        "description": "A Islândia comemora sua total independência da Dinamarca neste dia em 1944, uma data escolhida para coincidir com o aniversário de Jón Sigurðsson, um líder do movimento de independência do século XIX."
+      },
+      {
+        "name": "Dia Mundial do Lixeiro",
+        "description": "Este dia homenageia os trabalhadores de saneamento, coletores de resíduos e profissionais de reciclagem por seu trabalho essencial em manter as comunidades limpas e saudáveis."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Devemos abandonar a noção inviável de que é moralmente repreensível para alguns países buscar armas de destruição em massa, mas moralmente aceitável para outros depender delas para a segurança — e, de fato, continuar a refinar suas capacidades e postular planos para seu uso.",
+      "author": "Mohamed ElBaradei",
+      "context": "Mohamed ElBaradei, um diplomata egípcio e laureado com o Prêmio Nobel da Paz, nasceu em 17 de junho de 1942. Seu trabalho como Diretor Geral da Agência Internacional de Energia Atômica focou na não proliferação nuclear e nos usos pacíficos da energia nuclear."
+    },
+    "births": [
+      {
+        "name": "Eduardo I",
+        "description": "Eduardo I foi um Rei da Inglaterra que reinou de 1272 a 1307, conhecido por suas reformas administrativas e campanhas militares, particularmente no País de Gales e na Escócia.",
+        "year": "1239"
+      },
+      {
+        "name": "Igor Stravinsky",
+        "description": "Igor Stravinsky foi um compositor russo, amplamente considerado um dos mais importantes e influentes compositores do século XX, famoso por obras como 'A Sagração da Primavera'.",
+        "year": "1882"
+      },
+      {
+        "name": "Venus Williams",
+        "description": "Venus Williams é uma tenista profissional americana, ex-número 1 do mundo tanto em simples quanto em duplas, e uma das maiores tenistas de todos os tempos, com múltiplos títulos de Grand Slam.",
+        "year": "1980"
+      }
+    ],
+    "events": [
+      {
+        "title": "Estátua da Liberdade Chega ao Porto de Nova York",
+        "description": "A Estátua da Liberdade, um presente do povo da França para os Estados Unidos, chegou ao Porto de Nova York em 17 de junho de 1885, tornando-se um símbolo duradouro de liberdade e democracia.",
+        "year": "1885"
+      },
+      {
+        "title": "Amelia Earhart se Torna a Primeira Mulher a Atravessar o Atlântico Voando",
+        "description": "Em 1928, Amelia Earhart tornou-se a primeira mulher a voar através do Oceano Atlântico como passageira a bordo do Fokker F.VIIb/3m, consolidando seu lugar como pioneira na aviação.",
+        "year": "1928"
+      },
+      {
+        "title": "Islândia Declara Independência e se Torna uma República",
+        "description": "Em 17 de junho de 1944, durante a Segunda Guerra Mundial, a Islândia declarou formalmente sua total independência da Dinamarca e se estabeleceu como uma república, marcando um marco significativo em sua soberania nacional.",
+        "year": "1944"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sants Màrtirs Manuel, Sabel i Ismael",
+        "type": "Màrtirs",
+        "description": "Aquests tres germans de Pèrsia van ser enviats com a ambaixadors a l'emperador Julià l'Apòstata, però van ser martiritzats a Constantinoble l'any 362 dC per negar-se a sacrificar-se als ídols pagans."
+      },
+      {
+        "name": "Sant Botulf d'Ikanhoe",
+        "type": "Abat",
+        "description": "Sant Botulf va ser un abat anglès que va fundar el monestir d'Ikanhoe a East Anglia al segle VII, conegut per la difusió del monaquisme."
+      },
+      {
+        "name": "Màrtir Isaure i Companys (Basili, Innocent, Fèlix, Hèrmies, Pelegrí)",
+        "type": "Màrtirs",
+        "description": "Isaure, un diaca, i els seus companys Basili, Innocent, Fèlix, Hèrmies i Pelegrí van ser martiritzats a Apol·lònia, Macedònia, per la seva fe cristiana al voltant de l'any 284 dC durant les persecucions sota Dioclecià."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de Lluita contra la Desertificació i la Sequera",
+        "description": "Aquesta commemoració de les Nacions Unides sensibilitza sobre la desertificació, la degradació de la terra i la sequera, destacant solucions i esforços per a la gestió sostenible de la terra."
+      },
+      {
+        "name": "Dia de la Independència d'Islàndia",
+        "description": "Islàndia commemora la seva plena independència de Dinamarca en aquest dia de 1944, una data escollida per coincidir amb l'aniversari de Jón Sigurðsson, un líder del moviment d'independència del segle XIX."
+      },
+      {
+        "name": "Dia Mundial del Recol·lector d'Escombraries",
+        "description": "Aquest dia ret homenatge als treballadors de sanejament, recol·lectors de residus i professionals del reciclatge per la seva feina essencial per mantenir les comunitats netes i saludables."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Hem d'abandonar la noció impracticable que és moralment reprensible que alguns països busquin armes de destrucció massiva, però moralment acceptable que altres hi confiïn per a la seguretat —i, de fet, que continuïn perfeccionant les seves capacitats i postulant plans per al seu ús.",
+      "author": "Mohamed ElBaradei",
+      "context": "Mohamed ElBaradei, un diplomàtic egipci i premi Nobel de la Pau, va néixer el 17 de juny de 1942. La seva feina com a Director General de l'Agència Internacional de l'Energia Atòmica es va centrar en la no proliferació nuclear i els usos pacífics de l'energia nuclear."
+    },
+    "births": [
+      {
+        "name": "Eduard I",
+        "description": "Eduard I va ser un rei d'Anglaterra que va regnar del 1272 al 1307, conegut per les seves reformes administratives i campanyes militars, particularment a Gal·les i Escòcia.",
+        "year": "1239"
+      },
+      {
+        "name": "Ígor Stravinski",
+        "description": "Ígor Stravinski va ser un compositor d'origen rus, àmpliament considerat un dels compositors més importants i influents del segle XX, famós per obres com 'La consagració de la primavera'.",
+        "year": "1882"
+      },
+      {
+        "name": "Venus Williams",
+        "description": "Venus Williams és una tennista professional nord-americana, antiga número 1 del món tant en individuals com en dobles, i una de les millors tennistes de tots els temps, amb múltiples títols de Grand Slam.",
+        "year": "1980"
+      }
+    ],
+    "events": [
+      {
+        "title": "L'Estàtua de la Llibertat arriba al port de Nova York",
+        "description": "L'Estàtua de la Llibertat, un regal del poble de França als Estats Units, va arribar al port de Nova York el 17 de juny de 1885, convertint-se en un símbol perdurable de llibertat i democràcia.",
+        "year": "1885"
+      },
+      {
+        "title": "Amelia Earhart es converteix en la primera dona a volar per l'Atlàntic",
+        "description": "El 1928, Amelia Earhart es va convertir en la primera dona a volar per l'oceà Atlàntic com a passatgera a bord del Fokker F.VIIb/3m, consolidant el seu lloc com a pionera de l'aviació.",
+        "year": "1928"
+      },
+      {
+        "title": "Islàndia declara la independència i esdevé una república",
+        "description": "El 17 de juny de 1944, durant la Segona Guerra Mundial, Islàndia va declarar formalment la seva plena independència de Dinamarca i es va establir com a república, marcant una fita significativa en la seva sobirania nacional.",
+        "year": "1944"
       }
     ]
   }

@@ -3,126 +3,288 @@
   "es": {
     "saints": [
       {
-        "name": "San Marcelino y San Marcos de Roma",
+        "name": "Mártires Leoncio, Hipacio y Teódulo",
         "type": "Mártires",
-        "description": "Estos hermanos gemelos fueron diáconos de la Iglesia romana y sufrieron martirio en la persecución bajo el emperador Diocleciano, alrededor del año 304 d.C."
-      },
-      {
-        "name": "Santa Juliana Falconieri",
-        "type": "Fundadora / Religiosa",
-        "description": "Nacida en Florencia en 1270, fue la fundadora de las religiosas terciarias servitas y dedicó su vida a la oración, la caridad y la penitencia para la conversión de las almas."
+        "description": "Estos tres eran soldados imperiales romanos, al menos dos de los cuales eran conversos recientes, encarcelados, torturados y ejecutados por su fe cristiana alrededor del año 135 d.C. en Trípoli, Fenicia (actual Líbano)."
       },
       {
         "name": "San Gregorio Barbarigo",
-        "type": "Obispo / Cardenal",
-        "description": "Fue obispo de Padua y cardenal en el siglo XVII, conocido por su gran caridad, por fundar seminarios y colegios, y por fomentar la instrucción religiosa."
+        "type": "Cardenal/Obispo",
+        "description": "Nacido en Venecia en 1625, fue un estudiante brillante de una distinguida familia que abrazó una carrera diplomática antes de convertirse en cardenal. Fue conocido por sus extensas obras de caridad y trabajó por la unidad de las Iglesias Latina y Ortodoxa."
+      },
+      {
+        "name": "Santos Marcos y Marceliano",
+        "type": "Diáconos, Mártires",
+        "description": "Hermanos gemelos martirizados por su fe en Roma bajo el emperador Diocleciano. Eran diáconos que convirtieron a sus padres paganos y a varios amigos, todos los cuales fueron finalmente martirizados junto a ellos."
       }
     ],
     "observances": [
       {
+        "name": "Día del Orgullo Autista",
+        "description": "Celebrado anualmente el 18 de junio, este día celebra la neurodiversidad de las personas autistas y promueve la aceptación y el respeto hacia ellas."
+      },
+      {
+        "name": "Día Internacional del Sushi",
+        "description": "Este día celebra el sushi, una comida callejera de Tokio del período Edo que combinaba arroz avinagrado y pescado crudo en una comida rápida y portátil, ahora una industria global."
+      },
+      {
         "name": "Día Internacional para Contrarrestar el Discurso de Odio",
-        "description": "Establecido por la Asamblea General de las Naciones Unidas en 2021, este día busca promover la concienciación sobre los peligros del discurso de odio."
-      },
-      {
-        "name": "Día de la Gastronomía Sostenible",
-        "description": "Proclamado por la ONU en 2016, reconoce la gastronomía como una expresión cultural y promueve prácticas culinarias que respetan el medio ambiente y la equidad social."
-      },
-      {
-        "name": "Día Mundial del Orgullo Autista",
-        "description": "Una jornada para celebrar a las personas con autismo y promover la aceptación, el respeto y la inclusión de la neurodiversidad."
+        "description": "Proclamado por la Asamblea General de la ONU en 2021, esta observancia aborda el aumento global del discurso de odio y la discriminación amplificados algorítmicamente, enfatizando la prevención, la rendición de cuentas y la solidaridad."
       }
     ],
     "historicalQuote": {
-      "text": "¡Francia ha perdido una batalla! ¡Pero Francia no ha perdido la guerra!",
-      "author": "Charles de Gaulle",
-      "context": "El 18 de junio de 1940, desde su exilio en Londres, el general Charles de Gaulle emitió su famoso «Llamamiento del 18 de junio», instando a los franceses a no rendirse y a continuar la lucha contra la ocupación nazi."
+      "text": "Preparémonos, pues, para nuestros deberes, y comportémonos de tal manera que, si el Imperio Británico y su Commonwealth duran mil años, los hombres sigan diciendo: 'Esta fue su hora más gloriosa'.",
+      "author": "Winston Churchill",
+      "context": "Winston Churchill pronunció su famoso discurso 'Su hora más gloriosa' ante la Cámara de los Comunes el 18 de junio de 1940, durante la Segunda Guerra Mundial, animando al pueblo británico contra la amenaza de la invasión nazi."
     },
     "births": [
       {
         "name": "Paul McCartney",
-        "description": "Músico, cantante y compositor británico, mundialmente famoso como bajista y cantante de The Beatles, una de las bandas más influyentes de la historia.",
+        "description": "Músico, cantante, compositor y letrista inglés, mejor conocido como vocalista principal y bajista de The Beatles.",
         "year": "1942"
       },
       {
-        "name": "Jürgen Habermas",
-        "description": "Filósofo y sociólogo alemán cuyas obras han sido fundamentales en la teoría crítica y el pensamiento social contemporáneo, con influencia global en las ciencias sociales.",
-        "year": "1929"
+        "name": "Isabella Rossellini",
+        "description": "Actriz, cineasta, autora y exmodelo ítalo-sueca. Es hija de la actriz Ingrid Bergman y del director Roberto Rossellini.",
+        "year": "1952"
       },
       {
-        "name": "Dudley Robert Herschbach",
-        "description": "Químico estadounidense galardonado con el Premio Nobel de Química en 1986 por su pionero desarrollo de la dinámica de procesos químicos elementales.",
-        "year": "1932"
+        "name": "Chris Van Allsburg",
+        "description": "Autor e ilustrador estadounidense de libros infantiles, conocido por obras como 'Jumanji' y 'El Expreso Polar', ambas adaptadas a exitosas películas.",
+        "year": "1949"
       }
     ],
     "events": [
       {
-        "title": "Victoria de Juana de Arco en la Batalla de Patay",
-        "description": "En 1429, las fuerzas francesas lideradas por Juana de Arco obtuvieron una victoria decisiva sobre el ejército inglés en la Batalla de Patay, un momento clave en la Guerra de los Cien Años.",
-        "year": "1429"
-      },
-      {
         "title": "Sally Ride se convierte en la primera mujer estadounidense en el espacio",
-        "description": "En 1983, Sally Ride hizo historia al convertirse en la primera mujer astronauta estadounidense en viajar al espacio, a bordo del transbordador espacial Challenger, marcando un hito para la exploración espacial femenina.",
+        "description": "En un logro monumental para la exploración espacial y las mujeres en la ciencia, la astronauta Sally Ride despegó a bordo del transbordador espacial Challenger, convirtiéndose en la primera mujer estadounidense en el espacio.",
         "year": "1983"
       },
       {
-        "title": "El Papa Francisco presenta la encíclica 'Laudato si''",
-        "description": "En 2015, el Papa Francisco presentó su segunda encíclica, 'Laudato si'', un poderoso llamado global a la acción sobre el cuidado de la casa común, la sostenibilidad ambiental y la justicia social.",
-        "year": "2015"
+        "title": "Se firma el Tratado SALT II",
+        "description": "El Tratado de Limitación de Armas Estratégicas II (SALT II) fue firmado por Estados Unidos y la Unión Soviética, marcando un paso importante en el control de armas nucleares y el progreso de la paz durante la Guerra Fría.",
+        "year": "1979"
+      },
+      {
+        "title": "Darwin recibe el artículo de Wallace sobre la evolución",
+        "description": "Charles Darwin recibió el artículo de Alfred Russel Wallace que describía conclusiones casi idénticas sobre la evolución a las propias de Darwin, lo que impulsó a Darwin a publicar su innovadora teoría.",
+        "year": "1858"
       }
     ]
   },
   "en": {
     "saints": [
       {
-        "name": "St. Amand of Bordeaux",
-        "type": "Bishop",
-        "description": "St. Amand served as the Bishop of Bordeaux, France, around 404 AD. He was known for his zeal in guarding piety and the Christian faith, and notably instructed St. Paulinus of Nola in the mysteries of faith before his baptism."
-      },
-      {
-        "name": "St. Elizabeth of Schönau",
-        "type": "Benedictine Nun",
-        "description": "St. Elizabeth became a Benedictine nun at the age of 18 and soon began experiencing mystical visions and spiritual revelations. She recorded these profound encounters, which emphasized God's infinite love for humanity, and her writings were widely distributed."
-      },
-      {
-        "name": "Martyrs Leontius, Hypatius, and Theodulus",
+        "name": "Martyrs Leontios, Hypatios, and Theodoulos",
         "type": "Martyrs",
-        "description": "These three Roman soldiers were martyred in Tripoli, Phoenicia, between 70-79 AD for their Christian faith. They firmly confessed Christ despite threats of torture and death from the Roman governor."
+        "description": "These three were imperial Roman soldiers, at least two of whom were recent converts, imprisoned, tortured, and executed for their Christian faith around 135 A.D. in Tripoli, Phoenicia (modern-day Lebanon)."
+      },
+      {
+        "name": "Saint Gregory Barbarigo",
+        "type": "Cardinal/Bishop",
+        "description": "Born in Venice in 1625, he was a brilliant student from a distinguished family who embraced a diplomatic career before becoming a cardinal. He was noted for his extensive charities and worked towards the unity of the Latin and Orthodox Churches."
+      },
+      {
+        "name": "Saints Mark and Marcellian",
+        "type": "Deacons, Martyrs",
+        "description": "Twin brothers martyred for their faith in Rome under Emperor Diocletian. They were deacons who converted their pagan parents and several friends, all of whom were eventually martyred alongside them."
       }
     ],
     "observances": [
       {
-        "name": "Sustainable Gastronomy Day",
-        "description": "Celebrated annually, this day highlights the importance of adopting sustainable practices in culinary traditions, recognizing the role gastronomy plays in promoting sustainable development and preserving cultural heritage."
-      },
-      {
         "name": "Autistic Pride Day",
-        "description": "Observed on June 18th, Autistic Pride Day is a celebration for autistic people that promotes neurodiversity, raises awareness of the talents and voices of autistic individuals, and fosters acceptance rather than reinforcing stereotypes."
+        "description": "Observed annually on June 18th, this day celebrates the neurodiversity of autistic individuals and promotes acceptance and respect for autistic people."
       },
       {
-        "name": "International Panic Day",
-        "description": "This observance serves as a reminder to acknowledge stress and anxiety, encouraging open conversations about mental health and promoting self-care practices to manage worries."
+        "name": "International Sushi Day",
+        "description": "This day celebrates sushi, an Edo-period Tokyo street food that combined vinegared rice and raw fish into a fast, portable meal, now a global industry."
+      },
+      {
+        "name": "International Day for Countering Hate Speech",
+        "description": "Proclaimed by the UN General Assembly in 2021, this observance addresses the global rise of algorithmically amplified hate speech and discrimination, emphasizing prevention, accountability, and solidarity."
       }
     ],
     "historicalQuote": {
-      "text": "One must conquer, achieve, get to the top; one must know the end to be convinced that one can win the end – to know there's no dream that mustn't be dared.",
-      "author": "George Mallory",
-      "context": "This inspiring quote reflects the ambitious spirit of George Mallory, a renowned English mountaineer born on June 18, 1886. He was a leading figure in early expeditions to Mount Everest, and his attempts to reach the summit, though ultimately fatal, embody daring exploration."
+      "text": "Let us therefore brace ourselves to our duties, and so bear ourselves that, if the British Empire and its Commonwealth last for a thousand years, men will still say, 'This was their finest hour.'",
+      "author": "Winston Churchill",
+      "context": "Winston Churchill delivered his famous 'Finest Hour' speech to the House of Commons on June 18, 1940, during World War II, rallying the British people against the threat of Nazi invasion."
     },
     "births": [
       {
         "name": "Paul McCartney",
-        "description": "Born in Liverpool, England, Paul McCartney (1942) gained global fame as the bassist, keyboardist, and co-primary songwriter for The Beatles, one of the most influential bands in history. He continued to have a highly successful solo career and formed the band Wings, known for his melodic bass playing and versatile vocals."
+        "description": "An English musician, singer, songwriter, and composer, best known as a co-lead vocalist and bassist for the Beatles.",
+        "year": "1942"
       },
       {
-        "name": "George Mallory",
-        "description": "George Mallory (1886-1924) was an English mountaineer and explorer, famously known for his participation in the first British expeditions to Mount Everest. His disappearance on the mountain in 1924 remains one of the greatest mysteries in climbing history."
+        "name": "Isabella Rossellini",
+        "description": "An Italian-Swedish actress, filmmaker, author, and former model. She is the daughter of actress Ingrid Bergman and director Roberto Rossellini.",
+        "year": "1952"
+      },
+      {
+        "name": "Chris Van Allsburg",
+        "description": "An American author and illustrator of children's books, known for works such as 'Jumanji' and 'The Polar Express,' both of which have been adapted into successful films.",
+        "year": "1949"
       }
     ],
     "events": [
       {
-        "title": "Battle of Waterloo",
-        "description": "On June 18, 1815, the decisive Battle of Waterloo took place near present-day Belgium, where a coalition of British, Dutch, Belgian, German, and Prussian forces defeated Napoleon Bonaparte's French army. This monumental event marked Napoleon's final defeat, ending the Napoleonic Wars and reshaping the political landscape of Europe."
+        "title": "Sally Ride Becomes First American Woman in Space",
+        "description": "In a monumental achievement for space exploration and women in science, astronaut Sally Ride launched aboard the Space Shuttle Challenger, becoming the first American woman in space.",
+        "year": "1983"
+      },
+      {
+        "title": "SALT II Treaty Signed",
+        "description": "The Strategic Arms Limitation Treaty II (SALT II) was signed by the United States and the Soviet Union, marking an important step in nuclear arms control and peace progress during the Cold War.",
+        "year": "1979"
+      },
+      {
+        "title": "Darwin Receives Wallace's Paper on Evolution",
+        "description": "Charles Darwin received Alfred Russel Wallace's paper outlining nearly identical conclusions about evolution as Darwin's own, prompting Darwin to publish his groundbreaking theory.",
+        "year": "1858"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Mártires Leôncio, Hipácio e Teódulo",
+        "type": "Mártires",
+        "description": "Estes três eram soldados imperiais romanos, pelo menos dois dos quais eram convertidos recentes, presos, torturados e executados por sua fé cristã por volta de 135 d.C. em Trípoli, Fenícia (atual Líbano)."
+      },
+      {
+        "name": "São Gregório Barbarigo",
+        "type": "Cardeal/Bispo",
+        "description": "Nascido em Veneza em 1625, foi um estudante brilhante de uma família distinta que abraçou uma carreira diplomática antes de se tornar cardeal. Foi notável por suas extensas obras de caridade e trabalhou pela unidade das Igrejas Latina e Ortodoxa."
+      },
+      {
+        "name": "Santos Marcos e Marceliano",
+        "type": "Diáconos, Mártires",
+        "description": "Irmãos gêmeos martirizados por sua fé em Roma sob o imperador Diocleciano. Eram diáconos que converteram seus pais pagãos e vários amigos, todos os quais foram eventualmente martirizados ao lado deles."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia do Orgulho Autista",
+        "description": "Observado anualmente em 18 de junho, este dia celebra a neurodiversidade de indivíduos autistas e promove a aceitação e o respeito pelas pessoas autistas."
+      },
+      {
+        "name": "Dia Internacional do Sushi",
+        "description": "Este dia celebra o sushi, uma comida de rua de Tóquio do período Edo que combinava arroz avinagrado e peixe cru em uma refeição rápida e portátil, agora uma indústria global."
+      },
+      {
+        "name": "Dia Internacional de Combate ao Discurso de Ódio",
+        "description": "Proclamado pela Assembleia Geral da ONU em 2021, esta observância aborda o aumento global do discurso de ódio e da discriminação amplificados algoritmicamente, enfatizando a prevenção, a responsabilização e a solidariedade."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Portanto, preparemo-nos para os nossos deveres, e comportemo-nos de tal maneira que, se o Império Britânico e sua Commonwealth durarem mil anos, os homens ainda dirão: 'Esta foi a sua melhor hora'.",
+      "author": "Winston Churchill",
+      "context": "Winston Churchill proferiu seu famoso discurso 'Sua Melhor Hora' na Câmara dos Comuns em 18 de junho de 1940, durante a Segunda Guerra Mundial, reunindo o povo britânico contra a ameaça de invasão nazista."
+    },
+    "births": [
+      {
+        "name": "Paul McCartney",
+        "description": "Músico, cantor, compositor e letrista inglês, mais conhecido como um dos vocalistas principais e baixista dos Beatles.",
+        "year": "1942"
+      },
+      {
+        "name": "Isabella Rossellini",
+        "description": "Atriz, cineasta, autora e ex-modelo ítalo-sueca. É filha da atriz Ingrid Bergman e do diretor Roberto Rossellini.",
+        "year": "1952"
+      },
+      {
+        "name": "Chris Van Allsburg",
+        "description": "Autor e ilustrador americano de livros infantis, conhecido por obras como 'Jumanji' e 'O Expresso Polar', ambas adaptadas em filmes de sucesso.",
+        "year": "1949"
+      }
+    ],
+    "events": [
+      {
+        "title": "Sally Ride se torna a primeira mulher americana no espaço",
+        "description": "Em uma conquista monumental para a exploração espacial e as mulheres na ciência, a astronauta Sally Ride foi lançada a bordo do Ônibus Espacial Challenger, tornando-se a primeira mulher americana no espaço.",
+        "year": "1983"
+      },
+      {
+        "title": "Tratado SALT II Assinado",
+        "description": "O Tratado de Limitação de Armas Estratégicas II (SALT II) foi assinado pelos Estados Unidos e pela União Soviética, marcando um passo importante no controle de armas nucleares e no progresso da paz durante a Guerra Fria.",
+        "year": "1979"
+      },
+      {
+        "title": "Darwin recebe o artigo de Wallace sobre a evolução",
+        "description": "Charles Darwin recebeu o artigo de Alfred Russel Wallace que delineava conclusões quase idênticas sobre a evolução às do próprio Darwin, o que impulsionou Darwin a publicar sua teoria inovadora.",
+        "year": "1858"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Mártirs Leonci, Hipaci i Teòdul",
+        "type": "Mártirs",
+        "description": "Aquests tres eren soldats imperials romans, almenys dos dels quals eren conversos recents, empresonats, torturats i executats per la seva fe cristiana al voltant del 135 d.C. a Trípoli, Fenícia (actual Líban)."
+      },
+      {
+        "name": "Sant Gregori Barbarigo",
+        "type": "Cardenal/Bisbe",
+        "description": "Nascut a Venècia el 1625, va ser un estudiant brillant d'una família distingida que va abraçar una carrera diplomàtica abans de convertir-se en cardenal. Va destacar per les seves extenses obres de caritat i va treballar per la unitat de les Esglésies Llatina i Ortodoxa."
+      },
+      {
+        "name": "Sants Marc i Marcel·lià",
+        "type": "Diaques, Mártirs",
+        "description": "Germans bessons martiritzats per la seva fe a Roma sota l'emperador Dioclecià. Eren diaques que van convertir els seus pares pagans i diversos amics, tots els quals van ser finalment martiritzats juntament amb ells."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de l'Orgull Autista",
+        "description": "Celebrat anualment el 18 de juny, aquest dia celebra la neurodiversitat de les persones autistes i promou l'acceptació i el respecte per a elles."
+      },
+      {
+        "name": "Dia Internacional del Sushi",
+        "description": "Aquest dia celebra el sushi, un menjar de carrer de Tòquio de l'època Edo que combinava arròs amb vinagre i peix cru en un àpat ràpid i portàtil, ara una indústria global."
+      },
+      {
+        "name": "Dia Internacional per a la Lluita contra la Incitació a l'Odi",
+        "description": "Proclamat per l'Assemblea General de l'ONU el 2021, aquesta observança aborda l'augment global del discurs d'odi i la discriminació amplificats algorítmicament, posant èmfasi en la prevenció, la rendició de comptes i la solidaritat."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Per tant, armem-nos per als nostres deures i comportem-nos de tal manera que, si l'Imperi Britànic i la seva Commonwealth duren mil anys, els homes encara diguin: 'Aquesta va ser la seva hora més gloriosa.'",
+      "author": "Winston Churchill",
+      "context": "Winston Churchill va pronunciar el seu famós discurs 'La seva hora més gloriosa' a la Cambra dels Comuns el 18 de juny de 1940, durant la Segona Guerra Mundial, mobilitzant el poble britànic contra l'amenaça d'invasió nazi."
+    },
+    "births": [
+      {
+        "name": "Paul McCartney",
+        "description": "Músic, cantant, compositor i lletrista anglès, més conegut com a co-vocalista principal i baixista dels Beatles.",
+        "year": "1942"
+      },
+      {
+        "name": "Isabella Rossellini",
+        "description": "Actriu, cineasta, autora i exmodel italo-sueca. És filla de l'actriu Ingrid Bergman i del director Roberto Rossellini.",
+        "year": "1952"
+      },
+      {
+        "name": "Chris Van Allsburg",
+        "description": "Autor i il·lustrador nord-americà de llibres infantils, conegut per obres com 'Jumanji' i 'The Polar Express', ambdues adaptades a pel·lícules d'èxit.",
+        "year": "1949"
+      }
+    ],
+    "events": [
+      {
+        "title": "Sally Ride es converteix en la primera dona nord-americana a l'espai",
+        "description": "En un assoliment monumental per a l'exploració espacial i les dones en la ciència, l'astronauta Sally Ride va ser llançada a bord del transbordador espacial Challenger, convertint-se en la primera dona nord-americana a l'espai.",
+        "year": "1983"
+      },
+      {
+        "title": "Signat el Tractat SALT II",
+        "description": "El Tractat de Limitació d'Armes Estratègiques II (SALT II) va ser signat pels Estats Units i la Unió Soviètica, marcant un pas important en el control d'armes nuclears i el progrés de la pau durant la Guerra Freda.",
+        "year": "1979"
+      },
+      {
+        "title": "Darwin rep l'article de Wallace sobre l'evolució",
+        "description": "Charles Darwin va rebre l'article d'Alfred Russel Wallace que exposava conclusions gairebé idèntiques sobre l'evolució a les pròpies de Darwin, fet que va impulsar Darwin a publicar la seva revolucionària teoria.",
+        "year": "1858"
       }
     ]
   }

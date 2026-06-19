@@ -3,131 +3,272 @@
   "es": {
     "saints": [
       {
-        "name": "San Silverio",
-        "type": "Papa y Mártir",
-        "description": "Fue elegido Papa en el año 536. Se mantuvo fiel a la fe católica y rechazó las herejías, lo que le costó el exilio y el martirio en la isla de Palmaria en el año 537."
+        "name": "San Metodio de Patara",
+        "type": "Hieromártir, Obispo",
+        "description": "San Metodio, Obispo de Patara, se distinguió por su humildad y defendió firmemente la pureza de la Ortodoxia contra las herejías. Dejó un rico legado literario y fue martirizado alrededor del año 312 d.C., probablemente durante la persecución bajo Diocleciano."
       },
       {
-        "name": "Beato Tomás Whitbread y compañeros",
-        "type": "Presbíteros Mártires",
-        "description": "Fueron sacerdotes jesuitas que sufrieron el martirio en Londres en el siglo XVII, acusados falsamente de conspirar contra el rey Carlos II."
+        "name": "San Juan de Matera",
+        "type": "Abad",
+        "description": "San Juan de Matera fue un abad conocido por su austeridad y poderosa predicación. Fundó la Abadía de Santa María de Pulsano en Apulia, Italia, que se convirtió en una nueva congregación monástica."
+      },
+      {
+        "name": "San Gobán de Irlanda",
+        "type": "Sacerdote, Monje",
+        "description": "San Gobán, un sacerdote irlandés, fue discípulo en Inglaterra antes de trasladarse a la Galia (la actual Francia), donde adoptó una vida eremítica en los bosques. También es reconocido como monje benedictino irlandés."
       }
     ],
     "observances": [
       {
-        "name": "Día Mundial de los Refugiados",
-        "description": "Esta jornada, establecida por la Asamblea General de las Naciones Unidas en el año 2000 y celebrada anualmente desde 2001, conmemora la fuerza y el coraje de millones de personas que han sido forzadas a huir de sus hogares debido a conflictos o persecuciones."
+        "name": "Día Mundial del Refugiado",
+        "description": "Designado por las Naciones Unidas, este día honra a los refugiados a nivel mundial y celebra la resiliencia y el coraje de las personas obligadas a huir de sus países de origen debido a conflictos o persecuciones."
       },
       {
-        "name": "Yellow Day",
-        "description": "Conocido como el 'Día más feliz del año', se asocia a factores como las temperaturas agradables y la mayor cantidad de horas de luz."
+        "name": "Día Internacional del Surf",
+        "description": "Esta observancia global anual celebra el deporte del surf, su cultura, y promueve la concienciación y protección del medio ambiente oceánico."
       }
     ],
     "historicalQuote": {
-      "text": "Ni la agricultura ni el comercio serían casi en ningún caso suficientes a establecer la felicidad de un pueblo si no entrase a su socorro la oficiosa industria.",
-      "author": "Manuel Belgrano",
-      "context": "Manuel Belgrano, prócer argentino, militar y economista, falleció el 20 de junio de 1820. Esta cita refleja su visión avanzada sobre el desarrollo económico y la importancia de la industria para la prosperidad de una nación."
+      "text": "Enamorarse es algo muy valiente. Tienes que estar dispuesto a confiar en alguien más con todo tu ser, y eso es muy difícil, realmente difícil y muy valiente.",
+      "author": "Nicole Kidman",
+      "context": "Esta inspiradora cita se atribuye a la aclamada actriz y productora australiano-estadounidense Nicole Kidman, quien nació el 20 de junio de 1967."
     },
     "births": [
       {
         "name": "Nicole Kidman",
-        "description": "Actriz y productora australiana-americana, reconocida por su versatilidad y sus interpretaciones en cine y televisión, ganadora de un Premio de la Academia.",
+        "description": "Una actriz y productora australiano-estadounidense aclamada internacionalmente, conocida por sus papeles versátiles en varios géneros de cine y televisión, habiendo ganado múltiples premios de prestigio.",
         "year": "1967"
       },
       {
-        "name": "John Goodman",
-        "description": "Actor estadounidense aclamado por sus papeles en cine y televisión, conocido por su presencia imponente y su talento cómico y dramático.",
-        "year": "1952"
+        "name": "Lionel Richie",
+        "description": "Un icónico cantautor, músico y productor discográfico estadounidense, celebrado por su voz soulful y sus numerosas canciones de éxito, tanto como artista en solitario como con los Commodores.",
+        "year": "1949"
       },
       {
-        "name": "Brian Wilson",
-        "description": "Músico, cantante, compositor y productor estadounidense, cofundador y principal compositor de la influyente banda The Beach Boys, una de las figuras más innovadoras en la historia de la música pop.",
-        "year": "1942"
+        "name": "John Goodman",
+        "description": "Un actor, comediante y artista de voz estadounidense altamente reconocido, ampliamente conocido por sus memorables papeles en sitcoms de televisión y una amplia gama de películas.",
+        "year": "1952"
       }
     ],
     "events": [
       {
-        "title": "Coronación de la Reina Victoria I",
-        "description": "En 1837, Alejandrina Victoria fue coronada Reina del Reino Unido de Gran Bretaña e Irlanda, dando inicio a la influyente Era Victoriana, un periodo de grandes cambios sociales y tecnológicos.",
-        "year": "1837"
+        "title": "El Congreso Adopta el Gran Sello de los Estados Unidos",
+        "description": "En un acto significativo de simbolismo nacional, el Congreso de los EE. UU. aprobó el Gran Sello de los Estados Unidos, presentando el águila calva como su emblema central, solidificando una identidad nacional duradera.",
+        "year": "1782"
       },
       {
-        "title": "Primer partido de fútbol en Argentina",
-        "description": "En 1867, se disputó el primer partido oficial de fútbol en Buenos Aires, Argentina, marcando el inicio de la pasión por este deporte en el país sudamericano.",
-        "year": "1867"
+        "title": "Se Establece la Línea Directa del 'Teléfono Rojo'",
+        "description": "Un enlace de comunicación directa, famosamente conocido como el 'Teléfono Rojo' (aunque en realidad era un teletipo), se estableció entre la Casa Blanca y el Kremlin después de la Crisis de los Misiles de Cuba, significando un paso crucial hacia la desescalada y la paz.",
+        "year": "1963"
       },
       {
-        "title": "Inauguración del Monumento a la Bandera en Argentina",
-        "description": "En 1957, se inauguró en Rosario, Argentina, el imponente Monumento Histórico Nacional a la Bandera, en conmemoración a la creación de la bandera nacional por Manuel Belgrano.",
-        "year": "1957"
+        "title": "Se Establece la Fundación Wikimedia",
+        "description": "La fundación sin fines de lucro Wikimedia se estableció oficialmente para operar Wikipedia, la enciclopedia en línea gratuita, junto con otros proyectos colaborativos globales, fomentando el acceso generalizado al conocimiento.",
+        "year": "2003"
       }
     ]
   },
   "en": {
     "saints": [
       {
-        "name": "Saint Adalbert of Magdeburg",
-        "type": "Bishop, Missionary",
-        "description": "A Benedictine monk, Saint Adalbert was the first Archbishop of Magdeburg in the 10th century and was known for his missionary efforts among the Slavs and his support of education."
-      },
-      {
-        "name": "Saint Methodius of Olympus",
+        "name": "Saint Methodius of Patara",
         "type": "Hieromartyr, Bishop",
-        "description": "Bishop of Patara in Lycia, Hieromartyr Methodius was known for his genuine monastic humility and his staunch defense of Orthodox Christianity against heresies in the early 4th century."
+        "description": "Saint Methodius, Bishop of Patara, was distinguished for his humility and firmly defended the purity of Orthodoxy against heresies. He left behind a rich literary legacy and was martyred around 312 AD, likely during the persecution under Diocletian."
       },
       {
-        "name": "Saint Goban",
-        "type": "Monk, Hermit, Martyr",
-        "description": "An Irish-born Benedictine monk and disciple of Saint Fursey, Saint Goban lived as a hermit in France and was martyred by non-Christian raiders around 670 AD."
+        "name": "Saint John of Matera",
+        "type": "Abbot",
+        "description": "Saint John of Matera was an abbot known for his austerity and powerful preaching. He founded the Saint Mary of Pulsano Abbey in Puglia, Italy, which grew into a new monastic congregation."
+      },
+      {
+        "name": "Saint Goban of Ireland",
+        "type": "Priest, Monk",
+        "description": "Saint Goban, an Irish priest, was a disciple in England before moving to Gaul (modern France) where he embraced an eremitical life in the forests. He is also recognized as an Irish Benedictine monk."
       }
     ],
     "observances": [
       {
         "name": "World Refugee Day",
-        "description": "Established by the United Nations, this international day honors refugees around the globe, celebrating their strength and courage in the face of forced displacement."
+        "description": "Designated by the United Nations, this day honors refugees globally and celebrates the resilience and courage of people forced to flee their home countries due to conflict or persecution."
       },
       {
         "name": "International Surfing Day",
-        "description": "Observed on the third Saturday of June, this day celebrates surf culture and ocean conservation efforts."
+        "description": "This annual global observance celebrates the sport of surfing, its culture, and promotes awareness and protection of the ocean environment."
       }
     ],
     "historicalQuote": {
-      "text": "If there's not love present, it's much, much harder to function. When there's love present, it's easier to deal with life. When people hear music that is spiritual it gets through. Music that is Godlike and loving gets through. I don't have any power in this world, but I have spiritual power. I think God gave me my music and my talent. I'm trying to get across a feeling of spirituality; I think I have a spiritual influence on people. Spirituality amounts to love with me.",
-      "author": "Brian Wilson",
-      "context": "Brian Wilson, the legendary American musician, singer, and songwriter, co-founder of The Beach Boys, was born on June 20, 1942. His profound connection between music and spirituality is reflected in his insightful quotes about love and the power of spiritual music."
+      "text": "It's a very brave thing to fall in love. You have to be willing to trust somebody else with your whole being, and that's very difficult, really difficult and very brave.",
+      "author": "Nicole Kidman",
+      "context": "This inspiring quote is attributed to the acclaimed Australian-American actress and producer Nicole Kidman, who was born on June 20, 1967."
     },
     "births": [
       {
-        "name": "Brian Wilson",
-        "description": "An iconic American musician, singer, songwriter, and record producer, Brian Wilson co-founded The Beach Boys, creating some of the most influential pop music of the 20th century.",
-        "year": "1942"
-      },
-      {
         "name": "Nicole Kidman",
-        "description": "An acclaimed Australian-American actress and film producer, Nicole Kidman is celebrated for her versatile performances across a wide range of genres, earning numerous awards for her work.",
+        "description": "An internationally acclaimed Australian-American actress and producer, known for her versatile roles across various film and television genres, earning multiple prestigious awards.",
         "year": "1967"
       },
       {
         "name": "Lionel Richie",
-        "description": "A globally recognized American singer, songwriter, musician, and record producer, Lionel Richie rose to fame with The Commodores and achieved immense success as a solo artist with his soulful ballads.",
+        "description": "An iconic American singer-songwriter, musician, and record producer, celebrated for his soulful voice and numerous hit songs both as a solo artist and with the Commodores.",
         "year": "1949"
+      },
+      {
+        "name": "John Goodman",
+        "description": "A highly accomplished American actor, comedian, and voice artist, widely recognized for his memorable roles in television sitcoms and a broad range of films.",
+        "year": "1952"
       }
     ],
     "events": [
       {
-        "title": "The Great Seal of the United States is Adopted",
-        "description": "The United States Congress officially adopted the Great Seal, featuring the bald eagle as the national emblem, symbolizing the nation's sovereignty and aspirations.",
+        "title": "Congress Adopts the Great Seal of the United States",
+        "description": "In a significant act of national symbolism, the U.S. Congress approved the Great Seal of the United States, featuring the bald eagle as its central emblem, solidifying a lasting national identity.",
         "year": "1782"
       },
       {
-        "title": "World's First Commercial Telephone Service Installed",
-        "description": "Alexander Graham Bell inaugurated the world's first commercial telephone service in Hamilton, Ontario, Canada, marking a pivotal moment in global communication.",
-        "year": "1877"
+        "title": "The 'Red Telephone' Hotline Established",
+        "description": "A direct communication link, famously known as the 'Red Telephone' (though actually a teletype), was established between the White House and the Kremlin following the Cuban Missile Crisis, signifying a crucial step toward de-escalation and peace.",
+        "year": "1963"
       },
       {
-        "title": "The 'Red Telephone' Hotline is Established",
-        "description": "Following lessons learned from the Cuban Missile Crisis, a direct hotline, famously known as the 'Red Telephone,' was established between the White House and the Kremlin to facilitate urgent communication between the superpowers.",
+        "title": "Wikimedia Foundation is Established",
+        "description": "The non-profit Wikimedia Foundation was officially set up to operate Wikipedia, the free online encyclopedia, alongside other global collaborative projects, fostering widespread access to knowledge.",
+        "year": "2003"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Metódio de Patara",
+        "type": "Hieromártir, Bispo",
+        "description": "São Metódio, Bispo de Patara, distinguiu-se pela sua humildade e defendeu firmemente a pureza da Ortodoxia contra as heresias. Deixou um rico legado literário e foi martirizado por volta de 312 d.C., provavelmente durante a perseguição sob Diocleciano."
+      },
+      {
+        "name": "São João de Matera",
+        "type": "Abade",
+        "description": "São João de Matera foi um abade conhecido pela sua austeridade e poderosa pregação. Fundou a Abadia de Santa Maria de Pulsano, na Apúlia, Itália, que se tornou uma nova congregação monástica."
+      },
+      {
+        "name": "São Gobano da Irlanda",
+        "type": "Padre, Monge",
+        "description": "São Goban, um padre irlandês, foi um discípulo na Inglaterra antes de se mudar para a Gália (atual França), onde abraçou uma vida eremítica nas florestas. Ele também é reconhecido como um monge beneditino irlandês."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial do Refugiado",
+        "description": "Designado pelas Nações Unidas, este dia homenageia os refugiados globalmente e celebra a resiliência e a coragem de pessoas forçadas a fugir dos seus países de origem devido a conflitos ou perseguição."
+      },
+      {
+        "name": "Dia Internacional do Surf",
+        "description": "Esta celebração global anual celebra o esporte do surf, sua cultura, e promove a conscientização e proteção do ambiente oceânico."
+      }
+    ],
+    "historicalQuote": {
+      "text": "É uma coisa muito corajosa apaixonar-se. Você tem que estar disposto a confiar em outra pessoa com todo o seu ser, e isso é muito difícil, realmente difícil e muito corajoso.",
+      "author": "Nicole Kidman",
+      "context": "Esta citação inspiradora é atribuída à aclamada atriz e produtora australiano-americana Nicole Kidman, que nasceu em 20 de junho de 1967."
+    },
+    "births": [
+      {
+        "name": "Nicole Kidman",
+        "description": "Uma atriz e produtora australiano-americana aclamada internacionalmente, conhecida por seus papéis versáteis em vários gêneros de cinema e televisão, conquistando múltiplos prêmios de prestígio.",
+        "year": "1967"
+      },
+      {
+        "name": "Lionel Richie",
+        "description": "Um icônico cantor, compositor, músico e produtor musical americano, celebrado por sua voz soulful e suas inúmeras canções de sucesso, tanto como artista solo quanto com os Commodores.",
+        "year": "1949"
+      },
+      {
+        "name": "John Goodman",
+        "description": "Um ator, comediante e dublador americano altamente talentoso, amplamente reconhecido por seus papéis memoráveis em sitcoms de televisão e uma ampla gama de filmes.",
+        "year": "1952"
+      }
+    ],
+    "events": [
+      {
+        "title": "O Congresso Adota o Grande Selo dos Estados Unidos",
+        "description": "Em um ato significativo de simbolismo nacional, o Congresso dos EUA aprovou o Grande Selo dos Estados Unidos, apresentando a águia-careca como seu emblema central, solidificando uma identidade nacional duradoura.",
+        "year": "1782"
+      },
+      {
+        "title": "A Linha Direta do 'Telefone Vermelho' é Estabelecida",
+        "description": "Um link de comunicação direta, famosamente conhecido como 'Telefone Vermelho' (embora na verdade fosse um teletipo), foi estabelecido entre a Casa Branca e o Kremlin após a Crise dos Mísseis de Cuba, significando um passo crucial para a desescalada e a paz.",
         "year": "1963"
+      },
+      {
+        "title": "A Fundação Wikimedia é Estabelecida",
+        "description": "A fundação sem fins lucrativos Wikimedia foi oficialmente criada para operar a Wikipédia, a enciclopédia online gratuita, juntamente com outros projetos colaborativos globais, promovendo o acesso generalizado ao conhecimento.",
+        "year": "2003"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Metodi de Pàtara",
+        "type": "Hieromàrtir, Bisbe",
+        "description": "Sant Metodi, bisbe de Pàtara, es va distingir per la seva humilitat i va defensar fermament la puresa de l'ortodòxia contra les heretgies. Va deixar un ric llegat literari i va ser martiritzat al voltant del 312 dC, probablement durant la persecució sota Dioclecià."
+      },
+      {
+        "name": "Sant Joan de Matera",
+        "type": "Abat",
+        "description": "Sant Joan de Matera va ser un abat conegut per la seva austeritat i la seva poderosa predicació. Va fundar l'Abadia de Santa Maria de Pulsano a la Pulla, Itàlia, que va créixer fins a formar una nova congregació monàstica."
+      },
+      {
+        "name": "Sant Goban d'Irlanda",
+        "type": "Sacerdot, Monjo",
+        "description": "Sant Goban, un sacerdot irlandès, va ser un deixeble a Anglaterra abans de traslladar-se a la Gàl·lia (actual França) on va abraçar una vida eremítica als boscos. També és reconegut com un monjo benedictí irlandès."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial del Refugiat",
+        "description": "Designat per les Nacions Unides, aquest dia homenatja els refugiats a nivell mundial i celebra la resiliència i el coratge de les persones forçades a fugir dels seus països d'origen a causa de conflictes o persecucions."
+      },
+      {
+        "name": "Dia Internacional del Surf",
+        "description": "Aquesta celebració global anual commemora l'esport del surf, la seva cultura, i promou la consciència i la protecció de l'entorn oceànic."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Enamorar-se és una cosa molt valenta. Has d'estar disposat a confiar la teva totalitat a algú altre, i això és molt difícil, realment difícil i molt valent.",
+      "author": "Nicole Kidman",
+      "context": "Aquesta cita inspiradora s'atribueix a l'aclamada actriu i productora australiano-americana Nicole Kidman, que va néixer el 20 de juny de 1967."
+    },
+    "births": [
+      {
+        "name": "Nicole Kidman",
+        "description": "Una actriu i productora australiano-americana aclamada internacionalment, coneguda pels seus papers versàtils en diversos gèneres de cinema i televisió, guanyadora de múltiples premis de prestigi.",
+        "year": "1967"
+      },
+      {
+        "name": "Lionel Richie",
+        "description": "Un icònic cantautor, músic i productor discogràfic americà, celebrat per la seva veu soul i nombroses cançons d'èxit tant com a artista solista com amb els Commodores.",
+        "year": "1949"
+      },
+      {
+        "name": "John Goodman",
+        "description": "Un actor, còmic i actor de veu americà molt realitzat, àmpliament reconegut pels seus memorables papers en comèdies de televisió i una àmplia gamma de pel·lícules.",
+        "year": "1952"
+      }
+    ],
+    "events": [
+      {
+        "title": "El Congrés Adopta el Gran Segell dels Estats Units",
+        "description": "En un significatiu acte de simbolisme nacional, el Congrés dels EUA va aprovar el Gran Segell dels Estats Units, amb l'àguila calba com a emblema central, consolidant una identitat nacional duradora.",
+        "year": "1782"
+      },
+      {
+        "title": "S'Estableix la Línia Directa 'Telèfon Vermell'",
+        "description": "Es va establir un enllaç de comunicació directe, famosament conegut com el 'Telèfon Vermell' (encara que en realitat era un teletip), entre la Casa Blanca i el Kremlin després de la Crisi dels Míssils de Cuba, significant un pas crucial cap a la desescalada i la pau.",
+        "year": "1963"
+      },
+      {
+        "title": "Es Crea la Fundació Wikimedia",
+        "description": "La Fundació Wikimedia, una organització sense ànim de lucre, es va crear oficialment per operar la Wikipedia, l'enciclopèdia en línia gratuïta, juntament amb altres projectes col·laboratius globals, fomentant un ampli accés al coneixement.",
+        "year": "2003"
       }
     ]
   }
