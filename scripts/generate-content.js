@@ -22,6 +22,7 @@ Search Google to source and verify:
 3. A verified inspiring historical quote from a famous author, scientist, or historic figure who was born, died, or performed a major documented act on ${dateString}. Mention how they connect to this date in the 'context' property.
 4. Real births of famous, notable, or widely recognized personalities (authors, artists, scientists, leaders, or pioneers) born on ${dateString}. Include 2 or 3 such personalities.
 5. Real and notable positive or inspiring historical events (scientific milestones, exploration successes, monumental inaugurations, treaties, or peace progress achievements) that occurred on ${dateString} in history. Include 2 or 3 positive events.
+6. An inspiring or thought-provoking motivational quote from any well-known author, philosopher, or public figure (need not be connected to ${dateString}). It must be a DIFFERENT person from the historicalQuote author.
 
 Output ONLY a JSON object matching this schema exactly (no markdown fences):
 {
@@ -34,7 +35,11 @@ Output ONLY a JSON object matching this schema exactly (no markdown fences):
   "historicalQuote": {
     "text": "The full quote in English",
     "author": "Author Name",
-    "context": "Brief historical verification summary on how this person/quote links to ${dateString} in English."
+    "context": "1-2 sentences on how this person or quote connects to ${dateString} in history."
+  },
+  "motivationalQuote": {
+    "text": "The full motivational quote in English",
+    "author": "Author Name"
   },
   "births": [
     { "name": "Famous Person Name", "description": "1-2 sentence description in English.", "year": "Year of birth as a string, e.g., '1803'" }
@@ -57,6 +62,7 @@ Rules:
 - Proper nouns for people (saints, authors, historical figures, famous personalities) must use the conventional name in each language if one exists (e.g. "Joan d'Arc" in Catalan, "Juana de Arco" in Spanish). If no conventional translation exists, keep the original name unchanged.
 - Observance names: use the official translated name if one exists; otherwise keep the original.
 - Do NOT add or remove array items — the structure must be identical across all languages.
+- Translate ALL fields including historicalQuote.context and motivationalQuote.text.
 
 Source JSON:
 ${JSON.stringify(baseJson, null, 2)}
@@ -72,6 +78,7 @@ function buildVerificationPrompt(dateString, translatedJson, baseJson) {
   const namesToVerify = {
     saints: translatedJson.en.saints.map(s => s.name),
     quoteAuthor: translatedJson.en.historicalQuote.author,
+    motivationalQuoteAuthor: translatedJson.en.motivationalQuote.author,
     births: translatedJson.en.births.map(b => b.name),
   };
 
@@ -79,7 +86,8 @@ function buildVerificationPrompt(dateString, translatedJson, baseJson) {
 
 The reference English names (verified via Google Search) are:
 - Saints: ${namesToVerify.saints.join(', ')}
-- Quote author: ${namesToVerify.quoteAuthor}
+- Historical quote author: ${namesToVerify.quoteAuthor}
+- Motivational quote author: ${namesToVerify.motivationalQuoteAuthor}
 - Birth personalities: ${namesToVerify.births.join(', ')}
 
 Check using Google Search whether the translated names below are correct conventional names in each language. Only correct a name if it is clearly wrong or non-standard — leave it unchanged otherwise.
@@ -89,31 +97,35 @@ ${JSON.stringify({
     es: {
       saints: translatedJson.es.saints.map(s => s.name),
       quoteAuthor: translatedJson.es.historicalQuote.author,
+      motivationalQuoteAuthor: translatedJson.es.motivationalQuote.author,
       births: translatedJson.es.births.map(b => b.name),
     },
     en: {
       saints: translatedJson.en.saints.map(s => s.name),
       quoteAuthor: translatedJson.en.historicalQuote.author,
+      motivationalQuoteAuthor: translatedJson.en.motivationalQuote.author,
       births: translatedJson.en.births.map(b => b.name),
     },
     pt: {
       saints: translatedJson.pt.saints.map(s => s.name),
       quoteAuthor: translatedJson.pt.historicalQuote.author,
+      motivationalQuoteAuthor: translatedJson.pt.motivationalQuote.author,
       births: translatedJson.pt.births.map(b => b.name),
     },
     ca: {
       saints: translatedJson.ca.saints.map(s => s.name),
       quoteAuthor: translatedJson.ca.historicalQuote.author,
+      motivationalQuoteAuthor: translatedJson.ca.motivationalQuote.author,
       births: translatedJson.ca.births.map(b => b.name),
     },
   }, null, 2)}
 
 Output ONLY a JSON object with corrections (no markdown fences). For each language, list only the names that need to be changed. Use null if nothing needs correction in that language:
 {
-  "es": { "saints": ["corrected name or null to keep", ...], "quoteAuthor": "corrected or null", "births": ["corrected name or null to keep", ...] },
-  "en": { "saints": [...], "quoteAuthor": null, "births": [...] },
-  "pt": { "saints": [...], "quoteAuthor": null, "births": [...] },
-  "ca": { "saints": [...], "quoteAuthor": null, "births": [...] }
+  "es": { "saints": ["corrected name or null to keep", ...], "quoteAuthor": "corrected or null", "motivationalQuoteAuthor": "corrected or null", "births": ["corrected name or null to keep", ...] },
+  "en": { "saints": [...], "quoteAuthor": null, "motivationalQuoteAuthor": null, "births": [...] },
+  "pt": { "saints": [...], "quoteAuthor": null, "motivationalQuoteAuthor": null, "births": [...] },
+  "ca": { "saints": [...], "quoteAuthor": null, "motivationalQuoteAuthor": null, "births": [...] }
 }`;
 }
 
@@ -182,6 +194,9 @@ function applyNameCorrections(translated, corrections) {
     }
     if (corr.quoteAuthor && corr.quoteAuthor !== null) {
       result[lang].historicalQuote = { ...result[lang].historicalQuote, author: corr.quoteAuthor };
+    }
+    if (corr.motivationalQuoteAuthor && corr.motivationalQuoteAuthor !== null) {
+      result[lang].motivationalQuote = { ...result[lang].motivationalQuote, author: corr.motivationalQuoteAuthor };
     }
     if (corr.births) {
       result[lang].births = result[lang].births.map((b, i) =>
