@@ -1,0 +1,307 @@
+{
+  "date": "2026-06-22",
+  "es": {
+    "saints": [
+      {
+        "name": "San Juan Fisher",
+        "type": "Obispo y Mártir",
+        "description": "Un obispo y académico inglés que sirvió como Canciller de la Universidad de Cambridge. Fue martirizado en 1535 por negarse a aceptar al Rey Enrique VIII como Jefe Supremo de la Iglesia de Inglaterra."
+      },
+      {
+        "name": "Santo Tomás Moro",
+        "type": "Mártir y Estadista",
+        "description": "Un abogado, filósofo social, humanista y estadista inglés. Fue ejecutado en 1535 por oponerse a la separación del Rey Enrique VIII de la Iglesia Católica y negarse a aceptar el Acta de Supremacía."
+      },
+      {
+        "name": "Hieromártir Eusebio de Samosata",
+        "type": "Obispo",
+        "description": "Un obispo de Samosata que defendió firmemente la Confesión Ortodoxa de Fe proclamada en el Primer Sínodo Ecuménico y sufrió persecución por parte de los arrianos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Selva Tropical",
+        "description": "Este día está dedicado a aumentar la concienciación y fomentar la acción para proteger las selvas tropicales del mundo."
+      },
+      {
+        "name": "Día Internacional de Ser Tú Mismo",
+        "description": "Una conmemoración moderna que promueve la autoaceptación y la individualidad, animando a las personas a abrazar su yo auténtico."
+      },
+      {
+        "name": "Día de la Lucha Antifascista",
+        "description": "Un día festivo nacional en Croacia que conmemora el inicio del primer levantamiento armado antifascista organizado durante la Segunda Guerra Mundial en 1941."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Confía en tu propio instinto. Tus errores bien podrían ser tuyos, en lugar de los de otra persona.",
+      "author": "Billy Wilder",
+      "context": "Billy Wilder, el aclamado director de cine, guionista y productor austro-estadounidense, nació el 22 de junio de 1906."
+    },
+    "motivationalQuote": {
+      "text": "La única manera de hacer un gran trabajo es amar lo que haces.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Meryl Streep",
+        "description": "Una actriz estadounidense ampliamente reconocida como una de las mejores actrices en la historia del cine, conocida por su versatilidad y acentos.",
+        "year": "1949"
+      },
+      {
+        "name": "Cyndi Lauper",
+        "description": "Una cantante, compositora y actriz estadounidense conocida por su voz distintiva y éxitos como 'Girls Just Want to Have Fun'.",
+        "year": "1953"
+      },
+      {
+        "name": "Billy Wilder",
+        "description": "Un director de cine, guionista y productor austro-estadounidense cuya carrera abarcó cinco décadas y le valió seis Premios de la Academia.",
+        "year": "1906"
+      }
+    ],
+    "events": [
+      {
+        "title": "Firma de la Ley de Derechos del Soldado (GI Bill)",
+        "description": "El presidente de EE. UU., Franklin D. Roosevelt, firmó la Ley de Reajuste para Militares de 1944, famosa como la G.I. Bill, que proporcionaba beneficios sustanciales a los veteranos de la Segunda Guerra Mundial que regresaban para educación, vivienda y desempleo.",
+        "year": "1944"
+      },
+      {
+        "title": "Creación del Departamento de Justicia de EE. UU.",
+        "description": "El Departamento de Justicia de los Estados Unidos fue creado por el Congreso de los EE. UU., estableciendo el departamento ejecutivo del gobierno federal responsable de la aplicación de la ley y la administración de justicia.",
+        "year": "1870"
+      },
+      {
+        "title": "Desmantelamiento del Checkpoint Charlie",
+        "description": "En un paso simbólico hacia la reunificación alemana y el fin de la Guerra Fría, se desmanteló el Checkpoint Charlie, el famoso punto de cruce entre Berlín Este y Oeste.",
+        "year": "1990"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. John Fisher",
+        "type": "Bishop and Martyr",
+        "description": "An English bishop and academic who served as Chancellor of Cambridge University. He was martyred in 1535 for refusing to accept King Henry VIII as the Supreme Head of the Church of England."
+      },
+      {
+        "name": "St. Thomas More",
+        "type": "Martyr and Statesman",
+        "description": "An English lawyer, social philosopher, humanist, and statesman. He was executed in 1535 for opposing King Henry VIII's separation from the Catholic Church and refusing to accept the Act of Supremacy."
+      },
+      {
+        "name": "Hieromartyr Eusebius of Samosata",
+        "type": "Bishop",
+        "description": "A bishop of Samosata who firmly defended the Orthodox Confession of Faith proclaimed at the First Ecumenical Synod and suffered persecution from Arians."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Rainforest Day",
+        "description": "This day is dedicated to raising awareness and encouraging action to protect the world's rainforests."
+      },
+      {
+        "name": "International Being You Day",
+        "description": "A modern observance that promotes self-acceptance and individuality, encouraging people to embrace their authentic selves."
+      },
+      {
+        "name": "Anti-Fascist Struggle Day",
+        "description": "A national holiday in Croatia commemorating the start of the first organized armed anti-fascist uprising during World War II in 1941."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Trust your own instinct. Your mistakes might as well be your own, instead of someone else's.",
+      "author": "Billy Wilder",
+      "context": "Billy Wilder, the acclaimed Austrian-American film director, screenwriter, and producer, was born on June 22, 1906."
+    },
+    "motivationalQuote": {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Meryl Streep",
+        "description": "An American actress widely recognized as one of the greatest actresses in cinema history, known for her versatility and accents.",
+        "year": "1949"
+      },
+      {
+        "name": "Cyndi Lauper",
+        "description": "An American singer, songwriter, and actress known for her distinctive voice and hits like 'Girls Just Want to Have Fun'.",
+        "year": "1953"
+      },
+      {
+        "name": "Billy Wilder",
+        "description": "An Austrian-American film director, screenwriter, and producer whose career spanned five decades and earned him six Academy Awards.",
+        "year": "1906"
+      }
+    ],
+    "events": [
+      {
+        "title": "GI Bill of Rights Signed",
+        "description": "U.S. President Franklin D. Roosevelt signed the Servicemen's Readjustment Act of 1944, famously known as the G.I. Bill, providing substantial benefits to returning World War II veterans for education, housing, and unemployment.",
+        "year": "1944"
+      },
+      {
+        "title": "U.S. Department of Justice Created",
+        "description": "The United States Department of Justice was created by the U.S. Congress, establishing the federal government's executive department responsible for the enforcement of the law and administration of justice.",
+        "year": "1870"
+      },
+      {
+        "title": "Checkpoint Charlie Dismantled",
+        "description": "In a symbolic step towards German reunification and the end of the Cold War, Checkpoint Charlie, the famous crossing point between East and West Berlin, was dismantled.",
+        "year": "1990"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São João Fisher",
+        "type": "Bispo e Mártir",
+        "description": "Um bispo e acadêmico inglês que serviu como Chanceler da Universidade de Cambridge. Foi martirizado em 1535 por se recusar a aceitar o Rei Henrique VIII como Chefe Supremo da Igreja da Inglaterra."
+      },
+      {
+        "name": "São Tomás More",
+        "type": "Mártir e Estadista",
+        "description": "Um advogado, filósofo social, humanista e estadista inglês. Foi executado em 1535 por se opor à separação do Rei Henrique VIII da Igreja Católica e por se recusar a aceitar o Ato de Supremacia."
+      },
+      {
+        "name": "Hieromártir Eusébio de Samosata",
+        "type": "Bispo",
+        "description": "Um bispo de Samosata que defendeu firmemente a Confissão de Fé Ortodoxa proclamada no Primeiro Sínodo Ecumênico e sofreu perseguição dos Arianos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Floresta Tropical",
+        "description": "Este dia é dedicado a aumentar a conscientização e a incentivar ações para proteger as florestas tropicais do mundo."
+      },
+      {
+        "name": "Dia Internacional de Ser Você",
+        "description": "Uma observância moderna que promove a autoaceitação e a individualidade, encorajando as pessoas a abraçar seu eu autêntico."
+      },
+      {
+        "name": "Dia da Luta Antifascista",
+        "description": "Um feriado nacional na Croácia que comemora o início do primeiro levante armado antifascista organizado durante a Segunda Guerra Mundial em 1941."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Confie no seu próprio instinto. Seus erros podem muito bem ser seus, em vez de serem os de outra pessoa.",
+      "author": "Billy Wilder",
+      "context": "Billy Wilder, o aclamado diretor de cinema, roteirista e produtor austro-americano, nasceu em 22 de junho de 1906."
+    },
+    "motivationalQuote": {
+      "text": "A única maneira de fazer um ótimo trabalho é amar o que você faz.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Meryl Streep",
+        "description": "Uma atriz americana amplamente reconhecida como uma das maiores atrizes da história do cinema, conhecida por sua versatilidade e sotaques.",
+        "year": "1949"
+      },
+      {
+        "name": "Cyndi Lauper",
+        "description": "Uma cantora, compositora e atriz americana conhecida por sua voz distinta e sucessos como 'Girls Just Want to Have Fun'.",
+        "year": "1953"
+      },
+      {
+        "name": "Billy Wilder",
+        "description": "Um diretor de cinema, roteirista e produtor austro-americano cuja carreira abrangeu cinco décadas e lhe rendeu seis Óscares.",
+        "year": "1906"
+      }
+    ],
+    "events": [
+      {
+        "title": "Lei GI dos Direitos Assinada",
+        "description": "O presidente dos EUA, Franklin D. Roosevelt, assinou a Lei de Reajuste dos Militares de 1944, famosa como a GI Bill, fornecendo benefícios substanciais aos veteranos da Segunda Guerra Mundial que retornavam para educação, moradia e desemprego.",
+        "year": "1944"
+      },
+      {
+        "title": "Departamento de Justiça dos EUA Criado",
+        "description": "O Departamento de Justiça dos Estados Unidos foi criado pelo Congresso dos EUA, estabelecendo o departamento executivo do governo federal responsável pela aplicação da lei e administração da justiça.",
+        "year": "1870"
+      },
+      {
+        "title": "Checkpoint Charlie Desmontado",
+        "description": "Em um passo simbólico em direção à reunificação alemã e ao fim da Guerra Fria, o Checkpoint Charlie, o famoso ponto de passagem entre Berlim Oriental e Ocidental, foi desmontado.",
+        "year": "1990"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Joan Fisher",
+        "type": "Bisbe i Màrtir",
+        "description": "Un bisbe i acadèmic anglès que va exercir de Canceller de la Universitat de Cambridge. Va ser martiritzat el 1535 per negar-se a acceptar el rei Enric VIII com a Cap Suprem de l'Església d'Anglaterra."
+      },
+      {
+        "name": "Sant Tomàs More",
+        "type": "Màrtir i Estadista",
+        "description": "Un advocat, filòsof social, humanista i estadista anglès. Va ser executat el 1535 per oposar-se a la separació del rei Enric VIII de l'Església Catòlica i per negar-se a acceptar l'Acta de Supremacia."
+      },
+      {
+        "name": "Hieromàrtir Eusebi de Samosata",
+        "type": "Bisbe",
+        "description": "Un bisbe de Samosata que va defensar fermament la Confessió de Fe Ortodoxa proclamada al Primer Sínode Ecumènic i va patir persecució per part dels arrians."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Selva Tropical",
+        "description": "Aquest dia es dedica a augmentar la consciència i a fomentar accions per protegir les selves tropicals del món."
+      },
+      {
+        "name": "Dia Internacional de Ser Tu Mateix",
+        "description": "Una celebració moderna que promou l'autoacceptació i la individualitat, animant la gent a abraçar la seva autèntica essència."
+      },
+      {
+        "name": "Dia de la Lluita Antifeixista",
+        "description": "Un dia festiu nacional a Croàcia que commemora l'inici del primer aixecament armat antifeixista organitzat durant la Segona Guerra Mundial el 1941."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Confia en el teu propi instint. Els teus errors bé podrien ser els teus, en lloc dels d'algú altre.",
+      "author": "Billy Wilder",
+      "context": "Billy Wilder, l'aclamat director de cinema, guionista i productor austroamericà, va néixer el 22 de juny de 1906."
+    },
+    "motivationalQuote": {
+      "text": "L'única manera de fer una gran feina és estimar el que fas.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Meryl Streep",
+        "description": "Una actriu nord-americana àmpliament reconeguda com una de les millors actrius de la història del cinema, coneguda per la seva versatilitat i accents.",
+        "year": "1949"
+      },
+      {
+        "name": "Cyndi Lauper",
+        "description": "Una cantant, compositora i actriu nord-americana coneguda per la seva veu distintiva i èxits com 'Girls Just Want to Have Fun'.",
+        "year": "1953"
+      },
+      {
+        "name": "Billy Wilder",
+        "description": "Un director de cinema, guionista i productor austroamericà, la carrera del qual va abastar cinc dècades i li va valer sis premis Oscar.",
+        "year": "1906"
+      }
+    ],
+    "events": [
+      {
+        "title": "Signatura de la Llei de Drets dels Excombatents (GI Bill)",
+        "description": "El president dels Estats Units, Franklin D. Roosevelt, va signar la Llei de Reajustament dels Militars de 1944, coneguda com la G.I. Bill, que proporcionava beneficis substancials als veterans de la Segona Guerra Mundial que tornaven per a educació, habitatge i desocupació.",
+        "year": "1944"
+      },
+      {
+        "title": "Creació del Departament de Justícia dels EUA",
+        "description": "El Departament de Justícia dels Estats Units va ser creat pel Congrés dels EUA, establint el departament executiu del govern federal responsable de l'aplicació de la llei i l'administració de justícia.",
+        "year": "1870"
+      },
+      {
+        "title": "Desmantellament del Checkpoint Charlie",
+        "description": "En un pas simbòlic cap a la reunificació alemanya i la fi de la Guerra Freda, el Checkpoint Charlie, el famós punt de pas entre Berlín Est i Oest, va ser desmantellat.",
+        "year": "1990"
+      }
+    ]
+  }
+}
