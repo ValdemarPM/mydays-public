@@ -1,0 +1,307 @@
+{
+  "date": "2026-06-24",
+  "es": {
+    "saints": [
+      {
+        "name": "San Juan Bautista",
+        "type": "Profeta y Precursor",
+        "description": "Conmemorado el 24 de junio por su Natividad, fue un profeta que predicó el arrepentimiento, bautizó a Cristo y preparó el camino para Jesús."
+      },
+      {
+        "name": "San Bartolomé",
+        "type": "Monje Benedictino, Sacerdote",
+        "description": "Fue un monje y sacerdote benedictino que, después de una juventud disoluta, experimentó una conversión y se convirtió en misionero en Noruega antes de regresar a Inglaterra."
+      },
+      {
+        "name": "San Rumoldo",
+        "type": "Monje Benedictino, Obispo Misionero, Mártir",
+        "description": "Un monje benedictino y obispo misionero, San Rumoldo fue martirizado por denunciar las costumbres pecaminosas en el área de los Países Bajos y Bélgica modernos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Solsticio de Verano / Día de San Juan",
+        "description": "Una importante celebración europea del solsticio de verano, a menudo observada con hogueras, festines y bailes alrededor del árbol de mayo, y cristianizada como la Víspera de San Juan y el Día de San Juan."
+      },
+      {
+        "name": "Día Internacional de las Hadas",
+        "description": "Este día celebra la tradición de las hadas en diversas culturas y fomenta la narración imaginativa, especialmente para los niños."
+      },
+      {
+        "name": "Día Internacional de las Mujeres en la Diplomacia",
+        "description": "Esta conmemoración celebra los logros de las mujeres diplomáticas y aboga por su participación plena, igualitaria y significativa en los asuntos internacionales."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Futuro, s. m. Aquel período de tiempo en el que nuestros asuntos prosperan, nuestros amigos son leales y nuestra felicidad está asegurada.",
+      "author": "Ambrose Bierce",
+      "context": "Ambrose Bierce, autor, periodista y satírico estadounidense, nació el 24 de junio de 1842. Sus escritos a menudo incluían definiciones ingeniosas y cínicas."
+    },
+    "motivationalQuote": {
+      "text": "Nada en la vida debe ser temido, solo debe ser comprendido. Ahora es el momento de comprender más, para que temamos menos.",
+      "author": "Marie Curie"
+    },
+    "births": [
+      {
+        "name": "Lionel Messi",
+        "description": "Un futbolista profesional argentino ampliamente considerado como uno de los mejores jugadores de todos los tiempos.",
+        "year": "1987"
+      },
+      {
+        "name": "Mindy Kaling",
+        "description": "Una actriz, comediante, escritora y productora estadounidense conocida por su trabajo en 'The Office' y 'The Mindy Project'.",
+        "year": "1979"
+      },
+      {
+        "name": "Mick Fleetwood",
+        "description": "Un músico y actor británico, más conocido como el baterista, cofundador y líder de facto de la banda de rock Fleetwood Mac.",
+        "year": "1947"
+      }
+    ],
+    "events": [
+      {
+        "title": "Juan Caboto realiza el primer avistamiento europeo registrado de América del Norte",
+        "description": "En 1497, el explorador italiano Juan Caboto, navegando para Inglaterra, realizó el primer avistamiento europeo registrado de América del Norte desde los vikingos, probablemente desembarcando en el actual Canadá.",
+        "year": "1497"
+      },
+      {
+        "title": "Fundación de la Gran Logia Premier de Inglaterra",
+        "description": "En 1717, la Gran Logia Premier de Inglaterra fue fundada en Londres, marcando un momento histórico significativo para la Francmasonería como la primera Gran Logia Masónica del mundo.",
+        "year": "1717"
+      },
+      {
+        "title": "Sally Ride regresa a la Tierra después de un histórico vuelo espacial",
+        "description": "En 1983, el Transbordador Espacial Challenger, que transportaba a la primera mujer estadounidense en el espacio, Sally K. Ride, aterrizó de forma segura en la Base de la Fuerza Aérea Edwards en California, marcando un hito para las mujeres en la exploración espacial.",
+        "year": "1983"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint John the Baptist",
+        "type": "Prophet and Forerunner",
+        "description": "Commemorated on June 24 for his Nativity, he was a prophet who preached repentance, baptized Christ, and prepared the way for Jesus."
+      },
+      {
+        "name": "Saint Bartholomew of Farne",
+        "type": "Benedictine Monk, Priest",
+        "description": "He was a Benedictine monk and priest who, after a dissolute youth, experienced a conversion and became a missionary in Norway before returning to England."
+      },
+      {
+        "name": "Saint Rumold",
+        "type": "Benedictine Monk, Missionary Bishop, Martyr",
+        "description": "A Benedictine monk and missionary bishop, Saint Rumold was martyred for denouncing sinful ways in the area of modern Netherlands and Belgium."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Midsummer / Saint John's Day",
+        "description": "A major European celebration of the summer solstice, often observed with bonfires, feasts, and maypole dancing, and Christianized as Saint John's Eve and Saint John's Day."
+      },
+      {
+        "name": "International Fairy Day",
+        "description": "This day celebrates fairy lore across various cultures and encourages imaginative storytelling, especially for children."
+      },
+      {
+        "name": "International Day of Women in Diplomacy",
+        "description": "This observance celebrates the achievements of women diplomats and advocates for their full, equal, and meaningful participation in international affairs."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Future, n. That period of time in which our affairs prosper, our friends are true and our happiness is assured.",
+      "author": "Ambrose Bierce",
+      "context": "Ambrose Bierce, an American author, journalist, and satirist, was born on June 24, 1842. His writings often included witty and cynical definitions."
+    },
+    "motivationalQuote": {
+      "text": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+      "author": "Marie Curie"
+    },
+    "births": [
+      {
+        "name": "Lionel Messi",
+        "description": "An Argentine professional footballer widely regarded as one of the greatest players of all time.",
+        "year": "1987"
+      },
+      {
+        "name": "Mindy Kaling",
+        "description": "An American actress, comedian, writer, and producer known for her work on 'The Office' and 'The Mindy Project'.",
+        "year": "1979"
+      },
+      {
+        "name": "Mick Fleetwood",
+        "description": "A British musician and actor, best known as the drummer, co-founder, and de facto leader of the rock band Fleetwood Mac.",
+        "year": "1947"
+      }
+    ],
+    "events": [
+      {
+        "title": "John Cabot makes first recorded European sighting of North America",
+        "description": "In 1497, Italian explorer John Cabot, sailing for England, made the first recorded European sighting of North America since the Vikings, likely landing in present-day Canada.",
+        "year": "1497"
+      },
+      {
+        "title": "Founding of the Premier Grand Lodge of England",
+        "description": "In 1717, the Premier Grand Lodge of England was founded in London, marking a significant historical moment for Freemasonry as the world's first Masonic Grand Lodge.",
+        "year": "1717"
+      },
+      {
+        "title": "Sally Ride returns to Earth after historic space flight",
+        "description": "In 1983, the Space Shuttle Challenger, carrying America's first woman in space, Sally K. Ride, safely landed at Edwards Air Force Base in California, marking a milestone for women in space exploration.",
+        "year": "1983"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São João Batista",
+        "type": "Profeta e Precursor",
+        "description": "Comemorado em 24 de junho por sua Natividade, foi um profeta que pregou o arrependimento, batizou Cristo e preparou o caminho para Jesus."
+      },
+      {
+        "name": "São Bartolomeu",
+        "type": "Monge Beneditino, Sacerdote",
+        "description": "Foi um monge e sacerdote beneditino que, após uma juventude dissoluta, experimentou uma conversão e se tornou missionário na Noruega antes de retornar à Inglaterra."
+      },
+      {
+        "name": "São Rumoldo",
+        "type": "Monge Beneditino, Bispo Missionário, Mártir",
+        "description": "Um monge beneditino e bispo missionário, São Rumoldo foi martirizado por denunciar costumes pecaminosos na área dos Países Baixos e da Bélgica modernos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Solstício de Verão / Dia de São João",
+        "description": "Uma importante celebração europeia do solstício de verão, frequentemente observada com fogueiras, festas e danças em volta do mastro de maio, e cristianizada como a Véspera de São João e o Dia de São João."
+      },
+      {
+        "name": "Dia Internacional das Fadas",
+        "description": "Este dia celebra a tradição das fadas em várias culturas e incentiva a narração imaginativa, especialmente para crianças."
+      },
+      {
+        "name": "Dia Internacional das Mulheres na Diplomacia",
+        "description": "Esta celebração comemora as conquistas das mulheres diplomatas e defende sua participação plena, igualitária e significativa nos assuntos internacionais."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Futuro, s. m. Aquele período de tempo em que nossos negócios prosperam, nossos amigos são verdadeiros e nossa felicidade é assegurada.",
+      "author": "Ambrose Bierce",
+      "context": "Ambrose Bierce, autor, jornalista e satirista americano, nasceu em 24 de junho de 1842. Seus escritos frequentemente incluíam definições espirituosas e cínicas."
+    },
+    "motivationalQuote": {
+      "text": "Nada na vida deve ser temido, apenas compreendido. Agora é a hora de compreender mais, para que temamos menos.",
+      "author": "Marie Curie"
+    },
+    "births": [
+      {
+        "name": "Lionel Messi",
+        "description": "Um futebolista profissional argentino amplamente considerado um dos maiores jogadores de todos os tempos.",
+        "year": "1987"
+      },
+      {
+        "name": "Mindy Kaling",
+        "description": "Uma atriz, comediante, escritora e produtora americana conhecida por seu trabalho em 'The Office' e 'The Mindy Project'.",
+        "year": "1979"
+      },
+      {
+        "name": "Mick Fleetwood",
+        "description": "Um músico e ator britânico, mais conhecido como o baterista, cofundador e líder de facto da banda de rock Fleetwood Mac.",
+        "year": "1947"
+      }
+    ],
+    "events": [
+      {
+        "title": "João Caboto realiza o primeiro avistamento europeu registrado da América do Norte",
+        "description": "Em 1497, o explorador italiano João Caboto, navegando pela Inglaterra, realizou o primeiro avistamento europeu registrado da América do Norte desde os vikings, provavelmente desembarcando no atual Canadá.",
+        "year": "1497"
+      },
+      {
+        "title": "Fundação da Grande Loja Premier da Inglaterra",
+        "description": "Em 1717, a Grande Loja Premier da Inglaterra foi fundada em Londres, marcando um momento histórico significativo para a Maçonaria como a primeira Grande Loja Maçônica do mundo.",
+        "year": "1717"
+      },
+      {
+        "title": "Sally Ride retorna à Terra após voo espacial histórico",
+        "description": "Em 1983, o Ônibus Espacial Challenger, transportando a primeira mulher americana no espaço, Sally K. Ride, pousou com segurança na Base Aérea de Edwards, na Califórnia, marcando um marco para as mulheres na exploração espacial.",
+        "year": "1983"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Joan Baptista",
+        "type": "Profeta i Precursor",
+        "description": "Commemorat el 24 de juny per la seva Nativitat, va ser un profeta que va predicar el penediment, va batejar Crist i va preparar el camí per a Jesús."
+      },
+      {
+        "name": "Sant Bartomeu",
+        "type": "Monjo Benedictí, Sacerdot",
+        "description": "Va ser un monjo i sacerdot benedictí que, després d'una joventut dissoluta, va experimentar una conversió i es va convertir en missioner a Noruega abans de tornar a Anglaterra."
+      },
+      {
+        "name": "Sant Rumold",
+        "type": "Monjo Benedictí, Bisbe Missioner, Màrtir",
+        "description": "Monjo benedictí i bisbe missioner, Sant Rumold va ser martiritzat per denunciar costums pecaminosos a la zona dels actuals Països Baixos i Bèlgica."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Solstici d'estiu / Diada de Sant Joan",
+        "description": "Una gran celebració europea del solstici d'estiu, sovint observada amb fogueres, festes i danses amb pals de maig, i cristianitzada com la Nit de Sant Joan i la Diada de Sant Joan."
+      },
+      {
+        "name": "Dia Internacional de les Fades",
+        "description": "Aquest dia celebra la tradició de les fades a diverses cultures i fomenta la narració imaginativa, especialment per als infants."
+      },
+      {
+        "name": "Dia Internacional de les Dones en la Diplomàcia",
+        "description": "Aquesta commemoració celebra els èxits de les dones diplomàtiques i advoca per la seva participació plena, igualitària i significativa en els afers internacionals."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Futur, subst. Període de temps en què els nostres afers prosperen, els nostres amics són fidels i la nostra felicitat està assegurada.",
+      "author": "Ambrose Bierce",
+      "context": "Ambrose Bierce, un autor, periodista i satíric nord-americà, va néixer el 24 de juny de 1842. Els seus escrits sovint incloïen definicions enginyoses i cíniques."
+    },
+    "motivationalQuote": {
+      "text": "No hi ha res a la vida que s'hagi de témer, només s'ha d'entendre. Ara és el moment d'entendre més, perquè puguem témer menys.",
+      "author": "Marie Curie"
+    },
+    "births": [
+      {
+        "name": "Lionel Messi",
+        "description": "Un futbolista professional argentí àmpliament considerat com un dels millors jugadors de tots els temps.",
+        "year": "1987"
+      },
+      {
+        "name": "Mindy Kaling",
+        "description": "Actriu, còmica, escriptora i productora nord-americana coneguda pel seu treball a 'The Office' i 'The Mindy Project'.",
+        "year": "1979"
+      },
+      {
+        "name": "Mick Fleetwood",
+        "description": "Músic i actor britànic, més conegut com el bateria, cofundador i líder de facto de la banda de rock Fleetwood Mac.",
+        "year": "1947"
+      }
+    ],
+    "events": [
+      {
+        "title": "Joan Cabot fa el primer albirament europeu registrat d'Amèrica del Nord",
+        "description": "El 1497, l'explorador italià Joan Cabot, navegant per Anglaterra, va fer el primer albirament europeu registrat d'Amèrica del Nord des dels víquings, probablement aterrant a l'actual Canadà.",
+        "year": "1497"
+      },
+      {
+        "title": "Fundació de la Primera Gran Lògia d'Anglaterra",
+        "description": "El 1717, la Primera Gran Lògia d'Anglaterra es va fundar a Londres, marcant un moment històric significatiu per a la francmaçoneria com la primera Gran Lògia maçònica del món.",
+        "year": "1717"
+      },
+      {
+        "title": "Sally Ride torna a la Terra després d'un vol espacial històric",
+        "description": "El 1983, el transbordador espacial Challenger, que transportava la primera dona nord-americana a l'espai, Sally K. Ride, va aterrar amb seguretat a la Base de la Força Aèria Edwards a Califòrnia, marcant una fita per a les dones en l'exploració espacial.",
+        "year": "1983"
+      }
+    ]
+  }
+}
