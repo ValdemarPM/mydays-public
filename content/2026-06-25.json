@@ -1,0 +1,307 @@
+{
+  "date": "2026-06-25",
+  "es": {
+    "saints": [
+      {
+        "name": "San Guillermo de Vercelli",
+        "type": "Eremita y Fundador",
+        "description": "San Guillermo de Vercelli fue un eremita italiano y fundador de los Eremitas de Monte Vergine, conocido por su profunda espiritualidad y su guía a reyes y papas. Estableció varios monasterios en todo el Reino de Nápoles."
+      },
+      {
+        "name": "Virgen Mártir Febronia de Nisibis",
+        "type": "Virgen Mártir",
+        "description": "La Virgen Mártir Febronia sufrió durante el reinado de Diocleciano (284-305) y fue conocida por su vida piadosa, profunda fe y lectura regular de la Santa Escritura en su monasterio."
+      },
+      {
+        "name": "Santos Pedro y Fevronia de Murom",
+        "type": "Taumaturgos y Patronos del Matrimonio",
+        "description": "El Santo Príncipe Pedro y la Santa Princesa Fevronia (David y Eufrosina en el monacato) son taumaturgos de Múrom y son considerados modelos ejemplares del matrimonio cristiano y santos patronos de los recién casados."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Global de los Beatles",
+        "description": "Este día conmemora la primera transmisión mundial de televisión por satélite de la canción 'All You Need Is Love' de The Beatles el 25 de junio de 1967, a 400 millones de espectadores."
+      },
+      {
+        "name": "Día del Marino",
+        "description": "Establecido por la Organización Marítima Internacional, esta observancia reconoce las invaluables contribuciones de más de 1,5 millones de marinos que sustentan el 90 por ciento del comercio mundial."
+      },
+      {
+        "name": "Día Mundial del Vitíligo",
+        "description": "El Día Mundial del Vitíligo está dedicado a crear conciencia global sobre el vitíligo, una condición autoinmune crónica que causa la despigmentación de la piel."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si la libertad significa algo en absoluto, significa el derecho a decir a la gente lo que no quiere oír.",
+      "author": "George Orwell",
+      "context": "George Orwell, un prolífico escritor británico reconocido por su estilo de escritura claro, su crítica social y su oposición al totalitarismo, nació el 25 de junio de 1903."
+    },
+    "motivationalQuote": {
+      "text": "Una vida sin examinar no merece ser vivida.",
+      "author": "Sócrates"
+    },
+    "births": [
+      {
+        "name": "George Orwell",
+        "description": "George Orwell fue un novelista, ensayista, periodista y crítico británico, más conocido por sus novelas distópicas 'Mil Novecientos Ochenta y Cuatro' y 'Rebelión en la Granja'.",
+        "year": "1903"
+      },
+      {
+        "name": "Antoni Gaudí",
+        "description": "Antoni Gaudí fue un arquitecto español, figura destacada del Modernismo Catalán, cuyas obras distintivas incluyen la Sagrada Familia y el Parque Güell en Barcelona.",
+        "year": "1852"
+      },
+      {
+        "name": "Anthony Bourdain",
+        "description": "Anthony Bourdain fue un chef célebre, autor y documentalista de viajes estadounidense, celebrado por su exploración de la cultura y la gastronomía internacional en programas como 'Parts Unknown'.",
+        "year": "1956"
+      }
+    ],
+    "events": [
+      {
+        "title": "Virginia Ratifica la Constitución de EE. UU.",
+        "description": "El 25 de junio de 1788, Virginia se convirtió en el décimo estado en ratificar la Constitución de los Estados Unidos, un paso crucial en la formación del gobierno federal.",
+        "year": "1788"
+      },
+      {
+        "title": "Eslovenia y Croacia Declaran su Independencia",
+        "description": "El 25 de junio de 1991, las repúblicas yugoslavas de Eslovenia y Croacia declararon su independencia, iniciando la desintegración de Yugoslavia y una nueva era para ambas naciones.",
+        "year": "1991"
+      },
+      {
+        "title": "Se Emite el Primer Programa de Televisión Satelital Global en Vivo",
+        "description": "El primer programa de televisión satelital global en vivo del mundo, 'Our World', se emitió el 25 de junio de 1967, conectando audiencias en 19 países con una transmisión que presentaba a varios artistas.",
+        "year": "1967"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint William of Vercelli",
+        "type": "Hermit and Founder",
+        "description": "Saint William of Vercelli was an Italian hermit and founder of the Hermits of Monte Vergine, known for his profound spirituality and guidance to kings and popes. He established several monasteries throughout the Kingdom of Naples."
+      },
+      {
+        "name": "Virgin Martyr Febronia of Nisibis",
+        "type": "Virgin Martyr",
+        "description": "Virgin Martyr Febronia suffered during the reign of Diocletian (284-305) and was known for her pious life, deep faith, and regular reading of Holy Scripture in her monastery."
+      },
+      {
+        "name": "Saints Peter and Fevronia of Murom",
+        "type": "Wonderworkers and Patrons of Marriage",
+        "description": "Holy Prince Peter and Holy Princess Fevronia (David and Euphrosyne in monasticism) are wonderworkers of Murom and are considered exemplary models of Christian marriage and patron saints of newlyweds."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Global Beatles Day",
+        "description": "This day commemorates the first worldwide satellite television broadcast of The Beatles' song 'All You Need Is Love' on June 25, 1967, to 400 million viewers."
+      },
+      {
+        "name": "Day of the Seafarer",
+        "description": "Established by the International Maritime Organization, this observance recognizes the invaluable contributions of more than 1.5 million seafarers who underpin 90 percent of global trade."
+      },
+      {
+        "name": "World Vitiligo Day",
+        "description": "World Vitiligo Day is dedicated to raising global awareness about vitiligo, a chronic autoimmune condition that causes skin depigmentation."
+      }
+    ],
+    "historicalQuote": {
+      "text": "If liberty means anything at all, it means the right to tell people what they do not want to hear.",
+      "author": "George Orwell",
+      "context": "George Orwell, a prolific British writer renowned for his clear writing style, social criticism, and opposition to totalitarianism, was born on June 25, 1903."
+    },
+    "motivationalQuote": {
+      "text": "The unexamined life is not worth living.",
+      "author": "Socrates"
+    },
+    "births": [
+      {
+        "name": "George Orwell",
+        "description": "George Orwell was a British novelist, essayist, journalist, and critic, best known for his dystopian novels 'Nineteen Eighty-Four' and 'Animal Farm'.",
+        "year": "1903"
+      },
+      {
+        "name": "Antoni Gaudí",
+        "description": "Antoni Gaudí was a Spanish architect, a leading figure of Catalan Modernism, whose distinctive works include the Sagrada Familia and Park Güell in Barcelona.",
+        "year": "1852"
+      },
+      {
+        "name": "Anthony Bourdain",
+        "description": "Anthony Bourdain was an American celebrity chef, author, and travel documentarian, celebrated for his exploration of international culture and cuisine in shows like 'Parts Unknown'.",
+        "year": "1956"
+      }
+    ],
+    "events": [
+      {
+        "title": "Virginia Ratifies U.S. Constitution",
+        "description": "On June 25, 1788, Virginia became the tenth state to ratify the United States Constitution, a crucial step in the formation of the federal government.",
+        "year": "1788"
+      },
+      {
+        "title": "Slovenia and Croatia Declare Independence",
+        "description": "On June 25, 1991, the Yugoslav republics of Slovenia and Croatia declared their independence, initiating the breakup of Yugoslavia and a new era for both nations.",
+        "year": "1991"
+      },
+      {
+        "title": "First Live Global Satellite TV Program Airs",
+        "description": "The world's first live global satellite television program, 'Our World,' aired on June 25, 1967, connecting audiences across 19 countries with a broadcast featuring various artists.",
+        "year": "1967"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Guilherme de Vercelli",
+        "type": "Eremita e Fundador",
+        "description": "São Guilherme de Vercelli foi um eremita italiano e fundador dos Eremitas de Monte Vergine, conhecido por sua profunda espiritualidade e orientação a reis e papas. Ele estabeleceu vários mosteiros em todo o Reino de Nápoles."
+      },
+      {
+        "name": "Virgem Mártir Febrônia de Nísibis",
+        "type": "Virgem Mártir",
+        "description": "A Virgem Mártir Febrônia sofreu durante o reinado de Diocleciano (284-305) e era conhecida por sua vida piedosa, profunda fé e leitura regular da Sagrada Escritura em seu mosteiro."
+      },
+      {
+        "name": "Santos Pedro e Fevrônia de Murom",
+        "type": "Taumaturgos e Padroeiros do Casamento",
+        "description": "O Santo Príncipe Pedro e a Santa Princesa Fevrônia (David e Eufrosina no monaquismo) são taumaturgos de Murom e são considerados modelos exemplares de casamento cristão e santos padroeiros dos recém-casados."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Global dos Beatles",
+        "description": "Este dia comemora a primeira transmissão mundial de televisão via satélite da música 'All You Need Is Love' dos Beatles em 25 de junho de 1967, para 400 milhões de espectadores."
+      },
+      {
+        "name": "Dia do Marinheiro",
+        "description": "Estabelecido pela Organização Marítima Internacional, esta celebração reconhece as inestimáveis contribuições de mais de 1,5 milhão de marinheiros que sustentam 90 por cento do comércio global."
+      },
+      {
+        "name": "Dia Mundial do Vitiligo",
+        "description": "O Dia Mundial do Vitiligo é dedicado a aumentar a conscientização global sobre o vitiligo, uma condição autoimune crônica que causa a despigmentação da pele."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Se liberdade significa alguma coisa, significa o direito de dizer às pessoas o que elas não querem ouvir.",
+      "author": "George Orwell",
+      "context": "George Orwell, um prolífico escritor britânico renomado por seu estilo de escrita claro, sua crítica social e sua oposição ao totalitarismo, nasceu em 25 de junho de 1903."
+    },
+    "motivationalQuote": {
+      "text": "A vida não examinada não vale a pena ser vivida.",
+      "author": "Sócrates"
+    },
+    "births": [
+      {
+        "name": "George Orwell",
+        "description": "George Orwell foi um romancista, ensaísta, jornalista e crítico britânico, mais conhecido por seus romances distópicos 'Mil Novecentos e Oitenta e Quatro' e 'A Revolução dos Bichos'.",
+        "year": "1903"
+      },
+      {
+        "name": "Antoni Gaudí",
+        "description": "Antoni Gaudí foi um arquiteto espanhol, figura proeminente do Modernismo Catalão, cujas obras distintas incluem a Sagrada Família e o Parque Güell em Barcelona.",
+        "year": "1852"
+      },
+      {
+        "name": "Anthony Bourdain",
+        "description": "Anthony Bourdain foi um chef celebridade, autor e documentarista de viagens americano, celebrado por sua exploração da cultura e culinária internacional em programas como 'Parts Unknown'.",
+        "year": "1956"
+      }
+    ],
+    "events": [
+      {
+        "title": "Virgínia Ratifica a Constituição dos EUA",
+        "description": "Em 25 de junho de 1788, a Virgínia tornou-se o décimo estado a ratificar a Constituição dos Estados Unidos, um passo crucial na formação do governo federal.",
+        "year": "1788"
+      },
+      {
+        "title": "Eslovênia e Croácia Declaram Independência",
+        "description": "Em 25 de junho de 1991, as repúblicas iugoslavas da Eslovênia e da Croácia declararam sua independência, iniciando a desintegração da Iugoslávia e uma nova era para ambas as nações.",
+        "year": "1991"
+      },
+      {
+        "title": "Primeiro Programa de TV Via Satélite Global ao Vivo Vai ao Ar",
+        "description": "O primeiro programa de televisão via satélite global ao vivo do mundo, 'Our World', foi ao ar em 25 de junho de 1967, conectando audiências em 19 países com uma transmissão apresentando vários artistas.",
+        "year": "1967"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Guillem de Vercelli",
+        "type": "Ermità i Fundador",
+        "description": "Sant Guillem de Vercelli va ser un ermità italià i fundador dels Ermitans de Monte Vergine, conegut per la seva profunda espiritualitat i la seva guia a reis i papes. Va establir diversos monestirs per tot el Regne de Nàpols."
+      },
+      {
+        "name": "Verge Màrtir Febrònia de Nisibis",
+        "type": "Verge Màrtir",
+        "description": "La Verge Màrtir Febrònia va patir durant el regnat de Dioclecià (284-305) i era coneguda per la seva vida pia, la seva fe profunda i la lectura regular de la Sagrada Escriptura al seu monestir."
+      },
+      {
+        "name": "Sants Pere i Fevrònia de Murom",
+        "type": "Taumaturgs i Patrons del Matrimoni",
+        "description": "El Sant Príncep Pere i la Santa Princesa Fevrònia (David i Eufrosina en el monacat) són taumaturgs de Múrom i són considerats models exemplars del matrimoni cristià i sants patrons dels nuvis."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial dels Beatles",
+        "description": "Aquest dia commemora la primera emissió de televisió via satèl·lit a tot el món de la cançó dels Beatles 'All You Need Is Love' el 25 de juny de 1967, a 400 milions d'espectadors."
+      },
+      {
+        "name": "Dia de la Gent de Mar",
+        "description": "Establerta per l'Organització Marítima Internacional, aquesta commemoració reconeix les inestimables contribucions de més d'1,5 milions de mariners que sustenten el 90 per cent del comerç mundial."
+      },
+      {
+        "name": "Dia Mundial del Vitiligen",
+        "description": "El Dia Mundial del Vitiligen es dedica a conscienciar globalment sobre el vitiligen, una afecció autoimmune crònica que causa la despigmentació de la pell."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si la llibertat significa alguna cosa, significa el dret a dir a la gent el que no vol sentir.",
+      "author": "George Orwell",
+      "context": "George Orwell, un prolífic escriptor britànic reconegut pel seu estil d'escriptura clar, la seva crítica social i la seva oposició al totalitarisme, va néixer el 25 de juny de 1903."
+    },
+    "motivationalQuote": {
+      "text": "La vida no examinada no val la pena viure-la.",
+      "author": "Sòcrates"
+    },
+    "births": [
+      {
+        "name": "George Orwell",
+        "description": "George Orwell va ser un novel·lista, assagista, periodista i crític britànic, més conegut per les seves novel·les distòpiques '1984' i 'La revolta dels animals'.",
+        "year": "1903"
+      },
+      {
+        "name": "Antoni Gaudí",
+        "description": "Antoni Gaudí va ser un arquitecte espanyol, figura destacada del Modernisme català, les seves obres distintives inclouen la Sagrada Família i el Park Güell a Barcelona.",
+        "year": "1852"
+      },
+      {
+        "name": "Anthony Bourdain",
+        "description": "Anthony Bourdain va ser un xef cèlebre, autor i documentalista de viatges nord-americà, celebrat per la seva exploració de la cultura i la cuina internacional en programes com 'Parts Unknown'.",
+        "year": "1956"
+      }
+    ],
+    "events": [
+      {
+        "title": "Virgínia ratifica la Constitució dels EUA",
+        "description": "El 25 de juny de 1788, Virgínia es va convertir en el desè estat a ratificar la Constitució dels Estats Units, un pas crucial en la formació del govern federal.",
+        "year": "1788"
+      },
+      {
+        "title": "Eslovènia i Croàcia declaren la independència",
+        "description": "El 25 de juny de 1991, les repúbliques iugoslaves d'Eslovènia i Croàcia van declarar la seva independència, iniciant la desintegració de Iugoslàvia i una nova era per a ambdues nacions.",
+        "year": "1991"
+      },
+      {
+        "title": "S'emet el primer programa de televisió per satèl·lit global en directe",
+        "description": "El primer programa de televisió per satèl·lit global en directe del món, 'Our World', es va emetre el 25 de juny de 1967, connectant audiències de 19 països amb una emissió que presentava diversos artistes.",
+        "year": "1967"
+      }
+    ]
+  }
+}
