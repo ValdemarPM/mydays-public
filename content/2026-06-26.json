@@ -1,0 +1,307 @@
+{
+  "date": "2026-06-26",
+  "es": {
+    "saints": [
+      {
+        "name": "San Josemaría Escrivá",
+        "type": "Sacerdote",
+        "description": "Fue un humilde sacerdote que enseñó que las personas pueden santificarse realizando su trabajo y deberes diarios con espíritu cristiano, fundando el Opus Dei para ayudar a las personas a seguir a Cristo."
+      },
+      {
+        "name": "Santos Juan y Pablo",
+        "type": "Laicos Mártires",
+        "description": "Estos hermanos fueron martirizados en Roma alrededor del año 362 d.C. bajo el emperador Juliano el Apóstata por su inquebrantable fe cristiana."
+      },
+      {
+        "name": "Venerable David de Tesalónica",
+        "type": "Asceta",
+        "description": "Practicó el ascetismo, viviendo en un almendro durante tres años en constante oración, y recibió el don de hacer milagros, curando a muchos de sus enfermedades."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Lucha contra el Uso Indebido y el Tráfico Ilícito de Drogas",
+        "description": "Una observancia de las Naciones Unidas establecida en 1987 para fortalecer la acción y la cooperación para lograr un mundo libre de abuso de drogas."
+      },
+      {
+        "name": "Día Internacional en Apoyo de las Víctimas de la Tortura",
+        "description": "Una observancia de las Naciones Unidas para denunciar el crimen de la tortura y para honrar y apoyar a las víctimas y supervivientes en todo el mundo."
+      },
+      {
+        "name": "Día de la Independencia de Madagascar",
+        "description": "Conmemora el día en que Madagascar obtuvo su independencia de Francia el 26 de junio de 1960, después de seis décadas de dominio colonial."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Un conocimiento de la historia lo más detallado posible es esencial si queremos comprender el presente y estar preparados para el futuro. El destino... no es la ciega superstición o la impotencia que espera estúpidamente lo que pueda suceder. El destino es inalterable solo en el sentido de que, dada una causa, un cierto resultado debe seguir, pero ninguna causa es inevitable en sí misma, y el hombre puede moldear su mundo si no se resigna a la ignorancia.",
+      "author": "Pearl S. Buck",
+      "context": "Pearl S. Buck, escritora estadounidense galardonada con el Premio Nobel, conocida por sus novelas que describen la vida campesina china, nació el 26 de junio de 1892."
+    },
+    "motivationalQuote": {
+      "text": "La mayor gloria en la vida no reside en no caer nunca, sino en levantarse cada vez que caemos.",
+      "author": "Nelson Mandela"
+    },
+    "births": [
+      {
+        "name": "Lord Kelvin (William Thomson)",
+        "description": "Físico e ingeniero irlandés que hizo importantes contribuciones al análisis matemático de la electricidad y la termodinámica, conocido por la escala de temperatura Kelvin.",
+        "year": "1824"
+      },
+      {
+        "name": "Pearl S. Buck",
+        "description": "Escritora estadounidense y premio Nobel, reconocida por sus novelas profundamente empáticas que retratan la cultura china, siendo la más famosa 'La buena tierra'.",
+        "year": "1892"
+      },
+      {
+        "name": "Ariana Grande",
+        "description": "Cantante, compositora y actriz estadounidense celebrada por su amplio rango vocal y su exitosa carrera en la música pop.",
+        "year": "1993"
+      }
+    ],
+    "events": [
+      {
+        "title": "Firma de la Carta de las Naciones Unidas",
+        "description": "En un paso trascendental hacia la paz y la cooperación global, 50 naciones aliadas firmaron la Carta de las Naciones Unidas en San Francisco, California.",
+        "year": "1945"
+      },
+      {
+        "title": "Madagascar Obtiene la Independencia",
+        "description": "Madagascar logró la independencia total del dominio colonial francés, marcando un hito significativo en su soberanía nacional.",
+        "year": "1960"
+      },
+      {
+        "title": "Primer Código de Barras UPC Escaneado",
+        "description": "El primer código de barras de producto universal (UPC) fue escaneado en un paquete de chicle Wrigley's Juicy Fruit en Troy, Ohio, revolucionando el comercio minorista y la gestión de inventarios.",
+        "year": "1974"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Josemaría Escrivá",
+        "type": "Priest",
+        "description": "He was a humble priest who taught that people can become holy by performing their work and daily duties with a Christian spirit, founding Opus Dei to help people follow Christ."
+      },
+      {
+        "name": "Saints John and Paul",
+        "type": "Laymen Martyrs",
+        "description": "These brothers were martyred in Rome around 362 AD under Emperor Julian the Apostate for their unwavering Christian faith."
+      },
+      {
+        "name": "Venerable David of Thessaloniki",
+        "type": "Ascetic",
+        "description": "He pursued asceticism, living in an almond tree for three years in constant prayer, and received the gift of wonderworking, healing many from sickness."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day Against Drug Abuse and Illicit Trafficking",
+        "description": "A United Nations observance established in 1987 to strengthen action and cooperation to achieve a world free of drug abuse."
+      },
+      {
+        "name": "International Day in Support of Victims of Torture",
+        "description": "A United Nations observance to speak out against the crime of torture and to honor and support victims and survivors worldwide."
+      },
+      {
+        "name": "Madagascar Independence Day",
+        "description": "Commemorates the day Madagascar gained its independence from France on June 26, 1960, after six decades of colonial rule."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A knowledge of history as detailed as possible is essential if we are to comprehend the present and be prepared for the future. Fate … is not the blind superstition or helplessness that waits stupidly for what may happen. Fate is unalterable only in the sense that given a cause, a certain result must follow, but no cause is inevitable in itself, and man can shape his world if he does not resign himself to ignorance.",
+      "author": "Pearl S. Buck",
+      "context": "Pearl S. Buck, a Nobel Prize-winning American writer known for her novels depicting Chinese peasant life, was born on June 26, 1892."
+    },
+    "motivationalQuote": {
+      "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    "births": [
+      {
+        "name": "Lord Kelvin (William Thomson)",
+        "description": "An Irish physicist and engineer who made significant contributions to mathematical analysis of electricity and thermodynamics, known for the Kelvin temperature scale.",
+        "year": "1824"
+      },
+      {
+        "name": "Pearl S. Buck",
+        "description": "An American writer and Nobel laureate, recognized for her deeply empathetic novels portraying Chinese culture, most famously 'The Good Earth'.",
+        "year": "1892"
+      },
+      {
+        "name": "Ariana Grande",
+        "description": "An American singer, songwriter, and actress celebrated for her wide vocal range and successful career in pop music.",
+        "year": "1993"
+      }
+    ],
+    "events": [
+      {
+        "title": "United Nations Charter Signed",
+        "description": "In a momentous step towards global peace and cooperation, 50 Allied nations signed the United Nations Charter in San Francisco, California.",
+        "year": "1945"
+      },
+      {
+        "title": "Madagascar Gains Independence",
+        "description": "Madagascar achieved full independence from French colonial rule, marking a significant milestone in its national sovereignty.",
+        "year": "1960"
+      },
+      {
+        "title": "First UPC Barcode Scanned",
+        "description": "The first Universal Product Code (UPC) barcode was scanned on a pack of Wrigley's Juicy Fruit gum in Troy, Ohio, revolutionizing retail and inventory management.",
+        "year": "1974"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Josemaría Escrivá",
+        "type": "Sacerdote",
+        "description": "Foi um sacerdote humilde que ensinou que as pessoas podem tornar-se santas realizando seu trabalho e deveres diários com um espírito cristão, fundando o Opus Dei para ajudar as pessoas a seguir a Cristo."
+      },
+      {
+        "name": "Santos João e Paulo",
+        "type": "Leigos Mártires",
+        "description": "Estes irmãos foram martirizados em Roma por volta de 362 d.C. sob o Imperador Juliano, o Apóstata, por sua inabalável fé cristã."
+      },
+      {
+        "name": "Venerável David de Tessalônica",
+        "type": "Asceta",
+        "description": "Ele praticou o ascetismo, vivendo em uma amendoeira por três anos em constante oração, e recebeu o dom de fazer milagres, curando muitos de doenças."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional Contra o Abuso e Tráfico Ilícito de Drogas",
+        "description": "Uma observância das Nações Unidas estabelecida em 1987 para fortalecer a ação e a cooperação para alcançar um mundo livre do abuso de drogas."
+      },
+      {
+        "name": "Dia Internacional de Apoio às Vítimas de Tortura",
+        "description": "Uma observância das Nações Unidas para denunciar o crime de tortura e para honrar e apoiar vítimas e sobreviventes em todo o mundo."
+      },
+      {
+        "name": "Dia da Independência de Madagascar",
+        "description": "Comemora o dia em que Madagascar obteve sua independência da França em 26 de junho de 1960, após seis décadas de domínio colonial."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Um conhecimento da história o mais detalhado possível é essencial se quisermos compreender o presente e nos prepararmos para o futuro. O destino… não é a cega superstição ou a impotência que espera estupidamente pelo que pode acontecer. O destino é inalterável apenas no sentido de que, dada uma causa, um certo resultado deve seguir, mas nenhuma causa é inevitável em si mesma, e o homem pode moldar seu mundo se não se resignar à ignorância.",
+      "author": "Pearl S. Buck",
+      "context": "Pearl S. Buck, escritora americana laureada com o Prêmio Nobel, conhecida por seus romances que retratam a vida camponesa chinesa, nasceu em 26 de junho de 1892."
+    },
+    "motivationalQuote": {
+      "text": "A maior glória em viver não reside em nunca cair, mas em levantar-se cada vez que caímos.",
+      "author": "Nelson Mandela"
+    },
+    "births": [
+      {
+        "name": "Lord Kelvin (William Thomson)",
+        "description": "Físico e engenheiro irlandês que fez contribuições significativas para a análise matemática da eletricidade e termodinâmica, conhecido pela escala de temperatura Kelvin.",
+        "year": "1824"
+      },
+      {
+        "name": "Pearl S. Buck",
+        "description": "Escritora americana e ganhadora do Prêmio Nobel, reconhecida por seus romances profundamente empáticos que retratam a cultura chinesa, sendo o mais famoso 'A Boa Terra'.",
+        "year": "1892"
+      },
+      {
+        "name": "Ariana Grande",
+        "description": "Cantora, compositora e atriz americana celebrada por sua ampla extensão vocal e sua bem-sucedida carreira na música pop.",
+        "year": "1993"
+      }
+    ],
+    "events": [
+      {
+        "title": "Carta das Nações Unidas Assinada",
+        "description": "Em um passo importante em direção à paz e cooperação global, 50 nações Aliadas assinaram a Carta das Nações Unidas em São Francisco, Califórnia.",
+        "year": "1945"
+      },
+      {
+        "title": "Madagascar Obtém Independência",
+        "description": "Madagascar alcançou a independência total do domínio colonial francês, marcando um marco significativo em sua soberania nacional.",
+        "year": "1960"
+      },
+      {
+        "title": "Primeiro Código de Barras UPC Escaneado",
+        "description": "O primeiro código de barras de Produto Universal (UPC) foi escaneado em um pacote de chiclete Wrigley's Juicy Fruit em Troy, Ohio, revolucionando o varejo e a gestão de estoque.",
+        "year": "1974"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Josepmaria Escrivà",
+        "type": "Sacerdot",
+        "description": "Va ser un sacerdot humil que va ensenyar que la gent pot arribar a ser santa realitzant la seva feina i els deures diaris amb esperit cristià, fundant l'Opus Dei per ajudar les persones a seguir Crist."
+      },
+      {
+        "name": "Sants Joan i Pau",
+        "type": "Laics Màrtirs",
+        "description": "Aquests germans van ser martiritzats a Roma cap al 362 dC sota l'emperador Julià l'Apòstata per la seva fe cristiana inquebrantable."
+      },
+      {
+        "name": "Venerable David de Tessalònica",
+        "type": "Asceta",
+        "description": "Va practicar l'ascetisme, vivint en un ametller durant tres anys en oració constant, i va rebre el do de fer miracles, curant molts de les seves malalties."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional contra l'Abús i el Tràfic Il·lícit de Drogues",
+        "description": "Una observança de les Nacions Unides establerta el 1987 per reforçar l'acció i la cooperació per aconseguir un món lliure de drogues."
+      },
+      {
+        "name": "Dia Internacional de les Nacions Unides en Suport de les Víctimes de la Tortura",
+        "description": "Una observança de les Nacions Unides per denunciar el crim de la tortura i per honorar i donar suport a les víctimes i supervivents arreu del món."
+      },
+      {
+        "name": "Dia de la Independència de Madagascar",
+        "description": "Commemora el dia en què Madagascar va obtenir la seva independència de França el 26 de juny de 1960, després de sis dècades de domini colonial."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Un coneixement de la història tan detallat com sigui possible és essencial si volem comprendre el present i estar preparats per al futur. El destí... no és la superstició cega o la impotència que espera estúpidament el que pugui passar. El destí és inalterable només en el sentit que, donada una causa, un cert resultat ha de seguir, però cap causa és inevitable en si mateixa, i l'home pot donar forma al seu món si no es resigna a la ignorància.",
+      "author": "Pearl S. Buck",
+      "context": "Pearl S. Buck, una escriptora nord-americana guanyadora del Premi Nobel, coneguda per les seves novel·les que descriuen la vida camperola xinesa, va néixer el 26 de juny de 1892."
+    },
+    "motivationalQuote": {
+      "text": "La glòria més gran en la vida no rau en no caure mai, sinó en aixecar-se cada vegada que caiguem.",
+      "author": "Nelson Mandela"
+    },
+    "births": [
+      {
+        "name": "Lord Kelvin (William Thomson)",
+        "description": "Un físic i enginyer irlandès que va fer contribucions significatives a l'anàlisi matemàtica de l'electricitat i la termodinàmica, conegut per l'escala de temperatura Kelvin.",
+        "year": "1824"
+      },
+      {
+        "name": "Pearl S. Buck",
+        "description": "Una escriptora nord-americana i premi Nobel, reconeguda per les seves novel·les profundament empàtiques que retraten la cultura xinesa, sent la més famosa 'La bona terra'.",
+        "year": "1892"
+      },
+      {
+        "name": "Ariana Grande",
+        "description": "Una cantant, compositora i actriu nord-americana celebrada pel seu ampli rang vocal i la seva exitosa carrera en la música pop.",
+        "year": "1993"
+      }
+    ],
+    "events": [
+      {
+        "title": "Signatura de la Carta de les Nacions Unides",
+        "description": "En un pas transcendental cap a la pau i la cooperació global, 50 nacions aliades van signar la Carta de les Nacions Unides a San Francisco, Califòrnia.",
+        "year": "1945"
+      },
+      {
+        "title": "Madagascar Obté la Independència",
+        "description": "Madagascar va aconseguir la plena independència del domini colonial francès, marcant una fita significativa en la seva sobirania nacional.",
+        "year": "1960"
+      },
+      {
+        "title": "Primer Codi de Barres UPC Escanejat",
+        "description": "El primer codi de barres de Producte Universal (UPC) va ser escanejat en un paquet de xiclets Wrigley's Juicy Fruit a Troy, Ohio, revolucionant el comerç minorista i la gestió d'inventaris.",
+        "year": "1974"
+      }
+    ]
+  }
+}
