@@ -1,0 +1,307 @@
+{
+  "date": "2026-06-27",
+  "es": {
+    "saints": [
+      {
+        "name": "San Cirilo de Alejandría",
+        "type": "Obispo y Doctor de la Iglesia",
+        "description": "Nacido en el año 376 d.C., San Cirilo fue el Patriarca de Alejandría, conocido por su celosa defensa de la doctrina cristiana y su papel en el Concilio de Éfeso."
+      },
+      {
+        "name": "San Sansón el Hospitalario",
+        "type": "Sacerdote y Médico",
+        "description": "Sacerdote en Constantinopla durante el siglo VI, fue conocido por su caridad hacia los pobres y los enfermos, lo que le valió el título de 'Hospitalario'."
+      },
+      {
+        "name": "Santa Juana la Mirófora",
+        "type": "Discípula de Jesús",
+        "description": "Una laica y discípula de Jesús del siglo I, es mencionada en el Evangelio de Lucas como una de las mujeres que proveyeron para Jesús y Sus apóstoles, y que descubrieron el sepulcro vacío la mañana de Pascua."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día del Multiculturalismo Canadiense",
+        "description": "Este día celebra la diversidad cultural y el patrimonio de los canadienses."
+      },
+      {
+        "name": "Día de la Independencia de Yibuti",
+        "description": "Yibuti conmemora su independencia de Francia, lograda en esta fecha en 1977."
+      },
+      {
+        "name": "Día de Helen Keller",
+        "description": "Celebrado en los Estados Unidos, este día honra el cumpleaños de Helen Keller, una célebre defensora de los derechos de las personas con discapacidad."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Las mejores y más bellas cosas del mundo no pueden ser vistas ni siquiera tocadas. Deben sentirse con el corazón.",
+      "author": "Helen Keller",
+      "context": "Helen Adams Keller, autora, activista política y conferenciante estadounidense, que superó notablemente su sordera y ceguera, nació el 27 de junio de 1880."
+    },
+    "motivationalQuote": {
+      "text": "Debemos aceptar la desilusión finita, pero nunca perder la esperanza infinita.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Helen Keller",
+        "description": "Autora, activista política y conferenciante estadounidense, fue la primera persona sordociega en obtener un título de Licenciada en Artes.",
+        "year": "1880"
+      },
+      {
+        "name": "Tobey Maguire",
+        "description": "Actor estadounidense ampliamente reconocido por su papel como el personaje principal en la trilogía 'Spider-Man' de Sam Raimi.",
+        "year": "1975"
+      },
+      {
+        "name": "Vera Wang",
+        "description": "Una aclamada diseñadora de moda estadounidense, particularmente conocida por su ropa de novia.",
+        "year": "1949"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera circunnavegación en solitario del globo completada",
+        "description": "En 1898, Joshua Slocum completó con éxito la primera circunnavegación en solitario de la Tierra, una hazaña notable de exploración y resistencia humana.",
+        "year": "1898"
+      },
+      {
+        "title": "Activada la primera central nuclear del mundo",
+        "description": "La Central Nuclear de Óbninsk, la primera central nuclear de la Unión Soviética y la primera del mundo en producir electricidad para una red eléctrica, se inauguró en 1954.",
+        "year": "1954"
+      },
+      {
+        "title": "Primer cajero automático instalado",
+        "description": "El primer cajero automático (ATM) del mundo se instaló en Londres, Inglaterra, en 1967, revolucionando los servicios bancarios a nivel mundial.",
+        "year": "1967"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Cyril of Alexandria",
+        "type": "Bishop and Doctor of the Church",
+        "description": "Born in 376 AD, St. Cyril was the Patriarch of Alexandria known for his zealous defense of Christian doctrine and his role in the Council of Ephesus."
+      },
+      {
+        "name": "St. Sampson the Hospitable",
+        "type": "Priest and Physician",
+        "description": "A priest in Constantinople during the 6th century, he was noted for his charitable care for the poor and sick, earning him the title 'Hospitable'."
+      },
+      {
+        "name": "St. Joanna the Myrrhbearer",
+        "type": "Disciple of Jesus",
+        "description": "A first-century laywoman and disciple of Jesus, she is mentioned in the Gospel of Luke as one of the women who provided for Jesus and His apostles, and who discovered the empty tomb on Easter morning."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Canadian Multiculturalism Day",
+        "description": "This day celebrates the cultural diversity and heritage of Canadians."
+      },
+      {
+        "name": "Djibouti Independence Day",
+        "description": "Djibouti commemorates its independence from France, achieved on this date in 1977."
+      },
+      {
+        "name": "Helen Keller Day",
+        "description": "Observed in the United States, this day honors the birthday of Helen Keller, a celebrated advocate for disability rights."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The best and most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.",
+      "author": "Helen Keller",
+      "context": "Helen Adams Keller, an American author, political activist, and lecturer, who famously overcame being deaf and blind, was born on June 27, 1880."
+    },
+    "motivationalQuote": {
+      "text": "We must accept finite disappointment, but never lose infinite hope.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Helen Keller",
+        "description": "An American author, political activist, and lecturer, she was the first deaf-blind person to earn a Bachelor of Arts degree.",
+        "year": "1880"
+      },
+      {
+        "name": "Tobey Maguire",
+        "description": "An American actor widely recognized for his role as the titular character in Sam Raimi's 'Spider-Man' trilogy.",
+        "year": "1975"
+      },
+      {
+        "name": "Vera Wang",
+        "description": "An acclaimed American fashion designer, particularly known for her bridal wear.",
+        "year": "1949"
+      }
+    ],
+    "events": [
+      {
+        "title": "First Solo Circumnavigation of the Globe Completed",
+        "description": "In 1898, Joshua Slocum successfully completed the first solo circumnavigation of the Earth, a remarkable feat of exploration and human endurance.",
+        "year": "1898"
+      },
+      {
+        "title": "World's First Nuclear Power Plant Activated",
+        "description": "The Obninsk Nuclear Power Plant, the Soviet Union's first nuclear power station and the world's first to produce electricity for a power grid, opened in 1954.",
+        "year": "1954"
+      },
+      {
+        "title": "First ATM Installed",
+        "description": "The world's first automated teller machine (ATM) was installed in London, England, in 1967, revolutionizing banking services globally.",
+        "year": "1967"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Cirilo de Alexandria",
+        "type": "Bispo e Doutor da Igreja",
+        "description": "Nascido em 376 d.C., São Cirilo foi o Patriarca de Alexandria, conhecido pela sua defesa zelosa da doutrina cristã e pelo seu papel no Concílio de Éfeso."
+      },
+      {
+        "name": "São Sansão o Hospitaleiro",
+        "type": "Sacerdote e Médico",
+        "description": "Um sacerdote em Constantinopla durante o século VI, ele foi notado pela sua caridade para com os pobres e doentes, o que lhe valeu o título de 'Hospitaleiro'."
+      },
+      {
+        "name": "Santa Joana, a Mirófora",
+        "type": "Discípula de Jesus",
+        "description": "Uma leiga do primeiro século e discípula de Jesus, ela é mencionada no Evangelho de Lucas como uma das mulheres que providenciaram para Jesus e Seus apóstolos, e que descobriram o túmulo vazio na manhã de Páscoa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia do Multiculturalismo Canadense",
+        "description": "Este dia celebra a diversidade cultural e a herança dos canadenses."
+      },
+      {
+        "name": "Dia da Independência do Djibouti",
+        "description": "Djibouti comemora sua independência da França, alcançada nesta data em 1977."
+      },
+      {
+        "name": "Dia de Helen Keller",
+        "description": "Celebrado nos Estados Unidos, este dia homenageia o aniversário de Helen Keller, uma célebre defensora dos direitos das pessoas com deficiência."
+      }
+    ],
+    "historicalQuote": {
+      "text": "As melhores e mais belas coisas do mundo não podem ser vistas nem tocadas. Elas devem ser sentidas com o coração.",
+      "author": "Helen Keller",
+      "context": "Helen Adams Keller, autora, ativista política e palestrante americana, que notavelmente superou a surdez e a cegueira, nasceu em 27 de junho de 1880."
+    },
+    "motivationalQuote": {
+      "text": "Devemos aceitar a decepção finita, mas nunca perder a esperança infinita.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Helen Keller",
+        "description": "Autora, ativista política e palestrante americana, ela foi a primeira pessoa surdo-cega a obter um diploma de Bacharel em Artes.",
+        "year": "1880"
+      },
+      {
+        "name": "Tobey Maguire",
+        "description": "Um ator americano amplamente reconhecido por seu papel como o personagem-título na trilogia 'Spider-Man' de Sam Raimi.",
+        "year": "1975"
+      },
+      {
+        "name": "Vera Wang",
+        "description": "Uma aclamada estilista americana, particularmente conhecida por suas roupas de noiva.",
+        "year": "1949"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeira circum-navegação solo do globo concluída",
+        "description": "Em 1898, Joshua Slocum completou com sucesso a primeira circum-navegação solo da Terra, um feito notável de exploração e resistência humana.",
+        "year": "1898"
+      },
+      {
+        "title": "Primeira Usina Nuclear do Mundo Ativada",
+        "description": "A Usina Nuclear de Obninsk, a primeira estação de energia nuclear da União Soviética e a primeira do mundo a produzir eletricidade para uma rede elétrica, foi inaugurada em 1954.",
+        "year": "1954"
+      },
+      {
+        "title": "Primeiro Caixa Eletrônico Instalado",
+        "description": "O primeiro caixa eletrônico (ATM) do mundo foi instalado em Londres, Inglaterra, em 1967, revolucionando os serviços bancários globalmente.",
+        "year": "1967"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Ciril d'Alexandria",
+        "type": "Bisbe i Doctor de l'Església",
+        "description": "Nascut l'any 376 dC, Sant Ciril va ser el Patriarca d'Alexandria, conegut per la seva defensa zelosa de la doctrina cristiana i el seu paper al Concili d'Efes."
+      },
+      {
+        "name": "Sant Samsó l'Hospitalari",
+        "type": "Prevere i Metge",
+        "description": "Un prevere a Constantinoble durant el segle VI, fou conegut per la seva atenció caritativa als pobres i malalts, la qual cosa li va valer el títol d''Hospitalari'."
+      },
+      {
+        "name": "Santa Joana la Mirròfora",
+        "type": "Deixebla de Jesús",
+        "description": "Una laica i deixebla de Jesús del segle I, és esmentada a l'Evangeli de Lluc com una de les dones que proveïen Jesús i els seus apòstols, i que van descobrir el sepulcre buit el matí de Pasqua."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia del Multiculturalisme Canadenc",
+        "description": "Aquest dia celebra la diversitat cultural i el patrimoni dels canadencs."
+      },
+      {
+        "name": "Dia de la Independència de Djibouti",
+        "description": "Djibouti commemora la seva independència de França, aconseguida en aquesta data el 1977."
+      },
+      {
+        "name": "Dia de Helen Keller",
+        "description": "Observat als Estats Units, aquest dia honora l'aniversari de Helen Keller, una defensora celebrada dels drets de les persones amb discapacitat."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Les coses millors i més belles del món no es poden veure ni tocar. S'han de sentir amb el cor.",
+      "author": "Helen Keller",
+      "context": "Helen Adams Keller, una escriptora, activista política i conferenciant nord-americana, que va superar amb èxit la sordesa i la ceguesa, va néixer el 27 de juny de 1880."
+    },
+    "motivationalQuote": {
+      "text": "Hem d'acceptar la decepció finita, però mai perdre l'esperança infinita.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Helen Keller",
+        "description": "Una escriptora, activista política i conferenciant nord-americana, va ser la primera persona sordcega a obtenir un títol de Bachelor of Arts.",
+        "year": "1880"
+      },
+      {
+        "name": "Tobey Maguire",
+        "description": "Un actor nord-americà àmpliament reconegut pel seu paper com el personatge principal en la trilogia 'Spider-Man' de Sam Raimi.",
+        "year": "1975"
+      },
+      {
+        "name": "Vera Wang",
+        "description": "Una aclamada dissenyadora de moda nord-americana, particularment coneguda pels seus vestits de núvia.",
+        "year": "1949"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera Circumnavegació Solitària del Globus Completada",
+        "description": "El 1898, Joshua Slocum va completar amb èxit la primera circumnavegació solitària de la Terra, una fita notable d'exploració i resistència humana.",
+        "year": "1898"
+      },
+      {
+        "title": "Activada la Primera Central Nuclear del Món",
+        "description": "La Central Nuclear d'Òbninsk, la primera central nuclear de la Unió Soviètica i la primera del món a produir electricitat per a una xarxa elèctrica, va obrir el 1954.",
+        "year": "1954"
+      },
+      {
+        "title": "Primer Caixer Automàtic Instal·lat",
+        "description": "El primer caixer automàtic (ATM) del món es va instal·lar a Londres, Anglaterra, el 1967, revolucionant els serveis bancaris a nivell global.",
+        "year": "1967"
+      }
+    ]
+  }
+}
