@@ -1,0 +1,277 @@
+{
+  "date": "2026-07-01",
+  "es": {
+    "saints": [
+      {
+        "name": "San Junípero Serra",
+        "type": "Sacerdote, Misionero",
+        "description": "Un misionero franciscano español que fundó muchas misiones en California durante el siglo XVIII, desempeñando un papel crucial en la evangelización de las Américas y abogando por los pueblos indígenas."
+      },
+      {
+        "name": "Santos Cosme y Damián, Médicos Anárgiros y Taumaturgos de Roma",
+        "type": "Mártires, Médicos",
+        "description": "Hermanos nacidos en Roma que eran médicos de profesión y curaban a los enfermos sin cobrar, convirtiendo a muchos a Cristo por su generosidad y bondad antes de ser martirizados alrededor del 284 d.C."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de Canadá",
+        "description": "Un día festivo nacional en Canadá que celebra el aniversario de la Confederación de Canadá en 1867."
+      },
+      {
+        "name": "Día Internacional de la Broma",
+        "description": "Un día cultural lúdico que se celebra globalmente para festejar el humor y el impacto positivo de la risa."
+      },
+      {
+        "name": "Día Internacional del Reggae",
+        "description": "Originario de Jamaica, este día celebra la música reggae y su influencia cultural global."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La gran alma puede estar contra todo el mundo; pero, por otro lado, un alma sin importancia alguna puede estar contra todo el mundo.",
+      "author": "George Sand",
+      "context": "George Sand, una destacada novelista y memorialista francesa de la era romántica, nació el 1 de julio de 1804. Fue conocida por sus opiniones progresistas y sus extensas obras literarias."
+    },
+    "motivationalQuote": {
+      "text": "La única forma de hacer un gran trabajo es amar lo que haces.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "George Sand",
+        "description": "Amantine Lucile Aurore Dupin, más conocida como George Sand, fue una prolífica novelista y periodista francesa, reconocida como una de las escritoras más notables de la era romántica europea.",
+        "year": "1804"
+      },
+      {
+        "name": "Diana, Princesa de Gales",
+        "description": "Una figura real británica icónica, humanitaria y madre de los Príncipes Guillermo y Harry, recordada cariñosamente como la 'Reina de Corazones'."
+      },
+      {
+        "name": "Ignaz Semmelweis",
+        "description": "Un médico húngaro y uno de los primeros pioneros de los procedimientos antisépticos, descubrió que la desinfección de manos podía reducir drásticamente la incidencia de la fiebre puerperal, salvando muchas vidas de madres."
+      }
+    ],
+    "events": [
+      {
+        "title": "Presentación de los trabajos de Darwin y Wallace sobre la evolución",
+        "description": "En un hito científico fundamental, los trabajos de Charles Darwin y Alfred Russel Wallace sobre la evolución por selección natural fueron leídos conjuntamente ante la Sociedad Linneana de Londres."
+      },
+      {
+        "title": "Canadá se convierte en Dominio",
+        "description": "La Ley de la Norteamérica Británica entró en vigor, uniendo la Provincia de Canadá, Nuevo Brunswick y Nueva Escocia en el Dominio de Canadá, un paso significativo en la construcción de la nación."
+      },
+      {
+        "title": "Firma del Tratado de No Proliferación Nuclear",
+        "description": "El Tratado sobre la No Proliferación de las Armas Nucleares fue abierto para su firma en Washington, Londres y Moscú, un paso crucial hacia la paz y el desarme global."
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Junípero Serra",
+        "type": "Priest, Missionary",
+        "description": "A Spanish Franciscan missionary who founded many missions in California during the 18th century, playing a crucial role in the evangelization of the Americas and advocating for indigenous peoples."
+      },
+      {
+        "name": "Holy Wonderworking Unmercenary Physicians Cosmas and Damian at Rome",
+        "type": "Martyrs, Physicians",
+        "description": "Brothers born in Rome who were physicians by profession and healed the sick without charge, converting many to Christ by their generosity and kindness before being martyred around 284 AD."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Canada Day",
+        "description": "A national holiday in Canada celebrating the anniversary of the Confederation of Canada in 1867."
+      },
+      {
+        "name": "International Joke Day",
+        "description": "A playful cultural day observed globally to celebrate humor and the positive impact of laughter."
+      },
+      {
+        "name": "International Reggae Day",
+        "description": "Originating in Jamaica, this day celebrates reggae music and its global cultural influence."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The great soul may be against all the world; but on the other hand, a soul of no account whatever may be against all the world.",
+      "author": "George Sand",
+      "context": "George Sand, a prominent French novelist and memoirist of the Romantic era, was born on July 1, 1804. She was known for her progressive views and extensive literary works."
+    },
+    "motivationalQuote": {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "George Sand",
+        "description": "Amantine Lucile Aurore Dupin, better known as George Sand, was a prolific French novelist and journalist, recognized as one of the most notable writers of the European Romantic era.",
+        "year": "1804"
+      },
+      {
+        "name": "Diana, Princess of Wales",
+        "description": "An iconic British royal figure, humanitarian, and mother of Princes William and Harry, affectionately remembered as the 'Queen of Hearts'.",
+        "year": "1961"
+      },
+      {
+        "name": "Ignaz Semmelweis",
+        "description": "A Hungarian physician and an early pioneer of antiseptic procedures, he discovered that hand disinfection could drastically reduce the incidence of puerperal fever, saving many mothers' lives.",
+        "year": "1818"
+      }
+    ],
+    "events": [
+      {
+        "title": "Darwin and Wallace Papers on Evolution Presented",
+        "description": "In a pivotal scientific milestone, papers by Charles Darwin and Alfred Russel Wallace on evolution by natural selection were jointly read to the Linnean Society of London.",
+        "year": "1858"
+      },
+      {
+        "title": "Canada Becomes a Dominion",
+        "description": "The British North America Act came into effect, uniting the Province of Canada, New Brunswick, and Nova Scotia into the Dominion of Canada, a significant step in nation-building.",
+        "year": "1867"
+      },
+      {
+        "title": "Nuclear Non-Proliferation Treaty Signed",
+        "description": "The Treaty on the Non-Proliferation of Nuclear Weapons was opened for signature in Washington, London, and Moscow, a crucial step towards global peace and disarmament.",
+        "year": "1968"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Junípero Serra",
+        "type": "Padre, Missionário",
+        "description": "Um missionário franciscano espanhol que fundou muitas missões na Califórnia durante o século XVIII, desempenhando um papel crucial na evangelização das Américas e defendendo os povos indígenas."
+      },
+      {
+        "name": "Santos Cosme e Damião, Médicos Anárgiros e Taumaturgos de Roma",
+        "type": "Mártires, Médicos",
+        "description": "Irmãos nascidos em Roma que eram médicos de profissão e curavam os doentes gratuitamente, convertendo muitos a Cristo pela sua generosidade e bondade antes de serem martirizados por volta de 284 d.C."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia do Canadá",
+        "description": "Um feriado nacional no Canadá que celebra o aniversário da Confederação do Canadá em 1867."
+      },
+      {
+        "name": "Dia Internacional da Piada",
+        "description": "Um dia cultural lúdico observado globalmente para celebrar o humor e o impacto positivo do riso."
+      },
+      {
+        "name": "Dia Internacional do Reggae",
+        "description": "Originário da Jamaica, este dia celebra a música reggae e sua influência cultural global."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A grande alma pode estar contra o mundo inteiro; mas, por outro lado, uma alma sem importância alguma pode estar contra o mundo inteiro.",
+      "author": "George Sand",
+      "context": "George Sand, uma proeminente romancista e memorialista francesa da era romântica, nasceu em 1º de julho de 1804. Ela era conhecida por suas visões progressistas e suas extensas obras literárias."
+    },
+    "motivationalQuote": {
+      "text": "A única maneira de fazer um ótimo trabalho é amar o que você faz.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "George Sand",
+        "description": "Amantine Lucile Aurore Dupin, mais conhecida como George Sand, foi uma prolífica romancista e jornalista francesa, reconhecida como uma das escritoras mais notáveis da era romântica europeia.",
+        "year": "1804"
+      },
+      {
+        "name": "Diana, Princesa de Gales",
+        "description": "Uma figura real britânica icônica, humanitária e mãe dos Príncipes William e Harry, carinhosamente lembrada como a 'Rainha de Copas'."
+      },
+      {
+        "name": "Ignaz Semmelweis",
+        "description": "Um médico húngaro e um dos primeiros pioneiros dos procedimentos antissépticos, ele descobriu que a desinfecção das mãos poderia reduzir drasticamente a incidência de febre puerperal, salvando a vida de muitas mães."
+      }
+    ],
+    "events": [
+      {
+        "title": "Apresentação dos Trabalhos de Darwin e Wallace sobre a Evolução",
+        "description": "Em um marco científico fundamental, os trabalhos de Charles Darwin e Alfred Russel Wallace sobre a evolução por seleção natural foram lidos em conjunto na Linnean Society of London."
+      },
+      {
+        "title": "Canadá Torna-se um Domínio",
+        "description": "A Lei da América do Norte Britânica entrou em vigor, unindo a Província do Canadá, Nova Brunswick e Nova Escócia no Domínio do Canadá, um passo significativo na construção da nação."
+      },
+      {
+        "title": "Tratado de Não Proliferação Nuclear Assinado",
+        "description": "O Tratado sobre a Não Proliferação de Armas Nucleares foi aberto para assinatura em Washington, Londres e Moscou, um passo crucial para a paz e o desarmamento global."
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Juníper Serra",
+        "type": "Sacerdot, Missioner",
+        "description": "Un missioner franciscà espanyol que va fundar moltes missions a Califòrnia durant el segle XVIII, jugant un paper crucial en l'evangelització de les Amèriques i defensant els pobles indígenes."
+      },
+      {
+        "name": "Sants Cosme i Damià, Metges Desinteressats i Taumaturgs, a Roma",
+        "type": "Màrtirs, Metges",
+        "description": "Germans nascuts a Roma que eren metges de professió i curaven els malalts sense cobrar, convertint molts al Crist per la seva generositat i amabilitat abans de ser martiritzats cap a l'any 284 dC."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia del Canadà",
+        "description": "Un dia festiu nacional al Canadà que celebra l'aniversari de la Confederació del Canadà el 1867."
+      },
+      {
+        "name": "Dia Internacional de l'Acudit",
+        "description": "Un dia cultural lúdic observat globalment per celebrar l'humor i l'impacte positiu del riure."
+      },
+      {
+        "name": "Dia Internacional del Reggae",
+        "description": "Originari de Jamaica, aquest dia celebra la música reggae i la seva influència cultural global."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La gran ànima pot estar contra tot el món; però d'altra banda, una ànima sense cap importància pot estar contra tot el món.",
+      "author": "George Sand",
+      "context": "George Sand, una destacada novel·lista i memorialista francesa de l'era romàntica, va néixer l'1 de juliol de 1804. Va ser coneguda per les seves opinions progressistes i la seva extensa obra literària."
+    },
+    "motivationalQuote": {
+      "text": "L'única manera de fer una gran feina és estimar el que fas.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "George Sand",
+        "description": "Amantine Lucile Aurore Dupin, més coneguda com a George Sand, va ser una prolífica novel·lista i periodista francesa, reconeguda com una de les escriptores més notables de l'era romàntica europea.",
+        "year": "1804"
+      },
+      {
+        "name": "Diana, Princesa de Gal·les",
+        "description": "Una figura reial britànica icònica, humanitària i mare dels prínceps Guillem i Enric, recordada amb afecte com la 'Reina de Cors'.",
+        "year": "1961"
+      },
+      {
+        "name": "Ignaz Semmelweis",
+        "description": "Un metge hongarès i pioner primerenc dels procediments antisèptics, va descobrir que la desinfecció de mans podia reduir dràsticament la incidència de la febre puerperal, salvant la vida de moltes mares.",
+        "year": "1818"
+      }
+    ],
+    "events": [
+      {
+        "title": "Presentació dels Treballs de Darwin i Wallace sobre l'Evolució",
+        "description": "En una fita científica fonamental, els treballs de Charles Darwin i Alfred Russel Wallace sobre l'evolució per selecció natural van ser llegits conjuntament a la Linnean Society de Londres.",
+        "year": "1858"
+      },
+      {
+        "title": "El Canadà Esdevé un Domini",
+        "description": "La Llei de l'Amèrica del Nord Britànica va entrar en vigor, unint la Província del Canadà, Nova Brunswick i Nova Escòcia en el Domini del Canadà, un pas significatiu en la construcció de la nació.",
+        "year": "1867"
+      },
+      {
+        "title": "Signat el Tractat de No Proliferació Nuclear",
+        "description": "El Tractat sobre la No Proliferació de les Armes Nuclears es va obrir a la signatura a Washington, Londres i Moscou, un pas crucial cap a la pau i el desarmament globals.",
+        "year": "1968"
+      }
+    ]
+  }
+}
