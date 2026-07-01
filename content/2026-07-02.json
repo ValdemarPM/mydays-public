@@ -1,0 +1,307 @@
+{
+  "date": "2026-07-02",
+  "es": {
+    "saints": [
+      {
+        "name": "San Proceso y San Martiniano",
+        "type": "Mártires",
+        "description": "Estos guardias de prisión romanos se convirtieron al cristianismo y fueron bautizados por San Pedro y San Pablo. Fueron martirizados durante las persecuciones del emperador Nerón."
+      },
+      {
+        "name": "San Bernardino Realino",
+        "type": "Sacerdote",
+        "description": "Un sacerdote jesuita italiano de familia noble, fue conocido por su profunda caridad y por fundar un colegio en Lecce, Italia. Fue canonizado en 1947."
+      },
+      {
+        "name": "San Juan Maximóvich",
+        "type": "Arzobispo",
+        "description": "Arzobispo de Shanghái y San Francisco, fue una figura venerada en la Iglesia Ortodoxa Rusa, conocido por su ascetismo, clarividencia y amplia atención pastoral."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Ovni",
+        "description": "Este día conmemora el incidente de Roswell de 1947, un evento crucial en la tradición ovni, y fomenta la consideración de mente abierta de los fenómenos extraterrestres."
+      },
+      {
+        "name": "Día Internacional de las Cooperativas",
+        "description": "Apoyado por las Naciones Unidas, este día destaca la importancia de las cooperativas en el fomento de la solidaridad, la democracia, la resiliencia y el empoderamiento comunitario."
+      },
+      {
+        "name": "Día Mundial de los Periodistas Deportivos",
+        "description": "Esta celebración reconoce el trabajo dedicado de los periodistas deportivos a nivel mundial, celebrando su papel en la cobertura y análisis de eventos deportivos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El Dos de Julio de 1776, será la Época más memorable, en la Historia de América. Me inclino a creer que será celebrado, por las Generaciones venideras, como el gran Festival de aniversario. Debe ser conmemorado, como el Día de la Liberación mediante solemnes Actos de Devoción a Dios Todopoderoso. Debe ser solemnizado con Pompa y Desfile, con Espectáculos, Juegos, Deportes, Cañones, Campanas, Hogueras e Iluminaciones de un Extremo a otro de este Continente de ahora en adelante para siempre.",
+      "author": "John Adams",
+      "context": "El 2 de julio de 1776, el Congreso Continental votó a favor de declarar a las colonias americanas independientes del dominio británico. John Adams, delegado del Congreso, le escribió esto a su esposa Abigail al día siguiente, creyendo que el 2 de julio sería la fecha de futuras celebraciones."
+    },
+    "motivationalQuote": {
+      "text": "Un gran poder conlleva una gran responsabilidad.",
+      "author": "Stan Lee"
+    },
+    "births": [
+      {
+        "name": "Hermann Hesse",
+        "description": "Novelista y poeta germano-suizo, fue premio Nobel conocido por obras influyentes como 'Siddhartha' y 'El lobo estepario'.",
+        "year": "1877"
+      },
+      {
+        "name": "Thurgood Marshall",
+        "description": "Abogado y juez estadounidense de derechos civiles, hizo historia como el primer Juez Asociado afroamericano de la Corte Suprema de EE. UU.",
+        "year": "1908"
+      },
+      {
+        "name": "Larry David",
+        "description": "Comediante, escritor, actor y productor de televisión estadounidense, es más conocido como el cocreador de 'Seinfeld' y creador/protagonista de 'Curb Your Enthusiasm'.",
+        "year": "1947"
+      }
+    ],
+    "events": [
+      {
+        "title": "Resolución de Independencia Americana",
+        "description": "En 1776, el Congreso Continental votó oficialmente a favor de declarar a las colonias americanas independientes del dominio británico, un paso fundamental que llevó a la Declaración de Independencia.",
+        "year": "1776"
+      },
+      {
+        "title": "Ley de Derechos Civiles Promulgada",
+        "description": "En 1964, el presidente Lyndon B. Johnson promulgó la histórica Ley de Derechos Civiles, que prohíbe la discriminación por raza, color, religión, sexo u origen nacional, y puso fin a la segregación en lugares públicos.",
+        "year": "1964"
+      },
+      {
+        "title": "Primer Vuelo en Globo en Solitario Alrededor del Mundo",
+        "description": "En 2002, Steve Fossett completó con éxito la primera circunnavegación en solitario del globo en globo, recorriendo 20,000 millas en 13 días.",
+        "year": "2002"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saints Processus and Martinian",
+        "type": "Martyrs",
+        "description": "These Roman prison guards converted to Christianity and were baptized by Saints Peter and Paul. They were martyred during the persecutions of Emperor Nero."
+      },
+      {
+        "name": "Saint Bernardino Realino",
+        "type": "Priest",
+        "description": "An Italian Jesuit priest from a noble family, he was known for his profound charity and for founding a college in Lecce, Italy. He was canonized in 1947."
+      },
+      {
+        "name": "Saint John Maximovitch",
+        "type": "Archbishop",
+        "description": "An Archbishop of Shanghai and San Francisco, he was a revered figure in the Russian Orthodox Church, known for his asceticism, clairvoyance, and widespread pastoral care."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World UFO Day",
+        "description": "This day commemorates the 1947 Roswell incident, a pivotal event in UFO lore, and encourages open-minded consideration of extraterrestrial phenomena."
+      },
+      {
+        "name": "International Day of Cooperatives",
+        "description": "Supported by the United Nations, this day highlights the importance of cooperatives in fostering solidarity, democracy, resilience, and community empowerment."
+      },
+      {
+        "name": "World Sports Journalists Day",
+        "description": "This observance recognizes the dedicated work of sports journalists globally, celebrating their role in reporting and analyzing sporting events."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The Second Day of July 1776, will be the most memorable Epocha, in the History of America. I am apt to believe that it will be celebrated, by succeeding Generations, as the great anniversary Festival. It ought to be commemorated, as the Day of Deliverance by solemn Acts of Devotion to God Almighty. It ought to be solemnized with Pomp and Parade, with Shews, Games, Sports, Guns, Bells, Bonfires and Illuminations from one End of this Continent to the other from this Time forward forever more.",
+      "author": "John Adams",
+      "context": "On July 2, 1776, the Continental Congress voted to declare the American colonies independent from British rule. John Adams, a delegate to the Congress, wrote this to his wife Abigail the following day, believing July 2nd would be the date of future celebration."
+    },
+    "motivationalQuote": {
+      "text": "With great power comes great responsibility.",
+      "author": "Stan Lee"
+    },
+    "births": [
+      {
+        "name": "Hermann Hesse",
+        "description": "A German-Swiss novelist and poet, he was a Nobel laureate known for influential works such as 'Siddhartha' and 'Steppenwolf'.",
+        "year": "1877"
+      },
+      {
+        "name": "Thurgood Marshall",
+        "description": "An American civil rights lawyer and judge, he made history as the first African American Associate Justice of the U.S. Supreme Court.",
+        "year": "1908"
+      },
+      {
+        "name": "Larry David",
+        "description": "An American comedian, writer, actor, and television producer, he is best known as the co-creator of 'Seinfeld' and creator/star of 'Curb Your Enthusiasm'.",
+        "year": "1947"
+      }
+    ],
+    "events": [
+      {
+        "title": "American Independence Resolution",
+        "description": "In 1776, the Continental Congress officially voted to declare the American colonies independent from British rule, a foundational step leading to the Declaration of Independence.",
+        "year": "1776"
+      },
+      {
+        "title": "Civil Rights Act Signed into Law",
+        "description": "In 1964, President Lyndon B. Johnson signed the landmark Civil Rights Act, prohibiting discrimination based on race, color, religion, sex, or national origin, and ending segregation in public places.",
+        "year": "1964"
+      },
+      {
+        "title": "First Solo Round-the-World Balloon Flight",
+        "description": "In 2002, Steve Fossett successfully completed the first solo circumnavigation of the globe by balloon, traversing 20,000 miles in 13 days.",
+        "year": "2002"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Processo e São Martiniano",
+        "type": "Mártires",
+        "description": "Estes guardas prisionais romanos converteram-se ao cristianismo e foram batizados por São Pedro e São Paulo. Foram martirizados durante as perseguições do Imperador Nero."
+      },
+      {
+        "name": "São Bernardino Realino",
+        "type": "Padre",
+        "description": "Um padre jesuíta italiano de família nobre, foi conhecido pela sua profunda caridade e por fundar um colégio em Lecce, Itália. Foi canonizado em 1947."
+      },
+      {
+        "name": "São João Maximóvitch",
+        "type": "Arcebispo",
+        "description": "Arcebispo de Xangai e São Francisco, foi uma figura venerada na Igreja Ortodoxa Russa, conhecido pelo seu ascetismo, clarividência e vasta atenção pastoral."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial do OVNI",
+        "description": "Este dia comemora o incidente de Roswell de 1947, um evento crucial na tradição OVNI, e incentiva a consideração de mente aberta de fenómenos extraterrestres."
+      },
+      {
+        "name": "Dia Internacional das Cooperativas",
+        "description": "Apoiado pelas Nações Unidas, este dia destaca a importância das cooperativas no fomento da solidariedade, democracia, resiliência e empoderamento comunitário."
+      },
+      {
+        "name": "Dia Mundial dos Jornalistas Desportivos",
+        "description": "Esta celebração reconhece o trabalho dedicado dos jornalistas desportivos a nível mundial, celebrando o seu papel na reportagem e análise de eventos desportivos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O Segundo Dia de Julho de 1776, será a Época mais memorável, na História da América. Inclino-me a crer que será celebrado, pelas Gerações vindouras, como o grande Festival de aniversário. Deve ser comemorado, como o Dia da Libertação por solenes Atos de Devoção a Deus Todo-Poderoso. Deve ser solenizado com Pompa e Parada, com Espetáculos, Jogos, Desportos, Canhões, Sinos, Fogueiras e Iluminações de um Extremo a outro deste Continente de agora em diante para sempre.",
+      "author": "John Adams",
+      "context": "Em 2 de julho de 1776, o Congresso Continental votou para declarar as colónias americanas independentes do domínio britânico. John Adams, um delegado ao Congresso, escreveu isto à sua esposa Abigail no dia seguinte, acreditando que 2 de julho seria a data de futuras celebrações."
+    },
+    "motivationalQuote": {
+      "text": "Com grandes poderes vêm grandes responsabilidades.",
+      "author": "Stan Lee"
+    },
+    "births": [
+      {
+        "name": "Hermann Hesse",
+        "description": "Novelista e poeta germano-suíço, foi laureado com o Nobel, conhecido por obras influentes como 'Siddhartha' e 'O Lobo da Estepe'.",
+        "year": "1877"
+      },
+      {
+        "name": "Thurgood Marshall",
+        "description": "Advogado e juiz de direitos civis americano, fez história como o primeiro Juiz Associado afro-americano do Supremo Tribunal dos EUA.",
+        "year": "1908"
+      },
+      {
+        "name": "Larry David",
+        "description": "Comediante, escritor, ator e produtor de televisão americano, é mais conhecido como o cocriador de 'Seinfeld' e criador/estrela de 'Curb Your Enthusiasm'.",
+        "year": "1947"
+      }
+    ],
+    "events": [
+      {
+        "title": "Resolução da Independência Americana",
+        "description": "Em 1776, o Congresso Continental votou oficialmente para declarar as colónias americanas independentes do domínio britânico, um passo fundamental que levou à Declaração de Independência.",
+        "year": "1776"
+      },
+      {
+        "title": "Lei dos Direitos Civis Sancionada",
+        "description": "Em 1964, o Presidente Lyndon B. Johnson assinou a histórica Lei dos Direitos Civis, proibindo a discriminação com base na raça, cor, religião, sexo ou origem nacional, e pondo fim à segregação em locais públicos.",
+        "year": "1964"
+      },
+      {
+        "title": "Primeiro Voo de Balão Solo à Volta do Mundo",
+        "description": "Em 2002, Steve Fossett completou com sucesso a primeira circunavegação solo do globo de balão, percorrendo 20.000 milhas em 13 dias.",
+        "year": "2002"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sants Procés i Martinià",
+        "type": "Màrtirs",
+        "description": "Aquests guàrdies de presó romans es van convertir al cristianisme i van ser batejats pels sants Pere i Pau. Van ser martiritzats durant les persecucions de l'emperador Neró."
+      },
+      {
+        "name": "Sant Bernardino Realino",
+        "type": "Prevere",
+        "description": "Un prevere jesuïta italià d'una família noble, va ser conegut per la seva profunda caritat i per fundar un col·legi a Lecce, Itàlia. Va ser canonitzat el 1947."
+      },
+      {
+        "name": "Sant Joan Maximóvitx",
+        "type": "Arquebisbe",
+        "description": "Arquebisbe de Xangai i San Francisco, va ser una figura venerada a l'Església Ortodoxa Russa, conegut pel seu ascetisme, clarividència i extensa cura pastoral."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de l'OVNI",
+        "description": "Aquest dia commemora l'incident de Roswell de 1947, un esdeveniment clau en la història dels OVNIs, i fomenta la consideració oberta dels fenòmens extraterrestres."
+      },
+      {
+        "name": "Dia Internacional de les Cooperatives",
+        "description": "Amb el suport de les Nacions Unides, aquest dia destaca la importància de les cooperatives per fomentar la solidaritat, la democràcia, la resiliència i l'apoderament comunitari."
+      },
+      {
+        "name": "Dia Mundial dels Periodistes Esportius",
+        "description": "Aquesta commemoració reconeix la feina dedicada dels periodistes esportius a nivell global, celebrant el seu paper en la informació i l'anàlisi dels esdeveniments esportius."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El segon dia de juliol de 1776, serà l'Època més memorable en la Història d'Amèrica. Tinc la tendència a creure que serà celebrat, per les generacions successives, com el gran Festival d'aniversari. Hauria de ser commemorat, com el Dia de l'Alliberament amb solemnes Actes de Devoció a Déu Totpoderós. Hauria de ser solemnitzat amb Pomp i Desfilada, amb Espectacles, Jocs, Esports, Armes, Campanes, Fogueres i Il·luminacions d'un Extrem a l'Altre d'aquest Continent des d'aquest Moment i per sempre més.",
+      "author": "John Adams",
+      "context": "El 2 de juliol de 1776, el Congrés Continental va votar declarar les colònies americanes independents del domini britànic. John Adams, delegat al Congrés, va escriure això a la seva dona Abigail l'endemà, creient que el 2 de juliol seria la data de la futura celebració."
+    },
+    "motivationalQuote": {
+      "text": "Un gran poder comporta una gran responsabilitat.",
+      "author": "Stan Lee"
+    },
+    "births": [
+      {
+        "name": "Hermann Hesse",
+        "description": "Novel·lista i poeta germano-suís, va ser guardonat amb el Premi Nobel, conegut per obres influents com 'Siddhartha' i 'El llop estepari'.",
+        "year": "1877"
+      },
+      {
+        "name": "Thurgood Marshall",
+        "description": "Advocat i jutge nord-americà dels drets civils, va fer història com el primer jutge associat afroamericà del Tribunal Suprem dels EUA.",
+        "year": "1908"
+      },
+      {
+        "name": "Larry David",
+        "description": "Comediant, escriptor, actor i productor de televisió nord-americà, és més conegut com a co-creador de 'Seinfeld' i creador/protagonista de 'Curb Your Enthusiasm'.",
+        "year": "1947"
+      }
+    ],
+    "events": [
+      {
+        "title": "Resolució d'Independència Americana",
+        "description": "El 1776, el Congrés Continental va votar oficialment declarar les colònies americanes independents del domini britànic, un pas fonamental que va conduir a la Declaració d'Independència.",
+        "year": "1776"
+      },
+      {
+        "title": "Llei de Drets Civils Promulgada",
+        "description": "El 1964, el president Lyndon B. Johnson va signar la transcendental Llei de Drets Civils, prohibint la discriminació basada en raça, color, religió, sexe o origen nacional, i posant fi a la segregació en llocs públics.",
+        "year": "1964"
+      },
+      {
+        "title": "Primer Vol en Globus en Solitari Al voltant del Món",
+        "description": "El 2002, Steve Fossett va completar amb èxit la primera circumnavegació del món en solitari amb globus, recorrent 20.000 milles en 13 dies.",
+        "year": "2002"
+      }
+    ]
+  }
+}
