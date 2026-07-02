@@ -1,0 +1,307 @@
+{
+  "date": "2026-07-03",
+  "es": {
+    "saints": [
+      {
+        "name": "Santo Tomás Apóstol",
+        "type": "Apóstol",
+        "description": "Conocido como 'Tomás el Incrédulo' por cuestionar inicialmente la Resurrección, más tarde hizo una fuerte profesión de fe y tradicionalmente se cree que fue misionero en la India."
+      },
+      {
+        "name": "Papa San León II",
+        "type": "Papa y Confesor",
+        "description": "Nacido en Sicilia, fue conocido por su piedad y sus habilidades en lenguas y música, sirviendo un breve papado durante el cual confirmó los decretos del Sexto Concilio Ecuménico."
+      },
+      {
+        "name": "San Jacinto de Cesarea",
+        "type": "Mártir",
+        "description": "Chambelán del emperador Trajano, fue acusado de ser cristiano, azotado y arrojado a prisión donde murió de hambre."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional Libre de Bolsas de Plástico",
+        "description": "Este día anima a personas de todo el mundo a reducir o eliminar el uso de bolsas de plástico para promover la sostenibilidad ambiental."
+      },
+      {
+        "name": "Día de la Emancipación de las Islas Vírgenes (Islas Vírgenes de los Estados Unidos)",
+        "description": "Conmemora la emancipación de 1848 de todos los esclavos restantes en las Indias Occidentales Danesas, ahora las Islas Vírgenes de los Estados Unidos."
+      },
+      {
+        "name": "Día Nacional de las Almejas Fritas (Estados Unidos)",
+        "description": "Celebra el popular plato de marisco, cuyo origen se remonta a Essex, Massachusetts, en 1916."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Muchos libros son como una llave a cámaras desconocidas dentro del castillo del propio ser.",
+      "author": "Franz Kafka",
+      "context": "Franz Kafka, un influyente novelista bohemio conocido por sus obras únicas y existencialistas, nació en esta fecha en 1883."
+    },
+    "motivationalQuote": {
+      "text": "No te esfuerces por ser un éxito, sino más bien por ser de valor.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Franz Kafka",
+        "description": "Un renombrado novelista bohemio cuyas obras distintivas, a menudo con protagonistas alienados que enfrentan situaciones surrealistas o burocráticas, han influido profundamente en la literatura occidental.",
+        "year": "1883"
+      },
+      {
+        "name": "Tom Cruise",
+        "description": "Un icónico actor y productor estadounidense, célebre por sus diversos papeles y su compromiso con la realización de sus propias arriesgadas acrobacias en películas de acción y ciencia ficción.",
+        "year": "1962"
+      },
+      {
+        "name": "Harrison Schmitt",
+        "description": "Un geólogo, ex astronauta de la NASA y político estadounidense, notable como el único científico y uno de los últimos hombres en caminar sobre la Luna durante el Apolo 17.",
+        "year": "1935"
+      }
+    ],
+    "events": [
+      {
+        "title": "George Washington Asume el Mando del Ejército Continental",
+        "description": "En un momento crucial de la Guerra de Independencia de los Estados Unidos, George Washington asumió oficialmente el mando del Ejército Continental en Cambridge, Massachusetts.",
+        "year": "1775"
+      },
+      {
+        "title": "Fundación de la Ciudad de Quebec",
+        "description": "Samuel de Champlain estableció la Ciudad de Quebec, marcando uno de los primeros asentamientos europeos permanentes en Norteamérica y un punto significativo en la historia canadiense.",
+        "year": "1608"
+      },
+      {
+        "title": "Karl Benz Presenta el Benz Patent-Motorwagen",
+        "description": "Karl Benz presentó oficialmente el Benz Patent-Motorwagen, ampliamente reconocido como el primer automóvil diseñado y construido con el propósito de propulsión por un motor de combustión interna.",
+        "year": "1886"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Thomas the Apostle",
+        "type": "Apostle",
+        "description": "Known as 'Doubting Thomas' for initially questioning the Resurrection, he later made a strong profession of faith and is traditionally believed to have been a missionary to India."
+      },
+      {
+        "name": "Pope St. Leo II",
+        "type": "Pope & Confessor",
+        "description": "Born in Sicily, he was known for his piety and skills in languages and music, serving a short papacy during which he confirmed the decrees of the Sixth Ecumenical Council."
+      },
+      {
+        "name": "St. Hyacinth of Caesarea",
+        "type": "Martyr",
+        "description": "A chamberlain of Emperor Trajan, he was accused of being a Christian, scourged, and thrown into prison where he died of hunger."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Plastic Bag Free Day",
+        "description": "This day encourages people worldwide to reduce or eliminate their use of plastic bags to promote environmental sustainability."
+      },
+      {
+        "name": "V.I. Emancipation Day (United States Virgin Islands)",
+        "description": "Commemorates the 1848 emancipation of all remaining slaves in the Danish West Indies, now the U.S. Virgin Islands."
+      },
+      {
+        "name": "National Fried Clam Day (United States)",
+        "description": "Celebrates the popular seafood dish, with its origin traced back to Essex, Massachusetts, in 1916."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Many a book is like a key to unknown chambers within the castle of one's own self.",
+      "author": "Franz Kafka",
+      "context": "Franz Kafka, an influential Bohemian novelist known for his unique and existentialist works, was born on this date in 1883."
+    },
+    "motivationalQuote": {
+      "text": "Strive not to be a success, but rather to be of value.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Franz Kafka",
+        "description": "A renowned Bohemian novelist whose distinctive works, often featuring alienated protagonists facing surreal or bureaucratic predicaments, have profoundly influenced Western literature.",
+        "year": "1883"
+      },
+      {
+        "name": "Tom Cruise",
+        "description": "An iconic American actor and producer, celebrated for his diverse roles and commitment to performing his own daring stunts in action and science fiction films.",
+        "year": "1962"
+      },
+      {
+        "name": "Harrison Schmitt",
+        "description": "An American geologist, former NASA astronaut, and politician, notable as the only scientist and one of the last men to walk on the Moon during Apollo 17.",
+        "year": "1935"
+      }
+    ],
+    "events": [
+      {
+        "title": "George Washington Takes Command of the Continental Army",
+        "description": "In a pivotal moment of the American Revolutionary War, George Washington officially assumed command of the Continental Army at Cambridge, Massachusetts.",
+        "year": "1775"
+      },
+      {
+        "title": "Founding of Quebec City",
+        "description": "Samuel de Champlain established Quebec City, marking one of the first permanent European settlements in North America and a significant point in Canadian history.",
+        "year": "1608"
+      },
+      {
+        "title": "Karl Benz Unveils the Benz Patent-Motorwagen",
+        "description": "Karl Benz officially presented the Benz Patent-Motorwagen, widely recognized as the first automobile designed and built for the purpose of propulsion by an internal combustion engine.",
+        "year": "1886"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Tomé Apóstolo",
+        "type": "Apóstolo",
+        "description": "Conhecido como 'Tomé o Incrédulo' por questionar inicialmente a Ressurreição, ele mais tarde fez uma forte profissão de fé e é tradicionalmente considerado um missionário na Índia."
+      },
+      {
+        "name": "Papa São Leão II",
+        "type": "Papa e Confessor",
+        "description": "Nascido na Sicília, era conhecido por sua piedade e habilidades em línguas e música, servindo um breve papado durante o qual confirmou os decretos do Sexto Concílio Ecumênico."
+      },
+      {
+        "name": "São Jacinto de Cesareia",
+        "type": "Mártir",
+        "description": "Camareiro do Imperador Trajano, foi acusado de ser cristão, açoitado e jogado na prisão onde morreu de fome."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional Sem Sacos Plásticos",
+        "description": "Este dia incentiva pessoas em todo o mundo a reduzir ou eliminar o uso de sacos plásticos para promover a sustentabilidade ambiental."
+      },
+      {
+        "name": "Dia da Emancipação das Ilhas Virgens (Ilhas Virgens Americanas)",
+        "description": "Comemora a emancipação de 1848 de todos os escravos remanescentes nas Índias Ocidentais Dinamarquesas, agora as Ilhas Virgens dos EUA."
+      },
+      {
+        "name": "Dia Nacional do Amêijoa Frita (Estados Unidos)",
+        "description": "Celebra o popular prato de frutos do mar, com sua origem rastreada até Essex, Massachusetts, em 1916."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Muitos livros são como uma chave para câmaras desconhecidas dentro do castelo do próprio ser.",
+      "author": "Franz Kafka",
+      "context": "Franz Kafka, um influente romancista boêmio conhecido por suas obras únicas e existencialistas, nasceu nesta data em 1883."
+    },
+    "motivationalQuote": {
+      "text": "Não se esforce para ser um sucesso, mas sim para ser de valor.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Franz Kafka",
+        "description": "Um renomado romancista boêmio cujas obras distintivas, frequentemente apresentando protagonistas alienados enfrentando dilemas surreais ou burocráticos, influenciaram profundamente a literatura ocidental.",
+        "year": "1883"
+      },
+      {
+        "name": "Tom Cruise",
+        "description": "Um icônico ator e produtor americano, celebrado por seus diversos papéis e seu compromisso em realizar suas próprias acrobacias ousadas em filmes de ação e ficção científica.",
+        "year": "1962"
+      },
+      {
+        "name": "Harrison Schmitt",
+        "description": "Um geólogo, ex-astronauta da NASA e político americano, notável como o único cientista e um dos últimos homens a pisar na Lua durante a Apollo 17.",
+        "year": "1935"
+      }
+    ],
+    "events": [
+      {
+        "title": "George Washington Assume o Comando do Exército Continental",
+        "description": "Em um momento crucial da Guerra Revolucionária Americana, George Washington assumiu oficialmente o comando do Exército Continental em Cambridge, Massachusetts.",
+        "year": "1775"
+      },
+      {
+        "title": "Fundação da Cidade de Quebec",
+        "description": "Samuel de Champlain estabeleceu a Cidade de Quebec, marcando um dos primeiros assentamentos europeus permanentes na América do Norte e um ponto significativo na história canadense.",
+        "year": "1608"
+      },
+      {
+        "title": "Karl Benz Apresenta o Benz Patent-Motorwagen",
+        "description": "Karl Benz apresentou oficialmente o Benz Patent-Motorwagen, amplamente reconhecido como o primeiro automóvel projetado e construído com o propósito de propulsão por um motor de combustão interna.",
+        "year": "1886"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Tomàs Apòstol",
+        "type": "Apòstol",
+        "description": "Conegut com a 'Tomàs el Dubtós' per haver qüestionat inicialment la Resurrecció, més tard va fer una ferma professió de fe i es creu tradicionalment que va ser missioner a l'Índia."
+      },
+      {
+        "name": "Papa Sant Lleó II",
+        "type": "Papa i Confessor",
+        "description": "Nascut a Sicília, va ser conegut per la seva pietat i habilitats en idiomes i música, servint un breu papat durant el qual va confirmar els decrets del Sisè Concili Ecumènic."
+      },
+      {
+        "name": "Sant Jacint de Cesarea",
+        "type": "Màrtir",
+        "description": "Majordom de l'emperador Trajà, va ser acusat de ser cristià, assotat i tancat a la presó, on va morir de fam."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional sense Bosses de Plàstic",
+        "description": "Aquest dia anima la gent de tot el món a reduir o eliminar l'ús de bosses de plàstic per promoure la sostenibilitat ambiental."
+      },
+      {
+        "name": "Dia de l'Emancipació de les Illes Verges (Estats Units)",
+        "description": "Commemora l'emancipació de 1848 de tots els esclaus restants a les Índies Occidentals Daneses, ara les Illes Verges dels EUA."
+      },
+      {
+        "name": "Dia Nacional de les Cloïsses Fregides (Estats Units)",
+        "description": "Celebra el popular plat de marisc, l'origen del qual es remunta a Essex, Massachusetts, el 1916."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Molts llibres són com una clau per a cambres desconegudes dins el castell del propi jo.",
+      "author": "Franz Kafka",
+      "context": "Franz Kafka, un influent novel·lista bohemi conegut per les seves obres úniques i existencialistes, va néixer en aquesta data el 1883."
+    },
+    "motivationalQuote": {
+      "text": "No t'esforcis per ser un èxit, sinó per ser de valor.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Franz Kafka",
+        "description": "Un reconegut novel·lista bohemi les obres distintives del qual, sovint amb protagonistes alienats enfrontant-se a dilemes surrealistes o burocràtics, han influït profundament la literatura occidental.",
+        "year": "1883"
+      },
+      {
+        "name": "Tom Cruise",
+        "description": "Un icònic actor i productor estatunidenc, celebrat pels seus diversos papers i el seu compromís a realitzar les seves pròpies acrobàcies atrevides en pel·lícules d'acció i ciència-ficció.",
+        "year": "1962"
+      },
+      {
+        "name": "Harrison Schmitt",
+        "description": "Un geòleg estatunidenc, exastronauta de la NASA i polític, destacat com l'únic científic i un dels últims homes a caminar sobre la Lluna durant l'Apollo 17.",
+        "year": "1935"
+      }
+    ],
+    "events": [
+      {
+        "title": "George Washington pren el comandament de l'Exèrcit Continental",
+        "description": "En un moment crucial de la Guerra de la Independència dels Estats Units, George Washington va assumir oficialment el comandament de l'Exèrcit Continental a Cambridge, Massachusetts.",
+        "year": "1775"
+      },
+      {
+        "title": "Fundació de la ciutat de Quebec",
+        "description": "Samuel de Champlain va fundar la ciutat de Quebec, marcant un dels primers assentaments europeus permanents a Amèrica del Nord i un punt significatiu en la història canadenca.",
+        "year": "1608"
+      },
+      {
+        "title": "Karl Benz presenta el Benz Patent-Motorwagen",
+        "description": "Karl Benz va presentar oficialment el Benz Patent-Motorwagen, àmpliament reconegut com el primer automòbil dissenyat i construït amb el propòsit de la propulsió per un motor de combustió interna.",
+        "year": "1886"
+      }
+    ]
+  }
+}
