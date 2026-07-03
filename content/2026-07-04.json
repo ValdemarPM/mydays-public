@@ -1,0 +1,287 @@
+{
+  "date": "2026-07-04",
+  "es": {
+    "saints": [
+      {
+        "name": "San Ulrico de Augsburgo",
+        "type": "Obispo",
+        "description": "Nacido en 890, San Ulrico sirvió como Obispo de Augsburgo, Alemania. Fue conocido por construir iglesias, cuidar a los enfermos y establecer un ejemplo moral para su clero y laicos. Fue el primer santo en ser formalmente canonizado por un Papa en el año 993 d.C."
+      },
+      {
+        "name": "San Andrés de Creta",
+        "type": "Arzobispo",
+        "description": "Nacido mudo en Damasco, San Andrés milagrosamente obtuvo el don del habla después de recibir los Santos Misterios de Cristo a los siete años. Se convirtió en monje, secretario del Patriarcado de Jerusalén y más tarde Arzobispo de Creta, conocido por sus escritos teológicos e himnos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia (Estados Unidos)",
+        "description": "Este día festivo federal conmemora la adopción de la Declaración de Independencia el 4 de julio de 1776, que formalmente separó a las trece colonias americanas del dominio británico."
+      },
+      {
+        "name": "Día de la Amistad Filipino-Estadounidense",
+        "description": "Este día marca el 4 de julio de 1946, cuando Filipinas obtuvo la plena independencia de los Estados Unidos después de siglos de dominio colonial, estableciendo una amistad entre las dos naciones."
+      },
+      {
+        "name": "Día de Alicia en el País de las Maravillas",
+        "description": "Esta celebración cultural conmemora el 4 de julio de 1862, cuando Lewis Carroll relató por primera vez la historia de las aventuras de Alicia a Alice Liddell y sus hermanas, que más tarde publicó como 'Las aventuras de Alicia en el País de las Maravillas'."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Thomas Jefferson aún vive.",
+      "author": "John Adams",
+      "context": "John Adams, el segundo presidente de EE. UU., supuestamente pronunció estas palabras en su lecho de muerte el 4 de julio de 1826, sin saber que Thomas Jefferson, el tercer presidente de EE. UU. y su amigo y rival de toda la vida, había muerto solo unas horas antes en el 50 aniversario de la Declaración de Independencia."
+    },
+    "motivationalQuote": {
+      "text": "La única manera de hacer un gran trabajo es amar lo que haces.",
+      "author": "J.R.R. Tolkien"
+    },
+    "births": [
+      {
+        "name": "Calvin Coolidge",
+        "description": "El 30º Presidente de los Estados Unidos, conocido por su temperamento tranquilo y sus políticas conservadoras, fue el único presidente de EE. UU. nacido el Cuatro de Julio.",
+        "year": "1872"
+      },
+      {
+        "name": "Nathaniel Hawthorne",
+        "description": "Un renombrado novelista y cuentista estadounidense, es más conocido por sus obras de romance oscuro como 'La letra escarlata' y 'La casa de los siete tejados'.",
+        "year": "1804"
+      },
+      {
+        "name": "Bill Withers",
+        "description": "Un cantautor estadounidense que creó éxitos como 'Ain't No Sunshine', 'Lean on Me' y 'Lovely Day', ganando tres premios Grammy durante su carrera.",
+        "year": "1938"
+      }
+    ],
+    "events": [
+      {
+        "title": "Adopción de la Declaración de Independencia de los Estados Unidos",
+        "description": "En este día crucial de 1776, el Segundo Congreso Continental adoptó oficialmente la Declaración de Independencia, declarando formalmente la separación de las colonias americanas de Gran Bretaña y su determinación de formar una nueva nación basada en los principios de libertad.",
+        "year": "1776"
+      },
+      {
+        "title": "Anunciada la Compra de Luisiana",
+        "description": "En 1803, la trascendental Compra de Luisiana, que duplicó efectivamente el tamaño de los jóvenes Estados Unidos, fue anunciada al pueblo estadounidense, abriendo vastos territorios para la expansión hacia el oeste.",
+        "year": "1803"
+      },
+      {
+        "title": "Filipinas Obtiene la Independencia",
+        "description": "Después de 381 años de dominio colonial, Filipinas logró la plena independencia de los Estados Unidos el 4 de julio de 1946, marcando un momento significativo de autodeterminación en la historia posterior a la Segunda Guerra Mundial.",
+        "year": "1946"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Ulrich of Augsburg",
+        "type": "Bishop",
+        "description": "Born in 890, Saint Ulrich served as the Bishop of Augsburg, Germany. He was known for building churches, caring for the sick, and setting a moral example for his clergy and laity. He was the first saint to be formally canonized by a Pope in 993 AD."
+      },
+      {
+        "name": "Saint Andrew of Crete",
+        "type": "Archbishop",
+        "description": "Born mute in Damascus, Saint Andrew miraculously gained the gift of speech after receiving the Holy Mysteries of Christ at age seven. He became a monk, a secretary for the Jerusalem Patriarchate, and later the Archbishop of Crete, known for his theological writings and hymns."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Independence Day (United States)",
+        "description": "This federal holiday commemorates the adoption of the Declaration of Independence on July 4, 1776, formally severing the thirteen American colonies from British rule."
+      },
+      {
+        "name": "Filipino-American Friendship Day",
+        "description": "This day marks July 4, 1946, when the Philippines gained full independence from the United States after centuries of colonial rule, establishing a friendship between the two nations."
+      },
+      {
+        "name": "Alice in Wonderland Day",
+        "description": "This cultural observance celebrates July 4, 1862, when Lewis Carroll first recounted the tale of Alice's adventures to Alice Liddell and her sisters, which he later published as 'Alice's Adventures in Wonderland'."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Thomas Jefferson still survives.",
+      "author": "John Adams",
+      "context": "John Adams, the second U.S. President, reportedly uttered these words on his deathbed on July 4, 1826, unaware that Thomas Jefferson, the third U.S. President and his longtime friend and rival, had died just hours earlier on the 50th anniversary of the Declaration of Independence."
+    },
+    "motivationalQuote": {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "J.R.R. Tolkien"
+    },
+    "births": [
+      {
+        "name": "Calvin Coolidge",
+        "description": "The 30th President of the United States, known for his quiet demeanor and conservative policies, was the only U.S. president born on the Fourth of July.",
+        "year": "1872"
+      },
+      {
+        "name": "Nathaniel Hawthorne",
+        "description": "A renowned American novelist and short story writer, he is best known for his dark romantic works such as 'The Scarlet Letter' and 'The House of the Seven Gables'.",
+        "year": "1804"
+      },
+      {
+        "name": "Bill Withers",
+        "description": "An American singer-songwriter who created hits like 'Ain't No Sunshine', 'Lean on Me', and 'Lovely Day', winning three Grammy Awards during his career.",
+        "year": "1938"
+      }
+    ],
+    "events": [
+      {
+        "title": "United States Declaration of Independence Adopted",
+        "description": "On this pivotal day in 1776, the Second Continental Congress officially adopted the Declaration of Independence, formally declaring the American colonies' separation from Great Britain and their resolve to form a new nation based on principles of liberty.",
+        "year": "1776"
+      },
+      {
+        "title": "Louisiana Purchase Announced",
+        "description": "In 1803, the momentous Louisiana Purchase, which effectively doubled the size of the young United States, was announced to the American people, opening vast territories for westward expansion.",
+        "year": "1803"
+      },
+      {
+        "title": "Philippines Gains Independence",
+        "description": "After 381 years of colonial rule, the Philippines achieved full independence from the United States on July 4, 1946, marking a significant moment of self-determination in post-World War II history.",
+        "year": "1946"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Ulrico de Augsburgo",
+        "type": "Bispo",
+        "description": "Nascido em 890, Santo Ulrico serviu como Bispo de Augsburgo, Alemanha. Ele era conhecido por construir igrejas, cuidar dos doentes e dar um exemplo moral para seu clero e leigos. Ele foi o primeiro santo a ser formalmente canonizado por um Papa em 993 d.C."
+      },
+      {
+        "name": "Santo André de Creta",
+        "type": "Arcebispo",
+        "description": "Nascido mudo em Damasco, Santo André milagrosamente adquiriu o dom da fala após receber os Santos Mistérios de Cristo aos sete anos. Ele se tornou um monge, secretário do Patriarcado de Jerusalém e mais tarde Arcebispo de Creta, conhecido por seus escritos teológicos e hinos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência (Estados Unidos)",
+        "description": "Este feriado federal comemora a adoção da Declaração de Independência em 4 de julho de 1776, separando formalmente as treze colônias americanas do domínio britânico."
+      },
+      {
+        "name": "Dia da Amizade Filipino-Americana",
+        "description": "Este dia marca 4 de julho de 1946, quando as Filipinas obtiveram plena independência dos Estados Unidos após séculos de domínio colonial, estabelecendo uma amizade entre as duas nações."
+      },
+      {
+        "name": "Dia de Alice no País das Maravilhas",
+        "description": "Esta observância cultural celebra 4 de julho de 1862, quando Lewis Carroll contou pela primeira vez a história das aventuras de Alice para Alice Liddell e suas irmãs, que ele mais tarde publicou como 'As Aventuras de Alice no País das Maravilhas'."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Thomas Jefferson ainda vive.",
+      "author": "John Adams",
+      "context": "John Adams, o segundo presidente dos EUA, teria proferido estas palavras em seu leito de morte em 4 de julho de 1826, sem saber que Thomas Jefferson, o terceiro presidente dos EUA e seu amigo e rival de longa data, havia morrido apenas horas antes, no 50º aniversário da Declaração de Independência."
+    },
+    "motivationalQuote": {
+      "text": "A única maneira de fazer um ótimo trabalho é amar o que você faz.",
+      "author": "J.R.R. Tolkien"
+    },
+    "births": [
+      {
+        "name": "Calvin Coolidge",
+        "description": "O 30º Presidente dos Estados Unidos, conhecido por seu comportamento calmo e políticas conservadoras, foi o único presidente dos EUA nascido em Quatro de Julho.",
+        "year": "1872"
+      },
+      {
+        "name": "Nathaniel Hawthorne",
+        "description": "Um renomado romancista e contista americano, ele é mais conhecido por suas obras de romance sombrio, como 'A Letra Escarlate' e 'A Casa das Sete Torres'.",
+        "year": "1804"
+      },
+      {
+        "name": "Bill Withers",
+        "description": "Um cantor e compositor americano que criou sucessos como 'Ain't No Sunshine', 'Lean on Me' e 'Lovely Day', ganhando três prêmios Grammy durante sua carreira.",
+        "year": "1938"
+      }
+    ],
+    "events": [
+      {
+        "title": "Declaração de Independência dos Estados Unidos Adotada",
+        "description": "Neste dia crucial em 1776, o Segundo Congresso Continental adotou oficialmente a Declaração de Independência, declarando formalmente a separação das colônias americanas da Grã-Bretanha e sua determinação de formar uma nova nação baseada em princípios de liberdade.",
+        "year": "1776"
+      },
+      {
+        "title": "Compra da Louisiana Anunciada",
+        "description": "Em 1803, a momentosa Compra da Louisiana, que efetivamente dobrou o tamanho dos jovens Estados Unidos, foi anunciada ao povo americano, abrindo vastos territórios para a expansão para o oeste.",
+        "year": "1803"
+      },
+      {
+        "title": "Filipinas Conquista a Independência",
+        "description": "Após 381 anos de domínio colonial, as Filipinas alcançaram a plena independência dos Estados Unidos em 4 de julho de 1946, marcando um momento significativo de autodeterminação na história pós-Segunda Guerra Mundial.",
+        "year": "1946"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Ulric d'Augsburg",
+        "type": "Bisbe",
+        "description": "Nascut el 890, Sant Ulric va servir com a bisbe d'Augsburg, Alemanya. Va ser conegut per construir esglésies, cuidar els malalts i donar un exemple moral al seu clergat i laics. Va ser el primer sant a ser formalment canonitzat per un Papa l'any 993 dC."
+      },
+      {
+        "name": "Sant Andreu de Creta",
+        "type": "Arquebisbe",
+        "description": "Nascut mut a Damasc, Sant Andreu va adquirir miraculosament el do de la parla després de rebre els Sants Misteris de Crist als set anys. Va esdevenir monjo, secretari del Patriarcat de Jerusalem i, més tard, arquebisbe de Creta, conegut pels seus escrits teològics i himnes."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència (Estats Units)",
+        "description": "Aquesta festa federal commemora l'adopció de la Declaració d'Independència el 4 de juliol de 1776, que va separar formalment les tretze colònies americanes del domini britànic."
+      },
+      {
+        "name": "Dia de l'Amistat Filipino-Americana",
+        "description": "Aquest dia commemora el 4 de juliol de 1946, quan les Filipines van obtenir la plena independència dels Estats Units després de segles de domini colonial, establint una amistat entre les dues nacions."
+      },
+      {
+        "name": "Dia d'Alícia al País de les Meravelles",
+        "description": "Aquesta celebració cultural commemora el 4 de juliol de 1862, quan Lewis Carroll va relatar per primera vegada el conte de les aventures d'Alícia a Alice Liddell i les seves germanes, que més tard va publicar com a 'Alícia al País de les Meravelles'."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Thomas Jefferson encara viu.",
+      "author": "John Adams",
+      "context": "John Adams, el segon president dels EUA, hauria pronunciat aquestes paraules al seu llit de mort el 4 de juliol de 1826, sense saber que Thomas Jefferson, el tercer president dels EUA i el seu amic i rival de llarga data, havia mort poques hores abans en el 50è aniversari de la Declaració d'Independència."
+    },
+    "motivationalQuote": {
+      "text": "L'única manera de fer una gran feina és estimar el que fas.",
+      "author": "J.R.R. Tolkien"
+    },
+    "births": [
+      {
+        "name": "Calvin Coolidge",
+        "description": "El 30è president dels Estats Units, conegut pel seu tarannà tranquil i les seves polítiques conservadores, va ser l'únic president dels EUA nascut el Quatre de Juliol.",
+        "year": "1872"
+      },
+      {
+        "name": "Nathaniel Hawthorne",
+        "description": "Un reconegut novel·lista i contista nord-americà, és conegut principalment per les seves obres romàntiques fosques com 'La lletra escarlata' i 'La casa de les set teulades'.",
+        "year": "1804"
+      },
+      {
+        "name": "Bill Withers",
+        "description": "Un cantautor nord-americà que va crear èxits com 'Ain't No Sunshine', 'Lean on Me' i 'Lovely Day', guanyant tres premis Grammy durant la seva carrera.",
+        "year": "1938"
+      }
+    ],
+    "events": [
+      {
+        "title": "Adopció de la Declaració d'Independència dels Estats Units",
+        "description": "En aquest dia crucial de 1776, el Segon Congrés Continental va adoptar oficialment la Declaració d'Independència, declarant formalment la separació de les colònies americanes de la Gran Bretanya i la seva determinació de formar una nova nació basada en els principis de llibertat.",
+        "year": "1776"
+      },
+      {
+        "title": "Anunci de la Compra de Louisiana",
+        "description": "El 1803, la transcendental Compra de Louisiana, que va duplicar efectivament la mida dels joves Estats Units, va ser anunciada al poble americà, obrint vasts territoris per a l'expansió cap a l'oest.",
+        "year": "1803"
+      },
+      {
+        "title": "Les Filipines obtenen la independència",
+        "description": "Després de 381 anys de domini colonial, les Filipines van aconseguir la plena independència dels Estats Units el 4 de juliol de 1946, marcant un moment significatiu d'autodeterminació en la història posterior a la Segona Guerra Mundial.",
+        "year": "1946"
+      }
+    ]
+  }
+}
