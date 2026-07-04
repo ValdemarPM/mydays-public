@@ -1,0 +1,271 @@
+{
+  "date": "2026-07-05",
+  "es": {
+    "saints": [
+      {
+        "name": "San Antonio María Zaccaria",
+        "type": "Sacerdote",
+        "description": "Nacido en Italia, San Antonio María Zaccaria fue un médico que más tarde se hizo sacerdote y fundó los Clérigos Regulares de San Pablo, comúnmente conocidos como los Barnabitas, para reformar la Iglesia y la sociedad."
+      },
+      {
+        "name": "Venerable Atanasio del Monte Athos",
+        "type": "Monje/Fundador",
+        "description": "El Venerable Atanasio fue el fundador de la Gran Laura y del monacato cenobítico en el Monte Athos, desempeñando un papel crucial en el establecimiento de la tradición monástica allí."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de las Cooperativas",
+        "description": "Esta conmemoración internacional promueve la conciencia sobre las cooperativas y destaca sus contribuciones al desarrollo socioeconómico."
+      },
+      {
+        "name": "Día Nacional del Bikini",
+        "description": "Este día conmemora el debut del moderno traje de baño bikini, presentado por el diseñador francés Louis Réard en París el 5 de julio de 1946."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“¿Qué es, para el esclavo, el Cuatro de Julio? Yo respondo: un día que le revela, más que todos los demás días del año, la flagrante injusticia y crueldad de la que es víctima constante.”",
+      "author": "Frederick Douglass",
+      "context": "Frederick Douglass pronunció su poderoso discurso, '¿Qué es para el esclavo el Cuatro de Julio?', el 5 de julio de 1852, en Rochester, Nueva York, hablando deliberadamente un día después del Día de la Independencia para exponer la hipocresía de celebrar la libertad mientras millones seguían esclavizados."
+    },
+    "motivationalQuote": {
+      "text": "“No importa cuán lento vayas, siempre y cuando no te detengas.”",
+      "author": "Confucio"
+    },
+    "births": [
+      {
+        "name": "P. T. Barnum",
+        "description": "Phineas Taylor Barnum fue un showman, empresario y político estadounidense, reconocido por promover engaños y fundar el Circo Ringling Bros. and Barnum & Bailey.",
+        "year": "1810"
+      },
+      {
+        "name": "Bill Watterson",
+        "description": "Bill Watterson es un dibujante estadounidense y el creador de la popular tira cómica 'Calvin y Hobbes'.",
+        "year": "1958"
+      },
+      {
+        "name": "Cecil Rhodes",
+        "description": "Cecil Rhodes fue un empresario y político británico en el África Meridional, quien fundó la compañía de diamantes De Beers y Rodesia (actualmente Zimbabue y Zambia).",
+        "year": "1853"
+      }
+    ],
+    "events": [
+      {
+        "title": "Nacimiento de la oveja Dolly",
+        "description": "La oveja Dolly, el primer mamífero clonado con éxito a partir de una célula somática adulta, nació en Escocia, marcando un hito científico significativo.",
+        "year": "1996"
+      },
+      {
+        "title": "Elvis Presley Graba su Primer Sencillo",
+        "description": "Elvis Presley grabó su primer sencillo, 'That's All Right', en Sun Records en Memphis, Tennessee, lanzando una carrera legendaria que redefiniría la música popular.",
+        "year": "1954"
+      },
+      {
+        "title": "Enmienda 26 Certificada",
+        "description": "La Vigésimo Sexta Enmienda a la Constitución de los Estados Unidos, que redujo la edad para votar de 21 a 18 años, fue certificada formalmente por el presidente Richard Nixon.",
+        "year": "1971"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Anthony Mary Zaccaria",
+        "type": "Priest",
+        "description": "Born in Italy, Saint Anthony Mary Zaccaria was a physician who later became a priest and founded the Clerics Regular of Saint Paul, commonly known as the Barnabites, to reform the Church and society."
+      },
+      {
+        "name": "Venerable Athanasius of Mount Athos",
+        "type": "Monk/Founder",
+        "description": "Venerable Athanasius was the founder of the Great Lavra and coenobitic monasticism on Mount Athos, playing a crucial role in establishing the monastic tradition there."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of Cooperatives",
+        "description": "This international observance promotes awareness of cooperatives and highlights their contributions to socio-economic development."
+      },
+      {
+        "name": "National Bikini Day",
+        "description": "This day commemorates the debut of the modern bikini swimsuit, unveiled by French designer Louis Réard in Paris on July 5, 1946."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“What, to the slave, is the Fourth of July? I answer: a day that reveals to him, more than all other days in the year, the gross injustice and cruelty to which he is the constant victim.”",
+      "author": "Frederick Douglass",
+      "context": "Frederick Douglass delivered his powerful speech, 'What to the Slave Is the Fourth of July?', on July 5, 1852, in Rochester, New York, deliberately speaking the day after Independence Day to expose the hypocrisy of celebrating freedom while millions remained enslaved."
+    },
+    "motivationalQuote": {
+      "text": "“It does not matter how slowly you go as long as you do not stop.”",
+      "author": "Confucius"
+    },
+    "births": [
+      {
+        "name": "P. T. Barnum",
+        "description": "Phineas Taylor Barnum was an American showman, businessman, and politician, renowned for promoting hoaxes and founding the Ringling Bros. and Barnum & Bailey Circus.",
+        "year": "1810"
+      },
+      {
+        "name": "Bill Watterson",
+        "description": "Bill Watterson is an American cartoonist and the creator of the widely popular comic strip 'Calvin and Hobbes'.",
+        "year": "1958"
+      },
+      {
+        "name": "Cecil Rhodes",
+        "description": "Cecil Rhodes was a British businessman and politician in Southern Africa, who founded the diamond company De Beers and Rhodesia (now Zimbabwe and Zambia).",
+        "year": "1853"
+      }
+    ],
+    "events": [
+      {
+        "title": "Dolly the Sheep Born",
+        "description": "Dolly the sheep, the first mammal to be successfully cloned from an adult somatic cell, was born in Scotland, marking a significant scientific milestone.",
+        "year": "1996"
+      },
+      {
+        "title": "Elvis Presley Records First Single",
+        "description": "Elvis Presley recorded his first single, 'That's All Right', at Sun Records in Memphis, Tennessee, launching a legendary career that would redefine popular music.",
+        "year": "1954"
+      },
+      {
+        "title": "26th Amendment Certified",
+        "description": "The Twenty-sixth Amendment to the United States Constitution, which lowered the voting age from 21 to 18, was formally certified by President Richard Nixon.",
+        "year": "1971"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Antônio Maria Zaccaria",
+        "type": "Sacerdote",
+        "description": "Nascido na Itália, Santo Antônio Maria Zaccaria foi um médico que mais tarde se tornou sacerdote e fundou os Clérigos Regulares de São Paulo, comumente conhecidos como Barnabitas, para reformar a Igreja e a sociedade."
+      },
+      {
+        "name": "Venerável Atanásio do Monte Athos",
+        "type": "Monge/Fundador",
+        "description": "O Venerável Atanásio foi o fundador da Grande Lavra e do monaquismo cenobítico no Monte Athos, desempenhando um papel crucial no estabelecimento da tradição monástica lá."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional das Cooperativas",
+        "description": "Esta celebração internacional promove a conscientização sobre as cooperativas e destaca suas contribuições para o desenvolvimento socioeconômico."
+      },
+      {
+        "name": "Dia Nacional do Biquíni",
+        "description": "Este dia comemora a estreia do moderno traje de banho biquíni, revelado pelo designer francês Louis Réard em Paris em 5 de julho de 1946."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“O que é, para o escravo, o Quatro de Julho? Eu respondo: um dia que lhe revela, mais do que todos os outros dias do ano, a flagrante injustiça e crueldade de que é vítima constante.”",
+      "author": "Frederick Douglass",
+      "context": "Frederick Douglass proferiu seu poderoso discurso, 'O Que é Para o Escravo o Quatro de Julho?', em 5 de julho de 1852, em Rochester, Nova Iorque, falando deliberadamente um dia após o Dia da Independência para expor a hipocrisia de celebrar a liberdade enquanto milhões permaneciam escravizados."
+    },
+    "motivationalQuote": {
+      "text": "“Não importa o quão devagar você vá, desde que você não pare.”",
+      "author": "Confúcio"
+    },
+    "births": [
+      {
+        "name": "P. T. Barnum",
+        "description": "Phineas Taylor Barnum foi um showman, empresário e político americano, conhecido por promover fraudes e fundar o Ringling Bros. and Barnum & Bailey Circus.",
+        "year": "1810"
+      },
+      {
+        "name": "Bill Watterson",
+        "description": "Bill Watterson é um cartunista americano e o criador da popular tira cômica 'Calvin e Haroldo'.",
+        "year": "1958"
+      },
+      {
+        "name": "Cecil Rhodes",
+        "description": "Cecil Rhodes foi um empresário e político britânico na África Austral, que fundou a empresa de diamantes De Beers e a Rodésia (agora Zimbábue e Zâmbia).",
+        "year": "1853"
+      }
+    ],
+    "events": [
+      {
+        "title": "Ovelha Dolly Nasce",
+        "description": "A ovelha Dolly, o primeiro mamífero a ser clonado com sucesso a partir de uma célula somática adulta, nasceu na Escócia, marcando um marco científico significativo.",
+        "year": "1996"
+      },
+      {
+        "title": "Elvis Presley Grava Primeiro Single",
+        "description": "Elvis Presley gravou seu primeiro single, 'That's All Right', na Sun Records em Memphis, Tennessee, lançando uma carreira lendária que redefiniria a música popular.",
+        "year": "1954"
+      },
+      {
+        "title": "26ª Emenda Certificada",
+        "description": "A Vigésima Sexta Emenda à Constituição dos Estados Unidos, que reduziu a idade de voto de 21 para 18 anos, foi formalmente certificada pelo Presidente Richard Nixon.",
+        "year": "1971"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Antoni Maria Zaccaria",
+        "type": "Sacerdot",
+        "description": "Nascut a Itàlia, Sant Antoni Maria Zaccaria va ser un metge que més tard es va fer sacerdot i va fundar els Clergues Regulars de Sant Pau, coneguts comunament com els Barnabites, per reformar l'Església i la societat."
+      },
+      {
+        "name": "Venerable Atanasi de la Muntanya Athos",
+        "type": "Monjo/Fundador",
+        "description": "El venerable Atanasi va ser el fundador de la Gran Lavra i del monaquisme cenobític a la Muntanya Athos, jugant un paper crucial en l'establiment de la tradició monàstica allà."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de les Cooperatives",
+        "description": "Aquesta commemoració internacional promou la consciència sobre les cooperatives i destaca les seves contribucions al desenvolupament socioeconòmic."
+      },
+      {
+        "name": "Dia Nacional del Biquini",
+        "description": "Aquest dia commemora el debut del modern banyador biquini, presentat pel dissenyador francès Louis Réard a París el 5 de juliol de 1946."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“Què és, per a l'esclau, el Quatre de Juliol? Responc: un dia que li revela, més que tots els altres dies de l'any, la flagrant injustícia i crueltat de la qual és víctima constant.”",
+      "author": "Frederick Douglass",
+      "context": "Frederick Douglass va pronunciar el seu poderós discurs, 'Què és el Quatre de Juliol per a l'esclau?', el 5 de juliol de 1852, a Rochester, Nova York, parlant deliberadament l'endemà del Dia de la Independència per exposar la hipocresia de celebrar la llibertat mentre milions seguien esclavitzats."
+    },
+    "motivationalQuote": {
+      "text": "“No importa com de lentament vagis, sempre que no t'aturis.”",
+      "author": "Confuci"
+    },
+    "births": [
+      {
+        "name": "P. T. Barnum",
+        "description": "Phineas Taylor Barnum va ser un showman, home de negocis i polític nord-americà, reconegut per promoure enganys i fundar el Ringling Bros. and Barnum & Bailey Circus.",
+        "year": "1810"
+      },
+      {
+        "name": "Bill Watterson",
+        "description": "Bill Watterson és un dibuixant nord-americà i el creador de la popular tira còmica 'Calvin and Hobbes'.",
+        "year": "1958"
+      },
+      {
+        "name": "Cecil Rhodes",
+        "description": "Cecil Rhodes va ser un empresari i polític britànic a l'Àfrica Meridional, que va fundar la companyia de diamants De Beers i Rhodèsia (ara Zimbàbue i Zàmbia).",
+        "year": "1853"
+      }
+    ],
+    "events": [
+      {
+        "title": "Naixement de l'Ovella Dolly",
+        "description": "L'ovella Dolly, el primer mamífer clonat amb èxit a partir d'una cèl·lula somàtica adulta, va néixer a Escòcia, marcant una fita científica significativa.",
+        "year": "1996"
+      },
+      {
+        "title": "Elvis Presley Enregistra el seu Primer Senzill",
+        "description": "Elvis Presley va enregistrar el seu primer senzill, 'That's All Right', a Sun Records a Memphis, Tennessee, llançant una carrera llegendària que redefiniria la música popular.",
+        "year": "1954"
+      },
+      {
+        "title": "Certificació de la 26a Esmena",
+        "description": "La Vint-i-sisena Esmena de la Constitució dels Estats Units, que va reduir l'edat de votació de 21 a 18 anys, va ser formalment certificada pel president Richard Nixon.",
+        "year": "1971"
+      }
+    ]
+  }
+}
