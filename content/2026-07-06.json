@@ -1,0 +1,287 @@
+{
+  "date": "2026-07-06",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa María Goretti",
+        "type": "Virgen y Mártir",
+        "description": "Santa María Goretti es celebrada por su compromiso con la pureza y por perdonar valientemente a su atacante en su lecho de muerte a la edad de once años en 1902. Es la patrona de la pureza, las víctimas de violación, las mujeres jóvenes y la juventud."
+      },
+      {
+        "name": "Venerable Sisoes el Grande",
+        "type": "Monje Solitario",
+        "description": "Un monje asceta que vivió en el desierto egipcio en los siglos IV y V, el Venerable Sisoes el Grande es conocido por su sublime pureza espiritual y su don de obrar milagros, incluyendo la restauración de un niño muerto a la vida."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional del Beso",
+        "description": "Este día fomenta las expresiones físicas de afecto y celebra la ciencia detrás de los besos."
+      },
+      {
+        "name": "Día Nacional del Pollo Frito (EE. UU.)",
+        "description": "Esta celebración estadounidense conmemora la importancia cultural del pollo frito, un plato con profundas raíces en las tradiciones culinarias escocesas y de África Occidental."
+      },
+      {
+        "name": "Día de Jan Hus (República Checa)",
+        "description": "Conmemorado en la República Checa, este día marca el martirio del teólogo y reformador eclesiástico checo Jan Hus, quien fue quemado en la hoguera el 6 de julio de 1415."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Señor, aún no he empezado a luchar.",
+      "author": "John Paul Jones",
+      "context": "John Paul Jones, un héroe naval de la Revolución Americana, nació el 6 de julio de 1747. Esta famosa cita se le atribuye durante su victoria sobre los buques de guerra británicos."
+    },
+    "motivationalQuote": {
+      "text": "El amor es la única fuerza capaz de transformar a un enemigo en amigo.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Frida Kahlo",
+        "description": "Una célebre pintora mexicana conocida por sus autorretratos intensos y brillantemente coloreados, que a menudo exploran temas de identidad, postcolonialismo, género, clase y raza.",
+        "year": "1907"
+      },
+      {
+        "name": "George W. Bush",
+        "description": "El 43.º presidente de los Estados Unidos, quien sirvió de 2001 a 2009, habiendo sido previamente gobernador de Texas.",
+        "year": "1946"
+      },
+      {
+        "name": "Sylvester Stallone",
+        "description": "Un actor, guionista y director de cine estadounidense, ampliamente reconocido por sus icónicos papeles como el boxeador Rocky Balboa y el soldado John Rambo.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Louis Pasteur Prueba con Éxito la Vacuna contra la Rabia",
+        "description": "En un logro científico monumental, Louis Pasteur probó con éxito su vacuna experimental contra la rabia en Joseph Meister, de nueve años.",
+        "year": "1885"
+      },
+      {
+        "title": "Althea Gibson Rompe Barreras en Wimbledon",
+        "description": "La tenista estadounidense Althea Gibson hizo historia al convertirse en la primera jugadora negra en ganar el título individual femenino en Wimbledon.",
+        "year": "1957"
+      },
+      {
+        "title": "Malawi Obtiene la Independencia",
+        "description": "Nyasalandia logró la independencia del dominio británico y se convirtió en el país independiente de Malawi dentro de la Mancomunidad de Naciones, marcando un paso significativo en la descolonización africana.",
+        "year": "1964"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Maria Goretti",
+        "type": "Virgin and Martyr",
+        "description": "St. Maria Goretti is celebrated for her commitment to purity and for courageously forgiving her attacker on her deathbed at the age of eleven in 1902. She is the patron saint of purity, rape victims, young women, and youth."
+      },
+      {
+        "name": "Venerable Sisoes the Great",
+        "type": "Solitary Monk",
+        "description": "An ascetic monk who lived in the Egyptian desert in the 4th and 5th centuries, Venerable Sisoes the Great is known for his sublime spiritual purity and gift of wonderworking, including restoring a dead child to life."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Kissing Day",
+        "description": "This day encourages physical expressions of affection and celebrates the science behind kissing."
+      },
+      {
+        "name": "National Fried Chicken Day (USA)",
+        "description": "This American observance celebrates the cultural significance of fried chicken, a dish with deep roots in Scottish and West African culinary traditions."
+      },
+      {
+        "name": "Jan Hus Day (Czech Republic)",
+        "description": "Commemorated in the Czech Republic, this day marks the martyrdom of Czech theologian and church reformer Jan Hus, who was burned at the stake on July 6, 1415."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Sir, I have not yet begun to fight.",
+      "author": "John Paul Jones",
+      "context": "John Paul Jones, a naval hero in the American Revolution, was born on July 6, 1747. This famous quote is attributed to him during his victory over British warships."
+    },
+    "motivationalQuote": {
+      "text": "Love is the only force capable of transforming an enemy to a friend.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Frida Kahlo",
+        "description": "A celebrated Mexican painter known for her intense and brilliantly colored self-portraits, which often explore themes of identity, postcolonialism, gender, class, and race.",
+        "year": "1907"
+      },
+      {
+        "name": "George W. Bush",
+        "description": "The 43rd President of the United States, who served from 2001 to 2009, having previously been the Governor of Texas.",
+        "year": "1946"
+      },
+      {
+        "name": "Sylvester Stallone",
+        "description": "An American actor, screenwriter, and film director, widely recognized for his iconic roles as boxer Rocky Balboa and soldier John Rambo.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Louis Pasteur Successfully Tests Rabies Vaccine",
+        "description": "In a monumental scientific achievement, Louis Pasteur successfully tested his experimental vaccine against rabies on nine-year-old Joseph Meister.",
+        "year": "1885"
+      },
+      {
+        "title": "Althea Gibson Breaks Barriers at Wimbledon",
+        "description": "American tennis player Althea Gibson made history by becoming the first Black player to win the women's singles title at Wimbledon.",
+        "year": "1957"
+      },
+      {
+        "title": "Malawi Gains Independence",
+        "description": "Nyasaland achieved independence from British rule and became the independent country of Malawi within the Commonwealth of Nations, marking a significant step in African decolonization.",
+        "year": "1964"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Maria Goretti",
+        "type": "Virgem e Mártir",
+        "description": "Santa Maria Goretti é celebrada por seu compromisso com a pureza e por perdoar corajosamente seu agressor em seu leito de morte aos onze anos em 1902. Ela é a santa padroeira da pureza, vítimas de estupro, jovens mulheres e da juventude."
+      },
+      {
+        "name": "Venerável Sisoes, o Grande",
+        "type": "Monge Solitário",
+        "description": "Um monge asceta que viveu no deserto egípcio nos séculos IV e V, o Venerável Sisoes, o Grande, é conhecido por sua sublime pureza espiritual e dom de operar milagres, incluindo restaurar a vida de uma criança morta."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional do Beijo",
+        "description": "Este dia incentiva as expressões físicas de afeto e celebra a ciência por trás do beijo."
+      },
+      {
+        "name": "Dia Nacional do Frango Frito (EUA)",
+        "description": "Esta celebração americana comemora a importância cultural do frango frito, um prato com raízes profundas nas tradições culinárias escocesas e da África Ocidental."
+      },
+      {
+        "name": "Dia de Jan Hus (República Tcheca)",
+        "description": "Comemorado na República Tcheca, este dia marca o martírio do teólogo e reformador da igreja tcheco Jan Hus, que foi queimado na fogueira em 6 de julho de 1415."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Senhor, ainda não comecei a lutar.",
+      "author": "John Paul Jones",
+      "context": "John Paul Jones, um herói naval da Revolução Americana, nasceu em 6 de julho de 1747. Esta famosa citação é atribuída a ele durante sua vitória sobre os navios de guerra britânicos."
+    },
+    "motivationalQuote": {
+      "text": "O amor é a única força capaz de transformar um inimigo em amigo.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Frida Kahlo",
+        "description": "Uma célebre pintora mexicana conhecida por seus autorretratos intensos e brilhantemente coloridos, que frequentemente exploram temas de identidade, pós-colonialismo, gênero, classe e raça.",
+        "year": "1907"
+      },
+      {
+        "name": "George W. Bush",
+        "description": "O 43º Presidente dos Estados Unidos, que serviu de 2001 a 2009, tendo sido anteriormente Governador do Texas.",
+        "year": "1946"
+      },
+      {
+        "name": "Sylvester Stallone",
+        "description": "Um ator, roteirista e diretor de cinema americano, amplamente reconhecido por seus papéis icônicos como o boxeador Rocky Balboa e o soldado John Rambo.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Louis Pasteur Testa com Sucesso a Vacina contra a Raiva",
+        "description": "Em uma conquista científica monumental, Louis Pasteur testou com sucesso sua vacina experimental contra a raiva em Joseph Meister, de nove anos.",
+        "year": "1885"
+      },
+      {
+        "title": "Althea Gibson Quebra Barreiras em Wimbledon",
+        "description": "A tenista americana Althea Gibson fez história ao se tornar a primeira jogadora negra a vencer o título de simples feminino em Wimbledon.",
+        "year": "1957"
+      },
+      {
+        "title": "Malawi Conquista a Independência",
+        "description": "Niassalândia alcançou a independência do domínio britânico e se tornou o país independente de Malawi dentro da Comunidade das Nações, marcando um passo significativo na descolonização africana.",
+        "year": "1964"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Maria Goretti",
+        "type": "Verge i Màrtir",
+        "description": "Santa Maria Goretti és celebrada pel seu compromís amb la puresa i per perdonar amb coratge el seu atacant en el seu llit de mort a l'edat d'onze anys el 1902. És la patrona de la puresa, les víctimes de violació, les dones joves i la joventut."
+      },
+      {
+        "name": "Venerable Sisoes el Gran",
+        "type": "Monjo Solitari",
+        "description": "Monjo asceta que va viure al desert egipci als segles IV i V, el Venerable Sisoes el Gran és conegut per la seva sublim puresa espiritual i el do de fer miracles, incloent la restauració d'un nen mort a la vida."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional del Petó",
+        "description": "Aquest dia fomenta les expressions físiques d'afecte i celebra la ciència darrere del petó."
+      },
+      {
+        "name": "Dia Nacional del Pollastre Fregit (EUA)",
+        "description": "Aquesta commemoració americana celebra la significació cultural del pollastre fregit, un plat amb arrels profundes en les tradicions culinàries escoceses i de l'Àfrica Occidental."
+      },
+      {
+        "name": "Dia de Jan Hus (República Txeca)",
+        "description": "Commemorat a la República Txeca, aquest dia marca el martiri del teòleg i reformador de l'Església txec Jan Hus, que va ser cremat a la foguera el 6 de juliol de 1415."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Senyor, encara no he començat a lluitar.",
+      "author": "John Paul Jones",
+      "context": "John Paul Jones, un heroi naval de la Revolució Americana, va néixer el 6 de juliol de 1747. Aquesta famosa cita se li atribueix durant la seva victòria sobre vaixells de guerra britànics."
+    },
+    "motivationalQuote": {
+      "text": "L'amor és l'única força capaç de transformar un enemic en un amic.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Frida Kahlo",
+        "description": "Una cèlebre pintora mexicana coneguda pels seus autoretrats intensos i brillantment acolorits, que sovint exploren temes d'identitat, postcolonialisme, gènere, classe i raça.",
+        "year": "1907"
+      },
+      {
+        "name": "George W. Bush",
+        "description": "El 43è President dels Estats Units, que va servir del 2001 al 2009, havent estat anteriorment el Governador de Texas.",
+        "year": "1946"
+      },
+      {
+        "name": "Sylvester Stallone",
+        "description": "Un actor, guionista i director de cinema nord-americà, àmpliament reconegut pels seus papers icònics com el boxejador Rocky Balboa i el soldat John Rambo.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Louis Pasteur prova amb èxit la vacuna contra la ràbia",
+        "description": "En un monumental assoliment científic, Louis Pasteur va provar amb èxit la seva vacuna experimental contra la ràbia en Joseph Meister, de nou anys.",
+        "year": "1885"
+      },
+      {
+        "title": "Althea Gibson trenca barreres a Wimbledon",
+        "description": "La tennista americana Althea Gibson va fer història en convertir-se en la primera jugadora negra a guanyar el títol individual femení a Wimbledon.",
+        "year": "1957"
+      },
+      {
+        "title": "Malawi obté la independència",
+        "description": "Nyassalàndia va aconseguir la independència del domini britànic i es va convertir en el país independent de Malawi dins la Commonwealth de Nacions, marcant un pas significatiu en la descolonització africana.",
+        "year": "1964"
+      }
+    ]
+  }
+}
