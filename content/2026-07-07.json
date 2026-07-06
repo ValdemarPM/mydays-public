@@ -1,0 +1,307 @@
+{
+  "date": "2026-07-07",
+  "es": {
+    "saints": [
+      {
+        "name": "Beato Papa Benedicto XI",
+        "type": "Papa",
+        "description": "Nacido Niccolò Boccasini, fue un fraile dominico que sirvió brevemente como Papa, conocido por su dedicación a la paz y el estudio. Falleció el 7 de julio de 1304."
+      },
+      {
+        "name": "San Willibald",
+        "type": "Obispo / Monje",
+        "description": "Un monje benedictino inglés y obispo misionero, San Willibald se embarcó en peregrinaciones a Roma y Tierra Santa antes de ayudar a evangelizar Alemania."
+      },
+      {
+        "name": "Venerable Tomás del Monte Maleos",
+        "type": "Monje",
+        "description": "Antes de convertirse en monje, Tomás fue un comandante militar reconocido por su fuerza y valentía en batallas, logrando posteriormente victorias espirituales en el Monte Maleos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Chocolate",
+        "description": "Este día celebra la supuesta introducción del chocolate en Europa el 7 de julio de 1550, y es una celebración global del querido dulce."
+      },
+      {
+        "name": "Día Internacional de la Paz y el Amor",
+        "description": "Iniciado por Ringo Starr en su cumpleaños, este día anima a personas de todo el mundo a hacer una pausa al mediodía hora local y compartir un mensaje de paz y amor."
+      },
+      {
+        "name": "Día Mundial del Perdón",
+        "description": "Esta celebración promueve el acto de perdonar como un acto psicológico y fisiológico de auto-liberación, animando a las personas a liberar resentimientos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "¡Paz y Amor!",
+      "author": "Ringo Starr",
+      "context": "En su cumpleaños, el 7 de julio, el ex baterista de los Beatles, Ringo Starr, inició el Día Internacional de la Paz y el Amor, animando a personas de todo el mundo a compartir este sencillo mensaje."
+    },
+    "motivationalQuote": {
+      "text": "Ser uno mismo en un mundo que constantemente intenta hacerte ser otra cosa es el mayor logro.",
+      "author": "Ralph Waldo Emerson"
+    },
+    "births": [
+      {
+        "name": "Ringo Starr",
+        "description": "Un músico, cantante, compositor y actor inglés, Ringo Starr alcanzó fama mundial como baterista de The Beatles.",
+        "year": "1940"
+      },
+      {
+        "name": "Camillo Golgi",
+        "description": "Un médico y científico italiano, Golgi ganó el Premio Nobel de Fisiología o Medicina por sus estudios del sistema nervioso y el descubrimiento del aparato de Golgi.",
+        "year": "1843"
+      },
+      {
+        "name": "Michelle Kwan",
+        "description": "Una patinadora artística estadounidense, Kwan es dos veces medallista olímpica, cinco veces campeona mundial y nueve veces campeona de EE. UU.",
+        "year": "1980"
+      }
+    ],
+    "events": [
+      {
+        "title": "Firma de la Convención del Lobo Marino del Pacífico Norte",
+        "description": "En 1911, Estados Unidos, el Reino Unido, Japón y Rusia firmaron esta convención, prohibiendo la caza de focas en aguas abiertas y marcando el primer tratado internacional para abordar los problemas de preservación de la vida silvestre.",
+        "year": "1911"
+      },
+      {
+        "title": "Robert Goddard Patenta el Cohete Multietapa",
+        "description": "Al pionero científico de cohetes Robert Goddard se le concedió una patente estadounidense en 1914 por un 'Aparato de Cohete' que describía el concepto del cohete multietapa, un paso significativo en la tecnología espacial.",
+        "year": "1914"
+      },
+      {
+        "title": "Sandra Day O'Connor Nominada a la Corte Suprema",
+        "description": "En 1981, el presidente Ronald Reagan nominó a Sandra Day O'Connor a la Corte Suprema de EE. UU., convirtiéndola en la primera mujer en servir en el tribunal más alto de la nación.",
+        "year": "1981"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Blessed Pope Benedict XI",
+        "type": "Pope",
+        "description": "Born Niccolò Boccasini, he was a Dominican friar who briefly served as Pope, known for his dedication to peace and scholarship. He died on July 7, 1304."
+      },
+      {
+        "name": "Saint Willibald",
+        "type": "Bishop / Monk",
+        "description": "An English Benedictine monk and missionary bishop, Saint Willibald embarked on pilgrimages to Rome and the Holy Land before helping to evangelize Germany."
+      },
+      {
+        "name": "Venerable Thomas of Mount Maleos",
+        "type": "Monk",
+        "description": "Before becoming a monk, Thomas was a military commander renowned for his strength and bravery in battles, later achieving spiritual victories on Mount Maleos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Chocolate Day",
+        "description": "This day celebrates the believed introduction of chocolate to Europe on July 7, 1550, and is a global observance of the beloved confection."
+      },
+      {
+        "name": "International Peace & Love Day",
+        "description": "Initiated by Ringo Starr on his birthday, this day encourages people worldwide to pause at noon local time and share a message of peace and love."
+      },
+      {
+        "name": "Global Forgiveness Day",
+        "description": "This observance promotes the act of forgiveness as a psychological and physiological act of self-liberation, encouraging individuals to release resentments."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Peace and Love!",
+      "author": "Ringo Starr",
+      "context": "On his birthday, July 7, former Beatles drummer Ringo Starr initiated International Peace & Love Day, encouraging people worldwide to share this simple message."
+    },
+    "motivationalQuote": {
+      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson"
+    },
+    "births": [
+      {
+        "name": "Ringo Starr",
+        "description": "An English musician, singer, songwriter, and actor, Ringo Starr gained worldwide fame as the drummer for The Beatles.",
+        "year": "1940"
+      },
+      {
+        "name": "Camillo Golgi",
+        "description": "An Italian physician and scientist, Golgi won the Nobel Prize in Physiology or Medicine for his studies of the nervous system and the discovery of the Golgi apparatus.",
+        "year": "1843"
+      },
+      {
+        "name": "Michelle Kwan",
+        "description": "An American figure skater, Kwan is a two-time Olympic medalist, five-time World champion, and nine-time U.S. champion.",
+        "year": "1980"
+      }
+    ],
+    "events": [
+      {
+        "title": "North Pacific Fur Seal Convention Signed",
+        "description": "In 1911, the United States, UK, Japan, and Russia signed this convention, banning open-water seal hunting and marking the first international treaty to address wildlife preservation issues.",
+        "year": "1911"
+      },
+      {
+        "title": "Robert Goddard Patents Multi-Stage Rocket",
+        "description": "Pioneering rocket scientist Robert Goddard was issued a U.S. patent in 1914 for a 'Rocket Apparatus' that described the multi-stage rocket concept, a significant step in space technology.",
+        "year": "1914"
+      },
+      {
+        "title": "Sandra Day O'Connor Nominated to Supreme Court",
+        "description": "In 1981, President Ronald Reagan nominated Sandra Day O'Connor to the U.S. Supreme Court, making her the first woman to serve on the nation's highest court.",
+        "year": "1981"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Beato Papa Bento XI",
+        "type": "Papa",
+        "description": "Nascido Niccolò Boccasini, foi um frade dominicano que serviu brevemente como Papa, conhecido pela sua dedicação à paz e ao estudo. Faleceu em 7 de julho de 1304."
+      },
+      {
+        "name": "São Willibald",
+        "type": "Bispo / Monge",
+        "description": "Um monge beneditino inglês e bispo missionário, São Willibald embarcou em peregrinações a Roma e à Terra Santa antes de ajudar a evangelizar a Alemanha."
+      },
+      {
+        "name": "Venerável Tomás do Monte Maleos",
+        "type": "Monge",
+        "description": "Antes de se tornar monge, Tomás foi um comandante militar conhecido pela sua força e bravura em batalhas, alcançando mais tarde vitórias espirituais no Monte Maleos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial do Chocolate",
+        "description": "Este dia celebra a suposta introdução do chocolate na Europa em 7 de julho de 1550, sendo uma celebração global da amada iguaria."
+      },
+      {
+        "name": "Dia Internacional da Paz e do Amor",
+        "description": "Iniciado por Ringo Starr no seu aniversário, este dia encoraja pessoas em todo o mundo a fazer uma pausa ao meio-dia, hora local, e partilhar uma mensagem de paz e amor."
+      },
+      {
+        "name": "Dia Global do Perdão",
+        "description": "Esta observância promove o ato de perdoar como um ato psicológico e fisiológico de auto-libertação, encorajando os indivíduos a libertar ressentimentos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Paz e Amor!",
+      "author": "Ringo Starr",
+      "context": "No seu aniversário, 7 de julho, o ex-baterista dos Beatles, Ringo Starr, iniciou o Dia Internacional da Paz e do Amor, encorajando pessoas em todo o mundo a partilhar esta simples mensagem."
+    },
+    "motivationalQuote": {
+      "text": "Ser você mesmo em um mundo que constantemente tenta fazer você ser outra coisa é a maior realização.",
+      "author": "Ralph Waldo Emerson"
+    },
+    "births": [
+      {
+        "name": "Ringo Starr",
+        "description": "Um músico, cantor, compositor e ator inglês, Ringo Starr ganhou fama mundial como baterista dos The Beatles.",
+        "year": "1940"
+      },
+      {
+        "name": "Camillo Golgi",
+        "description": "Um médico e cientista italiano, Golgi ganhou o Prêmio Nobel de Fisiologia ou Medicina pelos seus estudos do sistema nervoso e pela descoberta do aparelho de Golgi.",
+        "year": "1843"
+      },
+      {
+        "name": "Michelle Kwan",
+        "description": "Uma patinadora artística americana, Kwan é duas vezes medalhista olímpica, cinco vezes campeã mundial e nove vezes campeã dos EUA.",
+        "year": "1980"
+      }
+    ],
+    "events": [
+      {
+        "title": "Convenção do Lobo Marinho do Pacífico Norte Assinada",
+        "description": "Em 1911, os Estados Unidos, o Reino Unido, o Japão e a Rússia assinaram esta convenção, proibindo a caça de focas em águas abertas e marcando o primeiro tratado internacional para abordar questões de preservação da vida selvagem.",
+        "year": "1911"
+      },
+      {
+        "title": "Robert Goddard Patenteia Foguete Multiestágio",
+        "description": "Ao cientista pioneiro de foguetes Robert Goddard foi concedida uma patente nos EUA em 1914 para um 'Aparelho de Foguete' que descrevia o conceito de foguete multiestágio, um passo significativo na tecnologia espacial.",
+        "year": "1914"
+      },
+      {
+        "title": "Sandra Day O'Connor Nomeada para o Supremo Tribunal",
+        "description": "Em 1981, o Presidente Ronald Reagan nomeou Sandra Day O'Connor para o Supremo Tribunal dos EUA, tornando-a a primeira mulher a servir na mais alta corte da nação.",
+        "year": "1981"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Beat Papa Benet XI",
+        "type": "Papa",
+        "description": "Nascut Niccolò Boccasini, va ser un frare dominic que va servir breument com a Papa, conegut per la seva dedicació a la pau i l'erudició. Va morir el 7 de juliol de 1304."
+      },
+      {
+        "name": "Sant Willibald",
+        "type": "Bisbe / Monjo",
+        "description": "Monjo benedictí anglès i bisbe missioner, Sant Willibald va emprendre peregrinacions a Roma i Terra Santa abans d'ajudar a evangelitzar Alemanya."
+      },
+      {
+        "name": "Venerable Tomàs del Mont Maleos",
+        "type": "Monjo",
+        "description": "Abans de convertir-se en monjo, Tomàs va ser un comandant militar reconegut per la seva força i valentia en batalles, aconseguint més tard victòries espirituals al Mont Maleos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Xocolata",
+        "description": "Aquest dia celebra la suposada introducció de la xocolata a Europa el 7 de juliol de 1550, i és una commemoració global de l'estimada confecció."
+      },
+      {
+        "name": "Dia Internacional de la Pau i l'Amor",
+        "description": "Iniciat per Ringo Starr en el seu aniversari, aquest dia anima la gent de tot el món a fer una pausa al migdia (hora local) i compartir un missatge de pau i amor."
+      },
+      {
+        "name": "Dia Mundial del Perdó",
+        "description": "Aquesta commemoració promou l'acte del perdó com un acte psicològic i fisiològic d'autoalliberament, animant els individus a alliberar-se dels rancors."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Pau i Amor!",
+      "author": "Ringo Starr",
+      "context": "En el seu aniversari, el 7 de juliol, l'exbateria dels Beatles, Ringo Starr, va iniciar el Dia Internacional de la Pau i l'Amor, animant la gent de tot el món a compartir aquest senzill missatge."
+    },
+    "motivationalQuote": {
+      "text": "Ser un mateix en un món que constantment intenta fer-te algú altre és el major assoliment.",
+      "author": "Ralph Waldo Emerson"
+    },
+    "births": [
+      {
+        "name": "Ringo Starr",
+        "description": "Músic, cantant, compositor i actor anglès, Ringo Starr va obtenir fama mundial com a bateria de The Beatles.",
+        "year": "1940"
+      },
+      {
+        "name": "Camillo Golgi",
+        "description": "Metge i científic italià, Golgi va guanyar el Premi Nobel de Fisiologia o Medicina pels seus estudis del sistema nerviós i el descobriment de l'aparell de Golgi.",
+        "year": "1843"
+      },
+      {
+        "name": "Michelle Kwan",
+        "description": "Patinadora artística nord-americana, Kwan és dues vegades medallista olímpica, cinc vegades campiona del món i nou vegades campiona dels EUA.",
+        "year": "1980"
+      }
+    ],
+    "events": [
+      {
+        "title": "Signada la Convenció de la Foca Peletera del Pacífic Nord",
+        "description": "El 1911, els Estats Units, el Regne Unit, el Japó i Rússia van signar aquesta convenció, prohibint la caça de foques en aigües obertes i marcant el primer tractat internacional per abordar qüestions de preservació de la vida salvatge.",
+        "year": "1911"
+      },
+      {
+        "title": "Robert Goddard patenta el coet multietapa",
+        "description": "El pioner científic de coets Robert Goddard va obtenir una patent dels EUA el 1914 per a un 'Aparell de Coet' que descrivia el concepte de coet multietapa, un pas significatiu en la tecnologia espacial.",
+        "year": "1914"
+      },
+      {
+        "title": "Sandra Day O'Connor nominada al Tribunal Suprem",
+        "description": "El 1981, el president Ronald Reagan va nominar Sandra Day O'Connor al Tribunal Suprem dels EUA, convertint-la en la primera dona a servir al tribunal més alt de la nació.",
+        "year": "1981"
+      }
+    ]
+  }
+}
