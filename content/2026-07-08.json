@@ -1,0 +1,291 @@
+{
+  "date": "2026-07-08",
+  "es": {
+    "saints": [
+      {
+        "name": "San Kilian",
+        "type": "Obispo, Misionero, Mártir",
+        "description": "Un obispo y misionero irlandés que, junto con sus compañeros, evangelizó en Franconia (actual Alemania) en el siglo VII y fue martirizado en Würzburg."
+      },
+      {
+        "name": "Santos Pedro y Fevronia de Múrom",
+        "type": "Patronos de la Familia y el Matrimonio",
+        "description": "Venerados en la Iglesia Ortodoxa Rusa, estos santos principescos son celebrados por su amor y fidelidad duraderos, convirtiéndose en símbolos del matrimonio cristiano."
+      },
+      {
+        "name": "San Procopio de Escitópolis",
+        "type": "Mártir",
+        "description": "Un mártir cristiano primitivo del siglo IV, conocido por su fe inquebrantable durante la persecución de Diocleciano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día SCUD (Saborea lo Cómico, Desconéctate del Drama)",
+        "description": "Una observancia no oficial que anima a las personas a abrazar el humor y a desconectarse del drama innecesario en sus vidas."
+      },
+      {
+        "name": "Día de la Fuerza Aérea y las Fuerzas de Defensa Aérea (Ucrania)",
+        "description": "Un día festivo profesional en Ucrania, en honor al personal de la fuerza aérea y las fuerzas de defensa aérea del país."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La poesía levanta el velo de la belleza oculta del mundo, y hace que los objetos familiares sean como si no fueran familiares.",
+      "author": "Percy Bysshe Shelley",
+      "context": "Percy Bysshe Shelley, un influyente poeta romántico inglés, se ahogó trágicamente el 8 de julio de 1822, cuando su velero se hundió durante una tormenta repentina frente a la costa de Italia."
+    },
+    "motivationalQuote": {
+      "text": "La única forma de hacer un gran trabajo es amar lo que haces.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Jean de La Fontaine",
+        "description": "Un renombrado fabulista y poeta francés del siglo XVII, más conocido por sus Fábulas, que son clásicos de la literatura francesa.",
+        "year": "1621"
+      },
+      {
+        "name": "Ferdinand von Zeppelin",
+        "description": "Un general e inventor aeronáutico alemán que fundó la compañía de dirigibles Zeppelin y fue pionero en los dirigibles rígidos.",
+        "year": "1838"
+      },
+      {
+        "name": "John D. Rockefeller",
+        "description": "Un industrial y filántropo estadounidense que fundó la Standard Oil Company, convirtiéndose en uno de los estadounidenses más ricos de la historia.",
+        "year": "1839"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera Lectura Pública de la Declaración de Independencia",
+        "description": "El 8 de julio de 1776, el coronel John Nixon leyó públicamente la recién aprobada Declaración de Independencia a los ciudadanos reunidos en el patio de la Casa del Estado en Filadelfia.",
+        "year": "1776"
+      },
+      {
+        "title": "Vermont Abolió la Esclavitud",
+        "description": "El 8 de julio de 1777, Vermont adoptó su constitución, convirtiéndose en la primera región de los ahora Estados Unidos en abolir oficialmente la esclavitud.",
+        "year": "1777"
+      },
+      {
+        "title": "Vasco da Gama Inicia Viaje Pionero a la India",
+        "description": "El 8 de julio de 1497, el explorador portugués Vasco da Gama zarpó de Lisboa con una flota de cuatro embarcaciones, comenzando su histórico viaje que abriría una ruta marítima directa de Europa a la India.",
+        "year": "1497"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Kilian",
+        "type": "Bishop, Missionary, Martyr",
+        "description": "An Irish bishop and missionary who, along with his companions, evangelized in Franconia (modern-day Germany) in the 7th century and was martyred in Würzburg."
+      },
+      {
+        "name": "Saints Peter and Fevronia of Murom",
+        "type": "Patrons of Family and Marriage",
+        "description": "Revered in the Russian Orthodox Church, these princely saints are celebrated for their enduring love and fidelity, becoming symbols of Christian marriage."
+      },
+      {
+        "name": "Saint Procopius of Scythopolis",
+        "type": "Martyr",
+        "description": "An early Christian martyr from the 4th century, known for his steadfast faith during the Diocletianic persecution."
+      }
+    ],
+    "observances": [
+      {
+        "name": "SCUD Day (Savor the Comic, Unplug the Drama)",
+        "description": "An unofficial observance encouraging individuals to embrace humor and detach from unnecessary drama in their lives."
+      },
+      {
+        "name": "Air Force and Air Defense Forces Day (Ukraine)",
+        "description": "A professional holiday in Ukraine, honoring the personnel of the country's air force and air defense forces."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Poetry lifts the veil from the hidden beauty of the world, and makes familiar objects be as if they were not familiar.",
+      "author": "Percy Bysshe Shelley",
+      "context": "Percy Bysshe Shelley, an influential English Romantic poet, tragically drowned on July 8, 1822, when his sailboat sank during a sudden storm off the coast of Italy."
+    },
+    "motivationalQuote": {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Jean de La Fontaine",
+        "description": "A renowned French fabulist and poet of the 17th century, best known for his Fables, which are classics of French literature.",
+        "year": "1621"
+      },
+      {
+        "name": "Ferdinand von Zeppelin",
+        "description": "A German general and aeronautical inventor who founded the Zeppelin airship company and pioneered rigid dirigible airships.",
+        "year": "1838"
+      },
+      {
+        "name": "John D. Rockefeller",
+        "description": "An American industrialist and philanthropist who founded the Standard Oil Company, becoming one of the wealthiest Americans in history.",
+        "year": "1839"
+      }
+    ],
+    "events": [
+      {
+        "title": "First Public Reading of the Declaration of Independence",
+        "description": "On July 8, 1776, Colonel John Nixon publicly read the newly approved Declaration of Independence to the citizens gathered in the State House Yard in Philadelphia.",
+        "year": "1776"
+      },
+      {
+        "title": "Vermont Abolishes Slavery",
+        "description": "On July 8, 1777, Vermont adopted its constitution, becoming the first region in the now United States to officially abolish slavery.",
+        "year": "1777"
+      },
+      {
+        "title": "Vasco da Gama Begins Pioneering Voyage to India",
+        "description": "On July 8, 1497, Portuguese explorer Vasco da Gama set sail from Lisbon with a fleet of four vessels, beginning his historic journey that would open a direct sea route from Europe to India.",
+        "year": "1497"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Kilian",
+        "type": "Bispo, Missionário, Mártir",
+        "description": "Um bispo e missionário irlandês que, juntamente com seus companheiros, evangelizou na Francônia (atual Alemanha) no século VII e foi martirizado em Würzburg."
+      },
+      {
+        "name": "Santos Pedro e Fevronia de Murom",
+        "type": "Padroeiros da Família e do Casamento",
+        "description": "Reverenciados na Igreja Ortodoxa Russa, estes santos principescos são celebrados pelo seu amor e fidelidade duradouros, tornando-se símbolos do casamento cristão."
+      },
+      {
+        "name": "São Procópio de Escitópolis",
+        "type": "Mártir",
+        "description": "Um mártir cristão primitivo do século IV, conhecido pela sua fé inabalável durante a perseguição de Diocleciano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia SCUD (Saboreie o Cômico, Desconecte-se do Drama)",
+        "description": "Uma observância não oficial que encoraja os indivíduos a abraçar o humor e a se desapegar do drama desnecessário em suas vidas."
+      },
+      {
+        "name": "Dia da Força Aérea e das Forças de Defesa Aérea (Ucrânia)",
+        "description": "Um feriado profissional na Ucrânia, homenageando o pessoal da força aérea e das forças de defesa aérea do país."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A poesia levanta o véu da beleza oculta do mundo e faz com que objetos familiares pareçam não ser familiares.",
+      "author": "Percy Bysshe Shelley",
+      "context": "Percy Bysshe Shelley, um influente poeta romântico inglês, afogou-se tragicamente em 8 de julho de 1822, quando seu veleiro afundou durante uma tempestade repentina na costa da Itália."
+    },
+    "motivationalQuote": {
+      "text": "A única maneira de fazer um ótimo trabalho é amar o que você faz.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Jean de La Fontaine",
+        "description": "Um renomado fabulista e poeta francês do século XVII, mais conhecido por suas Fábulas, que são clássicos da literatura francesa.",
+        "year": "1621"
+      },
+      {
+        "name": "Ferdinand von Zeppelin",
+        "description": "Um general e inventor aeronáutico alemão que fundou a empresa de dirigíveis Zeppelin e foi pioneiro em dirigíveis rígidos.",
+        "year": "1838"
+      },
+      {
+        "name": "John D. Rockefeller",
+        "description": "Um industrial e filantropo americano que fundou a Standard Oil Company, tornando-se um dos americanos mais ricos da história.",
+        "year": "1839"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeira Leitura Pública da Declaração de Independência",
+        "description": "Em 8 de julho de 1776, o Coronel John Nixon leu publicamente a recém-aprovada Declaração de Independência aos cidadãos reunidos no pátio da State House na Filadélfia.",
+        "year": "1776"
+      },
+      {
+        "title": "Vermont Aboliu a Escravidão",
+        "description": "Em 8 de julho de 1777, Vermont adotou sua constituição, tornando-se a primeira região dos agora Estados Unidos a abolir oficialmente a escravidão.",
+        "year": "1777"
+      },
+      {
+        "title": "Vasco da Gama Inicia Viagem Pioneira à Índia",
+        "description": "Em 8 de julho de 1497, o explorador português Vasco da Gama partiu de Lisboa com uma frota de quatro embarcações, iniciando sua histórica jornada que abriria uma rota marítima direta da Europa para a Índia.",
+        "year": "1497"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Kilian",
+        "type": "Bisbe, Missioner, Màrtir",
+        "description": "Un bisbe i missioner irlandès que, juntament amb els seus companys, va evangelitzar a Francònia (l'actual Alemanya) al segle VII i va ser martiritzat a Würzburg."
+      },
+      {
+        "name": "Sants Pere i Fevrònia de Múrom",
+        "type": "Patrons de la Família i el Matrimoni",
+        "description": "Venerats a l'Església Ortodoxa Russa, aquests sants principescos són celebrats pel seu amor i fidelitat duradors, convertint-se en símbols del matrimoni cristià."
+      },
+      {
+        "name": "Sant Procopi d'Escitòpolis",
+        "type": "Màrtir",
+        "description": "Un màrtir cristià primitiu del segle IV, conegut per la seva fe inquebrantable durant la persecució de Dioclecià."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia SCUD (Assaboreix el Còmic, Desconnecta del Drama)",
+        "description": "Una observança no oficial que anima els individus a abraçar l'humor i a desconnectar del drama innecessari a les seves vides."
+      },
+      {
+        "name": "Dia de les Forces Aèries i de Defensa Aèria (Ucraïna)",
+        "description": "Una festa professional a Ucraïna, que homenatja el personal de les forces aèries i de defensa aèria del país."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La poesia aixeca el vel de la bellesa oculta del món, i fa que els objectes familiars semblin com si no ho fossin.",
+      "author": "Percy Bysshe Shelley",
+      "context": "Percy Bysshe Shelley, un influent poeta romàntic anglès, es va ofegar tràgicament el 8 de juliol de 1822, quan el seu veler es va enfonsar durant una tempesta sobtada a la costa d'Itàlia."
+    },
+    "motivationalQuote": {
+      "text": "L'única manera de fer una gran feina és estimar el que fas.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Jean de La Fontaine",
+        "description": "Un reconegut fabulista i poeta francès del segle XVII, conegut principalment per les seves Fables, que són clàssics de la literatura francesa.",
+        "year": "1621"
+      },
+      {
+        "name": "Ferdinand von Zeppelin",
+        "description": "Un general i inventor aeronàutic alemany que va fundar la companyia de dirigibles Zeppelin i va ser pioner en els dirigibles rígids.",
+        "year": "1838"
+      },
+      {
+        "name": "John D. Rockefeller",
+        "description": "Un industrial i filantrop nord-americà que va fundar la Standard Oil Company, convertint-se en un dels americans més rics de la història.",
+        "year": "1839"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera Lectura Pública de la Declaració d'Independència",
+        "description": "El 8 de juliol de 1776, el coronel John Nixon va llegir públicament la recentment aprovada Declaració d'Independència als ciutadans reunits al State House Yard de Filadèlfia.",
+        "year": "1776"
+      },
+      {
+        "title": "Vermont Abolix l'Esclavitud",
+        "description": "El 8 de juliol de 1777, Vermont va adoptar la seva constitució, convertint-se en la primera regió dels actuals Estats Units a abolir oficialment l'esclavitud.",
+        "year": "1777"
+      },
+      {
+        "title": "Vasco da Gama Comença el Viatge Pioner a l'Índia",
+        "description": "El 8 de juliol de 1497, l'explorador portuguès Vasco da Gama va salpar de Lisboa amb una flota de quatre vaixells, iniciant el seu històric viatge que obriria una ruta marítima directa d'Europa a l'Índia.",
+        "year": "1497"
+      }
+    ]
+  }
+}
