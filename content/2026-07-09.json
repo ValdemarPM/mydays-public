@@ -1,0 +1,307 @@
+{
+  "date": "2026-07-09",
+  "es": {
+    "saints": [
+      {
+        "name": "San Agustín Zhao Rong y Compañeros",
+        "type": "Mártires",
+        "description": "San Agustín Zhao Rong fue un soldado chino que se convirtió al catolicismo después de escoltar a un sacerdote francés. Más tarde se hizo sacerdote y fue martirizado durante un período de intensa persecución contra los cristianos en China."
+      },
+      {
+        "name": "Hieromártir Pancracio, Obispo de Taormina",
+        "type": "Obispo, Mártir",
+        "description": "Nacido en tiempos de Cristo, San Pancracio fue llevado a Antioquía por San Pedro y más tarde fue nombrado Obispo de Taormina en Sicilia, donde trabajó incansablemente para difundir el cristianismo y construyó una iglesia."
+      },
+      {
+        "name": "Santa Verónica Giuliani",
+        "type": "Mística Capuchina",
+        "description": "Nacida como Ursula Giuliani en Italia, se hizo monja capuchina y fue conocida por su profunda espiritualidad, visiones y dedicación a Dios desde temprana edad."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de Argentina",
+        "description": "Esta fiesta nacional conmemora la declaración de independencia de Argentina de España el 9 de julio de 1816."
+      },
+      {
+        "name": "Martirio del Báb",
+        "description": "Un día sagrado baháʼí que recuerda la ejecución de Siyyid Ali-Muhammad, conocido como el Báb, uno de los fundadores de la fe, el 9 de julio de 1850."
+      },
+      {
+        "name": "Día Nacional de la Galleta de Azúcar",
+        "description": "Un día cultural lúdico en EE. UU. dedicado a celebrar la sencilla y deliciosa galleta de azúcar."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El presente es de ellos; el futuro, por el que realmente he trabajado, es mío.",
+      "author": "Nikola Tesla",
+      "context": "Nikola Tesla, el visionario inventor e ingeniero eléctrico serbio-estadounidense, nació el 9 de julio de 1856."
+    },
+    "motivationalQuote": {
+      "text": "El éxito no es definitivo; el fracaso no es fatal: lo que cuenta es el coraje para continuar.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Nikola Tesla",
+        "description": "Un inventor serbio-estadounidense, ingeniero eléctrico, ingeniero mecánico y futurista, más conocido por sus contribuciones al diseño del moderno sistema de suministro de electricidad de corriente alterna (CA).",
+        "year": "1856"
+      },
+      {
+        "name": "Tom Hanks",
+        "description": "Un actor y cineasta estadounidense, ampliamente considerado como una de las estrellas de cine más populares y reconocibles del mundo, conocido tanto por sus papeles cómicos como dramáticos.",
+        "year": "1956"
+      },
+      {
+        "name": "Jack White",
+        "description": "Un músico, cantautor y productor discográfico estadounidense, más conocido como el vocalista y guitarrista del dúo The White Stripes.",
+        "year": "1975"
+      }
+    ],
+    "events": [
+      {
+        "title": "Argentina Declara la Independencia",
+        "description": "Argentina declaró su independencia de España, marcando un paso significativo hacia la soberanía y libertad nacional.",
+        "year": "1816"
+      },
+      {
+        "title": "Ratificada la 14ª Enmienda en EE. UU.",
+        "description": "La 14ª Enmienda a la Constitución de EE. UU. fue ratificada, otorgando ciudadanía e igual protección bajo las leyes a todas las personas nacidas o naturalizadas en los Estados Unidos, incluidas las personas anteriormente esclavizadas.",
+        "year": "1868"
+      },
+      {
+        "title": "Primera Cirugía a Corazón Abierto Exitosa",
+        "description": "El Dr. Daniel Hale Williams realizó la primera cirugía a corazón abierto exitosa en EE. UU. sin anestesia, un logro médico innovador.",
+        "year": "1893"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Augustine Zhao Rong and Companions",
+        "type": "Martyrs",
+        "description": "Saint Augustine Zhao Rong was a Chinese soldier who converted to Catholicism after escorting a French priest. He later became a priest and was martyred during a period of intense persecution against Christians in China."
+      },
+      {
+        "name": "Hieromartyr Pancratius, Bishop of Taormina",
+        "type": "Bishop, Martyr",
+        "description": "Born during the time of Christ, Saint Pancratius was taken to Antioch by Saint Peter and later appointed Bishop of Taormina in Sicily, where he tirelessly worked to spread Christianity and built a church."
+      },
+      {
+        "name": "Saint Veronica Giuliani",
+        "type": "Capuchin Mystic",
+        "description": "Born Ursula Giuliani in Italy, she became a Capuchin nun and was known for her deep spirituality, visions, and dedication to God from a young age."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Argentina Independence Day",
+        "description": "This national holiday commemorates Argentina's declaration of independence from Spain on July 9, 1816."
+      },
+      {
+        "name": "Martyrdom of the Báb",
+        "description": "A Baha'i holy day remembering the execution of Siyyid Ali-Muhammad, known as the Báb, one of the faith's founders, on July 9, 1850."
+      },
+      {
+        "name": "National Sugar Cookie Day",
+        "description": "A playful cultural day in the U.S. dedicated to celebrating the simple, delicious sugar cookie."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The present is theirs; the future, for which I have really worked, is mine.",
+      "author": "Nikola Tesla",
+      "context": "Nikola Tesla, the visionary Serbian-American inventor and electrical engineer, was born on July 9, 1856."
+    },
+    "motivationalQuote": {
+      "text": "Success is not final; failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Nikola Tesla",
+        "description": "A Serbian-American inventor, electrical engineer, mechanical engineer, and futurist best known for his contributions to the design of the modern alternating current (AC) electricity supply system.",
+        "year": "1856"
+      },
+      {
+        "name": "Tom Hanks",
+        "description": "An American actor and filmmaker, widely regarded as one of the most popular and recognizable film stars worldwide, known for both his comedic and dramatic roles.",
+        "year": "1956"
+      },
+      {
+        "name": "Jack White",
+        "description": "An American musician, singer-songwriter, and record producer, best known as the lead singer and guitarist of the duo The White Stripes.",
+        "year": "1975"
+      }
+    ],
+    "events": [
+      {
+        "title": "Argentina Declares Independence",
+        "description": "Argentina declared its independence from Spain, marking a significant step towards national sovereignty and freedom.",
+        "year": "1816"
+      },
+      {
+        "title": "14th Amendment Ratified in the U.S.",
+        "description": "The 14th Amendment to the U.S. Constitution was ratified, granting citizenship and equal protection under the laws to all persons born or naturalized in the United States, including formerly enslaved people.",
+        "year": "1868"
+      },
+      {
+        "title": "First Successful Open-Heart Surgery",
+        "description": "Dr. Daniel Hale Williams performed the first successful open-heart surgery in the U.S. without anesthesia, a groundbreaking medical achievement.",
+        "year": "1893"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Agostinho Zhao Rong e Companheiros",
+        "type": "Mártires",
+        "description": "Santo Agostinho Zhao Rong foi um soldado chinês que se converteu ao catolicismo após escoltar um padre francês. Mais tarde, tornou-se padre e foi martirizado durante um período de intensa perseguição contra os cristãos na China."
+      },
+      {
+        "name": "Hieromártir Pancrácio, Bispo de Taormina",
+        "type": "Bispo, Mártir",
+        "description": "Nascido na época de Cristo, São Pancrácio foi levado para Antioquia por São Pedro e mais tarde nomeado Bispo de Taormina, na Sicília, onde trabalhou incansavelmente para difundir o cristianismo e construiu uma igreja."
+      },
+      {
+        "name": "Santa Verônica Giuliani",
+        "type": "Mística Capuchinha",
+        "description": "Nascida Ursula Giuliani na Itália, tornou-se freira capuchinha e era conhecida por sua profunda espiritualidade, visões e dedicação a Deus desde jovem."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência da Argentina",
+        "description": "Este feriado nacional comemora a declaração de independência da Argentina da Espanha em 9 de julho de 1816."
+      },
+      {
+        "name": "Martírio do Báb",
+        "description": "Um dia sagrado bahá'í que recorda a execução de Siyyid Ali-Muhammad, conhecido como o Báb, um dos fundadores da fé, em 9 de julho de 1850."
+      },
+      {
+        "name": "Dia Nacional do Biscoito de Açúcar",
+        "description": "Um dia cultural divertido nos EUA dedicado a celebrar o simples e delicioso biscoito de açúcar."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O presente é deles; o futuro, pelo qual realmente trabalhei, é meu.",
+      "author": "Nikola Tesla",
+      "context": "Nikola Tesla, o visionário inventor e engenheiro eletricista sérvio-americano, nasceu em 9 de julho de 1856."
+    },
+    "motivationalQuote": {
+      "text": "O sucesso não é final; o fracasso não é fatal: o que importa é a coragem de continuar.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Nikola Tesla",
+        "description": "Um inventor sérvio-americano, engenheiro eletricista, engenheiro mecânico e futurista, mais conhecido por suas contribuições para o design do moderno sistema de fornecimento de eletricidade de corrente alternada (CA).",
+        "year": "1856"
+      },
+      {
+        "name": "Tom Hanks",
+        "description": "Um ator e cineasta americano, amplamente considerado uma das estrelas de cinema mais populares e reconhecíveis em todo o mundo, conhecido tanto por seus papéis cômicos quanto dramáticos.",
+        "year": "1956"
+      },
+      {
+        "name": "Jack White",
+        "description": "Um músico, cantor e compositor, e produtor musical americano, mais conhecido como o vocalista e guitarrista do duo The White Stripes.",
+        "year": "1975"
+      }
+    ],
+    "events": [
+      {
+        "title": "Argentina Declara Independência",
+        "description": "A Argentina declarou sua independência da Espanha, marcando um passo significativo em direção à soberania e liberdade nacional.",
+        "year": "1816"
+      },
+      {
+        "title": "14ª Emenda Ratificada nos EUA",
+        "description": "A 14ª Emenda da Constituição dos EUA foi ratificada, concedendo cidadania e igual proteção sob as leis a todas as pessoas nascidas ou naturalizadas nos Estados Unidos, incluindo pessoas anteriormente escravizadas.",
+        "year": "1868"
+      },
+      {
+        "title": "Primeira Cirurgia Cardíaca Aberta Bem-Sucedida",
+        "description": "O Dr. Daniel Hale Williams realizou a primeira cirurgia cardíaca aberta bem-sucedida nos EUA sem anestesia, uma conquista médica inovadora.",
+        "year": "1893"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Agustí Zhao Rong i Companys",
+        "type": "Màrtirs",
+        "description": "Sant Agustí Zhao Rong va ser un soldat xinès que es va convertir al catolicisme després d'escortar un sacerdot francès. Més tard es va fer sacerdot i va ser martiritzat durant un període d'intensa persecució contra els cristians a la Xina."
+      },
+      {
+        "name": "Hieromàrtir Pancraci, Bisbe de Taormina",
+        "type": "Bisbe, Màrtir",
+        "description": "Nascut en temps de Crist, Sant Pancraci va ser portat a Antioquia per Sant Pere i més tard nomenat bisbe de Taormina a Sicília, on va treballar incansablement per difondre el cristianisme i va construir una església."
+      },
+      {
+        "name": "Santa Verònica Giuliani",
+        "type": "Mística Caputxina",
+        "description": "Nascuda Ursula Giuliani a Itàlia, es va fer monja caputxina i va ser coneguda per la seva profunda espiritualitat, visions i dedicació a Déu des de jove."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència d'Argentina",
+        "description": "Aquesta festa nacional commemora la declaració d'independència d'Argentina d'Espanya el 9 de juliol de 1816."
+      },
+      {
+        "name": "Martiri del Báb",
+        "description": "Un dia sagrat bahá'í que recorda l'execució de Siyyid Ali-Muhammad, conegut com el Báb, un dels fundadors de la fe, el 9 de juliol de 1850."
+      },
+      {
+        "name": "Dia Nacional de la Galeta de Sucre",
+        "description": "Un dia cultural lúdic als EUA dedicat a celebrar la senzilla i deliciosa galeta de sucre."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El present és seu; el futur, pel qual he treballat de veritat, és meu.",
+      "author": "Nikola Tesla",
+      "context": "Nikola Tesla, l'inventor i enginyer elèctric serbo-americà visionari, va néixer el 9 de juliol de 1856."
+    },
+    "motivationalQuote": {
+      "text": "L'èxit no és definitiu; el fracàs no és fatal: és el coratge de continuar el que compta.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Nikola Tesla",
+        "description": "Inventor serbo-americà, enginyer elèctric, enginyer mecànic i futurista, conegut principalment per les seves contribucions al disseny del sistema modern de subministrament d'electricitat de corrent altern (CA).",
+        "year": "1856"
+      },
+      {
+        "name": "Tom Hanks",
+        "description": "Actor i cineasta nord-americà, àmpliament considerat com una de les estrelles de cinema més populars i reconegudes a nivell mundial, conegut tant pels seus papers còmics com dramàtics.",
+        "year": "1956"
+      },
+      {
+        "name": "Jack White",
+        "description": "Músic, cantant-compositor i productor discogràfic nord-americà, conegut principalment com el cantant principal i guitarrista del duo The White Stripes.",
+        "year": "1975"
+      }
+    ],
+    "events": [
+      {
+        "title": "Argentina declara la independència",
+        "description": "Argentina va declarar la seva independència d'Espanya, marcant un pas significatiu cap a la sobirania nacional i la llibertat.",
+        "year": "1816"
+      },
+      {
+        "title": "La 14a Esmena ratificada als EUA",
+        "description": "La 14a Esmena a la Constitució dels EUA va ser ratificada, atorgant ciutadania i igual protecció sota les lleis a totes les persones nascudes o naturalitzades als Estats Units, incloses les persones anteriorment esclavitzades.",
+        "year": "1868"
+      },
+      {
+        "title": "Primera cirurgia a cor obert amb èxit",
+        "description": "El Dr. Daniel Hale Williams va realitzar la primera cirurgia a cor obert amb èxit als EUA sense anestèsia, un assoliment mèdic pioner.",
+        "year": "1893"
+      }
+    ]
+  }
+}
