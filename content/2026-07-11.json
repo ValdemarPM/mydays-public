@@ -1,0 +1,287 @@
+{
+  "date": "2026-07-11",
+  "es": {
+    "saints": [
+      {
+        "name": "San Benito de Nursia",
+        "type": "Abad",
+        "description": "Conmemorado por la Iglesia Católica, San Benito es considerado el padre del Monacato Occidental y copatrono de Europa. Estableció monasterios y fue autor de la 'Regla de San Benito', enfatizando la oración, el trabajo, la simplicidad y la hospitalidad."
+      },
+      {
+        "name": "Santa Olga, igual a los Apóstoles",
+        "type": "Princesa de Rusia",
+        "description": "Santa ortodoxa, la Princesa Olga fue la esposa del Gran Príncipe de Kiev Igor y desempeñó un papel crucial en la temprana adopción del cristianismo en las tierras rusas, siendo conocida como la 'iniciadora de la fe'."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Población",
+        "description": "Una conmemoración internacional establecida por las Naciones Unidas para sensibilizar sobre los problemas demográficos mundiales."
+      },
+      {
+        "name": "Día de la Comunidad Flamenca",
+        "description": "Un día festivo regional belga en Flandes que conmemora la Batalla de las Espuelas de Oro el 11 de julio de 1302."
+      },
+      {
+        "name": "Día Nacional de 7-Eleven (Día del Slurpee Gratis)",
+        "description": "En EE. UU., este día celebra el cambio de nombre de la cadena de tiendas de conveniencia en 1946 y a menudo implica regalar Slurpees gratis."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Posteridad: nunca sabréis cuánto le ha costado a mi generación preservar vuestra libertad. Espero que hagáis buen uso de ella.",
+      "author": "John Quincy Adams",
+      "context": "John Quincy Adams, el sexto presidente de los EE. UU., nació el 11 de julio de 1767, y esta cita refleja su dedicación a preservar la libertad para las futuras generaciones."
+    },
+    "motivationalQuote": {
+      "text": "Vivir es lo más raro del mundo. La mayoría de la gente solo existe.",
+      "author": "Oscar Wilde"
+    },
+    "births": [
+      {
+        "name": "John Quincy Adams",
+        "description": "El sexto Presidente de los Estados Unidos, quien también sirvió como diplomático y Representante de los EE. UU.",
+        "year": "1767"
+      },
+      {
+        "name": "E. B. White",
+        "description": "Un aclamado ensayista, periodista y autor estadounidense de queridos libros infantiles como 'La telaraña de Carlota' y 'Stuart Little'.",
+        "year": "1899"
+      },
+      {
+        "name": "Theodore Harold Maiman",
+        "description": "Un físico estadounidense a quien se le atribuye la construcción del primer láser funcional.",
+        "year": "1927"
+      }
+    ],
+    "events": [
+      {
+        "title": "El Cuerpo de Marines de EE. UU. fue restablecido",
+        "description": "El Cuerpo de Marines de los Estados Unidos fue restablecido por una ley del Congreso después de haber sido disuelto tras la Guerra de Independencia de los Estados Unidos.",
+        "year": "1798"
+      },
+      {
+        "title": "Publicación de 'Matar un ruiseñor'",
+        "description": "La novela clásica y ganadora del Premio Pulitzer de Harper Lee, 'Matar un ruiseñor', sobre la injusticia racial en el sur de Estados Unidos, fue publicada por primera vez.",
+        "year": "1960"
+      },
+      {
+        "title": "Martin Luther King Jr. Recibió póstumamente la Medalla Presidencial de la Libertad",
+        "description": "El líder de los derechos civiles Martin Luther King Jr. recibió póstumamente la Medalla Presidencial de la Libertad, el honor civil más alto de la nación, de manos del presidente Jimmy Carter.",
+        "year": "1977"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Benedict of Nursia",
+        "type": "Abbot",
+        "description": "Commemorated by the Catholic Church, St. Benedict is considered the father of Western Monasticism and a co-patron of Europe. He established monasteries and authored the 'Rule of St. Benedict,' emphasizing prayer, work, simplicity, and hospitality."
+      },
+      {
+        "name": "Blessed Equal-to-the-Apostles Olga",
+        "type": "Princess of Russia",
+        "description": "An Orthodox saint, Princess Olga was the wife of the Kievan Great Prince Igor and played a crucial role in the early adoption of Christianity in the Russian lands, referred to as the 'initiator of faith'."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Population Day",
+        "description": "An international observance established by the United Nations to raise awareness about global population issues."
+      },
+      {
+        "name": "Day of the Flemish Community",
+        "description": "A Belgian regional public holiday in Flanders commemorating the Battle of the Golden Spurs on July 11, 1302."
+      },
+      {
+        "name": "National 7-Eleven Day (Free Slurpee Day)",
+        "description": "In the U.S., this day celebrates the convenience store chain's 1946 renaming and often involves giving away free Slurpees."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Posterity: you will never know how much it has cost my generation to preserve your freedom. I hope you will make good use of it.",
+      "author": "John Quincy Adams",
+      "context": "John Quincy Adams, the 6th U.S. President, was born on July 11, 1767, and this quote reflects his dedication to preserving freedom for future generations."
+    },
+    "motivationalQuote": {
+      "text": "To live is the rarest thing in the world. Most people exist, that is all.",
+      "author": "Oscar Wilde"
+    },
+    "births": [
+      {
+        "name": "John Quincy Adams",
+        "description": "The sixth President of the United States, who also served as a diplomat and U.S. Representative.",
+        "year": "1767"
+      },
+      {
+        "name": "E. B. White",
+        "description": "An acclaimed American essayist, journalist, and author of beloved children's books such as 'Charlotte's Web' and 'Stuart Little'.",
+        "year": "1899"
+      },
+      {
+        "name": "Theodore Harold Maiman",
+        "description": "An American physicist who is credited with building the first functional laser.",
+        "year": "1927"
+      }
+    ],
+    "events": [
+      {
+        "title": "U.S. Marine Corps Re-established",
+        "description": "The United States Marine Corps was re-established by an act of Congress after being disbanded following the American Revolutionary War.",
+        "year": "1798"
+      },
+      {
+        "title": "Publication of 'To Kill a Mockingbird'",
+        "description": "Harper Lee's classic and Pulitzer Prize-winning novel, 'To Kill a Mockingbird,' about racial injustice in the American South, was first published.",
+        "year": "1960"
+      },
+      {
+        "title": "Martin Luther King Jr. Posthumously Awarded Presidential Medal of Freedom",
+        "description": "Civil rights leader Martin Luther King Jr. was posthumously awarded the Presidential Medal of Freedom, the nation's highest civilian honor, by President Jimmy Carter.",
+        "year": "1977"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Bento de Núrsia",
+        "type": "Abade",
+        "description": "Comemorado pela Igreja Católica, São Bento é considerado o pai do Monasticismo Ocidental e um copatrono da Europa. Ele estabeleceu mosteiros e foi autor da 'Regra de São Bento', enfatizando a oração, o trabalho, a simplicidade e a hospitalidade."
+      },
+      {
+        "name": "Santa Olga, Igual aos Apóstolos",
+        "type": "Princesa da Rússia",
+        "description": "Santa ortodoxa, a Princesa Olga foi a esposa do Grande Príncipe de Kiev Igor e desempenhou um papel crucial na adoção inicial do Cristianismo nas terras russas, sendo referida como a 'iniciadora da fé'."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da População",
+        "description": "Uma celebração internacional estabelecida pelas Nações Unidas para aumentar a conscientização sobre as questões populacionais globais."
+      },
+      {
+        "name": "Dia da Comunidade Flamenga",
+        "description": "Um feriado público regional belga na Flandres que comemora a Batalha das Esporas Douradas em 11 de julho de 1302."
+      },
+      {
+        "name": "Dia Nacional do 7-Eleven (Dia do Slurpee Grátis)",
+        "description": "Nos EUA, este dia celebra a mudança de nome da rede de lojas de conveniência em 1946 e frequentemente envolve a distribuição gratuita de Slurpees."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Posteridade: vocês nunca saberão o quanto custou à minha geração preservar a vossa liberdade. Espero que façam bom uso dela.",
+      "author": "John Quincy Adams",
+      "context": "John Quincy Adams, o 6º Presidente dos EUA, nasceu em 11 de julho de 1767, e esta citação reflete sua dedicação em preservar a liberdade para as futuras gerações."
+    },
+    "motivationalQuote": {
+      "text": "Viver é a coisa mais rara do mundo. A maioria das pessoas apenas existe.",
+      "author": "Oscar Wilde"
+    },
+    "births": [
+      {
+        "name": "John Quincy Adams",
+        "description": "O sexto Presidente dos Estados Unidos, que também atuou como diplomata e Representante dos EUA.",
+        "year": "1767"
+      },
+      {
+        "name": "E. B. White",
+        "description": "Um aclamado ensaísta, jornalista e autor americano de queridos livros infantis como 'A Teia de Charlotte' e 'Stuart Little'.",
+        "year": "1899"
+      },
+      {
+        "name": "Theodore Harold Maiman",
+        "description": "Um físico americano a quem é creditada a construção do primeiro laser funcional.",
+        "year": "1927"
+      }
+    ],
+    "events": [
+      {
+        "title": "O Corpo de Fuzileiros Navais dos EUA foi Restabelecido",
+        "description": "O Corpo de Fuzileiros Navais dos Estados Unidos foi restabelecido por um ato do Congresso após ter sido dissolvido após a Guerra Revolucionária Americana.",
+        "year": "1798"
+      },
+      {
+        "title": "Publicação de 'Matar um Rouxinol'",
+        "description": "O romance clássico e vencedor do Prêmio Pulitzer de Harper Lee, 'Matar um Rouxinol', sobre injustiça racial no Sul dos Estados Unidos, foi publicado pela primeira vez.",
+        "year": "1960"
+      },
+      {
+        "title": "Martin Luther King Jr. Recebeu Postumamente a Medalha Presidencial da Liberdade",
+        "description": "O líder dos direitos civis Martin Luther King Jr. foi postumamente condecorado com a Medalha Presidencial da Liberdade, a mais alta honra civil da nação, pelo Presidente Jimmy Carter.",
+        "year": "1977"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Benet de Núrsia",
+        "type": "Abat",
+        "description": "Commemorat per l'Església Catòlica, Sant Benet és considerat el pare del monacat occidental i copatró d'Europa. Va establir monestirs i va ser autor de la 'Regla de Sant Benet', posant èmfasi en l'oració, el treball, la senzillesa i l'hospitalitat."
+      },
+      {
+        "name": "Santa Olga de Kíev, igual als Apòstols",
+        "type": "Princesa de Rússia",
+        "description": "Una santa ortodoxa, la princesa Olga va ser l'esposa del Gran Príncep de Kíev Ígor i va tenir un paper crucial en l'adopció primerenca del cristianisme a les terres russes, coneguda com la 'iniciadora de la fe'."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Població",
+        "description": "Una commemoració internacional establerta per les Nacions Unides per sensibilitzar sobre els problemes de la població mundial."
+      },
+      {
+        "name": "Dia de la Comunitat Flamenca",
+        "description": "Un dia festiu regional belga a Flandes que commemora la Batalla de les Espores d'Or l'11 de juliol de 1302."
+      },
+      {
+        "name": "Dia Nacional del 7-Eleven (Dia del Slurpee Gratuït)",
+        "description": "Als EUA, aquest dia celebra el canvi de nom de la cadena de botigues de conveniència el 1946 i sovint implica regalar Slurpees gratuïts."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Pòstera generació: mai no sabràs quant ha costat a la meva generació preservar la teva llibertat. Espero que en facis un bon ús.",
+      "author": "John Quincy Adams",
+      "context": "John Quincy Adams, el sisè president dels EUA, va néixer l'11 de juliol de 1767, i aquesta cita reflecteix la seva dedicació a preservar la llibertat per a les generacions futures."
+    },
+    "motivationalQuote": {
+      "text": "Viure és la cosa més rara del món. La majoria de la gent només existeix, i ja està.",
+      "author": "Oscar Wilde"
+    },
+    "births": [
+      {
+        "name": "John Quincy Adams",
+        "description": "El sisè president dels Estats Units, que també va exercir com a diplomàtic i representant dels EUA.",
+        "year": "1767"
+      },
+      {
+        "name": "E. B. White",
+        "description": "Un aclamat assagista, periodista i autor nord-americà de llibres infantils tan estimats com 'La teranyina de Carlota' i 'Stuart Little'.",
+        "year": "1899"
+      },
+      {
+        "name": "Theodore Harold Maiman",
+        "description": "Un físic nord-americà a qui se li atribueix la construcció del primer làser funcional.",
+        "year": "1927"
+      }
+    ],
+    "events": [
+      {
+        "title": "El Cos de Marines dels EUA restablert",
+        "description": "El Cos de Marines dels Estats Units va ser restablert per una llei del Congrés després d'haver estat dissolt arran de la Guerra de la Independència dels Estats Units.",
+        "year": "1798"
+      },
+      {
+        "title": "Publicació de 'Matar un rossinyol'",
+        "description": "La novel·la clàssica i guanyadora del Premi Pulitzer de Harper Lee, 'Matar un rossinyol', sobre la injustícia racial al sud dels Estats Units, va ser publicada per primera vegada.",
+        "year": "1960"
+      },
+      {
+        "title": "Martin Luther King Jr. guardonat a títol pòstum amb la Medalla Presidencial de la Llibertat",
+        "description": "El líder dels drets civils Martin Luther King Jr. va ser guardonat a títol pòstum amb la Medalla Presidencial de la Llibertat, el màxim honor civil de la nació, pel president Jimmy Carter.",
+        "year": "1977"
+      }
+    ]
+  }
+}
