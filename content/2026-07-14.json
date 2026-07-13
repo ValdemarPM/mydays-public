@@ -1,0 +1,291 @@
+{
+  "date": "2026-07-14",
+  "es": {
+    "saints": [
+      {
+        "name": "San Camilo de Lelis",
+        "type": "Sacerdote",
+        "description": "Nacido en Nápoles, fue un soldado y un jugador antes de convertirse y dedicar su vida a servir a los enfermos. Fundó la Orden de Clérigos Regulares Ministros de los Enfermos (Camilianos) y es el santo patrón de los hospitales y los enfermos."
+      },
+      {
+        "name": "Santa Catalina Tekakwitha",
+        "type": "Virgen",
+        "description": "La primera nativa americana en ser reconocida como santa por la Iglesia Católica. Conocida como el 'Lirio de los Mohawk', se convirtió al catolicismo e hizo un voto de castidad, dedicando su vida a Cristo a pesar de muchas dificultades."
+      },
+      {
+        "name": "Apóstol Áquila de los Setenta",
+        "type": "Apóstol",
+        "description": "Discípulo de San Pablo, Áquila era natural del Ponto y judío, conocido por vivir en Roma con su esposa Priscila y por difundir la fe cristiana. Es conmemorado en la Iglesia Ortodoxa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Bastilla (Fiesta Nacional)",
+        "description": "La fiesta nacional de Francia conmemora la Toma de la Bastilla el 14 de julio de 1789, un evento fundamental que marcó el inicio de la Revolución Francesa y la búsqueda de la libertad, la igualdad y la fraternidad."
+      },
+      {
+        "name": "Día Internacional de las Personas No Binarias",
+        "description": "Este día busca concienciar y abogar por las problemáticas que enfrentan las personas cuya identidad de género cae fuera del binario hombre y mujer, simbolizando el género más allá de las definiciones tradicionales."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La verdad es el pegamento que mantiene unidos a los gobiernos.",
+      "author": "Gerald Ford",
+      "context": "Gerald Ford, el 38º presidente de los Estados Unidos, nació el 14 de julio de 1913. Su cita enfatiza la importancia de la integridad y la honestidad en la gobernanza."
+    },
+    "motivationalQuote": {
+      "text": "El único viaje imposible es el que nunca comienzas.",
+      "author": "Tony Robbins"
+    },
+    "births": [
+      {
+        "name": "Gerald Ford",
+        "description": "El 38º presidente de los Estados Unidos, quien asumió la presidencia tras la dimisión de Richard Nixon y trabajó para restaurar la confianza en el gobierno.",
+        "year": "1913"
+      },
+      {
+        "name": "Woody Guthrie",
+        "description": "Un influyente cantautor y músico folclórico estadounidense, conocido por sus canciones de protesta y sus contribuciones a la música americana.",
+        "year": "1912"
+      },
+      {
+        "name": "William Hanna",
+        "description": "Un animador, director y productor estadounidense que cofundó Hanna-Barbera, creando personajes y programas de dibujos animados icónicos.",
+        "year": "1910"
+      }
+    ],
+    "events": [
+      {
+        "title": "Toma de la Bastilla",
+        "description": "El 14 de julio de 1789, los ciudadanos de París tomaron la prisión de la Bastilla, un acto simbólico que encendió la Revolución Francesa e introdujo los ideales de libertad y democracia.",
+        "year": "1789"
+      },
+      {
+        "title": "La Mariner 4 fotografía Marte",
+        "description": "En un hito científico significativo, la nave espacial Mariner 4 logró las primeras fotografías de cerca de otro planeta, Marte, proporcionando a la humanidad sus primeras vistas detalladas de la superficie marciana.",
+        "year": "1965"
+      },
+      {
+        "title": "Inauguración del Monumento Nacional George Washington Carver",
+        "description": "El Monumento Nacional George Washington Carver en Joplin, Misuri, se convirtió en el primer parque nacional de EE. UU. en honor a un afroamericano, preservando el lugar de nacimiento y el hogar temprano del renombrado científico e inventor.",
+        "year": "1951"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Camillus of Lellis",
+        "type": "Priest",
+        "description": "Born in Naples, he was a soldier and a gambler before converting and dedicating his life to serving the sick. He founded the Order of Clerks Regular, Ministers to the Sick (Camillians), and is the patron saint of hospitals and the sick."
+      },
+      {
+        "name": "St. Kateri Tekakwitha",
+        "type": "Virgin",
+        "description": "The first Native American to be recognized as a saint by the Catholic Church. Known as the 'Lily of the Mohawks,' she converted to Catholicism and took a vow of chastity, dedicating her life to Christ despite many hardships."
+      },
+      {
+        "name": "Apostle Aquila of the Seventy",
+        "type": "Apostle",
+        "description": "A disciple of St. Paul, Aquila was a native of Pontus and a Jew, known for living in Rome with his wife Priscilla and spreading the Christian faith. He is commemorated in the Orthodox Church."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Bastille Day (Fête Nationale)",
+        "description": "France's national holiday commemorates the Storming of the Bastille on July 14, 1789, a pivotal event that marked the beginning of the French Revolution and the pursuit of liberty, equality, and fraternity."
+      },
+      {
+        "name": "International Non-Binary Peoples Day",
+        "description": "This day raises awareness and advocates for the issues faced by individuals whose gender identity falls outside the binary of man and woman, symbolizing gender beyond traditional definitions."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Truth is the glue that holds governments together.",
+      "author": "Gerald Ford",
+      "context": "Gerald Ford, the 38th President of the United States, was born on July 14, 1913. His quote emphasizes the importance of integrity and honesty in governance."
+    },
+    "motivationalQuote": {
+      "text": "The only impossible journey is the one you never begin.",
+      "author": "Tony Robbins"
+    },
+    "births": [
+      {
+        "name": "Gerald Ford",
+        "description": "The 38th President of the United States, who assumed the presidency after Richard Nixon's resignation and worked to restore trust in government.",
+        "year": "1913"
+      },
+      {
+        "name": "Woody Guthrie",
+        "description": "An influential American folk singer-songwriter and musician, known for his protest songs and contributions to American music.",
+        "year": "1912"
+      },
+      {
+        "name": "William Hanna",
+        "description": "An American animator, director, and producer who co-founded Hanna-Barbera, creating iconic cartoon characters and shows.",
+        "year": "1910"
+      }
+    ],
+    "events": [
+      {
+        "title": "Storming of the Bastille",
+        "description": "On July 14, 1789, the citizens of Paris stormed the Bastille prison, a symbolic act that ignited the French Revolution and ushered in ideals of liberty and democracy.",
+        "year": "1789"
+      },
+      {
+        "title": "Mariner 4 Photographs Mars",
+        "description": "In a significant scientific milestone, the Mariner 4 spacecraft achieved the first close-up photographs of another planet, Mars, providing humanity with its first detailed views of the Martian surface.",
+        "year": "1965"
+      },
+      {
+        "title": "George Washington Carver National Monument Inaugurated",
+        "description": "The George Washington Carver National Monument in Joplin, Missouri, became the first U.S. national park honoring an African American, preserving the birthplace and early home of the renowned scientist and inventor.",
+        "year": "1951"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Camilo de Lellis",
+        "type": "Sacerdote",
+        "description": "Nascido em Nápoles, foi soldado e jogador antes de se converter e dedicar sua vida a servir os enfermos. Fundou a Ordem dos Clérigos Regulares Ministros dos Enfermos (Camilianos) e é o santo padroeiro dos hospitais e dos doentes."
+      },
+      {
+        "name": "Santa Kateri Tekakwitha",
+        "type": "Virgem",
+        "description": "A primeira nativa americana a ser reconhecida como santa pela Igreja Católica. Conhecida como o 'Lírio dos Mohawks', ela se converteu ao catolicismo e fez um voto de castidade, dedicando sua vida a Cristo apesar de muitas dificuldades."
+      },
+      {
+        "name": "Apóstolo Áquila dos Setenta",
+        "type": "Apóstolo",
+        "description": "Discípulo de São Paulo, Áquila era natural do Ponto e judeu, conhecido por viver em Roma com sua esposa Priscila e por espalhar a fé cristã. Ele é comemorado na Igreja Ortodoxa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Bastilha (Festa Nacional)",
+        "description": "O feriado nacional da França comemora a Tomada da Bastilha em 14 de julho de 1789, um evento crucial que marcou o início da Revolução Francesa e a busca pela liberdade, igualdade e fraternidade."
+      },
+      {
+        "name": "Dia Internacional das Pessoas Não Binárias",
+        "description": "Este dia visa aumentar a conscientização e advogar pelas questões enfrentadas por indivíduos cuja identidade de gênero foge do binário homem e mulher, simbolizando o gênero para além das definições tradicionais."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A verdade é a cola que mantém os governos unidos.",
+      "author": "Gerald Ford",
+      "context": "Gerald Ford, o 38º Presidente dos Estados Unidos, nasceu em 14 de julho de 1913. Sua citação enfatiza a importância da integridade e da honestidade na governança."
+    },
+    "motivationalQuote": {
+      "text": "A única jornada impossível é aquela que você nunca começa.",
+      "author": "Tony Robbins"
+    },
+    "births": [
+      {
+        "name": "Gerald Ford",
+        "description": "O 38º Presidente dos Estados Unidos, que assumiu a presidência após a renúncia de Richard Nixon e trabalhou para restaurar a confiança no governo.",
+        "year": "1913"
+      },
+      {
+        "name": "Woody Guthrie",
+        "description": "Um influente cantor e compositor folk americano, conhecido por suas canções de protesto e suas contribuições para a música americana.",
+        "year": "1912"
+      },
+      {
+        "name": "William Hanna",
+        "description": "Um animador, diretor e produtor americano que co-fundou a Hanna-Barbera, criando personagens e shows de desenhos animados icônicos.",
+        "year": "1910"
+      }
+    ],
+    "events": [
+      {
+        "title": "Tomada da Bastilha",
+        "description": "Em 14 de julho de 1789, os cidadãos de Paris invadiram a prisão da Bastilha, um ato simbólico que deu início à Revolução Francesa e introduziu os ideais de liberdade e democracia.",
+        "year": "1789"
+      },
+      {
+        "title": "Sonda Mariner 4 Fotografa Marte",
+        "description": "Em um marco científico significativo, a espaçonave Mariner 4 obteve as primeiras fotografias de perto de outro planeta, Marte, proporcionando à humanidade suas primeiras vistas detalhadas da superfície marciana.",
+        "year": "1965"
+      },
+      {
+        "title": "Monumento Nacional George Washington Carver Inaugurado",
+        "description": "O Monumento Nacional George Washington Carver em Joplin, Missouri, tornou-se o primeiro parque nacional dos EUA a homenagear um afro-americano, preservando o local de nascimento e a primeira casa do renomado cientista e inventor.",
+        "year": "1951"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Camil de Lellis",
+        "type": "Sacerdot",
+        "description": "Nascut a Nàpols, va ser soldat i jugador abans de convertir-se i dedicar la seva vida a servir els malalts. Va fundar l'Orde dels Clergues Regulars, Ministres dels Malalts (Camils), i és el sant patró dels hospitals i dels malalts."
+      },
+      {
+        "name": "Santa Kateri Tekakwitha",
+        "type": "Verge",
+        "description": "La primera nativa americana a ser reconeguda com a santa per l'Església Catòlica. Coneguda com la 'Lili dels Mohawks', es va convertir al catolicisme i va fer vot de castedat, dedicant la seva vida a Crist malgrat moltes dificultats."
+      },
+      {
+        "name": "Apòstol Aquila dels Setanta",
+        "type": "Apòstol",
+        "description": "Deixeble de Sant Pau, Aquila era natural del Pont i jueu, conegut per viure a Roma amb la seva esposa Priscil·la i difondre la fe cristiana. És commemorat a l'Església Ortodoxa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Bastilla (Fête Nationale)",
+        "description": "La festa nacional de França commemora la Presa de la Bastilla el 14 de juliol de 1789, un esdeveniment crucial que va marcar l'inici de la Revolució Francesa i la recerca de la llibertat, la igualtat i la fraternitat."
+      },
+      {
+        "name": "Dia Internacional de les Persones No Binàries",
+        "description": "Aquest dia sensibilitza i defensa els problemes als quals s'enfronten les persones amb una identitat de gènere que no s'ajusta al binarisme home-dona, simbolitzant el gènere més enllà de les definicions tradicionals."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La veritat és la cola que manté units els governs.",
+      "author": "Gerald Ford",
+      "context": "Gerald Ford, el 38è president dels Estats Units, va néixer el 14 de juliol de 1913. La seva cita subratlla la importància de la integritat i l'honestedat en la governança."
+    },
+    "motivationalQuote": {
+      "text": "L'únic viatge impossible és el que mai comences.",
+      "author": "Tony Robbins"
+    },
+    "births": [
+      {
+        "name": "Gerald Ford",
+        "description": "El 38è president dels Estats Units, que va assumir la presidència després de la dimissió de Richard Nixon i va treballar per restaurar la confiança en el govern.",
+        "year": "1913"
+      },
+      {
+        "name": "Woody Guthrie",
+        "description": "Un influent cantautor i músic de folk nord-americà, conegut per les seves cançons de protesta i les seves contribucions a la música americana.",
+        "year": "1912"
+      },
+      {
+        "name": "William Hanna",
+        "description": "Un animador, director i productor nord-americà que va cofundar Hanna-Barbera, creant personatges i programes de dibuixos animats icònics.",
+        "year": "1910"
+      }
+    ],
+    "events": [
+      {
+        "title": "Presa de la Bastilla",
+        "description": "El 14 de juliol de 1789, els ciutadans de París van assaltar la presó de la Bastilla, un acte simbòlic que va encendre la Revolució Francesa i va donar pas als ideals de llibertat i democràcia.",
+        "year": "1789"
+      },
+      {
+        "title": "Mariner 4 fotografia Mart",
+        "description": "En una fita científica significativa, la sonda Mariner 4 va aconseguir les primeres fotografies de prop d'un altre planeta, Mart, proporcionant a la humanitat les seves primeres vistes detallades de la superfície marciana.",
+        "year": "1965"
+      },
+      {
+        "title": "Inauguració del Monument Nacional George Washington Carver",
+        "description": "El Monument Nacional George Washington Carver a Joplin, Missouri, es va convertir en el primer parc nacional dels EUA en honor a un afroamericà, preservant el lloc de naixement i la primera llar del reconegut científic i inventor.",
+        "year": "1951"
+      }
+    ]
+  }
+}
