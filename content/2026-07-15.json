@@ -1,0 +1,271 @@
+{
+  "date": "2026-07-15",
+  "es": {
+    "saints": [
+      {
+        "name": "San Buenaventura",
+        "type": "Obispo, Doctor de la Iglesia",
+        "description": "San Buenaventura fue un fraile franciscano, teólogo y filósofo prominente que desempeñó un papel crucial en la unificación de la Orden Franciscana después de la muerte de San Francisco de Asís. Es conocido como el \"Doctor Seráfico\" por sus contribuciones intelectuales y su profunda piedad."
+      },
+      {
+        "name": "San Vladimiro I de Kiev",
+        "type": "Gran Príncipe, Igual a los Apóstoles",
+        "description": "Vladimiro el Grande fue el Gran Príncipe de la Rus de Kiev que se convirtió al cristianismo y posteriormente lideró la cristianización de la Rus de Kiev. Es recordado por expandir la educación, establecer instituciones judiciales y ayudar a los pobres."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día del Gusano de Gominola",
+        "description": "Una observancia cultural lúdica dedicada a celebrar los gusanos de gominola."
+      },
+      {
+        "name": "Día de San Suituno",
+        "description": "Una observancia tradicional en Inglaterra, que se dice que predice 40 días de tiempo basándose en si llueve en este día."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Un cuadro está terminado cuando el artista dice que está terminado.",
+      "author": "Rembrandt van Rijn",
+      "context": "Rembrandt van Rijn, el célebre pintor y grabador holandés, nació el 15 de julio de 1606. Esta cita refleja su autonomía artística y su juicio personal al completar sus obras maestras."
+    },
+    "motivationalQuote": {
+      "text": "He aprendido que la gente olvidará lo que dijiste, la gente olvidará lo que hiciste, pero la gente nunca olvidará cómo les hiciste sentir.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Rembrandt van Rijn",
+        "description": "Un pintor holandés de la Edad de Oro, considerado uno de los más grandes artistas visuales de la historia del arte, conocido por su magistral uso de la luz y la sombra.",
+        "year": "1606"
+      },
+      {
+        "name": "Dame Jocelyn Bell Burnell",
+        "description": "Una astrofísica británica que, como estudiante de posgrado, descubrió los primeros púlsares de radio en 1967.",
+        "year": "1943"
+      },
+      {
+        "name": "Forest Whitaker",
+        "description": "Un actor, productor y director estadounidense conocido por sus intensos estudios de personajes y su papel ganador del Premio de la Academia como Idi Amin en 'El último rey de Escocia'.",
+        "year": "1961"
+      }
+    ],
+    "events": [
+      {
+        "title": "Descubrimiento de la Piedra de Rosetta",
+        "description": "En 1799, la Piedra de Rosetta fue encontrada por soldados franceses en Egipto, proporcionando la clave para descifrar los jeroglíficos egipcios antiguos y revolucionando la Egiptología.",
+        "year": "1799"
+      },
+      {
+        "title": "Vuelo de la Mariner 4 a Marte",
+        "description": "En 1965, la nave espacial Mariner 4 de la NASA realizó con éxito el primer sobrevuelo de Marte, enviando las primeras fotografías de cerca de otro planeta.",
+        "year": "1965"
+      },
+      {
+        "title": "Proyecto de Pruebas Apolo-Soyuz",
+        "description": "En 1975, Estados Unidos y la Unión Soviética lanzaron el Proyecto de Pruebas Apolo-Soyuz, la primera misión conjunta de vuelos espaciales tripulados, simbolizando un momento de distensión y cooperación en la exploración espacial.",
+        "year": "1975"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Bonaventure",
+        "type": "Bishop, Doctor of the Church",
+        "description": "St. Bonaventure was a prominent Franciscan friar, theologian, and philosopher who played a crucial role in unifying the Franciscan Order after the death of St. Francis of Assisi. He is known as the \"Seraphic Doctor\" for his intellectual contributions and profound piety."
+      },
+      {
+        "name": "St. Vladimir I of Kiev",
+        "type": "Grand Prince, Equal-to-the-Apostles",
+        "description": "Vladimir the Great was the Grand Prince of Kievan Rus' who converted to Christianity and subsequently led the Christianization of Kievan Rus'. He is remembered for expanding education, establishing judicial institutions, and aiding the poor."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Gummi Worm Day",
+        "description": "A playful cultural observance dedicated to celebrating gummi worms."
+      },
+      {
+        "name": "Saint Swithin's Day",
+        "description": "A traditional observance in England, said to predict 40 days of weather based on whether it rains on this day."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A painting is finished when the artist says it is finished.",
+      "author": "Rembrandt van Rijn",
+      "context": "Rembrandt van Rijn, the celebrated Dutch painter and printmaker, was born on July 15, 1606. This quote reflects his artistic autonomy and personal judgment in completing his masterpieces."
+    },
+    "motivationalQuote": {
+      "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Rembrandt van Rijn",
+        "description": "A Dutch Golden Age painter, considered one of the greatest visual artists in the history of art, known for his masterful use of light and shadow.",
+        "year": "1606"
+      },
+      {
+        "name": "Dame Jocelyn Bell Burnell",
+        "description": "A British astrophysicist who, as a postgraduate student, discovered the first radio pulsars in 1967.",
+        "year": "1943"
+      },
+      {
+        "name": "Forest Whitaker",
+        "description": "An American actor, producer, and director known for his intense character studies and his Academy Award-winning role as Idi Amin in 'The Last King of Scotland'.",
+        "year": "1961"
+      }
+    ],
+    "events": [
+      {
+        "title": "Discovery of the Rosetta Stone",
+        "description": "In 1799, the Rosetta Stone was found by French soldiers in Egypt, providing the key to deciphering ancient Egyptian hieroglyphs and revolutionizing Egyptology.",
+        "year": "1799"
+      },
+      {
+        "title": "Mariner 4 Mars Flyby",
+        "description": "In 1965, NASA's Mariner 4 spacecraft successfully made the first flyby of Mars, sending back the first close-up photographs of another planet.",
+        "year": "1965"
+      },
+      {
+        "title": "Apollo-Soyuz Test Project",
+        "description": "In 1975, the United States and the Soviet Union launched the Apollo-Soyuz Test Project, the first joint human spaceflight mission, symbolizing a moment of détente and cooperation in space exploration.",
+        "year": "1975"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Boaventura",
+        "type": "Bispo, Doutor da Igreja",
+        "description": "São Boaventura foi um frade franciscano, teólogo e filósofo proeminente que desempenhou um papel crucial na unificação da Ordem Franciscana após a morte de São Francisco de Assis. Ele é conhecido como o \"Doutor Seráfico\" por suas contribuições intelectuais e profunda piedade."
+      },
+      {
+        "name": "São Vladimir I de Kiev",
+        "type": "Grande Príncipe, Igual aos Apóstolos",
+        "description": "Vladimir, o Grande, foi o Grande Príncipe da Rus de Quieve que se converteu ao cristianismo e subsequentemente liderou a cristianização da Rus de Quieve. Ele é lembrado por expandir a educação, estabelecer instituições judiciais e ajudar os pobres."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Minhoca de Goma",
+        "description": "Uma observância cultural divertida dedicada a celebrar as minhocas de goma."
+      },
+      {
+        "name": "Dia de São Suituno",
+        "description": "Uma observância tradicional na Inglaterra, que se diz prever 40 dias de tempo com base em se chove neste dia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Uma pintura está terminada quando o artista diz que está terminada.",
+      "author": "Rembrandt van Rijn",
+      "context": "Rembrandt van Rijn, o célebre pintor e gravador holandês, nasceu em 15 de julho de 1606. Esta citação reflete sua autonomia artística e julgamento pessoal ao completar suas obras-primas."
+    },
+    "motivationalQuote": {
+      "text": "Aprendi que as pessoas esquecerão o que você disse, as pessoas esquecerão o que você fez, mas as pessoas nunca esquecerão como você as fez sentir.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Rembrandt van Rijn",
+        "description": "Um pintor holandês da Idade de Ouro, considerado um dos maiores artistas visuais da história da arte, conhecido pelo seu uso magistral de luz e sombra.",
+        "year": "1606"
+      },
+      {
+        "name": "Dame Jocelyn Bell Burnell",
+        "description": "Uma astrofísica britânica que, como estudante de pós-graduação, descobriu os primeiros pulsares de rádio em 1967.",
+        "year": "1943"
+      },
+      {
+        "name": "Forest Whitaker",
+        "description": "Um ator, produtor e diretor americano conhecido pelos seus intensos estudos de personagens e pelo seu papel vencedor do Oscar como Idi Amin em 'O Último Rei da Escócia'.",
+        "year": "1961"
+      }
+    ],
+    "events": [
+      {
+        "title": "Descoberta da Pedra de Roseta",
+        "description": "Em 1799, a Pedra de Roseta foi encontrada por soldados franceses no Egito, fornecendo a chave para decifrar hieróglifos egípcios antigos e revolucionando a Egiptologia.",
+        "year": "1799"
+      },
+      {
+        "title": "Voo da Mariner 4 por Marte",
+        "description": "Em 1965, a nave espacial Mariner 4 da NASA realizou com sucesso o primeiro voo por Marte, enviando as primeiras fotografias de perto de outro planeta.",
+        "year": "1965"
+      },
+      {
+        "title": "Projeto de Teste Apollo-Soyuz",
+        "description": "Em 1975, os Estados Unidos e a União Soviética lançaram o Projeto de Teste Apollo-Soyuz, a primeira missão espacial humana conjunta, simbolizando um momento de distensão e cooperação na exploração espacial.",
+        "year": "1975"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Bonaventura",
+        "type": "Bisbe, Doctor de l'Església",
+        "description": "Sant Bonaventura va ser un destacat frare franciscà, teòleg i filòsof que va tenir un paper crucial en la unificació de l'Orde Franciscà després de la mort de Sant Francesc d'Assís. És conegut com el \"Doctor Seràfic\" per les seves contribucions intel·lectuals i la seva profunda pietat."
+      },
+      {
+        "name": "Sant Vladímir I de Kíev",
+        "type": "Gran Príncep, Igual als Apòstols",
+        "description": "Vladímir el Gran va ser el Gran Príncep de la Rus de Kíev que es va convertir al cristianisme i, posteriorment, va liderar la cristianització de la Rus de Kíev. És recordat per expandir l'educació, establir institucions judicials i ajudar els pobres."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia dels Cucs de Goma",
+        "description": "Una observança cultural lúdica dedicada a celebrar els cucs de goma."
+      },
+      {
+        "name": "Dia de Sant Swithun",
+        "description": "Una observança tradicional a Anglaterra, de la qual es diu que prediu 40 dies de temps basant-se en si plou en aquest dia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Una pintura està acabada quan l'artista diu que està acabada.",
+      "author": "Rembrandt van Rijn",
+      "context": "Rembrandt van Rijn, el cèlebre pintor i gravador holandès, va néixer el 15 de juliol de 1606. Aquesta cita reflecteix la seva autonomia artística i el seu judici personal a l'hora de completar les seves obres mestres."
+    },
+    "motivationalQuote": {
+      "text": "He après que la gent oblidarà el que vas dir, la gent oblidarà el que vas fer, però la gent mai oblidarà com els vas fer sentir.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Rembrandt van Rijn",
+        "description": "Un pintor holandès de l'Edat d'Or, considerat un dels artistes visuals més grans de la història de l'art, conegut pel seu domini de la llum i l'ombra.",
+        "year": "1606"
+      },
+      {
+        "name": "Dame Jocelyn Bell Burnell",
+        "description": "Una astrofísica britànica que, com a estudiant de postgrau, va descobrir els primers púlsars de ràdio el 1967.",
+        "year": "1943"
+      },
+      {
+        "name": "Forest Whitaker",
+        "description": "Un actor, productor i director nord-americà conegut pels seus intensos estudis de personatges i el seu paper guanyador de l'Oscar com Idi Amin a 'L'últim rei d'Escòcia'.",
+        "year": "1961"
+      }
+    ],
+    "events": [
+      {
+        "title": "Descobriment de la Pedra de Rosetta",
+        "description": "El 1799, la Pedra de Rosetta va ser trobada per soldats francesos a Egipte, proporcionant la clau per desxifrar els jeroglífics egipcis antics i revolucionant l'egiptologia.",
+        "year": "1799"
+      },
+      {
+        "title": "Sobrevol de Mart de la Mariner 4",
+        "description": "El 1965, la nau espacial Mariner 4 de la NASA va realitzar amb èxit el primer sobrevol de Mart, enviant les primeres fotografies de prop d'un altre planeta.",
+        "year": "1965"
+      },
+      {
+        "title": "Projecte de Prova Apollo-Soiuz",
+        "description": "El 1975, els Estats Units i la Unió Soviètica van llançar el Projecte de Prova Apollo-Soiuz, la primera missió conjunta de vols espacials tripulats, simbolitzant un moment de distensió i cooperació en l'exploració espacial.",
+        "year": "1975"
+      }
+    ]
+  }
+}
