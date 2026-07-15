@@ -1,0 +1,307 @@
+{
+  "date": "2026-07-16",
+  "es": {
+    "saints": [
+      {
+        "name": "Nuestra Señora del Carmen",
+        "type": "Patrona",
+        "description": "Esta festividad honra a la Santísima Virgen María como patrona de la Orden Carmelita, celebrando su protección y guía especiales."
+      },
+      {
+        "name": "Santa Julia de Cartago",
+        "type": "Virgen Mártir",
+        "description": "Capturada por los persas y vendida como esclava, Santa Julia sirvió fielmente a su amo manteniendo su fe cristiana y su pureza, siendo finalmente martirizada por su negativa a abandonar a Cristo."
+      },
+      {
+        "name": "San Antíoco el Médico de Sebaste",
+        "type": "Mártir, Médico",
+        "description": "San Antíoco, médico y hermano de San Platón, soportó severas torturas por su fe cristiana, permaneciendo ileso incluso cuando fue arrojado a agua hirviendo o expuesto a bestias salvajes, y finalmente fue decapitado."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Serpiente",
+        "description": "Este día tiene como objetivo crear conciencia sobre la importancia de las serpientes en el ecosistema y promover su conservación."
+      },
+      {
+        "name": "Guru Purnima",
+        "description": "Celebrado por hindúes y budistas, este festival honra a los maestros espirituales y gurús, cuya guía se considera esencial para la liberación espiritual."
+      },
+      {
+        "name": "Día de Agradecimiento a la Inteligencia Artificial",
+        "description": "Esta observancia celebra el campo de la inteligencia artificial y fomenta la participación pública con las herramientas, la ética y las implicaciones de la IA."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Ahora me he convertido en la Muerte, el destructor de mundos.",
+      "author": "J. Robert Oppenheimer",
+      "context": "J. Robert Oppenheimer, el director científico del Proyecto Manhattan, pronunció esta famosa cita del Bhagavad Gita el 16 de julio de 1945, después de presenciar el exitoso Test Trinity, la primera detonación de un arma nuclear."
+    },
+    "motivationalQuote": {
+      "text": "Si no puedes volar, entonces corre; si no puedes correr, entonces camina; si no puedes caminar, entonces gatea; pero hagas lo que hagas, tienes que seguir avanzando.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Ginger Rogers",
+        "description": "Actriz, bailarina y cantante estadounidense, alcanzó la fama como compañera de baile de Fred Astaire en una serie de musicales clásicos de Hollywood.",
+        "year": "1911"
+      },
+      {
+        "name": "Will Ferrell",
+        "description": "Actor, comediante, escritor y productor estadounidense, conocido por sus papeles en numerosas películas de comedia populares y su tiempo en Saturday Night Live.",
+        "year": "1967"
+      },
+      {
+        "name": "Barbara Stanwyck",
+        "description": "Aclamada actriz estadounidense, fue conocida por su fuerte e independiente presencia en pantalla y su versatilidad en varios géneros cinematográficos.",
+        "year": "1907"
+      }
+    ],
+    "events": [
+      {
+        "title": "La Prueba Trinity da inicio a la Era Atómica",
+        "description": "El 16 de julio de 1945, Estados Unidos detonó con éxito la primera bomba atómica del mundo en el desierto de Nuevo México, marcando un logro científico monumental y el amanecer de la era atómica.",
+        "year": "1945"
+      },
+      {
+        "title": "El Apolo 11 se lanza hacia la Luna",
+        "description": "El 16 de julio de 1969, la misión Apolo 11, que transportaba a los astronautas Neil Armstrong, Buzz Aldrin y Michael Collins, fue lanzada desde Cabo Kennedy, embarcándose en el primer viaje exitoso de la humanidad para aterrizar en la Luna.",
+        "year": "1969"
+      },
+      {
+        "title": "El Distrito de Columbia es establecido como Capital de EE. UU.",
+        "description": "En 1790, el presidente George Washington promulgó la Ley de Residencia, estableciendo oficialmente el Distrito de Columbia como la capital permanente de los Estados Unidos.",
+        "year": "1790"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Our Lady of Mount Carmel",
+        "type": "Patroness",
+        "description": "This feast day honors the Blessed Virgin Mary as the patroness of the Carmelite Order, celebrating her special protection and guidance."
+      },
+      {
+        "name": "St. Julia of Carthage",
+        "type": "Virgin Martyr",
+        "description": "Captured by Persians and sold into slavery, Saint Julia faithfully served her master while maintaining her Christian faith and purity, eventually martyred for her refusal to abandon Christ."
+      },
+      {
+        "name": "St. Antiochus the Physician of Sebaste",
+        "type": "Martyr, Physician",
+        "description": "Saint Antiochus, a physician and brother of Saint Platon, endured severe tortures for his Christian faith, remaining unharmed even when thrown into boiling water or exposed to wild beasts, and was eventually beheaded."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Snake Day",
+        "description": "This day aims to raise awareness about the importance of snakes in the ecosystem and to promote their conservation."
+      },
+      {
+        "name": "Guru Purnima",
+        "description": "Celebrated by Hindus and Buddhists, this festival honors spiritual teachers and gurus, whose guidance is considered essential for spiritual liberation."
+      },
+      {
+        "name": "Artificial Intelligence Appreciation Day",
+        "description": "This observance celebrates the field of artificial intelligence and encourages public engagement with AI tools, ethics, and implications."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Now I am become Death, the destroyer of worlds.",
+      "author": "J. Robert Oppenheimer",
+      "context": "J. Robert Oppenheimer, the scientific director of the Manhattan Project, famously uttered this quote from the Bhagavad Gita on July 16, 1945, after witnessing the successful Trinity Test, the first detonation of a nuclear weapon."
+    },
+    "motivationalQuote": {
+      "text": "If you can't fly, then run, if you can't run, then walk, if you can't walk, then crawl, but whatever you do, you have to keep moving forward.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Ginger Rogers",
+        "description": "An American actress, dancer, and singer, she achieved fame as Fred Astaire's dance partner in a series of classic Hollywood musicals.",
+        "year": "1911"
+      },
+      {
+        "name": "Will Ferrell",
+        "description": "An American actor, comedian, writer, and producer, known for his roles in numerous popular comedy films and his time on Saturday Night Live.",
+        "year": "1967"
+      },
+      {
+        "name": "Barbara Stanwyck",
+        "description": "An acclaimed American actress, she was known for her strong, independent screen presence and versatility in various film genres.",
+        "year": "1907"
+      }
+    ],
+    "events": [
+      {
+        "title": "Trinity Test Ushers in the Atomic Age",
+        "description": "On July 16, 1945, the United States successfully detonated the world's first atomic bomb in the New Mexico desert, marking a monumental scientific achievement and the dawn of the atomic age.",
+        "year": "1945"
+      },
+      {
+        "title": "Apollo 11 Launches Towards the Moon",
+        "description": "On July 16, 1969, the Apollo 11 mission, carrying astronauts Neil Armstrong, Buzz Aldrin, and Michael Collins, launched from Cape Kennedy, embarking on humanity's first successful journey to land on the Moon.",
+        "year": "1969"
+      },
+      {
+        "title": "District of Columbia Established as U.S. Capital",
+        "description": "In 1790, President George Washington signed the Residence Act into law, officially establishing the District of Columbia as the permanent capital of the United States.",
+        "year": "1790"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Nossa Senhora do Carmo",
+        "type": "Padroeira",
+        "description": "Esta festa honra a Santíssima Virgem Maria como padroeira da Ordem Carmelita, celebrando sua proteção e orientação especiais."
+      },
+      {
+        "name": "Santa Júlia de Cartago",
+        "type": "Virgem Mártir",
+        "description": "Capturada pelos persas e vendida como escrava, Santa Júlia serviu fielmente seu senhor, mantendo sua fé cristã e pureza, sendo finalmente martirizada por sua recusa em abandonar Cristo."
+      },
+      {
+        "name": "Santo Antíoco, o Médico de Sebaste",
+        "type": "Mártir, Médico",
+        "description": "Santo Antíoco, médico e irmão de São Platão, suportou severas torturas por sua fé cristã, permanecendo ileso mesmo quando jogado em água fervente ou exposto a feras, e foi eventualmente decapitado."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Cobra",
+        "description": "Este dia tem como objetivo conscientizar sobre a importância das cobras no ecossistema e promover sua conservação."
+      },
+      {
+        "name": "Guru Purnima",
+        "description": "Celebrado por hindus e budistas, este festival honra os mestres espirituais e gurus, cuja orientação é considerada essencial para a libertação espiritual."
+      },
+      {
+        "name": "Dia de Apreciação da Inteligência Artificial",
+        "description": "Esta observância celebra o campo da inteligência artificial e incentiva o engajamento público com ferramentas, ética e implicações da IA."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Agora me tornei a Morte, o destruidor de mundos.",
+      "author": "J. Robert Oppenheimer",
+      "context": "J. Robert Oppenheimer, o diretor científico do Projeto Manhattan, proferiu esta famosa citação do Bhagavad Gita em 16 de julho de 1945, após testemunhar o bem-sucedido Teste Trinity, a primeira detonação de uma arma nuclear."
+    },
+    "motivationalQuote": {
+      "text": "Se você não pode voar, então corra; se não pode correr, então ande; se não pode andar, então rasteje; mas, o que quer que faça, você tem que continuar avançando.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Ginger Rogers",
+        "description": "Atriz, dançarina e cantora americana, alcançou a fama como parceira de dança de Fred Astaire em uma série de musicais clássicos de Hollywood.",
+        "year": "1911"
+      },
+      {
+        "name": "Will Ferrell",
+        "description": "Ator, comediante, roteirista e produtor americano, conhecido por seus papéis em vários filmes de comédia populares e seu tempo no Saturday Night Live.",
+        "year": "1967"
+      },
+      {
+        "name": "Barbara Stanwyck",
+        "description": "Aclamada atriz americana, era conhecida por sua forte e independente presença na tela e sua versatilidade em vários gêneros cinematográficos.",
+        "year": "1907"
+      }
+    ],
+    "events": [
+      {
+        "title": "O Teste Trinity Inicia a Era Atômica",
+        "description": "Em 16 de julho de 1945, os Estados Unidos detonaram com sucesso a primeira bomba atômica do mundo no deserto do Novo México, marcando uma conquista científica monumental e o amanhecer da era atômica.",
+        "year": "1945"
+      },
+      {
+        "title": "O Apollo 11 é lançado em direção à Lua",
+        "description": "Em 16 de julho de 1969, a missão Apollo 11, transportando os astronautas Neil Armstrong, Buzz Aldrin e Michael Collins, foi lançada de Cabo Kennedy, embarcando na primeira jornada bem-sucedida da humanidade para pousar na Lua.",
+        "year": "1969"
+      },
+      {
+        "title": "Distrito de Columbia Estabelecido como Capital dos EUA",
+        "description": "Em 1790, o presidente George Washington sancionou a Lei de Residência, estabelecendo oficialmente o Distrito de Columbia como a capital permanente dos Estados Unidos.",
+        "year": "1790"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Mare de Déu del Mont Carmel",
+        "type": "Patrona",
+        "description": "Aquesta festivitat honora la Santíssima Mare de Déu com a patrona de l'Orde Carmelita, celebrant la seva especial protecció i guia."
+      },
+      {
+        "name": "Santa Júlia de Cartago",
+        "type": "Verge Màrtir",
+        "description": "Capturada pels perses i venuda com a esclava, santa Júlia va servir fidelment el seu amo mantenint la seva fe cristiana i puresa, sent finalment martiritzada per la seva negativa a abandonar Crist."
+      },
+      {
+        "name": "Sant Antíoc el Metge de Sebaste",
+        "type": "Màrtir, Metge",
+        "description": "Sant Antíoc, metge i germà de sant Plató, va patir severes tortures per la seva fe cristiana, romanent il·lès fins i tot quan va ser llançat a aigua bullent o exposat a bèsties salvatges, i finalment va ser decapitat."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Serp",
+        "description": "Aquest dia té com a objectiu sensibilitzar sobre la importància de les serps a l'ecosistema i promoure la seva conservació."
+      },
+      {
+        "name": "Guru Purnima",
+        "description": "Celebrat per hindús i budistes, aquest festival honora els mestres espirituals i gurus, la guia dels quals es considera essencial per a l'alliberament espiritual."
+      },
+      {
+        "name": "Dia de l'Apreciació de la Intel·ligència Artificial",
+        "description": "Aquesta commemoració celebra el camp de la intel·ligència artificial i fomenta la participació pública amb les eines, l'ètica i les implicacions de la IA."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Ara m'he convertit en la Mort, el destructor de mons.",
+      "author": "J. Robert Oppenheimer",
+      "context": "J. Robert Oppenheimer, el director científic del Projecte Manhattan, va pronunciar aquesta cèlebre cita del Bhagavad Gita el 16 de juliol de 1945, després de presenciar amb èxit la Prova Trinity, la primera detonació d'una arma nuclear."
+    },
+    "motivationalQuote": {
+      "text": "Si no pots volar, corre, si no pots córrer, camina, si no pots caminar, arrossega't, però facis el que facis, has de seguir avançant.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Ginger Rogers",
+        "description": "Actriu, ballarina i cantant nord-americana, va aconseguir la fama com a parella de ball de Fred Astaire en una sèrie de clàssics musicals de Hollywood.",
+        "year": "1911"
+      },
+      {
+        "name": "Will Ferrell",
+        "description": "Actor, còmic, guionista i productor nord-americà, conegut pels seus papers en nombroses pel·lícules de comèdia populars i pel seu pas per Saturday Night Live.",
+        "year": "1967"
+      },
+      {
+        "name": "Barbara Stanwyck",
+        "description": "Una aclamada actriu nord-americana, coneguda per la seva presència forta i independent a la pantalla i la seva versatilitat en diversos gèneres cinematogràfics.",
+        "year": "1907"
+      }
+    ],
+    "events": [
+      {
+        "title": "La Prova Trinity Marca l'Inici de l'Era Atòmica",
+        "description": "El 16 de juliol de 1945, els Estats Units van detonar amb èxit la primera bomba atòmica del món al desert de Nou Mèxic, marcant un èxit científic monumental i l'alba de l'era atòmica.",
+        "year": "1945"
+      },
+      {
+        "title": "L'Apollo 11 S'Enlaira Cap a la Lluna",
+        "description": "El 16 de juliol de 1969, la missió Apollo 11, amb els astronautes Neil Armstrong, Buzz Aldrin i Michael Collins a bord, es va enlairar des de Cape Kennedy, embarcant-se en el primer viatge exitós de la humanitat per aterrar a la Lluna.",
+        "year": "1969"
+      },
+      {
+        "title": "El Districte de Columbia Establert com a Capital dels EUA",
+        "description": "El 1790, el president George Washington va signar la Llei de Residència, establint oficialment el Districte de Columbia com la capital permanent dels Estats Units.",
+        "year": "1790"
+      }
+    ]
+  }
+}
