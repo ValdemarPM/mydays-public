@@ -1,0 +1,275 @@
+{
+  "date": "2026-07-18",
+  "es": {
+    "saints": [
+      {
+        "name": "San Camilo de Lelis",
+        "type": "Sacerdote y Fundador",
+        "description": "Un sacerdote italiano que fundó los Camilos, una orden religiosa dedicada a servir a los enfermos. Es el santo patrón de los enfermos, hospitales, enfermeras y médicos."
+      },
+      {
+        "name": "San Federico de Utrecht",
+        "type": "Obispo y Mártir",
+        "description": "Un obispo conocido por su labor misionera y sus esfuerzos por reformar la Iglesia en Utrecht. Fue martirizado por su inquebrantable defensa de la verdad cristiana."
+      },
+      {
+        "name": "San Bruno de Segni",
+        "type": "Obispo y Abad",
+        "description": "Un obispo benedictino, cardenal y abad conocido por sus escritos teológicos y su fuerte defensa de la doctrina de la Iglesia contra la herejía y abusos como la simonía."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de Nelson Mandela",
+        "description": "Este día conmemora el cumpleaños de Nelson Mandela y su vida de servicio a la humanidad, animando a personas de todo el mundo a actuar e inspirar cambios en sus comunidades."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Ser libre no es simplemente despojarse de las propias cadenas, sino vivir de una forma que respete y mejore la libertad de los demás.",
+      "author": "Nelson Mandela",
+      "context": "Nelson Mandela, un prominente revolucionario anti-apartheid y expresidente de Sudáfrica, nació el 18 de julio de 1918. Su cumpleaños es reconocido globalmente como el Día Internacional de Nelson Mandela."
+    },
+    "motivationalQuote": {
+      "text": "La mejor manera de predecir el futuro es crearlo.",
+      "author": "Peter Drucker"
+    },
+    "births": [
+      {
+        "name": "Nelson Mandela",
+        "description": "Revolucionario sudafricano anti-apartheid, líder político y filántropo que fue el primer presidente de Sudáfrica. Fue un defensor global de la paz y la justicia.",
+        "year": "1918"
+      },
+      {
+        "name": "Robert Hooke",
+        "description": "Un polímata inglés conocido por su trabajo en microscopía (acuñando el término 'célula'), física (Ley de Hooke) y astronomía, y miembro fundador de la Royal Society.",
+        "year": "1635"
+      },
+      {
+        "name": "William Makepeace Thackeray",
+        "description": "Novelista y satírico británico nacido en la India, mejor conocido por su novela 'La feria de las vanidades', que describió hábilmente la sociedad victoriana.",
+        "year": "1811"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundación de Intel Corporation",
+        "description": "Los pioneros de los semiconductores Robert Noyce y Gordon Moore incorporaron oficialmente Intel, una empresa que se convertiría en líder mundial en tecnología informática.",
+        "year": "1968"
+      },
+      {
+        "title": "Nadia Comăneci logra la primera calificación perfecta de 10 en los Juegos Olímpicos",
+        "description": "La gimnasta rumana Nadia Comăneci hizo historia en los Juegos Olímpicos de Verano de Montreal de 1976 al obtener la primera calificación perfecta de 10 en la gimnasia olímpica.",
+        "year": "1976"
+      },
+      {
+        "title": "Lanzamiento de la Misión Espacial Gemini 10",
+        "description": "La NASA lanzó con éxito Gemini 10, una misión espacial tripulada que realizó maniobras orbitales cruciales y operaciones de encuentro.",
+        "year": "1966"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Camillus de Lellis",
+        "type": "Priest and Founder",
+        "description": "An Italian priest who founded the Camillians, a religious order dedicated to serving the sick. He is the patron saint of the sick, hospitals, nurses, and physicians."
+      },
+      {
+        "name": "St. Frederick of Utrecht",
+        "type": "Bishop and Martyr",
+        "description": "A bishop known for his missionary work and efforts to reform the Church in Utrecht. He was martyred for his unwavering defense of Christian truth."
+      },
+      {
+        "name": "St. Bruno of Segni",
+        "type": "Bishop and Abbot",
+        "description": "A Benedictine bishop, cardinal, and abbot known for his theological writings and strong defense of Church doctrine against heresy and abuses like simony."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Nelson Mandela International Day",
+        "description": "This day commemorates Nelson Mandela's birthday and his lifetime of service to humanity, encouraging people worldwide to take action and inspire change in their communities."
+      }
+    ],
+    "historicalQuote": {
+      "text": "For to be free is not merely to cast off one's chains, but to live in a way that respects and enhances the freedom of others.",
+      "author": "Nelson Mandela",
+      "context": "Nelson Mandela, a prominent anti-apartheid revolutionary and former President of South Africa, was born on July 18, 1918. His birthday is recognized globally as Nelson Mandela International Day."
+    },
+    "motivationalQuote": {
+      "text": "The best way to predict the future is to create it.",
+      "author": "Peter Drucker"
+    },
+    "births": [
+      {
+        "name": "Nelson Mandela",
+        "description": "A South African anti-apartheid revolutionary, political leader, and philanthropist who served as the first President of South Africa. He was a global advocate for peace and justice.",
+        "year": "1918"
+      },
+      {
+        "name": "Robert Hooke",
+        "description": "An English polymath known for his work in microscopy (coining the term 'cell'), physics (Hooke's Law), and astronomy, and a founding member of the Royal Society.",
+        "year": "1635"
+      },
+      {
+        "name": "William Makepeace Thackeray",
+        "description": "An Indian-born British novelist and satirist, best known for his novel 'Vanity Fair', which skillfully depicted Victorian society.",
+        "year": "1811"
+      }
+    ],
+    "events": [
+      {
+        "title": "Intel Corporation Founded",
+        "description": "Semiconductor pioneers Robert Noyce and Gordon Moore officially incorporated Intel, a company that would become a global leader in computer technology.",
+        "year": "1968"
+      },
+      {
+        "title": "Nadia Comăneci Achieves First Perfect 10 at Olympics",
+        "description": "Romanian gymnast Nadia Comăneci made history at the 1976 Montreal Summer Olympics by scoring the first-ever perfect 10 in Olympic gymnastics.",
+        "year": "1976"
+      },
+      {
+        "title": "Gemini 10 Space Mission Launched",
+        "description": "NASA successfully launched Gemini 10, a crewed space mission that performed crucial orbital maneuvers and rendezvous operations.",
+        "year": "1966"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Camilo de Lélis",
+        "type": "Sacerdote e Fundador",
+        "description": "Um sacerdote italiano que fundou os Camilianos, uma ordem religiosa dedicada a servir os enfermos. É o santo padroeiro dos doentes, hospitais, enfermeiros e médicos."
+      },
+      {
+        "name": "São Frederico de Utrecht",
+        "type": "Bispo e Mártir",
+        "description": "Um bispo conhecido por seu trabalho missionário e esforços para reformar a Igreja em Utrecht. Foi martirizado por sua defesa inabalável da verdade cristã."
+      },
+      {
+        "name": "São Bruno de Segni",
+        "type": "Bispo e Abade",
+        "description": "Um bispo beneditino, cardeal e abade conhecido por seus escritos teológicos e sua forte defesa da doutrina da Igreja contra a heresia e abusos como a simonia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional Nelson Mandela",
+        "description": "Este dia comemora o aniversário de Nelson Mandela e sua vida de serviço à humanidade, incentivando pessoas em todo o mundo a agir e inspirar mudanças em suas comunidades."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Ser livre não é meramente livrar-se das próprias correntes, mas viver de uma forma que respeite e promova a liberdade dos outros.",
+      "author": "Nelson Mandela",
+      "context": "Nelson Mandela, um proeminente revolucionário anti-apartheid e ex-presidente da África do Sul, nasceu em 18 de julho de 1918. Seu aniversário é reconhecido globalmente como o Dia Internacional Nelson Mandela."
+    },
+    "motivationalQuote": {
+      "text": "A melhor maneira de prever o futuro é criá-lo.",
+      "author": "Peter Drucker"
+    },
+    "births": [
+      {
+        "name": "Nelson Mandela",
+        "description": "Um revolucionário anti-apartheid sul-africano, líder político e filantropo que serviu como o primeiro Presidente da África do Sul. Ele foi um defensor global da paz e da justiça.",
+        "year": "1918"
+      },
+      {
+        "name": "Robert Hooke",
+        "description": "Um polímata inglês conhecido por seu trabalho em microscopia (cunhando o termo 'célula'), física (Lei de Hooke) e astronomia, e membro fundador da Royal Society.",
+        "year": "1635"
+      },
+      {
+        "name": "William Makepeace Thackeray",
+        "description": "Um romancista e satirista britânico nascido na Índia, mais conhecido por seu romance 'A Feira das Vaidades', que retratou habilmente a sociedade vitoriana.",
+        "year": "1811"
+      }
+    ],
+    "events": [
+      {
+        "title": "Intel Corporation Fundada",
+        "description": "Os pioneiros dos semicondutores Robert Noyce e Gordon Moore incorporaram oficialmente a Intel, uma empresa que se tornaria líder global em tecnologia de computadores.",
+        "year": "1968"
+      },
+      {
+        "title": "Nadia Comăneci Conquista a Primeira Nota 10 Perfeita nas Olimpíadas",
+        "description": "A ginasta romena Nadia Comăneci fez história nos Jogos Olímpicos de Verão de Montreal de 1976 ao marcar a primeira nota 10 perfeita na ginástica olímpica.",
+        "year": "1976"
+      },
+      {
+        "title": "Missão Espacial Gemini 10 Lançada",
+        "description": "A NASA lançou com sucesso a Gemini 10, uma missão espacial tripulada que realizou manobras orbitais cruciais e operações de encontro.",
+        "year": "1966"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Camil de Lellis",
+        "type": "Sacerdot i Fundador",
+        "description": "Sacerdot italià que va fundar els camilians, un ordre religiós dedicat al servei dels malalts. És el patró dels malalts, els hospitals, les infermeres i els metges."
+      },
+      {
+        "name": "Sant Frederic d'Utrecht",
+        "type": "Bisbe i Màrtir",
+        "description": "Bisbe conegut per la seva tasca missionera i els seus esforços per reformar l'Església a Utrecht. Va ser martiritzat per la seva defensa incondicional de la veritat cristiana."
+      },
+      {
+        "name": "Sant Bru de Segni",
+        "type": "Bisbe i Abat",
+        "description": "Bisbe, cardenal i abat benedictí conegut pels seus escrits teològics i la seva ferma defensa de la doctrina de l'Església contra l'heretgia i els abusos com la simonia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de Nelson Mandela",
+        "description": "Aquest dia commemora l'aniversari de Nelson Mandela i la seva vida de servei a la humanitat, animant la gent de tot el món a prendre mesures i inspirar canvis a les seves comunitats."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Perquè ser lliure no és només treure's les pròpies cadenes, sinó viure d'una manera que respecti i millori la llibertat dels altres.",
+      "author": "Nelson Mandela",
+      "context": "Nelson Mandela, un destacat revolucionari anti-apartheid i ex-president de Sud-àfrica, va néixer el 18 de juliol de 1918. El seu aniversari és reconegut globalment com el Dia Internacional de Nelson Mandela."
+    },
+    "motivationalQuote": {
+      "text": "La millor manera de predir el futur és crear-lo.",
+      "author": "Peter Drucker"
+    },
+    "births": [
+      {
+        "name": "Nelson Mandela",
+        "description": "Revolucionari anti-apartheid, líder polític i filantrop sud-africà que va ser el primer president de Sud-àfrica. Va ser un defensor global de la pau i la justícia.",
+        "year": "1918"
+      },
+      {
+        "name": "Robert Hooke",
+        "description": "Polímata anglès conegut pel seu treball en microscòpia (encunyant el terme 'cèl·lula'), física (Llei de Hooke) i astronomia, i membre fundador de la Royal Society.",
+        "year": "1635"
+      },
+      {
+        "name": "William Makepeace Thackeray",
+        "description": "Novel·lista i satirista britànic nascut a l'Índia, més conegut per la seva novel·la 'La Fira de les Vanitats', que va retratar amb habilitat la societat victoriana.",
+        "year": "1811"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundació d'Intel Corporation",
+        "description": "Els pioners dels semiconductors Robert Noyce i Gordon Moore van incorporar oficialment Intel, una empresa que es convertiria en un líder global en tecnologia informàtica.",
+        "year": "1968"
+      },
+      {
+        "title": "Nadia Comăneci Aconsegueix el Primer 10 Perfecte als Jocs Olímpics",
+        "description": "La gimnasta romanesa Nadia Comăneci va fer història als Jocs Olímpics d'Estiu de Mont-real de 1976 en aconseguir la primera puntuació perfecta de 10 en gimnàstica olímpica.",
+        "year": "1976"
+      },
+      {
+        "title": "Llançament de la Missió Espacial Gemini 10",
+        "description": "La NASA va llançar amb èxit la Gemini 10, una missió espacial tripulada que va realitzar maniobres orbitals crucials i operacions de trobada.",
+        "year": "1966"
+      }
+    ]
+  }
+}
