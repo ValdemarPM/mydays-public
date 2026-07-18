@@ -1,0 +1,287 @@
+{
+  "date": "2026-07-19",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Macrina la Joven",
+        "type": "Monja / Venerable",
+        "description": "La hermana mayor de San Basilio el Grande y San Gregorio de Nisa, influyó profundamente en sus hermanos menores y convirtió la casa de su familia en un monasterio."
+      },
+      {
+        "name": "San Dius de Antioquía",
+        "type": "Abad, Taumaturgo",
+        "description": "Nacido en Antioquía, Siria, fue conocido por su temperancia, vigilia e incesante oración, lo que le valió el don de obrar milagros. Más tarde se convirtió en abad en Constantinopla."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Nacional del Helado",
+        "description": "Celebrado el tercer domingo de julio, este día celebra el amor de los estadounidenses por el helado, una festividad proclamada por el presidente Ronald Reagan en 1984."
+      },
+      {
+        "name": "Día Internacional del Retenedor",
+        "description": "Este día fue creado por profesionales de la ortodoncia para recordar a los pacientes la importancia de usar sus retenedores para prevenir el movimiento dental después de los aparatos de ortodoncia."
+      },
+      {
+        "name": "Día de la Liberación / Día de la Revolución Sandinista (Nicaragua)",
+        "description": "Esta festividad nacional nicaragüense conmemora el 19 de julio de 1979, cuando el Frente Sandinista de Liberación Nacional derrocó la dictadura de Somoza."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El momento en que comenzamos a temer las opiniones de los demás y dudamos en decir la verdad que hay en nosotros, y por motivos de política callamos cuando deberíamos hablar, los divinos torrentes de luz y vida ya no fluyen en nuestras almas.",
+      "author": "Elizabeth Cady Stanton",
+      "context": "Elizabeth Cady Stanton, una figura destacada en el movimiento por los derechos de la mujer, pronunció un discurso clave en la Convención de Seneca Falls, que se inauguró el 19 de julio de 1848."
+    },
+    "motivationalQuote": {
+      "text": "La oscuridad no puede expulsar a la oscuridad; solo la luz puede hacerlo. El odio no puede expulsar al odio; solo el amor puede hacerlo.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Edgar Degas",
+        "description": "Pintor y escultor impresionista francés reconocido por sus representaciones de bailarinas de ballet y bañistas.",
+        "year": "1834"
+      },
+      {
+        "name": "Samuel Colt",
+        "description": "Inventor e industrial estadounidense que fundó la Colt's Manufacturing Company, conocido por perfeccionar el revólver.",
+        "year": "1814"
+      },
+      {
+        "name": "Rosalyn Yalow",
+        "description": "Física médica y premio Nobel estadounidense, reconocida por su codesarrollo de la técnica de radioinmunoanálisis (RIA).",
+        "year": "1921"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera Convención por los Derechos de la Mujer",
+        "description": "La convención inaugural por los Derechos de la Mujer se celebró en Seneca Falls, Nueva York, marcando el inicio del movimiento organizado por el sufragio femenino en Estados Unidos.",
+        "year": "1848"
+      },
+      {
+        "title": "El Apolo 11 entra en órbita lunar",
+        "description": "La nave espacial Apolo 11, llevando a los astronautas Neil Armstrong, Buzz Aldrin y Michael Collins, entró exitosamente en la órbita de la Luna, allanando el camino para el primer aterrizaje humano en la Luna.",
+        "year": "1969"
+      },
+      {
+        "title": "Descubrimiento de la Piedra Rosetta",
+        "description": "La Piedra Rosetta, una tablilla inscrita con tres versiones de un decreto, fue encontrada en Egipto, proporcionando la clave para descifrar los jeroglíficos egipcios antiguos.",
+        "year": "1799"
+      }
+    ]
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Macrina the Younger",
+        "type": "Nun / Venerable",
+        "description": "The eldest sister of Saints Basil the Great and Gregory of Nyssa, she profoundly influenced her younger brothers and converted her family home into a monastery."
+      },
+      {
+        "name": "St. Dius of Antioch",
+        "type": "Abbot, Wonderworker",
+        "description": "Born in Antioch, Syria, he was known for his temperance, vigil, and incessant prayer, which earned him the gift of wonderworking. He later became an abbot in Constantinople."
+      }
+    ],
+    "observances": [
+      {
+        "name": "National Ice Cream Day",
+        "description": "Observed on the third Sunday in July, this day celebrates Americans' love for ice cream, a holiday proclaimed by President Ronald Reagan in 1984."
+      },
+      {
+        "name": "International Retainer Day",
+        "description": "This day was created by orthodontic professionals to remind patients about the importance of wearing their retainers to prevent tooth movement after braces."
+      },
+      {
+        "name": "Liberation Day / FSLN Revolution Day (Nicaragua)",
+        "description": "This Nicaraguan national holiday commemorates July 19, 1979, when the Sandinista National Liberation Front overthrew the Somoza dictatorship."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The moment we begin to fear the opinions of others and hesitate to tell the truth that is in us, and from motives of policy are silent when we should speak, the divine floods of light and life no longer flow into our souls.",
+      "author": "Elizabeth Cady Stanton",
+      "context": "Elizabeth Cady Stanton, a leading figure in the women's rights movement, delivered a key address at the Seneca Falls Convention, which opened on July 19, 1848."
+    },
+    "motivationalQuote": {
+      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Edgar Degas",
+        "description": "A French Impressionist painter and sculptor renowned for his depictions of ballet dancers and bathers.",
+        "year": "1834"
+      },
+      {
+        "name": "Samuel Colt",
+        "description": "An American inventor and industrialist who founded the Colt's Manufacturing Company, known for perfecting the revolver.",
+        "year": "1814"
+      },
+      {
+        "name": "Rosalyn Yalow",
+        "description": "An American medical physicist and Nobel laureate, recognized for her co-development of the radioimmunoassay (RIA) technique.",
+        "year": "1921"
+      }
+    ],
+    "events": [
+      {
+        "title": "First Women's Rights Convention",
+        "description": "The inaugural Women's Rights Convention was held in Seneca Falls, New York, marking the beginning of the organized women's suffrage movement in the United States.",
+        "year": "1848"
+      },
+      {
+        "title": "Apollo 11 Enters Lunar Orbit",
+        "description": "The Apollo 11 spacecraft, carrying astronauts Neil Armstrong, Buzz Aldrin, and Michael Collins, successfully entered the Moon's orbit, paving the way for the first human lunar landing.",
+        "year": "1969"
+      },
+      {
+        "title": "Discovery of the Rosetta Stone",
+        "description": "The Rosetta Stone, a tablet inscribed with three versions of a decree, was found in Egypt, providing the key to deciphering ancient Egyptian hieroglyphs.",
+        "year": "1799"
+      }
+    ]
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Macrina, a Jovem",
+        "type": "Freira / Venerável",
+        "description": "A irmã mais velha de São Basílio, o Grande, e São Gregório de Nissa, influenciou profundamente seus irmãos mais novos e converteu a casa de sua família em um mosteiro."
+      },
+      {
+        "name": "São Dius de Antioquia",
+        "type": "Abade, Taumaturgo",
+        "description": "Nascido em Antioquia, na Síria, era conhecido por sua temperança, vigília e oração incessante, o que lhe rendeu o dom de operar milagres. Mais tarde, tornou-se abade em Constantinopla."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional do Sorvete",
+        "description": "Observado no terceiro domingo de julho, este dia celebra o amor dos americanos pelo sorvete, um feriado proclamado pelo Presidente Ronald Reagan em 1984."
+      },
+      {
+        "name": "Dia Internacional do Retentor Ortodôntico",
+        "description": "Este dia foi criado por profissionais de ortodontia para lembrar os pacientes sobre a importância de usar seus retentores para prevenir o movimento dos dentes após o uso de aparelhos."
+      },
+      {
+        "name": "Dia da Libertação / Dia da Revolução FSLN (Nicarágua)",
+        "description": "Este feriado nacional nicaraguense comemora 19 de julho de 1979, quando a Frente Sandinista de Libertação Nacional derrubou a ditadura de Somoza."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No momento em que começamos a temer as opiniões dos outros e hesitamos em dizer a verdade que está em nós, e por motivos de política nos calamos quando deveríamos falar, as divinas enchentes de luz e vida não fluem mais para nossas almas.",
+      "author": "Elizabeth Cady Stanton",
+      "context": "Elizabeth Cady Stanton, uma figura proeminente no movimento pelos direitos das mulheres, proferiu um discurso fundamental na Convenção de Seneca Falls, que foi inaugurada em 19 de julho de 1848."
+    },
+    "motivationalQuote": {
+      "text": "A escuridão não pode expulsar a escuridão; apenas a luz pode fazer isso. O ódio não pode expulsar o ódio; apenas o amor pode fazer isso.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Edgar Degas",
+        "description": "Pintor e escultor impressionista francês renomado por suas representações de bailarinas e banhistas.",
+        "year": "1834"
+      },
+      {
+        "name": "Samuel Colt",
+        "description": "Inventor e industrial americano que fundou a Colt's Manufacturing Company, conhecido por aperfeiçoar o revólver.",
+        "year": "1814"
+      },
+      {
+        "name": "Rosalyn Yalow",
+        "description": "Física médica e laureada com o Prêmio Nobel americana, reconhecida por seu codesenvolvimento da técnica de radioimunoensaio (RIA).",
+        "year": "1921"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeira Convenção pelos Direitos da Mulher",
+        "description": "A convenção inaugural pelos Direitos da Mulher foi realizada em Seneca Falls, Nova York, marcando o início do movimento organizado pelo sufrágio feminino nos Estados Unidos.",
+        "year": "1848"
+      },
+      {
+        "title": "Apollo 11 Entra em Órbita Lunar",
+        "description": "A espaçonave Apollo 11, transportando os astronautas Neil Armstrong, Buzz Aldrin e Michael Collins, entrou com sucesso na órbita da Lua, abrindo caminho para o primeiro pouso lunar tripulado.",
+        "year": "1969"
+      },
+      {
+        "title": "Descoberta da Pedra de Roseta",
+        "description": "A Pedra de Roseta, uma tábua inscrita com três versões de um decreto, foi encontrada no Egito, fornecendo a chave para decifrar os hieróglifos egípcios antigos.",
+        "year": "1799"
+      }
+    ]
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Macrina la Jove",
+        "type": "Monja / Venerable",
+        "description": "La germana gran de Sant Basili el Gran i Sant Gregori de Nissa, va influir profundament en els seus germans menors i va convertir la casa familiar en un monestir."
+      },
+      {
+        "name": "Sant Dius d'Antioquia",
+        "type": "Abat, Taumaturg",
+        "description": "Nascut a Antioquia, Síria, era conegut per la seva temperança, vigília i pregària incessant, cosa que li va valer el do de fer miracles. Més tard es va convertir en abat a Constantinoble."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional del Gelat",
+        "description": "Celebrat el tercer diumenge de juliol, aquest dia celebra l'amor dels nord-americans pel gelat, una festa proclamada pel president Ronald Reagan el 1984."
+      },
+      {
+        "name": "Dia Internacional del Retenedor",
+        "description": "Aquest dia va ser creat per professionals de l'ortodòncia per recordar als pacients la importància de portar els seus retenidors per prevenir el moviment de les dents després de l'ortodòncia."
+      },
+      {
+        "name": "Dia de l'Alliberament / Dia de la Revolució del FSLN (Nicaragua)",
+        "description": "Aquesta festa nacional nicaragüenca commemora el 19 de juliol de 1979, quan el Front Sandinista d'Alliberament Nacional va enderrocar la dictadura de Somoza."
+      }
+    ],
+    "historicalQuote": {
+      "text": "En el moment que comencem a témer les opinions dels altres i dubtem a dir la veritat que hi ha en nosaltres, i per motius de política callem quan hauríem de parlar, els divins torrents de llum i vida ja no flueixen a les nostres ànimes.",
+      "author": "Elizabeth Cady Stanton",
+      "context": "Elizabeth Cady Stanton, una figura destacada en el moviment pels drets de les dones, va pronunciar un discurs clau a la Convenció de Seneca Falls, que es va obrir el 19 de juliol de 1848."
+    },
+    "motivationalQuote": {
+      "text": "La foscor no pot expulsar la foscor; només la llum pot fer-ho. L'odi no pot expulsar l'odi; només l'amor pot fer-ho.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Edgar Degas",
+        "description": "Un pintor i escultor impressionista francès reconegut per les seves representacions de ballarines de ballet i banyistes.",
+        "year": "1834"
+      },
+      {
+        "name": "Samuel Colt",
+        "description": "Un inventor i industrial nord-americà que va fundar la Colt's Manufacturing Company, conegut per perfeccionar el revòlver.",
+        "year": "1814"
+      },
+      {
+        "name": "Rosalyn Yalow",
+        "description": "Una física mèdica nord-americana i premi Nobel, reconeguda per la seva codesenvolupament de la tècnica de radioimmunoassaig (RIA).",
+        "year": "1921"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera Convenció pels Drets de les Dones",
+        "description": "La Convenció inaugural pels Drets de les Dones es va celebrar a Seneca Falls, Nova York, marcant l'inici del moviment organitzat pel sufragi femení als Estats Units.",
+        "year": "1848"
+      },
+      {
+        "title": "L'Apollo 11 Entra en Òrbita Lunar",
+        "description": "La nau espacial Apollo 11, amb els astronautes Neil Armstrong, Buzz Aldrin i Michael Collins, va entrar amb èxit en l'òrbita de la Lluna, obrint el camí per al primer allunatge humà.",
+        "year": "1969"
+      },
+      {
+        "title": "Descobriment de la Pedra Rosetta",
+        "description": "La Pedra Rosetta, una tauleta inscrita amb tres versions d'un decret, va ser trobada a Egipte, proporcionant la clau per desxifrar els jeroglífics egipcis antics.",
+        "year": "1799"
+      }
+    ]
+  }
+}
