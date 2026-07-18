@@ -1,5 +1,5 @@
 // Runs in GitHub Actions. Writes content/YYYY-MM-DD.json for tomorrow's date.
-// Pipeline: (1) search+verify in EN with grounding → (2) translate to ES/EN/PT/CA → (3) verify proper names with grounding
+// Pipeline: (1) search+verify in EN with grounding → (2) translate to ES/EN/PT/CA → (3) verify proper names with grounding → (4) compute notification highlight
 // Requires: GEMINI_API_KEY environment variable.
 
 const fs = require('fs');
@@ -8,7 +8,7 @@ const path = require('path');
 const API_KEY = process.env.GEMINI_API_KEY;
 const MODEL = 'gemini-2.5-flash';
 
-if (!API_KEY) {
+if (require.main === module && !API_KEY) {
   console.error('ERROR: GEMINI_API_KEY environment variable is not set.');
   process.exit(1);
 }
@@ -246,6 +246,70 @@ function repairTranslatedYears(translated, baseContent, langs) {
   return translated;
 }
 
+// Picks the single most "shareable" fact of the day for push notifications, in cascade
+// priority order: international/cultural observance > notable birth > historical event >
+// saint. Each language's array is already ordered by relevance by the earlier pipeline
+// steps, so taking index 0 of the first non-empty array is sufficient — no scoring model
+// needed. Templates are per-language since they're just fixed phrasing around existing data,
+// not new content requiring a Gemini call.
+const HIGHLIGHT_TEMPLATES = {
+  en: {
+    observance: (o) => `Today is ${o.name}`,
+    birth: (b) => `In ${b.year}, ${b.name} was born on this day`,
+    event: (e) => `In ${e.year}: ${e.title}`,
+    saint: (s) => `Today the Church celebrates ${s.name}`,
+  },
+  es: {
+    observance: (o) => `Hoy es ${o.name}`,
+    birth: (b) => `En ${b.year} nació ${b.name}`,
+    event: (e) => `En ${e.year}: ${e.title}`,
+    saint: (s) => `Hoy se celebra a ${s.name}`,
+  },
+  pt: {
+    observance: (o) => `Hoje é ${o.name}`,
+    birth: (b) => `Em ${b.year} nasceu ${b.name}`,
+    event: (e) => `Em ${e.year}: ${e.title}`,
+    saint: (s) => `Hoje celebra-se ${s.name}`,
+  },
+  ca: {
+    observance: (o) => `Avui és ${o.name}`,
+    birth: (b) => `L'any ${b.year} va néixer ${b.name}`,
+    event: (e) => `L'any ${e.year}: ${e.title}`,
+    saint: (s) => `Avui se celebra ${s.name}`,
+  },
+};
+
+function computeNotificationHighlight(langContent, lang) {
+  const templates = HIGHLIGHT_TEMPLATES[lang] ?? HIGHLIGHT_TEMPLATES.en;
+
+  if (langContent.observances?.[0]) {
+    const o = langContent.observances[0];
+    return { type: 'observance', title: templates.observance(o), teaser: o.description ?? '' };
+  }
+  if (langContent.births?.[0]) {
+    const b = langContent.births[0];
+    return { type: 'birth', title: templates.birth(b), teaser: b.description ?? '' };
+  }
+  if (langContent.events?.[0]) {
+    const e = langContent.events[0];
+    return { type: 'event', title: templates.event(e), teaser: e.description ?? '' };
+  }
+  if (langContent.saints?.[0]) {
+    const s = langContent.saints[0];
+    return { type: 'saint', title: templates.saint(s), teaser: s.description ?? '' };
+  }
+  return null;
+}
+
+function addNotificationHighlights(verified, langs) {
+  const result = JSON.parse(JSON.stringify(verified));
+  for (const lang of langs) {
+    const highlight = computeNotificationHighlight(result[lang], lang);
+    if (highlight) result[lang].notificationHighlight = highlight;
+  }
+  return result;
+}
+
 function applyNameCorrections(translated, corrections) {
   const langs = ['es', 'en', 'pt', 'ca'];
   const result = JSON.parse(JSON.stringify(translated)); // deep clone
@@ -293,13 +357,13 @@ async function main() {
   const isoDate = target.toISOString().split('T')[0];
 
   // Step 1: search and verify content in English with grounding
-  console.log(`[1/3] Searching and verifying content for ${dateString} (${isoDate})...`);
+  console.log(`[1/4] Searching and verifying content for ${dateString} (${isoDate})...`);
   let baseContent = await callGemini(buildSearchPrompt(dateString), { grounding: true, label: 'search' });
   console.log(`      Saints: ${baseContent.saints?.length ?? 0}, Births: ${baseContent.births?.length ?? 0}, Events: ${baseContent.events?.length ?? 0}`);
   baseContent = await backfillMissingYears(baseContent, dateString);
 
   // Step 2: translate in two batches to avoid output token limits
-  console.log(`[2/3] Translating to ES, EN, PT, CA (two batches)...`);
+  console.log(`[2/4] Translating to ES, EN, PT, CA (two batches)...`);
   const [batch1, batch2] = await Promise.all([
     callGemini(buildTranslationPrompt(baseContent, ['es', 'pt']), { grounding: false, label: 'translation-es-pt' }),
     callGemini(buildTranslationPrompt(baseContent, ['en', 'ca']), { grounding: false, label: 'translation-en-ca' }),
@@ -311,11 +375,15 @@ async function main() {
   );
 
   // Step 3: verify and correct proper names with grounding
-  console.log(`[3/3] Verifying proper names across languages...`);
+  console.log(`[3/4] Verifying proper names across languages...`);
   const corrections = await callGemini(buildVerificationPrompt(dateString, translated, baseContent), { grounding: true, label: 'verification' });
   const verified = applyNameCorrections(translated, corrections);
 
-  const output = { date: isoDate, ...verified };
+  // Step 4: derive the push-notification highlight per language (deterministic, no Gemini call)
+  console.log(`[4/4] Computing notification highlights...`);
+  const withHighlights = addNotificationHighlights(verified, ['es', 'en', 'pt', 'ca']);
+
+  const output = { date: isoDate, ...withHighlights };
 
   const outputPath = path.join(__dirname, '..', 'content', `${isoDate}.json`);
   fs.mkdirSync(path.dirname(outputPath), { recursive: true });
@@ -324,7 +392,11 @@ async function main() {
   console.log(`Successfully wrote content/${isoDate}.json`);
 }
 
-main().catch((err) => {
-  console.error('Content generation failed:', err.message);
-  process.exit(1);
-});
+if (require.main === module) {
+  main().catch((err) => {
+    console.error('Content generation failed:', err.message);
+    process.exit(1);
+  });
+}
+
+module.exports = { computeNotificationHighlight, addNotificationHighlights };
