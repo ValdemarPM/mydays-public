@@ -44,15 +44,18 @@
     "births": [
       {
         "name": "Enrique VIII de Inglaterra",
-        "description": "Fue rey de Inglaterra desde 1509 hasta su muerte en 1547, conocido por sus seis matrimonios y por su papel en la Reforma Inglesa."
+        "description": "Fue rey de Inglaterra desde 1509 hasta su muerte en 1547, conocido por sus seis matrimonios y por su papel en la Reforma Inglesa.",
+        "year": "1491"
       },
       {
         "name": "Pedro Pablo Rubens",
-        "description": "Un artista flamenco muy influyente, Rubens fue un defensor del estilo barroco, reconocido por sus opulentas y dinámicas composiciones religiosas y mitológicas."
+        "description": "Un artista flamenco muy influyente, Rubens fue un defensor del estilo barroco, reconocido por sus opulentas y dinámicas composiciones religiosas y mitológicas.",
+        "year": "1577"
       },
       {
         "name": "Mel Brooks",
-        "description": "Un director de cine, actor, comediante y productor estadounidense, Brooks es celebrado por sus parodias y obras satíricas en cine, televisión y teatro."
+        "description": "Un director de cine, actor, comediante y productor estadounidense, Brooks es celebrado por sus parodias y obras satíricas en cine, televisión y teatro.",
+        "year": "1926"
       }
     ],
     "events": [
@@ -117,15 +120,18 @@
     "births": [
       {
         "name": "Henry VIII of England",
-        "description": "He was King of England from 1509 until his death in 1547, known for his six marriages and for his role in the English Reformation."
+        "description": "He was King of England from 1509 until his death in 1547, known for his six marriages and for his role in the English Reformation.",
+        "year": "1491"
       },
       {
         "name": "Peter Paul Rubens",
-        "description": "A highly influential Flemish artist, Rubens was a proponent of the Baroque style, renowned for his opulent and dynamic religious and mythological compositions."
+        "description": "A highly influential Flemish artist, Rubens was a proponent of the Baroque style, renowned for his opulent and dynamic religious and mythological compositions.",
+        "year": "1577"
       },
       {
         "name": "Mel Brooks",
-        "description": "An American film director, actor, comedian, and producer, Brooks is celebrated for his parodies and satirical works across film, television, and theater."
+        "description": "An American film director, actor, comedian, and producer, Brooks is celebrated for his parodies and satirical works across film, television, and theater.",
+        "year": "1926"
       }
     ],
     "events": [
@@ -190,15 +196,18 @@
     "births": [
       {
         "name": "Henrique VIII de Inglaterra",
-        "description": "Foi Rei de Inglaterra de 1509 até à sua morte em 1547, conhecido pelos seus seis casamentos e pelo seu papel na Reforma Inglesa."
+        "description": "Foi Rei de Inglaterra de 1509 até à sua morte em 1547, conhecido pelos seus seis casamentos e pelo seu papel na Reforma Inglesa.",
+        "year": "1491"
       },
       {
         "name": "Peter Paul Rubens",
-        "description": "Um artista flamengo altamente influente, Rubens foi um proponente do estilo barroco, reconhecido pelas suas composições religiosas e mitológicas opulentas e dinâmicas."
+        "description": "Um artista flamengo altamente influente, Rubens foi um proponente do estilo barroco, reconhecido pelas suas composições religiosas e mitológicas opulentas e dinâmicas.",
+        "year": "1577"
       },
       {
         "name": "Mel Brooks",
-        "description": "Um diretor de cinema, ator, comediante e produtor americano, Brooks é celebrado pelas suas paródias e obras satíricas no cinema, televisão e teatro."
+        "description": "Um diretor de cinema, ator, comediante e produtor americano, Brooks é celebrado pelas suas paródias e obras satíricas no cinema, televisão e teatro.",
+        "year": "1926"
       }
     ],
     "events": [
@@ -263,15 +272,18 @@
     "births": [
       {
         "name": "Enric VIII d'Anglaterra",
-        "description": "Fou Rei d'Anglaterra des del 1509 fins a la seva mort el 1547, conegut pels seus sis matrimonis i pel seu paper en la Reforma Anglesa."
+        "description": "Fou Rei d'Anglaterra des del 1509 fins a la seva mort el 1547, conegut pels seus sis matrimonis i pel seu paper en la Reforma Anglesa.",
+        "year": "1491"
       },
       {
         "name": "Peter Paul Rubens",
-        "description": "Un artista flamenc molt influent, Rubens va ser un defensor de l'estil barroc, reconegut per les seves composicions religioses i mitològiques opulentes i dinàmiques."
+        "description": "Un artista flamenc molt influent, Rubens va ser un defensor de l'estil barroc, reconegut per les seves composicions religioses i mitològiques opulentes i dinàmiques.",
+        "year": "1577"
       },
       {
         "name": "Mel Brooks",
-        "description": "Un director de cinema, actor, comediant i productor nord-americà, Brooks és celebrat per les seves paròdies i obres satíriques en cinema, televisió i teatre."
+        "description": "Un director de cinema, actor, comediant i productor nord-americà, Brooks és celebrat per les seves paròdies i obres satíriques en cinema, televisió i teatre.",
+        "year": "1926"
       }
     ],
     "events": [

@@ -44,25 +44,30 @@
       },
       {
         "name": "Diana, Princesa de Gales",
-        "description": "Una figura real británica icónica, humanitaria y madre de los Príncipes Guillermo y Harry, recordada cariñosamente como la 'Reina de Corazones'."
+        "description": "Una figura real británica icónica, humanitaria y madre de los Príncipes Guillermo y Harry, recordada cariñosamente como la 'Reina de Corazones'.",
+        "year": "1961"
       },
       {
         "name": "Ignaz Semmelweis",
-        "description": "Un médico húngaro y uno de los primeros pioneros de los procedimientos antisépticos, descubrió que la desinfección de manos podía reducir drásticamente la incidencia de la fiebre puerperal, salvando muchas vidas de madres."
+        "description": "Un médico húngaro y uno de los primeros pioneros de los procedimientos antisépticos, descubrió que la desinfección de manos podía reducir drásticamente la incidencia de la fiebre puerperal, salvando muchas vidas de madres.",
+        "year": "1818"
       }
     ],
     "events": [
       {
         "title": "Presentación de los trabajos de Darwin y Wallace sobre la evolución",
-        "description": "En un hito científico fundamental, los trabajos de Charles Darwin y Alfred Russel Wallace sobre la evolución por selección natural fueron leídos conjuntamente ante la Sociedad Linneana de Londres."
+        "description": "En un hito científico fundamental, los trabajos de Charles Darwin y Alfred Russel Wallace sobre la evolución por selección natural fueron leídos conjuntamente ante la Sociedad Linneana de Londres.",
+        "year": "1858"
       },
       {
         "title": "Canadá se convierte en Dominio",
-        "description": "La Ley de la Norteamérica Británica entró en vigor, uniendo la Provincia de Canadá, Nuevo Brunswick y Nueva Escocia en el Dominio de Canadá, un paso significativo en la construcción de la nación."
+        "description": "La Ley de la Norteamérica Británica entró en vigor, uniendo la Provincia de Canadá, Nuevo Brunswick y Nueva Escocia en el Dominio de Canadá, un paso significativo en la construcción de la nación.",
+        "year": "1867"
       },
       {
         "title": "Firma del Tratado de No Proliferación Nuclear",
-        "description": "El Tratado sobre la No Proliferación de las Armas Nucleares fue abierto para su firma en Washington, Londres y Moscú, un paso crucial hacia la paz y el desarme global."
+        "description": "El Tratado sobre la No Proliferación de las Armas Nucleares fue abierto para su firma en Washington, Londres y Moscú, un paso crucial hacia la paz y el desarme global.",
+        "year": "1968"
       }
     ]
   },
@@ -181,25 +186,30 @@
       },
       {
         "name": "Diana, Princesa de Gales",
-        "description": "Uma figura real britânica icônica, humanitária e mãe dos Príncipes William e Harry, carinhosamente lembrada como a 'Rainha de Copas'."
+        "description": "Uma figura real britânica icônica, humanitária e mãe dos Príncipes William e Harry, carinhosamente lembrada como a 'Rainha de Copas'.",
+        "year": "1961"
       },
       {
         "name": "Ignaz Semmelweis",
-        "description": "Um médico húngaro e um dos primeiros pioneiros dos procedimentos antissépticos, ele descobriu que a desinfecção das mãos poderia reduzir drasticamente a incidência de febre puerperal, salvando a vida de muitas mães."
+        "description": "Um médico húngaro e um dos primeiros pioneiros dos procedimentos antissépticos, ele descobriu que a desinfecção das mãos poderia reduzir drasticamente a incidência de febre puerperal, salvando a vida de muitas mães.",
+        "year": "1818"
       }
     ],
     "events": [
       {
         "title": "Apresentação dos Trabalhos de Darwin e Wallace sobre a Evolução",
-        "description": "Em um marco científico fundamental, os trabalhos de Charles Darwin e Alfred Russel Wallace sobre a evolução por seleção natural foram lidos em conjunto na Linnean Society of London."
+        "description": "Em um marco científico fundamental, os trabalhos de Charles Darwin e Alfred Russel Wallace sobre a evolução por seleção natural foram lidos em conjunto na Linnean Society of London.",
+        "year": "1858"
       },
       {
         "title": "Canadá Torna-se um Domínio",
-        "description": "A Lei da América do Norte Britânica entrou em vigor, unindo a Província do Canadá, Nova Brunswick e Nova Escócia no Domínio do Canadá, um passo significativo na construção da nação."
+        "description": "A Lei da América do Norte Britânica entrou em vigor, unindo a Província do Canadá, Nova Brunswick e Nova Escócia no Domínio do Canadá, um passo significativo na construção da nação.",
+        "year": "1867"
       },
       {
         "title": "Tratado de Não Proliferação Nuclear Assinado",
-        "description": "O Tratado sobre a Não Proliferação de Armas Nucleares foi aberto para assinatura em Washington, Londres e Moscou, um passo crucial para a paz e o desarmamento global."
+        "description": "O Tratado sobre a Não Proliferação de Armas Nucleares foi aberto para assinatura em Washington, Londres e Moscou, um passo crucial para a paz e o desarmamento global.",
+        "year": "1968"
       }
     ]
   },

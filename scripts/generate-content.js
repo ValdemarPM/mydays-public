@@ -24,6 +24,8 @@ Search Google to source and verify:
 5. Real and notable positive or inspiring historical events (scientific milestones, exploration successes, monumental inaugurations, treaties, or peace progress achievements) that occurred on ${dateString} in history. Include 2 or 3 positive events.
 6. An inspiring or thought-provoking motivational quote from any well-known author, philosopher, or public figure (need not be connected to ${dateString}). It must be a DIFFERENT person from the historicalQuote author.
 
+MANDATORY: every single object in "births" MUST include a "year" field with the 4-digit birth year as a string, and every object in "events" MUST include a "year" field with the 4-digit year as a string. Never omit "year" — if you are not fully certain of the exact year, provide your best-verified estimate rather than leaving the field out.
+
 Output ONLY a JSON object matching this schema exactly (no markdown fences):
 {
   "saints": [
@@ -61,8 +63,9 @@ Rules:
 - Translate ALL text fields: name, type, description, title, text, context.
 - Proper nouns for people (saints, authors, historical figures, famous personalities) must use the conventional name in each language if one exists (e.g. "Joan d'Arc" in Catalan, "Juana de Arco" in Spanish). If no conventional translation exists, keep the original name unchanged.
 - Observance names: use the official translated name if one exists; otherwise keep the original.
-- Do NOT add or remove array items — the structure must be identical across all languages.
+- Do NOT add or remove array items — the structure must be identical across all languages, in the same order, referring to the exact same people/events as the source.
 - Translate ALL fields including historicalQuote.context and motivationalQuote.text.
+- The "year" field on each births[] and events[] item is NOT text to translate — copy it byte-for-byte from the source item at the same array index. Every births[] and events[] object MUST have a "year" field; never omit it.
 
 Source JSON:
 ${JSON.stringify(baseJson, null, 2)}
@@ -179,6 +182,70 @@ async function callGemini(prompt, { grounding = false, label = '', retries = 2 }
   }
 }
 
+// Gemini occasionally omits the "year" field on births[]/events[] items despite prompt
+// instructions. This backfills any missing year in the base (English) content by asking
+// a single targeted, grounded follow-up question — cheaper and more reliable than retrying
+// the whole search step.
+async function backfillMissingYears(baseContent, dateString) {
+  const missingBirths = (baseContent.births ?? [])
+    .map((b, i) => ({ i, name: b.name }))
+    .filter(({ i }) => !baseContent.births[i].year);
+  const missingEvents = (baseContent.events ?? [])
+    .map((e, i) => ({ i, title: e.title }))
+    .filter(({ i }) => !baseContent.events[i].year);
+
+  if (missingBirths.length === 0 && missingEvents.length === 0) {
+    return baseContent;
+  }
+
+  console.log(`      Backfilling missing year(s): births=[${missingBirths.map(m => m.name).join(', ')}] events=[${missingEvents.map(m => m.title).join(', ')}]`);
+
+  const prompt = `Using Google Search, find the exact 4-digit year for each of the following items related to ${dateString}:
+${missingBirths.map(m => `- Birth year of: ${m.name}`).join('\n')}
+${missingEvents.map(m => `- Year the following historical event occurred: ${m.title}`).join('\n')}
+
+Output ONLY a JSON object (no markdown fences) mapping each name/title to its year as a string:
+{
+  "births": { ${missingBirths.map(m => `"${m.name}": "YYYY"`).join(', ')} },
+  "events": { ${missingEvents.map(m => `"${m.title}": "YYYY"`).join(', ')} }
+}`;
+
+  const result = await callGemini(prompt, { grounding: true, label: 'year-backfill' });
+  const fixed = JSON.parse(JSON.stringify(baseContent));
+
+  for (const { i, name } of missingBirths) {
+    if (result.births?.[name]) fixed.births[i].year = result.births[name];
+  }
+  for (const { i, title } of missingEvents) {
+    if (result.events?.[title]) fixed.events[i].year = result.events[title];
+  }
+
+  return fixed;
+}
+
+// Deterministic safety net: the translation step must preserve the same array length and
+// the same "year" values as the source (year is not a translatable field). If the model
+// drops or alters it anyway, repair it here by index rather than trusting the model's output.
+function repairTranslatedYears(translated, baseContent, langs) {
+  for (const lang of langs) {
+    for (const key of ['births', 'events']) {
+      const source = baseContent[key] ?? [];
+      const items = translated[lang]?.[key];
+      if (!Array.isArray(items)) continue;
+
+      if (items.length !== source.length) {
+        console.warn(`      WARNING: ${lang}.${key} has ${items.length} items, expected ${source.length} (source). Truncating/leaving as-is; consider re-running.`);
+      }
+      items.forEach((item, i) => {
+        if (!item.year && source[i]?.year) {
+          item.year = source[i].year;
+        }
+      });
+    }
+  }
+  return translated;
+}
+
 function applyNameCorrections(translated, corrections) {
   const langs = ['es', 'en', 'pt', 'ca'];
   const result = JSON.parse(JSON.stringify(translated)); // deep clone
@@ -227,8 +294,9 @@ async function main() {
 
   // Step 1: search and verify content in English with grounding
   console.log(`[1/3] Searching and verifying content for ${dateString} (${isoDate})...`);
-  const baseContent = await callGemini(buildSearchPrompt(dateString), { grounding: true, label: 'search' });
+  let baseContent = await callGemini(buildSearchPrompt(dateString), { grounding: true, label: 'search' });
   console.log(`      Saints: ${baseContent.saints?.length ?? 0}, Births: ${baseContent.births?.length ?? 0}, Events: ${baseContent.events?.length ?? 0}`);
+  baseContent = await backfillMissingYears(baseContent, dateString);
 
   // Step 2: translate in two batches to avoid output token limits
   console.log(`[2/3] Translating to ES, EN, PT, CA (two batches)...`);
@@ -236,7 +304,11 @@ async function main() {
     callGemini(buildTranslationPrompt(baseContent, ['es', 'pt']), { grounding: false, label: 'translation-es-pt' }),
     callGemini(buildTranslationPrompt(baseContent, ['en', 'ca']), { grounding: false, label: 'translation-en-ca' }),
   ]);
-  const translated = { es: batch1.es, en: batch2.en, pt: batch1.pt, ca: batch2.ca };
+  const translated = repairTranslatedYears(
+    { es: batch1.es, en: batch2.en, pt: batch1.pt, ca: batch2.ca },
+    baseContent,
+    ['es', 'en', 'pt', 'ca']
+  );
 
   // Step 3: verify and correct proper names with grounding
   console.log(`[3/3] Verifying proper names across languages...`);
