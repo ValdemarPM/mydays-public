@@ -1,0 +1,311 @@
+{
+  "date": "2026-07-20",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Margarita de Antioquía",
+        "type": "Virgen y Mártir",
+        "description": "Según la leyenda, Santa Margarita fue una virgen y mártir de Antioquía de Pisidia que se convirtió al cristianismo y fue repudiada por su padre, un sacerdote pagano, sufriendo más tarde el martirio."
+      },
+      {
+        "name": "Santo Profeta Elías el Tisbita",
+        "type": "Profeta",
+        "description": "Elías es uno de los profetas más grandes del Antiguo Testamento, muy venerado en la tradición ortodoxa y conocido por su ardiente ascenso al cielo."
+      },
+      {
+        "name": "San Jerónimo Emiliani",
+        "type": "Confesor, Fundador",
+        "description": "Un noble veneciano que, tras un período en la vida militar, se dedicó a la piedad y fundó los Padres Somascos para cuidar de huérfanos y pobres."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Luna",
+        "description": "Este día conmemora el aniversario del primer aterrizaje humano en la Luna como parte de la misión Apolo 11 el 20 de julio de 1969, y celebra los logros en la exploración lunar."
+      },
+      {
+        "name": "Día Internacional del Ajedrez",
+        "description": "Celebrado a nivel mundial, este día conmemora la fundación de la Federación Internacional de Ajedrez (FIDE) en París en 1924."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Es un pequeño paso para [un] hombre, un gran salto para la humanidad.",
+      "author": "Neil Armstrong",
+      "context": "El 20 de julio de 1969, Neil Armstrong se convirtió en el primer ser humano en pisar la superficie lunar durante la misión Apolo 11, pronunciando estas icónicas palabras."
+    },
+    "motivationalQuote": {
+      "text": "La única forma de hacer un gran trabajo es amar lo que haces.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Sir Edmund Hillary",
+        "description": "Un montañista y explorador neozelandés que, junto con Tenzing Norgay, fue uno de los dos primeros escaladores confirmados en alcanzar la cima del Monte Everest.",
+        "year": "1919"
+      },
+      {
+        "name": "Carlos Santana",
+        "description": "Un guitarrista y compositor mexicano-estadounidense, es miembro fundador de la banda de rock Santana, conocido por ser pionero en la fusión de música rock y latinoamericana.",
+        "year": "1947"
+      },
+      {
+        "name": "Natalie Wood",
+        "description": "Una galardonada actriz estadounidense célebre por sus papeles en películas como 'Milagro en la Calle 34', 'Rebelde sin Causa' y 'Esplendor en la Hierba'.",
+        "year": "1938"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer Aterrizaje Humano en la Luna (Apolo 11)",
+        "description": "Los astronautas Neil Armstrong y Buzz Aldrin del Apolo 11 hicieron historia al convertirse en los primeros humanos en aterrizar en la Luna, un logro monumental en la exploración espacial.",
+        "year": "1969"
+      },
+      {
+        "title": "Viking 1 Aterriza en Marte",
+        "description": "El módulo de aterrizaje Viking 1 de la NASA aterrizó con éxito en Marte, transmitiendo las primeras imágenes a color de la superficie del planeta y allanando el camino para una mayor exploración robótica.",
+        "year": "1976"
+      },
+      {
+        "title": "Juegos Mundiales de Verano de las Olimpiadas Especiales Inaugurales",
+        "description": "Los primeros Juegos Mundiales de Verano de las Olimpiadas Especiales se celebraron en Chicago, reuniendo a aproximadamente 1.000 atletas con discapacidades intelectuales para una competición inspiradora.",
+        "year": "1968"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de la Luna",
+      "teaser": "Este día conmemora el aniversario del primer aterrizaje humano en la Luna como parte de la misión Apolo 11 el 20 de julio de 1969, y celebra los logros en la exploración lunar."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Margaret of Antioch",
+        "type": "Virgin and Martyr",
+        "description": "According to legend, St. Margaret was a virgin and martyr from Pisidian Antioch who converted to Christianity and was disowned by her pagan priest father, later suffering martyrdom."
+      },
+      {
+        "name": "Holy Prophet Elijah the Tishbite",
+        "type": "Prophet",
+        "description": "Elijah is one of the greatest prophets in the Old Testament, highly venerated in Orthodox tradition and known for his fiery ascent into heaven."
+      },
+      {
+        "name": "St. Jerome Emiliani",
+        "type": "Confessor, Founder",
+        "description": "A Venetian nobleman who, after a period in military life, dedicated himself to piety and founded the Somascan Fathers to care for orphans and the poor."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Moon Day",
+        "description": "This day commemorates the anniversary of the first human landing on the Moon as part of the Apollo 11 mission on July 20, 1969, and celebrates achievements in lunar exploration."
+      },
+      {
+        "name": "International Chess Day",
+        "description": "Celebrated globally, this day marks the founding of the World Chess Federation (FIDE) in Paris in 1924."
+      }
+    ],
+    "historicalQuote": {
+      "text": "That's one small step for [a] man, one giant leap for mankind.",
+      "author": "Neil Armstrong",
+      "context": "On July 20, 1969, Neil Armstrong became the first human to step onto the lunar surface during the Apollo 11 mission, uttering these iconic words."
+    },
+    "motivationalQuote": {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Sir Edmund Hillary",
+        "description": "A New Zealand mountaineer and explorer who, with Tenzing Norgay, was one of the first two climbers confirmed to have reached the summit of Mount Everest.",
+        "year": "1919"
+      },
+      {
+        "name": "Carlos Santana",
+        "description": "A Mexican-American guitarist and songwriter, he is a founding member of the rock band Santana, known for pioneering a fusion of rock and Latin American music.",
+        "year": "1947"
+      },
+      {
+        "name": "Natalie Wood",
+        "description": "An award-winning American actress celebrated for her roles in films such as 'Miracle on 34th Street,' 'Rebel Without a Cause,' and 'Splendor in the Grass.'",
+        "year": "1938"
+      }
+    ],
+    "events": [
+      {
+        "title": "First Human Landing on the Moon (Apollo 11)",
+        "description": "Astronauts Neil Armstrong and Buzz Aldrin of Apollo 11 made history by becoming the first humans to land on the Moon, a monumental achievement in space exploration.",
+        "year": "1969"
+      },
+      {
+        "title": "Viking 1 Lands on Mars",
+        "description": "NASA's Viking 1 lander successfully touched down on Mars, transmitting the first color images from the planet's surface and paving the way for further robotic exploration.",
+        "year": "1976"
+      },
+      {
+        "title": "Inaugural International Special Olympics Summer Games",
+        "description": "The first International Special Olympics Summer Games were held in Chicago, bringing together approximately 1,000 athletes with intellectual disabilities for inspiring competition.",
+        "year": "1968"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Moon Day",
+      "teaser": "This day commemorates the anniversary of the first human landing on the Moon as part of the Apollo 11 mission on July 20, 1969, and celebrates achievements in lunar exploration."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Margarida de Antioquia",
+        "type": "Virgem e Mártir",
+        "description": "Segundo a lenda, Santa Margarida foi uma virgem e mártir de Antioquia da Pisídia que se converteu ao Cristianismo e foi renegada por seu pai, um sacerdote pagão, sofrendo mais tarde o martírio."
+      },
+      {
+        "name": "Santo Profeta Elias o Tesbita",
+        "type": "Profeta",
+        "description": "Elias é um dos maiores profetas do Antigo Testamento, muito venerado na tradição Ortodoxa e conhecido por sua ascensão ardente aos céus."
+      },
+      {
+        "name": "São Jerônimo Emiliani",
+        "type": "Confessor, Fundador",
+        "description": "Um nobre veneziano que, após um período na vida militar, dedicou-se à piedade e fundou os Padres Somascos para cuidar de órfãos e pobres."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Lua",
+        "description": "Este dia comemora o aniversário da primeira aterrissagem humana na Lua como parte da missão Apollo 11 em 20 de julho de 1969, e celebra as conquistas na exploração lunar."
+      },
+      {
+        "name": "Dia Internacional do Xadrez",
+        "description": "Celebrado globalmente, este dia marca a fundação da Federação Mundial de Xadrez (FIDE) em Paris em 1924."
+      }
+    ],
+    "historicalQuote": {
+      "text": "É um pequeno passo para [um] homem, um salto gigantesco para a humanidade.",
+      "author": "Neil Armstrong",
+      "context": "Em 20 de julho de 1969, Neil Armstrong tornou-se o primeiro ser humano a pisar na superfície lunar durante a missão Apollo 11, proferindo estas palavras icônicas."
+    },
+    "motivationalQuote": {
+      "text": "A única maneira de fazer um ótimo trabalho é amar o que você faz.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Sir Edmund Hillary",
+        "description": "Um montanhista e explorador neozelandês que, juntamente com Tenzing Norgay, foi um dos dois primeiros alpinistas confirmados a atingir o cume do Monte Everest.",
+        "year": "1919"
+      },
+      {
+        "name": "Carlos Santana",
+        "description": "Um guitarrista e compositor mexicano-americano, ele é um membro fundador da banda de rock Santana, conhecido por ser pioneiro na fusão de rock e música latino-americana.",
+        "year": "1947"
+      },
+      {
+        "name": "Natalie Wood",
+        "description": "Uma premiada atriz americana celebrada por seus papéis em filmes como 'Milagre na Rua 34', 'Juventude Transviada' e 'Clamor do Sexo'.",
+        "year": "1938"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeira Aterrissagem Humana na Lua (Apollo 11)",
+        "description": "Os astronautas Neil Armstrong e Buzz Aldrin da Apollo 11 fizeram história ao se tornarem os primeiros humanos a aterrissar na Lua, uma conquista monumental na exploração espacial.",
+        "year": "1969"
+      },
+      {
+        "title": "Viking 1 Pousa em Marte",
+        "description": "O módulo de aterrissagem Viking 1 da NASA pousou com sucesso em Marte, transmitindo as primeiras imagens coloridas da superfície do planeta e abrindo caminho para mais exploração robótica.",
+        "year": "1976"
+      },
+      {
+        "title": "Jogos Mundiais de Verão das Olimpíadas Especiais Inaugurais",
+        "description": "Os primeiros Jogos Mundiais de Verão das Olimpíadas Especiais foram realizados em Chicago, reunindo aproximadamente 1.000 atletas com deficiências intelectuais para uma competição inspiradora.",
+        "year": "1968"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional da Lua",
+      "teaser": "Este dia comemora o aniversário da primeira aterrissagem humana na Lua como parte da missão Apollo 11 em 20 de julho de 1969, e celebra as conquistas na exploração lunar."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Margarida d'Antioquia",
+        "type": "Verge i Màrtir",
+        "description": "Segons la llegenda, Santa Margarida va ser una verge i màrtir d'Antioquia de Pisídia que es va convertir al cristianisme i va ser renegada pel seu pare sacerdot pagà, patint posteriorment el martiri."
+      },
+      {
+        "name": "Sant Profeta Elies el Tisbita",
+        "type": "Profeta",
+        "description": "Elies és un dels més grans profetes de l'Antic Testament, molt venerat en la tradició ortodoxa i conegut per la seva ardent ascensió al cel."
+      },
+      {
+        "name": "Sant Jeroni Emiliani",
+        "type": "Confessor, Fundador",
+        "description": "Un noble venecià que, després d'un període de vida militar, es va dedicar a la pietat i va fundar els Pares Somascos per tenir cura d'orfes i pobres."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la Lluna",
+        "description": "Aquest dia commemora l'aniversari del primer allunatge humà com a part de la missió Apollo 11 el 20 de juliol de 1969, i celebra els èxits en l'exploració lunar."
+      },
+      {
+        "name": "Dia Internacional dels Escacs",
+        "description": "Celebrat globalment, aquest dia commemora la fundació de la Federació Mundial d'Escacs (FIDE) a París el 1924."
+      }
+    ],
+    "historicalQuote": {
+      "text": "És un petit pas per a [un] home, un salt gegantí per a la humanitat.",
+      "author": "Neil Armstrong",
+      "context": "El 20 de juliol de 1969, Neil Armstrong es va convertir en el primer ésser humà a trepitjar la superfície lunar durant la missió Apollo 11, pronunciant aquestes icòniques paraules."
+    },
+    "motivationalQuote": {
+      "text": "L'única manera de fer una gran feina és estimar allò que fas.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Sir Edmund Hillary",
+        "description": "Un muntanyenc i explorador neozelandès que, amb Tenzing Norgay, va ser un dels dos primers escaladors confirmats a haver arribat al cim de l'Everest.",
+        "year": "1919"
+      },
+      {
+        "name": "Carlos Santana",
+        "description": "Un guitarrista i compositor mexicà-estatunidenc, és un membre fundador de la banda de rock Santana, conegut per ser pioner en una fusió de rock i música llatinoamericana.",
+        "year": "1947"
+      },
+      {
+        "name": "Natalie Wood",
+        "description": "Una actriu estatunidenca premiada, celebrada pels seus papers en pel·lícules com 'Miracle on 34th Street', 'Rebel Without a Cause' i 'Splendor in the Grass'.",
+        "year": "1938"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer Allunatge Humà (Apollo 11)",
+        "description": "Els astronautes Neil Armstrong i Buzz Aldrin de l'Apollo 11 van fer història en convertir-se en els primers humans a aterrar a la Lluna, un èxit monumental en l'exploració espacial.",
+        "year": "1969"
+      },
+      {
+        "title": "La Viking 1 Aterra a Mart",
+        "description": "La sonda Viking 1 de la NASA va aterrar amb èxit a Mart, transmetent les primeres imatges en color de la superfície del planeta i obrint el camí per a futures exploracions robòtiques.",
+        "year": "1976"
+      },
+      {
+        "title": "Jocs Mundials d'Estiu inaugurals de les Olimpíades Especials",
+        "description": "Els primers Jocs Mundials d'Estiu de les Olimpíades Especials es van celebrar a Chicago, reunint aproximadament 1.000 atletes amb discapacitat intel·lectual per a una competició inspiradora.",
+        "year": "1968"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de la Lluna",
+      "teaser": "Aquest dia commemora l'aniversari del primer allunatge humà com a part de la missió Apollo 11 el 20 de juliol de 1969, i celebra els èxits en l'exploració lunar."
+    }
+  }
+}
