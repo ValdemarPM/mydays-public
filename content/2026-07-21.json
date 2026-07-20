@@ -1,0 +1,327 @@
+{
+  "date": "2026-07-21",
+  "es": {
+    "saints": [
+      {
+        "name": "San Lorenzo de Brindisi",
+        "type": "Sacerdote y Doctor de la Iglesia",
+        "description": "Nacido Julius Caesar Russo, fue un sacerdote capuchino franciscano, un hábil orador, lingüista y teólogo que sirvió como diplomático y jugó un papel significativo en la Contrarreforma."
+      },
+      {
+        "name": "Profeta Ezequiel",
+        "type": "Profeta",
+        "description": "Ezequiel vivió en el siglo VI a.C., fue un sacerdote de la tribu de Leví y fue llevado a Babilonia durante la segunda invasión de Jerusalén por el rey Nabucodonosor. Tuvo visiones del futuro de la nación hebrea."
+      },
+      {
+        "name": "Venerable Simeón de Emesa, Loco por Cristo",
+        "type": "Monje, Loco por Cristo",
+        "description": "Simeón, junto con su compañero asceta Juan, eran sirios que vivieron en el siglo VI en Edesa, conocidos por su singular disciplina espiritual como Locos por Cristo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de Bélgica",
+        "description": "Esta fiesta nacional conmemora la coronación de Leopoldo I el 21 de julio de 1831, marcando la independencia de Bélgica."
+      },
+      {
+        "name": "Día de la Liberación de Guam",
+        "description": "Esta conmemoración del territorio estadounidense marca el 21 de julio de 1944, cuando las fuerzas estadounidenses liberaron Guam de la ocupación japonesa durante la Segunda Guerra Mundial."
+      },
+      {
+        "name": "Día Nacional de la Comida Chatarra",
+        "description": "Una celebración lúdica en EE. UU. dedicada al consumo sin culpa de aperitivos y dulces favoritos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El coraje es gracia bajo presión.",
+      "author": "Ernest Hemingway",
+      "context": "Ernest Hemingway, un novelista estadounidense y premio Nobel conocido por su estilo de escritura distintivo y su vida aventurera, nació en este día en 1899."
+    },
+    "motivationalQuote": {
+      "text": "No importa lo que la gente te diga, las palabras y las ideas pueden cambiar el mundo.",
+      "author": "Robin Williams"
+    },
+    "births": [
+      {
+        "name": "Ernest Hemingway",
+        "description": "Un influyente novelista y cuentista estadounidense, fue galardonado con el Premio Nobel de Literatura en 1954 por su prosa poderosa y concisa.",
+        "year": "1899"
+      },
+      {
+        "name": "Robin Williams",
+        "description": "Un querido actor y comediante estadounidense, conocido por sus habilidades de improvisación y una amplia gama de papeles en cine y televisión.",
+        "year": "1951"
+      },
+      {
+        "name": "Cat Stevens (Yusuf Islam)",
+        "description": "Un cantautor y músico inglés, reconocido por su distintiva música folk y pop.",
+        "year": "1948"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer Humano Camina en la Luna",
+        "description": "El astronauta Neil Armstrong se convirtió en la primera persona en caminar sobre la Luna, casi siete horas después de que el Apolo 11 aterrizara.",
+        "year": "1969"
+      },
+      {
+        "title": "Primera Mujer Jefa de Gobierno Elegida",
+        "description": "Sirimavo Bandaranaike juró como primera ministra de Ceilán (ahora Sri Lanka), convirtiéndose en la primera jefa de gobierno mujer elegida democráticamente en el mundo.",
+        "year": "1960"
+      },
+      {
+        "title": "Concluye el Programa del Transbordador Espacial de la NASA",
+        "description": "El programa de transbordadores espaciales de 30 años de la NASA concluyó oficialmente con el aterrizaje final del Transbordador Espacial Atlantis (STS-135) en el Centro Espacial Kennedy.",
+        "year": "2011"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día de la Independencia de Bélgica",
+      "teaser": "Esta fiesta nacional conmemora la coronación de Leopoldo I el 21 de julio de 1831, marcando la independencia de Bélgica."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Lawrence of Brindisi",
+        "type": "Priest and Doctor of the Church",
+        "description": "Born Julius Caesar Russo, he was a Capuchin Franciscan priest, a skilled orator, linguist, and theologian who served as a diplomat and played a significant role in the Counter-Reformation."
+      },
+      {
+        "name": "Prophet Ezekiel",
+        "type": "Prophet",
+        "description": "Ezekiel lived in the sixth century BC, was a priest from the tribe of Levi, and was led off to Babylon during the second invasion of Jerusalem by King Nebuchadnezzar. He had visions of the future of the Hebrew nation."
+      },
+      {
+        "name": "Venerable Symeon of Emesa, Fool-for-Christ",
+        "type": "Monk, Fool-for-Christ",
+        "description": "Symeon, along with his fellow ascetic John, were Syrians who lived in the sixth century in Edessa, known for their unique spiritual discipline as Fools-for-Christ."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Belgium Independence Day",
+        "description": "This national holiday commemorates Leopold I's coronation on July 21, 1831, marking Belgium's independence."
+      },
+      {
+        "name": "Guam Liberation Day",
+        "description": "This U.S. territory observance marks July 21, 1944, when U.S. forces liberated Guam from Japanese occupation during World War II."
+      },
+      {
+        "name": "National Junk Food Day",
+        "description": "A playful observance in the U.S. dedicated to guilt-free consumption of favorite snacks and treats."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Courage is grace under pressure.",
+      "author": "Ernest Hemingway",
+      "context": "Ernest Hemingway, an American novelist and Nobel Prize laureate known for his distinct writing style and adventurous life, was born on this day in 1899."
+    },
+    "motivationalQuote": {
+      "text": "No matter what people tell you, words and ideas can change the world.",
+      "author": "Robin Williams"
+    },
+    "births": [
+      {
+        "name": "Ernest Hemingway",
+        "description": "An influential American novelist and short-story writer, he was awarded the Nobel Prize in Literature in 1954 for his powerful and economical prose.",
+        "year": "1899"
+      },
+      {
+        "name": "Robin Williams",
+        "description": "A beloved American actor and comedian, known for his improvisational skills and a wide range of roles in film and television.",
+        "year": "1951"
+      },
+      {
+        "name": "Cat Stevens (Yusuf Islam)",
+        "description": "An English singer-songwriter and musician, recognized for his distinctive folk and pop music.",
+        "year": "1948"
+      }
+    ],
+    "events": [
+      {
+        "title": "First Human Walks on the Moon",
+        "description": "Astronaut Neil Armstrong became the first person to walk on the Moon, almost seven hours after Apollo 11 landed.",
+        "year": "1969"
+      },
+      {
+        "title": "First Female Head of Government Elected",
+        "description": "Sirimavo Bandaranaike was sworn in as prime minister of Ceylon (now Sri Lanka), becoming the world's first democratically elected female head of government.",
+        "year": "1960"
+      },
+      {
+        "title": "NASA Space Shuttle Program Concludes",
+        "description": "NASA's 30-year Space Shuttle program officially ended with the final landing of Space Shuttle Atlantis (STS-135) at Kennedy Space Center.",
+        "year": "2011"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Belgium Independence Day",
+      "teaser": "This national holiday commemorates Leopold I's coronation on July 21, 1831, marking Belgium's independence."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Lourenço de Brindisi",
+        "type": "Sacerdote e Doutor da Igreja",
+        "description": "Nascido Julius Caesar Russo, foi um sacerdote capuchinho franciscano, um orador, linguista e teólogo habilidoso que serviu como diplomata e desempenhou um papel significativo na Contrarreforma."
+      },
+      {
+        "name": "Profeta Ezequiel",
+        "type": "Profeta",
+        "description": "Ezequiel viveu no século VI a.C., era um sacerdote da tribo de Levi e foi levado para a Babilônia durante a segunda invasão de Jerusalém pelo Rei Nabucodonosor. Ele teve visões do futuro da nação hebraica."
+      },
+      {
+        "name": "Venerável Simeão de Emesa, Louco por Cristo",
+        "type": "Monge, Louco por Cristo",
+        "description": "Simeão, junto com seu companheiro asceta João, eram sírios que viveram no século VI em Edessa, conhecidos por sua disciplina espiritual única como Loucos por Cristo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência da Bélgica",
+        "description": "Este feriado nacional comemora a coroação de Leopoldo I em 21 de julho de 1831, marcando a independência da Bélgica."
+      },
+      {
+        "name": "Dia da Libertação de Guam",
+        "description": "Esta observância do território dos EUA marca 21 de julho de 1944, quando as forças dos EUA libertaram Guam da ocupação japonesa durante a Segunda Guerra Mundial."
+      },
+      {
+        "name": "Dia Nacional da Comida Lixo",
+        "description": "Uma celebração divertida nos EUA dedicada ao consumo sem culpa de lanches e guloseimas favoritas."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Coragem é graça sob pressão.",
+      "author": "Ernest Hemingway",
+      "context": "Ernest Hemingway, um romancista americano e laureado com o Prêmio Nobel conhecido por seu estilo de escrita distinto e vida aventureira, nasceu neste dia em 1899."
+    },
+    "motivationalQuote": {
+      "text": "Não importa o que as pessoas te digam, palavras e ideias podem mudar o mundo.",
+      "author": "Robin Williams"
+    },
+    "births": [
+      {
+        "name": "Ernest Hemingway",
+        "description": "Um influente romancista e contista americano, foi premiado com o Prêmio Nobel de Literatura em 1954 por sua prosa poderosa e econômica.",
+        "year": "1899"
+      },
+      {
+        "name": "Robin Williams",
+        "description": "Um amado ator e comediante americano, conhecido por suas habilidades de improvisação e uma ampla gama de papéis no cinema e na televisão.",
+        "year": "1951"
+      },
+      {
+        "name": "Cat Stevens (Yusuf Islam)",
+        "description": "Um cantor, compositor e músico inglês, reconhecido por sua distinta música folk e pop.",
+        "year": "1948"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeiro Humano Caminha na Lua",
+        "description": "O astronauta Neil Armstrong tornou-se a primeira pessoa a caminhar na Lua, quase sete horas depois que o Apollo 11 aterrissou.",
+        "year": "1969"
+      },
+      {
+        "title": "Primeira Mulher Chefe de Governo Eleita",
+        "description": "Sirimavo Bandaranaike foi empossada como primeira-ministra do Ceilão (agora Sri Lanka), tornando-se a primeira chefe de governo mulher democraticamente eleita no mundo.",
+        "year": "1960"
+      },
+      {
+        "title": "Programa do Ônibus Espacial da NASA Concluído",
+        "description": "O programa de 30 anos do Ônibus Espacial da NASA terminou oficialmente com o pouso final do Ônibus Espacial Atlantis (STS-135) no Centro Espacial Kennedy.",
+        "year": "2011"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia da Independência da Bélgica",
+      "teaser": "Este feriado nacional comemora a coroação de Leopoldo I em 21 de julho de 1831, marcando a independência da Bélgica."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Llorenç de Bríndisi",
+        "type": "Prevere i Doctor de l'Església",
+        "description": "Nascut Julius Caesar Russo, va ser un sacerdot caputxí franciscà, un orador hàbil, lingüista i teòleg que va servir com a diplomàtic i va jugar un paper important en la Contrareforma."
+      },
+      {
+        "name": "Profeta Ezequiel",
+        "type": "Profeta",
+        "description": "Ezequiel va viure al segle VI aC, era un sacerdot de la tribu de Leví i va ser portat a Babilònia durant la segona invasió de Jerusalem pel rei Nabucodonosor. Va tenir visions del futur de la nació hebrea."
+      },
+      {
+        "name": "Venerable Simeó d'Emesa, Boig per Crist",
+        "type": "Monjo, Boig per Crist",
+        "description": "Simeó, juntament amb el seu company asceta Joan, eren sirians que van viure al segle VI a Edessa, coneguts per la seva disciplina espiritual única com a Bojos per Crist."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència de Bèlgica",
+        "description": "Aquesta festa nacional commemora la coronació de Leopold I el 21 de juliol de 1831, marcant la independència de Bèlgica."
+      },
+      {
+        "name": "Dia de l'Alliberament de Guam",
+        "description": "Aquesta commemoració del territori dels EUA recorda el 21 de juliol de 1944, quan les forces dels EUA van alliberar Guam de l'ocupació japonesa durant la Segona Guerra Mundial."
+      },
+      {
+        "name": "Dia Nacional del Menjar Ferralla",
+        "description": "Una commemoració lúdica als EUA dedicada al consum sense culpa de berenars i llaminadures preferits."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El coratge és gràcia sota pressió.",
+      "author": "Ernest Hemingway",
+      "context": "Ernest Hemingway, novel·lista nord-americà i premi Nobel, conegut pel seu estil d'escriptura distintiu i la seva vida aventurera, va néixer tal dia com avui de 1899."
+    },
+    "motivationalQuote": {
+      "text": "No importa el que la gent et digui, les paraules i les idees poden canviar el món.",
+      "author": "Robin Williams"
+    },
+    "births": [
+      {
+        "name": "Ernest Hemingway",
+        "description": "Un influent novel·lista i escriptor de contes nord-americà, va ser guardonat amb el Premi Nobel de Literatura el 1954 per la seva prosa potent i econòmica.",
+        "year": "1899"
+      },
+      {
+        "name": "Robin Williams",
+        "description": "Un estimat actor i comediant nord-americà, conegut per les seves habilitats d'improvisació i una àmplia gamma de papers en cinema i televisió.",
+        "year": "1951"
+      },
+      {
+        "name": "Cat Stevens (Yusuf Islam)",
+        "description": "Un cantautor i músic anglès, reconegut per la seva música folk i pop distintiva.",
+        "year": "1948"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer Humà Camina sobre la Lluna",
+        "description": "L'astronauta Neil Armstrong es va convertir en la primera persona a caminar sobre la Lluna, gairebé set hores després que l'Apollo 11 aterrés.",
+        "year": "1969"
+      },
+      {
+        "title": "Primera Cap de Govern Femenina Elegida",
+        "description": "Sirimavo Bandaranaike va jurar el càrrec de primera ministra de Ceilan (ara Sri Lanka), convertint-se en la primera dona cap de govern elegida democràticament del món.",
+        "year": "1960"
+      },
+      {
+        "title": "El Programa del Transbordador Espacial de la NASA Conclou",
+        "description": "El programa de 30 anys del Transbordador Espacial de la NASA va acabar oficialment amb l'aterratge final del Transbordador Espacial Atlantis (STS-135) al Centre Espacial Kennedy.",
+        "year": "2011"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia de la Independència de Bèlgica",
+      "teaser": "Aquesta festa nacional commemora la coronació de Leopold I el 21 de juliol de 1831, marcant la independència de Bèlgica."
+    }
+  }
+}
