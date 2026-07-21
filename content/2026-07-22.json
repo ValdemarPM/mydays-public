@@ -1,0 +1,307 @@
+{
+  "date": "2026-07-22",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa María Magdalena",
+        "type": "Apóstol de los Apóstoles, Mirófora",
+        "description": "Una destacada seguidora de Jesucristo, fue sanada por él, apoyó su ministerio, presenció su crucifixión y entierro, y fue la primera persona en verlo después de su Resurrección."
+      },
+      {
+        "name": "San Felipe Evans",
+        "type": "Sacerdote, Mártir",
+        "description": "Un sacerdote jesuita galés que ministró celosamente a los católicos en el sur de Gales y fue martirizado por ahorcamiento, destripamiento y descuartizamiento el 22 de julio de 1679, durante un período de persecución."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional del Amor y la Gratitud",
+        "description": "Este día honra al Dr. Masaru Emoto y sus hallazgos sobre la poderosa influencia del amor y la gratitud en el agua y la conciencia."
+      },
+      {
+        "name": "Día Mundial del Cerebro",
+        "description": "Una conmemoración internacional dedicada a aumentar la conciencia y promover la defensa de la salud cerebral."
+      },
+      {
+        "name": "Día Nacional del Mango",
+        "description": "Un día que celebra la fruta tropical, que es una de las frutas más cultivadas en el mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Soy un actor orientado a la tarea. Un simulador. Y trato de inventar mi proceso de nuevo cada vez que hago un proyecto nuevo. Así que desapruebo cualquier método.",
+      "author": "Willem Dafoe",
+      "context": "Willem Dafoe, un aclamado actor estadounidense conocido por sus diversos papeles, nació el 22 de julio de 1955."
+    },
+    "motivationalQuote": {
+      "text": "Debemos aceptar la desilusión finita, pero nunca perder la esperanza infinita.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Selena Gomez",
+        "description": "Una cantante, actriz y productora estadounidense que saltó a la fama como estrella infantil y luego se convirtió en una exitosa artista discográfica.",
+        "year": "1992"
+      },
+      {
+        "name": "Willem Dafoe",
+        "description": "Un actor estadounidense reconocido por su prolífica carrera tanto en películas comerciales como de autor, obteniendo numerosos galardones.",
+        "year": "1955"
+      },
+      {
+        "name": "Alex Trebek",
+        "description": "Un presentador de programas de juegos canadiense-estadounidense, mejor conocido por presentar el programa de preguntas sindicado Jeopardy! durante 37 temporadas.",
+        "year": "1940"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer Cruce Transcontinental Registrado de Norteamérica",
+        "description": "Alexander Mackenzie llegó al Océano Pacífico, convirtiéndose en el primer humano registrado en completar un cruce transcontinental de Norteamérica.",
+        "year": "1793"
+      },
+      {
+        "title": "Primer Vuelo en Solitario Alrededor del Mundo Completado",
+        "description": "El aviador Wiley Post aterrizó en la ciudad de Nueva York, completando el primer vuelo en solitario alrededor del mundo en un tiempo récord de 7 días, 18 horas y 49 minutos.",
+        "year": "1933"
+      },
+      {
+        "title": "América la Hermosa Escrita",
+        "description": "Katharine Lee Bates escribió la canción patriótica 'America the Beautiful' después de inspirarse en la vista panorámica desde Pikes Peak en Colorado.",
+        "year": "1893"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional del Amor y la Gratitud",
+      "teaser": "Este día honra al Dr. Masaru Emoto y sus hallazgos sobre la poderosa influencia del amor y la gratitud en el agua y la conciencia."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Mary Magdalene",
+        "type": "Apostle to the Apostles, Myrrhbearer",
+        "description": "A prominent follower of Jesus Christ, she was healed by him, supported his ministry, witnessed his crucifixion and burial, and was the first person to see him after his Resurrection."
+      },
+      {
+        "name": "St. Philip Evans",
+        "type": "Priest, Martyr",
+        "description": "A Welsh Jesuit priest who zealously ministered to Catholics in South Wales and was martyred by hanging, drawing, and quartering on July 22, 1679, during a period of persecution."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Love and Gratitude Day",
+        "description": "This day honors Dr. Masaru Emoto and his findings on the powerful influence of love and gratitude on water and consciousness."
+      },
+      {
+        "name": "World Brain Day",
+        "description": "An international observance dedicated to raising awareness and promoting advocacy related to brain health."
+      },
+      {
+        "name": "National Mango Day",
+        "description": "A day celebrating the tropical fruit, which is one of the most widely cultivated fruits in the world."
+      }
+    ],
+    "historicalQuote": {
+      "text": "I'm a task-oriented actor. A pretender. And I try to invent my process anew each time I make a new project. So I frown on any method.",
+      "author": "Willem Dafoe",
+      "context": "Willem Dafoe, an acclaimed American actor known for his diverse roles, was born on July 22, 1955."
+    },
+    "motivationalQuote": {
+      "text": "We must accept finite disappointment, but never lose infinite hope.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Selena Gomez",
+        "description": "An American singer, actress, and producer who rose to fame as a child star and later became a successful recording artist.",
+        "year": "1992"
+      },
+      {
+        "name": "Willem Dafoe",
+        "description": "An American actor recognized for his prolific career in both mainstream and arthouse films, earning numerous accolades.",
+        "year": "1955"
+      },
+      {
+        "name": "Alex Trebek",
+        "description": "A Canadian-American game show host, best known for hosting the syndicated quiz show Jeopardy! for 37 seasons.",
+        "year": "1940"
+      }
+    ],
+    "events": [
+      {
+        "title": "First Recorded Transcontinental Crossing of North America",
+        "description": "Alexander Mackenzie reached the Pacific Ocean, becoming the first recorded human to complete a transcontinental crossing of North America.",
+        "year": "1793"
+      },
+      {
+        "title": "First Solo Flight Around the World Completed",
+        "description": "Aviator Wiley Post landed in New York City, completing the first solo flight around the world in a record-breaking 7 days, 18 hours, and 49 minutes.",
+        "year": "1933"
+      },
+      {
+        "title": "America the Beautiful Penned",
+        "description": "Katharine Lee Bates wrote the patriotic song 'America the Beautiful' after being inspired by the panoramic view from Pikes Peak in Colorado.",
+        "year": "1893"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Love and Gratitude Day",
+      "teaser": "This day honors Dr. Masaru Emoto and his findings on the powerful influence of love and gratitude on water and consciousness."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Maria Madalena",
+        "type": "Apóstola dos Apóstolos, Mirófora",
+        "description": "Uma proeminente seguidora de Jesus Cristo, foi curada por ele, apoiou seu ministério, testemunhou sua crucificação e sepultamento, e foi a primeira pessoa a vê-lo após a Ressurreição."
+      },
+      {
+        "name": "São Filipe Evans",
+        "type": "Sacerdote, Mártir",
+        "description": "Um sacerdote jesuíta galês que ministrou zelosamente aos católicos no Sul do País de Gales e foi martirizado por enforcamento, desmembramento e esquartejamento em 22 de julho de 1679, durante um período de perseguição."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional do Amor e da Gratidão",
+        "description": "Este dia homenageia o Dr. Masaru Emoto e suas descobertas sobre a poderosa influência do amor e da gratidão na água e na consciência."
+      },
+      {
+        "name": "Dia Mundial do Cérebro",
+        "description": "Uma observância internacional dedicada a aumentar a conscientização e promover a defesa da saúde cerebral."
+      },
+      {
+        "name": "Dia Nacional da Manga",
+        "description": "Um dia que celebra a fruta tropical, que é uma das frutas mais cultivadas no mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Sou um ator orientado para a tarefa. Um fingidor. E tento reinventar meu processo a cada novo projeto. Portanto, desaprovo qualquer método.",
+      "author": "Willem Dafoe",
+      "context": "Willem Dafoe, um aclamado ator americano conhecido por seus diversos papéis, nasceu em 22 de julho de 1955."
+    },
+    "motivationalQuote": {
+      "text": "Devemos aceitar a decepção finita, mas nunca perder a esperança infinita.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Selena Gomez",
+        "description": "Uma cantora, atriz e produtora americana que ganhou fama como estrela infantil e depois se tornou uma artista de gravação de sucesso.",
+        "year": "1992"
+      },
+      {
+        "name": "Willem Dafoe",
+        "description": "Um ator americano reconhecido por sua carreira prolífica em filmes comerciais e de arte, conquistando inúmeros prêmios.",
+        "year": "1955"
+      },
+      {
+        "name": "Alex Trebek",
+        "description": "Um apresentador de programa de jogos canadense-americano, mais conhecido por apresentar o programa de perguntas e respostas sindicado Jeopardy! por 37 temporadas.",
+        "year": "1940"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeira Travessia Transcontinental Registrada da América do Norte",
+        "description": "Alexander Mackenzie alcançou o Oceano Pacífico, tornando-se o primeiro humano registrado a completar uma travessia transcontinental da América do Norte.",
+        "year": "1793"
+      },
+      {
+        "title": "Primeiro Voo Solo ao Redor do Mundo Concluído",
+        "description": "O aviador Wiley Post pousou na cidade de Nova York, completando o primeiro voo solo ao redor do mundo em um tempo recorde de 7 dias, 18 horas e 49 minutos.",
+        "year": "1933"
+      },
+      {
+        "title": "America the Beautiful Escrita",
+        "description": "Katharine Lee Bates escreveu a canção patriótica 'America the Beautiful' após ser inspirada pela vista panorâmica do Pikes Peak no Colorado.",
+        "year": "1893"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional do Amor e da Gratidão",
+      "teaser": "Este dia homenageia o Dr. Masaru Emoto e suas descobertas sobre a poderosa influência do amor e da gratidão na água e na consciência."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Maria Magdalena",
+        "type": "Apòstola dels Apòstols, Portadora de Mirra",
+        "description": "Una destacada seguidora de Jesucrist, va ser curada per ell, va donar suport al seu ministeri, va presenciar la seva crucifixió i sepultura, i va ser la primera persona a veure'l després de la Resurrecció."
+      },
+      {
+        "name": "Sant Felip Evans",
+        "type": "Prevere, Màrtir",
+        "description": "Un sacerdot jesuïta gal·lès que va ministrar amb zel als catòlics del sud de Gal·les i va ser martiritzat per penjament, arrossegament i esquarterament el 22 de juliol de 1679, durant un període de persecució."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de l'Amor i la Gratitud",
+        "description": "Aquest dia honora el Dr. Masaru Emoto i els seus descobriments sobre la poderosa influència de l'amor i la gratitud en l'aigua i la consciència."
+      },
+      {
+        "name": "Dia Mundial del Cervell",
+        "description": "Una observança internacional dedicada a conscienciar i promoure la defensa de la salut cerebral."
+      },
+      {
+        "name": "Dia Nacional del Mango",
+        "description": "Un dia que celebra aquesta fruita tropical, que és una de les fruites més cultivades al món."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Sóc un actor orientat a la tasca. Un farsant. I intento inventar el meu procés de nou cada vegada que faig un projecte nou. Per això desaprovo qualsevol mètode.",
+      "author": "Willem Dafoe",
+      "context": "Willem Dafoe, un aclamat actor americà conegut pels seus diversos papers, va néixer el 22 de juliol de 1955."
+    },
+    "motivationalQuote": {
+      "text": "Hem d'acceptar la decepció finita, però mai perdre l'esperança infinita.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Selena Gomez",
+        "description": "Una cantant, actriu i productora estatunidenca que es va fer famosa com a estrella infantil i més tard es va convertir en una artista discogràfica d'èxit.",
+        "year": "1992"
+      },
+      {
+        "name": "Willem Dafoe",
+        "description": "Un actor estatunidenc reconegut per la seva prolífica carrera tant en pel·lícules comercials com d'autor, guanyant nombrosos premis.",
+        "year": "1955"
+      },
+      {
+        "name": "Alex Trebek",
+        "description": "Un presentador de concursos canadenc-estatunidenc, més conegut per presentar el programa de preguntes sindicat Jeopardy! durant 37 temporades.",
+        "year": "1940"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera Travessia Transcontinental Registrada d'Amèrica del Nord",
+        "description": "Alexander Mackenzie va arribar a l'Oceà Pacífic, convertint-se en el primer ésser humà registrat a completar una travessia transcontinental d'Amèrica del Nord.",
+        "year": "1793"
+      },
+      {
+        "title": "Primer Vol Sol En Volta al Món Completat",
+        "description": "L'aviador Wiley Post va aterrar a la ciutat de Nova York, completant el primer vol en solitari al voltant del món en un temps rècord de 7 dies, 18 hores i 49 minuts.",
+        "year": "1933"
+      },
+      {
+        "title": "America the Beautiful Escrita",
+        "description": "Katharine Lee Bates va escriure la cançó patriòtica 'America the Beautiful' després d'inspirar-se en la vista panoràmica des del Pikes Peak a Colorado.",
+        "year": "1893"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de l'Amor i la Gratitud",
+      "teaser": "Aquest dia honora el Dr. Masaru Emoto i els seus descobriments sobre la poderosa influència de l'amor i la gratitud en l'aigua i la consciència."
+    }
+  }
+}
