@@ -1,0 +1,327 @@
+{
+  "date": "2026-07-23",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Brígida de Suecia",
+        "type": "Religiosa, Mística",
+        "description": "Una mística sueca, esposa, madre y fundadora de la Orden del Santísimo Salvador, fue conocida por sus influyentes visiones y sus esfuerzos por animar al Papa a regresar a Roma desde Aviñón."
+      },
+      {
+        "name": "San Apolinar, Obispo de Rávena",
+        "type": "Obispo",
+        "description": "Discípulo de San Pedro, se convirtió en el primer Obispo de Rávena, donde realizó milagros y predicó incansablemente el Evangelio, llevando a muchos al cristianismo."
+      },
+      {
+        "name": "Venerable Ana de Leucadia",
+        "type": "Eremita",
+        "description": "Nacida en una familia aristocrática en Constantinopla, dedicó su fortuna heredada a los pobres y más tarde abrazó una vida como eremita en Epiro."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Cumpleaños de Haile Selassie",
+        "description": "Este día se celebra en el rastafarismo, conmemorando el nacimiento del Emperador Haile Selassie I de Etiopía."
+      },
+      {
+        "name": "Tisha B'Av",
+        "description": "Un solemne día judío de luto, Tisha B'Av conmemora la destrucción tanto del Primer como del Segundo Templo en Jerusalén, observado con ayuno y reflexión."
+      },
+      {
+        "name": "Día Nacional del Helado de Vainilla",
+        "description": "Un día cultural lúdico en los Estados Unidos dedicado a celebrar el popular y clásico helado de vainilla."
+      }
+    ],
+    "historicalQuote": {
+      "text": "¡Swaraj es mi derecho de nacimiento, y lo tendré!",
+      "author": "Bal Gangadhar Tilak",
+      "context": "Bal Gangadhar Tilak, un prominente nacionalista indio, maestro y luchador por la libertad, nació el 23 de julio de 1856. Este poderoso lema se convirtió en central para el movimiento de independencia de la India contra el dominio británico."
+    },
+    "motivationalQuote": {
+      "text": "Tienes cerebro en tu cabeza. Tienes pies en tus zapatos. Puedes dirigirte en la dirección que elijas. Estás solo. Y sabes lo que sabes. Y TÚ eres quien decidirá a dónde ir…",
+      "author": "Dr. Seuss"
+    },
+    "births": [
+      {
+        "name": "Bal Gangadhar Tilak",
+        "description": "Un influyente nacionalista indio, maestro y reformador social, fue una figura clave en el movimiento de independencia de la India y abogó por el 'Swaraj' (autogobierno).",
+        "year": "1856"
+      },
+      {
+        "name": "Raymond Chandler",
+        "description": "Un aclamado novelista y guionista estadounidense, es ampliamente reconocido por su ficción detectivesca de estilo 'hard-boiled', particularmente por el personaje de Philip Marlowe.",
+        "year": "1888"
+      },
+      {
+        "name": "Vera Rubin",
+        "description": "Una astrónoma estadounidense pionera, su extenso trabajo sobre las tasas de rotación de galaxias proporcionó evidencia crucial para la existencia de la materia oscura.",
+        "year": "1928"
+      }
+    ],
+    "events": [
+      {
+        "title": "Patente del Tipógrafo",
+        "description": "A William Austin Burt se le concedió una patente para su 'tipógrafo', un dispositivo mecánico temprano considerado un precursor significativo de la máquina de escribir moderna.",
+        "year": "1829"
+      },
+      {
+        "title": "Ford Motor Company Vende su Primer Coche",
+        "description": "La Ford Motor Company vendió oficialmente su primer automóvil, marcando un momento crucial en la historia de la floreciente industria automotriz.",
+        "year": "1903"
+      },
+      {
+        "title": "Primera Mujer Comandante de Transbordador Espacial",
+        "description": "Eileen Collins se convirtió en la primera mujer en comandar una misión del Transbordador Espacial de EE. UU., liderando la STS-93 a bordo del Columbia, que desplegó el Observatorio de Rayos X Chandra.",
+        "year": "1999"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Cumpleaños de Haile Selassie",
+      "teaser": "Este día se celebra en el rastafarismo, conmemorando el nacimiento del Emperador Haile Selassie I de Etiopía."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Bridget of Sweden",
+        "type": "Religious, Mystic",
+        "description": "A Swedish mystic, wife, mother, and founder of the Order of the Most Holy Savior, she was known for her influential visions and her efforts to encourage the Pope's return to Rome from Avignon."
+      },
+      {
+        "name": "Hieromartyr Apollinaris, Bishop of Ravenna",
+        "type": "Bishop",
+        "description": "A disciple of Saint Peter, he became the first Bishop of Ravenna, where he performed miracles and tirelessly preached the Gospel, leading many to Christianity."
+      },
+      {
+        "name": "Venerable Anna of Leukadia",
+        "type": "Hermitess",
+        "description": "Born into an aristocratic family in Constantinople, she devoted her inherited fortune to the poor and later embraced a life as a hermitess in Epirus."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Haile Selassie's Birthday",
+        "description": "This day is celebrated in Rastafarianism, commemorating the birth of Emperor Haile Selassie I of Ethiopia."
+      },
+      {
+        "name": "Tisha B'Av",
+        "description": "A solemn Jewish day of mourning, Tisha B'Av commemorates the destruction of both the First and Second Temples in Jerusalem, observed with fasting and reflection."
+      },
+      {
+        "name": "National Vanilla Ice Cream Day",
+        "description": "A playful cultural day in the United States dedicated to celebrating the popular and classic vanilla ice cream."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Swaraj is my birthright, and I shall have it!",
+      "author": "Bal Gangadhar Tilak",
+      "context": "Bal Gangadhar Tilak, a prominent Indian nationalist, teacher, and freedom fighter, was born on July 23, 1856. This powerful slogan became central to the Indian independence movement against British rule."
+    },
+    "motivationalQuote": {
+      "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You're on your own. And you know what you know. And YOU are the one who'll decide where to go…",
+      "author": "Dr. Seuss"
+    },
+    "births": [
+      {
+        "name": "Bal Gangadhar Tilak",
+        "description": "An influential Indian nationalist, teacher, and social reformer, he was a key figure in the Indian independence movement and advocated for 'Swaraj' (self-rule).",
+        "year": "1856"
+      },
+      {
+        "name": "Raymond Chandler",
+        "description": "An acclaimed American novelist and screenwriter, he is widely recognized for his hard-boiled detective fiction, particularly the character of Philip Marlowe.",
+        "year": "1888"
+      },
+      {
+        "name": "Vera Rubin",
+        "description": "A pioneering American astronomer, her extensive work on galaxy rotation rates provided crucial evidence for the existence of dark matter.",
+        "year": "1928"
+      }
+    ],
+    "events": [
+      {
+        "title": "Patent for the Typographer",
+        "description": "William Austin Burt was granted a patent for his 'typographer,' an early mechanical device considered a significant precursor to the modern typewriter.",
+        "year": "1829"
+      },
+      {
+        "title": "Ford Motor Company Sells First Car",
+        "description": "The Ford Motor Company officially sold its first automobile, marking a pivotal moment in the history of the burgeoning automotive industry.",
+        "year": "1903"
+      },
+      {
+        "title": "First Female Space Shuttle Commander",
+        "description": "Eileen Collins became the first woman to command a U.S. Space Shuttle mission, leading STS-93 aboard Columbia, which deployed the Chandra X-ray Observatory.",
+        "year": "1999"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Haile Selassie's Birthday",
+      "teaser": "This day is celebrated in Rastafarianism, commemorating the birth of Emperor Haile Selassie I of Ethiopia."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Brígida da Suécia",
+        "type": "Religiosa, Mística",
+        "description": "Uma mística sueca, esposa, mãe e fundadora da Ordem do Santíssimo Salvador, ela era conhecida por suas visões influentes e seus esforços para encorajar o retorno do Papa a Roma de Avignon."
+      },
+      {
+        "name": "Santo Apolinário, Bispo de Ravena",
+        "type": "Bispo",
+        "description": "Discípulo de São Pedro, ele se tornou o primeiro Bispo de Ravena, onde realizou milagres e pregou incansavelmente o Evangelho, levando muitos ao cristianismo."
+      },
+      {
+        "name": "Venerável Ana de Leucádia",
+        "type": "Eremita",
+        "description": "Nascida em uma família aristocrática em Constantinopla, ela dedicou sua fortuna herdada aos pobres e mais tarde abraçou uma vida como eremita em Epiro."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Aniversário de Haile Selassie",
+        "description": "Este dia é celebrado no Rastafarianismo, comemorando o nascimento do Imperador Haile Selassie I da Etiópia."
+      },
+      {
+        "name": "Tisha B'Av",
+        "description": "Um solene dia judaico de luto, Tisha B'Av comemora a destruição do Primeiro e do Segundo Templos em Jerusalém, observado com jejum e reflexão."
+      },
+      {
+        "name": "Dia Nacional do Sorvete de Baunilha",
+        "description": "Um dia cultural divertido nos Estados Unidos dedicado a celebrar o popular e clássico sorvete de baunilha."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Swaraj é meu direito de nascença, e eu o terei!",
+      "author": "Bal Gangadhar Tilak",
+      "context": "Bal Gangadhar Tilak, um proeminente nacionalista indiano, professor e lutador pela liberdade, nasceu em 23 de julho de 1856. Este poderoso slogan tornou-se central para o movimento de independência indiano contra o domínio britânico."
+    },
+    "motivationalQuote": {
+      "text": "Você tem cérebro na cabeça. Você tem pés nos sapatos. Você pode se guiar para qualquer direção que escolher. Você está por conta própria. E você sabe o que sabe. E VOCÊ é quem vai decidir para onde ir…",
+      "author": "Dr. Seuss"
+    },
+    "births": [
+      {
+        "name": "Bal Gangadhar Tilak",
+        "description": "Um influente nacionalista indiano, professor e reformador social, ele foi uma figura chave no movimento de independência indiano e defendeu o 'Swaraj' (autogoverno).",
+        "year": "1856"
+      },
+      {
+        "name": "Raymond Chandler",
+        "description": "Um aclamado romancista e roteirista americano, ele é amplamente reconhecido por sua ficção policial 'hard-boiled', particularmente pelo personagem de Philip Marlowe.",
+        "year": "1888"
+      },
+      {
+        "name": "Vera Rubin",
+        "description": "Uma astrônoma americana pioneira, seu extenso trabalho sobre as taxas de rotação de galáxias forneceu evidências cruciais para a existência de matéria escura.",
+        "year": "1928"
+      }
+    ],
+    "events": [
+      {
+        "title": "Patente do Tipógrafo",
+        "description": "William Austin Burt recebeu uma patente para seu 'tipógrafo', um dispositivo mecânico inicial considerado um precursor significativo da máquina de escrever moderna.",
+        "year": "1829"
+      },
+      {
+        "title": "Ford Motor Company Vende o Primeiro Carro",
+        "description": "A Ford Motor Company vendeu oficialmente seu primeiro automóvel, marcando um momento crucial na história da crescente indústria automobilística.",
+        "year": "1903"
+      },
+      {
+        "title": "Primeira Mulher Comandante de Ônibus Espacial",
+        "description": "Eileen Collins se tornou a primeira mulher a comandar uma missão do Ônibus Espacial dos EUA, liderando a STS-93 a bordo do Columbia, que implantou o Observatório de Raios-X Chandra.",
+        "year": "1999"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Aniversário de Haile Selassie",
+      "teaser": "Este dia é celebrado no Rastafarianismo, comemorando o nascimento do Imperador Haile Selassie I da Etiópia."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Brígida de Suècia",
+        "type": "Religiosa, Mística",
+        "description": "Una mística sueca, esposa, mare i fundadora de l'Orde del Sant Salvador, fou coneguda per les seves influents visions i els seus esforços per animar el Papa a tornar a Roma des d'Avinyó."
+      },
+      {
+        "name": "Sant Apol·linar, Bisbe de Ravenna",
+        "type": "Bisbe",
+        "description": "Deixeble de Sant Pere, esdevingué el primer bisbe de Ravenna, on va realitzar miracles i va predicar incansablement l'Evangeli, convertint molts al cristianisme."
+      },
+      {
+        "name": "Venerable Anna de Leucàdia",
+        "type": "Ermitana",
+        "description": "Nascuda en una família aristocràtica de Constantinoble, va dedicar la seva fortuna heretada als pobres i més tard va abraçar una vida d'ermitana a l'Epir."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Aniversari de Haile Selassie",
+        "description": "Aquest dia se celebra en el rastafarisme, commemorant el naixement de l'emperador Haile Selassie I d'Etiòpia."
+      },
+      {
+        "name": "Tisha B'Av",
+        "description": "Un dia solemne de dol jueu, Tisha B'Av commemora la destrucció del Primer i Segon Temple de Jerusalem, i s'observa amb dejuni i reflexió."
+      },
+      {
+        "name": "Dia Nacional del Gelat de Vainilla",
+        "description": "Un dia cultural lúdic als Estats Units dedicat a celebrar el popular i clàssic gelat de vainilla."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Swaraj és el meu dret de naixement, i l'aconseguiré!",
+      "author": "Bal Gangadhar Tilak",
+      "context": "Bal Gangadhar Tilak, un destacat nacionalista, mestre i lluitador per la llibertat indi, va néixer el 23 de juliol de 1856. Aquest poderós eslògan es va convertir en un element central del moviment d'independència de l'Índia contra el domini britànic."
+    },
+    "motivationalQuote": {
+      "text": "Tens cervells al cap. Tens peus a les sabates. Pots dirigir-te en la direcció que vulguis. Estàs pel teu compte. I saps el que saps. I TU ets qui decidirà cap a on anar...",
+      "author": "Dr. Seuss"
+    },
+    "births": [
+      {
+        "name": "Bal Gangadhar Tilak",
+        "description": "Un influent nacionalista, mestre i reformador social indi, va ser una figura clau en el moviment d'independència de l'Índia i va advocar per 'Swaraj' (autogovern).",
+        "year": "1856"
+      },
+      {
+        "name": "Raymond Chandler",
+        "description": "Un aclamat novel·lista i guionista nord-americà, és àmpliament reconegut per la seva ficció detectivesca \"hard-boiled\", particularment pel personatge de Philip Marlowe.",
+        "year": "1888"
+      },
+      {
+        "name": "Vera Rubin",
+        "description": "Una astrònoma nord-americana pionera, el seu extens treball sobre les taxes de rotació de les galàxies va proporcionar proves crucials per a l'existència de la matèria fosca.",
+        "year": "1928"
+      }
+    ],
+    "events": [
+      {
+        "title": "Patent de la tipògrafa",
+        "description": "A William Austin Burt se li va concedir una patent per la seva 'tipògrafa', un primer dispositiu mecànic considerat un precursor significatiu de la màquina d'escriure moderna.",
+        "year": "1829"
+      },
+      {
+        "title": "Ford Motor Company ven el primer cotxe",
+        "description": "La Ford Motor Company va vendre oficialment el seu primer automòbil, marcant un moment crucial en la història de la naixent indústria de l'automoció.",
+        "year": "1903"
+      },
+      {
+        "title": "Primera dona comandant del transbordador espacial",
+        "description": "Eileen Collins es va convertir en la primera dona a comandar una missió del transbordador espacial dels Estats Units, liderant l'STS-93 a bord del Columbia, que va desplegar l'Observatori de raigs X Chandra.",
+        "year": "1999"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Aniversari de Haile Selassie",
+      "teaser": "Aquest dia se celebra en el rastafarisme, commemorant el naixement de l'emperador Haile Selassie I d'Etiòpia."
+    }
+  }
+}
