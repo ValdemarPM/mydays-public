@@ -1,0 +1,327 @@
+{
+  "date": "2026-07-24",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Cristina la Gran Mártir",
+        "type": "Gran Mártir",
+        "description": "Santa Cristina, también conocida como Cristina de Tiro o Bolsena, fue una virgen mártir del siglo III. Sufrió severas torturas por su fe cristiana y es venerada tanto en las Iglesias Orientales como Occidentales."
+      },
+      {
+        "name": "San Chárbel Makhlouf",
+        "type": "Sacerdote católico maronita, monje y ermitaño",
+        "description": "Nacido en Líbano en 1828, San Chárbel fue un sacerdote católico maronita, monje y ermitaño conocido por sus milagros durante y después de su vida. Su festividad es celebrada por la Iglesia Católica."
+      },
+      {
+        "name": "Santos Boris y Gleb",
+        "type": "Portadores de la Pasión y Príncipes",
+        "description": "Los Santos Boris y Gleb, hijos de San Vladimiro, fueron martirizados en 1015. Son venerados como Portadores de la Pasión en la Iglesia Ortodoxa por no resistir el mal con violencia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional del Autocuidado",
+        "description": "Este día anima a personas de todo el mundo a priorizar su bienestar y a participar en prácticas de autocuidado."
+      },
+      {
+        "name": "Día de los Pioneros (Utah, EE. UU.)",
+        "description": "Conmemorado en Utah, este día festivo estatal marca la entrada de Brigham Young y sus seguidores al Valle del Lago Salado en 1847."
+      },
+      {
+        "name": "Día de Simón Bolívar (Varios países de América del Sur)",
+        "description": "Este día celebra el nacimiento de Simón Bolívar, un líder clave en las guerras de independencia de América Latina."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Lo más difícil es la decisión de actuar, el resto es meramente tenacidad. Los miedos son tigres de papel. Puedes hacer cualquier cosa que decidas hacer. Puedes actuar para cambiar y controlar tu vida, y el procedimiento, el proceso es su propia recompensa.",
+      "author": "Amelia Earhart",
+      "context": "Amelia Earhart, una aviadora y autora pionera estadounidense, nació el 24 de julio de 1897. Fue la primera mujer en volar sola a través del Océano Atlántico."
+    },
+    "motivationalQuote": {
+      "text": "Haz lo mejor que puedas hasta que sepas hacerlo mejor. Luego, cuando sepas hacerlo mejor, hazlo mejor.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Alejandro Dumas padre",
+        "description": "Un prolífico novelista y dramaturgo francés, mejor conocido por novelas de aventuras como 'Los tres mosqueteros' y 'El Conde de Montecristo'.",
+        "year": "1802"
+      },
+      {
+        "name": "Amelia Earhart",
+        "description": "Una aviadora y autora pionera estadounidense, fue la primera mujer en volar sola a través del Océano Atlántico.",
+        "year": "1897"
+      },
+      {
+        "name": "Alice Ball",
+        "description": "Una química afroamericana que desarrolló el primer tratamiento inyectable eficaz para la enfermedad de Hansen (lepra).",
+        "year": "1892"
+      }
+    ],
+    "events": [
+      {
+        "title": "Patentada la imprenta rotativa",
+        "description": "Richard March Hoe patentó la imprenta rotativa, acelerando significativamente la producción de periódicos al permitir hasta 10.000 hojas por hora.",
+        "year": "1847"
+      },
+      {
+        "title": "Penicilina oral patentada",
+        "description": "Se concedió una patente para una forma oral de penicilina, lo que hizo que uno de los antibióticos más cruciales de la medicina estuviera disponible en forma de píldora por primera vez.",
+        "year": "1956"
+      },
+      {
+        "title": "Machu Picchu redescubierto por Hiram Bingham",
+        "description": "El explorador estadounidense Hiram Bingham \"redescubrió\" la ciudad inca de Machu Picchu, abandonada hace mucho tiempo, atrayendo la atención internacional hacia esta antigua maravilla.",
+        "year": "1911"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional del Autocuidado",
+      "teaser": "Este día anima a personas de todo el mundo a priorizar su bienestar y a participar en prácticas de autocuidado."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Christina the Great Martyr",
+        "type": "Great Martyr",
+        "description": "St. Christina, also known as Christina of Tyre or Bolsena, was a virgin martyr of the 3rd century. She endured severe tortures for her Christian faith and is revered in both Eastern and Western Churches."
+      },
+      {
+        "name": "St. Charbel Makhlouf",
+        "type": "Maronite Catholic Priest, Monk, and Hermit",
+        "description": "Born in Lebanon in 1828, St. Charbel was a Maronite Catholic priest, monk, and hermit known for his miracles during and after his life. His feast day is celebrated by the Catholic Church."
+      },
+      {
+        "name": "Saints Boris and Gleb",
+        "type": "Passion-Bearers and Princes",
+        "description": "Saints Boris and Gleb, sons of Saint Vladimir, were martyred in 1015. They are revered as Passion-Bearers in the Orthodox Church for not resisting evil with violence."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Self-Care Day",
+        "description": "This day encourages people worldwide to prioritize their well-being and engage in self-care practices."
+      },
+      {
+        "name": "Pioneer Day (Utah, USA)",
+        "description": "Commemorated in Utah, this state holiday marks the entry of Brigham Young and his followers into the Salt Lake Valley in 1847."
+      },
+      {
+        "name": "Simón Bolívar Day (Various South American countries)",
+        "description": "This day celebrates the birth of Simón Bolívar, a key leader in the Latin American wars of independence."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. You can do anything you decide to do. You can act to change and control your life, and the procedure, the process is its own reward.",
+      "author": "Amelia Earhart",
+      "context": "Amelia Earhart, a pioneering American aviator and author, was born on July 24, 1897. She was the first woman to fly solo across the Atlantic Ocean."
+    },
+    "motivationalQuote": {
+      "text": "Do the best you can until you know better. Then when you know better, do better.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Alexandre Dumas père",
+        "description": "A prolific French novelist and dramatist, best known for adventure novels such as 'The Three Musketeers' and 'The Count of Monte Cristo'.",
+        "year": "1802"
+      },
+      {
+        "name": "Amelia Earhart",
+        "description": "An American aviation pioneer and author, she was the first woman to fly solo across the Atlantic Ocean.",
+        "year": "1897"
+      },
+      {
+        "name": "Alice Ball",
+        "description": "A Black American chemist who developed the first effective injectable treatment for Hansen's disease (leprosy).",
+        "year": "1892"
+      }
+    ],
+    "events": [
+      {
+        "title": "Rotary-type printing press patented",
+        "description": "Richard March Hoe patented the rotary-type printing press, significantly accelerating newspaper production by allowing up to 10,000 sheets per hour.",
+        "year": "1847"
+      },
+      {
+        "title": "Oral Penicillin Patented",
+        "description": "A patent was granted for an oral form of penicillin, making one of medicine's most crucial antibiotics available in pill form for the first time.",
+        "year": "1956"
+      },
+      {
+        "title": "Machu Picchu rediscovered by Hiram Bingham",
+        "description": "American explorer Hiram Bingham 'rediscovered' the long-abandoned Inca city of Machu Picchu, bringing this ancient wonder to international attention.",
+        "year": "1911"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Self-Care Day",
+      "teaser": "This day encourages people worldwide to prioritize their well-being and engage in self-care practices."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Cristina, a Grande Mártir",
+        "type": "Grande Mártir",
+        "description": "Santa Cristina, também conhecida como Cristina de Tiro ou Bolsena, foi uma virgem mártir do século III. Ela suportou severas torturas por sua fé cristã e é reverenciada nas Igrejas Orientais e Ocidentais."
+      },
+      {
+        "name": "São Charbel Makhlouf",
+        "type": "Sacerdote Católico Maronita, Monge e Eremita",
+        "description": "Nascido no Líbano em 1828, São Charbel foi um sacerdote católico maronita, monge e eremita conhecido por seus milagres durante e após sua vida. Seu dia de festa é celebrado pela Igreja Católica."
+      },
+      {
+        "name": "Santos Boris e Gleb",
+        "type": "Portadores da Paixão e Príncipes",
+        "description": "Os Santos Boris e Gleb, filhos de São Vladimir, foram martirizados em 1015. Eles são reverenciados como Portadores da Paixão na Igreja Ortodoxa por não resistirem ao mal com violência."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional do Autocuidado",
+        "description": "Este dia encoraja pessoas em todo o mundo a priorizar seu bem-estar e a praticar o autocuidado."
+      },
+      {
+        "name": "Dia dos Pioneiros (Utah, EUA)",
+        "description": "Comemorado em Utah, este feriado estadual marca a entrada de Brigham Young e seus seguidores no Vale do Lago Salgado em 1847."
+      },
+      {
+        "name": "Dia de Simón Bolívar (Vários países da América do Sul)",
+        "description": "Este dia celebra o nascimento de Simón Bolívar, um líder chave nas guerras de independência da América Latina."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A coisa mais difícil é a decisão de agir, o resto é meramente tenacidade. Os medos são tigres de papel. Você pode fazer tudo o que decidir fazer. Você pode agir para mudar e controlar sua vida, e o procedimento, o processo é sua própria recompensa.",
+      "author": "Amelia Earhart",
+      "context": "Amelia Earhart, uma aviadora e autora americana pioneira, nasceu em 24 de julho de 1897. Ela foi a primeira mulher a voar sozinha através do Oceano Atlântico."
+    },
+    "motivationalQuote": {
+      "text": "Faça o melhor que puder até saber melhor. Então, quando souber melhor, faça melhor.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Alexandre Dumas (pai)",
+        "description": "Um prolífico romancista e dramaturgo francês, mais conhecido por romances de aventura como 'Os Três Mosqueteiros' e 'O Conde de Monte Cristo'.",
+        "year": "1802"
+      },
+      {
+        "name": "Amelia Earhart",
+        "description": "Uma aviadora e autora americana pioneira, ela foi a primeira mulher a voar sozinha através do Oceano Atlântico.",
+        "year": "1897"
+      },
+      {
+        "name": "Alice Ball",
+        "description": "Uma química afro-americana que desenvolveu o primeiro tratamento injetável eficaz para a doença de Hansen (hanseníase/lepra).",
+        "year": "1892"
+      }
+    ],
+    "events": [
+      {
+        "title": "Máquina de impressão rotativa patenteada",
+        "description": "Richard March Hoe patenteou a máquina de impressão rotativa, acelerando significativamente a produção de jornais ao permitir até 10.000 folhas por hora.",
+        "year": "1847"
+      },
+      {
+        "title": "Penicilina Oral Patenteada",
+        "description": "Foi concedida uma patente para uma forma oral de penicilina, tornando um dos antibióticos mais cruciais da medicina disponível em forma de pílula pela primeira vez.",
+        "year": "1956"
+      },
+      {
+        "title": "Machu Picchu redescoberto por Hiram Bingham",
+        "description": "O explorador americano Hiram Bingham \"redescobriu\" a cidade inca de Machu Picchu, há muito abandonada, chamando a atenção internacional para esta antiga maravilha.",
+        "year": "1911"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional do Autocuidado",
+      "teaser": "Este dia encoraja pessoas em todo o mundo a priorizar seu bem-estar e a praticar o autocuidado."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Cristina la Gran Màrtir",
+        "type": "Gran Màrtir",
+        "description": "Santa Cristina, també coneguda com Cristina de Tir o Bolsena, va ser una verge màrtir del segle III. Va patir tortures severes per la seva fe cristiana i és venerada tant a les Esglésies Orientals com Occidentals."
+      },
+      {
+        "name": "Sant Charbel Makhlouf",
+        "type": "Sacerdot, Monjo i Ermità Catòlic Maronita",
+        "description": "Nascut al Líban el 1828, Sant Charbel va ser un sacerdot, monjo i ermità catòlic maronita conegut pels seus miracles durant i després de la seva vida. La seva festa és celebrada per l'Església Catòlica."
+      },
+      {
+        "name": "Sants Boris i Gleb",
+        "type": "Portadors de la Passió i Prínceps",
+        "description": "Els Sants Boris i Gleb, fills de Sant Vladímir, van ser martiritzats el 1015. Són venerats com a Portadors de la Passió a l'Església Ortodoxa per no resistir el mal amb violència."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de l'Autocura",
+        "description": "Aquest dia anima la gent de tot el món a prioritzar el seu benestar i a practicar l'autocura."
+      },
+      {
+        "name": "Dia dels Pioners (Utah, EUA)",
+        "description": "Commemorat a Utah, aquesta festa estatal marca l'entrada de Brigham Young i els seus seguidors a la Vall del Llac Salat el 1847."
+      },
+      {
+        "name": "Dia de Simón Bolívar (diversos països sud-americans)",
+        "description": "Aquest dia celebra el naixement de Simón Bolívar, un líder clau en les guerres d'independència llatinoamericanes."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La cosa més difícil és la decisió d'actuar, la resta és simplement tenacitat. Les pors són tigres de paper. Pots fer qualsevol cosa que decideixis fer. Pots actuar per canviar i controlar la teva vida, i el procediment, el procés és la seva pròpia recompensa.",
+      "author": "Amelia Earhart",
+      "context": "Amelia Earhart, una aviadora i autora nord-americana pionera, va néixer el 24 de juliol de 1897. Va ser la primera dona a volar sola a través de l'oceà Atlàntic."
+    },
+    "motivationalQuote": {
+      "text": "Fes el millor que puguis fins que en sàpigues més. Llavors, quan en sàpigues més, fes-ho millor.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Alexandre Dumas pare",
+        "description": "Un prolífic novel·lista i dramaturg francès, més conegut per novel·les d'aventures com 'Els tres mosqueters' i 'El Comte de Montecristo'.",
+        "year": "1802"
+      },
+      {
+        "name": "Amelia Earhart",
+        "description": "Una aviadora i autora pionera nord-americana, va ser la primera dona a volar sola a través de l'oceà Atlàntic.",
+        "year": "1897"
+      },
+      {
+        "name": "Alice Ball",
+        "description": "Una química afroamericana que va desenvolupar el primer tractament injectable eficaç per a la malaltia de Hansen (lepra).",
+        "year": "1892"
+      }
+    ],
+    "events": [
+      {
+        "title": "Patentada la impremta rotativa",
+        "description": "Richard March Hoe va patentar la impremta rotativa, accelerant significativament la producció de diaris en permetre fins a 10.000 fulls per hora.",
+        "year": "1847"
+      },
+      {
+        "title": "Patentada la penicil·lina oral",
+        "description": "Es va concedir una patent per a una forma oral de penicil·lina, fent que un dels antibiòtics més crucials de la medicina estigués disponible en forma de píndola per primera vegada.",
+        "year": "1956"
+      },
+      {
+        "title": "Machu Picchu redescoberta per Hiram Bingham",
+        "description": "L'explorador nord-americà Hiram Bingham va \"redescobrir\" la ciutat inca de Machu Picchu, abandonada durant molt de temps, portant aquesta meravella antiga a l'atenció internacional.",
+        "year": "1911"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de l'Autocura",
+      "teaser": "Aquest dia anima la gent de tot el món a prioritzar el seu benestar i a practicar l'autocura."
+    }
+  }
+}
