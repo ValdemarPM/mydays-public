@@ -1,0 +1,343 @@
+{
+  "date": "2026-07-25",
+  "es": {
+    "saints": [
+      {
+        "name": "Santiago el Mayor, Apóstol",
+        "type": "Apóstol, Mártir",
+        "description": "Uno de los Doce Apóstoles de Jesús, hermano de Juan el Apóstol. Fue martirizado por el rey Herodes Agripa I en el año 44 d.C. y es venerado como el santo patrón de España y de los peregrinos."
+      },
+      {
+        "name": "Santa Ana, Madre de la Santísima Theotokos",
+        "type": "Matriarca",
+        "description": "En la tradición ortodoxa, Santa Ana es la madre de la Virgen María, la Santísima Theotokos. Es conmemorada por su piedad y su papel como madre de la Theotokos."
+      },
+      {
+        "name": "Santa Olimpia, la Diaconisa de Constantinopla",
+        "type": "Diaconisa",
+        "description": "Santa Olimpia fue una noble rica y piadosa en Constantinopla que se convirtió en diaconisa, conocida por su generosidad y apoyo a la Iglesia y a los necesitados."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Fiesta de Santiago",
+        "description": "Este día festivo católico honra a Santiago Apóstol, particularmente celebrado en España donde es el patrón, con peregrinaciones que a menudo concluyen en Santiago de Compostela."
+      },
+      {
+        "name": "Día de la República (Túnez)",
+        "description": "Este día festivo nacional en Túnez conmemora el establecimiento de la república en 1957."
+      },
+      {
+        "name": "Día Mundial para la Prevención del Ahogamiento",
+        "description": "Un día internacional designado por la ONU para destacar el impacto trágico y prevenible de los ahogamientos en familias y comunidades."
+      },
+      {
+        "name": "Día Nacional del Vaquero Americano",
+        "description": "Celebrado el cuarto sábado de julio en los Estados Unidos, este día celebra el legado perdurable del vaquero en la cultura y la historia estadounidenses."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El entusiasmo mueve el mundo.",
+      "author": "Arthur Balfour",
+      "context": "Arthur Balfour, un prominente estadista británico y ex Primer Ministro, nació el 25 de julio de 1848. Su cita reflexiona sobre el poder de la pasión para impulsar el progreso y el cambio."
+    },
+    "motivationalQuote": {
+      "text": "La oscuridad no puede expulsar a la oscuridad; solo la luz puede hacerlo. El odio no puede expulsar al odio; solo el amor puede hacerlo.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Rosalind Franklin",
+        "description": "Química inglesa y cristalógrafa de rayos X cuyo trabajo fue fundamental para la comprensión de las estructuras moleculares del ADN, ARN, virus, carbón y grafito.",
+        "year": "1920"
+      },
+      {
+        "name": "Matt LeBlanc",
+        "description": "Actor estadounidense más conocido por su papel como Joey Tribbiani en la comedia de situación de la NBC 'Friends' y su serie derivada 'Joey'.",
+        "year": "1967"
+      },
+      {
+        "name": "Iman",
+        "description": "Modelo de moda, actriz y empresaria somalí-estadounidense, ampliamente reconocida como un ícono de la moda y por su trabajo filantrópico.",
+        "year": "1955"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer Vuelo a Través del Canal de la Mancha",
+        "description": "Louis Blériot, un aviador francés, hizo historia al completar el primer vuelo en avión a través del Canal de la Mancha desde Calais, Francia, hasta Dover, Inglaterra, demostrando un avance significativo en la aviación.",
+        "year": "1909"
+      },
+      {
+        "title": "Nacimiento del Primer 'Bebé Probeta'",
+        "description": "Louise Joy Brown, la primera bebé del mundo concebida mediante fertilización in vitro (FIV), nació en Oldham, Inglaterra, marcando un logro monumental en la medicina reproductiva.",
+        "year": "1978"
+      },
+      {
+        "title": "Israel y Jordania Firman Declaración de Paz",
+        "description": "Israel y Jordania firmaron la Declaración de Washington, poniendo fin formalmente a 46 años de conflicto y fomentando una nueva era de paz y cooperación entre ambas naciones.",
+        "year": "1994"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Fiesta de Santiago",
+      "teaser": "Este día festivo católico honra a Santiago Apóstol, particularmente celebrado en España donde es el patrón, con peregrinaciones que a menudo concluyen en Santiago de Compostela."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. James the Greater, Apostle",
+        "type": "Apostle, Martyr",
+        "description": "One of the Twelve Apostles of Jesus, brother of John the Apostle. He was martyred by King Herod Agrippa I in 44 AD and is venerated as the patron saint of Spain and pilgrims."
+      },
+      {
+        "name": "Righteous Anna, Mother of the Most Holy Theotokos",
+        "type": "Matriarch",
+        "description": "In Orthodox tradition, Saint Anna is the mother of the Virgin Mary, the Most Holy Theotokos. She is commemorated for her piety and her role as the mother of the Theotokos."
+      },
+      {
+        "name": "Holy Woman Olympias the Deaconess of Constantinople",
+        "type": "Deaconess",
+        "description": "Saint Olympias was a wealthy and pious noblewoman in Constantinople who became a deaconess, known for her generosity and support of the Church and those in need."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Feast of Saint James",
+        "description": "This Catholic feast day honors St. James the Apostle, particularly celebrated in Spain where he is the patron saint, with pilgrimages often concluding at Santiago de Compostela."
+      },
+      {
+        "name": "Republic Day (Tunisia)",
+        "description": "This national holiday in Tunisia commemorates the establishment of the republic in 1957."
+      },
+      {
+        "name": "World Drowning Prevention Day",
+        "description": "An international observance designated by the UN to highlight the tragic and preventable impact of drowning on families and communities."
+      },
+      {
+        "name": "National Day of the American Cowboy",
+        "description": "Observed on the fourth Saturday of July in the United States, this day celebrates the cowboy's enduring legacy in American culture and history."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Enthusiasm moves the world.",
+      "author": "Arthur Balfour",
+      "context": "Arthur Balfour, a prominent British statesman and former Prime Minister, was born on July 25, 1848. His quote reflects on the power of passion in driving progress and change."
+    },
+    "motivationalQuote": {
+      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Rosalind Franklin",
+        "description": "An English chemist and X-ray crystallographer whose work was central to the understanding of the molecular structures of DNA, RNA, viruses, coal, and graphite.",
+        "year": "1920"
+      },
+      {
+        "name": "Matt LeBlanc",
+        "description": "An American actor best known for his role as Joey Tribbiani in the NBC sitcom 'Friends' and its spin-off series 'Joey'.",
+        "year": "1967"
+      },
+      {
+        "name": "Iman",
+        "description": "A Somali-American fashion model, actress, and entrepreneur, widely recognized as a fashion icon and for her philanthropic work.",
+        "year": "1955"
+      }
+    ],
+    "events": [
+      {
+        "title": "First Flight Across the English Channel",
+        "description": "Louis Blériot, a French aviator, made history by completing the first airplane flight across the English Channel from Calais, France, to Dover, England, demonstrating a significant advancement in aviation.",
+        "year": "1909"
+      },
+      {
+        "title": "Birth of the First 'Test-Tube Baby'",
+        "description": "Louise Joy Brown, the world's first baby conceived via in vitro fertilization (IVF), was born in Oldham, England, marking a monumental achievement in reproductive medicine.",
+        "year": "1978"
+      },
+      {
+        "title": "Israel and Jordan Sign Peace Declaration",
+        "description": "Israel and Jordan signed the Washington Declaration, formally ending 46 years of conflict and fostering a new era of peace and cooperation between the two nations.",
+        "year": "1994"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Feast of Saint James",
+      "teaser": "This Catholic feast day honors St. James the Apostle, particularly celebrated in Spain where he is the patron saint, with pilgrimages often concluding at Santiago de Compostela."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Tiago Maior, Apóstolo",
+        "type": "Apóstolo, Mártir",
+        "description": "Um dos Doze Apóstolos de Jesus, irmão de João Apóstolo. Foi martirizado pelo Rei Herodes Agripa I em 44 d.C. e é venerado como o santo padroeiro da Espanha e dos peregrinos."
+      },
+      {
+        "name": "Santa Ana, Mãe da Santíssima Theotokos",
+        "type": "Matriarca",
+        "description": "Na tradição Ortodoxa, Santa Ana é a mãe da Virgem Maria, a Santíssima Theotokos. Ela é comemorada por sua piedade e seu papel como mãe da Theotokos."
+      },
+      {
+        "name": "Santa Olímpia, a Diaconisa de Constantinopla",
+        "type": "Diaconisa",
+        "description": "Santa Olímpia foi uma nobre rica e piedosa em Constantinopla que se tornou diaconisa, conhecida por sua generosidade e apoio à Igreja e aos necessitados."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Festa de São Tiago",
+        "description": "Este dia de festa católica honra São Tiago Apóstolo, particularmente celebrado na Espanha, onde ele é o santo padroeiro, com peregrinações que frequentemente concluem em Santiago de Compostela."
+      },
+      {
+        "name": "Dia da República (Tunísia)",
+        "description": "Este feriado nacional na Tunísia comemora o estabelecimento da república em 1957."
+      },
+      {
+        "name": "Dia Mundial de Prevenção de Afogamentos",
+        "description": "Uma observância internacional designada pela ONU para destacar o impacto trágico e evitável de afogamentos em famílias e comunidades."
+      },
+      {
+        "name": "Dia Nacional do Cowboy Americano",
+        "description": "Observado no quarto sábado de julho nos Estados Unidos, este dia celebra o legado duradouro do cowboy na cultura e história americanas."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O entusiasmo move o mundo.",
+      "author": "Arthur Balfour",
+      "context": "Arthur Balfour, um proeminente estadista britânico e ex-primeiro-ministro, nasceu em 25 de julho de 1848. Sua citação reflete sobre o poder da paixão para impulsionar o progresso e a mudança."
+    },
+    "motivationalQuote": {
+      "text": "A escuridão não pode expulsar a escuridão; apenas a luz pode fazê-lo. O ódio não pode expulsar o ódio; apenas o amor pode fazê-lo.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Rosalind Franklin",
+        "description": "Uma química inglesa e cristalógrafa de raios-X cujo trabalho foi central para a compreensão das estruturas moleculares do DNA, RNA, vírus, carvão e grafite.",
+        "year": "1920"
+      },
+      {
+        "name": "Matt LeBlanc",
+        "description": "Um ator americano mais conhecido por seu papel como Joey Tribbiani na sitcom da NBC 'Friends' e sua série spin-off 'Joey'.",
+        "year": "1967"
+      },
+      {
+        "name": "Iman",
+        "description": "Uma modelo, atriz e empresária somali-americana, amplamente reconhecida como um ícone da moda e por seu trabalho filantrópico.",
+        "year": "1955"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeiro Voo Através do Canal da Mancha",
+        "description": "Louis Blériot, um aviador francês, fez história ao completar o primeiro voo de avião através do Canal da Mancha, de Calais, França, para Dover, Inglaterra, demonstrando um avanço significativo na aviação.",
+        "year": "1909"
+      },
+      {
+        "title": "Nascimento do Primeiro 'Bebê de Proveta'",
+        "description": "Louise Joy Brown, a primeira bebê do mundo concebida por meio de fertilização in vitro (FIV), nasceu em Oldham, Inglaterra, marcando um feito monumental na medicina reprodutiva.",
+        "year": "1978"
+      },
+      {
+        "title": "Israel e Jordânia Assinam Declaração de Paz",
+        "description": "Israel e Jordânia assinaram a Declaração de Washington, encerrando formalmente 46 anos de conflito e promovendo uma nova era de paz e cooperação entre as duas nações.",
+        "year": "1994"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Festa de São Tiago",
+      "teaser": "Este dia de festa católica honra São Tiago Apóstolo, particularmente celebrado na Espanha, onde ele é o santo padroeiro, com peregrinações que frequentemente concluem em Santiago de Compostela."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Jaume el Major, Apòstol",
+        "type": "Apòstol, Màrtir",
+        "description": "Un dels Dotze Apòstols de Jesús, germà de Joan l'Apòstol. Va ser martiritzat pel rei Herodes Agripa I l'any 44 dC i és venerat com el patró d'Espanya i dels pelegrins."
+      },
+      {
+        "name": "Santa Anna, Mare de Déu",
+        "type": "Matriarca",
+        "description": "En la tradició ortodoxa, Santa Anna és la mare de la Mare de Déu, la Santíssima Mare de Déu. És commemorada per la seva pietat i el seu paper com a mare de la Mare de Déu."
+      },
+      {
+        "name": "Santa Olímpies la Diaconessa de Constantinoble",
+        "type": "Diaconessa",
+        "description": "Santa Olímpies va ser una noble rica i pia a Constantinoble que es va convertir en diaconessa, coneguda per la seva generositat i el seu suport a l'Església i als necessitats."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Festa de Sant Jaume",
+        "description": "Aquest dia festiu catòlic honora Sant Jaume Apòstol, especialment celebrat a Espanya, on és el patró, amb pelegrinatges que sovint conclouen a Santiago de Compostel·la."
+      },
+      {
+        "name": "Dia de la República (Tunísia)",
+        "description": "Aquesta festa nacional a Tunísia commemora l'establiment de la república el 1957."
+      },
+      {
+        "name": "Dia Mundial per a la Prevenció dels Ofegaments",
+        "description": "Una commemoració internacional designada per l'ONU per destacar l'impacte tràgic i evitable dels ofegaments en famílies i comunitats."
+      },
+      {
+        "name": "Dia Nacional del Cowboy Americà",
+        "description": "Celebrat el quart dissabte de juliol als Estats Units, aquest dia celebra el llegat perdurable del cowboy en la cultura i la història americanes."
+      }
+    ],
+    "historicalQuote": {
+      "text": "L'entusiasme mou el món.",
+      "author": "Arthur Balfour",
+      "context": "Arthur Balfour, un prominent estadista britànic i antic primer ministre, va néixer el 25 de juliol de 1848. La seva cita reflexiona sobre el poder de la passió per impulsar el progrés i el canvi."
+    },
+    "motivationalQuote": {
+      "text": "La foscor no pot expulsar la foscor; només la llum pot fer-ho. L'odi no pot expulsar l'odi; només l'amor pot fer-ho.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Rosalind Franklin",
+        "description": "Una química i cristal·lògrafa de raigs X anglesa la feina de la qual va ser fonamental per a la comprensió de les estructures moleculars de l'ADN, l'ARN, els virus, el carbó i el grafit.",
+        "year": "1920"
+      },
+      {
+        "name": "Matt LeBlanc",
+        "description": "Un actor americà conegut pel seu paper de Joey Tribbiani a la sitcom de la NBC 'Friends' i la seva sèrie derivada 'Joey'.",
+        "year": "1967"
+      },
+      {
+        "name": "Iman",
+        "description": "Una model de moda, actriu i emprenedora somali-americana, àmpliament reconeguda com una icona de la moda i per la seva tasca filantròpica.",
+        "year": "1955"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer Vol a través del Canal de la Mànega",
+        "description": "Louis Blériot, un aviador francès, va fer història completant el primer vol en avió a través del Canal de la Mànega des de Calais, França, fins a Dover, Anglaterra, demostrant un avenç significatiu en l'aviació.",
+        "year": "1909"
+      },
+      {
+        "title": "Naixement del Primer 'Bebè Proveta'",
+        "description": "Louise Joy Brown, el primer bebè del món concebut mitjançant fecundació in vitro (FIV), va néixer a Oldham, Anglaterra, marcant un assoliment monumental en la medicina reproductiva.",
+        "year": "1978"
+      },
+      {
+        "title": "Israel i Jordània Signen la Declaració de Pau",
+        "description": "Israel i Jordània van signar la Declaració de Washington, posant fi formalment a 46 anys de conflicte i fomentant una nova era de pau i cooperació entre les dues nacions.",
+        "year": "1994"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Festa de Sant Jaume",
+      "teaser": "Aquest dia festiu catòlic honora Sant Jaume Apòstol, especialment celebrat a Espanya, on és el patró, amb pelegrinatges que sovint conclouen a Santiago de Compostel·la."
+    }
+  }
+}
