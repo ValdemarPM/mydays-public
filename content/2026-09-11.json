@@ -1,0 +1,327 @@
+{
+  "date": "2026-09-11",
+  "es": {
+    "saints": [
+      {
+        "name": "San Juan Gabriel Perboyre",
+        "type": "Sacerdote, Mártir",
+        "description": "Un misionero vicenciano francés que sirvió en China. Fue martirizado por estrangulamiento el 11 de septiembre de 1840, después de sufrir severas torturas por su fe."
+      },
+      {
+        "name": "San Pafnucio",
+        "type": "Obispo, Confesor",
+        "description": "Un ermitaño y obispo egipcio del siglo IV, conocido como uno de los Padres del Desierto. Sobrevivió a brutales torturas durante las persecuciones cristianas y se opuso activamente a la herejía arriana."
+      },
+      {
+        "name": "Santos Proto y Jacinto",
+        "type": "Mártires",
+        "description": "Dos hermanos que fueron martirizados en Roma alrededor del 257 d.C. durante la persecución de los cristianos bajo el emperador Valeriano. Eran sirvientes en la casa de Santa Eugenia de Roma."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día del Patriota (EE. UU.)",
+        "description": "Un día de recuerdo en los Estados Unidos para las casi 3.000 víctimas de los ataques terroristas del 11 de septiembre de 2001."
+      },
+      {
+        "name": "Día Nacional de Servicio y Recuerdo (EE. UU.)",
+        "description": "Observado junto con el Día del Patriota, este día anima a los estadounidenses a participar en servicios de caridad en honor a los perdidos y afectados por los ataques del 11 de septiembre."
+      },
+      {
+        "name": "Día del Idioma Alemán",
+        "description": "Una celebración internacional que conmemora el idioma alemán, que es la lengua materna más hablada en Europa."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Los ataques terroristas pueden sacudir los cimientos de nuestros edificios más grandes, pero no pueden tocar los cimientos de Estados Unidos. Estos actos hicieron añicos el acero, pero no pueden abollar el acero de la determinación estadounidense.",
+      "author": "George W. Bush",
+      "context": "Esta cita fue pronunciada por el presidente George W. Bush tras los devastadores ataques terroristas del 11 de septiembre de 2001, expresando la resiliencia y el espíritu inquebrantable de la nación."
+    },
+    "motivationalQuote": {
+      "text": "No es porque las cosas son difíciles que no nos atrevemos; es porque no nos atrevemos que son difíciles.",
+      "author": "Séneca"
+    },
+    "births": [
+      {
+        "name": "D.H. Lawrence",
+        "description": "Un influyente novelista, poeta y crítico literario inglés, conocido por sus obras modernistas que exploraron temas de modernidad y sexualidad.",
+        "year": "1885"
+      },
+      {
+        "name": "O. Henry (William Sydney Porter)",
+        "description": "Un célebre escritor estadounidense de cuentos, famoso por sus ingeniosas narrativas y sus característicos finales inesperados.",
+        "year": "1862"
+      },
+      {
+        "name": "Harry Connick Jr.",
+        "description": "Un consumado cantante, actor y pianista estadounidense conocido por sus diversos talentos musicales en jazz, pop y blues.",
+        "year": "1967"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundación de la Abadía de Cluny",
+        "description": "Guillermo I, Duque de Aquitania, fundó la Abadía benedictina de Cluny, estableciéndola libre de control feudal, lo que llevó a una significativa reforma monástica en toda Europa.",
+        "year": "0911"
+      },
+      {
+        "title": "Alexander Hamilton nombrado Secretario del Tesoro",
+        "description": "Alexander Hamilton fue nombrado como el primer Secretario del Tesoro de los Estados Unidos, un momento crucial en la formación de la estructura económica de la joven nación.",
+        "year": "1789"
+      },
+      {
+        "title": "El sistema BART inicia servicio de pasajeros",
+        "description": "El sistema de tránsito rápido del Área de la Bahía de San Francisco (BART) comenzó su servicio de pasajeros, marcando un hito importante en la infraestructura de transporte público urbano.",
+        "year": "1972"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día del Patriota (EE. UU.)",
+      "teaser": "Un día de recuerdo en los Estados Unidos para las casi 3.000 víctimas de los ataques terroristas del 11 de septiembre de 2001."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. John Gabriel Perboyre",
+        "type": "Priest, Martyr",
+        "description": "A French Vincentian missionary who served in China. He was martyred by strangulation on September 11, 1840, after enduring severe torture for his faith."
+      },
+      {
+        "name": "St. Paphnutius",
+        "type": "Bishop, Confessor",
+        "description": "An Egyptian hermit and bishop from the 4th century, known as one of the Desert Fathers. He survived brutal tortures during Christian persecutions and actively opposed the Arian heresy."
+      },
+      {
+        "name": "Ss. Protus and Hyacinth",
+        "type": "Martyrs",
+        "description": "Two brothers who were martyred in Rome around 257 AD during the persecution of Christians under Emperor Valerian. They were servants in the household of St. Eugenia of Rome."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Patriot Day (U.S.A.)",
+        "description": "A day of remembrance in the United States for the nearly 3,000 victims of the terrorist attacks on September 11, 2001."
+      },
+      {
+        "name": "National Day of Service and Remembrance (U.S.A.)",
+        "description": "Observed in conjunction with Patriot Day, this day encourages Americans to engage in charitable service in honor of those lost and impacted by the 9/11 attacks."
+      },
+      {
+        "name": "German Language Day",
+        "description": "An international observance celebrating the German language, which is the most widely spoken native language in Europe."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Terrorist attacks can shake the foundations of our biggest buildings, but they cannot touch the foundation of America. These acts shattered steel, but they cannot dent the steel of American resolve.",
+      "author": "George W. Bush",
+      "context": "This quote was delivered by President George W. Bush in the aftermath of the devastating September 11, 2001, terrorist attacks, expressing the nation's resilience and unwavering spirit."
+    },
+    "motivationalQuote": {
+      "text": "It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.",
+      "author": "Seneca"
+    },
+    "births": [
+      {
+        "name": "D.H. Lawrence",
+        "description": "An influential English novelist, poet, and literary critic, known for his modernist works that explored themes of modernity and sexuality.",
+        "year": "1885"
+      },
+      {
+        "name": "O. Henry (William Sydney Porter)",
+        "description": "A celebrated American short story writer, famous for his witty narratives and signature twist endings.",
+        "year": "1862"
+      },
+      {
+        "name": "Harry Connick Jr.",
+        "description": "An accomplished American singer, actor, and pianist known for his diverse musical talents in jazz, pop, and blues.",
+        "year": "1967"
+      }
+    ],
+    "events": [
+      {
+        "title": "Abbey of Cluny Founded",
+        "description": "William I, Duke of Aquitaine, founded the Benedictine Abbey of Cluny, establishing it free from feudal control, which led to significant monastic reform across Europe.",
+        "year": "0911"
+      },
+      {
+        "title": "Alexander Hamilton Appointed Secretary of the Treasury",
+        "description": "Alexander Hamilton was appointed as the first United States Secretary of the Treasury, a pivotal moment in the formation of the young nation's economic structure.",
+        "year": "1789"
+      },
+      {
+        "title": "BART System Begins Passenger Service",
+        "description": "The San Francisco Bay Area Rapid Transit (BART) system commenced passenger service, marking a major milestone in urban public transportation infrastructure.",
+        "year": "1972"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Patriot Day (U.S.A.)",
+      "teaser": "A day of remembrance in the United States for the nearly 3,000 victims of the terrorist attacks on September 11, 2001."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São João Gabriel Perboyre",
+        "type": "Sacerdote, Mártir",
+        "description": "Um missionário vicentino francês que serviu na China. Foi martirizado por estrangulamento em 11 de setembro de 1840, após suportar severas torturas por sua fé."
+      },
+      {
+        "name": "São Pafnúcio",
+        "type": "Bispo, Confessor",
+        "description": "Um eremita e bispo egípcio do século IV, conhecido como um dos Padres do Deserto. Ele sobreviveu a torturas brutais durante as perseguições cristãs e se opôs ativamente à heresia ariana."
+      },
+      {
+        "name": "Santos Proto e Jacinto",
+        "type": "Mártires",
+        "description": "Dois irmãos que foram martirizados em Roma por volta de 257 d.C. durante a perseguição aos cristãos sob o imperador Valeriano. Eles eram servos na casa de Santa Eugênia de Roma."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia do Patriota (EUA)",
+        "description": "Um dia de lembrança nos Estados Unidos para as quase 3.000 vítimas dos ataques terroristas de 11 de setembro de 2001."
+      },
+      {
+        "name": "Dia Nacional de Serviço e Memória (EUA)",
+        "description": "Observado em conjunto com o Dia do Patriota, este dia incentiva os americanos a se engajarem em serviços de caridade em homenagem àqueles perdidos e impactados pelos ataques de 11 de setembro."
+      },
+      {
+        "name": "Dia da Língua Alemã",
+        "description": "Uma celebração internacional que homenageia a língua alemã, que é a língua nativa mais falada na Europa."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Ataques terroristas podem abalar os alicerces dos nossos maiores edifícios, mas não podem tocar os alicerces da América. Esses atos estilhaçaram o aço, mas não podem amassar o aço da determinação americana.",
+      "author": "George W. Bush",
+      "context": "Esta citação foi proferida pelo Presidente George W. Bush após os devastadores ataques terroristas de 11 de setembro de 2001, expressando a resiliência e o espírito inabalável da nação."
+    },
+    "motivationalQuote": {
+      "text": "Não é porque as coisas são difíceis que não ousamos; é porque não ousamos que elas são difíceis.",
+      "author": "Sêneca"
+    },
+    "births": [
+      {
+        "name": "D.H. Lawrence",
+        "description": "Um influente romancista, poeta e crítico literário inglês, conhecido por suas obras modernistas que exploravam temas de modernidade e sexualidade.",
+        "year": "1885"
+      },
+      {
+        "name": "O. Henry (William Sydney Porter)",
+        "description": "Um célebre contista americano, famoso por suas narrativas espirituosas e seus característicos finais surpreendentes.",
+        "year": "1862"
+      },
+      {
+        "name": "Harry Connick Jr.",
+        "description": "Um talentoso cantor, ator e pianista americano conhecido por seus diversos talentos musicais em jazz, pop e blues.",
+        "year": "1967"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundação da Abadia de Cluny",
+        "description": "Guilherme I, Duque da Aquitânia, fundou a Abadia beneditina de Cluny, estabelecendo-a livre do controle feudal, o que levou a uma significativa reforma monástica em toda a Europa.",
+        "year": "0911"
+      },
+      {
+        "title": "Alexander Hamilton nomeado Secretário do Tesouro",
+        "description": "Alexander Hamilton foi nomeado o primeiro Secretário do Tesouro dos Estados Unidos, um momento crucial na formação da estrutura econômica da jovem nação.",
+        "year": "1789"
+      },
+      {
+        "title": "O sistema BART inicia o serviço de passageiros",
+        "description": "O sistema de Trânsito Rápido da Área da Baía de São Francisco (BART) iniciou o serviço de passageiros, marcando um importante marco na infraestrutura de transporte público urbano.",
+        "year": "1972"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia do Patriota (EUA)",
+      "teaser": "Um dia de lembrança nos Estados Unidos para as quase 3.000 vítimas dos ataques terroristas de 11 de setembro de 2001."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Joan Gabriel Perboyre",
+        "type": "Sacerdot, Màrtir",
+        "description": "Missioner vicencià francès que va servir a la Xina. Va ser martiritzat per estrangulació l'11 de setembre de 1840, després de suportar severes tortures per la seva fe."
+      },
+      {
+        "name": "Sant Pafnuci",
+        "type": "Bisbe, Confessor",
+        "description": "Eremita i bisbe egipci del segle IV, conegut com un dels Pares del Desert. Va sobreviure a brutals tortures durant les persecucions cristianes i es va oposar activament a l'heretgia arriana."
+      },
+      {
+        "name": "Sants Prot i Jacint",
+        "type": "Màrtirs",
+        "description": "Dos germans que van ser martiritzats a Roma cap al 257 dC durant la persecució dels cristians sota l'emperador Valerià. Eren servents a la casa de Santa Eugènia de Roma."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia del Patriota (E.U.A.)",
+        "description": "Un dia de record als Estats Units per les gairebé 3.000 víctimes dels atacs terroristes de l'11 de setembre de 2001."
+      },
+      {
+        "name": "Dia Nacional de Servei i Record (E.U.A.)",
+        "description": "Celebrat conjuntament amb el Dia del Patriota, aquest dia anima els nord-americans a participar en serveis benèfics en honor dels que van perdre la vida i es van veure afectats pels atacs de l'11 de setembre."
+      },
+      {
+        "name": "Dia de la Llengua Alemanya",
+        "description": "Una celebració internacional de la llengua alemanya, que és la llengua materna més parlada a Europa."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Els atacs terroristes poden sacsejar els fonaments dels nostres edificis més grans, però no poden tocar els fonaments d'Amèrica. Aquests actes van destrossar l'acer, però no poden abonyegar l'acer de la resolució americana.",
+      "author": "George W. Bush",
+      "context": "Aquesta cita va ser pronunciada pel president George W. Bush després dels devastadors atacs terroristes de l'11 de setembre de 2001, expressant la resiliència i l'esperit inquebrantable de la nació."
+    },
+    "motivationalQuote": {
+      "text": "No és perquè les coses siguin difícils que no gosen; és perquè no gosen que són difícils.",
+      "author": "Sèneca"
+    },
+    "births": [
+      {
+        "name": "D.H. Lawrence",
+        "description": "Un influent novel·lista, poeta i crític literari anglès, conegut per les seves obres modernistes que exploraven temes de modernitat i sexualitat.",
+        "year": "1885"
+      },
+      {
+        "name": "O. Henry (William Sydney Porter)",
+        "description": "Un cèlebre escriptor americà de contes, famós per les seves narratives enginyoses i els seus finals sorprenents.",
+        "year": "1862"
+      },
+      {
+        "name": "Harry Connick Jr.",
+        "description": "Un reconegut cantant, actor i pianista americà conegut pels seus diversos talents musicals en jazz, pop i blues.",
+        "year": "1967"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundació de l'Abadia de Cluny",
+        "description": "Guillem I, duc d'Aquitània, va fundar l'Abadia benedictina de Cluny, establint-la lliure de control feudal, cosa que va portar a una important reforma monàstica a tota Europa.",
+        "year": "0911"
+      },
+      {
+        "title": "Alexander Hamilton nomenat Secretari del Tresor",
+        "description": "Alexander Hamilton va ser nomenat el primer Secretari del Tresor dels Estats Units, un moment crucial en la formació de l'estructura econòmica de la jove nació.",
+        "year": "1789"
+      },
+      {
+        "title": "El sistema BART inicia el servei de passatgers",
+        "description": "El sistema de Transport Ràpid de l'Àrea de la Badia de San Francisco (BART) va iniciar el servei de passatgers, marcant una fita important en la infraestructura de transport públic urbà.",
+        "year": "1972"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia del Patriota (E.U.A.)",
+      "teaser": "Un dia de record als Estats Units per les gairebé 3.000 víctimes dels atacs terroristes de l'11 de setembre de 2001."
+    }
+  }
+}
