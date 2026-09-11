@@ -1,0 +1,327 @@
+{
+  "date": "2026-09-12",
+  "es": {
+    "saints": [
+      {
+        "name": "Hieromártir Autónomo",
+        "type": "Obispo",
+        "description": "Durante la persecución de Diocleciano, San Autónomo, un obispo de Italia, predicó con celo en Bitinia, convirtiendo a muchos al cristianismo. Finalmente fue martirizado por paganos que atacaron la iglesia donde oficiaba la Divina Liturgia."
+      },
+      {
+        "name": "San Ailbe de Emly",
+        "type": "Obispo",
+        "description": "San Ailbe es conocido como el primer obispo de Emly, Irlanda, y destacó por su caridad y excelente predicación. La tradición sugiere que fue abandonado de niño y amamantado por una loba."
+      },
+      {
+        "name": "San Julián de Galacia",
+        "type": "Mártir y Sacerdote",
+        "description": "San Julián fue un sacerdote que vivió en el siglo IV cerca de Ancira. Fue arrestado por esconderse con otros cristianos y celebrar servicios divinos, y fue martirizado después de negarse a sacrificar a dioses paganos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Nacional del Videojuego",
+        "description": "Este día celebra el medio de entretenimiento interactivo de los videojuegos, una industria con un mercado global que supera los $180 mil millones anuales."
+      },
+      {
+        "name": "Día Nacional del Batido de Chocolate",
+        "description": "Esta celebración conmemora la deliciosa bebida mezclada de helado de chocolate y leche."
+      },
+      {
+        "name": "Día del Idioma Alemán",
+        "description": "Celebrado internacionalmente por las comunidades de habla alemana, este día conmemora la lengua y la cultura alemanas."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Elegimos ir a la Luna en esta década y hacer las otras cosas, no porque sean fáciles, sino porque son difíciles.",
+      "author": "John F. Kennedy",
+      "context": "El presidente de los Estados Unidos, John F. Kennedy, pronunció este inspirador discurso en la Universidad de Rice el 12 de septiembre de 1962, desafiando al pueblo estadounidense a apoyar el esfuerzo para llevar a un hombre a la Luna antes de que terminara la década."
+    },
+    "motivationalQuote": {
+      "text": "La única persona en la que estás destinado a convertirte es la persona que decides ser.",
+      "author": "Ralph Waldo Emerson"
+    },
+    "births": [
+      {
+        "name": "Jesse Owens",
+        "description": "Atleta estadounidense de atletismo y cuatro veces medallista de oro olímpico durante los Juegos Olímpicos de Berlín de 1936, conocido por sus extraordinarios logros en velocidad y salto de longitud.",
+        "year": "1913"
+      },
+      {
+        "name": "Irène Joliot-Curie",
+        "description": "Física y química francesa que, junto con su esposo Frédéric Joliot-Curie, recibió el Premio Nobel de Química en 1935 por su trabajo en la síntesis de nuevos isótopos radiactivos.",
+        "year": "1897"
+      },
+      {
+        "name": "Jennifer Hudson",
+        "description": "Cantante y actriz estadounidense galardonada que saltó a la fama después de aparecer en American Idol y ha ganado un Oscar, Grammy, Globo de Oro y un Premio de la Academia Británica.",
+        "year": "1981"
+      }
+    ],
+    "events": [
+      {
+        "title": "La Luna 2 llega a la Luna",
+        "description": "La Unión Soviética lanzó la Luna 2, que se convirtió en el primer objeto hecho por el hombre en alcanzar con éxito la superficie de la Luna, impactando el 13 de septiembre de 1959.",
+        "year": "1959"
+      },
+      {
+        "title": "El Transbordador Espacial Endeavour se lanza con Mae Carol Jemison",
+        "description": "El Transbordador Espacial Endeavour de la NASA lanzó la misión STS-47, llevando a Mae Carol Jemison, la primera mujer afroamericana en viajar al espacio.",
+        "year": "1992"
+      },
+      {
+        "title": "Firma del Acuerdo Dos más Cuatro",
+        "description": "Alemania Oriental y Occidental, junto con las cuatro potencias aliadas, firmaron el Acuerdo Dos más Cuatro, un tratado que allanó el camino para la reunificación alemana.",
+        "year": "1990"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Nacional del Videojuego",
+      "teaser": "Este día celebra el medio de entretenimiento interactivo de los videojuegos, una industria con un mercado global que supera los $180 mil millones anuales."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Hieromartyr Autonomus",
+        "type": "Bishop",
+        "description": "During the Diocletian persecution, Saint Autonomus, a bishop from Italy, preached zealously in Bithynia, converting many to Christianity. He was eventually martyred by pagans who attacked the church where he was serving Divine Liturgy."
+      },
+      {
+        "name": "Saint Ailbe of Emly",
+        "type": "Bishop",
+        "description": "Saint Ailbe is known as the first Bishop of Emly, Ireland, and was noted for his charity and excellent preaching. Lore suggests he was abandoned as an infant and suckled by a she-wolf."
+      },
+      {
+        "name": "Saint Julian of Galatia",
+        "type": "Martyr and Priest",
+        "description": "Saint Julian was a priest who lived in the fourth century near Ancyra. He was arrested for hiding with other Christians and celebrating divine services, and was martyred after refusing to sacrifice to pagan gods."
+      }
+    ],
+    "observances": [
+      {
+        "name": "National Video Game Day",
+        "description": "This day celebrates the interactive entertainment medium of video games, an industry with a global market exceeding $180 billion annually."
+      },
+      {
+        "name": "National Chocolate Milkshake Day",
+        "description": "This observance celebrates the delicious blended drink of chocolate ice cream and milk."
+      },
+      {
+        "name": "German Language Day",
+        "description": "Observed internationally by German-speaking communities, this day celebrates the German language and its culture."
+      }
+    ],
+    "historicalQuote": {
+      "text": "We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard.",
+      "author": "John F. Kennedy",
+      "context": "U.S. President John F. Kennedy delivered this inspiring speech at Rice University on September 12, 1962, challenging the American people to support the effort to land a man on the Moon by the end of the decade."
+    },
+    "motivationalQuote": {
+      "text": "The only person you are destined to become is the person you decide to be.",
+      "author": "Ralph Waldo Emerson"
+    },
+    "births": [
+      {
+        "name": "Jesse Owens",
+        "description": "An American track and field athlete and four-time Olympic gold medalist during the 1936 Berlin Olympics, known for his extraordinary achievements in sprints and long jump.",
+        "year": "1913"
+      },
+      {
+        "name": "Irène Joliot-Curie",
+        "description": "A French physicist and chemist who, along with her husband Frédéric Joliot-Curie, received the Nobel Prize in Chemistry in 1935 for their work on the synthesis of new radioactive isotopes.",
+        "year": "1897"
+      },
+      {
+        "name": "Jennifer Hudson",
+        "description": "An award-winning American singer and actress who rose to fame after appearing on American Idol and has won an Oscar, Grammy, Golden Globe, and British Academy Award.",
+        "year": "1981"
+      }
+    ],
+    "events": [
+      {
+        "title": "Luna 2 Reaches the Moon",
+        "description": "The Soviet Union launched Luna 2, which became the first human-made object to successfully reach the Moon's surface, impacting it on September 13, 1959.",
+        "year": "1959"
+      },
+      {
+        "title": "Space Shuttle Endeavour Launches with Mae Carol Jemison",
+        "description": "NASA's Space Shuttle Endeavour launched on mission STS-47, carrying Mae Carol Jemison, the first African-American woman to travel to space.",
+        "year": "1992"
+      },
+      {
+        "title": "Two Plus Four Agreement Signed",
+        "description": "East and West Germany, along with the four Allied powers, signed the Two Plus Four Agreement, a treaty that paved the way for German reunification.",
+        "year": "1990"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is National Video Game Day",
+      "teaser": "This day celebrates the interactive entertainment medium of video games, an industry with a global market exceeding $180 billion annually."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Hieromártir Autônomo",
+        "type": "Bispo",
+        "description": "Durante a perseguição de Diocleciano, Santo Autônomo, um bispo da Itália, pregou com zelo na Bitínia, convertendo muitos ao cristianismo. Ele foi finalmente martirizado por pagãos que atacaram a igreja onde ele celebrava a Divina Liturgia."
+      },
+      {
+        "name": "São Ailbe de Emly",
+        "type": "Bispo",
+        "description": "São Ailbe é conhecido como o primeiro Bispo de Emly, Irlanda, e notável por sua caridade e excelente pregação. A tradição sugere que ele foi abandonado quando bebê e amamentado por uma loba."
+      },
+      {
+        "name": "São Julião da Galácia",
+        "type": "Mártir e Sacerdote",
+        "description": "São Julião foi um sacerdote que viveu no século IV perto de Ancira. Ele foi preso por se esconder com outros cristãos e celebrar serviços divinos, e foi martirizado após se recusar a sacrificar a deuses pagãos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional do Videogame",
+        "description": "Este dia celebra o meio de entretenimento interativo dos videogames, uma indústria com um mercado global que excede US$ 180 bilhões anualmente."
+      },
+      {
+        "name": "Dia Nacional do Milkshake de Chocolate",
+        "description": "Esta observância celebra a deliciosa bebida batida de sorvete de chocolate e leite."
+      },
+      {
+        "name": "Dia da Língua Alemã",
+        "description": "Celebrado internacionalmente pelas comunidades de língua alemã, este dia celebra a língua e a cultura alemãs."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nós escolhemos ir à Lua nesta década e fazer as outras coisas, não porque são fáceis, mas porque são difíceis.",
+      "author": "John F. Kennedy",
+      "context": "O Presidente dos EUA, John F. Kennedy, proferiu este discurso inspirador na Universidade Rice em 12 de setembro de 1962, desafiando o povo americano a apoiar o esforço para pousar um homem na Lua até o final da década."
+    },
+    "motivationalQuote": {
+      "text": "A única pessoa que você está destinado a se tornar é a pessoa que você decide ser.",
+      "author": "Ralph Waldo Emerson"
+    },
+    "births": [
+      {
+        "name": "Jesse Owens",
+        "description": "Atleta americano de atletismo e quatro vezes medalhista de ouro olímpico durante os Jogos Olímpicos de Berlim de 1936, conhecido por suas extraordinárias conquistas em corridas de velocidade e salto em distância.",
+        "year": "1913"
+      },
+      {
+        "name": "Irène Joliot-Curie",
+        "description": "Física e química francesa que, juntamente com seu marido Frédéric Joliot-Curie, recebeu o Prêmio Nobel de Química em 1935 por seu trabalho na síntese de novos isótopos radioativos.",
+        "year": "1897"
+      },
+      {
+        "name": "Jennifer Hudson",
+        "description": "Cantora e atriz americana premiada que ganhou fama após aparecer no American Idol e ganhou um Oscar, Grammy, Globo de Ouro e um British Academy Award.",
+        "year": "1981"
+      }
+    ],
+    "events": [
+      {
+        "title": "Luna 2 Chega à Lua",
+        "description": "A União Soviética lançou a Luna 2, que se tornou o primeiro objeto feito pelo homem a alcançar com sucesso a superfície da Lua, impactando-a em 13 de setembro de 1959.",
+        "year": "1959"
+      },
+      {
+        "title": "Ônibus Espacial Endeavour Lança com Mae Carol Jemison",
+        "description": "O Ônibus Espacial Endeavour da NASA lançou a missão STS-47, transportando Mae Carol Jemison, a primeira mulher afro-americana a viajar para o espaço.",
+        "year": "1992"
+      },
+      {
+        "title": "Acordo Dois Mais Quatro Assinado",
+        "description": "Alemanha Oriental e Ocidental, juntamente com as quatro potências aliadas, assinaram o Acordo Dois Mais Quatro, um tratado que abriu caminho para a reunificação alemã.",
+        "year": "1990"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Nacional do Videogame",
+      "teaser": "Este dia celebra o meio de entretenimento interativo dos videogames, uma indústria com um mercado global que excede US$ 180 bilhões anualmente."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Hieromàrtir Autònom",
+        "type": "Bisbe",
+        "description": "Durant la persecució de Dioclecià, Sant Autònom, un bisbe d'Itàlia, va predicar amb zel a Bitínia, convertint molts al cristianisme. Finalment, va ser martiritzat per pagans que van atacar l'església on estava celebrant la Divina Litúrgia."
+      },
+      {
+        "name": "Sant Ailbe d'Emly",
+        "type": "Bisbe",
+        "description": "Sant Ailbe és conegut com el primer bisbe d'Emly, Irlanda, i va destacar per la seva caritat i la seva excel·lent predicació. La llegenda suggereix que va ser abandonat de petit i alletat per una lloba."
+      },
+      {
+        "name": "Sant Julià de Galàcia",
+        "type": "Màrtir i Prevere",
+        "description": "Sant Julià va ser un prevere que va viure al segle IV prop d'Ancira. Va ser arrestat per amagar-se amb altres cristians i celebrar serveis divins, i va ser martiritzat després de negar-se a sacrificar-se als déus pagans."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional dels Videojocs",
+        "description": "Aquest dia celebra el mitjà d'entreteniment interactiu dels videojocs, una indústria amb un mercat global que supera els 180 mil milions de dòlars anuals."
+      },
+      {
+        "name": "Dia Nacional del Batut de Xocolata",
+        "description": "Aquesta celebració commemora la deliciosa beguda de gelat de xocolata i llet batuts."
+      },
+      {
+        "name": "Dia de la Llengua Alemanya",
+        "description": "Celebrat internacionalment per les comunitats de parla alemanya, aquest dia celebra la llengua alemanya i la seva cultura."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Triem anar a la Lluna en aquesta dècada i fer les altres coses, no perquè siguin fàcils, sinó perquè són difícils.",
+      "author": "John F. Kennedy",
+      "context": "El president dels EUA, John F. Kennedy, va pronunciar aquest discurs inspirador a la Universitat de Rice el 12 de setembre de 1962, desafiant el poble americà a donar suport a l'esforç per enviar un home a la Lluna abans de finals de la dècada."
+    },
+    "motivationalQuote": {
+      "text": "L'única persona que estàs destinat a ser és la persona que decideixes ser.",
+      "author": "Ralph Waldo Emerson"
+    },
+    "births": [
+      {
+        "name": "Jesse Owens",
+        "description": "Atleta nord-americà de pista i camp, i quatre vegades medallista d'or olímpic durant els Jocs Olímpics de Berlín de 1936, conegut pels seus extraordinaris èxits en esprint i salt de llargada.",
+        "year": "1913"
+      },
+      {
+        "name": "Irène Joliot-Curie",
+        "description": "Física i química francesa que, juntament amb el seu marit Frédéric Joliot-Curie, va rebre el Premi Nobel de Química el 1935 pel seu treball en la síntesi de nous isòtops radioactius.",
+        "year": "1897"
+      },
+      {
+        "name": "Jennifer Hudson",
+        "description": "Cantant i actriu nord-americana guardonada que va saltar a la fama després d'aparèixer a American Idol i ha guanyat un Oscar, un Grammy, un Globus d'Or i un Premi BAFTA.",
+        "year": "1981"
+      }
+    ],
+    "events": [
+      {
+        "title": "La Luna 2 Arriba a la Lluna",
+        "description": "La Unió Soviètica va llançar la Luna 2, que es va convertir en el primer objecte fet per l'home a arribar amb èxit a la superfície de la Lluna, impactant-hi el 13 de setembre de 1959.",
+        "year": "1959"
+      },
+      {
+        "title": "El Transbordador Espacial Endeavour S'enlaira amb Mae Carol Jemison",
+        "description": "El Transbordador Espacial Endeavour de la NASA es va enlairar en la missió STS-47, transportant Mae Carol Jemison, la primera dona afroamericana a viatjar a l'espai.",
+        "year": "1992"
+      },
+      {
+        "title": "Signatura de l'Acord Dos Més Quatre",
+        "description": "Alemanya de l'Est i Alemanya de l'Oest, juntament amb les quatre potències Aliades, van signar l'Acord Dos Més Quatre, un tractat que va obrir el camí a la reunificació alemanya.",
+        "year": "1990"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Nacional dels Videojocs",
+      "teaser": "Aquest dia celebra el mitjà d'entreteniment interactiu dels videojocs, una indústria amb un mercat global que supera els 180 mil milions de dòlars anuals."
+    }
+  }
+}
