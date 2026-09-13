@@ -1,0 +1,307 @@
+{
+  "date": "2026-09-14",
+  "es": {
+    "saints": [
+      {
+        "name": "Exaltación de la Santa Cruz",
+        "type": "Día de Fiesta",
+        "description": "Esta festividad conmemora el descubrimiento de la Verdadera Cruz por Santa Elena en el año 326 d.C., la dedicación de la Iglesia del Santo Sepulcro en el año 335 d.C. y la recuperación de la Cruz de los persas en el año 628 d.C."
+      },
+      {
+        "name": "Santa Notburga de Rattenberg",
+        "type": "Laica, Patrona de Sirvientes y Campesinos",
+        "description": "Nacida alrededor de 1265 en Austria, Santa Notburga fue conocida por su excepcional caridad hacia los pobres, a menudo compartiendo comida del hogar de su empleador a pesar de la oposición."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Nacional de la Dona Rellena de Crema",
+        "description": "Esta divertida conmemoración celebra el delicioso pastel relleno de crema, jalea o natilla."
+      },
+      {
+        "name": "Día Nacional de Comer un Hoagie",
+        "description": "Este día celebra el clásico hoagie de Filadelfia, un popular sándwich de embutidos."
+      },
+      {
+        "name": "Día Nacional de la Sobriedad",
+        "description": "Este día defiende la sobriedad, celebrando la fuerza y los logros de las personas que eligen un estilo de vida sin alcohol."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Considera tu origen: no fuiste hecho para vivir como los brutos, sino para seguir la virtud y el conocimiento.",
+      "author": "Dante Alighieri",
+      "context": "El poeta y filósofo italiano Dante Alighieri, reconocido por su poema épico 'La Divina Comedia', falleció el 14 de septiembre de 1321 en Rávena, Italia."
+    },
+    "motivationalQuote": {
+      "text": "La única verdadera sabiduría es saber que no sabes nada.",
+      "author": "Sócrates"
+    },
+    "births": [
+      {
+        "name": "Alexander von Humboldt",
+        "description": "Un polímata, geógrafo, naturalista y explorador alemán, cuyo trabajo sentó las bases de la biogeografía y el monitoreo geofísico moderno.",
+        "year": "1769"
+      },
+      {
+        "name": "Margaret Sanger",
+        "description": "Una enfermera y activista estadounidense que defendió el control de la natalidad y fundó Planned Parenthood.",
+        "year": "1879"
+      },
+      {
+        "name": "Amy Winehouse",
+        "description": "Una cantautora inglesa célebre por su profunda y expresiva voz de contralto y su ecléctica mezcla de géneros musicales.",
+        "year": "1983"
+      }
+    ],
+    "events": [
+      {
+        "title": "El Imperio Británico Adopta el Calendario Gregoriano",
+        "description": "Gran Bretaña y sus colonias americanas adoptaron oficialmente el calendario gregoriano, saltándose once días para alinearse con el resto de Europa Occidental.",
+        "year": "1752"
+      },
+      {
+        "title": "Francis Scott Key Escribe 'The Star-Spangled Banner'",
+        "description": "Durante la Guerra de 1812, el abogado Francis Scott Key se inspiró para escribir 'Defence of Fort McHenry', que más tarde se convirtió en la letra del himno nacional de los Estados Unidos.",
+        "year": "1814"
+      },
+      {
+        "title": "Elizabeth Ann Seton Canonizada",
+        "description": "La Madre Elizabeth Ann Seton se convirtió en la primera estadounidense nacida en el país en ser canonizada como santa católica por el Papa Pablo VI.",
+        "year": "1975"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Nacional de la Dona Rellena de Crema",
+      "teaser": "Esta divertida conmemoración celebra el delicioso pastel relleno de crema, jalea o natilla."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Exaltation of the Holy Cross",
+        "type": "Feast Day",
+        "description": "This feast commemorates the discovery of the True Cross by Saint Helena in 326 AD, the dedication of the Church of the Holy Sepulchre in 335 AD, and the recovery of the Cross from the Persians in 628 AD."
+      },
+      {
+        "name": "Saint Notburga of Rattenberg",
+        "type": "Laywoman, Patron Saint of Servants and Peasants",
+        "description": "Born around 1265 in Austria, Saint Notburga was known for her exceptional charity towards the poor, often sharing food from her employer's household despite opposition."
+      }
+    ],
+    "observances": [
+      {
+        "name": "National Cream Filled Donut Day",
+        "description": "This playful observance celebrates the delightful pastry filled with cream, jelly, or custard."
+      },
+      {
+        "name": "National Eat a Hoagie Day",
+        "description": "This day celebrates the classic Philadelphia hoagie, a popular cold-cut sandwich."
+      },
+      {
+        "name": "National Sober Day",
+        "description": "This day champions sobriety, celebrating the strength and achievements of individuals choosing an alcohol-free lifestyle."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Consider your origin: you were not made to live like brutes, but to follow virtue and knowledge.",
+      "author": "Dante Alighieri",
+      "context": "Italian poet and philosopher Dante Alighieri, renowned for his epic poem 'The Divine Comedy,' died on September 14, 1321, in Ravenna, Italy."
+    },
+    "motivationalQuote": {
+      "text": "The only true wisdom is in knowing you know nothing.",
+      "author": "Socrates"
+    },
+    "births": [
+      {
+        "name": "Alexander von Humboldt",
+        "description": "A German polymath, geographer, naturalist, and explorer, whose work laid the foundation for biogeography and modern geophysical monitoring.",
+        "year": "1769"
+      },
+      {
+        "name": "Margaret Sanger",
+        "description": "An American nurse and activist who championed birth control and founded Planned Parenthood.",
+        "year": "1879"
+      },
+      {
+        "name": "Amy Winehouse",
+        "description": "An English singer-songwriter celebrated for her deep, expressive contralto vocals and eclectic mix of musical genres.",
+        "year": "1983"
+      }
+    ],
+    "events": [
+      {
+        "title": "British Empire Adopts Gregorian Calendar",
+        "description": "Great Britain and its American colonies officially adopted the Gregorian calendar, skipping eleven days to align with the rest of Western Europe.",
+        "year": "1752"
+      },
+      {
+        "title": "Francis Scott Key Writes 'The Star-Spangled Banner'",
+        "description": "During the War of 1812, lawyer Francis Scott Key was inspired to write 'Defence of Fort McHenry,' which later became the lyrics for the United States' national anthem.",
+        "year": "1814"
+      },
+      {
+        "title": "Elizabeth Ann Seton Canonized",
+        "description": "Mother Elizabeth Ann Seton became the first native-born American to be canonized as a Catholic saint by Pope Paul VI.",
+        "year": "1975"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is National Cream Filled Donut Day",
+      "teaser": "This playful observance celebrates the delightful pastry filled with cream, jelly, or custard."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Exaltação da Santa Cruz",
+        "type": "Dia de Festa",
+        "description": "Esta festa comemora a descoberta da Verdadeira Cruz por Santa Helena em 326 d.C., a dedicação da Igreja do Santo Sepulcro em 335 d.C. e a recuperação da Cruz dos persas em 628 d.C."
+      },
+      {
+        "name": "Santa Notburga de Rattenberg",
+        "type": "Leiga, Padroeira de Servos e Camponeses",
+        "description": "Nascida por volta de 1265 na Áustria, Santa Notburga era conhecida por sua excepcional caridade para com os pobres, frequentemente partilhando comida da casa de seu empregador, apesar da oposição."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional do Donut Recheado com Creme",
+        "description": "Esta divertida celebração homenageia o delicioso pastel recheado com creme, geleia ou creme de ovos."
+      },
+      {
+        "name": "Dia Nacional de Comer um Hoagie",
+        "description": "Este dia celebra o clássico hoagie da Filadélfia, um popular sanduíche de frios."
+      },
+      {
+        "name": "Dia Nacional da Sobriedade",
+        "description": "Este dia defende a sobriedade, celebrando a força e as conquistas de indivíduos que escolhem um estilo de vida sem álcool."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Considera a tua origem: não foste feito para viver como brutos, mas para seguir a virtude e o conhecimento.",
+      "author": "Dante Alighieri",
+      "context": "O poeta e filósofo italiano Dante Alighieri, conhecido por seu poema épico 'A Divina Comédia', faleceu em 14 de setembro de 1321, em Ravena, Itália."
+    },
+    "motivationalQuote": {
+      "text": "A única verdadeira sabedoria é saber que nada sabes.",
+      "author": "Sócrates"
+    },
+    "births": [
+      {
+        "name": "Alexander von Humboldt",
+        "description": "Um polímata, geógrafo, naturalista e explorador alemão, cujo trabalho lançou as bases para a biogeografia e o monitoramento geofísico moderno.",
+        "year": "1769"
+      },
+      {
+        "name": "Margaret Sanger",
+        "description": "Uma enfermeira e ativista americana que defendeu o controle de natalidade e fundou a Planned Parenthood.",
+        "year": "1879"
+      },
+      {
+        "name": "Amy Winehouse",
+        "description": "Uma cantora e compositora inglesa celebrada por seus vocais contralto profundos e expressivos e sua eclética mistura de gêneros musicais.",
+        "year": "1983"
+      }
+    ],
+    "events": [
+      {
+        "title": "Império Britânico Adota o Calendário Gregoriano",
+        "description": "A Grã-Bretanha e suas colônias americanas adotaram oficialmente o calendário gregoriano, pulando onze dias para se alinhar com o restante da Europa Ocidental.",
+        "year": "1752"
+      },
+      {
+        "title": "Francis Scott Key Escreve 'The Star-Spangled Banner'",
+        "description": "Durante a Guerra de 1812, o advogado Francis Scott Key foi inspirado a escrever 'Defence of Fort McHenry', que mais tarde se tornou a letra do hino nacional dos Estados Unidos.",
+        "year": "1814"
+      },
+      {
+        "title": "Elizabeth Ann Seton Canonizada",
+        "description": "A Madre Elizabeth Ann Seton tornou-se a primeira americana nativa a ser canonizada como santa católica pelo Papa Paulo VI.",
+        "year": "1975"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Nacional do Donut Recheado com Creme",
+      "teaser": "Esta divertida celebração homenageia o delicioso pastel recheado com creme, geleia ou creme de ovos."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Exaltació de la Santa Creu",
+        "type": "Festa Litúrgica",
+        "description": "Aquesta festa commemora la descoberta de la Vera Creu per Santa Helena l'any 326 d.C., la dedicació de l'Església del Sant Sepulcre l'any 335 d.C. i la recuperació de la Creu dels perses l'any 628 d.C."
+      },
+      {
+        "name": "Santa Notburga de Rattenberg",
+        "type": "Laica, Patrona dels Servents i els Camperols",
+        "description": "Nascuda al voltant de l'any 1265 a Àustria, Santa Notburga era coneguda per la seva caritat excepcional envers els pobres, sovint compartint aliments de la llar del seu patró malgrat l'oposició."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional del Dònut Farcit de Crema",
+        "description": "Aquesta lúdica celebració festeja el deliciós pastís farcit de crema, melmelada o natilles."
+      },
+      {
+        "name": "Dia Nacional de Menjar un Hoagie",
+        "description": "Aquest dia celebra el clàssic hoagie de Filadèlfia, un popular entrepà de carn freda."
+      },
+      {
+        "name": "Dia Nacional de la Sobrietat",
+        "description": "Aquest dia defensa la sobrietat, celebrant la força i els èxits de les persones que trien un estil de vida sense alcohol."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Considera el teu origen: no vas ser fet per viure com a bèsties, sinó per seguir la virtut i el coneixement.",
+      "author": "Dante Alighieri",
+      "context": "El poeta i filòsof italià Dante Alighieri, reconegut pel seu poema èpic 'La Divina Comèdia', va morir el 14 de setembre de 1321 a Ravenna, Itàlia."
+    },
+    "motivationalQuote": {
+      "text": "L'única saviesa veritable és saber que no saps res.",
+      "author": "Sòcrates"
+    },
+    "births": [
+      {
+        "name": "Alexander von Humboldt",
+        "description": "Un polímata, geògraf, naturalista i explorador alemany, la feina del qual va establir les bases de la biogeografia i el seguiment geofísic modern.",
+        "year": "1769"
+      },
+      {
+        "name": "Margaret Sanger",
+        "description": "Una infermera i activista nord-americana que va defensar el control de la natalitat i va fundar Planned Parenthood.",
+        "year": "1879"
+      },
+      {
+        "name": "Amy Winehouse",
+        "description": "Una cantant i compositora anglesa celebrada per la seva veu de contralt profunda i expressiva i la seva eclèctica barreja de gèneres musicals.",
+        "year": "1983"
+      }
+    ],
+    "events": [
+      {
+        "title": "L'Imperi Britànic Adopta el Calendari Gregorià",
+        "description": "Gran Bretanya i les seves colònies americanes van adoptar oficialment el calendari gregorià, saltant onze dies per alinear-se amb la resta d'Europa Occidental.",
+        "year": "1752"
+      },
+      {
+        "title": "Francis Scott Key Escriu 'The Star-Spangled Banner'",
+        "description": "Durant la Guerra de 1812, l'advocat Francis Scott Key es va inspirar per escriure 'Defence of Fort McHenry', que més tard es convertiria en la lletra de l'himne nacional dels Estats Units.",
+        "year": "1814"
+      },
+      {
+        "title": "Elizabeth Ann Seton Canonitzada",
+        "description": "La Mare Elizabeth Ann Seton va esdevenir la primera nord-americana de naixement a ser canonitzada com a santa catòlica pel Papa Pau VI.",
+        "year": "1975"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Nacional del Dònut Farcit de Crema",
+      "teaser": "Aquesta lúdica celebració festeja el deliciós pastís farcit de crema, melmelada o natilles."
+    }
+  }
+}
