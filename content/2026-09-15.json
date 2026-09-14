@@ -1,0 +1,327 @@
+{
+  "date": "2026-09-15",
+  "es": {
+    "saints": [
+      {
+        "name": "Nuestra Señora de los Dolores",
+        "type": "Conmemoración (Católica)",
+        "description": "Esta observancia católica honra a la Virgen María y su profundo sufrimiento durante la pasión y muerte de Jesucristo, reflejado en siete dolores a lo largo de su vida."
+      },
+      {
+        "name": "San Nicetas el Gótico",
+        "type": "Gran mártir (Ortodoxo)",
+        "description": "Un guerrero gótico que se convirtió al cristianismo y fue martirizado por su fe alrededor del año 372 durante las persecuciones del rey Atanarico."
+      },
+      {
+        "name": "Santa Catalina de Génova",
+        "type": "Mística, laica (Católica)",
+        "description": "Una noble italiana conocida por sus profundas experiencias místicas y su dedicado servicio a los enfermos y pobres, particularmente en hospitales, durante el siglo XV."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Democracia",
+        "description": "Una observancia de las Naciones Unidas que promueve los principios democráticos, los derechos humanos y la importancia de la plena participación y el apoyo de la comunidad internacional y la sociedad civil."
+      },
+      {
+        "name": "Día de la Independencia (América Central)",
+        "description": "Costa Rica, El Salvador, Guatemala, Honduras y Nicaragua conmemoran su independencia de España, declarada conjuntamente este día en 1821."
+      },
+      {
+        "name": "Día de Greenpeace",
+        "description": "Este día marca el aniversario del primer viaje de la organización ambiental Greenpeace, que partió de Vancouver para protestar contra los ensayos de armas nucleares en 1971."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Me gusta vivir. A veces he sido salvajemente, desesperadamente, intensamente miserable, destrozada por el dolor, pero a pesar de todo, sigo sabiendo con certeza que el simple hecho de estar viva es algo grandioso.",
+      "author": "Agatha Christie",
+      "context": "Agatha Christie, la renombrada escritora inglesa de misterio y ficción detectivesca, nació el 15 de septiembre de 1890."
+    },
+    "motivationalQuote": {
+      "text": "La medida definitiva de un hombre no es dónde se sitúa en momentos de comodidad y conveniencia, sino dónde se sitúa en momentos de desafío y controversia.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Marco Polo",
+        "description": "Un mercader y explorador veneciano cuyos extensos viajes por Asia fueron documentados en 'Los viajes de Marco Polo', introduciendo a los europeos en Asia Central y China.",
+        "year": "1254"
+      },
+      {
+        "name": "Agatha Christie",
+        "description": "Una escritora inglesa conocida por sus 66 novelas de detectives y 14 colecciones de cuentos, creando personajes icónicos como Hercule Poirot y Miss Marple.",
+        "year": "1890"
+      },
+      {
+        "name": "William Howard Taft",
+        "description": "El 27º Presidente de los Estados Unidos y más tarde el décimo Presidente del Tribunal Supremo de los Estados Unidos, la única persona que ha ocupado ambos cargos.",
+        "year": "1857"
+      }
+    ],
+    "events": [
+      {
+        "title": "Naciones centroamericanas declaran la independencia",
+        "description": "Guatemala, El Salvador, Honduras, Nicaragua y Costa Rica declararon conjuntamente su independencia de España, marcando un momento crucial en sus historias nacionales.",
+        "year": "1821"
+      },
+      {
+        "title": "Se establece el Departamento de Estado de EE. UU.",
+        "description": "El 'Departamento de Asuntos Exteriores' de Estados Unidos, inicialmente establecido en julio, fue renombrado oficialmente como Departamento de Estado, ampliando sus funciones para incluir responsabilidades domésticas.",
+        "year": "1789"
+      },
+      {
+        "title": "Nikita Jrushchov se convierte en el primer líder soviético en visitar EE. UU.",
+        "description": "El Primer Ministro soviético Nikita Jrushchov llegó a Estados Unidos, convirtiéndose en el primer líder soviético en visitar el país, un evento diplomático significativo durante la Guerra Fría.",
+        "year": "1959"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de la Democracia",
+      "teaser": "Una observancia de las Naciones Unidas que promueve los principios democráticos, los derechos humanos y la importancia de la plena participación y el apoyo de la comunidad internacional y la sociedad civil."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Our Lady of Sorrows",
+        "type": "Commemoration (Catholic)",
+        "description": "This Catholic observance honors the Virgin Mary and her profound suffering during the passion and death of Jesus Christ, reflected in seven sorrows throughout her life."
+      },
+      {
+        "name": "Saint Niketas the Goth",
+        "type": "Great-martyr (Orthodox)",
+        "description": "A Gothic warrior who converted to Christianity and was martyred for his faith around the year 372 during persecutions by King Athanaric."
+      },
+      {
+        "name": "Saint Catherine of Genoa",
+        "type": "Mystic, Laywoman (Catholic)",
+        "description": "An Italian noblewoman known for her profound mystical experiences and her dedicated service to the sick and poor, particularly in hospitals, during the 15th century."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of Democracy",
+        "description": "A United Nations observance promoting democratic principles, human rights, and the importance of full participation and support from the international community and civil society."
+      },
+      {
+        "name": "Independence Day (Central America)",
+        "description": "Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua all commemorate their independence from Spain, declared jointly on this day in 1821."
+      },
+      {
+        "name": "Greenpeace Day",
+        "description": "This day marks the anniversary of the first voyage of the environmental organization Greenpeace, which departed Vancouver to protest nuclear weapon tests in 1971."
+      }
+    ],
+    "historicalQuote": {
+      "text": "I like living. I have sometimes been wildly, despairingly, acutely miserable, racked with sorrow, but through it all I still know quite certainly that just to be alive is a grand thing.",
+      "author": "Agatha Christie",
+      "context": "Agatha Christie, the renowned English writer of mystery and detective fiction, was born on September 15, 1890."
+    },
+    "motivationalQuote": {
+      "text": "The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Marco Polo",
+        "description": "A Venetian merchant and explorer whose extensive travels through Asia were documented in 'The Travels of Marco Polo', introducing Europeans to Central Asia and China.",
+        "year": "1254"
+      },
+      {
+        "name": "Agatha Christie",
+        "description": "An English writer known for her 66 detective novels and 14 short story collections, creating iconic characters like Hercule Poirot and Miss Marple.",
+        "year": "1890"
+      },
+      {
+        "name": "William Howard Taft",
+        "description": "The 27th President of the United States and later the tenth Chief Justice of the United States, the only person to have held both offices.",
+        "year": "1857"
+      }
+    ],
+    "events": [
+      {
+        "title": "Central American Nations Declare Independence",
+        "description": "Guatemala, El Salvador, Honduras, Nicaragua, and Costa Rica jointly declared their independence from Spain, marking a pivotal moment in their national histories.",
+        "year": "1821"
+      },
+      {
+        "title": "U.S. Department of State Established",
+        "description": "The United States 'Department of Foreign Affairs', initially established in July, was officially renamed the Department of State, expanding its duties to include domestic responsibilities.",
+        "year": "1789"
+      },
+      {
+        "title": "Nikita Khrushchev Becomes First Soviet Leader to Visit U.S.",
+        "description": "Soviet Premier Nikita Khrushchev arrived in the United States, becoming the first Soviet leader to visit the country, a significant diplomatic event during the Cold War.",
+        "year": "1959"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Day of Democracy",
+      "teaser": "A United Nations observance promoting democratic principles, human rights, and the importance of full participation and support from the international community and civil society."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Nossa Senhora das Dores",
+        "type": "Comemoração (Católica)",
+        "description": "Esta observância católica honra a Virgem Maria e seu profundo sofrimento durante a paixão e morte de Jesus Cristo, refletido em sete dores ao longo de sua vida."
+      },
+      {
+        "name": "São Nicetas, o Gótico",
+        "type": "Grande mártir (Ortodoxo)",
+        "description": "Um guerreiro gótico que se converteu ao cristianismo e foi martirizado por sua fé por volta do ano 372 durante as perseguições do Rei Atanarico."
+      },
+      {
+        "name": "Santa Catarina de Gênova",
+        "type": "Mística, Leiga (Católica)",
+        "description": "Uma nobre italiana conhecida por suas profundas experiências místicas e seu dedicado serviço aos doentes e pobres, particularmente em hospitais, durante o século XV."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Democracia",
+        "description": "Uma observância das Nações Unidas que promove os princípios democráticos, os direitos humanos e a importância da plena participação e apoio da comunidade internacional e da sociedade civil."
+      },
+      {
+        "name": "Dia da Independência (América Central)",
+        "description": "Costa Rica, El Salvador, Guatemala, Honduras e Nicarágua comemoram sua independência da Espanha, declarada conjuntamente neste dia em 1821."
+      },
+      {
+        "name": "Dia do Greenpeace",
+        "description": "Este dia marca o aniversário da primeira viagem da organização ambiental Greenpeace, que partiu de Vancouver para protestar contra testes de armas nucleares em 1971."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Gosto de viver. Às vezes fui selvagemente, desesperadamente, agudamente infeliz, dilacerada pela dor, mas, apesar de tudo, ainda sei com bastante certeza que simplesmente estar viva é uma coisa grandiosa.",
+      "author": "Agatha Christie",
+      "context": "Agatha Christie, a renomada escritora inglesa de mistério e ficção detetivesca, nasceu em 15 de setembro de 1890."
+    },
+    "motivationalQuote": {
+      "text": "A medida final de um homem não é onde ele se posiciona em momentos de conforto e conveniência, mas onde ele se posiciona em tempos de desafio e controvérsia.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Marco Polo",
+        "description": "Um mercador e explorador veneziano cujas extensas viagens pela Ásia foram documentadas em 'As Viagens de Marco Polo', introduzindo os europeus à Ásia Central e à China.",
+        "year": "1254"
+      },
+      {
+        "name": "Agatha Christie",
+        "description": "Uma escritora inglesa conhecida por seus 66 romances policiais e 14 coleções de contos, criando personagens icônicos como Hercule Poirot e Miss Marple.",
+        "year": "1890"
+      },
+      {
+        "name": "William Howard Taft",
+        "description": "O 27º Presidente dos Estados Unidos e, mais tarde, o décimo Chefe de Justiça dos Estados Unidos, a única pessoa a ter ocupado ambos os cargos.",
+        "year": "1857"
+      }
+    ],
+    "events": [
+      {
+        "title": "Nações da América Central Declaram Independência",
+        "description": "Guatemala, El Salvador, Honduras, Nicarágua e Costa Rica declararam conjuntamente sua independência da Espanha, marcando um momento crucial em suas histórias nacionais.",
+        "year": "1821"
+      },
+      {
+        "title": "Departamento de Estado dos EUA Estabelecido",
+        "description": "O 'Departamento de Assuntos Estrangeiros' dos Estados Unidos, inicialmente estabelecido em julho, foi oficialmente renomeado como Departamento de Estado, expandindo suas funções para incluir responsabilidades domésticas.",
+        "year": "1789"
+      },
+      {
+        "title": "Nikita Khrushchev Torna-se o Primeiro Líder Soviético a Visitar os EUA",
+        "description": "O Primeiro-Ministro soviético Nikita Khrushchev chegou aos Estados Unidos, tornando-se o primeiro líder soviético a visitar o país, um evento diplomático significativo durante a Guerra Fria.",
+        "year": "1959"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional da Democracia",
+      "teaser": "Uma observância das Nações Unidas que promove os princípios democráticos, os direitos humanos e a importância da plena participação e apoio da comunidade internacional e da sociedade civil."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Nostra Senyora dels Dolors",
+        "type": "Commemoració (Catòlica)",
+        "description": "Aquesta observança catòlica honora la Verge Maria i el seu profund sofriment durant la passió i mort de Jesucrist, reflectit en set dolors al llarg de la seva vida."
+      },
+      {
+        "name": "Sant Nicetes el Got",
+        "type": "Gran Màrtir (Ortodoxa)",
+        "description": "Un guerrer gòtic que es va convertir al cristianisme i va ser martiritzat per la seva fe al voltant de l'any 372 durant les persecucions del rei Atanaric."
+      },
+      {
+        "name": "Santa Caterina de Gènova",
+        "type": "Mística, Laica (Catòlica)",
+        "description": "Una noble italiana coneguda per les seves profundes experiències místiques i el seu dedicat servei als malalts i pobres, particularment en hospitals, durant el segle XV."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la Democràcia",
+        "description": "Una commemoració de les Nacions Unides que promou els principis democràtics, els drets humans i la importància de la plena participació i el suport de la comunitat internacional i la societat civil."
+      },
+      {
+        "name": "Dia de la Independència (Amèrica Central)",
+        "description": "Costa Rica, El Salvador, Guatemala, Hondures i Nicaragua commemoren la seva independència d'Espanya, declarada conjuntament en aquest dia de 1821."
+      },
+      {
+        "name": "Dia de Greenpeace",
+        "description": "Aquest dia marca l'aniversari del primer viatge de l'organització ecologista Greenpeace, que va sortir de Vancouver per protestar contra els assajos d'armes nuclears el 1971."
+      }
+    ],
+    "historicalQuote": {
+      "text": "M'agrada viure. De vegades he estat salvatgement, desesperadament, profundament infeliç, turmentada pel dolor, però a través de tot això encara sé amb tota certesa que només el fet d'estar viva és una cosa grandiosa.",
+      "author": "Agatha Christie",
+      "context": "Agatha Christie, la reconeguda escriptora anglesa de novel·les de misteri i detectius, va néixer el 15 de setembre de 1890."
+    },
+    "motivationalQuote": {
+      "text": "La mesura definitiva d'un home no és on es troba en moments de confort i comoditat, sinó on es troba en moments de desafiament i controvèrsia.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Marco Polo",
+        "description": "Un mercader i explorador venecià els extensos viatges del qual per Àsia van ser documentats a 'El llibre de les meravelles del món' (Els viatges de Marco Polo), introduint els europeus a l'Àsia Central i la Xina.",
+        "year": "1254"
+      },
+      {
+        "name": "Agatha Christie",
+        "description": "Una escriptora anglesa coneguda per les seves 66 novel·les de detectius i 14 col·leccions de contes, creant personatges icònics com Hercule Poirot i Miss Marple.",
+        "year": "1890"
+      },
+      {
+        "name": "William Howard Taft",
+        "description": "El 27è president dels Estats Units i més tard el desè president del Tribunal Suprem dels Estats Units, l'única persona que ha ocupat ambdós càrrecs.",
+        "year": "1857"
+      }
+    ],
+    "events": [
+      {
+        "title": "Les Nacions Centreamericanes Declaren la Independència",
+        "description": "Guatemala, El Salvador, Hondures, Nicaragua i Costa Rica van declarar conjuntament la seva independència d'Espanya, marcant un moment clau en les seves històries nacionals.",
+        "year": "1821"
+      },
+      {
+        "title": "S'Estableix el Departament d'Estat dels EUA",
+        "description": "El 'Departament d'Afers Exteriors' dels Estats Units, inicialment establert al juliol, va ser oficialment rebatejat com a Departament d'Estat, ampliant les seves funcions per incloure responsabilitats domèstiques.",
+        "year": "1789"
+      },
+      {
+        "title": "Nikita Khrusxov Es Converteix en el Primer Líder Soviètic a Visitar els EUA",
+        "description": "El primer ministre soviètic Nikita Khrusxov va arribar als Estats Units, convertint-se en el primer líder soviètic a visitar el país, un esdeveniment diplomàtic significatiu durant la Guerra Freda.",
+        "year": "1959"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de la Democràcia",
+      "teaser": "Una commemoració de les Nacions Unides que promou els principis democràtics, els drets humans i la importància de la plena participació i el suport de la comunitat internacional i la societat civil."
+    }
+  }
+}
