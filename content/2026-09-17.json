@@ -1,0 +1,327 @@
+{
+  "date": "2026-09-17",
+  "es": {
+    "saints": [
+      {
+        "name": "San Roberto Belarmino",
+        "type": "Obispo y Doctor de la Iglesia",
+        "description": "Un brillante erudito jesuita y cardenal, fue una figura destacada en la Contrarreforma, conocido por sus escritos teológicos y defensa de la fe católica."
+      },
+      {
+        "name": "Santa Hildegarda de Bingen",
+        "type": "Abadesa, Mística, Doctora de la Iglesia",
+        "description": "Una abadesa benedictina alemana, escritora, compositora, filósofa, mística y visionaria, reconocida por sus profundas contribuciones a la teología, la medicina y la música."
+      },
+      {
+        "name": "Santa Sofía y sus tres hijas Fe, Esperanza y Caridad",
+        "type": "Mártires",
+        "description": "Una piadosa viuda cristiana y sus tres jóvenes hijas, quienes valientemente confesaron su fe en Cristo y soportaron el martirio en Roma durante el reinado del Emperador Adriano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Constitución y Día de la Ciudadanía (EE. UU.)",
+        "description": "Este día conmemora la firma de la Constitución de los EE. UU. el 17 de septiembre de 1787 y reconoce a todos los que se han convertido en ciudadanos estadounidenses."
+      },
+      {
+        "name": "Día Mundial de la Seguridad del Paciente",
+        "description": "Establecido por la OMS, este día crea conciencia sobre los errores médicos prevenibles y aboga por prácticas de atención médica más seguras a nivel mundial."
+      },
+      {
+        "name": "Día Internacional de la Garnacha",
+        "description": "Una conmemoración que celebra la uva Garnacha, una variedad de clima cálido utilizada principalmente en vinos tintos, particularmente popular en España y el Valle del Ródano en Francia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La preservación del fuego sagrado de la libertad, y el destino del modelo republicano de gobierno, se consideran justamente como profundamente, quizás finalmente, apostados en el experimento confiado a las manos del pueblo americano.",
+      "author": "George Washington",
+      "context": "Como presidente de la Convención Constitucional, George Washington presidió la firma de la Constitución de los EE. UU. el 17 de septiembre de 1787, un evento monumental que estableció el marco del gobierno estadounidense."
+    },
+    "motivationalQuote": {
+      "text": "La cueva a la que temes entrar guarda el tesoro que buscas.",
+      "author": "Joseph Campbell"
+    },
+    "births": [
+      {
+        "name": "Hank Williams",
+        "description": "Un icónico cantautor y músico estadounidense, ampliamente considerado como uno de los artistas de música country más influyentes de todos los tiempos.",
+        "year": "1923"
+      },
+      {
+        "name": "Roddy McDowall",
+        "description": "Un actor británico-estadounidense con una carrera de más de 60 años, conocido por sus papeles en '¡Qué verde era mi valle!' y las películas de 'El planeta de los simios'.",
+        "year": "1928"
+      },
+      {
+        "name": "Ken Kesey",
+        "description": "Un novelista y figura contracultural estadounidense, más conocido por su influyente novela 'Alguien voló sobre el nido del cuco'.",
+        "year": "1935"
+      }
+    ],
+    "events": [
+      {
+        "title": "Firma de la Constitución de EE. UU.",
+        "description": "En un momento crucial para la democracia estadounidense, la Constitución de los EE. UU. fue firmada por los delegados en la Convención Constitucional en Filadelfia, estableciendo el marco gubernamental de la nación.",
+        "year": "1787"
+      },
+      {
+        "title": "Descubrimiento de Mimas, luna de Saturno",
+        "description": "El astrónomo Sir William Herschel descubrió Mimas, una de las lunas de Saturno, un logro astronómico significativo.",
+        "year": "1789"
+      },
+      {
+        "title": "La NASA presenta el transbordador espacial Enterprise",
+        "description": "La NASA presentó públicamente su primer transbordador espacial, el Enterprise, marcando un hito importante en la exploración espacial y el desarrollo tecnológico.",
+        "year": "1976"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día de la Constitución y Día de la Ciudadanía (EE. UU.)",
+      "teaser": "Este día conmemora la firma de la Constitución de los EE. UU. el 17 de septiembre de 1787 y reconoce a todos los que se han convertido en ciudadanos estadounidenses."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Robert Bellarmine",
+        "type": "Bishop and Doctor of the Church",
+        "description": "A brilliant Jesuit scholar and cardinal, he was a leading figure in the Counter-Reformation, known for his theological writings and defense of the Catholic faith."
+      },
+      {
+        "name": "St. Hildegard of Bingen",
+        "type": "Abbess, Mystic, Doctor of the Church",
+        "description": "A German Benedictine abbess, writer, composer, philosopher, mystic, and visionary, recognized for her profound contributions to theology, medicine, and music."
+      },
+      {
+        "name": "St. Sophia and her three daughters Faith, Hope, and Love",
+        "type": "Martyrs",
+        "description": "A pious Christian widow and her three young daughters, who bravely confessed their faith in Christ and endured martyrdom in Rome during the reign of Emperor Hadrian."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Constitution Day and Citizenship Day (U.S.)",
+        "description": "This day commemorates the signing of the U.S. Constitution on September 17, 1787, and recognizes all who have become U.S. citizens."
+      },
+      {
+        "name": "World Patient Safety Day",
+        "description": "Established by the WHO, this day raises awareness about preventable medical errors and advocates for safer healthcare practices globally."
+      },
+      {
+        "name": "International Grenache Day",
+        "description": "An observance celebrating the Grenache grape, a warm-climate varietal primarily used in red wines, particularly popular in Spain and France's Rhône Valley."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The preservation of the sacred fire of liberty, and the destiny of the republican model of government, are justly considered as deeply, perhaps as finally, staked on the experiment entrusted to the hands of the American people.",
+      "author": "George Washington",
+      "context": "As the president of the Constitutional Convention, George Washington presided over the signing of the U.S. Constitution on September 17, 1787, a monumental event establishing the framework of American government."
+    },
+    "motivationalQuote": {
+      "text": "The cave you fear to enter holds the treasure you seek.",
+      "author": "Joseph Campbell"
+    },
+    "births": [
+      {
+        "name": "Hank Williams",
+        "description": "An iconic American singer-songwriter and musician, widely regarded as one of the most influential country music artists of all time.",
+        "year": "1923"
+      },
+      {
+        "name": "Roddy McDowall",
+        "description": "A British-born American actor with a career spanning over 60 years, known for roles in 'How Green Was My Valley' and the 'Planet of the Apes' films.",
+        "year": "1928"
+      },
+      {
+        "name": "Ken Kesey",
+        "description": "An American novelist and countercultural figure, best known for his influential novel 'One Flew Over the Cuckoo's Nest'.",
+        "year": "1935"
+      }
+    ],
+    "events": [
+      {
+        "title": "U.S. Constitution Signed",
+        "description": "In a pivotal moment for American democracy, the U.S. Constitution was signed by delegates at the Constitutional Convention in Philadelphia, establishing the nation's governmental framework.",
+        "year": "1787"
+      },
+      {
+        "title": "Discovery of Saturn's Moon Mimas",
+        "description": "Astronomer Sir William Herschel discovered Mimas, one of Saturn's moons, a significant astronomical achievement.",
+        "year": "1789"
+      },
+      {
+        "title": "NASA Unveils Space Shuttle Enterprise",
+        "description": "NASA publicly introduced its first space shuttle, the Enterprise, marking a major milestone in space exploration and technology development.",
+        "year": "1976"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Constitution Day and Citizenship Day (U.S.)",
+      "teaser": "This day commemorates the signing of the U.S. Constitution on September 17, 1787, and recognizes all who have become U.S. citizens."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Roberto Belarmino",
+        "type": "Bispo e Doutor da Igreja",
+        "description": "Um brilhante estudioso jesuíta e cardeal, foi uma figura proeminente na Contrarreforma, conhecido por seus escritos teológicos e defesa da fé católica."
+      },
+      {
+        "name": "Santa Hildegarda de Bingen",
+        "type": "Abadessa, Mística, Doutora da Igreja",
+        "description": "Uma abadessa beneditina alemã, escritora, compositora, filósofa, mística e visionária, reconhecida por suas profundas contribuições para a teologia, medicina e música."
+      },
+      {
+        "name": "Santa Sofia e suas três filhas Fé, Esperança e Caridade",
+        "type": "Mártires",
+        "description": "Uma piedosa viúva cristã e suas três jovens filhas, que bravamente confessaram sua fé em Cristo e sofreram o martírio em Roma durante o reinado do Imperador Adriano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Constituição e Dia da Cidadania (EUA)",
+        "description": "Este dia comemora a assinatura da Constituição dos EUA em 17 de setembro de 1787 e reconhece todos aqueles que se tornaram cidadãos americanos."
+      },
+      {
+        "name": "Dia Mundial da Segurança do Paciente",
+        "description": "Estabelecido pela OMS, este dia visa conscientizar sobre erros médicos evitáveis e defende práticas de saúde mais seguras globalmente."
+      },
+      {
+        "name": "Dia Internacional da Grenache",
+        "description": "Uma celebração que homenageia a uva Grenache, uma variedade de clima quente usada principalmente em vinhos tintos, particularmente popular na Espanha e no Vale do Ródano na França."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A preservação do fogo sagrado da liberdade, e o destino do modelo republicano de governo, são justamente considerados como profunda, talvez finalmente, apostados no experimento confiado às mãos do povo americano.",
+      "author": "George Washington",
+      "context": "Como presidente da Convenção Constitucional, George Washington presidiu a assinatura da Constituição dos EUA em 17 de setembro de 1787, um evento monumental que estabeleceu a estrutura do governo americano."
+    },
+    "motivationalQuote": {
+      "text": "A caverna que você teme entrar guarda o tesouro que você procura.",
+      "author": "Joseph Campbell"
+    },
+    "births": [
+      {
+        "name": "Hank Williams",
+        "description": "Um icônico cantor, compositor e músico americano, amplamente considerado um dos artistas mais influentes da música country de todos os tempos.",
+        "year": "1923"
+      },
+      {
+        "name": "Roddy McDowall",
+        "description": "Um ator britânico-americano com uma carreira de mais de 60 anos, conhecido por papéis em 'Como Era Verde o Meu Vale' e nos filmes 'Planeta dos Macacos'.",
+        "year": "1928"
+      },
+      {
+        "name": "Ken Kesey",
+        "description": "Um romancista e figura da contracultura americana, mais conhecido por seu influente romance 'Um Estranho no Ninho'.",
+        "year": "1935"
+      }
+    ],
+    "events": [
+      {
+        "title": "Constituição dos EUA Assinada",
+        "description": "Em um momento crucial para a democracia americana, a Constituição dos EUA foi assinada pelos delegados na Convenção Constitucional na Filadélfia, estabelecendo a estrutura governamental da nação.",
+        "year": "1787"
+      },
+      {
+        "title": "Descoberta da Lua Mimas de Saturno",
+        "description": "O astrônomo Sir William Herschel descobriu Mimas, uma das luas de Saturno, uma conquista astronômica significativa.",
+        "year": "1789"
+      },
+      {
+        "title": "NASA Revela o Ônibus Espacial Enterprise",
+        "description": "A NASA apresentou publicamente seu primeiro ônibus espacial, o Enterprise, marcando um marco importante na exploração espacial e no desenvolvimento tecnológico.",
+        "year": "1976"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia da Constituição e Dia da Cidadania (EUA)",
+      "teaser": "Este dia comemora a assinatura da Constituição dos EUA em 17 de setembro de 1787 e reconhece todos aqueles que se tornaram cidadãos americanos."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Robert Bel·larmí",
+        "type": "Bisbe i Doctor de l'Església",
+        "description": "Un brillant erudit jesuïta i cardenal, va ser una figura destacada de la Contrareforma, conegut pels seus escrits teològics i la defensa de la fe catòlica."
+      },
+      {
+        "name": "Santa Hildegarda de Bingen",
+        "type": "Abadessa, Mística, Doctora de l'Església",
+        "description": "Una abadessa benedictina alemanya, escriptora, compositora, filòsofa, mística i visionària, reconeguda per les seves profundes contribucions a la teologia, la medicina i la música."
+      },
+      {
+        "name": "Santa Sofia i les seves tres filles Fe, Esperança i Caritat",
+        "type": "Màrtirs",
+        "description": "Una vídua cristiana piadosa i les seves tres joves filles, que van confessar amb valentia la seva fe en Crist i van patir el martiri a Roma durant el regnat de l'emperador Hadrià."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Constitució i Dia de la Ciutadania (EUA)",
+        "description": "Aquest dia commemora la signatura de la Constitució dels EUA el 17 de setembre de 1787 i reconeix tots els que s'han convertit en ciutadans dels EUA."
+      },
+      {
+        "name": "Dia Mundial de la Seguretat del Pacient",
+        "description": "Establert per l'OMS, aquest dia consciencia sobre els errors mèdics prevenibles i advoca per pràctiques sanitàries més segures a nivell global."
+      },
+      {
+        "name": "Dia Internacional de la Garnatxa",
+        "description": "Una celebració de la varietat de raïm Garnatxa, una varietat de clima càlid utilitzada principalment en vins negres, particularment popular a Espanya i a la Vall del Roine a França."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La preservació del foc sagrat de la llibertat i el destí del model republicà de govern es consideren justament com profundament, potser finalment, en joc en l'experiment confiat a les mans del poble americà.",
+      "author": "George Washington",
+      "context": "Com a president de la Convenció Constitucional, George Washington va presidir la signatura de la Constitució dels EUA el 17 de setembre de 1787, un esdeveniment monumental que va establir el marc del govern americà."
+    },
+    "motivationalQuote": {
+      "text": "La cova on tens por d'entrar conté el tresor que busques.",
+      "author": "Joseph Campbell"
+    },
+    "births": [
+      {
+        "name": "Hank Williams",
+        "description": "Un icònic cantautor i músic nord-americà, àmpliament considerat un dels artistes de música country més influents de tots els temps.",
+        "year": "1923"
+      },
+      {
+        "name": "Roddy McDowall",
+        "description": "Un actor britànic-americà amb una carrera que abasta més de 60 anys, conegut pels seus papers a 'Que verda era la meva vall' i les pel·lícules de 'El planeta dels simis'.",
+        "year": "1928"
+      },
+      {
+        "name": "Ken Kesey",
+        "description": "Un novel·lista i figura de la contracultura nord-americana, conegut principalment per la seva influent novel·la 'Algú va volar sobre el niu del cucut'.",
+        "year": "1935"
+      }
+    ],
+    "events": [
+      {
+        "title": "Signatura de la Constitució dels EUA",
+        "description": "En un moment crucial per a la democràcia americana, la Constitució dels EUA va ser signada pels delegats a la Convenció Constitucional a Filadèlfia, establint el marc governamental de la nació.",
+        "year": "1787"
+      },
+      {
+        "title": "Descobriment de la lluna Mimas de Saturn",
+        "description": "L'astrònom Sir William Herschel va descobrir Mimas, una de les llunes de Saturn, un èxit astronòmic significatiu.",
+        "year": "1789"
+      },
+      {
+        "title": "La NASA presenta el transbordador espacial Enterprise",
+        "description": "La NASA va presentar públicament el seu primer transbordador espacial, l'Enterprise, marcant una fita important en l'exploració espacial i el desenvolupament tecnològic.",
+        "year": "1976"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia de la Constitució i Dia de la Ciutadania (EUA)",
+      "teaser": "Aquest dia commemora la signatura de la Constitució dels EUA el 17 de setembre de 1787 i reconeix tots els que s'han convertit en ciutadans dels EUA."
+    }
+  }
+}
