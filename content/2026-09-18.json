@@ -1,0 +1,327 @@
+{
+  "date": "2026-09-18",
+  "es": {
+    "saints": [
+      {
+        "name": "San José de Cupertino",
+        "type": "Sacerdote",
+        "description": "Un fraile franciscano italiano conocido por sus extraordinarios éxtasis y levitaciones milagrosas, lo que lo llevó a ser patrón de pilotos y estudiantes."
+      },
+      {
+        "name": "San Eumenio",
+        "type": "Obispo de Gortina",
+        "description": "Un obispo de Gortina, Creta, de finales del siglo III, célebre por su caridad, su capacidad para obrar milagros y su defensa de la fe ortodoxa."
+      },
+      {
+        "name": "Santa Ricardis de Andlau",
+        "type": "Emperatriz del Sacro Imperio Romano Germánico / Abadesa",
+        "description": "Emperatriz del Sacro Imperio Romano Germánico y más tarde la primera abadesa de la Abadía de Andlau, conocida por su piedad y por someterse a una prueba de fuego para demostrar su inocencia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Igualdad Salarial",
+        "description": "Esta conmemoración de las Naciones Unidas destaca los esfuerzos continuos para lograr la igualdad salarial por trabajo de igual valor en todo el mundo."
+      },
+      {
+        "name": "Día Mundial de Monitoreo del Agua",
+        "description": "Un programa internacional de divulgación que anima a los ciudadanos a realizar un monitoreo básico de los cuerpos de agua locales."
+      },
+      {
+        "name": "Día Mundial de la Cultura Empresarial",
+        "description": "Celebrado anualmente, este día destaca el papel vital de la cultura del lugar de trabajo en la mejora de la productividad y la felicidad de los empleados."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Trabaja para mantener viva en tu pecho esa pequeña chispa de fuego celestial, llamada conciencia.",
+      "author": "George Washington",
+      "context": "El 18 de septiembre de 1793, George Washington, el primer presidente de EE. UU., colocó la primera piedra del Edificio del Capitolio de los Estados Unidos en Washington D.C."
+    },
+    "motivationalQuote": {
+      "text": "Dentro de veinte años te decepcionarán más las cosas que no hiciste que las que sí hiciste.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Jada Pinkett Smith",
+        "description": "Una actriz, presentadora de programas de entrevistas y empresaria estadounidense, conocida por sus papeles en películas como 'El Profesor Chiflado' y la saga 'Matrix'.",
+        "year": "1971"
+      },
+      {
+        "name": "James Marsden",
+        "description": "Un actor estadounidense conocido por sus papeles versátiles en televisión y cine, incluyendo Cíclope en la serie de películas X-Men y apariciones en 'Westworld'.",
+        "year": "1973"
+      },
+      {
+        "name": "Jason Sudeikis",
+        "description": "Un actor, comediante y escritor estadounidense, ampliamente reconocido por su trabajo en 'Saturday Night Live' y la aclamada serie 'Ted Lasso'.",
+        "year": "1975"
+      }
+    ],
+    "events": [
+      {
+        "title": "Colocación de la primera piedra del Capitolio de EE. UU.",
+        "description": "George Washington colocó la primera piedra del Edificio del Capitolio de los Estados Unidos, marcando un paso monumental en la construcción de la sede legislativa de la nación.",
+        "year": "1793"
+      },
+      {
+        "title": "Primera publicación de The New York Times",
+        "description": "Se publicó la primera edición de 'The New-York Daily Times', que más tarde se convirtió en The New York Times, iniciando una nueva era en el periodismo estadounidense.",
+        "year": "1851"
+      },
+      {
+        "title": "Lanzamiento del satélite Vanguard 3",
+        "description": "El satélite Vanguard 3 fue lanzado con éxito a la órbita terrestre, contribuyendo a la comprensión científica del campo magnético y los cinturones de radiación de la Tierra.",
+        "year": "1959"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de la Igualdad Salarial",
+      "teaser": "Esta conmemoración de las Naciones Unidas destaca los esfuerzos continuos para lograr la igualdad salarial por trabajo de igual valor en todo el mundo."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Joseph of Cupertino",
+        "type": "Priest",
+        "description": "An Italian Franciscan friar known for his extraordinary ecstasies and miraculous levitations, leading to his patronage of pilots and students."
+      },
+      {
+        "name": "St. Eumenius",
+        "type": "Bishop of Gortyna",
+        "description": "A late 3rd-century bishop of Gortyna, Crete, celebrated for his charity, miracle-working, and defense of the Orthodox Faith."
+      },
+      {
+        "name": "St. Richardis of Andlou",
+        "type": "Holy Roman Empress / Abbess",
+        "description": "Holy Roman Empress and later the first abbess of Andlau Abbey, known for her piety and undergoing a trial by fire to prove her innocence."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Equal Pay Day",
+        "description": "This United Nations observance highlights the ongoing efforts to achieve equal pay for work of equal value worldwide."
+      },
+      {
+        "name": "World Water Monitoring Day",
+        "description": "An international outreach program that encourages citizens to conduct basic monitoring of local water bodies."
+      },
+      {
+        "name": "Global Company Culture Day",
+        "description": "Celebrated annually, this day spotlights the vital role of workplace culture in enhancing employee productivity and happiness."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Labor to keep alive in your breast that little spark of celestial fire, called conscience.",
+      "author": "George Washington",
+      "context": "On September 18, 1793, George Washington, the first U.S. President, laid the cornerstone of the United States Capitol Building in Washington D.C."
+    },
+    "motivationalQuote": {
+      "text": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Jada Pinkett Smith",
+        "description": "An American actress, talk show host, and businesswoman, known for her roles in films like 'The Nutty Professor' and 'The Matrix' series.",
+        "year": "1971"
+      },
+      {
+        "name": "James Marsden",
+        "description": "An American actor known for his versatile roles in television and film, including Cyclops in the X-Men film series and appearances in 'Westworld'.",
+        "year": "1973"
+      },
+      {
+        "name": "Jason Sudeikis",
+        "description": "An American actor, comedian, and writer, widely recognized for his work on 'Saturday Night Live' and the acclaimed series 'Ted Lasso'.",
+        "year": "1975"
+      }
+    ],
+    "events": [
+      {
+        "title": "U.S. Capitol Cornerstone Laid",
+        "description": "George Washington laid the first cornerstone of the United States Capitol Building, marking a monumental step in the construction of the nation's legislative home.",
+        "year": "1793"
+      },
+      {
+        "title": "The New York Times First Published",
+        "description": "The first edition of 'The New-York Daily Times,' which later became The New York Times, was published, initiating a new era in American journalism.",
+        "year": "1851"
+      },
+      {
+        "title": "Vanguard 3 Satellite Launched",
+        "description": "The Vanguard 3 satellite was successfully launched into Earth's orbit, contributing to scientific understanding of Earth's magnetic field and radiation belts.",
+        "year": "1959"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Equal Pay Day",
+      "teaser": "This United Nations observance highlights the ongoing efforts to achieve equal pay for work of equal value worldwide."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São José de Cupertino",
+        "type": "Sacerdote",
+        "description": "Um frade franciscano italiano conhecido por seus êxtases extraordinários e levitações milagrosas, levando-o ao patrocínio de pilotos e estudantes."
+      },
+      {
+        "name": "São Eumênio",
+        "type": "Bispo de Gortyna",
+        "description": "Um bispo de Gortyna, Creta, do final do século III, celebrado por sua caridade, milagres e defesa da Fé Ortodoxa."
+      },
+      {
+        "name": "Santa Ricardis de Andlau",
+        "type": "Imperatriz do Sacro Império Romano-Germânico / Abadessa",
+        "description": "Imperatriz do Sacro Império Romano-Germânico e mais tarde a primeira abadessa da Abadia de Andlau, conhecida por sua piedade e por ter passado por uma provação de fogo para provar sua inocência."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Igualdade Salarial",
+        "description": "Esta observância das Nações Unidas destaca os esforços contínuos para alcançar a igualdade salarial por trabalho de igual valor em todo o mundo."
+      },
+      {
+        "name": "Dia Mundial de Monitoramento da Água",
+        "description": "Um programa internacional de extensão que incentiva os cidadãos a realizar o monitoramento básico de corpos d'água locais."
+      },
+      {
+        "name": "Dia Global da Cultura Empresarial",
+        "description": "Celebrado anualmente, este dia destaca o papel vital da cultura no local de trabalho para aumentar a produtividade e a felicidade dos funcionários."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Trabalhe para manter viva em seu peito essa pequena centelha de fogo celestial, chamada consciência.",
+      "author": "George Washington",
+      "context": "Em 18 de setembro de 1793, George Washington, o primeiro Presidente dos EUA, lançou a pedra fundamental do Edifício do Capitólio dos Estados Unidos em Washington D.C."
+    },
+    "motivationalQuote": {
+      "text": "Daqui a vinte anos, você estará mais desapontado com as coisas que não fez do que com as que fez.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Jada Pinkett Smith",
+        "description": "Uma atriz, apresentadora de talk show e empresária americana, conhecida por seus papéis em filmes como 'O Professor Aloprado' e a série 'Matrix'.",
+        "year": "1971"
+      },
+      {
+        "name": "James Marsden",
+        "description": "Um ator americano conhecido por seus papéis versáteis na televisão e no cinema, incluindo Ciclope na série de filmes X-Men e aparições em 'Westworld'.",
+        "year": "1973"
+      },
+      {
+        "name": "Jason Sudeikis",
+        "description": "Um ator, comediante e escritor americano, amplamente reconhecido por seu trabalho em 'Saturday Night Live' e na aclamada série 'Ted Lasso'.",
+        "year": "1975"
+      }
+    ],
+    "events": [
+      {
+        "title": "Lançamento da Pedra Fundamental do Capitólio dos EUA",
+        "description": "George Washington lançou a primeira pedra fundamental do Edifício do Capitólio dos Estados Unidos, marcando um passo monumental na construção da sede legislativa da nação.",
+        "year": "1793"
+      },
+      {
+        "title": "Primeira Publicação do The New York Times",
+        "description": "A primeira edição do 'The New-York Daily Times', que mais tarde se tornou The New York Times, foi publicada, iniciando uma nova era no jornalismo americano.",
+        "year": "1851"
+      },
+      {
+        "title": "Lançamento do Satélite Vanguard 3",
+        "description": "O satélite Vanguard 3 foi lançado com sucesso na órbita da Terra, contribuindo para a compreensão científica do campo magnético e dos cinturões de radiação da Terra.",
+        "year": "1959"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional da Igualdade Salarial",
+      "teaser": "Esta observância das Nações Unidas destaca os esforços contínuos para alcançar a igualdade salarial por trabalho de igual valor em todo o mundo."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Josep de Copertino",
+        "type": "Sacerdot",
+        "description": "Un frare franciscà italià conegut pels seus èxtasis extraordinaris i levitacions miraculoses, que el van portar a ser patró de pilots i estudiants."
+      },
+      {
+        "name": "Sant Eumeni",
+        "type": "Bisbe de Gortina",
+        "description": "Un bisbe de Gortina, Creta, de finals del segle III, celebrat per la seva caritat, la seva capacitat de fer miracles i la seva defensa de la Fe Ortodoxa."
+      },
+      {
+        "name": "Santa Ricardis d'Andlau",
+        "type": "Emperadriu del Sacre Imperi Romà / Abadessa",
+        "description": "Emperadriu del Sacre Imperi Romà i més tard la primera abadessa de l'Abadia d'Andlau, coneguda per la seva pietat i per haver-se sotmès a un judici per foc per demostrar la seva innocència."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la Igualtat Salarial",
+        "description": "Aquesta commemoració de les Nacions Unides destaca els esforços constants per assolir la igualtat salarial per a treballs d'igual valor a tot el món."
+      },
+      {
+        "name": "Dia Mundial del Control de l'Aigua",
+        "description": "Un programa internacional de sensibilització que encoratja els ciutadans a realitzar un control bàsic dels cursos d'aigua locals."
+      },
+      {
+        "name": "Dia Mundial de la Cultura d'Empresa",
+        "description": "Celebrat anualment, aquest dia posa en relleu el paper vital de la cultura del lloc de treball per millorar la productivitat i la felicitat dels empleats."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Treballa per mantenir viva al teu pit aquella petita espurna de foc celestial, anomenada consciència.",
+      "author": "George Washington",
+      "context": "El 18 de setembre de 1793, George Washington, el primer president dels EUA, va col·locar la primera pedra de l'Edifici del Capitoli dels Estats Units a Washington D.C."
+    },
+    "motivationalQuote": {
+      "text": "D'aquí a vint anys et decebran més les coses que no vas fer que les que sí que vas fer.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Jada Pinkett Smith",
+        "description": "Una actriu, presentadora de talk shows i empresària estatunidenca, coneguda pels seus papers en pel·lícules com 'El professor guillat' i la saga 'Matrix'.",
+        "year": "1971"
+      },
+      {
+        "name": "James Marsden",
+        "description": "Un actor estatunidenc conegut pels seus papers versàtils en televisió i cinema, incloent Cíclop a la saga X-Men i aparicions a 'Westworld'.",
+        "year": "1973"
+      },
+      {
+        "name": "Jason Sudeikis",
+        "description": "Un actor, còmic i guionista estatunidenc, àmpliament reconegut pel seu treball a 'Saturday Night Live' i la aclamada sèrie 'Ted Lasso'.",
+        "year": "1975"
+      }
+    ],
+    "events": [
+      {
+        "title": "Col·locació de la primera pedra del Capitoli dels EUA",
+        "description": "George Washington va col·locar la primera pedra de l'Edifici del Capitoli dels Estats Units, marcant un pas monumental en la construcció de la seu legislativa de la nació.",
+        "year": "1793"
+      },
+      {
+        "title": "Primera publicació de The New York Times",
+        "description": "Es va publicar la primera edició de 'The New-York Daily Times', que més tard es va convertir en The New York Times, iniciant una nova era en el periodisme estatunidenc.",
+        "year": "1851"
+      },
+      {
+        "title": "Llançament del satèl·lit Vanguard 3",
+        "description": "El satèl·lit Vanguard 3 va ser llançat amb èxit a l'òrbita terrestre, contribuint a la comprensió científica del camp magnètic de la Terra i els cinturons de radiació.",
+        "year": "1959"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de la Igualtat Salarial",
+      "teaser": "Aquesta commemoració de les Nacions Unides destaca els esforços constants per assolir la igualtat salarial per a treballs d'igual valor a tot el món."
+    }
+  }
+}
