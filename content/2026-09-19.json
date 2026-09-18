@@ -1,0 +1,307 @@
+{
+  "date": "2026-09-19",
+  "es": {
+    "saints": [
+      {
+        "name": "San Genaro",
+        "type": "Obispo y Mártir",
+        "description": "San Genaro fue obispo de Benevento, Italia, martirizado alrededor del 305 d.C. durante la Persecución de Diocleciano. Es el patrón de Nápoles y es famoso por el milagro anual de la licuefacción de su sangre seca."
+      },
+      {
+        "name": "San Teodoro de Tarso",
+        "type": "Arzobispo de Canterbury",
+        "description": "San Teodoro, un monje griego de Tarso, se convirtió en el octavo Arzobispo de Canterbury en el 668 d.C. Reorganizó y fortaleció significativamente la Iglesia en Inglaterra, promoviendo la educación y celebrando el primer concilio nacional."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de Hablar como un Pirata",
+        "description": "Esta lúdica observancia cultural anima a personas de todo el mundo a hablar como un pirata por un día, usando a menudo frases como \"¡Ahoy, compañero!\" y \"¡Avast!\""
+      },
+      {
+        "name": "Día Internacional de Limpieza Costera",
+        "description": "Celebrado el tercer sábado de septiembre, este evento global moviliza a voluntarios para eliminar plásticos y escombros de playas y vías fluviales para proteger los entornos marinos."
+      },
+      {
+        "name": "Día Internacional del Panda Rojo",
+        "description": "Establecido para concienciar sobre el panda rojo en peligro de extinción, un mamífero arbóreo nativo del este del Himalaya y el suroeste de China."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La educación hace que un pueblo sea fácil de dirigir, pero difícil de arrastrar; fácil de gobernar, pero imposible de esclavizar.",
+      "author": "Henry Peter Brougham",
+      "context": "Henry Peter Brougham, un abogado y político escocés conocido por su defensa de la educación y la reforma social, nació el 19 de septiembre de 1778."
+    },
+    "motivationalQuote": {
+      "text": "El carácter no puede desarrollarse en la facilidad y la tranquilidad. Solo a través de la experiencia de la prueba y el sufrimiento el alma puede fortalecerse, la ambición inspirarse y el éxito alcanzarse.",
+      "author": "Helen Keller"
+    },
+    "births": [
+      {
+        "name": "William Golding",
+        "description": "Novelista, dramaturgo y poeta inglés, más conocido por su novela de 1954 'El señor de las moscas', por la que fue galardonado con el Premio Nobel de Literatura en 1983.",
+        "year": "1911"
+      },
+      {
+        "name": "Adam West",
+        "description": "Actor estadounidense conocido por su icónico papel de Batman en la serie de televisión de la década de 1960 y por darle voz al alcalde Adam West en la serie animada 'Padre de familia'.",
+        "year": "1928"
+      },
+      {
+        "name": "Jeremy Irons",
+        "description": "Actor inglés que ha protagonizado numerosas películas y series de televisión, ganando un Premio de la Academia al Mejor Actor por su papel en 'El misterio Von Bülow'.",
+        "year": "1948"
+      }
+    ],
+    "events": [
+      {
+        "title": "Nueva Zelanda concede el derecho al voto a las mujeres",
+        "description": "Nueva Zelanda se convirtió en el primer país autónomo del mundo en conceder a todas las mujeres el derecho al voto en las elecciones parlamentarias.",
+        "year": "1893"
+      },
+      {
+        "title": "Primeros emoticonos documentados publicados",
+        "description": "El científico informático Scott Fahlman publicó los primeros emoticonos sonrientes documentados, :-) y :-(, en un tablón de mensajes en línea de la Universidad Carnegie Mellon, siendo pionero en la comunicación digital.",
+        "year": "1982"
+      },
+      {
+        "title": "Descubrimiento de Ötzi, el Hombre de Hielo",
+        "description": "Excursionistas en los Alpes de Ötztal, en la frontera entre Austria e Italia, descubrieron a Ötzi, una momia natural de un hombre que vivió alrededor del 3300 a.C., notablemente bien conservada.",
+        "year": "1991"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de Hablar como un Pirata",
+      "teaser": "Esta lúdica observancia cultural anima a personas de todo el mundo a hablar como un pirata por un día, usando a menudo frases como \"¡Ahoy, compañero!\" y \"¡Avast!\""
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Januarius",
+        "type": "Bishop and Martyr",
+        "description": "Saint Januarius was a bishop of Benevento, Italy, martyred around 305 A.D. during the Diocletianic Persecution. He is the patron saint of Naples and is famous for the annual miracle of his dried blood liquefying."
+      },
+      {
+        "name": "Saint Theodore of Tarsus",
+        "type": "Archbishop of Canterbury",
+        "description": "Saint Theodore, a Greek monk from Tarsus, became the eighth Archbishop of Canterbury in 668 A.D. He significantly reorganized and strengthened the Church in England, promoting education and holding the first national council."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Talk Like a Pirate Day",
+        "description": "This playful cultural observance encourages people worldwide to speak like a pirate for the day, often using phrases like \"Ahoy Matey\" and \"Avast!\""
+      },
+      {
+        "name": "International Coastal Cleanup Day",
+        "description": "Observed on the third Saturday of September, this global event mobilizes volunteers to remove plastic and debris from beaches and waterways to protect marine environments."
+      },
+      {
+        "name": "International Red Panda Day",
+        "description": "Established to raise awareness for the endangered red panda, an arboreal mammal native to the eastern Himalayas and southwestern China."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Education makes a people easy to lead, but difficult to drive; easy to govern, but impossible to enslave.",
+      "author": "Henry Peter Brougham",
+      "context": "Henry Peter Brougham, a Scottish lawyer and politician known for his advocacy for education and social reform, was born on September 19, 1778."
+    },
+    "motivationalQuote": {
+      "text": "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved.",
+      "author": "Helen Keller"
+    },
+    "births": [
+      {
+        "name": "William Golding",
+        "description": "An English novelist, playwright, and poet, best known for his 1954 novel 'Lord of the Flies,' for which he was awarded the Nobel Prize in Literature in 1983.",
+        "year": "1911"
+      },
+      {
+        "name": "Adam West",
+        "description": "An American actor known for his iconic role as Batman in the 1960s television series and for voicing Mayor Adam West in the animated series 'Family Guy.'",
+        "year": "1928"
+      },
+      {
+        "name": "Jeremy Irons",
+        "description": "An English actor who has starred in numerous films and television series, winning an Academy Award for Best Actor for his role in 'Reversal of Fortune.'",
+        "year": "1948"
+      }
+    ],
+    "events": [
+      {
+        "title": "New Zealand Grants Women the Right to Vote",
+        "description": "New Zealand became the first self-governing country in the world to grant all women the right to vote in parliamentary elections.",
+        "year": "1893"
+      },
+      {
+        "title": "First Documented Emoticons Posted",
+        "description": "Computer scientist Scott Fahlman posted the first documented smiley emoticons, :-) and :-(, on an online message board at Carnegie Mellon University, pioneering digital communication.",
+        "year": "1982"
+      },
+      {
+        "title": "Ötzi the Iceman Discovered",
+        "description": "Hikers in the Ötztal Alps on the border of Austria and Italy discovered Ötzi, a remarkably well-preserved natural mummy of a man who lived around 3300 BCE.",
+        "year": "1991"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Talk Like a Pirate Day",
+      "teaser": "This playful cultural observance encourages people worldwide to speak like a pirate for the day, often using phrases like \"Ahoy Matey\" and \"Avast!\""
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Januário",
+        "type": "Bispo e Mártir",
+        "description": "São Januário foi bispo de Benevento, Itália, martirizado por volta de 305 d.C. durante a Perseguição de Diocleciano. Ele é o santo padroeiro de Nápoles e é famoso pelo milagre anual da liquefação de seu sangue seco."
+      },
+      {
+        "name": "São Teodoro de Tarso",
+        "type": "Arcebispo da Cantuária",
+        "description": "São Teodoro, um monge grego de Tarso, tornou-se o oitavo Arcebispo da Cantuária em 668 d.C. Ele reorganizou e fortaleceu significativamente a Igreja na Inglaterra, promovendo a educação e realizando o primeiro concílio nacional."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de Falar como um Pirata",
+        "description": "Esta divertida observância cultural incentiva pessoas de todo o mundo a falar como um pirata por um dia, frequentemente usando frases como \"Olá, companheiro!\" e \"Abaixa!\""
+      },
+      {
+        "name": "Dia Internacional da Limpeza Costeira",
+        "description": "Observado no terceiro sábado de setembro, este evento global mobiliza voluntários para remover plástico e detritos de praias e cursos d'água para proteger os ambientes marinhos."
+      },
+      {
+        "name": "Dia Internacional do Panda Vermelho",
+        "description": "Estabelecido para aumentar a conscientização sobre o panda vermelho ameaçado de extinção, um mamífero arbóreo nativo do leste do Himalaia e do sudoeste da China."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A educação torna um povo fácil de liderar, mas difícil de forçar; fácil de governar, mas impossível de escravizar.",
+      "author": "Henry Peter Brougham",
+      "context": "Henry Peter Brougham, um advogado e político escocês conhecido por sua defesa da educação e reforma social, nasceu em 19 de setembro de 1778."
+    },
+    "motivationalQuote": {
+      "text": "O caráter não pode ser desenvolvido na facilidade e no sossego. Somente através da experiência da provação e do sofrimento a alma pode ser fortalecida, a ambição inspirada e o sucesso alcançado.",
+      "author": "Helen Keller"
+    },
+    "births": [
+      {
+        "name": "William Golding",
+        "description": "Um romancista, dramaturgo e poeta inglês, mais conhecido por seu romance de 1954 'O Senhor das Moscas', pelo qual foi agraciado com o Prêmio Nobel de Literatura em 1983.",
+        "year": "1911"
+      },
+      {
+        "name": "Adam West",
+        "description": "Um ator americano conhecido por seu papel icônico como Batman na série de televisão dos anos 1960 e por dublar o Prefeito Adam West na série animada 'Uma Família da Pesada'.",
+        "year": "1928"
+      },
+      {
+        "name": "Jeremy Irons",
+        "description": "Um ator inglês que estrelou em numerosos filmes e séries de televisão, ganhando um Oscar de Melhor Ator por seu papel em 'O Reverso da Fortuna'.",
+        "year": "1948"
+      }
+    ],
+    "events": [
+      {
+        "title": "Nova Zelândia concede às mulheres o direito de voto",
+        "description": "A Nova Zelândia tornou-se o primeiro país autônomo do mundo a conceder a todas as mulheres o direito de voto nas eleições parlamentares.",
+        "year": "1893"
+      },
+      {
+        "title": "Primeiros Emoticons Documentados Publicados",
+        "description": "O cientista da computação Scott Fahlman publicou os primeiros emoticons sorridentes documentados, :-) e :-(, em um fórum de mensagens online na Universidade Carnegie Mellon, sendo pioneiro na comunicação digital.",
+        "year": "1982"
+      },
+      {
+        "title": "Ötzi, o Homem do Gelo, Descoberto",
+        "description": "Caminhantes nos Alpes de Ötztal, na fronteira entre a Áustria e a Itália, descobriram Ötzi, uma múmia natural notavelmente bem preservada de um homem que viveu por volta de 3300 a.C.",
+        "year": "1991"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional de Falar como um Pirata",
+      "teaser": "Esta divertida observância cultural incentiva pessoas de todo o mundo a falar como um pirata por um dia, frequentemente usando frases como \"Olá, companheiro!\" e \"Abaixa!\""
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Genar",
+        "type": "Bisbe i Màrtir",
+        "description": "Sant Genar va ser bisbe de Benevent, Itàlia, martiritzat cap al 305 dC durant la persecució de Dioclecià. És el patró de Nàpols i és famós pel miracle anual de la liqüefacció de la seva sang seca."
+      },
+      {
+        "name": "Sant Teodor de Tars",
+        "type": "Arquebisbe de Canterbury",
+        "description": "Sant Teodor, un monjo grec de Tars, va esdevenir el vuitè arquebisbe de Canterbury l'any 668 dC. Va reorganitzar i enfortir significativament l'Església a Anglaterra, promovent l'educació i celebrant el primer concili nacional."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de Parlar com un Pirata",
+        "description": "Aquesta celebració cultural lúdica anima la gent de tot el món a parlar com un pirata durant el dia, sovint utilitzant frases com \"Ahoy, company!\" i \"Atureu-vos!\""
+      },
+      {
+        "name": "Dia Internacional de Neteja de Costes",
+        "description": "Celebrat el tercer dissabte de setembre, aquest esdeveniment global mobilitza voluntaris per retirar plàstic i deixalles de platges i cursos d'aigua per protegir els entorns marins."
+      },
+      {
+        "name": "Dia Internacional del Panda Vermell",
+        "description": "Establert per conscienciar sobre el panda vermell en perill d'extinció, un mamífer arborícola nadiu de l'Himàlaia oriental i el sud-oest de la Xina."
+      }
+    ],
+    "historicalQuote": {
+      "text": "L'educació fa que un poble sigui fàcil de liderar, però difícil d'obligar; fàcil de governar, però impossible d'esclavitzar.",
+      "author": "Henry Peter Brougham",
+      "context": "Henry Peter Brougham, un advocat i polític escocès conegut per la seva defensa de l'educació i la reforma social, va néixer el 19 de setembre de 1778."
+    },
+    "motivationalQuote": {
+      "text": "El caràcter no es pot desenvolupar en la facilitat i la tranquil·litat. Només a través de l'experiència de la prova i el patiment es pot enfortir l'ànima, inspirar l'ambició i aconseguir l'èxit.",
+      "author": "Helen Keller"
+    },
+    "births": [
+      {
+        "name": "William Golding",
+        "description": "Novel·lista, dramaturg i poeta anglès, més conegut per la seva novel·la de 1954 'El Senyor de les Mosques', per la qual va rebre el Premi Nobel de Literatura el 1983.",
+        "year": "1911"
+      },
+      {
+        "name": "Adam West",
+        "description": "Actor nord-americà conegut pel seu paper icònic com a Batman a la sèrie de televisió dels anys 60 i per posar veu a l'alcalde Adam West a la sèrie d'animació 'Family Guy'.",
+        "year": "1928"
+      },
+      {
+        "name": "Jeremy Irons",
+        "description": "Actor anglès que ha protagonitzat nombroses pel·lícules i sèries de televisió, guanyant un Premi de l'Acadèmia al Millor Actor pel seu paper a 'El misteri Von Bülow'.",
+        "year": "1948"
+      }
+    ],
+    "events": [
+      {
+        "title": "Nova Zelanda Concedeix el Dret de Vot a les Dones",
+        "description": "Nova Zelanda va ser el primer país autònom del món a concedir a totes les dones el dret de vot en les eleccions parlamentàries.",
+        "year": "1893"
+      },
+      {
+        "title": "Es Publiquen els Primers Emoticones Documentats",
+        "description": "El científic informàtic Scott Fahlman va publicar els primers emoticones somrients documentats, :-) i :-(, en un fòrum de missatges en línia a la Universitat Carnegie Mellon, sent pioner en la comunicació digital.",
+        "year": "1982"
+      },
+      {
+        "title": "Descoberta d'Ötzi, l'Home de Gel",
+        "description": "Senderistes als Alps d'Ötztal, a la frontera d'Àustria i Itàlia, van descobrir Ötzi, una mòmia natural d'un home que va viure al voltant del 3300 aC, remarcablement ben conservada.",
+        "year": "1991"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de Parlar com un Pirata",
+      "teaser": "Aquesta celebració cultural lúdica anima la gent de tot el món a parlar com un pirata durant el dia, sovint utilitzant frases com \"Ahoy, company!\" i \"Atureu-vos!\""
+    }
+  }
+}
