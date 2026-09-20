@@ -1,0 +1,311 @@
+{
+  "date": "2026-09-21",
+  "es": {
+    "saints": [
+      {
+        "name": "San Mateo Apóstol",
+        "type": "Apóstol, Evangelista, Mártir",
+        "description": "Un recaudador de impuestos llamado por Jesús, San Mateo se convirtió en uno de los doce Apóstoles y tradicionalmente se le atribuye la autoría del primer Evangelio. Es el santo patrón de contadores y banqueros."
+      },
+      {
+        "name": "Apóstol Cuadrado de los Setenta",
+        "type": "Apóstol, Obispo, Apologista",
+        "description": "San Cuadrado predicó la Palabra de Dios en Atenas y Magnesia, llegando a ser Obispo de Atenas. Fue autor de una Apología en defensa del cristianismo, presentada al emperador Adriano."
+      },
+      {
+        "name": "Santa Maura de Troyes",
+        "type": "Virgen",
+        "description": "Nacida en la nobleza, Santa Maura fue conocida por su piedad, convirtiendo a su padre y apoyando a su hermano, quien más tarde se convirtió en obispo. Dedicó su vida a la oración, la caridad y el ayuno."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Paz",
+        "description": "Establecido por las Naciones Unidas en 1981, este día se celebra globalmente el 21 de septiembre para fortalecer los ideales de paz, tanto dentro como entre todas las naciones y pueblos."
+      },
+      {
+        "name": "Día Mundial del Alzheimer",
+        "description": "Lanzado por Alzheimer's Disease International (ADI) el 21 de septiembre de 1994, este día tiene como objetivo aumentar la conciencia global y desafiar el estigma que rodea al Alzheimer y otras demencias."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Adaptarse o perecer, ahora como siempre, es el imperativo inexorable de la naturaleza.",
+      "author": "H.G. Wells",
+      "context": "H.G. Wells, novelista y periodista inglés conocido por sus obras de ciencia ficción y comentarios sociales, nació el 21 de septiembre de 1866."
+    },
+    "motivationalQuote": {
+      "text": "Haz lo que puedas, con lo que tengas, donde estés.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      {
+        "name": "H.G. Wells",
+        "description": "Un influyente novelista, periodista y sociólogo inglés, a menudo llamado el 'padre de la ciencia ficción', famoso por obras como 'La máquina del tiempo' y 'La guerra de los mundos'.",
+        "year": "1866"
+      },
+      {
+        "name": "Stephen King",
+        "description": "Un aclamado autor estadounidense ampliamente reconocido por sus prolíficas obras en los géneros de terror, ficción sobrenatural, suspense y fantasía.",
+        "year": "1947"
+      },
+      {
+        "name": "Charles Nicolle",
+        "description": "Un bacteriólogo francés que recibió el Premio Nobel de Fisiología o Medicina en 1928 por su descubrimiento de que la fiebre tifoidea es transmitida por el piojo corporal.",
+        "year": "1866"
+      }
+    ],
+    "events": [
+      {
+        "title": "Belice Obtiene la Independencia",
+        "description": "Belice logró la plena independencia del Reino Unido, marcando un paso significativo en su autogobierno.",
+        "year": "1981"
+      },
+      {
+        "title": "Publicación de El Hobbit",
+        "description": "La querida novela de fantasía de J.R.R. Tolkien, 'El Hobbit', fue publicada, introduciendo a los lectores a la Tierra Media y convirtiéndose en un pilar de la literatura fantástica.",
+        "year": "1937"
+      },
+      {
+        "title": "Lanzamiento de Starlink de SpaceX",
+        "description": "Un cohete SpaceX Falcon 9 lanzó con éxito 28 satélites Starlink a la órbita baja de la Tierra desde Cabo Cañaveral, contribuyendo a la conectividad global de internet.",
+        "year": "2025"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de la Paz",
+      "teaser": "Establecido por las Naciones Unidas en 1981, este día se celebra globalmente el 21 de septiembre para fortalecer los ideales de paz, tanto dentro como entre todas las naciones y pueblos."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Matthew the Apostle",
+        "type": "Apostle, Evangelist, Martyr",
+        "description": "A tax collector called by Jesus, St. Matthew became one of the twelve Apostles and is traditionally credited with writing the first Gospel. He is the patron saint of accountants and bankers."
+      },
+      {
+        "name": "Apostle Quadratus of the Seventy",
+        "type": "Apostle, Bishop, Apologist",
+        "description": "Saint Quadratus preached the Word of God in Athens and Magnesia, eventually becoming the Bishop of Athens. He authored an Apologia in defense of Christianity, presented to Emperor Hadrian."
+      },
+      {
+        "name": "Saint Maura of Troyes",
+        "type": "Virgin",
+        "description": "Born to nobility, Saint Maura was known for her piety, converting her father and supporting her brother, who later became a bishop. She devoted her life to prayer, charity, and fasting."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of Peace",
+        "description": "Established by the United Nations in 1981, this day is observed globally on September 21 to strengthen the ideals of peace, both within and among all nations and peoples."
+      },
+      {
+        "name": "World Alzheimer's Day",
+        "description": "Launched by Alzheimer's Disease International (ADI) on September 21, 1994, this day aims to raise global awareness and challenge the stigma surrounding Alzheimer's and other dementias."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Adapt or perish, now as ever, is nature's inexorable imperative.",
+      "author": "H.G. Wells",
+      "context": "H.G. Wells, an English novelist and journalist known for his science fiction works and social commentary, was born on September 21, 1866."
+    },
+    "motivationalQuote": {
+      "text": "Do what you can, with what you have, where you are.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      {
+        "name": "H.G. Wells",
+        "description": "An influential English novelist, journalist, and sociologist, often called the 'father of science fiction,' famous for works like 'The Time Machine' and 'The War of the Worlds'.",
+        "year": "1866"
+      },
+      {
+        "name": "Stephen King",
+        "description": "An acclaimed American author widely recognized for his prolific works in horror, supernatural fiction, suspense, and fantasy genres.",
+        "year": "1947"
+      },
+      {
+        "name": "Charles Nicolle",
+        "description": "A French bacteriologist who received the 1928 Nobel Prize in Physiology or Medicine for his discovery that typhus fever is transmitted by the body louse.",
+        "year": "1866"
+      }
+    ],
+    "events": [
+      {
+        "title": "Belize Gains Independence",
+        "description": "Belize achieved full independence from the United Kingdom, marking a significant step in its self-governance.",
+        "year": "1981"
+      },
+      {
+        "title": "Publication of The Hobbit",
+        "description": "J.R.R. Tolkien's beloved fantasy novel, 'The Hobbit,' was published, introducing readers to Middle-earth and becoming a cornerstone of fantasy literature.",
+        "year": "1937"
+      },
+      {
+        "title": "SpaceX Starlink Launch",
+        "description": "A SpaceX Falcon 9 rocket successfully launched 28 Starlink satellites into low-Earth orbit from Cape Canaveral, contributing to global internet connectivity.",
+        "year": "2025"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Day of Peace",
+      "teaser": "Established by the United Nations in 1981, this day is observed globally on September 21 to strengthen the ideals of peace, both within and among all nations and peoples."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Mateus Apóstolo",
+        "type": "Apóstolo, Evangelista, Mártir",
+        "description": "Um cobrador de impostos chamado por Jesus, São Mateus tornou-se um dos doze Apóstolos e é tradicionalmente creditado com a autoria do primeiro Evangelho. Ele é o santo padroeiro de contadores e banqueiros."
+      },
+      {
+        "name": "Apóstolo Quadrado dos Setenta",
+        "type": "Apóstolo, Bispo, Apologista",
+        "description": "São Quadrado pregou a Palavra de Deus em Atenas e Magnésia, tornando-se eventualmente Bispo de Atenas. Ele foi autor de uma Apologia em defesa do Cristianismo, apresentada ao Imperador Adriano."
+      },
+      {
+        "name": "Santa Maura de Troyes",
+        "type": "Virgem",
+        "description": "Nascida na nobreza, Santa Maura era conhecida por sua piedade, convertendo seu pai e apoiando seu irmão, que mais tarde se tornou bispo. Ela dedicou sua vida à oração, caridade e jejum."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Paz",
+        "description": "Estabelecido pelas Nações Unidas em 1981, este dia é observado globalmente em 21 de setembro para fortalecer os ideais de paz, tanto dentro quanto entre todas as nações e povos."
+      },
+      {
+        "name": "Dia Mundial do Alzheimer",
+        "description": "Lançado pela Alzheimer's Disease International (ADI) em 21 de setembro de 1994, este dia visa aumentar a consciência global e desafiar o estigma em torno do Alzheimer e outras demências."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Adaptar-se ou perecer, agora como sempre, é o imperativo inexorável da natureza.",
+      "author": "H.G. Wells",
+      "context": "H.G. Wells, um romancista e jornalista inglês conhecido por suas obras de ficção científica e comentários sociais, nasceu em 21 de setembro de 1866."
+    },
+    "motivationalQuote": {
+      "text": "Faça o que puder, com o que tiver, onde estiver.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      {
+        "name": "H.G. Wells",
+        "description": "Um influente romancista, jornalista e sociólogo inglês, muitas vezes chamado de 'pai da ficção científica', famoso por obras como 'A Máquina do Tempo' e 'A Guerra dos Mundos'.",
+        "year": "1866"
+      },
+      {
+        "name": "Stephen King",
+        "description": "Um aclamado autor americano amplamente reconhecido por suas prolíficas obras nos gêneros de terror, ficção sobrenatural, suspense e fantasia.",
+        "year": "1947"
+      },
+      {
+        "name": "Charles Nicolle",
+        "description": "Um bacteriologista francês que recebeu o Prêmio Nobel de Fisiologia ou Medicina em 1928 por sua descoberta de que a febre tifoide é transmitida pelo piolho do corpo.",
+        "year": "1866"
+      }
+    ],
+    "events": [
+      {
+        "title": "Belize Ganha Independência",
+        "description": "Belize alcançou a independência total do Reino Unido, marcando um passo significativo em sua autogovernança.",
+        "year": "1981"
+      },
+      {
+        "title": "Publicação de O Hobbit",
+        "description": "O amado romance de fantasia de J.R.R. Tolkien, 'O Hobbit', foi publicado, apresentando os leitores à Terra Média e tornando-se um pilar da literatura fantástica.",
+        "year": "1937"
+      },
+      {
+        "title": "Lançamento do Starlink da SpaceX",
+        "description": "Um foguete SpaceX Falcon 9 lançou com sucesso 28 satélites Starlink para a órbita baixa da Terra a partir de Cabo Canaveral, contribuindo para a conectividade global de internet.",
+        "year": "2025"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional da Paz",
+      "teaser": "Estabelecido pelas Nações Unidas em 1981, este dia é observado globalmente em 21 de setembro para fortalecer os ideais de paz, tanto dentro quanto entre todas as nações e povos."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Mateu Apòstol",
+        "type": "Apòstol, Evangelista, Màrtir",
+        "description": "Un recaptador d'impostos cridat per Jesús, sant Mateu va esdevenir un dels dotze apòstols i tradicionalment se li atribueix la redacció del primer Evangeli. És el patró dels comptables i banquers."
+      },
+      {
+        "name": "Apòstol Quadrat dels Setanta",
+        "type": "Apòstol, Bisbe, Apologeta",
+        "description": "Sant Quadrat va predicar la Paraula de Déu a Atenes i Magnèsia, i finalment va esdevenir el Bisbe d'Atenes. Va ser autor d'una Apologia en defensa del cristianisme, presentada a l'emperador Hadrià."
+      },
+      {
+        "name": "Santa Maura de Troyes",
+        "type": "Verge",
+        "description": "Nascuda en la noblesa, santa Maura era coneguda per la seva pietat, convertint el seu pare i donant suport al seu germà, que més tard va esdevenir bisbe. Va dedicar la seva vida a l'oració, la caritat i el dejuni."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la Pau",
+        "description": "Establert per les Nacions Unides el 1981, aquest dia se celebra globalment el 21 de setembre per enfortir els ideals de pau, tant dins com entre totes les nacions i pobles."
+      },
+      {
+        "name": "Dia Mundial de l'Alzheimer",
+        "description": "Llançat per Alzheimer's Disease International (ADI) el 21 de setembre de 1994, aquest dia té com a objectiu sensibilitzar la població mundial i desafiar l'estigma que envolta l'Alzheimer i altres demències."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Adaptar-se o morir, ara com sempre, és l'imperatiu inexorable de la natura.",
+      "author": "H.G. Wells",
+      "context": "H.G. Wells, un novel·lista i periodista anglès conegut per les seves obres de ciència-ficció i comentaris socials, va néixer el 21 de setembre de 1866."
+    },
+    "motivationalQuote": {
+      "text": "Fes el que puguis, amb el que tinguis, on siguis.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      {
+        "name": "H.G. Wells",
+        "description": "Un influent novel·lista, periodista i sociòleg anglès, sovint anomenat el 'pare de la ciència-ficció', famós per obres com 'La màquina del temps' i 'La guerra dels mons'.",
+        "year": "1866"
+      },
+      {
+        "name": "Stephen King",
+        "description": "Un aclamat autor americà àmpliament reconegut per les seves prolífiques obres en els gèneres de terror, ficció sobrenatural, suspens i fantasia.",
+        "year": "1947"
+      },
+      {
+        "name": "Charles Nicolle",
+        "description": "Un bacteriòleg francès que va rebre el Premi Nobel de Fisiologia o Medicina de 1928 pel seu descobriment que la febre tifoide és transmesa pel pioll del cos.",
+        "year": "1866"
+      }
+    ],
+    "events": [
+      {
+        "title": "Belize obté la independència",
+        "description": "Belize va assolir la plena independència del Regne Unit, marcant un pas significatiu en la seva autogovernança.",
+        "year": "1981"
+      },
+      {
+        "title": "Publicació de El Hòbbit",
+        "description": "La novel·la de fantasia estimada de J.R.R. Tolkien, 'El Hòbbit', va ser publicada, introduint els lectors a la Terra Mitjana i esdevenint una pedra angular de la literatura fantàstica.",
+        "year": "1937"
+      },
+      {
+        "title": "Llançament de Starlink de SpaceX",
+        "description": "Un coet SpaceX Falcon 9 va llançar amb èxit 28 satèl·lits Starlink a òrbita baixa terrestre des de Cap Canaveral, contribuint a la connectivitat global d'internet.",
+        "year": "2025"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de la Pau",
+      "teaser": "Establert per les Nacions Unides el 1981, aquest dia se celebra globalment el 21 de setembre per enfortir els ideals de pau, tant dins com entre totes les nacions i pobles."
+    }
+  }
+}
