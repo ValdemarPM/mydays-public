@@ -1,0 +1,343 @@
+{
+  "date": "2026-09-22",
+  "es": {
+    "saints": [
+      {
+        "name": "Santo Tomás de Villanueva",
+        "type": "Arzobispo",
+        "description": "Un fraile agustino español que llegó a ser Arzobispo de Valencia, conocido por su austeridad personal y su extensa caridad hacia los pobres y los enfermos."
+      },
+      {
+        "name": "Santas Digna y Emérita de Roma",
+        "type": "Vírgenes-Mártires",
+        "description": "Vírgenes consagradas martirizadas en Roma durante las persecuciones del Emperador Valeriano en el año 259 d.C. por su fe cristiana."
+      },
+      {
+        "name": "Hieromártir Focas, Obispo de Sinope",
+        "type": "Obispo y Taumaturgo",
+        "description": "Un obispo en Sinope, en el Mar Negro, que fortaleció a los fieles y convirtió a muchos idólatras, sufriendo finalmente el martirio alrededor del año 117 d.C."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Equinoccio de Otoño",
+        "description": "Marca el primer día del otoño en el hemisferio norte, cuando el día y la noche tienen una duración aproximadamente igual."
+      },
+      {
+        "name": "Día Mundial Sin Coches",
+        "description": "Anima a la gente a dejar sus coches en casa y utilizar transporte alternativo para reducir las emisiones y recuperar el espacio urbano."
+      },
+      {
+        "name": "Día del Hobbit",
+        "description": "Celebrado por los fans de J.R.R. Tolkien en todo el mundo para conmemorar los cumpleaños compartidos de Bilbo y Frodo Bolsón, a menudo con relecturas y fiestas temáticas."
+      },
+      {
+        "name": "Día de la Mujer de Negocios Estadounidense",
+        "description": "Reconoce y celebra las contribuciones de las mujeres en la fuerza laboral, promoviendo el networking, la educación y el reconocimiento."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“Solo lamento tener una única vida que perder por mi patria.”",
+      "author": "Nathan Hale",
+      "context": "Nathan Hale, un patriota estadounidense y espía del Ejército Continental, fue ahorcado por los británicos en la ciudad de Nueva York el 22 de septiembre de 1776, durante la Revolución Americana. Estas fueron sus últimas palabras reportadas antes de su ejecución."
+    },
+    "motivationalQuote": {
+      "text": "Lo que dejamos atrás y lo que tenemos por delante son asuntos insignificantes comparado con lo que llevamos dentro.",
+      "author": "Ralph Waldo Emerson"
+    },
+    "births": [
+      {
+        "name": "Michael Faraday",
+        "description": "Un científico inglés que hizo importantes contribuciones a los campos del electromagnetismo y la electroquímica, famoso por su trabajo sobre la inducción electromagnética y el diamagnetismo.",
+        "year": "1791"
+      },
+      {
+        "name": "Andrea Bocelli",
+        "description": "Un tenor de ópera italiano, multiinstrumentista y productor musical que ha alcanzado fama mundial tanto en la música clásica como en la pop.",
+        "year": "1958"
+      },
+      {
+        "name": "Joan Jett",
+        "description": "Una icónica cantante de rock, guitarrista, compositora y actriz estadounidense, más conocida como la líder de Joan Jett & The Blackhearts, celebrada por éxitos como 'I Love Rock 'n Roll'.",
+        "year": "1958"
+      }
+    ],
+    "events": [
+      {
+        "title": "Abraham Lincoln Emite la Proclamación Preliminar de Emancipación",
+        "description": "El presidente Abraham Lincoln emitió una Proclamación Preliminar de Emancipación, amenazando con liberar a todas las personas esclavizadas en los estados confederados si esos estados no regresaban a la Unión antes del 1 de enero de 1863.",
+        "year": "1862"
+      },
+      {
+        "title": "Cuerpo de Paz Establecido",
+        "description": "El Congreso de los EE.UU. autorizó la orden ejecutiva del Presidente John F. Kennedy para establecer el Cuerpo de Paz, un programa de voluntarios estadounidense que proporciona asistencia internacional para el desarrollo social y económico.",
+        "year": "1961"
+      },
+      {
+        "title": "Rollos del Mar Muerto Hechos Públicos",
+        "description": "La Biblioteca Huntington puso los Rollos del Mar Muerto a disposición del público por primera vez, permitiendo un acceso académico más amplio a estos manuscritos antiguos.",
+        "year": "1991"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Equinoccio de Otoño",
+      "teaser": "Marca el primer día del otoño en el hemisferio norte, cuando el día y la noche tienen una duración aproximadamente igual."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Thomas of Villanova",
+        "type": "Archbishop",
+        "description": "A Spanish Augustinian friar who became Archbishop of Valencia, known for his personal austerity and extensive charity to the poor and sick."
+      },
+      {
+        "name": "Saints Digna and Emerita of Rome",
+        "type": "Virgin-Martyrs",
+        "description": "Consecrated virgins martyred in Rome during the persecutions of Emperor Valerian in 259 AD for their Christian faith."
+      },
+      {
+        "name": "Hieromartyr Phocas, Bishop of Sinope",
+        "type": "Bishop and Wonderworker",
+        "description": "A bishop in Sinope on the Black Sea who strengthened the faithful and converted many idol-worshippers, eventually suffering martyrdom around 117 AD."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Autumnal Equinox",
+        "description": "Marks the first day of autumn in the Northern Hemisphere, when day and night are approximately equal in length."
+      },
+      {
+        "name": "World Car-Free Day",
+        "description": "Encourages people to leave their cars at home and use alternative transportation to reduce emissions and reclaim urban space."
+      },
+      {
+        "name": "Hobbit Day",
+        "description": "Celebrated by J.R.R. Tolkien fans worldwide to mark the shared birthdays of Bilbo and Frodo Baggins, often involving re-reads and themed parties."
+      },
+      {
+        "name": "American Business Women's Day",
+        "description": "Recognizes and celebrates the contributions of women in the workforce, promoting networking, education, and recognition."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“I only regret that I have but one life to lose for my country.”",
+      "author": "Nathan Hale",
+      "context": "Nathan Hale, an American patriot and spy for the Continental Army, was hanged by the British in New York City on September 22, 1776, during the American Revolution. These were his reported last words before his execution."
+    },
+    "motivationalQuote": {
+      "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "author": "Ralph Waldo Emerson"
+    },
+    "births": [
+      {
+        "name": "Michael Faraday",
+        "description": "An English scientist who made significant contributions to the fields of electromagnetism and electrochemistry, famous for his work on electromagnetic induction and diamagnetism.",
+        "year": "1791"
+      },
+      {
+        "name": "Andrea Bocelli",
+        "description": "An Italian opera tenor, multi-instrumentalist, and music producer who has achieved global fame in both classical and pop music.",
+        "year": "1958"
+      },
+      {
+        "name": "Joan Jett",
+        "description": "An iconic American rock singer, guitarist, songwriter, and actress, best known as the frontwoman of Joan Jett & The Blackhearts, celebrated for hits like 'I Love Rock 'n Roll'.",
+        "year": "1958"
+      }
+    ],
+    "events": [
+      {
+        "title": "Abraham Lincoln Issues Preliminary Emancipation Proclamation",
+        "description": "President Abraham Lincoln issued a preliminary Emancipation Proclamation, threatening to free all enslaved people in Confederate states if those states did not return to the Union by January 1, 1863.",
+        "year": "1862"
+      },
+      {
+        "title": "Peace Corps Established",
+        "description": "The U.S. Congress authorized President John F. Kennedy's executive order to establish the Peace Corps, an American volunteer program providing international social and economic development assistance.",
+        "year": "1961"
+      },
+      {
+        "title": "Dead Sea Scrolls Made Public",
+        "description": "The Huntington Library made the Dead Sea Scrolls available to the public for the first time, allowing broader academic access to these ancient manuscripts.",
+        "year": "1991"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Autumnal Equinox",
+      "teaser": "Marks the first day of autumn in the Northern Hemisphere, when day and night are approximately equal in length."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Tomás de Villanova",
+        "type": "Arcebispo",
+        "description": "Um frade agostiniano espanhol que se tornou Arcebispo de Valência, conhecido pela sua austeridade pessoal e pela extensa caridade para com os pobres e os doentes."
+      },
+      {
+        "name": "Santas Digna e Emérita de Roma",
+        "type": "Virgens-Mártires",
+        "description": "Virgens consagradas martirizadas em Roma durante as perseguições do Imperador Valeriano em 259 d.C. pela sua fé cristã."
+      },
+      {
+        "name": "Hieromártir Focas, Bispo de Sinope",
+        "type": "Bispo e Taumaturgo",
+        "description": "Um bispo em Sinope, no Mar Negro, que fortaleceu os fiéis e converteu muitos idólatras, acabando por sofrer o martírio por volta de 117 d.C."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Equinócio de Outono",
+        "description": "Marca o primeiro dia do outono no Hemisfério Norte, quando o dia e a noite têm aproximadamente a mesma duração."
+      },
+      {
+        "name": "Dia Mundial Sem Carro",
+        "description": "Incentiva as pessoas a deixar os seus carros em casa e a usar transporte alternativo para reduzir as emissões e recuperar o espaço urbano."
+      },
+      {
+        "name": "Dia do Hobbit",
+        "description": "Celebrado pelos fãs de J.R.R. Tolkien em todo o mundo para assinalar os aniversários partilhados de Bilbo e Frodo Baggins, muitas vezes envolvendo releituras e festas temáticas."
+      },
+      {
+        "name": "Dia da Mulher Empresária Americana",
+        "description": "Reconhece e celebra as contribuições das mulheres na força de trabalho, promovendo o networking, a educação e o reconhecimento."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“Só lamento ter uma única vida para perder pela minha pátria.”",
+      "author": "Nathan Hale",
+      "context": "Nathan Hale, um patriota americano e espião do Exército Continental, foi enforcado pelos britânicos na cidade de Nova Iorque em 22 de setembro de 1776, durante a Revolução Americana. Estas foram as suas últimas palavras relatadas antes da sua execução."
+    },
+    "motivationalQuote": {
+      "text": "O que está atrás de nós e o que está à nossa frente são questões ínfimas comparado com o que está dentro de nós.",
+      "author": "Ralph Waldo Emerson"
+    },
+    "births": [
+      {
+        "name": "Michael Faraday",
+        "description": "Um cientista inglês que fez contribuições significativas nos campos do eletromagnetismo e da eletroquímica, famoso pelo seu trabalho em indução eletromagnética e diamagnetismo.",
+        "year": "1791"
+      },
+      {
+        "name": "Andrea Bocelli",
+        "description": "Um tenor de ópera italiano, multi-instrumentista e produtor musical que alcançou fama global tanto na música clássica quanto na pop.",
+        "year": "1958"
+      },
+      {
+        "name": "Joan Jett",
+        "description": "Uma icónica cantora de rock, guitarrista, compositora e atriz americana, mais conhecida como a vocalista de Joan Jett & The Blackhearts, celebrada por êxitos como 'I Love Rock 'n Roll'.",
+        "year": "1958"
+      }
+    ],
+    "events": [
+      {
+        "title": "Abraham Lincoln Emite Proclamação Preliminar de Emancipação",
+        "description": "O Presidente Abraham Lincoln emitiu uma Proclamação Preliminar de Emancipação, ameaçando libertar todas as pessoas escravizadas nos estados confederados se esses estados não retornassem à União até 1 de janeiro de 1863.",
+        "year": "1862"
+      },
+      {
+        "title": "Corpo da Paz Estabelecido",
+        "description": "O Congresso dos EUA autorizou a ordem executiva do Presidente John F. Kennedy para estabelecer o Corpo da Paz, um programa de voluntariado americano que fornece assistência internacional para o desenvolvimento social e económico.",
+        "year": "1961"
+      },
+      {
+        "title": "Manuscritos do Mar Morto Tornados Públicos",
+        "description": "A Biblioteca Huntington disponibilizou os Manuscritos do Mar Morto ao público pela primeira vez, permitindo um acesso académico mais amplo a estes manuscritos antigos.",
+        "year": "1991"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Equinócio de Outono",
+      "teaser": "Marca o primeiro dia do outono no Hemisfério Norte, quando o dia e a noite têm aproximadamente a mesma duração."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Tomàs de Villanueva",
+        "type": "Arquebisbe",
+        "description": "Un frare agustí espanyol que va esdevenir arquebisbe de València, conegut per la seva austeritat personal i la seva extensa caritat envers els pobres i els malalts."
+      },
+      {
+        "name": "Santes Digna i Emèrita de Roma",
+        "type": "Verges Màrtirs",
+        "description": "Verges consagrades martiritzades a Roma durant les persecucions de l'emperador Valerià l'any 259 dC per la seva fe cristiana."
+      },
+      {
+        "name": "Hieromàrtir Focas, Bisbe de Sinop",
+        "type": "Bisbe i Taumaturg",
+        "description": "Un bisbe a Sinop, al mar Negre, que va enfortir els fidels i va convertir molts idòlatres, patint finalment el martiri al voltant de l'any 117 dC."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Equinocci de Tardor",
+        "description": "Marca el primer dia de la tardor a l'hemisferi nord, quan el dia i la nit tenen una durada aproximadament igual."
+      },
+      {
+        "name": "Dia Mundial Sense Cotxes",
+        "description": "Anima la gent a deixar els cotxes a casa i utilitzar transports alternatius per reduir les emissions i recuperar l'espai urbà."
+      },
+      {
+        "name": "Dia dels Hòbbits",
+        "description": "Celebrat pels fans de J.R.R. Tolkien arreu del món per commemorar els aniversaris conjunts de Bilbo i Frodo Saquet, sovint amb relectures i festes temàtiques."
+      },
+      {
+        "name": "Dia de les Dones de Negocis Americanes",
+        "description": "Reconeix i celebra les contribucions de les dones a la força laboral, promovent la creació de xarxes, l'educació i el reconeixement."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“Només lamento tenir una sola vida per perdre per la meva pàtria.”",
+      "author": "Nathan Hale",
+      "context": "Nathan Hale, un patriota americà i espia de l'Exèrcit Continental, va ser penjat pels britànics a la ciutat de Nova York el 22 de setembre de 1776, durant la Revolució Americana. Aquestes van ser les seves últimes paraules reportades abans de la seva execució."
+    },
+    "motivationalQuote": {
+      "text": "Allò que queda darrere nostre i allò que queda davant nostre són assumptes minúsculs comparats amb allò que resideix dins nostre.",
+      "author": "Ralph Waldo Emerson"
+    },
+    "births": [
+      {
+        "name": "Michael Faraday",
+        "description": "Un científic anglès que va fer contribucions significatives als camps de l'electromagnetisme i l'electroquímica, famós pel seu treball sobre la inducció electromagnètica i el diamagnetisme.",
+        "year": "1791"
+      },
+      {
+        "name": "Andrea Bocelli",
+        "description": "Un tenor d'òpera italià, multiinstrumentista i productor musical que ha assolit fama mundial tant en la música clàssica com en la pop.",
+        "year": "1958"
+      },
+      {
+        "name": "Joan Jett",
+        "description": "Una icònica cantant de rock, guitarrista, compositora i actriu americana, més coneguda com la líder de Joan Jett & The Blackhearts, celebrada per èxits com 'I Love Rock 'n Roll'.",
+        "year": "1958"
+      }
+    ],
+    "events": [
+      {
+        "title": "Abraham Lincoln emet la Proclamació Preliminar d'Emancipació",
+        "description": "El president Abraham Lincoln va emetre una Proclamació Preliminar d'Emancipació, amenaçant d'alliberar totes les persones esclavitzades als estats Confederats si aquests estats no tornaven a la Unió abans de l'1 de gener de 1863.",
+        "year": "1862"
+      },
+      {
+        "title": "Es funda el Cos de Pau",
+        "description": "El Congrés dels EUA va autoritzar l'ordre executiva del president John F. Kennedy per establir el Cos de Pau, un programa de voluntariat americà que proporciona assistència internacional per al desenvolupament social i econòmic.",
+        "year": "1961"
+      },
+      {
+        "title": "Els Manuscrits de la Mar Morta es fan públics",
+        "description": "La Biblioteca Huntington va posar els Manuscrits de la Mar Morta a disposició del públic per primera vegada, permetent un accés acadèmic més ampli a aquests antics manuscrits.",
+        "year": "1991"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Equinocci de Tardor",
+      "teaser": "Marca el primer dia de la tardor a l'hemisferi nord, quan el dia i la nit tenen una durada aproximadament igual."
+    }
+  }
+}
