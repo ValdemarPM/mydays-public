@@ -1,0 +1,317 @@
+{
+  "date": "2026-09-23",
+  "es": {
+    "saints": [
+      {
+        "name": "San Padre Pío de Pietrelcina",
+        "type": "Sacerdote",
+        "description": "Un fraile capuchino italiano, se hizo famoso por llevar los estigmas, vivir una vida de intenso sufrimiento y actividad apostólica, y realizar milagros de curación.",
+        "year": "1887-1968"
+      },
+      {
+        "name": "Santa Tecla de Iconio",
+        "type": "Virgen Mártir",
+        "description": "Una conversa del siglo I, fue discípula espiritual de San Pablo y dedicó su vida a Dios, sobreviviendo a múltiples intentos contra su vida por su fe."
+      },
+      {
+        "name": "San Lino",
+        "type": "Papa",
+        "description": "El sucesor inmediato de San Pedro, sirvió como el primer Papa de Roma."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de las Lenguas de Señas",
+        "description": "Este día, proclamado por la ONU en 2017, sensibiliza sobre la importancia del lenguaje de señas para los derechos humanos de las personas sordas, conmemorando el establecimiento de la Federación Mundial de Sordos en 1951."
+      },
+      {
+        "name": "Día de la Visibilidad Bisexual",
+        "description": "También conocido como Día de la Visibilidad Bisexual, esta conmemoración, establecida en 1999, celebra la identidad bisexual y sensibiliza sobre los desafíos únicos que enfrenta la comunidad bisexual."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Encontré una Roma de ladrillo y la dejé de mármol.",
+      "author": "César Augusto",
+      "context": "César Augusto, el primer emperador romano, nació el 23 de septiembre del 63 a.C. Esta cita refleja su impacto monumental en la transformación y embellecimiento de Roma durante su reinado."
+    },
+    "motivationalQuote": {
+      "text": "Así que siento que el éxito es oportunidad más preparación, por lo que el trabajo engendra trabajo, y mientras estés preparado seguirá llegando a ti.",
+      "author": "Anthony Mackie"
+    },
+    "births": [
+      {
+        "name": "Mickey Rooney",
+        "description": "Un icónico actor y artista estadounidense cuya carrera abarcó nueve décadas, comenzando como una estrella infantil en la Edad de Oro de Hollywood.",
+        "year": "1920"
+      },
+      {
+        "name": "Ray Charles",
+        "description": "Un pionero cantante, compositor y pianista estadounidense, a menudo acreditado por dar forma al sonido del rhythm and blues y la música soul.",
+        "year": "1930"
+      },
+      {
+        "name": "Bruce Springsteen",
+        "description": "Un influyente cantante, compositor y guitarrista de rock estadounidense, conocido como 'The Boss', celebrado por sus letras poéticas y enérgicas actuaciones en vivo.",
+        "year": "1949"
+      }
+    ],
+    "events": [
+      {
+        "title": "Descubrimiento de Neptuno",
+        "description": "En un importante hito astronómico, el planeta Neptuno fue observado por primera vez por Johann Gottfried Galle en Berlín, basándose en predicciones matemáticas de Urbain Le Verrier.",
+        "year": "1846"
+      },
+      {
+        "title": "Regreso de la Expedición de Lewis y Clark",
+        "description": "Meriwether Lewis y William Clark completaron con éxito su épico viaje por tierra desde el río Misisipi hasta la costa del Pacífico y de regreso, volviendo a San Luis.",
+        "year": "1806"
+      },
+      {
+        "title": "Primera ceremonia de graduación de Harvard College",
+        "description": "Harvard College, en Cambridge, Massachusetts, celebró su primera ceremonia de graduación, marcando un evento temprano significativo en la educación superior estadounidense.",
+        "year": "1642"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de las Lenguas de Señas",
+      "teaser": "Este día, proclamado por la ONU en 2017, sensibiliza sobre la importancia del lenguaje de señas para los derechos humanos de las personas sordas, conmemorando el establecimiento de la Federación Mundial de Sordos en 1951."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Padre Pio of Pietrelcina",
+        "type": "Priest",
+        "description": "An Italian Capuchin friar, he became famous for bearing the stigmata, living a life of intense suffering and apostolic activity, and working healing miracles.",
+        "year": "1887-1968"
+      },
+      {
+        "name": "St. Thecla of Iconium",
+        "type": "Virgin Martyr",
+        "description": "A first-century convert, she was a spiritual student of Saint Paul and dedicated her life to God, surviving multiple attempts on her life for her faith."
+      },
+      {
+        "name": "St. Linus",
+        "type": "Pope",
+        "description": "The immediate successor of St. Peter, he served as the first Pope of Rome."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of Sign Languages",
+        "description": "This day, proclaimed by the UN in 2017, raises awareness about the importance of sign language for the human rights of deaf people, commemorating the establishment of the World Federation of the Deaf in 1951."
+      },
+      {
+        "name": "Celebrate Bisexuality Day",
+        "description": "Also known as Bi Visibility Day, this observance, established in 1999, celebrates bisexual identity and raises awareness of the unique challenges faced by the bisexual community."
+      }
+    ],
+    "historicalQuote": {
+      "text": "I found Rome a city of bricks and left it a city of marble.",
+      "author": "Caesar Augustus",
+      "context": "Caesar Augustus, the first Roman emperor, was born on September 23, 63 BC. This quote reflects his monumental impact on the transformation and beautification of Rome during his reign."
+    },
+    "motivationalQuote": {
+      "text": "So I feel like success is opportunity plus preparation, so work begets work, and as long as you're prepared it's going to continue to come your way.",
+      "author": "Anthony Mackie"
+    },
+    "births": [
+      {
+        "name": "Mickey Rooney",
+        "description": "An iconic American actor and entertainer whose career spanned nine decades, beginning as a child star in Hollywood's Golden Age.",
+        "year": "1920"
+      },
+      {
+        "name": "Ray Charles",
+        "description": "A pioneering American singer, songwriter, and pianist, often credited with shaping the sound of rhythm and blues and soul music.",
+        "year": "1930"
+      },
+      {
+        "name": "Bruce Springsteen",
+        "description": "An influential American rock singer, songwriter, and guitarist, known as 'The Boss,' celebrated for his poetic lyrics and energetic live performances.",
+        "year": "1949"
+      }
+    ],
+    "events": [
+      {
+        "title": "Discovery of Neptune",
+        "description": "In a major astronomical milestone, the planet Neptune was first observed by Johann Gottfried Galle in Berlin, based on mathematical predictions by Urbain Le Verrier.",
+        "year": "1846"
+      },
+      {
+        "title": "Lewis and Clark Expedition Returns",
+        "description": "Meriwether Lewis and William Clark successfully completed their epic overland journey from the Mississippi River to the Pacific coast and back, returning to St. Louis.",
+        "year": "1806"
+      },
+      {
+        "title": "First Harvard College Commencement",
+        "description": "Harvard College, in Cambridge, Massachusetts, held its first graduation commencement, marking a significant early event in American higher education.",
+        "year": "1642"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Day of Sign Languages",
+      "teaser": "This day, proclaimed by the UN in 2017, raises awareness about the importance of sign language for the human rights of deaf people, commemorating the establishment of the World Federation of the Deaf in 1951."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Padre Pio de Pietrelcina",
+        "type": "Sacerdote",
+        "description": "Um frade capuchinho italiano, ficou famoso por carregar os estigmas, vivendo uma vida de intenso sofrimento e atividade apostólica, e realizando milagres de cura.",
+        "year": "1887-1968"
+      },
+      {
+        "name": "Santa Tecla de Icônio",
+        "type": "Virgem Mártir",
+        "description": "Uma convertida do século I, foi aluna espiritual de São Paulo e dedicou sua vida a Deus, sobrevivendo a múltiplas tentativas contra sua vida por sua fé."
+      },
+      {
+        "name": "São Lino",
+        "type": "Papa",
+        "description": "O sucessor imediato de São Pedro, ele serviu como o primeiro Papa de Roma."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional das Línguas de Sinais",
+        "description": "Este dia, proclamado pela ONU em 2017, aumenta a conscientização sobre a importância da língua de sinais para os direitos humanos das pessoas surdas, comemorando a criação da Federação Mundial de Surdos em 1951."
+      },
+      {
+        "name": "Dia da Visibilidade Bissexual",
+        "description": "Também conhecido como Dia da Visibilidade Bissexual, esta observância, estabelecida em 1999, celebra a identidade bissexual e aumenta a conscientização sobre os desafios únicos enfrentados pela comunidade bissexual."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Encontrei Roma uma cidade de tijolos e a deixei uma cidade de mármore.",
+      "author": "César Augusto",
+      "context": "César Augusto, o primeiro imperador romano, nasceu em 23 de setembro de 63 a.C. Esta citação reflete seu impacto monumental na transformação e embelezamento de Roma durante seu reinado."
+    },
+    "motivationalQuote": {
+      "text": "Então sinto que o sucesso é oportunidade mais preparação, então o trabalho gera trabalho, e contanto que você esteja preparado, ele continuará vindo em sua direção.",
+      "author": "Anthony Mackie"
+    },
+    "births": [
+      {
+        "name": "Mickey Rooney",
+        "description": "Um icônico ator e artista americano cuja carreira se estendeu por nove décadas, começando como uma estrela infantil na Era de Ouro de Hollywood.",
+        "year": "1920"
+      },
+      {
+        "name": "Ray Charles",
+        "description": "Um cantor, compositor e pianista americano pioneiro, frequentemente creditado por moldar o som do rhythm and blues e da música soul.",
+        "year": "1930"
+      },
+      {
+        "name": "Bruce Springsteen",
+        "description": "Um influente cantor, compositor e guitarrista de rock americano, conhecido como 'The Boss', celebrado por suas letras poéticas e performances energéticas ao vivo.",
+        "year": "1949"
+      }
+    ],
+    "events": [
+      {
+        "title": "Descoberta de Netuno",
+        "description": "Em um grande marco astronômico, o planeta Netuno foi observado pela primeira vez por Johann Gottfried Galle em Berlim, com base em previsões matemáticas de Urbain Le Verrier.",
+        "year": "1846"
+      },
+      {
+        "title": "Retorno da Expedição de Lewis e Clark",
+        "description": "Meriwether Lewis e William Clark completaram com sucesso sua épica jornada terrestre do Rio Mississippi à costa do Pacífico e de volta, retornando a St. Louis.",
+        "year": "1806"
+      },
+      {
+        "title": "Primeira Cerimônia de Formatura do Harvard College",
+        "description": "O Harvard College, em Cambridge, Massachusetts, realizou sua primeira cerimônia de formatura, marcando um evento inicial significativo na educação superior americana.",
+        "year": "1642"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional das Línguas de Sinais",
+      "teaser": "Este dia, proclamado pela ONU em 2017, aumenta a conscientização sobre a importância da língua de sinais para os direitos humanos das pessoas surdas, comemorando a criação da Federação Mundial de Surdos em 1951."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Pius de Pietrelcina",
+        "type": "Sacerdot",
+        "description": "Un frare caputxí italià, es va fer famós per portar els estigmes, viure una vida d'intens sofriment i activitat apostòlica, i realitzar miracles de curació.",
+        "year": "1887-1968"
+      },
+      {
+        "name": "Santa Tecla d'Iconi",
+        "type": "Verge Màrtir",
+        "description": "Una conversa del segle I, va ser una estudiant espiritual de Sant Pau i va dedicar la seva vida a Déu, sobrevivint a múltiples intents contra la seva vida per la seva fe.",
+        "year": null
+      },
+      {
+        "name": "Sant Llí",
+        "type": "Papa",
+        "description": "El successor immediat de Sant Pere, va servir com el primer Papa de Roma.",
+        "year": null
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de les Llengües de Signes",
+        "description": "Aquest dia, proclamat per l'ONU el 2017, consciencia sobre la importància del llenguatge de signes per als drets humans de les persones sordes, commemorant l'establiment de la Federació Mundial de Sords el 1951."
+      },
+      {
+        "name": "Dia de la Celebració de la Bisexualitat",
+        "description": "També conegut com el Dia de la Visibilitat Bisexual, aquesta commemoració, establerta el 1999, celebra la identitat bisexual i consciencia sobre els reptes únics que afronta la comunitat bisexual."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Vaig trobar Roma una ciutat de maons i la vaig deixar una ciutat de marbre.",
+      "author": "Cèsar August",
+      "context": "Cèsar August, el primer emperador romà, va néixer el 23 de setembre del 63 aC. Aquesta cita reflecteix el seu impacte monumental en la transformació i embelliment de Roma durant el seu regnat."
+    },
+    "motivationalQuote": {
+      "text": "Així que crec que l'èxit és oportunitat més preparació, per tant, la feina engendra feina, i mentre estiguis preparat, continuarà arribant-te.",
+      "author": "Anthony Mackie"
+    },
+    "births": [
+      {
+        "name": "Mickey Rooney",
+        "description": "Un icònic actor i artista americà la carrera del qual va abastar nou dècades, començant com a estrella infantil a l'Edat d'Or de Hollywood.",
+        "year": "1920"
+      },
+      {
+        "name": "Ray Charles",
+        "description": "Un cantant, compositor i pianista americà pioner, sovint acreditat per donar forma al so del rhythm and blues i la música soul.",
+        "year": "1930"
+      },
+      {
+        "name": "Bruce Springsteen",
+        "description": "Un influent cantant, compositor i guitarrista de rock americà, conegut com 'The Boss', celebrat per les seves lletres poètiques i enèrgiques actuacions en directe.",
+        "year": "1949"
+      }
+    ],
+    "events": [
+      {
+        "title": "Descobriment de Neptú",
+        "description": "En una fita astronòmica important, el planeta Neptú va ser observat per primera vegada per Johann Gottfried Galle a Berlín, basant-se en les prediccions matemàtiques d'Urbain Le Verrier.",
+        "year": "1846"
+      },
+      {
+        "title": "Retorn de l'Expedició de Lewis i Clark",
+        "description": "Meriwether Lewis i William Clark van completar amb èxit el seu èpic viatge per terra des del riu Mississippi fins a la costa del Pacífic i de tornada, retornant a St. Louis.",
+        "year": "1806"
+      },
+      {
+        "title": "Primera Graduació del Harvard College",
+        "description": "El Harvard College, a Cambridge, Massachusetts, va celebrar la seva primera cerimònia de graduació, marcant un esdeveniment primerenc significatiu en l'educació superior americana.",
+        "year": "1642"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de les Llengües de Signes",
+      "teaser": "Aquest dia, proclamat per l'ONU el 2017, consciencia sobre la importància del llenguatge de signes per als drets humans de les persones sordes, commemorant l'establiment de la Federació Mundial de Sords el 1951."
+    }
+  }
+}
