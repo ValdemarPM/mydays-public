@@ -1,0 +1,327 @@
+{
+  "date": "2026-09-24",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Tecla de Iconio",
+        "type": "Protomártir e Igual a los Apóstoles",
+        "description": "Una santa femenina de la era apostólica, venerada como la primera mártir femenina y por su testimonio e influencia misionera. Es conmemorada ampliamente en la tradición ortodoxa."
+      },
+      {
+        "name": "San Gerardo Sagredo",
+        "type": "Obispo, Mártir",
+        "description": "Nacido en Venecia, se hizo monje benedictino y más tarde sirvió como obispo, llegando a ser conocido como el Apóstol de Hungría. Fue martirizado en 1046."
+      },
+      {
+        "name": "Nuestra Señora de la Merced",
+        "type": "Observancia Mariana",
+        "description": "Conmemora a la Santísima Virgen María y el establecimiento de la Orden de la Merced (Mercedarios) en el siglo XIII, dedicada al rescate de cautivos cristianos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día del Patrimonio (Sudáfrica)",
+        "description": "Un día festivo en Sudáfrica que celebra la diversidad de culturas, creencias y tradiciones que constituyen la nación. Es conocido coloquialmente como 'Braai Day' donde la gente se reúne alrededor de un fuego al aire libre."
+      },
+      {
+        "name": "Día Marítimo Mundial",
+        "description": "Una observancia de las Naciones Unidas celebrada el último jueves de septiembre, establecida por la Organización Marítima Internacional para destacar el papel crucial del transporte marítimo en la economía global."
+      },
+      {
+        "name": "Día Nacional de la Puntuación (EE. UU.)",
+        "description": "Una observancia informal en los Estados Unidos dedicada a promover el uso correcto de los signos de puntuación."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“No hay días en la vida tan memorables como aquellos que vibraron al ritmo de algún golpe de la imaginación.”",
+      "author": "F. Scott Fitzgerald",
+      "context": "F. Scott Fitzgerald, un renombrado novelista estadounidense famoso por sus obras que representan la Era del Jazz, nació el 24 de septiembre de 1896. Esta cita refleja su genio literario y su imaginativa narración."
+    },
+    "motivationalQuote": {
+      "text": "“Los únicos límites que tienes son los límites que crees.”",
+      "author": "Wayne Dyer"
+    },
+    "births": [
+      {
+        "name": "F. Scott Fitzgerald",
+        "description": "Un icónico novelista y cuentista estadounidense, celebrado por sus crónicas de la Era del Jazz, incluyendo 'El Gran Gatsby'.",
+        "year": "1896"
+      },
+      {
+        "name": "Jim Henson",
+        "description": "Un innovador titiritero, animador y cineasta estadounidense, más conocido como el creador de Los Muppets y Fraggle Rock.",
+        "year": "1936"
+      },
+      {
+        "name": "John Marshall",
+        "description": "Un influyente político y abogado estadounidense que sirvió como el cuarto Presidente del Tribunal Supremo de los Estados Unidos, convirtiéndose en el Presidente del Tribunal Supremo con más años de servicio en la historia de la Corte Suprema.",
+        "year": "1755"
+      }
+    ],
+    "events": [
+      {
+        "title": "Aprobación de la Ley Judicial de 1789",
+        "description": "El Congreso de los Estados Unidos aprobó la Ley Judicial, estableciendo el sistema judicial federal, creando la oficina del Fiscal General y ordenando la composición de la Corte Suprema.",
+        "year": "1789"
+      },
+      {
+        "title": "Devils Tower Proclamada Primer Monumento Nacional de EE. UU.",
+        "description": "El presidente Theodore Roosevelt proclamó Devils Tower en Wyoming como el primer Monumento Nacional de la nación, preservando su singular importancia geológica y cultural.",
+        "year": "1906"
+      },
+      {
+        "title": "Fundación de Honda Motor Company",
+        "description": "La Honda Motor Company, un conglomerado multinacional conocido por sus automóviles, motocicletas y equipos de potencia, fue fundada oficialmente en Japón.",
+        "year": "1948"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día del Patrimonio (Sudáfrica)",
+      "teaser": "Un día festivo en Sudáfrica que celebra la diversidad de culturas, creencias y tradiciones que constituyen la nación. Es conocido coloquialmente como 'Braai Day' donde la gente se reúne alrededor de un fuego al aire libre."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Thecla of Iconium",
+        "type": "Protomartyr and Equal-to-the-Apostles",
+        "description": "A female saint from the apostolic age, revered as the first female martyr and for her missionary witness and influence. She is commemorated widely in Orthodox tradition."
+      },
+      {
+        "name": "St. Gerard Sagredo",
+        "type": "Bishop, Martyr",
+        "description": "Born in Venice, he became a Benedictine monk and later served as a bishop, becoming known as the Apostle of Hungary. He was martyred in 1046."
+      },
+      {
+        "name": "Our Lady of Mercy (Ransom)",
+        "type": "Marian Observance",
+        "description": "Commemorates the Blessed Virgin Mary and the establishment of the Order of Mercy (Mercedarians) in the 13th century, dedicated to ransoming Christian captives."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Heritage Day (South Africa)",
+        "description": "A public holiday in South Africa celebrating the diversity of cultures, beliefs, and traditions that constitute the nation. It is colloquially known as 'Braai Day' where people gather around an outdoor fire."
+      },
+      {
+        "name": "World Maritime Day",
+        "description": "A United Nations observance held on the last Thursday of September, established by the International Maritime Organization to highlight shipping's crucial role in the global economy."
+      },
+      {
+        "name": "National Punctuation Day (USA)",
+        "description": "An informal observance in the United States dedicated to promoting the correct use of punctuation marks."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“There are no days in life so memorable as those which vibrated to some stroke of the imagination.”",
+      "author": "F. Scott Fitzgerald",
+      "context": "F. Scott Fitzgerald, a renowned American novelist famous for his works depicting the Jazz Age, was born on September 24, 1896. This quote reflects his literary genius and imaginative storytelling."
+    },
+    "motivationalQuote": {
+      "text": "“The only limits you have are the limits you believe.”",
+      "author": "Wayne Dyer"
+    },
+    "births": [
+      {
+        "name": "F. Scott Fitzgerald",
+        "description": "An iconic American novelist and short story writer, celebrated for his chronicles of the Jazz Age, including 'The Great Gatsby'.",
+        "year": "1896"
+      },
+      {
+        "name": "Jim Henson",
+        "description": "An innovative American puppeteer, animator, and filmmaker, best known as the creator of The Muppets and Fraggle Rock.",
+        "year": "1936"
+      },
+      {
+        "name": "John Marshall",
+        "description": "An influential American politician and lawyer who served as the fourth Chief Justice of the United States, becoming the longest-serving Chief Justice in Supreme Court history.",
+        "year": "1755"
+      }
+    ],
+    "events": [
+      {
+        "title": "Judiciary Act of 1789 Passed",
+        "description": "The United States Congress passed the Judiciary Act, establishing the federal judiciary system, creating the office of the Attorney General, and ordering the composition of the Supreme Court.",
+        "year": "1789"
+      },
+      {
+        "title": "Devils Tower Proclaimed First U.S. National Monument",
+        "description": "President Theodore Roosevelt proclaimed Devils Tower in Wyoming as the nation's first National Monument, preserving its unique geological and cultural significance.",
+        "year": "1906"
+      },
+      {
+        "title": "Honda Motor Company Founded",
+        "description": "The Honda Motor Company, a multinational conglomerate known for its automobiles, motorcycles, and power equipment, was officially founded in Japan.",
+        "year": "1948"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Heritage Day (South Africa)",
+      "teaser": "A public holiday in South Africa celebrating the diversity of cultures, beliefs, and traditions that constitute the nation. It is colloquially known as 'Braai Day' where people gather around an outdoor fire."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Tecla de Icônio",
+        "type": "Protomártir e Igual aos Apóstolos",
+        "description": "Uma santa feminina da era apostólica, reverenciada como a primeira mártir feminina e por seu testemunho e influência missionária. É amplamente comemorada na tradição ortodoxa."
+      },
+      {
+        "name": "São Gerardo Sagredo",
+        "type": "Bispo, Mártir",
+        "description": "Nascido em Veneza, tornou-se monge beneditino e mais tarde serviu como bispo, ficando conhecido como o Apóstolo da Hungria. Foi martirizado em 1046."
+      },
+      {
+        "name": "Nossa Senhora das Mercês",
+        "type": "Observância Mariana",
+        "description": "Comemora a Santíssima Virgem Maria e o estabelecimento da Ordem de Nossa Senhora das Mercês (Mercedários) no século XIII, dedicada ao resgate de cativos cristãos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia do Patrimônio (África do Sul)",
+        "description": "Um feriado público na África do Sul que celebra a diversidade de culturas, crenças e tradições que constituem a nação. É coloquialmente conhecido como 'Braai Day', onde as pessoas se reúnem em torno de uma fogueira ao ar livre."
+      },
+      {
+        "name": "Dia Marítimo Mundial",
+        "description": "Uma observância das Nações Unidas realizada na última quinta-feira de setembro, estabelecida pela Organização Marítima Internacional para destacar o papel crucial do transporte marítimo na economia global."
+      },
+      {
+        "name": "Dia Nacional da Pontuação (EUA)",
+        "description": "Uma observância informal nos Estados Unidos dedicada a promover o uso correto dos sinais de pontuação."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“Não há dias na vida tão memoráveis quanto aqueles que vibraram a algum golpe da imaginação.”",
+      "author": "F. Scott Fitzgerald",
+      "context": "F. Scott Fitzgerald, um renomado romancista americano famoso por suas obras que retratam a Era do Jazz, nasceu em 24 de setembro de 1896. Esta citação reflete seu gênio literário e sua narrativa imaginativa."
+    },
+    "motivationalQuote": {
+      "text": "“Os únicos limites que você tem são os limites que você acredita.”",
+      "author": "Wayne Dyer"
+    },
+    "births": [
+      {
+        "name": "F. Scott Fitzgerald",
+        "description": "Um icônico romancista e contista americano, celebrado por suas crônicas da Era do Jazz, incluindo 'O Grande Gatsby'.",
+        "year": "1896"
+      },
+      {
+        "name": "Jim Henson",
+        "description": "Um inovador marionetista, animador e cineasta americano, mais conhecido como o criador de Os Muppets e Fraggle Rock.",
+        "year": "1936"
+      },
+      {
+        "name": "John Marshall",
+        "description": "Um influente político e advogado americano que serviu como o quarto Presidente da Suprema Corte dos Estados Unidos, tornando-se o Presidente da Suprema Corte com mais tempo de serviço na história da Suprema Corte.",
+        "year": "1755"
+      }
+    ],
+    "events": [
+      {
+        "title": "Lei do Judiciário de 1789 Aprovada",
+        "description": "O Congresso dos Estados Unidos aprovou a Lei do Judiciário, estabelecendo o sistema judiciário federal, criando o cargo de Procurador-Geral e ordenando a composição da Suprema Corte.",
+        "year": "1789"
+      },
+      {
+        "title": "Devils Tower Proclamada Primeiro Monumento Nacional dos EUA",
+        "description": "O presidente Theodore Roosevelt proclamou Devils Tower em Wyoming como o primeiro Monumento Nacional da nação, preservando sua singular importância geológica e cultural.",
+        "year": "1906"
+      },
+      {
+        "title": "Honda Motor Company Fundada",
+        "description": "A Honda Motor Company, um conglomerado multinacional conhecido por seus automóveis, motocicletas e equipamentos de força, foi oficialmente fundada no Japão.",
+        "year": "1948"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia do Patrimônio (África do Sul)",
+      "teaser": "Um feriado público na África do Sul que celebra a diversidade de culturas, crenças e tradições que constituem a nação. É coloquialmente conhecido como 'Braai Day', onde as pessoas se reúnem em torno de uma fogueira ao ar livre."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Tecla d'Iconi",
+        "type": "Protomàrtir i Igual als Apòstols",
+        "description": "Una santa de l'època apostòlica, venerada com la primera màrtir i pel seu testimoni missioner i influència. És commemorada àmpliament en la tradició ortodoxa."
+      },
+      {
+        "name": "Sant Gerard Sagredo",
+        "type": "Bisbe, Màrtir",
+        "description": "Nascut a Venècia, es va fer monjo benedictí i més tard va servir com a bisbe, sent conegut com l'Apòstol d'Hongria. Va ser martiritzat l'any 1046."
+      },
+      {
+        "name": "Mare de Déu de la Mercè",
+        "type": "Observança Mariana",
+        "description": "Commemora la Santíssima Mare de Déu i l'establiment de l'Orde de la Mercè (Mercedaris) al segle XIII, dedicada a rescatar captius cristians."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia del Patrimoni (Sud-àfrica)",
+        "description": "Un dia festiu a Sud-àfrica que celebra la diversitat de cultures, creences i tradicions que constitueixen la nació. Col·loquialment és conegut com el 'Dia del Braai', on la gent es reuneix al voltant d'un foc a l'aire lliure."
+      },
+      {
+        "name": "Dia Marítim Mundial",
+        "description": "Una observança de les Nacions Unides que se celebra l'últim dijous de setembre, establerta per l'Organització Marítima Internacional per destacar el paper crucial del transport marítim en l'economia global."
+      },
+      {
+        "name": "Dia Nacional de la Puntuació (EUA)",
+        "description": "Una observança informal als Estats Units dedicada a promoure l'ús correcte dels signes de puntuació."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“No hi ha dies a la vida tan memorables com aquells que van vibrar amb algun cop de la imaginació.”",
+      "author": "F. Scott Fitzgerald",
+      "context": "F. Scott Fitzgerald, un reconegut novel·lista americà famós per les seves obres que descriuen l'Edat del Jazz, va néixer el 24 de setembre de 1896. Aquesta cita reflecteix el seu geni literari i la seva narrativa imaginativa."
+    },
+    "motivationalQuote": {
+      "text": "“Els únics límits que tens són els límits que creus.”",
+      "author": "Wayne Dyer"
+    },
+    "births": [
+      {
+        "name": "F. Scott Fitzgerald",
+        "description": "Un icònic novel·lista i contista americà, celebrat per les seves cròniques de l'Edat del Jazz, incloent 'El gran Gatsby'.",
+        "year": "1896"
+      },
+      {
+        "name": "Jim Henson",
+        "description": "Un innovador titellaire, animador i cineasta americà, més conegut com el creador de The Muppets i Fraggle Rock.",
+        "year": "1936"
+      },
+      {
+        "name": "John Marshall",
+        "description": "Un influent polític i advocat americà que va exercir com el quart president del Tribunal Suprem dels Estats Units, convertint-se en el president del Tribunal Suprem amb més anys de servei en la història del Tribunal Suprem.",
+        "year": "1755"
+      }
+    ],
+    "events": [
+      {
+        "title": "S'aprova la Llei del Poder Judicial de 1789",
+        "description": "El Congrés dels Estats Units va aprovar la Llei del Poder Judicial, establint el sistema judicial federal, creant el càrrec de Fiscal General i ordenant la composició del Tribunal Suprem.",
+        "year": "1789"
+      },
+      {
+        "title": "Devils Tower Proclamada Primer Monument Nacional dels EUA",
+        "description": "El president Theodore Roosevelt va proclamar Devils Tower a Wyoming com el primer Monument Nacional de la nació, preservant la seva singular importància geològica i cultural.",
+        "year": "1906"
+      },
+      {
+        "title": "Fundada Honda Motor Company",
+        "description": "L'empresa Honda Motor Company, un conglomerat multinacional conegut pels seus automòbils, motocicletes i equips elèctrics, va ser fundada oficialment al Japó.",
+        "year": "1948"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia del Patrimoni (Sud-àfrica)",
+      "teaser": "Un dia festiu a Sud-àfrica que celebra la diversitat de cultures, creences i tradicions que constitueixen la nació. Col·loquialment és conegut com el 'Dia del Braai', on la gent es reuneix al voltant d'un foc a l'aire lliure."
+    }
+  }
+}
