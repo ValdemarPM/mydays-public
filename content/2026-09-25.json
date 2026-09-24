@@ -1,0 +1,327 @@
+{
+  "date": "2026-09-25",
+  "es": {
+    "saints": [
+      {
+        "name": "San Sergio de Radonezh",
+        "type": "Monje, Abad, Taumaturgo",
+        "description": "Conocido como uno de los ascetas más famosos de la tradición ortodoxa, fundó el monasterio de la Santísima Trinidad y sirvió como su primer abad."
+      },
+      {
+        "name": "San Cleofás",
+        "type": "Discípulo, Mártir",
+        "description": "Uno de los dos discípulos en el camino a Emaús que se encontraron con Jesús resucitado, fue martirizado por su fe."
+      },
+      {
+        "name": "Santa Eufrósine de Alejandría",
+        "type": "Venerable Monja",
+        "description": "Una santa del siglo V de Alejandría que dedicó su vida al servicio espiritual, a menudo confundida con Eufrósine de Súzdal."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Farmacéutico",
+        "description": "Este día se celebra a nivel mundial para reconocer el papel vital que desempeñan los farmacéuticos en la atención médica."
+      },
+      {
+        "name": "Día para Salvar al Koala",
+        "description": "Se celebra para crear conciencia y apoyo para la conservación de los koalas, un marsupial en peligro de extinción nativo de Australia."
+      },
+      {
+        "name": "Día Nacional de las Hijas",
+        "description": "Un día dedicado a celebrar a las hijas —biológicas, adoptadas y elegidas— y a fomentar las expresiones de amor y orgullo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Creo que el hombre no solo perdurará: prevalecerá. Es inmortal, no porque sea el único entre las criaturas que tiene una voz inagotable, sino porque tiene un alma, un espíritu capaz de compasión, sacrificio y resistencia. El deber del poeta, del escritor, es escribir sobre estas cosas.",
+      "author": "William Faulkner",
+      "context": "William Faulkner, considerado uno de los más grandes escritores estadounidenses del siglo XX y laureado con el Premio Nobel, nació el 25 de septiembre de 1897."
+    },
+    "motivationalQuote": {
+      "text": "Puedes decir que soy un soñador, pero no soy el único. Espero que algún día te nos unas. Y el mundo vivirá como uno solo.",
+      "author": "John Lennon"
+    },
+    "births": [
+      {
+        "name": "Michael Douglas",
+        "description": "Un actor y productor estadounidense aclamado por la crítica, conocido por sus papeles en películas como 'Wall Street' y 'Atracción Fatal'.",
+        "year": "1944"
+      },
+      {
+        "name": "Will Smith",
+        "description": "Un actor, rapero y productor de cine estadounidense de gran éxito, conocido por sus diversos papeles y su carismática personalidad.",
+        "year": "1968"
+      },
+      {
+        "name": "Barbara Walters",
+        "description": "Una periodista de radiodifusión, autora y personalidad televisiva estadounidense pionera, reconocida por sus entrevistas y por ser la primera mujer copresentadora de un programa de noticias nocturno.",
+        "year": "1929"
+      }
+    ],
+    "events": [
+      {
+        "title": "El Congreso de EE. UU. Adopta la Declaración de Derechos",
+        "description": "El Congreso de los Estados Unidos aprobó las primeras diez enmiendas a la Constitución, conocidas como la Declaración de Derechos, que protegen las libertades individuales.",
+        "year": "1789"
+      },
+      {
+        "title": "Inauguración del Primer Cable Telefónico Transatlántico",
+        "description": "El TAT-1, el primer sistema de cable telefónico submarino transatlántico, fue oficialmente puesto en servicio, permitiendo la comunicación directa entre Norteamérica y Europa.",
+        "year": "1956"
+      },
+      {
+        "title": "Vasco Núñez de Balboa Avista el Océano Pacífico",
+        "description": "El conquistador y explorador español Vasco Núñez de Balboa se convirtió en el primer europeo en avistar el Océano Pacífico desde el Istmo de Panamá.",
+        "year": "1513"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Mundial del Farmacéutico",
+      "teaser": "Este día se celebra a nivel mundial para reconocer el papel vital que desempeñan los farmacéuticos en la atención médica."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Sergius of Radonezh",
+        "type": "Monk, Abbot, Wonderworker",
+        "description": "Known as one of the most famous ascetics of the Orthodox tradition, he founded the Holy Trinity monastery and served as its first abbot."
+      },
+      {
+        "name": "St. Cleopas",
+        "type": "Disciple, Martyr",
+        "description": "One of the two disciples on the road to Emmaus who encountered the resurrected Jesus, he was martyred for his faith."
+      },
+      {
+        "name": "St. Euphrosyne of Alexandria",
+        "type": "Venerable Nun",
+        "description": "A 5th-century saint from Alexandria who dedicated her life to spiritual service, often conflated with Euphrosyne of Suzdal."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Pharmacists Day",
+        "description": "This day is celebrated globally to recognize the vital role pharmacists play in healthcare."
+      },
+      {
+        "name": "Save the Koala Day",
+        "description": "Observed to raise awareness and support for the conservation of koalas, an endangered marsupial native to Australia."
+      },
+      {
+        "name": "National Daughters Day",
+        "description": "A day dedicated to celebrating daughters—biological, adopted, and chosen—and encouraging expressions of love and pride."
+      }
+    ],
+    "historicalQuote": {
+      "text": "I believe that man will not merely endure: he will prevail. He is immortal, not because he alone among creatures has an inexhaustible voice, but because he has a soul, a spirit capable of compassion and sacrifice and endurance. The poet's, the writer's, duty is to write about these things.",
+      "author": "William Faulkner",
+      "context": "William Faulkner, considered one of the greatest American writers of the 20th century and a Nobel laureate, was born on September 25, 1897."
+    },
+    "motivationalQuote": {
+      "text": "You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.",
+      "author": "John Lennon"
+    },
+    "births": [
+      {
+        "name": "Michael Douglas",
+        "description": "An critically acclaimed American actor and producer, known for roles in films like 'Wall Street' and 'Fatal Attraction'.",
+        "year": "1944"
+      },
+      {
+        "name": "Will Smith",
+        "description": "A highly successful American actor, rapper, and film producer, known for his diverse roles and charismatic personality.",
+        "year": "1968"
+      },
+      {
+        "name": "Barbara Walters",
+        "description": "A pioneering American broadcast journalist, author, and television personality, recognized for her interviews and as the first female co-anchor of an evening news program.",
+        "year": "1929"
+      }
+    ],
+    "events": [
+      {
+        "title": "US Congress Adopts the Bill of Rights",
+        "description": "The United States Congress approved the first ten amendments to the Constitution, known as the Bill of Rights, which protect individual liberties.",
+        "year": "1789"
+      },
+      {
+        "title": "First Transatlantic Telephone Cable Inaugurated",
+        "description": "The TAT-1, the first submarine transatlantic telephone cable system, was officially put into service, enabling direct communication between North America and Europe.",
+        "year": "1956"
+      },
+      {
+        "title": "Vasco Núñez de Balboa Sights the Pacific Ocean",
+        "description": "Spanish conquistador and explorer Vasco Núñez de Balboa became the first European to sight the Pacific Ocean from the Isthmus of Panama.",
+        "year": "1513"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is World Pharmacists Day",
+      "teaser": "This day is celebrated globally to recognize the vital role pharmacists play in healthcare."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Sérgio de Radonezh",
+        "type": "Monge, Abade, Taumaturgo",
+        "description": "Conhecido como um dos ascetas mais famosos da tradição Ortodoxa, ele fundou o mosteiro da Santíssima Trindade e serviu como seu primeiro abade."
+      },
+      {
+        "name": "São Cléofas",
+        "type": "Discípulo, Mártir",
+        "description": "Um dos dois discípulos no caminho para Emaús que encontraram Jesus ressuscitado, foi martirizado por sua fé."
+      },
+      {
+        "name": "Santa Eufrósina de Alexandria",
+        "type": "Venerável Freira",
+        "description": "Uma santa do século V de Alexandria que dedicou sua vida ao serviço espiritual, muitas vezes confundida com Eufrósina de Suzdal."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial do Farmacêutico",
+        "description": "Este dia é celebrado globalmente para reconhecer o papel vital que os farmacêuticos desempenham na saúde."
+      },
+      {
+        "name": "Dia de Salvar o Coala",
+        "description": "Observado para aumentar a conscientização e o apoio à conservação dos coalas, um marsupial ameaçado de extinção nativo da Austrália."
+      },
+      {
+        "name": "Dia Nacional das Filhas",
+        "description": "Um dia dedicado a celebrar as filhas — biológicas, adotadas e escolhidas — e a encorajar expressões de amor e orgulho."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Acredito que o homem não irá meramente suportar: ele irá prevalecer. Ele é imortal, não porque, entre as criaturas, ele sozinho tem uma voz inesgotável, mas porque ele tem uma alma, um espírito capaz de compaixão e sacrifício e resistência. O dever do poeta, do escritor, é escrever sobre estas coisas.",
+      "author": "William Faulkner",
+      "context": "William Faulkner, considerado um dos maiores escritores americanos do século XX e laureado com o Prêmio Nobel, nasceu em 25 de setembro de 1897."
+    },
+    "motivationalQuote": {
+      "text": "Você pode dizer que sou um sonhador, mas não sou o único. Espero que um dia você se junte a nós. E o mundo viverá como um só.",
+      "author": "John Lennon"
+    },
+    "births": [
+      {
+        "name": "Michael Douglas",
+        "description": "Um ator e produtor americano aclamado pela crítica, conhecido por papéis em filmes como 'Wall Street' e 'Atração Fatal'.",
+        "year": "1944"
+      },
+      {
+        "name": "Will Smith",
+        "description": "Um ator, rapper e produtor de cinema americano de grande sucesso, conhecido por seus diversos papéis e personalidade carismática.",
+        "year": "1968"
+      },
+      {
+        "name": "Barbara Walters",
+        "description": "Uma jornalista de radiodifusão, autora e personalidade televisiva americana pioneira, reconhecida por suas entrevistas e por ser a primeira mulher co-âncora de um programa de notícias noturno.",
+        "year": "1929"
+      }
+    ],
+    "events": [
+      {
+        "title": "Congresso dos EUA Adota a Declaração de Direitos",
+        "description": "O Congresso dos Estados Unidos aprovou as dez primeiras emendas à Constituição, conhecidas como a Declaração de Direitos, que protegem as liberdades individuais.",
+        "year": "1789"
+      },
+      {
+        "title": "Inaugurado o Primeiro Cabo Telefónico Transatlântico",
+        "description": "O TAT-1, o primeiro sistema de cabo telefónico submarino transatlântico, foi oficialmente colocado em serviço, permitindo a comunicação direta entre a América do Norte e a Europa.",
+        "year": "1956"
+      },
+      {
+        "title": "Vasco Núñez de Balboa Avista o Oceano Pacífico",
+        "description": "O conquistador e explorador espanhol Vasco Núñez de Balboa tornou-se o primeiro europeu a avistar o Oceano Pacífico a partir do Istmo do Panamá.",
+        "year": "1513"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Mundial do Farmacêutico",
+      "teaser": "Este dia é celebrado globalmente para reconhecer o papel vital que os farmacêuticos desempenham na saúde."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Sergi de Ràdonej",
+        "type": "Monjo, Abat, Taumaturg",
+        "description": "Conegut com un dels ascetes més famosos de la tradició ortodoxa, va fundar el monestir de la Santíssima Trinitat i en va ser el primer abat."
+      },
+      {
+        "name": "Sant Cleofàs",
+        "type": "Deixeble, Màrtir",
+        "description": "Un dels dos deixebles en el camí cap a Emmaús que van trobar Jesús ressuscitat, va ser martiritzat per la seva fe."
+      },
+      {
+        "name": "Santa Eufrosina d'Alexandria",
+        "type": "Venerable Monja",
+        "description": "Una santa del segle V d'Alexandria que va dedicar la seva vida al servei espiritual, sovint confosa amb Eufròsine de Súzdal."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial dels Farmacèutics",
+        "description": "Aquest dia se celebra globalment per reconèixer el paper vital que els farmacèutics tenen en l'atenció sanitària."
+      },
+      {
+        "name": "Dia per Salvar el Coala",
+        "description": "S'observa per sensibilitzar i donar suport a la conservació dels coales, un marsupial en perill d'extinció originari d'Austràlia."
+      },
+      {
+        "name": "Dia Nacional de les Filles",
+        "description": "Un dia dedicat a celebrar les filles —biològiques, adoptades i escollides— i a fomentar les expressions d'amor i orgull."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Crec que l'home no només perdurarà: prevaldrà. És immortal, no perquè ell sol entre les criatures tingui una veu inesgotable, sinó perquè té una ànima, un esperit capaç de compassió i sacrifici i resistència. El deure del poeta, de l'escriptor, és escriure sobre aquestes coses.",
+      "author": "William Faulkner",
+      "context": "William Faulkner, considerat un dels grans escriptors americans del segle XX i premi Nobel, va néixer el 25 de setembre de 1897."
+    },
+    "motivationalQuote": {
+      "text": "Pots dir que sóc un somiador, però no sóc l'únic. Espero que algun dia us uniu a nosaltres. I el món viurà com un.",
+      "author": "John Lennon"
+    },
+    "births": [
+      {
+        "name": "Michael Douglas",
+        "description": "Un actor i productor americà aclamat per la crítica, conegut pels seus papers en pel·lícules com 'Wall Street' i 'Fatal Attraction'.",
+        "year": "1944"
+      },
+      {
+        "name": "Will Smith",
+        "description": "Un actor, raper i productor de cinema americà de gran èxit, conegut pels seus papers diversos i la seva personalitat carismàtica.",
+        "year": "1968"
+      },
+      {
+        "name": "Barbara Walters",
+        "description": "Una periodista, escriptora i personalitat televisiva pionera dels Estats Units, reconeguda per les seves entrevistes i per ser la primera copresentadora femenina d'un programa de notícies vespertí.",
+        "year": "1929"
+      }
+    ],
+    "events": [
+      {
+        "title": "El Congrés dels EUA Adopta la Declaració de Drets",
+        "description": "El Congrés dels Estats Units va aprovar les deu primeres esmenes a la Constitució, conegudes com la Declaració de Drets, que protegeixen les llibertats individuals.",
+        "year": "1789"
+      },
+      {
+        "title": "S'Inaugura el Primer Cable Telefònic Transatlàntic",
+        "description": "El TAT-1, el primer sistema de cable telefònic submarí transatlàntic, es va posar oficialment en servei, permetent la comunicació directa entre Amèrica del Nord i Europa.",
+        "year": "1956"
+      },
+      {
+        "title": "Vasco Núñez de Balboa divisa l'oceà Pacífic",
+        "description": "El conquistador i explorador espanyol Vasco Núñez de Balboa es va convertir en el primer europeu a albirar l'oceà Pacífic des de l'istme de Panamà.",
+        "year": "1513"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Mundial dels Farmacèutics",
+      "teaser": "Aquest dia se celebra globalment per reconèixer el paper vital que els farmacèutics tenen en l'atenció sanitària."
+    }
+  }
+}
