@@ -1,0 +1,327 @@
+{
+  "date": "2026-09-28",
+  "es": {
+    "saints": [
+      {
+        "name": "San Caritón el Confesor",
+        "type": "Abad/Confesor",
+        "description": "Una figura monástica palestina temprana que sufrió persecución y más tarde se hizo conocido por fundar comunidades monásticas, incluida la Laura de Farán."
+      },
+      {
+        "name": "San Wenceslao I",
+        "type": "Príncipe/Mártir",
+        "description": "El Duque de Bohemia que promovió el cristianismo entre su pueblo y fue martirizado por su hermano. Es recordado por su servicio a los pobres."
+      },
+      {
+        "name": "Sinaxis de los Padres Venerables de las Cercanas Cuevas de Kiev",
+        "type": "Conmemoración Colectiva",
+        "description": "Una conmemoración litúrgica colectiva que honra a muchos santos cuyas reliquias y memoria están asociadas con las Cuevas Cercanas de la Lavra de Kiev-Pechersk."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial contra la Rabia",
+        "description": "Una conmemoración de salud global que tiene como objetivo concienciar sobre la prevención y el control de la rabia."
+      },
+      {
+        "name": "Día Internacional del Acceso Universal a la Información",
+        "description": "Un día proclamado por la UNESCO para promover los datos gubernamentales abiertos y los archivos públicos, enfatizando el derecho a buscar y compartir información."
+      },
+      {
+        "name": "Día Nacional del Buen Vecino",
+        "description": "Una conmemoración en los EE. UU. que fomenta la amabilidad y las conexiones comunitarias entre vecinos, proclamada por el presidente Jimmy Carter en 1978."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Por tres métodos podemos aprender sabiduría: Primero, por la reflexión, que es el más noble; Segundo, por la imitación, que es el más fácil; y tercero, por la experiencia, que es el más amargo.",
+      "author": "Confucio",
+      "context": "Confucio, el renombrado maestro y filósofo chino, nació el 28 de septiembre del 551 a.C. Sus enseñanzas han influido profundamente en el pensamiento y la vida de Asia Oriental."
+    },
+    "motivationalQuote": {
+      "text": "La forma más común en que las personas renuncian a su poder es pensando que no lo tienen.",
+      "author": "Alice Walker"
+    },
+    "births": [
+      {
+        "name": "Brigitte Bardot",
+        "description": "Una actriz, cantante y modelo francesa que se convirtió en un símbolo sexual internacional y más tarde en una apasionada activista por los derechos de los animales.",
+        "year": "1934"
+      },
+      {
+        "name": "Naomi Watts",
+        "description": "Una actriz británica conocida por sus actuaciones versátiles en películas de varios géneros, obteniendo elogios de la crítica.",
+        "year": "1968"
+      },
+      {
+        "name": "Hilary Duff",
+        "description": "Una actriz, cantante y empresaria estadounidense que saltó a la fama como ídolo adolescente y ha continuado una exitosa carrera en el entretenimiento.",
+        "year": "1987"
+      }
+    ],
+    "events": [
+      {
+        "title": "Descubrimiento de la Penicilina",
+        "description": "Las observaciones de Alexander Fleming sobre cómo el moho Penicillium inhibía las bacterias en 1928 llevaron al descubrimiento de la penicilina, revolucionando la medicina y salvando incontables vidas.",
+        "year": "1928"
+      },
+      {
+        "title": "Primer Vuelo Alrededor del Mundo Completado",
+        "description": "Dos aviones del Ejército de EE. UU. completaron la primera circunnavegación aérea del globo, aterrizando en Seattle, Washington, después de un viaje de 175 días.",
+        "year": "1924"
+      },
+      {
+        "title": "El Falcon 1 de SpaceX Alcanza la Órbita",
+        "description": "SpaceX lanzó con éxito su cohete Falcon 1 a la órbita, marcando la primera vez que un cohete de combustible líquido desarrollado de forma privada lograba este hito.",
+        "year": "2008"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Mundial contra la Rabia",
+      "teaser": "Una conmemoración de salud global que tiene como objetivo concienciar sobre la prevención y el control de la rabia."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Chariton the Confessor",
+        "type": "Abbot/Confessor",
+        "description": "An early Palestinian monastic figure who suffered persecution and later became known for founding monastic communities, including the Pharan Lavra."
+      },
+      {
+        "name": "St. Wenceslaus I",
+        "type": "Prince/Martyr",
+        "description": "The Duke of Bohemia who promoted Christianity among his people and was martyred by his brother. He is remembered for his service to the poor."
+      },
+      {
+        "name": "Synaxis of the Venerable Fathers of the Kyiv Near Caves",
+        "type": "Collective Commemoration",
+        "description": "A collective liturgical commemoration honoring many saints whose relics and memory are associated with the Near Caves of Kyiv-Pechersk Lavra."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Rabies Day",
+        "description": "A global health observance aiming to raise awareness about rabies prevention and control."
+      },
+      {
+        "name": "International Day for Universal Access to Information",
+        "description": "A day proclaimed by UNESCO to promote open government data and public archives, emphasizing the right to seek and share information."
+      },
+      {
+        "name": "National Good Neighbor Day",
+        "description": "An observance in the U.S. encouraging kindness and community connections among neighbors, proclaimed by President Jimmy Carter in 1978."
+      }
+    ],
+    "historicalQuote": {
+      "text": "By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.",
+      "author": "Confucius",
+      "context": "Confucius, the renowned Chinese teacher and philosopher, was born on September 28, 551 BC. His teachings have profoundly influenced East Asian thought and life."
+    },
+    "motivationalQuote": {
+      "text": "The most common way people give up their power is by thinking they don't have any.",
+      "author": "Alice Walker"
+    },
+    "births": [
+      {
+        "name": "Brigitte Bardot",
+        "description": "A French actress, singer, and fashion model who became an international sex symbol and later a passionate animal rights activist.",
+        "year": "1934"
+      },
+      {
+        "name": "Naomi Watts",
+        "description": "A British actress known for her versatile performances in films across various genres, earning critical acclaim.",
+        "year": "1968"
+      },
+      {
+        "name": "Hilary Duff",
+        "description": "An American actress, singer, and businesswoman who rose to fame as a teen idol and has continued a successful career in entertainment.",
+        "year": "1987"
+      }
+    ],
+    "events": [
+      {
+        "title": "Penicillin Discovered",
+        "description": "Alexander Fleming's observations of Penicillium mold inhibiting bacteria in 1928 led to the discovery of penicillin, revolutionizing medicine and saving countless lives.",
+        "year": "1928"
+      },
+      {
+        "title": "First Around-the-World Flight Completed",
+        "description": "Two U.S. Army planes completed the first aerial circumnavigation of the globe, landing in Seattle, Washington, after a 175-day journey.",
+        "year": "1924"
+      },
+      {
+        "title": "SpaceX Falcon 1 Reaches Orbit",
+        "description": "SpaceX successfully launched its Falcon 1 rocket into orbit, marking the first time a privately developed liquid-fueled rocket achieved this milestone.",
+        "year": "2008"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is World Rabies Day",
+      "teaser": "A global health observance aiming to raise awareness about rabies prevention and control."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Cariton, o Confessor",
+        "type": "Abade/Confessor",
+        "description": "Uma figura monástica palestina primitiva que sofreu perseguição e mais tarde ficou conhecida por fundar comunidades monásticas, incluindo a Lavra de Farã."
+      },
+      {
+        "name": "São Venceslau I",
+        "type": "Príncipe/Mártir",
+        "description": "O Duque da Boêmia que promoveu o cristianismo entre seu povo e foi martirizado por seu irmão. Ele é lembrado por seu serviço aos pobres."
+      },
+      {
+        "name": "Sinaxe dos Veneráveis Padres das Cavernas Próximas de Kiev",
+        "type": "Comemoração Coletiva",
+        "description": "Uma comemoração litúrgica coletiva honrando muitos santos cujas relíquias e memória estão associadas às Cavernas Próximas da Lavra de Kiev-Pechersk."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Raiva",
+        "description": "Uma observância global de saúde que visa aumentar a conscientização sobre a prevenção e o controle da raiva."
+      },
+      {
+        "name": "Dia Internacional para o Acesso Universal à Informação",
+        "description": "Um dia proclamado pela UNESCO para promover dados governamentais abertos e arquivos públicos, enfatizando o direito de buscar e compartilhar informações."
+      },
+      {
+        "name": "Dia Nacional do Bom Vizinho",
+        "description": "Uma observância nos EUA que incentiva a bondade e as conexões comunitárias entre vizinhos, proclamada pelo Presidente Jimmy Carter em 1978."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Por três métodos podemos aprender sabedoria: Primeiro, pela reflexão, que é o mais nobre; Segundo, pela imitação, que é o mais fácil; e terceiro, pela experiência, que é o mais amargo.",
+      "author": "Confúcio",
+      "context": "Confúcio, o renomado professor e filósofo chinês, nasceu em 28 de setembro de 551 a.C. Seus ensinamentos influenciaram profundamente o pensamento e a vida do Leste Asiático."
+    },
+    "motivationalQuote": {
+      "text": "A maneira mais comum de as pessoas abrirem mão do seu poder é pensando que não o têm.",
+      "author": "Alice Walker"
+    },
+    "births": [
+      {
+        "name": "Brigitte Bardot",
+        "description": "Uma atriz, cantora e modelo francesa que se tornou um símbolo sexual internacional e mais tarde uma apaixonada ativista pelos direitos dos animais.",
+        "year": "1934"
+      },
+      {
+        "name": "Naomi Watts",
+        "description": "Uma atriz britânica conhecida por suas atuações versáteis em filmes de vários gêneros, recebendo aclamação da crítica.",
+        "year": "1968"
+      },
+      {
+        "name": "Hilary Duff",
+        "description": "Uma atriz, cantora e empresária americana que alcançou a fama como ídolo adolescente e continuou uma carreira de sucesso no entretenimento.",
+        "year": "1987"
+      }
+    ],
+    "events": [
+      {
+        "title": "Penicilina Descoberta",
+        "description": "As observações de Alexander Fleming sobre o molde Penicillium inibindo bactérias em 1928 levaram à descoberta da penicilina, revolucionando a medicina e salvando inúmeras vidas.",
+        "year": "1928"
+      },
+      {
+        "title": "Primeiro Voo de Volta ao Mundo Concluído",
+        "description": "Dois aviões do Exército dos EUA completaram a primeira circunavegação aérea do globo, pousando em Seattle, Washington, após uma jornada de 175 dias.",
+        "year": "1924"
+      },
+      {
+        "title": "O Falcon 1 da SpaceX Atinge a Órbita",
+        "description": "A SpaceX lançou com sucesso seu foguete Falcon 1 em órbita, marcando a primeira vez que um foguete de combustível líquido desenvolvido privadamente alcançou este marco.",
+        "year": "2008"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Mundial da Raiva",
+      "teaser": "Uma observância global de saúde que visa aumentar a conscientização sobre a prevenção e o controle da raiva."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Caritó el Confessor",
+        "type": "Abat/Confessor",
+        "description": "Una figura monàstica palestina primerenca que va patir persecució i més tard es va fer coneguda per fundar comunitats monàstiques, inclosa la Laura de Pharan."
+      },
+      {
+        "name": "Sant Venceslau I",
+        "type": "Príncep/Màrtir",
+        "description": "El Duc de Bohèmia que va promoure el cristianisme entre el seu poble i va ser martiritzat pel seu germà. És recordat pel seu servei als pobres."
+      },
+      {
+        "name": "Sinaxi dels Venerables Pares de les Coves Pròximes de Kíiv",
+        "type": "Commemoració Col·lectiva",
+        "description": "Una commemoració litúrgica col·lectiva que honra molts sants les relíquies i la memòria dels quals s'associen amb les Coves Pròximes de la Laura de Kíiv-Pechersk."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial contra la Ràbia",
+        "description": "Una observança global de salut amb l'objectiu de conscienciar sobre la prevenció i el control de la ràbia."
+      },
+      {
+        "name": "Dia Internacional de l'Accés Universal a la Informació",
+        "description": "Un dia proclamat per la UNESCO per promoure les dades obertes del govern i els arxius públics, emfatitzant el dret a buscar i compartir informació."
+      },
+      {
+        "name": "Dia Nacional del Bon Veí",
+        "description": "Una observança als EUA que fomenta la bondat i les connexions comunitàries entre veïns, proclamada pel president Jimmy Carter el 1978."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Per tres mètodes podem aprendre saviesa: primer, per reflexió, que és el més noble; segon, per imitació, que és el més fàcil; i tercer, per experiència, que és el més amarg.",
+      "author": "Confuci",
+      "context": "Confuci, el reconegut mestre i filòsof xinès, va néixer el 28 de setembre de 551 aC. Els seus ensenyaments han influït profundament el pensament i la vida de l'Àsia Oriental."
+    },
+    "motivationalQuote": {
+      "text": "La forma més comuna en què la gent renuncia al seu poder és pensant que no en tenen cap.",
+      "author": "Alice Walker"
+    },
+    "births": [
+      {
+        "name": "Brigitte Bardot",
+        "description": "Una actriu, cantant i model francesa que es va convertir en un símbol sexual internacional i més tard en una apassionada activista pels drets dels animals.",
+        "year": "1934"
+      },
+      {
+        "name": "Naomi Watts",
+        "description": "Una actriu britànica coneguda per les seves actuacions versàtils en pel·lícules de diversos gèneres, guanyant aclamació de la crítica.",
+        "year": "1968"
+      },
+      {
+        "name": "Hilary Duff",
+        "description": "Una actriu, cantant i empresària nord-americana que va assolir la fama com a ídol juvenil i ha continuat una reeixida carrera en l'entreteniment.",
+        "year": "1987"
+      }
+    ],
+    "events": [
+      {
+        "title": "La Penicil·lina Descoberta",
+        "description": "Les observacions d'Alexander Fleming del floridura Penicillium que inhibia bacteris el 1928 van portar al descobriment de la penicil·lina, revolucionant la medicina i salvant innumerables vides.",
+        "year": "1928"
+      },
+      {
+        "title": "Primer Vol Al Voltant del Món Completat",
+        "description": "Dos avions de l'Exèrcit dels EUA van completar la primera circumnavegació aèria del globus, aterrant a Seattle, Washington, després d'un viatge de 175 dies.",
+        "year": "1924"
+      },
+      {
+        "title": "El Falcon 1 de SpaceX Arriba a l'Òrbita",
+        "description": "SpaceX va llançar amb èxit el seu coet Falcon 1 a l'òrbita, marcant la primera vegada que un coet de combustible líquid desenvolupat de forma privada va aconseguir aquesta fita.",
+        "year": "2008"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Mundial contra la Ràbia",
+      "teaser": "Una observança global de salut amb l'objectiu de conscienciar sobre la prevenció i el control de la ràbia."
+    }
+  }
+}
