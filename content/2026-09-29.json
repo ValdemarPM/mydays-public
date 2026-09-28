@@ -1,0 +1,327 @@
+{
+  "date": "2026-09-29",
+  "es": {
+    "saints": [
+      {
+        "name": "San Miguel Arcángel",
+        "type": "Arcángel",
+        "description": "Conocido como el 'Príncipe de la milicia celestial', San Miguel lidera el ejército de Dios contra el mal y es invocado para protección contra batallas espirituales."
+      },
+      {
+        "name": "San Gabriel Arcángel",
+        "type": "Arcángel",
+        "description": "Reconocido como el mensajero de Dios, San Gabriel anunció famosamente los nacimientos de Juan el Bautista y Jesucristo a María."
+      },
+      {
+        "name": "San Rafael Arcángel",
+        "type": "Arcángel",
+        "description": "Conocido como sanador y guía, la historia de San Rafael se encuentra en el Libro de Tobías, y es invocado para viajes y sanación."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de San Miguel",
+        "description": "Esta festividad cristiana honra a los Arcángeles Miguel, Gabriel y Rafael, marcando el final tradicional de la temporada de cosecha."
+      },
+      {
+        "name": "Día Internacional de Concientización sobre la Pérdida y el Desperdicio de Alimentos",
+        "description": "Proclamado por la ONU, este día destaca el problema global de la pérdida y el desperdicio de alimentos, abogando por el consumo responsable y la preservación de los recursos."
+      },
+      {
+        "name": "Día Nacional del Café (Estados Unidos)",
+        "description": "Un día popular para celebrar el café, la bebida ampliamente consumida en todo el mundo, a menudo con promociones y eventos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Todo lo que la Naturaleza tiene reservado para la humanidad, por desagradable que sea, los hombres deben aceptarlo, porque la ignorancia nunca es mejor que el conocimiento.",
+      "author": "Enrico Fermi",
+      "context": "Enrico Fermi, un físico italoamericano que creó el primer reactor nuclear del mundo y ganó un Premio Nobel, nació el 29 de septiembre de 1901."
+    },
+    "motivationalQuote": {
+      "text": "La imaginación es más importante que el conocimiento. Porque el conocimiento es limitado, mientras que la imaginación abarca el mundo entero, estimulando el progreso, dando a luz a la evolución.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Miguel de Cervantes",
+        "description": "Un renombrado novelista y dramaturgo español, es más conocido como el autor de 'Don Quijote de la Mancha', considerada una de las mayores obras de la literatura occidental.",
+        "year": "1547"
+      },
+      {
+        "name": "Horatio Nelson",
+        "description": "Un célebre héroe naval británico, el Almirante Nelson es famoso por sus brillantes tácticas que aseguraron victorias decisivas, incluyendo salvar a Gran Bretaña de la invasión de Napoleón.",
+        "year": "1758"
+      },
+      {
+        "name": "Jerry Lee Lewis",
+        "description": "Un icónico cantante, compositor y pianista estadounidense, 'The Killer' fue un pionero de la música rock and roll con sus enérgicas actuaciones y estilo extravagante.",
+        "year": "1935"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundación de la Policía Metropolitana de Londres",
+        "description": "Gracias a los esfuerzos de Robert Peel, la primera fuerza policial profesional de Inglaterra, conocida como Scotland Yard, fue establecida oficialmente.",
+        "year": "1829"
+      },
+      {
+        "title": "El Departamento de Guerra de EE. UU. Establece un Ejército Regular",
+        "description": "El Departamento de Guerra de los Estados Unidos estableció oficialmente un ejército regular con una fuerza de varios cientos de hombres, sentando las bases para el ejército de la nación.",
+        "year": "1789"
+      },
+      {
+        "title": "El Transbordador Espacial Discovery Vuelve al Vuelo",
+        "description": "La NASA lanzó con éxito el STS-26, el Transbordador Espacial Discovery, marcando el regreso de Estados Unidos a los vuelos espaciales tripulados después del desastre del Challenger.",
+        "year": "1988"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día de San Miguel",
+      "teaser": "Esta festividad cristiana honra a los Arcángeles Miguel, Gabriel y Rafael, marcando el final tradicional de la temporada de cosecha."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Michael the Archangel",
+        "type": "Archangel",
+        "description": "Known as the 'Prince of the heavenly host,' St. Michael leads God's army against evil and is invoked for protection against spiritual battles."
+      },
+      {
+        "name": "St. Gabriel the Archangel",
+        "type": "Archangel",
+        "description": "Recognized as God's messenger, St. Gabriel famously announced the births of John the Baptist and Jesus Christ to Mary."
+      },
+      {
+        "name": "St. Raphael the Archangel",
+        "type": "Archangel",
+        "description": "Known as a healer and guide, St. Raphael's story is found in the Book of Tobit, and he is invoked for journeys and healing."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Michaelmas",
+        "description": "This Christian feast day honors the Archangels Michael, Gabriel, and Raphael, marking the traditional end of harvest season."
+      },
+      {
+        "name": "International Day of Awareness of Food Loss and Waste",
+        "description": "Proclaimed by the UN, this day highlights the global issue of food waste and loss, advocating for responsible consumption and resource preservation."
+      },
+      {
+        "name": "National Coffee Day (United States)",
+        "description": "A popular day to celebrate coffee, the widely consumed beverage enjoyed globally, often with promotions and events."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Whatever Nature has in store for mankind, unpleasant as it may be, men must accept, for ignorance is never better than knowledge.",
+      "author": "Enrico Fermi",
+      "context": "Enrico Fermi, an Italian-American physicist who created the world's first nuclear reactor and won a Nobel Prize, was born on September 29, 1901."
+    },
+    "motivationalQuote": {
+      "text": "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Miguel de Cervantes",
+        "description": "A renowned Spanish novelist and playwright, he is best known as the author of 'Don Quijote de la Mancha,' considered one of the greatest works of Western literature.",
+        "year": "1547"
+      },
+      {
+        "name": "Horatio Nelson",
+        "description": "A celebrated British naval hero, Admiral Nelson is famous for his brilliant tactics that secured decisive victories, including saving Britain from Napoleon's invasion.",
+        "year": "1758"
+      },
+      {
+        "name": "Jerry Lee Lewis",
+        "description": "An iconic American singer, songwriter, and pianist, 'The Killer' was a pioneer of rock and roll music with his energetic performances and flamboyant style.",
+        "year": "1935"
+      }
+    ],
+    "events": [
+      {
+        "title": "Founding of London's Metropolitan Police",
+        "description": "Through the efforts of Robert Peel, England's first professional police force, known as Scotland Yard, was officially established.",
+        "year": "1829"
+      },
+      {
+        "title": "U.S. Department of War Establishes a Regular Army",
+        "description": "The United States Department of War officially established a regular army with a strength of several hundred men, laying the foundation for the nation's military.",
+        "year": "1789"
+      },
+      {
+        "title": "Space Shuttle Discovery Returns to Flight",
+        "description": "NASA successfully launched STS-26, the Space Shuttle Discovery, marking America's return to manned spaceflight after the Challenger disaster.",
+        "year": "1988"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Michaelmas",
+      "teaser": "This Christian feast day honors the Archangels Michael, Gabriel, and Raphael, marking the traditional end of harvest season."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Miguel Arcanjo",
+        "type": "Arcanjo",
+        "description": "Conhecido como o 'Príncipe da milícia celestial', São Miguel lidera o exército de Deus contra o mal e é invocado para proteção em batalhas espirituais."
+      },
+      {
+        "name": "São Gabriel Arcanjo",
+        "type": "Arcanjo",
+        "description": "Reconhecido como o mensageiro de Deus, São Gabriel anunciou famosamente os nascimentos de João Batista e Jesus Cristo a Maria."
+      },
+      {
+        "name": "São Rafael Arcanjo",
+        "type": "Arcanjo",
+        "description": "Conhecido como curador e guia, a história de São Rafael é encontrada no Livro de Tobias, e ele é invocado para viagens e cura."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de São Miguel",
+        "description": "Esta festividade cristã honra os Arcanjos Miguel, Gabriel e Rafael, marcando o fim tradicional da temporada de colheita."
+      },
+      {
+        "name": "Dia Internacional de Conscientização sobre Perda e Desperdício de Alimentos",
+        "description": "Proclamado pela ONU, este dia destaca a questão global do desperdício e perda de alimentos, defendendo o consumo responsável e a preservação dos recursos."
+      },
+      {
+        "name": "Dia Nacional do Café (Estados Unidos)",
+        "description": "Um dia popular para celebrar o café, a bebida amplamente consumida globalmente, muitas vezes com promoções e eventos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Tudo o que a Natureza tem reservado para a humanidade, por mais desagradável que seja, os homens devem aceitar, pois a ignorância nunca é melhor do que o conhecimento.",
+      "author": "Enrico Fermi",
+      "context": "Enrico Fermi, um físico ítalo-americano que criou o primeiro reator nuclear do mundo e ganhou um Prêmio Nobel, nasceu em 29 de setembro de 1901."
+    },
+    "motivationalQuote": {
+      "text": "A imaginação é mais importante que o conhecimento. Pois o conhecimento é limitado, enquanto a imaginação abrange o mundo inteiro, estimulando o progresso, dando origem à evolução.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Miguel de Cervantes",
+        "description": "Um renomado romancista e dramaturgo espanhol, ele é mais conhecido como o autor de 'Dom Quixote de La Mancha', considerada uma das maiores obras da literatura ocidental.",
+        "year": "1547"
+      },
+      {
+        "name": "Horatio Nelson",
+        "description": "Um célebre herói naval britânico, o Almirante Nelson é famoso por suas táticas brilhantes que garantiram vitórias decisivas, incluindo salvar a Grã-Bretanha da invasão de Napoleão.",
+        "year": "1758"
+      },
+      {
+        "name": "Jerry Lee Lewis",
+        "description": "Um icônico cantor, compositor e pianista americano, 'The Killer' foi um pioneiro da música rock and roll com suas performances energéticas e estilo extravagante.",
+        "year": "1935"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundação da Polícia Metropolitana de Londres",
+        "description": "Graças aos esforços de Robert Peel, a primeira força policial profissional da Inglaterra, conhecida como Scotland Yard, foi oficialmente estabelecida.",
+        "year": "1829"
+      },
+      {
+        "title": "Departamento de Guerra dos EUA Estabelece um Exército Regular",
+        "description": "O Departamento de Guerra dos Estados Unidos estabeleceu oficialmente um exército regular com uma força de várias centenas de homens, lançando as bases para as forças armadas da nação.",
+        "year": "1789"
+      },
+      {
+        "title": "Ônibus Espacial Discovery Retorna ao Voo",
+        "description": "A NASA lançou com sucesso o STS-26, o Ônibus Espacial Discovery, marcando o retorno dos Estados Unidos aos voos espaciais tripulados após o desastre do Challenger.",
+        "year": "1988"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia de São Miguel",
+      "teaser": "Esta festividade cristã honra os Arcanjos Miguel, Gabriel e Rafael, marcando o fim tradicional da temporada de colheita."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Miquel Arcàngel",
+        "type": "Arcàngel",
+        "description": "Conegut com el 'Príncep de l'exèrcit celestial', Sant Miquel lidera l'exèrcit de Déu contra el mal i és invocat per a la protecció contra les batalles espirituals."
+      },
+      {
+        "name": "Sant Gabriel Arcàngel",
+        "type": "Arcàngel",
+        "description": "Reconegut com el missatger de Déu, Sant Gabriel va anunciar famosament els naixements de Joan Baptista i Jesucrist a Maria."
+      },
+      {
+        "name": "Sant Rafael Arcàngel",
+        "type": "Arcàngel",
+        "description": "Conegut com a sanador i guia, la història de Sant Rafael es troba al Llibre de Tobies, i és invocat per a viatges i curacions."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Sant Miquel",
+        "description": "Aquesta festa cristiana honora els Arcàngels Miquel, Gabriel i Rafael, marcant la fi tradicional de la temporada de collita."
+      },
+      {
+        "name": "Dia Internacional de Conscienciació sobre la Pèrdua i el Malbaratament Alimentari",
+        "description": "Proclamat per l'ONU, aquest dia posa de manifest el problema global del malbaratament i la pèrdua d'aliments, advocant per un consum responsable i la preservació dels recursos."
+      },
+      {
+        "name": "Dia Nacional del Cafè (Estats Units)",
+        "description": "Un dia popular per celebrar el cafè, la beguda àmpliament consumida i gaudida a nivell mundial, sovint amb promocions i esdeveniments."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Tot allò que la Natura té reservat per a la humanitat, per desagradable que sigui, els homes han d'acceptar-ho, ja que la ignorància mai és millor que el coneixement.",
+      "author": "Enrico Fermi",
+      "context": "Enrico Fermi, un físic italoamericà que va crear el primer reactor nuclear del món i va guanyar un Premi Nobel, va néixer el 29 de setembre de 1901."
+    },
+    "motivationalQuote": {
+      "text": "La imaginació és més important que el coneixement. Perquè el coneixement és limitat, mentre que la imaginació abraça el món sencer, estimulant el progrés, donant origen a l'evolució.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Miguel de Cervantes",
+        "description": "Un reconegut novel·lista i dramaturg espanyol, és més conegut com l'autor de 'Don Quijote de la Mancha', considerada una de les obres més grans de la literatura occidental.",
+        "year": "1547"
+      },
+      {
+        "name": "Horatio Nelson",
+        "description": "Un cèlebre heroi naval britànic, l'almirall Nelson és famós per les seves tàctiques brillants que van assegurar victòries decisives, inclosa la salvació de Gran Bretanya de la invasió de Napoleó.",
+        "year": "1758"
+      },
+      {
+        "name": "Jerry Lee Lewis",
+        "description": "Un icònic cantant, compositor i pianista estatunidenc, 'The Killer' va ser un pioner de la música rock and roll amb les seves actuacions energètiques i estil extravagant.",
+        "year": "1935"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundació de la Policia Metropolitana de Londres",
+        "description": "Gràcies als esforços de Robert Peel, la primera força policial professional d'Anglaterra, coneguda com Scotland Yard, va ser establerta oficialment.",
+        "year": "1829"
+      },
+      {
+        "title": "El Departament de Guerra dels EUA Estableix un Exèrcit Regular",
+        "description": "El Departament de Guerra dels Estats Units va establir oficialment un exèrcit regular amb una força de diversos centenars d'homes, posant les bases per a l'exèrcit de la nació.",
+        "year": "1789"
+      },
+      {
+        "title": "El Transbordador Espacial Discovery Torna a Volar",
+        "description": "La NASA va llançar amb èxit l'STS-26, el Transbordador Espacial Discovery, marcant el retorn d'Amèrica als vols espacials tripulats després del desastre del Challenger.",
+        "year": "1988"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Sant Miquel",
+      "teaser": "Aquesta festa cristiana honora els Arcàngels Miquel, Gabriel i Rafael, marcant la fi tradicional de la temporada de collita."
+    }
+  }
+}
