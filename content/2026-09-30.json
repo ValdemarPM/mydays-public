@@ -1,0 +1,327 @@
+{
+  "date": "2026-09-30",
+  "es": {
+    "saints": [
+      {
+        "name": "San Jerónimo",
+        "type": "Sacerdote y Doctor de la Iglesia",
+        "description": "Conocido como el más erudito de los Padres de la Iglesia Occidental, San Jerónimo tradujo la mayor parte de la Biblia al latín, una versión conocida como la Vulgata, que sigue siendo influyente hoy en día. Es el patrón de arqueólogos, biblistas, bibliotecarios, estudiantes y traductores."
+      },
+      {
+        "name": "San Gregorio el Iluminador",
+        "type": "Hieromártir, Obispo e Iluminador de la Gran Armenia",
+        "description": "Nacido en 257, San Gregorio fue fundamental en la conversión de Armenia al cristianismo y se convirtió en su primer jefe oficial de la Iglesia Apostólica Armenia. Soportó años de prisión y tortura por su fe antes de convertir al rey Tiridates III."
+      },
+      {
+        "name": "Santas Ripsime y Gaiana",
+        "type": "Vírgenes Mártires",
+        "description": "Ripsime y Gaiana fueron dos de las 35 vírgenes mártires que sufrieron en Armenia a principios del siglo IV. Ripsime destacó por su belleza y carácter firme, martirizada durante el reinado de Diocleciano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Traducción",
+        "description": "Este día rinde homenaje al trabajo de los profesionales del lenguaje que desempeñan un papel crucial en la conexión de las naciones y el fomento de la paz, la comprensión y el desarrollo."
+      },
+      {
+        "name": "Día de la Camisa Naranja / Día Nacional de la Verdad y la Reconciliación (Canadá)",
+        "description": "Conmemorado anualmente en Canadá, este día honra a los sobrevivientes de las Escuelas Residenciales, a sus familias y comunidades, reconociendo los impactos duraderos del sistema de Escuelas Residenciales Canadiense y promoviendo la verdad y la reconciliación."
+      },
+      {
+        "name": "Día de la Independencia de Botsuana",
+        "description": "Este día festivo nacional marca el aniversario de la declaración de independencia de Botsuana de Gran Bretaña en 1966."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“Vende tu astucia y compra perplejidad.”",
+      "author": "Rumi",
+      "context": "Jalal ad-Din Muhammad Rumi, el venerado poeta persa y místico sufí del siglo XIII, nació el 30 de septiembre de 1207. Sus profundas enseñanzas espirituales y obras poéticas continúan inspirando a millones en todo el mundo."
+    },
+    "motivationalQuote": {
+      "text": "Si estás pasando por el infierno, sigue adelante.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Rumi",
+        "description": "Un poeta persa, erudito islámico y teólogo del siglo XIII cuyas obras, especialmente su Masnavi, son ampliamente leídas y veneradas.",
+        "year": "1207"
+      },
+      {
+        "name": "Truman Capote",
+        "description": "Un novelista, cuentista, guionista y dramaturgo estadounidense conocido por su novela de no ficción 'A sangre fría' y la novela corta 'Desayuno en Tiffany's'.",
+        "year": "1924"
+      },
+      {
+        "name": "Monica Bellucci",
+        "description": "Una actriz y modelo italiana que ha protagonizado numerosas películas, incluyendo 'Matrix Reloaded' y 'La Pasión de Cristo'.",
+        "year": "1964"
+      }
+    ],
+    "events": [
+      {
+        "title": "Apertura de la Primera Central Hidroeléctrica Comercial",
+        "description": "La planta Vulcan Street de Thomas Edison, la primera central hidroeléctrica comercial del mundo, comenzó a operar en el río Fox en Appleton, Wisconsin, marcando un paso significativo en la energía renovable.",
+        "year": "1882"
+      },
+      {
+        "title": "Wyoming Otorga el Derecho al Voto a las Mujeres",
+        "description": "La convención estatal de Wyoming aprobó una constitución que incluía una disposición que otorgaba a las mujeres el derecho al voto, convirtiéndolo en el primer estado de EE. UU. en hacerlo al ser admitido en la Unión al año siguiente.",
+        "year": "1889"
+      },
+      {
+        "title": "Concluye el Puente Aéreo de Berlín",
+        "description": "El Puente Aéreo de Berlín, una operación logística masiva de los Aliados Occidentales para entregar suministros a Berlín Occidental durante el bloqueo soviético, finalizó oficialmente después de 15 meses de vuelos exitosos.",
+        "year": "1949"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de la Traducción",
+      "teaser": "Este día rinde homenaje al trabajo de los profesionales del lenguaje que desempeñan un papel crucial en la conexión de las naciones y el fomento de la paz, la comprensión y el desarrollo."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Jerome",
+        "type": "Priest and Doctor of the Church",
+        "description": "Known as the most learned of the Fathers of the Western Church, Saint Jerome translated most of the Bible into Latin, a version known as the Vulgate, which remains influential today. He is the patron saint of archaeologists, biblical scholars, librarians, students, and translators."
+      },
+      {
+        "name": "Saint Gregory the Illuminator",
+        "type": "Hieromartyr, Bishop and Enlightener of Greater Armenia",
+        "description": "Born in 257, Saint Gregory was instrumental in the conversion of Armenia to Christianity and became its first official head of the Armenian Apostolic Church. He endured years of imprisonment and torture for his faith before converting King Tiridates III."
+      },
+      {
+        "name": "Saints Rhipsime and Gaiana",
+        "type": "Virgin Martyrs",
+        "description": "Rhipsime and Gaiana were two of the 35 virgin martyrs who suffered in Armenia in the early 4th century. Rhipsime was noted for her beauty and steadfast character, martyred during the reign of Diocletian."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Translation Day",
+        "description": "This day pays tribute to the work of language professionals who play a crucial role in connecting nations and fostering peace, understanding, and development."
+      },
+      {
+        "name": "Orange Shirt Day / National Day for Truth and Reconciliation (Canada)",
+        "description": "Commemorated annually in Canada, this day honors Residential School Survivors, their families, and communities, acknowledging the lasting impacts of the Canadian Residential School system and promoting truth and reconciliation."
+      },
+      {
+        "name": "Botswana Independence Day",
+        "description": "This national holiday marks the anniversary of Botswana's declaration of independence from Great Britain in 1966."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“Sell your cleverness and buy bewilderment.”",
+      "author": "Rumi",
+      "context": "Jalal ad-Din Muhammad Rumi, the revered 13th-century Persian poet and Sufi mystic, was born on September 30, 1207. His profound spiritual teachings and poetic works continue to inspire millions worldwide."
+    },
+    "motivationalQuote": {
+      "text": "If you are going through hell, keep going.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Rumi",
+        "description": "A 13th-century Persian poet, Islamic scholar, and theologian whose works, especially his Masnavi, are widely read and revered.",
+        "year": "1207"
+      },
+      {
+        "name": "Truman Capote",
+        "description": "An American novelist, short story writer, screenwriter, and playwright best known for his true crime novel 'In Cold Blood' and the novella 'Breakfast at Tiffany's'.",
+        "year": "1924"
+      },
+      {
+        "name": "Monica Bellucci",
+        "description": "An Italian actress and fashion model who has starred in numerous films, including 'The Matrix Reloaded' and 'The Passion of the Christ'.",
+        "year": "1964"
+      }
+    ],
+    "events": [
+      {
+        "title": "First Commercial Hydroelectric Power Plant Opened",
+        "description": "Thomas Edison's Vulcan Street Plant, the world's first commercial hydroelectric power plant, began operation on the Fox River in Appleton, Wisconsin, marking a significant step in renewable energy.",
+        "year": "1882"
+      },
+      {
+        "title": "Wyoming Grants Women the Right to Vote",
+        "description": "The Wyoming state convention approved a constitution that included a provision granting women the right to vote, making it the first U.S. state to do so upon its admission to the Union the following year.",
+        "year": "1889"
+      },
+      {
+        "title": "Berlin Airlift Concludes",
+        "description": "The Berlin Airlift, a massive logistical operation by Western Allies to deliver supplies to West Berlin during the Soviet blockade, officially ended after 15 months of successful flights.",
+        "year": "1949"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Translation Day",
+      "teaser": "This day pays tribute to the work of language professionals who play a crucial role in connecting nations and fostering peace, understanding, and development."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Jerônimo",
+        "type": "Sacerdote e Doutor da Igreja",
+        "description": "Conhecido como o mais erudito dos Padres da Igreja Ocidental, São Jerônimo traduziu a maior parte da Bíblia para o latim, uma versão conhecida como Vulgata, que permanece influente até hoje. Ele é o santo padroeiro de arqueólogos, biblistas, bibliotecários, estudantes e tradutores."
+      },
+      {
+        "name": "São Gregório, o Iluminador",
+        "type": "Hieromártir, Bispo e Iluminador da Grande Armênia",
+        "description": "Nascido em 257, São Gregório foi fundamental na conversão da Armênia ao cristianismo e tornou-se seu primeiro chefe oficial da Igreja Apostólica Armênia. Ele suportou anos de prisão e tortura por sua fé antes de converter o Rei Tiridates III."
+      },
+      {
+        "name": "Santas Ripsime e Gaiana",
+        "type": "Virgens Mártires",
+        "description": "Ripsime e Gaiana foram duas das 35 virgens mártires que sofreram na Armênia no início do século IV. Ripsime foi notada por sua beleza e caráter firme, martirizada durante o reinado de Diocleciano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Tradução",
+        "description": "Este dia homenageia o trabalho de profissionais da linguagem que desempenham um papel crucial na conexão de nações e no fomento da paz, compreensão e desenvolvimento."
+      },
+      {
+        "name": "Dia da Camisa Laranja / Dia Nacional da Verdade e Reconciliação (Canadá)",
+        "description": "Comemorado anualmente no Canadá, este dia honra os Sobreviventes das Escolas Residenciais, suas famílias e comunidades, reconhecendo os impactos duradouros do sistema de Escolas Residenciais Canadense e promovendo a verdade e a reconciliação."
+      },
+      {
+        "name": "Dia da Independência do Botsuana",
+        "description": "Este feriado nacional marca o aniversário da declaração de independência do Botsuana do Reino Unido em 1966."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“Venda sua esperteza e compre perplexidade.”",
+      "author": "Rumi",
+      "context": "Jalal ad-Din Muhammad Rumi, o reverenciado poeta persa e místico sufista do século XIII, nasceu em 30 de setembro de 1207. Seus profundos ensinamentos espirituais e obras poéticas continuam a inspirar milhões em todo o mundo."
+    },
+    "motivationalQuote": {
+      "text": "Se você está passando pelo inferno, continue andando.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Rumi",
+        "description": "Um poeta persa do século XIII, estudioso islâmico e teólogo cujas obras, especialmente seu Masnavi, são amplamente lidas e reverenciadas.",
+        "year": "1207"
+      },
+      {
+        "name": "Truman Capote",
+        "description": "Um romancista, contista, roteirista e dramaturgo americano mais conhecido por seu romance de não-ficção 'A Sangue Frio' e a novela 'Bonequinha de Luxo'.",
+        "year": "1924"
+      },
+      {
+        "name": "Monica Bellucci",
+        "description": "Uma atriz e modelo italiana que estrelou vários filmes, incluindo 'Matrix Reloaded' e 'A Paixão de Cristo'.",
+        "year": "1964"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeira Usina Hidrelétrica Comercial Inaugurada",
+        "description": "A Usina Vulcan Street de Thomas Edison, a primeira usina hidrelétrica comercial do mundo, começou a operar no Rio Fox em Appleton, Wisconsin, marcando um passo significativo na energia renovável.",
+        "year": "1882"
+      },
+      {
+        "title": "Wyoming Concede às Mulheres o Direito ao Voto",
+        "description": "A convenção estadual de Wyoming aprovou uma constituição que incluía uma disposição concedendo às mulheres o direito ao voto, tornando-o o primeiro estado dos EUA a fazê-lo após sua admissão à União no ano seguinte.",
+        "year": "1889"
+      },
+      {
+        "title": "Ponte Aérea de Berlim Concluída",
+        "description": "A Ponte Aérea de Berlim, uma operação logística massiva dos Aliados Ocidentais para entregar suprimentos a Berlim Ocidental durante o bloqueio soviético, terminou oficialmente após 15 meses de voos bem-sucedidos.",
+        "year": "1949"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional da Tradução",
+      "teaser": "Este dia homenageia o trabalho de profissionais da linguagem que desempenham um papel crucial na conexão de nações e no fomento da paz, compreensão e desenvolvimento."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Jeroni",
+        "type": "Sacerdot i Doctor de l'Església",
+        "description": "Conegut com el més erudit dels Pares de l'Església Occidental, Sant Jeroni va traduir la major part de la Bíblia al llatí, una versió coneguda com la Vulgata, que continua sent influent avui dia. És el sant patró dels arqueòlegs, els biblistes, els bibliotecaris, els estudiants i els traductors."
+      },
+      {
+        "name": "Sant Gregori l'Il·luminador",
+        "type": "Hieromàrtir, Bisbe i Il·luminador de la Gran Armènia",
+        "description": "Nascut l'any 257, Sant Gregori va ser fonamental en la conversió d'Armènia al cristianisme i va esdevenir el seu primer cap oficial de l'Església Apostòlica Armènia. Va patir anys de presó i tortura per la seva fe abans de convertir el rei Tiridates III."
+      },
+      {
+        "name": "Santes Ripsime i Gaiana",
+        "type": "Verges Màrtirs",
+        "description": "Ripsime i Gaiana van ser dues de les 35 verges màrtirs que van patir a Armènia a principis del segle IV. Ripsime va destacar per la seva bellesa i caràcter ferm, martiritzada durant el regnat de Dioclecià."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la Traducció",
+        "description": "Aquest dia ret homenatge a la feina dels professionals de la llengua que tenen un paper crucial en la connexió de les nacions i en el foment de la pau, la comprensió i el desenvolupament."
+      },
+      {
+        "name": "Dia de la Camisa Taronja / Dia Nacional per la Veritat i la Reconciliació (Canadà)",
+        "description": "Commemorat anualment al Canadà, aquest dia honora els supervivents de les Escoles Residencials, les seves famílies i comunitats, reconeixent els impactes duradors del sistema d'Escoles Residencials canadenc i promovent la veritat i la reconciliació."
+      },
+      {
+        "name": "Dia de la Independència de Botswana",
+        "description": "Aquesta festa nacional marca l'aniversari de la declaració d'independència de Botswana del Regne Unit l'any 1966."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“Vén la teva intel·ligència i compra perplexitat.”",
+      "author": "Rumi",
+      "context": "Jalal ad-Din Muhammad Rumi, el venerat poeta persa i místic sufí del segle XIII, va néixer el 30 de setembre de 1207. Els seus profunds ensenyaments espirituals i obres poètiques continuen inspirant milions de persones arreu del món."
+    },
+    "motivationalQuote": {
+      "text": "Si estàs passant per l'infern, continua avançant.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Rumi",
+        "description": "Un poeta persa del segle XIII, erudit islàmic i teòleg les obres del qual, especialment el seu Masnavi, són àmpliament llegides i venerades.",
+        "year": "1207"
+      },
+      {
+        "name": "Truman Capote",
+        "description": "Novel·lista, escriptor de contes, guionista i dramaturg nord-americà conegut per la seva novel·la de crims reals 'A sang freda' i la novel·la curta 'Esmorzar amb diamants'.",
+        "year": "1924"
+      },
+      {
+        "name": "Monica Bellucci",
+        "description": "Actriu i model italiana que ha protagonitzat nombroses pel·lícules, incloent-hi 'Matrix Reloaded' i 'La Passió de Crist'.",
+        "year": "1964"
+      }
+    ],
+    "events": [
+      {
+        "title": "S'inaugura la Primera Central Hidroelèctrica Comercial",
+        "description": "La Central de Vulcan Street de Thomas Edison, la primera central hidroelèctrica comercial del món, va començar a funcionar al riu Fox a Appleton, Wisconsin, marcant un pas significatiu en l'energia renovable.",
+        "year": "1882"
+      },
+      {
+        "title": "Wyoming Concedeix a les Dones el Dret a Votar",
+        "description": "La convenció estatal de Wyoming va aprovar una constitució que incloïa una disposició que atorgava a les dones el dret a votar, convertint-se així en el primer estat dels EUA a fer-ho en el moment de la seva admissió a la Unió l'any següent.",
+        "year": "1889"
+      },
+      {
+        "title": "Finalitza el Pont Aeri de Berlín",
+        "description": "El Pont Aeri de Berlín, una operació logística massiva dels Aliats Occidentals per lliurar subministraments a Berlín Oest durant el bloqueig soviètic, va acabar oficialment després de 15 mesos de vols exitosos.",
+        "year": "1949"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de la Traducció",
+      "teaser": "Aquest dia ret homenatge a la feina dels professionals de la llengua que tenen un paper crucial en la connexió de les nacions i en el foment de la pau, la comprensió i el desenvolupament."
+    }
+  }
+}
