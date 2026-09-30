@@ -1,0 +1,343 @@
+{
+  "date": "2026-10-01",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Teresa de Lisieux",
+        "type": "Virgen, Monja Carmelita, Doctora de la Iglesia",
+        "description": "Conocida como \"La Pequeña Flor de Jesús\", desarrolló la \"Pequeña Vía\" de la infancia espiritual, enfatizando el amor profundo en los actos ordinarios. Su fiesta es observada por la Iglesia Católica."
+      },
+      {
+        "name": "Apóstol Ananías de los Setenta",
+        "type": "Obispo de Damasco",
+        "description": "Fue el primer obispo de Damasco y, por mandato del Señor, le devolvió la vista a Saulo (quien se convirtió en el Apóstol Pablo) y lo bautizó. Es conmemorado por la Iglesia Ortodoxa."
+      },
+      {
+        "name": "Venerable Romano el Melodista",
+        "type": "Diácono, Himnógrafo",
+        "description": "Un destacado escritor de himnos de la Iglesia Ortodoxa, compuso numerosos kontakia (sermones poéticos) y es considerado uno de los más grandes poetas litúrgicos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de las Personas Mayores",
+        "description": "Designado por las Naciones Unidas, este día destaca las contribuciones de las personas mayores y sensibiliza sobre los desafíos y oportunidades del envejecimiento."
+      },
+      {
+        "name": "Día Internacional del Café",
+        "description": "Una celebración global de la diversidad, calidad del café y de los millones de agricultores cuyo sustento depende de él, a menudo promoviendo el comercio justo."
+      },
+      {
+        "name": "Día Mundial del Vegetarianismo",
+        "description": "Este día promueve la alegría, la compasión y las posibilidades de mejora de la vida del vegetarianismo, dando inicio al Mes de Concientización Vegetariana."
+      },
+      {
+        "name": "Día Nacional de China",
+        "description": "Esta festividad celebra el establecimiento formal de la República Popular China el 1 de octubre de 1949."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nuestra búsqueda de los derechos humanos es parte de un esfuerzo amplio para usar nuestro gran poder y nuestra tremenda influencia al servicio de crear un mundo mejor, un mundo en el que los seres humanos puedan vivir en paz, en libertad y con sus necesidades básicas adecuadamente satisfechas.",
+      "author": "Jimmy Carter",
+      "context": "Jimmy Carter, el 39º presidente de los Estados Unidos y laureado con el Premio Nobel de la Paz, nació el 1 de octubre de 1924. Esta cita refleja su dedicación de por vida a los derechos humanos y la paz, que continuó mucho después de su presidencia."
+    },
+    "motivationalQuote": {
+      "text": "La única manera de hacer un gran trabajo es amar lo que haces.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Julie Andrews",
+        "description": "Una aclamada actriz, cantante y autora inglesa, famosa por sus papeles en musicales icónicos como \"Mary Poppins\" y \"Sonrisas y Lágrimas\".",
+        "year": "1935"
+      },
+      {
+        "name": "Jimmy Carter",
+        "description": "El 39º presidente de los Estados Unidos, conocido por su trabajo en favor de la paz y los derechos humanos, lo que le valió un Premio Nobel de la Paz después de su presidencia.",
+        "year": "1924"
+      },
+      {
+        "name": "Walter Matthau",
+        "description": "Un actor estadounidense reconocido por su distintiva voz y su sentido del humor, protagonizando películas como \"La extraña pareja\" y \"Dos viejos cascarrabias\".",
+        "year": "1920"
+      }
+    ],
+    "events": [
+      {
+        "title": "La NASA Inicia Operaciones",
+        "description": "La Administración Nacional de Aeronáutica y el Espacio (NASA) inició oficialmente sus operaciones, relevando a su predecesora, NACA, y marcando una nueva era de exploración espacial y esfuerzo científico para los Estados Unidos.",
+        "year": "1958"
+      },
+      {
+        "title": "Walt Disney World Abre sus Puertas",
+        "description": "Walt Disney World Resort, incluyendo el Magic Kingdom, abrió oficialmente sus puertas al público cerca de Orlando, Florida, convirtiéndose en un destino turístico global de primer nivel.",
+        "year": "1971"
+      },
+      {
+        "title": "Se Realiza la Primera Tomografía Computarizada (TC) Práctica",
+        "description": "La primera tomografía computarizada (TC) clínica práctica en un paciente se realizó con éxito en el Hospital Atkinson Morley de Londres, revolucionando el diagnóstico por imágenes médicas.",
+        "year": "1971"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de las Personas Mayores",
+      "teaser": "Designado por las Naciones Unidas, este día destaca las contribuciones de las personas mayores y sensibiliza sobre los desafíos y oportunidades del envejecimiento."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Thérèse of Lisieux",
+        "type": "Virgin, Carmelite Nun, Doctor of the Church",
+        "description": "Known as \"The Little Flower of Jesus,\" she developed the \"Little Way\" of spiritual childhood, emphasizing profound love in ordinary acts. Her feast day is observed by the Catholic Church."
+      },
+      {
+        "name": "Apostle Ananias of the Seventy",
+        "type": "Bishop of Damascus",
+        "description": "He was the first Bishop of Damascus and, at the Lord's command, restored sight to Saul (who became Apostle Paul) and baptized him. He is commemorated by the Orthodox Church."
+      },
+      {
+        "name": "Venerable Romanus the Melodist",
+        "type": "Deacon, Hymnographer",
+        "description": "A prominent hymn writer of the Orthodox Church, he composed numerous kontakia (poetic sermons) and is regarded as one of the greatest liturgical poets."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of Older Persons",
+        "description": "Designated by the United Nations, this day highlights the contributions of older persons and raises awareness about challenges and opportunities of aging."
+      },
+      {
+        "name": "International Coffee Day",
+        "description": "A global celebration of coffee's diversity, quality, and the millions of farmers whose livelihoods depend on it, often promoting fair trade."
+      },
+      {
+        "name": "World Vegetarian Day",
+        "description": "This day promotes the joy, compassion, and life-enhancing possibilities of vegetarianism, kicking off Vegetarian Awareness Month."
+      },
+      {
+        "name": "China National Day",
+        "description": "This holiday celebrates the formal establishment of the People's Republic of China on October 1, 1949."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Our pursuit of human rights is part of a broad effort to use our great power and our tremendous influence in the service of creating a better world, a world in which human beings can live in peace, in freedom, and with their basic needs adequately met.",
+      "author": "Jimmy Carter",
+      "context": "Jimmy Carter, the 39th U.S. President and a Nobel Peace Prize laureate, was born on October 1, 1924. This quote reflects his lifelong dedication to human rights and peace, which continued well beyond his presidency."
+    },
+    "motivationalQuote": {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Julie Andrews",
+        "description": "An acclaimed English actress, singer, and author, famous for her roles in iconic musicals like \"Mary Poppins\" and \"The Sound of Music.\"",
+        "year": "1935"
+      },
+      {
+        "name": "Jimmy Carter",
+        "description": "The 39th President of the United States, known for his work in peace and human rights, earning him a Nobel Peace Prize after his presidency.",
+        "year": "1924"
+      },
+      {
+        "name": "Walter Matthau",
+        "description": "An American actor recognized for his distinctive voice and comedic timing, starring in films such as \"The Odd Couple\" and \"Grumpy Old Men.\"",
+        "year": "1920"
+      }
+    ],
+    "events": [
+      {
+        "title": "NASA Begins Operations",
+        "description": "The National Aeronautics and Space Administration (NASA) officially began its operations, taking over from its predecessor, NACA, and marking a new era of space exploration and scientific endeavor for the United States.",
+        "year": "1958"
+      },
+      {
+        "title": "Walt Disney World Opens",
+        "description": "Walt Disney World Resort, including the Magic Kingdom, officially opened its doors to the public near Orlando, Florida, becoming a premier global tourist destination.",
+        "year": "1971"
+      },
+      {
+        "title": "First Practical CT Scan Performed",
+        "description": "The first practical clinical computed tomography (CT) scan on a patient was successfully performed at Atkinson Morley's Hospital in London, revolutionizing medical diagnostic imaging.",
+        "year": "1971"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Day of Older Persons",
+      "teaser": "Designated by the United Nations, this day highlights the contributions of older persons and raises awareness about challenges and opportunities of aging."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Teresinha de Lisieux",
+        "type": "Virgem, Freira Carmelita, Doutora da Igreja",
+        "description": "Conhecida como \"A Pequena Flor de Jesus\", ela desenvolveu o \"Pequeno Caminho\" da infância espiritual, enfatizando o amor profundo em atos ordinários. A sua festa é celebrada pela Igreja Católica."
+      },
+      {
+        "name": "Apóstolo Ananias dos Setenta",
+        "type": "Bispo de Damasco",
+        "description": "Foi o primeiro Bispo de Damasco e, por ordem do Senhor, restaurou a visão de Saulo (que se tornou o Apóstolo Paulo) e o batizou. É comemorado pela Igreja Ortodoxa."
+      },
+      {
+        "name": "Venerável Romano, o Melodista",
+        "type": "Diácono, Hinógrafo",
+        "description": "Um proeminente escritor de hinos da Igreja Ortodoxa, compôs numerosos kontakia (sermões poéticos) e é considerado um dos maiores poetas litúrgicos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional do Idoso",
+        "description": "Designado pelas Nações Unidas, este dia destaca as contribuições das pessoas idosas e sensibiliza para os desafios e oportunidades do envelhecimento."
+      },
+      {
+        "name": "Dia Internacional do Café",
+        "description": "Uma celebração global da diversidade, qualidade do café e dos milhões de agricultores cujo sustento depende dele, frequentemente promovendo o comércio justo."
+      },
+      {
+        "name": "Dia Mundial do Vegetarianismo",
+        "description": "Este dia promove a alegria, a compaixão e as possibilidades de melhoria da vida do vegetarianismo, dando início ao Mês de Conscientização Vegetariana."
+      },
+      {
+        "name": "Dia Nacional da China",
+        "description": "Este feriado celebra o estabelecimento formal da República Popular da China em 1 de outubro de 1949."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nossa busca pelos direitos humanos faz parte de um amplo esforço para usar nosso grande poder e nossa tremenda influência a serviço da criação de um mundo melhor, um mundo em que os seres humanos possam viver em paz, em liberdade e com suas necessidades básicas adequadamente atendidas.",
+      "author": "Jimmy Carter",
+      "context": "Jimmy Carter, o 39º Presidente dos EUA e laureado com o Prêmio Nobel da Paz, nasceu em 1º de outubro de 1924. Esta citação reflete sua dedicação ao longo da vida aos direitos humanos e à paz, que continuou muito além de sua presidência."
+    },
+    "motivationalQuote": {
+      "text": "A única maneira de fazer um ótimo trabalho é amar o que você faz.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Julie Andrews",
+        "description": "Uma aclamada atriz, cantora e autora inglesa, famosa por seus papéis em musicais icônicos como \"Mary Poppins\" e \"A Noviça Rebelde\".",
+        "year": "1935"
+      },
+      {
+        "name": "Jimmy Carter",
+        "description": "O 39º Presidente dos Estados Unidos, conhecido por seu trabalho pela paz e pelos direitos humanos, o que lhe rendeu um Prêmio Nobel da Paz após sua presidência.",
+        "year": "1924"
+      },
+      {
+        "name": "Walter Matthau",
+        "description": "Um ator americano reconhecido por sua voz distinta e seu timing cômico, estrelando filmes como \"O Estranho Casal\" e \"Dois Velhos Rabugentos\".",
+        "year": "1920"
+      }
+    ],
+    "events": [
+      {
+        "title": "NASA Inicia Operações",
+        "description": "A Administração Nacional de Aeronáutica e Espaço (NASA) iniciou oficialmente suas operações, assumindo o lugar de sua predecessora, NACA, e marcando uma nova era de exploração espacial e empreendimento científico para os Estados Unidos.",
+        "year": "1958"
+      },
+      {
+        "title": "Walt Disney World Abre",
+        "description": "O Walt Disney World Resort, incluindo o Magic Kingdom, abriu oficialmente suas portas ao público perto de Orlando, Flórida, tornando-se um destino turístico global de primeira linha.",
+        "year": "1971"
+      },
+      {
+        "title": "Primeira Tomografia Computadorizada (TC) Prática Realizada",
+        "description": "A primeira tomografia computadorizada (TC) clínica prática em um paciente foi realizada com sucesso no Hospital Atkinson Morley, em Londres, revolucionando a imagem diagnóstica médica.",
+        "year": "1971"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional do Idoso",
+      "teaser": "Designado pelas Nações Unidas, este dia destaca as contribuições das pessoas idosas e sensibiliza para os desafios e oportunidades do envelhecimento."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Teresa de Lisieux",
+        "type": "Verge, Monja Carmelita, Doctora de l'Església",
+        "description": "Coneguda com \"La Petita Flor de Jesús\", va desenvolupar el \"Camí de la Infància Espiritual\", posant l'accent en l'amor profund en els actes ordinaris. La seva festivitat és observada per l'Església Catòlica."
+      },
+      {
+        "name": "Apòstol Ananies dels Setanta",
+        "type": "Bisbe de Damasc",
+        "description": "Va ser el primer Bisbe de Damasc i, per ordre del Senyor, va retornar la vista a Saül (que es va convertir en l'Apòstol Pau) i el va batejar. És commemorat per l'Església Ortodoxa."
+      },
+      {
+        "name": "Venerable Romà el Melode",
+        "type": "Diaca, Himnògraf",
+        "description": "Un destacat escriptor d'himnes de l'Església Ortodoxa, va compondre nombrosos kontakia (sermons poètics) i és considerat un dels més grans poetes litúrgics."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de les Persones Grans",
+        "description": "Designat per les Nacions Unides, aquest dia destaca les contribucions de les persones grans i augmenta la consciència sobre els reptes i les oportunitats de l'envelliment."
+      },
+      {
+        "name": "Dia Internacional del Cafè",
+        "description": "Una celebració global de la diversitat i qualitat del cafè, i dels milions de pagesos que en depenen per a la seva subsistència, sovint promovent el comerç just."
+      },
+      {
+        "name": "Dia Mundial del Vegetarianisme",
+        "description": "Aquest dia promou l'alegria, la compassió i les possibilitats que milloren la vida del vegetarianisme, donant inici al Mes de Conscienciació Vegetariana."
+      },
+      {
+        "name": "Dia Nacional de la Xina",
+        "description": "Aquesta festivitat celebra l'establiment formal de la República Popular de la Xina l'1 d'octubre de 1949."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La nostra recerca dels drets humans forma part d'un esforç ampli per utilitzar el nostre gran poder i la nostra tremenda influència al servei de crear un món millor, un món en el qual els éssers humans puguin viure en pau, en llibertat i amb les seves necessitats bàsiques adequadament cobertes.",
+      "author": "Jimmy Carter",
+      "context": "Jimmy Carter, el 39è president dels EUA i laureat amb el Premi Nobel de la Pau, va néixer l'1 d'octubre de 1924. Aquesta cita reflecteix la seva dedicació de tota la vida als drets humans i la pau, que va continuar molt més enllà de la seva presidència."
+    },
+    "motivationalQuote": {
+      "text": "L'única manera de fer una gran feina és estimar allò que fas.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Julie Andrews",
+        "description": "Una aclamada actriu, cantant i autora anglesa, famosa pels seus papers en musicals icònics com \"Mary Poppins\" i \"Somriures i llàgrimes\" (The Sound of Music).",
+        "year": "1935"
+      },
+      {
+        "name": "Jimmy Carter",
+        "description": "El 39è president dels Estats Units, conegut pel seu treball en la pau i els drets humans, la qual cosa li va valer un Premi Nobel de la Pau després de la seva presidència.",
+        "year": "1924"
+      },
+      {
+        "name": "Walter Matthau",
+        "description": "Un actor americà reconegut per la seva veu distintiva i el seu sentit còmic, protagonista en pel·lícules com \"La parella estranya\" (The Odd Couple) i \"Els vells rondinaires\" (Grumpy Old Men).",
+        "year": "1920"
+      }
+    ],
+    "events": [
+      {
+        "title": "La NASA Comença les Operacions",
+        "description": "La National Aeronautics and Space Administration (NASA) va començar oficialment les seves operacions, prenent el relleu de la seva predecessora, NACA, i marcant una nova era d'exploració espacial i esforç científic per als Estats Units.",
+        "year": "1958"
+      },
+      {
+        "title": "S'Obre Walt Disney World",
+        "description": "Walt Disney World Resort, incloent-hi el Magic Kingdom, va obrir oficialment les seves portes al públic a prop d'Orlando, Florida, convertint-se en una destinació turística global de primer nivell.",
+        "year": "1971"
+      },
+      {
+        "title": "Es Realitza la Primera Tomografia Computada (TC) Pràctica",
+        "description": "La primera tomografia computada (TC) clínica pràctica en un pacient es va realitzar amb èxit a l'Hospital Atkinson Morley de Londres, revolucionant la imatge de diagnòstic mèdic.",
+        "year": "1971"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de les Persones Grans",
+      "teaser": "Designat per les Nacions Unides, aquest dia destaca les contribucions de les persones grans i augmenta la consciència sobre els reptes i les oportunitats de l'envelliment."
+    }
+  }
+}
