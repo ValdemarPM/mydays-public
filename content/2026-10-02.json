@@ -1,0 +1,327 @@
+{
+  "date": "2026-10-02",
+  "es": {
+    "saints": [
+      {
+        "name": "Santos Ángeles Custodios",
+        "type": "Conmemoración",
+        "description": "Una festividad católica dedicada a la creencia de que a cada persona se le asigna un ángel de la guarda para guiarla y protegerla."
+      },
+      {
+        "name": "San Leodegario de Autun",
+        "type": "Obispo, Mártir",
+        "description": "Un obispo y mártir franco del siglo VII, conocido por abogar por las reformas de la Iglesia y oponerse al regente Ebroín."
+      },
+      {
+        "name": "Hieromártir Cipriano y Virgen Mártir Justina",
+        "type": "Mártires",
+        "description": "Mártires cristianos primitivos de Antioquía que sufrieron durante la persecución de Diocleciano en el año 304 d.C."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la No Violencia",
+        "description": "Se observa a nivel mundial para difundir el mensaje de la no violencia, conmemorando el cumpleaños de Mahatma Gandhi."
+      },
+      {
+        "name": "Día Mundial de la Sonrisa",
+        "description": "Celebrado el primer viernes de octubre, este día fomenta los actos de bondad y las sonrisas en todo el mundo."
+      },
+      {
+        "name": "Día de la Independencia de Guinea",
+        "description": "Conmemora la declaración de independencia de Guinea de Francia en 1958, convirtiéndola en la primera colonia francófona de África en lograrlo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La felicidad es cuando lo que piensas, lo que dices y lo que haces están en armonía.",
+      "author": "Mahatma Gandhi",
+      "context": "Mahatma Gandhi, el líder del movimiento de independencia de la India y pionero de la desobediencia civil no violenta, nació el 2 de octubre de 1869. El Día Internacional de la No Violencia se observa en esta fecha en su honor."
+    },
+    "motivationalQuote": {
+      "text": "No tengo miedo a las tormentas, porque estoy aprendiendo a navegar mi barco.",
+      "author": "Louisa May Alcott"
+    },
+    "births": [
+      {
+        "name": "Mahatma Gandhi",
+        "description": "Un abogado indio, nacionalista anticolonial y activista por los derechos civiles que se convirtió en el líder del movimiento de independencia de la India contra el dominio británico.",
+        "year": "1869"
+      },
+      {
+        "name": "Groucho Marx",
+        "description": "Un comediante, actor y escritor estadounidense, famoso como uno de los Hermanos Marx, conocido por su ingenio rápido y su apariencia distintiva.",
+        "year": "1890"
+      },
+      {
+        "name": "Sting (Gordon Sumner)",
+        "description": "Un músico, cantante, compositor y actor inglés, más conocido como el vocalista, bajista y co-compositor de la banda de rock The Police.",
+        "year": "1951"
+      }
+    ],
+    "events": [
+      {
+        "title": "Debut de la Tira Cómica Peanuts",
+        "description": "La icónica tira cómica \"Peanuts\" de Charles M. Schulz, con personajes como Charlie Brown y Snoopy, se publicó por primera vez en siete periódicos.",
+        "year": "1950"
+      },
+      {
+        "title": "Guinea Obtiene la Independencia",
+        "description": "Guinea declaró su independencia de Francia, convirtiéndose en la primera colonia francesa de África Occidental en hacerlo.",
+        "year": "1958"
+      },
+      {
+        "title": "Thurgood Marshall Jura su Cargo",
+        "description": "Thurgood Marshall se convirtió en el primer juez afroamericano de la Corte Suprema de los Estados Unidos, un logro histórico en los derechos civiles.",
+        "year": "1967"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de la No Violencia",
+      "teaser": "Se observa a nivel mundial para difundir el mensaje de la no violencia, conmemorando el cumpleaños de Mahatma Gandhi."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Holy Guardian Angels",
+        "type": "Commemoration",
+        "description": "A Catholic feast day dedicated to the belief that each person is assigned a guardian angel to guide and protect them."
+      },
+      {
+        "name": "St. Leodegarius of Autun",
+        "type": "Bishop, Martyr",
+        "description": "A 7th-century Frankish bishop and martyr known for advocating Church reforms and opposing the regent Ebroin."
+      },
+      {
+        "name": "Hieromartyr Cyprian and Virgin Martyr Justina",
+        "type": "Martyrs",
+        "description": "Early Christian martyrs from Antioch who suffered during the Diocletianic Persecution in 304 AD."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of Non-Violence",
+        "description": "Observed globally to disseminate the message of non-violence, commemorating Mahatma Gandhi's birthday."
+      },
+      {
+        "name": "World Smile Day",
+        "description": "Celebrated on the first Friday of October, this day encourages acts of kindness and smiles around the world."
+      },
+      {
+        "name": "Guinea Independence Day",
+        "description": "Commemorates Guinea's declaration of independence from France in 1958, making it the first French-speaking colony in Africa to do so."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Happiness is when what you think, what you say, and what you do are in harmony.",
+      "author": "Mahatma Gandhi",
+      "context": "Mahatma Gandhi, the leader of India's independence movement and a pioneer of nonviolent civil disobedience, was born on October 2, 1869. The International Day of Non-Violence is observed on this date in his honor."
+    },
+    "motivationalQuote": {
+      "text": "I am not afraid of storms, for I am learning how to sail my ship.",
+      "author": "Louisa May Alcott"
+    },
+    "births": [
+      {
+        "name": "Mahatma Gandhi",
+        "description": "An Indian lawyer, anti-colonial nationalist, and civil rights activist who became the leader of the Indian independence movement against British rule.",
+        "year": "1869"
+      },
+      {
+        "name": "Groucho Marx",
+        "description": "An American comedian, actor, and writer, famous as one of the Marx Brothers, known for his quick wit and distinctive appearance.",
+        "year": "1890"
+      },
+      {
+        "name": "Sting (Gordon Sumner)",
+        "description": "An English musician, singer, songwriter, and actor, best known as the frontman, bassist, and co-songwriter of the rock band The Police.",
+        "year": "1951"
+      }
+    ],
+    "events": [
+      {
+        "title": "Peanuts Comic Strip Debuts",
+        "description": "Charles M. Schulz's iconic \"Peanuts\" comic strip, featuring characters like Charlie Brown and Snoopy, was first published in seven newspapers.",
+        "year": "1950"
+      },
+      {
+        "title": "Guinea Gains Independence",
+        "description": "Guinea declared its independence from France, becoming the first French colony in West Africa to do so.",
+        "year": "1958"
+      },
+      {
+        "title": "Thurgood Marshall Sworn In",
+        "description": "Thurgood Marshall became the first African-American Justice of the United States Supreme Court, a landmark achievement in civil rights.",
+        "year": "1967"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Day of Non-Violence",
+      "teaser": "Observed globally to disseminate the message of non-violence, commemorating Mahatma Gandhi's birthday."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santos Anjos da Guarda",
+        "type": "Comemoração",
+        "description": "Um dia de festa católica dedicado à crença de que cada pessoa tem um anjo da guarda atribuído para a guiar e proteger."
+      },
+      {
+        "name": "São Leodegário de Autun",
+        "type": "Bispo, Mártir",
+        "description": "Um bispo e mártir franco do século VII, conhecido por defender reformas da Igreja e opor-se ao regente Ebroin."
+      },
+      {
+        "name": "São Hieromártir Cipriano e Santa Virgem Mártir Justina",
+        "type": "Mártires",
+        "description": "Mártires cristãos primitivos de Antioquia que sofreram durante a Perseguição de Diocleciano em 304 d.C."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Não-Violência",
+        "description": "Observado globalmente para disseminar a mensagem da não-violência, comemorando o aniversário de Mahatma Gandhi."
+      },
+      {
+        "name": "Dia Mundial do Sorriso",
+        "description": "Celebrado na primeira sexta-feira de outubro, este dia incentiva atos de bondade e sorrisos em todo o mundo."
+      },
+      {
+        "name": "Dia da Independência da Guiné",
+        "description": "Comemora a declaração de independência da Guiné da França em 1958, tornando-a a primeira colônia francófona na África a fazê-lo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Felicidade é quando o que você pensa, o que você diz e o que você faz estão em harmonia.",
+      "author": "Mahatma Gandhi",
+      "context": "Mahatma Gandhi, o líder do movimento de independência da Índia e pioneiro da desobediência civil não violenta, nasceu em 2 de outubro de 1869. O Dia Internacional da Não-Violência é observado nesta data em sua homenagem."
+    },
+    "motivationalQuote": {
+      "text": "Não tenho medo de tempestades, pois estou aprendendo a navegar meu navio.",
+      "author": "Louisa May Alcott"
+    },
+    "births": [
+      {
+        "name": "Mahatma Gandhi",
+        "description": "Um advogado indiano, nacionalista anticolonial e ativista dos direitos civis que se tornou o líder do movimento de independência da Índia contra o domínio britânico.",
+        "year": "1869"
+      },
+      {
+        "name": "Groucho Marx",
+        "description": "Um comediante, ator e escritor americano, famoso como um dos Irmãos Marx, conhecido por seu raciocínio rápido e aparência distinta.",
+        "year": "1890"
+      },
+      {
+        "name": "Sting (Gordon Sumner)",
+        "description": "Um músico, cantor, compositor e ator inglês, mais conhecido como vocalista, baixista e co-compositor da banda de rock The Police.",
+        "year": "1951"
+      }
+    ],
+    "events": [
+      {
+        "title": "Estreia da Tira Cômica Peanuts",
+        "description": "A icônica tira cômica \"Peanuts\" de Charles M. Schulz, com personagens como Charlie Brown e Snoopy, foi publicada pela primeira vez em sete jornais.",
+        "year": "1950"
+      },
+      {
+        "title": "Guiné Conquista a Independência",
+        "description": "A Guiné declarou sua independência da França, tornando-se a primeira colônia francesa na África Ocidental a fazê-lo.",
+        "year": "1958"
+      },
+      {
+        "title": "Thurgood Marshall Toma Posse",
+        "description": "Thurgood Marshall tornou-se o primeiro juiz afro-americano da Suprema Corte dos Estados Unidos, uma conquista marcante nos direitos civis.",
+        "year": "1967"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional da Não-Violência",
+      "teaser": "Observado globalmente para disseminar a mensagem da não-violência, comemorando o aniversário de Mahatma Gandhi."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sants Àngels Custodis",
+        "type": "Commemoració",
+        "description": "Una festivitat catòlica dedicada a la creença que a cada persona se li assigna un àngel custodi per guiar-la i protegir-la."
+      },
+      {
+        "name": "Sant Leodegari d'Autun",
+        "type": "Bisbe, Màrtir",
+        "description": "Un bisbe i màrtir franc del segle VII conegut per defensar les reformes de l'Església i oposar-se al regent Ebroí."
+      },
+      {
+        "name": "Hieromàrtir Cebrià i Verge Màrtir Justina",
+        "type": "Màrtirs",
+        "description": "Primers màrtirs cristians d'Antioquia que van patir durant la persecució de Dioclecià l'any 304 dC."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la No-Violència",
+        "description": "Observat globalment per difondre el missatge de la no-violència, commemorant l'aniversari de Mahatma Gandhi."
+      },
+      {
+        "name": "Dia Mundial del Somriure",
+        "description": "Celebrat el primer divendres d'octubre, aquest dia fomenta els actes de bondat i els somriures arreu del món."
+      },
+      {
+        "name": "Dia de la Independència de Guinea",
+        "description": "Commemora la declaració d'independència de Guinea de França el 1958, convertint-se en la primera colònia de parla francesa a l'Àfrica a fer-ho."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La felicitat és quan el que penses, el que dius i el que fas estan en harmonia.",
+      "author": "Mahatma Gandhi",
+      "context": "Mahatma Gandhi, el líder del moviment d'independència de l'Índia i pioner de la desobediència civil no-violenta, va néixer el 2 d'octubre de 1869. El Dia Internacional de la No-Violència se celebra en aquesta data en el seu honor."
+    },
+    "motivationalQuote": {
+      "text": "No temo les tempestes, ja que estic aprenent a navegar el meu vaixell.",
+      "author": "Louisa May Alcott"
+    },
+    "births": [
+      {
+        "name": "Mahatma Gandhi",
+        "description": "Advocat indi, nacionalista anticolonial i activista pels drets civils que es va convertir en el líder del moviment d'independència de l'Índia contra el domini britànic.",
+        "year": "1869"
+      },
+      {
+        "name": "Groucho Marx",
+        "description": "Comediant, actor i escriptor nord-americà, famós com un dels Germans Marx, conegut pel seu enginy ràpid i la seva aparença distintiva.",
+        "year": "1890"
+      },
+      {
+        "name": "Sting (Gordon Sumner)",
+        "description": "Músic, cantant, compositor i actor anglès, més conegut com a líder, baixista i co-compositor de la banda de rock The Police.",
+        "year": "1951"
+      }
+    ],
+    "events": [
+      {
+        "title": "Debuta la tira còmica Peanuts",
+        "description": "La icònica tira còmica \"Peanuts\" de Charles M. Schulz, amb personatges com Charlie Brown i Snoopy, va ser publicada per primera vegada en set diaris.",
+        "year": "1950"
+      },
+      {
+        "title": "Guinea obté la independència",
+        "description": "Guinea va declarar la seva independència de França, convertint-se en la primera colònia francesa de l'Àfrica Occidental a fer-ho.",
+        "year": "1958"
+      },
+      {
+        "title": "Thurgood Marshall jura el càrrec",
+        "description": "Thurgood Marshall es va convertir en el primer jutge afroamericà del Tribunal Suprem dels Estats Units, un èxit històric en els drets civils.",
+        "year": "1967"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de la No-Violència",
+      "teaser": "Observat globalment per difondre el missatge de la no-violència, commemorant l'aniversari de Mahatma Gandhi."
+    }
+  }
+}
