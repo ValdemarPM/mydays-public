@@ -1,0 +1,323 @@
+{
+  "date": "2026-10-03",
+  "es": {
+    "saints": [
+      {
+        "name": "San Dionisio Areopagita",
+        "type": "Hieromártir, Obispo",
+        "description": "Convertido por San Pablo, San Dionisio se convirtió en el primer Obispo de Atenas y es considerado el santo patrón de los jueces. Presenció un eclipse solar en el momento de la crucifixión de Cristo y fue martirizado por su fe."
+      },
+      {
+        "name": "Santa Madre Teodora Guérin",
+        "type": "Religiosa, Fundadora",
+        "description": "Nacida Anne-Thérèse Guérin, fue una monja francesa que fundó las Hermanas de la Providencia de Saint Mary-of-the-Woods, estableciendo la primera universidad católica de artes liberales para mujeres en los Estados Unidos, en Indiana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Unidad Alemana",
+        "description": "Este día festivo nacional conmemora la reunificación de Alemania Oriental y Occidental en 1990, simbolizando la paz y la unidad después de décadas de división."
+      },
+      {
+        "name": "Día de la Independencia de Irak",
+        "description": "Este día marca la independencia de Irak del Mandato Británico en 1932, convirtiéndolo en el primer estado árabe en obtener la independencia en la era moderna."
+      },
+      {
+        "name": "Día Nacional del Novio",
+        "description": "Una celebración no oficial en EE. UU. dedicada a apreciar a los novios y sus contribuciones a las relaciones."
+      },
+      {
+        "name": "Día de Chicas Pesadas",
+        "description": "Un día cultural lúdico, popularizado por la película 'Chicas Pesadas', donde los fans hacen referencia a una frase específica de la película."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Comete tus errores, arriesga, haz el ridículo, pero sigue adelante. No te paralices.",
+      "author": "Thomas Wolfe",
+      "context": "Esta inspiradora cita proviene del novelista estadounidense Thomas Wolfe, quien nació el 3 de octubre de 1900."
+    },
+    "motivationalQuote": {
+      "text": "No he fracasado. Solo he encontrado 10.000 maneras que no funcionan.",
+      "author": "Thomas A. Edison"
+    },
+    "births": [
+      {
+        "name": "Thomas Wolfe",
+        "description": "Un novelista estadounidense conocido por su estilo de escritura lírico y autobiográfico, con obras como 'El ángel que nos mira'.",
+        "year": "1900"
+      },
+      {
+        "name": "Gwen Stefani",
+        "description": "Una cantante, compositora y diseñadora de moda estadounidense, famosa como vocalista principal de la banda No Doubt y por su carrera en solitario.",
+        "year": "1969"
+      },
+      {
+        "name": "Tommy Lee",
+        "description": "Un músico estadounidense y miembro fundador, baterista, de la banda de heavy metal Mötley Crüe.",
+        "year": "1962"
+      }
+    ],
+    "events": [
+      {
+        "title": "Lincoln Proclama el Día de Acción de Gracias como Fiesta Nacional",
+        "description": "Durante la Guerra Civil, el presidente Abraham Lincoln declaró el último jueves de noviembre como día nacional de Acción de Gracias, con el objetivo de fomentar la unidad y la gratitud.",
+        "year": "1863"
+      },
+      {
+        "title": "Irak Obtiene la Independencia",
+        "description": "Irak logró la independencia total del Reino Unido, poniendo fin al Mandato Británico y marcando un paso significativo en la soberanía de la nación.",
+        "year": "1932"
+      },
+      {
+        "title": "Reunificación Alemana",
+        "description": "Alemania Oriental y Occidental se reunificaron oficialmente, concluyendo décadas de división y simbolizando un logro monumental en la paz y la unidad nacional.",
+        "year": "1990"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día de la Unidad Alemana",
+      "teaser": "Este día festivo nacional conmemora la reunificación de Alemania Oriental y Occidental en 1990, simbolizando la paz y la unidad después de décadas de división."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Dionysius the Areopagite",
+        "type": "Hieromartyr, Bishop",
+        "description": "A convert of St. Paul, St. Dionysius became the first Bishop of Athens and is considered the patron saint of judges. He witnessed a solar eclipse at the moment of Christ's crucifixion and was martyred for his faith."
+      },
+      {
+        "name": "St. Mother Théodore Guérin",
+        "type": "Religious Sister, Foundress",
+        "description": "Born Anne-Thérèse Guérin, she was a French nun who founded the Sisters of Providence of Saint Mary-of-the-Woods, establishing the first Catholic women's liberal-arts college in the United States in Indiana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "German Unity Day",
+        "description": "This national holiday commemorates the reunification of East and West Germany in 1990, symbolizing peace and unity after decades of division."
+      },
+      {
+        "name": "Iraq Independence Day",
+        "description": "This day marks Iraq's independence from the British Mandate in 1932, making it the first Arab state to gain independence in the modern era."
+      },
+      {
+        "name": "National Boyfriend Day",
+        "description": "An unofficial observance in the U.S. dedicated to appreciating boyfriends and their contributions to relationships."
+      },
+      {
+        "name": "Mean Girls Day",
+        "description": "A playful cultural day, popularized by the movie 'Mean Girls,' where fans reference a specific line from the film."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Make your mistakes, take your chances, look silly, but keep on going. Don't freeze up.",
+      "author": "Thomas Wolfe",
+      "context": "This inspiring quote comes from American novelist Thomas Wolfe, who was born on October 3, 1900."
+    },
+    "motivationalQuote": {
+      "text": "I have not failed. I've just found 10,000 ways that won't work.",
+      "author": "Thomas A. Edison"
+    },
+    "births": [
+      {
+        "name": "Thomas Wolfe",
+        "description": "An American novelist known for his lyrical and autobiographical writing style, with works like 'Look Homeward, Angel.'",
+        "year": "1900"
+      },
+      {
+        "name": "Gwen Stefani",
+        "description": "An American singer, songwriter, and fashion designer, famous as the lead vocalist of the band No Doubt and for her solo career.",
+        "year": "1969"
+      },
+      {
+        "name": "Tommy Lee",
+        "description": "An American musician and founding member, drummer, of the heavy metal band Mötley Crüe.",
+        "year": "1962"
+      }
+    ],
+    "events": [
+      {
+        "title": "Lincoln Proclaims Thanksgiving a National Holiday",
+        "description": "During the Civil War, President Abraham Lincoln declared the last Thursday in November as a national day of Thanksgiving, aiming to foster unity and gratitude.",
+        "year": "1863"
+      },
+      {
+        "title": "Iraq Gains Independence",
+        "description": "Iraq achieved full independence from the United Kingdom, ending the British Mandate and marking a significant step in the nation's sovereignty.",
+        "year": "1932"
+      },
+      {
+        "title": "German Reunification",
+        "description": "East and West Germany were officially reunited, concluding decades of division and symbolizing a monumental achievement in peace and national unity.",
+        "year": "1990"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is German Unity Day",
+      "teaser": "This national holiday commemorates the reunification of East and West Germany in 1990, symbolizing peace and unity after decades of division."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Dionísio Areopagita",
+        "type": "Hieromártir, Bispo",
+        "description": "Convertido por São Paulo, São Dionísio tornou-se o primeiro Bispo de Atenas e é considerado o santo padroeiro dos juízes. Ele testemunhou um eclipse solar no momento da crucificação de Cristo e foi martirizado por sua fé."
+      },
+      {
+        "name": "Santa Madre Teodora Guérin",
+        "type": "Religiosa, Fundadora",
+        "description": "Nascida Anne-Thérèse Guérin, foi uma freira francesa que fundou as Irmãs da Providência de Saint Mary-of-the-Woods, estabelecendo a primeira faculdade católica de artes liberais para mulheres nos Estados Unidos, em Indiana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Unidade Alemã",
+        "description": "Este feriado nacional comemora a reunificação da Alemanha Oriental e Ocidental em 1990, simbolizando a paz e a unidade após décadas de divisão."
+      },
+      {
+        "name": "Dia da Independência do Iraque",
+        "description": "Este dia marca a independência do Iraque do Mandato Britânico em 1932, tornando-o o primeiro estado árabe a obter independência na era moderna."
+      },
+      {
+        "name": "Dia Nacional do Namorado",
+        "description": "Uma celebração não oficial nos EUA dedicada a apreciar os namorados e suas contribuições para os relacionamentos."
+      },
+      {
+        "name": "Dia de Meninas Malvadas",
+        "description": "Um dia cultural divertido, popularizado pelo filme 'Meninas Malvadas', onde os fãs fazem referência a uma frase específica do filme."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Cometa seus erros, arrisque-se, pague mico, mas continue em frente. Não congele.",
+      "author": "Thomas Wolfe",
+      "context": "Esta citação inspiradora vem do romancista americano Thomas Wolfe, que nasceu em 3 de outubro de 1900."
+    },
+    "motivationalQuote": {
+      "text": "Eu não falhei. Apenas encontrei 10.000 maneiras que não funcionam.",
+      "author": "Thomas A. Edison"
+    },
+    "births": [
+      {
+        "name": "Thomas Wolfe",
+        "description": "Um romancista americano conhecido por seu estilo de escrita lírico e autobiográfico, com obras como 'O Anjo Que Nos Olha'.",
+        "year": "1900"
+      },
+      {
+        "name": "Gwen Stefani",
+        "description": "Uma cantora, compositora e estilista americana, famosa como vocalista principal da banda No Doubt e por sua carreira solo.",
+        "year": "1969"
+      },
+      {
+        "name": "Tommy Lee",
+        "description": "Um músico americano e membro fundador, baterista, da banda de heavy metal Mötley Crüe.",
+        "year": "1962"
+      }
+    ],
+    "events": [
+      {
+        "title": "Lincoln Proclama o Dia de Ação de Graças como Feriado Nacional",
+        "description": "Durante a Guerra Civil, o Presidente Abraham Lincoln declarou a última quinta-feira de novembro como um dia nacional de Ação de Graças, visando fomentar a unidade e a gratidão.",
+        "year": "1863"
+      },
+      {
+        "title": "Iraque Conquista a Independência",
+        "description": "O Iraque alcançou a independência total do Reino Unido, encerrando o Mandato Britânico e marcando um passo significativo na soberania da nação.",
+        "year": "1932"
+      },
+      {
+        "title": "Reunificação Alemã",
+        "description": "A Alemanha Oriental e Ocidental foram oficialmente reunificadas, concluindo décadas de divisão e simbolizando uma conquista monumental na paz e unidade nacional.",
+        "year": "1990"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia da Unidade Alemã",
+      "teaser": "Este feriado nacional comemora a reunificação da Alemanha Oriental e Ocidental em 1990, simbolizando a paz e a unidade após décadas de divisão."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Dionís l'Areopagita",
+        "type": "Hieromàrtir, Bisbe",
+        "description": "Convertit per Sant Pau, Sant Dionís es va convertir en el primer Bisbe d'Atenes i és considerat el patró dels jutges. Va presenciar un eclipsi solar en el moment de la crucifixió de Crist i va ser martiritzat per la seva fe."
+      },
+      {
+        "name": "Santa Mare Teodora Guérin",
+        "type": "Germana Religiosa, Fundadora",
+        "description": "Nascuda Anne-Thérèse Guérin, va ser una monja francesa que va fundar les Germanes de la Providència de Saint Mary-of-the-Woods, establint la primera universitat catòlica d'arts liberals per a dones als Estats Units, a Indiana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Unitat Alemanya",
+        "description": "Aquesta festa nacional commemora la reunificació d'Alemanya Oriental i Occidental el 1990, simbolitzant la pau i la unitat després de dècades de divisió."
+      },
+      {
+        "name": "Dia de la Independència de l'Iraq",
+        "description": "Aquest dia commemora la independència de l'Iraq del Mandat Britànic el 1932, convertint-lo en el primer estat àrab a obtenir la independència en l'era moderna."
+      },
+      {
+        "name": "Dia Nacional del Nuvi",
+        "description": "Una observança no oficial als EUA dedicada a apreciar els nuvis i les seves contribucions a les relacions."
+      },
+      {
+        "name": "Mean Girls Day",
+        "description": "Un dia cultural lúdic, popularitzat per la pel·lícula 'Mean Girls', on els fans fan referència a una frase específica del film."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Comet els teus errors, aprofita les teves oportunitats, fes el ridícul, però segueix endavant. No et quedis paralitzat.",
+      "author": "Thomas Wolfe",
+      "context": "Aquesta inspiradora cita prové del novel·lista americà Thomas Wolfe, que va néixer el 3 d'octubre de 1900."
+    },
+    "motivationalQuote": {
+      "text": "No he fallat. Simplement he trobat 10.000 maneres que no funcionen.",
+      "author": "Thomas A. Edison"
+    },
+    "births": [
+      {
+        "name": "Thomas Wolfe",
+        "description": "Un novel·lista americà conegut pel seu estil d'escriptura líric i autobiogràfic, amb obres com 'Look Homeward, Angel'.",
+        "year": "1900"
+      },
+      {
+        "name": "Gwen Stefani",
+        "description": "Una cantant, compositora i dissenyadora de moda americana, famosa com a vocalista principal de la banda No Doubt i per la seva carrera en solitari.",
+        "year": "1969"
+      },
+      {
+        "name": "Tommy Lee",
+        "description": "Un músic americà i membre fundador, bateria, de la banda de heavy metal Mötley Crüe.",
+        "year": "1962"
+      }
+    ],
+    "events": [
+      {
+        "title": "Lincoln Proclama el Dia d'Acció de Gràcies com a Festa Nacional",
+        "description": "Durant la Guerra Civil, el president Abraham Lincoln va declarar l'últim dijous de novembre com a dia nacional d'Acció de Gràcies, amb l'objectiu de fomentar la unitat i la gratitud.",
+        "year": "1863"
+      },
+      {
+        "title": "L'Iraq Aconsegueix la Independència",
+        "description": "L'Iraq va aconseguir la plena independència del Regne Unit, posant fi al Mandat Britànic i marcant un pas significatiu en la sobirania de la nació.",
+        "year": "1932"
+      },
+      {
+        "title": "Reunificació Alemanya",
+        "description": "Alemanya Oriental i Occidental es van reunificar oficialment, concloent dècades de divisió i simbolitzant un èxit monumental en la pau i la unitat nacional.",
+        "year": "1990"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia de la Unitat Alemanya",
+      "teaser": "Aquesta festa nacional commemora la reunificació d'Alemanya Oriental i Occidental el 1990, simbolitzant la pau i la unitat després de dècades de divisió."
+    }
+  }
+}
