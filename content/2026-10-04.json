@@ -1,0 +1,327 @@
+{
+  "date": "2026-10-04",
+  "es": {
+    "saints": [
+      {
+        "name": "San Francisco de Asís",
+        "type": "Fraile, Fundador de la Orden Franciscana",
+        "description": "Un querido santo católico, Francisco renunció a la riqueza de su familia para vivir una vida de pobreza, predicando el Evangelio y mostrando un profundo amor y respeto por toda la creación, lo que lo convierte en el santo patrón de los animales y el medio ambiente."
+      },
+      {
+        "name": "Hieromártir Hieroteo, Obispo de Atenas",
+        "type": "Obispo",
+        "description": "Conmemorado en la Iglesia Ortodoxa, fue el primer Obispo de Atenas y un santo cristiano primitivo."
+      },
+      {
+        "name": "San Amón de Egipto",
+        "type": "Monje del desierto, Recluso",
+        "description": "Un monje del desierto temprano e influyente, Amón vivió en el Monte Nitria, atrayendo a miles de estudiantes espirituales y conocido por su extraordinaria ascesis."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de los Animales",
+        "description": "Un día internacional centrado en mejorar los estándares de bienestar de los animales en todo el mundo."
+      },
+      {
+        "name": "Día de San Francisco de Asís / Bendición de los Animales",
+        "description": "Celebrado por los católicos, este día conmemora el amor de San Francisco por todas las criaturas, a menudo marcado por ceremonias donde los animales son bendecidos."
+      },
+      {
+        "name": "Domingo Mundial de la Comunión",
+        "description": "Celebrado el primer domingo de octubre por las iglesias protestantes, este día promueve la unidad entre varias denominaciones cristianas a través de la comunión compartida."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Una nueva verdad científica no triunfa convenciendo a sus oponentes y haciéndolos ver la luz, sino más bien porque sus oponentes eventualmente mueren y una nueva generación crece que está familiarizada con ella.",
+      "author": "Max Planck",
+      "context": "Max Planck, un físico teórico alemán y el originador de la teoría cuántica, falleció el 4 de octubre de 1947. Su trabajo pionero en física, que revolucionó la comprensión de los procesos atómicos y subatómicos, le valió el Premio Nobel de Física en 1918."
+    },
+    "motivationalQuote": {
+      "text": "El privilegio de toda una vida es llegar a ser quien realmente eres.",
+      "author": "Carl Jung"
+    },
+    "births": [
+      {
+        "name": "Rutherford B. Hayes",
+        "description": "El 19º Presidente de los Estados Unidos, que sirvió un solo mandato de 1877 a 1881.",
+        "year": "1822"
+      },
+      {
+        "name": "Anne Rice",
+        "description": "Una autora estadounidense celebrada por su ficción gótica, especialmente la serie 'Crónicas Vampíricas'.",
+        "year": "1941"
+      },
+      {
+        "name": "Susan Sarandon",
+        "description": "Una aclamada actriz estadounidense conocida por su diversa filmografía y sus actuaciones ganadoras del Premio de la Academia.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Lanzamiento del Sputnik 1",
+        "description": "La Unión Soviética lanzó el Sputnik 1, el primer satélite artificial de la Tierra, iniciando la Era Espacial y desencadenando la Carrera Espacial.",
+        "year": "1957"
+      },
+      {
+        "title": "Introducción del Calendario Gregoriano",
+        "description": "El Papa Gregorio XIII introdujo el calendario gregoriano, una reforma del calendario juliano que corrigió errores acumulados y se convirtió en el calendario civil más utilizado en el mundo.",
+        "year": "1582"
+      },
+      {
+        "title": "Lesoto obtiene la Independencia",
+        "description": "Basutolandia logró la plena independencia del Reino Unido y fue renombrado como el Reino de Lesoto.",
+        "year": "1966"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Mundial de los Animales",
+      "teaser": "Un día internacional centrado en mejorar los estándares de bienestar de los animales en todo el mundo."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Francis of Assisi",
+        "type": "Friar, Founder of the Franciscan Order",
+        "description": "A beloved Catholic saint, Francis renounced his family's wealth to live a life of poverty, preaching the Gospel and showing deep love and respect for all creation, making him the patron saint of animals and the environment."
+      },
+      {
+        "name": "Hieromartyr Hierotheus, Bishop of Athens",
+        "type": "Bishop",
+        "description": "Commemorated in the Orthodox Church, he was the first Bishop of Athens and an early Christian saint."
+      },
+      {
+        "name": "Venerable Ammon of Egypt",
+        "type": "Desert Monk, Recluse",
+        "description": "An early and influential desert monk, Ammon lived on Mount Nitria, attracting thousands of spiritual students and known for his extraordinary asceticism."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Animal Day",
+        "description": "An international day focused on improving the welfare standards of animals across the globe."
+      },
+      {
+        "name": "St. Francis of Assisi Feast Day / Blessing of the Animals",
+        "description": "Celebrated by Catholics, this day commemorates St. Francis's love for all creatures, often marked by ceremonies where animals are blessed."
+      },
+      {
+        "name": "World Communion Sunday",
+        "description": "Observed on the first Sunday of October by Protestant churches, this day promotes unity among various Christian denominations through shared communion."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it.",
+      "author": "Max Planck",
+      "context": "Max Planck, a German theoretical physicist and the originator of quantum theory, passed away on October 4, 1947. His groundbreaking work in physics, which revolutionized the understanding of atomic and subatomic processes, earned him the 1918 Nobel Prize in Physics."
+    },
+    "motivationalQuote": {
+      "text": "The privilege of a lifetime is to become who you truly are.",
+      "author": "Carl Jung"
+    },
+    "births": [
+      {
+        "name": "Rutherford B. Hayes",
+        "description": "The 19th President of the United States, who served a single term from 1877 to 1881.",
+        "year": "1822"
+      },
+      {
+        "name": "Anne Rice",
+        "description": "An American author celebrated for her gothic fiction, most notably 'The Vampire Chronicles' series.",
+        "year": "1941"
+      },
+      {
+        "name": "Susan Sarandon",
+        "description": "An acclaimed American actress known for her diverse filmography and Academy Award-winning performances.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Sputnik 1 Launched",
+        "description": "The Soviet Union launched Sputnik 1, the world's first artificial Earth satellite, initiating the Space Age and triggering the Space Race.",
+        "year": "1957"
+      },
+      {
+        "title": "Gregorian Calendar Introduced",
+        "description": "Pope Gregory XIII introduced the Gregorian calendar, a reform of the Julian calendar that corrected accumulated errors and became the most widely used civil calendar in the world.",
+        "year": "1582"
+      },
+      {
+        "title": "Lesotho Gains Independence",
+        "description": "Basutoland achieved full independence from the United Kingdom and was renamed the Kingdom of Lesotho.",
+        "year": "1966"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is World Animal Day",
+      "teaser": "An international day focused on improving the welfare standards of animals across the globe."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Francisco de Assis",
+        "type": "Frade, Fundador da Ordem Franciscana",
+        "description": "Um amado santo católico, Francisco renunciou à riqueza de sua família para viver uma vida de pobreza, pregando o Evangelho e mostrando profundo amor e respeito por toda a criação, tornando-o o santo padroeiro dos animais e do meio ambiente."
+      },
+      {
+        "name": "Hieromártir Hieroteu, Bispo de Atenas",
+        "type": "Bispo",
+        "description": "Comemorado na Igreja Ortodoxa, ele foi o primeiro Bispo de Atenas e um santo cristão primitivo."
+      },
+      {
+        "name": "Venerável Amom do Egito",
+        "type": "Monge do Deserto, Recluso",
+        "description": "Um monge do deserto antigo e influente, Amom viveu no Monte Nitria, atraindo milhares de estudantes espirituais e conhecido por sua extraordinária ascese."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial dos Animais",
+        "description": "Um dia internacional focado em melhorar os padrões de bem-estar dos animais em todo o mundo."
+      },
+      {
+        "name": "Dia de São Francisco de Assis / Bênção dos Animais",
+        "description": "Celebrado pelos católicos, este dia comemora o amor de São Francisco por todas as criaturas, frequentemente marcado por cerimônias onde os animais são abençoados."
+      },
+      {
+        "name": "Domingo Mundial da Comunhão",
+        "description": "Observado no primeiro domingo de outubro pelas igrejas protestantes, este dia promove a unidade entre várias denominações cristãs através da comunhão partilhada."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Uma nova verdade científica não triunfa convencendo os seus oponentes e fazendo-os ver a luz, mas sim porque os seus oponentes eventualmente morrem, e uma nova geração cresce familiarizada com ela.",
+      "author": "Max Planck",
+      "context": "Max Planck, um físico teórico alemão e o originador da teoria quântica, faleceu em 4 de outubro de 1947. O seu trabalho pioneiro em física, que revolucionou a compreensão dos processos atômicos e subatômicos, rendeu-lhe o Prêmio Nobel de Física em 1918."
+    },
+    "motivationalQuote": {
+      "text": "O privilégio de uma vida é tornar-se quem você realmente é.",
+      "author": "Carl Jung"
+    },
+    "births": [
+      {
+        "name": "Rutherford B. Hayes",
+        "description": "O 19º Presidente dos Estados Unidos, que serviu um único mandato de 1877 a 1881.",
+        "year": "1822"
+      },
+      {
+        "name": "Anne Rice",
+        "description": "Uma autora americana celebrada por sua ficção gótica, mais notavelmente a série 'Crônicas Vampirescas'.",
+        "year": "1941"
+      },
+      {
+        "name": "Susan Sarandon",
+        "description": "Uma aclamada atriz americana conhecida por sua diversificada filmografia e performances vencedoras do Oscar.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Sputnik 1 Lançado",
+        "description": "A União Soviética lançou o Sputnik 1, o primeiro satélite artificial da Terra, iniciando a Era Espacial e desencadeando a Corrida Espacial.",
+        "year": "1957"
+      },
+      {
+        "title": "Calendário Gregoriano Introduzido",
+        "description": "O Papa Gregório XIII introduziu o calendário gregoriano, uma reforma do calendário juliano que corrigiu erros acumulados e se tornou o calendário civil mais usado no mundo.",
+        "year": "1582"
+      },
+      {
+        "title": "Lesoto Ganha Independência",
+        "description": "Basutolândia alcançou a independência total do Reino Unido e foi renomeado como o Reino do Lesoto.",
+        "year": "1966"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Mundial dos Animais",
+      "teaser": "Um dia internacional focado em melhorar os padrões de bem-estar dos animais em todo o mundo."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Francesc d'Assís",
+        "type": "Fraire, Fundador de l'Orde Franciscà",
+        "description": "Un estimat sant catòlic, Francesc va renunciar a la riquesa de la seva família per viure una vida de pobresa, predicant l'Evangeli i mostrant un profund amor i respecte per tota la creació, cosa que el va convertir en el patró dels animals i del medi ambient."
+      },
+      {
+        "name": "Hieromàrtir Hieroteu, Bisbe d'Atenes",
+        "type": "Bisbe",
+        "description": "Commemorat a l'Església Ortodoxa, va ser el primer Bisbe d'Atenes i un sant cristià primitiu."
+      },
+      {
+        "name": "Venerable Ammó d'Egipte",
+        "type": "Monjo del desert, Eremita",
+        "description": "Un monjo del desert primerenc i influent, Ammó va viure a la Muntanya Nitria, atraient milers d'estudiants espirituals i conegut pel seu extraordinari ascetisme."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial dels Animals",
+        "description": "Un dia internacional centrat en la millora dels estàndards de benestar dels animals a tot el món."
+      },
+      {
+        "name": "Dia de Sant Francesc d'Assís / Benedicció dels Animals",
+        "description": "Celebrat pels catòlics, aquest dia commemora l'amor de Sant Francesc per totes les criatures, sovint marcat per cerimònies on es beneeixen els animals."
+      },
+      {
+        "name": "Diumenge Mundial de la Comunió",
+        "description": "Observat el primer diumenge d'octubre per les esglésies protestants, aquest dia promou la unitat entre diverses denominacions cristianes a través de la comunió compartida."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Una nova veritat científica no triomfa convencent els seus opositors i fent-los veure la llum, sinó perquè els seus opositors acaben morint, i una nova generació creix que ja hi està familiaritzada.",
+      "author": "Max Planck",
+      "context": "Max Planck, un físic teòric alemany i l'originador de la teoria quàntica, va morir el 4 d'octubre de 1947. La seva innovadora feina en física, que va revolucionar la comprensió dels processos atòmics i subatòmics, li va valdre el Premi Nobel de Física de 1918."
+    },
+    "motivationalQuote": {
+      "text": "El privilegi de tota una vida és esdevenir qui realment ets.",
+      "author": "Carl Jung"
+    },
+    "births": [
+      {
+        "name": "Rutherford B. Hayes",
+        "description": "El 19è president dels Estats Units, que va servir un únic mandat de 1877 a 1881.",
+        "year": "1822"
+      },
+      {
+        "name": "Anne Rice",
+        "description": "Una autora nord-americana celebrada per la seva ficció gòtica, sobretot la sèrie 'Cròniques Vampíriques'.",
+        "year": "1941"
+      },
+      {
+        "name": "Susan Sarandon",
+        "description": "Una aclamada actriu nord-americana coneguda per la seva diversa filmografia i interpretacions guanyadores de l'Oscar.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Llançament de l'Sputnik 1",
+        "description": "La Unió Soviètica va llançar l'Sputnik 1, el primer satèl·lit artificial de la Terra, iniciant l'Era Espacial i desencadenant la Cursa Espacial.",
+        "year": "1957"
+      },
+      {
+        "title": "Introducció del Calendari Gregorià",
+        "description": "El Papa Gregori XIII va introduir el calendari gregorià, una reforma del calendari julià que va corregir errors acumulats i es va convertir en el calendari civil més utilitzat al món.",
+        "year": "1582"
+      },
+      {
+        "title": "Lesotho Aconsegueix la Independència",
+        "description": "Basutoland va aconseguir la plena independència del Regne Unit i va ser rebatejat com a Regne de Lesotho.",
+        "year": "1966"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Mundial dels Animals",
+      "teaser": "Un dia internacional centrat en la millora dels estàndards de benestar dels animals a tot el món."
+    }
+  }
+}
