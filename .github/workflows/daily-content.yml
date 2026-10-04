@@ -1,14 +1,23 @@
 name: Generate daily content
 
+# Generates every missing content file from today to two days ahead (UTC). Two runs a
+# day: GitHub often starts scheduled runs hours late (and skips some), so the second run
+# is a free retry. It does nothing when the files already exist. Off the top of the hour
+# because :00 is GitHub's busiest (most delayed) slot.
 on:
   schedule:
-    - cron: '0 10 * * *'  # Runs every day at 10:00 UTC = 00:00 UTC+14 (first timezone on Earth)
+    - cron: '17 6 * * *'
+    - cron: '47 18 * * *'
   workflow_dispatch:
     inputs:
       target_date:
-        description: 'Date to generate (YYYY-MM-DD). Leave empty to generate tomorrow.'
+        description: 'Date to generate (YYYY-MM-DD). Leave empty to fill any missing file up to two days ahead.'
         required: false
         default: ''
+
+concurrency:
+  group: daily-content
+  cancel-in-progress: false
 
 permissions:
   contents: write           # Required to commit and push daily.json
@@ -26,15 +35,24 @@ jobs:
         with:
           node-version: '24'
 
-      - name: Generate content for ES and EN
+      - name: Generate content (EN, ES, PT, CA)
         run: node scripts/generate-content.js
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TARGET_DATE: ${{ github.event.inputs.target_date }}
 
+      # Runs even if generation failed for one date, so the dates that succeeded still ship.
       - name: Commit and push if content changed
+        if: ${{ !cancelled() }}
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
           git add content/
-          git diff --staged --quiet && echo "No changes to commit" || (git commit -m "chore: daily content $(date -u -d tomorrow +%Y-%m-%d)" && git push)
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          dates=$(git diff --staged --name-only -- content/ | xargs -n1 basename | sed 's/\.json$//' | paste -sd, - | sed 's/,/, /g')
+          git commit -m "chore: daily content $dates"
+          git pull --rebase
+          git push

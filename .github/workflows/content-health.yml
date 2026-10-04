@@ -1,0 +1,78 @@
+name: Content health check
+
+# Verifies today's and tomorrow's content files (urgent) and the file two days ahead (early
+# warning) exist, are complete and are served by jsDelivr. On failure it opens (or comments
+# on) a GitHub Issue assigned to the owner, so the alert arrives as an email / GitHub mobile
+# notification, and closes it once healthy.
+# Scheduled after both "Generate daily content" runs (06:17 and 18:47 UTC), leaving room
+# for GitHub starting them hours late.
+
+on:
+  schedule:
+    - cron: '37 22 * * *'
+  workflow_dispatch:
+    inputs:
+      check_dates:
+        description: 'Comma-separated dates to check (YYYY-MM-DD). Leave empty for today, tomorrow and two days ahead (UTC).'
+        required: false
+        default: ''
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: '24'
+
+      - name: Check content
+        run: node scripts/check-content-health.js
+        env:
+          CHECK_DATES: ${{ github.event.inputs.check_dates }}
+          REPORT_FILE: content-health-report.md
+
+      - name: Add report to run summary
+        if: always()
+        run: cat content-health-report.md >> "$GITHUB_STEP_SUMMARY" || true
+
+      - name: Open or update alert issue
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          echo "" >> content-health-report.md
+          echo "Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" >> content-health-report.md
+          gh label create content-health --color B60205 --description "Automated content health alert" --force
+          open_issue=$(gh issue list --label content-health --state open --json number --jq '.[0].number')
+          if [ -n "$open_issue" ]; then
+            gh issue comment "$open_issue" --body-file content-health-report.md
+          else
+            if [ "$(cat content-health-severity 2>/dev/null)" = "urgent" ]; then
+              title="Daily content missing: users affected ($(date -u +%Y-%m-%d))"
+            else
+              title="Daily content early warning ($(date -u +%Y-%m-%d))"
+            fi
+            gh issue create --title "$title" \
+              --label content-health --assignee "${{ github.repository_owner }}" \
+              --body-file content-health-report.md
+          fi
+
+      - name: Close alert issue when healthy again
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          for n in $(gh issue list --label content-health --state open --json number --jq '.[].number'); do
+            gh issue close "$n" --comment "Health check passed again: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          done

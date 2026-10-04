@@ -1,4 +1,5 @@
-// Runs in GitHub Actions. Writes content/YYYY-MM-DD.json for tomorrow's date.
+// Runs in GitHub Actions. Writes content/YYYY-MM-DD.json for every missing date from today
+// to two days ahead (UTC), or for TARGET_DATE only.
 // Pipeline: (1) search+verify in EN with grounding → (1.5) veto a motivationalQuote used
 // in the last 6 months and re-pick once → (2) translate to ES/EN/PT/CA → (3) verify
 // proper names with grounding → (4) compute notification highlight
@@ -416,15 +417,51 @@ function applyNameCorrections(translated, corrections) {
   return result;
 }
 
-async function main() {
-  // TARGET_DATE (YYYY-MM-DD) overrides the default tomorrow — use for backfilling specific dates
-  let target;
-  if (process.env.TARGET_DATE) {
-    target = new Date(`${process.env.TARGET_DATE}T00:00:00Z`);
-  } else {
-    target = new Date();
-    target.setUTCDate(target.getUTCDate() + 1);
+// Dates (YYYY-MM-DD, UTC) this run should generate: every missing file from today up to
+// DAYS_AHEAD days ahead, oldest first. Generating two days ahead absorbs GitHub's late
+// cron starts (often 4-7 h), and filling gaps means a failed run is caught up by the next one.
+function datesToGenerate(contentDir, daysAhead) {
+  const dates = [];
+  for (let offset = 0; offset <= daysAhead; offset++) {
+    const d = new Date();
+    d.setUTCDate(d.getUTCDate() + offset);
+    const iso = d.toISOString().split('T')[0];
+    if (!fs.existsSync(path.join(contentDir, `${iso}.json`))) dates.push(iso);
   }
+  return dates;
+}
+
+async function main() {
+  const contentDir = path.join(__dirname, '..', 'content');
+  // TARGET_DATE (YYYY-MM-DD) generates (or regenerates) exactly that date — use for backfilling
+  const dates = process.env.TARGET_DATE
+    ? [process.env.TARGET_DATE]
+    : datesToGenerate(contentDir, parseInt(process.env.DAYS_AHEAD || '2', 10));
+
+  if (dates.length === 0) {
+    console.log('All content files up to the target horizon already exist — nothing to generate.');
+    return;
+  }
+  console.log(`Dates to generate: ${dates.join(', ')}`);
+
+  // Keep going after a failure so one bad date doesn't block the others; files written
+  // so far are still committed by the workflow, and the exit code reports the failure.
+  const failed = [];
+  for (const isoDate of dates) {
+    try {
+      await generateForDate(isoDate);
+    } catch (err) {
+      console.error(`Content generation failed for ${isoDate}:`, err.message);
+      failed.push(isoDate);
+    }
+  }
+  if (failed.length > 0) {
+    throw new Error(`failed for ${failed.join(', ')}`);
+  }
+}
+
+async function generateForDate(isoTarget) {
+  const target = new Date(`${isoTarget}T00:00:00Z`);
 
   const monthNames = [
     'January', 'February', 'March', 'April', 'May', 'June',
@@ -505,4 +542,4 @@ if (require.main === module) {
   });
 }
 
-module.exports = { computeNotificationHighlight, addNotificationHighlights, normalizeQuote, collectRecentQuotes, buildRepickPrompt };
+module.exports = { datesToGenerate, computeNotificationHighlight, addNotificationHighlights, normalizeQuote, collectRecentQuotes, buildRepickPrompt };
