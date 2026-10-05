@@ -1,0 +1,327 @@
+{
+  "date": "2026-10-07",
+  "es": {
+    "saints": [
+      {
+        "name": "Nuestra Señora del Rosario",
+        "type": "Fiesta Mariana",
+        "description": "Conmemora la victoria decisiva de la Liga Santa sobre la marina otomana en la Batalla de Lepanto en 1571, atribuida a la intercesión de la Santísima Virgen María a través del Rosario."
+      },
+      {
+        "name": "Papa San Marcos de Roma",
+        "type": "Papa",
+        "description": "Sirvió como papa por menos de un año, durante el cual compiló historias de mártires y obispos y construyó la Basílica de San Marcos."
+      },
+      {
+        "name": "Santos Sergio y Baco",
+        "type": "Mártires",
+        "description": "Oficiales de alto rango del ejército bajo el emperador Maximiano que eran secretamente cristianos y sufrieron el martirio por su fe."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Comunicación Pacífica",
+        "description": "Este día destaca el poder de las palabras para consolar, apoyar y acercar a las personas, fomentando voces tranquilas y una comprensión clara en las interacciones."
+      },
+      {
+        "name": "Día Mundial del Algodón",
+        "description": "Celebrado a nivel mundial, este día concienciza sobre la importancia de la industria del algodón y su papel en la moda sostenible y los medios de vida."
+      },
+      {
+        "name": "Día Nacional del Frappé",
+        "description": "Celebra la invención griega del café helado de 1957, una bebida fría con espuma que se convirtió en una bebida nacional."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Todo lo que vemos o parecemos Es solo un sueño dentro de un sueño.",
+      "author": "Edgar Allan Poe",
+      "context": "Edgar Allan Poe, un influyente escritor estadounidense conocido por sus cuentos de misterio y lo macabro, falleció el 7 de octubre de 1849."
+    },
+    "motivationalQuote": {
+      "text": "Nuestras vidas empiezan a terminar el día que nos quedamos en silencio sobre las cosas que importan.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Vladímir Putin",
+        "description": "Un político ruso y ex oficial de inteligencia que ha servido como presidente de Rusia desde 2012, habiendo ocupado previamente el cargo de 2000 a 2008.",
+        "year": "1952"
+      },
+      {
+        "name": "Toni Braxton",
+        "description": "Una aclamada cantante, compositora, actriz y personalidad televisiva estadounidense, conocida por su distintiva voz sensual y sus numerosas canciones exitosas de R&B.",
+        "year": "1967"
+      },
+      {
+        "name": "John Mellencamp",
+        "description": "Un icónico músico de rock estadounidense, cantante-compositor y pintor conocido por su distintivo estilo de rock 'heartland'.",
+        "year": "1951"
+      }
+    ],
+    "events": [
+      {
+        "title": "Misioneras de la Caridad Fundadas",
+        "description": "La Madre Teresa estableció las Misioneras de la Caridad en Calcuta, India, una congregación religiosa católica dedicada a servir a los más pobres de los pobres.",
+        "year": "1950"
+      },
+      {
+        "title": "Primeras Fotos de la Cara Oculta de la Luna",
+        "description": "La sonda soviética Luna 3 transmitió las primeras fotografías de la cara oculta de la Luna, marcando un hito significativo en la exploración espacial.",
+        "year": "1959"
+      },
+      {
+        "title": "Tratado de Prohibición Parcial de Ensayos Nucleares Ratificado",
+        "description": "El presidente de EE. UU. John F. Kennedy firmó la ratificación del Tratado de Prohibición Parcial de Ensayos Nucleares, que prohibía las pruebas de armas nucleares en la atmósfera, el espacio exterior y bajo el agua.",
+        "year": "1963"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de la Comunicación Pacífica",
+      "teaser": "Este día destaca el poder de las palabras para consolar, apoyar y acercar a las personas, fomentando voces tranquilas y una comprensión clara en las interacciones."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Our Lady of the Rosary",
+        "type": "Marian Feast",
+        "description": "Commemorates the decisive victory of the Holy League over the Ottoman navy at the Battle of Lepanto in 1571, attributed to the intercession of the Blessed Virgin Mary through the Rosary."
+      },
+      {
+        "name": "Pope Saint Mark of Rome",
+        "type": "Pope",
+        "description": "Served as pope for less than a year, during which he compiled stories of martyrs and bishops and built the Basilica of San Marco."
+      },
+      {
+        "name": "Saints Sergius and Bacchus",
+        "type": "Martyrs",
+        "description": "High-ranking army officials under Emperor Maximian who were secretly Christians and suffered martyrdom for their faith."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of Peaceful Communication",
+        "description": "This day highlights the power of words to comfort, support, and bring people closer, encouraging calm voices and clear understanding in interactions."
+      },
+      {
+        "name": "World Cotton Day",
+        "description": "Celebrated globally, this day raises awareness about the importance of the cotton industry and its role in sustainable fashion and livelihoods."
+      },
+      {
+        "name": "National Frappe Day",
+        "description": "Celebrates the Greek iced coffee invention from 1957, a foam-topped cold beverage that became a national drink."
+      }
+    ],
+    "historicalQuote": {
+      "text": "All that we see or seem Is but a dream within a dream.",
+      "author": "Edgar Allan Poe",
+      "context": "Edgar Allan Poe, an influential American writer known for his tales of mystery and the macabre, passed away on October 7, 1849."
+    },
+    "motivationalQuote": {
+      "text": "Our lives begin to end the day we become silent about things that matter.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Vladimir Putin",
+        "description": "A Russian politician and former intelligence officer who has served as the president of Russia since 2012, previously holding the position from 2000 to 2008.",
+        "year": "1952"
+      },
+      {
+        "name": "Toni Braxton",
+        "description": "An acclaimed American singer, songwriter, actress, and television personality, known for her distinctive sultry voice and numerous hit R&B songs.",
+        "year": "1967"
+      },
+      {
+        "name": "John Mellencamp",
+        "description": "An iconic American rock musician, singer-songwriter, and painter known for his distinctive heartland rock style.",
+        "year": "1951"
+      }
+    ],
+    "events": [
+      {
+        "title": "Missionaries of Charity Founded",
+        "description": "Mother Teresa established the Missionaries of Charity in Kolkata, India, a Roman Catholic religious congregation dedicated to serving the poorest of the poor.",
+        "year": "1950"
+      },
+      {
+        "title": "First Photos of Moon's Far Side",
+        "description": "The Soviet probe Luna 3 transmitted the first-ever photographs of the far side of the Moon, marking a significant milestone in space exploration.",
+        "year": "1959"
+      },
+      {
+        "title": "Partial Nuclear Test Ban Treaty Ratified",
+        "description": "U.S. President John F. Kennedy signed the ratification of the Partial Nuclear Test Ban Treaty, which prohibited nuclear weapon tests in the atmosphere, outer space, and underwater.",
+        "year": "1963"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Day of Peaceful Communication",
+      "teaser": "This day highlights the power of words to comfort, support, and bring people closer, encouraging calm voices and clear understanding in interactions."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Nossa Senhora do Rosário",
+        "type": "Festa Mariana",
+        "description": "Comemora a vitória decisiva da Liga Santa sobre a marinha otomana na Batalha de Lepanto em 1571, atribuída à intercessão da Santíssima Virgem Maria através do Rosário."
+      },
+      {
+        "name": "Papa São Marcos de Roma",
+        "type": "Papa",
+        "description": "Serviu como papa por menos de um ano, durante o qual compilou histórias de mártires e bispos e construiu a Basílica de São Marcos."
+      },
+      {
+        "name": "Santos Sérgio e Baco",
+        "type": "Mártires",
+        "description": "Oficiais de alto escalão do exército sob o imperador Maximiano que eram secretamente cristãos e sofreram o martírio por sua fé."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Comunicação Pacífica",
+        "description": "Este dia destaca o poder das palavras para confortar, apoiar e aproximar as pessoas, encorajando vozes calmas e uma compreensão clara nas interações."
+      },
+      {
+        "name": "Dia Mundial do Algodão",
+        "description": "Celebrado globalmente, este dia aumenta a conscientização sobre a importância da indústria do algodão e seu papel na moda sustentável e nos meios de subsistência."
+      },
+      {
+        "name": "Dia Nacional do Frappé",
+        "description": "Celebra a invenção grega do café gelado de 1957, uma bebida fria com espuma que se tornou uma bebida nacional."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Tudo o que vemos ou parecemos Não passa de um sonho dentro de um sonho.",
+      "author": "Edgar Allan Poe",
+      "context": "Edgar Allan Poe, um influente escritor americano conhecido por seus contos de mistério e o macabro, faleceu em 7 de outubro de 1849."
+    },
+    "motivationalQuote": {
+      "text": "Nossas vidas começam a terminar no dia em que nos calamos sobre as coisas que importam.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Vladimir Putin",
+        "description": "Um político russo e ex-oficial de inteligência que serviu como presidente da Rússia desde 2012, tendo ocupado anteriormente o cargo de 2000 a 2008.",
+        "year": "1952"
+      },
+      {
+        "name": "Toni Braxton",
+        "description": "Uma aclamada cantora, compositora, atriz e personalidade televisiva americana, conhecida por sua voz sensual distintiva e por inúmeras músicas de R&B de sucesso.",
+        "year": "1967"
+      },
+      {
+        "name": "John Mellencamp",
+        "description": "Um icónico músico de rock americano, cantor-compositor e pintor conhecido por seu estilo distintivo de rock 'heartland'.",
+        "year": "1951"
+      }
+    ],
+    "events": [
+      {
+        "title": "Missionárias da Caridade Fundadas",
+        "description": "Madre Teresa estabeleceu as Missionárias da Caridade em Calcutá, Índia, uma congregação religiosa católica dedicada a servir os mais pobres dos pobres.",
+        "year": "1950"
+      },
+      {
+        "title": "Primeiras Fotos do Lado Oculto da Lua",
+        "description": "A sonda soviética Luna 3 transmitiu as primeiras fotografias do lado oculto da Lua, marcando um marco significativo na exploração espacial.",
+        "year": "1959"
+      },
+      {
+        "title": "Tratado de Proibição Parcial de Testes Nucleares Ratificado",
+        "description": "O presidente dos EUA John F. Kennedy assinou a ratificação do Tratado de Proibição Parcial de Testes Nucleares, que proibia os testes de armas nucleares na atmosfera, no espaço exterior e debaixo d'água.",
+        "year": "1963"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional da Comunicação Pacífica",
+      "teaser": "Este dia destaca o poder das palavras para confortar, apoiar e aproximar as pessoas, encorajando vozes calmas e uma compreensão clara nas interações."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Mare de Déu del Roser",
+        "type": "Festa Mariana",
+        "description": "Commemora la decisiva victòria de la Lliga Santa sobre l'armada otomana a la Batalla de Lepant el 1571, atribuïda a la intercessió de la Santíssima Verge Maria mitjançant el Rosari."
+      },
+      {
+        "name": "Papa Sant Marc de Roma",
+        "type": "Papa",
+        "description": "Va servir com a papa per menys d'un any, durant el qual va compilar històries de màrtirs i bisbes i va construir la Basílica de San Marco."
+      },
+      {
+        "name": "Sants Sergi i Bacus",
+        "type": "Màrtirs",
+        "description": "Oficials d'alt rang de l'exèrcit sota l'emperador Maximià que eren cristians en secret i van patir martiri per la seva fe."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la Comunicació Pacífica",
+        "description": "Aquest dia destaca el poder de les paraules per reconfortar, donar suport i apropar les persones, fomentant veus tranquil·les i una comprensió clara en les interaccions."
+      },
+      {
+        "name": "Dia Mundial del Cotó",
+        "description": "Celebrat globalment, aquest dia consciencia sobre la importància de la indústria del cotó i el seu paper en la moda sostenible i els mitjans de vida."
+      },
+      {
+        "name": "Dia Nacional del Frappe",
+        "description": "Commemora la invenció grega del cafè gelat de 1957, una beguda freda coberta d'escuma que va esdevenir una beguda nacional."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Tot allò que veiem o sembla No és més que un somni dins d'un somni.",
+      "author": "Edgar Allan Poe",
+      "context": "Edgar Allan Poe, un influent escriptor americà conegut pels seus contes de misteri i el macabre, va morir el 7 d'octubre de 1849."
+    },
+    "motivationalQuote": {
+      "text": "Les nostres vides comencen a acabar el dia que ens callem sobre les coses que importen.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Vladímir Putin",
+        "description": "Un polític rus i exoficial d'intel·ligència que ha servit com a president de Rússia des del 2012, havent ocupat prèviament el càrrec del 2000 al 2008.",
+        "year": "1952"
+      },
+      {
+        "name": "Toni Braxton",
+        "description": "Una aclamada cantant, compositora, actriu i personalitat televisiva americana, coneguda per la seva veu sensual i nombroses cançons d'èxit de R&B.",
+        "year": "1967"
+      },
+      {
+        "name": "John Mellencamp",
+        "description": "Un icònic músic de rock, cantautor i pintor americà conegut pel seu distintiu estil de rock d'arrel americana.",
+        "year": "1951"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundació de les Missioneres de la Caritat",
+        "description": "La Mare Teresa va establir les Missioneres de la Caritat a Kolkata, Índia, una congregació religiosa catòlica dedicada a servir els més pobres dels pobres.",
+        "year": "1950"
+      },
+      {
+        "title": "Primeres fotos de la cara oculta de la Lluna",
+        "description": "La sonda soviètica Lluna 3 va transmetre les primeres fotografies de la cara oculta de la Lluna, marcant una fita significativa en l'exploració espacial.",
+        "year": "1959"
+      },
+      {
+        "title": "Ratificació del Tractat de Prohibició Parcial de Proves Nuclears",
+        "description": "El president dels EUA, John F. Kennedy, va signar la ratificació del Tractat de Prohibició Parcial de Proves Nuclears, que prohibia les proves d'armes nuclears a l'atmosfera, l'espai exterior i sota l'aigua.",
+        "year": "1963"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de la Comunicació Pacífica",
+      "teaser": "Aquest dia destaca el poder de les paraules per reconfortar, donar suport i apropar les persones, fomentant veus tranquil·les i una comprensió clara en les interaccions."
+    }
+  }
+}
