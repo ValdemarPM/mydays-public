@@ -1,0 +1,327 @@
+{
+  "date": "2026-10-08",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Pelagia la Penitente",
+        "type": "Eremita / Ex Cortesana",
+        "description": "Santa Pelagia fue una famosa actriz y cortesana en Antioquía que se arrepintió de su vida pecaminosa después de escuchar un sermón de San Nonno. Más tarde vivió como eremita en el Monte de los Olivos, disfrazada de hombre, y fue conocida por su ascetismo y santidad."
+      },
+      {
+        "name": "Santa Brígida de Suecia",
+        "type": "Viuda / Mística",
+        "description": "Una mística sueca noble y piadosa, Santa Brígida fundó la Orden Brigidina y fue conocida por sus revelaciones divinas. Emprendió peregrinaciones a Roma y Tierra Santa, dedicando su vida a la oración y la penitencia."
+      },
+      {
+        "name": "San Trifón de Vyatka",
+        "type": "Archimandrita",
+        "description": "El Venerable Trifón fue un Archimandrita que fundó un monasterio en Vyatka, Rusia. Fue conocido por su vida recta y sus reliquias fueron encontradas incorruptas en 1648."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Podología",
+        "description": "Este día está dedicado a avanzar el campo de la podología a nivel mundial, centrándose en la educación, la promoción y las alianzas estratégicas para mejorar la salud del pie y el tobillo."
+      },
+      {
+        "name": "Día Mundial del Pulpo",
+        "description": "El Día Mundial del Pulpo celebra una de las criaturas más antiguas y fascinantes de la Tierra, conocida por su inteligencia, sus ocho brazos y su habilidad para lanzar tinta."
+      },
+      {
+        "name": "Día Mundial de la Vista",
+        "description": "Una observancia de salud de importancia global, el Día Mundial de la Vista tiene como objetivo crear conciencia sobre los 1.1 mil millones de personas en todo el mundo con discapacidad visual prevenible o tratable."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Mi electorado son los desesperados, los condenados, los desheredados, los irrespetados y los despreciados.",
+      "author": "Jesse Jackson",
+      "context": "Jesse Jackson, un destacado líder, activista y político estadounidense por los derechos civiles, nació el 8 de octubre de 1941. Esta cita refleja su dedicación de toda la vida a la defensa de las comunidades marginadas."
+    },
+    "motivationalQuote": {
+      "text": "Cree que puedes y ya estás a medio camino.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Jesse Jackson",
+        "description": "Un influyente activista estadounidense por los derechos civiles, ministro bautista y político, que buscó la nominación presidencial demócrata en 1984 y 1988.",
+        "year": "1941"
+      },
+      {
+        "name": "Matt Damon",
+        "description": "Un actor, guionista y productor estadounidense ganador de un Premio de la Academia, conocido por sus papeles en películas como 'Good Will Hunting' y la serie 'Bourne'.",
+        "year": "1970"
+      },
+      {
+        "name": "R. L. Stine",
+        "description": "Un prolífico autor estadounidense, ampliamente reconocido por sus populares series de novelas de terror para niños 'Goosebumps' y 'Fear Street'.",
+        "year": "1943"
+      }
+    ],
+    "events": [
+      {
+        "title": "Don Larsen Lanza Juego Perfecto en la Serie Mundial",
+        "description": "En una notable demostración de destreza atlética, el lanzador de los New York Yankees, Don Larsen, lanzó el primer y único juego perfecto en la historia de la Serie Mundial contra los Brooklyn Dodgers.",
+        "year": "1956"
+      },
+      {
+        "title": "Se Concede Patente para el Horno de Microondas",
+        "description": "Percy Spencer recibió una patente para el horno de microondas, una invención revolucionaria que transformó la cocina y la preparación de alimentos.",
+        "year": "1945"
+      },
+      {
+        "title": "Primer Marcapasos Interno Implantado",
+        "description": "El primer marcapasos interno del mundo fue implantado con éxito en un hombre de 43 años, marcando un hito significativo en la tecnología médica y el cuidado cardíaco.",
+        "year": "1948"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de la Podología",
+      "teaser": "Este día está dedicado a avanzar el campo de la podología a nivel mundial, centrándose en la educación, la promoción y las alianzas estratégicas para mejorar la salud del pie y el tobillo."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Pelagia the Penitent",
+        "type": "Hermit / Former Courtesan",
+        "description": "St. Pelagia was a famous actress and courtesan in Antioch who repented of her sinful life after hearing a sermon by St. Nonnus. She later lived as a hermit on the Mount of Olives, disguised as a man, and was known for her asceticism and holiness."
+      },
+      {
+        "name": "St. Bridget of Sweden",
+        "type": "Widow / Mystic",
+        "description": "A noble and pious Swedish mystic, St. Bridget founded the Brigittine Order and was known for her divine revelations. She embarked on pilgrimages to Rome and the Holy Land, dedicating her life to prayer and penance."
+      },
+      {
+        "name": "St. Tryphon of Vyatka",
+        "type": "Archimandrite",
+        "description": "Venerable Tryphon was an Archimandrite who founded a monastery in Vyatka, Russia. He was known for his righteous life and his relics were found to be incorrupt in 1648."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Podiatry Day",
+        "description": "This day is dedicated to advancing the field of podiatry globally, focusing on education, advocacy, and strategic alliances to improve foot and ankle health."
+      },
+      {
+        "name": "World Octopus Day",
+        "description": "World Octopus Day celebrates one of Earth's oldest and most fascinating creatures, known for its intelligence, eight arms, and ink-squirting abilities."
+      },
+      {
+        "name": "World Sight Day",
+        "description": "A globally significant health observance, World Sight Day aims to raise awareness for the 1.1 billion people worldwide with preventable or treatable vision impairment."
+      }
+    ],
+    "historicalQuote": {
+      "text": "My constituency is the desperate, the damned, the disinherited, the disrespected, and the despised.",
+      "author": "Jesse Jackson",
+      "context": "Jesse Jackson, a prominent American civil rights leader, activist, and politician, was born on October 8, 1941. This quote reflects his lifelong dedication to advocating for marginalized communities."
+    },
+    "motivationalQuote": {
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Jesse Jackson",
+        "description": "An influential American civil rights activist, Baptist minister, and politician, who sought the Democratic presidential nomination in 1984 and 1988.",
+        "year": "1941"
+      },
+      {
+        "name": "Matt Damon",
+        "description": "An Academy Award-winning American actor, screenwriter, and producer, known for his roles in films like 'Good Will Hunting' and the 'Bourne' series.",
+        "year": "1970"
+      },
+      {
+        "name": "R. L. Stine",
+        "description": "A prolific American author, widely recognized for his popular children's horror novel series 'Goosebumps' and 'Fear Street'.",
+        "year": "1943"
+      }
+    ],
+    "events": [
+      {
+        "title": "Don Larsen Pitches Perfect Game in World Series",
+        "description": "In a remarkable display of athletic prowess, New York Yankees pitcher Don Larsen threw the first and only perfect game in World Series history against the Brooklyn Dodgers.",
+        "year": "1956"
+      },
+      {
+        "title": "Patent for the Microwave Oven Granted",
+        "description": "Percy Spencer received a patent for the microwave oven, a groundbreaking invention that revolutionized cooking and food preparation.",
+        "year": "1945"
+      },
+      {
+        "title": "First Internal Pacemaker Implanted",
+        "description": "The world's first internal pacemaker was successfully implanted in a 43-year-old man, marking a significant milestone in medical technology and cardiac care.",
+        "year": "1948"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Podiatry Day",
+      "teaser": "This day is dedicated to advancing the field of podiatry globally, focusing on education, advocacy, and strategic alliances to improve foot and ankle health."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Pelágia a Penitente",
+        "type": "Eremita / Ex Cortesã",
+        "description": "Santa Pelágia foi uma famosa atriz e cortesã em Antioquia que se arrependeu de sua vida pecaminosa após ouvir um sermão de São Nonno. Mais tarde, viveu como eremita no Monte das Oliveiras, disfarçada de homem, e era conhecida por seu ascetismo e santidade."
+      },
+      {
+        "name": "Santa Brígida da Suécia",
+        "type": "Viúva / Mística",
+        "description": "Uma mística sueca nobre e piedosa, Santa Brígida fundou a Ordem Brigitina e foi conhecida por suas revelações divinas. Ela embarcou em peregrinações a Roma e à Terra Santa, dedicando sua vida à oração e à penitência."
+      },
+      {
+        "name": "São Trifão de Vyatka",
+        "type": "Arquimandrita",
+        "description": "O Venerável Trifão foi um Arquimandrita que fundou um mosteiro em Vyatka, Rússia. Ele era conhecido por sua vida justa e suas relíquias foram encontradas incorruptas em 1648."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Podologia",
+        "description": "Este dia é dedicado ao avanço do campo da podologia globalmente, focando em educação, defesa e alianças estratégicas para melhorar a saúde dos pés e tornozelos."
+      },
+      {
+        "name": "Dia Mundial do Polvo",
+        "description": "O Dia Mundial do Polvo celebra uma das criaturas mais antigas e fascinantes da Terra, conhecida por sua inteligência, oito braços e habilidades de esguichar tinta."
+      },
+      {
+        "name": "Dia Mundial da Visão",
+        "description": "Uma observância de saúde globalmente significativa, o Dia Mundial da Visão visa aumentar a conscientização para os 1,1 bilhão de pessoas em todo o mundo com deficiência visual prevenível ou tratável."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Minha base eleitoral são os desesperados, os condenados, os deserdados, os desrespeitados e os desprezados.",
+      "author": "Jesse Jackson",
+      "context": "Jesse Jackson, um proeminente líder, ativista e político americano pelos direitos civis, nasceu em 8 de outubro de 1941. Esta citação reflete sua dedicação ao longo da vida em advogar por comunidades marginalizadas."
+    },
+    "motivationalQuote": {
+      "text": "Acredite que você pode e você já está no meio do caminho.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Jesse Jackson",
+        "description": "Um influente ativista americano pelos direitos civis, ministro batista e político, que buscou a nomeação presidencial democrata em 1984 e 1988.",
+        "year": "1941"
+      },
+      {
+        "name": "Matt Damon",
+        "description": "Um ator, roteirista e produtor americano vencedor do Oscar, conhecido por seus papéis em filmes como 'Good Will Hunting' e a série 'Bourne'.",
+        "year": "1970"
+      },
+      {
+        "name": "R. L. Stine",
+        "description": "Um prolífico autor americano, amplamente reconhecido por suas populares séries de romances de terror infantis 'Goosebumps' e 'Fear Street'.",
+        "year": "1943"
+      }
+    ],
+    "events": [
+      {
+        "title": "Don Larsen Lança Jogo Perfeito na Série Mundial",
+        "description": "Numa notável demonstração de destreza atlética, o arremessador do New York Yankees, Don Larsen, lançou o primeiro e único jogo perfeito na história da Série Mundial contra o Brooklyn Dodgers.",
+        "year": "1956"
+      },
+      {
+        "title": "Patente para o Forno de Micro-ondas Concedida",
+        "description": "Percy Spencer recebeu uma patente para o forno de micro-ondas, uma invenção inovadora que revolucionou a culinária e o preparo de alimentos.",
+        "year": "1945"
+      },
+      {
+        "title": "Primeiro Marca-passo Interno Implantado",
+        "description": "O primeiro marca-passo interno do mundo foi implantado com sucesso em um homem de 43 anos, marcando um marco significativo na tecnologia médica e no cuidado cardíaco.",
+        "year": "1948"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional da Podologia",
+      "teaser": "Este dia é dedicado ao avanço do campo da podologia globalmente, focando em educação, defesa e alianças estratégicas para melhorar a saúde dos pés e tornozelos."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Pelàgia la Penitent",
+        "type": "Ermitana / Antiga cortesana",
+        "description": "Santa Pelàgia va ser una famosa actriu i cortesana d'Antioquia que es va penedir de la seva vida pecaminosa després d'escoltar un sermó de Sant Nonnus. Més tard va viure com a ermitana al Mont de les Oliveres, disfressada d'home, i va ser coneguda pel seu ascetisme i santedat."
+      },
+      {
+        "name": "Santa Brígida de Suècia",
+        "type": "Viuda / Mística",
+        "description": "Una noble i pia mística sueca, Santa Brígida va fundar l'Orde Brigitina i va ser coneguda per les seves revelacions divines. Va emprendre pelegrinatges a Roma i Terra Santa, dedicant la seva vida a l'oració i la penitència."
+      },
+      {
+        "name": "Sant Trifó de Viatka",
+        "type": "Arximandrita",
+        "description": "El Venerable Trifó va ser un arximandrita que va fundar un monestir a Viatka, Rússia. Va ser conegut per la seva vida virtuosa i les seves relíquies van ser trobades incorruptes el 1648."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la Podologia",
+        "description": "Aquest dia es dedica a promoure el camp de la podologia a nivell mundial, centrant-se en l'educació, la defensa i les aliances estratègiques per millorar la salut del peu i del turmell."
+      },
+      {
+        "name": "Dia Mundial del Pop",
+        "description": "El Dia Mundial del Pop celebra una de les criatures més antigues i fascinants de la Terra, coneguda per la seva intel·ligència, vuit braços i la seva capacitat d'expulsar tinta."
+      },
+      {
+        "name": "Dia Mundial de la Visió",
+        "description": "Una observança de salut d'importància global, el Dia Mundial de la Visió té com a objectiu sensibilitzar sobre els 1.100 milions de persones a tot el món amb deficiències visuals prevenibles o tractables."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La meva circumscripció són els desesperats, els condemnats, els desheretats, els irrespectats i els menyspreats.",
+      "author": "Jesse Jackson",
+      "context": "Jesse Jackson, un destacat líder, activista i polític nord-americà dels drets civils, va néixer el 8 d'octubre de 1941. Aquesta cita reflecteix la seva dedicació de tota la vida a la defensa de les comunitats marginades."
+    },
+    "motivationalQuote": {
+      "text": "Creu que pots i ja hi ets a mig camí.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Jesse Jackson",
+        "description": "Un influent activista pels drets civils nord-americans, ministre baptista i polític, que va buscar la nominació presidencial demòcrata el 1984 i el 1988.",
+        "year": "1941"
+      },
+      {
+        "name": "Matt Damon",
+        "description": "Un actor, guionista i productor nord-americà guanyador d'un Oscar, conegut pels seus papers en pel·lícules com 'El indomable Will Hunting' i la sèrie 'Bourne'.",
+        "year": "1970"
+      },
+      {
+        "name": "R. L. Stine",
+        "description": "Un prolífic autor nord-americà, àmpliament reconegut per les seves populars sèries de novel·les de terror infantils 'Goosebumps' i 'Fear Street'.",
+        "year": "1943"
+      }
+    ],
+    "events": [
+      {
+        "title": "Don Larsen Llença un Joc Perfecte a la Sèrie Mundial",
+        "description": "En una notable demostració de proesa atlètica, el llançador dels New York Yankees, Don Larsen, va llançar el primer i únic joc perfecte en la història de la Sèrie Mundial contra els Brooklyn Dodgers.",
+        "year": "1956"
+      },
+      {
+        "title": "Concessió de la Patent per al Forn Microones",
+        "description": "Percy Spencer va rebre una patent per al forn microones, una invenció innovadora que va revolucionar la cuina i la preparació d'aliments.",
+        "year": "1945"
+      },
+      {
+        "title": "Primer Marcapassos Intern Implantat",
+        "description": "El primer marcapassos intern del món va ser implantat amb èxit en un home de 43 anys, marcant una fita important en la tecnologia mèdica i l'atenció cardíaca.",
+        "year": "1948"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de la Podologia",
+      "teaser": "Aquest dia es dedica a promoure el camp de la podologia a nivell mundial, centrant-se en l'educació, la defensa i les aliances estratègiques per millorar la salut del peu i del turmell."
+    }
+  }
+}
