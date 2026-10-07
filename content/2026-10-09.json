@@ -1,0 +1,327 @@
+{
+  "date": "2026-10-09",
+  "es": {
+    "saints": [
+      {
+        "name": "San Dionisio de París",
+        "type": "Obispo, Mártir",
+        "description": "San Dionisio, el primer obispo de París, fue martirizado por predicar el cristianismo en la Galia ocupada por los romanos. La leyenda cuenta que llevó su propia cabeza cortada después de su ejecución."
+      },
+      {
+        "name": "San Juan Leonardi",
+        "type": "Sacerdote, Fundador",
+        "description": "San Juan Leonardi fue un farmacéutico que se hizo sacerdote y fundó los Clérigos Regulares de la Madre de Dios, centrándose en la reforma del clero."
+      },
+      {
+        "name": "Apóstol Santiago, hijo de Alfeo",
+        "type": "Apóstol, Mártir",
+        "description": "Uno de los Doce Apóstoles, San Santiago, hijo de Alfeo, predicó el Evangelio en Judea, Edesa, Gaza y Eleuterópolis, y fue crucificado por paganos en Ostrachina, Egipto."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Correo",
+        "description": "Este día conmemora el establecimiento de la Unión Postal Universal (UPU) en 1874 y tiene como objetivo aumentar la concienciación sobre el papel del sector postal en la vida diaria de las personas."
+      },
+      {
+        "name": "Día de Leif Erikson",
+        "description": "Observado en Estados Unidos y los países nórdicos, este día honra al explorador nórdico Leif Erikson, quien se cree fue el primer europeo en llegar a Norteamérica alrededor del año 1000 d.C."
+      },
+      {
+        "name": "Día del Hangul",
+        "description": "En Corea del Sur, el Día del Hangul celebra la creación y promulgación del alfabeto coreano, el Hangul, que es reconocido por su diseño científico y accesibilidad."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“Puede que digas que soy un soñador, pero no soy el único. Espero que algún día te unas a nosotros, y el mundo será uno solo.”",
+      "author": "John Lennon",
+      "context": "John Lennon, el icónico músico y compositor, nació el 9 de octubre de 1940. Esta cita de su canción 'Imagine' refleja su mensaje perdurable de paz y unidad."
+    },
+    "motivationalQuote": {
+      "text": "“Nunca dudes que un pequeño grupo de ciudadanos reflexivos y comprometidos puede cambiar el mundo. De hecho, es lo único que siempre lo ha logrado.”",
+      "author": "Margaret Mead"
+    },
+    "births": [
+      {
+        "name": "John Lennon",
+        "description": "Un cantante, compositor y activista por la paz inglés que alcanzó fama mundial como cofundador, colíder vocalista y guitarrista rítmico de The Beatles.",
+        "year": "1940"
+      },
+      {
+        "name": "Mary Ann Shadd Cary",
+        "description": "Una activista anti-esclavitud, periodista, editora, maestra y abogada afroamericana-canadiense, considerada la primera editora de periódico afroamericana.",
+        "year": "1823"
+      },
+      {
+        "name": "Jackson Browne",
+        "description": "Un cantautor de rock estadounidense, conocido por sus letras introspectivas y sonido de rock melódico, que se hizo prominente en la década de 1970.",
+        "year": "1948"
+      }
+    ],
+    "events": [
+      {
+        "title": "Leif Erikson Llega a Norteamérica",
+        "description": "Se cree que el explorador nórdico Leif Erikson llegó a 'Vinlandia' (Norteamérica), convirtiéndose en uno de los primeros europeos en pisar el continente, siglos antes de Colón.",
+        "year": "1000"
+      },
+      {
+        "title": "Se Abre la Universidad de Yale",
+        "description": "La Collegiate School, que más tarde se convertiría en la Universidad de Yale, abrió oficialmente sus puertas en Killingworth (ahora Clinton), Connecticut, antes de trasladarse a New Haven.",
+        "year": "1701"
+      },
+      {
+        "title": "Francia Abolió la Pena Capital",
+        "description": "El presidente François Mitterrand firmó una ley que abolía la pena capital en Francia, declarando ilegal la ejecución de prisioneros en el país.",
+        "year": "1981"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Mundial del Correo",
+      "teaser": "Este día conmemora el establecimiento de la Unión Postal Universal (UPU) en 1874 y tiene como objetivo aumentar la concienciación sobre el papel del sector postal en la vida diaria de las personas."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Denis of Paris",
+        "type": "Bishop, Martyr",
+        "description": "Saint Denis, the first bishop of Paris, was martyred for preaching Christianity in Roman-occupied Gaul. Legend states he carried his own severed head after his execution."
+      },
+      {
+        "name": "Saint John Leonardi",
+        "type": "Priest, Founder",
+        "description": "Saint John Leonardi was a pharmacist who became a priest and founded the Clerks Regular of the Mother of God, focusing on the reform of the clergy."
+      },
+      {
+        "name": "Apostle James, son of Alphaeus",
+        "type": "Apostle, Martyr",
+        "description": "One of the Twelve Apostles, Saint James, son of Alphaeus, preached the Gospel in Judea, Edessa, Gaza, and Eleutheropolis, and was crucified by pagans in Ostrachina, Egypt."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Post Day",
+        "description": "This day commemorates the establishment of the Universal Postal Union (UPU) in 1874 and aims to raise awareness of the postal sector's role in people's daily lives."
+      },
+      {
+        "name": "Leif Erikson Day",
+        "description": "Observed in the United States and Nordic countries, this day honors the Norse explorer Leif Erikson, believed to be the first European to reach North America around 1000 CE."
+      },
+      {
+        "name": "Hangul Day",
+        "description": "In South Korea, Hangul Day celebrates the creation and promulgation of the Korean alphabet, Hangul, which is recognized for its scientific design and accessibility."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us, and the world will be as one.”",
+      "author": "John Lennon",
+      "context": "John Lennon, the iconic musician and songwriter, was born on October 9, 1940. This quote from his song 'Imagine' reflects his enduring message of peace and unity."
+    },
+    "motivationalQuote": {
+      "text": "“Never doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has.”",
+      "author": "Margaret Mead"
+    },
+    "births": [
+      {
+        "name": "John Lennon",
+        "description": "An English singer, songwriter, and peace activist who gained worldwide fame as the co-founder, co-lead vocalist, and rhythm guitarist of The Beatles.",
+        "year": "1940"
+      },
+      {
+        "name": "Mary Ann Shadd Cary",
+        "description": "An American-Canadian anti-slavery activist, journalist, publisher, teacher, and lawyer, considered the first Black American newspaper publisher.",
+        "year": "1823"
+      },
+      {
+        "name": "Jackson Browne",
+        "description": "An American rock singer-songwriter, known for his introspective lyrics and melodic rock sound, who became prominent in the 1970s.",
+        "year": "1948"
+      }
+    ],
+    "events": [
+      {
+        "title": "Leif Erikson Reaches North America",
+        "description": "Norse explorer Leif Erikson is believed to have reached 'Vinland' (North America), becoming one of the first Europeans to set foot on the continent, centuries before Columbus.",
+        "year": "1000"
+      },
+      {
+        "title": "Yale University Opens",
+        "description": "Collegiate School, which would later become Yale University, officially opened its doors in Killingworth (now Clinton), Connecticut, before moving to New Haven.",
+        "year": "1701"
+      },
+      {
+        "title": "France Abolishes Capital Punishment",
+        "description": "President François Mitterrand signed a law abolishing capital punishment in France, making it illegal to execute prisoners in the country.",
+        "year": "1981"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is World Post Day",
+      "teaser": "This day commemorates the establishment of the Universal Postal Union (UPU) in 1874 and aims to raise awareness of the postal sector's role in people's daily lives."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Dinis de Paris",
+        "type": "Bispo, Mártir",
+        "description": "São Dinis, o primeiro bispo de Paris, foi martirizado por pregar o cristianismo na Gália ocupada pelos romanos. A lenda afirma que ele carregou sua própria cabeça decepada após sua execução."
+      },
+      {
+        "name": "São João Leonardi",
+        "type": "Padre, Fundador",
+        "description": "São João Leonardi foi um farmacêutico que se tornou padre e fundou os Clérigos Regulares da Mãe de Deus, focando na reforma do clero."
+      },
+      {
+        "name": "Apóstolo Tiago, filho de Alfeu",
+        "type": "Apóstolo, Mártir",
+        "description": "Um dos Doze Apóstolos, São Tiago, filho de Alfeu, pregou o Evangelho na Judeia, Edessa, Gaza e Eleuterópolis, e foi crucificado por pagãos em Ostrachina, Egito."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial dos Correios",
+        "description": "Este dia comemora o estabelecimento da União Postal Universal (UPU) em 1874 e visa aumentar a conscientização sobre o papel do setor postal na vida diária das pessoas."
+      },
+      {
+        "name": "Dia de Leif Erikson",
+        "description": "Observado nos Estados Unidos e nos países nórdicos, este dia homenageia o explorador nórdico Leif Erikson, considerado o primeiro europeu a chegar à América do Norte por volta de 1000 d.C."
+      },
+      {
+        "name": "Dia do Hangul",
+        "description": "Na Coreia do Sul, o Dia do Hangul celebra a criação e promulgação do alfabeto coreano, o Hangul, que é reconhecido por seu design científico e acessibilidade."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“Você pode dizer que sou um sonhador, mas não sou o único. Espero que um dia você se junte a nós, e o mundo será um só.”",
+      "author": "John Lennon",
+      "context": "John Lennon, o icônico músico e compositor, nasceu em 9 de outubro de 1940. Esta citação de sua canção 'Imagine' reflete sua mensagem duradoura de paz e unidade."
+    },
+    "motivationalQuote": {
+      "text": "“Nunca duvide que um pequeno grupo de cidadãos pensativos e comprometidos pode mudar o mundo. De fato, é a única coisa que sempre o fez.”",
+      "author": "Margaret Mead"
+    },
+    "births": [
+      {
+        "name": "John Lennon",
+        "description": "Um cantor, compositor e ativista pela paz inglês que alcançou fama mundial como cofundador, co-vocalista principal e guitarrista rítmico dos The Beatles.",
+        "year": "1940"
+      },
+      {
+        "name": "Mary Ann Shadd Cary",
+        "description": "Uma ativista anti-escravidão, jornalista, editora, professora e advogada afro-americana-canadense, considerada a primeira editora de jornal negra americana.",
+        "year": "1823"
+      },
+      {
+        "name": "Jackson Browne",
+        "description": "Um cantor e compositor de rock americano, conhecido por suas letras introspectivas e som de rock melódico, que se tornou proeminente na década de 1970.",
+        "year": "1948"
+      }
+    ],
+    "events": [
+      {
+        "title": "Leif Erikson Chega à América do Norte",
+        "description": "Acredita-se que o explorador nórdico Leif Erikson tenha chegado a 'Vinlândia' (América do Norte), tornando-se um dos primeiros europeus a pisar no continente, séculos antes de Colombo.",
+        "year": "1000"
+      },
+      {
+        "title": "Universidade Yale é Inaugurada",
+        "description": "A Collegiate School, que mais tarde se tornaria a Universidade Yale, abriu oficialmente suas portas em Killingworth (agora Clinton), Connecticut, antes de se mudar para New Haven.",
+        "year": "1701"
+      },
+      {
+        "title": "França Aboliu a Pena Capital",
+        "description": "O Presidente François Mitterrand assinou uma lei abolindo a pena capital na França, tornando ilegal a execução de prisioneiros no país.",
+        "year": "1981"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Mundial dos Correios",
+      "teaser": "Este dia comemora o estabelecimento da União Postal Universal (UPU) em 1874 e visa aumentar a conscientização sobre o papel do setor postal na vida diária das pessoas."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Dionís de París",
+        "type": "Bisbe, Màrtir",
+        "description": "Sant Dionís, el primer bisbe de París, va ser martiritzat per predicar el cristianisme a la Gàl·lia ocupada pels romans. La llegenda diu que va portar el seu propi cap tallat després de la seva execució."
+      },
+      {
+        "name": "Sant Joan Leonardi",
+        "type": "Sacerdot, Fundador",
+        "description": "Sant Joan Leonardi va ser un farmacèutic que es va convertir en sacerdot i va fundar els Clergues Regulars de la Mare de Déu, centrant-se en la reforma del clergat."
+      },
+      {
+        "name": "Apòstol Jaume, fill d'Alfeu",
+        "type": "Apòstol, Màrtir",
+        "description": "Un dels Dotze Apòstols, Sant Jaume, fill d'Alfeu, va predicar l'Evangeli a Judea, Edessa, Gaza i Eleuteròpolis, i va ser crucificat pels pagans a Ostrachina, Egipte."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial del Correu",
+        "description": "Aquest dia commemora l'establiment de la Unió Postal Universal (UPU) el 1874 i té com a objectiu sensibilitzar sobre el paper del sector postal en la vida quotidiana de les persones."
+      },
+      {
+        "name": "Dia de Leif Erikson",
+        "description": "Observat als Estats Units i països nòrdics, aquest dia homenatja l'explorador nòrdic Leif Erikson, considerat el primer europeu a arribar a Amèrica del Nord cap a l'any 1000 dC."
+      },
+      {
+        "name": "Dia del Hangeul",
+        "description": "A Corea del Sud, el Dia del Hangeul celebra la creació i promulgació de l'alfabet coreà, el Hangeul, que és reconegut pel seu disseny científic i accessibilitat."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“Potser direu que sóc un somiador, però no sóc l'únic. Espero que algun dia us uniu a nosaltres, i el món serà un de sol.”",
+      "author": "John Lennon",
+      "context": "John Lennon, l'icònic músic i compositor, va néixer el 9 d'octubre de 1940. Aquesta cita de la seva cançó 'Imagine' reflecteix el seu missatge perdurable de pau i unitat."
+    },
+    "motivationalQuote": {
+      "text": "“No dubtis mai que un petit grup de ciutadans reflexius i compromesos pot canviar el món. De fet, és l'únic que ho ha fet mai.”",
+      "author": "Margaret Mead"
+    },
+    "births": [
+      {
+        "name": "John Lennon",
+        "description": "Cantant, compositor i activista per la pau anglès que va aconseguir fama mundial com a cofundador, cocantant principal i guitarrista rítmic de The Beatles.",
+        "year": "1940"
+      },
+      {
+        "name": "Mary Ann Shadd Cary",
+        "description": "Activista antiesclavista, periodista, editora, mestra i advocada nord-americana-canadenca, considerada la primera editora de diaris negra americana.",
+        "year": "1823"
+      },
+      {
+        "name": "Jackson Browne",
+        "description": "Cantautor de rock nord-americà, conegut per les seves lletres introspectives i el seu so de rock melòdic, que va destacar als anys 70.",
+        "year": "1948"
+      }
+    ],
+    "events": [
+      {
+        "title": "Leif Erikson arriba a Amèrica del Nord",
+        "description": "Es creu que l'explorador nòrdic Leif Erikson va arribar a 'Vinland' (Amèrica del Nord), convertint-se en un dels primers europeus a posar un peu al continent, segles abans de Colom.",
+        "year": "1000"
+      },
+      {
+        "title": "La Universitat de Yale obre",
+        "description": "La Collegiate School, que més tard es convertiria en la Universitat de Yale, va obrir oficialment les seves portes a Killingworth (ara Clinton), Connecticut, abans de traslladar-se a New Haven.",
+        "year": "1701"
+      },
+      {
+        "title": "França aboleix la pena capital",
+        "description": "El president François Mitterrand va signar una llei que abolia la pena capital a França, fent il·legal l'execució de presoners al país.",
+        "year": "1981"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Mundial del Correu",
+      "teaser": "Aquest dia commemora l'establiment de la Unió Postal Universal (UPU) el 1874 i té com a objectiu sensibilitzar sobre el paper del sector postal en la vida quotidiana de les persones."
+    }
+  }
+}
