@@ -1,0 +1,347 @@
+{
+  "date": "2026-10-11",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Æthelburh de Barking",
+        "type": "Abadesa",
+        "description": "Fundadora y primera abadesa de la Abadía de Barking en Inglaterra, fue conocida por su piedad y liderazgo durante el siglo VII, particularmente por el cuidado de su comunidad durante un brote de peste."
+      },
+      {
+        "name": "San Alejandro Sauli",
+        "type": "Obispo",
+        "description": "Un sacerdote italiano y obispo de Aléria, Córcega, conocido como el 'Apóstol de Córcega' por su trabajo en la reconstrucción de iglesias, la fundación de instituciones educativas y la revitalización de la Iglesia en el siglo XVI."
+      },
+      {
+        "name": "Santos Andrónico, Probo y Taraco",
+        "type": "Mártires",
+        "description": "Estos tres mártires fueron ejecutados en Cilicia alrededor del año 304 d.C. durante la persecución de Diocleciano por negarse a renunciar a su fe cristiana, soportando diversas torturas."
+      },
+      {
+        "name": "San Agilberto",
+        "type": "Obispo",
+        "description": "Un obispo franco que sirvió en el reino de los sajones occidentales y más tarde como obispo de París, fue una figura influyente en la Iglesia del siglo VII, participando en el Sínodo de Whitby."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Niña",
+        "description": "Una celebración de las Naciones Unidas cuyo objetivo es destacar y abordar las necesidades y desafíos que enfrentan las niñas, al tiempo que promueve su empoderamiento y la realización de sus derechos humanos."
+      },
+      {
+        "name": "Día Nacional de Salir del Armario (Estados Unidos)",
+        "description": "Establecido en 1988, este día celebra el acto de salir del armario como persona LGBTQ+ como un acto político y personal de visibilidad, fomentando la conciencia civil y el apoyo a la comunidad LGBTQ."
+      },
+      {
+        "name": "Día Conmemorativo del General Pulaski (Estados Unidos)",
+        "description": "Este día honra a Casimir Pulaski, un noble y comandante militar polaco que se convirtió en héroe de la Guerra de Independencia de los Estados Unidos y es celebrado como el 'Padre de la Caballería Estadounidense'."
+      }
+    ],
+    "historicalQuote": {
+      "text": "¿Dónde, después de todo, comienzan los derechos humanos universales? En pequeños lugares, cerca de casa, tan cerca y tan pequeños que no pueden verse en ningún mapa del mundo. Sin embargo, son el mundo de la persona individual; el vecindario en el que vive; la escuela o la universidad a la que asiste; la fábrica, granja u oficina donde trabaja. Tales son los lugares donde todo hombre, mujer y niño busca igual justicia, igual oportunidad, igual dignidad sin discriminación. A menos que estos derechos tengan significado allí, tienen poco significado en cualquier otro lugar. Sin una acción ciudadana concertada para defenderlos cerca de casa, buscaremos en vano el progreso en el mundo en general.",
+      "author": "Eleanor Roosevelt",
+      "context": "Eleanor Roosevelt, figura política, diplomática y activista estadounidense, nació el 11 de octubre de 1884. Desempeñó un papel principal en la redacción de la Declaración Universal de Derechos Humanos."
+    },
+    "motivationalQuote": {
+      "text": "El precio de cualquier cosa es la cantidad de vida que intercambias por ella.",
+      "author": "Henry David Thoreau"
+    },
+    "births": [
+      {
+        "name": "Eleanor Roosevelt",
+        "description": "Influyente figura política, diplomática y activista estadounidense que fue la Primera Dama de los Estados Unidos con más años de servicio y presidió la Comisión de Derechos Humanos de la ONU.",
+        "year": "1884"
+      },
+      {
+        "name": "Henry J. Heinz",
+        "description": "Emprendedor estadounidense que fundó la H. J. Heinz Company, conocida por sus icónicos productos alimenticios.",
+        "year": "1844"
+      },
+      {
+        "name": "Amitabh Bachchan",
+        "description": "Legendario actor, productor de cine y personalidad televisiva indio que ha protagonizado más de 200 películas a lo largo de su carrera.",
+        "year": "1942"
+      }
+    ],
+    "events": [
+      {
+        "title": "Apertura del Concilio Vaticano Segundo",
+        "description": "El Papa Juan XXIII inauguró el Concilio Vaticano Segundo (Vaticano II), un evento histórico que trajo cambios significativos a la Iglesia Católica, incluyendo reformas litúrgicas y una mayor participación en el mundo moderno.",
+        "year": "1962"
+      },
+      {
+        "title": "Primera Mujer Estadounidense Camina en el Espacio",
+        "description": "La Dra. Kathryn Sullivan se convirtió en la primera mujer estadounidense en realizar una actividad extravehicular (EVA), o caminata espacial, durante la misión STS-41-G del Transbordador Espacial Challenger de la NASA.",
+        "year": "1984"
+      },
+      {
+        "title": "La NASA Lanza el Apolo 7",
+        "description": "La NASA lanzó con éxito el Apolo 7, el primer vuelo tripulado de la nave espacial Apolo, que validó los módulos de comando y servicio en órbita terrestre y preparó el camino para las misiones lunares.",
+        "year": "1968"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de la Niña",
+      "teaser": "Una celebración de las Naciones Unidas cuyo objetivo es destacar y abordar las necesidades y desafíos que enfrentan las niñas, al tiempo que promueve su empoderamiento y la realización de sus derechos humanos."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Æthelburh of Barking",
+        "type": "Abbess",
+        "description": "Founder and first abbess of Barking Abbey in England, she was known for her piety and leadership during the 7th century, particularly in caring for her community during a plague outbreak."
+      },
+      {
+        "name": "Saint Alexander Sauli",
+        "type": "Bishop",
+        "description": "An Italian priest and Bishop of Aléria, Corsica, known as the 'Apostle of Corsica' for his work in rebuilding churches, founding educational institutions, and revitalizing the Church in the 16th century."
+      },
+      {
+        "name": "Saints Andronicus, Probus, and Tarachus",
+        "type": "Martyrs",
+        "description": "These three martyrs were executed in Cilicia around 304 AD during the Diocletian persecution for refusing to renounce their Christian faith, enduring various tortures."
+      },
+      {
+        "name": "Saint Agilbert",
+        "type": "Bishop",
+        "description": "A Frankish bishop who served in the West Saxon kingdom and later as Bishop of Paris, he was an influential figure in the 7th-century Church, participating in the Synod of Whitby."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of the Girl Child",
+        "description": "A United Nations observance aiming to highlight and address the needs and challenges girls face, while promoting girls' empowerment and the fulfillment of their human rights."
+      },
+      {
+        "name": "National Coming Out Day (United States)",
+        "description": "Established in 1988, this day celebrates the act of coming out as LGBTQ+ as a political and personal act of visibility, encouraging civil awareness and support for the LGBTQ community."
+      },
+      {
+        "name": "General Pulaski Memorial Day (United States)",
+        "description": "This day honors Casimir Pulaski, a Polish nobleman and military commander who became a hero of the American Revolutionary War and is celebrated as the 'Father of the American Cavalry.'"
+      }
+    ],
+    "historicalQuote": {
+      "text": "Where, after all, do universal human rights begin? In small places, close to home—so close and so small that they cannot be seen on any maps of the world. Yet they are the world of the individual person; the neighborhood he lives in; the school or college he attends; the factory, farm, or office where he works. Such are the places where every man, woman, and child seeks equal justice, equal opportunity, equal dignity without discrimination. Unless these rights have meaning there, they have little meaning anywhere. Without concerted citizen action to uphold them close to home, we shall look in vain for progress in the larger world.",
+      "author": "Eleanor Roosevelt",
+      "context": "Eleanor Roosevelt, an American political figure, diplomat, and activist, was born on October 11, 1884. She played a leading role in drafting the Universal Declaration of Human Rights."
+    },
+    "motivationalQuote": {
+      "text": "The price of anything is the amount of life you exchange for it.",
+      "author": "Henry David Thoreau"
+    },
+    "births": [
+      {
+        "name": "Eleanor Roosevelt",
+        "description": "An influential American political figure, diplomat, and activist who served as the longest-serving First Lady of the United States and chaired the UN Human Rights Commission.",
+        "year": "1884"
+      },
+      {
+        "name": "Henry J. Heinz",
+        "description": "An American entrepreneur who founded the H. J. Heinz Company, known for its iconic food products.",
+        "year": "1844"
+      },
+      {
+        "name": "Amitabh Bachchan",
+        "description": "A legendary Indian actor, film producer, and television personality who has starred in over 200 films throughout his career.",
+        "year": "1942"
+      }
+    ],
+    "events": [
+      {
+        "title": "Second Vatican Council Opens",
+        "description": "Pope John XXIII opened the Second Vatican Council (Vatican II), a historic event that brought significant changes to the Catholic Church, including liturgical reforms and increased engagement with the modern world.",
+        "year": "1962"
+      },
+      {
+        "title": "First American Woman Walks in Space",
+        "description": "Dr. Kathryn Sullivan became the first American woman to perform an extravehicular activity (EVA), or spacewalk, during NASA's Space Shuttle Challenger mission STS-41-G.",
+        "year": "1984"
+      },
+      {
+        "title": "NASA Launches Apollo 7",
+        "description": "NASA successfully launched Apollo 7, the first crewed flight of the Apollo spacecraft, which validated the command and service modules in Earth orbit and paved the way for lunar missions.",
+        "year": "1968"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Day of the Girl Child",
+      "teaser": "A United Nations observance aiming to highlight and address the needs and challenges girls face, while promoting girls' empowerment and the fulfillment of their human rights."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Etelburga de Barking",
+        "type": "Abadessa",
+        "description": "Fundadora e primeira abadessa da Abadia de Barking na Inglaterra, ela era conhecida por sua piedade e liderança durante o século VII, particularmente no cuidado de sua comunidade durante um surto de peste."
+      },
+      {
+        "name": "Santo Alexandre Sauli",
+        "type": "Bispo",
+        "description": "Um sacerdote italiano e Bispo de Aléria, Córsega, conhecido como o 'Apóstolo da Córsega' por seu trabalho na reconstrução de igrejas, fundação de instituições educacionais e revitalização da Igreja no século XVI."
+      },
+      {
+        "name": "Santos Andrônico, Probo e Taraco",
+        "type": "Mártires",
+        "description": "Estes três mártires foram executados na Cilícia por volta de 304 d.C. durante a perseguição de Diocleciano por se recusarem a renunciar à sua fé cristã, suportando várias torturas."
+      },
+      {
+        "name": "Santo Agilberto",
+        "type": "Bispo",
+        "description": "Um bispo franco que serviu no reino da Saxônia Ocidental e mais tarde como Bispo de Paris, ele foi uma figura influente na Igreja do século VII, participando do Sínodo de Whitby."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Menina",
+        "description": "Uma observância das Nações Unidas que visa destacar e abordar as necessidades e desafios enfrentados pelas meninas, ao mesmo tempo em que promove o empoderamento das meninas e a realização de seus direitos humanos."
+      },
+      {
+        "name": "Dia Nacional de Sair do Armário (Estados Unidos)",
+        "description": "Estabelecido em 1988, este dia celebra o ato de se assumir como LGBTQ+ como um ato político e pessoal de visibilidade, incentivando a conscientização civil e o apoio à comunidade LGBTQ."
+      },
+      {
+        "name": "Dia Comemorativo do General Pulaski (Estados Unidos)",
+        "description": "Este dia homenageia Casimir Pulaski, um nobre e comandante militar polonês que se tornou um herói da Guerra Revolucionária Americana e é celebrado como o 'Pai da Cavalaria Americana'."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Onde, afinal, começam os direitos humanos universais? Em pequenos lugares, perto de casa — tão perto e tão pequenos que não podem ser vistos em nenhum mapa do mundo. No entanto, eles são o mundo da pessoa individual; o bairro onde mora; a escola ou faculdade que frequenta; a fábrica, fazenda ou escritório onde trabalha. Tais são os lugares onde todo homem, mulher e criança busca igual justiça, igual oportunidade, igual dignidade sem discriminação. A menos que esses direitos tenham significado ali, eles têm pouco significado em qualquer outro lugar. Sem uma ação cidadã concertada para defendê-los perto de casa, buscaremos em vão o progresso no mundo em geral.",
+      "author": "Eleanor Roosevelt",
+      "context": "Eleanor Roosevelt, figura política, diplomata e ativista americana, nasceu em 11 de outubro de 1884. Ela desempenhou um papel de liderança na redação da Declaração Universal dos Direitos Humanos."
+    },
+    "motivationalQuote": {
+      "text": "O preço de qualquer coisa é a quantidade de vida que você troca por ela.",
+      "author": "Henry David Thoreau"
+    },
+    "births": [
+      {
+        "name": "Eleanor Roosevelt",
+        "description": "Influente figura política, diplomata e ativista americana que serviu como a Primeira-Dama dos Estados Unidos com o mandato mais longo e presidiu a Comissão de Direitos Humanos da ONU.",
+        "year": "1884"
+      },
+      {
+        "name": "Henry J. Heinz",
+        "description": "Empresário americano que fundou a H. J. Heinz Company, conhecida por seus icônicos produtos alimentícios.",
+        "year": "1844"
+      },
+      {
+        "name": "Amitabh Bachchan",
+        "description": "Lendário ator, produtor de cinema e personalidade televisiva indiano que estrelou mais de 200 filmes ao longo de sua carreira.",
+        "year": "1942"
+      }
+    ],
+    "events": [
+      {
+        "title": "Abertura do Concílio Vaticano Segundo",
+        "description": "O Papa João XXIII inaugurou o Concílio Vaticano Segundo (Vaticano II), um evento histórico que trouxe mudanças significativas para a Igreja Católica, incluindo reformas litúrgicas e maior engajamento com o mundo moderno.",
+        "year": "1962"
+      },
+      {
+        "title": "Primeira Mulher Americana Caminha no Espaço",
+        "description": "A Dra. Kathryn Sullivan tornou-se a primeira mulher americana a realizar uma atividade extraveicular (EVA), ou caminhada espacial, durante a missão STS-41-G do Ônibus Espacial Challenger da NASA.",
+        "year": "1984"
+      },
+      {
+        "title": "NASA Lança o Apolo 7",
+        "description": "A NASA lançou com sucesso o Apolo 7, o primeiro voo tripulado da espaçonave Apolo, que validou os módulos de comando e serviço em órbita terrestre e abriu caminho para as missões lunares.",
+        "year": "1968"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional da Menina",
+      "teaser": "Uma observância das Nações Unidas que visa destacar e abordar as necessidades e desafios enfrentados pelas meninas, ao mesmo tempo em que promove o empoderamento das meninas e a realização de seus direitos humanos."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Etelburga de Barking",
+        "type": "Abadessa",
+        "description": "Fundadora i primera abadessa de l'Abadia de Barking a Anglaterra, va ser coneguda per la seva pietat i lideratge durant el segle VII, particularment en la cura de la seva comunitat durant un brot de pesta."
+      },
+      {
+        "name": "Sant Alexandre Sauli",
+        "type": "Bisbe",
+        "description": "Un sacerdot italià i Bisbe d'Aléria, Còrsega, conegut com l''Apòstol de Còrsega' per la seva feina en la reconstrucció d'esglésies, la fundació d'institucions educatives i la revitalització de l'Església al segle XVI."
+      },
+      {
+        "name": "Sants Andronic, Probus i Tarac",
+        "type": "Màrtirs",
+        "description": "Aquests tres màrtirs van ser executats a Cilícia al voltant del 304 dC durant la persecució de Dioclecià per negar-se a renunciar a la seva fe cristiana, suportant diverses tortures."
+      },
+      {
+        "name": "Sant Agilbert",
+        "type": "Bisbe",
+        "description": "Un bisbe franc que va servir al regne de Wessex i posteriorment com a Bisbe de París, va ser una figura influent a l'Església del segle VII, participant en el Sínode de Whitby."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la Nena",
+        "description": "Una observança de les Nacions Unides amb l'objectiu de destacar i abordar les necessitats i els desafiaments que enfronten les nenes, tot promovent el seu empoderament i la realització dels seus drets humans."
+      },
+      {
+        "name": "Dia Nacional per Sortir de l'Armari (Estats Units)",
+        "description": "Establert el 1988, aquest dia celebra l'acte de sortir de l'armari com a LGBTQ+ com un acte polític i personal de visibilitat, fomentant la consciència civil i el suport a la comunitat LGBTQ."
+      },
+      {
+        "name": "Dia en Memòria del General Pulaski (Estats Units)",
+        "description": "Aquest dia honora Casimir Pulaski, un noble i comandant militar polonès que es va convertir en un heroi de la Guerra d'Independència dels Estats Units i és celebrat com el 'Pare de la Cavalleria Americana'."
+      }
+    ],
+    "historicalQuote": {
+      "text": "On, al cap i a la fi, comencen els drets humans universals? En llocs petits, a prop de casa—tan a prop i tan petits que no es poden veure en cap mapa del món. Però són el món de la persona individual; el barri on viu; l'escola o la universitat on assisteix; la fàbrica, la granja o l'oficina on treballa. Aquests són els llocs on cada home, dona i nen busca justícia, igualtat d'oportunitats i dignitat sense discriminació. A menys que aquests drets tinguin sentit allà, tenen poc sentit en qualsevol altre lloc. Sense una acció ciutadana concertada per defensar-los a prop de casa, buscarem en va el progrés en el món en general.",
+      "author": "Eleanor Roosevelt",
+      "context": "Eleanor Roosevelt, una figura política, diplomàtica i activista nord-americana, va néixer l'11 d'octubre de 1884. Va tenir un paper destacat en la redacció de la Declaració Universal dels Drets Humans."
+    },
+    "motivationalQuote": {
+      "text": "El preu de qualsevol cosa és la quantitat de vida que hi intercanvies.",
+      "author": "Henry David Thoreau"
+    },
+    "births": [
+      {
+        "name": "Eleanor Roosevelt",
+        "description": "Una influent figura política, diplomàtica i activista nord-americana que va ser la Primera Dama dels Estats Units que més temps va ocupar el càrrec i va presidir la Comissió de Drets Humans de l'ONU.",
+        "year": "1884"
+      },
+      {
+        "name": "Henry J. Heinz",
+        "description": "Un empresari nord-americà que va fundar la H. J. Heinz Company, coneguda pels seus icònics productes alimentaris.",
+        "year": "1844"
+      },
+      {
+        "name": "Amitabh Bachchan",
+        "description": "Un llegendari actor, productor de cinema i personalitat televisiva indi que ha protagonitzat més de 200 pel·lícules al llarg de la seva carrera.",
+        "year": "1942"
+      }
+    ],
+    "events": [
+      {
+        "title": "S'obre el Concili Vaticà II",
+        "description": "El Papa Joan XXIII va obrir el Concili Vaticà Segon (Vaticà II), un esdeveniment històric que va comportar canvis significatius a l'Església Catòlica, incloent reformes litúrgiques i una major implicació amb el món modern.",
+        "year": "1962"
+      },
+      {
+        "title": "La primera dona nord-americana camina per l'espai",
+        "description": "La Dra. Kathryn Sullivan es va convertir en la primera dona nord-americana a realitzar una activitat extravehicular (EVA), o passeig espacial, durant la missió STS-41-G del transbordador espacial Challenger de la NASA.",
+        "year": "1984"
+      },
+      {
+        "title": "La NASA llança l'Apollo 7",
+        "description": "La NASA va llançar amb èxit l'Apollo 7, el primer vol tripulat de la nau espacial Apollo, que va validar els mòduls de comandament i servei en òrbita terrestre i va obrir el camí per a les missions lunars.",
+        "year": "1968"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de la Nena",
+      "teaser": "Una observança de les Nacions Unides amb l'objectiu de destacar i abordar les necessitats i els desafiaments que enfronten les nenes, tot promovent el seu empoderament i la realització dels seus drets humans."
+    }
+  }
+}
