@@ -1,0 +1,327 @@
+{
+  "date": "2026-10-12",
+  "es": {
+    "saints": [
+      {
+        "name": "Beato Carlo Acutis",
+        "type": "Laico, Ciber-Apóstol",
+        "description": "Nacido en Milán, Italia, Carlo Acutis fue un adolescente católico devoto que utilizó sus habilidades informáticas para crear sitios web que glorificaban a Dios y catalogaban los milagros eucarísticos antes de su muerte por leucemia a los 15 años."
+      },
+      {
+        "name": "San Edwin de Northumbria",
+        "type": "Rey, Mártir",
+        "description": "San Edwin fue un rey de Northumbria del siglo VII que se convirtió al cristianismo y desempeñó un papel crucial en la propagación de la fe en todo su reino antes de ser martirizado."
+      },
+      {
+        "name": "Santos Probo, Taraco y Andrónico",
+        "type": "Mártires",
+        "description": "Estos tres santos sufrieron por su fe cristiana en Cilicia en el año 304 d.C., soportando diversas torturas bajo la persecución romana por negarse a ofrecer sacrificios a los ídolos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Raza / Día del Respeto a la Diversidad Cultural / Día de los Pueblos Indígenas",
+        "description": "Conmemorado en muchos países de América Latina y partes de Estados Unidos, este día reconoce la llegada de Cristóbal Colón a las Américas en 1492 y su impacto, evolucionando para celebrar la herencia indígena y la diversidad cultural."
+      },
+      {
+        "name": "Día Mundial de la Artritis",
+        "description": "Observado internacionalmente, este día concientiza sobre la artritis, una condición que causa dolor e inflamación en las articulaciones, y aboga por un mejor tratamiento y manejo."
+      },
+      {
+        "name": "Día de la Independencia de Guinea Ecuatorial",
+        "description": "Esta fiesta nacional en Guinea Ecuatorial celebra la independencia del país del dominio colonial español, lograda el 12 de octubre de 1968."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El mérito pertenece al hombre que está realmente en la arena, cuyo rostro está desfigurado por el polvo, el sudor y la sangre; que se esfuerza valientemente; que se equivoca, que falla una y otra vez, porque no hay esfuerzo sin error y sin deficiencia; pero que realmente se esfuerza por hacer las obras; que conoce grandes entusiasmos, las grandes devociones; que se entrega a una causa digna; que en el mejor de los casos conoce al final el triunfo del gran logro, y que en el peor de los casos, si fracasa, al menos fracasa mientras se atreve con valentía, de modo que su lugar nunca estará con aquellas almas frías y tímidas que no conocen ni la victoria ni la derrota.",
+      "author": "Theodore Roosevelt",
+      "context": "El 12 de octubre de 1901, el presidente Theodore Roosevelt renombró oficialmente la 'Mansión Ejecutiva' como la Casa Blanca, simbolizando los ideales democráticos y la naturaleza pública de la presidencia. Esta cita encarna su espíritu de compromiso y acción."
+    },
+    "motivationalQuote": {
+      "text": "La felicidad de tu vida depende de la calidad de tus pensamientos.",
+      "author": "Marco Aurelio"
+    },
+    "births": [
+      {
+        "name": "Eduardo VI",
+        "description": "Rey de Inglaterra e Irlanda desde 1547 hasta su muerte, Eduardo VI fue el hijo de Enrique VIII y Jane Seymour y el primer monarca inglés criado como protestante.",
+        "year": "1537"
+      },
+      {
+        "name": "Luciano Pavarotti",
+        "description": "Un icónico tenor operístico italiano, fue uno de los tenores de mayor éxito comercial de todos los tiempos, reconocido por la pureza de su voz y sus emocionantes 'Do' agudos.",
+        "year": "1935"
+      },
+      {
+        "name": "Hugh Jackman",
+        "description": "Aclamado actor y cantante australiano, Jackman es ampliamente conocido por sus diversos papeles, incluyendo Wolverine en la serie de películas X-Men y su actuación ganadora del Premio Tony en 'The Boy from Oz'.",
+        "year": "1968"
+      }
+    ],
+    "events": [
+      {
+        "title": "La Expedición de Colón Toca Tierra",
+        "description": "La expedición de Cristóbal Colón tocó tierra en el Caribe el 12 de octubre de 1492, marcando un momento crucial de contacto entre los continentes europeo y americano e iniciando una nueva era de interacción y exploración global.",
+        "year": "1492"
+      },
+      {
+        "title": "La Casa Blanca Recibe su Nombre Oficial",
+        "description": "El 12 de octubre de 1901, el presidente Theodore Roosevelt renombró oficialmente la 'Mansión Ejecutiva' como 'La Casa Blanca', solidificando su estatus icónico como residencia oficial y principal lugar de trabajo del Presidente de los Estados Unidos.",
+        "year": "1901"
+      },
+      {
+        "title": "Lanzamiento del Primer Vuelo Espacial Tripulado por Varias Personas",
+        "description": "La Unión Soviética lanzó Voskhod 1 el 12 de octubre de 1964, logrando el primer vuelo espacial con una tripulación multipersonal, un hito significativo en la exploración espacial y el esfuerzo humano.",
+        "year": "1964"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día de la Raza / Día del Respeto a la Diversidad Cultural / Día de los Pueblos Indígenas",
+      "teaser": "Conmemorado en muchos países de América Latina y partes de Estados Unidos, este día reconoce la llegada de Cristóbal Colón a las Américas en 1492 y su impacto, evolucionando para celebrar la herencia indígena y la diversidad cultural."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Blessed Carlo Acutis",
+        "type": "Layman, Cyber-Apostle",
+        "description": "Born in Milan, Italy, Carlo Acutis was a devout Catholic teenager who used his computer skills to create websites glorifying God and cataloging Eucharistic miracles before his death from leukemia at age 15."
+      },
+      {
+        "name": "Saint Edwin of Northumbria",
+        "type": "King, Martyr",
+        "description": "Saint Edwin was a 7th-century King of Northumbria who converted to Christianity and played a crucial role in spreading the faith throughout his kingdom before being martyred."
+      },
+      {
+        "name": "Saints Probus, Tarachus, and Andronicus",
+        "type": "Martyrs",
+        "description": "These three saints suffered for their Christian faith in Cilicia in 304 AD, enduring various tortures under Roman persecution for refusing to offer sacrifices to idols."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Raza / Day of Respect for Cultural Diversity / Indigenous Peoples' Day",
+        "description": "Commemorated in many Latin American countries and parts of the United States, this day acknowledges the arrival of Christopher Columbus in the Americas in 1492 and its impact, evolving to celebrate indigenous heritage and cultural diversity."
+      },
+      {
+        "name": "World Arthritis Day",
+        "description": "Observed internationally, this day raises awareness about arthritis, a condition that causes pain and inflammation in joints, and advocates for better treatment and management."
+      },
+      {
+        "name": "Equatorial Guinea Independence Day",
+        "description": "This national holiday in Equatorial Guinea celebrates the country's independence from Spanish colonial rule, achieved on October 12, 1968."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.",
+      "author": "Theodore Roosevelt",
+      "context": "On October 12, 1901, President Theodore Roosevelt officially renamed the 'Executive Mansion' to the White House, symbolizing the democratic ideals and public nature of the presidency. This quote embodies his spirit of engagement and action."
+    },
+    "motivationalQuote": {
+      "text": "The happiness of your life depends on the quality of your thoughts.",
+      "author": "Marcus Aurelius"
+    },
+    "births": [
+      {
+        "name": "Edward VI",
+        "description": "King of England and Ireland from 1547 until his death, Edward VI was the son of Henry VIII and Jane Seymour and the first English monarch raised as a Protestant.",
+        "year": "1537"
+      },
+      {
+        "name": "Luciano Pavarotti",
+        "description": "An iconic Italian operatic tenor, he was one of the most commercially successful tenors of all time, renowned for his vocal purity and thrilling high C's.",
+        "year": "1935"
+      },
+      {
+        "name": "Hugh Jackman",
+        "description": "An acclaimed Australian actor and singer, Jackman is widely known for his diverse roles, including Wolverine in the X-Men film series and his Tony Award-winning performance in 'The Boy from Oz.'",
+        "year": "1968"
+      }
+    ],
+    "events": [
+      {
+        "title": "Columbus's Expedition Makes Landfall",
+        "description": "Christopher Columbus's expedition made landfall in the Caribbean on October 12, 1492, marking a pivotal moment of contact between European and American continents and initiating a new era of global interaction and exploration.",
+        "year": "1492"
+      },
+      {
+        "title": "The White House Officially Named",
+        "description": "On October 12, 1901, President Theodore Roosevelt officially renamed the 'Executive Mansion' to 'The White House,' solidifying its iconic status as the official residence and principal workplace of the President of the United States.",
+        "year": "1901"
+      },
+      {
+        "title": "First Multi-Person Spaceflight Launched",
+        "description": "The Soviet Union launched Voskhod 1 on October 12, 1964, achieving the first spaceflight with a multi-person crew, a significant milestone in space exploration and human endeavor.",
+        "year": "1964"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Día de la Raza / Day of Respect for Cultural Diversity / Indigenous Peoples' Day",
+      "teaser": "Commemorated in many Latin American countries and parts of the United States, this day acknowledges the arrival of Christopher Columbus in the Americas in 1492 and its impact, evolving to celebrate indigenous heritage and cultural diversity."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Beato Carlo Acutis",
+        "type": "Leigo, Ciber-Apóstolo",
+        "description": "Nascido em Milão, Itália, Carlo Acutis foi um adolescente católico devoto que usou suas habilidades em informática para criar sites glorificando a Deus e catalogando milagres eucarísticos antes de sua morte por leucemia aos 15 anos."
+      },
+      {
+        "name": "Santo Edwin da Nortúmbria",
+        "type": "Rei, Mártir",
+        "description": "Santo Edwin foi um rei da Nortúmbria do século VII que se converteu ao cristianismo e desempenhou um papel crucial na propagação da fé em todo o seu reino antes de ser martirizado."
+      },
+      {
+        "name": "Santos Probo, Taraco e Andrónico",
+        "type": "Mártires",
+        "description": "Estes três santos sofreram por sua fé cristã na Cilícia em 304 d.C., suportando várias torturas sob a perseguição romana por se recusarem a oferecer sacrifícios a ídolos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Raça / Dia do Respeito à Diversidade Cultural / Dia dos Povos Indígenas",
+        "description": "Comemorado em muitos países da América Latina e partes dos Estados Unidos, este dia reconhece a chegada de Cristóvão Colombo às Américas em 1492 e seu impacto, evoluindo para celebrar a herança indígena e a diversidade cultural."
+      },
+      {
+        "name": "Dia Mundial da Artrite",
+        "description": "Observado internacionalmente, este dia conscientiza sobre a artrite, uma condição que causa dor e inflamação nas articulações, e defende melhor tratamento e manejo."
+      },
+      {
+        "name": "Dia da Independência da Guiné Equatorial",
+        "description": "Este feriado nacional na Guiné Equatorial celebra a independência do país do domínio colonial espanhol, alcançada em 12 de outubro de 1968."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O crédito pertence ao homem que está realmente na arena, cujo rosto está marcado pela poeira, suor e sangue; que se esforça valentemente; que erra, que fica aquém repetidamente, porque não há esforço sem erro e deficiência; mas que realmente se esforça para realizar os feitos; que conhece grandes entusiasmos, as grandes devoções; que se dedica a uma causa digna; que no melhor dos casos conhece no fim o triunfo de uma grande realização, e que no pior dos casos, se falhar, pelo menos falha enquanto ousa grandemente, para que seu lugar nunca seja com aquelas almas frias e tímidas que não conhecem nem a vitória nem a derrota.",
+      "author": "Theodore Roosevelt",
+      "context": "Em 12 de outubro de 1901, o Presidente Theodore Roosevelt renomeou oficialmente a 'Mansão Executiva' para Casa Branca, simbolizando os ideais democráticos e a natureza pública da presidência. Esta citação incorpora seu espírito de engajamento e ação."
+    },
+    "motivationalQuote": {
+      "text": "A felicidade da sua vida depende da qualidade dos seus pensamentos.",
+      "author": "Marco Aurélio"
+    },
+    "births": [
+      {
+        "name": "Eduardo VI",
+        "description": "Rei da Inglaterra e Irlanda de 1547 até sua morte, Eduardo VI foi o filho de Henrique VIII e Jane Seymour e o primeiro monarca inglês criado como protestante.",
+        "year": "1537"
+      },
+      {
+        "name": "Luciano Pavarotti",
+        "description": "Um icônico tenor operístico italiano, foi um dos tenores de maior sucesso comercial de todos os tempos, renomado pela pureza vocal e seus emocionantes 'dó' agudos.",
+        "year": "1935"
+      },
+      {
+        "name": "Hugh Jackman",
+        "description": "Aclamado ator e cantor australiano, Jackman é amplamente conhecido por seus diversos papéis, incluindo Wolverine na série de filmes X-Men e sua atuação vencedora do Tony Award em 'The Boy from Oz'.",
+        "year": "1968"
+      }
+    ],
+    "events": [
+      {
+        "title": "A Expedição de Colombo Toca Terra",
+        "description": "A expedição de Cristóvão Colombo tocou terra no Caribe em 12 de outubro de 1492, marcando um momento crucial de contato entre os continentes europeu e americano e iniciando uma nova era de interação e exploração global.",
+        "year": "1492"
+      },
+      {
+        "title": "A Casa Branca Recebe seu Nome Oficial",
+        "description": "Em 12 de outubro de 1901, o Presidente Theodore Roosevelt renomeou oficialmente a 'Mansão Executiva' para 'A Casa Branca', solidificando seu status icônico como residência oficial e principal local de trabalho do Presidente dos Estados Unidos.",
+        "year": "1901"
+      },
+      {
+        "title": "Lançamento do Primeiro Voo Espacial Multi-Tripulado",
+        "description": "A União Soviética lançou a Voskhod 1 em 12 de outubro de 1964, realizando o primeiro voo espacial com uma tripulação multipessoal, um marco significativo na exploração espacial e no esforço humano.",
+        "year": "1964"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia da Raça / Dia do Respeito à Diversidade Cultural / Dia dos Povos Indígenas",
+      "teaser": "Comemorado em muitos países da América Latina e partes dos Estados Unidos, este dia reconhece a chegada de Cristóvão Colombo às Américas em 1492 e seu impacto, evoluindo para celebrar a herança indígena e a diversidade cultural."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Beat Carlo Acutis",
+        "type": "Laic, Ciberapòstol",
+        "description": "Nascut a Milà, Itàlia, Carlo Acutis va ser un adolescent catòlic devot que va utilitzar les seves habilitats informàtiques per crear llocs web que glorificaven Déu i catalogaven miracles eucarístics abans de la seva mort per leucèmia als 15 anys."
+      },
+      {
+        "name": "Sant Edwin de Northumbria",
+        "type": "Rei, Màrtir",
+        "description": "Sant Edwin va ser un rei de Northumbria del segle VII que es va convertir al cristianisme i va jugar un paper crucial en la difusió de la fe per tot el seu regne abans de ser martiritzat."
+      },
+      {
+        "name": "Sants Probus, Tàrac i Andrònic",
+        "type": "Màrtirs",
+        "description": "Aquests tres sants van patir per la seva fe cristiana a Cilícia l'any 304 dC, suportant diverses tortures sota la persecució romana per negar-se a oferir sacrificis als ídols."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Raça / Dia del Respecte a la Diversitat Cultural / Dia dels Pobles Indígenes",
+        "description": "Commemorat a molts països llatinoamericans i parts dels Estats Units, aquest dia reconeix l'arribada de Cristòfor Colom a les Amèriques el 1492 i el seu impacte, evolucionant per celebrar el patrimoni indígena i la diversitat cultural."
+      },
+      {
+        "name": "Dia Mundial de l'Artritis",
+        "description": "Observat internacionalment, aquest dia consciencia sobre l'artritis, una malaltia que provoca dolor i inflamació a les articulacions, i defensa un millor tractament i gestió."
+      },
+      {
+        "name": "Dia de la Independència de Guinea Equatorial",
+        "description": "Aquesta festa nacional a Guinea Equatorial celebra la independència del país del domini colonial espanyol, assolida el 12 d'octubre de 1968."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El mèrit pertany a l'home que es troba realment a l'arena, la cara del qual està desfigurada per la pols, la suor i la sang; que s'esforça amb valentia; que s'equivoca, que falla una vegada i una altra, perquè no hi ha esforç sense error ni deficiència; però que realment s'esforça per fer les obres; que coneix grans entusiasmes, les grans devocions; que es lliura a una causa digna; que en el millor dels casos coneix al final el triomf del gran èxit, i que en el pitjor, si fracassa, almenys fracassa mentre s'atreveix molt, de manera que el seu lloc mai no serà amb aquelles ànimes fredes i tímides que no coneixen ni la victòria ni la derrota.",
+      "author": "Theodore Roosevelt",
+      "context": "El 12 d'octubre de 1901, el president Theodore Roosevelt va canviar oficialment el nom de la 'Mansió Executiva' per la Casa Blanca, simbolitzant els ideals democràtics i la naturalesa pública de la presidència. Aquesta cita encarna el seu esperit de compromís i acció."
+    },
+    "motivationalQuote": {
+      "text": "La felicitat de la vostra vida depèn de la qualitat dels vostres pensaments.",
+      "author": "Marc Aureli"
+    },
+    "births": [
+      {
+        "name": "Eduard VI",
+        "description": "Rei d'Anglaterra i Irlanda des de 1547 fins a la seva mort, Eduard VI va ser fill d'Enric VIII i Jane Seymour i el primer monarca anglès criat com a protestant.",
+        "year": "1537"
+      },
+      {
+        "name": "Luciano Pavarotti",
+        "description": "Un icònic tenor operístic italià, va ser un dels tenors amb més èxit comercial de tots els temps, reconegut per la seva puresa vocal i els seus emocionants Do de pit aguts.",
+        "year": "1935"
+      },
+      {
+        "name": "Hugh Jackman",
+        "description": "Un aclamat actor i cantant australià, Jackman és àmpliament conegut pels seus diversos papers, incloent-hi Wolverine a la sèrie de pel·lícules X-Men i la seva actuació guanyadora del Premi Tony a 'The Boy from Oz'.",
+        "year": "1968"
+      }
+    ],
+    "events": [
+      {
+        "title": "L'expedició de Colom pren terra",
+        "description": "L'expedició de Cristòfor Colom va prendre terra al Carib el 12 d'octubre de 1492, marcant un moment crucial de contacte entre els continents europeu i americà i iniciant una nova era d'interacció i exploració global.",
+        "year": "1492"
+      },
+      {
+        "title": "La Casa Blanca rep el nom oficial",
+        "description": "El 12 d'octubre de 1901, el president Theodore Roosevelt va canviar oficialment el nom de la 'Mansió Executiva' per 'La Casa Blanca', consolidant el seu estatus icònic com a residència oficial i lloc de treball principal del president dels Estats Units.",
+        "year": "1901"
+      },
+      {
+        "title": "Es llança el primer vol espacial amb tripulació múltiple",
+        "description": "La Unió Soviètica va llançar el Voskhod 1 el 12 d'octubre de 1964, aconseguint el primer vol espacial amb una tripulació de diverses persones, una fita significativa en l'exploració espacial i l'esforç humà.",
+        "year": "1964"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia de la Raça / Dia del Respecte a la Diversitat Cultural / Dia dels Pobles Indígenes",
+      "teaser": "Commemorat a molts països llatinoamericans i parts dels Estats Units, aquest dia reconeix l'arribada de Cristòfor Colom a les Amèriques el 1492 i el seu impacte, evolucionant per celebrar el patrimoni indígena i la diversitat cultural."
+    }
+  }
+}
