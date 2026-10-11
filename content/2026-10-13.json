@@ -1,0 +1,327 @@
+{
+  "date": "2026-10-13",
+  "es": {
+    "saints": [
+      {
+        "name": "San Teófilo de Antioquía",
+        "type": "Obispo, Apologista",
+        "description": "Un pagano que se convirtió al cristianismo tras estudiar el Antiguo Testamento, se convirtió en uno de los primeros Obispos de Antioquía y un celoso apologista contra las herejías."
+      },
+      {
+        "name": "Beata Magdalena Panattieri",
+        "type": "Terciaria de las Hermanas Penitentes de Santo Domingo",
+        "description": "Conocida por su devoción a la oración, el cuidado de los pobres y los niños, y por impartir charlas espirituales, vivió una vida de sencilla inocencia y piedad."
+      },
+      {
+        "name": "San Colman de Stockerau",
+        "type": "Monje, Mártir",
+        "description": "Un monje irlandés o escocés que viajaba a Tierra Santa y fue arrestado como espía en Austria, torturado y ahorcado; ahora es uno de los santos patronos de Austria."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de Ada Lovelace",
+        "description": "Una conmemoración reconocida globalmente que celebra a Ada Lovelace, considerada la primera programadora de computadoras, y que aumenta la visibilidad de las mujeres en STEM."
+      },
+      {
+        "name": "Día Internacional para la Reducción del Riesgo de Desastres",
+        "description": "Este día promueve una cultura global de conciencia del riesgo y reducción de desastres, destacando cómo las comunidades están reduciendo su exposición a los desastres."
+      },
+      {
+        "name": "Día de Concientización sobre el Cáncer de Mama",
+        "description": "Se celebra el 13 de octubre dentro del Mes de Concientización sobre el Cáncer de Mama para fomentar la detección mamográfica y apoyar la investigación del cáncer más comúnmente diagnosticado en mujeres."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Puede que tengas que librar una batalla más de una vez para ganarla.",
+      "author": "Margaret Thatcher",
+      "context": "Margaret Thatcher, la primera mujer Primera Ministra del Reino Unido, nació el 13 de octubre de 1925."
+    },
+    "motivationalQuote": {
+      "text": "La esperanza no es la convicción de que algo saldrá bien, sino la certeza de que algo tiene sentido, independientemente de cómo resulte.",
+      "author": "Václav Havel"
+    },
+    "births": [
+      {
+        "name": "Margaret Thatcher",
+        "description": "Una estadista británica que fue Primera Ministra del Reino Unido de 1979 a 1990, convirtiéndose en la primera ministra británica con más años en el cargo del siglo XX y la primera mujer en ocupar ese puesto.",
+        "year": "1925"
+      },
+      {
+        "name": "Paul Simon",
+        "description": "Un influyente cantautor estadounidense, conocido por su trabajo en solitario y como la mitad del icónico dúo de folk-rock Simon & Garfunkel.",
+        "year": "1941"
+      },
+      {
+        "name": "Sacha Baron Cohen",
+        "description": "Un actor, comediante y escritor británico, ampliamente reconocido por crear e interpretar varios personajes satíricos como Ali G, Borat y Bruno.",
+        "year": "1971"
+      }
+    ],
+    "events": [
+      {
+        "title": "Establecimiento de la Armada de los Estados Unidos",
+        "description": "El Congreso Continental ordenó el establecimiento de la Armada Continental, predecesora de la moderna Armada de los Estados Unidos, para proteger la navegación estadounidense durante la Guerra de Independencia.",
+        "year": "1775"
+      },
+      {
+        "title": "Colocación de la primera piedra de la Casa Blanca",
+        "description": "La primera piedra para la Mansión Ejecutiva de los Estados Unidos, que más tarde sería conocida como la Casa Blanca, fue colocada en Washington D.C.",
+        "year": "1792"
+      },
+      {
+        "title": "Mineros Chilenos Rescatados",
+        "description": "Los 33 mineros atrapados en la mina de cobre y oro de San José en Copiapó, Chile, fueron rescatados con éxito tras 69 días bajo tierra, en un inspirador esfuerzo internacional.",
+        "year": "2010"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día de Ada Lovelace",
+      "teaser": "Una conmemoración reconocida globalmente que celebra a Ada Lovelace, considerada la primera programadora de computadoras, y que aumenta la visibilidad de las mujeres en STEM."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Theophilus of Antioch",
+        "type": "Bishop, Apologist",
+        "description": "A pagan who converted to Christianity after studying the Old Testament, he became an early Bishop of Antioch and a zealous apologist against heresies."
+      },
+      {
+        "name": "Blessed Magdalen Panattieri",
+        "type": "Tertiary of the Sisters of Penance of Saint Dominic",
+        "description": "Known for her devotion to prayer, care for the poor and children, and for giving spiritual talks, she lived a life of simple innocence and piety."
+      },
+      {
+        "name": "St. Colman of Stockerau",
+        "type": "Monk, Martyr",
+        "description": "An Irish or Scottish monk traveling to the Holy Land who was arrested as a spy in Austria, tortured, and hanged; he is now one of the patron saints of Austria."
+      }
+    ],
+    "observances": [
+      {
+        "name": "ADA Lovelace Day",
+        "description": "A globally recognized observance celebrating Ada Lovelace, considered the first computer programmer, and raising the visibility of women in STEM."
+      },
+      {
+        "name": "International Day for Disaster Risk Reduction",
+        "description": "This day promotes a global culture of risk-awareness and disaster reduction, highlighting how communities are reducing their exposure to disasters."
+      },
+      {
+        "name": "Breast Cancer Awareness Day",
+        "description": "Observed on October 13 within the broader Breast Cancer Awareness Month to encourage mammography screening and support research for the most commonly diagnosed cancer in women."
+      }
+    ],
+    "historicalQuote": {
+      "text": "You may have to fight a battle more than once to win it.",
+      "author": "Margaret Thatcher",
+      "context": "Margaret Thatcher, the first female Prime Minister of the United Kingdom, was born on October 13, 1925."
+    },
+    "motivationalQuote": {
+      "text": "Hope is not the conviction that something will turn out well, but the certainty that something makes sense, regardless of how it turns out.",
+      "author": "Václav Havel"
+    },
+    "births": [
+      {
+        "name": "Margaret Thatcher",
+        "description": "A British stateswoman who served as Prime Minister of the United Kingdom from 1979 to 1990, becoming the longest-serving British prime minister of the 20th century and the first woman to hold that office.",
+        "year": "1925"
+      },
+      {
+        "name": "Paul Simon",
+        "description": "An influential American singer-songwriter, known for his solo work and as one half of the iconic folk-rock duo Simon & Garfunkel.",
+        "year": "1941"
+      },
+      {
+        "name": "Sacha Baron Cohen",
+        "description": "A British actor, comedian, and writer, widely recognized for creating and portraying various satirical characters such as Ali G, Borat, and Bruno.",
+        "year": "1971"
+      }
+    ],
+    "events": [
+      {
+        "title": "United States Navy Established",
+        "description": "The Continental Congress ordered the establishment of the Continental Navy, the predecessor to the modern United States Navy, to protect American shipping during the Revolutionary War.",
+        "year": "1775"
+      },
+      {
+        "title": "White House Cornerstone Laid",
+        "description": "The cornerstone for the United States Executive Mansion, which would later become famously known as the White House, was laid in Washington, D.C.",
+        "year": "1792"
+      },
+      {
+        "title": "Chilean Miners Rescued",
+        "description": "All 33 miners trapped in the San José copper-gold mine in Copiapó, Chile, were safely rescued after 69 days underground, an inspiring international effort.",
+        "year": "2010"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is ADA Lovelace Day",
+      "teaser": "A globally recognized observance celebrating Ada Lovelace, considered the first computer programmer, and raising the visibility of women in STEM."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Teófilo de Antioquia",
+        "type": "Bispo, Apologista",
+        "description": "Um pagão que se converteu ao cristianismo após estudar o Antigo Testamento, tornou-se um dos primeiros Bispos de Antioquia e um zeloso apologista contra as heresias."
+      },
+      {
+        "name": "Beata Madalena Panattieri",
+        "type": "Terciária das Irmãs da Penitência de São Domingos",
+        "description": "Conhecida pela sua devoção à oração, cuidado com os pobres e crianças, e por dar palestras espirituais, viveu uma vida de simples inocência e piedade."
+      },
+      {
+        "name": "São Colman de Stockerau",
+        "type": "Monge, Mártir",
+        "description": "Um monge irlandês ou escocês que viajava para a Terra Santa e foi preso como espião na Áustria, torturado e enforcado; ele é agora um dos santos padroeiros da Áustria."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Ada Lovelace",
+        "description": "Uma celebração globalmente reconhecida que homenageia Ada Lovelace, considerada a primeira programadora de computador, e aumenta a visibilidade das mulheres em STEM."
+      },
+      {
+        "name": "Dia Internacional para a Redução do Risco de Desastres",
+        "description": "Este dia promove uma cultura global de consciência de risco e redução de desastres, destacando como as comunidades estão a reduzir a sua exposição a desastres."
+      },
+      {
+        "name": "Dia de Conscientização sobre o Câncer de Mama",
+        "description": "Observado a 13 de outubro, dentro do Mês da Conscientização do Câncer de Mama, para incentivar o rastreio mamográfico e apoiar a pesquisa do câncer mais comumente diagnosticado em mulheres."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Pode ser que você tenha que lutar uma batalha mais de uma vez para vencê-la.",
+      "author": "Margaret Thatcher",
+      "context": "Margaret Thatcher, a primeira mulher Primeira-Ministra do Reino Unido, nasceu em 13 de outubro de 1925."
+    },
+    "motivationalQuote": {
+      "text": "A esperança não é a convicção de que algo vai acabar bem, mas a certeza de que algo faz sentido, independentemente de como acaba.",
+      "author": "Václav Havel"
+    },
+    "births": [
+      {
+        "name": "Margaret Thatcher",
+        "description": "Uma estadista britânica que serviu como Primeira-Ministra do Reino Unido de 1979 a 1990, tornando-se a primeira-ministra britânica com mais tempo no cargo do século XX e a primeira mulher a ocupar essa função.",
+        "year": "1925"
+      },
+      {
+        "name": "Paul Simon",
+        "description": "Um influente cantor e compositor americano, conhecido pelo seu trabalho a solo e como metade da icónica dupla de folk-rock Simon & Garfunkel.",
+        "year": "1941"
+      },
+      {
+        "name": "Sacha Baron Cohen",
+        "description": "Um ator, comediante e escritor britânico, amplamente reconhecido por criar e interpretar vários personagens satíricos como Ali G, Borat e Bruno.",
+        "year": "1971"
+      }
+    ],
+    "events": [
+      {
+        "title": "Criação da Marinha dos Estados Unidos",
+        "description": "O Congresso Continental ordenou o estabelecimento da Marinha Continental, a antecessora da moderna Marinha dos Estados Unidos, para proteger a navegação americana durante a Guerra Revolucionária.",
+        "year": "1775"
+      },
+      {
+        "title": "Lançamento da Pedra Fundamental da Casa Branca",
+        "description": "A pedra fundamental para a Mansão Executiva dos Estados Unidos, que mais tarde seria famosa como a Casa Branca, foi lançada em Washington, D.C.",
+        "year": "1792"
+      },
+      {
+        "title": "Mineiros Chilenos Resgatados",
+        "description": "Todos os 33 mineiros presos na mina de cobre e ouro San José em Copiapó, Chile, foram resgatados com segurança após 69 dias subterrâneos, num esforço internacional inspirador.",
+        "year": "2010"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia de Ada Lovelace",
+      "teaser": "Uma celebração globalmente reconhecida que homenageia Ada Lovelace, considerada a primeira programadora de computador, e aumenta a visibilidade das mulheres em STEM."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Teòfil d'Antioquia",
+        "type": "Bisbe, Apologista",
+        "description": "Un pagà que es va convertir al cristianisme després d'estudiar l'Antic Testament, va esdevenir un dels primers bisbes d'Antioquia i un fervent apologista contra les heretgies."
+      },
+      {
+        "name": "Beata Magdalena Panattieri",
+        "type": "Terciària de les Germanes de Penitència de Sant Domènec",
+        "description": "Coneguda per la seva devoció a l'oració, la cura dels pobres i els nens, i per impartir xerrades espirituals, va viure una vida de senzilla innocència i pietat."
+      },
+      {
+        "name": "Sant Colman de Stockerau",
+        "type": "Monjo, Màrtir",
+        "description": "Un monjo irlandès o escocès que viatjava a Terra Santa i que va ser arrestat com a espia a Àustria, torturat i penjat; ara és un dels sants patrons d'Àustria."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia d'ADA Lovelace",
+        "description": "Una commemoració reconeguda globalment que celebra Ada Lovelace, considerada la primera programadora informàtica, i que augmenta la visibilitat de les dones en les STEM."
+      },
+      {
+        "name": "Dia Internacional per a la Reducció del Risc de Desastres",
+        "description": "Aquest dia promou una cultura global de conscienciació del risc i reducció de desastres, destacant com les comunitats estan reduint la seva exposició als desastres."
+      },
+      {
+        "name": "Dia de Conscienciació sobre el Càncer de Mama",
+        "description": "Se celebra el 13 d'octubre dins del Mes de Conscienciació sobre el Càncer de Mama per fomentar el cribratge de mamografies i donar suport a la investigació del càncer més comunament diagnosticat en dones."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Potser hauràs de lliurar una batalla més d'una vegada per guanyar-la.",
+      "author": "Margaret Thatcher",
+      "context": "Margaret Thatcher, la primera dona Primera Ministra del Regne Unit, va néixer el 13 d'octubre de 1925."
+    },
+    "motivationalQuote": {
+      "text": "L'esperança no és la convicció que alguna cosa sortirà bé, sinó la certesa que alguna cosa té sentit, independentment de com acabi.",
+      "author": "Václav Havel"
+    },
+    "births": [
+      {
+        "name": "Margaret Thatcher",
+        "description": "Una estadista britànica que va exercir com a Primera Ministra del Regne Unit de 1979 a 1990, convertint-se en la primera ministra britànica que més temps va ocupar el càrrec al segle XX i la primera dona a ocupar aquest càrrec.",
+        "year": "1925"
+      },
+      {
+        "name": "Paul Simon",
+        "description": "Un influent cantautor nord-americà, conegut per la seva obra en solitari i com una meitat de l'icònic duet de folk-rock Simon & Garfunkel.",
+        "year": "1941"
+      },
+      {
+        "name": "Sacha Baron Cohen",
+        "description": "Un actor, comediant i escriptor britànic, àmpliament reconegut per crear i interpretar diversos personatges satírics com Ali G, Borat i Bruno.",
+        "year": "1971"
+      }
+    ],
+    "events": [
+      {
+        "title": "Establiment de la Marina dels Estats Units",
+        "description": "El Congrés Continental va ordenar l'establiment de la Marina Continental, la predecessora de la moderna Marina dels Estats Units, per protegir el transport marítim americà durant la Guerra Revolucionària.",
+        "year": "1775"
+      },
+      {
+        "title": "Col·locació de la primera pedra de la Casa Blanca",
+        "description": "La primera pedra de la Residència Executiva dels Estats Units, que més tard seria coneguda famosament com la Casa Blanca, es va col·locar a Washington, D.C.",
+        "year": "1792"
+      },
+      {
+        "title": "Rescat dels miners xilens",
+        "description": "Els 33 miners atrapats a la mina de coure i or de San José a Copiapó, Xile, van ser rescatats amb seguretat després de 69 dies sota terra, un esforç internacional inspirador.",
+        "year": "2010"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia d'ADA Lovelace",
+      "teaser": "Una commemoració reconeguda globalment que celebra Ada Lovelace, considerada la primera programadora informàtica, i que augmenta la visibilitat de les dones en les STEM."
+    }
+  }
+}
