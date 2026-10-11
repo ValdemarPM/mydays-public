@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Get My Days</title>
+  <meta name="description" content="A vintage daily calendar: sun and moon times for where you are, saints of the day, famous birthdays and moments from history. Free on iPhone, iPad and Android." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://valdemarpm.github.io/mydays-public/get/" />
+  <meta property="og:title" content="My Days - Daily Calendar" />
+  <meta property="og:description" content="A vintage daily calendar: sun and moon times for where you are, saints of the day, famous birthdays and moments from history." />
+  <meta property="og:image" content="https://valdemarpm.github.io/mydays-public/get/og-image.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="icon" type="image/png" href="favicon.png" />
+  <link rel="apple-touch-icon" href="mydays-icon.png" />
+
+  <script>
+    // Phones go straight to their own store. A computer (and anything else) stays on
+    // this page, which shows both badges and a QR code. Add ?stay to the URL to see
+    // the page on a phone (for testing).
+    (function () {
+      var APP_STORE = "https://apps.apple.com/app/id6810324545";
+      var GOOGLE_PLAY = "https://play.google.com/store/apps/details?id=com.valdemarpm.mydays";
+      if (new URLSearchParams(location.search).has("stay")) return;
+      var ua = navigator.userAgent;
+      // iPadOS Safari reports itself as a Mac, so a touch screen gives it away.
+      var ios = /iPhone|iPad|iPod/.test(ua) || (/Macintosh/.test(ua) && navigator.maxTouchPoints > 1);
+      var android = /Android/.test(ua);
+      var target = ios ? APP_STORE : android ? GOOGLE_PLAY : null;
+      if (target) {
+        document.documentElement.className = "redirecting";
+        location.replace(target);
+      }
+    })();
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Playfair+Display:ital,wght@1,400&family=Lekton:wght@400;700&display=swap" rel="stylesheet" />
+
+  <style>
+    :root {
+      --page: #E9E3D7;
+      --paper: #FBF9F4;
+      --paper-2: #F2EDE4;
+      --line: #DCD7CB;
+      --ink: #33312E;
+      --ink-2: #5A564E;
+      --muted: #8C8679;
+      --accent: #8C6A4A;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --page: #1C1B19;
+        --paper: #262420;
+        --paper-2: #2F2C27;
+        --line: #45413A;
+        --ink: #EDE8DE;
+        --ink-2: #C9C2B4;
+        --muted: #9A9384;
+        --accent: #D2A57A;
+      }
+    }
+
+    * { box-sizing: border-box; }
+    html, body { margin: 0; }
+    body {
+      min-height: 100vh;
+      background: var(--page);
+      color: var(--ink);
+      font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 32px 16px;
+    }
+
+    .card {
+      width: 100%;
+      max-width: 460px;
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
+      padding: 36px 28px 24px;
+      text-align: center;
+    }
+
+    .icon {
+      width: 96px;
+      height: 96px;
+      margin: 0 auto 18px;
+      border-radius: 22px;
+      background: var(--paper-2);
+      border: 1px solid var(--line);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .icon img { width: 76px; height: 76px; }
+
+    h1 {
+      margin: 0;
+      font-family: "Playfair Display", Georgia, serif;
+      font-style: italic;
+      font-weight: 400;
+      font-size: 34px;
+      line-height: 1.1;
+    }
+    .subtitle {
+      margin: 8px 0 0;
+      font-family: "Lekton", ui-monospace, monospace;
+      font-weight: 700;
+      font-size: 11px;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+    .tagline {
+      margin: 18px auto 0;
+      max-width: 360px;
+      font-size: 15px;
+      line-height: 1.6;
+      color: var(--ink-2);
+    }
+
+    .status {
+      display: none;
+      margin: 18px 0 0;
+      font-size: 13px;
+      color: var(--accent);
+    }
+    .redirecting .status { display: block; }
+
+    .badges {
+      margin: 24px 0 0;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      gap: 12px;
+    }
+    .badges a { display: block; line-height: 0; border-radius: 8px; }
+    .badges a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+    .badges img { height: 48px; width: auto; }
+
+    .meta {
+      margin: 14px 0 0;
+      font-family: "Lekton", ui-monospace, monospace;
+      font-size: 13px;
+      color: var(--muted);
+    }
+
+    .qr {
+      margin: 26px 0 0;
+      padding-top: 22px;
+      border-top: 1px dashed var(--line);
+    }
+    .qr-tile {
+      display: inline-block;
+      padding: 12px;
+      background: #FFFFFF;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      line-height: 0;
+    }
+    .qr-tile img { width: 132px; height: 132px; }
+    .qr p { margin: 10px 0 0; font-size: 13px; color: var(--ink-2); }
+    /* A phone doesn't need to scan its own screen. */
+    @media (max-width: 600px) { .qr { display: none; } }
+
+    .help {
+      margin: 22px 0 0;
+      padding: 12px 14px;
+      background: var(--paper-2);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      font-size: 13px;
+      line-height: 1.5;
+      color: var(--ink-2);
+    }
+    .help strong { color: var(--ink); font-weight: 600; white-space: nowrap; }
+
+    footer {
+      margin: 22px 0 0;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      gap: 6px 14px;
+      font-size: 12px;
+    }
+    .langs { display: flex; gap: 2px; }
+    .langs button {
+      font-family: "Lekton", ui-monospace, monospace;
+      font-weight: 700;
+      font-size: 11px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      padding: 4px 8px;
+      border: 0;
+      border-radius: 4px;
+      background: transparent;
+      color: var(--ink-2);
+      cursor: pointer;
+    }
+    .langs button[aria-pressed="true"] { background: var(--muted); color: var(--paper); }
+    .langs button:focus-visible { outline: 2px solid var(--accent); }
+    footer a { color: var(--muted); }
+    footer a:hover { color: var(--ink-2); }
+  </style>
+</head>
+<body>
+  <main class="card">
+    <div class="icon"><img src="mydays-icon.png" alt="" width="76" height="76" /></div>
+    <h1>My Days</h1>
+    <p class="subtitle" data-i18n="subtitle">Daily Calendar</p>
+    <p class="tagline" data-i18n="tagline">A vintage daily calendar: sun and moon times for where you are, saints of the day, famous birthdays and moments from history.</p>
+
+    <p class="status" role="status" data-i18n="opening">Opening the store…</p>
+
+    <div class="badges">
+      <a id="app-store" href="https://apps.apple.com/app/id6810324545">
+        <img id="app-store-img" src="app-store-en.svg" alt="Download on the App Store" width="144" height="48" />
+      </a>
+      <a id="google-play" href="https://play.google.com/store/apps/details?id=com.valdemarpm.mydays">
+        <img id="google-play-img" src="google-play-en.png" alt="Get it on Google Play" width="161" height="48" />
+      </a>
+    </div>
+    <p class="meta" data-i18n="meta">Free · iPhone, iPad and Android</p>
+
+    <div class="qr">
+      <span class="qr-tile"><img src="qr.svg" alt="" width="132" height="132" /></span>
+      <p data-i18n="qr">Scan with your phone's camera</p>
+    </div>
+
+    <p class="help" data-i18n-html="help">Searching in the store instead? Use the full name, <strong>My Days - Daily Calendar</strong>.</p>
+
+    <footer>
+      <div class="langs" role="group" aria-label="Language">
+        <button type="button" data-lang="en" aria-pressed="true">EN</button>
+        <button type="button" data-lang="es" aria-pressed="false">ES</button>
+        <button type="button" data-lang="pt" aria-pressed="false">PT</button>
+        <button type="button" data-lang="ca" aria-pressed="false">CA</button>
+      </div>
+      <a id="privacy" href="../privacy-policy.html" data-i18n="privacy">Privacy Policy</a>
+    </footer>
+  </main>
+
+  <script>
+    (function () {
+      var STRINGS = {
+        en: {
+          title: "Get My Days",
+          subtitle: "Daily Calendar",
+          tagline: "A vintage daily calendar: sun and moon times for where you are, saints of the day, famous birthdays and moments from history.",
+          opening: "Opening the store…",
+          meta: "Free · iPhone, iPad and Android",
+          qr: "Scan with your phone's camera",
+          help: "Searching in the store instead? Use the full name, <strong>My Days - Daily Calendar</strong>.",
+          privacy: "Privacy Policy",
+          appStoreAlt: "Download on the App Store",
+          googlePlayAlt: "Get it on Google Play",
+          privacyHref: "../privacy-policy.html"
+        },
+        es: {
+          title: "Descarga My Days",
+          subtitle: "Calendario diario",
+          tagline: "Un calendario diario de estilo antiguo: horas del sol y la luna allí donde estés, santos del día, cumpleaños famosos y momentos de la historia.",
+          opening: "Abriendo la tienda…",
+          meta: "Gratis · iPhone, iPad y Android",
+          qr: "Escanéalo con la cámara del móvil",
+          help: "¿Lo buscas en la tienda? Usa el nombre completo, <strong>My Days - Daily Calendar</strong>.",
+          privacy: "Política de Privacidad",
+          appStoreAlt: "Descárgalo en el App Store",
+          googlePlayAlt: "Disponible en Google Play",
+          privacyHref: "../privacy-policy-es.html"
+        },
+        pt: {
+          title: "Obter My Days",
+          subtitle: "Calendário diário",
+          tagline: "Um calendário diário de estilo antigo: horas do sol e da lua onde estiver, santos do dia, aniversários famosos e momentos da história.",
+          opening: "A abrir a loja…",
+          meta: "Gratuito · iPhone, iPad e Android",
+          qr: "Aponte a câmara do telemóvel",
+          help: "Prefere procurar na loja? Use o nome completo, <strong>My Days - Daily Calendar</strong>.",
+          privacy: "Política de Privacidade",
+          appStoreAlt: "Descarregar na App Store",
+          googlePlayAlt: "Obter no Google Play",
+          privacyHref: "../privacy-policy-pt.html"
+        },
+        ca: {
+          title: "Descarrega My Days",
+          subtitle: "Calendari diari",
+          tagline: "Un calendari diari d'estil antic: hores del sol i de la lluna allà on siguis, sants del dia, aniversaris famosos i moments de la història.",
+          opening: "Obrint la botiga…",
+          meta: "Gratuït · iPhone, iPad i Android",
+          qr: "Escaneja-ho amb la càmera del mòbil",
+          help: "El busques a la botiga? Fes servir el nom complet, <strong>My Days - Daily Calendar</strong>.",
+          privacy: "Política de Privacitat",
+          appStoreAlt: "Baixa-la a l'App Store",
+          googlePlayAlt: "Disponible a Google Play",
+          privacyHref: "../privacy-policy-ca.html"
+        }
+      };
+
+      function pickLang() {
+        var asked = new URLSearchParams(location.search).get("lang");
+        if (asked && STRINGS[asked]) return asked;
+        var prefs = navigator.languages || [navigator.language || "en"];
+        for (var i = 0; i < prefs.length; i++) {
+          var code = String(prefs[i]).toLowerCase().split("-")[0];
+          if (STRINGS[code]) return code;
+        }
+        return "en";
+      }
+
+      function apply(lang) {
+        var s = STRINGS[lang];
+        document.documentElement.lang = lang;
+        document.title = s.title;
+        document.querySelectorAll("[data-i18n]").forEach(function (el) {
+          el.textContent = s[el.getAttribute("data-i18n")];
+        });
+        // Only our own fixed strings go through innerHTML, never URL input.
+        document.querySelectorAll("[data-i18n-html]").forEach(function (el) {
+          el.innerHTML = s[el.getAttribute("data-i18n-html")];
+        });
+        var appImg = document.getElementById("app-store-img");
+        appImg.src = "app-store-" + lang + ".svg";
+        appImg.alt = s.appStoreAlt;
+        var playImg = document.getElementById("google-play-img");
+        playImg.src = "google-play-" + lang + ".png";
+        playImg.alt = s.googlePlayAlt;
+        document.getElementById("privacy").href = s.privacyHref;
+        document.querySelectorAll(".langs button").forEach(function (b) {
+          b.setAttribute("aria-pressed", String(b.getAttribute("data-lang") === lang));
+        });
+      }
+
+      document.querySelectorAll(".langs button").forEach(function (b) {
+        b.addEventListener("click", function () { apply(b.getAttribute("data-lang")); });
+      });
+      apply(pickLang());
+    })();
+  </script>
+</body>
+</html>
