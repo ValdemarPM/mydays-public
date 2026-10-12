@@ -18,11 +18,12 @@
     p, li { font-size: 0.97rem; }
     a { color: #0066cc; }
     .last-updated { color: #666; font-size: 0.9rem; margin-bottom: 2rem; }
+    .summary { background: #f5f3ee; border-radius: 8px; padding: 4px 20px; }
   </style>
 </head>
 <body>
   <h1>Política de Privacidad</h1>
-  <p class="last-updated">Última actualización: 29 de septiembre de 2026</p>
+  <p class="last-updated">Última actualización: 12 de octubre de 2026</p>
   <p style="font-size: 0.9rem;">
     También disponible en:
     <a href="privacy-policy.html">English</a> ·
@@ -32,114 +33,198 @@
 
   <p>
     Esta Política de Privacidad describe cómo <strong>My Days</strong> ("la app")
-    gestiona la información cuando la utilizas. My Days es una app de calendario
-    y eventos históricos que usa la IA Gemini de Google para generar contenido
-    sobre fechas concretas.
+    trata la información cuando la usas en Android o iOS. My Days es un calendario
+    diario que muestra las horas de salida y puesta del sol, las fases de la luna,
+    los santos del día, los días internacionales, los cumpleaños famosos y los
+    acontecimientos históricos de cualquier fecha hasta hoy. Su contenido diario se
+    investiga con la ayuda de la IA Gemini de Google y se prepara con antelación.
   </p>
 
-  <h2>1. Información que Procesamos</h2>
-  <p>Cuando tocas una fecha, la app envía lo siguiente a la API de Google Gemini:</p>
+  <div class="summary">
+    <p><strong>En resumen:</strong></p>
+    <ul>
+      <li>Sin cuenta, sin registro, sin anuncios, sin analíticas y sin seguimiento.</li>
+      <li>La app nunca pide tu nombre, correo electrónico, contactos, fotos ni tu
+        ubicación GPS.</li>
+      <li>Usa una ubicación aproximada, obtenida a partir de tu dirección IP, para
+        calcular las horas del sol y la luna donde estés.</li>
+      <li>Tus ajustes se guardan solo en tu dispositivo.</li>
+      <li>Nuestro servidor conserva registros técnicos estándar de las peticiones
+        durante 30 días, y nada más.</li>
+    </ul>
+  </div>
+
+  <h2>1. Información que Procesa la App</h2>
+  <p>Para mostrar un día, la app pide el contenido de ese día a nuestro servidor y envía:</p>
   <ul>
     <li>La fecha del calendario seleccionada</li>
-    <li>El idioma configurado en tu dispositivo</li>
+    <li>El idioma que has elegido en la app</li>
   </ul>
   <p>
-    Para mostrar las horas de salida/puesta de sol, las fases lunares y las
-    estaciones de tu propia ubicación, la app también determina una ubicación
-    aproximada de tu dispositivo — consulta la Sección 4 para más detalles. La
-    app no recopila, almacena ni transmite tu nombre, correo electrónico,
-    identificadores del dispositivo ni datos de cuenta.
+    La app también usa una ubicación aproximada de tu dispositivo (ver la
+    Sección 4). No recoge tu nombre, correo electrónico, número de teléfono,
+    contactos, fotos, ubicación precisa (GPS), identificador publicitario ni ningún
+    dato de cuenta.
   </p>
 
-  <h2>2. Cómo Se Usan los Datos</h2>
+  <h2>2. Nuestro Servidor y el Origen del Contenido</h2>
   <p>
-    La fecha y el idioma se envían únicamente para generar información
-    histórica y astronómica sobre esa fecha mediante IA. La respuesta se
-    muestra en la app y no se almacena ni se registra.
+    Nuestro servidor funciona en <strong>Google Cloud Run</strong> dentro de la
+    Unión Europea (Bélgica). Para cada petición devuelve contenido preparado con
+    antelación y publicado como archivos públicos en la red de distribución
+    <strong>jsDelivr</strong>. Si el contenido de un día aún no está disponible, el
+    servidor pide a la <strong>API de Google Gemini</strong> que lo genere. A Gemini
+    solo se le envían la fecha y el idioma, nunca nada sobre ti o tu dispositivo.
+  </p>
+  <p>
+    Como cualquier servidor web, Google Cloud registra automáticamente las peticiones
+    de forma estándar: tu dirección IP, la hora de la petición, la dirección
+    solicitada (que incluye la fecha y el idioma) y el tipo de dispositivo o
+    navegador. Usamos estos registros solo para mantener el servicio en
+    funcionamiento y detectar errores. No se combinan con otros datos, no se usan
+    para identificarte y se eliminan automáticamente a los 30 días.
   </p>
 
   <h2>3. Servicios de Terceros</h2>
   <p>
-    La app utiliza la <strong>API de Google Gemini</strong> para generar
-    contenido. Los datos enviados a esta API están sujetos a la
-    <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">
-      Política de Privacidad de Google</a>.
-    También utiliza <strong>ipwho.is</strong>, <strong>ipinfo.io</strong> y la <strong>API de Geocodificación
-    de Open-Meteo</strong> para la detección y búsqueda de ubicación — consulta
-    la Sección 4 para más detalles. La app no utiliza ningún servicio de
-    terceros de analítica, publicidad o seguimiento.
+    La app se conecta a los servicios que se indican abajo. Cada uno recibe tu
+    dirección IP y la información técnica básica de cualquier petición en internet,
+    y la trata según su propia política de privacidad. La app no les envía nada más
+    de lo que se indica.
+  </p>
+  <ul>
+    <li><strong>Google Cloud Run</strong> (alojamiento de nuestro servidor) y la
+      <strong>API de Google Gemini</strong> (generación de contenido, recibe de
+      nuestro servidor solo una fecha y un idioma). Ver la
+      <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Política de Privacidad de Google</a>.</li>
+    <li><strong>jsDelivr</strong> (entrega de los archivos públicos de contenido
+      diario, que también usa la notificación diaria, ver la Sección 5). Ver la
+      <a href="https://www.jsdelivr.com/terms/privacy-policy-jsdelivr-net" target="_blank" rel="noopener">Política de Privacidad de jsDelivr</a>.</li>
+    <li><strong><a href="https://ipwho.is/" target="_blank" rel="noopener">ipwho.is</a></strong>
+      y, como alternativa, <strong>ipinfo.io</strong> (ubicación aproximada a partir
+      de tu dirección IP, ver la Sección 4). Ver la
+      <a href="https://ipinfo.io/privacy-policy" target="_blank" rel="noopener">Política de Privacidad de ipinfo.io</a>.</li>
+    <li><strong>API de Geocodificación de Open-Meteo</strong> (recibe el texto que
+      escribes al buscar un lugar, ver la Sección 4). Ver los
+      <a href="https://open-meteo.com/en/terms" target="_blank" rel="noopener">Términos y Privacidad de Open-Meteo</a>.</li>
+    <li><strong>Google Fonts</strong> y <strong>Transparent Textures</strong> (las
+      fuentes y las texturas de papel de la app, que se descargan al abrirla).</li>
+    <li><strong>Google Play</strong> en Android y el <strong>App Store de Apple</strong>
+      en iOS (comprobar si hay una versión más reciente de la app). Ver la
+      <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Política de Privacidad de Google</a> y la
+      <a href="https://www.apple.com/es/legal/privacy/" target="_blank" rel="noopener">Política de Privacidad de Apple</a>.</li>
+  </ul>
+  <p>
+    La app no incluye ningún servicio de analítica, publicidad, informes de errores
+    ni seguimiento.
   </p>
 
   <h2>4. Ubicación</h2>
   <p>
-    My Days utiliza una ubicación aproximada — obtenida a partir de la
-    dirección IP de tu dispositivo mediante el servicio de terceros
-    <strong>ipwho.is</strong> (o <strong>ipinfo.io</strong> como alternativa si no
-    está disponible) — para calcular con precisión las horas de
-    salida/puesta de sol, las fases lunares y las estaciones de donde te
-    encuentras, en lugar de usar una ubicación fija predeterminada. Esta
-    consulta se realiza automáticamente una vez (al primer inicio, o cada vez
-    que pulsas "Usar mi ubicación" en Ajustes) y no está vinculada a ningún
-    otro dato que procese la app. La ubicación resuelta (coordenadas, zona
-    horaria y una etiqueta legible como "Ciudad · Región · País") se guarda
-    únicamente en tu dispositivo — consulta la Sección 7.
+    My Days usa una ubicación aproximada para calcular con precisión las horas de
+    salida y puesta del sol, las fases de la luna y las estaciones donde estás. En
+    el primer inicio, y cada vez que tocas "Usar mi ubicación" en Ajustes, la app
+    pide a <strong>ipwho.is</strong> (o a <strong>ipinfo.io</strong> si no está
+    disponible) una ubicación aproximada basada en tu dirección IP, normalmente a
+    nivel de ciudad. La app nunca accede al GPS ni a los servicios de ubicación
+    precisa de tu dispositivo y nunca pide el permiso de ubicación.
   </p>
   <p>
-    También puedes buscar una ubicación por nombre en Ajustes para corregir la
-    ubicación detectada o consultar los datos de otra región. Estas búsquedas
-    se envían como texto simple a la <strong>API de Geocodificación de
-    Open-Meteo</strong>, un servicio de terceros, y no están vinculadas a tu
-    dirección IP ni a ningún otro dato que procese la app.
+    También puedes buscar un lugar por su nombre en Ajustes. El texto que escribes
+    se envía a la <strong>API de Geocodificación de Open-Meteo</strong> para
+    encontrar lugares que coincidan.
   </p>
   <p>
-    My Days nunca accede al GPS ni a los servicios de ubicación precisa de tu
-    dispositivo — solo a la ubicación aproximada basada en IP descrita
-    anteriormente, o a una ubicación que busques explícitamente.
+    La ubicación resultante (coordenadas, zona horaria y una etiqueta como
+    "Ciudad · Región · País") se guarda solo en tu dispositivo (ver la Sección 7).
+    No se envía a nuestro servidor.
   </p>
 
-  <h2>5. Almacenamiento de Datos</h2>
+  <h2>5. Notificación Diaria</h2>
   <p>
-    My Days no dispone de servidores que almacenen datos de usuario. No se
-    requiere ninguna cuenta y no se conserva ningún dato personal después de
-    cerrar la app.
+    Si la activas en Ajustes, My Days muestra una notificación local al día, a la
+    hora que elijas, con algo destacado de ese día. La notificación se crea en tu
+    dispositivo. No interviene ningún servidor de notificaciones push.
+  </p>
+  <p>
+    Para que el texto de la notificación esté al día, la app descarga el archivo
+    público de contenido de ese día desde <strong>jsDelivr</strong>, también en
+    segundo plano cuando la app está cerrada (mediante el planificador de tareas en
+    segundo plano de Android o la Actualización en segundo plano de iOS). Estas
+    descargas no contienen información sobre ti más allá de la información técnica
+    estándar descrita en la Sección 3.
+  </p>
+  <p>
+    Puedes desactivar la notificación o cambiar su hora cuando quieras en Ajustes, y
+    retirar el permiso de notificaciones en los ajustes de tu dispositivo.
   </p>
 
-  <h2>6. Notificaciones Locales</h2>
+  <h2>6. Compartir la App</h2>
   <p>
-    My Days puede enviarte opcionalmente una notificación diaria local con
-    un dato destacado sobre la fecha actual. Esta notificación se programa
-    íntegramente en tu dispositivo mediante el sistema de notificaciones de
-    Android: no se envían datos a nosotros ni a terceros para habilitarla,
-    y no interviene ningún servidor de notificaciones push. Puedes activar,
-    desactivar o reprogramar esta notificación en cualquier momento desde
-    los Ajustes de la app, y puedes revocar el permiso de notificaciones
-    desde los ajustes del sistema de tu dispositivo.
+    El botón "Comparte My Days con ellos" abre el menú de compartir de tu propio dispositivo
+    con un mensaje corto y un enlace a nuestra página de descarga. La app no sabe con
+    quién compartes ni qué app usas. La página de descarga está alojada en
+    <strong>GitHub Pages</strong> (ver la
+    <a href="https://docs.github.com/es/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener">Declaración de Privacidad de GitHub</a>)
+    y solo dirige a los visitantes al App Store o a Google Play.
   </p>
 
-  <h2>7. Preferencias Almacenadas en tu Dispositivo</h2>
+  <h2>7. Datos Guardados en tu Dispositivo</h2>
+  <p>Lo siguiente se guarda solo en tu dispositivo y nunca se nos envía:</p>
+  <ul>
+    <li>El idioma elegido y tus preferencias de notificación (activada o no, hora y
+      el tipo de contenido que quieres ver)</li>
+    <li>Tu ajuste de ubicación (Sección 4)</li>
+    <li>Un pequeño registro de la última notificación programada, para no mostrar
+      la misma notificación dos veces</li>
+  </ul>
   <p>
-    Tus preferencias de notificación (si están activadas, la hora programada
-    y el tipo de contenido que quieres ver) y tu ajuste de ubicación (Sección
-    4) se guardan únicamente en tu dispositivo. Estos datos nunca se
-    transmiten a nosotros, y se eliminan automáticamente si desinstalas la app.
+    Estos datos se eliminan al desinstalar la app o borrar sus datos.
   </p>
 
-  <h2>8. Privacidad de Menores</h2>
+  <h2>8. Permisos</h2>
+  <ul>
+    <li><strong>Acceso a internet</strong>, para cargar el contenido de cada día.</li>
+    <li><strong>Notificaciones</strong> (solo se piden cuando activas la notificación
+      diaria).</li>
+    <li>En Android: <strong>ejecutarse al iniciar</strong>, para restaurar la
+      notificación diaria después de reiniciar el teléfono, y una petición opcional
+      para <strong>ignorar la optimización de batería</strong>, para que la
+      notificación llegue a su hora.</li>
+    <li>En iOS: <strong>Actualización en segundo plano</strong>, que puedes desactivar
+      en la app Ajustes de iOS.</li>
+  </ul>
   <p>
-    La app no está dirigida a menores de 13 años. No recopilamos
-    conscientemente ninguna información de menores.
+    My Days no pide acceso a tu ubicación, cámara, micrófono, contactos, fotos ni
+    archivos.
   </p>
 
-  <h2>9. Cambios en Esta Política</h2>
+  <h2>9. Tus Opciones y Derechos</h2>
   <p>
-    Si esta política cambia, la versión actualizada se publicará en esta
-    misma URL con una fecha de "última actualización" revisada.
+    Como My Days no tiene cuentas y no guarda datos personales vinculados a ti, no
+    existe ningún perfil que consultar o eliminar. Puedes cambiar o desactivar los
+    ajustes de ubicación, notificación e idioma cuando quieras, y al desinstalar la
+    app se elimina todo lo guardado en tu dispositivo. Los registros de peticiones
+    del servidor se eliminan automáticamente a los 30 días. Si vives en la Unión
+    Europea o en otra región con leyes de protección de datos, puedes contactarnos
+    en cualquier momento para ejercer tus derechos (ver la Sección 12).
   </p>
 
-  <h2>10. Contacto</h2>
+  <h2>10. Privacidad de Menores</h2>
   <p>
-    Si tienes alguna pregunta sobre esta Política de Privacidad, puedes
-    contactarnos en:<br />
+    La app es apta para todas las edades y no recoge a sabiendas información personal
+    de nadie, incluidos los menores de 13 años.
+  </p>
+
+  <h2>11. Cambios en Esta Política</h2>
+  <p>
+    Si esta política cambia, la versión actualizada se publicará en esta dirección
+    con una nueva fecha de "última actualización".
+  </p>
+
+  <h2>12. Contacto</h2>
+  <p>
+    Si tienes alguna pregunta sobre esta Política de Privacidad, puedes contactarnos en:<br />
     <a href="mailto:valdemardematos@proton.me">valdemardematos@proton.me</a>
   </p>
 </body>
