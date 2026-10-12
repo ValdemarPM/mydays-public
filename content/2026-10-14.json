@@ -1,0 +1,342 @@
+{
+  "date": "2026-10-14",
+  "es": {
+    "saints": [
+      {
+        "name": "San Calixto I",
+        "type": "Papa y Mártir",
+        "description": "Nacido en la esclavitud, Calixto se hizo conocido por su compasiva atención a los muertos en los cementerios cristianos antes de ser elegido Papa."
+      },
+      {
+        "name": "Santos Nazario, Gervasio, Protasio y Celso",
+        "type": "Mártires",
+        "description": "Estos cuatro mártires sufrieron por su fe cristiana durante el reinado del emperador Nerón, siendo finalmente decapitados en Milán."
+      },
+      {
+        "name": "Santa Parascheva la Nueva",
+        "type": "Venerable Asceta",
+        "description": "Una asceta del siglo XI de Epivatima, Tracia, cuyas veneradas reliquias se encuentran ahora en Iași, Rumanía."
+      },
+      {
+        "name": "San Calixto I",
+        "type": "Papa y Mártir",
+        "description": "Nacido en la esclavitud, Calixto se hizo conocido por su compasiva atención a los muertos en los cementerios cristianos antes de ser elegido Papa."
+      },
+      {
+        "name": "Santos Nazario, Gervasio, Protasio y Celso",
+        "type": "Mártires",
+        "description": "Estos cuatro mártires sufrieron por su fe cristiana durante el reinado del emperador Nerón, siendo finalmente decapitados en Milán."
+      },
+      {
+        "name": "Santa Parascheva la Nueva",
+        "type": "Venerable Asceta",
+        "description": "Una asceta del siglo XI de Epivatima, Tracia, cuyas veneradas reliquias se encuentran ahora en Iași, Rumanía."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Normalización",
+        "description": "Esta observancia internacional crea conciencia sobre la importancia de la estandarización para la economía global y honra a los expertos que desarrollan acuerdos técnicos."
+      },
+      {
+        "name": "Día de la Enfermera de Urgencias",
+        "description": "Se celebra para honrar la profesión de enfermería de urgencias por su trabajo crítico en entornos hospitalarios de alta complejidad."
+      },
+      {
+        "name": "Día Nacional del Postre",
+        "description": "Un día en EE. UU. dedicado a celebrar la gran variedad de platos dulces que se disfrutan después de las comidas en todo el mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Estamos listos para sufrir cuando sea necesario, e incluso arriesgar nuestras vidas.",
+      "author": "Martin Luther King Jr.",
+      "context": "El 14 de octubre de 1964, Martin Luther King Jr. fue galardonado con el Premio Nobel de la Paz por su campaña no violenta por los derechos civiles."
+    },
+    "motivationalQuote": {
+      "text": "Haz lo que puedas con todo lo que tengas, dondequiera que estés.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      {
+        "name": "William Penn",
+        "description": "Un líder cuáquero inglés y defensor de la libertad religiosa, fundó la Commonwealth de Pensilvania en Norteamérica.",
+        "year": "1644"
+      },
+      {
+        "name": "Dwight D. Eisenhower",
+        "description": "Un general estadounidense durante la Segunda Guerra Mundial, más tarde sirvió como el 34.º presidente de los Estados Unidos de 1953 a 1961.",
+        "year": "1890"
+      },
+      {
+        "name": "Ralph Lauren",
+        "description": "Un diseñador de moda, filántropo y empresario multimillonario estadounidense, más conocido por fundar la corporación global Ralph Lauren.",
+        "year": "1939"
+      }
+    ],
+    "events": [
+      {
+        "title": "Chuck Yeager Rompe la Barrera del Sonido",
+        "description": "El piloto de pruebas estadounidense Chuck Yeager se convirtió en la primera persona en volar más rápido que la velocidad del sonido en el avión cohete Bell X-1.",
+        "year": "1947"
+      },
+      {
+        "title": "Martin Luther King Jr. Recibe el Premio Nobel de la Paz",
+        "description": "El Dr. Martin Luther King Jr. fue galardonado con el Premio Nobel de la Paz por su resistencia no violenta contra el prejuicio racial en América.",
+        "year": "1964"
+      },
+      {
+        "title": "Primera Transmisión Televisiva en Directo desde el Espacio por Apolo 7",
+        "description": "La misión Apolo 7 transmitió la primera emisión de televisión en directo de astronautas en órbita, demostrando un logro tecnológico significativo para la NASA.",
+        "year": "1968"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Mundial de la Normalización",
+      "teaser": "Esta observancia internacional crea conciencia sobre la importancia de la estandarización para la economía global y honra a los expertos que desarrollan acuerdos técnicos."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Callistus I",
+        "type": "Pope and Martyr",
+        "description": "Born into slavery, Callistus became known for his compassionate care for the dead in Christian cemeteries before being elected Pope."
+      },
+      {
+        "name": "Sts. Nazarius, Gervasius, Protasius, and Celsus",
+        "type": "Martyrs",
+        "description": "These four martyrs suffered for their Christian faith during the reign of Emperor Nero, ultimately being beheaded in Milan."
+      },
+      {
+        "name": "St. Paraskeve the New",
+        "type": "Venerable Ascetic",
+        "description": "An 11th-century ascetic from Epivatima, Thrace, whose venerated relics are now located in Iași, Romania."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Standards Day",
+        "description": "This international observance raises awareness about the importance of standardization to the global economy and honors experts who develop technical agreements."
+      },
+      {
+        "name": "Emergency Nurses Day",
+        "description": "Celebrated to honor the emergency nursing profession for their critical work in high-acuity hospital settings."
+      },
+      {
+        "name": "National Dessert Day",
+        "description": "A day in the U.S. dedicated to celebrating the wide variety of sweet courses enjoyed after meals around the world."
+      }
+    ],
+    "historicalQuote": {
+      "text": "We are ready to suffer when necessary, and even risk our lives.",
+      "author": "Martin Luther King Jr.",
+      "context": "On October 14, 1964, Martin Luther King Jr. was awarded the Nobel Peace Prize for his nonviolent campaign for civil rights."
+    },
+    "motivationalQuote": {
+      "text": "Do what you can with all you have, wherever you are.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      {
+        "name": "William Penn",
+        "description": "An English Quaker leader and advocate for religious freedom, he founded the Commonwealth of Pennsylvania in North America.",
+        "year": "1644"
+      },
+      {
+        "name": "Dwight D. Eisenhower",
+        "description": "An American general during World War II, he later served as the 34th President of the United States from 1953 to 1961.",
+        "year": "1890"
+      },
+      {
+        "name": "Ralph Lauren",
+        "description": "An American fashion designer, philanthropist, and billionaire businessman, best known for founding the global Ralph Lauren Corporation.",
+        "year": "1939"
+      }
+    ],
+    "events": [
+      {
+        "title": "Chuck Yeager Breaks the Sound Barrier",
+        "description": "American test pilot Chuck Yeager became the first person to fly faster than the speed of sound in the Bell X-1 rocket plane.",
+        "year": "1947"
+      },
+      {
+        "title": "Martin Luther King Jr. Receives Nobel Peace Prize",
+        "description": "Dr. Martin Luther King Jr. was awarded the Nobel Peace Prize for his nonviolent resistance to racial prejudice in America.",
+        "year": "1964"
+      },
+      {
+        "title": "First Live Telecast from Space by Apollo 7",
+        "description": "The Apollo 7 mission transmitted the first live television broadcast of astronauts in orbit, demonstrating significant technological achievement for NASA.",
+        "year": "1968"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is World Standards Day",
+      "teaser": "This international observance raises awareness about the importance of standardization to the global economy and honors experts who develop technical agreements."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Calisto I",
+        "type": "Papa e Mártir",
+        "description": "Nascido na escravidão, Calisto tornou-se conhecido por seu cuidado compassivo pelos mortos em cemitérios cristãos antes de ser eleito Papa."
+      },
+      {
+        "name": "Santos Nazário, Gervásio, Protásio e Celso",
+        "type": "Mártires",
+        "description": "Estes quatro mártires sofreram por sua fé cristã durante o reinado do Imperador Nero, sendo finalmente decapitados em Milão."
+      },
+      {
+        "name": "Santa Parascheva a Nova",
+        "type": "Venerável Asceta",
+        "description": "Uma asceta do século XI de Epivatima, Trácia, cujas relíquias veneradas estão agora localizadas em Iași, Romênia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Normalização",
+        "description": "Esta observância internacional aumenta a conscientização sobre a importância da padronização para a economia global e homenageia os especialistas que desenvolvem acordos técnicos."
+      },
+      {
+        "name": "Dia da Enfermagem de Emergência",
+        "description": "Celebrado para honrar a profissão de enfermagem de emergência por seu trabalho crítico em ambientes hospitalares de alta complexidade."
+      },
+      {
+        "name": "Dia Nacional da Sobremesa",
+        "description": "Um dia nos EUA dedicado a celebrar a ampla variedade de pratos doces apreciados após as refeições em todo o mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Estamos prontos para sofrer quando necessário, e até mesmo arriscar nossas vidas.",
+      "author": "Martin Luther King Jr.",
+      "context": "Em 14 de outubro de 1964, Martin Luther King Jr. foi agraciado com o Prêmio Nobel da Paz por sua campanha não violenta pelos direitos civis."
+    },
+    "motivationalQuote": {
+      "text": "Faça o que puder com tudo o que tiver, onde quer que esteja.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      {
+        "name": "William Penn",
+        "description": "Um líder quacre inglês e defensor da liberdade religiosa, ele fundou a Comunidade da Pensilvânia na América do Norte.",
+        "year": "1644"
+      },
+      {
+        "name": "Dwight D. Eisenhower",
+        "description": "Um general americano durante a Segunda Guerra Mundial, ele mais tarde serviu como o 34º Presidente dos Estados Unidos de 1953 a 1961.",
+        "year": "1890"
+      },
+      {
+        "name": "Ralph Lauren",
+        "description": "Um designer de moda, filantropo e empresário bilionário americano, mais conhecido por fundar a corporação global Ralph Lauren.",
+        "year": "1939"
+      }
+    ],
+    "events": [
+      {
+        "title": "Chuck Yeager Quebra a Barreira do Som",
+        "description": "O piloto de testes americano Chuck Yeager tornou-se a primeira pessoa a voar mais rápido que a velocidade do som no avião foguete Bell X-1.",
+        "year": "1947"
+      },
+      {
+        "title": "Martin Luther King Jr. Recebe o Prêmio Nobel da Paz",
+        "description": "O Dr. Martin Luther King Jr. foi agraciado com o Prêmio Nobel da Paz por sua resistência não violenta ao preconceito racial na América.",
+        "year": "1964"
+      },
+      {
+        "title": "Primeira Transmissão ao Vivo do Espaço pela Apollo 7",
+        "description": "A missão Apollo 7 transmitiu a primeira transmissão de televisão ao vivo de astronautas em órbita, demonstrando uma conquista tecnológica significativa para a NASA.",
+        "year": "1968"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Mundial da Normalização",
+      "teaser": "Esta observância internacional aumenta a conscientização sobre a importância da padronização para a economia global e homenageia os especialistas que desenvolvem acordos técnicos."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Calixt I",
+        "type": "Papa i Màrtir",
+        "description": "Nascut en l'esclavitud, Calixt va ser conegut per la seva atenció compassiva als difunts en els cementiris cristians abans de ser elegit Papa."
+      },
+      {
+        "name": "Sants Nazari, Gervasi, Protasi i Cels",
+        "type": "Màrtirs",
+        "description": "Aquests quatre màrtirs van patir per la seva fe cristiana durant el regnat de l'emperador Neró, sent finalment decapitats a Milà."
+      },
+      {
+        "name": "Santa Parasqueva la Nova",
+        "type": "Venerable Asceta",
+        "description": "Una asceta de l'11è segle d'Epivatima, Tràcia, les relíquies venerades de la qual es troben ara a Iași, Romania."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de l'Estandardització",
+        "description": "Aquesta celebració internacional sensibilitza sobre la importància de l'estandardització per a l'economia global i honora els experts que desenvolupen acords tècnics."
+      },
+      {
+        "name": "Dia de la Infermera d'Urgències",
+        "description": "Se celebra per honorar la professió d'infermeria d'urgències pel seu treball crític en entorns hospitalaris d'alta complexitat."
+      },
+      {
+        "name": "Dia Nacional de les Postres",
+        "description": "Un dia als EUA dedicat a celebrar la gran varietat de plats dolços que es gaudeixen després dels àpats a tot el món."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Estem preparats per patir quan calgui, i fins i tot arriscar les nostres vides.",
+      "author": "Martin Luther King Jr.",
+      "context": "El 14 d'octubre de 1964, Martin Luther King Jr. va ser guardonat amb el Premi Nobel de la Pau per la seva campanya no-violenta pels drets civils."
+    },
+    "motivationalQuote": {
+      "text": "Fes el que puguis amb tot el que tinguis, siguis on siguis.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      {
+        "name": "William Penn",
+        "description": "Un líder quàquer anglès i defensor de la llibertat religiosa, va fundar la Commonwealth de Pennsilvània a Amèrica del Nord.",
+        "year": "1644"
+      },
+      {
+        "name": "Dwight D. Eisenhower",
+        "description": "Un general americà durant la Segona Guerra Mundial, més tard va exercir com a 34è president dels Estats Units del 1953 al 1961.",
+        "year": "1890"
+      },
+      {
+        "name": "Ralph Lauren",
+        "description": "Un dissenyador de moda americà, filantrop i empresari multimilionari, més conegut per fundar la global Ralph Lauren Corporation.",
+        "year": "1939"
+      }
+    ],
+    "events": [
+      {
+        "title": "Chuck Yeager trenca la barrera del so",
+        "description": "El pilot de proves americà Chuck Yeager es va convertir en la primera persona a volar més ràpid que la velocitat del so en l'avió coet Bell X-1.",
+        "year": "1947"
+      },
+      {
+        "title": "Martin Luther King Jr. rep el Premi Nobel de la Pau",
+        "description": "El Dr. Martin Luther King Jr. va ser guardonat amb el Premi Nobel de la Pau per la seva resistència no-violenta al prejudici racial a Amèrica.",
+        "year": "1964"
+      },
+      {
+        "title": "Primera transmissió en directe des de l'espai per l'Apollo 7",
+        "description": "La missió Apollo 7 va transmetre la primera emissió de televisió en directe d'astronautes en òrbita, demostrant un èxit tecnològic significatiu per a la NASA.",
+        "year": "1968"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Mundial de l'Estandardització",
+      "teaser": "Aquesta celebració internacional sensibilitza sobre la importància de l'estandardització per a l'economia global i honora els experts que desenvolupen acords tècnics."
+    }
+  }
+}
