@@ -1,0 +1,307 @@
+{
+  "date": "2026-10-15",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Teresa de Ávila",
+        "type": "Virgen y Doctora de la Iglesia",
+        "description": "Una monja carmelita española, mística, autora y reformadora que desempeñó un papel fundamental en la Reforma Católica. Es conocida por sus escritos sobre la oración mental y por la fundación de monasterios carmelitas descalzos."
+      },
+      {
+        "name": "San Luciano de Antioquía",
+        "type": "Presbítero y Mártir",
+        "description": "Un teólogo y mártir cristiano primitivo que revisó la Septuaginta y fue conocido por su vida ascética. Sufrió el martirio bajo el emperador Maximino Daya."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de las Mujeres Rurales",
+        "description": "Este día reconoce el papel fundamental y la contribución de las mujeres rurales, incluidas las mujeres indígenas, en la mejora del desarrollo agrícola y rural, el aumento de la seguridad alimentaria y la erradicación de la pobreza rural."
+      },
+      {
+        "name": "Día Mundial del Lavado de Manos",
+        "description": "Un día de promoción global dedicado a aumentar la conciencia y la comprensión sobre la importancia de lavarse las manos con jabón como una forma eficaz y asequible de prevenir enfermedades."
+      },
+      {
+        "name": "Spirit Day",
+        "description": "Una celebración anual donde millones visten de púrpura en solidaridad con la juventud LGBTQ y para denunciar el acoso."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Evalúo el poder de una voluntad por cuánta resistencia, dolor, tortura soporta y sabe convertir en su ventaja.",
+      "author": "Friedrich Nietzsche",
+      "context": "Friedrich Nietzsche, un filósofo alemán profundamente influyente, nació el 15 de octubre de 1844. Esta cita refleja su concepto filosófico de la 'voluntad de poder', que explora el impulso fundamental en los seres humanos para superar y crecer."
+    },
+    "motivationalQuote": {
+      "text": "El hombre razonable se adapta al mundo; el irrazonable persiste en intentar adaptar el mundo a sí mismo. Por lo tanto, todo progreso depende del hombre irrazonable.",
+      "author": "George Bernard Shaw"
+    },
+    "births": [
+      {
+        "name": "Virgilio",
+        "description": "Un antiguo poeta romano, conocido por su poema épico la Eneida, que narra la historia de Eneas, un troyano que viajó a Italia y se convirtió en el ancestro de los romanos.",
+        "year": "70 BC"
+      },
+      {
+        "name": "Friedrich Nietzsche",
+        "description": "Un filósofo alemán, crítico cultural, poeta, compositor y filólogo cuya obra ha ejercido una profunda influencia en la filosofía occidental y la historia intelectual.",
+        "year": "1844"
+      },
+      {
+        "name": "A. P. J. Abdul Kalam",
+        "description": "Un científico aeroespacial y político indio que sirvió como el 11º Presidente de la India. Fue conocido como el 'Hombre Misil de la India' por su trabajo en el desarrollo de programas de misiles balísticos y armas nucleares.",
+        "year": "1931"
+      }
+    ],
+    "events": [
+      {
+        "title": "Adopción del Calendario Gregoriano",
+        "description": "En 1582, el calendario gregoriano, decretado por el Papa Gregorio XIII, entró en vigor en varios países católicos, lo que resultó en que el día después del jueves 4 de octubre se convirtiera en viernes 15 de octubre.",
+        "year": "1582"
+      },
+      {
+        "title": "Primer Vuelo Tripulado en Globo Aerostático",
+        "description": "En 1783, Jean-François Pilâtre de Rozier realizó el primer ascenso humano en un globo aerostático atado diseñado por los hermanos Montgolfier, marcando un hito significativo en la historia de la aviación.",
+        "year": "1783"
+      },
+      {
+        "title": "China Lanza su Primera Misión Espacial Tripulada",
+        "description": "En 2003, China lanzó con éxito Shenzhou 5, su primera misión espacial tripulada, llevando al astronauta Yang Liwei y convirtiendo a China en la tercera nación en enviar humanos al espacio de forma independiente.",
+        "year": "2003"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de las Mujeres Rurales",
+      "teaser": "Este día reconoce el papel fundamental y la contribución de las mujeres rurales, incluidas las mujeres indígenas, en la mejora del desarrollo agrícola y rural, el aumento de la seguridad alimentaria y la erradicación de la pobreza rural."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Teresa of Ávila",
+        "type": "Virgin and Doctor of the Church",
+        "description": "A Spanish Carmelite nun, mystic, author, and reformer who played a pivotal role in the Catholic Reformation. She is known for her writings on mental prayer and her founding of Discalced Carmelite monasteries."
+      },
+      {
+        "name": "Saint Lucian of Antioch",
+        "type": "Presbyter and Martyr",
+        "description": "An early Christian theologian and martyr who revised the Septuagint and was known for his ascetic life. He suffered martyrdom under Emperor Maximinus Daia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of Rural Women",
+        "description": "This day recognizes the critical role and contribution of rural women, including indigenous women, in enhancing agricultural and rural development, improving food security and eradicating rural poverty."
+      },
+      {
+        "name": "Global Handwashing Day",
+        "description": "A global advocacy day dedicated to increasing awareness and understanding about the importance of handwashing with soap as an effective and affordable way to prevent diseases."
+      },
+      {
+        "name": "Spirit Day",
+        "description": "An annual observance where millions wear purple in solidarity with LGBTQ youth and to speak out against bullying."
+      }
+    ],
+    "historicalQuote": {
+      "text": "I assess the power of a will by how much resistance, pain, torture it endures and knows how to turn to its advantage.",
+      "author": "Friedrich Nietzsche",
+      "context": "Friedrich Nietzsche, a profoundly influential German philosopher, was born on October 15, 1844. This quote reflects his philosophical concept of the 'will to power,' which explores the fundamental drive in humans to overcome and grow."
+    },
+    "motivationalQuote": {
+      "text": "The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.",
+      "author": "George Bernard Shaw"
+    },
+    "births": [
+      {
+        "name": "Virgil",
+        "description": "An ancient Roman poet, renowned for his epic poem the Aeneid, which tells the story of Aeneas, a Trojan who traveled to Italy and became the ancestor of the Romans.",
+        "year": "70 BC"
+      },
+      {
+        "name": "Friedrich Nietzsche",
+        "description": "A German philosopher, cultural critic, poet, composer, and philologist whose work has exerted a profound influence on Western philosophy and intellectual history.",
+        "year": "1844"
+      },
+      {
+        "name": "A. P. J. Abdul Kalam",
+        "description": "An Indian aerospace scientist and politician who served as the 11th President of India. He was known as the 'Missile Man of India' for his work on the development of ballistic missile and nuclear weapons programs.",
+        "year": "1931"
+      }
+    ],
+    "events": [
+      {
+        "title": "Gregorian Calendar Adopted",
+        "description": "In 1582, the Gregorian calendar, decreed by Pope Gregory XIII, became effective in several Catholic countries, resulting in the day after Thursday, October 4, becoming Friday, October 15.",
+        "year": "1582"
+      },
+      {
+        "title": "First Manned Hot Air Balloon Flight",
+        "description": "In 1783, Jean-François Pilâtre de Rozier made the first human ascent in a tethered hot air balloon designed by the Montgolfier brothers, marking a significant milestone in aviation history.",
+        "year": "1783"
+      },
+      {
+        "title": "China Launches First Crewed Space Mission",
+        "description": "In 2003, China successfully launched Shenzhou 5, its first crewed space mission, carrying astronaut Yang Liwei and making China the third nation to independently send humans into space.",
+        "year": "2003"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Day of Rural Women",
+      "teaser": "This day recognizes the critical role and contribution of rural women, including indigenous women, in enhancing agricultural and rural development, improving food security and eradicating rural poverty."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Teresa de Ávila",
+        "type": "Virgem e Doutora da Igreja",
+        "description": "Uma freira carmelita espanhola, mística, autora e reformadora que desempenhou um papel fundamental na Reforma Católica. É conhecida por seus escritos sobre oração mental e pela fundação de mosteiros carmelitas descalços."
+      },
+      {
+        "name": "São Luciano de Antioquia",
+        "type": "Presbítero e Mártir",
+        "description": "Um teólogo e mártir cristão primitivo que revisou a Septuaginta e era conhecido por sua vida ascética. Ele sofreu o martírio sob o imperador Maximino Daia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional das Mulheres Rurais",
+        "description": "Este dia reconhece o papel crucial e a contribuição das mulheres rurais, incluindo as mulheres indígenas, na promoção do desenvolvimento agrícola e rural, na melhoria da segurança alimentar e na erradicação da pobreza rural."
+      },
+      {
+        "name": "Dia Mundial da Lavagem das Mãos",
+        "description": "Um dia de conscientização global dedicado a aumentar a conscientização e a compreensão sobre a importância de lavar as mãos com sabão como uma forma eficaz e acessível de prevenir doenças."
+      },
+      {
+        "name": "Spirit Day",
+        "description": "Uma observância anual onde milhões vestem roxo em solidariedade com a juventude LGBTQ e para se manifestar contra o bullying."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Eu avalio o poder de uma vontade pela resistência, dor, tortura que ela suporta e sabe transformar em sua vantagem.",
+      "author": "Friedrich Nietzsche",
+      "context": "Friedrich Nietzsche, um filósofo alemão profundamente influente, nasceu em 15 de outubro de 1844. Esta citação reflete seu conceito filosófico da 'vontade de poder', que explora o impulso fundamental nos seres humanos para superar e crescer."
+    },
+    "motivationalQuote": {
+      "text": "O homem razoável adapta-se ao mundo; o irracional persiste em tentar adaptar o mundo a si mesmo. Portanto, todo progresso depende do homem irracional.",
+      "author": "George Bernard Shaw"
+    },
+    "births": [
+      {
+        "name": "Virgílio",
+        "description": "Um antigo poeta romano, renomado por seu poema épico a Eneida, que narra a história de Eneias, um troiano que viajou para a Itália e se tornou o ancestral dos romanos.",
+        "year": "70 BC"
+      },
+      {
+        "name": "Friedrich Nietzsche",
+        "description": "Um filósofo alemão, crítico cultural, poeta, compositor e filólogo cuja obra exerceu uma profunda influência na filosofia ocidental e na história intelectual.",
+        "year": "1844"
+      },
+      {
+        "name": "A. P. J. Abdul Kalam",
+        "description": "Um cientista aeroespacial e político indiano que serviu como o 11º Presidente da Índia. Ele era conhecido como o 'Homem Míssil da Índia' por seu trabalho no desenvolvimento de programas de mísseis balísticos e armas nucleares.",
+        "year": "1931"
+      }
+    ],
+    "events": [
+      {
+        "title": "Calendário Gregoriano Adotado",
+        "description": "Em 1582, o calendário gregoriano, decretado pelo Papa Gregório XIII, entrou em vigor em vários países católicos, resultando em que o dia seguinte à quinta-feira, 4 de outubro, se tornasse sexta-feira, 15 de outubro.",
+        "year": "1582"
+      },
+      {
+        "title": "Primeiro Voo Tripulado de Balão de Ar Quente",
+        "description": "Em 1783, Jean-François Pilâtre de Rozier fez a primeira ascensão humana em um balão de ar quente amarrado projetado pelos irmãos Montgolfier, marcando um marco significativo na história da aviação.",
+        "year": "1783"
+      },
+      {
+        "title": "China Lança Primeira Missão Espacial Tripulada",
+        "description": "Em 2003, a China lançou com sucesso a Shenzhou 5, sua primeira missão espacial tripulada, levando o astronauta Yang Liwei e tornando a China a terceira nação a enviar humanos ao espaço de forma independente.",
+        "year": "2003"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional das Mulheres Rurais",
+      "teaser": "Este dia reconhece o papel crucial e a contribuição das mulheres rurais, incluindo as mulheres indígenas, na promoção do desenvolvimento agrícola e rural, na melhoria da segurança alimentar e na erradicação da pobreza rural."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Teresa de Jesús",
+        "type": "Verge i Doctora de l'Església",
+        "description": "Monja carmelita descalça, mística, escriptora i reformadora espanyola que va tenir un paper fonamental en la Reforma Catòlica. És coneguda pels seus escrits sobre l'oració mental i per la fundació de monestirs carmelites descalces."
+      },
+      {
+        "name": "Sant Llucià d'Antioquia",
+        "type": "Prevere i Màrtir",
+        "description": "Teòleg cristià primitiu i màrtir que va revisar la Septuaginta i va ser conegut per la seva vida ascètica. Va patir martiri sota l'emperador Maximià Daia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de les Dones Rurals",
+        "description": "Aquest dia reconeix el paper fonamental i la contribució de les dones rurals, incloses les dones indígenes, en la millora del desenvolupament agrícola i rural, la seguretat alimentària i l'erradicació de la pobresa rural."
+      },
+      {
+        "name": "Dia Mundial del Rentat de Mans",
+        "description": "Un dia mundial de defensa dedicat a augmentar la consciència i la comprensió sobre la importància del rentat de mans amb sabó com una manera eficaç i assequible de prevenir malalties."
+      },
+      {
+        "name": "Dia de l'Esperit",
+        "description": "Una commemoració anual en què milions de persones vesteixen de morat en solidaritat amb la joventut LGBTQ i per denunciar l'assetjament."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Avaluo el poder d'una voluntat per quanta resistència, dolor, tortura suporta i sap convertir en avantatge seu.",
+      "author": "Friedrich Nietzsche",
+      "context": "Friedrich Nietzsche, un filòsof alemany profundament influent, va néixer el 15 d'octubre de 1844. Aquesta cita reflecteix el seu concepte filosòfic de la 'voluntat de poder', que explora l'impuls fonamental dels humans per superar-se i créixer."
+    },
+    "motivationalQuote": {
+      "text": "L'home raonable s'adapta al món; el no raonable persisteix a intentar adaptar el món a ell mateix. Per tant, tot progrés depèn de l'home no raonable.",
+      "author": "George Bernard Shaw"
+    },
+    "births": [
+      {
+        "name": "Virgili",
+        "description": "Poeta romà antic, reconegut pel seu poema èpic l'Eneida, que narra la història d'Enees, un troià que va viatjar a Itàlia i es va convertir en l'avantpassat dels romans.",
+        "year": "70 BC"
+      },
+      {
+        "name": "Friedrich Nietzsche",
+        "description": "Filòsof alemany, crític cultural, poeta, compositor i filòleg l'obra del qual ha exercit una profunda influència en la filosofia occidental i la història intel·lectual.",
+        "year": "1844"
+      },
+      {
+        "name": "A. P. J. Abdul Kalam",
+        "description": "Científic aeroespacial i polític indi que va ser l'onzè president de l'Índia. Se'l coneixia com l''Home Míssil de l'Índia' pel seu treball en el desenvolupament de programes de míssils balístics i armes nuclears.",
+        "year": "1931"
+      }
+    ],
+    "events": [
+      {
+        "title": "Adopció del Calendari Gregorià",
+        "description": "El 1582, el calendari gregorià, decretat pel Papa Gregori XIII, va entrar en vigor en diversos països catòlics, fent que el dia després del dijous 4 d'octubre esdevingués divendres 15 d'octubre.",
+        "year": "1582"
+      },
+      {
+        "title": "Primer Vol en Globus Aerostàtic Tripulat",
+        "description": "El 1783, Jean-François Pilâtre de Rozier va realitzar la primera ascensió humana en un globus aerostàtic lligat dissenyat pels germans Montgolfier, marcant una fita significativa en la història de l'aviació.",
+        "year": "1783"
+      },
+      {
+        "title": "La Xina Llança la Primera Missió Espacial Tripulada",
+        "description": "El 2003, la Xina va llançar amb èxit Shenzhou 5, la seva primera missió espacial tripulada, transportant l'astronauta Yang Liwei i convertint la Xina en la tercera nació a enviar humans a l'espai de manera independent.",
+        "year": "2003"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de les Dones Rurals",
+      "teaser": "Aquest dia reconeix el paper fonamental i la contribució de les dones rurals, incloses les dones indígenes, en la millora del desenvolupament agrícola i rural, la seguretat alimentària i l'erradicació de la pobresa rural."
+    }
+  }
+}
