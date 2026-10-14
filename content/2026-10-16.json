@@ -1,0 +1,327 @@
+{
+  "date": "2026-10-16",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Eduviges de Silesia",
+        "type": "Duquesa, Religiosa",
+        "description": "Una noble que dedicó su vida a ayudar a los necesitados, fundando hospitales y monasterios, y fue conocida por su preocupación por los demás."
+      },
+      {
+        "name": "San Gerardo Mayela",
+        "type": "Hermano Redentorista Laico",
+        "description": "Un hermano laico italiano conocido por su celo apostólico, paciencia, amor por los pobres y dones espirituales, incluyendo profecía y milagros."
+      },
+      {
+        "name": "Mártir Longino el Centurión",
+        "type": "Soldado, Mártir",
+        "description": "Un soldado romano que presenció la crucifixión de Cristo, creyó, fue bautizado y más tarde predicó el Evangelio en su Capadocia natal, sufriendo el martirio."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Alimentación",
+        "description": "Un día internacional que promueve la seguridad alimentaria global y la solidaridad en la lucha contra el hambre."
+      },
+      {
+        "name": "Día Mundial del Gato",
+        "description": "Un día establecido para abogar por el trato humano de los gatos comunitarios y promover programas de captura-esterilización-retorno."
+      },
+      {
+        "name": "Día Nacional del Jefe",
+        "description": "Un día en los Estados Unidos para mostrar aprecio y agradecimiento a empleadores y gerentes."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Sé tú mismo; todos los demás ya están ocupados.",
+      "author": "Oscar Wilde",
+      "context": "Oscar Wilde, un renombrado poeta y dramaturgo irlandés, nació el 16 de octubre de 1854."
+    },
+    "motivationalQuote": {
+      "text": "Debemos estar dispuestos a dejar ir la vida que hemos planeado, para tener la vida que nos espera.",
+      "author": "Joseph Campbell"
+    },
+    "births": [
+      {
+        "name": "Oscar Wilde",
+        "description": "Un influyente poeta y dramaturgo irlandés, conocido por sus ingeniosos epigramas y obras como 'El retrato de Dorian Gray'.",
+        "year": "1854"
+      },
+      {
+        "name": "Eugene O'Neill",
+        "description": "Un dramaturgo estadounidense y Premio Nobel de Literatura, que introdujo técnicas de realismo en el drama estadounidense.",
+        "year": "1888"
+      },
+      {
+        "name": "David Ben-Gurión",
+        "description": "El principal fundador del Estado de Israel y su primer Primer Ministro, una figura fundamental en la historia israelí.",
+        "year": "1886"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundación de la Universidad de Yale",
+        "description": "La Collegiate School de Connecticut, que más tarde se convirtió en la Universidad de Yale, fue fundada, estableciendo una de las instituciones más antiguas y prestigiosas de América.",
+        "year": "1701"
+      },
+      {
+        "title": "Fundación de The Walt Disney Company",
+        "description": "Walt Disney y su hermano Roy fundaron Disney Brothers Cartoon Studio, que evolucionó hasta convertirse en la icónica Walt Disney Company.",
+        "year": "1923"
+      },
+      {
+        "title": "Elección del Papa Juan Pablo II",
+        "description": "El Cardenal Karol Wojtyla de Polonia fue elegido Papa Juan Pablo II, convirtiéndose en el primer papa no italiano en más de cuatro siglos.",
+        "year": "1978"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Mundial de la Alimentación",
+      "teaser": "Un día internacional que promueve la seguridad alimentaria global y la solidaridad en la lucha contra el hambre."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Hedwig of Silesia",
+        "type": "Duchess, Religious",
+        "description": "A noblewoman who dedicated her life to helping the needy, founding hospitals and monasteries, and was known for her concern for others."
+      },
+      {
+        "name": "Saint Gerard Majella",
+        "type": "Lay Redemptorist",
+        "description": "An Italian lay brother known for his apostolic zeal, patience, love for the poor, and spiritual gifts, including prophecy and miracles."
+      },
+      {
+        "name": "Martyr Longinus the Centurion",
+        "type": "Soldier, Martyr",
+        "description": "A Roman soldier who witnessed Christ's crucifixion, believed, was baptized, and later preached the Gospel in his native Cappadocia, suffering martyrdom."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Food Day",
+        "description": "An international day promoting global food security and solidarity in the fight against hunger."
+      },
+      {
+        "name": "Global Cat Day",
+        "description": "A day established to advocate for the humane treatment of community cats and promote trap-neuter-return programs."
+      },
+      {
+        "name": "National Boss's Day",
+        "description": "A day in the United States to show appreciation and thankfulness to employers and managers."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Be yourself; everyone else is already taken.",
+      "author": "Oscar Wilde",
+      "context": "Oscar Wilde, a renowned Irish poet and playwright, was born on October 16, 1854."
+    },
+    "motivationalQuote": {
+      "text": "We must be willing to let go of the life we have planned, so as to have the life that is waiting for us.",
+      "author": "Joseph Campbell"
+    },
+    "births": [
+      {
+        "name": "Oscar Wilde",
+        "description": "An influential Irish poet and playwright, known for his witty epigrams and works like 'The Picture of Dorian Gray'.",
+        "year": "1854"
+      },
+      {
+        "name": "Eugene O'Neill",
+        "description": "An American playwright and Nobel laureate in Literature, who introduced realism techniques into U.S. drama.",
+        "year": "1888"
+      },
+      {
+        "name": "David Ben-Gurion",
+        "description": "The primary founder of the State of Israel and its first Prime Minister, a pivotal figure in Israeli history.",
+        "year": "1886"
+      }
+    ],
+    "events": [
+      {
+        "title": "Yale University Founded",
+        "description": "The Collegiate School of Connecticut, which later became Yale University, was founded, establishing one of America's oldest and most prestigious institutions.",
+        "year": "1701"
+      },
+      {
+        "title": "The Walt Disney Company Founded",
+        "description": "Walt Disney and his brother Roy founded the Disney Brothers Cartoon Studio, which evolved into the iconic Walt Disney Company.",
+        "year": "1923"
+      },
+      {
+        "title": "Pope John Paul II Elected",
+        "description": "Cardinal Karol Wojtyla of Poland was elected Pope John Paul II, becoming the first non-Italian pope in over four centuries.",
+        "year": "1978"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is World Food Day",
+      "teaser": "An international day promoting global food security and solidarity in the fight against hunger."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Edviges da Silésia",
+        "type": "Duquesa, Religiosa",
+        "description": "Uma nobre que dedicou a vida a ajudar os necessitados, fundando hospitais e mosteiros, e era conhecida por sua preocupação com os outros."
+      },
+      {
+        "name": "São Geraldo Majella",
+        "type": "Irmão Redentorista Leigo",
+        "description": "Um irmão leigo italiano conhecido por seu zelo apostólico, paciência, amor pelos pobres e dons espirituais, incluindo profecia e milagres."
+      },
+      {
+        "name": "Mártir Longino o Centurião",
+        "type": "Soldado, Mártir",
+        "description": "Um soldado romano que testemunhou a crucificação de Cristo, acreditou, foi batizado e mais tarde pregou o Evangelho em sua Capadócia natal, sofrendo o martírio."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Alimentação",
+        "description": "Um dia internacional que promove a segurança alimentar global e a solidariedade na luta contra a fome."
+      },
+      {
+        "name": "Dia Mundial do Gato",
+        "description": "Um dia estabelecido para defender o tratamento humano de gatos comunitários e promover programas de captura-esterilização-retorno."
+      },
+      {
+        "name": "Dia Nacional do Chefe",
+        "description": "Um dia nos Estados Unidos para mostrar apreço e gratidão a empregadores e gerentes."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Seja você mesmo; todos os outros já estão ocupados.",
+      "author": "Oscar Wilde",
+      "context": "Oscar Wilde, um renomado poeta e dramaturgo irlandês, nasceu em 16 de outubro de 1854."
+    },
+    "motivationalQuote": {
+      "text": "Devemos estar dispostos a abandonar a vida que planejamos, para ter a vida que nos espera.",
+      "author": "Joseph Campbell"
+    },
+    "births": [
+      {
+        "name": "Oscar Wilde",
+        "description": "Um influente poeta e dramaturgo irlandês, conhecido por seus epigramas espirituosos e obras como 'O Retrato de Dorian Gray'.",
+        "year": "1854"
+      },
+      {
+        "name": "Eugene O'Neill",
+        "description": "Um dramaturgo americano e laureado com o Prêmio Nobel de Literatura, que introduziu técnicas de realismo no drama dos EUA.",
+        "year": "1888"
+      },
+      {
+        "name": "David Ben-Gurion",
+        "description": "O principal fundador do Estado de Israel e seu primeiro Primeiro-Ministro, uma figura central na história israelense.",
+        "year": "1886"
+      }
+    ],
+    "events": [
+      {
+        "title": "Universidade Yale Fundada",
+        "description": "A Collegiate School de Connecticut, que mais tarde se tornou a Universidade Yale, foi fundada, estabelecendo uma das instituições mais antigas e prestigiadas da América.",
+        "year": "1701"
+      },
+      {
+        "title": "A Walt Disney Company Fundada",
+        "description": "Walt Disney e seu irmão Roy fundaram o Disney Brothers Cartoon Studio, que evoluiu para a icônica Walt Disney Company.",
+        "year": "1923"
+      },
+      {
+        "title": "Papa João Paulo II Eleito",
+        "description": "O Cardeal Karol Wojtyla da Polônia foi eleito Papa João Paulo II, tornando-se o primeiro papa não italiano em mais de quatro séculos.",
+        "year": "1978"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Mundial da Alimentação",
+      "teaser": "Um dia internacional que promove a segurança alimentar global e a solidariedade na luta contra a fome."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Eduvigis de Silèsia",
+        "type": "Duquessa, Religiosa",
+        "description": "Una noble que va dedicar la seva vida a ajudar els necessitats, fundant hospitals i monestirs, i era coneguda per la seva preocupació pels altres."
+      },
+      {
+        "name": "Sant Gerard Majella",
+        "type": "Laic Redemptorista",
+        "description": "Un germà laic italià conegut pel seu zel apostòlic, paciència, amor pels pobres i dons espirituals, incloent la profecia i els miracles."
+      },
+      {
+        "name": "Sant Llongí el Centurió",
+        "type": "Soldat, Màrtir",
+        "description": "Un soldat romà que va presenciar la crucifixió de Crist, va creure, va ser batejat i més tard va predicar l'Evangeli a la seva Capadòcia natal, patint el martiri."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de l'Alimentació",
+        "description": "Un dia internacional que promou la seguretat alimentària global i la solidaritat en la lluita contra la fam."
+      },
+      {
+        "name": "Dia Global del Gat",
+        "description": "Un dia establert per defensar el tractament humà dels gats comunitaris i promoure programes de captura-esterilització-retorn."
+      },
+      {
+        "name": "Dia Nacional del Cap",
+        "description": "Un dia als Estats Units per mostrar apreciació i agraïment als empresaris i gerents."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Sigues tu mateix; tots els altres llocs ja estan ocupats.",
+      "author": "Oscar Wilde",
+      "context": "Oscar Wilde, un reconegut poeta i dramaturg irlandès, va néixer el 16 d'octubre de 1854."
+    },
+    "motivationalQuote": {
+      "text": "Hem d'estar disposats a deixar anar la vida que hem planejat, per tal de tenir la vida que ens espera.",
+      "author": "Joseph Campbell"
+    },
+    "births": [
+      {
+        "name": "Oscar Wilde",
+        "description": "Un influent poeta i dramaturg irlandès, conegut pels seus enginyosos epigrames i obres com 'El retrat de Dorian Gray'.",
+        "year": "1854"
+      },
+      {
+        "name": "Eugene O'Neill",
+        "description": "Un dramaturg nord-americà i premi Nobel de Literatura, que va introduir tècniques de realisme al drama dels EUA.",
+        "year": "1888"
+      },
+      {
+        "name": "David Ben-Gurion",
+        "description": "El principal fundador de l'Estat d'Israel i el seu primer Primer Ministre, una figura fonamental en la història israeliana.",
+        "year": "1886"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundació de la Universitat de Yale",
+        "description": "La Collegiate School de Connecticut, que més tard es va convertir en la Universitat de Yale, va ser fundada, establint una de les institucions més antigues i prestigioses d'Amèrica.",
+        "year": "1701"
+      },
+      {
+        "title": "Fundació de The Walt Disney Company",
+        "description": "Walt Disney i el seu germà Roy van fundar els Disney Brothers Cartoon Studio, que va evolucionar cap a la icònica Walt Disney Company.",
+        "year": "1923"
+      },
+      {
+        "title": "Elecció del Papa Joan Pau II",
+        "description": "El cardenal Karol Wojtyla de Polònia va ser elegit Papa Joan Pau II, convertint-se en el primer papa no italià en més de quatre segles.",
+        "year": "1978"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Mundial de l'Alimentació",
+      "teaser": "Un dia internacional que promou la seguretat alimentària global i la solidaritat en la lluita contra la fam."
+    }
+  }
+}
