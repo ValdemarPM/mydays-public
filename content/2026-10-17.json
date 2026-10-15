@@ -1,0 +1,327 @@
+{
+  "date": "2026-10-17",
+  "es": {
+    "saints": [
+      {
+        "name": "San Ignacio de Antioquía",
+        "type": "Obispo, Mártir, Padre de la Iglesia Primitiva",
+        "description": "Ignacio fue el tercer Obispo de Antioquía y un escritor cristiano primitivo que fue martirizado en Roma alrededor del año 107 d.C. al ser arrojado a las fieras. Es conocido por sus siete cartas, que proporcionan un valioso testimonio de la fe y la naturaleza jerárquica de la Iglesia Apostólica."
+      },
+      {
+        "name": "Profeta Oseas",
+        "type": "Profeta",
+        "description": "Oseas fue un profeta del Antiguo Testamento que vivió durante el siglo IX a.C. en el reino de Israel, contemporáneo de Isaías, Miqueas y Amós. Incansablemente instó a su pueblo a regresar a Dios y predijo la venida de Cristo."
+      },
+      {
+        "name": "Mártires y Anárgiros Cosme y Damián",
+        "type": "Médicos, Mártires",
+        "description": "Cosme y Damián eran hermanos y médicos en Cilicia (Arabia) que creían en Cristo, viajando para predicar y curar a los enfermos sin aceptar pago. Fueron martirizados bajo el gobernador Lisias por su fe cristiana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional para la Erradicación de la Pobreza",
+        "description": "Esta celebración de las Naciones Unidas reconoce que acabar con la pobreza es inseparable de la protección de los derechos humanos, la dignidad humana y la paz, a menudo centrándose en temas como la vivienda adecuada."
+      },
+      {
+        "name": "Día Nacional de la Pasta",
+        "description": "Celebrado en los Estados Unidos, este día anima a la gente a disfrutar y apreciar la pasta, un plato versátil y querido."
+      },
+      {
+        "name": "Día de la Poesía Negra",
+        "description": "Este día fomenta la lectura, el disfrute y la apreciación de las palabras líricas y conmovedoras de los poetas negros, conmemorando al primer autor negro publicado en los Estados Unidos, Jupiter Hammon."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nunca quise ser famoso. Solo quise ser grande.",
+      "author": "Charles Cornwallis",
+      "context": "El general británico Charles Cornwallis, quien rindió su ejército en el Sitio de Yorktown el 17 de octubre de 1781, durante la Guerra de Independencia de los Estados Unidos, está asociado con esta fecha."
+    },
+    "motivationalQuote": {
+      "text": "La mente lo es todo. Lo que piensas, te conviertes.",
+      "author": "Buddha"
+    },
+    "births": [
+      {
+        "name": "Mae C. Jemison",
+        "description": "Ingeniera, médica y exastronauta de la NASA, Mae Jemison se convirtió en la primera mujer afroamericana en viajar al espacio en 1992.",
+        "year": "1956"
+      },
+      {
+        "name": "Eminem (Marshall Mathers III)",
+        "description": "Aclamado rapero, productor musical y compositor estadounidense, Eminem es conocido por popularizar el hip-hop en la América Media y ha ganado numerosos premios, incluyendo 15 Premios Grammy.",
+        "year": "1972"
+      },
+      {
+        "name": "Rita Hayworth",
+        "description": "Actriz, bailarina e ícono pin-up estadounidense, Rita Hayworth alcanzó la fama durante la Edad de Oro de Hollywood en la década de 1940.",
+        "year": "1918"
+      }
+    ],
+    "events": [
+      {
+        "title": "Rendición Británica en Saratoga",
+        "description": "Durante la Guerra de Independencia de los Estados Unidos, el general británico John Burgoyne y su ejército de 5.700 hombres se rindieron a las tropas estadounidenses en Saratoga, Nueva York, marcando un punto de inflexión crucial en la guerra.",
+        "year": "1777"
+      },
+      {
+        "title": "Se Abre la Primera Central Nuclear Comercial",
+        "description": "La Reina Isabel II inauguró oficialmente la central eléctrica de Calder Hall en Sellafield, Inglaterra, que fue la primera planta de energía nuclear comercial a gran escala del mundo.",
+        "year": "1956"
+      },
+      {
+        "title": "Madre Teresa Galardonada con el Premio Nobel de la Paz",
+        "description": "Por su dedicada labor humanitaria y sus esfuerzos para aliviar la pobreza y el sufrimiento, la Madre Teresa fue galardonada con el Premio Nobel de la Paz.",
+        "year": "1979"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional para la Erradicación de la Pobreza",
+      "teaser": "Esta celebración de las Naciones Unidas reconoce que acabar con la pobreza es inseparable de la protección de los derechos humanos, la dignidad humana y la paz, a menudo centrándose en temas como la vivienda adecuada."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Ignatius of Antioch",
+        "type": "Bishop, Martyr, Early Church Father",
+        "description": "Ignatius was the third Bishop of Antioch and an early Christian writer who was martyred in Rome around 107 AD by being fed to wild beasts. He is known for his seven letters, which provide a precious witness to the faith and hierarchical nature of the Apostolic Church."
+      },
+      {
+        "name": "Prophet Hosea",
+        "type": "Prophet",
+        "description": "Hosea was an Old Testament prophet who lived during the 9th century BC in the kingdom of Israel, contemporary with Isaiah, Micah, and Amos. He tirelessly urged his people to return to God and foretold the coming of Christ."
+      },
+      {
+        "name": "Martyrs and Unmercenaries Cosmas and Damian",
+        "type": "Physicians, Martyrs",
+        "description": "Cosmas and Damian were brothers and physicians in Cilicia (Arabia) who believed in Christ, traveling to preach and heal the sick without accepting payment. They were martyred under the governor Lysias for their Christian faith."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day for the Eradication of Poverty",
+        "description": "This United Nations observance recognizes that ending poverty is inseparable from protecting human rights, human dignity, and peace, often focusing on themes like adequate housing."
+      },
+      {
+        "name": "National Pasta Day",
+        "description": "Celebrated in the United States, this day encourages people to enjoy and appreciate pasta, a versatile and beloved dish."
+      },
+      {
+        "name": "Black Poetry Day",
+        "description": "This day encourages reading, enjoying, and appreciating the lyrical and poignant words of Black poets, commemorating the first published Black author in the United States, Jupiter Hammon."
+      }
+    ],
+    "historicalQuote": {
+      "text": "I never wanted to be famous. I only wanted to be great.",
+      "author": "Charles Cornwallis",
+      "context": "British General Charles Cornwallis, who surrendered his army at the Siege of Yorktown on October 17, 1781, during the American Revolutionary War, is associated with this date."
+    },
+    "motivationalQuote": {
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha"
+    },
+    "births": [
+      {
+        "name": "Mae C. Jemison",
+        "description": "An American engineer, physician, and former NASA astronaut, Mae Jemison became the first African American woman to travel in space in 1992.",
+        "year": "1956"
+      },
+      {
+        "name": "Eminem (Marshall Mathers III)",
+        "description": "An acclaimed American rapper, music producer, and songwriter, Eminem is known for popularizing hip-hop in Middle America and has won numerous awards including 15 Grammy Awards.",
+        "year": "1972"
+      },
+      {
+        "name": "Rita Hayworth",
+        "description": "An iconic American actress, dancer, and pin-up girl, Rita Hayworth achieved fame during the 1940s Golden Age of Hollywood.",
+        "year": "1918"
+      }
+    ],
+    "events": [
+      {
+        "title": "British Surrender at Saratoga",
+        "description": "During the American Revolutionary War, British General John Burgoyne and his army of 5,700 men surrendered to American troops at Saratoga, New York, marking a crucial turning point in the war.",
+        "year": "1777"
+      },
+      {
+        "title": "First Commercial Nuclear Power Station Opens",
+        "description": "Queen Elizabeth II officially opened the Calder Hall power station in Sellafield, England, which was the world's first large-scale commercial nuclear power plant.",
+        "year": "1956"
+      },
+      {
+        "title": "Mother Teresa Awarded Nobel Peace Prize",
+        "description": "For her dedicated humanitarian work and efforts to alleviate poverty and suffering, Mother Teresa was awarded the Nobel Peace Prize.",
+        "year": "1979"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Day for the Eradication of Poverty",
+      "teaser": "This United Nations observance recognizes that ending poverty is inseparable from protecting human rights, human dignity, and peace, often focusing on themes like adequate housing."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Inácio de Antioquia",
+        "type": "Bispo, Mártir, Pai da Igreja Primitiva",
+        "description": "Inácio foi o terceiro Bispo de Antioquia e um escritor cristão primitivo que foi martirizado em Roma por volta de 107 d.C., sendo jogado às feras. Ele é conhecido por suas sete cartas, que fornecem um testemunho precioso da fé e da natureza hierárquica da Igreja Apostólica."
+      },
+      {
+        "name": "Profeta Oseias",
+        "type": "Profeta",
+        "description": "Oseias foi um profeta do Antigo Testamento que viveu durante o século IX a.C. no reino de Israel, contemporâneo de Isaías, Miqueias e Amós. Ele incessantemente exortou seu povo a retornar a Deus e previu a vinda de Cristo."
+      },
+      {
+        "name": "Mártires e Anárgiros Cosme e Damião",
+        "type": "Médicos, Mártires",
+        "description": "Cosme e Damião eram irmãos e médicos na Cilícia (Arábia) que acreditavam em Cristo, viajando para pregar e curar os enfermos sem aceitar pagamento. Foram martirizados sob o governador Lísias por sua fé cristã."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional para a Erradicação da Pobreza",
+        "description": "Esta observância das Nações Unidas reconhece que o fim da pobreza é inseparável da proteção dos direitos humanos, da dignidade humana e da paz, muitas vezes focando em temas como moradia adequada."
+      },
+      {
+        "name": "Dia Nacional da Massa",
+        "description": "Celebrado nos Estados Unidos, este dia incentiva as pessoas a desfrutar e apreciar a massa, um prato versátil e amado."
+      },
+      {
+        "name": "Dia da Poesia Negra",
+        "description": "Este dia incentiva a leitura, o prazer e a apreciação das palavras líricas e pungentes de poetas negros, comemorando o primeiro autor negro publicado nos Estados Unidos, Jupiter Hammon."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nunca quis ser famoso. Eu só queria ser grande.",
+      "author": "Charles Cornwallis",
+      "context": "O General Britânico Charles Cornwallis, que rendeu seu exército no Cerco de Yorktown em 17 de outubro de 1781, durante a Guerra Revolucionária Americana, está associado a esta data."
+    },
+    "motivationalQuote": {
+      "text": "A mente é tudo. O que você pensa, você se torna.",
+      "author": "Buddha"
+    },
+    "births": [
+      {
+        "name": "Mae C. Jemison",
+        "description": "Uma engenheira, médica e ex-astronauta da NASA, Mae Jemison se tornou a primeira mulher afro-americana a viajar para o espaço em 1992.",
+        "year": "1956"
+      },
+      {
+        "name": "Eminem (Marshall Mathers III)",
+        "description": "Um aclamado rapper, produtor musical e compositor americano, Eminem é conhecido por popularizar o hip-hop na América Média e ganhou inúmeros prêmios, incluindo 15 Grammys.",
+        "year": "1972"
+      },
+      {
+        "name": "Rita Hayworth",
+        "description": "Uma icônica atriz, dançarina e pin-up americana, Rita Hayworth alcançou a fama durante a Era de Ouro de Hollywood na década de 1940.",
+        "year": "1918"
+      }
+    ],
+    "events": [
+      {
+        "title": "Rendição Britânica em Saratoga",
+        "description": "Durante a Guerra Revolucionária Americana, o General Britânico John Burgoyne e seu exército de 5.700 homens renderam-se às tropas americanas em Saratoga, Nova Iorque, marcando um ponto de viragem crucial na guerra.",
+        "year": "1777"
+      },
+      {
+        "title": "Inaugurada a Primeira Central Nuclear Comercial",
+        "description": "A Rainha Elizabeth II inaugurou oficialmente a usina de Calder Hall em Sellafield, Inglaterra, que foi a primeira usina nuclear comercial em grande escala do mundo.",
+        "year": "1956"
+      },
+      {
+        "title": "Madre Teresa Recebe o Prêmio Nobel da Paz",
+        "description": "Por seu trabalho humanitário dedicado e esforços para aliviar a pobreza e o sofrimento, Madre Teresa foi agraciada com o Prêmio Nobel da Paz.",
+        "year": "1979"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional para a Erradicação da Pobreza",
+      "teaser": "Esta observância das Nações Unidas reconhece que o fim da pobreza é inseparável da proteção dos direitos humanos, da dignidade humana e da paz, muitas vezes focando em temas como moradia adequada."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Ignasi d'Antioquia",
+        "type": "Bisbe, Màrtir, Pare de l'Església Primitiva",
+        "description": "Ignasi va ser el tercer bisbe d'Antioquia i un escriptor cristià primitiu que va ser martiritzat a Roma al voltant de l'any 107 dC en ser lliurat a bèsties salvatges. És conegut per les seves set cartes, que proporcionen un testimoni preciós de la fe i la naturalesa jeràrquica de l'Església Apostòlica."
+      },
+      {
+        "name": "Profeta Osees",
+        "type": "Profeta",
+        "description": "Osees va ser un profeta de l'Antic Testament que va viure durant el segle IX aC al regne d'Israel, contemporani d'Isaïes, Miquees i Amós. Va instar incansablement el seu poble a tornar a Déu i va profetitzar la vinguda de Crist."
+      },
+      {
+        "name": "Màrtirs i Anargirs Cosme i Damià",
+        "type": "Metges, Màrtirs",
+        "description": "Cosme i Damià eren germans i metges a Cilícia (Aràbia) que creien en Crist, viatjant per predicar i curar els malalts sense acceptar pagament. Van ser martiritzats sota el governador Lísies per la seva fe cristiana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional per a l'Eradicació de la Pobresa",
+        "description": "Aquesta observança de les Nacions Unides reconeix que posar fi a la pobresa és inseparable de la protecció dels drets humans, la dignitat humana i la pau, sovint centrant-se en temes com l'habitatge adequat."
+      },
+      {
+        "name": "Dia Nacional de la Pasta",
+        "description": "Celebrat als Estats Units, aquest dia anima la gent a gaudir i apreciar la pasta, un plat versàtil i estimat."
+      },
+      {
+        "name": "Dia de la Poesia Negra",
+        "description": "Aquest dia fomenta la lectura, el gaudi i l'apreciació de les paraules líriques i punyents dels poetes negres, commemorant el primer autor negre publicat als Estats Units, Jupiter Hammon."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Mai vaig voler ser famós. Només volia ser gran.",
+      "author": "Charles Cornwallis",
+      "context": "El general britànic Charles Cornwallis, que va rendir el seu exèrcit al Setge de Yorktown el 17 d'octubre de 1781, durant la Guerra d'Independència dels Estats Units, s'associa amb aquesta data."
+    },
+    "motivationalQuote": {
+      "text": "La ment ho és tot. Allò que penses, et converteixes.",
+      "author": "Buda"
+    },
+    "births": [
+      {
+        "name": "Mae C. Jemison",
+        "description": "Enginyera, metgessa i antiga astronauta de la NASA nord-americana, Mae Jemison va ser la primera dona afroamericana a viatjar a l'espai el 1992.",
+        "year": "1956"
+      },
+      {
+        "name": "Eminem (Marshall Mathers III)",
+        "description": "Aclamat raper, productor musical i compositor nord-americà, Eminem és conegut per popularitzar el hip-hop a l'Amèrica Mitjana i ha guanyat nombrosos premis, inclosos 15 Premis Grammy.",
+        "year": "1972"
+      },
+      {
+        "name": "Rita Hayworth",
+        "description": "Actriu, ballarina i pin-up icona nord-americana, Rita Hayworth va aconseguir la fama durant l'Edat d'Or de Hollywood dels anys 40.",
+        "year": "1918"
+      }
+    ],
+    "events": [
+      {
+        "title": "Rendició Britànica a Saratoga",
+        "description": "Durant la Guerra d'Independència dels Estats Units, el general britànic John Burgoyne i el seu exèrcit de 5.700 homes es van rendir a les tropes americanes a Saratoga, Nova York, marcant un punt d'inflexió crucial en la guerra.",
+        "year": "1777"
+      },
+      {
+        "title": "S'inaugura la Primera Central Nuclear Comercial",
+        "description": "La Reina Elisabet II va inaugurar oficialment la central elèctrica de Calder Hall a Sellafield, Anglaterra, que va ser la primera central nuclear comercial a gran escala del món.",
+        "year": "1956"
+      },
+      {
+        "title": "Mare Teresa Guardonada amb el Premi Nobel de la Pau",
+        "description": "Per la seva dedicada tasca humanitària i els seus esforços per alleujar la pobresa i el sofriment, la Mare Teresa va ser guardonada amb el Premi Nobel de la Pau.",
+        "year": "1979"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional per a l'Eradicació de la Pobresa",
+      "teaser": "Aquesta observança de les Nacions Unides reconeix que posar fi a la pobresa és inseparable de la protecció dels drets humans, la dignitat humana i la pau, sovint centrant-se en temes com l'habitatge adequat."
+    }
+  }
+}
