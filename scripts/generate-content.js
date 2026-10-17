@@ -301,9 +301,58 @@ Output ONLY a JSON object (no markdown fences) mapping each name/title to its ye
   return fixed;
 }
 
-// Deterministic safety net: the translation step must preserve the same array length and
-// the same "year" values as the source (year is not a translatable field). If the model
-// drops or alters it anyway, repair it here by index rather than trusting the model's output.
+const LIST_KEYS = ['saints', 'observances', 'births', 'events'];
+
+// Every translated list must have exactly as many items as the source. The prompt says so,
+// but the model sometimes repeats items anyway (es.events on 2026-08-19, es.saints listed
+// twice on 2026-10-14), so the length is checked here. actual is null when the list is missing.
+function findListMismatches(translated, baseContent, langs) {
+  const mismatches = [];
+  for (const lang of langs) {
+    for (const key of LIST_KEYS) {
+      const expected = (baseContent[key] ?? []).length;
+      const items = translated?.[lang]?.[key];
+      const actual = Array.isArray(items) ? items.length : null;
+      if (actual !== expected) mismatches.push({ lang, key, expected, actual });
+    }
+  }
+  return mismatches;
+}
+
+function describeMismatch({ lang, key, expected, actual }) {
+  return `${lang}.${key} has ${actual ?? 'no list'} items, expected ${expected}`;
+}
+
+// Translates one batch, retrying while any list length differs from the source. If it is
+// still wrong after the last attempt, extra items are cut off: they have always been repeats
+// appended after the real ones, and the prompt keeps source order. Missing items can't be
+// repaired, so that fails the date and the next scheduled run regenerates it.
+async function translateBatch(baseContent, langs, attempts = 3) {
+  const label = `translation-${langs.join('-')}`;
+  let result;
+  let mismatches = [];
+  for (let attempt = 1; attempt <= attempts; attempt++) {
+    result = await callGemini(buildTranslationPrompt(baseContent, langs), { grounding: false, label });
+    mismatches = findListMismatches(result, baseContent, langs);
+    if (mismatches.length === 0) return result;
+    console.warn(`      ${label} attempt ${attempt}/${attempts}: ${mismatches.map(describeMismatch).join('; ')}`);
+  }
+
+  const missing = mismatches.filter(m => m.actual === null || m.actual < m.expected);
+  if (missing.length > 0) {
+    throw new Error(`${label} dropped items after ${attempts} attempts: ${missing.map(describeMismatch).join('; ')}`);
+  }
+  for (const { lang, key, expected } of mismatches) {
+    console.warn(`      WARNING: truncating ${lang}.${key} to ${expected} items (review this date)`);
+    result[lang][key] = result[lang][key].slice(0, expected);
+  }
+  return result;
+}
+
+// Deterministic safety net: the translation step must preserve the same "year" values as
+// the source (year is not a translatable field). If the model drops it anyway, repair it
+// here by index rather than trusting the model's output. List lengths are already enforced
+// by translateBatch().
 function repairTranslatedYears(translated, baseContent, langs) {
   for (const lang of langs) {
     for (const key of ['births', 'events']) {
@@ -311,9 +360,6 @@ function repairTranslatedYears(translated, baseContent, langs) {
       const items = translated[lang]?.[key];
       if (!Array.isArray(items)) continue;
 
-      if (items.length !== source.length) {
-        console.warn(`      WARNING: ${lang}.${key} has ${items.length} items, expected ${source.length} (source). Truncating/leaving as-is; consider re-running.`);
-      }
       items.forEach((item, i) => {
         if (!item.year && source[i]?.year) {
           item.year = source[i].year;
@@ -508,8 +554,8 @@ async function generateForDate(isoTarget) {
   // Step 2: translate in two batches to avoid output token limits
   console.log(`[2/5] Translating to ES, EN, PT, CA (two batches)...`);
   const [batch1, batch2] = await Promise.all([
-    callGemini(buildTranslationPrompt(baseContent, ['es', 'pt']), { grounding: false, label: 'translation-es-pt' }),
-    callGemini(buildTranslationPrompt(baseContent, ['en', 'ca']), { grounding: false, label: 'translation-en-ca' }),
+    translateBatch(baseContent, ['es', 'pt']),
+    translateBatch(baseContent, ['en', 'ca']),
   ]);
   const translated = repairTranslatedYears(
     { es: batch1.es, en: batch2.en, pt: batch1.pt, ca: batch2.ca },
@@ -542,4 +588,4 @@ if (require.main === module) {
   });
 }
 
-module.exports = { datesToGenerate, computeNotificationHighlight, addNotificationHighlights, normalizeQuote, collectRecentQuotes, buildRepickPrompt };
+module.exports = { datesToGenerate, computeNotificationHighlight, addNotificationHighlights, normalizeQuote, collectRecentQuotes, buildRepickPrompt, findListMismatches, translateBatch };

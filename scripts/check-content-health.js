@@ -35,7 +35,20 @@ function validate(json, date) {
       continue;
     }
     for (const key of ['saints', 'observances', 'births', 'events']) {
-      if (!Array.isArray(block[key])) problems.push(`${lang}.${key} is not a list`);
+      const items = block[key];
+      if (!Array.isArray(items)) {
+        problems.push(`${lang}.${key} is not a list`);
+        continue;
+      }
+      // The other languages are translations of the English block, so the lists must match
+      // it item for item. A translation that repeats items shows them twice in the app.
+      const enItems = json.en?.[key];
+      if (lang !== 'en' && Array.isArray(enItems) && items.length !== enItems.length) {
+        problems.push(`${lang}.${key} has ${items.length} items, en has ${enItems.length}`);
+      }
+      const names = items.map((item) => String(item?.name ?? item?.title ?? '').trim().toLowerCase());
+      const repeated = [...new Set(names.filter((n, i) => n && names.indexOf(n) !== i))];
+      if (repeated.length > 0) problems.push(`${lang}.${key} lists the same item twice: ${repeated.join(', ')}`);
     }
     for (const key of ['births', 'events']) {
       if (Array.isArray(block[key]) && block[key].length === 0) problems.push(`${lang}.${key} is empty`);
