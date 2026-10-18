@@ -1,0 +1,327 @@
+{
+  "date": "2026-10-20",
+  "es": {
+    "saints": [
+      {
+        "name": "San Pablo de la Cruz",
+        "type": "Sacerdote, Confesor",
+        "description": "Nacido en Italia en 1694, fundó la Congregación de la Pasión (Pasionistas), dedicando su vida a la devoción a la pasión de Cristo y predicando la compasión a los pobres."
+      },
+      {
+        "name": "San Artemio",
+        "type": "Gran Mártir",
+        "description": "Un destacado líder militar bajo el emperador Constantino el Grande, fue martirizado durante el reinado de Juliano el Apóstata por su fe cristiana en el año 362 d.C."
+      },
+      {
+        "name": "Santa Matrona de Quíos",
+        "type": "Venerable Hacedora de Maravillas",
+        "description": "Nacida en el siglo XIV en Quíos, fundó un monasterio para mujeres y fue conocida por su vida virtuosa, caridad y capacidad para sanar a los enfermos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Osteoporosis",
+        "description": "Observado anualmente el 20 de octubre, este día crea conciencia global sobre la prevención, el diagnóstico y el tratamiento de la osteoporosis y las enfermedades óseas metabólicas."
+      },
+      {
+        "name": "Día Internacional de los Chefs",
+        "description": "Celebrado cada año, este día se centra en educar a los niños de todo el mundo sobre la alimentación saludable y anima a los chefs a transmitir sus conocimientos y habilidades culinarias."
+      },
+      {
+        "name": "Día Nacional de la Escritura",
+        "description": "Este día anima a las personas a dedicarse a la escritura diaria y reconoce la importancia de la escritura como una habilidad crucial y una forma de arte."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“Pueblo de Filipinas: he regresado. Por la gracia de Dios Todopoderoso, nuestras fuerzas se encuentran de nuevo en suelo filipino.”",
+      "author": "General Douglas MacArthur",
+      "context": "El 20 de octubre de 1944, el general Douglas MacArthur regresó famosamente a Filipinas durante la Segunda Guerra Mundial, cumpliendo su promesa, “Volveré”, después de haber recibido la orden de evacuar en 1942."
+    },
+    "motivationalQuote": {
+      "text": "Uno no se ilumina imaginando figuras de luz, sino haciendo consciente la oscuridad.",
+      "author": "Carl Jung"
+    },
+    "births": [
+      {
+        "name": "Snoop Dogg",
+        "description": "Un rapero, productor discográfico y actor estadounidense, alcanzó la fama a principios de la década de 1990 y es conocido por su distintivo estilo de hip-hop de la Costa Oeste.",
+        "year": "1971"
+      },
+      {
+        "name": "Kamala Harris",
+        "description": "Una política y abogada estadounidense, hizo historia como la 49ª Vicepresidenta de los Estados Unidos.",
+        "year": "1964"
+      },
+      {
+        "name": "Tom Petty",
+        "description": "Un influyente cantante, compositor y guitarrista estadounidense, fue más conocido como el líder de Tom Petty and the Heartbreakers y tuvo una exitosa carrera en solitario.",
+        "year": "1950"
+      }
+    ],
+    "events": [
+      {
+        "title": "Se Ratifica la Compra de Luisiana",
+        "description": "El Senado de los Estados Unidos ratificó la Compra de Luisiana, un acuerdo territorial monumental que duplicó el tamaño de la joven nación.",
+        "year": "1803"
+      },
+      {
+        "title": "Establecimiento de la Frontera entre EE. UU. y Canadá",
+        "description": "Se firmó la Convención de 1818 entre los Estados Unidos y el Reino Unido, estableciendo la frontera entre Canadá y los Estados Unidos en el paralelo 49 en gran parte de su extensión.",
+        "year": "1818"
+      },
+      {
+        "title": "Apertura de la Ópera de Sídney",
+        "description": "La icónica Ópera de Sídney en Australia, una obra maestra de la arquitectura del siglo XX y un sitio del Patrimonio Mundial de la UNESCO, fue inaugurada oficialmente por la Reina Isabel II.",
+        "year": "1973"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Mundial de la Osteoporosis",
+      "teaser": "Observado anualmente el 20 de octubre, este día crea conciencia global sobre la prevención, el diagnóstico y el tratamiento de la osteoporosis y las enfermedades óseas metabólicas."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Paul of the Cross",
+        "type": "Priest, Confessor",
+        "description": "Born in Italy in 1694, he founded the Congregation of the Passion (Passionists), dedicating his life to devotion to Christ's passion and preaching compassion to the poor."
+      },
+      {
+        "name": "St. Artemius",
+        "type": "Great Martyr",
+        "description": "A prominent military leader under Emperor Constantine the Great, he was martyred during the reign of Julian the Apostate for his Christian faith in 362 AD."
+      },
+      {
+        "name": "St. Matrona of Chios",
+        "type": "Venerable Wonderworker",
+        "description": "Born in the 14th century on Chios, she founded a monastery for women and was known for her virtuous life, charity, and ability to heal the sick."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Osteoporosis Day",
+        "description": "Observed annually on October 20, this day raises global awareness for the prevention, diagnosis, and treatment of osteoporosis and metabolic bone disease."
+      },
+      {
+        "name": "International Chefs Day",
+        "description": "Celebrated each year, this day focuses on educating children worldwide about healthy eating and encourages chefs to pass on their culinary knowledge and skills."
+      },
+      {
+        "name": "National Day on Writing",
+        "description": "This day encourages people to engage in daily writing and acknowledges the significance of writing as both a crucial skill and a form of art."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“People of the Philippines: I have returned. By the grace of Almighty God our forces stand again on Philippine soil.”",
+      "author": "General Douglas MacArthur",
+      "context": "On October 20, 1944, General Douglas MacArthur famously returned to the Philippines during World War II, fulfilling his promise, “I shall return,” after being ordered to evacuate in 1942."
+    },
+    "motivationalQuote": {
+      "text": "One does not become enlightened by imagining figures of light, but by making the darkness conscious.",
+      "author": "Carl Jung"
+    },
+    "births": [
+      {
+        "name": "Snoop Dogg",
+        "description": "An American rapper, record producer, and actor, he rose to fame in the early 1990s and is known for his distinctive West Coast hip-hop style.",
+        "year": "1971"
+      },
+      {
+        "name": "Kamala Harris",
+        "description": "An American politician and attorney, she made history as the 49th Vice President of the United States.",
+        "year": "1964"
+      },
+      {
+        "name": "Tom Petty",
+        "description": "An influential American singer, songwriter, and guitarist, he was best known as the frontman of Tom Petty and the Heartbreakers and had a successful solo career.",
+        "year": "1950"
+      }
+    ],
+    "events": [
+      {
+        "title": "Louisiana Purchase Ratified",
+        "description": "The United States Senate ratified the Louisiana Purchase, a monumental land deal that doubled the size of the young nation.",
+        "year": "1803"
+      },
+      {
+        "title": "U.S.-Canada Border Established",
+        "description": "The Convention of 1818 was signed between the United States and the United Kingdom, settling the Canada–United States border at the 49th parallel for much of its length.",
+        "year": "1818"
+      },
+      {
+        "title": "Sydney Opera House Opens",
+        "description": "The iconic Sydney Opera House in Australia, a masterpiece of 20th-century architecture and a UNESCO World Heritage site, was officially opened by Queen Elizabeth II.",
+        "year": "1973"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is World Osteoporosis Day",
+      "teaser": "Observed annually on October 20, this day raises global awareness for the prevention, diagnosis, and treatment of osteoporosis and metabolic bone disease."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Paulo da Cruz",
+        "type": "Sacerdote, Confessor",
+        "description": "Nascido na Itália em 1694, fundou a Congregação da Paixão (Passionistas), dedicando sua vida à devoção à paixão de Cristo e pregando compaixão aos pobres."
+      },
+      {
+        "name": "Santo Artêmio",
+        "type": "Grande Mártir",
+        "description": "Um proeminente líder militar sob o Imperador Constantino, o Grande, foi martirizado durante o reinado de Juliano, o Apóstata, por sua fé cristã em 362 d.C."
+      },
+      {
+        "name": "Santa Matrona de Quios",
+        "type": "Venerável Taumaturga",
+        "description": "Nascida no século XIV em Quios, fundou um mosteiro para mulheres e era conhecida por sua vida virtuosa, caridade e capacidade de curar os enfermos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Osteoporose",
+        "description": "Observado anualmente em 20 de outubro, este dia aumenta a conscientização global para a prevenção, diagnóstico e tratamento da osteoporose e doenças ósseas metabólicas."
+      },
+      {
+        "name": "Dia Internacional dos Chefs",
+        "description": "Celebrado anualmente, este dia foca em educar crianças em todo o mundo sobre alimentação saudável e encoraja chefs a transmitirem seus conhecimentos e habilidades culinárias."
+      },
+      {
+        "name": "Dia Nacional da Escrita",
+        "description": "Este dia incentiva as pessoas a se engajarem na escrita diária e reconhece a importância da escrita como uma habilidade crucial e uma forma de arte."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“Povo das Filipinas: eu retornei. Pela graça de Deus Todo-Poderoso, nossas forças estão novamente em solo filipino.”",
+      "author": "General Douglas MacArthur",
+      "context": "Em 20 de outubro de 1944, o General Douglas MacArthur retornou famosamente às Filipinas durante a Segunda Guerra Mundial, cumprindo sua promessa, “Eu voltarei”, após ser ordenado a evacuar em 1942."
+    },
+    "motivationalQuote": {
+      "text": "Não nos tornamos iluminados imaginando figuras de luz, mas tornando consciente a escuridão.",
+      "author": "Carl Jung"
+    },
+    "births": [
+      {
+        "name": "Snoop Dogg",
+        "description": "Um rapper, produtor musical e ator americano, alcançou a fama no início dos anos 1990 e é conhecido por seu estilo distinto de hip-hop da Costa Oeste.",
+        "year": "1971"
+      },
+      {
+        "name": "Kamala Harris",
+        "description": "Uma política e advogada americana, ela fez história como a 49ª Vice-Presidente dos Estados Unidos.",
+        "year": "1964"
+      },
+      {
+        "name": "Tom Petty",
+        "description": "Um influente cantor, compositor e guitarrista americano, ele era mais conhecido como o frontman do Tom Petty and the Heartbreakers e teve uma carreira solo de sucesso.",
+        "year": "1950"
+      }
+    ],
+    "events": [
+      {
+        "title": "Compra da Louisiana Ratificada",
+        "description": "O Senado dos Estados Unidos ratificou a Compra da Louisiana, um acordo de terras monumental que dobrou o tamanho da jovem nação.",
+        "year": "1803"
+      },
+      {
+        "title": "Fronteira EUA-Canadá Estabelecida",
+        "description": "A Convenção de 1818 foi assinada entre os Estados Unidos e o Reino Unido, estabelecendo a fronteira Canadá-Estados Unidos no paralelo 49 em grande parte de sua extensão.",
+        "year": "1818"
+      },
+      {
+        "title": "Ópera de Sydney Inaugurada",
+        "description": "A icônica Ópera de Sydney na Austrália, uma obra-prima da arquitetura do século XX e um Patrimônio Mundial da UNESCO, foi oficialmente inaugurada pela Rainha Elizabeth II.",
+        "year": "1973"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Mundial da Osteoporose",
+      "teaser": "Observado anualmente em 20 de outubro, este dia aumenta a conscientização global para a prevenção, diagnóstico e tratamento da osteoporose e doenças ósseas metabólicas."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Pau de la Creu",
+        "type": "Prevere, Confessor",
+        "description": "Nascut a Itàlia el 1694, va fundar la Congregació de la Passió (Passionistes), dedicant la seva vida a la devoció a la passió de Crist i predicant la compassió als pobres."
+      },
+      {
+        "name": "Sant Artemi",
+        "type": "Gran Màrtir",
+        "description": "Un destacat líder militar sota l'emperador Constantí el Gran, va ser martiritzat durant el regnat de Julià l'Apòstata per la seva fe cristiana l'any 362 dC."
+      },
+      {
+        "name": "Santa Matrona de Quios",
+        "type": "Venerable Taumaturga",
+        "description": "Nascuda al segle XIV a Quios, va fundar un monestir per a dones i va ser coneguda per la seva vida virtuosa, la caritat i la capacitat de curar els malalts."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de l'Osteoporosi",
+        "description": "Celebrat anualment el 20 d'octubre, aquest dia consciencia a nivell mundial sobre la prevenció, el diagnòstic i el tractament de l'osteoporosi i les malalties òssies metabòliques."
+      },
+      {
+        "name": "Dia Internacional dels Cuiners",
+        "description": "Celebrat cada any, aquest dia se centra en educar els nens de tot el món sobre l'alimentació saludable i anima els cuiners a transmetre els seus coneixements i habilitats culinàries."
+      },
+      {
+        "name": "Dia Nacional de l'Escriptura",
+        "description": "Aquest dia anima la gent a practicar l'escriptura diàriament i reconeix la importància de l'escriptura com una habilitat crucial i una forma d'art."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“Poble de les Filipines: he tornat. Per la gràcia de Déu Totpoderós, les nostres forces tornen a trepitjar sòl filipí.”",
+      "author": "General Douglas MacArthur",
+      "context": "El 20 d'octubre de 1944, el general Douglas MacArthur va tornar famosament a les Filipines durant la Segona Guerra Mundial, complint la seva promesa, “Tornaré”, després de rebre l'ordre d'evacuar el 1942."
+    },
+    "motivationalQuote": {
+      "text": "Un no s'il·lumina imaginant figures de llum, sinó fent conscient la foscor.",
+      "author": "Carl Jung"
+    },
+    "births": [
+      {
+        "name": "Snoop Dogg",
+        "description": "Un raper, productor discogràfic i actor estatunidenc, va assolir la fama a principis dels anys 90 i és conegut pel seu distintiu estil de hip-hop de la Costa Oest.",
+        "year": "1971"
+      },
+      {
+        "name": "Kamala Harris",
+        "description": "Una política i advocada estatunidenca, va fer història com la 49a vicepresidenta dels Estats Units.",
+        "year": "1964"
+      },
+      {
+        "name": "Tom Petty",
+        "description": "Un influent cantant, compositor i guitarrista estatunidenc, va ser més conegut com el líder de Tom Petty and the Heartbreakers i va tenir una exitosa carrera en solitari.",
+        "year": "1950"
+      }
+    ],
+    "events": [
+      {
+        "title": "Compra de Louisiana Ratificada",
+        "description": "El Senat dels Estats Units va ratificar la Compra de Louisiana, un acord territorial monumental que va duplicar la mida de la jove nació.",
+        "year": "1803"
+      },
+      {
+        "title": "Frontera EUA-Canadà Establerta",
+        "description": "La Convenció de 1818 es va signar entre els Estats Units i el Regne Unit, establint la frontera entre el Canadà i els Estats Units al paral·lel 49 en gran part de la seva longitud.",
+        "year": "1818"
+      },
+      {
+        "title": "S'obre l'Òpera de Sydney",
+        "description": "L'emblemàtica Òpera de Sydney a Austràlia, una obra mestra de l'arquitectura del segle XX i Patrimoni de la Humanitat per la UNESCO, va ser inaugurada oficialment per la Reina Elisabet II.",
+        "year": "1973"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Mundial de l'Osteoporosi",
+      "teaser": "Celebrat anualment el 20 d'octubre, aquest dia consciencia a nivell mundial sobre la prevenció, el diagnòstic i el tractament de l'osteoporosi i les malalties òssies metabòliques."
+    }
+  }
+}
