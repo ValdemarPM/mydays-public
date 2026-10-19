@@ -17,10 +17,19 @@ const CONTENT_DIR = path.join(__dirname, '..', 'content');
 const REPORT_FILE = process.env.REPORT_FILE || 'content-health-report.md';
 const SEVERITY_FILE = process.env.SEVERITY_FILE || 'content-health-severity';
 
-function isoDate(offsetDays) {
-  const d = new Date();
+function isoDate(offsetDays, from = new Date()) {
+  const d = new Date(from);
   d.setUTCDate(d.getUTCDate() + offsetDays);
   return d.toISOString().slice(0, 10);
+}
+
+// The 22:37 UTC cron usually starts 1.5-4.5 hours late, after midnight. Counting "two days
+// ahead" from the start time would then check a file the generator isn't due to create until
+// later that day, so scheduled runs count it from the day they were scheduled for.
+function earlyWarningBase() {
+  const now = new Date();
+  if (process.env.GITHUB_EVENT_NAME !== 'schedule') return now;
+  return new Date(now.getTime() - 12 * 60 * 60 * 1000);
 }
 
 // Returns a list of problems (empty = valid). Mirrors what the app and the native
@@ -123,8 +132,8 @@ async function main() {
     : [
         { date: isoDate(0), urgent: true },
         { date: isoDate(1), urgent: true },
-        { date: isoDate(2), urgent: false },
-      ];
+        { date: isoDate(2, earlyWarningBase()), urgent: false },
+      ].filter((check, i, all) => all.findIndex((c) => c.date === check.date) === i);
 
   const report = [];
   let urgentFailed = false;
