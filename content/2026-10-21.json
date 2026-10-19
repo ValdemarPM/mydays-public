@@ -1,0 +1,327 @@
+{
+  "date": "2026-10-21",
+  "es": {
+    "saints": [
+      {
+        "name": "San Hilarión el Grande",
+        "type": "Abad",
+        "description": "Un ermitaño y abad, San Hilarión es considerado el padre del monacato en Palestina, conocido por su vida virtuosa, ascetismo y milagros antes de su muerte alrededor del 371 d.C."
+      },
+      {
+        "name": "Santa Úrsula y Compañeras",
+        "type": "Vírgenes y Mártires",
+        "description": "Según la leyenda, Santa Úrsula fue una princesa cristiana británica que, junto con muchas compañeras, sufrió martirio cerca de Colonia, Alemania, en el siglo IV."
+      },
+      {
+        "name": "San Gaspar del Búfalo",
+        "type": "Sacerdote",
+        "description": "Un sacerdote italiano y fundador de los Misioneros de la Preciosa Sangre, fue encarcelado por negarse a jurar lealtad a Napoleón y fue conocido por su predicación ferviente."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional del Nacho",
+        "description": "Un día dedicado a celebrar el popular aperitivo con queso, animando a la gente a ser creativa con sus propias creaciones de nachos."
+      },
+      {
+        "name": "Día Nacional de la Manzana",
+        "description": "Establecido en el Reino Unido, este día promueve la rica importancia cultural e histórica de las manzanas y los huertos patrimoniales."
+      },
+      {
+        "name": "Día de Regreso al Futuro",
+        "description": "Esta observancia de la cultura pop marca la fecha (21 de octubre de 2015) a la que Marty McFly, Doc Brown y Jennifer viajaron en 'Regreso al Futuro Parte II'."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si tengo mil ideas y solo una resulta ser buena, estoy satisfecho.",
+      "author": "Alfred Nobel",
+      "context": "Alfred Nobel, un químico, inventor, ingeniero, empresario y filántropo sueco, nació el 21 de octubre de 1833. Es más famoso por inventar la dinamita y por establecer los Premios Nobel."
+    },
+    "motivationalQuote": {
+      "text": "Todo el mundo parece tener una idea clara de cómo deberían vivir los demás, pero ninguna sobre la suya propia.",
+      "author": "Paulo Coelho"
+    },
+    "births": [
+      {
+        "name": "Alfred Nobel",
+        "description": "Un químico, ingeniero e industrial sueco, inventó la dinamita y usó su fortuna para establecer los Premios Nobel.",
+        "year": "1833"
+      },
+      {
+        "name": "Dizzy Gillespie",
+        "description": "Un influyente trompetista, director de orquesta, compositor y cantante de jazz estadounidense, fue una figura clave en el desarrollo del bebop y el jazz moderno.",
+        "year": "1917"
+      },
+      {
+        "name": "Carrie Fisher",
+        "description": "Una actriz, escritora y comediante estadounidense, fue más conocida por su icónico papel como la Princesa Leia Organa en la saga de Star Wars.",
+        "year": "1956"
+      }
+    ],
+    "events": [
+      {
+        "title": "Lanzamiento del USS Constitution",
+        "description": "El USS Constitution, una fragata de 44 cañones de la Armada de los Estados Unidos, famosa como 'Old Ironsides', fue lanzada en el puerto de Boston.",
+        "year": "1797"
+      },
+      {
+        "title": "Edison Prueba la Primera Bombilla Práctica",
+        "description": "Thomas Edison probó con éxito su primera bombilla eléctrica incandescente práctica, que según se informa duró 13 horas.",
+        "year": "1879"
+      },
+      {
+        "title": "Florence Nightingale Enviada a la Guerra de Crimea",
+        "description": "La enfermera pionera Florence Nightingale, junto con un equipo de 38 enfermeras, fue enviada a la Guerra de Crimea, mejorando significativamente la sanidad y la atención militar.",
+        "year": "1854"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional del Nacho",
+      "teaser": "Un día dedicado a celebrar el popular aperitivo con queso, animando a la gente a ser creativa con sus propias creaciones de nachos."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Hilarion the Great",
+        "type": "Abbot",
+        "description": "A hermit and abbot, St. Hilarion is considered the father of monasticism in Palestine, known for his virtuous life, asceticism, and miracles before his death around 371 AD."
+      },
+      {
+        "name": "St. Ursula and Companions",
+        "type": "Virgin and Martyrs",
+        "description": "According to legend, St. Ursula was a British Christian princess who, along with many companions, suffered martyrdom near Cologne, Germany, in the 4th century."
+      },
+      {
+        "name": "St. Gaspar del Bufalo",
+        "type": "Priest",
+        "description": "An Italian priest and founder of the Missionaries of the Precious Blood, he was imprisoned for refusing to swear an oath of loyalty to Napoleon and was known for his fervent preaching."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of the Nacho",
+        "description": "A day dedicated to celebrating the popular cheesy snack, encouraging people to get creative with their own nacho creations."
+      },
+      {
+        "name": "National Apple Day",
+        "description": "Established in the UK, this day promotes the rich cultural and historical significance of apples and heritage orchards."
+      },
+      {
+        "name": "Back to the Future Day",
+        "description": "This pop culture observance marks the date (October 21, 2015) that Marty McFly, Doc Brown, and Jennifer traveled to in 'Back to the Future Part II.'"
+      }
+    ],
+    "historicalQuote": {
+      "text": "If I have a thousand ideas and only one turns out to be good, I am satisfied.",
+      "author": "Alfred Nobel",
+      "context": "Alfred Nobel, a Swedish chemist, inventor, engineer, businessman, and philanthropist, was born on October 21, 1833. He is most famously known for inventing dynamite and for establishing the Nobel Prizes."
+    },
+    "motivationalQuote": {
+      "text": "Everyone seems to have a clear idea of how other people should lead their lives, but none about his or her own.",
+      "author": "Paulo Coelho"
+    },
+    "births": [
+      {
+        "name": "Alfred Nobel",
+        "description": "A Swedish chemist, engineer, and industrialist, he invented dynamite and used his fortune to establish the Nobel Prizes.",
+        "year": "1833"
+      },
+      {
+        "name": "Dizzy Gillespie",
+        "description": "An influential American jazz trumpeter, bandleader, composer, and singer, he was a key figure in the development of bebop and modern jazz.",
+        "year": "1917"
+      },
+      {
+        "name": "Carrie Fisher",
+        "description": "An American actress, writer, and comedian, she was best known for her iconic role as Princess Leia Organa in the Star Wars saga.",
+        "year": "1956"
+      }
+    ],
+    "events": [
+      {
+        "title": "USS Constitution Launched",
+        "description": "The USS Constitution, a 44-gun United States Navy frigate, famously known as 'Old Ironsides,' was launched in Boston Harbor.",
+        "year": "1797"
+      },
+      {
+        "title": "Edison Tests First Practical Light Bulb",
+        "description": "Thomas Edison successfully tested his first practical incandescent electric light bulb, which reportedly lasted for 13 hours.",
+        "year": "1879"
+      },
+      {
+        "title": "Florence Nightingale Dispatched to Crimean War",
+        "description": "Pioneering nurse Florence Nightingale, along with a staff of 38 nurses, was sent to the Crimean War, significantly improving military sanitation and care.",
+        "year": "1854"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Day of the Nacho",
+      "teaser": "A day dedicated to celebrating the popular cheesy snack, encouraging people to get creative with their own nacho creations."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Hilarião, o Grande",
+        "type": "Abade",
+        "description": "Um eremita e abade, Santo Hilarião é considerado o pai do monaquismo na Palestina, conhecido por sua vida virtuosa, ascetismo e milagres antes de sua morte por volta de 371 d.C."
+      },
+      {
+        "name": "Santa Úrsula e Companheiras",
+        "type": "Virgem e Mártires",
+        "description": "Segundo a lenda, Santa Úrsula foi uma princesa cristã britânica que, juntamente com muitas companheiras, sofreu o martírio perto de Colônia, Alemanha, no século IV."
+      },
+      {
+        "name": "São Gaspar del Búfalo",
+        "type": "Sacerdote",
+        "description": "Um sacerdote italiano e fundador dos Missionários do Preciosíssimo Sangue, foi preso por se recusar a jurar lealdade a Napoleão e era conhecido por sua pregação fervorosa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional do Nacho",
+        "description": "Um dia dedicado a celebrar o popular petisco com queijo, incentivando as pessoas a serem criativas com suas próprias criações de nachos."
+      },
+      {
+        "name": "Dia Nacional da Maçã",
+        "description": "Estabelecido no Reino Unido, este dia promove a rica importância cultural e histórica das maçãs e dos pomares tradicionais."
+      },
+      {
+        "name": "Dia de De Volta para o Futuro",
+        "description": "Esta observância da cultura pop marca a data (21 de outubro de 2015) para a qual Marty McFly, Doc Brown e Jennifer viajaram em 'De Volta para o Futuro Parte II'."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Se eu tiver mil ideias e apenas uma se mostrar boa, estou satisfeito.",
+      "author": "Alfred Nobel",
+      "context": "Alfred Nobel, um químico, inventor, engenheiro, empresário e filantropo sueco, nasceu em 21 de outubro de 1833. Ele é mais conhecido por inventar a dinamite e por estabelecer os Prêmios Nobel."
+    },
+    "motivationalQuote": {
+      "text": "Todo mundo parece ter uma ideia clara de como as outras pessoas devem levar suas vidas, mas nenhuma sobre a sua própria.",
+      "author": "Paulo Coelho"
+    },
+    "births": [
+      {
+        "name": "Alfred Nobel",
+        "description": "Um químico, engenheiro e industrial sueco, ele inventou a dinamite e usou sua fortuna para estabelecer os Prêmios Nobel.",
+        "year": "1833"
+      },
+      {
+        "name": "Dizzy Gillespie",
+        "description": "Um influente trompetista, líder de banda, compositor e cantor de jazz americano, ele foi uma figura chave no desenvolvimento do bebop e do jazz moderno.",
+        "year": "1917"
+      },
+      {
+        "name": "Carrie Fisher",
+        "description": "Uma atriz, escritora e comediante americana, ela era mais conhecida por seu papel icônico como Princesa Leia Organa na saga Star Wars.",
+        "year": "1956"
+      }
+    ],
+    "events": [
+      {
+        "title": "USS Constitution Lançado",
+        "description": "O USS Constitution, uma fragata de 44 canhões da Marinha dos Estados Unidos, famosa como 'Old Ironsides', foi lançado no Porto de Boston.",
+        "year": "1797"
+      },
+      {
+        "title": "Edison Testa a Primeira Lâmpada Prática",
+        "description": "Thomas Edison testou com sucesso sua primeira lâmpada elétrica incandescente prática, que, segundo relatos, durou 13 horas.",
+        "year": "1879"
+      },
+      {
+        "title": "Florence Nightingale Enviada à Guerra da Crimeia",
+        "description": "A enfermeira pioneira Florence Nightingale, juntamente com uma equipe de 38 enfermeiras, foi enviada à Guerra da Crimeia, melhorando significativamente a higiene e os cuidados militares.",
+        "year": "1854"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional do Nacho",
+      "teaser": "Um dia dedicado a celebrar o popular petisco com queijo, incentivando as pessoas a serem criativas com suas próprias criações de nachos."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Hilarió el Gran",
+        "type": "Abat",
+        "description": "Ermità i abat, Sant Hilarió és considerat el pare del monacat a Palestina, conegut per la seva vida virtuosa, ascetisme i miracles abans de la seva mort cap a l'any 371 dC."
+      },
+      {
+        "name": "Santa Úrsula i Companyes",
+        "type": "Verge i Màrtirs",
+        "description": "Segons la llegenda, Santa Úrsula era una princesa cristiana britànica que, juntament amb moltes companyes, va patir el martiri a prop de Colònia, Alemanya, al segle IV."
+      },
+      {
+        "name": "Sant Gaspar de Búfalo",
+        "type": "Prevere",
+        "description": "Un prevere italià i fundador dels Missioners de la Preciosa Sang, va ser empresonat per negar-se a jurar lleialtat a Napoleó i era conegut per la seva predicació fervent."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional del Nacho",
+        "description": "Un dia dedicat a celebrar el popular aperitiu de formatge, animant la gent a ser creativa amb les seves pròpies creacions de nachos."
+      },
+      {
+        "name": "Dia Nacional de la Poma",
+        "description": "Establert al Regne Unit, aquest dia promou la rica importància cultural i històrica de les pomes i els horts tradicionals."
+      },
+      {
+        "name": "Dia de Retorn al Futur",
+        "description": "Aquesta celebració de la cultura pop marca la data (21 d'octubre de 2015) a la qual Marty McFly, Doc Brown i Jennifer van viatjar a 'Retorn al Futur II'."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si tinc mil idees i només una resulta ser bona, estic satisfet.",
+      "author": "Alfred Nobel",
+      "context": "Alfred Nobel, químic, inventor, enginyer, empresari i filantrop suec, va néixer el 21 d'octubre de 1833. És conegut principalment per inventar la dinamita i per establir els Premis Nobel."
+    },
+    "motivationalQuote": {
+      "text": "Sembla que tothom té una idea clara de com els altres haurien de viure les seves vides, però cap sobre la seva pròpia.",
+      "author": "Paulo Coelho"
+    },
+    "births": [
+      {
+        "name": "Alfred Nobel",
+        "description": "Químic, enginyer i industrial suec, va inventar la dinamita i va utilitzar la seva fortuna per establir els Premis Nobel.",
+        "year": "1833"
+      },
+      {
+        "name": "Dizzy Gillespie",
+        "description": "Un influent trompetista, director de banda, compositor i cantant de jazz americà, va ser una figura clau en el desenvolupament del bebop i el jazz modern.",
+        "year": "1917"
+      },
+      {
+        "name": "Carrie Fisher",
+        "description": "Actriu, escriptora i humorista nord-americana, va ser coneguda principalment pel seu icònic paper com la Princesa Leia Organa a la saga de Star Wars.",
+        "year": "1956"
+      }
+    ],
+    "events": [
+      {
+        "title": "Llançament de l'USS Constitution",
+        "description": "L'USS Constitution, una fragata de 44 canons de la Marina dels Estats Units, coneguda famosament com a 'Old Ironsides', va ser llançada al port de Boston.",
+        "year": "1797"
+      },
+      {
+        "title": "Edison Prova la Primera Bombeta Pràctica",
+        "description": "Thomas Edison va provar amb èxit la seva primera bombeta elèctrica incandescent pràctica, que, segons es diu, va durar 13 hores.",
+        "year": "1879"
+      },
+      {
+        "title": "Florence Nightingale Enviada a la Guerra de Crimea",
+        "description": "La infermera pionera Florence Nightingale, juntament amb un equip de 38 infermeres, va ser enviada a la Guerra de Crimea, millorant significativament la higiene i l'atenció militar.",
+        "year": "1854"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional del Nacho",
+      "teaser": "Un dia dedicat a celebrar el popular aperitiu de formatge, animant la gent a ser creativa amb les seves pròpies creacions de nachos."
+    }
+  }
+}
