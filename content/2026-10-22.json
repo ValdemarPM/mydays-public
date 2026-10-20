@@ -1,0 +1,307 @@
+{
+  "date": "2026-10-22",
+  "es": {
+    "saints": [
+      {
+        "name": "San Abercio el Taumaturgo",
+        "type": "Obispo de Hierápolis",
+        "description": "Viviendo en Frigia durante el siglo II, San Abercio convirtió a muchos paganos al cristianismo y fue conocido por realizar milagros."
+      },
+      {
+        "name": "Papa San Juan Pablo II",
+        "type": "Papa",
+        "description": "Nacido Karol Wojtyla, fue un sacerdote polaco que se convirtió en el primer papa no italiano en 455 años en 1978."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de Concientización sobre la Tartamudez",
+        "description": "Establecido en 1998, este día tiene como objetivo crear conciencia sobre la tartamudez y reducir el estigma social y la discriminación laboral que enfrentan quienes tartamudean."
+      },
+      {
+        "name": "Día Nacional de la Nuez",
+        "description": "Este día celebra los beneficios nutricionales de las nueces, reconocidas por sus grasas saludables, proteínas, fibra y micronutrientes."
+      },
+      {
+        "name": "Día Nacional del Color",
+        "description": "Se observa para apreciar cómo el color influye en los estados de ánimo, comunica ideas y añade una belleza impresionante al mundo que nos rodea."
+      }
+    ],
+    "historicalQuote": {
+      "text": "¿Qué es nuestra vida sino una sucesión de preludios de esa canción desconocida cuya primera nota solemne es pronunciada por la muerte?",
+      "author": "Franz Liszt",
+      "context": "Franz Liszt, un renombrado compositor húngaro y uno de los más grandes virtuosos del piano de su época, nació el 22 de octubre de 1811."
+    },
+    "motivationalQuote": {
+      "text": "Los únicos límites que tienes son los límites que crees.",
+      "author": "Wayne Dyer"
+    },
+    "births": [
+      {
+        "name": "Franz Liszt",
+        "description": "Un influyente compositor húngaro, virtuoso pianista y director de orquesta que fue una figura destacada del Movimiento Romántico.",
+        "year": "1811"
+      },
+      {
+        "name": "Catherine Deneuve",
+        "description": "Una venerada actriz francesa cuya carrera en el cine abarca más de seis décadas, convirtiéndola en una figura perdurable en la industria cinematográfica francesa.",
+        "year": "1943"
+      },
+      {
+        "name": "Jeff Goldblum",
+        "description": "Un actor estadounidense conocido por sus papeles distintivos en numerosas películas y series de televisión populares.",
+        "year": "1952"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer Salto en Paracaídas Registrado",
+        "description": "El aeronauta francés André-Jacques Garnerin realizó el primer descenso en paracaídas registrado, aterrizando a salvo desde una altura de unos 3,000 pies sobre París.",
+        "year": "1797"
+      },
+      {
+        "title": "Edison Perfecciona la Bombilla Incandescente",
+        "description": "Thomas Edison perfeccionó con éxito su primera bombilla incandescente comercialmente viable en Menlo Park, Nueva Jersey, descubriendo un filamento que duraba más de trece horas.",
+        "year": "1879"
+      },
+      {
+        "title": "India Lanza Chandrayaan-1",
+        "description": "India lanzó su primera misión lunar no tripulada, Chandrayaan-1, un hito significativo en el programa de exploración espacial de la nación.",
+        "year": "2008"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de Concientización sobre la Tartamudez",
+      "teaser": "Establecido en 1998, este día tiene como objetivo crear conciencia sobre la tartamudez y reducir el estigma social y la discriminación laboral que enfrentan quienes tartamudean."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Abercius the Wonderworker",
+        "type": "Bishop of Hierapolis",
+        "description": "Living in Phrygia during the 2nd century, St. Abercius converted many pagans to Christianity and was known for performing miracles."
+      },
+      {
+        "name": "Pope Saint John Paul II",
+        "type": "Pope",
+        "description": "Born Karol Wojtyla, he was a Polish priest who became the first non-Italian pope in 455 years in 1978."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Stuttering Awareness Day",
+        "description": "Established in 1998, this day aims to raise awareness for stuttering and reduce social stigma and employment discrimination faced by those who stutter."
+      },
+      {
+        "name": "National Nut Day",
+        "description": "This day celebrates the nutritional benefits of nuts, which are recognized for their healthy fats, protein, fiber, and micronutrients."
+      },
+      {
+        "name": "National Color Day",
+        "description": "Observed to appreciate how color influences moods, communicates ideas, and adds breathtaking beauty to the world around us."
+      }
+    ],
+    "historicalQuote": {
+      "text": "What is our life but a succession of preludes to that unknown song whose first solemn note is sounded by death?",
+      "author": "Franz Liszt",
+      "context": "Franz Liszt, a renowned Hungarian composer and one of the greatest piano virtuosos of his time, was born on October 22, 1811."
+    },
+    "motivationalQuote": {
+      "text": "The only limits you have are the limits you believe.",
+      "author": "Wayne Dyer"
+    },
+    "births": [
+      {
+        "name": "Franz Liszt",
+        "description": "An influential Hungarian composer, virtuoso pianist, and conductor who was a prominent figure in the Romantic Movement.",
+        "year": "1811"
+      },
+      {
+        "name": "Catherine Deneuve",
+        "description": "A revered French actress whose career in cinema spans over six decades, making her an enduring figure in the French film industry.",
+        "year": "1943"
+      },
+      {
+        "name": "Jeff Goldblum",
+        "description": "An American actor known for his distinctive roles in numerous popular films and television series.",
+        "year": "1952"
+      }
+    ],
+    "events": [
+      {
+        "title": "First Recorded Parachute Jump",
+        "description": "French balloonist André-Jacques Garnerin made the first recorded parachute descent, landing safely from a height of about 3,000 feet over Paris.",
+        "year": "1797"
+      },
+      {
+        "title": "Edison Perfects the Incandescent Light Bulb",
+        "description": "Thomas Edison successfully perfected his first commercially viable incandescent light bulb in Menlo Park, New Jersey, discovering a filament that lasted over thirteen hours.",
+        "year": "1879"
+      },
+      {
+        "title": "India Launches Chandrayaan-1",
+        "description": "India launched its first unmanned lunar mission, Chandrayaan-1, a significant milestone in the nation's space exploration program.",
+        "year": "2008"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Stuttering Awareness Day",
+      "teaser": "Established in 1998, this day aims to raise awareness for stuttering and reduce social stigma and employment discrimination faced by those who stutter."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Abercio o Taumaturgo",
+        "type": "Bispo de Hierápolis",
+        "description": "Vivendo na Frígia durante o século II, Santo Abercio converteu muitos pagãos ao Cristianismo e era conhecido por realizar milagres."
+      },
+      {
+        "name": "Papa São João Paulo II",
+        "type": "Papa",
+        "description": "Nascido Karol Wojtyla, foi um padre polonês que se tornou o primeiro papa não italiano em 455 anos, em 1978."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de Conscientização da Gagueira",
+        "description": "Estabelecido em 1998, este dia visa aumentar a conscientização sobre a gagueira e reduzir o estigma social e a discriminação no emprego enfrentados por aqueles que gaguejam."
+      },
+      {
+        "name": "Dia Nacional da Noz",
+        "description": "Este dia celebra os benefícios nutricionais das nozes, que são reconhecidas por suas gorduras saudáveis, proteínas, fibras e micronutrientes."
+      },
+      {
+        "name": "Dia Nacional da Cor",
+        "description": "Observado para apreciar como a cor influencia os humores, comunica ideias e adiciona uma beleza deslumbrante ao mundo ao nosso redor."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O que é a nossa vida senão uma sucessão de prelúdios para aquela canção desconhecida cuja primeira nota solene é tocada pela morte?",
+      "author": "Franz Liszt",
+      "context": "Franz Liszt, um renomado compositor húngaro e um dos maiores virtuosos do piano de sua época, nasceu em 22 de outubro de 1811."
+    },
+    "motivationalQuote": {
+      "text": "Os únicos limites que você tem são os limites em que você acredita.",
+      "author": "Wayne Dyer"
+    },
+    "births": [
+      {
+        "name": "Franz Liszt",
+        "description": "Um influente compositor húngaro, pianista virtuoso e maestro que foi uma figura proeminente no Movimento Romântico.",
+        "year": "1811"
+      },
+      {
+        "name": "Catherine Deneuve",
+        "description": "Uma reverenciada atriz francesa cuja carreira no cinema abrange mais de seis décadas, tornando-a uma figura duradoura na indústria cinematográfica francesa.",
+        "year": "1943"
+      },
+      {
+        "name": "Jeff Goldblum",
+        "description": "Um ator americano conhecido por seus papéis distintos em inúmeros filmes populares e séries de televisão.",
+        "year": "1952"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeiro Salto de Paraquedas Registrado",
+        "description": "O balonista francês André-Jacques Garnerin realizou o primeiro salto de paraquedas registrado, aterrissando com segurança de uma altura de cerca de 3.000 pés sobre Paris.",
+        "year": "1797"
+      },
+      {
+        "title": "Edison Aperfeiçoa a Lâmpada Incandescente",
+        "description": "Thomas Edison aperfeiçoou com sucesso sua primeira lâmpada incandescente comercialmente viável em Menlo Park, Nova Jersey, descobrindo um filamento que durava mais de treze horas.",
+        "year": "1879"
+      },
+      {
+        "title": "Índia Lança Chandrayaan-1",
+        "description": "A Índia lançou sua primeira missão lunar não tripulada, Chandrayaan-1, um marco significativo no programa de exploração espacial da nação.",
+        "year": "2008"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional de Conscientização da Gagueira",
+      "teaser": "Estabelecido em 1998, este dia visa aumentar a conscientização sobre a gagueira e reduzir o estigma social e a discriminação no emprego enfrentados por aqueles que gaguejam."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Aberci el Taumaturg",
+        "type": "Bisbe de Hieràpolis",
+        "description": "Vivint a Frígia durant el segle II, Sant Aberci va convertir molts pagans al cristianisme i era conegut per realitzar miracles."
+      },
+      {
+        "name": "Papa Sant Joan Pau II",
+        "type": "Papa",
+        "description": "Nascut Karol Wojtyla, va ser un sacerdot polonès que l'any 1978 va esdevenir el primer papa no italià en 455 anys."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de Conscienciació sobre la Tartamudesa",
+        "description": "Establert l'any 1998, aquest dia té com a objectiu sensibilitzar sobre la tartamudesa i reduir l'estigma social i la discriminació laboral que pateixen les persones que tartamudegen."
+      },
+      {
+        "name": "Dia Nacional dels Fruits Secs",
+        "description": "Aquest dia celebra els beneficis nutricionals dels fruits secs, reconeguts pels seus greixos saludables, proteïnes, fibra i micronutrients."
+      },
+      {
+        "name": "Dia Nacional del Color",
+        "description": "Observat per apreciar com el color influeix en els estats d'ànim, comunica idees i afegeix una bellesa impressionant al món que ens envolta."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Què és la nostra vida sinó una successió de preludis a aquella cançó desconeguda la primera nota solemne de la qual és tocada per la mort?",
+      "author": "Franz Liszt",
+      "context": "Franz Liszt, un reconegut compositor hongarès i un dels més grans virtuosos del piano del seu temps, va néixer el 22 d'octubre de 1811."
+    },
+    "motivationalQuote": {
+      "text": "Els únics límits que tens són els límits que creus.",
+      "author": "Wayne Dyer"
+    },
+    "births": [
+      {
+        "name": "Franz Liszt",
+        "description": "Un influent compositor hongarès, pianista virtuós i director d'orquestra que va ser una figura destacada del Romanticisme.",
+        "year": "1811"
+      },
+      {
+        "name": "Catherine Deneuve",
+        "description": "Una respectada actriu francesa la carrera cinematogràfica de la qual s'estén durant més de sis dècades, convertint-la en una figura perdurable de la indústria cinematogràfica francesa.",
+        "year": "1943"
+      },
+      {
+        "name": "Jeff Goldblum",
+        "description": "Un actor nord-americà conegut pels seus papers distintius en nombroses pel·lícules i sèries de televisió populars.",
+        "year": "1952"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer Salt en Paracaigudes Registrat",
+        "description": "El globista francès André-Jacques Garnerin va realitzar el primer descens en paracaigudes registrat, aterrant amb seguretat des d'una alçada d'aproximadament 3.000 peus sobre París.",
+        "year": "1797"
+      },
+      {
+        "title": "Edison Perfecciona la Bombeta Incandescent",
+        "description": "Thomas Edison va perfeccionar amb èxit la seva primera bombeta incandescent comercialment viable a Menlo Park, Nova Jersey, descobrint un filament que durava més de tretze hores.",
+        "year": "1879"
+      },
+      {
+        "title": "L'Índia Llança Chandrayaan-1",
+        "description": "L'Índia va llançar la seva primera missió lunar no tripulada, Chandrayaan-1, una fita significativa en el programa d'exploració espacial de la nació.",
+        "year": "2008"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de Conscienciació sobre la Tartamudesa",
+      "teaser": "Establert l'any 1998, aquest dia té com a objectiu sensibilitzar sobre la tartamudesa i reduir l'estigma social i la discriminació laboral que pateixen les persones que tartamudegen."
+    }
+  }
+}
