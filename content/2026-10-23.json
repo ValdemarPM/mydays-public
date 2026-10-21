@@ -1,0 +1,307 @@
+{
+  "date": "2026-10-23",
+  "es": {
+    "saints": [
+      {
+        "name": "San Juan de Capistrano",
+        "type": "Sacerdote franciscano, misionero y líder militar",
+        "description": "Nacido en 1386, San Juan de Capistrano fue un renombrado predicador franciscano y una figura clave en la exitosa defensa contra el Imperio Otomano en el Sitio de Belgrado en 1456."
+      },
+      {
+        "name": "Santo Apóstol Santiago, el Hermano del Señor",
+        "type": "Apóstol y Primer Obispo de Jerusalén",
+        "description": "Conmemorado en la Iglesia Ortodoxa Oriental, el Apóstol Santiago, también conocido como Santiago el Justo, fue uno de los Doce Apóstoles y el primer Obispo de Jerusalén, conocido por su sabiduría y liderazgo en la comunidad cristiana primitiva."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Nacional del Mol",
+        "description": "Celebrado anualmente desde las 6:02 a.m. hasta las 6:02 p.m. del 23 de octubre, este día conmemora el Número de Avogadro (6.02 x 10²³) para fomentar el interés en la química."
+      },
+      {
+        "name": "Día Internacional del Leopardo de las Nieves",
+        "description": "Este día está dedicado a aumentar la concienciación y promover los esfuerzos de conservación del leopardo de las nieves, en peligro de extinción."
+      },
+      {
+        "name": "Día Mundial del Champán",
+        "description": "Celebrado el cuarto viernes de octubre, este día anima a la gente de todo el mundo a apreciar y disfrutar el champán."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El talento por sí solo no te hará exitoso. Tampoco lo hará estar en el lugar correcto en el momento adecuado, a menos que estés preparado.",
+      "author": "Johnny Carson",
+      "context": "Johnny Carson, el legendario presentador de televisión estadounidense, nació el 23 de octubre de 1925. Esta cita refleja su perspectiva duradera sobre cómo alcanzar el éxito a través de la preparación y el trabajo duro."
+    },
+    "motivationalQuote": {
+      "text": "Los únicos límites que tienes son los límites que crees.",
+      "author": "Wayne Dyer"
+    },
+    "births": [
+      {
+        "name": "Pelé",
+        "description": "Un futbolista profesional brasileño ampliamente considerado como uno de los mejores jugadores de todos los tiempos, fue nombrado Atleta del Siglo por el Comité Olímpico Internacional en 1999.",
+        "year": "1940"
+      },
+      {
+        "name": "Ryan Reynolds",
+        "description": "Actor y productor de cine canadiense y estadounidense, conocido por sus carismáticos papeles en películas de comedia y superhéroes como la franquicia 'Deadpool'.",
+        "year": "1976"
+      },
+      {
+        "name": "Emilia Clarke",
+        "description": "Actriz inglesa que alcanzó reconocimiento internacional por su papel de Daenerys Targaryen en la serie de fantasía de HBO 'Juego de Tronos'.",
+        "year": "1986"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera Reunión de la Asamblea General de las Naciones Unidas en Nueva York",
+        "description": "La Asamblea General de las Naciones Unidas se reunió para su primera sesión en la ciudad de Nueva York, sentando las bases para la cooperación multilateral, la paz y los derechos humanos en la era posterior a la Segunda Guerra Mundial.",
+        "year": "1946"
+      },
+      {
+        "title": "Liberación del Sitio de Belgrado",
+        "description": "San Juan de Capistrano, un sacerdote franciscano, lideró un ejército cristiano hacia una victoria decisiva contra el Imperio Otomano en la Batalla de Belgrado, un evento significativo que detuvo el avance otomano en Europa durante décadas.",
+        "year": "1456"
+      },
+      {
+        "title": "Apple Presenta el iPod",
+        "description": "Apple revolucionó los reproductores de música portátiles con la introducción del iPod, un dispositivo que cambió profundamente la forma en que las personas consumían y gestionaban su música digital.",
+        "year": "2001"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Nacional del Mol",
+      "teaser": "Celebrado anualmente desde las 6:02 a.m. hasta las 6:02 p.m. del 23 de octubre, este día conmemora el Número de Avogadro (6.02 x 10²³) para fomentar el interés en la química."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. John of Capistrano",
+        "type": "Franciscan Priest, Missionary, and Military Leader",
+        "description": "Born in 1386, St. John of Capistrano was a renowned Franciscan preacher and a key figure in leading a successful defense against the Ottoman Empire at the Siege of Belgrade in 1456."
+      },
+      {
+        "name": "Holy Apostle James, the Brother of the Lord",
+        "type": "Apostle and First Bishop of Jerusalem",
+        "description": "Commemorated in the Eastern Orthodox Church, Apostle James, also known as James the Just, was one of the Twelve Apostles and the first Bishop of Jerusalem, known for his wisdom and leadership in the early Christian community."
+      }
+    ],
+    "observances": [
+      {
+        "name": "National Mole Day",
+        "description": "Celebrated annually from 6:02 a.m. to 6:02 p.m. on October 23, this day commemorates Avogadro's Number (6.02 x 10²³) to foster interest in chemistry."
+      },
+      {
+        "name": "International Snow Leopard Day",
+        "description": "This day is dedicated to raising awareness and promoting conservation efforts for the endangered snow leopard."
+      },
+      {
+        "name": "Global Champagne Day",
+        "description": "Celebrated on the fourth Friday in October, this day encourages people worldwide to appreciate and enjoy champagne."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Talent alone won't make you a success. Neither will being in the right place at the right time, unless you are ready.",
+      "author": "Johnny Carson",
+      "context": "Johnny Carson, the legendary American television host, was born on October 23, 1925. This quote reflects his enduring perspective on achieving success through preparation and hard work."
+    },
+    "motivationalQuote": {
+      "text": "The only limits you have are the limits you believe.",
+      "author": "Wayne Dyer"
+    },
+    "births": [
+      {
+        "name": "Pelé",
+        "description": "A Brazilian professional footballer widely regarded as one of the greatest players of all time, he was named Athlete of the Century by the International Olympic Committee in 1999.",
+        "year": "1940"
+      },
+      {
+        "name": "Ryan Reynolds",
+        "description": "A Canadian and American actor and film producer, known for his charismatic roles in comedic and superhero films such as the 'Deadpool' franchise.",
+        "year": "1976"
+      },
+      {
+        "name": "Emilia Clarke",
+        "description": "An English actress who achieved international recognition for her role as Daenerys Targaryen in the HBO fantasy series 'Game of Thrones'.",
+        "year": "1986"
+      }
+    ],
+    "events": [
+      {
+        "title": "First Meeting of the United Nations General Assembly in New York",
+        "description": "The United Nations General Assembly reconvened for its first session in New York City, laying the groundwork for multilateral cooperation, peace, and human rights in the post-World War II era.",
+        "year": "1946"
+      },
+      {
+        "title": "Siege of Belgrade Liberation",
+        "description": "St. John of Capistrano, a Franciscan priest, led a Christian army to a decisive victory against the Ottoman Empire in the Battle of Belgrade, a significant event that halted the Ottoman advance into Europe for decades.",
+        "year": "1456"
+      },
+      {
+        "title": "Apple Introduces the iPod",
+        "description": "Apple revolutionized portable music players with the introduction of the iPod, a device that profoundly changed how people consumed and managed their digital music.",
+        "year": "2001"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is National Mole Day",
+      "teaser": "Celebrated annually from 6:02 a.m. to 6:02 p.m. on October 23, this day commemorates Avogadro's Number (6.02 x 10²³) to foster interest in chemistry."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São João de Capistrano",
+        "type": "Padre Franciscano, Missionário e Líder Militar",
+        "description": "Nascido em 1386, São João de Capistrano foi um renomado pregador franciscano e uma figura chave na liderança de uma defesa bem-sucedida contra o Império Otomano no Cerco de Belgrado em 1456."
+      },
+      {
+        "name": "Santo Apóstolo Tiago, o Irmão do Senhor",
+        "type": "Apóstolo e Primeiro Bispo de Jerusalém",
+        "description": "Comemorado na Igreja Ortodoxa Oriental, o Apóstolo Tiago, também conhecido como Tiago, o Justo, foi um dos Doze Apóstolos e o primeiro Bispo de Jerusalém, conhecido por sua sabedoria e liderança na comunidade cristã primitiva."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional do Mol",
+        "description": "Celebrado anualmente das 6:02 a.m. às 6:02 p.m. de 23 de outubro, este dia comemora o Número de Avogadro (6.02 x 10²³) para fomentar o interesse em química."
+      },
+      {
+        "name": "Dia Internacional do Leopardo-das-Neves",
+        "description": "Este dia é dedicado a aumentar a conscientização e promover os esforços de conservação do leopardo-das-neves, em perigo de extinção."
+      },
+      {
+        "name": "Dia Mundial do Champanhe",
+        "description": "Celebrado na quarta sexta-feira de outubro, este dia incentiva pessoas em todo o mundo a apreciar e desfrutar o champanhe."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Só o talento não fará de você um sucesso. Nem estar no lugar certo na hora certa, a menos que você esteja pronto.",
+      "author": "Johnny Carson",
+      "context": "Johnny Carson, o lendário apresentador de televisão americano, nasceu em 23 de outubro de 1925. Esta citação reflete sua perspectiva duradoura sobre como alcançar o sucesso através da preparação e do trabalho duro."
+    },
+    "motivationalQuote": {
+      "text": "Os únicos limites que você tem são os limites em que você acredita.",
+      "author": "Wayne Dyer"
+    },
+    "births": [
+      {
+        "name": "Pelé",
+        "description": "Um futebolista profissional brasileiro amplamente considerado um dos maiores jogadores de todos os tempos, foi nomeado Atleta do Século pelo Comitê Olímpico Internacional em 1999.",
+        "year": "1940"
+      },
+      {
+        "name": "Ryan Reynolds",
+        "description": "Um ator e produtor de cinema canadense e americano, conhecido por seus papéis carismáticos em filmes de comédia e super-heróis, como a franquia 'Deadpool'.",
+        "year": "1976"
+      },
+      {
+        "name": "Emilia Clarke",
+        "description": "Uma atriz inglesa que alcançou reconhecimento internacional por seu papel como Daenerys Targaryen na série de fantasia da HBO 'Game of Thrones'.",
+        "year": "1986"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeira Reunião da Assembleia Geral das Nações Unidas em Nova Iorque",
+        "description": "A Assembleia Geral das Nações Unidas se reuniu para sua primeira sessão na cidade de Nova Iorque, estabelecendo as bases para a cooperação multilateral, paz e direitos humanos na era pós-Segunda Guerra Mundial.",
+        "year": "1946"
+      },
+      {
+        "title": "Libertação do Cerco de Belgrado",
+        "description": "São João de Capistrano, um padre franciscano, liderou um exército cristão a uma vitória decisiva contra o Império Otomano na Batalha de Belgrado, um evento significativo que deteve o avanço otomano na Europa por décadas.",
+        "year": "1456"
+      },
+      {
+        "title": "Apple Apresenta o iPod",
+        "description": "A Apple revolucionou os reprodutores de música portáteis com a introdução do iPod, um dispositivo que mudou profundamente a forma como as pessoas consumiam e gerenciavam sua música digital.",
+        "year": "2001"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Nacional do Mol",
+      "teaser": "Celebrado anualmente das 6:02 a.m. às 6:02 p.m. de 23 de outubro, este dia comemora o Número de Avogadro (6.02 x 10²³) para fomentar o interesse em química."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Joan de Capistrano",
+        "type": "Sacerdot franciscà, missioner i líder militar",
+        "description": "Nascut el 1386, Sant Joan de Capistrano va ser un reconegut predicador franciscà i una figura clau en la direcció d'una defensa reeixida contra l'Imperi Otomà al setge de Belgrad el 1456."
+      },
+      {
+        "name": "Sant Apòstol Jaume, el Germà del Senyor",
+        "type": "Apòstol i primer Bisbe de Jerusalem",
+        "description": "Commemorat a l'Església Ortodoxa Oriental, l'apòstol Jaume, també conegut com Jaume el Just, va ser un dels Dotze Apòstols i el primer Bisbe de Jerusalem, conegut per la seva saviesa i lideratge a la comunitat cristiana primitiva."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional del Mol",
+        "description": "Celebrat anualment de 6:02 a.m. a 6:02 p.m. el 23 d'octubre, aquest dia commemora el nombre d'Avogadro (6.02 x 10²³) per fomentar l'interès per la química."
+      },
+      {
+        "name": "Dia Internacional del Lleopard de les Neus",
+        "description": "Aquest dia es dedica a augmentar la consciència i promoure els esforços de conservació per al lleopard de les neus en perill d'extinció."
+      },
+      {
+        "name": "Dia Mundial del Xampany",
+        "description": "Celebrat el quart divendres d'octubre, aquest dia anima la gent de tot el món a apreciar i gaudir del xampany."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El talent per si sol no et farà triomfar. Tampoc ho farà estar en el lloc adequat en el moment adequat, tret que estiguis preparat.",
+      "author": "Johnny Carson",
+      "context": "Johnny Carson, el llegendari presentador de televisió americà, va néixer el 23 d'octubre de 1925. Aquesta cita reflecteix la seva perspectiva duradora sobre l'èxit a través de la preparació i el treball dur."
+    },
+    "motivationalQuote": {
+      "text": "Els únics límits que tens són els límits que creus.",
+      "author": "Wayne Dyer"
+    },
+    "births": [
+      {
+        "name": "Pelé",
+        "description": "Un futbolista professional brasiler àmpliament considerat un dels millors jugadors de tots els temps, va ser nomenat Atleta del Segle pel Comitè Olímpic Internacional el 1999.",
+        "year": "1940"
+      },
+      {
+        "name": "Ryan Reynolds",
+        "description": "Un actor i productor de cinema canadenc i americà, conegut pels seus carismàtics papers en pel·lícules de comèdia i superherois com la franquícia 'Deadpool'.",
+        "year": "1976"
+      },
+      {
+        "name": "Emilia Clarke",
+        "description": "Una actriu anglesa que va aconseguir reconeixement internacional pel seu paper de Daenerys Targaryen a la sèrie de fantasia de HBO 'Joc de Trons'.",
+        "year": "1986"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera reunió de l'Assemblea General de les Nacions Unides a Nova York",
+        "description": "L'Assemblea General de les Nacions Unides es va reunir per a la seva primera sessió a la ciutat de Nova York, establint les bases per a la cooperació multilateral, la pau i els drets humans en l'era posterior a la Segona Guerra Mundial.",
+        "year": "1946"
+      },
+      {
+        "title": "Alliberament del Setge de Belgrad",
+        "description": "Sant Joan de Capistrano, un sacerdot franciscà, va liderar un exèrcit cristià a una victòria decisiva contra l'Imperi Otomà a la Batalla de Belgrad, un esdeveniment significatiu que va aturar l'avanç otomà a Europa durant dècades.",
+        "year": "1456"
+      },
+      {
+        "title": "Apple presenta l'iPod",
+        "description": "Apple va revolucionar els reproductors de música portàtils amb la introducció de l'iPod, un dispositiu que va canviar profundament la manera com la gent consumia i gestionava la seva música digital.",
+        "year": "2001"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Nacional del Mol",
+      "teaser": "Celebrat anualment de 6:02 a.m. a 6:02 p.m. el 23 d'octubre, aquest dia commemora el nombre d'Avogadro (6.02 x 10²³) per fomentar l'interès per la química."
+    }
+  }
+}
