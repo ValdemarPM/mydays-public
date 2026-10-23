@@ -1,0 +1,327 @@
+{
+  "date": "2026-10-25",
+  "es": {
+    "saints": [
+      {
+        "name": "San Crispín y Crispiniano",
+        "type": "Mártires",
+        "description": "Estos hermanos fueron martirizados durante el reinado de Diocleciano y son tradicionalmente reconocidos como los santos patronos de los trabajadores del cuero y los zapateros."
+      },
+      {
+        "name": "Santa Tabita la Limosnera",
+        "type": "Viuda",
+        "description": "Una mujer cristiana virtuosa y amable de Jope, fue resucitada de entre los muertos por el apóstol Pedro. Es considerada la santa patrona de los sastres y costureras."
+      },
+      {
+        "name": "San Marciano y Martirio",
+        "type": "Notarios/Mártires",
+        "description": "Estos notarios de Constantinopla fueron martirizados por su fe cristiana y son conmemorados en la Iglesia Ortodoxa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional del Artista",
+        "description": "Este día celebra a los artistas de todo el mundo y fomenta la apreciación de las expresiones creativas en diversos medios."
+      },
+      {
+        "name": "Día Mundial de la Pasta",
+        "description": "Una observancia internacional dedicada a celebrar la pasta, uno de los platos más queridos y versátiles a nivel mundial."
+      },
+      {
+        "name": "Día Nacional de la Suegra",
+        "description": "Celebrado en algunos países el cuarto domingo de octubre, este día honra a las suegras por su papel en las familias."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El arte es una mentira que nos hace darnos cuenta de la verdad.",
+      "author": "Pablo Picasso",
+      "context": "Pablo Picasso, uno de los artistas más influyentes del siglo XX y pionero del Cubismo, nació el 25 de octubre de 1881."
+    },
+    "motivationalQuote": {
+      "text": "Tienes poder sobre tu mente, no sobre los eventos externos. Date cuenta de esto, y encontrarás fuerza.",
+      "author": "Marco Aurelio"
+    },
+    "births": [
+      {
+        "name": "Pablo Picasso",
+        "description": "Un revolucionario pintor, escultor, grabador, ceramista y diseñador de teatro español, ampliamente considerado como uno de los artistas más influyentes del siglo XX.",
+        "year": "1881"
+      },
+      {
+        "name": "Georges Bizet",
+        "description": "Un compositor francés de la era romántica, mejor conocido por su ópera Carmen, una de las obras más populares y frecuentemente interpretadas en todo el repertorio operístico.",
+        "year": "1838"
+      },
+      {
+        "name": "Katy Perry",
+        "description": "Una cantautora de pop estadounidense conocida por sus actuaciones vibrantes y teatrales y numerosas canciones de éxito mundial.",
+        "year": "1984"
+      }
+    ],
+    "events": [
+      {
+        "title": "Batalla de Agincourt",
+        "description": "Durante la Guerra de los Cien Años, Enrique V de Inglaterra llevó a su ejército a una victoria decisiva sobre una fuerza francesa más grande, un triunfo inglés significativo.",
+        "year": "1415"
+      },
+      {
+        "title": "Creación de la Bolsa de Valores de Toronto",
+        "description": "La Bolsa de Valores de Toronto, la bolsa de valores más grande de Canadá, se estableció oficialmente en este día.",
+        "year": "1861"
+      },
+      {
+        "title": "Benjamin Oliver Davis Sr. se Convierte en el Primer General Afroamericano",
+        "description": "Benjamin Oliver Davis Sr. se convirtió en el primer general afroamericano en el Ejército de los Estados Unidos, un hito significativo en la historia militar y de los derechos civiles.",
+        "year": "1940"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional del Artista",
+      "teaser": "Este día celebra a los artistas de todo el mundo y fomenta la apreciación de las expresiones creativas en diversos medios."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Crispin and Crispinian",
+        "type": "Martyrs",
+        "description": "These brothers were martyred during the reign of Diocletian and are traditionally recognized as the patron saints of leather workers and shoemakers."
+      },
+      {
+        "name": "St. Tabitha the Almsgiver",
+        "type": "Widow",
+        "description": "A virtuous and kindly Christian woman from Joppa, she was raised from the dead by the Apostle Peter. She is considered the patron saint of tailors and seamstresses."
+      },
+      {
+        "name": "St. Marcian and Martyrius",
+        "type": "Notaries/Martyrs",
+        "description": "These Notaries of Constantinople were martyred for their Christian faith and are commemorated in the Orthodox Church."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Artists Day",
+        "description": "This day celebrates artists worldwide and encourages appreciation for creative expressions across various mediums."
+      },
+      {
+        "name": "World Pasta Day",
+        "description": "An international observance dedicated to celebrating pasta, one of the most beloved and versatile dishes globally."
+      },
+      {
+        "name": "National Mother-in-Law Day",
+        "description": "Celebrated in some countries on the fourth Sunday of October, this day honors mothers-in-law for their role in families."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Art is a lie that makes us realize truth.",
+      "author": "Pablo Picasso",
+      "context": "Pablo Picasso, one of the most influential artists of the 20th century and a pioneer of Cubism, was born on October 25, 1881."
+    },
+    "motivationalQuote": {
+      "text": "You have power over your mind – not outside events. Realize this, and you will find strength.",
+      "author": "Marcus Aurelius"
+    },
+    "births": [
+      {
+        "name": "Pablo Picasso",
+        "description": "A revolutionary Spanish painter, sculptor, printmaker, ceramicist, and theater designer, widely regarded as one of the most influential artists of the 20th century.",
+        "year": "1881"
+      },
+      {
+        "name": "Georges Bizet",
+        "description": "A French composer of the Romantic era, best known for his opera Carmen, which is one of the most popular and frequently performed works in the entire opera repertoire.",
+        "year": "1838"
+      },
+      {
+        "name": "Katy Perry",
+        "description": "An American pop singer-songwriter known for her vibrant and theatrical performances and numerous global hit songs.",
+        "year": "1984"
+      }
+    ],
+    "events": [
+      {
+        "title": "Battle of Agincourt",
+        "description": "During the Hundred Years' War, Henry V of England led his army to a decisive victory over a larger French force, a significant English triumph.",
+        "year": "1415"
+      },
+      {
+        "title": "Toronto Stock Exchange Created",
+        "description": "The Toronto Stock Exchange, Canada's largest stock exchange, was officially established on this day.",
+        "year": "1861"
+      },
+      {
+        "title": "Benjamin Oliver Davis Sr. Becomes First African American General",
+        "description": "Benjamin Oliver Davis Sr. became the first African American general in the United States Army, a significant milestone in military and civil rights history.",
+        "year": "1940"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Artists Day",
+      "teaser": "This day celebrates artists worldwide and encourages appreciation for creative expressions across various mediums."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Crispim e Crispiniano",
+        "type": "Mártires",
+        "description": "Estes irmãos foram martirizados durante o reinado de Diocleciano e são tradicionalmente reconhecidos como os santos padroeiros dos trabalhadores do couro e sapateiros."
+      },
+      {
+        "name": "Santa Tabita a Esmoler",
+        "type": "Viúva",
+        "description": "Uma mulher cristã virtuosa e gentil de Jope, ela foi ressuscitada dos mortos pelo Apóstolo Pedro. É considerada a santa padroeira de alfaiates e costureiras."
+      },
+      {
+        "name": "São Marciano e Martírio",
+        "type": "Notários/Mártires",
+        "description": "Estes Notários de Constantinopla foram martirizados por sua fé cristã e são comemorados na Igreja Ortodoxa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional do Artista",
+        "description": "Este dia celebra artistas em todo o mundo e incentiva a apreciação por expressões criativas em várias mídias."
+      },
+      {
+        "name": "Dia Mundial da Massa",
+        "description": "Uma observância internacional dedicada a celebrar a massa, um dos pratos mais amados e versáteis globalmente."
+      },
+      {
+        "name": "Dia Nacional da Sogra",
+        "description": "Celebrado em alguns países no quarto domingo de outubro, este dia homenageia as sogras por seu papel nas famílias."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A arte é uma mentira que nos faz perceber a verdade.",
+      "author": "Pablo Picasso",
+      "context": "Pablo Picasso, um dos artistas mais influentes do século XX e pioneiro do Cubismo, nasceu em 25 de outubro de 1881."
+    },
+    "motivationalQuote": {
+      "text": "Você tem poder sobre sua mente – não sobre eventos externos. Perceba isso, e você encontrará força.",
+      "author": "Marco Aurélio"
+    },
+    "births": [
+      {
+        "name": "Pablo Picasso",
+        "description": "Um revolucionário pintor, escultor, gravurista, ceramista e designer de teatro espanhol, amplamente considerado um dos artistas mais influentes do século XX.",
+        "year": "1881"
+      },
+      {
+        "name": "Georges Bizet",
+        "description": "Um compositor francês da era romântica, mais conhecido por sua ópera Carmen, que é uma das obras mais populares e frequentemente executadas em todo o repertório operístico.",
+        "year": "1838"
+      },
+      {
+        "name": "Katy Perry",
+        "description": "Uma cantora e compositora pop americana conhecida por suas performances vibrantes e teatrais e inúmeros sucessos globais.",
+        "year": "1984"
+      }
+    ],
+    "events": [
+      {
+        "title": "Batalha de Agincourt",
+        "description": "Durante a Guerra dos Cem Anos, Henrique V da Inglaterra liderou seu exército a uma vitória decisiva sobre uma força francesa maior, um triunfo inglês significativo.",
+        "year": "1415"
+      },
+      {
+        "title": "Bolsa de Valores de Toronto Criada",
+        "description": "A Bolsa de Valores de Toronto, a maior bolsa de valores do Canadá, foi oficialmente estabelecida neste dia.",
+        "year": "1861"
+      },
+      {
+        "title": "Benjamin Oliver Davis Sr. Torna-se o Primeiro General Afro-Americano",
+        "description": "Benjamin Oliver Davis Sr. tornou-se o primeiro general afro-americano no Exército dos Estados Unidos, um marco significativo na história militar e dos direitos civis.",
+        "year": "1940"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional do Artista",
+      "teaser": "Este dia celebra artistas em todo o mundo e incentiva a apreciação por expressões criativas em várias mídias."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Crispí i Crispinà",
+        "type": "Màrtirs",
+        "description": "Aquests germans van ser martiritzats durant el regnat de Dioclecià i són tradicionalment reconeguts com els sants patrons dels treballadors del cuir i dels sabaters."
+      },
+      {
+        "name": "Santa Tabita l'Almoinera",
+        "type": "Vídua",
+        "description": "Una dona cristiana virtuosa i amable de Jaffa, va ser ressuscitada d'entre els morts per l'Apòstol Pere. És considerada la santa patrona dels sastres i les modistes."
+      },
+      {
+        "name": "Sant Marcià i Martiri",
+        "type": "Notaris/Màrtirs",
+        "description": "Aquests notaris de Constantinoble van ser martiritzats per la seva fe cristiana i són commemorats a l'Església Ortodoxa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional dels Artistes",
+        "description": "Aquest dia celebra els artistes de tot el món i fomenta l'apreciació per les expressions creatives en diverses disciplines."
+      },
+      {
+        "name": "Dia Mundial de la Pasta",
+        "description": "Una commemoració internacional dedicada a celebrar la pasta, un dels plats més estimats i versàtils a nivell mundial."
+      },
+      {
+        "name": "Dia Nacional de la Sogra",
+        "description": "Celebrat en alguns països el quart diumenge d'octubre, aquest dia honora les sogres pel seu paper a les famílies."
+      }
+    ],
+    "historicalQuote": {
+      "text": "L'art és una mentida que ens fa adonar de la veritat.",
+      "author": "Pablo Picasso",
+      "context": "Pablo Picasso, un dels artistes més influents del segle XX i pioner del cubisme, va néixer el 25 d'octubre de 1881."
+    },
+    "motivationalQuote": {
+      "text": "Tens poder sobre la teva ment – no sobre els esdeveniments externs. Adona-te'n, i trobaràs força.",
+      "author": "Marc Aureli"
+    },
+    "births": [
+      {
+        "name": "Pablo Picasso",
+        "description": "Un revolucionari pintor, escultor, gravador, ceramista i dissenyador teatral espanyol, àmpliament considerat un dels artistes més influents del segle XX.",
+        "year": "1881"
+      },
+      {
+        "name": "Georges Bizet",
+        "description": "Un compositor francès de l'era romàntica, més conegut per la seva òpera Carmen, que és una de les obres més populars i representades de tot el repertori operístic.",
+        "year": "1838"
+      },
+      {
+        "name": "Katy Perry",
+        "description": "Una cantautora de pop estatunidenca coneguda per les seves vibrants i teatrals actuacions i nombroses cançons d'èxit mundial.",
+        "year": "1984"
+      }
+    ],
+    "events": [
+      {
+        "title": "Batalla d'Azincourt",
+        "description": "Durant la Guerra dels Cent Anys, Enric V d'Anglaterra va liderar el seu exèrcit a una victòria decisiva sobre una força francesa més gran, un triomf anglès significatiu.",
+        "year": "1415"
+      },
+      {
+        "title": "Creació de la Borsa de Toronto",
+        "description": "La Borsa de Toronto, la borsa de valors més gran del Canadà, es va establir oficialment aquest dia.",
+        "year": "1861"
+      },
+      {
+        "title": "Benjamin Oliver Davis Sr. es converteix en el primer general afroamericà",
+        "description": "Benjamin Oliver Davis Sr. es va convertir en el primer general afroamericà a l'Exèrcit dels Estats Units, una fita significativa en la història militar i dels drets civils.",
+        "year": "1940"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional dels Artistes",
+      "teaser": "Aquest dia celebra els artistes de tot el món i fomenta l'apreciació per les expressions creatives en diverses disciplines."
+    }
+  }
+}
