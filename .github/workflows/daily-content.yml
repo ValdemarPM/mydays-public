@@ -35,6 +35,11 @@ jobs:
         with:
           node-version: '24'
 
+      # Guards against bugs that already reached users once (e.g. a repeated Reflexion of the
+      # Day). If one fails, nothing is generated and the health check raises an alert.
+      - name: Run pipeline regression tests
+        run: node --test scripts/*.test.js
+
       - name: Generate content (EN, ES, PT, CA)
         run: node scripts/generate-content.js
         env:

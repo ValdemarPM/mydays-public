@@ -9,6 +9,7 @@
 
 const fs = require('fs');
 const path = require('path');
+const { collectRecentQuotes, normalizeQuote, QUOTE_WINDOW_MONTHS } = require('./generate-content.js');
 
 const LANGS = ['en', 'es', 'pt', 'ca'];
 const CDN_BASE = 'https://cdn.jsdelivr.net/gh/ValdemarPM/mydays-public@main/content';
@@ -111,6 +112,12 @@ async function checkDate(date) {
     try {
       const local = JSON.parse(fs.readFileSync(localPath, 'utf-8'));
       problems.push(...validate(local, date).map((p) => `repo file: ${p}`));
+      // The generator must never ship a Reflexion of the Day used within 6 months (it did on
+      // 2026-10-22/23 when its single re-pick failed). This catches any way one gets back in.
+      const quote = local.en?.motivationalQuote?.text;
+      if (quote && collectRecentQuotes(CONTENT_DIR, date).motivational.has(normalizeQuote(quote))) {
+        problems.push(`repo file: en.motivationalQuote "${quote.slice(0, 60)}" was already used within ${QUOTE_WINDOW_MONTHS} months (run scripts/fix-repeated-quotes.js)`);
+      }
     } catch (err) {
       problems.push(`repo file is not valid JSON: ${err.message}`);
     }

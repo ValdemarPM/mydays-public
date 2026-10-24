@@ -1,8 +1,9 @@
 // Runs in GitHub Actions. Writes content/YYYY-MM-DD.json for every missing date from today
 // to two days ahead (UTC), or for TARGET_DATE only.
 // Pipeline: (1) search+verify in EN with grounding → (1.5) veto a motivationalQuote used
-// in the last 6 months and re-pick once → (2) translate to ES/EN/PT/CA → (3) verify
-// proper names with grounding → (4) compute notification highlight
+// within 6 months and re-pick (Gemini, then an archive quote, never the repeat) → (2)
+// translate to ES/EN/PT/CA → (3) verify proper names with grounding → (4) compute
+// notification highlight → refuse to write a file whose motivationalQuote still repeats
 // Requires: GEMINI_API_KEY environment variable.
 
 const fs = require('fs');
@@ -147,54 +148,83 @@ function normalizeQuote(text) {
     .trim();
 }
 
-// Scans already-generated content/*.json in the [isoDate - months, isoDate) window and
-// collects the English motivationalQuote / historicalQuote texts already used. Reading
-// only the EN block is sufficient — the other languages are translations of it.
+// No motivationalQuote may appear twice within this many months, before or after.
+const QUOTE_WINDOW_MONTHS = 6;
+// Gemini re-picks before falling back to an archive quote.
+const QUOTE_REPICK_ATTEMPTS = 4;
+
+function shiftMonths(isoDate, months) {
+  const d = new Date(`${isoDate}T00:00:00Z`);
+  d.setUTCMonth(d.getUTCMonth() + months);
+  return d.toISOString().split('T')[0];
+}
+
+// Scans content/*.json within `months` of isoDate, before AND after it (later files exist
+// when a date is regenerated or caught up), and collects the English motivationalQuote /
+// historicalQuote texts already used. Reading only the EN block is sufficient — the other
+// languages are translations of it. Also returns `archive`: quotes used only before the
+// window, oldest last use first, the fallback when Gemini can't find a fresh quote.
 // Every file is parsed defensively; a malformed or older-schema file is skipped, never fatal.
-function collectRecentQuotes(contentDir, isoDate, months = 6) {
-  const target = new Date(`${isoDate}T00:00:00Z`);
-  const windowStart = new Date(target);
-  windowStart.setUTCMonth(windowStart.getUTCMonth() - months);
-  const startIso = windowStart.toISOString().split('T')[0];
+function collectRecentQuotes(contentDir, isoDate, months = QUOTE_WINDOW_MONTHS) {
+  const startIso = shiftMonths(isoDate, -months);
+  const endIso = shiftMonths(isoDate, months);
 
   const motivational = new Set();
   const historical = new Set();
-  const motivationalRaw = []; // most-recent-first, original casing, de-duplicated
+  const motivationalRaw = []; // newest first, original casing, de-duplicated
 
   let files;
   try {
     files = fs.readdirSync(contentDir);
   } catch (e) {
     console.warn(`      collectRecentQuotes: cannot read ${contentDir} (${e.message}) — no history available`);
-    return { motivational, historical, rawList: [] };
+    return { motivational, historical, rawList: [], archive: [] };
   }
 
-  const inWindow = files
-    .filter(f => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))
-    .map(f => f.slice(0, 10))
-    .filter(d => d >= startIso && d < isoDate)
-    .sort()
-    .reverse(); // newest first, so the exclusion list favours the most recent quotes
-
-  for (const d of inWindow) {
+  const readQuotes = (d) => {
     try {
       const day = JSON.parse(fs.readFileSync(path.join(contentDir, `${d}.json`), 'utf8'));
-      const mq = day.en?.motivationalQuote?.text;
-      const hq = day.en?.historicalQuote?.text;
-      if (mq) {
-        const key = normalizeQuote(mq);
-        if (key && !motivational.has(key)) {
-          motivational.add(key);
-          motivationalRaw.push(mq.replace(/\s+/g, ' ').trim());
-        }
-      }
-      if (hq) historical.add(normalizeQuote(hq));
+      return { mq: day.en?.motivationalQuote, hq: day.en?.historicalQuote?.text };
     } catch (e) {
       console.warn(`      collectRecentQuotes: skipping ${d}.json (${e.message})`);
+      return {};
     }
+  };
+
+  const dates = files
+    .filter(f => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))
+    .map(f => f.slice(0, 10))
+    .sort()
+    .reverse(); // newest first
+
+  for (const d of dates.filter(d => d >= startIso && d <= endIso && d !== isoDate)) {
+    const { mq, hq } = readQuotes(d);
+    if (mq?.text) {
+      const key = normalizeQuote(mq.text);
+      if (key && !motivational.has(key)) {
+        motivational.add(key);
+        motivationalRaw.push(mq.text.replace(/\s+/g, ' ').trim());
+      }
+    }
+    if (hq) historical.add(normalizeQuote(hq));
   }
 
-  return { motivational, historical, rawList: motivationalRaw.slice(0, 60) };
+  // Newest first, so each quote keeps its most recent use; reversed below to offer the
+  // quote whose last use is oldest.
+  const archive = [];
+  const archived = new Set();
+  for (const d of dates.filter(d => d < startIso)) {
+    const { mq } = readQuotes(d);
+    const key = normalizeQuote(mq?.text);
+    if (!key || motivational.has(key) || archived.has(key)) continue;
+    archived.add(key);
+    archive.push({ text: mq.text.replace(/\s+/g, ' ').trim(), author: mq.author ?? '', lastUsed: d });
+  }
+  archive.reverse();
+
+  // The whole window goes into the re-pick prompt. Capping it (it was 60 of ~130) let
+  // Gemini "re-pick" an older quote that the check then rejected, and the repeat shipped.
+  return { motivational, historical, rawList: motivationalRaw, archive };
 }
 
 // Non-grounded re-pick of the "Reflexion of the Day" with an explicit do-not-reuse list.
@@ -208,6 +238,46 @@ ${numbered}
 
 Pick something genuinely different from every entry above. Output ONLY a JSON object (no markdown fences):
 { "text": "The full motivational quote in English", "author": "Author Name" }`;
+}
+
+// Returns a motivationalQuote not used within the window, never a repeat: the first pick
+// if fresh, else up to `attempts` Gemini re-picks (each rejected candidate joins the
+// do-not-reuse list), else the archive quote whose last use is oldest. Throws only if all
+// of that fails, so the date is retried by the next run instead of shipping a repeat.
+// `repick(prompt)` returns { text, author } (callGemini in production, a stub in tests).
+async function pickFreshMotivationalQuote(firstPick, recentQuotes, repick, attempts = QUOTE_REPICK_ATTEMPTS) {
+  const isUsed = (text) => recentQuotes.motivational.has(normalizeQuote(text));
+  if (firstPick?.text && !isUsed(firstPick.text)) {
+    return { quote: firstPick, source: 'first pick' };
+  }
+
+  const exclude = [...recentQuotes.rawList];
+  const addToExclude = (text) => {
+    const clean = String(text).replace(/\s+/g, ' ').trim();
+    if (!exclude.some(q => normalizeQuote(q) === normalizeQuote(clean))) exclude.push(clean);
+  };
+  if (firstPick?.text) addToExclude(firstPick.text);
+
+  for (let attempt = 1; attempt <= attempts; attempt++) {
+    let candidate;
+    try {
+      candidate = await repick(buildRepickPrompt(exclude));
+    } catch (e) {
+      console.warn(`      quote re-pick ${attempt}/${attempts} failed (${e.message})`);
+      continue;
+    }
+    if (candidate?.text && !isUsed(candidate.text)) {
+      return { quote: { text: candidate.text, author: candidate.author ?? '' }, source: `re-pick ${attempt}` };
+    }
+    console.warn(`      quote re-pick ${attempt}/${attempts} ${candidate?.text ? `repeated "${candidate.text.slice(0, 60)}…"` : 'was empty'}`);
+    if (candidate?.text) addToExclude(candidate.text);
+  }
+
+  const fallback = recentQuotes.archive[0];
+  if (fallback) {
+    return { quote: { text: fallback.text, author: fallback.author }, source: `archive (last used ${fallback.lastUsed})` };
+  }
+  throw new Error(`no motivationalQuote unused within ${QUOTE_WINDOW_MONTHS} months (re-picks and archive exhausted)`);
 }
 
 async function callGemini(prompt, { grounding = false, label = '', retries = 2 } = {}) {
@@ -523,29 +593,22 @@ async function generateForDate(isoTarget) {
   baseContent = await backfillMissingYears(baseContent, dateString);
 
   // Step 1.5: the "Reflexion of the Day" (motivationalQuote) is not date-bound, so Gemini
-  // tends to reuse a small pool of favourites across days. Veto any quote already used in
-  // the last 6 months and ask once more with an explicit do-not-reuse list. Non-fatal:
-  // if the re-pick fails or still repeats, keep the original and let the run succeed —
-  // a repeated secondary field must not cost the whole day's content.
-  console.log(`[1.5/5] Checking the Reflexion of the Day against the last 6 months...`);
-  const recentQuotes = collectRecentQuotes(path.join(__dirname, '..', 'content'), isoDate, 6);
-  const firstPick = baseContent.motivationalQuote?.text ?? '';
-  if (firstPick && recentQuotes.motivational.has(normalizeQuote(firstPick))) {
-    console.log(`      "${firstPick.slice(0, 60)}…" used within 6 months — re-picking`);
-    try {
-      const repick = await callGemini(buildRepickPrompt(recentQuotes.rawList), { grounding: false, label: 'quote-repick' });
-      if (repick?.text && !recentQuotes.motivational.has(normalizeQuote(repick.text))) {
-        baseContent.motivationalQuote = { text: repick.text, author: repick.author ?? '' };
-        console.log(`      re-picked: "${repick.text.slice(0, 60)}…" — ${repick.author ?? 'unknown'}`);
-      } else {
-        console.warn(`      re-pick empty or still repeated — keeping original (review this date)`);
-      }
-    } catch (e) {
-      console.warn(`      quote-repick call failed (${e.message}) — keeping original`);
-    }
+  // tends to reuse a small pool of favourites across days. A quote used within 6 months
+  // (either side) is replaced, never kept: see pickFreshMotivationalQuote(). Keeping the
+  // repeat when the single re-pick failed is how Oct 22 and 23 2026 got the same quote.
+  console.log(`[1.5/5] Checking the Reflexion of the Day against ${QUOTE_WINDOW_MONTHS} months either side...`);
+  const recentQuotes = collectRecentQuotes(path.join(__dirname, '..', 'content'), isoDate);
+  const picked = await pickFreshMotivationalQuote(
+    baseContent.motivationalQuote,
+    recentQuotes,
+    (prompt) => callGemini(prompt, { grounding: false, label: 'quote-repick' }),
+  );
+  if (picked.source !== 'first pick') {
+    console.log(`      replaced a repeated quote via ${picked.source}: "${picked.quote.text.slice(0, 60)}…" — ${picked.quote.author || 'unknown'}`);
   } else {
     console.log(`      Reflexion of the Day is fresh — no re-pick needed`);
   }
+  baseContent.motivationalQuote = picked.quote;
   const historicalText = baseContent.historicalQuote?.text ?? '';
   if (historicalText && recentQuotes.historical.has(normalizeQuote(historicalText))) {
     console.warn(`      NOTE: historicalQuote "${historicalText.slice(0, 60)}…" also used within 6 months (date-bound, not re-picked)`);
@@ -574,6 +637,13 @@ async function generateForDate(isoTarget) {
 
   const output = { date: isoDate, ...withHighlights };
 
+  // Last line of defence: translation or name verification must not have brought a
+  // repeated (or empty) quote back. Failing leaves the date for the next run to retry.
+  const finalQuote = output.en?.motivationalQuote?.text;
+  if (!finalQuote || recentQuotes.motivational.has(normalizeQuote(finalQuote))) {
+    throw new Error(`motivationalQuote "${String(finalQuote).slice(0, 60)}" is empty or used within ${QUOTE_WINDOW_MONTHS} months — not writing ${isoDate}.json`);
+  }
+
   const outputPath = path.join(__dirname, '..', 'content', `${isoDate}.json`);
   fs.mkdirSync(path.dirname(outputPath), { recursive: true });
   fs.writeFileSync(outputPath, JSON.stringify(output, null, 2), 'utf-8');
@@ -588,4 +658,4 @@ if (require.main === module) {
   });
 }
 
-module.exports = { datesToGenerate, computeNotificationHighlight, addNotificationHighlights, normalizeQuote, collectRecentQuotes, buildRepickPrompt, findListMismatches, translateBatch };
+module.exports = { datesToGenerate, computeNotificationHighlight, addNotificationHighlights, normalizeQuote, collectRecentQuotes, pickFreshMotivationalQuote, buildRepickPrompt, findListMismatches, translateBatch, QUOTE_WINDOW_MONTHS };
