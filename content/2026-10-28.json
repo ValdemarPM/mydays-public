@@ -1,0 +1,307 @@
+{
+  "date": "2026-10-28",
+  "es": {
+    "saints": [
+      {
+        "name": "San Judas Tadeo",
+        "type": "Apóstol y Mártir",
+        "description": "Uno de los doce Apóstoles de Jesús, San Judas es venerado en las tradiciones católica y ortodoxa y es conocido como el santo patrón de las causas imposibles y las situaciones desesperadas."
+      },
+      {
+        "name": "Santa Parasceve de Iconio",
+        "type": "Gran Mártir",
+        "description": "Una venerada santa cristiana primitiva, Parasceve de Iconio es honrada como Gran Mártir en la tradición ortodoxa oriental, conocida por su fe inquebrantable durante las persecuciones del siglo III."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Animación",
+        "description": "Este día celebra el arte de la animación en todo el mundo, marcando el aniversario de la primera actuación pública de imágenes animadas de Charles-Émile Reynaud en París en 1892."
+      },
+      {
+        "name": "Día del Oxi (Grecia)",
+        "description": "Conmemorado en Grecia, el 'Día del Oxi' (Día del No) celebra la negativa del Primer Ministro griego Ioannis Metaxas a un ultimátum del dictador italiano Benito Mussolini el 28 de octubre de 1940, lo que llevó a la entrada de Grecia en la Segunda Guerra Mundial."
+      },
+      {
+        "name": "Día Nacional del Chocolate",
+        "description": "Un día delicioso que se celebra anualmente para festejar y disfrutar todo lo relacionado con el chocolate."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La vida es un proceso de cometer errores y corregirlos, y la naturaleza, al calificar los trabajos del hombre, lo valorará por la sabiduría medida tanto por la supervivencia como por la calidad de vida de aquellos que sobreviven.",
+      "author": "Jonas Salk",
+      "context": "Jonas Salk, el investigador médico estadounidense que desarrolló una de las primeras vacunas exitosas contra la polio, nació el 28 de octubre de 1914."
+    },
+    "motivationalQuote": {
+      "text": "Haz tu pequeña parte de bien donde estés; son esos pequeños trozos de bien juntos los que abruman al mundo.",
+      "author": "Desmond Tutu"
+    },
+    "births": [
+      {
+        "name": "Bill Gates",
+        "description": "Un magnate de los negocios, desarrollador de software, inversor, autor y filántropo estadounidense, más conocido como cofundador de Microsoft Corporation.",
+        "year": "1955"
+      },
+      {
+        "name": "Julia Roberts",
+        "description": "Actriz y productora estadounidense, conocida por sus papeles principales en películas de diversos géneros, lo que le valió un Premio de la Academia, un Premio BAFTA y tres Globos de Oro.",
+        "year": "1967"
+      },
+      {
+        "name": "Jonas Salk",
+        "description": "Un investigador médico y virólogo estadounidense que desarrolló una de las primeras vacunas exitosas contra la polio.",
+        "year": "1914"
+      }
+    ],
+    "events": [
+      {
+        "title": "Dedicación de la Estatua de la Libertad",
+        "description": "La Estatua de la Libertad, un regalo del pueblo de Francia a los Estados Unidos, fue dedicada formalmente en el puerto de Nueva York por el presidente Grover Cleveland, simbolizando la libertad y la democracia.",
+        "year": "1886"
+      },
+      {
+        "title": "Fundación de Harvard College",
+        "description": "La Corte General de la Colonia de la Bahía de Massachusetts aprobó una ley legislativa que estableció Harvard College, la primera institución de educación superior en lo que se convertiría en los Estados Unidos.",
+        "year": "1636"
+      },
+      {
+        "title": "Finalización de la Construcción del Gateway Arch",
+        "description": "La sección final del Gateway Arch en St. Louis, Misuri, un monumental arco de acero inoxidable que simboliza la expansión hacia el oeste de los Estados Unidos, fue colocada.",
+        "year": "1965"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de la Animación",
+      "teaser": "Este día celebra el arte de la animación en todo el mundo, marcando el aniversario de la primera actuación pública de imágenes animadas de Charles-Émile Reynaud en París en 1892."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Jude Thaddeus",
+        "type": "Apostle and Martyr",
+        "description": "One of the twelve Apostles of Jesus, St. Jude is venerated in Catholic and Orthodox traditions and is known as the patron saint of impossible causes and desperate situations."
+      },
+      {
+        "name": "St. Paraskevi of Iconium",
+        "type": "Great-martyr",
+        "description": "A revered early Christian saint, Paraskevi of Iconium is honored as a Great-martyr in the Eastern Orthodox tradition, known for her steadfast faith during persecutions in the 3rd century."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Animation Day",
+        "description": "This day celebrates the art of animation worldwide, marking the anniversary of the first public performance of animated images by Charles-Émile Reynaud in Paris in 1892."
+      },
+      {
+        "name": "Ohi Day (Greece)",
+        "description": "Commemorated in Greece, 'Ohi Day' (No Day) celebrates the Greek Prime Minister Ioannis Metaxas's refusal of an ultimatum made by Italian dictator Benito Mussolini on October 28, 1940, leading to Greece's entry into World War II."
+      },
+      {
+        "name": "National Chocolate Day",
+        "description": "A delightful day observed annually to celebrate and enjoy all things chocolate."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Life is an error-making and an error-correcting process, and nature in marking man's papers will grade him for wisdom as measured both by survival and by the quality of life of those who survive.",
+      "author": "Jonas Salk",
+      "context": "Jonas Salk, the American medical researcher who developed one of the first successful polio vaccines, was born on October 28, 1914."
+    },
+    "motivationalQuote": {
+      "text": "Do your little bit of good where you are; it's those little bits of good put together that overwhelm the world.",
+      "author": "Desmond Tutu"
+    },
+    "births": [
+      {
+        "name": "Bill Gates",
+        "description": "An American business magnate, software developer, investor, author, and philanthropist, best known as the co-founder of Microsoft Corporation.",
+        "year": "1955"
+      },
+      {
+        "name": "Julia Roberts",
+        "description": "An American actress and producer, known for her leading roles in films across various genres, earning her an Academy Award, a British Academy Film Award, and three Golden Globe Awards.",
+        "year": "1967"
+      },
+      {
+        "name": "Jonas Salk",
+        "description": "An American medical researcher and virologist who developed one of the first successful polio vaccines.",
+        "year": "1914"
+      }
+    ],
+    "events": [
+      {
+        "title": "Statue of Liberty Dedicated",
+        "description": "The Statue of Liberty, a gift from the people of France to the United States, was formally dedicated in New York Harbor by President Grover Cleveland, symbolizing freedom and democracy.",
+        "year": "1886"
+      },
+      {
+        "title": "Harvard College Founded",
+        "description": "The General Court of Massachusetts Bay Colony passed a legislative act establishing Harvard College, the first institution of higher education in what would become the United States.",
+        "year": "1636"
+      },
+      {
+        "title": "Gateway Arch Construction Completed",
+        "description": "The final section of the Gateway Arch in St. Louis, Missouri, a monumental stainless steel arch symbolizing the westward expansion of the United States, was put into place.",
+        "year": "1965"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Animation Day",
+      "teaser": "This day celebrates the art of animation worldwide, marking the anniversary of the first public performance of animated images by Charles-Émile Reynaud in Paris in 1892."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Judas Tadeu",
+        "type": "Apóstolo e Mártir",
+        "description": "Um dos doze Apóstolos de Jesus, São Judas é venerado nas tradições católica e ortodoxa e é conhecido como o santo padroeiro das causas impossíveis e das situações desesperadoras."
+      },
+      {
+        "name": "Santa Parasceve de Icônio",
+        "type": "Grande Mártir",
+        "description": "Uma reverenciada santa cristã primitiva, Parasceve de Icônio é honrada como Grande Mártir na tradição ortodoxa oriental, conhecida por sua fé inabalável durante as perseguições do século III."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Animação",
+        "description": "Este dia celebra a arte da animação em todo o mundo, marcando o aniversário da primeira apresentação pública de imagens animadas por Charles-Émile Reynaud em Paris em 1892."
+      },
+      {
+        "name": "Dia do Oxi (Grécia)",
+        "description": "Comemorado na Grécia, o 'Dia do Oxi' (Dia do Não) celebra a recusa do Primeiro-Ministro grego Ioannis Metaxas a um ultimato feito pelo ditador italiano Benito Mussolini em 28 de outubro de 1940, levando à entrada da Grécia na Segunda Guerra Mundial."
+      },
+      {
+        "name": "Dia Nacional do Chocolate",
+        "description": "Um dia delicioso observado anualmente para celebrar e desfrutar de tudo relacionado ao chocolate."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A vida é um processo de fazer e corrigir erros, e a natureza, ao classificar os trabalhos do homem, o avaliará pela sabedoria medida tanto pela sobrevivência quanto pela qualidade de vida daqueles que sobrevivem.",
+      "author": "Jonas Salk",
+      "context": "Jonas Salk, o pesquisador médico americano que desenvolveu uma das primeiras vacinas bem-sucedidas contra a poliomielite, nasceu em 28 de outubro de 1914."
+    },
+    "motivationalQuote": {
+      "text": "Faça a sua pequena parte do bem onde você estiver; são esses pequenos pedaços de bem juntos que sobrecarregam o mundo.",
+      "author": "Desmond Tutu"
+    },
+    "births": [
+      {
+        "name": "Bill Gates",
+        "description": "Um magnata dos negócios americano, desenvolvedor de software, investidor, autor e filantropo, mais conhecido como cofundador da Microsoft Corporation.",
+        "year": "1955"
+      },
+      {
+        "name": "Julia Roberts",
+        "description": "Uma atriz e produtora americana, conhecida por seus papéis principais em filmes de vários gêneros, o que lhe rendeu um Oscar, um British Academy Film Award e três Globos de Ouro.",
+        "year": "1967"
+      },
+      {
+        "name": "Jonas Salk",
+        "description": "Um pesquisador médico e virologista americano que desenvolveu uma das primeiras vacinas bem-sucedidas contra a poliomielite.",
+        "year": "1914"
+      }
+    ],
+    "events": [
+      {
+        "title": "Estátua da Liberdade Dedicada",
+        "description": "A Estátua da Liberdade, um presente do povo da França para os Estados Unidos, foi formalmente dedicada no Porto de Nova York pelo Presidente Grover Cleveland, simbolizando liberdade e democracia.",
+        "year": "1886"
+      },
+      {
+        "title": "Harvard College Fundado",
+        "description": "A Corte Geral da Colônia da Baía de Massachusetts aprovou um ato legislativo estabelecendo o Harvard College, a primeira instituição de ensino superior no que viria a ser os Estados Unidos.",
+        "year": "1636"
+      },
+      {
+        "title": "Construção do Gateway Arch Concluída",
+        "description": "A seção final do Gateway Arch em St. Louis, Missouri, um monumental arco de aço inoxidável simbolizando a expansão para o oeste dos Estados Unidos, foi colocada.",
+        "year": "1965"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional da Animação",
+      "teaser": "Este dia celebra a arte da animação em todo o mundo, marcando o aniversário da primeira apresentação pública de imagens animadas por Charles-Émile Reynaud em Paris em 1892."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Judes Tadeu",
+        "type": "Apòstol i Màrtir",
+        "description": "Un dels dotze Apòstols de Jesús, Sant Judes és venerat en les tradicions catòlica i ortodoxa i és conegut com el sant patró de les causes impossibles i les situacions desesperades."
+      },
+      {
+        "name": "Santa Parasceve d'Iconi",
+        "type": "Gran Màrtir",
+        "description": "Una reverenciada santa cristiana primitiva, Parasceve d'Iconi és honrada com a Gran Màrtir en la tradició ortodoxa oriental, coneguda per la seva fe inquebrantable durant les persecucions del segle III."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de l'Animació",
+        "description": "Aquest dia celebra l'art de l'animació a nivell mundial, commemorant l'aniversari de la primera projecció pública d'imatges animades per Charles-Émile Reynaud a París el 1892."
+      },
+      {
+        "name": "Dia de l'Ohi (Grècia)",
+        "description": "Commemorat a Grècia, el 'Dia de l'Ohi' (Dia del No) celebra la negativa del primer ministre grec Ioannis Metaxas a un ultimàtum presentat pel dictador italià Benito Mussolini el 28 d'octubre de 1940, que va portar a l'entrada de Grècia a la Segona Guerra Mundial."
+      },
+      {
+        "name": "Dia Nacional de la Xocolata",
+        "description": "Un dia deliciós observat anualment per celebrar i gaudir de totes les coses relacionades amb la xocolata."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La vida és un procés de fer errors i de corregir errors, i la natura, en qualificar els treballs de l'home, el qualificarà per la saviesa mesurada tant per la supervivència com per la qualitat de vida dels qui sobreviuen.",
+      "author": "Jonas Salk",
+      "context": "Jonas Salk, el metge investigador nord-americà que va desenvolupar una de les primeres vacunes contra la poliomielitis amb èxit, va néixer el 28 d'octubre de 1914."
+    },
+    "motivationalQuote": {
+      "text": "Fes el teu petit tros de bé allà on ets; són aquests petits trossos de bé junts els que aclaparen el món.",
+      "author": "Desmond Tutu"
+    },
+    "births": [
+      {
+        "name": "Bill Gates",
+        "description": "Un magnat dels negocis nord-americà, desenvolupador de programari, inversor, autor i filantrop, més conegut com el cofundador de Microsoft Corporation.",
+        "year": "1955"
+      },
+      {
+        "name": "Julia Roberts",
+        "description": "Una actriu i productora nord-americana, coneguda pels seus papers protagonistes en pel·lícules de diversos gèneres, que li han valgut un Premi de l'Acadèmia, un Premi BAFTA i tres Premis Globus d'Or.",
+        "year": "1967"
+      },
+      {
+        "name": "Jonas Salk",
+        "description": "Un metge investigador i viròleg nord-americà que va desenvolupar una de les primeres vacunes contra la poliomielitis amb èxit.",
+        "year": "1914"
+      }
+    ],
+    "events": [
+      {
+        "title": "Dedicació de l'Estàtua de la Llibertat",
+        "description": "L'Estàtua de la Llibertat, un regal del poble de França als Estats Units, va ser dedicada formalment al port de Nova York pel president Grover Cleveland, simbolitzant la llibertat i la democràcia.",
+        "year": "1886"
+      },
+      {
+        "title": "Fundació del Harvard College",
+        "description": "El Tribunal General de la Colònia de la Badia de Massachusetts va aprovar un acte legislatiu que establia el Harvard College, la primera institució d'educació superior en el que esdevindria els Estats Units.",
+        "year": "1636"
+      },
+      {
+        "title": "Finalització de la Construcció del Gateway Arch",
+        "description": "La secció final del Gateway Arch a St. Louis, Missouri, un monumental arc d'acer inoxidable que simbolitza l'expansió cap a l'oest dels Estats Units, va ser col·locada al seu lloc.",
+        "year": "1965"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de l'Animació",
+      "teaser": "Aquest dia celebra l'art de l'animació a nivell mundial, commemorant l'aniversari de la primera projecció pública d'imatges animades per Charles-Émile Reynaud a París el 1892."
+    }
+  }
+}
