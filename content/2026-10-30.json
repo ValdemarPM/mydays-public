@@ -1,0 +1,343 @@
+{
+  "date": "2026-10-30",
+  "es": {
+    "saints": [
+      {
+        "name": "San Alfonso Rodríguez",
+        "type": "Hermano lego",
+        "description": "Nacido en España en 1531, Alfonso se convirtió en hermano lego jesuita después de sufrir profundas pérdidas personales, sirviendo durante 45 años como humilde portero en un colegio de Mallorca."
+      },
+      {
+        "name": "San Marcelo el Centurión",
+        "type": "Centurión, Mártir",
+        "description": "Centurión romano en Tánger, Marcelo se declaró abiertamente cristiano durante la celebración del cumpleaños de un emperador y fue condenado a muerte alrededor del 298 d.C."
+      },
+      {
+        "name": "Hieromártir Zenobio y Zenobia",
+        "type": "Obispo y Hermana, Mártires",
+        "description": "Zenobio, obispo de Egea en Cilicia, y su hermana Zenobia fueron martirizados en el 285 d.C. durante las persecuciones de Diocleciano después de confesar valientemente su fe cristiana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Lémur",
+        "description": "Celebrado anualmente el último viernes de octubre, este día crea conciencia sobre la necesidad de proteger a los lémures y sus diversas especies."
+      },
+      {
+        "name": "Día Mundial del Drama Sonoro",
+        "description": "Esta conmemoración celebra el arte de contar historias a través del sonido y reconoce la evolución del drama sonoro a lo largo de la historia."
+      },
+      {
+        "name": "Día de Nevada",
+        "description": "Conmemorado el último viernes de octubre en el estado estadounidense de Nevada, celebrando su admisión a la Unión en 1864."
+      },
+      {
+        "name": "Día Nacional del Candy Corn",
+        "description": "Una celebración anual dedicada a la icónica golosina tricolor de Halloween, el candy corn."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Los hechos son cosas obstinadas; y cualesquiera que sean nuestros deseos, nuestras inclinaciones o los dictados de nuestras pasiones, no pueden alterar el estado de los hechos y la evidencia.",
+      "author": "John Adams",
+      "context": "John Adams, el segundo Presidente de los Estados Unidos, nació el 30 de octubre de 1735. Pronunció esta famosa cita en 1770 mientras defendía a soldados británicos involucrados en la Masacre de Boston."
+    },
+    "motivationalQuote": {
+      "text": "La forma más fácil y noble no es aplastar a los demás, sino mejorarse a uno mismo.",
+      "author": "Sócrates"
+    },
+    "births": [
+      {
+        "name": "John Adams",
+        "description": "Estadista, abogado y diplomático estadounidense que sirvió como el segundo Presidente de los Estados Unidos.",
+        "year": "1735"
+      },
+      {
+        "name": "Diego Maradona",
+        "description": "Futbolista y entrenador profesional argentino, ampliamente considerado como uno de los mejores jugadores de todos los tiempos.",
+        "year": "1960"
+      },
+      {
+        "name": "Henry Winkler",
+        "description": "Actor, comediante, director y productor estadounidense, más conocido por su papel de Arthur 'Fonzie' Fonzarelli en la serie de televisión 'Happy Days'.",
+        "year": "1945"
+      }
+    ],
+    "events": [
+      {
+        "title": "Apertura del Puente del Bósforo en Estambul",
+        "description": "El Puente del Bósforo, que conecta Asia y Europa a través del Estrecho del Bósforo en Estambul, Turquía, fue inaugurado, aliviando significativamente el flujo de tráfico.",
+        "year": "1973"
+      },
+      {
+        "title": "Suecia Reconoce a Palestina",
+        "description": "Suecia reconoció oficialmente el Estado de Palestina, convirtiéndose en el primer miembro de la Unión Europea Occidental en hacerlo.",
+        "year": "2014"
+      },
+      {
+        "title": "BET Holdings Inc. Cotiza en la Bolsa de Nueva York",
+        "description": "BET Holdings Inc., la empresa matriz de Black Entertainment Television, se convirtió en la primera empresa propiedad de afroamericanos en cotizar en la Bolsa de Nueva York.",
+        "year": "1991"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Mundial del Lémur",
+      "teaser": "Celebrado anualmente el último viernes de octubre, este día crea conciencia sobre la necesidad de proteger a los lémures y sus diversas especies."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Alphonsus Rodriguez",
+        "type": "Lay Brother",
+        "description": "Born in Spain in 1531, Alphonsus became a Jesuit lay brother after suffering profound personal losses, serving for 45 years as a humble porter at a college in Majorca."
+      },
+      {
+        "name": "St. Marcellus the Centurion",
+        "type": "Centurion, Martyr",
+        "description": "A Roman centurion in Tangiers, Marcellus openly declared himself a Christian during an emperor's birthday celebration and was condemned to death around 298 AD."
+      },
+      {
+        "name": "Hieromartyr Zenobius and Zenobia",
+        "type": "Bishop and Sister, Martyrs",
+        "description": "Zenobius, a bishop of Aegea in Cilicia, and his sister Zenobia were martyred in 285 AD during the persecutions of Diocletian after fearlessly confessing their Christian faith."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Lemur Day",
+        "description": "Celebrated annually on the last Friday of October, this day raises awareness about the need to protect lemurs and their diverse species."
+      },
+      {
+        "name": "World Audio Drama Day",
+        "description": "This observance celebrates the art of storytelling through sound and recognizes the evolution of audio drama throughout history."
+      },
+      {
+        "name": "Nevada Day",
+        "description": "Commemorated on the last Friday of October in the U.S. state of Nevada, celebrating its admission to the Union in 1864."
+      },
+      {
+        "name": "National Candy Corn Day",
+        "description": "An annual celebration dedicated to the iconic tri-colored Halloween confection, candy corn."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Facts are stubborn things; and whatever may be our wishes, our inclinations, or the dictates of our passions, they cannot alter the state of facts and evidence.",
+      "author": "John Adams",
+      "context": "John Adams, the second President of the United States, was born on October 30, 1735. He delivered this famous quote in 1770 while defending British soldiers involved in the Boston Massacre."
+    },
+    "motivationalQuote": {
+      "text": "The easiest and noblest way is not to be crushing others, but to be improving yourselves.",
+      "author": "Socrates"
+    },
+    "births": [
+      {
+        "name": "John Adams",
+        "description": "An American statesman, lawyer, and diplomat who served as the second President of the United States.",
+        "year": "1735"
+      },
+      {
+        "name": "Diego Maradona",
+        "description": "An Argentinian professional football player and manager, widely regarded as one of the greatest players of all time.",
+        "year": "1960"
+      },
+      {
+        "name": "Henry Winkler",
+        "description": "An American actor, comedian, director, and producer, best known for his role as Arthur 'Fonzie' Fonzarelli on the television series 'Happy Days'.",
+        "year": "1945"
+      }
+    ],
+    "events": [
+      {
+        "title": "Bosphorus Bridge Opens in Istanbul",
+        "description": "The Bosphorus Bridge, connecting Asia and Europe across the Bosphorus Strait in Istanbul, Turkey, opened, significantly easing traffic flow.",
+        "year": "1973"
+      },
+      {
+        "title": "Sweden Recognizes Palestine",
+        "description": "Sweden officially recognized the State of Palestine, becoming the first Western European Union member to do so.",
+        "year": "2014"
+      },
+      {
+        "title": "BET Holdings Inc. Lists on NYSE",
+        "description": "BET Holdings Inc., the parent company of Black Entertainment Television, became the first African-American owned company to be listed on the New York Stock Exchange.",
+        "year": "1991"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is World Lemur Day",
+      "teaser": "Celebrated annually on the last Friday of October, this day raises awareness about the need to protect lemurs and their diverse species."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Afonso Rodrigues",
+        "type": "Irmão leigo",
+        "description": "Nascido na Espanha em 1531, Afonso tornou-se irmão leigo jesuíta após sofrer profundas perdas pessoais, servindo por 45 anos como humilde porteiro em um colégio em Maiorca."
+      },
+      {
+        "name": "São Marcelo o Centurião",
+        "type": "Centurião, Mártir",
+        "description": "Centurião romano em Tânger, Marcelo declarou-se abertamente cristão durante a celebração do aniversário de um imperador e foi condenado à morte por volta de 298 d.C."
+      },
+      {
+        "name": "Hieromártir Zenóbio e Zenóbia",
+        "type": "Bispo e Irmã, Mártires",
+        "description": "Zenóbio, bispo de Egeia na Cilícia, e sua irmã Zenóbia foram martirizados em 285 d.C. durante as perseguições de Diocleciano após confessarem destemidamente sua fé cristã."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial do Lêmure",
+        "description": "Celebrado anualmente na última sexta-feira de outubro, este dia aumenta a conscientização sobre a necessidade de proteger os lêmures e suas diversas espécies."
+      },
+      {
+        "name": "Dia Mundial do Drama em Áudio",
+        "description": "Esta comemoração celebra a arte de contar histórias através do som e reconhece a evolução do drama em áudio ao longo da história."
+      },
+      {
+        "name": "Dia de Nevada",
+        "description": "Comemorado na última sexta-feira de outubro no estado americano de Nevada, celebrando sua admissão à União em 1864."
+      },
+      {
+        "name": "Dia Nacional do Candy Corn",
+        "description": "Uma celebração anual dedicada à icônica guloseima tricolor de Halloween, o candy corn."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Os fatos são coisas teimosas; e quaisquer que sejam os nossos desejos, as nossas inclinações ou os ditames das nossas paixões, eles não podem alterar o estado dos fatos e das evidências.",
+      "author": "John Adams",
+      "context": "John Adams, o segundo Presidente dos Estados Unidos, nasceu em 30 de outubro de 1735. Ele proferiu esta famosa citação em 1770 enquanto defendia soldados britânicos envolvidos no Massacre de Boston."
+    },
+    "motivationalQuote": {
+      "text": "O caminho mais fácil e nobre não é esmagar os outros, mas sim melhorar-se a si mesmo.",
+      "author": "Sócrates"
+    },
+    "births": [
+      {
+        "name": "John Adams",
+        "description": "Um estadista, advogado e diplomata americano que serviu como o segundo Presidente dos Estados Unidos.",
+        "year": "1735"
+      },
+      {
+        "name": "Diego Maradona",
+        "description": "Um jogador e treinador de futebol profissional argentino, amplamente considerado um dos maiores jogadores de todos os tempos.",
+        "year": "1960"
+      },
+      {
+        "name": "Henry Winkler",
+        "description": "Um ator, comediante, diretor e produtor americano, mais conhecido por seu papel como Arthur 'Fonzie' Fonzarelli na série de televisão 'Happy Days'.",
+        "year": "1945"
+      }
+    ],
+    "events": [
+      {
+        "title": "Ponte do Bósforo é Inaugurada em Istambul",
+        "description": "A Ponte do Bósforo, que conecta a Ásia e a Europa através do Estreito do Bósforo em Istambul, Turquia, foi inaugurada, facilitando significativamente o fluxo de tráfego.",
+        "year": "1973"
+      },
+      {
+        "title": "Suécia Reconhece a Palestina",
+        "description": "A Suécia reconheceu oficialmente o Estado da Palestina, tornando-se o primeiro membro da União Europeia Ocidental a fazê-lo.",
+        "year": "2014"
+      },
+      {
+        "title": "BET Holdings Inc. Lista na NYSE",
+        "description": "A BET Holdings Inc., a empresa controladora da Black Entertainment Television, tornou-se a primeira empresa de propriedade afro-americana a ser listada na Bolsa de Valores de Nova York.",
+        "year": "1991"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Mundial do Lêmure",
+      "teaser": "Celebrado anualmente na última sexta-feira de outubro, este dia aumenta a conscientização sobre a necessidade de proteger os lêmures e suas diversas espécies."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Alfons Rodríguez",
+        "type": "Germà Laic",
+        "description": "Nascut a Espanya el 1531, Alfons es va convertir en germà laic jesuïta després de patir profundes pèrdues personals, servint durant 45 anys com a humil porter en un col·legi a Mallorca."
+      },
+      {
+        "name": "Sant Marcel el Centurió",
+        "type": "Centurió, Màrtir",
+        "description": "Un centurió romà a Tànger, Marcel es va declarar obertament cristià durant una celebració d'aniversari de l'emperador i va ser condemnat a mort al voltant del 298 dC."
+      },
+      {
+        "name": "Hieromàrtir Zenobi i Zenòbia",
+        "type": "Bisbe i Germana, Màrtirs",
+        "description": "Zenobi, bisbe d'Egea a Cilícia, i la seva germana Zenòbia van ser martiritzats l'any 285 dC durant les persecucions de Dioclecià després de confessar sense por la seva fe cristiana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial del Lèmur",
+        "description": "Celebrat anualment l'últim divendres d'octubre, aquest dia sensibilitza sobre la necessitat de protegir els lèmurs i les seves diverses espècies."
+      },
+      {
+        "name": "Dia Mundial del Drama Sonor",
+        "description": "Aquesta commemoració celebra l'art de narrar històries a través del so i reconeix l'evolució del drama sonor al llarg de la història."
+      },
+      {
+        "name": "Dia de Nevada",
+        "description": "Commemorat l'últim divendres d'octubre a l'estat nord-americà de Nevada, celebrant la seva admissió a la Unió el 1864."
+      },
+      {
+        "name": "Dia Nacional del Candy Corn",
+        "description": "Una celebració anual dedicada a la icònica confecció de Halloween de tres colors, el candy corn."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Els fets són coses tossudes; i siguin quins siguin els nostres desitjos, les nostres inclinacions o els dictats de les nostres passions, no poden alterar l'estat dels fets i les proves.",
+      "author": "John Adams",
+      "context": "John Adams, el segon president dels Estats Units, va néixer el 30 d'octubre de 1735. Va pronunciar aquesta famosa cita el 1770 mentre defensava soldats britànics implicats en la Massacre de Boston."
+    },
+    "motivationalQuote": {
+      "text": "La manera més fàcil i noble no és aixafar els altres, sinó millorar-se a un mateix.",
+      "author": "Sòcrates"
+    },
+    "births": [
+      {
+        "name": "John Adams",
+        "description": "Un estadista, advocat i diplomàtic nord-americà que va servir com a segon president dels Estats Units.",
+        "year": "1735"
+      },
+      {
+        "name": "Diego Maradona",
+        "description": "Un futbolista i entrenador professional argentí, àmpliament considerat com un dels millors jugadors de tots els temps.",
+        "year": "1960"
+      },
+      {
+        "name": "Henry Winkler",
+        "description": "Un actor, comediant, director i productor nord-americà, més conegut pel seu paper d'Arthur 'Fonzie' Fonzarelli a la sèrie de televisió 'Happy Days'.",
+        "year": "1945"
+      }
+    ],
+    "events": [
+      {
+        "title": "S'obre el Pont del Bòsfor a Istanbul",
+        "description": "El Pont del Bòsfor, que connecta Àsia i Europa a través de l'estret del Bòsfor a Istanbul, Turquia, es va obrir, alleujant significativament el trànsit.",
+        "year": "1973"
+      },
+      {
+        "title": "Suècia reconeix Palestina",
+        "description": "Suècia va reconèixer oficialment l'Estat de Palestina, convertint-se en el primer membre de la Unió Europea occidental a fer-ho.",
+        "year": "2014"
+      },
+      {
+        "title": "BET Holdings Inc. cotitza a la Borsa de Nova York",
+        "description": "BET Holdings Inc., la societat matriu de Black Entertainment Television, es va convertir en la primera empresa propietat d'afroamericans a cotitzar a la Borsa de Nova York.",
+        "year": "1991"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Mundial del Lèmur",
+      "teaser": "Celebrat anualment l'últim divendres d'octubre, aquest dia sensibilitza sobre la necessitat de protegir els lèmurs i les seves diverses espècies."
+    }
+  }
+}
