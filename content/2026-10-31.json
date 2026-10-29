@@ -1,0 +1,343 @@
+{
+  "date": "2026-10-31",
+  "es": {
+    "saints": [
+      {
+        "name": "San Estacio",
+        "type": "Obispo",
+        "description": "Estacio es reconocido como el primer Obispo de Bizancio (más tarde Constantinopla), y se cree que fue consagrado por el Apóstol Andrés en el siglo I."
+      },
+      {
+        "name": "San Wolfgang de Ratisbona",
+        "type": "Obispo y Reformador",
+        "description": "Monje benedictino y maestro, San Wolfgang se convirtió en Obispo de Ratisbona en el siglo X, conocido por su dedicación a la reforma monástica, la evangelización y las obras de caridad."
+      },
+      {
+        "name": "San Foillan de Fosses",
+        "type": "Monje y Mártir",
+        "description": "Monje y misionero irlandés del siglo VII, San Foillan fue abad en Fosses, en la actual Bélgica, y fue martirizado por bandoleros mientras ministraba a su rebaño."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Halloween",
+        "description": "Una festividad ampliamente celebrada, principalmente en países occidentales, marcada por disfraces, pedir dulces y decoraciones temáticas, arraigada en antiguas festividades celtas de la cosecha y creencias sobre los espíritus."
+      },
+      {
+        "name": "Día de la Reforma",
+        "description": "Conmemora la fecha tradicional en 1517 cuando Martín Lutero publicó sus Noventa y cinco Tesis, iniciando la Reforma Protestante."
+      },
+      {
+        "name": "Día de Muertos",
+        "description": "Una celebración mexicana y latinoamericana de varios días que honra a los seres queridos fallecidos, con raíces en la cultura indígena, que implica la creación de altares (ofrendas), comida y bailes."
+      },
+      {
+        "name": "Día Mundial de las Ciudades",
+        "description": "Promueve el interés de la comunidad internacional en la urbanización global, fomentando la cooperación entre países para abordar desafíos y contribuir al desarrollo urbano sostenible."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nada llega a ser real hasta que se experimenta — Incluso un proverbio no es un proverbio para ti hasta que tu Vida lo ha ilustrado.",
+      "author": "John Keats",
+      "context": "John Keats, un influyente poeta romántico inglés conocido por sus vívidas imágenes y profundidad filosófica, nació el 31 de octubre de 1795."
+    },
+    "motivationalQuote": {
+      "text": "Si has construido castillos en el aire, tu trabajo no tiene por qué perderse; ahí es donde deben estar. Ahora pon los cimientos debajo de ellos.",
+      "author": "Henry David Thoreau"
+    },
+    "births": [
+      {
+        "name": "John Keats",
+        "description": "Poeta romántico inglés, fue una figura central de la segunda generación de poetas románticos, celebrado por sus obras líricas y de intensa emoción.",
+        "year": "1795"
+      },
+      {
+        "name": "Juliette Gordon Low",
+        "description": "Fundadora de las Girl Scouts de los Estados Unidos de América, estableció la organización en 1912, fomentando el liderazgo y el servicio comunitario en las jóvenes.",
+        "year": "1860"
+      },
+      {
+        "name": "Michael Collins",
+        "description": "Astronauta estadounidense y piloto del módulo de comando del Apolo 11, orbitó la Luna mientras Neil Armstrong y Buzz Aldrin realizaban el primer alunizaje.",
+        "year": "1930"
+      }
+    ],
+    "events": [
+      {
+        "title": "Comienza la Reforma Protestante (las 95 Tesis de Martín Lutero)",
+        "description": "Martín Lutero supuestamente publicó sus 95 Tesis en la puerta de la Iglesia del Castillo de Wittenberg, Alemania, un acto fundamental que es ampliamente considerado el inicio de la Reforma Protestante.",
+        "year": "1517"
+      },
+      {
+        "title": "Nevada se Convierte en Estado de EE. UU.",
+        "description": "Nevada fue admitida como el 36º estado de los Estados Unidos, uniéndose a la Unión durante la Guerra Civil Americana y contribuyendo a la expansión de la nación.",
+        "year": "1864"
+      },
+      {
+        "title": "La Primera Tripulación Residente Llega a la Estación Espacial Internacional (EEI)",
+        "description": "La primera tripulación residente de larga duración llegó a la Estación Espacial Internacional, marcando el comienzo de la presencia humana continua y la investigación en órbita terrestre.",
+        "year": "2000"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Halloween",
+      "teaser": "Una festividad ampliamente celebrada, principalmente en países occidentales, marcada por disfraces, pedir dulces y decoraciones temáticas, arraigada en antiguas festividades celtas de la cosecha y creencias sobre los espíritus."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Stachys",
+        "type": "Bishop",
+        "description": "Stachys is recognized as the first Bishop of Byzantium (later Constantinople), believed to have been consecrated by the Apostle Andrew in the 1st century."
+      },
+      {
+        "name": "St. Wolfgang of Regensburg",
+        "type": "Bishop and Reformer",
+        "description": "A Benedictine monk and teacher, St. Wolfgang became the Bishop of Regensburg in the 10th century, known for his dedication to monastic reform, evangelization, and charitable works."
+      },
+      {
+        "name": "St. Foillan of Fosses",
+        "type": "Monk-Martyr",
+        "description": "An Irish monk and missionary from the 7th century, St. Foillan was an abbot at Fosses in present-day Belgium and was martyred by highwaymen while ministering to his flock."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Halloween",
+        "description": "A widely celebrated holiday, primarily in Western countries, marked by costumes, trick-or-treating, and themed decorations, rooted in ancient Celtic harvest festivals and beliefs about spirits."
+      },
+      {
+        "name": "Reformation Day",
+        "description": "Commemorates the traditional date in 1517 when Martin Luther posted his Ninety-five Theses, initiating the Protestant Reformation."
+      },
+      {
+        "name": "Día de Muertos (Day of the Dead)",
+        "description": "A multi-day Mexican and Latin American celebration honoring deceased loved ones, with roots in indigenous culture, involving the creation of altars (ofrendas), food, and dancing."
+      },
+      {
+        "name": "World Cities Day",
+        "description": "Promotes the international community's interest in global urbanization, fostering cooperation among countries to address challenges and contribute to sustainable urban development."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nothing ever becomes real till it is experienced — Even a proverb is no proverb to you till your Life has illustrated it.",
+      "author": "John Keats",
+      "context": "John Keats, an influential English Romantic poet known for his vivid imagery and philosophical depth, was born on October 31, 1795."
+    },
+    "motivationalQuote": {
+      "text": "If you have built castles in the air, your work need not be lost; that is where they should be. Now put the foundations under them.",
+      "author": "Henry David Thoreau"
+    },
+    "births": [
+      {
+        "name": "John Keats",
+        "description": "An English Romantic poet, he was a central figure of the second generation of Romantic poets, celebrated for his lyrical and emotionally intense works.",
+        "year": "1795"
+      },
+      {
+        "name": "Juliette Gordon Low",
+        "description": "The founder of the Girl Scouts of the United States of America, she established the organization in 1912, fostering leadership and community service in young girls.",
+        "year": "1860"
+      },
+      {
+        "name": "Michael Collins",
+        "description": "An American astronaut and the command module pilot for Apollo 11, he orbited the Moon while Neil Armstrong and Buzz Aldrin made the first lunar landing.",
+        "year": "1930"
+      }
+    ],
+    "events": [
+      {
+        "title": "Protestant Reformation Begins (Martin Luther's 95 Theses)",
+        "description": "Martin Luther reportedly posted his 95 Theses on the door of the Castle Church in Wittenberg, Germany, a pivotal act that is widely considered the start of the Protestant Reformation.",
+        "year": "1517"
+      },
+      {
+        "title": "Nevada Becomes a U.S. State",
+        "description": "Nevada was admitted as the 36th state of the United States, joining the Union during the American Civil War and contributing to the nation's expansion.",
+        "year": "1864"
+      },
+      {
+        "title": "First Resident Crew Arrives at the International Space Station (ISS)",
+        "description": "The first long-duration resident crew arrived at the International Space Station, marking the beginning of continuous human presence and research in Earth orbit.",
+        "year": "2000"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Halloween",
+      "teaser": "A widely celebrated holiday, primarily in Western countries, marked by costumes, trick-or-treating, and themed decorations, rooted in ancient Celtic harvest festivals and beliefs about spirits."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Estáquio",
+        "type": "Bispo",
+        "description": "Estáquio é reconhecido como o primeiro Bispo de Bizâncio (mais tarde Constantinopla), e acredita-se que foi consagrado pelo Apóstolo André no século I."
+      },
+      {
+        "name": "São Wolfgang de Ratisbona",
+        "type": "Bispo e Reformador",
+        "description": "Monge beneditino e professor, São Wolfgang tornou-se Bispo de Ratisbona no século X, conhecido pela sua dedicação à reforma monástica, evangelização e obras de caridade."
+      },
+      {
+        "name": "São Foillan de Fosses",
+        "type": "Monge-Mártir",
+        "description": "Monge e missionário irlandês do século VII, São Foillan foi abade em Fosses, na atual Bélgica, e foi martirizado por salteadores enquanto ministrava ao seu rebanho."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Halloween",
+        "description": "Um feriado amplamente celebrado, principalmente em países ocidentais, marcado por fantasias, 'doçura ou travessura' e decorações temáticas, enraizado em antigos festivais celtas da colheita e crenças sobre espíritos."
+      },
+      {
+        "name": "Dia da Reforma",
+        "description": "Comemora a data tradicional em 1517 quando Martinho Lutero afixou as suas Noventa e Cinco Teses, iniciando a Reforma Protestante."
+      },
+      {
+        "name": "Día de Muertos (Dia dos Mortos)",
+        "description": "Uma celebração mexicana e latino-americana de vários dias que honra entes queridos falecidos, com raízes na cultura indígena, envolvendo a criação de altares (ofrendas), comida e danças."
+      },
+      {
+        "name": "Dia Mundial das Cidades",
+        "description": "Promove o interesse da comunidade internacional na urbanização global, fomentando a cooperação entre países para abordar desafios e contribuir para o desenvolvimento urbano sustentável."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nada se torna real até ser experienciado — Mesmo um provérbio não é um provérbio para você até que a sua Vida o tenha ilustrado.",
+      "author": "John Keats",
+      "context": "John Keats, um influente poeta romântico inglês conhecido pelas suas vívidas imagens e profundidade filosófica, nasceu em 31 de outubro de 1795."
+    },
+    "motivationalQuote": {
+      "text": "Se você construiu castelos no ar, o seu trabalho não precisa ser perdido; é lá que eles devem estar. Agora coloque as fundações debaixo deles.",
+      "author": "Henry David Thoreau"
+    },
+    "births": [
+      {
+        "name": "John Keats",
+        "description": "Poeta romântico inglês, foi uma figura central da segunda geração de poetas românticos, celebrado pelas suas obras líricas e intensamente emocionais.",
+        "year": "1795"
+      },
+      {
+        "name": "Juliette Gordon Low",
+        "description": "Fundadora das Girl Scouts dos Estados Unidos da América, estabeleceu a organização em 1912, fomentando a liderança e o serviço comunitário em jovens raparigas.",
+        "year": "1860"
+      },
+      {
+        "name": "Michael Collins",
+        "description": "Astronauta americano e piloto do módulo de comando da Apollo 11, orbitou a Lua enquanto Neil Armstrong e Buzz Aldrin faziam a primeira aterragem lunar.",
+        "year": "1930"
+      }
+    ],
+    "events": [
+      {
+        "title": "Reforma Protestante Começa (as 95 Teses de Martinho Lutero)",
+        "description": "Martinho Lutero supostamente afixou as suas 95 Teses na porta da Igreja do Castelo de Wittenberg, Alemanha, um ato fulcral amplamente considerado o início da Reforma Protestante.",
+        "year": "1517"
+      },
+      {
+        "title": "Nevada Torna-se um Estado dos EUA",
+        "description": "Nevada foi admitido como o 36º estado dos Estados Unidos, juntando-se à União durante a Guerra Civil Americana e contribuindo para a expansão da nação.",
+        "year": "1864"
+      },
+      {
+        "title": "Primeira Tripulação Residente Chega à Estação Espacial Internacional (EEI)",
+        "description": "A primeira tripulação residente de longa duração chegou à Estação Espacial Internacional, marcando o início da presença humana contínua e da pesquisa em órbita terrestre.",
+        "year": "2000"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Halloween",
+      "teaser": "Um feriado amplamente celebrado, principalmente em países ocidentais, marcado por fantasias, 'doçura ou travessura' e decorações temáticas, enraizado em antigos festivais celtas da colheita e crenças sobre espíritos."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Estaqui",
+        "type": "Bisbe",
+        "description": "Estaqui és reconegut com el primer Bisbe de Bizanci (més tard Constantinoble), es creu que va ser consagrat per l'Apòstol Andreu al segle I."
+      },
+      {
+        "name": "Sant Wolfgang de Ratisbona",
+        "type": "Bisbe i Reformador",
+        "description": "Monjo benedictí i mestre, Sant Wolfgang va esdevenir Bisbe de Ratisbona al segle X, conegut per la seva dedicació a la reforma monàstica, l'evangelització i les obres de caritat."
+      },
+      {
+        "name": "Sant Foillan de Fosses",
+        "type": "Monjo màrtir",
+        "description": "Monjo i missioner irlandès del segle VII, Sant Foillan va ser abat a Fosses, a l'actual Bèlgica, i va ser martiritzat per bandits mentre exercia el seu ministeri amb el seu ramat."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Halloween",
+        "description": "Una festa àmpliament celebrada, principalment als països occidentals, marcada per disfresses, el 'truc o tracte' i decoracions temàtiques, arrelada en antics festivals celtes de la collita i creences sobre els esperits."
+      },
+      {
+        "name": "Dia de la Reforma",
+        "description": "Commemora la data tradicional de 1517 en què Martí Luter va publicar les seves Noranta-cinc Tesis, iniciant la Reforma Protestant."
+      },
+      {
+        "name": "Día de Muertos (Dia dels Morts)",
+        "description": "Una celebració mexicana i llatinoamericana de diversos dies que honora els éssers estimats difunts, amb arrels en la cultura indígena, que implica la creació d'altars (ofrendes), menjar i balls."
+      },
+      {
+        "name": "Dia Mundial de les Ciutats",
+        "description": "Promou l'interès de la comunitat internacional en la urbanització global, fomentant la cooperació entre països per abordar els reptes i contribuir al desenvolupament urbà sostenible."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Res no esdevé real fins que no s'experimenta — Fins i tot un proverbi no és un proverbi per a tu fins que la teva vida no l'ha il·lustrat.",
+      "author": "John Keats",
+      "context": "John Keats, un influent poeta romàntic anglès conegut per les seves imatges vívides i la seva profunda filosofia, va néixer el 31 d'octubre de 1795."
+    },
+    "motivationalQuote": {
+      "text": "Si heu construït castells a l'aire, la vostra feina no s'ha de perdre; és allà on han de ser. Ara poseu-hi els fonaments.",
+      "author": "Henry David Thoreau"
+    },
+    "births": [
+      {
+        "name": "John Keats",
+        "description": "Poeta romàntic anglès, va ser una figura central de la segona generació de poetes romàntics, celebrat per les seves obres líriques i d'una intensitat emocional.",
+        "year": "1795"
+      },
+      {
+        "name": "Juliette Gordon Low",
+        "description": "Fundadora de les Girl Scouts dels Estats Units d'Amèrica, va establir l'organització el 1912, fomentant el lideratge i el servei comunitari en les noies joves.",
+        "year": "1860"
+      },
+      {
+        "name": "Michael Collins",
+        "description": "Astronauta nord-americà i pilot del mòdul de comandament de l'Apollo 11, va orbitar la Lluna mentre Neil Armstrong i Buzz Aldrin realitzaven el primer aterratge lunar.",
+        "year": "1930"
+      }
+    ],
+    "events": [
+      {
+        "title": "Comença la Reforma Protestant (les 95 Tesis de Martí Luter)",
+        "description": "Martí Luter, segons s'informa, va clavar les seves 95 Tesis a la porta de l'Església del Castell de Wittenberg, Alemanya, un acte fonamental que és àmpliament considerat l'inici de la Reforma Protestant.",
+        "year": "1517"
+      },
+      {
+        "title": "Nevada esdevé un estat dels EUA",
+        "description": "Nevada va ser admesa com el 36è estat dels Estats Units, unint-se a la Unió durant la Guerra Civil Americana i contribuint a l'expansió de la nació.",
+        "year": "1864"
+      },
+      {
+        "title": "Arriba la primera tripulació resident a l'Estació Espacial Internacional (EEI)",
+        "description": "La primera tripulació resident de llarga durada va arribar a l'Estació Espacial Internacional, marcant l'inici de la presència humana contínua i la investigació en òrbita terrestre.",
+        "year": "2000"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Halloween",
+      "teaser": "Una festa àmpliament celebrada, principalment als països occidentals, marcada per disfresses, el 'truc o tracte' i decoracions temàtiques, arrelada en antics festivals celtes de la collita i creences sobre els esperits."
+    }
+  }
+}
