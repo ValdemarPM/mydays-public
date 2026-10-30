@@ -1,0 +1,327 @@
+{
+  "date": "2026-11-01",
+  "es": {
+    "saints": [
+      {
+        "name": "Día de Todos los Santos",
+        "type": "Día Santo Cristiano",
+        "description": "Un día que conmemora a todos los santos de la iglesia cristiana, tanto conocidos como desconocidos, que se cree que han alcanzado el cielo. Es un día santo solemne en las iglesias occidentales."
+      },
+      {
+        "name": "Santos Cosme y Damián de Mesopotamia",
+        "type": "Santos Taumaturgos y Médicos Anargiros",
+        "description": "Originarios de Asia Menor, estos hermanos y su madre, Santa Teodota, fueron criados en la piedad cristiana y se convirtieron en hombres justos y virtuosos, conocidos por curar a los enfermos sin cobrar."
+      },
+      {
+        "name": "Mártires Quiriaca y Juliana",
+        "type": "Mártires",
+        "description": "Originarias de Cilicia, estas mujeres virtuosas se dedicaron a la caridad y la filantropía cristiana, cuidando a huérfanos, consolando a viudas y tratando a los enfermos sin cobrar durante el reinado del emperador Maximiano Galerio."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de los Muertos (Day of the Dead)",
+        "description": "Una festividad de dos días celebrada principalmente en México y por personas de ascendencia mexicana en todo el mundo, dedicada a recordar a los seres queridos compartiendo una comida con ellos."
+      },
+      {
+        "name": "Día Mundial del Veganismo",
+        "description": "Establecido por la Sociedad Vegana en 1994, este día promueve el veganismo como una elección ética y ambiental."
+      },
+      {
+        "name": "Día de la Independencia de Antigua",
+        "description": "Marca el día, 1 de noviembre de 1981, en que Antigua y Barbuda obtuvo la independencia del Reino Unido."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Todo pecado es resultado de la colaboración.",
+      "author": "Stephen Crane",
+      "context": "Stephen Crane, novelista, poeta y periodista estadounidense conocido por 'La insignia roja del valor', nació el 1 de noviembre de 1871."
+    },
+    "motivationalQuote": {
+      "text": "La mente no es un recipiente que llenar, sino un fuego que encender.",
+      "author": "Plutarco"
+    },
+    "births": [
+      {
+        "name": "Stephen Crane",
+        "description": "Novelista, poeta y periodista estadounidense, es considerado uno de los fundadores del realismo literario y es más conocido por su novela 'La insignia roja del valor'.",
+        "year": "1871"
+      },
+      {
+        "name": "Aishwarya Rai Bachchan",
+        "description": "Una reconocida actriz india, reconocida por sus contribuciones a las industrias cinematográficas hindi y tamil, ganó Miss Mundo 1994 y ha recibido reconocimiento internacional.",
+        "year": "1973"
+      },
+      {
+        "name": "Anthony Kiedis",
+        "description": "El vocalista principal y cofundador de la banda de rock Red Hot Chili Peppers, que fue incluida en el Salón de la Fama del Rock and Roll en 2012.",
+        "year": "1962"
+      }
+    ],
+    "events": [
+      {
+        "title": "Se desvela el techo de la Capilla Sixtina de Miguel Ángel",
+        "description": "Las monumentales pinturas de Miguel Ángel en el techo de la Capilla Sixtina del Vaticano fueron presentadas públicamente por el Papa Julio II.",
+        "year": "1512"
+      },
+      {
+        "title": "El presidente de EE. UU. John Adams se muda a la Casa Blanca",
+        "description": "El presidente John Adams se convirtió en el primer presidente de EE. UU. en mudarse a la Mansión Ejecutiva, que más tarde sería conocida como la Casa Blanca.",
+        "year": "1800"
+      },
+      {
+        "title": "El Tratado de Maastricht establece la Unión Europea",
+        "description": "El Tratado de Maastricht, un acuerdo histórico, entró oficialmente en vigor, estableciendo formalmente la Unión Europea y profundizando la integración europea.",
+        "year": "1993"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día de los Muertos (Day of the Dead)",
+      "teaser": "Una festividad de dos días celebrada principalmente en México y por personas de ascendencia mexicana en todo el mundo, dedicada a recordar a los seres queridos compartiendo una comida con ellos."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "All Saints' Day",
+        "type": "Christian Holy Day",
+        "description": "A day commemorating all the saints of the Christian church, both known and unknown, who are believed to have attained heaven. It is a solemn holy day in Western churches."
+      },
+      {
+        "name": "Saints Cosmas and Damian of Mesopotamia",
+        "type": "Holy Wonderworkers and Unmercenary Physicians",
+        "description": "Natives of Asia Minor, these brothers and their mother, Saint Theodota, were raised in Christian piety and became righteous, virtuous men known for healing the sick without charge."
+      },
+      {
+        "name": "Martyrs Kyriaina and Juliana",
+        "type": "Martyrs",
+        "description": "From Cilicia, these virtuous women dedicated themselves to charity and Christian philanthropy, caring for orphans, comforting widows, and treating the sick without a fee during the reign of Emperor Maximian Galerius."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de los Muertos (Day of the Dead)",
+        "description": "A two-day holiday primarily celebrated in Mexico and by people of Mexican descent worldwide, dedicated to remembering loved ones by sharing a meal with them."
+      },
+      {
+        "name": "World Vegan Day",
+        "description": "Established by the Vegan Society in 1994, this day promotes veganism as an ethical and environmental choice."
+      },
+      {
+        "name": "Antigua Independence Day",
+        "description": "Marks the day, November 1, 1981, when Antigua and Barbuda gained independence from the United Kingdom."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Every sin is the result of collaboration.",
+      "author": "Stephen Crane",
+      "context": "Stephen Crane, an American novelist, poet, and journalist known for 'The Red Badge of Courage,' was born on November 1, 1871."
+    },
+    "motivationalQuote": {
+      "text": "The mind is not a vessel to be filled but a fire to be kindled.",
+      "author": "Plutarch"
+    },
+    "births": [
+      {
+        "name": "Stephen Crane",
+        "description": "An American novelist, poet, and journalist, he is considered one of the founders of Literary realism and is best known for his novel 'The Red Badge of Courage'.",
+        "year": "1871"
+      },
+      {
+        "name": "Aishwarya Rai Bachchan",
+        "description": "A renowned Indian actress recognized for her contributions to the Hindi and Tamil film industries, she won Miss World 1994 and has received international acclaim.",
+        "year": "1973"
+      },
+      {
+        "name": "Anthony Kiedis",
+        "description": "The lead vocalist and co-founder of the rock band Red Hot Chili Peppers, which was inducted into the Rock and Roll Hall of Fame in 2012.",
+        "year": "1962"
+      }
+    ],
+    "events": [
+      {
+        "title": "Michelangelo's Sistine Chapel Ceiling Unveiled",
+        "description": "Michelangelo's monumental paintings on the ceiling of the Vatican's Sistine Chapel were publicly unveiled by Pope Julius II.",
+        "year": "1512"
+      },
+      {
+        "title": "U.S. President John Adams Moves into the White House",
+        "description": "President John Adams became the first U.S. President to move into the Executive Mansion, which would later be known as the White House.",
+        "year": "1800"
+      },
+      {
+        "title": "Maastricht Treaty Establishes the European Union",
+        "description": "The Maastricht Treaty, a landmark agreement, officially took effect, formally establishing the European Union and deepening European integration.",
+        "year": "1993"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Día de los Muertos (Day of the Dead)",
+      "teaser": "A two-day holiday primarily celebrated in Mexico and by people of Mexican descent worldwide, dedicated to remembering loved ones by sharing a meal with them."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Dia de Todos os Santos",
+        "type": "Dia Santo Cristão",
+        "description": "Um dia que comemora todos os santos da igreja cristã, tanto conhecidos quanto desconhecidos, que se acredita terem alcançado o céu. É um dia santo solene nas igrejas ocidentais."
+      },
+      {
+        "name": "Santos Cosme e Damião da Mesopotâmia",
+        "type": "Santos Taumaturgos e Médicos Anárgiros",
+        "description": "Naturais da Ásia Menor, estes irmãos e sua mãe, Santa Teodota, foram criados na piedade cristã e se tornaram homens justos e virtuosos, conhecidos por curar os doentes sem cobrar."
+      },
+      {
+        "name": "Mártires Quiriaca e Juliana",
+        "type": "Mártires",
+        "description": "Originárias da Cilícia, estas mulheres virtuosas dedicaram-se à caridade e filantropia cristã, cuidando de órfãos, confortando viúvas e tratando os doentes sem cobrar durante o reinado do Imperador Maximiano Galério."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de los Muertos (Day of the Dead)",
+        "description": "Um feriado de dois dias celebrado principalmente no México e por pessoas de ascendência mexicana em todo o mundo, dedicado a lembrar os entes queridos compartilhando uma refeição com eles."
+      },
+      {
+        "name": "Dia Mundial do Veganismo",
+        "description": "Estabelecido pela Vegan Society em 1994, este dia promove o veganismo como uma escolha ética e ambiental."
+      },
+      {
+        "name": "Dia da Independência de Antígua",
+        "description": "Marca o dia, 1º de novembro de 1981, em que Antígua e Barbuda conquistou a independência do Reino Unido."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Todo pecado é resultado de colaboração.",
+      "author": "Stephen Crane",
+      "context": "Stephen Crane, romancista, poeta e jornalista americano conhecido por 'O emblema vermelho da coragem', nasceu em 1º de novembro de 1871."
+    },
+    "motivationalQuote": {
+      "text": "A mente não é um vaso a ser preenchido, mas um fogo a ser aceso.",
+      "author": "Plutarco"
+    },
+    "births": [
+      {
+        "name": "Stephen Crane",
+        "description": "Romancista, poeta e jornalista americano, é considerado um dos fundadores do realismo literário e é mais conhecido por seu romance 'O emblema vermelho da coragem'.",
+        "year": "1871"
+      },
+      {
+        "name": "Aishwarya Rai Bachchan",
+        "description": "Uma renomada atriz indiana, reconhecida por suas contribuições para as indústrias cinematográficas hindi e tâmil, ganhou Miss Mundo 1994 e recebeu aclamação internacional.",
+        "year": "1973"
+      },
+      {
+        "name": "Anthony Kiedis",
+        "description": "O vocalista principal e cofundador da banda de rock Red Hot Chili Peppers, que foi introduzida no Rock and Roll Hall of Fame em 2012.",
+        "year": "1962"
+      }
+    ],
+    "events": [
+      {
+        "title": "Teto da Capela Sistina de Michelangelo é Revelado",
+        "description": "As monumentais pinturas de Michelangelo no teto da Capela Sistina do Vaticano foram publicamente reveladas pelo Papa Júlio II.",
+        "year": "1512"
+      },
+      {
+        "title": "Presidente dos EUA John Adams Muda-se para a Casa Branca",
+        "description": "O Presidente John Adams tornou-se o primeiro presidente dos EUA a mudar-se para a Mansão Executiva, que mais tarde seria conhecida como Casa Branca.",
+        "year": "1800"
+      },
+      {
+        "title": "Tratado de Maastricht Estabelece a União Europeia",
+        "description": "O Tratado de Maastricht, um acordo marcante, entrou oficialmente em vigor, estabelecendo formalmente a União Europeia e aprofundando a integração europeia.",
+        "year": "1993"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Día de los Muertos (Day of the Dead)",
+      "teaser": "Um feriado de dois dias celebrado principalmente no México e por pessoas de ascendência mexicana em todo o mundo, dedicado a lembrar os entes queridos compartilhando uma refeição com eles."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Dia de Tots Sants",
+        "type": "Festivitat Cristiana",
+        "description": "Un dia que commemora tots els sants de l'Església cristiana, tant coneguts com desconeguts, que es creu que han arribat al cel. És una festivitat solemne a les esglésies occidentals."
+      },
+      {
+        "name": "Sants Cosme i Damià de Mesopotàmia",
+        "type": "Sants Taumaturgs i Metges No Mercenaris",
+        "description": "Originaris de l'Àsia Menor, aquests germans i la seva mare, santa Teodota, van ser educats en la pietat cristiana i es van convertir en homes justos i virtuosos coneguts per curar els malalts sense cobrar."
+      },
+      {
+        "name": "Màrtirs Quiriaca i Juliana",
+        "type": "Màrtirs",
+        "description": "De Cilícia, aquestes dones virtuoses es van dedicar a la caritat i la filantropia cristiana, tenint cura dels orfes, consolant les vídues i tractant els malalts sense cobrar durant el regnat de l'emperador Maximià Galeri."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de los Muertos (Dia dels Morts)",
+        "description": "Una festivitat de dos dies celebrada principalment a Mèxic i per persones d'ascendència mexicana a tot el món, dedicada a recordar els éssers estimats compartint un àpat amb ells."
+      },
+      {
+        "name": "Dia Mundial del Veganisme",
+        "description": "Establert per la Vegan Society el 1994, aquest dia promou el veganisme com una opció ètica i mediambiental."
+      },
+      {
+        "name": "Dia de la Independència d'Antigua",
+        "description": "Commemora el dia, 1 de novembre de 1981, en què Antigua i Barbuda van obtenir la independència del Regne Unit."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Tot pecat és el resultat d'una col·laboració.",
+      "author": "Stephen Crane",
+      "context": "Stephen Crane, novel·lista, poeta i periodista nord-americà conegut per 'La insígnia vermella del valor', va néixer l'1 de novembre de 1871."
+    },
+    "motivationalQuote": {
+      "text": "La ment no és un vas per omplir, sinó un foc per encendre.",
+      "author": "Plutarc"
+    },
+    "births": [
+      {
+        "name": "Stephen Crane",
+        "description": "Novel·lista, poeta i periodista nord-americà, és considerat un dels fundadors del realisme literari i és més conegut per la seva novel·la 'La insígnia vermella del valor'.",
+        "year": "1871"
+      },
+      {
+        "name": "Aishwarya Rai Bachchan",
+        "description": "Una reconeguda actriu índia, reconeguda per les seves contribucions a les indústries cinematogràfiques hindi i tàmil, va guanyar Miss Món 1994 i ha rebut reconeixement internacional.",
+        "year": "1973"
+      },
+      {
+        "name": "Anthony Kiedis",
+        "description": "El vocalista principal i cofundador de la banda de rock Red Hot Chili Peppers, que va ser inclosa al Rock and Roll Hall of Fame el 2012.",
+        "year": "1962"
+      }
+    ],
+    "events": [
+      {
+        "title": "Presentació del sostre de la Capella Sixtina de Miquel Àngel",
+        "description": "Les pintures monumentals de Miquel Àngel al sostre de la Capella Sixtina del Vaticà van ser presentades públicament pel papa Juli II.",
+        "year": "1512"
+      },
+      {
+        "title": "El president dels EUA John Adams es trasllada a la Casa Blanca",
+        "description": "El president John Adams es va convertir en el primer president dels EUA a traslladar-se a la Residència Executiva, que més tard seria coneguda com la Casa Blanca.",
+        "year": "1800"
+      },
+      {
+        "title": "El Tractat de Maastricht estableix la Unió Europea",
+        "description": "El Tractat de Maastricht, un acord històric, va entrar oficialment en vigor, establint formalment la Unió Europea i aprofundint la integració europea.",
+        "year": "1993"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Día de los Muertos (Dia dels Morts)",
+      "teaser": "Una festivitat de dos dies celebrada principalment a Mèxic i per persones d'ascendència mexicana a tot el món, dedicada a recordar els éssers estimats compartint un àpat amb ells."
+    }
+  }
+}
