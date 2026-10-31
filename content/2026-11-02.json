@@ -1,0 +1,327 @@
+{
+  "date": "2026-11-02",
+  "es": {
+    "saints": [
+      {
+        "name": "Día de Todos los Fieles Difuntos (Conmemoración de Todos los Fieles Difuntos)",
+        "type": "Conmemoración",
+        "description": "En el Día de Todos los Fieles Difuntos, los católicos romanos conmemoran y oran por las almas de los fieles difuntos que se cree que están en el purgatorio, buscando su purificación para alcanzar el cielo."
+      },
+      {
+        "name": "San Victorino de Poetovio",
+        "type": "Obispo, Mártir",
+        "description": "San Victorino fue obispo a finales del siglo III en la actual Eslovenia y es reconocido como el primer escritor cristiano en comentar la Biblia en latín. Murió mártir alrededor del año 304 d.C. durante la persecución bajo el emperador Diocleciano."
+      },
+      {
+        "name": "Santos Mártires Acindino, Pegasio, Aftonio, Elpidóforo, Anempodisto y otros 7.000",
+        "type": "Mártires",
+        "description": "Estos Santos Ortodoxos sufrieron el martirio en Persia durante el reinado del Rey Sapor II (310-381 d.C.) por confesar sin temor su fe en la Santísima Trinidad."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de Todos los Fieles Difuntos",
+        "description": "Esta observancia anual del 2 de noviembre está dedicada a recordar y orar por las almas de los familiares fallecidos y de todos los fieles difuntos."
+      },
+      {
+        "name": "Día Internacional para Poner Fin a la Impunidad de los Crímenes contra Periodistas",
+        "description": "Este día llama la atención mundial sobre la baja tasa de condenas por crímenes cometidos contra periodistas y urge a tomar medidas para proteger a quienes arriesgan sus vidas para informar la verdad."
+      },
+      {
+        "name": "Día de Pinta el Mundo de Naranja",
+        "description": "Observado el primer lunes de noviembre, este día está dedicado a crear conciencia sobre el Síndrome de Dolor Regional Complejo (SDRC) y la Distrofia Simpático Refleja."
+      }
+    ],
+    "historicalQuote": {
+      "text": "¡Valor! Lo he demostrado durante años; ¿creéis que lo perderé en el momento en que mis sufrimientos van a terminar?",
+      "author": "María Antonieta",
+      "context": "María Antonieta, la última Reina de Francia antes de la Revolución Francesa, nació el 2 de noviembre de 1755. Esta cita refleja su firmeza durante su juicio y su inminente ejecución."
+    },
+    "motivationalQuote": {
+      "text": "Nunca es tarde para ser lo que podrías haber sido.",
+      "author": "George Eliot"
+    },
+    "births": [
+      {
+        "name": "Daniel Boone",
+        "description": "Un pionero y explorador estadounidense cuyas hazañas lo convirtieron en uno de los primeros héroes populares de los Estados Unidos.",
+        "year": "1734"
+      },
+      {
+        "name": "María Antonieta",
+        "description": "Una archiduquesa austriaca que se convirtió en la última Reina de Francia y Navarra antes de la Revolución Francesa.",
+        "year": "1755"
+      },
+      {
+        "name": "George Boole",
+        "description": "Un matemático inglés que desarrolló el álgebra booleana, sentando las bases para la informática moderna y la lógica digital.",
+        "year": "1815"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera Emisión de Radio Comercial",
+        "description": "KDKA de Pittsburgh, Pensilvania, realizó la primera emisión de radio comercial en los Estados Unidos, anunciando los resultados de las elecciones presidenciales de 1920.",
+        "year": "1920"
+      },
+      {
+        "title": "Día de Martin Luther King Jr. Promulgado como Ley",
+        "description": "El presidente de EE. UU. Ronald Reagan firmó un proyecto de ley que establecía un día festivo nacional para honrar al líder de los derechos civiles Martin Luther King Jr., que se observaría el tercer lunes de enero.",
+        "year": "1983"
+      },
+      {
+        "title": "Primera Tripulación Llega a la Estación Espacial Internacional",
+        "description": "La primera tripulación residente, Expedición 1, compuesta por el astronauta estadounidense William Shepherd y los cosmonautas rusos Yuri Gidzenko y Sergei Krikalev, llegó a la Estación Espacial Internacional.",
+        "year": "2000"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día de Todos los Fieles Difuntos",
+      "teaser": "Esta observancia anual del 2 de noviembre está dedicada a recordar y orar por las almas de los familiares fallecidos y de todos los fieles difuntos."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "All Souls' Day (Commemoration of All the Faithful Departed)",
+        "type": "Commemoration",
+        "description": "On All Souls' Day, Roman Catholics commemorate and pray for the souls of the faithful departed who are believed to be in purgatory, seeking their purification to attain heaven."
+      },
+      {
+        "name": "Saint Victorinus of Pettau",
+        "type": "Bishop, Martyr",
+        "description": "Saint Victorinus was a bishop in the late third century in modern-day Slovenia and is recognized as the first Christian writer to comment on the Bible in Latin. He died a martyr around 304 AD during the persecution under Emperor Diocletian."
+      },
+      {
+        "name": "Holy Martyrs Acindynus, Pegasius, Aphthonius, Elpidophorus, Anempodistus, and 7,000 others",
+        "type": "Martyrs",
+        "description": "These Orthodox Saints suffered martyrdom in Persia during the reign of King Sapor II (310-381 AD) for fearlessly confessing their faith in the Holy Trinity."
+      }
+    ],
+    "observances": [
+      {
+        "name": "All Souls' Day",
+        "description": "This annual observance on November 2nd is dedicated to remembering and praying for the souls of deceased family members and all the faithful departed."
+      },
+      {
+        "name": "International Day to End Impunity for Crimes Against Journalists",
+        "description": "This day draws global attention to the low conviction rate for crimes committed against journalists and urges action to protect those who risk their lives to report the truth."
+      },
+      {
+        "name": "Color The World Orange Day",
+        "description": "Observed on the first Monday in November, this day is dedicated to raising awareness about Complex Regional Pain Syndrome (CRPS) and Reflex Sympathetic Dystrophy."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Courage! I have shown it for years; think you I shall lose it at the moment when my sufferings are to end?",
+      "author": "Marie Antoinette",
+      "context": "Marie Antoinette, the last Queen of France before the French Revolution, was born on November 2, 1755. This quote reflects her steadfastness during her trial and impending execution."
+    },
+    "motivationalQuote": {
+      "text": "It is never too late to be what you might have been.",
+      "author": "George Eliot"
+    },
+    "births": [
+      {
+        "name": "Daniel Boone",
+        "description": "An American frontiersman and explorer whose exploits made him one of the first folk heroes of the United States.",
+        "year": "1734"
+      },
+      {
+        "name": "Marie Antoinette",
+        "description": "An Austrian archduchess who became the last Queen of France and Navarre before the French Revolution.",
+        "year": "1755"
+      },
+      {
+        "name": "George Boole",
+        "description": "An English mathematician who developed Boolean algebra, laying the foundation for modern computer science and digital logic.",
+        "year": "1815"
+      }
+    ],
+    "events": [
+      {
+        "title": "First Commercial Radio Broadcast",
+        "description": "KDKA of Pittsburgh, Pennsylvania, made the first commercial radio broadcast in the United States, announcing the results of the 1920 presidential election.",
+        "year": "1920"
+      },
+      {
+        "title": "Martin Luther King Jr. Day Signed into Law",
+        "description": "U.S. President Ronald Reagan signed a bill establishing a national holiday to honor civil rights leader Martin Luther King Jr., to be observed on the third Monday of January.",
+        "year": "1983"
+      },
+      {
+        "title": "First Crew Arrives at International Space Station",
+        "description": "The first resident crew, Expedition 1, consisting of American astronaut William Shepherd and Russian cosmonauts Yuri Gidzenko and Sergei Krikalev, arrived at the International Space Station.",
+        "year": "2000"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is All Souls' Day",
+      "teaser": "This annual observance on November 2nd is dedicated to remembering and praying for the souls of deceased family members and all the faithful departed."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Dia de Finados (Comemoração de Todos os Fiéis Defuntos)",
+        "type": "Comemoração",
+        "description": "No Dia de Finados, os católicos romanos comemoram e oram pelas almas dos fiéis defuntos que se acredita estarem no purgatório, buscando sua purificação para alcançar o céu."
+      },
+      {
+        "name": "São Vitorino de Poetovio",
+        "type": "Bispo, Mártir",
+        "description": "São Vitorino foi bispo no final do século III na atual Eslovênia e é reconhecido como o primeiro escritor cristão a comentar a Bíblia em latim. Ele morreu mártir por volta de 304 d.C. durante a perseguição sob o imperador Diocleciano."
+      },
+      {
+        "name": "Santos Mártires Acindino, Pegásio, Aftônio, Elpidóforo, Anempodisto e outros 7.000",
+        "type": "Mártires",
+        "description": "Esses Santos Ortodoxos sofreram o martírio na Pérsia durante o reinado do Rei Sapor II (310-381 d.C.) por confessar destemidamente sua fé na Santíssima Trindade."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Finados",
+        "description": "Esta observância anual, em 2 de novembro, é dedicada a lembrar e orar pelas almas de membros falecidos da família e de todos os fiéis defuntos."
+      },
+      {
+        "name": "Dia Internacional para Acabar com a Impunidade dos Crimes contra Jornalistas",
+        "description": "Este dia chama a atenção global para a baixa taxa de condenação por crimes cometidos contra jornalistas e insta à ação para proteger aqueles que arriscam suas vidas para reportar a verdade."
+      },
+      {
+        "name": "Dia de Colorir o Mundo de Laranja",
+        "description": "Observado na primeira segunda-feira de novembro, este dia é dedicado a aumentar a conscientização sobre a Síndrome da Dor Regional Complexa (SDRC) e a Distrofia Simpático-Reflexa."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Coragem! Eu a demonstrei por anos; achais que a perderei no momento em que meus sofrimentos vão terminar?",
+      "author": "Maria Antonieta",
+      "context": "Maria Antonieta, a última Rainha da França antes da Revolução Francesa, nasceu em 2 de novembro de 1755. Esta citação reflete sua firmeza durante seu julgamento e iminente execução."
+    },
+    "motivationalQuote": {
+      "text": "Nunca é tarde para ser o que você poderia ter sido.",
+      "author": "George Eliot"
+    },
+    "births": [
+      {
+        "name": "Daniel Boone",
+        "description": "Um pioneiro e explorador americano cujas façanhas o tornaram um dos primeiros heróis populares dos Estados Unidos.",
+        "year": "1734"
+      },
+      {
+        "name": "Maria Antonieta",
+        "description": "Uma arquiduquesa austríaca que se tornou a última Rainha da França e Navarra antes da Revolução Francesa.",
+        "year": "1755"
+      },
+      {
+        "name": "George Boole",
+        "description": "Um matemático inglês que desenvolveu a álgebra booleana, lançando as bases para a ciência da computação moderna e a lógica digital.",
+        "year": "1815"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeira Transmissão de Rádio Comercial",
+        "description": "A KDKA de Pittsburgh, Pensilvânia, fez a primeira transmissão de rádio comercial nos Estados Unidos, anunciando os resultados da eleição presidencial de 1920.",
+        "year": "1920"
+      },
+      {
+        "title": "Dia de Martin Luther King Jr. Sancionado como Lei",
+        "description": "O Presidente dos EUA Ronald Reagan assinou um projeto de lei estabelecendo um feriado nacional para homenagear o líder dos direitos civis Martin Luther King Jr., a ser observado na terceira segunda-feira de janeiro.",
+        "year": "1983"
+      },
+      {
+        "title": "Primeira Tripulação Chega à Estação Espacial Internacional",
+        "description": "A primeira tripulação residente, Expedição 1, composta pelo astronauta americano William Shepherd e pelos cosmonautas russos Yuri Gidzenko e Sergei Krikalev, chegou à Estação Espacial Internacional.",
+        "year": "2000"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia de Finados",
+      "teaser": "Esta observância anual, em 2 de novembro, é dedicada a lembrar e orar pelas almas de membros falecidos da família e de todos os fiéis defuntos."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Commemoració de Tots els Fidels Difunts",
+        "type": "Commemoració",
+        "description": "En el Dia dels Fidels Difunts, els catòlics romans commemoren i preguen per les ànimes dels fidels difunts que es creu que estan al purgatori, buscant la seva purificació per assolir el cel."
+      },
+      {
+        "name": "Sant Victorí de Pettau",
+        "type": "Bisbe, Màrtir",
+        "description": "Sant Victorí va ser un bisbe a finals del segle III a l'actual Eslovènia i és reconegut com el primer escriptor cristià a comentar la Bíblia en llatí. Va morir màrtir al voltant de l'any 304 dC durant la persecució sota l'emperador Dioclecià."
+      },
+      {
+        "name": "Sants Màrtirs Acindí, Pegasi, Aftoni, Elpidòfor, Anempodist i 7.000 altres",
+        "type": "Màrtirs",
+        "description": "Aquests Sants Ortodoxos van patir martiri a Pèrsia durant el regnat del rei Sapor II (310-381 dC) per confessar sense por la seva fe en la Santíssima Trinitat."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia dels Fidels Difunts",
+        "description": "Aquesta commemoració anual, el 2 de novembre, està dedicada a recordar i pregar per les ànimes dels familiars difunts i de tots els fidels difunts."
+      },
+      {
+        "name": "Dia Internacional per Posar Fi a la Impunitat dels Delictes contra Periodistes",
+        "description": "Aquest dia crida l'atenció mundial sobre la baixa taxa de condemnes pels delictes comesos contra periodistes i demana acció per protegir aquells que arrisquen les seves vides per informar de la veritat."
+      },
+      {
+        "name": "Dia de Pintar el Món de Taronja",
+        "description": "Celebrat el primer dilluns de novembre, aquest dia està dedicat a conscienciar sobre la Síndrome de Dolor Regional Complex (SDRC) i la Distròfia Simpàtica Reflexa."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Coratge! L'he mostrat durant anys; creieu que el perdré en el moment en què els meus patiments s'acabin?",
+      "author": "Maria Antonieta",
+      "context": "Maria Antonieta, l'última Reina de França abans de la Revolució Francesa, va néixer el 2 de novembre de 1755. Aquesta cita reflecteix la seva fermesa durant el seu judici i la seva imminent execució."
+    },
+    "motivationalQuote": {
+      "text": "Mai no és massa tard per ser allò que hauries pogut ser.",
+      "author": "George Eliot"
+    },
+    "births": [
+      {
+        "name": "Daniel Boone",
+        "description": "Un pioner i explorador americà les gestes del qual el van convertir en un dels primers herois populars dels Estats Units.",
+        "year": "1734"
+      },
+      {
+        "name": "Maria Antonieta",
+        "description": "Una arxiduquessa austríaca que va esdevenir l'última Reina de França i de Navarra abans de la Revolució Francesa.",
+        "year": "1755"
+      },
+      {
+        "name": "George Boole",
+        "description": "Un matemàtic anglès que va desenvolupar l'àlgebra booleana, establint les bases per a la informàtica moderna i la lògica digital.",
+        "year": "1815"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera Transmissió Comercial de Ràdio",
+        "description": "KDKA de Pittsburgh, Pennsilvània, va realitzar la primera transmissió comercial de ràdio als Estats Units, anunciant els resultats de les eleccions presidencials de 1920.",
+        "year": "1920"
+      },
+      {
+        "title": "El Dia de Martin Luther King Jr. Aprovat per Llei",
+        "description": "El president dels EUA, Ronald Reagan, va signar un projecte de llei que establia un dia festiu nacional per honorar el líder dels drets civils Martin Luther King Jr., que se celebraria el tercer dilluns de gener.",
+        "year": "1983"
+      },
+      {
+        "title": "Primera Tripulació Arriba a l'Estació Espacial Internacional",
+        "description": "La primera tripulació resident, Expedició 1, formada per l'astronauta americà William Shepherd i els cosmonautes russos Iuri Guidzenko i Serguei Krikaliov, va arribar a l'Estació Espacial Internacional.",
+        "year": "2000"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia dels Fidels Difunts",
+      "teaser": "Aquesta commemoració anual, el 2 de novembre, està dedicada a recordar i pregar per les ànimes dels familiars difunts i de tots els fidels difunts."
+    }
+  }
+}
