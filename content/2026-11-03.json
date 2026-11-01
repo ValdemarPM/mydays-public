@@ -1,0 +1,399 @@
+{
+  "date": "2026-11-03",
+  "es": {
+    "saints": [
+      {
+        "name": "Santo Martín de Porres",
+        "type": "Hermano lego",
+        "description": "Nacido en Perú en 1579, San Martín de Porres fue un hermano lego dominico conocido por su amabilidad, caridad y cuidado de los pobres, enfermos y animales. Es el santo patrón de la justicia social, la armonía racial y los trabajadores de la salud pública."
+      },
+      {
+        "name": "San Huberto de Lieja",
+        "type": "Obispo",
+        "description": "Nacido alrededor del año 656, San Huberto se convirtió en el primer obispo de Lieja en el 708 d.C. Es conocido como el 'Apóstol de las Ardenas' y es el santo patrón de los cazadores, matemáticos y ópticos."
+      },
+      {
+        "name": "Santa Winefrida",
+        "type": "Virgen, Mártir, Abadesa",
+        "description": "Una virgen mártir galesa del siglo VII, Santa Winifred fue milagrosamente devuelta a la vida después de ser decapitada por rechazar a un pretendiente. Más tarde se convirtió en abadesa y es venerada en Holywell, un importante sitio de peregrinación."
+      },
+      {
+        "name": "Hieromártires Acepsimas, José y Aeithalas",
+        "type": "Obispo, Sacerdote, Diácono",
+        "description": "Estos mártires persas, el obispo Acepsimas, el sacerdote José y el diácono Aeithalas, fueron líderes de la iglesia cristiana que valientemente confesaron su fe y soportaron severas torturas bajo el emperador Sapor en el siglo IV."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Cultura (Japón)",
+        "description": "Un día festivo nacional japonés establecido en 1948 para promover la cultura, las artes y el rendimiento académico, coincidiendo con el cumpleaños del Emperador Meiji."
+      },
+      {
+        "name": "Día de la Independencia de Dominica",
+        "description": "Este día conmemora la independencia de Dominica del dominio británico el 3 de noviembre de 1978."
+      },
+      {
+        "name": "Día Una Salud",
+        "description": "El Día Una Salud promueve esfuerzos a nivel mundial para integrar disciplinas de la salud que impactan a humanos, animales y el medio ambiente, reconociendo su interconexión."
+      },
+      {
+        "name": "Día Mundial de las Medusas",
+        "description": "Este día celebra al antiguo invertebrado, la medusa, fomentando el aprendizaje y la apreciación por estos singulares animales acuáticos."
+      },
+      {
+        "name": "Día Internacional de Conciencia sobre el Estrés",
+        "description": "Observado el 3 de noviembre, este día destaca la importancia de manejar el estrés para el bienestar mental y físico."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Dejen el asunto de la religión al altar familiar, la iglesia y la escuela privada sostenida enteramente por contribuciones privadas. Mantengan la iglesia y el estado separados para siempre.",
+      "author": "Ulysses S. Grant",
+      "context": "El 3 de noviembre de 1868, Ulysses S. Grant fue elegido el 18º Presidente de los Estados Unidos, un acto significativo en la historia política estadounidense."
+    },
+    "motivationalQuote": {
+      "text": "Sigo siendo una cosa, y solo una cosa: un payaso. Me coloca en un plano mucho más elevado que cualquier político.",
+      "author": "Charlie Chaplin"
+    },
+    "births": [
+      {
+        "name": "Stephen F. Austin",
+        "description": "Conocido como el 'Padre de Texas', Stephen F. Austin fue un empresario estadounidense que lideró la segunda, y finalmente exitosa, colonización de la región al traer 300 familias de los Estados Unidos a Texas.",
+        "year": "1793"
+      },
+      {
+        "name": "Anna Wintour",
+        "description": "Periodista británico-estadounidense, Anna Wintour ha sido editora en jefe de Vogue desde 1988 y directora de contenido global para Condé Nast desde 2020.",
+        "year": "1949"
+      },
+      {
+        "name": "Dolph Lundgren",
+        "description": "Actor, cineasta y artista marcial sueco, Dolph Lundgren es conocido por sus papeles en películas de acción, notablemente como Ivan Drago en 'Rocky IV'.",
+        "year": "1957"
+      }
+    ],
+    "events": [
+      {
+        "title": "Panamá Declara su Independencia",
+        "description": "Con el estímulo de los Estados Unidos, Panamá declaró su independencia de Colombia, un momento crucial que allanó el camino para la construcción del Canal de Panamá.",
+        "year": "1903"
+      },
+      {
+        "title": "Se Adopta la Señal de Socorro SOS",
+        "description": "La señal de socorro SOS (tres puntos, tres rayas, tres puntos) fue adoptada oficialmente como la señal internacional de socorro radiotelegráfico en la Convención Radiotelegráfica Internacional de Berlín.",
+        "year": "1906"
+      },
+      {
+        "title": "El Sputnik 2 Lanza a Laika a Órbita",
+        "description": "La Unión Soviética lanzó el Sputnik 2, llevando a la perra Laika, convirtiéndola en la primera criatura viva en orbitar la Tierra y marcando un hito significativo en la exploración espacial.",
+        "year": "1957"
+      },
+      {
+        "title": "El Mariner 10 se Lanza hacia Mercurio",
+        "description": "La NASA lanzó el Mariner 10, que se convirtió en la primera sonda espacial en alcanzar el planeta Mercurio, proporcionando imágenes de cerca y datos innovadores sobre la atmósfera y el campo magnético del planeta.",
+        "year": "1973"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día de la Cultura (Japón)",
+      "teaser": "Un día festivo nacional japonés establecido en 1948 para promover la cultura, las artes y el rendimiento académico, coincidiendo con el cumpleaños del Emperador Meiji."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Martin de Porres",
+        "type": "Lay Brother",
+        "description": "Born in Peru in 1579, St. Martin de Porres was a Dominican lay brother known for his kindness, charity, and care for the poor, sick, and animals. He is the patron saint of social justice, racial harmony, and public health workers."
+      },
+      {
+        "name": "St. Hubert of Liège",
+        "type": "Bishop",
+        "description": "Born around 656, St. Hubert became the first bishop of Liège in 708 A.D. He is known as the 'Apostle of the Ardennes' and is the patron saint of hunters, mathematicians, and opticians."
+      },
+      {
+        "name": "St. Winifred",
+        "type": "Virgin, Martyr, Abbess",
+        "description": "A Welsh virgin martyr of the 7th century, St. Winifred was miraculously restored to life after being decapitated for refusing a suitor. She later became an abbess and is venerated at Holywell, a significant pilgrimage site."
+      },
+      {
+        "name": "Hieromartyrs Acepsimas, Joseph, and Aeithalas",
+        "type": "Bishop, Priest, Deacon",
+        "description": "These Persian martyrs, Bishop Acepsimas, Priest Joseph, and Deacon Aeithalas, were leaders in the Christian church who bravely confessed their faith and endured severe tortures under Emperor Sapor in the 4th century."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Culture Day (Japan)",
+        "description": "A Japanese national holiday established in 1948 to promote culture, the arts, and academic achievement, coinciding with Emperor Meiji's birthday."
+      },
+      {
+        "name": "Dominican Independence Day",
+        "description": "This day commemorates Dominica's independence from British rule on November 3, 1978."
+      },
+      {
+        "name": "One Health Day",
+        "description": "One Health Day promotes worldwide efforts to integrate health disciplines that impact humans, animals, and the environment, recognizing their interconnectedness."
+      },
+      {
+        "name": "World Jellyfish Day",
+        "description": "This day celebrates the ancient invertebrate, the jellyfish, encouraging learning and appreciation for these unique aquatic animals."
+      },
+      {
+        "name": "International Stress Awareness Day",
+        "description": "Observed on November 3, this day highlights the importance of managing stress for mental and physical well-being."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Leave the matter of religion to the family altar, the church, and the private school supported entirely by private contribution. Keep church and state forever separate.",
+      "author": "Ulysses S. Grant",
+      "context": "On November 3, 1868, Ulysses S. Grant was elected the 18th President of the United States, a significant act in American political history."
+    },
+    "motivationalQuote": {
+      "text": "I remain just one thing, and one thing only — and that is a clown. It places me on a far higher plane than any politician.",
+      "author": "Charlie Chaplin"
+    },
+    "births": [
+      {
+        "name": "Stephen F. Austin",
+        "description": "Known as the 'Father of Texas,' Stephen F. Austin was an American empresario who led the second, and ultimately successful, colonization of the region by bringing 300 families from the United States to Texas.",
+        "year": "1793"
+      },
+      {
+        "name": "Anna Wintour",
+        "description": "A British-American journalist, Anna Wintour has served as the editor-in-chief of Vogue since 1988 and global chief content officer for Condé Nast since 2020.",
+        "year": "1949"
+      },
+      {
+        "name": "Dolph Lundgren",
+        "description": "A Swedish actor, filmmaker, and martial artist, Dolph Lundgren is known for his roles in action films, most notably as Ivan Drago in 'Rocky IV'.",
+        "year": "1957"
+      }
+    ],
+    "events": [
+      {
+        "title": "Panama Declares Independence",
+        "description": "With encouragement from the United States, Panama declared its independence from Colombia, a pivotal moment that paved the way for the construction of the Panama Canal.",
+        "year": "1903"
+      },
+      {
+        "title": "SOS Distress Signal Adopted",
+        "description": "The SOS distress signal (three dots, three dashes, three dots) was officially adopted as the international radiotelegraph distress signal at the International Radiotelegraph Convention in Berlin.",
+        "year": "1906"
+      },
+      {
+        "title": "Sputnik 2 Launches Laika into Orbit",
+        "description": "The Soviet Union launched Sputnik 2, carrying the dog Laika, making her the first living creature to orbit the Earth and marking a significant milestone in space exploration.",
+        "year": "1957"
+      },
+      {
+        "title": "Mariner 10 Launches to Mercury",
+        "description": "NASA launched Mariner 10, which became the first space probe to reach the planet Mercury, providing groundbreaking close-up images and data on the planet's atmosphere and magnetic field.",
+        "year": "1973"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Culture Day (Japan)",
+      "teaser": "A Japanese national holiday established in 1948 to promote culture, the arts, and academic achievement, coinciding with Emperor Meiji's birthday."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Martinho de Porres",
+        "type": "Irmão leigo",
+        "description": "Nascido no Peru em 1579, São Martinho de Porres foi um irmão leigo dominicano conhecido por sua bondade, caridade e cuidado com os pobres, doentes e animais. Ele é o santo padroeiro da justiça social, harmonia racial e trabalhadores da saúde pública."
+      },
+      {
+        "name": "Santo Huberto de Liège",
+        "type": "Bispo",
+        "description": "Nascido por volta de 656, Santo Huberto tornou-se o primeiro bispo de Liège em 708 d.C. Ele é conhecido como o 'Apóstolo das Ardenas' e é o santo padroeiro dos caçadores, matemáticos e oculistas."
+      },
+      {
+        "name": "Santa Winifred",
+        "type": "Virgem, Mártir, Abadessa",
+        "description": "Uma virgem mártir galesa do século VII, Santa Winifred foi milagrosamente restaurada à vida após ser decapitada por recusar um pretendente. Mais tarde, tornou-se abadessa e é venerada em Holywell, um importante local de peregrinação."
+      },
+      {
+        "name": "Hieromártires Acepsimas, José e Aeithalas",
+        "type": "Bispo, Sacerdote, Diácono",
+        "description": "Estes mártires persas, o Bispo Acepsimas, o Sacerdote José e o Diácono Aeithalas, foram líderes na igreja cristã que corajosamente confessaram sua fé e suportaram torturas severas sob o Imperador Sapor no século IV."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Cultura (Japão)",
+        "description": "Um feriado nacional japonês estabelecido em 1948 para promover a cultura, as artes e o desempenho acadêmico, coincidindo com o aniversário do Imperador Meiji."
+      },
+      {
+        "name": "Dia da Independência da Dominica",
+        "description": "Este dia comemora a independência da Dominica do domínio britânico em 3 de novembro de 1978."
+      },
+      {
+        "name": "Dia Uma Saúde",
+        "description": "O Dia Uma Saúde promove esforços mundiais para integrar disciplinas da saúde que impactam humanos, animais e o meio ambiente, reconhecendo sua interconexão."
+      },
+      {
+        "name": "Dia Mundial da Água-Viva",
+        "description": "Este dia celebra o antigo invertebrado, a água-viva, incentivando o aprendizado e a apreciação por esses animais aquáticos únicos."
+      },
+      {
+        "name": "Dia Internacional de Conscientização sobre o Estresse",
+        "description": "Observado em 3 de novembro, este dia destaca a importância de gerenciar o estresse para o bem-estar mental e físico."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Deixem a questão da religião para o altar familiar, a igreja e a escola particular mantida inteiramente por contribuição privada. Mantenham a igreja e o estado separados para sempre.",
+      "author": "Ulysses S. Grant",
+      "context": "Em 3 de novembro de 1868, Ulysses S. Grant foi eleito o 18º Presidente dos Estados Unidos, um ato significativo na história política americana."
+    },
+    "motivationalQuote": {
+      "text": "Eu continuo sendo apenas uma coisa, e uma coisa só — e isso é um palhaço. Isso me coloca num plano muito mais elevado do que qualquer político.",
+      "author": "Charlie Chaplin"
+    },
+    "births": [
+      {
+        "name": "Stephen F. Austin",
+        "description": "Conhecido como o 'Pai do Texas', Stephen F. Austin foi um empresário americano que liderou a segunda, e finalmente bem-sucedida, colonização da região ao trazer 300 famílias dos Estados Unidos para o Texas.",
+        "year": "1793"
+      },
+      {
+        "name": "Anna Wintour",
+        "description": "Jornalista britânico-americana, Anna Wintour atua como editora-chefe da Vogue desde 1988 e diretora de conteúdo global da Condé Nast desde 2020.",
+        "year": "1949"
+      },
+      {
+        "name": "Dolph Lundgren",
+        "description": "Ator, cineasta e artista marcial sueco, Dolph Lundgren é conhecido por seus papéis em filmes de ação, notavelmente como Ivan Drago em 'Rocky IV'.",
+        "year": "1957"
+      }
+    ],
+    "events": [
+      {
+        "title": "Panamá Declara Independência",
+        "description": "Com o encorajamento dos Estados Unidos, o Panamá declarou sua independência da Colômbia, um momento crucial que abriu caminho para a construção do Canal do Panamá.",
+        "year": "1903"
+      },
+      {
+        "title": "Sinal de Socorro SOS Adotado",
+        "description": "O sinal de socorro SOS (três pontos, três traços, três pontos) foi oficialmente adotado como o sinal internacional de socorro radiotelegráfico na Convenção Internacional de Radiotelegrafia em Berlim.",
+        "year": "1906"
+      },
+      {
+        "title": "Sputnik 2 Lança Laika em Órbita",
+        "description": "A União Soviética lançou o Sputnik 2, levando a cadela Laika, tornando-a a primeira criatura viva a orbitar a Terra e marcando um marco significativo na exploração espacial.",
+        "year": "1957"
+      },
+      {
+        "title": "Mariner 10 Lançado para Mercúrio",
+        "description": "A NASA lançou o Mariner 10, que se tornou a primeira sonda espacial a alcançar o planeta Mercúrio, fornecendo imagens em close-up e dados inovadores sobre a atmosfera e o campo magnético do planeta.",
+        "year": "1973"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia da Cultura (Japão)",
+      "teaser": "Um feriado nacional japonês estabelecido em 1948 para promover a cultura, as artes e o desempenho acadêmico, coincidindo com o aniversário do Imperador Meiji."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Martí de Porres",
+        "type": "Germà llegat",
+        "description": "Nascut al Perú el 1579, Sant Martí de Porres va ser un germà llegat dominic conegut per la seva bondat, caritat i cura pels pobres, malalts i animals. És el sant patró de la justícia social, l'harmonia racial i els treballadors de la salut pública."
+      },
+      {
+        "name": "Sant Hubert de Lieja",
+        "type": "Bisbe",
+        "description": "Nascut al voltant del 656, Sant Hubert es va convertir en el primer bisbe de Lieja l'any 708 d.C. És conegut com l''Apòstol de les Ardenes' i és el sant patró dels caçadors, matemàtics i òptics."
+      },
+      {
+        "name": "Santa Winefrida",
+        "type": "Verge, Màrtir, Abadessa",
+        "description": "Una verge màrtir gal·lesa del segle VII, Santa Winifred va ser miraculosament restaurada a la vida després de ser decapitada per rebutjar un pretendent. Més tard es va convertir en abadessa i és venerada a Holywell, un important lloc de peregrinació."
+      },
+      {
+        "name": "Hieromàrtirs Acepsimes, Josep i Aeithalas",
+        "type": "Bisbe, Sacerdot, Diaca",
+        "description": "Aquests màrtirs perses, el bisbe Acepsimes, el sacerdot Josep i el diaca Aeithalas, van ser líders de l'església cristiana que van confessar valerosament la seva fe i van suportar tortures severes sota l'emperador Sapor al segle IV."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Cultura (Japó)",
+        "description": "Una festa nacional japonesa establerta el 1948 per promoure la cultura, les arts i l'assoliment acadèmic, que coincideix amb l'aniversari de l'Emperador Meiji."
+      },
+      {
+        "name": "Dia de la Independència de Dominica",
+        "description": "Aquest dia commemora la independència de Dominica del domini britànic el 3 de novembre de 1978."
+      },
+      {
+        "name": "Dia de la Salut Única",
+        "description": "El Dia de la Salut Única promou esforços a tot el món per integrar disciplines de salut que impacten humans, animals i el medi ambient, reconeixent la seva interconnexió."
+      },
+      {
+        "name": "Dia Mundial de les Meduses",
+        "description": "Aquest dia celebra l'antic invertebrat, la medusa, fomentant l'aprenentatge i l'apreciació per aquests animals aquàtics únics."
+      },
+      {
+        "name": "Dia Internacional de Conscienciació sobre l'Estrès",
+        "description": "Observat el 3 de novembre, aquest dia destaca la importància de gestionar l'estrès per al benestar mental i físic."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Deixeu l'assumpte de la religió a l'altar familiar, a l'església i a l'escola privada íntegrament sostinguda per contribució privada. Mantingueu l'església i l'estat separats per sempre.",
+      "author": "Ulysses S. Grant",
+      "context": "El 3 de novembre de 1868, Ulysses S. Grant va ser elegit 18è President dels Estats Units, un acte significatiu en la història política americana."
+    },
+    "motivationalQuote": {
+      "text": "Continuo sent una cosa, i només una cosa: un pallasso. Això em col·loca en un pla molt més elevat que qualsevol polític.",
+      "author": "Charlie Chaplin"
+    },
+    "births": [
+      {
+        "name": "Stephen F. Austin",
+        "description": "Conegut com el 'Pare de Texas', Stephen F. Austin va ser un empresari americà que va liderar la segona, i finalment exitosa, colonització de la regió portant 300 famílies dels Estats Units a Texas.",
+        "year": "1793"
+      },
+      {
+        "name": "Anna Wintour",
+        "description": "Periodista britànica-americana, Anna Wintour ha exercit com a redactora en cap de Vogue des del 1988 i cap global de continguts per a Condé Nast des del 2020.",
+        "year": "1949"
+      },
+      {
+        "name": "Dolph Lundgren",
+        "description": "Actor, cineasta i artista marcial suec, Dolph Lundgren és conegut pels seus papers en pel·lícules d'acció, especialment com Ivan Drago a 'Rocky IV'.",
+        "year": "1957"
+      }
+    ],
+    "events": [
+      {
+        "title": "Panamà Declara la Independència",
+        "description": "Amb l'estímul dels Estats Units, Panamà va declarar la seva independència de Colòmbia, un moment crucial que va obrir el camí per a la construcció del Canal de Panamà.",
+        "year": "1903"
+      },
+      {
+        "title": "Senyal de Socors SOS Adoptat",
+        "description": "El senyal de socors SOS (tres punts, tres ratlles, tres punts) va ser adoptat oficialment com el senyal internacional de socors radiotelegràfic a la Convenció Radiotelegràfica Internacional de Berlín.",
+        "year": "1906"
+      },
+      {
+        "title": "Sputnik 2 Llança la Laika a l'Òrbita",
+        "description": "La Unió Soviètica va llançar l'Sputnik 2, portant la gossa Laika, convertint-la en la primera criatura viva a orbitar la Terra i marcant una fita significativa en l'exploració espacial.",
+        "year": "1957"
+      },
+      {
+        "title": "Mariner 10 es Llença cap a Mercuri",
+        "description": "La NASA va llançar la Mariner 10, que es va convertir en la primera sonda espacial a arribar al planeta Mercuri, proporcionant imatges de primer pla i dades innovadores sobre l'atmosfera i el camp magnètic del planeta.",
+        "year": "1973"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia de la Cultura (Japó)",
+      "teaser": "Una festa nacional japonesa establerta el 1948 per promoure la cultura, les arts i l'assoliment acadèmic, que coincideix amb l'aniversari de l'Emperador Meiji."
+    }
+  }
+}
