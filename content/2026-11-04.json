@@ -1,0 +1,327 @@
+{
+  "date": "2026-11-04",
+  "es": {
+    "saints": [
+      {
+        "name": "San Carlos Borromeo",
+        "type": "Obispo, Cardenal",
+        "description": "Una figura prominente en la Contrarreforma del siglo XVI, San Carlos Borromeo fue conocido por su servicio a los pobres, la educación católica y por abrir el primer seminario para educar mejor al clero."
+      },
+      {
+        "name": "Venerable Joannicio el Grande",
+        "type": "Ermitaño",
+        "description": "Un santo ortodoxo nacido en Bitinia en 752, Joannicio fue conocido por su sabiduría espiritual, milagros de curación y por liberar a cautivos griegos de prisión."
+      },
+      {
+        "name": "Santos Vital y Agrícola",
+        "type": "Mártires",
+        "description": "Estos dos santos fueron martirizados en Bolonia, Italia, durante las persecuciones de Diocleciano alrededor del año 304 d.C."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Conciencia sobre el Estrés",
+        "description": "Celebrado el primer miércoles de noviembre, este día fomenta la reflexión sobre cómo el estrés afecta las vidas y cómo los individuos pueden gestionarlo."
+      },
+      {
+        "name": "Día Nacional de la Cena Asada",
+        "description": "Originario de una tradición británica, este día se celebra internacionalmente como una ocasión para que los amantes de la comida disfruten de un reconfortante plato abundante y cocinado a fuego lento."
+      },
+      {
+        "name": "Día Nacional del Caramelo",
+        "description": "Una celebración culinaria popular en los Estados Unidos, que anima a la gente a disfrutar de sus golosinas favoritas."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“Lo que le hacemos a la red de la vida, nos lo hacemos a nosotros mismos.”",
+      "author": "Jane Goodall",
+      "context": "El 4 de noviembre de 1960, la primatóloga Jane Goodall realizó una observación revolucionaria al presenciar a un chimpancé fabricando y usando herramientas, lo que desafió la creencia arraigada de que la fabricación de herramientas era exclusiva de los humanos."
+    },
+    "motivationalQuote": {
+      "text": "“Debes hacer aquello que crees que no puedes hacer.”",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Matthew McConaughey",
+        "description": "Actor estadounidense conocido por sus diversos papeles en comedias románticas, dramas y películas aclamadas como 'Dallas Buyers Club', por la que ganó un Premio de la Academia.",
+        "year": "1969"
+      },
+      {
+        "name": "Sean 'Diddy' Combs",
+        "description": "Rapero, productor musical y empresario estadounidense que fundó Bad Boy Records y ha ganado múltiples premios Grammy.",
+        "year": "1969"
+      },
+      {
+        "name": "Walter Cronkite",
+        "description": "Periodista de radio y televisión estadounidense que fue presentador de CBS Evening News durante 19 años y fue ampliamente considerado como 'el hombre más confiable de América'.",
+        "year": "1916"
+      }
+    ],
+    "events": [
+      {
+        "title": "Descubrimiento de la Entrada a la Tumba de Tutankamón",
+        "description": "El 4 de noviembre de 1922, el arqueólogo Howard Carter descubrió la entrada a la tumba, en gran parte intacta, del faraón egipcio Tutankamón, un hallazgo arqueológico monumental.",
+        "year": "1922"
+      },
+      {
+        "title": "Observación de la Fabricación de Herramientas por Chimpancés de Jane Goodall",
+        "description": "En 1960, Jane Goodall observó chimpancés en Tanzania creando y utilizando herramientas, un descubrimiento que cambió profundamente la comprensión científica de la inteligencia y el comportamiento animal.",
+        "year": "1960"
+      },
+      {
+        "title": "Entrada en Vigor del Acuerdo de París",
+        "description": "El histórico Acuerdo de París sobre el cambio climático, un tratado internacional legalmente vinculante, entró oficialmente en vigor el 4 de noviembre de 2016, comprometiendo a casi 200 países a combatir el calentamiento global.",
+        "year": "2016"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de la Conciencia sobre el Estrés",
+      "teaser": "Celebrado el primer miércoles de noviembre, este día fomenta la reflexión sobre cómo el estrés afecta las vidas y cómo los individuos pueden gestionarlo."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Charles Borromeo",
+        "type": "Bishop, Cardinal",
+        "description": "A prominent figure in the 16th-century Counter-Reformation, Saint Charles Borromeo was known for his service to the poor, Catholic education, and opening the first seminary to better educate the clergy."
+      },
+      {
+        "name": "Venerable Joannicius the Great",
+        "type": "Hermit",
+        "description": "An Orthodox saint born in Bithynia in 752, Joannicius was known for his spiritual wisdom, miracles of healing, and leading Greek captives from prison."
+      },
+      {
+        "name": "Saints Vitalis and Agricola",
+        "type": "Martyrs",
+        "description": "These two saints were martyred in Bologna, Italy, during the persecutions of Diocletian around 304 AD."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Stress Awareness Day",
+        "description": "Observed on the first Wednesday of November, this day encourages reflection on how stress affects lives and how individuals can manage it."
+      },
+      {
+        "name": "National Roast Dinner Day",
+        "description": "Originating from a British tradition, this day is celebrated internationally as an occasion for food lovers to enjoy hearty, slow-cooked comfort food."
+      },
+      {
+        "name": "National Candy Day",
+        "description": "A popular food observance in the United States, encouraging people to indulge in their favorite sweet treats."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“What we do to the web of life, we do to ourselves.”",
+      "author": "Jane Goodall",
+      "context": "On November 4, 1960, primatologist Jane Goodall made a groundbreaking observation by witnessing a chimpanzee making and using tools, which challenged the long-held belief that tool-making was exclusive to humans."
+    },
+    "motivationalQuote": {
+      "text": "“You must do the thing you think you cannot do.”",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Matthew McConaughey",
+        "description": "An American actor known for his diverse roles in romantic comedies, dramas, and acclaimed films like 'Dallas Buyers Club,' for which he won an Academy Award.",
+        "year": "1969"
+      },
+      {
+        "name": "Sean 'Diddy' Combs",
+        "description": "An American rapper, record producer, and entrepreneur who founded Bad Boy Records and has won multiple Grammy Awards.",
+        "year": "1969"
+      },
+      {
+        "name": "Walter Cronkite",
+        "description": "An American broadcast journalist who served as the anchorman for the CBS Evening News for 19 years and was widely regarded as 'the most trusted man in America'.",
+        "year": "1916"
+      }
+    ],
+    "events": [
+      {
+        "title": "Discovery of Tutankhamun's Tomb Entrance",
+        "description": "On November 4, 1922, archaeologist Howard Carter discovered the entrance to the largely intact tomb of the ancient Egyptian pharaoh Tutankhamun, a monumental archaeological find.",
+        "year": "1922"
+      },
+      {
+        "title": "Jane Goodall's Chimpanzee Tool-Making Observation",
+        "description": "In 1960, Jane Goodall observed chimpanzees in Tanzania creating and using tools, a discovery that profoundly changed the scientific understanding of animal intelligence and behavior.",
+        "year": "1960"
+      },
+      {
+        "title": "Paris Agreement Enters into Force",
+        "description": "The historic Paris Agreement on climate change, a legally binding international treaty, officially entered into force on November 4, 2016, committing nearly 200 countries to combat global warming.",
+        "year": "2016"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Stress Awareness Day",
+      "teaser": "Observed on the first Wednesday of November, this day encourages reflection on how stress affects lives and how individuals can manage it."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Carlos Borromeu",
+        "type": "Bispo, Cardeal",
+        "description": "Figura proeminente na Contrarreforma do século XVI, São Carlos Borromeu era conhecido pelo seu serviço aos pobres, pela educação católica e por ter fundado o primeiro seminário para melhor educar o clero."
+      },
+      {
+        "name": "Venerável Joannício, o Grande",
+        "type": "Eremita",
+        "description": "Um santo ortodoxo nascido na Bitínia em 752, Joannício era conhecido pela sua sabedoria espiritual, milagres de cura e por libertar cativos gregos da prisão."
+      },
+      {
+        "name": "Santos Vital e Agrícola",
+        "type": "Mártires",
+        "description": "Estes dois santos foram martirizados em Bolonha, Itália, durante as perseguições de Diocleciano por volta de 304 d.C."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Conscientização do Estresse",
+        "description": "Celebrado na primeira quarta-feira de novembro, este dia incentiva a reflexão sobre como o estresse afeta as vidas e como os indivíduos podem geri-lo."
+      },
+      {
+        "name": "Dia Nacional do Jantar Assado",
+        "description": "Originário de uma tradição britânica, este dia é celebrado internacionalmente como uma ocasião para os amantes da comida desfrutarem de uma refeição reconfortante, farta e cozinhada lentamente."
+      },
+      {
+        "name": "Dia Nacional do Doce",
+        "description": "Uma celebração culinária popular nos Estados Unidos, que incentiva as pessoas a deliciarem-se com os seus doces favoritos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“O que fazemos à teia da vida, fazemos a nós mesmos.”",
+      "author": "Jane Goodall",
+      "context": "Em 4 de novembro de 1960, a primatóloga Jane Goodall fez uma observação inovadora ao testemunhar um chimpanzé a fazer e usar ferramentas, o que desafiou a crença de longa data de que a fabricação de ferramentas era exclusiva dos humanos."
+    },
+    "motivationalQuote": {
+      "text": "“Deves fazer aquilo que achas que não consegues fazer.”",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Matthew McConaughey",
+        "description": "Ator americano conhecido pelos seus diversos papéis em comédias românticas, dramas e filmes aclamados como 'Dallas Buyers Club', pelo qual ganhou um Óscar.",
+        "year": "1969"
+      },
+      {
+        "name": "Sean 'Diddy' Combs",
+        "description": "Rapper, produtor musical e empresário americano que fundou a Bad Boy Records e ganhou múltiplos prémios Grammy.",
+        "year": "1969"
+      },
+      {
+        "name": "Walter Cronkite",
+        "description": "Jornalista de televisão americano que foi apresentador do CBS Evening News durante 19 anos e foi amplamente considerado como 'o homem mais confiável da América'.",
+        "year": "1916"
+      }
+    ],
+    "events": [
+      {
+        "title": "Descoberta da Entrada da Tumba de Tutancâmon",
+        "description": "Em 4 de novembro de 1922, o arqueólogo Howard Carter descobriu a entrada para o túmulo em grande parte intacto do antigo faraó egípcio Tutancâmon, uma descoberta arqueológica monumental.",
+        "year": "1922"
+      },
+      {
+        "title": "Observação de Fabricação de Ferramentas por Chimpanzés de Jane Goodall",
+        "description": "Em 1960, Jane Goodall observou chimpanzés na Tanzânia a criar e usar ferramentas, uma descoberta que mudou profundamente a compreensão científica da inteligência e do comportamento animal.",
+        "year": "1960"
+      },
+      {
+        "title": "Acordo de Paris Entra em Vigor",
+        "description": "O histórico Acordo de Paris sobre as alterações climáticas, um tratado internacional legalmente vinculativo, entrou oficialmente em vigor em 4 de novembro de 2016, comprometendo quase 200 países a combater o aquecimento global.",
+        "year": "2016"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional da Conscientização do Estresse",
+      "teaser": "Celebrado na primeira quarta-feira de novembro, este dia incentiva a reflexão sobre como o estresse afeta as vidas e como os indivíduos podem geri-lo."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Carles Borromeu",
+        "type": "Bisbe, Cardenal",
+        "description": "Una figura prominent a la Contrareforma del segle XVI, Sant Carles Borromeu va ser conegut pel seu servei als pobres, l'educació catòlica i l'obertura del primer seminari per a una millor formació del clergat."
+      },
+      {
+        "name": "Venerable Joannici el Gran",
+        "type": "Ermità",
+        "description": "Un sant ortodox nascut a Bitínia l'any 752, Joannici era conegut per la seva saviesa espiritual, els miracles de curació i per alliberar captius grecs de la presó."
+      },
+      {
+        "name": "Sants Vital i Agrícola",
+        "type": "Màrtirs",
+        "description": "Aquests dos sants van ser martiritzats a Bolonya, Itàlia, durant les persecucions de Dioclecià al voltant de l'any 304 dC."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la Conscienciació sobre l'Estrès",
+        "description": "Observat el primer dimecres de novembre, aquest dia encoratja la reflexió sobre com l'estrès afecta les vides i com els individus el poden gestionar."
+      },
+      {
+        "name": "Dia Nacional del Rostit",
+        "description": "Amb origen en una tradició britànica, aquest dia se celebra internacionalment com una ocasió perquè els amants del menjar gaudeixin d'àpats reconfortants, substanciosos i de cocció lenta."
+      },
+      {
+        "name": "Dia Nacional dels Dolços",
+        "description": "Una popular celebració gastronòmica als Estats Units, que encoratja la gent a gaudir dels seus dolços preferits."
+      }
+    ],
+    "historicalQuote": {
+      "text": "«El que fem a la xarxa de la vida, ens ho fem a nosaltres mateixos.»",
+      "author": "Jane Goodall",
+      "context": "El 4 de novembre de 1960, la primatòloga Jane Goodall va fer una observació pionera en presenciar un ximpanzé fabricant i utilitzant eines, fet que va desafiar la creença de llarga data que la fabricació d'eines era exclusiva dels humans."
+    },
+    "motivationalQuote": {
+      "text": "«Has de fer allò que creus que no pots fer.»",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Matthew McConaughey",
+        "description": "Un actor nord-americà conegut pels seus diversos papers en comèdies romàntiques, drames i pel·lícules aclamades com 'Dallas Buyers Club', per la qual va guanyar un Oscar.",
+        "year": "1969"
+      },
+      {
+        "name": "Sean 'Diddy' Combs",
+        "description": "Un raper, productor discogràfic i empresari nord-americà que va fundar Bad Boy Records i ha guanyat múltiples premis Grammy.",
+        "year": "1969"
+      },
+      {
+        "name": "Walter Cronkite",
+        "description": "Un periodista de televisió nord-americà que va ser presentador de les notícies del vespre de la CBS durant 19 anys i va ser àmpliament considerat com 'l'home més fiable d'Amèrica'.",
+        "year": "1916"
+      }
+    ],
+    "events": [
+      {
+        "title": "Descobriment de l'entrada a la tomba de Tutankamon",
+        "description": "El 4 de novembre de 1922, l'arqueòleg Howard Carter va descobrir l'entrada a la tomba, majoritàriament intacta, de l'antic faraó egipci Tutankamon, una troballa arqueològica monumental.",
+        "year": "1922"
+      },
+      {
+        "title": "Observació de Jane Goodall sobre la fabricació d'eines per part dels ximpanzés",
+        "description": "El 1960, Jane Goodall va observar ximpanzés a Tanzània creant i utilitzant eines, un descobriment que va canviar profundament la comprensió científica de la intel·ligència i el comportament animal.",
+        "year": "1960"
+      },
+      {
+        "title": "L'Acord de París entra en vigor",
+        "description": "L'històric Acord de París sobre el canvi climàtic, un tractat internacional jurídicament vinculant, va entrar oficialment en vigor el 4 de novembre de 2016, comprometent gairebé 200 països a combatre l'escalfament global.",
+        "year": "2016"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de la Conscienciació sobre l'Estrès",
+      "teaser": "Observat el primer dimecres de novembre, aquest dia encoratja la reflexió sobre com l'estrès afecta les vides i com els individus el poden gestionar."
+    }
+  }
+}
