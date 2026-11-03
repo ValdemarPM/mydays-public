@@ -1,0 +1,291 @@
+{
+  "date": "2026-11-05",
+  "es": {
+    "saints": [
+      {
+        "name": "San Zacarías",
+        "type": "Sacerdote y Profeta",
+        "description": "Padre de San Juan Bautista y esposo de Santa Isabel, Zacarías fue un sacerdote en el Templo de Jerusalén a quien se le privó del habla por dudar de la profecía del Arcángel Gabriel sobre el nacimiento de su hijo. Es conmemorado en este día tanto en las tradiciones católica como ortodoxa."
+      },
+      {
+        "name": "Santa Isabel",
+        "type": "Matriarca",
+        "description": "Madre de San Juan Bautista y prima de la Virgen María, Isabel concibió en su vejez, un evento milagroso predicho por el Arcángel Gabriel. Su saludo a María está famosamente incorporado en la oración del Ave María."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Noche de Guy Fawkes (Noche de las Hogueras)",
+        "description": "Conmemorada principalmente en Gran Bretaña, esta observancia anual marca el frustrado complot de la pólvora en 1605, un intento de conspiradores católicos, incluyendo a Guy Fawkes, de volar las Casas del Parlamento y asesinar al Rey Jacobo I."
+      },
+      {
+        "name": "Día Mundial de Concienciación sobre los Tsunamis",
+        "description": "Observado globalmente, este día busca crear conciencia sobre los tsunamis y promover enfoques innovadores para reducir sus riesgos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Hace años reconocí mi parentesco con todos los seres vivos, y decidí que no era ni un poquito mejor que el más humilde de la tierra. Dije entonces y digo ahora, que mientras exista una clase baja, yo estoy en ella; mientras exista un elemento criminal, yo soy parte de él; mientras haya un alma en prisión, yo no soy libre.",
+      "author": "Eugene V. Debs",
+      "context": "Eugene V. Debs, un influyente líder sindical estadounidense y candidato socialista a la presidencia de EE. UU. en cinco ocasiones, nació el 5 de noviembre de 1855. Esta cita refleja su compromiso de por vida con la justicia social y la igualdad."
+    },
+    "motivationalQuote": {
+      "text": "A menos que intentes hacer algo más allá de lo que ya dominas, nunca crecerás.",
+      "author": "Ralph Waldo Emerson"
+    },
+    "births": [
+      {
+        "name": "Eugene V. Debs",
+        "description": "Un líder sindical estadounidense, uno de los miembros fundadores de Industrial Workers of the World (IWW), y cinco veces candidato del Partido Socialista de América a la Presidencia de los Estados Unidos.",
+        "year": "1855"
+      },
+      {
+        "name": "Art Garfunkel",
+        "description": "Un cantante, compositor y poeta estadounidense, mejor conocido como la mitad del dúo de folk-rock Simon & Garfunkel.",
+        "year": "1941"
+      },
+      {
+        "name": "Tatum O'Neal",
+        "description": "Una actriz estadounidense que, a los 10 años, se convirtió en la persona más joven en ganar un Premio de la Academia competitivo por su papel en 'Paper Moon'.",
+        "year": "1963"
+      }
+    ],
+    "events": [
+      {
+        "title": "Concedida la primera patente de EE. UU. para un automóvil",
+        "description": "George Selden obtuvo la primera patente estadounidense para un automóvil, un hito significativo en la historia automotriz.",
+        "year": "1895"
+      },
+      {
+        "title": "NBC Estrena 'The Nat King Cole Show'",
+        "description": "NBC lanzó 'The Nat King Cole Show', convirtiéndolo en el primer programa presentado por un afroamericano en la televisión nacional, un momento innovador en la radiodifusión y los derechos civiles.",
+        "year": "1956"
+      },
+      {
+        "title": "India Lanza Misión Orbitador a Marte",
+        "description": "India lanzó con éxito su primera nave espacial interplanetaria, la Misión Orbitador a Marte (Mangalyaan), demostrando sus crecientes capacidades en la exploración espacial.",
+        "year": "2013"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Noche de Guy Fawkes (Noche de las Hogueras)",
+      "teaser": "Conmemorada principalmente en Gran Bretaña, esta observancia anual marca el frustrado complot de la pólvora en 1605, un intento de conspiradores católicos, incluyendo a Guy Fawkes, de volar las Casas del Parlamento y asesinar al Rey Jacobo I."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Zachary",
+        "type": "Priest and Prophet",
+        "description": "Father of St. John the Baptist and husband of St. Elizabeth, Zachary was a priest in the Temple of Jerusalem who was struck dumb for doubting the Archangel Gabriel's prophecy of his son's birth. He is commemorated on this day in both Catholic and Orthodox traditions."
+      },
+      {
+        "name": "St. Elizabeth",
+        "type": "Matriarch",
+        "description": "Mother of St. John the Baptist and cousin of the Virgin Mary, Elizabeth conceived in her old age, a miraculous event foretold by the Archangel Gabriel. Her greeting to Mary is famously incorporated into the Hail Mary prayer."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Guy Fawkes Night (Bonfire Night)",
+        "description": "Commemorated primarily in Great Britain, this annual observance marks the foiling of the Gunpowder Plot in 1605, an attempt by Catholic conspirators, including Guy Fawkes, to blow up the Houses of Parliament and assassinate King James I."
+      },
+      {
+        "name": "World Tsunami Awareness Day",
+        "description": "Observed globally, this day raises awareness about tsunamis and promotes innovative approaches to reducing their risks."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Years ago I recognized my kinship with all living things, and I made up my mind that I was not one bit better than the meanest on the earth. I said then and I say now, that while there is a lower class, I am in it; while there is a criminal element, I am of it; while there is a soul in prison, I am not free.",
+      "author": "Eugene V. Debs",
+      "context": "Eugene V. Debs, an influential American labor leader and five-time Socialist candidate for U.S. president, was born on November 5, 1855. This quote reflects his lifelong commitment to social justice and equality."
+    },
+    "motivationalQuote": {
+      "text": "Unless you try to do something beyond what you have already mastered, you will never grow.",
+      "author": "Ralph Waldo Emerson"
+    },
+    "births": [
+      {
+        "name": "Eugene V. Debs",
+        "description": "An American union leader, one of the founding members of the Industrial Workers of the World (IWW), and five times the candidate of the Socialist Party of America for President of the United States.",
+        "year": "1855"
+      },
+      {
+        "name": "Art Garfunkel",
+        "description": "An American singer, songwriter, and poet, best known as half of the folk-rock duo Simon & Garfunkel.",
+        "year": "1941"
+      },
+      {
+        "name": "Tatum O'Neal",
+        "description": "An American actress who, at age 10, became the youngest person ever to win a competitive Academy Award for her role in 'Paper Moon.'",
+        "year": "1963"
+      }
+    ],
+    "events": [
+      {
+        "title": "First U.S. Patent for an Automobile Awarded",
+        "description": "George Selden was granted the first U.S. patent for an automobile, a significant milestone in automotive history.",
+        "year": "1895"
+      },
+      {
+        "title": "NBC Debuts 'The Nat King Cole Show'",
+        "description": "NBC launched 'The Nat King Cole Show,' making it the first program hosted by a Black American on national television, a groundbreaking moment in broadcasting and civil rights.",
+        "year": "1956"
+      },
+      {
+        "title": "India Launches Mars Orbiter Mission",
+        "description": "India successfully launched its first interplanetary spacecraft, the Mars Orbiter Mission (Mangalyaan), demonstrating its growing capabilities in space exploration.",
+        "year": "2013"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Guy Fawkes Night (Bonfire Night)",
+      "teaser": "Commemorated primarily in Great Britain, this annual observance marks the foiling of the Gunpowder Plot in 1605, an attempt by Catholic conspirators, including Guy Fawkes, to blow up the Houses of Parliament and assassinate King James I."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Zacarias",
+        "type": "Sacerdote e Profeta",
+        "description": "Pai de São João Batista e marido de Santa Isabel, Zacarias era um sacerdote no Templo de Jerusalém que ficou mudo por duvidar da profecia do Arcanjo Gabriel sobre o nascimento de seu filho. Ele é comemorado neste dia tanto nas tradições católica quanto ortodoxa."
+      },
+      {
+        "name": "Santa Isabel",
+        "type": "Matriarca",
+        "description": "Mãe de São João Batista e prima da Virgem Maria, Isabel concebeu em sua velhice, um evento milagroso predito pelo Arcanjo Gabriel. Sua saudação a Maria é famosamente incorporada na oração da Ave Maria."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Noite de Guy Fawkes (Noite das Fogueiras)",
+        "description": "Comemorada principalmente na Grã-Bretanha, esta observância anual marca a frustração da Conspiração da Pólvora em 1605, uma tentativa de conspiradores católicos, incluindo Guy Fawkes, de explodir as Casas do Parlamento e assassinar o Rei Jaime I."
+      },
+      {
+        "name": "Dia Mundial de Conscientização sobre Tsunamis",
+        "description": "Observado globalmente, este dia busca aumentar a conscientização sobre tsunamis e promover abordagens inovadoras para reduzir seus riscos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Anos atrás, reconheci meu parentesco com todos os seres vivos e decidi que eu não era nem um pouco melhor do que o mais humilde da terra. Disse então e digo agora, que enquanto houver uma classe baixa, eu estarei nela; enquanto houver um elemento criminoso, eu serei dele; enquanto houver uma alma na prisão, eu não sou livre.",
+      "author": "Eugene V. Debs",
+      "context": "Eugene V. Debs, um influente líder trabalhista americano e candidato socialista à presidência dos EUA cinco vezes, nasceu em 5 de novembro de 1855. Esta citação reflete seu compromisso de toda a vida com a justiça social e a igualdade."
+    },
+    "motivationalQuote": {
+      "text": "A menos que você tente fazer algo além do que já dominou, você nunca crescerá.",
+      "author": "Ralph Waldo Emerson"
+    },
+    "births": [
+      {
+        "name": "Eugene V. Debs",
+        "description": "Um líder sindical americano, um dos membros fundadores do Industrial Workers of the World (IWW), e cinco vezes candidato do Partido Socialista da América à Presidência dos Estados Unidos.",
+        "year": "1855"
+      },
+      {
+        "name": "Art Garfunkel",
+        "description": "Um cantor, compositor e poeta americano, mais conhecido como metade da dupla de folk-rock Simon & Garfunkel.",
+        "year": "1941"
+      },
+      {
+        "name": "Tatum O'Neal",
+        "description": "Uma atriz americana que, aos 10 anos, se tornou a pessoa mais jovem a ganhar um Oscar competitivo por seu papel em 'Paper Moon'.",
+        "year": "1963"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeira Patente de Automóvel dos EUA Concedida",
+        "description": "George Selden recebeu a primeira patente de automóvel dos EUA, um marco significativo na história automotiva.",
+        "year": "1895"
+      },
+      {
+        "title": "NBC Estreia 'The Nat King Cole Show'",
+        "description": "A NBC lançou 'The Nat King Cole Show', tornando-o o primeiro programa apresentado por um americano negro na televisão nacional, um momento inovador na radiodifusão e nos direitos civis.",
+        "year": "1956"
+      },
+      {
+        "title": "Índia Lança Missão Orbitador de Marte",
+        "description": "A Índia lançou com sucesso sua primeira espaçonave interplanetária, a Missão Orbitador de Marte (Mangalyaan), demonstrando suas crescentes capacidades na exploração espacial.",
+        "year": "2013"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Noite de Guy Fawkes (Noite das Fogueiras)",
+      "teaser": "Comemorada principalmente na Grã-Bretanha, esta observância anual marca a frustração da Conspiração da Pólvora em 1605, uma tentativa de conspiradores católicos, incluindo Guy Fawkes, de explodir as Casas do Parlamento e assassinar o Rei Jaime I."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Zacaries",
+        "type": "Sacerdot i Profeta",
+        "description": "Pare de Sant Joan Baptista i marit de Santa Elisabet, Zacaries era un sacerdot al Temple de Jerusalem que va quedar mut per dubtar de la profecia de l'Arcàngel Gabriel sobre el naixement del seu fill. És commemorat en aquest dia tant en les tradicions catòlica com ortodoxa."
+      },
+      {
+        "name": "Santa Elisabet",
+        "type": "Matriarca",
+        "description": "Mare de Sant Joan Baptista i cosina de la Verge Maria, Elisabet va concebre en la seva vellesa, un esdeveniment miraculós anunciat per l'Arcàngel Gabriel. La seva salutació a Maria és famosa per ser incorporada a la pregària de l'Ave Maria."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Nit de Guy Fawkes (Nit de les Fogueres)",
+        "description": "Commemorada principalment a Gran Bretanya, aquesta observança anual marca la frustració de la Conspiració de la Pólvora el 1605, un intent de conspiradors catòlics, incloent-hi Guy Fawkes, de fer volar les Cases del Parlament i assassinar el rei Jaume I."
+      },
+      {
+        "name": "Dia Mundial de Sensibilització sobre els Tsunamis",
+        "description": "Observat globalment, aquest dia augmenta la sensibilització sobre els tsunamis i promou enfocaments innovadors per reduir els seus riscos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Fa anys vaig reconèixer el meu parentiu amb tots els éssers vius, i vaig decidir que no era ni una mica millor que el més humil de la terra. Aleshores vaig dir i ara dic, que mentre hi hagi una classe baixa, hi sóc; mentre hi hagi un element criminal, en sóc part; mentre hi hagi una ànima a la presó, jo no sóc lliure.",
+      "author": "Eugene V. Debs",
+      "context": "Eugene V. Debs, un influent líder sindical nord-americà i cinc vegades candidat socialista a la presidència dels EUA, va néixer el 5 de novembre de 1855. Aquesta cita reflecteix el seu compromís de tota la vida amb la justícia social i la igualtat."
+    },
+    "motivationalQuote": {
+      "text": "A menys que intentis fer alguna cosa més enllà del que ja has dominat, mai creixeràs.",
+      "author": "Ralph Waldo Emerson"
+    },
+    "births": [
+      {
+        "name": "Eugene V. Debs",
+        "description": "Un líder sindical nord-americà, un dels membres fundadors dels Treballadors Industrials del Món (IWW), i cinc vegades candidat del Partit Socialista d'Amèrica a la Presidència dels Estats Units.",
+        "year": "1855"
+      },
+      {
+        "name": "Art Garfunkel",
+        "description": "Un cantant, compositor i poeta nord-americà, més conegut com a la meitat del duo de folk-rock Simon & Garfunkel.",
+        "year": "1941"
+      },
+      {
+        "name": "Tatum O'Neal",
+        "description": "Una actriu nord-americana que, als 10 anys, es va convertir en la persona més jove a guanyar un Oscar competitiu pel seu paper a 'Lluna de paper'.",
+        "year": "1963"
+      }
+    ],
+    "events": [
+      {
+        "title": "Concedida la primera patent d'automòbil dels EUA",
+        "description": "A George Selden se li va concedir la primera patent d'automòbil dels EUA, una fita significativa en la història de l'automoció.",
+        "year": "1895"
+      },
+      {
+        "title": "NBC estrena 'The Nat King Cole Show'",
+        "description": "NBC va llançar 'The Nat King Cole Show', convertint-lo en el primer programa presentat per un afroamericà a la televisió nacional, un moment innovador en la radiodifusió i els drets civils.",
+        "year": "1956"
+      },
+      {
+        "title": "Índia llança la Missió Orbital a Mart",
+        "description": "L'Índia va llançar amb èxit la seva primera nau espacial interplanetària, la Missió Orbital a Mart (Mangalyaan), demostrant les seves creixents capacitats en l'exploració espacial.",
+        "year": "2013"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Nit de Guy Fawkes (Nit de les Fogueres)",
+      "teaser": "Commemorada principalment a Gran Bretanya, aquesta observança anual marca la frustració de la Conspiració de la Pólvora el 1605, un intent de conspiradors catòlics, incloent-hi Guy Fawkes, de fer volar les Cases del Parlament i assassinar el rei Jaume I."
+    }
+  }
+}
