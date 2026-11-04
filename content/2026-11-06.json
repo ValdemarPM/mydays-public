@@ -1,0 +1,327 @@
+{
+  "date": "2026-11-06",
+  "es": {
+    "saints": [
+      {
+        "name": "San Leonardo de Noblac",
+        "type": "Ermitaño",
+        "description": "Un noble franco que se hizo ermitaño y es venerado como el santo patrón de los prisioneros y las mujeres de parto."
+      },
+      {
+        "name": "San Pablo el Confesor",
+        "type": "Arzobispo de Constantinopla",
+        "description": "Un obispo de Constantinopla que defendió firmemente la fe nicena contra el arrianismo y sufrió el exilio y el martirio alrededor del año 350 d.C."
+      },
+      {
+        "name": "Venerable Barlaam de Khutyn",
+        "type": "Abad",
+        "description": "Nacido en una familia adinerada, se hizo ermitaño y más tarde fundó un monasterio en el río Volga, en Rusia, donde sirvió como abad."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional para la Prevención de la Explotación del Medio Ambiente en la Guerra y los Conflictos Armados",
+        "description": "Una observancia de las Naciones Unidas para crear conciencia sobre el impacto devastador de la guerra y los conflictos armados en el medio ambiente."
+      },
+      {
+        "name": "Día Nacional del Saxofón",
+        "description": "Celebra la invención del saxofón y honra a su inventor belga, Adolphe Sax, quien nació en este día."
+      },
+      {
+        "name": "Día Nacional del Nacho",
+        "description": "Una observancia estadounidense que celebra el popular aperitivo de totopos cubiertos con queso derretido y otros aderezos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Ojo por ojo solo hará que el mundo entero se quede ciego.",
+      "author": "Mohandas Gandhi",
+      "context": "Mohandas Gandhi, el líder espiritual indio, fue arrestado el 6 de noviembre de 1913 mientras lideraba una marcha de mineros indios en Sudáfrica."
+    },
+    "motivationalQuote": {
+      "text": "El verdadero viaje de descubrimiento no consiste en buscar nuevos paisajes, sino en tener nuevos ojos.",
+      "author": "Marcel Proust"
+    },
+    "births": [
+      {
+        "name": "Adolphe Sax",
+        "description": "Un diseñador de instrumentos y músico belga, más conocido como el inventor del saxofón, patentado en 1846.",
+        "year": "1814"
+      },
+      {
+        "name": "Sally Field",
+        "description": "Una aclamada actriz y directora estadounidense, conocida por sus papeles en películas como 'Norma Rae' y 'Forrest Gump', y series de televisión como 'Gidget'.",
+        "year": "1946"
+      },
+      {
+        "name": "Emma Stone",
+        "description": "Una actriz estadounidense ganadora de un Premio de la Academia, celebrada por sus versátiles actuaciones en películas como 'La La Land' y 'The Help'.",
+        "year": "1988"
+      }
+    ],
+    "events": [
+      {
+        "title": "Abraham Lincoln es elegido Presidente de los EE. UU.",
+        "description": "Abraham Lincoln fue elegido el 16º Presidente de los Estados Unidos, un evento fundamental que llevó a la secesión de los estados del sur y a la Guerra Civil.",
+        "year": "1860"
+      },
+      {
+        "title": "Primer partido intercolegial de fútbol americano",
+        "description": "La Universidad de Rutgers derrotó a la Universidad de Princeton (entonces conocida como el Colegio de Nueva Jersey) 6-4 en el primer partido oficial intercolegial de fútbol americano.",
+        "year": "1869"
+      },
+      {
+        "title": "Primer obispo católico nombrado en EE. UU.",
+        "description": "El Papa Pío VI nombró al Padre John Carroll como el primer obispo católico en los Estados Unidos, designándolo para liderar la Diócesis de Baltimore.",
+        "year": "1789"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional para la Prevención de la Explotación del Medio Ambiente en la Guerra y los Conflictos Armados",
+      "teaser": "Una observancia de las Naciones Unidas para crear conciencia sobre el impacto devastador de la guerra y los conflictos armados en el medio ambiente."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Leonard of Noblac",
+        "type": "Hermit",
+        "description": "A Frankish nobleman who became a hermit and is revered as the patron saint of prisoners and women in labor."
+      },
+      {
+        "name": "Saint Paul the Confessor",
+        "type": "Archbishop of Constantinople",
+        "description": "A bishop of Constantinople who steadfastly defended the Nicene faith against Arianism and suffered exile and martyrdom around 350 AD."
+      },
+      {
+        "name": "Venerable Barlaam of Khutyn",
+        "type": "Abbot",
+        "description": "Born to a wealthy family, he became a hermit and later founded a monastery on the Volga River in Russia, where he served as abbot."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day for Preventing the Exploitation of the Environment in War and Armed Conflict",
+        "description": "A United Nations observance to raise awareness about the devastating impact of war and armed conflict on the environment."
+      },
+      {
+        "name": "National Saxophone Day",
+        "description": "Celebrates the invention of the saxophone and honors its Belgian inventor, Adolphe Sax, who was born on this day."
+      },
+      {
+        "name": "National Nachos Day",
+        "description": "An American observance celebrating the popular snack of tortilla chips covered with melted cheese and other toppings."
+      }
+    ],
+    "historicalQuote": {
+      "text": "An eye for an eye will only make the whole world blind.",
+      "author": "Mohandas Gandhi",
+      "context": "Mohandas Gandhi, the Indian spiritual leader, was arrested on November 6, 1913, while leading a march of Indian miners in South Africa."
+    },
+    "motivationalQuote": {
+      "text": "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.",
+      "author": "Marcel Proust"
+    },
+    "births": [
+      {
+        "name": "Adolphe Sax",
+        "description": "A Belgian instrument designer and musician, best known as the inventor of the saxophone, patented in 1846.",
+        "year": "1814"
+      },
+      {
+        "name": "Sally Field",
+        "description": "An acclaimed American actress and director, known for her roles in films like 'Norma Rae' and 'Forrest Gump', and TV series such as 'Gidget'.",
+        "year": "1946"
+      },
+      {
+        "name": "Emma Stone",
+        "description": "An Academy Award-winning American actress celebrated for her versatile performances in films including 'La La Land' and 'The Help'.",
+        "year": "1988"
+      }
+    ],
+    "events": [
+      {
+        "title": "Abraham Lincoln Elected U.S. President",
+        "description": "Abraham Lincoln was elected the 16th President of the United States, a pivotal event that led to the secession of Southern states and the Civil War.",
+        "year": "1860"
+      },
+      {
+        "title": "First Intercollegiate American Football Game",
+        "description": "Rutgers University defeated Princeton University (then known as the College of New Jersey) 6-4 in the first official intercollegiate American football game.",
+        "year": "1869"
+      },
+      {
+        "title": "First Catholic Bishop Appointed in U.S.",
+        "description": "Pope Pius VI appointed Father John Carroll as the first Catholic Bishop in the United States, designating him to lead the Diocese of Baltimore.",
+        "year": "1789"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Day for Preventing the Exploitation of the Environment in War and Armed Conflict",
+      "teaser": "A United Nations observance to raise awareness about the devastating impact of war and armed conflict on the environment."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Leonardo de Noblac",
+        "type": "Eremita",
+        "description": "Um nobre franco que se tornou eremita e é reverenciado como o santo padroeiro dos prisioneiros e das mulheres em trabalho de parto."
+      },
+      {
+        "name": "São Paulo, o Confessor",
+        "type": "Arcebispo de Constantinopla",
+        "description": "Um bispo de Constantinopla que defendeu firmemente a fé nicena contra o Arianismo e sofreu exílio e martírio por volta de 350 d.C."
+      },
+      {
+        "name": "Venerável Barlaam de Khutyn",
+        "type": "Abade",
+        "description": "Nascido em uma família rica, tornou-se eremita e mais tarde fundou um mosteiro no rio Volga, na Rússia, onde serviu como abade."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional para a Prevenção da Exploração do Meio Ambiente na Guerra e nos Conflitos Armados",
+        "description": "Uma observância das Nações Unidas para aumentar a conscientização sobre o impacto devastador da guerra e dos conflitos armados no meio ambiente."
+      },
+      {
+        "name": "Dia Nacional do Saxofone",
+        "description": "Celebra a invenção do saxofone e homenageia seu inventor belga, Adolphe Sax, que nasceu neste dia."
+      },
+      {
+        "name": "Dia Nacional dos Nachos",
+        "description": "Uma observância americana que celebra o popular lanche de tortilhas cobertas com queijo derretido e outros acompanhamentos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Olho por olho só acabará deixando o mundo inteiro cego.",
+      "author": "Mohandas Gandhi",
+      "context": "Mohandas Gandhi, o líder espiritual indiano, foi preso em 6 de novembro de 1913, enquanto liderava uma marcha de mineradores indianos na África do Sul."
+    },
+    "motivationalQuote": {
+      "text": "A verdadeira viagem de descoberta não consiste em procurar novas paisagens, mas em ter novos olhos.",
+      "author": "Marcel Proust"
+    },
+    "births": [
+      {
+        "name": "Adolphe Sax",
+        "description": "Um designer de instrumentos e músico belga, mais conhecido como o inventor do saxofone, patenteado em 1846.",
+        "year": "1814"
+      },
+      {
+        "name": "Sally Field",
+        "description": "Uma aclamada atriz e diretora americana, conhecida por seus papéis em filmes como 'Norma Rae' e 'Forrest Gump', e séries de TV como 'Gidget'.",
+        "year": "1946"
+      },
+      {
+        "name": "Emma Stone",
+        "description": "Uma atriz americana vencedora do Oscar, celebrada por suas atuações versáteis em filmes como 'La La Land' e 'The Help'.",
+        "year": "1988"
+      }
+    ],
+    "events": [
+      {
+        "title": "Abraham Lincoln Eleito Presidente dos EUA",
+        "description": "Abraham Lincoln foi eleito o 16º Presidente dos Estados Unidos, um evento crucial que levou à secessão dos estados do sul e à Guerra Civil.",
+        "year": "1860"
+      },
+      {
+        "title": "Primeiro Jogo Intercolegial de Futebol Americano",
+        "description": "A Universidade Rutgers derrotou a Universidade de Princeton (então conhecida como o Colégio de Nova Jersey) por 6 a 4 no primeiro jogo oficial intercolegial de futebol americano.",
+        "year": "1869"
+      },
+      {
+        "title": "Primeiro Bispo Católico Nomeado nos EUA",
+        "description": "O Papa Pio VI nomeou o Padre John Carroll como o primeiro Bispo Católico nos Estados Unidos, designando-o para liderar a Diocese de Baltimore.",
+        "year": "1789"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional para a Prevenção da Exploração do Meio Ambiente na Guerra e nos Conflitos Armados",
+      "teaser": "Uma observância das Nações Unidas para aumentar a conscientização sobre o impacto devastador da guerra e dos conflitos armados no meio ambiente."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Lleonard de Noblac",
+        "type": "Eremita",
+        "description": "Un noble franc que es va fer eremita i és venerat com a patró dels presoners i de les dones de part."
+      },
+      {
+        "name": "Sant Pau el Confessor",
+        "type": "Arquebisbe de Constantinoble",
+        "description": "Un bisbe de Constantinoble que va defensar fermament la fe de Nicea contra l'arianisme i va patir l'exili i el martiri al voltant de l'any 350 dC."
+      },
+      {
+        "name": "Venerable Barlaam de Khutyn",
+        "type": "Abat",
+        "description": "Nascut en una família rica, es va fer eremita i més tard va fundar un monestir al riu Volga, a Rússia, on va servir com a abat."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional per a la Prevenció de l'Explotació del Medi Ambient en la Guerra i els Conflictes Armats",
+        "description": "Una commemoració de les Nacions Unides per sensibilitzar sobre l'impacte devastador de la guerra i els conflictes armats en el medi ambient."
+      },
+      {
+        "name": "Dia Nacional del Saxofon",
+        "description": "Commemora la invenció del saxofon i honora el seu inventor belga, Adolphe Sax, que va néixer aquest dia."
+      },
+      {
+        "name": "Dia Nacional dels Nachos",
+        "description": "Una celebració americana de l'popular snack de tortitas de blat de moro cobertes amb formatge fos i altres ingredients."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Una dent per una dent només farà que tot el món es quedi cec.",
+      "author": "Mohandas Gandhi",
+      "context": "Mohandas Gandhi, el líder espiritual indi, va ser arrestat el 6 de novembre de 1913, mentre liderava una marxa de miners indis a Sud-àfrica."
+    },
+    "motivationalQuote": {
+      "text": "El veritable viatge de descobriment no consisteix a buscar nous paisatges, sinó a tenir nous ulls.",
+      "author": "Marcel Proust"
+    },
+    "births": [
+      {
+        "name": "Adolphe Sax",
+        "description": "Dissenyador d'instruments i músic belga, més conegut com l'inventor del saxofon, patentat el 1846.",
+        "year": "1814"
+      },
+      {
+        "name": "Sally Field",
+        "description": "Aclamada actriu i directora americana, coneguda pels seus papers en pel·lícules com 'Norma Rae' i 'Forrest Gump', i sèries de televisió com 'Gidget'.",
+        "year": "1946"
+      },
+      {
+        "name": "Emma Stone",
+        "description": "Actriu americana guanyadora d'un Oscar, celebrada per les seves versàtils actuacions en pel·lícules com 'La La Land' i 'Històries creuades'.",
+        "year": "1988"
+      }
+    ],
+    "events": [
+      {
+        "title": "Abraham Lincoln elegit president dels EUA",
+        "description": "Abraham Lincoln va ser elegit 16è president dels Estats Units, un esdeveniment crucial que va portar a la secessió dels estats del Sud i a la Guerra Civil.",
+        "year": "1860"
+      },
+      {
+        "title": "Primer partit de futbol americà interuniversitari",
+        "description": "La Universitat Rutgers va vèncer la Universitat de Princeton (aleshores coneguda com College of New Jersey) 6-4 en el primer partit oficial de futbol americà interuniversitari.",
+        "year": "1869"
+      },
+      {
+        "title": "Primer bisbe catòlic nomenat als EUA",
+        "description": "El papa Pius VI va nomenar el pare John Carroll com el primer bisbe catòlic dels Estats Units, designant-lo per dirigir la Diòcesi de Baltimore.",
+        "year": "1789"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional per a la Prevenció de l'Explotació del Medi Ambient en la Guerra i els Conflictes Armats",
+      "teaser": "Una commemoració de les Nacions Unides per sensibilitzar sobre l'impacte devastador de la guerra i els conflictes armats en el medi ambient."
+    }
+  }
+}
