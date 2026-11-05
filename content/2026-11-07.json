@@ -1,0 +1,327 @@
+{
+  "date": "2026-11-07",
+  "es": {
+    "saints": [
+      {
+        "name": "San Willibrordo",
+        "type": "Arzobispo de Utrecht y Apóstol de Frisia",
+        "description": "Nacido en Northumbria, fue un monje benedictino que se convirtió en misionero, evangelizando en Frisia y Luxemburgo. Es conocido como el Apóstol de Frisia y el primer Obispo de Utrecht."
+      },
+      {
+        "name": "Santos Treinta y Tres Mártires de Melitene",
+        "type": "Mártires",
+        "description": "Este grupo incluye a San Hierón y a otros que sufrieron el martirio por su fe cristiana en Melitene durante las persecuciones romanas."
+      },
+      {
+        "name": "San Prosdócimo de Padua",
+        "type": "Primer Obispo de Padua",
+        "description": "Considerado el primer obispo de Padua, Italia, se cree que fue enviado por San Pedro Apóstol para evangelizar la región."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Numbat",
+        "description": "Una celebración internacional dedicada a concienciar y celebrar al numbat, un marsupial único nativo de Australia Occidental."
+      },
+      {
+        "name": "Día Internacional de la Física Médica",
+        "description": "Este día destaca las importantes contribuciones de los físicos médicos en la atención sanitaria, asegurando el uso seguro y eficaz de la tecnología en el diagnóstico y tratamiento."
+      },
+      {
+        "name": "Día Nacional de Jugar al Aire Libre",
+        "description": "Celebrado el primer sábado de cada mes, este día anima a la gente a pasar tiempo al aire libre y participar en actividades físicas y juegos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nada en la vida debe ser temido, solo comprendido. Ahora es el momento de comprender más, para que temamos menos.",
+      "author": "Marie Curie",
+      "context": "Marie Curie, una física y química pionera, nació el 7 de noviembre de 1867. Fue la primera mujer en ganar un Premio Nobel y la única persona en ganar Premios Nobel en dos campos científicos diferentes."
+    },
+    "motivationalQuote": {
+      "text": "El coraje no siempre ruge. A veces, el coraje es la voz tranquila al final del día que dice: 'Lo intentaré de nuevo mañana'.",
+      "author": "Mary Anne Radmacher"
+    },
+    "births": [
+      {
+        "name": "Marie Curie",
+        "description": "Una física y química polaca y nacionalizada francesa que realizó investigaciones pioneras sobre la radioactividad, convirtiéndose en la primera mujer en ganar un Premio Nobel.",
+        "year": "1867"
+      },
+      {
+        "name": "León Trotski",
+        "description": "Un revolucionario ruso, teórico marxista y político soviético que desempeñó un papel fundamental en la Revolución de Octubre de 1917.",
+        "year": "1879"
+      },
+      {
+        "name": "Kamal Haasan",
+        "description": "Un aclamado actor, cineasta, bailarín, escritor, productor, cantante de playback y político indio que ha trabajado principalmente en el cine tamil.",
+        "year": "1954"
+      }
+    ],
+    "events": [
+      {
+        "title": "Lewis y Clark llegan al Océano Pacífico",
+        "description": "Después de un viaje desafiante, la Expedición de Lewis y Clark llegó al Océano Pacífico, cumpliendo su misión de explorar el Oeste americano.",
+        "year": "1805"
+      },
+      {
+        "title": "Colorado concede el derecho al voto a las mujeres",
+        "description": "Colorado se convirtió en el primer estado de EE. UU. en conceder a las mujeres el derecho al voto mediante referéndum popular, un paso significativo en el movimiento por el sufragio femenino.",
+        "year": "1893"
+      },
+      {
+        "title": "Ley de Radiodifusión Pública promulgada",
+        "description": "El presidente de EE. UU. Lyndon B. Johnson firmó la Ley de Radiodifusión Pública de 1967, estableciendo la Corporación para la Radiodifusión Pública para financiar la programación educativa no comercial.",
+        "year": "1967"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Mundial del Numbat",
+      "teaser": "Una celebración internacional dedicada a concienciar y celebrar al numbat, un marsupial único nativo de Australia Occidental."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Willibrord",
+        "type": "Archbishop of Utrecht and Apostle of Frisia",
+        "description": "Born in Northumbria, he was a Benedictine monk who became a missionary, evangelizing in Friesland and Luxembourg. He is known as the Apostle of Frisia and the first Bishop of Utrecht."
+      },
+      {
+        "name": "Holy Thirty-Three Martyrs of Melitene",
+        "type": "Martyrs",
+        "description": "This group includes Saint Hieron and others who suffered martyrdom for their Christian faith in Melitene during the Roman persecutions."
+      },
+      {
+        "name": "Saint Prosdocimus of Padua",
+        "type": "First Bishop of Padua",
+        "description": "Considered the first bishop of Padua, Italy, he is believed to have been sent by Saint Peter the Apostle to evangelize the region."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Numbat Day",
+        "description": "An international observance dedicated to raising awareness and celebrating the numbat, a unique marsupial native to Western Australia."
+      },
+      {
+        "name": "International Day of Medical Physics",
+        "description": "This day highlights the important contributions of medical physicists in healthcare, ensuring the safe and effective use of technology in diagnosis and treatment."
+      },
+      {
+        "name": "National Play Outside Day",
+        "description": "Celebrated on the first Saturday of every month, this day encourages people to spend time outdoors and engage in physical activity and play."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+      "author": "Marie Curie",
+      "context": "Marie Curie, a groundbreaking physicist and chemist, was born on November 7, 1867. She was the first woman to win a Nobel Prize and the only person to win Nobel Prizes in two different scientific fields."
+    },
+    "motivationalQuote": {
+      "text": "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
+      "author": "Mary Anne Radmacher"
+    },
+    "births": [
+      {
+        "name": "Marie Curie",
+        "description": "A Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity, becoming the first woman to win a Nobel Prize.",
+        "year": "1867"
+      },
+      {
+        "name": "Leon Trotsky",
+        "description": "A Russian revolutionary, Marxist theorist, and Soviet politician who played a pivotal role in the October Revolution of 1917.",
+        "year": "1879"
+      },
+      {
+        "name": "Kamal Haasan",
+        "description": "An acclaimed Indian actor, filmmaker, dancer, writer, producer, playback singer, and politician who has worked primarily in Tamil cinema.",
+        "year": "1954"
+      }
+    ],
+    "events": [
+      {
+        "title": "Lewis and Clark Reach the Pacific Ocean",
+        "description": "After a challenging journey, the Lewis and Clark Expedition reached the Pacific Ocean, fulfilling their mission of exploring the American West.",
+        "year": "1805"
+      },
+      {
+        "title": "Colorado Grants Women the Right to Vote",
+        "description": "Colorado became the first U.S. state to grant women the right to vote through popular referendum, a significant step in the women's suffrage movement.",
+        "year": "1893"
+      },
+      {
+        "title": "Public Broadcasting Act Signed into Law",
+        "description": "U.S. President Lyndon B. Johnson signed the Public Broadcasting Act of 1967, establishing the Corporation for Public Broadcasting to fund non-commercial educational programming.",
+        "year": "1967"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is World Numbat Day",
+      "teaser": "An international observance dedicated to raising awareness and celebrating the numbat, a unique marsupial native to Western Australia."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Willibrord",
+        "type": "Arcebispo de Utrecht e Apóstolo da Frísia",
+        "description": "Nascido na Nortúmbria, foi um monge beneditino que se tornou missionário, evangelizando na Frísia e em Luxemburgo. É conhecido como o Apóstolo da Frísia e o primeiro Bispo de Utrecht."
+      },
+      {
+        "name": "Santos Trinta e Três Mártires de Melitene",
+        "type": "Mártires",
+        "description": "Este grupo inclui São Hierão e outros que sofreram o martírio pela sua fé cristã em Melitene durante as perseguições romanas."
+      },
+      {
+        "name": "São Prosdócimo de Pádua",
+        "type": "Primeiro Bispo de Pádua",
+        "description": "Considerado o primeiro bispo de Pádua, Itália, acredita-se que ele foi enviado por São Pedro Apóstolo para evangelizar a região."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial do Numbat",
+        "description": "Uma observância internacional dedicada a aumentar a conscientização e celebrar o numbat, um marsupial único nativo da Austrália Ocidental."
+      },
+      {
+        "name": "Dia Internacional da Física Médica",
+        "description": "Este dia destaca as importantes contribuições dos físicos médicos na área da saúde, garantindo o uso seguro e eficaz da tecnologia no diagnóstico e tratamento."
+      },
+      {
+        "name": "Dia Nacional de Brincar ao Ar Livre",
+        "description": "Celebrado no primeiro sábado de cada mês, este dia incentiva as pessoas a passar tempo ao ar livre e a participar em atividades físicas e brincadeiras."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nada na vida deve ser temido, apenas compreendido. Agora é o momento de compreender mais, para que possamos temer menos.",
+      "author": "Marie Curie",
+      "context": "Marie Curie, uma física e química pioneira, nasceu em 7 de novembro de 1867. Ela foi a primeira mulher a ganhar um Prêmio Nobel e a única pessoa a ganhar Prêmios Nobel em dois campos científicos diferentes."
+    },
+    "motivationalQuote": {
+      "text": "A coragem nem sempre ruge. Às vezes, a coragem é a voz suave no final do dia que diz: 'Vou tentar novamente amanhã.'",
+      "author": "Mary Anne Radmacher"
+    },
+    "births": [
+      {
+        "name": "Marie Curie",
+        "description": "Uma física e química polonesa e naturalizada francesa que realizou pesquisas pioneiras sobre a radioatividade, tornando-se a primeira mulher a ganhar um Prêmio Nobel.",
+        "year": "1867"
+      },
+      {
+        "name": "Leon Trótski",
+        "description": "Um revolucionário russo, teórico marxista e político soviético que desempenhou um papel fundamental na Revolução de Outubro de 1917.",
+        "year": "1879"
+      },
+      {
+        "name": "Kamal Haasan",
+        "description": "Um aclamado ator, cineasta, dançarino, escritor, produtor, cantor de playback e político indiano que trabalhou principalmente no cinema tâmil.",
+        "year": "1954"
+      }
+    ],
+    "events": [
+      {
+        "title": "Lewis e Clark chegam ao Oceano Pacífico",
+        "description": "Após uma jornada desafiadora, a Expedição de Lewis e Clark chegou ao Oceano Pacífico, cumprindo sua missão de explorar o Oeste americano.",
+        "year": "1805"
+      },
+      {
+        "title": "Colorado concede o direito de voto às mulheres",
+        "description": "Colorado tornou-se o primeiro estado dos EUA a conceder às mulheres o direito de voto por meio de referendo popular, um passo significativo no movimento pelo sufrágio feminino.",
+        "year": "1893"
+      },
+      {
+        "title": "Lei de Radiodifusão Pública Sancionada",
+        "description": "O presidente dos EUA Lyndon B. Johnson assinou a Lei de Radiodifusão Pública de 1967, estabelecendo a Corporação para a Radiodifusão Pública para financiar programas educacionais não comerciais.",
+        "year": "1967"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Mundial do Numbat",
+      "teaser": "Uma observância internacional dedicada a aumentar a conscientização e celebrar o numbat, um marsupial único nativo da Austrália Ocidental."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Willibrord",
+        "type": "Arquebisbe d'Utrecht i Apòstol de Frísia",
+        "description": "Nascut a Northúmbria, va ser un monjo benedictí que es va convertir en missioner, evangelitzant a Frísia i Luxemburg. És conegut com l'Apòstol de Frísia i el primer bisbe d'Utrecht."
+      },
+      {
+        "name": "Trenta-tres Sants Màrtirs de Melitene",
+        "type": "Màrtirs",
+        "description": "Aquest grup inclou Sant Hieron i altres que van patir martiri per la seva fe cristiana a Melitene durant les persecucions romanes."
+      },
+      {
+        "name": "Sant Prosdocim de Pàdua",
+        "type": "Primer Bisbe de Pàdua",
+        "description": "Considerat el primer bisbe de Pàdua, Itàlia, es creu que va ser enviat per Sant Pere Apòstol per evangelitzar la regió."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial del Numbat",
+        "description": "Una commemoració internacional dedicada a conscienciar i celebrar el numbat, un marsupial únic nadiu d'Austràlia Occidental."
+      },
+      {
+        "name": "Dia Internacional de la Física Mèdica",
+        "description": "Aquest dia destaca les importants contribucions dels físics mèdics a l'assistència sanitària, garantint l'ús segur i eficaç de la tecnologia en el diagnòstic i el tractament."
+      },
+      {
+        "name": "Dia Nacional de Jugar a Fora",
+        "description": "Celebrat el primer dissabte de cada mes, aquest dia anima la gent a passar temps a l'aire lliure i a participar en activitat física i joc."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Res a la vida no s'ha de témer, només s'ha d'entendre. Ara és el moment d'entendre més, perquè puguem témer menys.",
+      "author": "Marie Curie",
+      "context": "Marie Curie, una física i química pionera, va néixer el 7 de novembre de 1867. Va ser la primera dona a guanyar un Premi Nobel i l'única persona a guanyar Premis Nobel en dos camps científics diferents."
+    },
+    "motivationalQuote": {
+      "text": "El coratge no sempre rugeix. De vegades, el coratge és la veu silenciosa al final del dia que diu: 'Ho tornaré a intentar demà.'",
+      "author": "Mary Anne Radmacher"
+    },
+    "births": [
+      {
+        "name": "Marie Curie",
+        "description": "Una física i química polonesa i nacionalitzada francesa que va dur a terme investigacions pioneres sobre la radioactivitat, convertint-se en la primera dona a guanyar un Premi Nobel.",
+        "year": "1867"
+      },
+      {
+        "name": "Lev Trotski",
+        "description": "Un revolucionari rus, teòric marxista i polític soviètic que va tenir un paper clau en la Revolució d'Octubre de 1917.",
+        "year": "1879"
+      },
+      {
+        "name": "Kamal Haasan",
+        "description": "Un aclamat actor, cineasta, ballarí, escriptor, productor, cantant de playback i polític indi que ha treballat principalment al cinema tàmil.",
+        "year": "1954"
+      }
+    ],
+    "events": [
+      {
+        "title": "Lewis i Clark arriben a l'Oceà Pacífic",
+        "description": "Després d'un viatge desafiant, l'Expedició de Lewis i Clark va arribar a l'Oceà Pacífic, complint la seva missió d'explorar l'Oest americà.",
+        "year": "1805"
+      },
+      {
+        "title": "Colorado concedeix el dret de vot a les dones",
+        "description": "Colorado es va convertir en el primer estat dels EUA a concedir el dret de vot a les dones mitjançant un referèndum popular, un pas significatiu en el moviment sufragista femení.",
+        "year": "1893"
+      },
+      {
+        "title": "La Llei de Radiodifusió Pública és promulgada",
+        "description": "El president dels EUA, Lyndon B. Johnson, va signar la Llei de Radiodifusió Pública de 1967, establint la Corporació per a la Radiodifusió Pública per finançar programació educativa no comercial.",
+        "year": "1967"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Mundial del Numbat",
+      "teaser": "Una commemoració internacional dedicada a conscienciar i celebrar el numbat, un marsupial únic nadiu d'Austràlia Occidental."
+    }
+  }
+}
