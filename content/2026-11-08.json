@@ -1,0 +1,327 @@
+{
+  "date": "2026-11-08",
+  "es": {
+    "saints": [
+      {
+        "name": "Sinaxis de los Santos Arcángeles Miguel, Gabriel y los Demás Poderes Incorpóreos",
+        "type": "Arcángeles",
+        "description": "En el calendario cristiano ortodoxo, el 8 de noviembre conmemora al jefe de las potencias celestiales, el Arcángel Miguel, y a otros arcángeles, honrados como luchadores contra los espíritus de la oscuridad y el mal."
+      },
+      {
+        "name": "Santa Isabel de la Trinidad",
+        "type": "Monja Carmelita",
+        "description": "Una joven monja carmelita de Dijon, Francia, conocida por descubrir el 'cielo en la tierra' a través de la presencia de la Santísima Trinidad en su alma."
+      },
+      {
+        "name": "Los Cuatro Santos Coronados (Santos Castorio, Claudio, Nicóstrato y Simproniano)",
+        "type": "Mártires, Escultores de Piedra",
+        "description": "Estos escultores de piedra cristianos eligieron enfrentar la muerte antes que esculpir un ídolo pagano, demostrando su fe inquebrantable."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Radiología / Día Mundial de la Radiografía",
+        "description": "Este día conmemora el descubrimiento de los rayos X por Wilhelm Conrad Röntgen en 1895, celebrando las importantes contribuciones de la radiografía a la atención médica."
+      },
+      {
+        "name": "Día Nacional STEM/STEAM",
+        "description": "Celebrado en los Estados Unidos, este día anima a los estudiantes a explorar y perseguir sus intereses en Ciencia, Tecnología, Ingeniería, Arte y Matemáticas."
+      },
+      {
+        "name": "Diwali / Deepavali",
+        "description": "Un festival hindú de las luces, celebrado en o alrededor de esta fecha, que simboliza el triunfo del bien sobre el mal, la luz sobre la oscuridad y el conocimiento sobre la ignorancia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La humanidad debe poner fin a la guerra o la guerra pondrá fin a la humanidad.",
+      "author": "John F. Kennedy",
+      "context": "John F. Kennedy fue elegido como el 35º Presidente de los Estados Unidos el 8 de noviembre de 1960, en una elección muy disputada."
+    },
+    "motivationalQuote": {
+      "text": "No podemos resolver nuestros problemas con el mismo pensamiento que usamos cuando los creamos.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Edmond Halley",
+        "description": "Astrónomo, geofísico, matemático, meteorólogo y físico inglés, más conocido por calcular la órbita del cometa Halley.",
+        "year": "1656"
+      },
+      {
+        "name": "Margaret Mitchell",
+        "description": "Novelista y periodista estadounidense que ganó el Premio Pulitzer por su única novela, la épica historia de la era de la Guerra Civil 'Lo que el viento se llevó'.",
+        "year": "1900"
+      },
+      {
+        "name": "Bonnie Raitt",
+        "description": "Cantante, compositora y guitarrista de blues estadounidense que ha ganado múltiples premios Grammy por su distintiva mezcla de blues, rock, folk y country.",
+        "year": "1949"
+      }
+    ],
+    "events": [
+      {
+        "title": "El Museo del Louvre Abrió al Público",
+        "description": "El Museo del Louvre en París, uno de los museos de arte más famosos del mundo, abrió oficialmente sus puertas al público.",
+        "year": "1793"
+      },
+      {
+        "title": "Descubrimiento de los Rayos X",
+        "description": "El físico alemán Wilhelm Conrad Röntgen descubrió los rayos X mientras experimentaba con rayos catódicos, un logro científico revolucionario que transformó la medicina.",
+        "year": "1895"
+      },
+      {
+        "title": "Edward Brooke Elegido para el Senado de EE. UU.",
+        "description": "Edward Brooke, un republicano de Massachusetts, se convirtió en el primer afroamericano elegido popularmente para el Senado de los Estados Unidos desde la Reconstrucción.",
+        "year": "1966"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de la Radiología / Día Mundial de la Radiografía",
+      "teaser": "Este día conmemora el descubrimiento de los rayos X por Wilhelm Conrad Röntgen en 1895, celebrando las importantes contribuciones de la radiografía a la atención médica."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Synaxis of the Holy Archangels Michael, Gabriel, and the Other Bodiless Powers",
+        "type": "Archangels",
+        "description": "In the Orthodox Christian calendar, November 8 commemorates the chief of the heavenly powers, Archangel Michael, and other archangels, honored as fighters against the spirits of darkness and evil."
+      },
+      {
+        "name": "Saint Elizabeth of the Trinity",
+        "type": "Carmelite Nun",
+        "description": "A young Carmelite nun from Dijon, France, who is known for discovering \"heaven on earth\" through the presence of the Holy Trinity within her soul."
+      },
+      {
+        "name": "The Four Crowned Martyrs (Saints Castorius, Claudius, Nicostratus, and Simpronian)",
+        "type": "Martyrs, Stonecarvers",
+        "description": "These Christian stonecarvers chose to face death rather than sculpt a pagan idol, demonstrating their unwavering faith."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of Radiology / World Radiography Day",
+        "description": "This day marks Wilhelm Conrad Röntgen's discovery of X-rays in 1895, celebrating the significant contributions of radiography to healthcare."
+      },
+      {
+        "name": "National STEM/STEAM Day",
+        "description": "Celebrated in the United States, this day encourages students to explore and pursue their interests in Science, Technology, Engineering, Art, and Mathematics."
+      },
+      {
+        "name": "Diwali / Deepavali",
+        "description": "A Hindu festival of lights, celebrated on or around this date, symbolizing the triumph of good over evil, light over darkness, and knowledge over ignorance."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Mankind must put an end to war or war will put an end to mankind.",
+      "author": "John F. Kennedy",
+      "context": "John F. Kennedy was elected as the 35th President of the United States on November 8, 1960, in a closely contested election."
+    },
+    "motivationalQuote": {
+      "text": "We cannot solve our problems with the same thinking we used when we created them.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Edmond Halley",
+        "description": "An English astronomer, geophysicist, mathematician, meteorologist, and physicist, best known for computing the orbit of Halley's Comet.",
+        "year": "1656"
+      },
+      {
+        "name": "Margaret Mitchell",
+        "description": "An American novelist and journalist who won the Pulitzer Prize for her only novel, the epic Civil War-era story 'Gone With the Wind'.",
+        "year": "1900"
+      },
+      {
+        "name": "Bonnie Raitt",
+        "description": "An American blues singer, songwriter, and guitarist who has won multiple Grammy Awards for her distinctive blend of blues, rock, folk, and country.",
+        "year": "1949"
+      }
+    ],
+    "events": [
+      {
+        "title": "The Louvre Museum Opened to the Public",
+        "description": "The Louvre Museum in Paris, one of the world's most famous art museums, officially opened its doors to the public.",
+        "year": "1793"
+      },
+      {
+        "title": "Discovery of X-rays",
+        "description": "German physicist Wilhelm Conrad Röntgen discovered X-rays while experimenting with cathode rays, a groundbreaking scientific achievement that revolutionized medicine.",
+        "year": "1895"
+      },
+      {
+        "title": "Edward Brooke Elected to U.S. Senate",
+        "description": "Edward Brooke, a Republican from Massachusetts, became the first African American popularly elected to the United States Senate since Reconstruction.",
+        "year": "1966"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Day of Radiology / World Radiography Day",
+      "teaser": "This day marks Wilhelm Conrad Röntgen's discovery of X-rays in 1895, celebrating the significant contributions of radiography to healthcare."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Sinaxe dos Santos Arcanjos Miguel, Gabriel e as Outras Potências Incorpóreas",
+        "type": "Arcanjos",
+        "description": "No calendário cristão ortodoxo, o dia 8 de novembro comemora o chefe dos poderes celestiais, o Arcanjo Miguel, e outros arcanjos, honrados como lutadores contra os espíritos da escuridão e do mal."
+      },
+      {
+        "name": "Santa Isabel da Trindade",
+        "type": "Freira Carmelita",
+        "description": "Uma jovem freira carmelita de Dijon, França, conhecida por descobrir o 'céu na terra' através da presença da Santíssima Trindade em sua alma."
+      },
+      {
+        "name": "Os Quatro Mártires Coroados (Santos Castório, Cláudio, Nicostrato e Simproniano)",
+        "type": "Mártires, Escultores de Pedra",
+        "description": "Estes escultores de pedra cristãos escolheram enfrentar a morte em vez de esculpir um ídolo pagão, demonstrando sua fé inabalável."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Radiologia / Dia Mundial da Radiografia",
+        "description": "Este dia marca a descoberta dos raios-X por Wilhelm Conrad Röntgen em 1895, celebrando as significativas contribuições da radiografia para a saúde."
+      },
+      {
+        "name": "Dia Nacional STEM/STEAM",
+        "description": "Celebrado nos Estados Unidos, este dia incentiva os estudantes a explorar e perseguir seus interesses em Ciência, Tecnologia, Engenharia, Arte e Matemática."
+      },
+      {
+        "name": "Diwali / Deepavali",
+        "description": "Um festival hindu das luzes, celebrado nesta data ou próximo a ela, simbolizando o triunfo do bem sobre o mal, da luz sobre a escuridão e do conhecimento sobre a ignorância."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A humanidade deve pôr fim à guerra ou a guerra porá fim à humanidade.",
+      "author": "John F. Kennedy",
+      "context": "John F. Kennedy foi eleito o 35º Presidente dos Estados Unidos em 8 de novembro de 1960, em uma eleição muito disputada."
+    },
+    "motivationalQuote": {
+      "text": "Não podemos resolver os nossos problemas com o mesmo pensamento que usamos quando os criamos.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Edmond Halley",
+        "description": "Um astrônomo, geofísico, matemático, meteorologista e físico inglês, mais conhecido por calcular a órbita do Cometa Halley.",
+        "year": "1656"
+      },
+      {
+        "name": "Margaret Mitchell",
+        "description": "Uma romancista e jornalista americana que ganhou o Prêmio Pulitzer por seu único romance, a épica história da era da Guerra Civil 'E o Vento Levou'.",
+        "year": "1900"
+      },
+      {
+        "name": "Bonnie Raitt",
+        "description": "Uma cantora, compositora e guitarrista de blues americana que ganhou vários prêmios Grammy por sua distinta mistura de blues, rock, folk e country.",
+        "year": "1949"
+      }
+    ],
+    "events": [
+      {
+        "title": "O Museu do Louvre Abriu ao Público",
+        "description": "O Museu do Louvre em Paris, um dos museus de arte mais famosos do mundo, abriu oficialmente suas portas ao público.",
+        "year": "1793"
+      },
+      {
+        "title": "Descoberta dos Raios-X",
+        "description": "O físico alemão Wilhelm Conrad Röntgen descobriu os raios-X enquanto experimentava com raios catódicos, uma conquista científica revolucionária que transformou a medicina.",
+        "year": "1895"
+      },
+      {
+        "title": "Edward Brooke Eleito para o Senado dos EUA",
+        "description": "Edward Brooke, um republicano de Massachusetts, tornou-se o primeiro afro-americano eleito popularmente para o Senado dos Estados Unidos desde a Reconstrução.",
+        "year": "1966"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional da Radiologia / Dia Mundial da Radiografia",
+      "teaser": "Este dia marca a descoberta dos raios-X por Wilhelm Conrad Röntgen em 1895, celebrando as significativas contribuições da radiografia para a saúde."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sinaxi dels Sants Arcàngels Miquel, Gabriel i els Altres Poders Incorporis",
+        "type": "Arcàngels",
+        "description": "En el calendari cristià ortodox, el 8 de novembre commemora el cap dels poders celestials, l'Arcàngel Miquel, i altres arcàngels, honrats com a lluitadors contra els esperits de la foscor i el mal."
+      },
+      {
+        "name": "Santa Elisabet de la Trinitat",
+        "type": "Monja Carmelita",
+        "description": "Una jove monja carmelita de Dijon, França, coneguda per descobrir el \"cel a la terra\" a través de la presència de la Santíssima Trinitat dins de la seva ànima."
+      },
+      {
+        "name": "Els Quatre Màrtirs Coronats (Sants Castori, Claudi, Nicòstrat i Simpronià)",
+        "type": "Màrtirs, Escultors de pedra",
+        "description": "Aquests escultors de pedra cristians van triar afrontar la mort en lloc d'esculpir un ídol pagà, demostrant la seva fe inquebrantable."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la Radiologia / Dia Mundial de la Radiografia",
+        "description": "Aquest dia commemora el descobriment dels raigs X per Wilhelm Conrad Röntgen el 1895, celebrant les importants contribucions de la radiografia a l'assistència sanitària."
+      },
+      {
+        "name": "Dia Nacional STEM/STEAM",
+        "description": "Celebrat als Estats Units, aquest dia anima els estudiants a explorar i perseguir els seus interessos en Ciència, Tecnologia, Enginyeria, Art i Matemàtiques."
+      },
+      {
+        "name": "Diwali / Deepavali",
+        "description": "Un festival hindú de les llums, celebrat en aquesta data o al voltant, que simbolitza el triomf del bé sobre el mal, de la llum sobre la foscor i del coneixement sobre la ignorància."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La humanitat ha de posar fi a la guerra o la guerra posarà fi a la humanitat.",
+      "author": "John F. Kennedy",
+      "context": "John F. Kennedy va ser elegit 35è president dels Estats Units el 8 de novembre de 1960, en una elecció molt disputada."
+    },
+    "motivationalQuote": {
+      "text": "No podem resoldre els nostres problemes amb la mateixa manera de pensar que vam utilitzar quan els vam crear.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Edmond Halley",
+        "description": "Un astrònom, geofísic, matemàtic, meteoròleg i físic anglès, conegut principalment per calcular l'òrbita del cometa Halley.",
+        "year": "1656"
+      },
+      {
+        "name": "Margaret Mitchell",
+        "description": "Una novel·lista i periodista nord-americana que va guanyar el Premi Pulitzer per la seva única novel·la, la història èpica de l'època de la Guerra Civil 'Allò que el vent s'endugué'.",
+        "year": "1900"
+      },
+      {
+        "name": "Bonnie Raitt",
+        "description": "Una cantant, compositora i guitarrista de blues nord-americana que ha guanyat múltiples premis Grammy per la seva distintiva fusió de blues, rock, folk i country.",
+        "year": "1949"
+      }
+    ],
+    "events": [
+      {
+        "title": "El Museu del Louvre va Obrir al Públic",
+        "description": "El Museu del Louvre de París, un dels museus d'art més famosos del món, va obrir oficialment les seves portes al públic.",
+        "year": "1793"
+      },
+      {
+        "title": "Descobriment dels Raigs X",
+        "description": "El físic alemany Wilhelm Conrad Röntgen va descobrir els raigs X mentre experimentava amb raigs catòdics, un assoliment científic innovador que va revolucionar la medicina.",
+        "year": "1895"
+      },
+      {
+        "title": "Edward Brooke Elegit al Senat dels EUA",
+        "description": "Edward Brooke, un republicà de Massachusetts, es va convertir en el primer afroamericà elegit popularment al Senat dels Estats Units des de la Reconstrucció.",
+        "year": "1966"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de la Radiologia / Dia Mundial de la Radiografia",
+      "teaser": "Aquest dia commemora el descobriment dels raigs X per Wilhelm Conrad Röntgen el 1895, celebrant les importants contribucions de la radiografia a l'assistència sanitària."
+    }
+  }
+}
