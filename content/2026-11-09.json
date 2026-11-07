@@ -1,0 +1,327 @@
+{
+  "date": "2026-11-09",
+  "es": {
+    "saints": [
+      {
+        "name": "Dedicación de la Basílica de Letrán",
+        "type": "Día de Fiesta",
+        "description": "Esta fiesta conmemora la consagración de la Basílica de San Juan de Letrán en Roma, la iglesia catedral de la Diócesis de Roma y la cátedra del Papa. Se celebra en todo el mundo como una señal de amor por el Papa y la Sede de Roma."
+      },
+      {
+        "name": "San Nectario de Egina",
+        "type": "Metropolitano, Taumaturgo",
+        "description": "Un santo ortodoxo, Nectario de Egina (1846-1920) fue Metropolitano de Pentápolis y es venerado como taumaturgo, conocido por sus escritos espirituales y milagros."
+      },
+      {
+        "name": "San Benigno de Armagh",
+        "type": "Obispo",
+        "description": "Discípulo de San Patricio, San Benigno le sucedió como Obispo de Armagh en Irlanda."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Libertad",
+        "description": "Esta observancia internacional conmemora la caída del Muro de Berlín en 1989, simbolizando el fin del comunismo en Europa del Este y celebrando la democracia y la libertad."
+      },
+      {
+        "name": "Día Mundial de los Huérfanos",
+        "description": "Observado el segundo lunes de noviembre, este día busca crear conciencia y apoyo para los niños huérfanos de todo el mundo."
+      },
+      {
+        "name": "Día de Carl Sagan",
+        "description": "Este día honra la vida y el legado del astrónomo estadounidense y querido comunicador científico, Carl Sagan, quien nació en esta fecha."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El cosmos está dentro de nosotros. Estamos hechos de la materia de las estrellas. Somos una forma en que el cosmos se conoce a sí mismo.",
+      "author": "Carl Sagan",
+      "context": "Carl Sagan, un influyente astrónomo estadounidense y comunicador científico, nació el 9 de noviembre de 1934. Esta cita refleja su profunda comprensión y articulación poética de la conexión de la humanidad con el universo."
+    },
+    "motivationalQuote": {
+      "text": "Siempre puedes editar una página mala. No puedes editar una página en blanco.",
+      "author": "Jodi Picoult"
+    },
+    "births": [
+      {
+        "name": "Carl Sagan",
+        "description": "Astrónomo estadounidense, científico planetario, cosmólogo, astrofísico, astrobiólogo, autor y comunicador científico. Fue un pionero en exobiología y promovió la Búsqueda de Inteligencia Extraterrestre (SETI).",
+        "year": "1934"
+      },
+      {
+        "name": "Hedy Lamarr",
+        "description": "Actriz e inventora austríaco-estadounidense que co-inventó una técnica temprana para las comunicaciones de espectro ensanchado y el salto de frecuencia, que ahora es crucial para muchas tecnologías inalámbricas.",
+        "year": "1914"
+      },
+      {
+        "name": "Benjamin Banneker",
+        "description": "Un astrónomo, matemático, topógrafo, autor de almanaques y naturalista afroamericano autodidacta que notablemente ayudó a topografiar el territorio original de Washington D.C.",
+        "year": "1731"
+      }
+    ],
+    "events": [
+      {
+        "title": "Caída del Muro de Berlín",
+        "description": "En este día histórico, la Alemania Oriental comunista abrió sus fronteras, permitiendo a los ciudadanos viajar libremente a Alemania Occidental, un momento crucial que simboliza el fin de la Guerra Fría y la reunificación de Alemania.",
+        "year": "1989"
+      },
+      {
+        "title": "Visita de Theodore Roosevelt al Canal de Panamá",
+        "description": "El presidente Theodore Roosevelt emprendió un viaje a Panamá para inspeccionar la construcción del Canal de Panamá, convirtiéndose en el primer presidente de EE. UU. en funciones en viajar oficialmente al extranjero.",
+        "year": "1906"
+      },
+      {
+        "title": "Garry Kasparov se convierte en Campeón Mundial de Ajedrez",
+        "description": "A los 22 años, Garry Kasparov se convirtió en el Campeón Mundial de Ajedrez indiscutible más joven de la historia al derrotar a Anatoly Karpov.",
+        "year": "1985"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Mundial de la Libertad",
+      "teaser": "Esta observancia internacional conmemora la caída del Muro de Berlín en 1989, simbolizando el fin del comunismo en Europa del Este y celebrando la democracia y la libertad."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Dedication of the Lateran Basilica",
+        "type": "Feast Day",
+        "description": "This feast commemorates the consecration of the Basilica of St. John Lateran in Rome, the cathedral church of the Diocese of Rome and the Pope's cathedra. It is celebrated worldwide as a sign of love for the Pope and the See of Rome."
+      },
+      {
+        "name": "St. Nectarios of Aegina",
+        "type": "Metropolitan, Wonderworker",
+        "description": "An Orthodox saint, Nectarios of Aegina (1846-1920) was a Metropolitan of Pentapolis and is revered as a wonderworker, known for his spiritual writings and miracles."
+      },
+      {
+        "name": "St. Benignus of Armagh",
+        "type": "Bishop",
+        "description": "A disciple of Saint Patrick, St. Benignus succeeded him as the Bishop of Armagh in Ireland."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Freedom Day",
+        "description": "This international observance commemorates the fall of the Berlin Wall in 1989, symbolizing the end of communism in Eastern Europe and celebrating democracy and freedom."
+      },
+      {
+        "name": "World Orphans Day",
+        "description": "Observed on the second Monday in November, this day raises awareness and support for orphaned children around the world."
+      },
+      {
+        "name": "Carl Sagan Day",
+        "description": "This day honors the life and legacy of American astronomer and beloved science communicator, Carl Sagan, who was born on this date."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The cosmos is within us. We are made of star-stuff. We are a way for the cosmos to know itself.",
+      "author": "Carl Sagan",
+      "context": "Carl Sagan, an influential American astronomer and science communicator, was born on November 9, 1934. This quote reflects his profound understanding and poetic articulation of humanity's connection to the universe."
+    },
+    "motivationalQuote": {
+      "text": "You can always edit a bad page. You can't edit a blank page.",
+      "author": "Jodi Picoult"
+    },
+    "births": [
+      {
+        "name": "Carl Sagan",
+        "description": "An American astronomer, planetary scientist, cosmologist, astrophysicist, astrobiologist, author, and science communicator. He was a pioneer in exobiology and promoted the Search for Extraterrestrial Intelligence (SETI).",
+        "year": "1934"
+      },
+      {
+        "name": "Hedy Lamarr",
+        "description": "An Austrian-American actress and inventor who co-invented an early technique for spread spectrum communications and frequency hopping, which is now crucial to many wireless technologies.",
+        "year": "1914"
+      },
+      {
+        "name": "Benjamin Banneker",
+        "description": "A self-taught African American astronomer, mathematician, surveyor, almanac author, and naturalist who notably helped survey the original territory for Washington, D.C.",
+        "year": "1731"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fall of the Berlin Wall",
+        "description": "On this historic day, communist East Germany opened its borders, allowing citizens to travel freely to West Germany, a pivotal moment symbolizing the end of the Cold War and the reunification of Germany.",
+        "year": "1989"
+      },
+      {
+        "title": "Theodore Roosevelt's Panama Canal Visit",
+        "description": "President Theodore Roosevelt embarked on a trip to Panama to inspect the construction of the Panama Canal, becoming the first sitting U.S. president to officially travel abroad.",
+        "year": "1906"
+      },
+      {
+        "title": "Garry Kasparov Becomes World Chess Champion",
+        "description": "At 22 years old, Garry Kasparov became the youngest ever undisputed World Chess Champion by defeating Anatoly Karpov.",
+        "year": "1985"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is World Freedom Day",
+      "teaser": "This international observance commemorates the fall of the Berlin Wall in 1989, symbolizing the end of communism in Eastern Europe and celebrating democracy and freedom."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Dedicação da Basílica de Latrão",
+        "type": "Dia de Festa",
+        "description": "Esta festa comemora a consagração da Basílica de São João de Latrão em Roma, a igreja catedral da Diocese de Roma e a cátedra do Papa. É celebrada em todo o mundo como um sinal de amor pelo Papa e pela Sé de Roma."
+      },
+      {
+        "name": "São Nectário de Egina",
+        "type": "Metropolita, Taumaturgo",
+        "description": "Um santo ortodoxo, Nectário de Egina (1846-1920) foi Metropolita de Pentápolis e é reverenciado como taumaturgo, conhecido por seus escritos espirituais e milagres."
+      },
+      {
+        "name": "São Benigno de Armagh",
+        "type": "Bispo",
+        "description": "Discípulo de São Patrício, São Benigno o sucedeu como Bispo de Armagh na Irlanda."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Liberdade",
+        "description": "Esta observância internacional comemora a queda do Muro de Berlim em 1989, simbolizando o fim do comunismo na Europa Oriental e celebrando a democracia e a liberdade."
+      },
+      {
+        "name": "Dia Mundial dos Órfãos",
+        "description": "Observado na segunda segunda-feira de novembro, este dia visa aumentar a conscientização e o apoio para crianças órfãs em todo o mundo."
+      },
+      {
+        "name": "Dia de Carl Sagan",
+        "description": "Este dia honra a vida e o legado do astrônomo americano e amado comunicador científico, Carl Sagan, que nasceu nesta data."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O cosmos está dentro de nós. Somos feitos de poeira estelar. Somos uma maneira de o cosmos se conhecer.",
+      "author": "Carl Sagan",
+      "context": "Carl Sagan, um influente astrônomo americano e comunicador científico, nasceu em 9 de novembro de 1934. Esta citação reflete sua profunda compreensão e articulação poética da conexão da humanidade com o universo."
+    },
+    "motivationalQuote": {
+      "text": "Você sempre pode editar uma página ruim. Você não pode editar uma página em branco.",
+      "author": "Jodi Picoult"
+    },
+    "births": [
+      {
+        "name": "Carl Sagan",
+        "description": "Um astrônomo americano, cientista planetário, cosmólogo, astrofísico, astrobiólogo, autor e comunicador científico. Ele foi um pioneiro em exobiologia e promoveu a Busca por Inteligência Extraterrestre (SETI).",
+        "year": "1934"
+      },
+      {
+        "name": "Hedy Lamarr",
+        "description": "Uma atriz e inventora austríaco-americana que co-inventou uma técnica inicial para comunicações de espectro espalhado e salto de frequência, que agora é crucial para muitas tecnologias sem fio.",
+        "year": "1914"
+      },
+      {
+        "name": "Benjamin Banneker",
+        "description": "Um astrônomo, matemático, agrimensor, autor de almanaques e naturalista afro-americano autodidata que notavelmente ajudou a pesquisar o território original de Washington, D.C.",
+        "year": "1731"
+      }
+    ],
+    "events": [
+      {
+        "title": "Queda do Muro de Berlim",
+        "description": "Neste dia histórico, a Alemanha Oriental comunista abriu suas fronteiras, permitindo que os cidadãos viajassem livremente para a Alemanha Ocidental, um momento crucial que simboliza o fim da Guerra Fria e a reunificação da Alemanha.",
+        "year": "1989"
+      },
+      {
+        "title": "Visita de Theodore Roosevelt ao Canal do Panamá",
+        "description": "O Presidente Theodore Roosevelt embarcou em uma viagem ao Panamá para inspecionar a construção do Canal do Panamá, tornando-se o primeiro presidente dos EUA em exercício a viajar oficialmente para o exterior.",
+        "year": "1906"
+      },
+      {
+        "title": "Garry Kasparov Torna-se Campeão Mundial de Xadrez",
+        "description": "Aos 22 anos, Garry Kasparov tornou-se o mais jovem Campeão Mundial de Xadrez indiscutível ao derrotar Anatoly Karpov.",
+        "year": "1985"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Mundial da Liberdade",
+      "teaser": "Esta observância internacional comemora a queda do Muro de Berlim em 1989, simbolizando o fim do comunismo na Europa Oriental e celebrando a democracia e a liberdade."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Dedicació de la Basílica del Laterà",
+        "type": "Festa",
+        "description": "Aquesta festa commemora la consagració de la Basílica de Sant Joan del Laterà a Roma, la catedral de la Diòcesi de Roma i la càtedra del Papa. Se celebra arreu del món com a signe d'amor pel Papa i la Seu de Roma."
+      },
+      {
+        "name": "Sant Nectari d'Egina",
+        "type": "Metropolità, Taumaturg",
+        "description": "Un sant ortodox, Nectari d'Egina (1846-1920) va ser Metropolità de Pentàpolis i és venerat com a taumaturg, conegut pels seus escrits espirituals i miracles."
+      },
+      {
+        "name": "Sant Benigne d'Armagh",
+        "type": "Bisbe",
+        "description": "Deixeble de Sant Patrici, Sant Benigne el va succeir com a Bisbe d'Armagh a Irlanda."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Llibertat",
+        "description": "Aquesta commemoració internacional recorda la caiguda del Mur de Berlín el 1989, simbolitzant la fi del comunisme a Europa de l'Est i celebrant la democràcia i la llibertat."
+      },
+      {
+        "name": "Dia Mundial dels Orfes",
+        "description": "Observat el segon dilluns de novembre, aquest dia sensibilitza i dona suport als nens orfes de tot el món."
+      },
+      {
+        "name": "Dia de Carl Sagan",
+        "description": "Aquest dia honra la vida i el llegat de l'astrònom i estimat divulgador científic nord-americà, Carl Sagan, que va néixer en aquesta data."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El cosmos és dins nostre. Estem fets de material estel·lar. Som una manera perquè el cosmos es conegui a si mateix.",
+      "author": "Carl Sagan",
+      "context": "Carl Sagan, un influent astrònom i divulgador científic nord-americà, va néixer el 9 de novembre de 1934. Aquesta cita reflecteix la seva profunda comprensió i articulació poètica de la connexió de la humanitat amb l'univers."
+    },
+    "motivationalQuote": {
+      "text": "Sempre pots editar una pàgina dolenta. No pots editar una pàgina en blanc.",
+      "author": "Jodi Picoult"
+    },
+    "births": [
+      {
+        "name": "Carl Sagan",
+        "description": "Un astrònom, científic planetari, cosmòleg, astrofísic, astrobiòleg, autor i divulgador científic nord-americà. Va ser pioner en exobiologia i va promoure la Cerca d'Intel·ligència Extraterrestre (SETI).",
+        "year": "1934"
+      },
+      {
+        "name": "Hedy Lamarr",
+        "description": "Una actriu i inventora austríaco-americana que va coinventar una tècnica primerenca per a les comunicacions d'espectre eixamplat i el salt de freqüència, que ara és crucial per a moltes tecnologies sense fils.",
+        "year": "1914"
+      },
+      {
+        "name": "Benjamin Banneker",
+        "description": "Un astrònom, matemàtic, topògraf, autor d'almanacs i naturalista afroamericà autodidacte que va ajudar notablement a mesurar el territori original de Washington, D.C.",
+        "year": "1731"
+      }
+    ],
+    "events": [
+      {
+        "title": "Caiguda del Mur de Berlín",
+        "description": "En aquest dia històric, l'Alemanya Oriental comunista va obrir les seves fronteres, permetent als ciutadans viatjar lliurement a l'Alemanya Occidental, un moment clau que va simbolitzar la fi de la Guerra Freda i la reunificació d'Alemanya.",
+        "year": "1989"
+      },
+      {
+        "title": "Visita de Theodore Roosevelt al Canal de Panamà",
+        "description": "El president Theodore Roosevelt va emprendre un viatge a Panamà per inspeccionar la construcció del Canal de Panamà, convertint-se en el primer president dels EUA en exercici a viatjar oficialment a l'estranger.",
+        "year": "1906"
+      },
+      {
+        "title": "Garri Kaspàrov esdevé Campió del Món d'Escacs",
+        "description": "Als 22 anys, Garri Kaspàrov es va convertir en el campió mundial d'escacs indiscutible més jove de la història en derrotar Anatoli Kàrpov.",
+        "year": "1985"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Mundial de la Llibertat",
+      "teaser": "Aquesta commemoració internacional recorda la caiguda del Mur de Berlín el 1989, simbolitzant la fi del comunisme a Europa de l'Est i celebrant la democràcia i la llibertat."
+    }
+  }
+}
