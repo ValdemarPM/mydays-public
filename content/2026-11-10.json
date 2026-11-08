@@ -1,0 +1,327 @@
+{
+  "date": "2026-11-10",
+  "es": {
+    "saints": [
+      {
+        "name": "Papa San León Magno",
+        "type": "Papa, Doctor de la Iglesia",
+        "description": "Nacido en la nobleza italiana, sirvió como Papa de 440 a 461, expandiendo la influencia papal y definiendo la doble naturaleza de Cristo en el Concilio de Calcedonia. También es famoso por disuadir a Atila el Huno de saquear Roma."
+      },
+      {
+        "name": "San Andrés Avelino",
+        "type": "Sacerdote",
+        "description": "Nacido en Sicilia en 1521, se hizo sacerdote y teatino, conocido por su celoso trabajo pastoral y guía espiritual. Murió celebrando Misa el 10 de noviembre de 1608."
+      },
+      {
+        "name": "Venerable Arsenio de Capadocia",
+        "type": "Monje, Taumaturgo",
+        "description": "Nacido en Capadocia en 1840, fue un monje y intercesor venerado, conocido por realizar milagros. Predijo la expulsión de los griegos de Asia Menor y llevó a su rebaño a Grecia, muriendo cuarenta días después de su llegada en 1924."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Ciencia para la Paz y el Desarrollo",
+        "description": "Esta observancia internacional destaca el importante papel de la ciencia en la sociedad y la necesidad de involucrar al público en general en los debates sobre los problemas científicos emergentes."
+      },
+      {
+        "name": "Aniversario del Cuerpo de Marines de los Estados Unidos",
+        "description": "Conmemora la fundación de los Marines Continentales por el Congreso Continental el 10 de noviembre de 1775, en Filadelfia."
+      },
+      {
+        "name": "Día de la Tradición (Argentina)",
+        "description": "Celebrado en Argentina, este día honra las ricas prácticas y tradiciones culturales del país, coincidiendo con el cumpleaños del renombrado escritor y gaucho argentino, José Hernández."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El mundo siempre parece más brillante cuando acabas de crear algo que no existía antes.",
+      "author": "Neil Gaiman",
+      "context": "Neil Gaiman, un aclamado autor inglés conocido por obras como 'The Sandman' y 'American Gods', nació el 10 de noviembre de 1960."
+    },
+    "motivationalQuote": {
+      "text": "Si quieres entender, intenta actuar.",
+      "author": "Ludwig Wittgenstein"
+    },
+    "births": [
+      {
+        "name": "Martín Lutero",
+        "description": "Un teólogo alemán y figura seminal de la Reforma Protestante, conocido por publicar sus 'Noventa y cinco Tesis'.",
+        "year": "1483"
+      },
+      {
+        "name": "Neil Gaiman",
+        "description": "Un autor inglés de renombre internacional de ficción corta, novelas, cómics, novelas gráficas, no ficción, teatro de audio y películas.",
+        "year": "1960"
+      },
+      {
+        "name": "Ennio Morricone",
+        "description": "Un influyente compositor, orquestador, director y trompetista italiano que escribió música para más de 500 películas y producciones televisivas.",
+        "year": "1928"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundación del Cuerpo de Marines de los Estados Unidos",
+        "description": "El Congreso Continental estableció dos batallones de Marines Continentales, marcando el nacimiento oficial del Cuerpo de Marines de los Estados Unidos.",
+        "year": "1775"
+      },
+      {
+        "title": "Henry Stanley encuentra a David Livingstone",
+        "description": "El periodista-explorador Henry M. Stanley localizó famosamente al misionero y explorador escocés David Livingstone cerca del lago Tanganica en África central, pronunciando la icónica frase: \"¿Dr. Livingstone, supongo?\".",
+        "year": "1871"
+      },
+      {
+        "title": "Estreno de Plaza Sésamo",
+        "description": "El innovador programa educativo de televisión infantil 'Plaza Sésamo' se estrenó en National Educational Television (más tarde PBS) en los Estados Unidos.",
+        "year": "1969"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Mundial de la Ciencia para la Paz y el Desarrollo",
+      "teaser": "Esta observancia internacional destaca el importante papel de la ciencia en la sociedad y la necesidad de involucrar al público en general en los debates sobre los problemas científicos emergentes."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Pope Saint Leo the Great",
+        "type": "Pope, Doctor of the Church",
+        "description": "Born into Italian nobility, he served as Pope from 440 to 461, expanding papal influence and defining Christ's dual nature at the Council of Chalcedon. He is also famous for dissuading Attila the Hun from sacking Rome."
+      },
+      {
+        "name": "Saint Andrew Avellino",
+        "type": "Priest",
+        "description": "Born in Sicily in 1521, he became a priest and a Theatine, known for his zealous pastoral work and spiritual guidance. He died celebrating Mass on November 10, 1608."
+      },
+      {
+        "name": "Venerable Arsenios of Cappadocia",
+        "type": "Monk, Wonderworker",
+        "description": "Born in Cappadocia in 1840, he was a revered monk and intercessor, known for performing miracles. He predicted the expulsion of Greeks from Asia Minor and led his flock to Greece, dying forty days after their arrival in 1924."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Science Day for Peace and Development",
+        "description": "This international observance highlights the significant role of science in society and the need to engage the wider public in debates on emerging scientific issues."
+      },
+      {
+        "name": "United States Marine Corps Birthday",
+        "description": "Commemorates the founding of the Continental Marines by the Continental Congress on November 10, 1775, in Philadelphia."
+      },
+      {
+        "name": "National Tradition Day (Argentina)",
+        "description": "Celebrated in Argentina, this day honors the country's rich cultural practices and traditions, coinciding with the birthday of renowned Argentinian writer and gaucho, Jose Hernandez."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The world always seems brighter when you've just made something that wasn't there before.",
+      "author": "Neil Gaiman",
+      "context": "Neil Gaiman, an acclaimed English author known for works like 'The Sandman' and 'American Gods,' was born on November 10, 1960."
+    },
+    "motivationalQuote": {
+      "text": "If you want to understand, try to act.",
+      "author": "Ludwig Wittgenstein"
+    },
+    "births": [
+      {
+        "name": "Martin Luther",
+        "description": "A German theologian and seminal figure in the Protestant Reformation, known for posting his 'Ninety-five Theses'.",
+        "year": "1483"
+      },
+      {
+        "name": "Neil Gaiman",
+        "description": "An internationally celebrated English author of short fiction, novels, comic books, graphic novels, nonfiction, audio theatre, and films.",
+        "year": "1960"
+      },
+      {
+        "name": "Ennio Morricone",
+        "description": "An influential Italian composer, orchestrator, conductor, and trumpet player who wrote music for more than 500 films and television productions.",
+        "year": "1928"
+      }
+    ],
+    "events": [
+      {
+        "title": "United States Marine Corps Founded",
+        "description": "The Continental Congress established two battalions of Continental Marines, marking the official birth of the United States Marine Corps.",
+        "year": "1775"
+      },
+      {
+        "title": "Henry Stanley Finds David Livingstone",
+        "description": "Journalist-explorer Henry M. Stanley famously located the Scottish missionary and explorer David Livingstone near Lake Tanganyika in central Africa, uttering the iconic phrase, 'Dr. Livingstone, I presume?'",
+        "year": "1871"
+      },
+      {
+        "title": "Sesame Street Debuts",
+        "description": "The groundbreaking children's educational television program 'Sesame Street' premiered on National Educational Television (later PBS) in the United States.",
+        "year": "1969"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is World Science Day for Peace and Development",
+      "teaser": "This international observance highlights the significant role of science in society and the need to engage the wider public in debates on emerging scientific issues."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Papa São Leão Magno",
+        "type": "Papa, Doutor da Igreja",
+        "description": "Nascido na nobreza italiana, serviu como Papa de 440 a 461, expandindo a influência papal e definindo a dupla natureza de Cristo no Concílio de Calcedônia. É também famoso por dissuadir Átila, o Huno, de saquear Roma."
+      },
+      {
+        "name": "Santo André Avelino",
+        "type": "Sacerdote",
+        "description": "Nascido na Sicília em 1521, tornou-se sacerdote e teatino, conhecido por seu zeloso trabalho pastoral e orientação espiritual. Morreu celebrando a Missa em 10 de novembro de 1608."
+      },
+      {
+        "name": "Venerável Arsênio da Capadócia",
+        "type": "Monge, Taumaturgo",
+        "description": "Nascido na Capadócia em 1840, foi um monge e intercessor reverenciado, conhecido por realizar milagres. Ele previu a expulsão dos gregos da Ásia Menor e liderou seu rebanho para a Grécia, morrendo quarenta dias após a chegada em 1924."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Ciência pela Paz e pelo Desenvolvimento",
+        "description": "Esta observância internacional destaca o papel significativo da ciência na sociedade e a necessidade de envolver o público em geral em debates sobre questões científicas emergentes."
+      },
+      {
+        "name": "Aniversário do Corpo de Fuzileiros Navais dos Estados Unidos",
+        "description": "Comemora a fundação dos Fuzileiros Navais Continentais pelo Congresso Continental em 10 de novembro de 1775, na Filadélfia."
+      },
+      {
+        "name": "Dia da Tradição (Argentina)",
+        "description": "Celebrado na Argentina, este dia homenageia as ricas práticas e tradições culturais do país, coincidindo com o aniversário do renomado escritor e gaúcho argentino, José Hernández."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O mundo sempre parece mais brilhante quando você acabou de fazer algo que não existia antes.",
+      "author": "Neil Gaiman",
+      "context": "Neil Gaiman, um aclamado autor inglês conhecido por obras como 'The Sandman' e 'American Gods', nasceu em 10 de novembro de 1960."
+    },
+    "motivationalQuote": {
+      "text": "Se você quer entender, tente agir.",
+      "author": "Ludwig Wittgenstein"
+    },
+    "births": [
+      {
+        "name": "Martinho Lutero",
+        "description": "Um teólogo alemão e figura seminal da Reforma Protestante, conhecido por afixar suas 'Noventa e Cinco Teses'.",
+        "year": "1483"
+      },
+      {
+        "name": "Neil Gaiman",
+        "description": "Um autor inglês internacionalmente celebrado de ficção curta, romances, histórias em quadrinhos, graphic novels, não-ficção, teatro de áudio e filmes.",
+        "year": "1960"
+      },
+      {
+        "name": "Ennio Morricone",
+        "description": "Um influente compositor, orquestrador, maestro e trompetista italiano que escreveu música para mais de 500 filmes e produções televisivas.",
+        "year": "1928"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundação do Corpo de Fuzileiros Navais dos Estados Unidos",
+        "description": "O Congresso Continental estabeleceu dois batalhões de Fuzileiros Navais Continentais, marcando o nascimento oficial do Corpo de Fuzileiros Navais dos Estados Unidos.",
+        "year": "1775"
+      },
+      {
+        "title": "Henry Stanley Encontra David Livingstone",
+        "description": "O jornalista-explorador Henry M. Stanley localizou famosamente o missionário e explorador escocês David Livingstone perto do Lago Tanganica, na África central, proferindo a frase icônica: \"Dr. Livingstone, presumo?\".",
+        "year": "1871"
+      },
+      {
+        "title": "Estreia de Vila Sésamo",
+        "description": "O inovador programa educacional infantil 'Vila Sésamo' estreou na National Educational Television (posteriormente PBS) nos Estados Unidos.",
+        "year": "1969"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Mundial da Ciência pela Paz e pelo Desenvolvimento",
+      "teaser": "Esta observância internacional destaca o papel significativo da ciência na sociedade e a necessidade de envolver o público em geral em debates sobre questões científicas emergentes."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Lleó Magne, Papa",
+        "type": "Papa, Doctor de l'Església",
+        "description": "Nascut a la noblesa italiana, va servir com a Papa del 440 al 461, expandint la influència papal i definint la doble naturalesa de Crist al Concili de Calcedònia. També és famós per haver dissuadit Atila l'Hun de saquejar Roma."
+      },
+      {
+        "name": "Sant Andreu Avellino",
+        "type": "Sacerdot",
+        "description": "Nascut a Sicília el 1521, va esdevenir sacerdot i teatí, conegut pel seu zelós treball pastoral i la seva guia espiritual. Va morir celebrant Missa el 10 de novembre de 1608."
+      },
+      {
+        "name": "Venerable Arseni de Capadòcia",
+        "type": "Monjo, Taumaturg",
+        "description": "Nascut a Capadòcia el 1840, va ser un monjo venerat i intercessor, conegut per realitzar miracles. Va predir l'expulsió dels grecs de l'Àsia Menor i va conduir el seu ramat a Grècia, morint quaranta dies després de la seva arribada el 1924."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Ciència per la Pau i el Desenvolupament",
+        "description": "Aquesta commemoració internacional subratlla el paper significatiu de la ciència a la societat i la necessitat d'involucrar el públic en general en debats sobre qüestions científiques emergents."
+      },
+      {
+        "name": "Aniversari del Cos de Marines dels Estats Units",
+        "description": "Commemora la fundació dels Marines Continentals pel Congrés Continental el 10 de novembre de 1775, a Filadèlfia."
+      },
+      {
+        "name": "Dia Nacional de la Tradició (Argentina)",
+        "description": "Celebrat a l'Argentina, aquest dia honora les riques pràctiques i tradicions culturals del país, coincidint amb l'aniversari del reconegut escriptor i gaucho argentí, José Hernández."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El món sempre sembla més brillant quan acabes de crear alguna cosa que abans no hi era.",
+      "author": "Neil Gaiman",
+      "context": "Neil Gaiman, un aclamat autor anglès conegut per obres com 'The Sandman' i 'American Gods', va néixer el 10 de novembre de 1960."
+    },
+    "motivationalQuote": {
+      "text": "Si vols entendre, prova d'actuar.",
+      "author": "Ludwig Wittgenstein"
+    },
+    "births": [
+      {
+        "name": "Martí Luter",
+        "description": "Un teòleg alemany i figura cabdal de la Reforma Protestant, conegut per publicar les seves 'Noranta-cinc Tesis'.",
+        "year": "1483"
+      },
+      {
+        "name": "Neil Gaiman",
+        "description": "Un autor anglès de renom internacional de ficció curta, novel·les, còmics, novel·les gràfiques, no-ficció, teatre sonor i pel·lícules.",
+        "year": "1960"
+      },
+      {
+        "name": "Ennio Morricone",
+        "description": "Un influent compositor, orquestrador, director d'orquestra i trompetista italià que va escriure música per a més de 500 pel·lícules i produccions televisives.",
+        "year": "1928"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundació del Cos de Marines dels Estats Units",
+        "description": "El Congrés Continental va establir dos batallons de Marines Continentals, marcant el naixement oficial del Cos de Marines dels Estats Units.",
+        "year": "1775"
+      },
+      {
+        "title": "Henry Stanley troba David Livingstone",
+        "description": "El periodista i explorador Henry M. Stanley va localitzar famosament el missioner i explorador escocès David Livingstone prop del llac Tanganyika a l'Àfrica central, pronunciant la frase icònica: 'Dr. Livingstone, suposo?'",
+        "year": "1871"
+      },
+      {
+        "title": "Debut de Sesame Street",
+        "description": "El programa de televisió educatiu infantil 'Sesame Street', pioner i innovador, es va estrenar a la National Educational Television (més tard PBS) als Estats Units.",
+        "year": "1969"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Mundial de la Ciència per la Pau i el Desenvolupament",
+      "teaser": "Aquesta commemoració internacional subratlla el paper significatiu de la ciència a la societat i la necessitat d'involucrar el públic en general en debats sobre qüestions científiques emergents."
+    }
+  }
+}
