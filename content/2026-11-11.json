@@ -1,0 +1,343 @@
+{
+  "date": "2026-11-11",
+  "es": {
+    "saints": [
+      {
+        "name": "San Martín de Tours",
+        "type": "Obispo, Confesor",
+        "description": "Antiguo soldado romano, San Martín es conocido por compartir la mitad de su capa con un mendigo que se congelaba, quien más tarde se le apareció como Cristo. Se convirtió en un obispo celoso en la Galia, difundiendo incansablemente el cristianismo y realizando milagros."
+      },
+      {
+        "name": "San Menas de Egipto",
+        "type": "Gran Mártir, Hacedor de Milagros",
+        "description": "Oficial militar egipcio que se hizo cristiano, San Menas renunció a su rango durante las persecuciones de Diocleciano y Maximiano. Llevó una vida ascética antes de confesar públicamente su fe y ser martirizado alrededor del 304 d.C."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de los Veteranos",
+        "description": "Observado en los Estados Unidos, este feriado federal honra a los veteranos militares de las Fuerzas Armadas de EE. UU., conmemorando originalmente el fin de la Primera Guerra Mundial."
+      },
+      {
+        "name": "Día del Recuerdo",
+        "description": "Conmemorado en los países de la Commonwealth, este día honra a los miembros de las fuerzas armadas que murieron en cumplimiento del deber, marcando el aniversario del Armisticio de 1918."
+      },
+      {
+        "name": "Día del Armisticio",
+        "description": "Observado internacionalmente, este día marca el fin formal de las principales hostilidades de la Primera Guerra Mundial a la undécima hora del undécimo día del undécimo mes de 1918."
+      },
+      {
+        "name": "Día de la Independencia de Angola",
+        "description": "En este día de 1975, Angola obtuvo su independencia después de más de 300 años de dominio portugués."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No olvidemos que las causas de las acciones humanas suelen ser inconmensurablemente más complejas y variadas que nuestras explicaciones posteriores de ellas.",
+      "author": "Fiódor Dostoyevski",
+      "context": "Fyodor Dostoevsky, un renombrado novelista y filósofo ruso, nació el 11 de noviembre de 1821. Sus obras a menudo profundizaban en las profundas complejidades de la condición humana y la moralidad."
+    },
+    "motivationalQuote": {
+      "text": "Ganas fuerza, valor y confianza con cada experiencia en la que realmente te detienes a mirar el miedo a la cara. Debes hacer aquello que crees que no puedes hacer.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Fiódor Dostoyevski",
+        "description": "Un novelista, filósofo y periodista ruso fundamental cuyas profundas obras exploraron la condición humana y los temas existenciales.",
+        "year": "1821"
+      },
+      {
+        "name": "Kurt Vonnegut Jr.",
+        "description": "Un influyente autor estadounidense conocido por sus novelas satíricas y de humor negro, que a menudo incorporaban elementos de ciencia ficción.",
+        "year": "1922"
+      },
+      {
+        "name": "Leonardo DiCaprio",
+        "description": "Un actor y productor de cine estadounidense muy aclamado, conocido por sus actuaciones versátiles y su activismo ambiental.",
+        "year": "1974"
+      }
+    ],
+    "events": [
+      {
+        "title": "El Armisticio Pone Fin a la Primera Guerra Mundial",
+        "description": "En este día, se firmó el armisticio entre los Aliados y Alemania, poniendo fin formalmente a las brutales hostilidades de la Primera Guerra Mundial.",
+        "year": "1918"
+      },
+      {
+        "title": "Tumba de los Desconocidos Dedicada",
+        "description": "El presidente Warren G. Harding dedicó la Tumba de los Desconocidos en el Cementerio Nacional de Arlington, honrando a los soldados estadounidenses no identificados que murieron en la guerra.",
+        "year": "1921"
+      },
+      {
+        "title": "Establecido el Sistema de Carreteras Numeradas de EE. UU.",
+        "description": "Estados Unidos estableció su sistema de carreteras numeradas, creando una red estandarizada para viajes y comercio nacionales.",
+        "year": "1926"
+      },
+      {
+        "title": "Angola Gana la Independencia",
+        "description": "Angola declaró su independencia de Portugal, marcando un paso significativo en la autodeterminación y soberanía de la nación.",
+        "year": "1975"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día de los Veteranos",
+      "teaser": "Observado en los Estados Unidos, este feriado federal honra a los veteranos militares de las Fuerzas Armadas de EE. UU., conmemorando originalmente el fin de la Primera Guerra Mundial."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Martin of Tours",
+        "type": "Bishop, Confessor",
+        "description": "A former Roman soldier, St. Martin is renowned for sharing half his cloak with a freezing beggar, who later appeared to him as Christ. He became a zealous bishop in Gaul, tirelessly spreading Christianity and performing miracles."
+      },
+      {
+        "name": "St. Menas of Egypt",
+        "type": "Great-Martyr, Wonder-Worker",
+        "description": "An Egyptian military officer who became a Christian, St. Menas renounced his rank during the persecutions of Diocletian and Maximian. He lived an ascetic life before publicly confessing his faith and being martyred around 304 AD."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Veterans Day",
+        "description": "Observed in the United States, this federal holiday honors military veterans of the U.S. Armed Forces, originally commemorating the end of World War I."
+      },
+      {
+        "name": "Remembrance Day",
+        "description": "Commemorated in Commonwealth countries, this day honors armed forces members who died in the line of duty, marking the anniversary of the Armistice of 1918."
+      },
+      {
+        "name": "Armistice Day",
+        "description": "Observed internationally, this day marks the formal end of major hostilities of World War I at the 11th hour of the 11th day of the 11th month in 1918."
+      },
+      {
+        "name": "Angola Independence Day",
+        "description": "On this day in 1975, Angola gained its independence after over 300 years of Portuguese rule."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Let us not forget that the causes of human actions are usually immeasurably more complex and varied than our subsequent explanations of them.",
+      "author": "Fyodor Dostoevsky",
+      "context": "Fyodor Dostoevsky, a renowned Russian novelist and philosopher, was born on November 11, 1821. His works often delved into the profound complexities of the human condition and morality."
+    },
+    "motivationalQuote": {
+      "text": "You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You must do the thing you think you cannot do.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Fyodor Dostoevsky",
+        "description": "A pivotal Russian novelist, philosopher, and journalist whose profound works explored the human condition and existential themes.",
+        "year": "1821"
+      },
+      {
+        "name": "Kurt Vonnegut Jr.",
+        "description": "An influential American author known for his satirical and darkly humorous novels, often incorporating science fiction elements.",
+        "year": "1922"
+      },
+      {
+        "name": "Leonardo DiCaprio",
+        "description": "A highly acclaimed American actor and film producer, known for his versatile performances and environmental activism.",
+        "year": "1974"
+      }
+    ],
+    "events": [
+      {
+        "title": "Armistice Ends World War I",
+        "description": "On this day, the armistice was signed between the Allies and Germany, formally ending the brutal hostilities of World War I.",
+        "year": "1918"
+      },
+      {
+        "title": "Tomb of the Unknowns Dedicated",
+        "description": "President Warren G. Harding dedicated the Tomb of the Unknowns at Arlington National Cemetery, honoring unidentified American soldiers who died in war.",
+        "year": "1921"
+      },
+      {
+        "title": "U.S. Numbered Highway System Established",
+        "description": "The United States established its numbered highway system, creating a standardized network for national travel and commerce.",
+        "year": "1926"
+      },
+      {
+        "title": "Angola Gains Independence",
+        "description": "Angola declared its independence from Portugal, marking a significant step in the nation's self-determination and sovereignty.",
+        "year": "1975"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Veterans Day",
+      "teaser": "Observed in the United States, this federal holiday honors military veterans of the U.S. Armed Forces, originally commemorating the end of World War I."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Martinho de Tours",
+        "type": "Bispo, Confessor",
+        "description": "Antigo soldado romano, São Martinho é conhecido por partilhar metade da sua capa com um mendigo que congelava, que mais tarde lhe apareceu como Cristo. Tornou-se um bispo zeloso na Gália, espalhando incansavelmente o cristianismo e realizando milagres."
+      },
+      {
+        "name": "São Menas do Egito",
+        "type": "Grande Mártir, Taumaturgo",
+        "description": "Oficial militar egípcio que se tornou cristão, São Menas renunciou ao seu posto durante as perseguições de Diocleciano e Maximiano. Viveu uma vida ascética antes de confessar publicamente a sua fé e ser martirizado por volta de 304 d.C."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia dos Veteranos",
+        "description": "Celebrado nos Estados Unidos, este feriado federal homenageia os veteranos militares das Forças Armadas dos EUA, originalmente comemorando o fim da Primeira Guerra Mundial."
+      },
+      {
+        "name": "Dia da Memória",
+        "description": "Comemorado nos países da Commonwealth, este dia homenageia os membros das forças armadas que morreram em serviço, marcando o aniversário do Armistício de 1918."
+      },
+      {
+        "name": "Dia do Armistício",
+        "description": "Observado internacionalmente, este dia marca o fim formal das principais hostilidades da Primeira Guerra Mundial à 11ª hora do 11º dia do 11º mês de 1918."
+      },
+      {
+        "name": "Dia da Independência de Angola",
+        "description": "Neste dia, em 1975, Angola obteve a sua independência após mais de 300 anos de domínio português."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Não nos esqueçamos de que as causas das ações humanas são geralmente incomensuravelmente mais complexas e variadas do que as nossas explicações subsequentes sobre elas.",
+      "author": "Fiódor Dostoiévski",
+      "context": "Fiódor Dostoiévski, um renomado romancista e filósofo russo, nasceu em 11 de novembro de 1821. As suas obras frequentemente aprofundavam-se nas profundas complexidades da condição humana e da moralidade."
+    },
+    "motivationalQuote": {
+      "text": "Você ganha força, coragem e confiança a cada experiência em que realmente para para encarar o medo. Você deve fazer aquilo que pensa que não consegue fazer.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Fiódor Dostoiévski",
+        "description": "Um romancista, filósofo e jornalista russo fundamental cujas obras profundas exploraram a condição humana e temas existenciais.",
+        "year": "1821"
+      },
+      {
+        "name": "Kurt Vonnegut Jr.",
+        "description": "Um influente autor americano conhecido por seus romances satíricos e de humor sombrio, frequentemente incorporando elementos de ficção científica.",
+        "year": "1922"
+      },
+      {
+        "name": "Leonardo DiCaprio",
+        "description": "Um aclamado ator e produtor de cinema americano, conhecido por suas performances versáteis e ativismo ambiental.",
+        "year": "1974"
+      }
+    ],
+    "events": [
+      {
+        "title": "Armistício Põe Fim à Primeira Guerra Mundial",
+        "description": "Neste dia, o armistício foi assinado entre os Aliados e a Alemanha, pondo fim formalmente às brutais hostilidades da Primeira Guerra Mundial.",
+        "year": "1918"
+      },
+      {
+        "title": "Túmulo dos Soldados Desconhecidos Dedicado",
+        "description": "O Presidente Warren G. Harding dedicou o Túmulo dos Soldados Desconhecidos no Cemitério Nacional de Arlington, homenageando soldados americanos não identificados que morreram na guerra.",
+        "year": "1921"
+      },
+      {
+        "title": "Sistema Rodoviário Numerado dos EUA Estabelecido",
+        "description": "Os Estados Unidos estabeleceram o seu sistema rodoviário numerado, criando uma rede padronizada para viagens e comércio nacionais.",
+        "year": "1926"
+      },
+      {
+        "title": "Angola Obtém Independência",
+        "description": "Angola declarou a sua independência de Portugal, marcando um passo significativo na autodeterminação e soberania da nação.",
+        "year": "1975"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia dos Veteranos",
+      "teaser": "Celebrado nos Estados Unidos, este feriado federal homenageia os veteranos militares das Forças Armadas dos EUA, originalmente comemorando o fim da Primeira Guerra Mundial."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Martí de Tours",
+        "type": "Bisbe, Confessor",
+        "description": "Antic soldat romà, Sant Martí és reconegut per haver compartit la meitat de la seva capa amb un captaire glaçat, qui més tard se li va aparèixer com a Crist. Va esdevenir un bisbe zelós a la Gàl·lia, difonent incansablement el cristianisme i realitzant miracles."
+      },
+      {
+        "name": "Sant Mena d'Egipte",
+        "type": "Gran Màrtir, Taumaturg",
+        "description": "Oficial militar egipci que es va convertir al cristianisme, Sant Mena va renunciar al seu rang durant les persecucions de Dioclecià i Maximià. Va viure una vida ascètica abans de confessar públicament la seva fe i ser martiritzat al voltant del 304 dC."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia dels Veterans",
+        "description": "Celebrat als Estats Units, aquesta festa federal homenatja els veterans militars de les Forces Armades dels EUA, originalment commemorant la fi de la Primera Guerra Mundial."
+      },
+      {
+        "name": "Dia del Record",
+        "description": "Commemorat als països de la Commonwealth, aquest dia honora els membres de les forces armades que van morir en acte de servei, marcant l'aniversari de l'Armistici de 1918."
+      },
+      {
+        "name": "Dia de l'Armistici",
+        "description": "Observat internacionalment, aquest dia marca la fi formal de les hostilitats principals de la Primera Guerra Mundial a l'onzena hora de l'onzè dia de l'onzè mes de 1918."
+      },
+      {
+        "name": "Dia de la Independència d'Angola",
+        "description": "En aquest dia de 1975, Angola va obtenir la seva independència després de més de 300 anys de domini portuguès."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No oblidem que les causes de les accions humanes són generalment infinitament més complexes i variades que les nostres explicacions posteriors d'elles.",
+      "author": "Fiódor Dostoievski",
+      "context": "Fiódor Dostoievski, un reconegut novel·lista i filòsof rus, va néixer l'11 de novembre de 1821. Les seves obres sovint aprofundien en les profundes complexitats de la condició humana i la moralitat."
+    },
+    "motivationalQuote": {
+      "text": "Guanyes força, coratge i confiança amb cada experiència en la qual realment t'atures a mirar la por a la cara. Has de fer allò que creus que no pots fer.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Fiódor Dostoievski",
+        "description": "Un novel·lista, filòsof i periodista rus fonamental les obres profundes del qual exploraven la condició humana i temes existencials.",
+        "year": "1821"
+      },
+      {
+        "name": "Kurt Vonnegut Jr.",
+        "description": "Un influent autor americà conegut per les seves novel·les satíriques i amb humor fosc, sovint incorporant elements de ciència-ficció.",
+        "year": "1922"
+      },
+      {
+        "name": "Leonardo DiCaprio",
+        "description": "Un actor i productor de cinema americà molt aclamat, conegut per les seves actuacions versàtils i el seu activisme ambiental.",
+        "year": "1974"
+      }
+    ],
+    "events": [
+      {
+        "title": "L'Armistici Posa Fi a la Primera Guerra Mundial",
+        "description": "En aquest dia, es va signar l'armistici entre els Aliats i Alemanya, posant fi formalment a les brutals hostilitats de la Primera Guerra Mundial.",
+        "year": "1918"
+      },
+      {
+        "title": "Dedicació de la Tomba dels Desconeguts",
+        "description": "El president Warren G. Harding va dedicar la Tomba dels Desconeguts al Cementiri Nacional d'Arlington, honrant els soldats americans no identificats que van morir en guerra.",
+        "year": "1921"
+      },
+      {
+        "title": "Establiment del Sistema de Carreteres Numerades dels EUA",
+        "description": "Els Estats Units van establir el seu sistema de carreteres numerades, creant una xarxa estandarditzada per a viatges i comerç nacionals.",
+        "year": "1926"
+      },
+      {
+        "title": "Angola Obté la Independència",
+        "description": "Angola va declarar la seva independència de Portugal, marcant un pas significatiu en l'autodeterminació i la sobirania de la nació.",
+        "year": "1975"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia dels Veterans",
+      "teaser": "Celebrat als Estats Units, aquesta festa federal homenatja els veterans militars de les Forces Armades dels EUA, originalment commemorant la fi de la Primera Guerra Mundial."
+    }
+  }
+}
