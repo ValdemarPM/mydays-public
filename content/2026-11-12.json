@@ -1,0 +1,327 @@
+{
+  "date": "2026-11-12",
+  "es": {
+    "saints": [
+      {
+        "name": "San Josafat Kuncevyc",
+        "type": "Obispo y Mártir",
+        "description": "Un arzobispo ucraniano del siglo XVII, San Josafat trabajó por la unidad entre las Iglesias Ortodoxa Oriental y Católica Romana, dando finalmente su vida por esta causa. Es considerado una figura que ejemplifica la dedicación a la unidad cristiana."
+      },
+      {
+        "name": "San Millán de la Cogolla",
+        "type": "Ermitaño y Sacerdote",
+        "description": "Nacido en una familia de agricultores pobres en España, trabajó como pastor antes de convertirse en ermitaño y más tarde en sacerdote. Fundó el monasterio de La Cogolla y sirvió como su primer abad."
+      },
+      {
+        "name": "San Juan el Limosnero",
+        "type": "Patriarca de Alejandría",
+        "description": "Nacido en Chipre en el siglo VI, San Juan fue conocido por su inmensa caridad y actitud amable hacia las personas, siempre consciente de su alma y de la muerte. Fue un asceta estricto y hombre de oración."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Neumonía",
+        "description": "Esta observancia internacional tiene como objetivo concienciar sobre la neumonía, la principal causa infecciosa de muerte en niños a nivel mundial, y abogar por la protección, prevención y tratamiento."
+      },
+      {
+        "name": "Día Mundial de la Calidad",
+        "description": "Conmemorado internacionalmente, el Día Mundial de la Calidad destaca la importancia de la gestión de la calidad para mejorar la prosperidad organizacional y nacional."
+      },
+      {
+        "name": "Día Nacional del French Dip",
+        "description": "Celebrado en Estados Unidos, este día anima a disfrutar del clásico sándwich French Dip, a menudo servido con un acompañamiento de au jus para mojar."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No importa cuánto prefieran las mujeres apoyarse, ser protegidas y sostenidas, ni cuánto deseen los hombres que lo hagan, deben hacer el viaje de la vida solas, y para su seguridad en caso de emergencia deben saber algo de las leyes de navegación.",
+      "author": "Elizabeth Cady Stanton",
+      "context": "Elizabeth Cady Stanton, una líder pionera en el movimiento por los derechos de la mujer y sufragista, nació el 12 de noviembre de 1815. Esta cita refleja su defensa de la autosuficiencia y la educación de las mujeres."
+    },
+    "motivationalQuote": {
+      "text": "La vida se encoge o se expande en proporción al valor de uno.",
+      "author": "Anaïs Nin"
+    },
+    "births": [
+      {
+        "name": "Elizabeth Cady Stanton",
+        "description": "Una sufragista estadounidense, activista social, abolicionista y figura destacada en el movimiento temprano por los derechos de la mujer.",
+        "year": "1815"
+      },
+      {
+        "name": "Grace Kelly",
+        "description": "Actriz de cine estadounidense que se convirtió en Princesa de Mónaco tras casarse con el Príncipe Rainiero III en 1956.",
+        "year": "1929"
+      },
+      {
+        "name": "Auguste Rodin",
+        "description": "Un renombrado escultor francés, considerado el progenitor de la escultura moderna, conocido por obras icónicas como 'El Pensador' y 'El Beso'.",
+        "year": "1840"
+      }
+    ],
+    "events": [
+      {
+        "title": "Se Propone la World Wide Web",
+        "description": "Tim Berners-Lee publicó una propuesta formal para la creación de la World Wide Web, sentando las bases para la conectividad digital global.",
+        "year": "1990"
+      },
+      {
+        "title": "Se Abre el Puente San Francisco-Oakland Bay",
+        "description": "El monumental Puente San Francisco-Oakland Bay, una maravilla de la ingeniería, se abrió oficialmente al tráfico en California.",
+        "year": "1936"
+      },
+      {
+        "title": "El Transbordador Espacial Atlantis se Acopla con la Mir",
+        "description": "El Transbordador Espacial Atlantis fue lanzado en la misión STS-74, entregando con éxito el Módulo de Acoplamiento de la Mir a la estación espacial rusa Mir.",
+        "year": "1995"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Mundial de la Neumonía",
+      "teaser": "Esta observancia internacional tiene como objetivo concienciar sobre la neumonía, la principal causa infecciosa de muerte en niños a nivel mundial, y abogar por la protección, prevención y tratamiento."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Josaphat Kuncevyc",
+        "type": "Bishop and Martyr",
+        "description": "A 17th-century Ukrainian archbishop, Saint Josaphat worked for unity between the Eastern Orthodox and Roman Catholic Churches, ultimately giving his life for this cause. He is regarded as a figure who exemplifies dedication to Christian unity."
+      },
+      {
+        "name": "Saint Emilian Cucullatus",
+        "type": "Hermit and Priest",
+        "description": "Born to a poor farm family in Spain, he worked as a shepherd before becoming a hermit and later a priest. He founded the monastery of La Cogolla and served as its first abbot."
+      },
+      {
+        "name": "Saint John the Merciful",
+        "type": "Patriarch of Alexandria",
+        "description": "Born on Cyprus in the sixth century, Saint John was known for his immense charity and gentle attitude towards people, always mindful of his soul and of death. He was a strict ascetic and man of prayer."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Pneumonia Day",
+        "description": "This international observance aims to raise awareness about pneumonia, the world's leading infectious killer of children, and to advocate for protection, prevention, and treatment."
+      },
+      {
+        "name": "World Quality Day",
+        "description": "Commemorated internationally, World Quality Day highlights the importance of quality management in enhancing organizational and national prosperity."
+      },
+      {
+        "name": "National French Dip Day",
+        "description": "Celebrated in the United States, this day encourages enjoying the classic French Dip sandwich, often served with a side of au jus for dipping."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No matter how much women prefer to lean, to be protected and supported, nor how much men desire to have them do so, they must make the voyage of life alone, and for safety in an emergency they must know something of the laws of navigation.",
+      "author": "Elizabeth Cady Stanton",
+      "context": "Elizabeth Cady Stanton, a pioneering leader in the women's rights movement and a suffragist, was born on November 12, 1815. This quote reflects her advocacy for women's self-reliance and education."
+    },
+    "motivationalQuote": {
+      "text": "Life shrinks or expands in proportion to one's courage.",
+      "author": "Anaïs Nin"
+    },
+    "births": [
+      {
+        "name": "Elizabeth Cady Stanton",
+        "description": "An American suffragist, social activist, abolitionist, and leading figure in the early women's rights movement.",
+        "year": "1815"
+      },
+      {
+        "name": "Grace Kelly",
+        "description": "An American film actress who became Princess of Monaco after marrying Prince Rainier III in 1956.",
+        "year": "1929"
+      },
+      {
+        "name": "Auguste Rodin",
+        "description": "A renowned French sculptor, considered the progenitor of modern sculpture, known for iconic works like 'The Thinker' and 'The Kiss'.",
+        "year": "1840"
+      }
+    ],
+    "events": [
+      {
+        "title": "World Wide Web Proposed",
+        "description": "Tim Berners-Lee published a formal proposal for the creation of the World Wide Web, laying the foundation for global digital connectivity.",
+        "year": "1990"
+      },
+      {
+        "title": "San Francisco-Oakland Bay Bridge Opens",
+        "description": "The monumental San Francisco–Oakland Bay Bridge, an engineering marvel, officially opened to traffic in California.",
+        "year": "1936"
+      },
+      {
+        "title": "Space Shuttle Atlantis Docks with Mir",
+        "description": "Space Shuttle Atlantis launched on mission STS-74, successfully delivering the Mir Docking Module to the Russian space station Mir.",
+        "year": "1995"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is World Pneumonia Day",
+      "teaser": "This international observance aims to raise awareness about pneumonia, the world's leading infectious killer of children, and to advocate for protection, prevention, and treatment."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Josafá Kuncevyc",
+        "type": "Bispo e Mártir",
+        "description": "Arcebispo ucraniano do século XVII, São Josafá trabalhou pela unidade entre as Igrejas Ortodoxa Oriental e Católica Romana, dando finalmente a vida por esta causa. Ele é considerado uma figura que exemplifica a dedicação à unidade cristã."
+      },
+      {
+        "name": "Santo Emiliano",
+        "type": "Eremita e Sacerdote",
+        "description": "Nascido em uma família de camponeses pobres na Espanha, trabalhou como pastor antes de se tornar eremita e, mais tarde, sacerdote. Fundou o mosteiro de La Cogolla e serviu como seu primeiro abade."
+      },
+      {
+        "name": "São João Esmoler",
+        "type": "Patriarca de Alexandria",
+        "description": "Nascido em Chipre no século VI, São João era conhecido por sua imensa caridade e atitude gentil para com as pessoas, sempre atento à sua alma e à morte. Ele foi um asceta rigoroso e homem de oração."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Pneumonia",
+        "description": "Esta observância internacional visa aumentar a conscientização sobre a pneumonia, a principal causa infecciosa de morte em crianças em todo o mundo, e defender a proteção, prevenção e tratamento."
+      },
+      {
+        "name": "Dia Mundial da Qualidade",
+        "description": "Comemorado internacionalmente, o Dia Mundial da Qualidade destaca a importância da gestão da qualidade no aprimoramento da prosperidade organizacional e nacional."
+      },
+      {
+        "name": "Dia Nacional do French Dip",
+        "description": "Celebrado nos Estados Unidos, este dia incentiva a desfrutar do clássico sanduíche French Dip, frequentemente servido com um acompanhamento de au jus para molhar."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Não importa o quanto as mulheres prefiram se apoiar, ser protegidas e sustentadas, nem o quanto os homens desejem que elas o façam, elas devem fazer a viagem da vida sozinhas, e para a segurança em uma emergência devem saber algo das leis de navegação.",
+      "author": "Elizabeth Cady Stanton",
+      "context": "Elizabeth Cady Stanton, uma líder pioneira no movimento pelos direitos das mulheres e sufragista, nasceu em 12 de novembro de 1815. Esta citação reflete sua defesa da autoconfiança e educação das mulheres."
+    },
+    "motivationalQuote": {
+      "text": "A vida encolhe ou se expande na proporção da coragem de cada um.",
+      "author": "Anaïs Nin"
+    },
+    "births": [
+      {
+        "name": "Elizabeth Cady Stanton",
+        "description": "Uma sufragista americana, ativista social, abolicionista e figura proeminente no início do movimento pelos direitos das mulheres.",
+        "year": "1815"
+      },
+      {
+        "name": "Grace Kelly",
+        "description": "Atriz de cinema americana que se tornou Princesa de Mônaco após se casar com o Príncipe Rainier III em 1956.",
+        "year": "1929"
+      },
+      {
+        "name": "Auguste Rodin",
+        "description": "Um renomado escultor francês, considerado o progenitor da escultura moderna, conhecido por obras icônicas como 'O Pensador' e 'O Beijo'.",
+        "year": "1840"
+      }
+    ],
+    "events": [
+      {
+        "title": "Proposta a World Wide Web",
+        "description": "Tim Berners-Lee publicou uma proposta formal para a criação da World Wide Web, lançando as bases para a conectividade digital global.",
+        "year": "1990"
+      },
+      {
+        "title": "Ponte San Francisco-Oakland Bay é Aberta",
+        "description": "A monumental Ponte San Francisco-Oakland Bay, uma maravilha da engenharia, foi oficialmente aberta ao tráfego na Califórnia.",
+        "year": "1936"
+      },
+      {
+        "title": "Ônibus Espacial Atlantis Acopla com a Mir",
+        "description": "O Ônibus Espacial Atlantis foi lançado na missão STS-74, entregando com sucesso o Módulo de Acoplamento da Mir à estação espacial russa Mir.",
+        "year": "1995"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Mundial da Pneumonia",
+      "teaser": "Esta observância internacional visa aumentar a conscientização sobre a pneumonia, a principal causa infecciosa de morte em crianças em todo o mundo, e defender a proteção, prevenção e tratamento."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Josafat Kuncevyc",
+        "type": "Bisbe i Màrtir",
+        "description": "Arquebisbe ucraïnès del segle XVII, Sant Josafat va treballar per a la unitat entre les Esglésies Ortodoxa Oriental i Catòlica Romana, donant finalment la seva vida per aquesta causa. És considerat una figura que exemplifica la dedicació a la unitat cristiana."
+      },
+      {
+        "name": "Sant Millà de la Cogolla",
+        "type": "Ermità i Sacerdot",
+        "description": "Nascut en una família de pagesos pobres a Espanya, va treballar com a pastor abans de fer-se ermità i més tard sacerdot. Va fundar el monestir de La Cogolla i en va ser el primer abat."
+      },
+      {
+        "name": "Sant Joan l'Almoiner",
+        "type": "Patriarca d'Alexandria",
+        "description": "Nascut a Xipre al segle VI, Sant Joan era conegut per la seva immensa caritat i la seva actitud amable envers les persones, sempre conscient de la seva ànima i de la mort. Va ser un asceta estricte i un home d'oració."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Pneumònia",
+        "description": "Aquesta commemoració internacional té com a objectiu sensibilitzar sobre la pneumònia, la principal causa infecciosa de mort en nens a tot el món, i defensar la protecció, la prevenció i el tractament."
+      },
+      {
+        "name": "Dia Mundial de la Qualitat",
+        "description": "Commemorat internacionalment, el Dia Mundial de la Qualitat destaca la importància de la gestió de la qualitat per millorar la prosperitat organitzativa i nacional."
+      },
+      {
+        "name": "Dia Nacional del French Dip",
+        "description": "Celebrat als Estats Units, aquest dia fomenta gaudir del clàssic sandvitx French Dip, sovint servit amb un acompanyament d'au jus per sucar."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Per molt que les dones prefereixin recolzar-se, ser protegides i recolzades, ni per molt que els homes desitgin que ho facin, han de fer el viatge de la vida soles, i per a la seguretat en una emergència han de conèixer alguna cosa de les lleis de la navegació.",
+      "author": "Elizabeth Cady Stanton",
+      "context": "Elizabeth Cady Stanton, una líder pionera en el moviment pels drets de les dones i sufragista, va néixer el 12 de novembre de 1815. Aquesta cita reflecteix la seva defensa de l'autonomia i l'educació de les dones."
+    },
+    "motivationalQuote": {
+      "text": "La vida es redueix o s'expandeix en proporció al coratge d'un mateix.",
+      "author": "Anaïs Nin"
+    },
+    "births": [
+      {
+        "name": "Elizabeth Cady Stanton",
+        "description": "Sufragista, activista social, abolicionista i figura destacada del primer moviment pels drets de les dones als Estats Units.",
+        "year": "1815"
+      },
+      {
+        "name": "Grace Kelly",
+        "description": "Actriu de cinema nord-americana que va esdevenir Princesa de Mònaco després de casar-se amb el Príncep Rainier III el 1956.",
+        "year": "1929"
+      },
+      {
+        "name": "Auguste Rodin",
+        "description": "Reconegut escultor francès, considerat el progenitor de l'escultura moderna, conegut per obres icòniques com 'El Pensador' i 'El Petó'.",
+        "year": "1840"
+      }
+    ],
+    "events": [
+      {
+        "title": "Proposta de la World Wide Web",
+        "description": "Tim Berners-Lee va publicar una proposta formal per a la creació de la World Wide Web, establint les bases per a la connectivitat digital global.",
+        "year": "1990"
+      },
+      {
+        "title": "S'inaugura el pont San Francisco-Oakland Bay",
+        "description": "El monumental pont San Francisco-Oakland Bay, una meravella d'enginyeria, es va obrir oficialment al trànsit a Califòrnia.",
+        "year": "1936"
+      },
+      {
+        "title": "El Transbordador Espacial Atlantis s'acobla amb la Mir",
+        "description": "El Transbordador Espacial Atlantis es va llançar en la missió STS-74, lliurant amb èxit el Mòdul d'Acoblament Mir a l'estació espacial russa Mir.",
+        "year": "1995"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Mundial de la Pneumònia",
+      "teaser": "Aquesta commemoració internacional té com a objectiu sensibilitzar sobre la pneumònia, la principal causa infecciosa de mort en nens a tot el món, i defensar la protecció, la prevenció i el tractament."
+    }
+  }
+}
