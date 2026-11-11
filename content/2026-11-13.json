@@ -1,0 +1,311 @@
+{
+  "date": "2026-11-13",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Francisca Javiera Cabrini",
+        "type": "Virgen, Misionera",
+        "description": "Conocida como Madre Cabrini, fue una monja italoamericana que fundó las Misioneras del Sagrado Corazón de Jesús y se convirtió en la primera ciudadana estadounidense en ser canonizada como santa. Es la patrona de los inmigrantes y administradores de hospitales."
+      },
+      {
+        "name": "San Juan Crisóstomo",
+        "type": "Arzobispo de Constantinopla, Doctor de la Iglesia",
+        "description": "Uno de los Tres Jerarcas, fue un renombrado orador y prolífico escritor de Antioquía, ganando el nombre de 'Crisóstomo' (Boca de Oro) por sus elocuentes sermones."
+      },
+      {
+        "name": "San Homobono de Cremona",
+        "type": "Laico, Comerciante",
+        "description": "Un rico comerciante italiano conocido por sus obras de caridad, fue canonizado por su vida ejemplar de entrega a los pobres y necesitados."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Bondad",
+        "description": "Establecido por el Movimiento Mundial de la Bondad en 1998, este día promueve la bondad como un valor universal, fomentando actos de generosidad y compasión en todo el mundo."
+      },
+      {
+        "name": "Día de Sadie Hawkins",
+        "description": "Esta observancia cultural, inspirada en una tira cómica de 1937, tradicionalmente permite a las mujeres invitar a los hombres a una cita."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Ser lo que somos, y llegar a ser lo que somos capaces de ser, es el único fin de la vida.",
+      "author": "Robert Louis Stevenson",
+      "context": "Esta cita inspiradora se atribuye a Robert Louis Stevenson, un reconocido autor, poeta y escritor de viajes escocés, que nació el 13 de noviembre de 1850."
+    },
+    "motivationalQuote": {
+      "text": "Sé el cambio que deseas ver en el mundo.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Robert Louis Stevenson",
+        "description": "Un novelista, poeta, ensayista y escritor de viajes escocés, más conocido por obras como 'La isla del tesoro' y 'El extraño caso del Dr. Jekyll y Mr. Hyde'.",
+        "year": "1850"
+      },
+      {
+        "name": "Whoopi Goldberg",
+        "description": "Una actriz, comediante, autora y personalidad televisiva estadounidense, es una de las pocas artistas en haber ganado un Premio Emmy, Grammy, Óscar y Tony.",
+        "year": "1955"
+      },
+      {
+        "name": "Agustín de Hipona",
+        "description": "Un influyente obispo y teólogo romano cuyos escritos moldearon significativamente el cristianismo y la filosofía occidentales.",
+        "year": "0354"
+      }
+    ],
+    "events": [
+      {
+        "title": "La Corte Suprema de EE. UU. pone fin a la segregación en autobuses",
+        "description": "La Corte Suprema de EE. UU. declaró ilegales las leyes de Alabama que exigían autobuses segregados, poniendo fin de manera efectiva al Boicot de Autobuses de Montgomery, un momento crucial en el Movimiento por los Derechos Civiles.",
+        "year": "1956"
+      },
+      {
+        "title": "Dedicado el Monumento a los Veteranos de Vietnam",
+        "description": "El Monumento a los Veteranos de Vietnam, un monumento nacional en honor a los miembros de las fuerzas armadas de EE. UU. que lucharon en la Guerra de Vietnam, fue dedicado en Washington, D.C.",
+        "year": "1982"
+      },
+      {
+        "title": "Estreno de 'Fantasía' de Walt Disney",
+        "description": "La innovadora película musical animada de Walt Disney 'Fantasía', que presenta piezas de música clásica interpretadas por animación, tuvo su estreno en la Ciudad de Nueva York.",
+        "year": "1940"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Mundial de la Bondad",
+      "teaser": "Establecido por el Movimiento Mundial de la Bondad en 1998, este día promueve la bondad como un valor universal, fomentando actos de generosidad y compasión en todo el mundo."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Frances Xavier Cabrini",
+        "type": "Virgin, Missionary",
+        "description": "Known as Mother Cabrini, she was an Italian-American nun who founded the Missionary Sisters of the Sacred Heart of Jesus and became the first American citizen to be canonized as a saint. She is the patron saint of immigrants and hospital administrators."
+      },
+      {
+        "name": "Saint John Chrysostom",
+        "type": "Archbishop of Constantinople, Doctor of the Church",
+        "description": "One of the Three Hierarchs, he was a renowned orator and prolific writer from Antioch, earning the name 'Chrysostom' (Golden-mouthed) for his eloquent sermons."
+      },
+      {
+        "name": "Saint Homobonus of Cremona",
+        "type": "Layman, Merchant",
+        "description": "A wealthy Italian merchant known for his charitable works, he was canonized for his exemplary life of giving to the poor and needy."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Kindness Day",
+        "description": "Established by the World Kindness Movement in 1998, this day promotes kindness as a universal value, encouraging acts of generosity and compassion worldwide."
+      },
+      {
+        "name": "Sadie Hawkins Day",
+        "description": "This cultural observance, inspired by a comic strip from 1937, traditionally allows women to ask men out on a date."
+      }
+    ],
+    "historicalQuote": {
+      "text": "To be what we are, and to become what we are capable of becoming, is the only end of life.",
+      "author": "Robert Louis Stevenson",
+      "context": "This inspiring quote is attributed to Robert Louis Stevenson, a renowned Scottish author, poet, and travel writer, who was born on November 13, 1850."
+    },
+    "motivationalQuote": {
+      "text": "Be the change that you wish to see in the world.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Robert Louis Stevenson",
+        "description": "A Scottish novelist, poet, essayist, and travel writer, best known for works like 'Treasure Island' and 'Strange Case of Dr. Jekyll and Mr. Hyde'.",
+        "year": "1850"
+      },
+      {
+        "name": "Whoopi Goldberg",
+        "description": "An American actress, comedian, author, and television personality, she is one of the few entertainers to have won an Emmy, Grammy, Oscar, and Tony Award.",
+        "year": "1955"
+      },
+      {
+        "name": "Augustine of Hippo",
+        "description": "An influential Roman bishop and theologian whose writings significantly shaped Western Christianity and philosophy.",
+        "year": "0354"
+      }
+    ],
+    "events": [
+      {
+        "title": "U.S. Supreme Court ends bus segregation",
+        "description": "The U.S. Supreme Court declared Alabama laws requiring segregated buses illegal, effectively ending the Montgomery Bus Boycott, a pivotal moment in the Civil Rights Movement.",
+        "year": "1956"
+      },
+      {
+        "title": "Vietnam Veterans Memorial Dedicated",
+        "description": "The Vietnam Veterans Memorial, a national monument honoring service members of the U.S. armed forces who fought in the Vietnam War, was dedicated in Washington, D.C.",
+        "year": "1982"
+      },
+      {
+        "title": "Walt Disney's 'Fantasia' Premieres",
+        "description": "Walt Disney's groundbreaking animated musical film 'Fantasia', featuring classical music pieces interpreted by animation, had its premiere in New York City.",
+        "year": "1940"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is World Kindness Day",
+      "teaser": "Established by the World Kindness Movement in 1998, this day promotes kindness as a universal value, encouraging acts of generosity and compassion worldwide."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Francisca Xavier Cabrini",
+        "type": "Virgem, Missionária",
+        "description": "Conhecida como Madre Cabrini, foi uma freira ítalo-americana que fundou as Missionárias do Sagrado Coração de Jesus e se tornou a primeira cidadã americana a ser canonizada como santa. É a padroeira dos imigrantes e administradores de hospitais."
+      },
+      {
+        "name": "São João Crisóstomo",
+        "type": "Arcebispo de Constantinopla, Doutor da Igreja",
+        "description": "Um dos Três Hierarcas, foi um renomado orador e prolífico escritor de Antioquia, ganhando o nome de 'Crisóstomo' (Boca de Ouro) por seus sermões eloquentes."
+      },
+      {
+        "name": "Santo Homobono de Cremona",
+        "type": "Leigo, Comerciante",
+        "description": "Um rico comerciante italiano conhecido por suas obras de caridade, foi canonizado por sua vida exemplar de doação aos pobres e necessitados."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Bondade",
+        "description": "Estabelecido pelo Movimento Mundial da Bondade em 1998, este dia promove a bondade como um valor universal, incentivando atos de generosidade e compaixão em todo o mundo."
+      },
+      {
+        "name": "Dia de Sadie Hawkins",
+        "description": "Esta observância cultural, inspirada em uma tira de quadrinhos de 1937, tradicionalmente permite que as mulheres convidem os homens para um encontro."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Ser o que somos, e tornar-nos o que somos capazes de nos tornar, é o único fim da vida.",
+      "author": "Robert Louis Stevenson",
+      "context": "Esta citação inspiradora é atribuída a Robert Louis Stevenson, um renomado autor, poeta e escritor de viagens escocês, que nasceu em 13 de novembro de 1850."
+    },
+    "motivationalQuote": {
+      "text": "Seja a mudança que você deseja ver no mundo.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Robert Louis Stevenson",
+        "description": "Um romancista, poeta, ensaísta e escritor de viagens escocês, mais conhecido por obras como 'A Ilha do Tesouro' e 'O Estranho Caso do Dr. Jekyll e Mr. Hyde'.",
+        "year": "1850"
+      },
+      {
+        "name": "Whoopi Goldberg",
+        "description": "Uma atriz, comediante, autora e personalidade televisiva americana, ela é uma das poucas artistas a ter ganhado um Prêmio Emmy, Grammy, Oscar e Tony.",
+        "year": "1955"
+      },
+      {
+        "name": "Agostinho de Hipona",
+        "description": "Um influente bispo e teólogo romano cujos escritos moldaram significativamente o cristianismo e a filosofia ocidentais.",
+        "year": "0354"
+      }
+    ],
+    "events": [
+      {
+        "title": "Suprema Corte dos EUA encerra segregação em ônibus",
+        "description": "A Suprema Corte dos EUA declarou ilegais as leis do Alabama que exigiam ônibus segregados, encerrando efetivamente o Boicote aos Ônibus de Montgomery, um momento crucial no Movimento pelos Direitos Civis.",
+        "year": "1956"
+      },
+      {
+        "title": "Memorial dos Veteranos do Vietnã Dedicado",
+        "description": "O Memorial dos Veteranos do Vietnã, um monumento nacional em homenagem aos membros das forças armadas dos EUA que lutaram na Guerra do Vietnã, foi dedicado em Washington, D.C.",
+        "year": "1982"
+      },
+      {
+        "title": "Estreia de 'Fantasia' de Walt Disney",
+        "description": "O inovador filme musical de animação de Walt Disney 'Fantasia', que apresenta peças de música clássica interpretadas por animação, teve sua estreia em Nova York.",
+        "year": "1940"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Mundial da Bondade",
+      "teaser": "Estabelecido pelo Movimento Mundial da Bondade em 1998, este dia promove a bondade como um valor universal, incentivando atos de generosidade e compaixão em todo o mundo."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Francesca Xavier Cabrini",
+        "type": "Verge, Missionera",
+        "description": "Coneguda com a Mare Cabrini, va ser una monja italoamericana que va fundar les Germanes Missioneres del Sagrat Cor de Jesús i es va convertir en la primera ciutadana americana a ser canonitzada com a santa. És la patrona dels immigrants i dels administradors d'hospitals."
+      },
+      {
+        "name": "Sant Joan Crisòstom",
+        "type": "Arquebisbe de Constantinoble, Doctor de l'Església",
+        "description": "Un dels Tres Jerarques, va ser un orador reconegut i escriptor prolífic d'Antioquia, guanyant-se el nom de 'Crisòstom' (boca d'or) pels seus sermons eloqüents."
+      },
+      {
+        "name": "Sant Homobon de Cremona",
+        "type": "Lleg, Mercader",
+        "description": "Un ric mercader italià conegut per les seves obres de caritat, va ser canonitzat per la seva vida exemplar de donació als pobres i necessitats."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Bondat",
+        "description": "Establert pel Moviment Mundial de la Bondat l'any 1998, aquest dia promou la bondat com a valor universal, encoratjant actes de generositat i compassió arreu del món."
+      },
+      {
+        "name": "Dia de Sadie Hawkins",
+        "description": "Aquesta celebració cultural, inspirada en una tira còmica de 1937, tradicionalment permet a les dones convidar els homes a una cita."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Ser el que som, i esdevenir el que som capaços d'esdevenir, és l'únic fi de la vida.",
+      "author": "Robert Louis Stevenson",
+      "context": "Aquesta cita inspiradora s'atribueix a Robert Louis Stevenson, un reconegut autor, poeta i escriptor de viatges escocès, que va néixer el 13 de novembre de 1850."
+    },
+    "motivationalQuote": {
+      "text": "Sigues el canvi que vols veure al món.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Robert Louis Stevenson",
+        "description": "Novel·lista, poeta, assagista i escriptor de viatges escocès, més conegut per obres com 'L'illa del tresor' i 'L'estrany cas del Dr. Jekyll i el Sr. Hyde'.",
+        "year": "1850"
+      },
+      {
+        "name": "Whoopi Goldberg",
+        "description": "Actriu, comediant, autora i personalitat televisiva nord-americana, és una de les poques artistes que ha guanyat un premi Emmy, Grammy, Oscar i Tony.",
+        "year": "1955"
+      },
+      {
+        "name": "Agustí d'Hipona",
+        "description": "Un influent bisbe i teòleg romà els escrits del qual van modelar significativament el cristianisme occidental i la filosofia.",
+        "year": "0354"
+      }
+    ],
+    "events": [
+      {
+        "title": "El Tribunal Suprem dels EUA posa fi a la segregació als autobusos",
+        "description": "El Tribunal Suprem dels EUA va declarar il·legals les lleis d'Alabama que exigien autobusos segregats, posant fi efectivament al boicot als autobusos de Montgomery, un moment clau en el Moviment pels Drets Civils.",
+        "year": "1956"
+      },
+      {
+        "title": "Dedicació del Memorial dels Veterans del Vietnam",
+        "description": "El Memorial dels Veterans del Vietnam, un monument nacional en honor als membres de les forces armades dels EUA que van lluitar a la Guerra del Vietnam, va ser dedicat a Washington, D.C.",
+        "year": "1982"
+      },
+      {
+        "title": "Estrena de 'Fantasia' de Walt Disney",
+        "description": "La innovadora pel·lícula musical d'animació de Walt Disney 'Fantasia', que presenta peces de música clàssica interpretades per animació, es va estrenar a la ciutat de Nova York.",
+        "year": "1940"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Mundial de la Bondat",
+      "teaser": "Establert pel Moviment Mundial de la Bondat l'any 1998, aquest dia promou la bondat com a valor universal, encoratjant actes de generositat i compassió arreu del món."
+    }
+  }
+}
