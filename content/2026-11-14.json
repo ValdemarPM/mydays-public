@@ -1,0 +1,311 @@
+{
+  "date": "2026-11-14",
+  "es": {
+    "saints": [
+      {
+        "name": "San Lorenzo O'Toole",
+        "type": "Arzobispo",
+        "description": "Nacido en Irlanda, San Lorenzo O'Toole se convirtió en el Arzobispo de Dublín en 1161, conocido por reformar la administración y la vida clerical en su diócesis. Una vez continuó celebrando Misa después de ser atacado, mostrando una inmensa dedicación a su fe."
+      },
+      {
+        "name": "San Felipe Apóstol",
+        "type": "Apóstol",
+        "description": "Uno de los Doce Apóstoles, Felipe era nativo de Betsaida en Galilea. Es conmemorado por su obra misionera y su eventual martirio, siendo crucificado boca abajo."
+      },
+      {
+        "name": "San Gregorio Palamás",
+        "type": "Arzobispo",
+        "description": "Arzobispo de Tesalónica, San Gregorio Palamás fue un teólogo prominente y un campeón del hesicasmo ortodoxo, conocido por sus escritos espirituales y milagros. Reposó en el Señor el 14 de noviembre de 1359."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Diabetes",
+        "description": "Este día sensibiliza globalmente sobre la diabetes, conmemorando el cumpleaños de Sir Frederick Banting, quien codescubrió la insulina en 1921."
+      },
+      {
+        "name": "Día Internacional de la Niña",
+        "description": "Observado anualmente, este día está dedicado a celebrar y empoderar a las niñas de todo el mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Aconsejaría a los jóvenes artistas . . . que pintaran como pudieran, mientras pudieran, sin miedo a pintar mal . . . . Si su pintura no mejora por sí sola, significa que no se puede hacer nada y yo ¡no haría nada!",
+      "author": "Claude Monet",
+      "context": "Claude Monet, un reconocido pintor impresionista francés conocido por su serie 'Los nenúfares', nació el 14 de noviembre de 1840."
+    },
+    "motivationalQuote": {
+      "text": "Cree que puedes y ya estás a medio camino.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Astrid Lindgren",
+        "description": "Una querida autora sueca, más conocida por crear el personaje de Pippi Calzaslargas, quien llevó alegría a incontables niños en todo el mundo.",
+        "year": "1907"
+      },
+      {
+        "name": "Claude Monet",
+        "description": "Un influyente pintor francés y fundador de la pintura impresionista francesa, cuya obra capturó la luz y la atmósfera con pinceladas revolucionarias.",
+        "year": "1840"
+      },
+      {
+        "name": "Condoleezza Rice",
+        "description": "Una destacada politóloga y diplomática estadounidense, que ejerció como la 66ª Secretaria de Estado de EE. UU. y la primera mujer afroamericana en ocupar dicho cargo.",
+        "year": "1954"
+      }
+    ],
+    "events": [
+      {
+        "title": "Ruby Bridges Integra la Escuela de Nueva Orleans",
+        "description": "Ruby Bridges, de seis años, se convirtió en la primera niña afroamericana en asistir a una escuela primaria solo para blancos en Luisiana, un paso valiente en el movimiento por los derechos civiles en Estados Unidos.",
+        "year": "1960"
+      },
+      {
+        "title": "Lanzamiento de la Misión Apolo 12",
+        "description": "La NASA lanzó con éxito el Apolo 12, su segunda misión tripulada a la Luna, demostrando avances significativos en la exploración y tecnología espacial.",
+        "year": "1969"
+      },
+      {
+        "title": "Mariner 9 Entra en la Órbita de Marte",
+        "description": "La nave espacial Mariner 9 de la NASA entró con éxito en órbita alrededor de Marte, convirtiéndose en la primera nave espacial en orbitar otro planeta y proporcionando datos invaluables.",
+        "year": "1971"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Mundial de la Diabetes",
+      "teaser": "Este día sensibiliza globalmente sobre la diabetes, conmemorando el cumpleaños de Sir Frederick Banting, quien codescubrió la insulina en 1921."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Lawrence O'Toole",
+        "type": "Archbishop",
+        "description": "Born in Ireland, St. Lawrence O'Toole became the Archbishop of Dublin in 1161, known for reforming the administration and clerical life in his diocese. He once continued celebrating Mass after being attacked, showing immense dedication to his faith."
+      },
+      {
+        "name": "Holy Apostle Philip",
+        "type": "Apostle",
+        "description": "One of the Twelve Apostles, Philip was a native of Bethsaida in Galilee. He is commemorated for his missionary work and his eventual martyrdom, being crucified upside down."
+      },
+      {
+        "name": "St. Gregory Palamas",
+        "type": "Archbishop",
+        "description": "Archbishop of Thessalonica, St. Gregory Palamas was a prominent theologian and a champion of Orthodox hesychasm, known for his spiritual writings and miracles. He reposed in the Lord on November 14, 1359."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Diabetes Day",
+        "description": "This day raises global awareness of diabetes, commemorating the birthday of Sir Frederick Banting, who co-discovered insulin in 1921."
+      },
+      {
+        "name": "International Girls Day",
+        "description": "Observed annually, this day is dedicated to celebrating and empowering girls around the world."
+      }
+    ],
+    "historicalQuote": {
+      "text": "I would advise young artists . . . to paint as they can, as long as they can, without being afraid of painting badly . . . . If their painting doesn't improve by itself, it means that nothing can be done and I wouldn't do anything!",
+      "author": "Claude Monet",
+      "context": "Claude Monet, a renowned French Impressionist painter known for his 'Water Lilies' series, was born on November 14, 1840."
+    },
+    "motivationalQuote": {
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Astrid Lindgren",
+        "description": "A beloved Swedish author, best known for creating the character Pippi Longstocking, who brought joy to countless children worldwide.",
+        "year": "1907"
+      },
+      {
+        "name": "Claude Monet",
+        "description": "An influential French painter and a founder of French Impressionist painting, whose work captured light and atmosphere with revolutionary brushstrokes.",
+        "year": "1840"
+      },
+      {
+        "name": "Condoleezza Rice",
+        "description": "An accomplished American political scientist and diplomat, who served as the 66th U.S. Secretary of State and the first female African-American Secretary of State.",
+        "year": "1954"
+      }
+    ],
+    "events": [
+      {
+        "title": "Ruby Bridges Integrates New Orleans School",
+        "description": "Six-year-old Ruby Bridges became the first African-American child to attend an all-white elementary school in Louisiana, a courageous step in the American civil rights movement.",
+        "year": "1960"
+      },
+      {
+        "title": "Apollo 12 Mission Launched",
+        "description": "NASA successfully launched Apollo 12, its second crewed mission to the Moon, demonstrating significant advancements in space exploration and technology.",
+        "year": "1969"
+      },
+      {
+        "title": "Mariner 9 Enters Mars Orbit",
+        "description": "NASA's Mariner 9 spacecraft successfully entered orbit around Mars, becoming the first spacecraft to orbit another planet and providing invaluable data.",
+        "year": "1971"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is World Diabetes Day",
+      "teaser": "This day raises global awareness of diabetes, commemorating the birthday of Sir Frederick Banting, who co-discovered insulin in 1921."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Lourenço O'Toole",
+        "type": "Arcebispo",
+        "description": "Nascido na Irlanda, São Lourenço O'Toole tornou-se Arcebispo de Dublin em 1161, conhecido por reformar a administração e a vida clerical em sua diocese. Certa vez, continuou a celebrar a Missa após ser atacado, mostrando imensa dedicação à sua fé."
+      },
+      {
+        "name": "Santo Apóstolo Filipe",
+        "type": "Apóstolo",
+        "description": "Um dos Doze Apóstolos, Filipe era nativo de Betsaida, na Galileia. É comemorado por seu trabalho missionário e seu eventual martírio, sendo crucificado de cabeça para baixo."
+      },
+      {
+        "name": "São Gregório Palamas",
+        "type": "Arcebispo",
+        "description": "Arcebispo de Tessalônica, São Gregório Palamas foi um proeminente teólogo e defensor do hesicasmo ortodoxo, conhecido por seus escritos espirituais e milagres. Repousou no Senhor em 14 de novembro de 1359."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial do Diabetes",
+        "description": "Este dia aumenta a conscientização global sobre o diabetes, comemorando o aniversário de Sir Frederick Banting, que codescobriu a insulina em 1921."
+      },
+      {
+        "name": "Dia Internacional da Menina",
+        "description": "Observado anualmente, este dia é dedicado a celebrar e empoderar meninas em todo o mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Aconselharia jovens artistas . . . a pintar como pudessem, enquanto pudessem, sem medo de pintar mal . . . . Se a pintura deles não melhorar por si mesma, significa que nada pode ser feito e eu não faria nada!",
+      "author": "Claude Monet",
+      "context": "Claude Monet, um renomado pintor impressionista francês conhecido por sua série 'Nenúfares', nasceu em 14 de novembro de 1840."
+    },
+    "motivationalQuote": {
+      "text": "Acredite que você pode e você estará no meio do caminho.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Astrid Lindgren",
+        "description": "Uma amada autora sueca, mais conhecida por criar a personagem Pippi Meialonga, que trouxe alegria a inúmeras crianças em todo o mundo.",
+        "year": "1907"
+      },
+      {
+        "name": "Claude Monet",
+        "description": "Um influente pintor francês e fundador da pintura impressionista francesa, cuja obra capturou luz e atmosfera com pinceladas revolucionárias.",
+        "year": "1840"
+      },
+      {
+        "name": "Condoleezza Rice",
+        "description": "Uma distinta cientista política e diplomata americana, que serviu como a 66ª Secretária de Estado dos EUA e a primeira mulher afro-americana a ocupar o cargo.",
+        "year": "1954"
+      }
+    ],
+    "events": [
+      {
+        "title": "Ruby Bridges Integra Escola em Nova Orleans",
+        "description": "Ruby Bridges, de seis anos, tornou-se a primeira criança afro-americana a frequentar uma escola primária só para brancos na Louisiana, um passo corajoso no movimento pelos direitos civis americanos.",
+        "year": "1960"
+      },
+      {
+        "title": "Missão Apollo 12 Lançada",
+        "description": "A NASA lançou com sucesso a Apollo 12, sua segunda missão tripulada à Lua, demonstrando avanços significativos na exploração e tecnologia espacial.",
+        "year": "1969"
+      },
+      {
+        "title": "Mariner 9 Entra na Órbita de Marte",
+        "description": "A nave espacial Mariner 9 da NASA entrou com sucesso em órbita ao redor de Marte, tornando-se a primeira nave espacial a orbitar outro planeta e fornecendo dados inestimáveis.",
+        "year": "1971"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Mundial do Diabetes",
+      "teaser": "Este dia aumenta a conscientização global sobre o diabetes, comemorando o aniversário de Sir Frederick Banting, que codescobriu a insulina em 1921."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Llorenç O'Toole",
+        "type": "Arquebisbe",
+        "description": "Nascut a Irlanda, Sant Llorenç O'Toole va esdevenir arquebisbe de Dublín el 1161, conegut per reformar l'administració i la vida clerical a la seva diòcesi. Una vegada va continuar celebrant missa després de ser atacat, mostrant una immensa dedicació a la seva fe."
+      },
+      {
+        "name": "Sant Felip Apòstol",
+        "type": "Apòstol",
+        "description": "Un dels Dotze Apòstols, Felip era nadiu de Betsaida a Galilea. És commemorat pel seu treball missioner i el seu eventual martiri, sent crucificat de cap per avall."
+      },
+      {
+        "name": "Sant Gregori Palamàs",
+        "type": "Arquebisbe",
+        "description": "Arquebisbe de Tessalònica, Sant Gregori Palamàs va ser un teòleg destacat i un campió de l'hesicasme ortodox, conegut pels seus escrits espirituals i miracles. Va reposar en el Senyor el 14 de novembre de 1359."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Diabetis",
+        "description": "Aquest dia sensibilitza globalment sobre la diabetis, commemorant l'aniversari de Sir Frederick Banting, qui va co-descobrir la insulina el 1921."
+      },
+      {
+        "name": "Dia Internacional de les Nenes",
+        "description": "Observat anualment, aquest dia es dedica a celebrar i apoderar les nenes de tot el món."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Aconsellaria als joves artistes... que pintin com puguin, tant de temps com puguin, sense tenir por de pintar malament... Si la seva pintura no millora per si mateixa, vol dir que no es pot fer res i jo no faria res!",
+      "author": "Claude Monet",
+      "context": "Claude Monet, un reconegut pintor impressionista francès conegut per la seva sèrie 'Els nenúfars', va néixer el 14 de novembre de 1840."
+    },
+    "motivationalQuote": {
+      "text": "Creu que pots i ja hi ets a mig camí.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Astrid Lindgren",
+        "description": "Una estimada autora sueca, més coneguda per crear el personatge Pippi Calcesllargues, que va portar alegria a innombrables nens de tot el món.",
+        "year": "1907"
+      },
+      {
+        "name": "Claude Monet",
+        "description": "Un influent pintor francès i fundador de la pintura impressionista francesa, la seva obra va capturar la llum i l'atmosfera amb pinzellades revolucionàries.",
+        "year": "1840"
+      },
+      {
+        "name": "Condoleezza Rice",
+        "description": "Una destacada politòloga i diplomàtica nord-americana, que va servir com a 66a Secretària d'Estat dels EUA i la primera dona afroamericana Secretària d'Estat.",
+        "year": "1954"
+      }
+    ],
+    "events": [
+      {
+        "title": "Ruby Bridges integra l'escola de Nova Orleans",
+        "description": "Ruby Bridges, de sis anys, va esdevenir la primera nena afroamericana a assistir a una escola primària exclusivament blanca a Louisiana, un pas valent en el moviment pels drets civils nord-americans.",
+        "year": "1960"
+      },
+      {
+        "title": "Llançament de la Missió Apollo 12",
+        "description": "La NASA va llançar amb èxit l'Apollo 12, la seva segona missió tripulada a la Lluna, demostrant avenços significatius en l'exploració espacial i la tecnologia.",
+        "year": "1969"
+      },
+      {
+        "title": "Mariner 9 entra en òrbita de Mart",
+        "description": "La sonda Mariner 9 de la NASA va entrar amb èxit en òrbita al voltant de Mart, convertint-se en la primera sonda a orbitar un altre planeta i proporcionant dades inestimables.",
+        "year": "1971"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Mundial de la Diabetis",
+      "teaser": "Aquest dia sensibilitza globalment sobre la diabetis, commemorant l'aniversari de Sir Frederick Banting, qui va co-descobrir la insulina el 1921."
+    }
+  }
+}
