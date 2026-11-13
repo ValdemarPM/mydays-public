@@ -1,0 +1,327 @@
+{
+  "date": "2026-11-15",
+  "es": {
+    "saints": [
+      {
+        "name": "San Alberto Magno",
+        "type": "Obispo, Doctor de la Iglesia",
+        "description": "Un fraile dominico alemán y obispo católico que fue un renombrado filósofo, teólogo y científico. Fue pionero en introducir la ciencia y filosofía griega y árabe en la Europa medieval y fue maestro de Santo Tomás de Aquino."
+      },
+      {
+        "name": "San Malo de Alet",
+        "type": "Obispo",
+        "description": "Un converso adulto y monje que fue estudiante espiritual de San Brandán el Navegante. Fue el primer obispo de Alet, Francia, y estableció iglesias en la región ahora llamada Saint-Malo en su honor."
+      },
+      {
+        "name": "Santos Gurias, Samonas y Habibus",
+        "type": "Mártires y Confesores",
+        "description": "Estos tres santos sufrieron persecución bajo los emperadores Diocleciano y Maximiano, soportando crueles torturas por su fe cristiana en Edesa. Son honrados como patronos del matrimonio honorable en la tradición ortodoxa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día del Escritor Encarcelado",
+        "description": "Esta conmemoración destaca a los escritores que son perseguidos por usar sus palabras para decir la verdad, desafiar el poder y abogar por los derechos humanos."
+      },
+      {
+        "name": "Día Mundial en Recuerdo de las Víctimas de Accidentes de Tráfico",
+        "description": "Este día es un solemne homenaje a quienes han perdido la vida o sufrido lesiones en las carreteras de todo el mundo, honrando su memoria y promoviendo la seguridad vial."
+      },
+      {
+        "name": "Día de la República en Brasil",
+        "description": "Esta fiesta nacional en Brasil conmemora la transición del país de una monarquía a una república, marcando un cambio significativo en su panorama político."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Tengo cosas en mi cabeza que no son como lo que nadie me ha enseñado — formas e ideas tan cercanas a mí — tan naturales a mi forma de ser y pensar que no se me había ocurrido plasmarlas. Decidí empezar de nuevo, despojarme de lo que me habían enseñado.",
+      "author": "Georgia O'Keeffe",
+      "context": "Georgia O'Keeffe, una artista estadounidense pionera conocida como la 'Madre del Modernismo Americano', nació el 15 de noviembre de 1887. Esta cita refleja su espíritu independiente y su enfoque del arte, lo que la llevó a crear obras únicas e icónicas."
+    },
+    "motivationalQuote": {
+      "text": "Quien tiene un porqué para vivir puede soportar casi cualquier cómo.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "Georgia O'Keeffe",
+        "description": "Una influyente artista modernista estadounidense conocida por sus distintivas pinturas de flores ampliadas, rascacielos de Nueva York y paisajes de Nuevo México.",
+        "year": "1887"
+      },
+      {
+        "name": "William Herschel",
+        "description": "Astrónomo y compositor germano-británico, famoso por descubrir el planeta Urano y dos de sus lunas, Titania y Oberón.",
+        "year": "1738"
+      },
+      {
+        "name": "Ed Asner",
+        "description": "Actor estadounidense conocido por su papel de Lou Grant, ganador del premio Emmy, en 'The Mary Tyler Moore Show' y su spin-off 'Lou Grant'.",
+        "year": "1929"
+      }
+    ],
+    "events": [
+      {
+        "title": "Se Aprueban los Artículos de la Confederación",
+        "description": "Después de 16 meses de debate, el Congreso Continental aprobó los Artículos de la Confederación, sirviendo como la primera constitución de los Estados Unidos.",
+        "year": "1777"
+      },
+      {
+        "title": "Primera Asamblea de la Sociedad de Naciones",
+        "description": "La primera asamblea de la Sociedad de Naciones, una organización intergubernamental destinada a mantener la paz mundial, se celebró en Ginebra, Suiza.",
+        "year": "1920"
+      },
+      {
+        "title": "Lanzado el Primer Microprocesador Comercial",
+        "description": "Intel lanzó el primer microprocesador de chip único comercial del mundo, el Intel 4004, marcando un hito significativo en la tecnología informática.",
+        "year": "1971"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día del Escritor Encarcelado",
+      "teaser": "Esta conmemoración destaca a los escritores que son perseguidos por usar sus palabras para decir la verdad, desafiar el poder y abogar por los derechos humanos."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Albert the Great",
+        "type": "Bishop, Doctor of the Church",
+        "description": "A German Dominican friar and Catholic bishop who was a renowned philosopher, theologian, and scientist. He was a pioneer in introducing Greek and Arabic science and philosophy to medieval Europe and was the teacher of St. Thomas Aquinas."
+      },
+      {
+        "name": "St. Malo of Aleth",
+        "type": "Bishop",
+        "description": "An adult convert and monk who was a spiritual student of Saint Brendan the Navigator. He was the first bishop of Aleth, France, and established churches in the region now named Saint-Malo in his honor."
+      },
+      {
+        "name": "Sts. Gurias, Samonas, and Habibus",
+        "type": "Martyrs and Confessors",
+        "description": "These three saints suffered persecution under Emperors Diocletian and Maximian, enduring cruel tortures for their Christian faith in Edessa. They are honored as patrons of honorable marriage in the Orthodox tradition."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Day of the Imprisoned Writer",
+        "description": "This observance highlights writers who are persecuted for using their words to speak truth, challenging power, and advocating for human rights."
+      },
+      {
+        "name": "World Day of Remembrance for Road Traffic Victims",
+        "description": "This day is a solemn tribute to those who have lost their lives or suffered injuries on roads worldwide, honoring their memories and promoting road safety."
+      },
+      {
+        "name": "Republic Day in Brazil",
+        "description": "This national holiday in Brazil commemorates the country's transition from a monarchy to a republic, marking a significant shift in its political landscape."
+      }
+    ],
+    "historicalQuote": {
+      "text": "I have things in my head that are not like what anyone has taught me — shapes and ideas so near to me — so natural to my way of being and thinking that it hasn't occurred to me to put them down. I decided to start anew, to strip away what I had been taught.",
+      "author": "Georgia O'Keeffe",
+      "context": "Georgia O'Keeffe, a pioneering American artist known as the 'Mother of American Modernism,' was born on November 15, 1887. This quote reflects her independent spirit and approach to art, which led her to create unique and iconic works."
+    },
+    "motivationalQuote": {
+      "text": "He who has a why to live can bear almost any how.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "Georgia O'Keeffe",
+        "description": "An influential American modernist artist known for her distinctive paintings of enlarged flowers, New York skyscrapers, and New Mexico landscapes.",
+        "year": "1887"
+      },
+      {
+        "name": "William Herschel",
+        "description": "A German-British astronomer and composer, famous for discovering the planet Uranus and two of its moons, Titania and Oberon.",
+        "year": "1738"
+      },
+      {
+        "name": "Ed Asner",
+        "description": "An American actor known for his Emmy Award-winning role as Lou Grant on 'The Mary Tyler Moore Show' and its spin-off 'Lou Grant'.",
+        "year": "1929"
+      }
+    ],
+    "events": [
+      {
+        "title": "Articles of Confederation Approved",
+        "description": "After 16 months of debate, the Continental Congress approved the Articles of Confederation, serving as the first constitution of the United States.",
+        "year": "1777"
+      },
+      {
+        "title": "League of Nations First Assembly",
+        "description": "The first assembly of the League of Nations, an intergovernmental organization aimed at maintaining world peace, was held in Geneva, Switzerland.",
+        "year": "1920"
+      },
+      {
+        "title": "First Commercial Microprocessor Released",
+        "description": "Intel released the world's first commercial single-chip microprocessor, the Intel 4004, marking a significant milestone in computing technology.",
+        "year": "1971"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Day of the Imprisoned Writer",
+      "teaser": "This observance highlights writers who are persecuted for using their words to speak truth, challenging power, and advocating for human rights."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Alberto Magno",
+        "type": "Bispo, Doutor da Igreja",
+        "description": "Um frade dominicano alemão e bispo católico que foi um renomado filósofo, teólogo e cientista. Ele foi pioneiro na introdução da ciência e filosofia grega e árabe na Europa medieval e foi professor de São Tomás de Aquino."
+      },
+      {
+        "name": "São Maclou de Alet",
+        "type": "Bispo",
+        "description": "Um converso adulto e monge que foi estudante espiritual de São Brandão, o Navegador. Ele foi o primeiro bispo de Alet, França, e estabeleceu igrejas na região agora chamada Saint-Malo em sua homenagem."
+      },
+      {
+        "name": "Santos Gurias, Samonas e Habibus",
+        "type": "Mártires e Confessores",
+        "description": "Estes três santos sofreram perseguição sob os imperadores Diocleciano e Maximiano, suportando cruéis torturas por sua fé cristã em Edessa. Eles são honrados como padroeiros do casamento honroso na tradição ortodoxa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia do Escritor Encarcerado",
+        "description": "Esta observância destaca escritores que são perseguidos por usar suas palavras para dizer a verdade, desafiar o poder e defender os direitos humanos."
+      },
+      {
+        "name": "Dia Mundial em Memória das Vítimas da Estrada",
+        "description": "Este dia é uma homenagem solene àqueles que perderam a vida ou sofreram ferimentos nas estradas em todo o mundo, honrando suas memórias e promovendo a segurança rodoviária."
+      },
+      {
+        "name": "Dia da República no Brasil",
+        "description": "Este feriado nacional no Brasil comemora a transição do país de uma monarquia para uma república, marcando uma mudança significativa em seu cenário político."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Tenho coisas na minha cabeça que não são como as que alguém me ensinou — formas e ideias tão próximas de mim — tão naturais ao meu modo de ser e pensar que não me ocorreu colocá-las no papel. Decidi começar de novo, despir-me do que me haviam ensinado.",
+      "author": "Georgia O'Keeffe",
+      "context": "Georgia O'Keeffe, uma artista americana pioneira conhecida como a 'Mãe do Modernismo Americano', nasceu em 15 de novembro de 1887. Esta citação reflete seu espírito independente e sua abordagem à arte, o que a levou a criar obras únicas e icónicas."
+    },
+    "motivationalQuote": {
+      "text": "Aquele que tem um porquê para viver pode suportar quase qualquer como.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "Georgia O'Keeffe",
+        "description": "Uma influente artista modernista americana conhecida por suas distintivas pinturas de flores ampliadas, arranha-céus de Nova York e paisagens do Novo México.",
+        "year": "1887"
+      },
+      {
+        "name": "William Herschel",
+        "description": "Um astrônomo e compositor germano-britânico, famoso por descobrir o planeta Urano e duas de suas luas, Titânia e Oberon.",
+        "year": "1738"
+      },
+      {
+        "name": "Ed Asner",
+        "description": "Ator americano conhecido por seu papel premiado com o Emmy como Lou Grant em 'The Mary Tyler Moore Show' e seu spin-off 'Lou Grant'.",
+        "year": "1929"
+      }
+    ],
+    "events": [
+      {
+        "title": "Artigos da Confederação Aprovados",
+        "description": "Após 16 meses de debate, o Congresso Continental aprovou os Artigos da Confederação, servindo como a primeira constituição dos Estados Unidos.",
+        "year": "1777"
+      },
+      {
+        "title": "Primeira Assembleia da Liga das Nações",
+        "description": "A primeira assembleia da Liga das Nações, uma organização intergovernamental destinada a manter a paz mundial, foi realizada em Genebra, Suíça.",
+        "year": "1920"
+      },
+      {
+        "title": "Primeiro Microprocessador Comercial Lançado",
+        "description": "A Intel lançou o primeiro microprocessador comercial de chip único do mundo, o Intel 4004, marcando um marco significativo na tecnologia da computação.",
+        "year": "1971"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia do Escritor Encarcerado",
+      "teaser": "Esta observância destaca escritores que são perseguidos por usar suas palavras para dizer a verdade, desafiar o poder e defender os direitos humanos."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Albert el Gran",
+        "type": "Bisbe, Doctor de l'Església",
+        "description": "Un frare dominic alemany i bisbe catòlic que va ser un filòsof, teòleg i científic reconegut. Va ser un pioner en la introducció de la ciència i la filosofia grega i àrab a l'Europa medieval i va ser el mestre de Sant Tomàs d'Aquino."
+      },
+      {
+        "name": "Sant Maclou d'Aleth",
+        "type": "Bisbe",
+        "description": "Un convers adult i monjo que va ser estudiant espiritual de Sant Brandà el Navegant. Va ser el primer bisbe d'Aleth, França, i va establir esglésies a la regió que ara porta el nom de Saint-Malo en el seu honor."
+      },
+      {
+        "name": "Sants Gurias, Samonas i Habibus",
+        "type": "Màrtirs i Confessors",
+        "description": "Aquests tres sants van patir persecució sota els emperadors Dioclecià i Maximià, suportant tortures cruels per la seva fe cristiana a Edessa. Són venerats com a patrons del matrimoni honorable en la tradició ortodoxa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de l'Escriptor Empresonat",
+        "description": "Aquesta commemoració posa de manifest els escriptors que són perseguits per utilitzar les seves paraules per dir la veritat, desafiar el poder i defensar els drets humans."
+      },
+      {
+        "name": "Dia Mundial en Memòria de les Víctimes de Trànsit",
+        "description": "Aquest dia és un homenatge solemne a aquells que han perdut la vida o han patit lesions a les carreteres d'arreu del món, honrant la seva memòria i promovent la seguretat viària."
+      },
+      {
+        "name": "Dia de la República al Brasil",
+        "description": "Aquesta festa nacional al Brasil commemora la transició del país d'una monarquia a una república, marcant un canvi significatiu en el seu panorama polític."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Tinc coses al cap que no s'assemblen al que ningú m'ha ensenyat —formes i idees tan properes a mi— tan naturals a la meva manera de ser i pensar que no se m'havia acudit plasmar-les. Vaig decidir començar de nou, despullar-me del que m'havien ensenyat.",
+      "author": "Georgia O'Keeffe",
+      "context": "Georgia O'Keeffe, una artista nord-americana pionera coneguda com la 'Mare del Modernisme Americà', va néixer el 15 de novembre de 1887. Aquesta cita reflecteix el seu esperit independent i el seu enfocament a l'art, que la va portar a crear obres úniques i icòniques."
+    },
+    "motivationalQuote": {
+      "text": "Qui té un per què viure pot suportar gairebé qualsevol com.",
+      "author": "Friedrich Nietzsche"
+    },
+    "births": [
+      {
+        "name": "Georgia O'Keeffe",
+        "description": "Una influent artista modernista nord-americana coneguda per les seves distintives pintures de flors engrandides, gratacels de Nova York i paisatges de Nou Mèxic.",
+        "year": "1887"
+      },
+      {
+        "name": "William Herschel",
+        "description": "Un astrònom i compositor germano-britànic, famós per descobrir el planeta Urà i dues de les seves llunes, Titània i Oberó.",
+        "year": "1738"
+      },
+      {
+        "name": "Ed Asner",
+        "description": "Un actor nord-americà conegut pel seu paper guanyador d'un premi Emmy com a Lou Grant a 'The Mary Tyler Moore Show' i al seu spin-off 'Lou Grant'.",
+        "year": "1929"
+      }
+    ],
+    "events": [
+      {
+        "title": "Aprovació dels Articles de la Confederació",
+        "description": "Després de 16 mesos de debat, el Congrés Continental va aprovar els Articles de la Confederació, que van servir com a primera constitució dels Estats Units.",
+        "year": "1777"
+      },
+      {
+        "title": "Primera Assemblea de la Societat de Nacions",
+        "description": "La primera assemblea de la Societat de Nacions, una organització intergovernamental destinada a mantenir la pau mundial, es va celebrar a Ginebra, Suïssa.",
+        "year": "1920"
+      },
+      {
+        "title": "Llançament del Primer Microprocessador Comercial",
+        "description": "Intel va llançar el primer microprocessador d'un sol xip comercial del món, l'Intel 4004, marcant una fita significativa en la tecnologia informàtica.",
+        "year": "1971"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia de l'Escriptor Empresonat",
+      "teaser": "Aquesta commemoració posa de manifest els escriptors que són perseguits per utilitzar les seves paraules per dir la veritat, desafiar el poder i defensar els drets humans."
+    }
+  }
+}
