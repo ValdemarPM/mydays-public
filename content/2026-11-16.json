@@ -1,0 +1,367 @@
+{
+  "date": "2026-11-16",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Margarita de Escocia",
+        "type": "Reina",
+        "description": "Una Reina conocida por su piedad, obras de caridad y esfuerzos para reformar la Iglesia en Escocia, fomentando la educación y la cultura cristianas."
+      },
+      {
+        "name": "Santa Gertrudis la Grande",
+        "type": "Mística, Monja",
+        "description": "Una monja benedictina y mística que promovió la devoción al Sagrado Corazón de Jesús y fue conocida por sus profundos escritos espirituales."
+      },
+      {
+        "name": "Santa Inés de Asís",
+        "type": "Abadesa",
+        "description": "La hermana menor de Santa Clara, abrazó la pobreza franciscana y se convirtió en abadesa, guiando a sus hermanas con prudencia y amor."
+      },
+      {
+        "name": "San Mateo, Apóstol y Evangelista",
+        "type": "Apóstol, Evangelista",
+        "description": "Uno de los Doce Apóstoles, también conocido como Leví, fue un recaudador de impuestos que se convirtió en discípulo de Cristo y autor del Evangelio de Mateo."
+      },
+      {
+        "name": "San Hipacio de Gangra",
+        "type": "Obispo, Hieromártir",
+        "description": "Un obispo que participó en el Primer Concilio Ecuménico de Nicea y fue martirizado posteriormente por cismáticos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Tolerancia",
+        "description": "Una festividad anual de las Naciones Unidas establecida por la UNESCO en 1995 para promover la tolerancia, el entendimiento mutuo y el respeto entre culturas y pueblos de todo el mundo."
+      },
+      {
+        "name": "Día Internacional de la Revisión de los Limpiaparabrisas",
+        "description": "Una observancia que anima a los conductores a revisar regularmente sus limpiaparabrisas para una visibilidad óptima durante el mal tiempo."
+      },
+      {
+        "name": "Día de la Declaración de Soberanía, Estonia",
+        "description": "Conmemora la Declaración de Soberanía estonia emitida en 1988, que declaró la soberanía de Estonia de la Unión Soviética."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“La democracia es la mejor venganza.”",
+      "author": "Benazir Bhutto",
+      "context": "Benazir Bhutto, nacida en 1953, hizo historia el 16 de noviembre de 1988, cuando fue elegida Primera Ministra de Pakistán, convirtiéndose en la primera mujer en liderar un país musulmán en la historia moderna."
+    },
+    "motivationalQuote": {
+      "text": "Vive como si fueras a morir mañana. Aprende como si fueras a vivir para siempre.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Tiberio",
+        "description": "Un Emperador Romano que gobernó desde el 14 d.C. hasta el 37 d.C., conocido por sus cautelosas políticas fiscales y reformas.",
+        "year": "0042"
+      },
+      {
+        "name": "W. C. Handy",
+        "description": "Un compositor y músico estadounidense, a menudo conocido como el 'Padre del Blues', cuyas obras integraron el idioma del blues en la música popular.",
+        "year": "1873"
+      },
+      {
+        "name": "José Saramago",
+        "description": "Un escritor portugués que recibió el Premio Nobel de Literatura en 1998 por sus parábolas imaginativas, compasivas e irónicas.",
+        "year": "1922"
+      }
+    ],
+    "events": [
+      {
+        "title": "UNESCO Fundada",
+        "description": "La Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO) fue fundada oficialmente en Londres, con el objetivo de construir la paz a través de la cooperación internacional en educación, ciencia y cultura.",
+        "year": "1945"
+      },
+      {
+        "title": "Oklahoma Logra la Condición de Estado",
+        "description": "El Territorio Indio y el Territorio de Oklahoma se unieron oficialmente para formar Oklahoma, que fue admitido como el 46º estado de los Estados Unidos.",
+        "year": "1907"
+      },
+      {
+        "title": "Benazir Bhutto Elegida Primera Ministra",
+        "description": "Benazir Bhutto fue elegida Primera Ministra de Pakistán, convirtiéndose en la primera mujer en la historia moderna en liderar una nación musulmana, marcando un hito significativo para la democracia y el liderazgo femenino.",
+        "year": "1988"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de la Tolerancia",
+      "teaser": "Una festividad anual de las Naciones Unidas establecida por la UNESCO en 1995 para promover la tolerancia, el entendimiento mutuo y el respeto entre culturas y pueblos de todo el mundo."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Margaret of Scotland",
+        "type": "Queen",
+        "description": "A Queen known for her piety, charitable work, and efforts to reform the Church in Scotland, fostering Christian education and culture."
+      },
+      {
+        "name": "St. Gertrude the Great",
+        "type": "Mystic, Nun",
+        "description": "A Benedictine nun and mystic who promoted devotion to the Sacred Heart of Jesus and was known for her profound spiritual writings."
+      },
+      {
+        "name": "St. Agnes of Assisi",
+        "type": "Abbess",
+        "description": "The younger sister of St. Clare, she embraced Franciscan poverty and became an abbess, guiding her sisters with prudence and love."
+      },
+      {
+        "name": "Apostle and Evangelist Matthew",
+        "type": "Apostle, Evangelist",
+        "description": "One of the Twelve Apostles, also known as Levi, he was a tax collector who became a disciple of Christ and authored the Gospel of Matthew."
+      },
+      {
+        "name": "Saint Hypatius of Gangra",
+        "type": "Bishop, Hieromartyr",
+        "description": "A bishop who participated in the First Ecumenical Council at Nicea and was later martyred by schismatics."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day for Tolerance",
+        "description": "A United Nations annual holiday established by UNESCO in 1995 to promote tolerance, mutual understanding, and respect among cultures and peoples worldwide."
+      },
+      {
+        "name": "International Check Your Wipers Day",
+        "description": "An observance that encourages drivers to regularly check their windshield wipers for optimal visibility during inclement weather."
+      },
+      {
+        "name": "Day of Declaration of Sovereignty, Estonia",
+        "description": "Commemorates the Estonian Sovereignty Declaration issued in 1988, which declared Estonia's sovereignty from the Soviet Union."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“Democracy is the best revenge.”",
+      "author": "Benazir Bhutto",
+      "context": "Benazir Bhutto, who was born in 1953, made history on November 16, 1988, when she was elected Prime Minister of Pakistan, becoming the first woman to lead a Muslim country in modern history."
+    },
+    "motivationalQuote": {
+      "text": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Tiberius",
+        "description": "A Roman Emperor who ruled from 14 AD to 37 AD, known for his cautious fiscal policies and reforms.",
+        "year": "0042"
+      },
+      {
+        "name": "W. C. Handy",
+        "description": "An American composer and musician, often referred to as the 'Father of the Blues,' whose works integrated the blues idiom into popular music.",
+        "year": "1873"
+      },
+      {
+        "name": "José Saramago",
+        "description": "A Portuguese writer who was awarded the Nobel Prize in Literature in 1998 for his imaginative, compassionate, and ironic parables.",
+        "year": "1922"
+      }
+    ],
+    "events": [
+      {
+        "title": "UNESCO Founded",
+        "description": "The United Nations Educational, Scientific and Cultural Organization (UNESCO) was officially founded in London, aiming to build peace through international cooperation in education, science, and culture.",
+        "year": "1945"
+      },
+      {
+        "title": "Oklahoma Achieves Statehood",
+        "description": "Indian Territory and Oklahoma Territory officially joined to form Oklahoma, which was admitted as the 46th state of the United States.",
+        "year": "1907"
+      },
+      {
+        "title": "Benazir Bhutto Elected Prime Minister",
+        "description": "Benazir Bhutto was elected Prime Minister of Pakistan, becoming the first woman in modern history to lead a Muslim nation, marking a significant milestone for democracy and women's leadership.",
+        "year": "1988"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Day for Tolerance",
+      "teaser": "A United Nations annual holiday established by UNESCO in 1995 to promote tolerance, mutual understanding, and respect among cultures and peoples worldwide."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Margarida da Escócia",
+        "type": "Rainha",
+        "description": "Uma Rainha conhecida pela sua piedade, trabalho de caridade e esforços para reformar a Igreja na Escócia, promovendo a educação e a cultura cristãs."
+      },
+      {
+        "name": "Santa Gertrudes, a Grande",
+        "type": "Mística, Freira",
+        "description": "Uma freira beneditina e mística que promoveu a devoção ao Sagrado Coração de Jesus e foi conhecida pelos seus profundos escritos espirituais."
+      },
+      {
+        "name": "Santa Inês de Assis",
+        "type": "Abadessa",
+        "description": "A irmã mais nova de Santa Clara, abraçou a pobreza franciscana e tornou-se abadessa, guiando as suas irmãs com prudência e amor."
+      },
+      {
+        "name": "São Mateus, Apóstolo e Evangelista",
+        "type": "Apóstolo, Evangelista",
+        "description": "Um dos Doze Apóstolos, também conhecido como Levi, ele era um cobrador de impostos que se tornou discípulo de Cristo e autor do Evangelho de Mateus."
+      },
+      {
+        "name": "São Hipácio de Gangra",
+        "type": "Bispo, Hieromártir",
+        "description": "Um bispo que participou no Primeiro Concílio Ecuménico de Niceia e foi posteriormente martirizado por cismáticos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional para a Tolerância",
+        "description": "Um feriado anual das Nações Unidas estabelecido pela UNESCO em 1995 para promover a tolerância, a compreensão mútua e o respeito entre culturas e povos em todo o mundo."
+      },
+      {
+        "name": "Dia Internacional da Verificação dos Limpa-para-brisas",
+        "description": "Uma observância que incentiva os condutores a verificar regularmente os seus limpa-para-brisas para uma visibilidade ótima durante o mau tempo."
+      },
+      {
+        "name": "Dia da Declaração de Soberania, Estónia",
+        "description": "Comemora a Declaração de Soberania Estónia emitida em 1988, que declarou a soberania da Estónia em relação à União Soviética."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“A democracia é a melhor vingança.”",
+      "author": "Benazir Bhutto",
+      "context": "Benazir Bhutto, que nasceu em 1953, fez história a 16 de novembro de 1988, quando foi eleita Primeira-Ministra do Paquistão, tornando-se a primeira mulher a liderar um país muçulmano na história moderna."
+    },
+    "motivationalQuote": {
+      "text": "Vive como se fosses morrer amanhã. Aprende como se fosses viver para sempre.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Tibério",
+        "description": "Um Imperador Romano que governou de 14 d.C. a 37 d.C., conhecido pelas suas políticas fiscais e reformas cautelosas.",
+        "year": "0042"
+      },
+      {
+        "name": "W. C. Handy",
+        "description": "Um compositor e músico americano, frequentemente referido como o 'Pai do Blues', cujas obras integraram o idioma do blues na música popular.",
+        "year": "1873"
+      },
+      {
+        "name": "José Saramago",
+        "description": "Um escritor português que foi galardoado com o Prémio Nobel da Literatura em 1998 pelas suas parábolas imaginativas, compassivas e irónicas.",
+        "year": "1922"
+      }
+    ],
+    "events": [
+      {
+        "title": "UNESCO Fundada",
+        "description": "A Organização das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO) foi oficialmente fundada em Londres, com o objetivo de construir a paz através da cooperação internacional em educação, ciência e cultura.",
+        "year": "1945"
+      },
+      {
+        "title": "Oklahoma Consegue a Condição de Estado",
+        "description": "O Território Indígena e o Território de Oklahoma uniram-se oficialmente para formar Oklahoma, que foi admitido como o 46º estado dos Estados Unidos.",
+        "year": "1907"
+      },
+      {
+        "title": "Benazir Bhutto Eleita Primeira-Ministra",
+        "description": "Benazir Bhutto foi eleita Primeira-Ministra do Paquistão, tornando-se a primeira mulher na história moderna a liderar uma nação muçulmana, marcando um marco significativo para a democracia e a liderança feminina.",
+        "year": "1988"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional para a Tolerância",
+      "teaser": "Um feriado anual das Nações Unidas estabelecido pela UNESCO em 1995 para promover a tolerância, a compreensão mútua e o respeito entre culturas e povos em todo o mundo."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Margarida d'Escòcia",
+        "type": "Reina",
+        "description": "Una reina coneguda per la seva pietat, la seva obra benèfica i els seus esforços per reformar l'Església a Escòcia, fomentant l'educació i la cultura cristianes."
+      },
+      {
+        "name": "Santa Gertrudis la Gran",
+        "type": "Mística, Monja",
+        "description": "Una monja benedictina i mística que va promoure la devoció al Sagrat Cor de Jesús i va ser coneguda pels seus profunds escrits espirituals."
+      },
+      {
+        "name": "Santa Agnès d'Assís",
+        "type": "Abadessa",
+        "description": "La germana petita de Santa Clara, va abraçar la pobresa franciscana i va esdevenir abadessa, guiant les seves germanes amb prudència i amor."
+      },
+      {
+        "name": "Sant Mateu, Apòstol i Evangelista",
+        "type": "Apòstol, Evangelista",
+        "description": "Un dels Dotze Apòstols, també conegut com Leví, va ser un recaptador d'impostos que es va convertir en deixeble de Crist i va escriure l'Evangeli de Mateu."
+      },
+      {
+        "name": "Sant Hipaci de Gangra",
+        "type": "Bisbe, Hieromàrtir",
+        "description": "Un bisbe que va participar en el Primer Concili Ecumènic de Nicea i va ser martiritzat posteriorment per cismàtics."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional per a la Tolerància",
+        "description": "Un dia festiu anual de les Nacions Unides establert per la UNESCO el 1995 per promoure la tolerància, la comprensió mútua i el respecte entre cultures i pobles d'arreu del món."
+      },
+      {
+        "name": "Dia Internacional de Revisió dels Eixugaparabrises",
+        "description": "Una observança que anima els conductors a revisar regularment els seus eixugaparabrises per a una visibilitat òptima durant condicions meteorològiques adverses."
+      },
+      {
+        "name": "Dia de la Declaració de Sobirania, Estònia",
+        "description": "Commemora la Declaració de Sobirania estoniana emesa el 1988, que declarava la sobirania d'Estònia de la Unió Soviètica."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“La democràcia és la millor venjança.”",
+      "author": "Benazir Bhutto",
+      "context": "Benazir Bhutto, nascuda el 1953, va fer història el 16 de novembre de 1988 quan va ser elegida Primera Ministra del Pakistan, convertint-se en la primera dona a liderar un país musulmà en la història moderna."
+    },
+    "motivationalQuote": {
+      "text": "Viu com si haguessis de morir demà. Aprèn com si haguessis de viure per sempre.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Tiberi",
+        "description": "Un emperador romà que va governar del 14 dC al 37 dC, conegut per les seves polítiques fiscals prudents i reformes.",
+        "year": "0042"
+      },
+      {
+        "name": "W. C. Handy",
+        "description": "Un compositor i músic nord-americà, sovint anomenat el 'Pare del Blues', les obres del qual van integrar l'idioma del blues a la música popular.",
+        "year": "1873"
+      },
+      {
+        "name": "José Saramago",
+        "description": "Un escriptor portuguès que va rebre el Premi Nobel de Literatura el 1998 per les seves paràboles imaginatives, compassives i iròniques.",
+        "year": "1922"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundació de la UNESCO",
+        "description": "L'Organització de les Nacions Unides per a l'Educació, la Ciència i la Cultura (UNESCO) va ser oficialment fundada a Londres, amb l'objectiu de construir la pau mitjançant la cooperació internacional en educació, ciència i cultura.",
+        "year": "1945"
+      },
+      {
+        "title": "Oklahoma Aconsegueix l'Estatitat",
+        "description": "El Territori Indi i el Territori d'Oklahoma es van unir oficialment per formar Oklahoma, que va ser admès com el 46è estat dels Estats Units.",
+        "year": "1907"
+      },
+      {
+        "title": "Benazir Bhutto Elegida Primera Ministra",
+        "description": "Benazir Bhutto va ser elegida Primera Ministra del Pakistan, convertint-se en la primera dona en la història moderna a liderar una nació musulmana, marcant una fita significativa per a la democràcia i el lideratge de les dones.",
+        "year": "1988"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional per a la Tolerància",
+      "teaser": "Un dia festiu anual de les Nacions Unides establert per la UNESCO el 1995 per promoure la tolerància, la comprensió mútua i el respecte entre cultures i pobles d'arreu del món."
+    }
+  }
+}
