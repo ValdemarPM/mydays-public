@@ -1,0 +1,327 @@
+{
+  "date": "2026-11-17",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Isabel de Hungría",
+        "type": "Princesa",
+        "description": "Una princesa conocida por su profunda compasión y devoción a los pobres y enfermos; construyó un hospital y atendió personalmente a los necesitados. Fue canonizada en 1235 y es la patrona de los panaderos, las viudas y las organizaciones benéficas."
+      },
+      {
+        "name": "San Gregorio el Taumaturgo de Neocesarea",
+        "type": "Obispo",
+        "description": "Nacido como Teodoro, fue un prominente pagano que se convirtió al cristianismo y se hizo obispo, renombrado por su erudición, santidad y numerosos milagros. Es celebrado por su papel en la conversión de gran parte de Neocesarea del paganismo al cristianismo."
+      },
+      {
+        "name": "Venerable Lázaro el Iconógrafo",
+        "type": "Monje y Pintor",
+        "description": "Un monje en Constantinopla y hábil pintor de iconos, defendió las imágenes sagradas contra los Iconoclastas, sufriendo tortura por sus creencias. Más tarde fue liberado y se convirtió en embajador en Roma."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Prematuridad",
+        "description": "Este día se observa globalmente para concienciar sobre el parto prematuro y los desafíos que enfrentan los bebés prematuros y sus familias."
+      },
+      {
+        "name": "Día Internacional de los Estudiantes",
+        "description": "Conmemorando el aniversario del asalto nazi a la Universidad de Praga en 1939, este día celebra las contribuciones de los estudiantes internacionales y promueve el activismo estudiantil en todo el mundo."
+      },
+      {
+        "name": "Día Nacional del Senderismo",
+        "description": "Una observancia que anima a las personas a salir al aire libre, conectar con la naturaleza y disfrutar de los beneficios físicos y mentales del senderismo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Me parece que cualquier persona sensata debe ver que la violencia no cambia el mundo y, si lo hace, es solo temporalmente.",
+      "author": "Martin Scorsese",
+      "context": "Esta cita se atribuye al aclamado director de cine Martin Scorsese, quien nació el 17 de noviembre de 1942."
+    },
+    "motivationalQuote": {
+      "text": "La felicidad no es algo ya hecho. Procede de tus propias acciones.",
+      "author": "Dalai Lama XIV"
+    },
+    "births": [
+      {
+        "name": "Martin Scorsese",
+        "description": "Un icónico director de cine, productor y guionista estadounidense conocido por películas aclamadas como 'Taxi Driver', 'Toro Salvaje' y 'Uno de los nuestros'.",
+        "year": "1942"
+      },
+      {
+        "name": "Danny DeVito",
+        "description": "Un actor, comediante y director estadounidense ampliamente reconocido por sus papeles en 'Taxi', 'Matilda' y 'Colgados en Filadelfia'.",
+        "year": "1944"
+      },
+      {
+        "name": "Rachel McAdams",
+        "description": "Una actriz canadiense famosa por sus papeles en películas populares como 'El diario de Noah', 'Chicas malas' y 'Spotlight'.",
+        "year": "1978"
+      }
+    ],
+    "events": [
+      {
+        "title": "Isabel I Asciende al Trono Inglés",
+        "description": "La Reina María I de Inglaterra murió, lo que llevó a la ascensión de su hermanastra Isabel I, marcando el inicio de la influyente era isabelina.",
+        "year": "1558"
+      },
+      {
+        "title": "Inauguración del Canal de Suez",
+        "description": "El Canal de Suez, una vital vía navegable que une el Mar Mediterráneo con el Mar Rojo, fue inaugurado oficialmente en Egipto, impactando significativamente el comercio y la navegación globales.",
+        "year": "1869"
+      },
+      {
+        "title": "La Unión Soviética Aterriza el Lunokhod 1 en la Luna",
+        "description": "La Unión Soviética aterrizó con éxito el Lunokhod 1 en la Luna, convirtiéndolo en el primer robot móvil a control remoto en aterrizar en otro cuerpo celeste.",
+        "year": "1970"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Mundial de la Prematuridad",
+      "teaser": "Este día se observa globalmente para concienciar sobre el parto prematuro y los desafíos que enfrentan los bebés prematuros y sus familias."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Elizabeth of Hungary",
+        "type": "Princess",
+        "description": "A princess known for her deep compassion and devotion to the poor and sick, she built a hospital and personally tended to the needy. She was canonized in 1235 and is the patron saint of bakers, widows, and charitable organizations."
+      },
+      {
+        "name": "Saint Gregory the Wonderworker of Neocaesarea",
+        "type": "Bishop",
+        "description": "Born Theodore, he was a prominent pagan who converted to Christianity and became a bishop, renowned for his learning, sanctity, and numerous miracles. He is celebrated for his role in converting much of Neocaesarea from paganism to Christianity."
+      },
+      {
+        "name": "Venerable Lazarus the Iconographer",
+        "type": "Monk and Painter",
+        "description": "A monk in Constantinople and a skilled icon painter, he defended sacred images against the Iconoclasts, enduring torture for his beliefs. He was later released and became an ambassador to Rome."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Prematurity Day",
+        "description": "This day is observed globally to raise awareness about preterm birth and the challenges faced by premature babies and their families."
+      },
+      {
+        "name": "International Students' Day",
+        "description": "Commemorating the anniversary of the Nazi storming of the University of Prague in 1939, this day celebrates the contributions of international students and promotes student activism worldwide."
+      },
+      {
+        "name": "National Take a Hike Day",
+        "description": "An observance that encourages people to get outdoors, connect with nature, and enjoy the physical and mental benefits of hiking."
+      }
+    ],
+    "historicalQuote": {
+      "text": "It seems to me that any sensible person must see that violence does not change the world and if it does, then only temporarily.",
+      "author": "Martin Scorsese",
+      "context": "This quote is attributed to acclaimed film director Martin Scorsese, who was born on November 17, 1942."
+    },
+    "motivationalQuote": {
+      "text": "Happiness is not something ready made. It comes from your own actions.",
+      "author": "Dalai Lama XIV"
+    },
+    "births": [
+      {
+        "name": "Martin Scorsese",
+        "description": "An iconic American film director, producer, and screenwriter known for acclaimed films such as 'Taxi Driver,' 'Raging Bull,' and 'Goodfellas.'",
+        "year": "1942"
+      },
+      {
+        "name": "Danny DeVito",
+        "description": "An American actor, comedian, and director widely recognized for his roles in 'Taxi,' 'Matilda,' and 'It's Always Sunny in Philadelphia.'",
+        "year": "1944"
+      },
+      {
+        "name": "Rachel McAdams",
+        "description": "A Canadian actress famous for her roles in popular movies like 'The Notebook,' 'Mean Girls,' and 'Spotlight.'",
+        "year": "1978"
+      }
+    ],
+    "events": [
+      {
+        "title": "Elizabeth I Ascends to the English Throne",
+        "description": "Queen Mary I of England died, leading to her half-sister Elizabeth I's ascension, marking the beginning of the influential Elizabethan era.",
+        "year": "1558"
+      },
+      {
+        "title": "Suez Canal Inaugurated",
+        "description": "The Suez Canal, a vital waterway linking the Mediterranean Sea with the Red Sea, was officially opened in Egypt, significantly impacting global trade and navigation.",
+        "year": "1869"
+      },
+      {
+        "title": "Soviet Union Lands Lunokhod 1 on the Moon",
+        "description": "The Soviet Union successfully landed Lunokhod 1 on the Moon, making it the first roving remote-controlled robot to land on another celestial body.",
+        "year": "1970"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is World Prematurity Day",
+      "teaser": "This day is observed globally to raise awareness about preterm birth and the challenges faced by premature babies and their families."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Isabel da Hungria",
+        "type": "Princesa",
+        "description": "Uma princesa conhecida por sua profunda compaixão e devoção aos pobres e doentes; ela construiu um hospital e pessoalmente cuidou dos necessitados. Foi canonizada em 1235 e é a padroeira dos padeiros, viúvas e organizações de caridade."
+      },
+      {
+        "name": "São Gregório o Taumaturgo de Neocesareia",
+        "type": "Bispo",
+        "description": "Nascido Teodoro, ele foi um proeminente pagão que se converteu ao cristianismo e se tornou bispo, renomado por sua erudição, santidade e numerosos milagres. É celebrado por seu papel na conversão de grande parte de Neocesareia do paganismo para o cristianismo."
+      },
+      {
+        "name": "São Lázaro o Iconógrafo",
+        "type": "Monge e Pintor",
+        "description": "Um monge em Constantinopla e hábil pintor de ícones, ele defendeu as imagens sagradas contra os Iconoclastas, suportando tortura por suas crenças. Mais tarde, foi libertado e tornou-se embaixador em Roma."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Prematuridade",
+        "description": "Este dia é observado globalmente para aumentar a conscientização sobre o nascimento prematuro e os desafios enfrentados por bebês prematuros e suas famílias."
+      },
+      {
+        "name": "Dia Internacional dos Estudantes",
+        "description": "Comemorando o aniversário da invasão nazista da Universidade de Praga em 1939, este dia celebra as contribuições de estudantes internacionais e promove o ativismo estudantil em todo o mundo."
+      },
+      {
+        "name": "Dia Nacional de Caminhada",
+        "description": "Uma observância que incentiva as pessoas a sair ao ar livre, conectar-se com a natureza e desfrutar dos benefícios físicos e mentais da caminhada."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Parece-me que qualquer pessoa sensata deve ver que a violência não muda o mundo e, se o faz, é apenas temporariamente.",
+      "author": "Martin Scorsese",
+      "context": "Esta citação é atribuída ao aclamado diretor de cinema Martin Scorsese, que nasceu em 17 de novembro de 1942."
+    },
+    "motivationalQuote": {
+      "text": "A felicidade não é algo pronto. Ela vem das suas próprias ações.",
+      "author": "Dalai Lama XIV"
+    },
+    "births": [
+      {
+        "name": "Martin Scorsese",
+        "description": "Um icônico diretor de cinema, produtor e roteirista americano conhecido por filmes aclamados como 'Taxi Driver', 'Touro Indomável' e 'Os Bons Companheiros'.",
+        "year": "1942"
+      },
+      {
+        "name": "Danny DeVito",
+        "description": "Um ator, comediante e diretor americano amplamente reconhecido por seus papéis em 'Táxi', 'Matilda' e na série 'It's Always Sunny in Philadelphia'.",
+        "year": "1944"
+      },
+      {
+        "name": "Rachel McAdams",
+        "description": "Uma atriz canadense famosa por seus papéis em filmes populares como 'Diário de uma Paixão', 'Meninas Malvadas' e 'Spotlight: Segredos Revelados'.",
+        "year": "1978"
+      }
+    ],
+    "events": [
+      {
+        "title": "Isabel I Ascende ao Trono Inglês",
+        "description": "A Rainha Maria I da Inglaterra morreu, levando à ascensão de sua meia-irmã Isabel I, marcando o início da influente era elisabetana.",
+        "year": "1558"
+      },
+      {
+        "title": "Canal de Suez Inaugurado",
+        "description": "O Canal de Suez, uma via navegável vital que liga o Mar Mediterrâneo ao Mar Vermelho, foi oficialmente aberto no Egito, impactando significativamente o comércio e a navegação globais.",
+        "year": "1869"
+      },
+      {
+        "title": "União Soviética Pousa o Lunokhod 1 na Lua",
+        "description": "A União Soviética pousou com sucesso o Lunokhod 1 na Lua, tornando-o o primeiro robô móvel remotamente controlado a pousar em outro corpo celeste.",
+        "year": "1970"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Mundial da Prematuridade",
+      "teaser": "Este dia é observado globalmente para aumentar a conscientização sobre o nascimento prematuro e os desafios enfrentados por bebês prematuros e suas famílias."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Elisabet d'Hongria",
+        "type": "Princesa",
+        "description": "Una princesa coneguda per la seva profunda compassió i devoció als pobres i malalts, va construir un hospital i va atendre personalment els necessitats. Va ser canonitzada el 1235 i és la patrona dels forners, les vídues i les organitzacions benèfiques."
+      },
+      {
+        "name": "Sant Gregori el Taumaturg de Neocèsarea",
+        "type": "Bisbe",
+        "description": "Nascut Teodor, va ser un destacat pagà que es va convertir al cristianisme i es va fer bisbe, reconegut pel seu aprenentatge, santedat i nombrosos miracles. És celebrat pel seu paper en la conversió de gran part de Neocèsarea del paganisme al cristianisme."
+      },
+      {
+        "name": "Venerable Llàtzer l'Iconògraf",
+        "type": "Monjo i Pintor",
+        "description": "Un monjo a Constantinoble i un hàbil pintor d'icones, va defensar les imatges sagrades contra els Iconoclastes, suportant tortura per les seves creences. Més tard va ser alliberat i va esdevenir ambaixador a Roma."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Prematuritat",
+        "description": "Aquest dia se celebra globalment per sensibilitzar sobre el naixement prematur i els reptes als quals s'enfronten els nadons prematurs i les seves famílies."
+      },
+      {
+        "name": "Dia Internacional dels Estudiants",
+        "description": "Commemorant l'aniversari de l'assalt nazi a la Universitat de Praga el 1939, aquest dia celebra les contribucions dels estudiants internacionals i promou l'activisme estudiantil a tot el món."
+      },
+      {
+        "name": "Dia Nacional de la Senderisme",
+        "description": "Una celebració que anima la gent a sortir a l'aire lliure, connectar amb la natura i gaudir dels beneficis físics i mentals de la senderisme."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Em sembla que qualsevol persona sensata ha de veure que la violència no canvia el món i, si ho fa, només temporalment.",
+      "author": "Martin Scorsese",
+      "context": "Aquesta cita s'atribueix a l'aclamat director de cinema Martin Scorsese, que va néixer el 17 de novembre de 1942."
+    },
+    "motivationalQuote": {
+      "text": "La felicitat no és una cosa prefabricada. Prové de les teves pròpies accions.",
+      "author": "Dalai Lama XIV"
+    },
+    "births": [
+      {
+        "name": "Martin Scorsese",
+        "description": "Un icònic director de cinema, productor i guionista nord-americà conegut per pel·lícules aclamades com 'Taxi Driver', 'Toro Salvatge' i 'Un dels nostres'.",
+        "year": "1942"
+      },
+      {
+        "name": "Danny DeVito",
+        "description": "Un actor, comediant i director nord-americà àmpliament reconegut pels seus papers a 'Taxi', 'Matilda' i 'Colla de salvatges'.",
+        "year": "1944"
+      },
+      {
+        "name": "Rachel McAdams",
+        "description": "Una actriu canadenca famosa pels seus papers en pel·lícules populars com 'El diari de Noa', 'Mean Girls' i 'Spotlight'.",
+        "year": "1978"
+      }
+    ],
+    "events": [
+      {
+        "title": "Elisabet I ascendeix al tron anglès",
+        "description": "La reina Maria I d'Anglaterra va morir, portant a l'ascens de la seva germanastra Elisabet I, marcant l'inici de l'influent era elisabetiana.",
+        "year": "1558"
+      },
+      {
+        "title": "Inauguració del Canal de Suez",
+        "description": "El Canal de Suez, una via navegable vital que uneix el mar Mediterrani amb el mar Roig, va ser obert oficialment a Egipte, afectant significativament el comerç i la navegació globals.",
+        "year": "1869"
+      },
+      {
+        "title": "La Unió Soviètica aterra el Lunokhod 1 a la Lluna",
+        "description": "La Unió Soviètica va aterrar amb èxit el Lunokhod 1 a la Lluna, convertint-lo en el primer robot teledirigit mòbil a aterrar en un altre cos celeste.",
+        "year": "1970"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Mundial de la Prematuritat",
+      "teaser": "Aquest dia se celebra globalment per sensibilitzar sobre el naixement prematur i els reptes als quals s'enfronten els nadons prematurs i les seves famílies."
+    }
+  }
+}
