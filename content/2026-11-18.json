@@ -1,0 +1,327 @@
+{
+  "date": "2026-11-18",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Rosa Filipina Duchesne",
+        "type": "Monja/Misionera",
+        "description": "Una monja francoamericana que dedicó su vida a educar a niños nativos americanos y pioneros en el Medio Oeste estadounidense, ganándose el apodo de 'Mujer Que Reza Siempre' del pueblo Potawatomi."
+      },
+      {
+        "name": "San Odón de Cluny",
+        "type": "Abad",
+        "description": "Un abad benedictino que desempeñó un papel significativo en la Reforma de Cluny, promoviendo la disciplina monástica y el aprendizaje en la Europa del siglo X."
+      },
+      {
+        "name": "San Platón de Ancira",
+        "type": "Gran Mártir",
+        "description": "Un mártir cristiano primitivo de Ancira que fue arrestado y decapitado por su fe durante la persecución bajo el emperador Diocleciano en el siglo IV."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de Mickey Mouse",
+        "description": "Celebra el debut del icónico personaje de Walt Disney, Mickey Mouse, en el cortometraje animado 'Steamboat Willie' en 1928."
+      },
+      {
+        "name": "Día de la Proclamación de la República de Letonia",
+        "description": "Conmemora la declaración de independencia de Letonia de Rusia en 1918."
+      },
+      {
+        "name": "Día Mundial de la EPOC",
+        "description": "Una iniciativa global para concienciar sobre la Enfermedad Pulmonar Obstructiva Crónica (EPOC) y mejorar la atención para los afectados."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El daguerrotipo no es meramente un instrumento que sirve para dibujar la Naturaleza; al contrario, es un proceso químico y físico que le da a ella el poder de reproducirse.",
+      "author": "Louis Daguerre",
+      "context": "Louis Daguerre, artista e inventor francés, nació el 18 de noviembre de 1787. Es reconocido por su invención del daguerrotipo, el primer proceso fotográfico disponible públicamente."
+    },
+    "motivationalQuote": {
+      "text": "La vida no se trata de encontrarse a uno mismo. La vida se trata de crearse a uno mismo.",
+      "author": "George Bernard Shaw"
+    },
+    "births": [
+      {
+        "name": "Margaret Atwood",
+        "description": "Una célebre autora canadiense, conocida por sus prolíficas obras de poesía, ficción y crítica literaria, a menudo explorando temas de género, poder y ambientalismo.",
+        "year": "1939"
+      },
+      {
+        "name": "Kirk Hammett",
+        "description": "Un músico estadounidense más conocido como el guitarrista principal y compositor contribuyente de la banda de heavy metal Metallica desde 1983.",
+        "year": "1962"
+      },
+      {
+        "name": "Megyn Kelly",
+        "description": "Una periodista estadounidense, comentarista política y ex abogada de defensa corporativa, reconocida por su trabajo como presentadora de noticias y de programas de entrevistas.",
+        "year": "1970"
+      }
+    ],
+    "events": [
+      {
+        "title": "Consagración de la Basílica de San Pedro",
+        "description": "La actual Basílica de San Pedro en Roma, una de las iglesias más grandes y significativas del mundo, fue consagrada por el Papa Urbano VIII, marcando la culminación de más de un siglo de construcción.",
+        "year": "1626"
+      },
+      {
+        "title": "Letonia Declara su Independencia",
+        "description": "El Consejo Popular Letón proclamó la independencia de Letonia de Rusia, estableciendo la República de Letonia como nación soberana.",
+        "year": "1918"
+      },
+      {
+        "title": "Massachusetts Legaliza el Matrimonio Entre Personas del Mismo Sexo",
+        "description": "El Tribunal Judicial Supremo de Massachusetts dictaminó que prohibir el matrimonio a parejas del mismo sexo era inconstitucional, convirtiendo a Massachusetts en el primer estado de EE. UU. en legalizar el matrimonio entre personas del mismo sexo.",
+        "year": "2003"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día de Mickey Mouse",
+      "teaser": "Celebra el debut del icónico personaje de Walt Disney, Mickey Mouse, en el cortometraje animado 'Steamboat Willie' en 1928."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Rose Philippine Duchesne",
+        "type": "Nun/Missionary",
+        "description": "A French-American nun who dedicated her life to educating Native American and pioneer children in the American Midwest, earning the nickname 'Woman Who Prays Always' from the Potawatomi people."
+      },
+      {
+        "name": "St. Odo of Cluny",
+        "type": "Abbot",
+        "description": "A Benedictine abbot who played a significant role in the Cluniac Reform, promoting monastic discipline and learning in 10th-century Europe."
+      },
+      {
+        "name": "St. Plato of Ancyra",
+        "type": "Great Martyr",
+        "description": "An early Christian martyr from Ancyra who was arrested and beheaded for his faith during the persecution under Emperor Diocletian in the 4th century."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Mickey Mouse Day",
+        "description": "Celebrates the debut of Walt Disney's iconic character, Mickey Mouse, in the animated short 'Steamboat Willie' in 1928."
+      },
+      {
+        "name": "Republic of Latvia Proclamation Day",
+        "description": "Commemorates Latvia's declaration of independence from Russia in 1918."
+      },
+      {
+        "name": "World COPD Day",
+        "description": "A global initiative to raise awareness about Chronic Obstructive Pulmonary Disease (COPD) and improve care for those affected."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The daguerreotype is not merely an instrument which serves to draw Nature; on the contrary it is a chemical and physical process which gives her the power to reproduce herself.",
+      "author": "Louis Daguerre",
+      "context": "Louis Daguerre, a French artist and inventor, was born on November 18, 1787. He is renowned for his invention of the daguerreotype, the first publicly available photographic process."
+    },
+    "motivationalQuote": {
+      "text": "Life isn't about finding yourself. Life is about creating yourself.",
+      "author": "George Bernard Shaw"
+    },
+    "births": [
+      {
+        "name": "Margaret Atwood",
+        "description": "A celebrated Canadian author, known for her prolific works of poetry, fiction, and literary criticism, often exploring themes of gender, power, and environmentalism.",
+        "year": "1939"
+      },
+      {
+        "name": "Kirk Hammett",
+        "description": "An American musician best known as the lead guitarist and a contributing songwriter for the heavy metal band Metallica since 1983.",
+        "year": "1962"
+      },
+      {
+        "name": "Megyn Kelly",
+        "description": "An American journalist, political commentator, and former corporate defense attorney, recognized for her work as a news anchor and talk show host.",
+        "year": "1970"
+      }
+    ],
+    "events": [
+      {
+        "title": "Consecration of St. Peter's Basilica",
+        "description": "The current St. Peter's Basilica in Rome, one of the largest and most significant churches in the world, was consecrated by Pope Urban VIII, marking the culmination of over a century of construction.",
+        "year": "1626"
+      },
+      {
+        "title": "Latvia Declares Independence",
+        "description": "The Latvian People's Council proclaimed Latvia's independence from Russia, establishing the Republic of Latvia as a sovereign nation.",
+        "year": "1918"
+      },
+      {
+        "title": "Massachusetts Legalizes Same-Sex Marriage",
+        "description": "The Massachusetts Supreme Judicial Court ruled that barring same-sex couples from marrying was unconstitutional, making Massachusetts the first U.S. state to legalize same-sex marriage.",
+        "year": "2003"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Mickey Mouse Day",
+      "teaser": "Celebrates the debut of Walt Disney's iconic character, Mickey Mouse, in the animated short 'Steamboat Willie' in 1928."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Rosa Filipina Duchesne",
+        "type": "Freira/Missionária",
+        "description": "Uma freira franco-americana que dedicou a sua vida a educar crianças nativas americanas e pioneiras no Centro-Oeste americano, ganhando o apelido de 'Mulher Que Sempre Reza' do povo Potawatomi."
+      },
+      {
+        "name": "Santo Odo de Cluny",
+        "type": "Abade",
+        "description": "Um abade beneditino que desempenhou um papel significativo na Reforma Cluniacense, promovendo a disciplina monástica e o aprendizado na Europa do século X."
+      },
+      {
+        "name": "São Platão de Ancira",
+        "type": "Grande Mártir",
+        "description": "Um mártir cristão primitivo de Ancira que foi preso e decapitado por sua fé durante a perseguição sob o imperador Diocleciano no século IV."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia do Mickey Mouse",
+        "description": "Celebra a estreia do icónico personagem de Walt Disney, Mickey Mouse, na curta-metragem animada 'Steamboat Willie' em 1928."
+      },
+      {
+        "name": "Dia da Proclamação da República da Letónia",
+        "description": "Comemora a declaração de independência da Letónia da Rússia em 1918."
+      },
+      {
+        "name": "Dia Mundial da DPOC",
+        "description": "Uma iniciativa global para aumentar a consciencialização sobre a Doença Pulmonar Obstrutiva Crónica (DPOC) e melhorar o cuidado para os afetados."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O daguerreótipo não é meramente um instrumento que serve para desenhar a Natureza; pelo contrário, é um processo químico e físico que lhe confere o poder de se reproduzir.",
+      "author": "Louis Daguerre",
+      "context": "Louis Daguerre, artista e inventor francês, nasceu a 18 de novembro de 1787. É conhecido pela sua invenção do daguerreótipo, o primeiro processo fotográfico disponível publicamente."
+    },
+    "motivationalQuote": {
+      "text": "A vida não é sobre encontrar-se a si mesmo. A vida é sobre criar-se a si mesmo.",
+      "author": "George Bernard Shaw"
+    },
+    "births": [
+      {
+        "name": "Margaret Atwood",
+        "description": "Uma celebrada autora canadiana, conhecida pelas suas prolíficas obras de poesia, ficção e crítica literária, frequentemente explorando temas de género, poder e ambientalismo.",
+        "year": "1939"
+      },
+      {
+        "name": "Kirk Hammett",
+        "description": "Um músico americano mais conhecido como o guitarrista principal e compositor contribuinte da banda de heavy metal Metallica desde 1983.",
+        "year": "1962"
+      },
+      {
+        "name": "Megyn Kelly",
+        "description": "Uma jornalista americana, comentadora política e ex-advogada de defesa corporativa, reconhecida pelo seu trabalho como apresentadora de notícias e de programas de entrevistas.",
+        "year": "1970"
+      }
+    ],
+    "events": [
+      {
+        "title": "Consagração da Basílica de São Pedro",
+        "description": "A atual Basílica de São Pedro em Roma, uma das maiores e mais significativas igrejas do mundo, foi consagrada pelo Papa Urbano VIII, marcando a culminação de mais de um século de construção.",
+        "year": "1626"
+      },
+      {
+        "title": "Letónia Declara Independência",
+        "description": "O Conselho Popular Letão proclamou a independência da Letónia da Rússia, estabelecendo a República da Letónia como uma nação soberana.",
+        "year": "1918"
+      },
+      {
+        "title": "Massachusetts Legaliza o Casamento Entre Pessoas do Mesmo Sexo",
+        "description": "O Supremo Tribunal Judicial de Massachusetts decidiu que proibir casais do mesmo sexo de casar era inconstitucional, tornando Massachusetts o primeiro estado dos EUA a legalizar o casamento entre pessoas do mesmo sexo.",
+        "year": "2003"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia do Mickey Mouse",
+      "teaser": "Celebra a estreia do icónico personagem de Walt Disney, Mickey Mouse, na curta-metragem animada 'Steamboat Willie' em 1928."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Rosa Filipina Duchesne",
+        "type": "Monja/Missionera",
+        "description": "Una monja francoamericana que va dedicar la seva vida a educar nens nadius americans i pioners al Midwest americà, guanyant-se el sobrenom de 'Dona que sempre resa' per part del poble Potawatomi."
+      },
+      {
+        "name": "Sant Odó de Cluny",
+        "type": "Abat",
+        "description": "Un abat benedictí que va tenir un paper significatiu en la Reforma Cluniacenca, promovent la disciplina monàstica i l'aprenentatge a l'Europa del segle X."
+      },
+      {
+        "name": "Sant Plató d'Ancira",
+        "type": "Gran Màrtir",
+        "description": "Un màrtir cristià primitiu d'Ancira que va ser arrestat i decapitat per la seva fe durant la persecució sota l'emperador Dioclecià al segle IV."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Mickey Mouse",
+        "description": "Commemora el debut de l'emblemàtic personatge de Walt Disney, Mickey Mouse, en el curtmetratge d'animació 'Steamboat Willie' el 1928."
+      },
+      {
+        "name": "Dia de la Proclamació de la República de Letònia",
+        "description": "Commemora la declaració d'independència de Letònia de Rússia el 1918."
+      },
+      {
+        "name": "Dia Mundial de la MPOC",
+        "description": "Una iniciativa global per conscienciar sobre la Malaltia Pulmonar Obstructiva Crònica (MPOC) i millorar l'atenció als afectats."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El daguerreotip no és merament un instrument que serveix per dibuixar la Natura; al contrari, és un procés químic i físic que li dóna el poder de reproduir-se a si mateixa.",
+      "author": "Louis Daguerre",
+      "context": "Louis Daguerre, artista i inventor francès, va néixer el 18 de novembre de 1787. És conegut per la invenció del daguerreotip, el primer procés fotogràfic disponible públicament."
+    },
+    "motivationalQuote": {
+      "text": "La vida no consisteix a trobar-se a un mateix. La vida consisteix a crear-se a un mateix.",
+      "author": "George Bernard Shaw"
+    },
+    "births": [
+      {
+        "name": "Margaret Atwood",
+        "description": "Una celebrada autora canadenca, coneguda per les seves prolífiques obres de poesia, ficció i crítica literària, sovint explorant temes de gènere, poder i ecologisme.",
+        "year": "1939"
+      },
+      {
+        "name": "Kirk Hammett",
+        "description": "Un músic americà més conegut com el guitarrista principal i un dels compositors de la banda de heavy metal Metallica des de 1983.",
+        "year": "1962"
+      },
+      {
+        "name": "Megyn Kelly",
+        "description": "Una periodista, comentarista política i exadvocada de defensa corporativa nord-americana, reconeguda pel seu treball com a presentadora de notícies i de programes d'entrevistes.",
+        "year": "1970"
+      }
+    ],
+    "events": [
+      {
+        "title": "Consagració de la Basílica de Sant Pere",
+        "description": "L'actual Basílica de Sant Pere a Roma, una de les esglésies més grans i significatives del món, va ser consagrada pel Papa Urbà VIII, marcant la culminació de més d'un segle de construcció.",
+        "year": "1626"
+      },
+      {
+        "title": "Letònia Declara la Independència",
+        "description": "El Consell Popular Letó va proclamar la independència de Letònia de Rússia, establint la República de Letònia com a nació sobirana.",
+        "year": "1918"
+      },
+      {
+        "title": "Massachusetts Legalitza el Matrimoni Entre Persones del Mateix Sexe",
+        "description": "El Tribunal Suprem Judicial de Massachusetts va dictaminar que prohibir el matrimoni a parelles del mateix sexe era inconstitucional, convertint Massachusetts en el primer estat dels EUA a legalitzar el matrimoni entre persones del mateix sexe.",
+        "year": "2003"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia de Mickey Mouse",
+      "teaser": "Commemora el debut de l'emblemàtic personatge de Walt Disney, Mickey Mouse, en el curtmetratge d'animació 'Steamboat Willie' el 1928."
+    }
+  }
+}
