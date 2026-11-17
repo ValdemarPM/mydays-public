@@ -1,0 +1,311 @@
+{
+  "date": "2026-11-19",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Matilde de Helfta",
+        "type": "Monja benedictina, Mística",
+        "description": "Nacida en 1241 en lo que hoy es Alemania, se hizo monja cisterciense a una edad temprana. Conocida por su amabilidad, humildad y talento musical como directora de coro, también experimentó frecuentes visiones espirituales."
+      },
+      {
+        "name": "San Nersés el Grande",
+        "type": "Catolicós de Armenia",
+        "description": "Nersés I, quien murió en el año 373 d.C., fue educado en Capadocia y sirvió como Catolicós de Armenia. Fue conocido por sus esfuerzos para implementar reformas eclesiásticas y finalmente fue asesinado por el rey Pap."
+      },
+      {
+        "name": "Profeta Abdías",
+        "type": "Profeta del Antiguo Testamento",
+        "description": "Uno de los Doce Profetas Menores, vivió en el siglo IX a.C. y pronunció profecías, incluyendo aquellas concernientes a la futura salvación de los gentiles."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional del Hombre",
+        "description": "Esta celebración global conmemora el valor positivo que los hombres aportan al mundo, a sus familias y comunidades, al mismo tiempo que fomenta la concienciación sobre el bienestar de los hombres y aborda los problemas que enfrentan."
+      },
+      {
+        "name": "Día Mundial del Retrete",
+        "description": "Una celebración internacional oficial de las Naciones Unidas destinada a inspirar acciones para abordar la crisis mundial de saneamiento, destacando que miles de millones de personas en todo el mundo carecen de acceso a saneamiento adecuado."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Hace ochenta y siete años, nuestros padres hicieron nacer en este continente una nueva nación, concebida en la Libertad y dedicada a la proposición de que todos los hombres son creados iguales.",
+      "author": "Abraham Lincoln",
+      "context": "Abraham Lincoln pronunció estas palabras iniciales del Discurso de Gettysburg el 19 de noviembre de 1863, durante la dedicación del Cementerio Nacional de Soldados en la Guerra Civil Americana, redefiniendo el propósito de la guerra."
+    },
+    "motivationalQuote": {
+      "text": "Vivimos en un mundo maravilloso lleno de belleza, encanto y aventura. No hay fin para las aventuras que podemos tener si solo las buscamos con los ojos abiertos.",
+      "author": "Jawaharlal Nehru"
+    },
+    "births": [
+      {
+        "name": "Indira Gandhi",
+        "description": "Una influyente estadista india que sirvió como la primera y única mujer Primera Ministra de la India durante tres mandatos consecutivos (1966–1977) y un cuarto mandato (1980–1984).",
+        "year": "1917"
+      },
+      {
+        "name": "Jodie Foster",
+        "description": "Una aclamada actriz y directora estadounidense, que comenzó su carrera como niña y es conocida por sus versátiles actuaciones en películas como 'Taxi Driver' y 'El silencio de los corderos'.",
+        "year": "1962"
+      },
+      {
+        "name": "Calvin Klein",
+        "description": "Un icónico diseñador de moda estadounidense que fundó Calvin Klein Inc. en 1968, construyendo una marca de estilo de vida global.",
+        "year": "1942"
+      }
+    ],
+    "events": [
+      {
+        "title": "Discurso de Gettysburg pronunciado",
+        "description": "En este día de 1863, el presidente Abraham Lincoln pronunció su perdurable Discurso de Gettysburg, un discurso fundamental que honró a los soldados caídos y articuló los principios de libertad e igualdad centrales para la causa de la Unión.",
+        "year": "1863"
+      },
+      {
+        "title": "Módulo Lunar del Apolo 12 Aterriza en la Luna",
+        "description": "En un hito científico significativo en 1969, los astronautas del Apolo 12 Pete Conrad y Alan Bean aterrizaron con éxito su módulo lunar en el Océano de las Tormentas, convirtiéndose en el tercer y cuarto humano en caminar sobre la Luna.",
+        "year": "1969"
+      },
+      {
+        "title": "Ronald Reagan y Mijaíl Gorbachov se reúnen por primera vez",
+        "description": "En 1985, el presidente de EE. UU. Ronald Reagan y el líder soviético Mijaíl Gorbachov celebraron su primera cumbre en Ginebra, una reunión histórica que marcó los pasos iniciales para aliviar las tensiones durante la Guerra Fría.",
+        "year": "1985"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional del Hombre",
+      "teaser": "Esta celebración global conmemora el valor positivo que los hombres aportan al mundo, a sus familias y comunidades, al mismo tiempo que fomenta la concienciación sobre el bienestar de los hombres y aborda los problemas que enfrentan."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Mechtilde of Helfta",
+        "type": "Benedictine Nun, Mystic",
+        "description": "Born in 1241 in what is now Germany, she became a Cistercian nun at a young age. Known for her kindness, humility, and musical talent as a choir director, she also experienced frequent spiritual visions."
+      },
+      {
+        "name": "St. Nerses the Great",
+        "type": "Catholicos of Armenia",
+        "description": "Nerses I, who died in 373 AD, was educated in Cappadocia and served as Catholicos of Armenia. He was known for his efforts to implement church reforms and was eventually murdered by King Pap."
+      },
+      {
+        "name": "Prophet Obadiah",
+        "type": "Old Testament Prophet",
+        "description": "One of the Twelve Minor Prophets, he lived in the 9th century B.C. and delivered prophecies, including those concerning the future salvation of the Gentiles."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Men's Day",
+        "description": "This global observance celebrates the positive value men bring to the world, their families, and communities, while raising awareness of men's well-being and addressing issues they face."
+      },
+      {
+        "name": "World Toilet Day",
+        "description": "An official United Nations international observance aimed at inspiring action to tackle the global sanitation crisis, highlighting that billions worldwide lack access to proper sanitation."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.",
+      "author": "Abraham Lincoln",
+      "context": "Abraham Lincoln delivered these opening words of the Gettysburg Address on November 19, 1863, at the dedication of the Soldiers' National Cemetery during the American Civil War, redefining the purpose of the war."
+    },
+    "motivationalQuote": {
+      "text": "We live in a wonderful world that is full of beauty, charm and adventure. There is no end to the adventures we can have if only we seek them with our eyes open.",
+      "author": "Jawaharlal Nehru"
+    },
+    "births": [
+      {
+        "name": "Indira Gandhi",
+        "description": "An influential Indian stateswoman who served as the first and only female Prime Minister of India for three consecutive terms (1966–1977) and a fourth term (1980–1984).",
+        "year": "1917"
+      },
+      {
+        "name": "Jodie Foster",
+        "description": "An acclaimed American actress and director, who began her career as a child and is known for her versatile performances in films such as 'Taxi Driver' and 'The Silence of the Lambs'.",
+        "year": "1962"
+      },
+      {
+        "name": "Calvin Klein",
+        "description": "An iconic American fashion designer who founded Calvin Klein Inc. in 1968, building a global lifestyle brand.",
+        "year": "1942"
+      }
+    ],
+    "events": [
+      {
+        "title": "Gettysburg Address Delivered",
+        "description": "On this day in 1863, President Abraham Lincoln delivered his enduring Gettysburg Address, a pivotal speech that honored fallen soldiers and articulated the principles of liberty and equality central to the Union's cause.",
+        "year": "1863"
+      },
+      {
+        "title": "Apollo 12 Lunar Module Lands on the Moon",
+        "description": "In a significant scientific milestone in 1969, Apollo 12 astronauts Pete Conrad and Alan Bean successfully landed their lunar module in the Ocean of Storms, becoming the third and fourth humans to walk on the Moon.",
+        "year": "1969"
+      },
+      {
+        "title": "Ronald Reagan and Mikhail Gorbachev Meet for the First Time",
+        "description": "In 1985, US President Ronald Reagan and Soviet leader Mikhail Gorbachev held their first summit in Geneva, a historic meeting that marked the initial steps toward easing tensions during the Cold War.",
+        "year": "1985"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Men's Day",
+      "teaser": "This global observance celebrates the positive value men bring to the world, their families, and communities, while raising awareness of men's well-being and addressing issues they face."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Matilde de Helfta",
+        "type": "Freira Beneditina, Mística",
+        "description": "Nascida em 1241 no que hoje é a Alemanha, tornou-se freira cisterciense em tenra idade. Conhecida por sua bondade, humildade e talento musical como diretora de coro, ela também experimentou frequentes visões espirituais."
+      },
+      {
+        "name": "São Nerses, o Grande",
+        "type": "Católico da Armênia",
+        "description": "Nerses I, que morreu em 373 d.C., foi educado na Capadócia e serviu como Católico da Armênia. Ele era conhecido por seus esforços para implementar reformas na igreja e foi finalmente assassinado pelo Rei Pap."
+      },
+      {
+        "name": "Profeta Obadias",
+        "type": "Profeta do Antigo Testamento",
+        "description": "Um dos Doze Profetas Menores, viveu no século IX a.C. e proferiu profecias, incluindo aquelas relativas à futura salvação dos gentios."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional do Homem",
+        "description": "Esta celebração global celebra o valor positivo que os homens trazem ao mundo, às suas famílias e comunidades, ao mesmo tempo que aumenta a consciência sobre o bem-estar dos homens e aborda as questões que eles enfrentam."
+      },
+      {
+        "name": "Dia Mundial do Vaso Sanitário",
+        "description": "Uma celebração internacional oficial das Nações Unidas que visa inspirar ações para enfrentar a crise global de saneamento, destacando que bilhões em todo o mundo não têm acesso a saneamento adequado."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Há oitenta e sete anos, nossos pais trouxeram a este continente uma nova nação, concebida em Liberdade e dedicada à proposição de que todos os homens são criados iguais.",
+      "author": "Abraham Lincoln",
+      "context": "Abraham Lincoln proferiu estas palavras de abertura do Discurso de Gettysburg em 19 de novembro de 1863, na dedicação do Cemitério Nacional dos Soldados durante a Guerra Civil Americana, redefinindo o propósito da guerra."
+    },
+    "motivationalQuote": {
+      "text": "Vivemos em um mundo maravilhoso, cheio de beleza, encanto e aventura. Não há fim para as aventuras que podemos ter se apenas as buscarmos com os olhos abertos.",
+      "author": "Jawaharlal Nehru"
+    },
+    "births": [
+      {
+        "name": "Indira Gandhi",
+        "description": "Uma influente estadista indiana que serviu como a primeira e única mulher Primeira-Ministra da Índia por três mandatos consecutivos (1966–1977) e um quarto mandato (1980–1984).",
+        "year": "1917"
+      },
+      {
+        "name": "Jodie Foster",
+        "description": "Uma aclamada atriz e diretora americana, que começou sua carreira como criança e é conhecida por suas atuações versáteis em filmes como 'Taxi Driver' e 'O Silêncio dos Inocentes'.",
+        "year": "1962"
+      },
+      {
+        "name": "Calvin Klein",
+        "description": "Um icônico designer de moda americano que fundou a Calvin Klein Inc. em 1968, construindo uma marca global de estilo de vida.",
+        "year": "1942"
+      }
+    ],
+    "events": [
+      {
+        "title": "Discurso de Gettysburg Proferido",
+        "description": "Neste dia em 1863, o Presidente Abraham Lincoln proferiu seu duradouro Discurso de Gettysburg, um discurso crucial que homenageou os soldados caídos e articulou os princípios de liberdade e igualdade centrais para a causa da União.",
+        "year": "1863"
+      },
+      {
+        "title": "Módulo Lunar da Apollo 12 Pousa na Lua",
+        "description": "Em um marco científico significativo em 1969, os astronautas da Apollo 12 Pete Conrad e Alan Bean pousaram com sucesso seu módulo lunar no Oceano das Tempestades, tornando-se o terceiro e quarto humanos a caminhar na Lua.",
+        "year": "1969"
+      },
+      {
+        "title": "Ronald Reagan e Mikhail Gorbachev se Encontram pela Primeira Vez",
+        "description": "Em 1985, o presidente dos EUA Ronald Reagan e o líder soviético Mikhail Gorbachev realizaram sua primeira cúpula em Genebra, um encontro histórico que marcou os passos iniciais para aliviar as tensões durante a Guerra Fria.",
+        "year": "1985"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional do Homem",
+      "teaser": "Esta celebração global celebra o valor positivo que os homens trazem ao mundo, às suas famílias e comunidades, ao mesmo tempo que aumenta a consciência sobre o bem-estar dos homens e aborda as questões que eles enfrentam."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Matilde de Helfta",
+        "type": "Monja Benedictina, Mística",
+        "description": "Nascuda el 1241 en el que ara és Alemanya, es va fer monja cistercenca a una edat primerenca. Coneguda per la seva amabilitat, humilitat i talent musical com a directora de cor, també va experimentar freqüents visions espirituals."
+      },
+      {
+        "name": "Sant Narsès el Gran",
+        "type": "Catolicós d'Armènia",
+        "description": "Narsès I, que va morir l'any 373 d.C., va ser educat a Capadòcia i va servir com a Catolicós d'Armènia. Va ser conegut pels seus esforços per implementar reformes eclesiàstiques i finalment va ser assassinat pel rei Pap."
+      },
+      {
+        "name": "Profeta Abdies",
+        "type": "Profeta de l'Antic Testament",
+        "description": "Un dels Dotze Profetes Menors, va viure al segle IX a.C. i va pronunciar profecies, incloses les relatives a la futura salvació dels Gentils."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de l'Home",
+        "description": "Aquesta celebració global reconeix el valor positiu que els homes aporten al món, a les seves famílies i comunitats, alhora que consciencia sobre el benestar dels homes i aborda els problemes que afronten."
+      },
+      {
+        "name": "Dia Mundial del Lavabo",
+        "description": "Una celebració internacional oficial de les Nacions Unides destinada a inspirar l'acció per abordar la crisi mundial del sanejament, destacant que milers de milions de persones a tot el món no tenen accés a un sanejament adequat."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Fa vuitanta-set anys, els nostres pares van donar a llum en aquest continent una nova nació, concebuda en Llibertat i dedicada a la proposició que tots els homes són creats iguals.",
+      "author": "Abraham Lincoln",
+      "context": "Abraham Lincoln va pronunciar aquestes paraules d'obertura del Discurs de Gettysburg el 19 de novembre de 1863, durant la dedicació del Cementiri Nacional de Soldats durant la Guerra Civil Americana, redefinint el propòsit de la guerra."
+    },
+    "motivationalQuote": {
+      "text": "Vivim en un món meravellós ple de bellesa, encant i aventura. No hi ha fi per a les aventures que podem tenir si només les busquem amb els ulls oberts.",
+      "author": "Jawaharlal Nehru"
+    },
+    "births": [
+      {
+        "name": "Indira Gandhi",
+        "description": "Una influent estadista índia que va exercir com a primera i única dona Primera Ministra de l'Índia durant tres mandats consecutius (1966–1977) i un quart mandat (1980–1984).",
+        "year": "1917"
+      },
+      {
+        "name": "Jodie Foster",
+        "description": "Una aclamada actriu i directora nord-americana, que va començar la seva carrera de nena i és coneguda per les seves versàtils actuacions en pel·lícules com 'Taxi Driver' i 'El silenci dels anyells'.",
+        "year": "1962"
+      },
+      {
+        "name": "Calvin Klein",
+        "description": "Un icònic dissenyador de moda nord-americà que va fundar Calvin Klein Inc. el 1968, construint una marca de lifestyle global.",
+        "year": "1942"
+      }
+    ],
+    "events": [
+      {
+        "title": "Discurs de Gettysburg pronunciat",
+        "description": "Tal dia com avui de 1863, el president Abraham Lincoln va pronunciar el seu perdurable Discurs de Gettysburg, un discurs clau que va honorar els soldats caiguts i va articular els principis de llibertat i igualtat centrals per a la causa de la Unió.",
+        "year": "1863"
+      },
+      {
+        "title": "El mòdul lunar de l'Apollo 12 aterra a la Lluna",
+        "description": "En una fita científica significativa el 1969, els astronautes de l'Apollo 12 Pete Conrad i Alan Bean van aterrar amb èxit el seu mòdul lunar a l'Oceà de les Tempestes, convertint-se en el tercer i quart humans a caminar per la Lluna.",
+        "year": "1969"
+      },
+      {
+        "title": "Ronald Reagan i Mikhaïl Gorbatxov es reuneixen per primera vegada",
+        "description": "El 1985, el president dels EUA Ronald Reagan i el líder soviètic Mikhaïl Gorbatxov van celebrar la seva primera cimera a Ginebra, una trobada històrica que va marcar els primers passos cap a la distensió durant la Guerra Freda.",
+        "year": "1985"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de l'Home",
+      "teaser": "Aquesta celebració global reconeix el valor positiu que els homes aporten al món, a les seves famílies i comunitats, alhora que consciencia sobre el benestar dels homes i aborda els problemes que afronten."
+    }
+  }
+}
