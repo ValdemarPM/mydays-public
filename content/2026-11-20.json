@@ -1,0 +1,327 @@
+{
+  "date": "2026-11-20",
+  "es": {
+    "saints": [
+      {
+        "name": "San Edmundo Mártir",
+        "type": "Rey de Estanglia, Mártir",
+        "description": "El rey Edmundo de Estanglia fue un gobernante ejemplar, conocido por su justicia y espiritualidad, quien fue martirizado por los daneses invasores por negarse a renunciar a su fe cristiana en el año 869 d.C."
+      },
+      {
+        "name": "San Proclo",
+        "type": "Arzobispo de Constantinopla",
+        "description": "San Proclo sirvió como Arzobispo de Constantinopla y fue conocido por sus escritos teológicos y elocuencia."
+      },
+      {
+        "name": "San Dasio de Doróstoro",
+        "type": "Mártir",
+        "description": "San Dasio fue un soldado del ejército romano que fue martirizado durante las persecuciones bajo el emperador Diocleciano por negarse a participar en rituales paganos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Niño",
+        "description": "Esta observancia internacional de UNICEF promueve los derechos y el bienestar de los niños, conmemorando la adopción de la Convención sobre los Derechos del Niño."
+      },
+      {
+        "name": "Día de la Industrialización de África",
+        "description": "Este día busca movilizar el compromiso para la industrialización de África, enfatizando su importancia para el desarrollo económico y la erradicación de la pobreza."
+      },
+      {
+        "name": "Día de la Conciencia Negra (Brasil)",
+        "description": "Observado en Brasil, este día celebra la cultura y herencia afrobrasileña, a la vez que concientiza sobre las luchas contra el racismo y la desigualdad."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Hay quienes miran las cosas tal como son, y preguntan ¿por qué?... Yo sueño con cosas que nunca existieron, y pregunto ¿por qué no?",
+      "author": "Robert F. Kennedy",
+      "context": "Robert F. Kennedy, político y abogado estadounidense, nació el 20 de noviembre de 1925. Esta cita refleja su visión de una sociedad mejor y su compromiso para abordar las injusticias sociales durante su servicio público."
+    },
+    "motivationalQuote": {
+      "text": "La vida es como montar en bicicleta. Para mantener el equilibrio, debes seguir moviéndote.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Robert F. Kennedy",
+        "description": "Un político y abogado estadounidense, sirvió como Fiscal General durante la presidencia de su hermano John F. Kennedy y más tarde como Senador de EE. UU. por Nueva York.",
+        "year": "1925"
+      },
+      {
+        "name": "Joe Biden",
+        "description": "El 46º y actual Presidente de los Estados Unidos, anteriormente se desempeñó como el 47º Vicepresidente de 2009 a 2017.",
+        "year": "1942"
+      },
+      {
+        "name": "Edwin Hubble",
+        "description": "Un influyente astrónomo estadounidense que desempeñó un papel crucial en el establecimiento de los campos de la astronomía extragaláctica y la cosmología observacional, descubriendo que el universo se está expandiendo.",
+        "year": "1889"
+      }
+    ],
+    "events": [
+      {
+        "title": "Lanzado el primer módulo de la Estación Espacial Internacional",
+        "description": "El módulo Zarya, el primer componente de la Estación Espacial Internacional, fue lanzado a órbita, marcando un hito significativo en la colaboración espacial internacional.",
+        "year": "1998"
+      },
+      {
+        "title": "La ONU Adopta la Declaración de los Derechos del Niño",
+        "description": "La Asamblea General de las Naciones Unidas adoptó por unanimidad la Declaración de los Derechos del Niño, delineando derechos y libertades fundamentales para los niños en todo el mundo.",
+        "year": "1959"
+      },
+      {
+        "title": "Termina la Crisis de los Misiles de Cuba",
+        "description": "La Crisis de los Misiles de Cuba, una tensa confrontación de 13 días entre Estados Unidos y la Unión Soviética, terminó formalmente cuando EE. UU. levantó su bloqueo naval a Cuba.",
+        "year": "1962"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Mundial del Niño",
+      "teaser": "Esta observancia internacional de UNICEF promueve los derechos y el bienestar de los niños, conmemorando la adopción de la Convención sobre los Derechos del Niño."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Edmund the Martyr",
+        "type": "King of East Anglia, Martyr",
+        "description": "King Edmund of East Anglia was a model ruler, known for his justice and spirituality, who was martyred by invading Danes for refusing to renounce his Christian faith in 869 AD."
+      },
+      {
+        "name": "Saint Proclus",
+        "type": "Archbishop of Constantinople",
+        "description": "Saint Proclus served as the Archbishop of Constantinople and was known for his theological writings and eloquence."
+      },
+      {
+        "name": "Saint Dasius of Dorostorum",
+        "type": "Martyr",
+        "description": "Saint Dasius was a soldier in the Roman army who was martyred during the persecutions under Emperor Diocletian for refusing to participate in pagan rituals."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Children's Day",
+        "description": "This international observance by UNICEF promotes children's rights and welfare, marking the adoption of the Convention on the Rights of the Child."
+      },
+      {
+        "name": "Africa Industrialization Day",
+        "description": "This day aims to mobilize commitment for Africa's industrialization, emphasizing its importance for economic development and poverty eradication."
+      },
+      {
+        "name": "Black Awareness Day (Brazil)",
+        "description": "Observed in Brazil, this day celebrates Afro-Brazilian culture and heritage, while also raising awareness about the struggles against racism and inequality."
+      }
+    ],
+    "historicalQuote": {
+      "text": "There are those who look at things the way they are, and ask why... I dream of things that never were, and ask why not?",
+      "author": "Robert F. Kennedy",
+      "context": "Robert F. Kennedy, an American politician and lawyer, was born on November 20, 1925. This quote reflects his vision for a better society and his commitment to addressing social injustices during his public service."
+    },
+    "motivationalQuote": {
+      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Robert F. Kennedy",
+        "description": "An American politician and lawyer, he served as Attorney General during his brother John F. Kennedy's presidency and later as a U.S. Senator for New York.",
+        "year": "1925"
+      },
+      {
+        "name": "Joe Biden",
+        "description": "The 46th and current President of the United States, he previously served as the 47th Vice President from 2009 to 2017.",
+        "year": "1942"
+      },
+      {
+        "name": "Edwin Hubble",
+        "description": "An influential American astronomer who played a crucial role in establishing the fields of extragalactic astronomy and observational cosmology, discovering that the universe is expanding.",
+        "year": "1889"
+      }
+    ],
+    "events": [
+      {
+        "title": "International Space Station's First Module Launched",
+        "description": "The Zarya module, the first component of the International Space Station, was launched into orbit, marking a significant milestone in international space collaboration.",
+        "year": "1998"
+      },
+      {
+        "title": "UN Adopts Declaration of the Rights of the Child",
+        "description": "The United Nations General Assembly unanimously adopted the Declaration of the Rights of the Child, outlining fundamental rights and freedoms for children worldwide.",
+        "year": "1959"
+      },
+      {
+        "title": "Cuban Missile Crisis Ends",
+        "description": "The Cuban Missile Crisis, a tense 13-day confrontation between the United States and the Soviet Union, formally ended when the U.S. lifted its naval blockade of Cuba.",
+        "year": "1962"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is World Children's Day",
+      "teaser": "This international observance by UNICEF promotes children's rights and welfare, marking the adoption of the Convention on the Rights of the Child."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Edmundo, o Mártir",
+        "type": "Rei da Ânglia Oriental, Mártir",
+        "description": "O Rei Edmundo da Ânglia Oriental foi um governante modelo, conhecido por sua justiça e espiritualidade, que foi martirizado pelos dinamarqueses invasores por se recusar a renunciar à sua fé cristã em 869 d.C."
+      },
+      {
+        "name": "São Proclo",
+        "type": "Arcebispo de Constantinopla",
+        "description": "São Proclo serviu como Arcebispo de Constantinopla e era conhecido por seus escritos teológicos e eloquência."
+      },
+      {
+        "name": "São Dásio de Dorostorum",
+        "type": "Mártir",
+        "description": "São Dásio foi um soldado do exército romano que foi martirizado durante as perseguições sob o Imperador Diocleciano por se recusar a participar em rituais pagãos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Criança",
+        "description": "Esta observância internacional da UNICEF promove os direitos e o bem-estar das crianças, marcando a adoção da Convenção sobre os Direitos da Criança."
+      },
+      {
+        "name": "Dia da Industrialização da África",
+        "description": "Este dia visa mobilizar o compromisso para a industrialização da África, enfatizando sua importância para o desenvolvimento econômico e a erradicação da pobreza."
+      },
+      {
+        "name": "Dia da Consciência Negra (Brasil)",
+        "description": "Observado no Brasil, este dia celebra a cultura e herança afro-brasileira, ao mesmo tempo que conscientiza sobre as lutas contra o racismo e a desigualdade."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Há quem olhe para as coisas como elas são, e pergunte porquê... Eu sonho com coisas que nunca existiram, e pergunto por que não?",
+      "author": "Robert F. Kennedy",
+      "context": "Robert F. Kennedy, um político e advogado americano, nasceu em 20 de novembro de 1925. Esta citação reflete sua visão para uma sociedade melhor e seu compromisso em abordar as injustiças sociais durante seu serviço público."
+    },
+    "motivationalQuote": {
+      "text": "A vida é como andar de bicicleta. Para manter o equilíbrio, você deve continuar em movimento.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Robert F. Kennedy",
+        "description": "Um político e advogado americano, serviu como Procurador-Geral durante a presidência de seu irmão John F. Kennedy e, posteriormente, como Senador dos EUA por Nova York.",
+        "year": "1925"
+      },
+      {
+        "name": "Joe Biden",
+        "description": "O 46º e atual Presidente dos Estados Unidos, ele serviu anteriormente como o 47º Vice-Presidente de 2009 a 2017.",
+        "year": "1942"
+      },
+      {
+        "name": "Edwin Hubble",
+        "description": "Um influente astrônomo americano que desempenhou um papel crucial no estabelecimento dos campos da astronomia extragaláctica e cosmologia observacional, descobrindo que o universo está em expansão.",
+        "year": "1889"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeiro Módulo da Estação Espacial Internacional Lançado",
+        "description": "O módulo Zarya, o primeiro componente da Estação Espacial Internacional, foi lançado em órbita, marcando um marco significativo na colaboração espacial internacional.",
+        "year": "1998"
+      },
+      {
+        "title": "ONU Adota a Declaração dos Direitos da Criança",
+        "description": "A Assembleia Geral das Nações Unidas adotou por unanimidade a Declaração dos Direitos da Criança, delineando direitos e liberdades fundamentais para crianças em todo o mundo.",
+        "year": "1959"
+      },
+      {
+        "title": "Fim da Crise dos Mísseis de Cuba",
+        "description": "A Crise dos Mísseis de Cuba, um confronto tenso de 13 dias entre os Estados Unidos e a União Soviética, terminou formalmente quando os EUA suspenderam seu bloqueio naval a Cuba.",
+        "year": "1962"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Mundial da Criança",
+      "teaser": "Esta observância internacional da UNICEF promove os direitos e o bem-estar das crianças, marcando a adoção da Convenção sobre os Direitos da Criança."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Edmund el Màrtir",
+        "type": "Rei d'Ànglia Oriental, Màrtir",
+        "description": "El rei Edmund d'Ànglia Oriental va ser un governant model, conegut per la seva justícia i espiritualitat, que va ser martiritzat pels danesos invasors per negar-se a renunciar a la seva fe cristiana l'any 869 dC."
+      },
+      {
+        "name": "Sant Procle",
+        "type": "Arquebisbe de Constantinoble",
+        "description": "Sant Procle va servir com a arquebisbe de Constantinoble i va ser conegut pels seus escrits teològics i la seva eloqüència."
+      },
+      {
+        "name": "Sant Dasi de Dorostorum",
+        "type": "Màrtir",
+        "description": "Sant Dasi va ser un soldat de l'exèrcit romà que va ser martiritzat durant les persecucions sota l'emperador Dioclecià per negar-se a participar en rituals pagans."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Infància",
+        "description": "Aquesta commemoració internacional d'UNICEF promou els drets i el benestar dels infants, marcant l'adopció de la Convenció sobre els Drets de l'Infant."
+      },
+      {
+        "name": "Dia de la Industrialització d'Àfrica",
+        "description": "Aquest dia té com a objectiu mobilitzar el compromís per a la industrialització d'Àfrica, destacant la seva importància per al desenvolupament econòmic i l'erradicació de la pobresa."
+      },
+      {
+        "name": "Dia de la Consciència Negra (Brasil)",
+        "description": "Observat al Brasil, aquest dia celebra la cultura i el patrimoni afrobrasiler, alhora que consciencia sobre les lluites contra el racisme i la desigualtat."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Hi ha aquells que miren les coses tal com són i pregunten per què... Jo somio amb coses que mai no van existir i pregunto per què no?",
+      "author": "Robert F. Kennedy",
+      "context": "Robert F. Kennedy, un polític i advocat nord-americà, va néixer el 20 de novembre de 1925. Aquesta cita reflecteix la seva visió d'una societat millor i el seu compromís amb l'abordatge de les injustícies socials durant el seu servei públic."
+    },
+    "motivationalQuote": {
+      "text": "La vida és com anar en bicicleta. Per mantenir l'equilibri, has de seguir avançant.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Robert F. Kennedy",
+        "description": "Un polític i advocat nord-americà, va servir com a fiscal general durant la presidència del seu germà John F. Kennedy i posteriorment com a senador dels EUA per Nova York.",
+        "year": "1925"
+      },
+      {
+        "name": "Joe Biden",
+        "description": "El 46è i actual president dels Estats Units, anteriorment va servir com a 47è vicepresident de 2009 a 2017.",
+        "year": "1942"
+      },
+      {
+        "name": "Edwin Hubble",
+        "description": "Un influent astrònom nord-americà que va jugar un paper crucial en l'establiment dels camps de l'astronomia extragalàctica i la cosmologia observacional, descobrint que l'univers s'està expandint.",
+        "year": "1889"
+      }
+    ],
+    "events": [
+      {
+        "title": "Llançat el primer mòdul de l'Estació Espacial Internacional",
+        "description": "El mòdul Zarya, el primer component de l'Estació Espacial Internacional, va ser llançat a l'òrbita, marcant una fita significativa en la col·laboració espacial internacional.",
+        "year": "1998"
+      },
+      {
+        "title": "L'ONU Adopta la Declaració dels Drets de l'Infant",
+        "description": "L'Assemblea General de les Nacions Unides va adoptar per unanimitat la Declaració dels Drets de l'Infant, que estableix els drets i llibertats fonamentals dels infants a tot el món.",
+        "year": "1959"
+      },
+      {
+        "title": "Fi de la Crisi dels Míssils de Cuba",
+        "description": "La Crisi dels Míssils de Cuba, una tensa confrontació de 13 dies entre els Estats Units i la Unió Soviètica, va acabar formalment quan els EUA van aixecar el seu bloqueig naval a Cuba.",
+        "year": "1962"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Mundial de la Infància",
+      "teaser": "Aquesta commemoració internacional d'UNICEF promou els drets i el benestar dels infants, marcant l'adopció de la Convenció sobre els Drets de l'Infant."
+    }
+  }
+}
