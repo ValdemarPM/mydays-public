@@ -1,0 +1,327 @@
+{
+  "date": "2026-11-21",
+  "es": {
+    "saints": [
+      {
+        "name": "Presentación de la Santísima Virgen María",
+        "type": "Día Festivo",
+        "description": "Esta fiesta conmemora la presentación de la Santísima Virgen María como niña en el Templo, donde la tradición sostiene que fue educada."
+      },
+      {
+        "name": "San Alberto de Lovaina",
+        "type": "Obispo, Mártir",
+        "description": "Nacido en una familia adinerada e influyente, San Alberto de Lovaina eligió dedicar su vida a Dios, preparándose para el sacerdocio desde joven y finalmente convirtiéndose en obispo."
+      },
+      {
+        "name": "Papa San Gelasio I",
+        "type": "Papa",
+        "description": "Conocido por su vasta erudición, profunda caridad y fuerte sentido de la justicia, el Papa San Gelasio I se opuso activamente a diversas herejías durante su papado."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Saludo",
+        "description": "Celebrado en más de 180 países, el Día Mundial del Saludo enfatiza el papel de la comunicación en la preservación de la paz y anima a las personas a resolver conflictos mediante el diálogo en lugar de la fuerza."
+      },
+      {
+        "name": "Día Mundial de la Televisión",
+        "description": "Esta conmemoración internacional reconoce el importante papel que desempeña la televisión al presentar diversas cuestiones que afectan a la gente a nivel mundial."
+      },
+      {
+        "name": "Día Mundial de la Pesca",
+        "description": "Una conmemoración ambiental de importancia global, el Día Mundial de la Pesca destaca la importancia crítica de los ecosistemas oceánicos saludables y la pesca sostenible."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El sentido común no es tan común.",
+      "author": "Voltaire",
+      "context": "François-Marie Arouet, más conocido como Voltaire, un escritor, historiador y filósofo francés de la Ilustración muy influyente, nació el 21 de noviembre de 1694. Fue un ferviente defensor de las libertades civiles, incluyendo la libertad de expresión y la tolerancia religiosa."
+    },
+    "motivationalQuote": {
+      "text": "La mente del hombre, una vez expandida por una nueva idea, nunca recupera sus dimensiones originales.",
+      "author": "Oliver Wendell Holmes Sr."
+    },
+    "births": [
+      {
+        "name": "Voltaire",
+        "description": "Un prominente filósofo, escritor e historiador francés de la Ilustración, conocido por su defensa de las libertades civiles, la libertad de expresión y la separación de la iglesia y el estado.",
+        "year": "1694"
+      },
+      {
+        "name": "Goldie Hawn",
+        "description": "Una aclamada actriz, productora y cantante estadounidense, saltó a la fama a finales de la década de 1960 y ha protagonizado numerosas películas exitosas.",
+        "year": "1945"
+      },
+      {
+        "name": "Björk",
+        "description": "Una innovadora cantante, compositora y actriz islandesa, reconocida por su música experimental y su distintivo estilo vocal.",
+        "year": "1965"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer Vuelo en Globo Aerostático Sin Amarre",
+        "description": "Jean-François Pilâtre de Rozier y François Laurent d'Arlandes hicieron historia en París al lograr el primer vuelo en globo aerostático sin amarre, mostrando la ingenuidad humana y el espíritu de exploración.",
+        "year": "1783"
+      },
+      {
+        "title": "Carolina del Norte Ratifica la Constitución de EE. UU.",
+        "description": "Carolina del Norte ratificó la Constitución de los Estados Unidos, convirtiéndose oficialmente en el duodécimo estado en unirse a la Unión y contribuyendo a la formación de la nación moderna.",
+        "year": "1789"
+      },
+      {
+        "title": "Thomas Edison Anuncia la Invención del Fonógrafo",
+        "description": "Thomas Edison anunció su invención del fonógrafo, un dispositivo innovador capaz de grabar y reproducir sonido, que revolucionó la comunicación y el entretenimiento.",
+        "year": "1877"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Mundial del Saludo",
+      "teaser": "Celebrado en más de 180 países, el Día Mundial del Saludo enfatiza el papel de la comunicación en la preservación de la paz y anima a las personas a resolver conflictos mediante el diálogo en lugar de la fuerza."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Presentation of the Blessed Virgin Mary",
+        "type": "Feast Day",
+        "description": "This feast commemorates the presentation of the Blessed Virgin Mary as a child in the Temple, where tradition holds she was educated."
+      },
+      {
+        "name": "Saint Albert of Louvain",
+        "type": "Bishop, Martyr",
+        "description": "Born into a wealthy and influential family, Saint Albert of Louvain chose to dedicate his life to God, preparing for the priesthood from a young age and eventually becoming a bishop."
+      },
+      {
+        "name": "Pope Saint Gelasius I",
+        "type": "Pope",
+        "description": "Known for his extensive learning, profound charity, and strong sense of justice, Pope Saint Gelasius I actively opposed various heresies during his papacy."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Hello Day",
+        "description": "Observed in over 180 countries, World Hello Day emphasizes the role of communication in preserving peace and encourages individuals to resolve conflicts through dialogue rather than force."
+      },
+      {
+        "name": "World Television Day",
+        "description": "This international observance recognizes the significant role television plays in presenting diverse issues that impact people globally."
+      },
+      {
+        "name": "World Fisheries Day",
+        "description": "A globally significant environmental observance, World Fisheries Day highlights the critical importance of healthy ocean ecosystems and sustainable fisheries."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Common sense is not so common.",
+      "author": "Voltaire",
+      "context": "François-Marie Arouet, better known as Voltaire, a highly influential French Enlightenment writer, historian, and philosopher, was born on November 21, 1694. He was a fervent advocate for civil liberties, including freedom of speech and religious tolerance."
+    },
+    "motivationalQuote": {
+      "text": "Man's mind, once stretched by a new idea, never regains its original dimensions.",
+      "author": "Oliver Wendell Holmes Sr."
+    },
+    "births": [
+      {
+        "name": "Voltaire",
+        "description": "A prominent French Enlightenment philosopher, writer, and historian, known for his advocacy of civil liberties, freedom of speech, and separation of church and state.",
+        "year": "1694"
+      },
+      {
+        "name": "Goldie Hawn",
+        "description": "An acclaimed American actress, producer, and singer, she rose to fame in the late 1960s and has starred in numerous successful films.",
+        "year": "1945"
+      },
+      {
+        "name": "Björk",
+        "description": "An innovative Icelandic singer, songwriter, and actress, renowned for her experimental music and distinctive vocal style.",
+        "year": "1965"
+      }
+    ],
+    "events": [
+      {
+        "title": "First Untethered Hot Air Balloon Flight",
+        "description": "Jean-François Pilâtre de Rozier and François Laurent d'Arlandes made history in Paris by achieving the first untethered hot air balloon flight, showcasing human ingenuity and the spirit of exploration.",
+        "year": "1783"
+      },
+      {
+        "title": "North Carolina Ratifies U.S. Constitution",
+        "description": "North Carolina ratified the United States Constitution, officially becoming the 12th state to join the Union and contributing to the formation of the modern nation.",
+        "year": "1789"
+      },
+      {
+        "title": "Thomas Edison Announces Phonograph Invention",
+        "description": "Thomas Edison announced his invention of the phonograph, a groundbreaking device capable of recording and playing sound, which revolutionized communication and entertainment.",
+        "year": "1877"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is World Hello Day",
+      "teaser": "Observed in over 180 countries, World Hello Day emphasizes the role of communication in preserving peace and encourages individuals to resolve conflicts through dialogue rather than force."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Apresentação da Santíssima Virgem Maria",
+        "type": "Dia Festivo",
+        "description": "Esta festa comemora a apresentação da Santíssima Virgem Maria quando criança no Templo, onde a tradição sustenta que ela foi educada."
+      },
+      {
+        "name": "São Alberto de Lovaina",
+        "type": "Bispo, Mártir",
+        "description": "Nascido em uma família rica e influente, São Alberto de Lovaina escolheu dedicar sua vida a Deus, preparando-se para o sacerdócio desde jovem e, eventualmente, tornando-se bispo."
+      },
+      {
+        "name": "Papa São Gelásio I",
+        "type": "Papa",
+        "description": "Conhecido por sua vasta erudição, profunda caridade e forte senso de justiça, o Papa São Gelásio I se opôs ativamente a várias heresias durante seu papado."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Saudação",
+        "description": "Celebrado em mais de 180 países, o Dia Mundial da Saudação enfatiza o papel da comunicação na preservação da paz e encoraja os indivíduos a resolver conflitos através do diálogo em vez da força."
+      },
+      {
+        "name": "Dia Mundial da Televisão",
+        "description": "Esta observância internacional reconhece o papel significativo que a televisão desempenha ao apresentar diversas questões que impactam as pessoas globalmente."
+      },
+      {
+        "name": "Dia Mundial da Pesca",
+        "description": "Uma observância ambiental de importância global, o Dia Mundial da Pesca destaca a importância crítica de ecossistemas oceânicos saudáveis e pescarias sustentáveis."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O bom senso não é tão comum.",
+      "author": "Voltaire",
+      "context": "François-Marie Arouet, mais conhecido como Voltaire, um escritor, historiador e filósofo francês do Iluminismo altamente influente, nasceu em 21 de novembro de 1694. Ele foi um defensor fervoroso das liberdades civis, incluindo a liberdade de expressão e a tolerância religiosa."
+    },
+    "motivationalQuote": {
+      "text": "A mente do homem, uma vez expandida por uma nova ideia, nunca recupera suas dimensões originais.",
+      "author": "Oliver Wendell Holmes Sr."
+    },
+    "births": [
+      {
+        "name": "Voltaire",
+        "description": "Um proeminente filósofo, escritor e historiador francês do Iluminismo, conhecido por sua defesa das liberdades civis, liberdade de expressão e separação entre igreja e estado.",
+        "year": "1694"
+      },
+      {
+        "name": "Goldie Hawn",
+        "description": "Uma aclamada atriz, produtora e cantora americana, ela alcançou a fama no final da década de 1960 e estrelou vários filmes de sucesso.",
+        "year": "1945"
+      },
+      {
+        "name": "Björk",
+        "description": "Uma inovadora cantora, compositora e atriz islandesa, reconhecida por sua música experimental e seu estilo vocal distinto.",
+        "year": "1965"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeiro Voo de Balão de Ar Quente Desamarrado",
+        "description": "Jean-François Pilâtre de Rozier e François Laurent d'Arlandes fizeram história em Paris ao realizar o primeiro voo de balão de ar quente desamarrado, demonstrando a engenhosidade humana e o espírito de exploração.",
+        "year": "1783"
+      },
+      {
+        "title": "Carolina do Norte Ratifica a Constituição dos EUA",
+        "description": "A Carolina do Norte ratificou a Constituição dos Estados Unidos, tornando-se oficialmente o 12º estado a se juntar à União e contribuindo para a formação da nação moderna.",
+        "year": "1789"
+      },
+      {
+        "title": "Thomas Edison Anuncia a Invenção do Fonógrafo",
+        "description": "Thomas Edison anunciou sua invenção do fonógrafo, um dispositivo inovador capaz de gravar e reproduzir som, que revolucionou a comunicação e o entretenimento.",
+        "year": "1877"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Mundial da Saudação",
+      "teaser": "Celebrado em mais de 180 países, o Dia Mundial da Saudação enfatiza o papel da comunicação na preservação da paz e encoraja os indivíduos a resolver conflitos através do diálogo em vez da força."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Presentació de la Santíssima Mare de Déu",
+        "type": "Dia de Festa",
+        "description": "Aquesta festa commemora la presentació de la Santíssima Mare de Déu de nena al Temple, on la tradició sosté que va ser educada."
+      },
+      {
+        "name": "Sant Albert de Lovaina",
+        "type": "Bisbe, Màrtir",
+        "description": "Nascut en una família rica i influent, Sant Albert de Lovaina va escollir dedicar la seva vida a Déu, preparant-se per al sacerdoci des de jove i, finalment, esdevenint bisbe."
+      },
+      {
+        "name": "Papa Sant Gelasi I",
+        "type": "Papa",
+        "description": "Coneguda per la seva àmplia erudició, profunda caritat i fort sentit de la justícia, el Papa Sant Gelasi I es va oposar activament a diverses heretgies durant el seu papat."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de la Salutació",
+        "description": "Celebrat en més de 180 països, el Dia Mundial de la Salutació posa l'accent en el paper de la comunicació per preservar la pau i encoratja les persones a resoldre conflictes mitjançant el diàleg en lloc de la força."
+      },
+      {
+        "name": "Dia Mundial de la Televisió",
+        "description": "Aquesta celebració internacional reconeix el paper significatiu que juga la televisió en la presentació de diverses qüestions que afecten les persones a nivell global."
+      },
+      {
+        "name": "Dia Mundial de la Pesca",
+        "description": "Una celebració ambiental de gran importància global, el Dia Mundial de la Pesca subratlla la importància crítica dels ecosistemes oceànics saludables i la pesca sostenible."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El sentit comú no és tan comú.",
+      "author": "Voltaire",
+      "context": "François-Marie Arouet, més conegut com Voltaire, un escriptor, historiador i filòsof francès de la Il·lustració molt influent, va néixer el 21 de novembre de 1694. Va ser un fervent defensor de les llibertats civils, inclosa la llibertat d'expressió i la tolerància religiosa."
+    },
+    "motivationalQuote": {
+      "text": "La ment de l'home, un cop estirada per una nova idea, mai recupera les seves dimensions originals.",
+      "author": "Oliver Wendell Holmes Sr."
+    },
+    "births": [
+      {
+        "name": "Voltaire",
+        "description": "Un destacat filòsof, escriptor i historiador francès de la Il·lustració, conegut per la seva defensa de les llibertats civils, la llibertat d'expressió i la separació de l'Església i l'Estat.",
+        "year": "1694"
+      },
+      {
+        "name": "Goldie Hawn",
+        "description": "Una aclamada actriu, productora i cantant nord-americana, va saltar a la fama a finals dels anys 60 i ha protagonitzat nombroses pel·lícules d'èxit.",
+        "year": "1945"
+      },
+      {
+        "name": "Björk",
+        "description": "Una innovadora cantant, compositora i actriu islandesa, reconeguda per la seva música experimental i el seu estil vocal distintiu.",
+        "year": "1965"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer vol en globus aerostàtic sense lligar",
+        "description": "Jean-François Pilâtre de Rozier i François Laurent d'Arlandes van fer història a París aconseguint el primer vol en globus aerostàtic sense lligar, mostrant l'enginy humà i l'esperit d'exploració.",
+        "year": "1783"
+      },
+      {
+        "title": "Carolina del Nord ratifica la Constitució dels EUA",
+        "description": "Carolina del Nord va ratificar la Constitució dels Estats Units, esdevenint oficialment el 12è estat a unir-se a la Unió i contribuint a la formació de la nació moderna.",
+        "year": "1789"
+      },
+      {
+        "title": "Thomas Edison anuncia la invenció del fonògraf",
+        "description": "Thomas Edison va anunciar la seva invenció del fonògraf, un dispositiu revolucionari capaç de gravar i reproduir so, que va revolucionar la comunicació i l'entreteniment.",
+        "year": "1877"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Mundial de la Salutació",
+      "teaser": "Celebrat en més de 180 països, el Dia Mundial de la Salutació posa l'accent en el paper de la comunicació per preservar la pau i encoratja les persones a resoldre conflictes mitjançant el diàleg en lloc de la força."
+    }
+  }
+}
