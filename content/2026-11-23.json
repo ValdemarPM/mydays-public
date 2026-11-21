@@ -1,0 +1,311 @@
+{
+  "date": "2026-11-23",
+  "es": {
+    "saints": [
+      {
+        "name": "San Clemente I",
+        "type": "Papa y Mártir",
+        "description": "El cuarto Papa, San Clemente I, fue un Padre Apostólico que se cree fue consagrado por San Pedro y es mencionado en Filipenses 4:3. Fue martirizado al ser lanzado al mar con un ancla atada a su cuello durante la persecución de Trajano."
+      },
+      {
+        "name": "San Columbano",
+        "type": "Monje Misionero Irlandés",
+        "description": "Un monje misionero irlandés que fundó monasterios en la Galia e Italia, incluyendo la Abadía de Luxeuil y la Abadía de Bobbio. Fue conocido por su fuerte deseo de Dios, lo que lo llevó a retirarse de los placeres mundanos."
+      },
+      {
+        "name": "San Alejandro Nevski",
+        "type": "Gran Príncipe",
+        "description": "Un venerado santo ortodoxo ruso, Gran Príncipe de Nóvgorod, celebrado por sus victorias militares contra los invasores y por salvaguardar la cristiandad ortodoxa en la Rus'."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de Fibonacci",
+        "description": "Celebrado anualmente el 23 de noviembre para honrar a Leonardo Bonacci, uno de los matemáticos más influyentes de la Edad Media, con la fecha correspondiendo a los primeros números de la secuencia de Fibonacci (1, 1, 2, 3)."
+      },
+      {
+        "name": "Wolfenoot",
+        "description": "Una celebración anual el 23 de noviembre que honra el espíritu del lobo, fomenta la amabilidad y celebra particularmente a los perros como descendientes de los lobos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Casi tan malo es matar a un hombre como matar un buen libro. Quien mata a un hombre mata a una criatura racional, imagen de Dios; pero quien destruye un buen libro, mata la razón misma, mata la imagen de Dios, por así decirlo, en el ojo.",
+      "author": "John Milton",
+      "context": "Esta cita proviene del influyente panfleto de John Milton 'Areopagítica', un poderoso argumento contra la censura, que fue publicado el 23 de noviembre de 1644."
+    },
+    "motivationalQuote": {
+      "text": "Todo tiene su belleza, pero no todos la ven.",
+      "author": "Confucio"
+    },
+    "births": [
+      {
+        "name": "Franklin Pierce",
+        "description": "El 14º Presidente de los Estados Unidos, que sirvió de 1853 a 1857.",
+        "year": "1804"
+      },
+      {
+        "name": "Harpo Marx",
+        "description": "Un comediante, actor y músico estadounidense, famoso por su personaje mudo que tocaba el arpa en el equipo de comedia de los Hermanos Marx.",
+        "year": "1888"
+      },
+      {
+        "name": "Miley Cyrus",
+        "description": "Una cantante, compositora y actriz estadounidense que saltó a la fama como ídolo adolescente antes de establecer una exitosa carrera como artista pop.",
+        "year": "1992"
+      }
+    ],
+    "events": [
+      {
+        "title": "La Galaxia de Andrómeda Identificada como Separada",
+        "description": "Edwin Hubble anunció su descubrimiento de que la 'nebulosa de Andrómeda' era en realidad otra galaxia isla muy alejada de nuestra propia Vía Láctea, cambiando fundamentalmente nuestra comprensión del universo.",
+        "year": "1924"
+      },
+      {
+        "title": "La Primera Gramola Entra en Funcionamiento",
+        "description": "El primer fonógrafo 'de moneda', comúnmente conocido como gramola, fue puesto en servicio en el Palais Royale Saloon en San Francisco, revolucionando el acceso a la música y el entretenimiento público.",
+        "year": "1889"
+      },
+      {
+        "title": "Jacques Mayol Logra una Apnea de 100m",
+        "description": "El apneísta francés Jacques Mayol se convirtió en la primera persona en alcanzar una profundidad de 100 metros bajo el agua sin la ayuda de equipo de respiración, superando los límites de la resistencia humana y la exploración submarina.",
+        "year": "1976"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día de Fibonacci",
+      "teaser": "Celebrado anualmente el 23 de noviembre para honrar a Leonardo Bonacci, uno de los matemáticos más influyentes de la Edad Media, con la fecha correspondiendo a los primeros números de la secuencia de Fibonacci (1, 1, 2, 3)."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Clement I",
+        "type": "Pope and Martyr",
+        "description": "The fourth Pope, St. Clement I, was an Apostolic Father believed to have been consecrated by Saint Peter and is mentioned in Philippians 4:3. He was martyred by being thrown into the sea with an anchor tied to his neck during the persecution of Trajan."
+      },
+      {
+        "name": "St. Columbanus",
+        "type": "Irish Missionary Monk",
+        "description": "An Irish missionary monk who founded monasteries in Gaul and Italy, including Luxeuil Abbey and Bobbio Abbey. He was known for his strong desire for God, leading him to withdraw from worldly pleasures."
+      },
+      {
+        "name": "St. Alexander Nevsky",
+        "type": "Grand Prince",
+        "description": "A revered Russian Orthodox saint, Grand Prince of Novgorod, celebrated for his military victories against invaders and for safeguarding Orthodox Christianity in Rus'."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Fibonacci Day",
+        "description": "Celebrated annually on November 23rd to honor Leonardo Bonacci, one of the most influential mathematicians of the Middle Ages, with the date corresponding to the first numbers of the Fibonacci sequence (1, 1, 2, 3)."
+      },
+      {
+        "name": "Wolfenoot",
+        "description": "An annual celebration on November 23rd that honors the spirit of the wolf, encourages kindness, and particularly celebrates dogs as descendants of wolves."
+      }
+    ],
+    "historicalQuote": {
+      "text": "As good almost kill a man as kill a good book. Who kills a man kills a reasonable creature, God's image; but he who destroys a good book, kills reason itself, kills the image of God, as it were in the eye.",
+      "author": "John Milton",
+      "context": "This quote is from John Milton's influential pamphlet 'Areopagitica,' a powerful argument against censorship, which was published on November 23, 1644."
+    },
+    "motivationalQuote": {
+      "text": "Everything has its beauty, but not everyone sees it.",
+      "author": "Confucius"
+    },
+    "births": [
+      {
+        "name": "Franklin Pierce",
+        "description": "The 14th President of the United States, who served from 1853 to 1857.",
+        "year": "1804"
+      },
+      {
+        "name": "Harpo Marx",
+        "description": "An American comedian, actor, and musician, famous for his silent, harp-playing persona in the Marx Brothers comedy team.",
+        "year": "1888"
+      },
+      {
+        "name": "Miley Cyrus",
+        "description": "An American singer, songwriter, and actress who rose to fame as a teen idol before establishing a successful career as a pop artist.",
+        "year": "1992"
+      }
+    ],
+    "events": [
+      {
+        "title": "Andromeda Galaxy Identified as Separate",
+        "description": "Edwin Hubble announced his discovery that the 'Andromeda nebula' was actually another island galaxy far outside of our own Milky Way, fundamentally changing our understanding of the universe.",
+        "year": "1924"
+      },
+      {
+        "title": "First Jukebox Goes into Operation",
+        "description": "The first 'nickel-in-the-slot' phonograph, commonly known as the jukebox, was placed into service at the Palais Royale Saloon in San Francisco, revolutionizing music access and public entertainment.",
+        "year": "1889"
+      },
+      {
+        "title": "Jacques Mayol Achieves 100m Freedive",
+        "description": "French apneist Jacques Mayol became the first person to reach a depth of 100 meters underwater without the aid of breathing equipment, pushing the boundaries of human endurance and underwater exploration.",
+        "year": "1976"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Fibonacci Day",
+      "teaser": "Celebrated annually on November 23rd to honor Leonardo Bonacci, one of the most influential mathematicians of the Middle Ages, with the date corresponding to the first numbers of the Fibonacci sequence (1, 1, 2, 3)."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Clemente I",
+        "type": "Papa e Mártir",
+        "description": "O quarto Papa, São Clemente I, foi um Padre Apostólico que se acredita ter sido consagrado por São Pedro e é mencionado em Filipenses 4:3. Ele foi martirizado ao ser lançado ao mar com uma âncora amarrada ao pescoço durante a perseguição de Trajano."
+      },
+      {
+        "name": "São Columbano",
+        "type": "Monge Missionário Irlandês",
+        "description": "Um monge missionário irlandês que fundou mosteiros na Gália e na Itália, incluindo a Abadia de Luxeuil e a Abadia de Bobbio. Ele era conhecido pelo seu forte desejo por Deus, levando-o a se afastar dos prazeres mundanos."
+      },
+      {
+        "name": "Santo Alexandre Nevsky",
+        "type": "Grão-Príncipe",
+        "description": "Um venerado santo ortodoxo russo, Grão-Príncipe de Novgorod, celebrado por suas vitórias militares contra invasores e por salvaguardar o Cristianismo Ortodoxo na Rus'."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Fibonacci",
+        "description": "Celebrado anualmente em 23 de novembro para homenagear Leonardo Bonacci, um dos matemáticos mais influentes da Idade Média, com a data correspondendo aos primeiros números da sequência de Fibonacci (1, 1, 2, 3)."
+      },
+      {
+        "name": "Wolfenoot",
+        "description": "Uma celebração anual em 23 de novembro que honra o espírito do lobo, incentiva a bondade e celebra particularmente os cães como descendentes de lobos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Quase tão ruim é matar um homem como matar um bom livro. Quem mata um homem mata uma criatura razoável, imagem de Deus; mas aquele que destrói um bom livro, mata a própria razão, mata a imagem de Deus, por assim dizer, no olho.",
+      "author": "John Milton",
+      "context": "Esta citação é do influente panfleto de John Milton 'Areopagitica', um poderoso argumento contra a censura, que foi publicado em 23 de novembro de 1644."
+    },
+    "motivationalQuote": {
+      "text": "Tudo tem sua beleza, mas nem todos a veem.",
+      "author": "Confúcio"
+    },
+    "births": [
+      {
+        "name": "Franklin Pierce",
+        "description": "O 14º Presidente dos Estados Unidos, que serviu de 1853 a 1857.",
+        "year": "1804"
+      },
+      {
+        "name": "Harpo Marx",
+        "description": "Um comediante, ator e músico americano, famoso por seu personagem mudo que tocava harpa na equipe de comédia dos Irmãos Marx.",
+        "year": "1888"
+      },
+      {
+        "name": "Miley Cyrus",
+        "description": "Uma cantora, compositora e atriz americana que alcançou a fama como ídolo adolescente antes de estabelecer uma carreira de sucesso como artista pop.",
+        "year": "1992"
+      }
+    ],
+    "events": [
+      {
+        "title": "Galáxia de Andrômeda Identificada como Separada",
+        "description": "Edwin Hubble anunciou sua descoberta de que a 'nebulosa de Andrômeda' era na verdade outra galáxia ilha muito além da nossa própria Via Láctea, mudando fundamentalmente nossa compreensão do universo.",
+        "year": "1924"
+      },
+      {
+        "title": "Primeira Jukebox Entra em Operação",
+        "description": "O primeiro fonógrafo 'a moeda', comumente conhecido como jukebox, foi colocado em serviço no Palais Royale Saloon em São Francisco, revolucionando o acesso à música e o entretenimento público.",
+        "year": "1889"
+      },
+      {
+        "title": "Jacques Mayol Conquista Mergulho Livre de 100m",
+        "description": "O apneísta francês Jacques Mayol tornou-se a primeira pessoa a atingir uma profundidade de 100 metros debaixo d'água sem a ajuda de equipamentos de respiração, superando os limites da resistência humana e da exploração submarina.",
+        "year": "1976"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia de Fibonacci",
+      "teaser": "Celebrado anualmente em 23 de novembro para homenagear Leonardo Bonacci, um dos matemáticos mais influentes da Idade Média, com a data correspondendo aos primeiros números da sequência de Fibonacci (1, 1, 2, 3)."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Climent I",
+        "type": "Papa i Màrtir",
+        "description": "El quart Papa, Sant Climent I, va ser un Pare Apostòlic, es creu que va ser consagrat per Sant Pere i és esmentat a Filipencs 4:3. Va ser martiritzat sent llançat al mar amb una àncora lligada al coll durant la persecució de Trajà."
+      },
+      {
+        "name": "Sant Columbà",
+        "type": "Monjo Missioner Irlandès",
+        "description": "Un monjo missioner irlandès que va fundar monestirs a la Gàl·lia i Itàlia, incloses l'Abadia de Luxeuil i l'Abadia de Bobbio. Era conegut pel seu fort desig de Déu, que el va portar a allunyar-se dels plaers mundans."
+      },
+      {
+        "name": "Sant Alexandre Nevski",
+        "type": "Gran Príncep",
+        "description": "Un venerat sant ortodox rus, Gran Príncep de Nóvgorod, celebrat per les seves victòries militars contra els invasors i per salvaguardar el cristianisme ortodox a la Rus'."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Fibonacci",
+        "description": "Se celebra anualment el 23 de novembre per honorar Leonardo Bonacci, un dels matemàtics més influents de l'Edat Mitjana, amb la data corresponent als primers nombres de la seqüència de Fibonacci (1, 1, 2, 3)."
+      },
+      {
+        "name": "Wolfenoot",
+        "description": "Una celebració anual el 23 de novembre que honora l'esperit del llop, fomenta la bondat i celebra particularment els gossos com a descendents dels llops."
+      }
+    ],
+    "historicalQuote": {
+      "text": "És gairebé tan bo matar un home com matar un bon llibre. Qui mata un home mata una criatura raonable, imatge de Déu; però qui destrueix un bon llibre, mata la raó mateixa, mata la imatge de Déu, per dir-ho, en l'ull.",
+      "author": "John Milton",
+      "context": "Aquesta cita és del pamflet influent de John Milton 'Areopagitica', un poderós argument contra la censura, que es va publicar el 23 de novembre de 1644."
+    },
+    "motivationalQuote": {
+      "text": "Tot té la seva bellesa, però no tothom la veu.",
+      "author": "Confuci"
+    },
+    "births": [
+      {
+        "name": "Franklin Pierce",
+        "description": "El 14è president dels Estats Units, que va exercir el càrrec de 1853 a 1857.",
+        "year": "1804"
+      },
+      {
+        "name": "Harpo Marx",
+        "description": "Un comediant, actor i músic estatunidenc, famós pel seu personatge silenciós i arpista en l'equip de comèdia dels Germans Marx.",
+        "year": "1888"
+      },
+      {
+        "name": "Miley Cyrus",
+        "description": "Una cantant, compositora i actriu estatunidenca que va saltar a la fama com a ídol adolescent abans d'establir una exitosa carrera com a artista pop.",
+        "year": "1992"
+      }
+    ],
+    "events": [
+      {
+        "title": "La Galàxia d'Andròmeda Identificada com a Separada",
+        "description": "Edwin Hubble va anunciar el seu descobriment que la 'nebulosa d'Andròmeda' era en realitat una altra galàxia illa molt fora de la nostra Via Làctia, canviant fonamentalment la nostra comprensió de l'univers.",
+        "year": "1924"
+      },
+      {
+        "title": "La Primera Jukebox Entra en Funcionament",
+        "description": "El primer fonògraf de 'ranura per a monedes', conegut comunament com a jukebox, va ser posat en servei al Palais Royale Saloon de San Francisco, revolucionant l'accés a la música i l'entreteniment públic.",
+        "year": "1889"
+      },
+      {
+        "title": "Jacques Mayol Aconsegueix una Immersió Lliure de 100m",
+        "description": "L'apneista francès Jacques Mayol es va convertir en la primera persona a assolir una profunditat de 100 metres sota l'aigua sense l'ajuda d'equips de respiració, superant els límits de la resistència humana i l'exploració submarina.",
+        "year": "1976"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia de Fibonacci",
+      "teaser": "Se celebra anualment el 23 de novembre per honorar Leonardo Bonacci, un dels matemàtics més influents de l'Edat Mitjana, amb la data corresponent als primers nombres de la seqüència de Fibonacci (1, 1, 2, 3)."
+    }
+  }
+}
