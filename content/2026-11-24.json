@@ -1,0 +1,295 @@
+{
+  "date": "2026-11-24",
+  "es": {
+    "saints": [
+      {
+        "name": "Mártires de Vietnam",
+        "type": "Mártires",
+        "description": "Entre los siglos XVII y XIX, miles de católicos y otros cristianos fueron asesinados por su fe en Vietnam; más de cien de ellos fueron reconocidos por el Papa Juan Pablo II en 1988."
+      },
+      {
+        "name": "San Clemente I",
+        "type": "Papa de Roma, Hieromártir",
+        "description": "Un Papa y Hieromártir temprano, se cree tradicionalmente que San Clemente I fue martirizado alrededor del año 101 d.C."
+      },
+      {
+        "name": "San Crisógono",
+        "type": "Mártir",
+        "description": "San Crisógono fue un mártir en Aquileia durante las persecuciones bajo el emperador Diocleciano y es nombrado en el Canon Romano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Guru Nanak Jayanti",
+        "description": "Una observancia religiosa y cultural significativa en el sijismo, que conmemora el nacimiento de Guru Nanak Dev, el fundador del sijismo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Hay grandeza en esta concepción de la vida, con sus diversas facultades, habiendo sido originalmente insuflada en unas pocas formas o en una sola; y que, mientras este planeta ha continuado su ciclo según la ley fija de la gravedad, de un comienzo tan simple han sido, y están siendo, evolucionadas innumerables formas, las más bellas y maravillosas.",
+      "author": "Charles Darwin",
+      "context": "El 24 de noviembre de 1859, el naturalista británico Charles Darwin publicó su obra pionera, 'El origen de las especies', que introdujo su teoría de la evolución por selección natural."
+    },
+    "motivationalQuote": {
+      "text": "Dime, ¿qué piensas hacer con tu única vida salvaje y preciosa?",
+      "author": "Mary Oliver"
+    },
+    "births": [
+      {
+        "name": "Zachary Taylor",
+        "description": "Un general estadounidense y el duodécimo presidente de los Estados Unidos, sirviendo desde 1849 hasta su muerte en 1850.",
+        "year": "1784"
+      },
+      {
+        "name": "Scott Joplin",
+        "description": "Un influyente compositor y pianista estadounidense, ampliamente reconocido como el 'Rey del Ragtime' por sus innovadoras contribuciones a la música.",
+        "year": "1868"
+      },
+      {
+        "name": "Henri de Toulouse-Lautrec",
+        "description": "Un célebre pintor, grabador e ilustrador francés cuya obra capturó vívidamente la vida nocturna bohemia del París del siglo XIX.",
+        "year": "1864"
+      }
+    ],
+    "events": [
+      {
+        "title": "Publicación de El origen de las especies",
+        "description": "El revolucionario libro de Charles Darwin, 'El origen de las especies', que presentaba su teoría de la evolución por selección natural, fue publicado en Londres, Inglaterra.",
+        "year": "1859"
+      },
+      {
+        "title": "Descubrimiento del esqueleto de 'Lucy'",
+        "description": "Donald Johanson y Tom Gray descubrieron el esqueleto fosilizado completo en un 40% de un homínido temprano, *Australopithecus afarensis*, apodado cariñosamente 'Lucy', en el Valle de Awash en Etiopía.",
+        "year": "1974"
+      },
+      {
+        "title": "Primera observación registrada de un tránsito de Venus",
+        "description": "Jeremiah Horrocks realizó la primera observación y registro conocidos de un tránsito de Venus, un raro fenómeno astronómico que había predicho con precisión.",
+        "year": "1639"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Guru Nanak Jayanti",
+      "teaser": "Una observancia religiosa y cultural significativa en el sijismo, que conmemora el nacimiento de Guru Nanak Dev, el fundador del sijismo."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Martyrs of Vietnam",
+        "type": "Martyrs",
+        "description": "Between the 17th and 19th centuries, thousands of Catholics and other Christians were killed for their faith in Vietnam; over a hundred of them were recognized by Pope John Paul II in 1988."
+      },
+      {
+        "name": "Saint Clement I",
+        "type": "Pope of Rome, Hieromartyr",
+        "description": "An early Pope and Hieromartyr, Saint Clement I is traditionally believed to have been martyred around 101 AD."
+      },
+      {
+        "name": "Saint Chrysogonus",
+        "type": "Martyr",
+        "description": "Saint Chrysogonus was a martyr at Aquileia during the persecutions under Emperor Diocletian and is named in the Roman Canon."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Guru Nanak Jayanti",
+        "description": "A significant religious and cultural observance in Sikhism, commemorating the birth of Guru Nanak Dev, the founder of Sikhism."
+      }
+    ],
+    "historicalQuote": {
+      "text": "There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved.",
+      "author": "Charles Darwin",
+      "context": "On November 24, 1859, British naturalist Charles Darwin published his groundbreaking work, 'On the Origin of Species,' which introduced his theory of evolution by natural selection."
+    },
+    "motivationalQuote": {
+      "text": "Tell me, what is it you plan to do with your one wild and precious life?",
+      "author": "Mary Oliver"
+    },
+    "births": [
+      {
+        "name": "Zachary Taylor",
+        "description": "An American general and the 12th President of the United States, serving from 1849 until his death in 1850.",
+        "year": "1784"
+      },
+      {
+        "name": "Scott Joplin",
+        "description": "An influential American composer and pianist, widely recognized as the 'King of Ragtime' for his innovative contributions to music.",
+        "year": "1868"
+      },
+      {
+        "name": "Henri de Toulouse-Lautrec",
+        "description": "A celebrated French painter, printmaker, and illustrator whose work vividly captured the Bohemian nightlife of 19th-century Paris.",
+        "year": "1864"
+      }
+    ],
+    "events": [
+      {
+        "title": "Publication of On the Origin of Species",
+        "description": "Charles Darwin's revolutionary book, 'On the Origin of Species,' which presented his theory of evolution by natural selection, was published in London, England.",
+        "year": "1859"
+      },
+      {
+        "title": "Discovery of 'Lucy' Skeleton",
+        "description": "Donald Johanson and Tom Gray discovered the 40% complete fossilized skeleton of an early hominid, *Australopithecus afarensis*, affectionately nicknamed 'Lucy,' in Ethiopia's Awash Valley.",
+        "year": "1974"
+      },
+      {
+        "title": "First Recorded Observation of a Transit of Venus",
+        "description": "Jeremiah Horrocks made the first known observation and recording of a transit of Venus, a rare astronomical phenomenon he had accurately predicted.",
+        "year": "1639"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Guru Nanak Jayanti",
+      "teaser": "A significant religious and cultural observance in Sikhism, commemorating the birth of Guru Nanak Dev, the founder of Sikhism."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Mártires do Vietnã",
+        "type": "Mártires",
+        "description": "Entre os séculos XVII e XIX, milhares de católicos e outros cristãos foram mortos pela sua fé no Vietnã; mais de cem deles foram reconhecidos pelo Papa João Paulo II em 1988."
+      },
+      {
+        "name": "São Clemente I",
+        "type": "Papa de Roma, Hieromártir",
+        "description": "Um Papa e Hieromártir primitivo, São Clemente I é tradicionalmente considerado mártir por volta de 101 d.C."
+      },
+      {
+        "name": "São Crisógono",
+        "type": "Mártir",
+        "description": "São Crisógono foi um mártir em Aquileia durante as perseguições sob o Imperador Diocleciano e é nomeado no Cânon Romano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Guru Nanak Jayanti",
+        "description": "Uma observância religiosa e cultural significativa no sikhismo, comemorando o nascimento de Guru Nanak Dev, o fundador do sikhismo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Há grandeza nesta visão da vida, com suas várias potências, tendo sido originalmente inspirada em poucas formas ou em uma; e que, enquanto este planeta tem continuado seu ciclo de acordo com a lei fixa da gravidade, de um começo tão simples, formas infinitas, as mais belas e maravilhosas, foram e estão sendo, evoluídas.",
+      "author": "Charles Darwin",
+      "context": "Em 24 de novembro de 1859, o naturalista britânico Charles Darwin publicou sua obra inovadora, 'A Origem das Espécies', que introduziu sua teoria da evolução por seleção natural."
+    },
+    "motivationalQuote": {
+      "text": "Diga-me, o que você planeja fazer com sua única vida selvagem e preciosa?",
+      "author": "Mary Oliver"
+    },
+    "births": [
+      {
+        "name": "Zachary Taylor",
+        "description": "Um general americano e o 12º Presidente dos Estados Unidos, servindo de 1849 até sua morte em 1850.",
+        "year": "1784"
+      },
+      {
+        "name": "Scott Joplin",
+        "description": "Um influente compositor e pianista americano, amplamente reconhecido como o 'Rei do Ragtime' por suas contribuições inovadoras à música.",
+        "year": "1868"
+      },
+      {
+        "name": "Henri de Toulouse-Lautrec",
+        "description": "Um célebre pintor, gravador e ilustrador francês cuja obra capturou vividamente a vida noturna boêmia de Paris do século XIX.",
+        "year": "1864"
+      }
+    ],
+    "events": [
+      {
+        "title": "Publicação de A Origem das Espécies",
+        "description": "O livro revolucionário de Charles Darwin, 'A Origem das Espécies', que apresentava sua teoria da evolução por seleção natural, foi publicado em Londres, Inglaterra.",
+        "year": "1859"
+      },
+      {
+        "title": "Descoberta do Esqueleto de 'Lucy'",
+        "description": "Donald Johanson e Tom Gray descobriram o esqueleto fossilizado 40% completo de um hominídeo primitivo, *Australopithecus afarensis*, carinhosamente apelidado de 'Lucy', no Vale do Awash, na Etiópia.",
+        "year": "1974"
+      },
+      {
+        "title": "Primeira Observação Registrada de um Trânsito de Vênus",
+        "description": "Jeremiah Horrocks fez a primeira observação e registro conhecidos de um trânsito de Vênus, um raro fenômeno astronômico que ele havia previsto com precisão.",
+        "year": "1639"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Guru Nanak Jayanti",
+      "teaser": "Uma observância religiosa e cultural significativa no sikhismo, comemorando o nascimento de Guru Nanak Dev, o fundador do sikhismo."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Mártirs del Vietnam",
+        "type": "Màrtirs",
+        "description": "Entre els segles XVII i XIX, milers de catòlics i altres cristians van ser assassinats per la seva fe al Vietnam; més d'un centenar d'ells van ser reconeguts pel papa Joan Pau II el 1988."
+      },
+      {
+        "name": "Sant Climent I",
+        "type": "Papa de Roma, Hieromàrtir",
+        "description": "Un dels primers Papes i Hieromàrtirs, Sant Climent I es creu tradicionalment que va ser martiritzat al voltant de 101 dC."
+      },
+      {
+        "name": "Sant Crisògon",
+        "type": "Màrtir",
+        "description": "Sant Crisògon va ser un màrtir a Aquileia durant les persecucions sota l'emperador Dioclecià i és nomenat al Cànon Romà."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Guru Nanak Jayanti",
+        "description": "Una observança religiosa i cultural significativa en el sikhisme, que commemora el naixement de Guru Nanak Dev, el fundador del sikhisme."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Hi ha grandesa en aquesta visió de la vida, amb els seus diversos poders, havent estat originalment insuflada en unes poques formes o en una; i que, mentre aquest planeta ha continuat girant segons la llei fixa de la gravetat, d'un inici tan senzill han evolucionat, i estan evolucionant, formes infinites les més belles i les més meravelloses.",
+      "author": "Charles Darwin",
+      "context": "El 24 de novembre de 1859, el naturalista britànic Charles Darwin va publicar la seva obra pionera, 'L'origen de les espècies', que va introduir la seva teoria de l'evolució per selecció natural."
+    },
+    "motivationalQuote": {
+      "text": "Digues-me, què penses fer amb la teva única vida salvatge i preciosa?",
+      "author": "Mary Oliver"
+    },
+    "births": [
+      {
+        "name": "Zachary Taylor",
+        "description": "Un general nord-americà i el 12è president dels Estats Units, que va servir des de 1849 fins a la seva mort el 1850.",
+        "year": "1784"
+      },
+      {
+        "name": "Scott Joplin",
+        "description": "Un influent compositor i pianista nord-americà, àmpliament reconegut com el 'Rei del Ragtime' per les seves innovadores contribucions a la música.",
+        "year": "1868"
+      },
+      {
+        "name": "Henri de Toulouse-Lautrec",
+        "description": "Un cèlebre pintor, gravador i il·lustrador francès l'obra del qual va capturar vívidament la vida nocturna bohèmia del París del segle XIX.",
+        "year": "1864"
+      }
+    ],
+    "events": [
+      {
+        "title": "Publicació de L'origen de les espècies",
+        "description": "El revolucionari llibre de Charles Darwin, 'L'origen de les espècies', que presentava la seva teoria de l'evolució per selecció natural, va ser publicat a Londres, Anglaterra.",
+        "year": "1859"
+      },
+      {
+        "title": "Descobriment de l'esquelet de 'Lucy'",
+        "description": "Donald Johanson i Tom Gray van descobrir l'esquelet fossilitzat complet al 40% d'un homínid primitiu, *Australopithecus afarensis*, anomenat afectuosament 'Lucy', a la vall de l'Awash, Etiòpia.",
+        "year": "1974"
+      },
+      {
+        "title": "Primera observació registrada d'un trànsit de Venus",
+        "description": "Jeremiah Horrocks va realitzar la primera observació i registre coneguts d'un trànsit de Venus, un fenomen astronòmic rar que havia predit amb precisió.",
+        "year": "1639"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Guru Nanak Jayanti",
+      "teaser": "Una observança religiosa i cultural significativa en el sikhisme, que commemora el naixement de Guru Nanak Dev, el fundador del sikhisme."
+    }
+  }
+}
