@@ -1,0 +1,327 @@
+{
+  "date": "2026-11-25",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Catalina de Alejandría",
+        "type": "Gran Mártir, Virgen, Erudita",
+        "description": "Una virgen-mártir erudita de principios del siglo IV, Santa Catalina confrontó al Emperador Maximino por perseguir a los cristianos y debatió con éxito con filósofos paganos, lo que llevó a muchas conversiones. Su día festivo conmemora su fe inquebrantable y sabiduría."
+      },
+      {
+        "name": "Hieromártir Clemente I",
+        "type": "Papa de Roma",
+        "description": "San Clemente I fue uno de los primeros Papas de Roma, posiblemente el cuarto. Fue conocido por su vida virtuosa, obras de caridad y actividad orante, que llevó a muchos a convertirse a Cristo."
+      },
+      {
+        "name": "Hieromártir Pedro de Alejandría",
+        "type": "Arzobispo",
+        "description": "San Pedro fue el Arzobispo de Alejandría, nacido y criado en la ciudad. Murió como mártir en el año 311 d.C. durante un período de persecución."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Eliminación de la Violencia contra la Mujer",
+        "description": "Esta conmemoración internacional, declarada por la Asamblea General de las Naciones Unidas, conmemora el asesinato de las hermanas Mirabal y hace un llamado a la acción para poner fin a la violencia contra las mujeres en todo el mundo."
+      },
+      {
+        "name": "Día de Santa Catalina (Catterntide)",
+        "description": "Este día conmemora el martirio de Santa Catalina de Alejandría y ha sido una conmemoración popular a lo largo de los siglos, a veces marcando la llegada del invierno."
+      },
+      {
+        "name": "Día de la Independencia, Surinam",
+        "description": "Este día nacional celebra la independencia de Surinam de los Países Bajos, que ocurrió el 25 de noviembre de 1975."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No estamos en la tierra como guardianes de museo, sino para cultivar un floreciente jardín de vida y preparar un futuro glorioso.",
+      "author": "Papa Juan XXIII",
+      "context": "El Papa Juan XXIII, nacido Angelo Giuseppe Roncalli el 25 de noviembre de 1881, fue el 261º Papa de la Iglesia Católica. Es recordado por convocar el Concilio Vaticano II y abogar por la paz y la justicia social."
+    },
+    "motivationalQuote": {
+      "text": "El hombre que mueve una montaña comienza por llevarse las piedras pequeñas.",
+      "author": "Confucio"
+    },
+    "births": [
+      {
+        "name": "Andrew Carnegie",
+        "description": "Un industrial y filántropo escocés-estadounidense, Carnegie desempeñó un papel fundamental en la expansión de la industria siderúrgica estadounidense a finales del siglo XIX y luego dedicó su riqueza a empresas filantrópicas.",
+        "year": "1835"
+      },
+      {
+        "name": "Papa Juan XXIII",
+        "description": "Nacido Angelo Giuseppe Roncalli, sirvió como Papa de 1958 a 1963, conocido por iniciar el Concilio Vaticano II y promover la paz y la justicia social.",
+        "year": "1881"
+      },
+      {
+        "name": "Karl Benz",
+        "description": "Un ingeniero mecánico alemán, Benz diseñó y construyó el primer automóvil práctico del mundo propulsado por un motor de combustión interna en 1885, lo que lo convirtió en un pionero de la industria automotriz.",
+        "year": "1844"
+      }
+    ],
+    "events": [
+      {
+        "title": "Los británicos evacuan la ciudad de Nueva York",
+        "description": "Durante la Guerra de Independencia de los Estados Unidos, las últimas tropas británicas partieron de la ciudad de Nueva York, marcando un paso significativo hacia la independencia estadounidense después del Tratado de París.",
+        "year": "1783"
+      },
+      {
+        "title": "Einstein presenta las ecuaciones de la Relatividad General",
+        "description": "Albert Einstein presentó las ecuaciones de campo finales de su teoría general de la relatividad a la Academia Prusiana de Ciencias, revolucionando la comprensión de la gravedad y el espacio-tiempo.",
+        "year": "1915"
+      },
+      {
+        "title": "Surinam obtiene la independencia",
+        "description": "Surinam logró la independencia total de los Países Bajos después de casi cuatro siglos de dominio holandés, convirtiéndose en una nación soberana.",
+        "year": "1975"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de la Eliminación de la Violencia contra la Mujer",
+      "teaser": "Esta conmemoración internacional, declarada por la Asamblea General de las Naciones Unidas, conmemora el asesinato de las hermanas Mirabal y hace un llamado a la acción para poner fin a la violencia contra las mujeres en todo el mundo."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Catherine of Alexandria",
+        "type": "Great Martyr, Virgin, Scholar",
+        "description": "A learned virgin-martyr of the early fourth century, Saint Catherine confronted Emperor Maximinus for persecuting Christians and successfully debated pagan philosophers, leading to many conversions. Her feast day commemorates her unwavering faith and wisdom."
+      },
+      {
+        "name": "Hieromartyr Clement I",
+        "type": "Pope of Rome",
+        "description": "Saint Clement I was an early Pope of Rome, possibly the fourth. He was known for his virtuous life, charitable works, and prayerful activity, which led many to convert to Christ."
+      },
+      {
+        "name": "Hieromartyr Peter of Alexandria",
+        "type": "Archbishop",
+        "description": "Saint Peter was the Archbishop of Alexandria who was born and raised in the city. He died as a martyr in 311 AD during a period of persecution."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day for the Elimination of Violence against Women",
+        "description": "This international observance, declared by the United Nations General Assembly, commemorates the assassination of the Mirabal sisters and calls for action to end violence against women worldwide."
+      },
+      {
+        "name": "Saint Catherine's Day (Catterntide)",
+        "description": "This day commemorates the martyrdom of Saint Catherine of Alexandria and has been a popular commemoration throughout centuries, sometimes marking the arrival of winter."
+      },
+      {
+        "name": "Independence Day, Suriname",
+        "description": "This national day celebrates Suriname's independence from the Netherlands, which occurred on November 25, 1975."
+      }
+    ],
+    "historicalQuote": {
+      "text": "We are not on earth as museum keepers, but to cultivate a flourishing garden of life and to prepare a glorious future.",
+      "author": "Pope John XXIII",
+      "context": "Pope John XXIII, born Angelo Giuseppe Roncalli on November 25, 1881, was the 261st Pope of the Catholic Church. He is remembered for convening the Second Vatican Council and advocating for peace and social justice."
+    },
+    "motivationalQuote": {
+      "text": "The man who moves a mountain begins by carrying away small stones.",
+      "author": "Confucius"
+    },
+    "births": [
+      {
+        "name": "Andrew Carnegie",
+        "description": "A Scottish-American industrialist and philanthropist, Carnegie played a pivotal role in the expansion of the American steel industry in the late 19th century and later dedicated his wealth to philanthropic endeavors.",
+        "year": "1835"
+      },
+      {
+        "name": "Pope John XXIII",
+        "description": "Born Angelo Giuseppe Roncalli, he served as Pope from 1958 to 1963, known for initiating the Second Vatican Council and promoting peace and social justice.",
+        "year": "1881"
+      },
+      {
+        "name": "Karl Benz",
+        "description": "A German mechanical engineer, Benz designed and built the world's first practical automobile powered by an internal-combustion engine in 1885, making him a pioneer of the automobile industry.",
+        "year": "1844"
+      }
+    ],
+    "events": [
+      {
+        "title": "British Evacuate New York City",
+        "description": "During the American Revolutionary War, the last British troops departed from New York City, marking a significant step towards American independence following the Treaty of Paris.",
+        "year": "1783"
+      },
+      {
+        "title": "Einstein Presents General Relativity Equations",
+        "description": "Albert Einstein presented the final field equations of his general theory of relativity to the Prussian Academy of Sciences, revolutionizing the understanding of gravity and spacetime.",
+        "year": "1915"
+      },
+      {
+        "title": "Suriname Gains Independence",
+        "description": "Suriname achieved full independence from the Netherlands after nearly four centuries of Dutch rule, becoming a sovereign nation.",
+        "year": "1975"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Day for the Elimination of Violence against Women",
+      "teaser": "This international observance, declared by the United Nations General Assembly, commemorates the assassination of the Mirabal sisters and calls for action to end violence against women worldwide."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Catarina de Alexandria",
+        "type": "Grande Mártir, Virgem, Estudiosa",
+        "description": "Uma virgem-mártir erudita do início do século IV, Santa Catarina confrontou o Imperador Maximino por perseguir os cristãos e debateu com sucesso com filósofos pagãos, levando a muitas conversões. Seu dia de festa comemora sua fé inabalável e sabedoria."
+      },
+      {
+        "name": "Hieromártir Clemente I",
+        "type": "Papa de Roma",
+        "description": "São Clemente I foi um dos primeiros Papas de Roma, possivelmente o quarto. Ele era conhecido por sua vida virtuosa, obras de caridade e atividade de oração, que levou muitos a se converterem a Cristo."
+      },
+      {
+        "name": "Hieromártir Pedro de Alexandria",
+        "type": "Arcebispo",
+        "description": "São Pedro foi o Arcebispo de Alexandria que nasceu e foi criado na cidade. Ele morreu como mártir em 311 d.C. durante um período de perseguição."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional para a Eliminação da Violência contra as Mulheres",
+        "description": "Esta observância internacional, declarada pela Assembleia Geral das Nações Unidas, comemora o assassinato das irmãs Mirabal e apela à ação para acabar com a violência contra as mulheres em todo o mundo."
+      },
+      {
+        "name": "Dia de Santa Catarina (Catterntide)",
+        "description": "Este dia comemora o martírio de Santa Catarina de Alexandria e tem sido uma comemoração popular ao longo dos séculos, por vezes marcando a chegada do inverno."
+      },
+      {
+        "name": "Dia da Independência, Suriname",
+        "description": "Este dia nacional celebra a independência do Suriname dos Países Baixos, que ocorreu em 25 de novembro de 1975."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Não estamos na terra como guardiões de museu, mas para cultivar um jardim de vida florescente e preparar um futuro glorioso.",
+      "author": "Papa João XXIII",
+      "context": "O Papa João XXIII, nascido Angelo Giuseppe Roncalli em 25 de novembro de 1881, foi o 261º Papa da Igreja Católica. Ele é lembrado por convocar o Concílio Vaticano II e defender a paz e a justiça social."
+    },
+    "motivationalQuote": {
+      "text": "O homem que remove uma montanha começa por carregar pequenas pedras.",
+      "author": "Confúcio"
+    },
+    "births": [
+      {
+        "name": "Andrew Carnegie",
+        "description": "Um industrial e filantropo escocês-americano, Carnegie desempenhou um papel fundamental na expansão da indústria siderúrgica americana no final do século XIX e mais tarde dedicou sua riqueza a empreendimentos filantrópicos.",
+        "year": "1835"
+      },
+      {
+        "name": "Papa João XXIII",
+        "description": "Nascido Angelo Giuseppe Roncalli, serviu como Papa de 1958 a 1963, conhecido por iniciar o Concílio Vaticano II e promover a paz e a justiça social.",
+        "year": "1881"
+      },
+      {
+        "name": "Karl Benz",
+        "description": "Um engenheiro mecânico alemão, Benz projetou e construiu o primeiro automóvel prático do mundo movido por um motor de combustão interna em 1885, tornando-o um pioneiro da indústria automobilística.",
+        "year": "1844"
+      }
+    ],
+    "events": [
+      {
+        "title": "Britânicos Evacuam a Cidade de Nova York",
+        "description": "Durante a Guerra Revolucionária Americana, as últimas tropas britânicas partiram da Cidade de Nova York, marcando um passo significativo em direção à independência americana após o Tratado de Paris.",
+        "year": "1783"
+      },
+      {
+        "title": "Einstein Apresenta as Equações da Relatividade Geral",
+        "description": "Albert Einstein apresentou as equações de campo finais de sua teoria geral da relatividade à Academia Prussiana de Ciências, revolucionando a compreensão da gravidade e do espaço-tempo.",
+        "year": "1915"
+      },
+      {
+        "title": "Suriname Conquista a Independência",
+        "description": "O Suriname alcançou a independência total dos Países Baixos após quase quatro séculos de domínio holandês, tornando-se uma nação soberana.",
+        "year": "1975"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional para a Eliminação da Violência contra as Mulheres",
+      "teaser": "Esta observância internacional, declarada pela Assembleia Geral das Nações Unidas, comemora o assassinato das irmãs Mirabal e apela à ação para acabar com a violência contra as mulheres em todo o mundo."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Caterina d'Alexandria",
+        "type": "Gran Màrtir, Verge, Erudita",
+        "description": "Santa Caterina, verge i màrtir erudita de principis del segle IV, va desafiar l'emperador Maximià per la persecució dels cristians i va debatre amb èxit amb filòsofs pagans, la qual cosa va portar a moltes conversions. La seva festa commemora la seva fe inquebrantable i saviesa."
+      },
+      {
+        "name": "Hieromàrtir Climent I",
+        "type": "Papa de Roma",
+        "description": "Sant Climent I va ser un dels primers Papes de Roma, possiblement el quart. Va ser conegut per la seva vida virtuosa, les seves obres de caritat i la seva activitat orant, que van portar molts a convertir-se a Crist."
+      },
+      {
+        "name": "Hieromàrtir Pere d'Alexandria",
+        "type": "Arquebisbe",
+        "description": "Sant Pere va ser l'Arquebisbe d'Alexandria que va néixer i es va criar a la ciutat. Va morir com a màrtir l'any 311 dC durant un període de persecució."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional per a l'Eliminació de la Violència contra les Dones",
+        "description": "Aquesta commemoració internacional, declarada per l'Assemblea General de les Nacions Unides, recorda l'assassinat de les germanes Mirabal i demana mesures per posar fi a la violència contra les dones a tot el món."
+      },
+      {
+        "name": "Dia de Santa Caterina (Catterntide)",
+        "description": "Aquest dia commemora el martiri de Santa Caterina d'Alexandria i ha estat una celebració popular al llarg dels segles, de vegades marcant l'arribada de l'hivern."
+      },
+      {
+        "name": "Dia de la Independència, Surinam",
+        "description": "Aquest dia nacional celebra la independència de Surinam dels Països Baixos, que va tenir lloc el 25 de novembre de 1975."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No som a la terra com a guardians de museus, sinó per cultivar un jardí florent de vida i per preparar un futur gloriós.",
+      "author": "Papa Joan XXIII",
+      "context": "El Papa Joan XXIII, nascut Angelo Giuseppe Roncalli el 25 de novembre de 1881, va ser el 261è Papa de l'Església Catòlica. És recordat per convocar el Concili Vaticà II i per defensar la pau i la justícia social."
+    },
+    "motivationalQuote": {
+      "text": "L'home que mou una muntanya comença per treure petites pedres.",
+      "author": "Confuci"
+    },
+    "births": [
+      {
+        "name": "Andrew Carnegie",
+        "description": "Industrial i filantrop escocès-americà, Carnegie va jugar un paper fonamental en l'expansió de la indústria siderúrgica americana a finals del segle XIX i més tard va dedicar la seva fortuna a esforços filantròpics.",
+        "year": "1835"
+      },
+      {
+        "name": "Papa Joan XXIII",
+        "description": "Nascut Angelo Giuseppe Roncalli, va servir com a Papa de 1958 a 1963, conegut per iniciar el Concili Vaticà II i promoure la pau i la justícia social.",
+        "year": "1881"
+      },
+      {
+        "name": "Karl Benz",
+        "description": "Enginyer mecànic alemany, Benz va dissenyar i construir el primer automòbil pràctic del món propulsat per un motor de combustió interna el 1885, convertint-lo en un pioner de la indústria de l'automòbil.",
+        "year": "1844"
+      }
+    ],
+    "events": [
+      {
+        "title": "Els britànics evacuen la ciutat de Nova York",
+        "description": "Durant la Guerra de la Independència dels Estats Units, les darreres tropes britàniques van abandonar la ciutat de Nova York, marcant un pas significatiu cap a la independència americana després del Tractat de París.",
+        "year": "1783"
+      },
+      {
+        "title": "Einstein presenta les equacions de la relativitat general",
+        "description": "Albert Einstein va presentar les equacions de camp finals de la seva teoria general de la relativitat a l'Acadèmia Prussiana de Ciències, revolucionant la comprensió de la gravetat i l'espaitemps.",
+        "year": "1915"
+      },
+      {
+        "title": "Surinam obté la independència",
+        "description": "Surinam va aconseguir la plena independència dels Països Baixos després de gairebé quatre segles de domini holandès, convertint-se en una nació sobirana.",
+        "year": "1975"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional per a l'Eliminació de la Violència contra les Dones",
+      "teaser": "Aquesta commemoració internacional, declarada per l'Assemblea General de les Nacions Unides, recorda l'assassinat de les germanes Mirabal i demana mesures per posar fi a la violència contra les dones a tot el món."
+    }
+  }
+}
