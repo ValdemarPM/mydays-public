@@ -1,0 +1,307 @@
+{
+  "date": "2026-11-27",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Bilhildis de Altmünster",
+        "type": "Abadesa",
+        "description": "Una noble franca y abadesa benedictina del siglo VII que fundó la Abadía de Altmünster cerca de Maguncia, Alemania. Dedicó su vida al servicio religioso después de enviudar."
+      },
+      {
+        "name": "San Virgilio de Salzburgo",
+        "type": "Obispo, Misionero",
+        "description": "Un monje, erudito y misionero irlandés que se convirtió en Obispo de Salzburgo en el siglo VIII. Fue conocido por su erudición, incluida la astronomía, y su trabajo en la difusión del cristianismo en Austria y Alemania."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Nacional de la Herencia Nativa Americana",
+        "description": "Celebrado en los Estados Unidos el día después de Acción de Gracias, este día honra las vibrantes culturas, tradiciones y contribuciones de los indígenas americanos."
+      },
+      {
+        "name": "Día de No Comprar Nada",
+        "description": "Un día internacional de protesta contra el consumismo, observado anualmente el día después de Acción de Gracias, animando a la gente a reflexionar sobre sus hábitos de compra."
+      },
+      {
+        "name": "Día Internacional para la Eliminación del Matrimonio Infantil, Precoz y Forzado",
+        "description": "Proclamado por la Asamblea General de las Naciones Unidas, este día tiene como objetivo sensibilizar y promover esfuerzos para poner fin a la violación de los derechos humanos que representa el matrimonio infantil, precoz y forzado."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El capital, convertido en valores seguros por mis albaceas, constituirá un fondo, cuyos intereses se distribuirán anualmente como premios a quienes, durante el año precedente, hayan conferido el mayor beneficio a la humanidad.",
+      "author": "Alfred Nobel",
+      "context": "El 27 de noviembre de 1895, Alfred Nobel firmó su última voluntad y testamento en París, dedicando la mayor parte de su fortuna a establecer los Premios Nobel, otorgados anualmente a quienes han conferido el mayor beneficio a la humanidad."
+    },
+    "motivationalQuote": {
+      "text": "Si tienes una manzana y yo tengo una manzana y las intercambiamos, entonces tú y yo seguiremos teniendo una manzana cada uno. Pero si tienes una idea y yo tengo una idea y las intercambiamos, entonces cada uno de nosotros tendrá dos ideas.",
+      "author": "George Bernard Shaw"
+    },
+    "births": [
+      {
+        "name": "Bruce Lee",
+        "description": "Un artista marcial, actor y cineasta muy influyente que fue pionero en el Jeet Kune Do.",
+        "year": "1940"
+      },
+      {
+        "name": "Jimi Hendrix",
+        "description": "Un icónico guitarrista, cantante y compositor de rock estadounidense, ampliamente considerado como uno de los guitarristas eléctricos más influyentes en la historia de la música.",
+        "year": "1942"
+      },
+      {
+        "name": "Bill Nye",
+        "description": "Un educador científico, ingeniero y presentador de televisión estadounidense, más conocido como el presentador del popular programa de televisión científico 'Bill Nye the Science Guy'.",
+        "year": "1955"
+      }
+    ],
+    "events": [
+      {
+        "title": "Establecimiento de los Premios Nobel",
+        "description": "Alfred Nobel firmó su última voluntad y testamento, destinando la mayor parte de su patrimonio a establecer los Premios Nobel, que honran logros sobresalientes en física, química, medicina, literatura y paz.",
+        "year": "1895"
+      },
+      {
+        "title": "Detectada la primera atmósfera de exoplaneta",
+        "description": "El Telescopio Espacial Hubble detectó con éxito una atmósfera de hidrógeno alrededor del exoplaneta HD 209458 b (Osiris), marcando la primera atmósfera confirmada en un planeta fuera de nuestro sistema solar.",
+        "year": "2001"
+      },
+      {
+        "title": "Primer trasplante parcial de cara",
+        "description": "El primer trasplante parcial de cara exitoso del mundo se realizó en Amiens, Francia, reconstruyendo el rostro de Isabelle Dinoire y marcando un hito significativo en la historia de la medicina.",
+        "year": "2005"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Nacional de la Herencia Nativa Americana",
+      "teaser": "Celebrado en los Estados Unidos el día después de Acción de Gracias, este día honra las vibrantes culturas, tradiciones y contribuciones de los indígenas americanos."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Bilhildis of Altmünster",
+        "type": "Abbess",
+        "description": "A 7th-century Frankish noblewoman and Benedictine abbess who founded the Altmünster Abbey near Mainz, Germany. She dedicated her life to religious service after being widowed."
+      },
+      {
+        "name": "St. Virgil of Salzburg",
+        "type": "Bishop, Missionary",
+        "description": "An Irish monk, scholar, and missionary who became Bishop of Salzburg in the 8th century. He was known for his learning, including astronomy, and his work in spreading Christianity in Austria and Germany."
+      }
+    ],
+    "observances": [
+      {
+        "name": "National Native American Heritage Day",
+        "description": "Observed in the United States on the day after Thanksgiving, this day honors the vibrant cultures, traditions, and contributions of American Indians."
+      },
+      {
+        "name": "Buy Nothing Day",
+        "description": "An international day of protest against consumerism, observed annually on the day after Thanksgiving, encouraging people to reflect on their purchasing habits."
+      },
+      {
+        "name": "International Day for the Elimination of Child, Early and Forced Marriage",
+        "description": "Proclaimed by the United Nations General Assembly, this day aims to raise awareness and promote efforts to end the human rights violation of child, early, and forced marriage."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The capital, converted to safe securities by my executors, is to constitute a fund, the interest on which is to be distributed annually as prizes to those who, during the preceding year, have conferred the greatest benefit to humankind.",
+      "author": "Alfred Nobel",
+      "context": "On November 27, 1895, Alfred Nobel signed his last will and testament in Paris, dedicating the majority of his fortune to establish the Nobel Prizes, awarded annually to those who have conferred the greatest benefit to humankind."
+    },
+    "motivationalQuote": {
+      "text": "If you have an apple and I have an apple and we exchange apples then you and I will still each have one apple. But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas.",
+      "author": "George Bernard Shaw"
+    },
+    "births": [
+      {
+        "name": "Bruce Lee",
+        "description": "A highly influential martial artist, actor, and filmmaker who pioneered Jeet Kune Do.",
+        "year": "1940"
+      },
+      {
+        "name": "Jimi Hendrix",
+        "description": "An iconic American rock guitarist, singer, and songwriter widely regarded as one of the most influential electric guitarists in music history.",
+        "year": "1942"
+      },
+      {
+        "name": "Bill Nye",
+        "description": "An American science educator, engineer, and television presenter, best known as the host of the popular science television show 'Bill Nye the Science Guy'.",
+        "year": "1955"
+      }
+    ],
+    "events": [
+      {
+        "title": "Nobel Prizes Established",
+        "description": "Alfred Nobel signed his final will and testament, earmarking the bulk of his estate to establish the Nobel Prizes, which honor outstanding achievements in physics, chemistry, medicine, literature, and peace.",
+        "year": "1895"
+      },
+      {
+        "title": "First Exoplanet Atmosphere Detected",
+        "description": "The Hubble Space Telescope successfully detected a hydrogen atmosphere around the exoplanet HD 209458 b (Osiris), marking the first confirmed atmosphere on a planet outside our solar system.",
+        "year": "2001"
+      },
+      {
+        "title": "First Partial Face Transplant",
+        "description": "The world's first successful partial face transplant was performed in Amiens, France, reconstructing the face of Isabelle Dinoire and marking a significant milestone in medical history.",
+        "year": "2005"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is National Native American Heritage Day",
+      "teaser": "Observed in the United States on the day after Thanksgiving, this day honors the vibrant cultures, traditions, and contributions of American Indians."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Bilhildis de Altmünster",
+        "type": "Abadessa",
+        "description": "Uma nobre franca e abadessa beneditina do século VII que fundou a Abadia de Altmünster perto de Mainz, Alemanha. Dedicou sua vida ao serviço religioso após enviuvar."
+      },
+      {
+        "name": "São Virgílio de Salzburgo",
+        "type": "Bispo, Missionário",
+        "description": "Um monge, estudioso e missionário irlandês que se tornou Bispo de Salzburgo no século VIII. Ele era conhecido por sua erudição, incluindo astronomia, e seu trabalho na disseminação do cristianismo na Áustria e na Alemanha."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional da Herança Nativa Americana",
+        "description": "Celebrado nos Estados Unidos no dia seguinte ao Dia de Ação de Graças, este dia homenageia as vibrantes culturas, tradições e contribuições dos índios americanos."
+      },
+      {
+        "name": "Dia de Não Comprar Nada",
+        "description": "Um dia internacional de protesto contra o consumismo, observado anualmente no dia seguinte ao Dia de Ação de Graças, incentivando as pessoas a refletir sobre seus hábitos de compra."
+      },
+      {
+        "name": "Dia Internacional para a Eliminação do Casamento Infantil, Precoce e Forçado",
+        "description": "Proclamado pela Assembleia Geral das Nações Unidas, este dia visa aumentar a conscientização e promover esforços para acabar com a violação dos direitos humanos do casamento infantil, precoce e forçado."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O capital, convertido em títulos seguros por meus executores, constituirá um fundo, cujos juros serão distribuídos anualmente como prêmios àqueles que, durante o ano precedente, tenham conferido o maior benefício à humanidade.",
+      "author": "Alfred Nobel",
+      "context": "Em 27 de novembro de 1895, Alfred Nobel assinou seu último testamento em Paris, dedicando a maior parte de sua fortuna para estabelecer os Prêmios Nobel, concedidos anualmente àqueles que conferiram o maior benefício à humanidade."
+    },
+    "motivationalQuote": {
+      "text": "Se você tem uma maçã e eu tenho uma maçã e nós as trocamos, então você e eu ainda teremos uma maçã cada um. Mas se você tem uma ideia e eu tenho uma ideia e nós as trocamos, então cada um de nós terá duas ideias.",
+      "author": "George Bernard Shaw"
+    },
+    "births": [
+      {
+        "name": "Bruce Lee",
+        "description": "Um artista marcial, ator e cineasta altamente influente que foi pioneiro no Jeet Kune Do.",
+        "year": "1940"
+      },
+      {
+        "name": "Jimi Hendrix",
+        "description": "Um icônico guitarrista, cantor e compositor de rock americano, amplamente considerado um dos guitarristas elétricos mais influentes da história da música.",
+        "year": "1942"
+      },
+      {
+        "name": "Bill Nye",
+        "description": "Um educador científico, engenheiro e apresentador de televisão americano, mais conhecido como o apresentador do popular programa de televisão científico 'Bill Nye the Science Guy'.",
+        "year": "1955"
+      }
+    ],
+    "events": [
+      {
+        "title": "Prêmios Nobel Estabelecidos",
+        "description": "Alfred Nobel assinou sua última vontade e testamento, destinando a maior parte de sua herança para estabelecer os Prêmios Nobel, que homenageiam conquistas notáveis em física, química, medicina, literatura e paz.",
+        "year": "1895"
+      },
+      {
+        "title": "Primeira Atmosfera de Exoplaneta Detectada",
+        "description": "O Telescópio Espacial Hubble detectou com sucesso uma atmosfera de hidrogênio em torno do exoplaneta HD 209458 b (Osiris), marcando a primeira atmosfera confirmada em um planeta fora do nosso sistema solar.",
+        "year": "2001"
+      },
+      {
+        "title": "Primeiro Transplante Facial Parcial",
+        "description": "O primeiro transplante facial parcial bem-sucedido do mundo foi realizado em Amiens, França, reconstruindo o rosto de Isabelle Dinoire e marcando um marco significativo na história da medicina.",
+        "year": "2005"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Nacional da Herança Nativa Americana",
+      "teaser": "Celebrado nos Estados Unidos no dia seguinte ao Dia de Ação de Graças, este dia homenageia as vibrantes culturas, tradições e contribuições dos índios americanos."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Bilhildis d'Altmünster",
+        "type": "Abadessa",
+        "description": "Una noble franca del segle VII i abadessa benedictina que va fundar l'Abadia d'Altmünster prop de Magúncia, Alemanya. Va dedicar la seva vida al servei religiós després d'enviduar."
+      },
+      {
+        "name": "Sant Virgili de Salzburg",
+        "type": "Bisbe, Missioner",
+        "description": "Un monjo, erudit i missioner irlandès que va esdevenir bisbe de Salzburg al segle VIII. Va ser conegut pel seu coneixement, incloent l'astronomia, i la seva feina en la difusió del cristianisme a Àustria i Alemanya."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional de l'Herència Nadiua Americana",
+        "description": "Celebrat als Estats Units l'endemà de l'Acció de Gràcies, aquest dia honora les cultures vibrants, les tradicions i les contribucions dels indis americans."
+      },
+      {
+        "name": "Dia de No Comprar Res",
+        "description": "Un dia internacional de protesta contra el consumisme, observat anualment l'endemà de l'Acció de Gràcies, que anima la gent a reflexionar sobre els seus hàbits de compra."
+      },
+      {
+        "name": "Dia Internacional per a l'Eliminació del Matrimoni Infantil, Precoç i Forçat",
+        "description": "Proclamat per l'Assemblea General de les Nacions Unides, aquest dia té com a objectiu sensibilitzar i promoure esforços per posar fi a la violació dels drets humans que suposa el matrimoni infantil, precoç i forçat."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El capital, convertit en valors segurs pels meus marmessors, ha de constituir un fons, els interessos del qual es distribuiran anualment com a premis a aquells que, durant l'any precedent, hagin conferit el major benefici a la humanitat.",
+      "author": "Alfred Nobel",
+      "context": "El 27 de novembre de 1895, Alfred Nobel va signar el seu últim testament a París, dedicant la major part de la seva fortuna a establir els Premis Nobel, atorgats anualment a aquells que hagin conferit el major benefici a la humanitat."
+    },
+    "motivationalQuote": {
+      "text": "Si tu tens una poma i jo tinc una poma i intercanviem pomes, llavors tu i jo encara tindrem una poma cadascú. Però si tu tens una idea i jo tinc una idea i intercanviem aquestes idees, llavors cadascun de nosaltres tindrà dues idees.",
+      "author": "George Bernard Shaw"
+    },
+    "births": [
+      {
+        "name": "Bruce Lee",
+        "description": "Un artista marcial, actor i cineasta molt influent que va ser pioner del Jeet Kune Do.",
+        "year": "1940"
+      },
+      {
+        "name": "Jimi Hendrix",
+        "description": "Un icònic guitarrista de rock, cantant i compositor nord-americà, àmpliament considerat un dels guitarristes elèctrics més influents de la història de la música.",
+        "year": "1942"
+      },
+      {
+        "name": "Bill Nye",
+        "description": "Un educador de ciència, enginyer i presentador de televisió nord-americà, més conegut com el presentador del popular programa de televisió de ciència 'Bill Nye the Science Guy'.",
+        "year": "1955"
+      }
+    ],
+    "events": [
+      {
+        "title": "S'estableixen els Premis Nobel",
+        "description": "Alfred Nobel va signar el seu últim testament, destinant la major part de la seva fortuna a establir els Premis Nobel, que honoren els èxits destacats en física, química, medicina, literatura i pau.",
+        "year": "1895"
+      },
+      {
+        "title": "Detectada la primera atmosfera d'exoplaneta",
+        "description": "El Telescopi Espacial Hubble va detectar amb èxit una atmosfera d'hidrogen al voltant de l'exoplaneta HD 209458 b (Osiris), marcant la primera atmosfera confirmada en un planeta fora del nostre sistema solar.",
+        "year": "2001"
+      },
+      {
+        "title": "Primer trasplantament parcial de cara",
+        "description": "El primer trasplantament parcial de cara amb èxit del món es va realitzar a Amiens, França, reconstruint la cara d'Isabelle Dinoire i marcant una fita important en la història de la medicina.",
+        "year": "2005"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Nacional de l'Herència Nadiua Americana",
+      "teaser": "Celebrat als Estats Units l'endemà de l'Acció de Gràcies, aquest dia honora les cultures vibrants, les tradicions i les contribucions dels indis americans."
+    }
+  }
+}
