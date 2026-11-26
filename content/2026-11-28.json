@@ -1,0 +1,347 @@
+{
+  "date": "2026-11-28",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Catalina Labouré",
+        "type": "Monja",
+        "description": "Una monja francesa conocida por sus visiones de la Virgen María, que llevaron a la creación de la Medalla Milagrosa."
+      },
+      {
+        "name": "San Simeón el Logoteta",
+        "type": "Historiador, Secretario de Estado",
+        "description": "También conocido como Simeón Metafrastes, fue secretario de estado del emperador Constantino VII Porfirogéneta y es celebrado por su extensa colección de leyendas de santos bizantinos."
+      },
+      {
+        "name": "Beato James Thompson",
+        "type": "Sacerdote, Mártir",
+        "description": "Un sacerdote inglés del siglo XVI que fue martirizado en York el 28 de noviembre de 1582, por el crimen de ser un sacerdote católico durante un período de persecución."
+      },
+      {
+        "name": "San Irenarco",
+        "type": "Mártir",
+        "description": "Un mártir del siglo IV de Sebaste, Armenia, que fue un torturador oficial pero se convirtió al cristianismo después de ser profundamente conmovido por el coraje y la fe de sus víctimas."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de Albania",
+        "description": "Conmemora la declaración de independencia de Albania del Imperio Otomano en 1912, así como la liberación de Kruja por Skanderbeg en 1443."
+      },
+      {
+        "name": "Día de la Independencia (Mauritania)",
+        "description": "Celebra la independencia de Mauritania de Francia, lograda en 1960."
+      },
+      {
+        "name": "Día Nacional de la Tostada Francesa",
+        "description": "Un día para celebrar el popular plato de desayuno hecho de pan remojado en huevo y leche, y luego frito."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si las puertas de la percepción fueran purificadas, todo se le aparecería al hombre tal como es, infinito.",
+      "author": "William Blake",
+      "context": "William Blake, un influyente poeta, pintor y grabador inglés de la Era Romántica, nació el 28 de noviembre de 1757."
+    },
+    "motivationalQuote": {
+      "text": "En algún lugar, algo increíble está esperando ser conocido.",
+      "author": "Carl Sagan"
+    },
+    "births": [
+      {
+        "name": "William Blake",
+        "description": "Un poeta, pintor y grabador inglés que se convirtió en una figura seminal en la historia tanto de la poesía como de las artes visuales de la Era Romántica.",
+        "year": "1757"
+      },
+      {
+        "name": "Friedrich Engels",
+        "description": "Un filósofo, científico social y socialista revolucionario alemán que coescribió 'El Manifiesto Comunista' con Karl Marx.",
+        "year": "1820"
+      },
+      {
+        "name": "Berry Gordy Jr.",
+        "description": "Un productor discográfico y compositor estadounidense que fundó la icónica Motown Record Corporation.",
+        "year": "1929"
+      }
+    ],
+    "events": [
+      {
+        "title": "Magallanes llega al Océano Pacífico",
+        "description": "El navegante portugués Fernando de Magallanes se convirtió en el primer europeo en navegar el Océano Pacífico desde el este, después de pasar por el estrecho que más tarde fue nombrado en su honor.",
+        "year": "1520"
+      },
+      {
+        "title": "Se funda la Royal Society",
+        "description": "Doce académicos del Gresham College en Londres, incluyendo a Christopher Wren y Robert Boyle, resolvieron establecer una sociedad que evolucionaría hacia la Royal Society de Londres, fomentando la ciencia experimental moderna.",
+        "year": "1660"
+      },
+      {
+        "title": "Se reconoce la Independencia Hawaiana",
+        "description": "El Reino de Hawái fue reconocido oficialmente como nación independiente tanto por el Reino Unido como por Francia, asegurando su soberanía.",
+        "year": "1843"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día de la Independencia de Albania",
+      "teaser": "Conmemora la declaración de independencia de Albania del Imperio Otomano en 1912, así como la liberación de Kruja por Skanderbeg en 1443."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Catherine Labouré",
+        "type": "Nun",
+        "description": "A French nun known for her visions of the Virgin Mary, which led to the creation of the Miraculous Medal."
+      },
+      {
+        "name": "Saint Simeon the Logothete",
+        "type": "Historian, Secretary of State",
+        "description": "Also known as Simeon Metaphrastes, he was a secretary of state to Emperor Constantine VII Porphyrogenitus and is celebrated for his extensive collection of Byzantine saints' legends."
+      },
+      {
+        "name": "Blessed James Thompson",
+        "type": "Priest, Martyr",
+        "description": "A 16th-century English priest who was martyred in York on November 28, 1582, for the crime of being a Catholic priest during a period of persecution."
+      },
+      {
+        "name": "Saint Irenarcus",
+        "type": "Martyr",
+        "description": "A 4th-century martyr from Sebaste, Armenia, who was an official torturer but converted to Christianity after being deeply moved by the courage and faith of his victims."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Albanian Independence Day",
+        "description": "Commemorates Albania's declaration of independence from the Ottoman Empire in 1912, as well as Skanderbeg's liberation of Kruja in 1443."
+      },
+      {
+        "name": "Independence Day (Mauritania)",
+        "description": "Celebrates Mauritania's independence from France, achieved in 1960."
+      },
+      {
+        "name": "National French Toast Day",
+        "description": "A day to celebrate the popular breakfast dish made of bread soaked in egg and milk, then fried."
+      }
+    ],
+    "historicalQuote": {
+      "text": "If the doors of perception were cleansed every thing would appear to man as it is, infinite.",
+      "author": "William Blake",
+      "context": "William Blake, an influential English poet, painter, and printmaker of the Romantic Age, was born on November 28, 1757."
+    },
+    "motivationalQuote": {
+      "text": "Somewhere, something incredible is waiting to be known.",
+      "author": "Carl Sagan"
+    },
+    "births": [
+      {
+        "name": "William Blake",
+        "description": "An English poet, painter, and printmaker who became a seminal figure in the history of both poetry and visual arts of the Romantic Age.",
+        "year": "1757"
+      },
+      {
+        "name": "Friedrich Engels",
+        "description": "A German philosopher, social scientist, and revolutionary socialist who co-authored 'The Communist Manifesto' with Karl Marx.",
+        "year": "1820"
+      },
+      {
+        "name": "Berry Gordy Jr.",
+        "description": "An American record producer and songwriter who founded the iconic Motown Record Corporation.",
+        "year": "1929"
+      }
+    ],
+    "events": [
+      {
+        "title": "Magellan Reaches the Pacific Ocean",
+        "description": "Portuguese navigator Ferdinand Magellan became the first European to sail the Pacific Ocean from the east, after passing through the strait later named after him.",
+        "year": "1520"
+      },
+      {
+        "title": "The Royal Society Founded",
+        "description": "Twelve scholars at Gresham College in London, including Christopher Wren and Robert Boyle, resolved to establish a society that evolved into the Royal Society of London, fostering modern experimental science.",
+        "year": "1660"
+      },
+      {
+        "title": "Hawaiian Independence Recognized",
+        "description": "The Kingdom of Hawaii was officially recognized as an independent nation by both the United Kingdom and France, securing its sovereignty.",
+        "year": "1843"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Albanian Independence Day",
+      "teaser": "Commemorates Albania's declaration of independence from the Ottoman Empire in 1912, as well as Skanderbeg's liberation of Kruja in 1443."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Catarina Labouré",
+        "type": "Freira",
+        "description": "Uma freira francesa conhecida por suas visões da Virgem Maria, que levaram à criação da Medalha Milagrosa."
+      },
+      {
+        "name": "São Simeão, o Logoteta",
+        "type": "Historiador, Secretário de Estado",
+        "description": "Também conhecido como Simeão Metafrastes, ele foi secretário de estado do Imperador Constantino VII Porfirogênito e é celebrado por sua extensa coleção de lendas de santos bizantinos."
+      },
+      {
+        "name": "Beato James Thompson",
+        "type": "Sacerdote, Mártir",
+        "description": "Um sacerdote inglês do século XVI que foi martirizado em York em 28 de novembro de 1582, pelo crime de ser um sacerdote católico durante um período de perseguição."
+      },
+      {
+        "name": "Santo Irenarco",
+        "type": "Mártir",
+        "description": "Um mártir do século IV de Sebaste, Armênia, que foi um torturador oficial, mas se converteu ao Cristianismo após ser profundamente comovido pela coragem e fé de suas vítimas."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência da Albânia",
+        "description": "Comemora a declaração de independência da Albânia do Império Otomano em 1912, bem como a libertação de Kruja por Skanderbeg em 1443."
+      },
+      {
+        "name": "Dia da Independência (Mauritânia)",
+        "description": "Comemora a independência da Mauritânia da França, alcançada em 1960."
+      },
+      {
+        "name": "Dia Nacional da Rabanada",
+        "description": "Um dia para celebrar o popular prato de café da manhã feito de pão embebido em ovo e leite, e depois frito."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Se as portas da percepção fossem purificadas, tudo apareceria ao homem como é, infinito.",
+      "author": "William Blake",
+      "context": "William Blake, um influente poeta, pintor e gravador inglês da Era Romântica, nasceu em 28 de novembro de 1757."
+    },
+    "motivationalQuote": {
+      "text": "Em algum lugar, algo incrível está esperando para ser conhecido.",
+      "author": "Carl Sagan"
+    },
+    "births": [
+      {
+        "name": "William Blake",
+        "description": "Um poeta, pintor e gravador inglês que se tornou uma figura seminal na história da poesia e das artes visuais da Era Romântica.",
+        "year": "1757"
+      },
+      {
+        "name": "Friedrich Engels",
+        "description": "Um filósofo, cientista social e socialista revolucionário alemão que foi coautor de 'O Manifesto Comunista' com Karl Marx.",
+        "year": "1820"
+      },
+      {
+        "name": "Berry Gordy Jr.",
+        "description": "Um produtor musical e compositor americano que fundou a icônica Motown Record Corporation.",
+        "year": "1929"
+      }
+    ],
+    "events": [
+      {
+        "title": "Magalhães Chega ao Oceano Pacífico",
+        "description": "O navegador português Fernão de Magalhães tornou-se o primeiro europeu a navegar o Oceano Pacífico vindo do leste, após passar pelo estreito que mais tarde recebeu seu nome.",
+        "year": "1520"
+      },
+      {
+        "title": "A Royal Society é Fundada",
+        "description": "Doze acadêmicos do Gresham College em Londres, incluindo Christopher Wren e Robert Boyle, resolveram estabelecer uma sociedade que evoluiu para a Royal Society de Londres, promovendo a ciência experimental moderna.",
+        "year": "1660"
+      },
+      {
+        "title": "Independência Havaiana Reconhecida",
+        "description": "O Reino do Havaí foi oficialmente reconhecido como nação independente tanto pelo Reino Unido quanto pela França, garantindo sua soberania.",
+        "year": "1843"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia da Independência da Albânia",
+      "teaser": "Comemora a declaração de independência da Albânia do Império Otomano em 1912, bem como a libertação de Kruja por Skanderbeg em 1443."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Caterina Labouré",
+        "type": "Monja",
+        "description": "Una monja francesa coneguda per les seves visions de la Verge Maria, que van portar a la creació de la Medalla Miraculosa."
+      },
+      {
+        "name": "Sant Simeó el Logoteta",
+        "type": "Historiador, Secretari d'Estat",
+        "description": "També conegut com a Simeó Metafrastes, va ser secretari d'estat de l'emperador Constantí VII Porfirogènit i és celebrat per la seva extensa col·lecció de llegendes de sants bizantins."
+      },
+      {
+        "name": "Beat James Thompson",
+        "type": "Sacerdot, Màrtir",
+        "description": "Un sacerdot anglès del segle XVI que va ser martiritzat a York el 28 de novembre de 1582, pel crim de ser un sacerdot catòlic durant un període de persecució."
+      },
+      {
+        "name": "Sant Irenarcus",
+        "type": "Màrtir",
+        "description": "Un màrtir del segle IV de Sebaste, Armènia, que va ser un torturador oficial però es va convertir al cristianisme després d'haver estat profundament commogut pel coratge i la fe de les seves víctimes."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència d'Albània",
+        "description": "Commemora la declaració d'independència d'Albània de l'Imperi Otomà el 1912, així com l'alliberament de Kruja per Skanderbeg el 1443."
+      },
+      {
+        "name": "Dia de la Independència (Mauritània)",
+        "description": "Commemora la independència de Mauritània de França, aconseguida el 1960."
+      },
+      {
+        "name": "Dia Nacional de les Torrades Franceses",
+        "description": "Un dia per celebrar el popular plat d'esmorzar fet de pa remullat en ou i llet, i després fregit."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si les portes de la percepció es purifiquessin, tot apareixeria a l'home tal com és, infinit.",
+      "author": "William Blake",
+      "context": "William Blake, un influent poeta, pintor i gravador anglès de l'Era Romàntica, va néixer el 28 de novembre de 1757."
+    },
+    "motivationalQuote": {
+      "text": "En algun lloc, alguna cosa increïble espera ser coneguda.",
+      "author": "Carl Sagan"
+    },
+    "births": [
+      {
+        "name": "Frederic Engels",
+        "description": "Un poeta, pintor i gravador anglès que es va convertir en una figura clau en la història tant de la poesia com de les arts visuals de l'Era Romàntica.",
+        "year": "1757"
+      },
+      {
+        "name": "Friedrich Engels",
+        "description": "Un filòsof, científic social i socialista revolucionari alemany que va coescriure 'El Manifest Comunista' amb Karl Marx.",
+        "year": "1820"
+      },
+      {
+        "name": "Berry Gordy Jr.",
+        "description": "Un productor musical i compositor nord-americà que va fundar la icònica Motown Record Corporation.",
+        "year": "1929"
+      }
+    ],
+    "events": [
+      {
+        "title": "Magallanes Arriba a l'Oceà Pacífic",
+        "description": "El navegant portuguès Fernando de Magallanes va ser el primer europeu a navegar per l'Oceà Pacífic des de l'est, després de passar per l'estret que més tard va rebre el seu nom.",
+        "year": "1520"
+      },
+      {
+        "title": "Fundació de la Royal Society",
+        "description": "Dotze erudits al Gresham College de Londres, inclosos Christopher Wren i Robert Boyle, van decidir establir una societat que va evolucionar cap a la Royal Society de Londres, fomentant la ciència experimental moderna.",
+        "year": "1660"
+      },
+      {
+        "title": "Reconeixement de la Independència Hawaiana",
+        "description": "El Regne de Hawaii va ser reconegut oficialment com a nació independent tant pel Regne Unit com per França, assegurant la seva sobirania.",
+        "year": "1843"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia de la Independència d'Albània",
+      "teaser": "Commemora la declaració d'independència d'Albània de l'Imperi Otomà el 1912, així com l'alliberament de Kruja per Skanderbeg el 1443."
+    }
+  }
+}
