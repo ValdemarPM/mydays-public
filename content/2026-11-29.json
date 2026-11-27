@@ -1,0 +1,327 @@
+{
+  "date": "2026-11-29",
+  "es": {
+    "saints": [
+      {
+        "name": "San Saturnino de Toulouse",
+        "type": "Obispo, Mártir",
+        "description": "Nacido en Grecia, San Saturnino se hizo sacerdote y misionero, enviado por el Papa Fabián a la Galia. Fue el primer Obispo de Toulouse y fue martirizado alrededor del 257 d.C. al ser atado a un toro y arrastrado hasta su muerte."
+      },
+      {
+        "name": "San Filomeno de Ancira",
+        "type": "Mártir",
+        "description": "San Filomeno era un mercader de pan que sufrió por su fe cristiana durante la persecución bajo el emperador Aureliano en el 274 d.C. Fue clavado a una estaca a través de sus manos, pies y cabeza."
+      },
+      {
+        "name": "San Abibo de Nekresi",
+        "type": "Hieromártir, Obispo",
+        "description": "San Abibo fue uno de los Trece Padres Sirios que llegaron a Georgia en el siglo VI. Se convirtió en Obispo de Nekresi y convirtió a muchos, incluyendo tribus montañesas, al cristianismo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de Solidaridad con el Pueblo Palestino",
+        "description": "Este día se celebra anualmente para conmemorar el voto de 1947 de la Asamblea General de las Naciones Unidas que aprobó la partición de Palestina."
+      },
+      {
+        "name": "Domingo de Adviento",
+        "description": "Marcando el comienzo de la temporada de Adviento, este día se celebra como el cuarto domingo anterior al día de Navidad, iniciando la cuenta atrás para la Navidad."
+      },
+      {
+        "name": "Día Nacional del Chocolate",
+        "description": "Un día dedicado a celebrar los chocolates, animando a la gente a disfrutar de este popular dulce."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“Conozco gente que cree en fantasmas pero no cree en sí mismos.”",
+      "author": "C.S. Lewis",
+      "context": "C.S. Lewis, el reconocido escritor y académico británico, nació el 29 de noviembre de 1898."
+    },
+    "motivationalQuote": {
+      "text": "Si siempre estás tratando de ser normal, nunca sabrás lo increíble que puedes llegar a ser.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "C.S. Lewis",
+        "description": "Un escritor, académico y teólogo anglicano británico nacido en Irlanda, famoso por sus obras de fantasía, incluyendo 'Las Crónicas de Narnia'.",
+        "year": "1898"
+      },
+      {
+        "name": "Louisa May Alcott",
+        "description": "Una novelista estadounidense más conocida como la autora de la novela 'Mujercitas' y sus secuelas 'Hombrecitos' y 'Los muchachos de Jo'.",
+        "year": "1832"
+      },
+      {
+        "name": "Christian Doppler",
+        "description": "Un físico y matemático austriaco que descubrió el efecto Doppler, que describe el cambio en la frecuencia o longitud de onda de una onda en relación con un observador.",
+        "year": "1803"
+      }
+    ],
+    "events": [
+      {
+        "title": "Thomas Edison Demuestra el Fonógrafo",
+        "description": "Thomas Edison demostró públicamente su fonógrafo por primera vez, marcando un hito significativo en la tecnología de grabación de sonido.",
+        "year": "1877"
+      },
+      {
+        "title": "Primer Vuelo sobre el Polo Sur",
+        "description": "El Almirante estadounidense Richard E. Byrd lideró la primera expedición en volar con éxito sobre el Polo Sur, un logro en la exploración polar.",
+        "year": "1929"
+      },
+      {
+        "title": "El Chimpancé Enos Orbita la Tierra",
+        "description": "Enos, un chimpancé, fue lanzado al espacio por EE. UU. a bordo de la misión Mercury-Atlas 5, orbitando la Tierra dos veces y demostrando la viabilidad de los organismos vivos en el espacio.",
+        "year": "1961"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de Solidaridad con el Pueblo Palestino",
+      "teaser": "Este día se celebra anualmente para conmemorar el voto de 1947 de la Asamblea General de las Naciones Unidas que aprobó la partición de Palestina."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Saturninus of Toulouse",
+        "type": "Bishop, Martyr",
+        "description": "Born in Greece, St. Saturninus became a priest and missionary, sent by Pope Fabian to Gaul. He was the first Bishop of Toulouse and was martyred around 257 AD by being tied to a bull and dragged to his death."
+      },
+      {
+        "name": "St. Philomenus of Ancyra",
+        "type": "Martyr",
+        "description": "St. Philomenus was a bread merchant who suffered for his Christian faith during the persecution under Emperor Aurelian in 274 AD. He was nailed to a stake through his hands, feet, and head."
+      },
+      {
+        "name": "St. Abibus of Nekresi",
+        "type": "Hieromartyr, Bishop",
+        "description": "St. Abibus was one of the Thirteen Syrian Fathers who arrived in Georgia in the 6th century. He became Bishop of Nekresi and converted many, including mountain tribes, to Christianity."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of Solidarity with the Palestinian People",
+        "description": "This day is observed annually to commemorate the United Nations General Assembly's 1947 vote approving the partition of Palestine."
+      },
+      {
+        "name": "Advent Sunday",
+        "description": "Marking the start of the Advent season, this day is observed as the fourth Sunday prior to Christmas Day, beginning the countdown to Christmas."
+      },
+      {
+        "name": "National Chocolates Day",
+        "description": "A day dedicated to celebrating chocolates, encouraging people to enjoy this popular treat."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“I know people that believe in ghosts but don't believe in themselves.”",
+      "author": "C.S. Lewis",
+      "context": "C.S. Lewis, the renowned British writer and scholar, was born on November 29, 1898."
+    },
+    "motivationalQuote": {
+      "text": "If you are always trying to be normal, you will never know how amazing you can be.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "C.S. Lewis",
+        "description": "An Irish-born British writer, scholar, and Anglican theologian, famous for his works of fantasy including 'The Chronicles of Narnia'.",
+        "year": "1898"
+      },
+      {
+        "name": "Louisa May Alcott",
+        "description": "An American novelist best known as the author of the novel 'Little Women' and its sequels 'Little Men' and 'Jo's Boys'.",
+        "year": "1832"
+      },
+      {
+        "name": "Christian Doppler",
+        "description": "An Austrian physicist and mathematician who discovered the Doppler effect, which describes the change in frequency or wavelength of a wave in relation to an observer.",
+        "year": "1803"
+      }
+    ],
+    "events": [
+      {
+        "title": "Thomas Edison Demonstrates the Phonograph",
+        "description": "Thomas Edison publicly demonstrated his phonograph for the first time, marking a significant milestone in sound recording technology.",
+        "year": "1877"
+      },
+      {
+        "title": "First Flight Over the South Pole",
+        "description": "U.S. Admiral Richard E. Byrd led the first expedition to successfully fly over the South Pole, an achievement in polar exploration.",
+        "year": "1929"
+      },
+      {
+        "title": "Chimpanzee Enos Orbits Earth",
+        "description": "Enos, a chimpanzee, was launched into space by the U.S. aboard the Mercury-Atlas 5 mission, orbiting the Earth twice and demonstrating the viability of living organisms in space.",
+        "year": "1961"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Day of Solidarity with the Palestinian People",
+      "teaser": "This day is observed annually to commemorate the United Nations General Assembly's 1947 vote approving the partition of Palestine."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Saturnino de Toulouse",
+        "type": "Bispo, Mártir",
+        "description": "Nascido na Grécia, São Saturnino tornou-se sacerdote e missionário, enviado pelo Papa Fabiano à Gália. Foi o primeiro Bispo de Toulouse e foi martirizado por volta de 257 d.C. ao ser amarrado a um touro e arrastado até a morte."
+      },
+      {
+        "name": "São Filomeno de Ancira",
+        "type": "Mártir",
+        "description": "São Filomeno era um mercador de pão que sofreu por sua fé cristã durante a perseguição sob o Imperador Aureliano em 274 d.C. Ele foi pregado a uma estaca pelas mãos, pés e cabeça."
+      },
+      {
+        "name": "São Abibo de Nekresi",
+        "type": "Hieromártir, Bispo",
+        "description": "São Abibo foi um dos Treze Padres Sírios que chegaram à Geórgia no século VI. Ele se tornou Bispo de Nekresi e converteu muitos, incluindo tribos das montanhas, ao cristianismo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de Solidariedade com o Povo Palestino",
+        "description": "Este dia é observado anualmente para comemorar o voto da Assembleia Geral das Nações Unidas de 1947, que aprovou a partição da Palestina."
+      },
+      {
+        "name": "Domingo de Advento",
+        "description": "Marcando o início da temporada de Advento, este dia é observado como o quarto domingo antes do dia de Natal, iniciando a contagem regressiva para o Natal."
+      },
+      {
+        "name": "Dia Nacional do Chocolate",
+        "description": "Um dia dedicado a celebrar chocolates, incentivando as pessoas a desfrutar desta popular guloseima."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“Conheço pessoas que acreditam em fantasmas, mas não acreditam em si mesmas.”",
+      "author": "C.S. Lewis",
+      "context": "C.S. Lewis, o renomado escritor e acadêmico britânico, nasceu em 29 de novembro de 1898."
+    },
+    "motivationalQuote": {
+      "text": "Se você está sempre tentando ser normal, nunca saberá o quão incrível você pode ser.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "C.S. Lewis",
+        "description": "Um escritor, acadêmico e teólogo anglicano britânico nascido na Irlanda, famoso por suas obras de fantasia, incluindo 'As Crônicas de Nárnia'.",
+        "year": "1898"
+      },
+      {
+        "name": "Louisa May Alcott",
+        "description": "Uma romancista americana mais conhecida como a autora do romance 'Mulherzinhas' e suas sequências 'Os Pequenos Homens' e 'Os Meninos de Jo'.",
+        "year": "1832"
+      },
+      {
+        "name": "Christian Doppler",
+        "description": "Um físico e matemático austríaco que descobriu o efeito Doppler, que descreve a mudança na frequência ou comprimento de onda de uma onda em relação a um observador.",
+        "year": "1803"
+      }
+    ],
+    "events": [
+      {
+        "title": "Thomas Edison Demonstra o Fonógrafo",
+        "description": "Thomas Edison demonstrou publicamente seu fonógrafo pela primeira vez, marcando um marco significativo na tecnologia de gravação de som.",
+        "year": "1877"
+      },
+      {
+        "title": "Primeiro Voo sobre o Polo Sul",
+        "description": "O Almirante dos EUA Richard E. Byrd liderou a primeira expedição a voar com sucesso sobre o Polo Sul, uma conquista na exploração polar.",
+        "year": "1929"
+      },
+      {
+        "title": "O Chimpanzé Enos Orbita a Terra",
+        "description": "Enos, um chimpanzé, foi lançado ao espaço pelos EUA a bordo da missão Mercury-Atlas 5, orbitando a Terra duas vezes e demonstrando a viabilidade de organismos vivos no espaço.",
+        "year": "1961"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional de Solidariedade com o Povo Palestino",
+      "teaser": "Este dia é observado anualmente para comemorar o voto da Assembleia Geral das Nações Unidas de 1947, que aprovou a partição da Palestina."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Sadurní de Tolosa",
+        "type": "Bisbe, Màrtir",
+        "description": "Nascut a Grècia, Sant Sadurní es va fer sacerdot i missioner, enviat pel Papa Fabià a la Gàl·lia. Va ser el primer Bisbe de Tolosa i va ser martiritzat al voltant de l'any 257 dC en ser lligat a un toro i arrossegat fins a la mort."
+      },
+      {
+        "name": "Sant Filomen d'Ancira",
+        "type": "Màrtir",
+        "description": "Sant Filomen era un comerciant de pa que va patir per la seva fe cristiana durant la persecució sota l'emperador Aurelià l'any 274 dC. Va ser clavat a una estaca per les mans, els peus i el cap."
+      },
+      {
+        "name": "Sant Abib de Nekresi",
+        "type": "Hieromàrtir, Bisbe",
+        "description": "Sant Abib va ser un dels Tretze Pares Sirians que van arribar a Geòrgia al segle VI. Es va convertir en Bisbe de Nekresi i va convertir molts, incloses les tribus de muntanya, al cristianisme."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de Solidaritat amb el Poble Palestí",
+        "description": "Aquest dia s'observa anualment per commemorar el vot de l'Assemblea General de les Nacions Unides de 1947 que va aprovar la partició de Palestina."
+      },
+      {
+        "name": "Diumenge d'Advent",
+        "description": "Marcant l'inici del temps d'Advent, aquest dia s'observa com el quart diumenge abans del dia de Nadal, començant el compte enrere per Nadal."
+      },
+      {
+        "name": "Dia Nacional de les Xocolates",
+        "description": "Un dia dedicat a celebrar les xocolates, animant la gent a gaudir d'aquesta popular delícia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“Conec gent que creu en fantasmes però no creu en si mateixa.”",
+      "author": "C.S. Lewis",
+      "context": "C.S. Lewis, el reconegut escriptor i acadèmic britànic, va néixer el 29 de novembre de 1898."
+    },
+    "motivationalQuote": {
+      "text": "Si sempre intentes ser normal, mai sabràs com d'increïble pots arribar a ser.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "C.S. Lewis",
+        "description": "Un escriptor, acadèmic i teòleg anglicà britànic nascut a Irlanda, famós per les seves obres de fantasia, incloses 'Les Cròniques de Nàrnia'.",
+        "year": "1898"
+      },
+      {
+        "name": "Louisa May Alcott",
+        "description": "Una novel·lista nord-americana més coneguda com l'autora de la novel·la 'Donetes' i les seves seqüeles 'Homelets' i 'Els nois de Jo'.",
+        "year": "1832"
+      },
+      {
+        "name": "Christian Doppler",
+        "description": "Un físic i matemàtic austríac que va descobrir l'efecte Doppler, que descriu el canvi en la freqüència o longitud d'ona d'una ona en relació amb un observador.",
+        "year": "1803"
+      }
+    ],
+    "events": [
+      {
+        "title": "Thomas Edison demostra el fonògraf",
+        "description": "Thomas Edison va demostrar públicament el seu fonògraf per primera vegada, marcant una fita important en la tecnologia de gravació de so.",
+        "year": "1877"
+      },
+      {
+        "title": "Primer vol sobre el Pol Sud",
+        "description": "L'Almirall nord-americà Richard E. Byrd va liderar la primera expedició a volar amb èxit sobre el Pol Sud, una fita en l'exploració polar.",
+        "year": "1929"
+      },
+      {
+        "title": "El ximpanzé Enos orbita la Terra",
+        "description": "Enos, un ximpanzé, va ser llançat a l'espai pels EUA a bord de la missió Mercury-Atlas 5, orbitant la Terra dues vegades i demostrant la viabilitat dels organismes vius a l'espai.",
+        "year": "1961"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de Solidaritat amb el Poble Palestí",
+      "teaser": "Aquest dia s'observa anualment per commemorar el vot de l'Assemblea General de les Nacions Unides de 1947 que va aprovar la partició de Palestina."
+    }
+  }
+}
