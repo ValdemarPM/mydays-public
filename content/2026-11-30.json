@@ -1,0 +1,339 @@
+{
+  "date": "2026-11-30",
+  "es": {
+    "saints": [
+      {
+        "name": "San Andrés Apóstol",
+        "type": "Apóstol, Mártir",
+        "description": "Uno de los Doce Apóstoles de Jesús, Andrés es el santo patrón de Escocia, Rusia y Grecia. Fue martirizado por crucifixión en Patras, Acaya."
+      },
+      {
+        "name": "San Gregorio de Tours",
+        "type": "Obispo, Historiador",
+        "description": "Un historiador galorromano y Obispo de Tours, los escritos de Gregorio son una fuente principal para la historia merovingia temprana. Es conmemorado en este día en algunos calendarios."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de San Andrés",
+        "description": "Día nacional oficial de Escocia y día festivo cristiano que conmemora a San Andrés, el santo patrón de Escocia."
+      },
+      {
+        "name": "Día de Bonifacio",
+        "description": "Un día festivo nacional en Filipinas, que conmemora el nacimiento de Andrés Bonifacio, un héroe revolucionario."
+      },
+      {
+        "name": "Día de la Independencia (Barbados)",
+        "description": "Celebra la independencia de Barbados del Reino Unido en 1966."
+      },
+      {
+        "name": "Día de Conmemoración de Todas las Víctimas de la Guerra Química",
+        "description": "Una conmemoración internacional designada por las Naciones Unidas para rendir homenaje a las víctimas de la guerra química."
+      },
+      {
+        "name": "Cyber Monday",
+        "description": "Un día de compras en línea que cae el lunes después del Día de Acción de Gracias, ofreciendo importantes ofertas a los consumidores."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el coraje para continuar.",
+      "author": "Winston Churchill",
+      "context": "Winston Churchill, un estadista británico y ex Primer Ministro del Reino Unido, nació el 30 de noviembre de 1874."
+    },
+    "motivationalQuote": {
+      "text": "Un barco en el puerto está seguro, pero no es para eso para lo que se construyen los barcos.",
+      "author": "John A. Shedd"
+    },
+    "births": [
+      {
+        "name": "Mark Twain",
+        "description": "Un escritor, humorista, empresario, editor y conferenciante estadounidense, más conocido por sus novelas 'Las aventuras de Tom Sawyer' y 'Las aventuras de Huckleberry Finn'.",
+        "year": "1835"
+      },
+      {
+        "name": "Shirley Chisholm",
+        "description": "Una política, educadora y autora estadounidense que, en 1968, se convirtió en la primera mujer afroamericana elegida para el Congreso de los Estados Unidos.",
+        "year": "1924"
+      },
+      {
+        "name": "Ben Stiller",
+        "description": "Un actor, comediante y cineasta estadounidense conocido por sus papeles en numerosas películas cómicas y por dirigir varias películas.",
+        "year": "1965"
+      }
+    ],
+    "events": [
+      {
+        "title": "Artículos Preliminares de Paz Firmados",
+        "description": "Estados Unidos y Gran Bretaña firmaron artículos de paz preliminares en París, poniendo fin efectivamente a la Guerra de Independencia de los Estados Unidos.",
+        "year": "1782"
+      },
+      {
+        "title": "Galileo Observa la Luna con Telescopio",
+        "description": "Galileo Galilei utilizó su telescopio recién inventado por primera vez para observar y estudiar la Luna, realizando dibujos detallados de su superficie.",
+        "year": "1609"
+      },
+      {
+        "title": "Lanzamiento del Álbum 'Thriller' de Michael Jackson",
+        "description": "El icónico álbum de Michael Jackson 'Thriller', que se convertiría en el álbum más vendido de todos los tiempos, fue lanzado a nivel mundial.",
+        "year": "1982"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día de San Andrés",
+      "teaser": "Día nacional oficial de Escocia y día festivo cristiano que conmemora a San Andrés, el santo patrón de Escocia."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Andrew the Apostle",
+        "type": "Apostle, Martyr",
+        "description": "One of the Twelve Apostles of Jesus, Andrew is the patron saint of Scotland, Russia, and Greece. He was martyred by crucifixion in Patras, Achaea."
+      },
+      {
+        "name": "Saint Gregory of Tours",
+        "type": "Bishop, Historian",
+        "description": "A Gallo-Roman historian and Bishop of Tours, Gregory's writings are a principal source for early Merovingian history. He is commemorated on this day in some calendars."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Saint Andrew's Day",
+        "description": "Scotland's official national day and a Christian feast day commemorating Saint Andrew, the patron saint of Scotland."
+      },
+      {
+        "name": "Bonifacio Day",
+        "description": "A national public holiday in the Philippines, commemorating the birth of Andrés Bonifacio, a revolutionary hero."
+      },
+      {
+        "name": "Independence Day (Barbados)",
+        "description": "Celebrates the independence of Barbados from the United Kingdom in 1966."
+      },
+      {
+        "name": "Day of Remembrance for All Victims of Chemical Warfare",
+        "description": "An international observance designated by the United Nations to pay tribute to the victims of chemical warfare."
+      },
+      {
+        "name": "Cyber Monday",
+        "description": "An online shopping day that falls on the Monday after Thanksgiving, offering significant deals to consumers."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "context": "Winston Churchill, a British statesman and former Prime Minister of the United Kingdom, was born on November 30, 1874."
+    },
+    "motivationalQuote": {
+      "text": "A ship in harbor is safe, but that is not what ships are built for.",
+      "author": "John A. Shedd"
+    },
+    "births": [
+      {
+        "name": "Mark Twain",
+        "description": "An American writer, humorist, entrepreneur, publisher, and lecturer, best known for his novels 'The Adventures of Tom Sawyer' and 'Adventures of Huckleberry Finn'.",
+        "year": "1835"
+      },
+      {
+        "name": "Shirley Chisholm",
+        "description": "An American politician, educator, and author who, in 1968, became the first African American woman elected to the United States Congress.",
+        "year": "1924"
+      },
+      {
+        "name": "Ben Stiller",
+        "description": "An American actor, comedian, and filmmaker known for his roles in numerous comedic films and for directing several movies.",
+        "year": "1965"
+      }
+    ],
+    "events": [
+      {
+        "title": "Preliminary Articles of Peace Signed",
+        "description": "The United States and Great Britain signed preliminary peace articles in Paris, effectively ending the American Revolutionary War.",
+        "year": "1782"
+      },
+      {
+        "title": "Galileo Observes the Moon with Telescope",
+        "description": "Galileo Galilei used his newly invented telescope for the first time to observe and study the Moon, making detailed drawings of its surface.",
+        "year": "1609"
+      },
+      {
+        "title": "Michael Jackson's 'Thriller' Album Released",
+        "description": "Michael Jackson's iconic album 'Thriller', which would go on to become the best-selling album of all time, was released worldwide.",
+        "year": "1982"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Saint Andrew's Day",
+      "teaser": "Scotland's official national day and a Christian feast day commemorating Saint Andrew, the patron saint of Scotland."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo André Apóstolo",
+        "type": "Apóstolo, Mártir",
+        "description": "Um dos Doze Apóstolos de Jesus, André é o santo padroeiro da Escócia, Rússia e Grécia. Foi martirizado por crucificação em Patras, Acaia."
+      },
+      {
+        "name": "São Gregório de Tours",
+        "type": "Bispo, Historiador",
+        "description": "Um historiador galo-romano e Bispo de Tours, os escritos de Gregório são uma fonte principal para a história merovíngia inicial. Ele é comemorado neste dia em alguns calendários."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Santo André",
+        "description": "Dia nacional oficial da Escócia e dia festivo cristão que comemora Santo André, o santo padroeiro da Escócia."
+      },
+      {
+        "name": "Dia de Bonifacio",
+        "description": "Um feriado público nacional nas Filipinas, que comemora o nascimento de Andrés Bonifacio, um herói revolucionário."
+      },
+      {
+        "name": "Dia da Independência (Barbados)",
+        "description": "Celebra a independência de Barbados do Reino Unido em 1966."
+      },
+      {
+        "name": "Dia de Recordação de Todas as Vítimas da Guerra Química",
+        "description": "Uma observância internacional designada pelas Nações Unidas para prestar homenagem às vítimas da guerra química."
+      },
+      {
+        "name": "Cyber Monday",
+        "description": "Um dia de compras online que cai na segunda-feira após o Dia de Ação de Graças, oferecendo ofertas significativas aos consumidores."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O sucesso não é definitivo, o fracasso não é fatal: é a coragem de continuar que conta.",
+      "author": "Winston Churchill",
+      "context": "Winston Churchill, um estadista britânico e ex-Primeiro-Ministro do Reino Unido, nasceu em 30 de novembro de 1874."
+    },
+    "motivationalQuote": {
+      "text": "Um navio no porto está seguro, mas não é para isso que os navios são construídos.",
+      "author": "John A. Shedd"
+    },
+    "births": [
+      {
+        "name": "Mark Twain",
+        "description": "Um escritor, humorista, empresário, editor e conferencista americano, mais conhecido por seus romances 'As Aventuras de Tom Sawyer' e 'As Aventuras de Huckleberry Finn'.",
+        "year": "1835"
+      },
+      {
+        "name": "Shirley Chisholm",
+        "description": "Uma política, educadora e autora americana que, em 1968, se tornou a primeira mulher afro-americana eleita para o Congresso dos Estados Unidos.",
+        "year": "1924"
+      },
+      {
+        "name": "Ben Stiller",
+        "description": "Um ator, comediante e cineasta americano conhecido por seus papéis em numerosos filmes cômicos e por dirigir vários filmes.",
+        "year": "1965"
+      }
+    ],
+    "events": [
+      {
+        "title": "Artigos Preliminares de Paz Assinados",
+        "description": "Os Estados Unidos e a Grã-Bretanha assinaram artigos de paz preliminares em Paris, efetivamente encerrando a Guerra Revolucionária Americana.",
+        "year": "1782"
+      },
+      {
+        "title": "Galileu Observa a Lua com Telescópio",
+        "description": "Galileu Galilei usou seu telescópio recém-inventado pela primeira vez para observar e estudar a Lua, fazendo desenhos detalhados de sua superfície.",
+        "year": "1609"
+      },
+      {
+        "title": "Lançamento do Álbum 'Thriller' de Michael Jackson",
+        "description": "O icônico álbum de Michael Jackson 'Thriller', que se tornaria o álbum mais vendido de todos os tempos, foi lançado mundialmente.",
+        "year": "1982"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia de Santo André",
+      "teaser": "Dia nacional oficial da Escócia e dia festivo cristão que comemora Santo André, o santo padroeiro da Escócia."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Andreu Apòstol",
+        "type": "Apòstol, Màrtir",
+        "description": "Un dels Dotze Apòstols de Jesús, Andreu és el patró d'Escòcia, Rússia i Grècia. Va ser martiritzat per crucifixió a Patres, Acaia."
+      },
+      {
+        "name": "Sant Gregori de Tours",
+        "type": "Bisbe, Historiador",
+        "description": "Historiador gal·loromà i Bisbe de Tours, els escrits de Gregori són una font principal per a la història merovíngia primerenca. És commemorat aquest dia en alguns calendaris."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Sant Andreu",
+        "description": "Dia nacional oficial d'Escòcia i festa cristiana que commemora Sant Andreu, el patró d'Escòcia."
+      },
+      {
+        "name": "Dia de Bonifacio",
+        "description": "Festa nacional a les Filipines, que commemora el naixement d'Andrés Bonifacio, un heroi revolucionari."
+      },
+      {
+        "name": "Dia de la Independència (Barbados)",
+        "description": "Commemora la independència de Barbados del Regne Unit el 1966."
+      },
+      {
+        "name": "Dia de la Memòria de Totes les Víctimes de la Guerra Química",
+        "description": "Una commemoració internacional designada per les Nacions Unides per retre homenatge a les víctimes de la guerra química."
+      },
+      {
+        "name": "Cyber Monday",
+        "description": "Un dia de compres en línia que cau el dilluns després d'Acció de Gràcies, oferint ofertes significatives als consumidors."
+      }
+    ],
+    "historicalQuote": {
+      "text": "L'èxit no és definitiu, el fracàs no és fatal: és el coratge de continuar el que compta.",
+      "author": "Winston Churchill",
+      "context": "Winston Churchill, estadista britànic i antic Primer Ministre del Regne Unit, va néixer el 30 de novembre de 1874."
+    },
+    "motivationalQuote": {
+      "text": "Un vaixell al port està segur, però no és per a això que es construeixen els vaixells.",
+      "author": "John A. Shedd"
+    },
+    "births": [
+      {
+        "name": "Mark Twain",
+        "description": "Escriptor, humorista, empresari, editor i conferenciant nord-americà, més conegut per les seves novel·les 'Les aventures de Tom Sawyer' i 'Les aventures de Huckleberry Finn'.",
+        "year": "1835"
+      },
+      {
+        "name": "Shirley Chisholm",
+        "description": "Política, educadora i autora nord-americana que, el 1968, es va convertir en la primera dona afroamericana elegida al Congrés dels Estats Units.",
+        "year": "1924"
+      },
+      {
+        "name": "Ben Stiller",
+        "description": "Actor, comediant i cineasta nord-americà conegut pels seus papers en nombroses pel·lícules de comèdia i per dirigir diverses pel·lícules.",
+        "year": "1965"
+      }
+    ],
+    "events": [
+      {
+        "title": "Articles Preliminars de Pau Signats",
+        "description": "Els Estats Units i Gran Bretanya van signar articles preliminars de pau a París, posant fi efectivament a la Guerra Revolucionària Americana.",
+        "year": "1782"
+      },
+      {
+        "title": "Galileu Observa la Lluna amb Telescopi",
+        "description": "Galileo Galilei va utilitzar el seu telescopi recentment inventat per primera vegada per observar i estudiar la Lluna, fent dibuixos detallats de la seva superfície.",
+        "year": "1609"
+      },
+      {
+        "title": "Llançament de l'àlbum 'Thriller' de Michael Jackson",
+        "description": "L'icònic àlbum 'Thriller' de Michael Jackson, que es convertiria en l'àlbum més venut de tots els temps, va ser llançat a tot el món.",
+        "year": "1982"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia de Sant Andreu",
+      "teaser": "Dia nacional oficial d'Escòcia i festa cristiana que commemora Sant Andreu, el patró d'Escòcia."
+    }
+  }
+}
